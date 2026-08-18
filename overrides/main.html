@@ -59,10 +59,10 @@
   "dateModified": page.meta.get("date_modified", "") | string,
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isBasedOn": page.meta.get("is_based_on", "") | string,
-  "image": (config.site_url ~ page.meta.get("image", "assets/manual-card.png")) | string,
   "proficiencyLevel": "Expert",
   "dependencies": "None. This page requires no login, no form and no JavaScript."
 } %}
+{% if page.meta.get("image") %}{% set article = dict(article, **{"image": (config.site_url ~ page.meta.get("image")) | string}) %}{% endif %}
 <script type="application/ld+json">{{ article | tojson }}</script>
 {% endif %}
 {% endblock %}
