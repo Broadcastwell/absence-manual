@@ -62,7 +62,7 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 | 9 | [Getting named at the category door](category-door.md) | Published |
 | 10 | [Getting quoted at the comparison gate](comparison-gate.md) | Published |
 | 11 | [How long this actually takes](how-long-it-takes.md) | Published |
-| 12 | How to buy GEO without getting sold a number | Forthcoming |
+| 12 | [How to buy GEO without getting sold a number](how-to-buy-geo.md) | Published |
 
 ## Appendices
 
