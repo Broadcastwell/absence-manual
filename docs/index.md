@@ -76,6 +76,10 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 
 Every chapter and appendix is published. A slug published once is permanent: version numbers change, URLs never do. See the [changelog](https://github.com/Broadcastwell/absence-manual/blob/main/CHANGELOG.md).
 
+## The whole manual as one PDF
+
+[Download the complete manual as a PDF](https://docs.broadcastwell.com/absence-manual.pdf). Every chapter, every appendix, the source table with its DOIs and both dated self-audit lines, in one file. It is generated from this same source in the same build, so the PDF and the pages cannot drift apart. There is no form, no email field and no login: the link downloads the file. That address always serves the current version, and the versioned filename is preserved alongside it.
+
 ## For marketing leaders
 
 If you are not going to read a technical manual, start with [what AI search is doing to your category](for-buyers.md). Plain language, no jargon, one page.
