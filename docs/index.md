@@ -70,7 +70,7 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 |-|-|-|
 | A | [The ten-question buyer bank](question-bank.md) | Published |
 | B | [Absence classification rules and precedence](absence-rules.md) | Published |
-| C | Scoring and matching specification | Forthcoming |
+| C | [Scoring and matching specification](scoring-spec.md) | Published |
 | D | Glossary | Forthcoming |
 | E | References and self-audit disclosure | Forthcoming |
 
