@@ -55,7 +55,7 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 | 2 | [The Absence Ladder](absence-ladder.md) | Published |
 | 3 | [Cited is not recommended](cited-not-recommended.md) | Published |
 | 4 | [Who the engines actually cite](who-gets-cited.md) | Published |
-| 5 | One engine is not four | Forthcoming |
+| 5 | [One engine is not four](engine-divergence.md) | Published |
 | 6 | [Your score is noisier than your vendor admits](measurement-noise.md) | Published |
 | 7 | The AI Overview does not always appear | Forthcoming |
 | 8 | What a valid measurement requires | Forthcoming |
