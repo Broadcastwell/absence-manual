@@ -72,7 +72,7 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 | B | [Absence classification rules and precedence](absence-rules.md) | Published |
 | C | [Scoring and matching specification](scoring-spec.md) | Published |
 | D | [Glossary](glossary.md) | Published |
-| E | References and self-audit disclosure | Forthcoming |
+| E | [References and self-audit disclosure](references.md) | Published |
 
 Chapters marked forthcoming have no URL yet. A slug published once is permanent: version numbers change, URLs never do. See the [changelog](https://github.com/Broadcastwell/absence-manual/blob/main/CHANGELOG.md).
 
