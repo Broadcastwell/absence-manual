@@ -69,7 +69,7 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 | No. | Appendix | Status |
 |-|-|-|
 | A | [The ten-question buyer bank](question-bank.md) | Published |
-| B | Absence classification rules and precedence | Forthcoming |
+| B | [Absence classification rules and precedence](absence-rules.md) | Published |
 | C | Scoring and matching specification | Forthcoming |
 | D | Glossary | Forthcoming |
 | E | References and self-audit disclosure | Forthcoming |
