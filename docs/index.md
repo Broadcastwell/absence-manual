@@ -54,7 +54,7 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 | 1 | [One in three vendors is never named](named-zero-times.md) | Published |
 | 2 | [The Absence Ladder](absence-ladder.md) | Published |
 | 3 | [Cited is not recommended](cited-not-recommended.md) | Published |
-| 4 | Who the engines actually cite | Forthcoming |
+| 4 | [Who the engines actually cite](who-gets-cited.md) | Published |
 | 5 | One engine is not four | Forthcoming |
 | 6 | [Your score is noisier than your vendor admits](measurement-noise.md) | Published |
 | 7 | The AI Overview does not always appear | Forthcoming |
