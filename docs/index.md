@@ -58,7 +58,7 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 | 5 | [One engine is not four](engine-divergence.md) | Published |
 | 6 | [Your score is noisier than your vendor admits](measurement-noise.md) | Published |
 | 7 | [The AI Overview does not always appear](overview-trigger-rate.md) | Published |
-| 8 | What a valid measurement requires | Forthcoming |
+| 8 | [What a valid measurement requires](valid-measurement.md) | Published |
 | 9 | Getting named at the category door | Forthcoming |
 | 10 | Getting quoted at the comparison gate | Forthcoming |
 | 11 | How long this actually takes | Forthcoming |

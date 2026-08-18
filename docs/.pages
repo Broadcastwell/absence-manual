@@ -8,4 +8,5 @@ nav:
   - engine-divergence.md
   - measurement-noise.md
   - overview-trigger-rate.md
+  - valid-measurement.md
   - posts
