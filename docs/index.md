@@ -50,7 +50,7 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 
 | No. | Chapter | Status |
 |-|-|-|
-| 0 | Selection, not ranking | Forthcoming |
+| 0 | [Selection, not ranking](selection-not-ranking.md) | Published |
 | 1 | One in three vendors is never named | Forthcoming |
 | 2 | [The Absence Ladder](absence-ladder.md) | Published |
 | 3 | Cited is not recommended | Forthcoming |
