@@ -70,8 +70,20 @@ cname = SITE / "CNAME"
 if not cname.exists() or cname.read_text(encoding="utf8").strip() != "docs.broadcastwell.com":
     fail("CNAME missing or wrong in the built site root")
 
+SKIP_PAGES = {"404.html"}
+
+
+def is_ownership_proof(rel):
+    """Search engine ownership proof files are one line of plain text served
+    with an .html extension. They are not pages and are exempt from the page
+    checks below."""
+    return re.fullmatch(r"google[0-9a-f]+\.html", rel) is not None
+
+
 for path, html in html_pages():
     rel = path.relative_to(SITE).as_posix()
+    if is_ownership_proof(rel):
+        continue
 
     for form in re.findall(r"(?is)<form\b[^>]*>", html):
         if re.search(r"(?is)\baction=", form):
@@ -81,11 +93,11 @@ for path, html in html_pages():
     if re.search(r"(?is)<input\b[^>]*(name|id)=[\"']?(email|newsletter|subscribe)", html):
         fail("%s contains a subscription input" % rel)
 
-    if rel != "404.html" and 'rel="canonical"' not in html:
+    if rel not in SKIP_PAGES and 'rel="canonical"' not in html:
         fail("%s has no canonical link tag" % rel)
 
     heads = re.findall(r"(?is)<h1\b", html)
-    if rel != "404.html" and len(heads) != 1:
+    if rel not in SKIP_PAGES and len(heads) != 1:
         fail("%s has %d h1 elements, expected exactly 1" % (rel, len(heads)))
 
     for img in re.findall(r"(?is)<img\b[^>]*>", html):
