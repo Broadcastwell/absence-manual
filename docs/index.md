@@ -76,6 +76,10 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 
 Chapters marked forthcoming have no URL yet. A slug published once is permanent: version numbers change, URLs never do. See the [changelog](https://github.com/Broadcastwell/absence-manual/blob/main/CHANGELOG.md).
 
+## For marketing leaders
+
+If you are not going to read a technical manual, start with [what AI search is doing to your category](for-buyers.md). Plain language, four numbers, one page.
+
 ## Notes
 
 Short standalone pieces cut from the chapters, each linking back to its parent.
