@@ -92,6 +92,10 @@ def main():
     )
     version = str(cfg["extra"]["manual_version"])
     version_label = str(cfg["extra"]["manual_version_label"])
+    # The versioned filename carries the version's release date, not the date of
+    # this build, so rebuilding does not orphan the file anyone already linked to.
+    # A new dated filename appears only when the version itself changes.
+    release_date = str(cfg["extra"]["manual_version_date"])
     build_date = datetime.date.today().isoformat()
 
     md = markdown.Markdown(
@@ -149,7 +153,7 @@ def main():
     )
 
     SITE.mkdir(exist_ok=True)
-    versioned = SITE / f"absence-manual-v{version}-{build_date}.pdf"
+    versioned = SITE / f"absence-manual-v{version}-{release_date}.pdf"
     stable = SITE / "absence-manual.pdf"
     HTML(string=doc, base_url=str(ROOT)).write_pdf(versioned)
     stable.write_bytes(versioned.read_bytes())

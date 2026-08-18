@@ -12,6 +12,7 @@ Every class carries every other check.
 
 import json
 import pathlib
+import subprocess
 import re
 import sys
 
@@ -120,6 +121,34 @@ if not (DOCS / OWNERSHIP_PROOF).exists():
     fail("the search engine ownership proof %s is missing from docs" % OWNERSHIP_PROOF)
 if not (SITE / OWNERSHIP_PROOF).exists():
     fail("the search engine ownership proof %s did not reach the built site" % OWNERSHIP_PROOF)
+
+
+# ---------- the ungated PDF mirror ----------
+
+STABLE_PDF = SITE / "absence-manual.pdf"
+if not STABLE_PDF.exists():
+    fail("the PDF mirror absence-manual.pdf is missing from the built site")
+else:
+    versioned = sorted(SITE.glob("absence-manual-v*.pdf"))
+    if not versioned:
+        fail("no versioned PDF alongside the stable absence-manual.pdf")
+    if STABLE_PDF.stat().st_size < 200_000:
+        fail("the PDF mirror is smaller than the manual can possibly be")
+    newest_source = 0
+    try:
+        newest_source = int(
+            subprocess.check_output(
+                ["git", "log", "-1", "--format=%ct", "--", "docs"],
+                cwd=str(ROOT), stderr=subprocess.DEVNULL,
+            ).decode().strip() or 0
+        )
+    except Exception:
+        newest_source = 0
+    if newest_source and STABLE_PDF.stat().st_mtime < newest_source:
+        fail(
+            "the PDF mirror is older than the newest commit touching docs, so it has drifted "
+            "from the HTML. Run tools/build_pdf.py after mkdocs build."
+        )
 
 
 # ---------- page manifest from front matter ----------
