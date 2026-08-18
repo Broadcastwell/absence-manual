@@ -49,10 +49,5 @@ markdown_extensions:
 
 plugins:
   - search
+  - awesome-pages
 
-nav:
-  - The Absence Manual: index.md
-  - Chapter 2. The Absence Ladder: absence-ladder.md
-  - Chapter 6. Your Score Is Noisier Than Your Vendor Admits: measurement-noise.md
-  - Note. Same score, different problem: posts/same-score-different-problem.md
-  - Note. Half its own shortlist: posts/half-its-own-shortlist.md
