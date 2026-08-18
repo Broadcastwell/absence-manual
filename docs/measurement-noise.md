@@ -2,9 +2,10 @@
 title: "Chapter 6. Your Score Is Noisier Than Your Vendor Admits"
 headline: "Your score is noisier than your vendor admits: what an engine's run-to-run variance does to a single-run visibility number"
 description: "Asked the identical question three times, Google AI Overviews agreed with its own shortlist at 0.499 and Claude at 0.442 across 62 and 74 repeat pairs. Any cross-engine divergence headline that is not read against that noise floor is uninterpretable."
+page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18"
-date_modified: "2026-08-18"
+date_published: "2026-08-18T00:00:00+00:00"
+date_modified: "2026-08-18T00:00:00+00:00"
 image: "figures/within-vs-between.png"
 is_based_on: "https://doi.org/10.5281/zenodo.21789120"
 ---
@@ -117,7 +118,7 @@ A defensible visibility measurement names its engine, states its collection wind
 
 It does not claim that engines are unreliable in a way that makes measurement pointless. Variance is not noise-in-the-pejorative-sense, it is a property of the system that can be quantified and reported, and this chapter quantifies it. It also does not claim that the two engines with no repeat data behave like the two that have it. ChatGPT and Perplexity contributed zero repeat pairs. Nothing here licenses a statement about their run-to-run stability in either direction.
 
-## Limitation: a single four-hour snapshot
+## Limitation: a single collection window
 
 Everything here was collected between 05:28 and 16:29 UTC on 2026-08-04. These are products under continuous change. The numbers are a measurement of that window and should not be read as stable constants. A repeat of this study in three months could return materially different agreement figures without anything being wrong with either measurement, which is itself part of the argument the chapter is making.
 

@@ -3,8 +3,9 @@ title: "The Absence Manual"
 headline: "The Absence Manual: a technical manual on AI search visibility for B2B software"
 description: "A free, ungated technical manual on measuring and fixing AI search visibility, built entirely from three published open datasets with DOIs. One chapter per URL. No form, no login, no paywall."
 schema_type: TechArticle
-date_published: "2026-08-18"
-date_modified: "2026-08-18"
+page_class: page
+date_published: "2026-08-18T00:00:00+00:00"
+date_modified: "2026-08-18T00:00:00+00:00"
 image: "figures/absence-ladder.png"
 is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
 ---
@@ -29,6 +30,18 @@ The Absence Manual is a technical manual on AI search visibility for B2B softwar
 
 All three are CC BY 4.0, with their data and analysis code at [github.com/Broadcastwell/state-of-geo-2026](https://github.com/Broadcastwell/state-of-geo-2026).
 
+## How to read the evidence labels
+
+Every substantive claim in this manual carries one of three labels, so you always know what kind of thing you are being told. This is the manual's central discipline and it is applied without exception.
+
+**Measured.** The claim comes from one of the three volumes, and the volume is named in the same sentence or the label. You can recompute it from the published data.
+
+**Reported.** The claim comes from a source outside this research programme, cited with its publisher and date. You should check it at the source.
+
+**Reasoned.** The claim is an inference drawn from the measured or reported material above it. It is argument, not measurement, and it is marked so you can disagree with the reasoning without disputing the data.
+
+A claim with no label is a defect. If you find one, it is a mistake and it will be corrected.
+
 ## How to read it
 
 Every chapter has its own permanent URL and stands alone. Statistics carry their sample size in the sentence that states them. Limitations are stated in the body of the argument rather than collected at the end where they can be skipped. Where the evidence is strong the claim is unhedged, and where it is thin the chapter says so and names the base it rests on. Where a number is missing or two published sources disagree, the manual flags the gap rather than filling it with a plausible value.
@@ -37,28 +50,29 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 
 | No. | Chapter | Status |
 |-|-|-|
-| 1 | What an AI answer is made of | Forthcoming |
+| 0 | Selection, not ranking | Forthcoming |
+| 1 | One in three vendors is never named | Forthcoming |
 | 2 | [The Absence Ladder](absence-ladder.md) | Published |
-| 3 | The category door: entity presence and third-party sources | Forthcoming |
-| 4 | The comparison gate: content a model can quote against a named rival | Forthcoming |
-| 5 | Being cited is not being recommended | Forthcoming |
+| 3 | Cited is not recommended | Forthcoming |
+| 4 | Who the engines actually cite | Forthcoming |
+| 5 | One engine is not four | Forthcoming |
 | 6 | [Your score is noisier than your vendor admits](measurement-noise.md) | Published |
-| 7 | Four engines, four answers: what generalises and what does not | Forthcoming |
-| 8 | The evidence layer: which domains AI answers actually cite | Forthcoming |
-| 9 | Question shape and why your score depends on it | Forthcoming |
-| 10 | Trigger rate: the answer that never appears | Forthcoming |
-| 11 | What the evidence does not support doing | Forthcoming |
-| 12 | Questions to ask anyone selling you a visibility score | Forthcoming |
+| 7 | The AI Overview does not always appear | Forthcoming |
+| 8 | What a valid measurement requires | Forthcoming |
+| 9 | Getting named at the category door | Forthcoming |
+| 10 | Getting quoted at the comparison gate | Forthcoming |
+| 11 | How long this actually takes | Forthcoming |
+| 12 | How to buy GEO without getting sold a number | Forthcoming |
 
 ## Appendices
 
 | No. | Appendix | Status |
 |-|-|-|
-| A | The question shape rules and their precedence | Forthcoming |
-| B | Brand matching and domain matching rules | Forthcoming |
-| C | The vendor extraction prompt | Forthcoming |
-| D | Glossary of terms used across the three volumes | Forthcoming |
-| E | Reproduction guide: recomputing every figure from the public data | Forthcoming |
+| A | The ten-question buyer bank | Forthcoming |
+| B | Absence classification rules and precedence | Forthcoming |
+| C | Scoring and matching specification | Forthcoming |
+| D | Glossary | Forthcoming |
+| E | References and self-audit disclosure | Forthcoming |
 
 Chapters marked forthcoming have no URL yet. A slug published once is permanent: version numbers change, URLs never do. See the [changelog](https://github.com/Broadcastwell/absence-manual/blob/main/CHANGELOG.md).
 

@@ -2,9 +2,10 @@
 title: "Chapter 2. The Absence Ladder"
 headline: "The Absence Ladder: how the shape of a company's AI invisibility changes as its visibility rises"
 description: "Across 616 absence records from 85 B2B software companies, what a company loses to AI answers changes shape as its visibility rises. Companies named zero times lose category-level questions. Companies named seven or more times lose almost nothing except head-to-head comparisons."
+page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18"
-date_modified: "2026-08-18"
+date_published: "2026-08-18T00:00:00+00:00"
+date_modified: "2026-08-18T00:00:00+00:00"
 image: "figures/absence-ladder.png"
 is_based_on: "https://doi.org/10.5281/zenodo.21586091"
 ---
