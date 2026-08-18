@@ -5,3 +5,5 @@ pymdown-extensions==10.14
 Markdown==3.7
 Jinja2==3.1.5
 mkdocs-awesome-pages-plugin==2.9.3
+weasyprint==63.1
+PyYAML==6.0.2
