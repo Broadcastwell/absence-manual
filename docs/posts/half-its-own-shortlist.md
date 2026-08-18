@@ -2,9 +2,10 @@
 title: "Half its own shortlist"
 headline: "Half its own shortlist: an AI engine asked the same question twice agrees with itself about half the time"
 description: "Across 62 and 74 repeat pairs on a 25-question subsample, Google AI Overviews agreed with its own vendor shortlist at 0.499 and Claude at 0.442 when asked the identical question again. Every single-run visibility score carries that variance and cannot show it."
+page_class: note
 schema_type: TechArticle
-date_published: "2026-08-18"
-date_modified: "2026-08-18"
+date_published: "2026-08-18T00:00:00+00:00"
+date_modified: "2026-08-18T00:00:00+00:00"
 image: "figures/within-vs-between.png"
 is_based_on: "https://doi.org/10.5281/zenodo.21789120"
 ---

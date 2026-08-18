@@ -2,9 +2,10 @@
 title: "Same score, different problem"
 headline: "Same score, different problem: why two companies both scoring 2 of 10 in AI answers need opposite work"
 description: "Across 616 absence records from 85 B2B software companies, companies named in zero of ten AI answers lose category-level questions 55.3% of the time, while companies named in seven or more lose head-to-head comparisons 68.8% of the time. A single visibility percentage cannot tell you which you are."
+page_class: note
 schema_type: TechArticle
-date_published: "2026-08-18"
-date_modified: "2026-08-18"
+date_published: "2026-08-18T00:00:00+00:00"
+date_modified: "2026-08-18T00:00:00+00:00"
 image: "figures/absence-ladder.png"
 is_based_on: "https://doi.org/10.5281/zenodo.21586091"
 ---
