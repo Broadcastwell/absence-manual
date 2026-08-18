@@ -52,7 +52,7 @@ Reference material for Chapter 2 at [/absence-ladder/](https://docs.broadcastwel
 
 ## The stated limitation of the scheme
 
-**Measured, Volume II.** Question shapes were assigned by regular expression rather than by human annotation. Volume II states that a human annotator would classify some questions differently, particularly at the boundary between evaluation-criteria and use-case shapes. **Reasoned.** The trade is accuracy for reproducibility, and it is the right trade for a published dataset because the rules and the 616 classified questions are both published. Anyone who disagrees with a rule can reclassify the whole set and recompute the table rather than argue about individual calls.
+**Measured, Volume II.** Question shapes were assigned by regular expression, not human annotation, and Volume II publishes the rules and their precedence so anyone can reclassify and check. **Reasoned.** A human annotator would classify some questions differently, most plausibly at the boundary between the evaluation-criteria and use-case rules, which both key on how a question opens. **Reasoned.** The trade is accuracy for reproducibility, and it is the right trade for a published dataset because the rules and the 616 classified questions are both published. Anyone who disagrees with a rule can reclassify the whole set and recompute the table rather than argue about individual calls.
 
 ## How to apply this to your own absence list
 
@@ -80,7 +80,7 @@ The classification scheme, its precedence, the worked examples, the residual sha
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

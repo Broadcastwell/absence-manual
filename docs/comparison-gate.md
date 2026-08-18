@@ -29,7 +29,7 @@ By the end of this chapter you will know what the second gate tests, why it is t
 
 ## Why the top-tier figure needs its base attached
 
-**Measured, Volume II.** Nine companies scored 7 or above, but one scored 10 of 10 and produced no absence records at all, so the top tier rests on 8 companies and 16 records. **Reasoned.** 68.8% of 16 is 11 records. That is a small base and it is the most quotable number in the ladder, which is a bad combination. The reason to trust the direction anyway is the correlation that survives dropping the tier entirely, at n = 600. Quote the correlation when you need the finding to hold, and quote 68.8% only with its base beside it.
+**Measured, Volume II.** Nine companies scored 7 or above, but one scored 10 of 10 and produced no absence records at all, so the top tier rests on 8 companies and 16 records. **Reasoned.** A percentage quoted to one decimal place on a base of 16 records is a small base carrying the most quotable number in the ladder, which is a bad combination. The reason to trust the direction anyway is the correlation that survives dropping the tier entirely, at n = 600. Quote the correlation when you need the finding to hold, and quote 68.8% only with its base beside it.
 
 ## The comparison surface is the one that always exists
 
@@ -97,11 +97,11 @@ By the end of this chapter you will know what the second gate tests, why it is t
 
 ## What this means for your buying decision
 
-If comparison questions dominate your absence list, ask a supplier which named rivals the work will address and how many of the resulting claims will be checkable rather than adjectival. Ask what will exist off your own domain. Then ask how movement will be measured, and refuse an answer that involves a single run of a handful of questions. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) has the full list of questions to put to a vendor before signing.
+**Reasoned.** If comparison questions dominate your absence list, ask a supplier which named rivals the work will address and how many of the resulting claims will be checkable rather than adjectival. Ask what will exist off your own domain. Then ask how movement will be measured, and refuse an answer that involves a single run of a handful of questions. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) has the full list of questions to put to a vendor before signing.
 
 ## Where to go next
 
-Chapter 9 at [/category-door/](https://docs.broadcastwell.com/category-door/) is the first gate and the one to clear before this one. Chapter 11 at [/how-long-it-takes/](https://docs.broadcastwell.com/how-long-it-takes/) is honest about cadence and about how little the evidence says on elapsed time. Chapter 2 at [/absence-ladder/](https://docs.broadcastwell.com/absence-ladder/) is the measured basis for both gates.
+**Reasoned.** Chapter 9 at [/category-door/](https://docs.broadcastwell.com/category-door/) is the first gate and the one to clear before this one. Chapter 11 at [/how-long-it-takes/](https://docs.broadcastwell.com/how-long-it-takes/) is honest about cadence and about how little the evidence says on elapsed time. Chapter 2 at [/absence-ladder/](https://docs.broadcastwell.com/absence-ladder/) is the measured basis for both gates.
 
 ## Sources
 
@@ -125,7 +125,7 @@ The measured figures in this chapter come from The 2026 State of GEO, Volume II:
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

@@ -15,7 +15,7 @@ By the end of this chapter you will know why nobody, including this manual, can 
 
 ## The claim this chapter defends
 
-**Reasoned.** None of the three volumes behind this manual measures elapsed time to effect. No company in any of them was measured, changed and measured again. Every timeline statement in this chapter is therefore inference or external report and is labelled accordingly, and there is no measured number anywhere in it. **Reasoned.** What the data does constrain is different and more useful: it sets a floor on how quickly any change could be detected, and that floor is the binding limit long before biology, budget or effort become relevant.
+**Reasoned.** None of the three volumes behind this manual measures elapsed time to effect. No company in any of them was measured, changed and measured again. Every timeline statement in this chapter is therefore inference or external report and is labelled accordingly. The measured figures that do appear below are about measurement precision and about absence shape, never about elapsed time. **Reasoned.** What the data does constrain is different and more useful: it sets a floor on how quickly any change could be detected, and that floor is the binding limit long before biology, budget or effort become relevant.
 
 > **Operator disclosure.** Broadcastwell ran this measurement and sells services in the category it measures. Broadcastwell is excluded from the measured sample and from every ranking. The mitigation is not that the conflict is absent, it is that the raw data and the code are public and the result can be recomputed by anyone who disagrees.
 
@@ -97,11 +97,11 @@ By the end of this chapter you will know why nobody, including this manual, can 
 
 ## What this means for your buying decision
 
-Ask a supplier for the study behind any timeline they quote, and accept "we have not measured it" as a good answer if it comes with a measurement plan. Require repeat runs at every measurement and a fixed question set from the first day, because retrofitting either destroys the baseline. Ask for the absence shape breakdown at each measurement, not just the percentage. And treat any contract that promises a specific score by a specific date as a promise about an instrument nobody has calibrated. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) has the full list.
+**Reasoned.** Ask a supplier for the study behind any timeline they quote, and accept "we have not measured it" as a good answer if it comes with a measurement plan. Require repeat runs at every measurement and a fixed question set from the first day, because retrofitting either destroys the baseline. Ask for the absence shape breakdown at each measurement, not just the percentage. And treat any contract that promises a specific score by a specific date as a promise about an instrument nobody has calibrated. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) has the full list.
 
 ## Where to go next
 
-Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/) is the measured basis for the detection constraint that dominates this chapter. Chapter 8 at [/valid-measurement/](https://docs.broadcastwell.com/valid-measurement/) sets out what a measurement has to carry before a cadence built on it means anything. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) turns all of it into a purchase decision.
+**Reasoned.** Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/) is the measured basis for the detection constraint that dominates this chapter. Chapter 8 at [/valid-measurement/](https://docs.broadcastwell.com/valid-measurement/) sets out what a measurement has to carry before a cadence built on it means anything. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) turns all of it into a purchase decision.
 
 ## Sources
 
@@ -125,7 +125,7 @@ The measured figures cited in this chapter are the within-engine repeat agreemen
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

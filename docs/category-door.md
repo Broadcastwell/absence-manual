@@ -65,11 +65,11 @@ By the end of this chapter you will know what the first gate actually tests, whi
 
 **Measured, Volume II.** In 16 sweeps the challenger scored zero while the leader scored 8 or above. **Reasoned.** Read alongside the null result on leader strength, those 16 cases are not evidence that the leader displaced the challenger, because across the full sample leader strength does not predict challenger visibility at all. The more consistent reading is that the two companies differ in whether the engine recognises them as members of the category, and that the leader's score is a symptom of the same recognition rather than a cause of the challenger's absence.
 
-## Standard six: the evidence is reachable without a form
+## Standard five: the evidence is reachable without a form
 
 **Reasoned.** An engine assembling a candidate set issues plain requests. Material behind a form, a login or a download gate is not readable by the process that decides whether you exist in a category, whatever its value to a human reader who has already found you. This is the same reasoning that keeps this manual ungated, and it is the one standard in the chapter that is a direct consequence of how retrieval works rather than an inference from measured outcomes.
 
-## Standard five: being quotable is not enough
+## Standard six: being quotable is not enough
 
 **Measured, Volume II.** Nine companies were named zero times while their own domain was cited as a source, one of them in five of its ten answers. **Reasoned.** These companies cleared every bar related to being findable and useful, and still failed at the door. Whatever the door tests, it is not whether your material can be retrieved and quoted. Chapter 3 at [/cited-not-recommended/](https://docs.broadcastwell.com/cited-not-recommended/) covers this group in full, and it is the clearest evidence that content supply and category membership are separate problems.
 
@@ -91,7 +91,7 @@ By the end of this chapter you will know what the first gate actually tests, whi
 
 ## The honest limit on everything in this chapter
 
-**Reasoned.** Nothing in the three volumes is an intervention study. No company was measured, changed and measured again, so none of the five standards above has been shown to move a visibility score. They are inferences from a cross-sectional pattern plus one null result, and they are labelled as inference for that reason. A supplier presenting the same standards as proven mechanisms is overstating what the evidence supports, and so would this chapter if it did the same.
+**Reasoned.** Nothing in the three volumes is an intervention study. No company was measured, changed and measured again, so none of the six standards above has been shown to move a visibility score. They are inferences from a cross-sectional pattern plus one null result, and they are labelled as inference for that reason. A supplier presenting the same standards as proven mechanisms is overstating what the evidence supports, and so would this chapter if it did the same.
 
 ## What would falsify these standards
 
@@ -99,11 +99,11 @@ By the end of this chapter you will know what the first gate actually tests, whi
 
 ## What this means for your buying decision
 
-Establish which gate you are at before you buy work aimed at either. If category-level questions dominate your absence list, ask a supplier what evidence about you will exist outside your own domain when the engagement ends, and in how many independent places. Treat any proposal that answers mainly in terms of pages published on your own site as aimed at the wrong gate. And discount heavily any claim that your problem is a strong incumbent. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) has the question list.
+**Reasoned.** Establish which gate you are at before you buy work aimed at either. If category-level questions dominate your absence list, ask a supplier what evidence about you will exist outside your own domain when the engagement ends, and in how many independent places. Treat any proposal that answers mainly in terms of pages published on your own site as aimed at the wrong gate. And discount heavily any claim that your problem is a strong incumbent. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) has the question list.
 
 ## Where to go next
 
-Chapter 10 at [/comparison-gate/](https://docs.broadcastwell.com/comparison-gate/) covers the second gate and what content a model can lift a claim from. Chapter 11 at [/how-long-it-takes/](https://docs.broadcastwell.com/how-long-it-takes/) is honest about cadence and about how little the volumes can say on elapsed time. Chapter 2 at [/absence-ladder/](https://docs.broadcastwell.com/absence-ladder/) is the measured basis for the two-gate model.
+**Reasoned.** Chapter 10 at [/comparison-gate/](https://docs.broadcastwell.com/comparison-gate/) covers the second gate and what content a model can lift a claim from. Chapter 11 at [/how-long-it-takes/](https://docs.broadcastwell.com/how-long-it-takes/) is honest about cadence and about how little the volumes can say on elapsed time. Chapter 2 at [/absence-ladder/](https://docs.broadcastwell.com/absence-ladder/) is the measured basis for the two-gate model.
 
 ## Sources
 
@@ -127,7 +127,7 @@ The measured figures in this chapter come from The 2026 State of GEO, Volume II:
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

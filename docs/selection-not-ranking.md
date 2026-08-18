@@ -22,7 +22,7 @@ By the end of this chapter you will know why AI search is a selection problem ra
 
 ## The number that breaks the old model
 
-**Measured, Volume I.** The average answer named 2.05 vendors. The sweep covered 85 B2B software companies across 61 categories, putting ten standardised buyer questions to one AI engine with live web search for each of them. Volume I reports 860 scored answers in total. **Reasoned.** Two point zero five is not a shorter results page. It is a different object. A page of ten links can carry the market leader, three challengers, two review sites and a comparison blog, and the buyer chooses among them. An answer naming two vendors has already chosen. The visible surface is not a ranked list that has been truncated. It is a decision that has been made and then narrated.
+**Measured, Volume I.** The average answer named 2.05 vendors. The sweep covered 85 B2B software companies across 61 categories, put to one AI engine with live web search. Volume I reports 860 scored answers in total. **Reasoned.** Two point zero five is not a shorter results page. It is a different object. A page of ten links can carry the market leader, three challengers, two review sites and a comparison blog, and the buyer chooses among them. An answer naming two vendors has already chosen. The visible surface is not a ranked list that has been truncated. It is a decision that has been made and then narrated.
 
 ## Ranking asks where, selection asks whether
 
@@ -94,11 +94,11 @@ By the end of this chapter you will know why AI search is a selection problem ra
 
 ## What this means for your buying decision
 
-Ask any supplier which of the two gates your absence data says you are at, and whether they can show you the question-level absence list that supports the answer. A supplier who answers only with a percentage is still working in the ranking model and will prescribe accordingly. A supplier who cannot produce the absence list does not have the data to diagnose you. If the diagnosis is not framed as presence in a candidate set on named engines, you are being sold a rank-tracking habit under a new name. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) turns this into the specific questions to put to a vendor.
+**Reasoned.** Ask any supplier which of the two gates your absence data says you are at, and whether they can show you the question-level absence list that supports the answer. A supplier who answers only with a percentage is still working in the ranking model and will prescribe accordingly. A supplier who cannot produce the absence list does not have the data to diagnose you. If the diagnosis is not framed as presence in a candidate set on named engines, you are being sold a rank-tracking habit under a new name. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) turns this into the specific questions to put to a vendor.
 
 ## Where to go next
 
-If you want the diagnostic model in full, read Chapter 2 at [/absence-ladder/](https://docs.broadcastwell.com/absence-ladder/). If you want the size of the problem before the model, read Chapter 1 at [/named-zero-times/](https://docs.broadcastwell.com/named-zero-times/), which sets out how many companies are never named at all. If you want to know how much any single measurement can be trusted, read Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/).
+**Reasoned.** If you want the diagnostic model in full, read Chapter 2 at [/absence-ladder/](https://docs.broadcastwell.com/absence-ladder/). If you want the size of the problem before the model, read Chapter 1 at [/named-zero-times/](https://docs.broadcastwell.com/named-zero-times/), which sets out how many companies are never named at all. If you want to know how much any single measurement can be trusted, read Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/).
 
 ## Sources
 
@@ -122,7 +122,7 @@ Volume I supplies the 2.05 vendors per answer, the 20% median, the 35% zero rate
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

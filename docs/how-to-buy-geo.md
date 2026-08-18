@@ -102,11 +102,11 @@ By the end of this chapter you will have twelve questions to put to any supplier
 
 ## What this means for your buying decision
 
-Run the diagnostic yourself before you take a meeting, so you arrive knowing which gate you are at. Put the twelve questions in writing and treat the pattern of difficulty as the signal. Require the six deliverable items in the contract rather than the report. And be prepared for the answer to be that you should do nothing yet, which is a legitimate outcome of an honest evaluation and one that no supplier will reach on your behalf.
+**Reasoned.** Run the diagnostic yourself before you take a meeting, so you arrive knowing which gate you are at. Put the twelve questions in writing and treat the pattern of difficulty as the signal. Require the six deliverable items in the contract rather than the report. And be prepared for the answer to be that you should do nothing yet, which is a legitimate outcome of an honest evaluation and one that no supplier will reach on your behalf.
 
 ## Where to go next
 
-Chapter 8 at [/valid-measurement/](https://docs.broadcastwell.com/valid-measurement/) is the technical basis for most of the twelve questions. Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/) is the evidence behind the repeat-run requirement. Appendix E at [/references/](https://docs.broadcastwell.com/references/) carries the full reference list and the complete self-audit disclosure.
+**Reasoned.** Chapter 8 at [/valid-measurement/](https://docs.broadcastwell.com/valid-measurement/) is the technical basis for most of the twelve questions. Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/) is the evidence behind the repeat-run requirement. Appendix E at [/references/](https://docs.broadcastwell.com/references/) carries the full reference list and the complete self-audit disclosure.
 
 ## Sources
 
@@ -130,7 +130,7 @@ The measured figures in this chapter come from The 2026 State of GEO, Volume II 
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

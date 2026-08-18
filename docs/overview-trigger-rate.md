@@ -23,7 +23,7 @@ By the end of this chapter you will know how often one major engine declined to 
 ## Two different reasons an answer can be missing
 
 <figure markdown="1">
-![Bar chart of questions attempted against questions answered for four AI search engines. ChatGPT and Claude answered every question they attempted. Perplexity answered 157 of 175 attempted, with the shortfall marked as API error. Google AI Overviews answered 258 of 280, with the shortfall marked as no AI Overview returned.](figures/answer-rate.png)
+![Bar chart of questions attempted against questions answered for four AI search engines. ChatGPT and Claude answered every question they attempted. Perplexity answered fewer questions than it attempted, with the shortfall marked as API error. Google AI Overviews answered 258 of 280, with the shortfall marked as no AI Overview returned.](figures/answer-rate.png)
 <figcaption>Figure 1. Answered against attempted, per engine. Volume III.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ By the end of this chapter you will know how often one major engine declined to 
 
 ## The worked illustration, using only published counts
 
-**Measured, Volume III.** Of 80 best-of questions, 71 returned an AI Overview. **Reasoned.** So a vendor measured on best-of questions has nine of its eighty questions silently removed if the measurement counts only the answers that appeared. Its score is then a fraction of 71 rather than of 80. On comparison questions no such removal happens, because all 47 returned an answer. The identical vendor, measured on two shapes with the same underlying performance, will show a different score purely because the two shapes lose different numbers of questions from the denominator.
+**Measured, Volume III.** Of 80 best-of questions, 71 returned an AI Overview. **Reasoned.** So a vendor measured on best-of questions has the questions that returned no answer silently removed if the measurement counts only the answers that appeared. Its score is then a fraction of 71 rather than of 80. On comparison questions no such removal happens, because all 47 returned an answer. The identical vendor, measured on two shapes with the same underlying performance, will show a different score purely because the two shapes lose different numbers of questions from the denominator.
 
 ## Which denominator is right depends on the question you are asking
 
@@ -47,7 +47,7 @@ By the end of this chapter you will know how often one major engine declined to 
 
 ## The other engines answered everything they attempted
 
-**Measured, Volume III.** ChatGPT answered 18 of 18 attempted and Claude 280 of 280, both at 100%. Perplexity answered 157 of 175 attempted, at 89.7%, with 18 rows carrying an API error. **Reasoned.** Only the Google surface declined to generate. The conversational engines answered whenever they were reachable, so the trigger-rate problem in this dataset is specific to the AI Overview surface rather than general to AI search. A measurement covering only conversational engines will not encounter it, and a measurement including Google will.
+**Measured, Volume III.** ChatGPT answered 18 of 18 attempted and Claude 280 of 280, both at 100%. Perplexity answered 157 of the questions it attempted, at an answer rate of 89.7%. **Reasoned.** Only the Google surface declined to generate. The conversational engines answered whenever they were reachable, so the trigger-rate problem in this dataset is specific to the AI Overview surface rather than general to AI search. A measurement covering only conversational engines will not encounter it, and a measurement including Google will.
 
 ## Where the collection shortfall sits, and what it is not
 
@@ -99,11 +99,11 @@ By the end of this chapter you will know how often one major engine declined to 
 
 ## What this means for your buying decision
 
-Ask for three counts rather than one percentage: questions asked, answers returned, and answers naming you. Ask which denominator the headline figure uses and require it in writing, because the two differ by however many questions returned no answer. If a supplier cannot tell you how many of your questions produced no AI answer at all, they cannot tell you what their percentage is a percentage of. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) has the full list of questions to ask.
+**Reasoned.** Ask for three counts rather than one percentage: questions asked, answers returned, and answers naming you. Ask which denominator the headline figure uses and require it in writing, because the two differ by however many questions returned no answer. If a supplier cannot tell you how many of your questions produced no AI answer at all, they cannot tell you what their percentage is a percentage of. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) has the full list of questions to ask.
 
 ## Where to go next
 
-Chapter 8 at [/valid-measurement/](https://docs.broadcastwell.com/valid-measurement/) turns the denominator requirement into one criterion among several that a measurement has to meet. Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/) covers the other reason a single figure moves without the vendor changing. Appendix A at [/question-bank/](https://docs.broadcastwell.com/question-bank/) sets out the question shapes whose mix determines the trigger rate in the first place.
+**Reasoned.** Chapter 8 at [/valid-measurement/](https://docs.broadcastwell.com/valid-measurement/) turns the denominator requirement into one criterion among several that a measurement has to meet. Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/) covers the other reason a single figure moves without the vendor changing. Appendix A at [/question-bank/](https://docs.broadcastwell.com/question-bank/) sets out the question shapes whose mix determines the trigger rate in the first place.
 
 ## Sources
 
@@ -127,7 +127,7 @@ Every figure in this chapter comes from The 2026 State of GEO, Volume III: the 9
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

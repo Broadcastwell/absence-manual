@@ -93,11 +93,11 @@ By the end of this chapter you will know how many companies in a challenger-skew
 
 ## What this means for your buying decision
 
-Establish your own zero rate before you buy anything, because the remedy for a zero differs in kind from the remedy for a low score. Ask any supplier for the count of questions on which you were named zero times, not just an average, and ask what sampling frame their benchmark figures come from. If a supplier quotes a market-wide zero rate without naming the sample it was drawn from, they are quoting a number that has lost its denominator somewhere along the way. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) sets out the full list of questions.
+**Reasoned.** Establish your own zero rate before you buy anything, because the remedy for a zero differs in kind from the remedy for a low score. Ask any supplier for the count of questions on which you were named zero times, not just an average, and ask what sampling frame their benchmark figures come from. If a supplier quotes a market-wide zero rate without naming the sample it was drawn from, they are quoting a number that has lost its denominator somewhere along the way. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) sets out the full list of questions.
 
 ## Where to go next
 
-Chapter 2 at [/absence-ladder/](https://docs.broadcastwell.com/absence-ladder/) turns the zero rate into a diagnosis by classifying which questions the absences fall on. Chapter 3 at [/cited-not-recommended/](https://docs.broadcastwell.com/cited-not-recommended/) takes the second scored outcome, domain citation, and shows why it moves independently of naming. Chapter 0 at [/selection-not-ranking/](https://docs.broadcastwell.com/selection-not-ranking/) is the frame that makes this distribution expected rather than surprising.
+**Reasoned.** Chapter 2 at [/absence-ladder/](https://docs.broadcastwell.com/absence-ladder/) turns the zero rate into a diagnosis by classifying which questions the absences fall on. Chapter 3 at [/cited-not-recommended/](https://docs.broadcastwell.com/cited-not-recommended/) takes the second scored outcome, domain citation, and shows why it moves independently of naming. Chapter 0 at [/selection-not-ranking/](https://docs.broadcastwell.com/selection-not-ranking/) is the frame that makes this distribution expected rather than surprising.
 
 ## Sources
 
@@ -121,7 +121,7 @@ Every figure in this chapter comes from The 2026 State of GEO, Volume I, publish
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

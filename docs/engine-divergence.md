@@ -71,7 +71,7 @@ By the end of this chapter you will know how much two AI search engines agree ab
 
 ## The tie back to the single-engine baseline
 
-**Measured, Volume III.** Against the Volume I single-engine baseline, the correlation across 32 companies was Pearson r = 0.70, joined at category level because Volume I published company-level results anonymised. Volume III states that a category-level join is weaker than a per-company join. **Reasoned.** A correlation of 0.70 means the single-engine baseline carried real signal about multi-engine visibility and was far from a complete description of it. Roughly half the variance is unexplained, which is consistent with the 14 of 32 result rather than in tension with it.
+**Measured, Volume III.** Against the Volume I single-engine baseline, the correlation across 32 companies was Pearson r = 0.70, joined at category level because Volume I published company-level results anonymised. Volume III states that a category-level join is weaker than a per-company join. **Reasoned.** A correlation of 0.70 means the single-engine baseline carried real signal about multi-engine visibility and was far from a complete description of it. Substantial but incomplete is consistent with the 14 of 32 result rather than in tension with it.
 
 ## Citation behaviour differs at least as much as naming
 
@@ -104,11 +104,11 @@ By the end of this chapter you will know how much two AI search engines agree ab
 
 ## What this means for your buying decision
 
-Ask which engines a score covers and refuse to accept "AI search" as an answer. Ask for the per-engine breakdown rather than a blend, because a blend can hide a company that is saturated on one engine and absent on another. If a supplier measures one engine, ask them to say so on the front of the report rather than in a footnote, and price the work accordingly. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) sets out the full question list.
+**Reasoned.** Ask which engines a score covers and refuse to accept "AI search" as an answer. Ask for the per-engine breakdown rather than a blend, because a blend can hide a company that is saturated on one engine and absent on another. If a supplier measures one engine, ask them to say so on the front of the report rather than in a footnote, and price the work accordingly. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) sets out the full question list.
 
 ## Where to go next
 
-Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/) asks whether the divergence measured here is larger than each engine's own run-to-run variance, which is the test that decides how much of this chapter is signal. Chapter 7 at [/overview-trigger-rate/](https://docs.broadcastwell.com/overview-trigger-rate/) covers the questions on which one of these engines returns no answer at all. Chapter 8 at [/valid-measurement/](https://docs.broadcastwell.com/valid-measurement/) turns all of it into criteria a measurement has to meet.
+**Reasoned.** Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/) asks whether the divergence measured here is larger than each engine's own run-to-run variance, which is the test that decides how much of this chapter is signal. Chapter 7 at [/overview-trigger-rate/](https://docs.broadcastwell.com/overview-trigger-rate/) covers the questions on which one of these engines returns no answer at all. Chapter 8 at [/valid-measurement/](https://docs.broadcastwell.com/valid-measurement/) turns all of it into criteria a measurement has to meet.
 
 ## Sources
 
@@ -132,7 +132,7 @@ Every figure in this chapter comes from The 2026 State of GEO, Volume III: the p
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

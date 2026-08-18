@@ -24,7 +24,7 @@ The Absence Manual is a technical manual on AI search visibility for B2B softwar
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 B2B software companies, 61 categories, 860 scored answers, 5,160 traced citations across 1,753 unique domains, one engine held constant. See FLAGS.md on the question count | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 B2B software companies, 61 categories, 860 scored answers and 5,160 traced citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers collected 05:28 to 16:29 UTC on 2026-08-04, with a 25-question repeat subsample run three times | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 
@@ -74,11 +74,11 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 | D | [Glossary](glossary.md) | Published |
 | E | [References and self-audit disclosure](references.md) | Published |
 
-Chapters marked forthcoming have no URL yet. A slug published once is permanent: version numbers change, URLs never do. See the [changelog](https://github.com/Broadcastwell/absence-manual/blob/main/CHANGELOG.md).
+Every chapter and appendix is published. A slug published once is permanent: version numbers change, URLs never do. See the [changelog](https://github.com/Broadcastwell/absence-manual/blob/main/CHANGELOG.md).
 
 ## For marketing leaders
 
-If you are not going to read a technical manual, start with [what AI search is doing to your category](for-buyers.md). Plain language, four numbers, one page.
+If you are not going to read a technical manual, start with [what AI search is doing to your category](for-buyers.md). Plain language, no jargon, one page.
 
 ## Notes
 

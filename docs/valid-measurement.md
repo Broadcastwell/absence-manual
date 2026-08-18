@@ -15,7 +15,7 @@ By the end of this chapter you will have a list of requirements you can hold any
 
 ## The claim this chapter defends
 
-**Reasoned.** A visibility number is only interpretable if six things are true of it: the question bank was fixed before collection and is published, each question was run more than once, the engine set is named, the scoring rule is deterministic and stated, the denominator is declared, and every exclusion is disclosed. **Measured, Volume III.** Each of those requirements exists because a published measurement demonstrated what goes wrong without it, and the failure modes at the end of this chapter are all observed rather than hypothetical.
+**Reasoned.** A visibility number is only interpretable if nine things are true of it: the question bank was fixed before collection, published in full and covering the shapes that matter, each question was run more than once, the engine set is named, the scoring rule is deterministic and stated, the denominator is declared, every exclusion is disclosed, and the operator's own commercial position is declared. **Measured, Volume III.** Each of those requirements exists because a published measurement demonstrated what goes wrong without it, and the failure modes at the end of this chapter are all observed rather than hypothetical.
 
 > **Operator disclosure.** Broadcastwell ran this measurement and sells services in the category it measures. Broadcastwell is excluded from the measured sample and from every ranking. The mitigation is not that the conflict is absent, it is that the raw data and the code are public and the result can be recomputed by anyone who disagrees.
 
@@ -95,11 +95,11 @@ By the end of this chapter you will have a list of requirements you can hold any
 
 ## What this means for your buying decision
 
-Put the eight requirements to a supplier in writing before you sign, and treat any that cannot be answered in a sentence as a finding rather than a formality. The three that most often fail are repeat runs, the declared denominator, and delivery of the raw rows. If a supplier meets all eight, the number they give you may still be uninteresting, but it will at least be a number. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) turns this list into the specific questions to ask.
+**Reasoned.** Put the nine requirements to a supplier in writing before you sign, and treat any that cannot be answered in a sentence as a finding rather than a formality. The three that most often fail are repeat runs, the declared denominator, and delivery of the raw rows. If a supplier meets all eight, the number they give you may still be uninteresting, but it will at least be a number. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) turns this list into the specific questions to ask.
 
 ## Where to go next
 
-Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) is the buyer-side companion to this chapter. Appendix A at [/question-bank/](https://docs.broadcastwell.com/question-bank/), Appendix B at [/absence-rules/](https://docs.broadcastwell.com/absence-rules/) and Appendix C at [/scoring-spec/](https://docs.broadcastwell.com/scoring-spec/) reproduce the published protocol the requirements are drawn from. Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/) is the evidence behind the repeat-run requirement.
+**Reasoned.** Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) is the buyer-side companion to this chapter. Appendix A at [/question-bank/](https://docs.broadcastwell.com/question-bank/), Appendix B at [/absence-rules/](https://docs.broadcastwell.com/absence-rules/) and Appendix C at [/scoring-spec/](https://docs.broadcastwell.com/scoring-spec/) reproduce the published protocol the requirements are drawn from. Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/) is the evidence behind the repeat-run requirement.
 
 ## Sources
 
@@ -123,7 +123,7 @@ The requirements in this chapter are drawn from the published methods and result
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

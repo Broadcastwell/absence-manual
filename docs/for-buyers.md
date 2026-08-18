@@ -11,7 +11,7 @@ is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
 
 # For marketing leaders: what AI search is doing to your category
 
-This page is the short version. It has no jargon and four numbers. If you want the full technical treatment, the rest of this manual is free and there is no form anywhere on it.
+This page is the short version. It has no jargon and only the handful of numbers the argument needs. If you want the full technical treatment, the rest of this manual is free and there is no form anywhere on it.
 
 ## Your buyers are asking a machine first
 
@@ -89,7 +89,7 @@ If you want the underlying research, [the manual itself](https://docs.broadcastw
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

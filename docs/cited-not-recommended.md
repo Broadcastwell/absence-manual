@@ -75,7 +75,7 @@ By the end of this chapter you will know why an engine quoting your pages and an
 
 ## The design decision that made this visible
 
-**Measured, Volume I and Volume II.** The two outcomes were scored separately from the first sweep, and both columns are published per company. **Reasoned.** Nothing about the finding required a more sophisticated instrument than two checkboxes per answer. It required only that the two checkboxes were never added together. That is worth stating because it sets a low bar that most commercial reporting still does not clear: the separation costs nothing to collect and is lost only at the point where somebody decides a single headline number is easier to sell.
+**Measured, Volume II.** The two outcomes were scored separately and both columns are published per company. **Reasoned.** Nothing about the finding required a more sophisticated instrument than two checkboxes per answer. It required only that the two checkboxes were never added together. That is worth stating because it sets a low bar that most commercial reporting still does not clear: the separation costs nothing to collect and is lost only at the point where somebody decides a single headline number is easier to sell.
 
 ## The limitation that bounds all of this
 
@@ -103,11 +103,11 @@ By the end of this chapter you will know why an engine quoting your pages and an
 
 ## What this means for your buying decision
 
-Ask any supplier to show naming and citation as two separate columns before you accept a single visibility number, and ask which of the two their proposed work is meant to move. A supplier who cannot separate them cannot tell you whether your content is failing to be found or failing to position you as a vendor, and those need different work. If the answer to "what will improve" is more content, ask what the citation column already shows. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) has the full question list.
+**Reasoned.** Ask any supplier to show naming and citation as two separate columns before you accept a single visibility number, and ask which of the two their proposed work is meant to move. A supplier who cannot separate them cannot tell you whether your content is failing to be found or failing to position you as a vendor, and those need different work. If the answer to "what will improve" is more content, ask what the citation column already shows. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) has the full question list.
 
 ## Where to go next
 
-Chapter 4 at [/who-gets-cited/](https://docs.broadcastwell.com/who-gets-cited/) looks at the citation side across the whole corpus and asks which kinds of domain the engine reaches for. Chapter 2 at [/absence-ladder/](https://docs.broadcastwell.com/absence-ladder/) classifies the questions you are absent from, which is the other half of a diagnosis. Chapter 10 at [/comparison-gate/](https://docs.broadcastwell.com/comparison-gate/) covers what a model needs in order to lift a claim about you into a comparison answer.
+**Reasoned.** Chapter 4 at [/who-gets-cited/](https://docs.broadcastwell.com/who-gets-cited/) looks at the citation side across the whole corpus and asks which kinds of domain the engine reaches for. Chapter 2 at [/absence-ladder/](https://docs.broadcastwell.com/absence-ladder/) classifies the questions you are absent from, which is the other half of a diagnosis. Chapter 10 at [/comparison-gate/](https://docs.broadcastwell.com/comparison-gate/) covers what a model needs in order to lift a claim about you into a comparison answer.
 
 ## Sources
 
@@ -131,7 +131,7 @@ Every figure in this chapter comes from The 2026 State of GEO, Volume II: the Pe
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

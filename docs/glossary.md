@@ -11,7 +11,7 @@ is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
 
 # Appendix D. Glossary
 
-One definition per term. Where a term comes from a source volume the volume is named. Where it is this manual's own coinage that is stated.
+One definition per term. Where a term comes from a source volume the volume is named in the entry, which stands in place of an evidence label: a definition is a statement about usage rather than a claim about the world, so the three-level scheme used everywhere else in this manual does not apply here. Where a term is this manual's own coinage that is stated explicitly.
 
 ## The evidence levels
 
@@ -139,7 +139,7 @@ Terms attributed to a volume are used in the sense that volume defines. Terms ma
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 

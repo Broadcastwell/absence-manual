@@ -25,7 +25,7 @@ By the end of this chapter you will know what kinds of source an AI engine reach
 
 ## What was counted
 
-**Measured, Volume I.** Every cited URL across the sweep was logged, producing 5,160 traced source citations. The 100 most-cited domains were then classified by hand into vendor-authored, review platform, analyst, independent media, community, encyclopaedia and social categories. **Reasoned.** Hand classification of a hundred domains is tractable and auditable, and it is also the limiting factor on the resolution of this chapter. Nothing is known about the composition of the remaining 64% of citations beyond the domains themselves, which are published.
+**Measured, Volume I.** Every cited URL across the sweep was logged, producing 5,160 traced source citations. The 100 most-cited domains were then classified by hand into vendor-authored, review platform, analyst, independent media, community, encyclopaedia and social categories. **Reasoned.** Hand classification of a hundred domains is tractable and auditable, and it is also the limiting factor on the resolution of this chapter. Nothing is known about the composition of the citations outside those 100 domains beyond the domains themselves, which are published.
 
 ## The head of the distribution, concretely
 
@@ -53,7 +53,7 @@ By the end of this chapter you will know what kinds of source an AI engine reach
 
 ## What fragmentation rules out
 
-**Reasoned.** It rules out a media-placement strategy as the primary route. If twelve percent of citations sit in ten domains, then winning a place in all ten would still leave the great majority of the evidence layer untouched. It also rules out the reverse assumption, that the tail is where the work is, since a single appearance in one of nine hundred single-citation domains is worth very little on its own. What it points to instead is breadth of corroboration rather than placement in any particular outlet.
+**Reasoned.** It rules out a media-placement strategy as the primary route. If twelve percent of citations sit in ten domains, then winning a place in all ten would still leave the great majority of the evidence layer untouched. It also rules out the reverse assumption, that the tail is where the work is, since a single appearance in one of the many domains cited exactly once is worth very little on its own. What it points to instead is breadth of corroboration rather than placement in any particular outlet.
 
 ## The community result is the surprising one
 
@@ -101,11 +101,11 @@ By the end of this chapter you will know what kinds of source an AI engine reach
 
 ## What this means for your buying decision
 
-Ask any supplier which denominator their citation statistics use, because head-of-distribution and whole-corpus figures differ substantially and are quoted interchangeably in this category. Ask whether their plan depends on placement in a small number of outlets, and if so, how that squares with the top ten domains holding 12% of citations. If a proposal leans on community presence as the route into AI answers, ask for the measurement that supports it. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) has the full list.
+**Measured, Volume I, and reasoned from it.** Ask any supplier which denominator their citation statistics use, because head-of-distribution and whole-corpus figures differ substantially and are quoted interchangeably in this category. Ask whether their plan depends on placement in a small number of outlets, and if so, how that squares with the top ten domains holding 12% of citations. If a proposal leans on community presence as the route into AI answers, ask for the measurement that supports it. Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) has the full list.
 
 ## Where to go next
 
-Chapter 5 at [/engine-divergence/](https://docs.broadcastwell.com/engine-divergence/) splits citation composition by engine and shows how much it moves. Chapter 3 at [/cited-not-recommended/](https://docs.broadcastwell.com/cited-not-recommended/) explains why being in the evidence layer is not the same as being in the answer. Chapter 9 at [/category-door/](https://docs.broadcastwell.com/category-door/) turns the fragmentation finding into standards for what evidence about you has to look like.
+**Reasoned.** Chapter 5 at [/engine-divergence/](https://docs.broadcastwell.com/engine-divergence/) splits citation composition by engine and shows how much it moves. Chapter 3 at [/cited-not-recommended/](https://docs.broadcastwell.com/cited-not-recommended/) explains why being in the evidence layer is not the same as being in the answer. Chapter 9 at [/category-door/](https://docs.broadcastwell.com/category-door/) turns the fragmentation finding into standards for what evidence about you has to look like.
 
 ## Sources
 
@@ -129,7 +129,7 @@ Every figure in this chapter comes from The 2026 State of GEO, Volume I: the 5,1
 
 | Volume | What it covers | DOI |
 |-|-|-|
-| Volume I | 85 companies, 61 categories, 860 scored answers, 5,160 citations across 1,753 domains, one engine held constant | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
+| Volume I | 85 companies, 61 categories, 860 scored answers and 5,160 citations, one engine held constant. The dataset README additionally records 1,753 unique domains cited | [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | Volume II | The Absence Ladder. All 616 absence records classified by question shape | [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | Volume III | Cross-engine divergence. 280 questions, 40 categories, four engines, 853 answers | [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
 
