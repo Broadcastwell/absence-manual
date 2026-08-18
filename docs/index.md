@@ -51,7 +51,7 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 | No. | Chapter | Status |
 |-|-|-|
 | 0 | [Selection, not ranking](selection-not-ranking.md) | Published |
-| 1 | One in three vendors is never named | Forthcoming |
+| 1 | [One in three vendors is never named](named-zero-times.md) | Published |
 | 2 | [The Absence Ladder](absence-ladder.md) | Published |
 | 3 | Cited is not recommended | Forthcoming |
 | 4 | Who the engines actually cite | Forthcoming |

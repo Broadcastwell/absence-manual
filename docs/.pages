@@ -1,6 +1,7 @@
 nav:
   - index.md
   - selection-not-ranking.md
+  - named-zero-times.md
   - absence-ladder.md
   - measurement-noise.md
   - posts

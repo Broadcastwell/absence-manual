@@ -22,7 +22,7 @@ By the end of this chapter you will know why AI search is a selection problem ra
 
 ## The number that breaks the old model
 
-**Measured, Volume I.** The average answer named 2.05 vendors. Ten standardised buyer questions were put to one AI engine with live web search for each of 85 B2B software companies across 61 categories, and 860 answers were scored. **Reasoned.** Two point zero five is not a shorter results page. It is a different object. A page of ten links can carry the market leader, three challengers, two review sites and a comparison blog, and the buyer chooses among them. An answer naming two vendors has already chosen. The visible surface is not a ranked list that has been truncated. It is a decision that has been made and then narrated.
+**Measured, Volume I.** The average answer named 2.05 vendors. The sweep covered 85 B2B software companies across 61 categories, putting ten standardised buyer questions to one AI engine with live web search for each of them. Volume I reports 860 scored answers in total. **Reasoned.** Two point zero five is not a shorter results page. It is a different object. A page of ten links can carry the market leader, three challengers, two review sites and a comparison blog, and the buyer chooses among them. An answer naming two vendors has already chosen. The visible surface is not a ranked list that has been truncated. It is a decision that has been made and then narrated.
 
 ## Ranking asks where, selection asks whether
 
