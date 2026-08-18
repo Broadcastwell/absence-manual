@@ -29,7 +29,7 @@ By the end of this chapter you will know why an engine quoting your pages and an
 **Measured, Volume II.** Pearson r = 0.512 between times named and times cited, with Spearman ρ = 0.577, both significant at p < 10⁻⁶. **Reasoned.** A correlation of that size means the two signals share roughly a quarter of their variance and differ in the rest. It is strong enough that nobody should claim they are unrelated, and weak enough that nobody should treat one as a proxy for the other. If citation predicted naming reliably, the sensible strategy would be to maximise quotable content and wait. The measured relationship does not support that.
 
 <figure markdown="1">
-![Scatter plot of times a brand was named against times its own domain was cited, over 85 companies with ten answers each. Points scatter widely on both sides of the diagonal where naming equals citation, and a highlighted group sits on the vertical axis at zero namings while being cited between one and five times.](figures/named-vs-cited.png)
+![Being used as a source is not the same as being recommended. Over 85 companies with ten answers each, how often a brand was named and how often its own domain was cited scatter widely on both sides of the line where the two are equal, and a highlighted group of companies was never named at all while still being cited between one and five times. Naming is on the horizontal axis and citation on the vertical.](figures/named-vs-cited.png)
 <figcaption>Figure 1. Naming against citation, per company. Volume II, 85 companies.</figcaption>
 </figure>
 

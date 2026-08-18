@@ -23,7 +23,7 @@ By the end of this chapter you will know how often one major engine declined to 
 ## Two different reasons an answer can be missing
 
 <figure markdown="1">
-![Bar chart of questions attempted against questions answered for four AI search engines. ChatGPT and Claude answered every question they attempted. Perplexity answered fewer questions than it attempted, with the shortfall marked as API error. Google AI Overviews answered 258 of 280, with the shortfall marked as no AI Overview returned.](figures/answer-rate.png)
+![Not every engine answers every buyer question. Of the questions each engine attempted, ChatGPT and Claude answered every one, Perplexity answered fewer than it attempted with the shortfall recorded as an API error, and Google AI Overviews answered 258 of 280 with the shortfall recorded as no AI Overview returned. The bars are questions attempted rather than questions planned, which is why they differ in height.](figures/answer-rate.png)
 <figcaption>Figure 1. Answered against attempted, per engine. Volume III.</figcaption>
 </figure>
 

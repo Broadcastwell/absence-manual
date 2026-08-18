@@ -27,7 +27,7 @@ By the end of this chapter you will know how much two AI search engines agree ab
 ## How much two engines share
 
 <figure markdown="1">
-![Four by four matrix of mean vendor-set overlap between ChatGPT, Claude, Perplexity and Google AI Overviews. Every off-diagonal cell sits between 0.22 and 0.33, with the Claude and Perplexity pair highest at 0.33 and the ChatGPT and Google AI Overviews pair lowest at 0.22. The diagonal is fixed at 1.00.](figures/jaccard-matrix.png)
+![No two engines agree with each other about which vendors belong in an answer. Mean vendor-set overlap between every pair of ChatGPT, Claude, Perplexity and Google AI Overviews sits between 0.22 and 0.33, with Claude and Perplexity the closest pair at 0.33 and ChatGPT and Google AI Overviews the furthest apart at 0.22. The diagonal, where an engine is compared with itself, is fixed at 1.00.](figures/jaccard-matrix.png)
 <figcaption>Figure 1. Mean vendor-set overlap per question, all engine pairs. Volume III.</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ By the end of this chapter you will know how much two AI search engines agree ab
 ## Citation behaviour differs at least as much as naming
 
 <figure markdown="1">
-![Stacked bars showing what share of each engine's citations went to vendor-owned domains, review platforms, editorial, analyst, community and other sources. The vendor-owned share ranges from 85.6% on ChatGPT down to 38.3% on Google AI Overviews, with Claude and Perplexity in between and a large other category on three of the four engines.](figures/citation-mix-by-engine.png)
+![What an engine reaches for as evidence is engine-specific. The vendor-owned share of citations runs from 85.6% on ChatGPT down to 44.0% on Claude, 39.2% on Perplexity and 38.3% on Google AI Overviews, with the remainder split across review platform, editorial, analyst, community and other sources, and a large other category on three of the four engines.](figures/citation-mix-by-engine.png)
 <figcaption>Figure 2. Citation source mix per engine. Volume III.</figcaption>
 </figure>
 

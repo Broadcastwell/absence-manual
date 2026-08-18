@@ -87,7 +87,7 @@ is_based_on: "https://doi.org/10.5281/zenodo.21586091"
 **Reasoned.** The last line is the one that decides whether the finding is an artefact of 16 records. It is not. Drop the top tier completely and the relationship between visibility and comparison-shaped absence still holds at n = 600.
 
 <figure markdown="1">
-![Stacked bars showing the mix of absence question shapes at each visibility tier. Best-of shortlist and alternatives-to-incumbent shapes dominate the zero-visibility tier and shrink steadily across tiers, while the head-to-head comparison shape grows until it is the majority of absences in the highest tier.](figures/shape-mix-by-tier.png)
+![At the zero-visibility tier, best-of shortlists take 35.0% of a company's absences and alternatives-to-incumbent queries 20.3%, and both shrink at every step up the ladder, to 6.2% and 6.2% in the highest tier. Head-to-head comparison moves the other way, from 20.0% to 68.8%. Use-case, evaluation and residual shapes stay small throughout. The four tiers are named 0 of 10, 1 to 3, 4 to 6 and 7 to 10.](figures/shape-mix-by-tier.png)
 <figcaption>Figure 2. Shape mix by visibility tier. Volume II, 616 absence records.</figcaption>
 </figure>
 

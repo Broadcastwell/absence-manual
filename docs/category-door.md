@@ -27,7 +27,7 @@ By the end of this chapter you will know what the first gate actually tests, whi
 ## The strong-incumbent excuse does not survive the data
 
 <figure markdown="1">
-![Scatter of challenger visibility against category leader visibility over 85 companies, with a line showing mean challenger visibility at each leader score. The line is flat and non monotonic, peaking where the leader scores seven and falling where the leader scores ten and where the leader scores six or below. Spearman rho is minus 0.05 at p equals 0.64.](figures/leader-null.png)
+![A stronger category leader does not push its challenger further down. Over 85 companies the line of mean challenger visibility at each leader score is flat and non monotonic, peaking where the leader scores seven and falling where the leader scores ten and where the leader scores six or below. Spearman rho is minus 0.05 at p equals 0.64. Each point is one company, with leader visibility on the horizontal axis and challenger visibility on the vertical.](figures/leader-null.png)
 <figcaption>Figure 1. Challenger visibility against leader visibility. Volume II, 85 companies, reported as a null result.</figcaption>
 </figure>
 

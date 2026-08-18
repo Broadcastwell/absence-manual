@@ -71,7 +71,7 @@ is_based_on: "https://doi.org/10.5281/zenodo.21789120"
 ## The split result, reported honestly because it is the point
 
 <figure markdown="1">
-![Grouped bar chart comparing same-engine repeat agreement against different-engine agreement for Claude and Google AI Overviews under three measures. For Google AI Overviews the gap holds on all three rows shown: 0.258 on the uncontrolled measure, 0.167 truncated to the first five named vendors, and 0.193 on the length-normalised overlap coefficient. For Claude the raw gap of 0.165 falls to 0.075 under truncation and 0.002 under the overlap coefficient, and neither is significant.](figures/within-vs-between.png)
+![Engine-to-engine difference survives a length control on one engine and vanishes on the other. For Google AI Overviews the gap between same-engine repeat agreement and different-engine agreement holds on all three rows shown, at 0.258 on the uncontrolled measure, 0.167 truncated to the first five named vendors, and 0.193 on the length-normalised overlap coefficient. For Claude the raw gap of 0.165 falls to 0.075 under truncation and 0.002 under the overlap coefficient, and neither is significant. Claude contributes 74 repeat pairs and Google AI Overviews 62.](figures/within-vs-between.png)
 <figcaption>Figure 1. Within-engine versus between-engine agreement, per engine, under three measures. Volume III, same 25 questions, bootstrap 95% intervals.</figcaption>
 </figure>
 
