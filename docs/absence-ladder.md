@@ -149,6 +149,10 @@ Stage one, the category door: the engine does not name you when a buyer asks who
 
 If the absence ladder holds, AI visibility is not one metric and should not be managed as one. The useful question is not what percentage of answers name us. It is what kind of question are we currently losing. That answer tells you whether you are fighting for admission to a category or for preference within one, and those require different work, different content and different evidence. The single number is a symptom. The shape of the absence is the diagnosis.
 
+## Where to go next
+
+**Reasoned.** If you have not yet accepted the model this chapter is built on, read Chapter 0 at [/selection-not-ranking/](https://docs.broadcastwell.com/selection-not-ranking/), which sets out why an answer is a selection rather than a ranking. If you want the size of the problem before the shape of it, read Chapter 1 at [/named-zero-times/](https://docs.broadcastwell.com/named-zero-times/). If you are at the first gate, Chapter 9 at [/category-door/](https://docs.broadcastwell.com/category-door/) sets out what evidence admission appears to require; if you are at the second, Chapter 10 at [/comparison-gate/](https://docs.broadcastwell.com/comparison-gate/) takes up preference inside the candidate set.
+
 ## Sources and reproduction
 
 Every number in this chapter comes from The 2026 State of GEO, Volume II, published with its data and analysis code. Three files carry the whole result: `challenger_visibility_v2.csv`, 85 rows of per-company results; `absence_questions_classified.csv`, all 616 absence questions with verbatim text, assigned shape and visibility tier; and `absence_shape_by_tier.csv`, the aggregate table behind Figure 1. They are at [github.com/Broadcastwell/state-of-geo-2026](https://github.com/Broadcastwell/state-of-geo-2026). Anyone can reproduce every figure above from those three files.

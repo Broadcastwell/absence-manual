@@ -142,6 +142,10 @@ Take five of your buyer questions. Put each one to the same engine three times, 
 
 Ask four questions of whoever gave you a visibility number. Which engine produced it. On what date, in what window. What exactly were the questions, in full text. How many runs did each question get, and if the answer is one, what is the run-to-run variance on those questions. A supplier doing the work properly answers all four immediately. A supplier who cannot answer the fourth has sold you a point estimate from a distribution and has not told you the width of it.
 
+## Where to go next
+
+**Reasoned.** If you want the requirements a measurement has to meet before it is worth reading at all, Chapter 8 at [/valid-measurement/](https://docs.broadcastwell.com/valid-measurement/) turns the variance in this chapter into a specification. If you want the cross-engine picture that the single-engine noise floor sits inside, read Chapter 5 at [/engine-divergence/](https://docs.broadcastwell.com/engine-divergence/). If you are about to buy this work from somebody, Chapter 12 at [/how-to-buy-geo/](https://docs.broadcastwell.com/how-to-buy-geo/) turns the four questions above into the full set to put to a supplier.
+
 ## Sources and reproduction
 
 Every number in this chapter comes from The 2026 State of GEO, Volume III, published with all collected answers, the extraction prompt, the scoring rules and the analysis scripts under CC BY 4.0. The bootstrap uses 2000 replicates with a fixed seed, so the confidence intervals reproduce exactly, and every figure is generated from the computed results file rather than typed, so a caption cannot drift from the dataset. All of it is at [github.com/Broadcastwell/state-of-geo-2026](https://github.com/Broadcastwell/state-of-geo-2026) under `volume-iii/`.
