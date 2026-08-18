@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+{% set org_same_as = [
+  "https://www.linkedin.com/company/broadcastwell",
+  "https://github.com/Broadcastwell",
+  "https://github.com/Broadcastwell/state-of-geo-2026",
+  "https://doi.org/10.5281/zenodo.21537014",
+  "https://doi.org/10.5281/zenodo.21586091",
+  "https://doi.org/10.5281/zenodo.21789120"
+] %}
+{% set org = {
+  "@type": "Organization",
+  "@id": "https://docs.broadcastwell.com/#organization",
+  "name": "Broadcastwell",
+  "legalName": "Broadcastwell LLC",
+  "url": "https://broadcastwell.com/",
+  "description": "AI search visibility measurement for B2B software.",
+  "sameAs": org_same_as
+} %}
+{% set author = {
+  "@type": "Person",
+  "@id": "https://docs.broadcastwell.com/#author",
+  "name": "Sairam Sivakumar",
+  "affiliation": {"@type": "Organization", "name": "Broadcastwell"},
+  "sameAs": ["https://www.linkedin.com/in/sairamotilingam/"]
+} %}
+{% set org_top = dict(org, **{"@context": "https://schema.org"}) %}
+<script type="application/ld+json">{{ org_top | tojson }}</script>
+{% set canon = (page.canonical_url if page and page.canonical_url else config.site_url) | string %}
+{% set ptitle = (page.title if page and page.title else config.site_name) | string %}
+{% if page and page.is_homepage %}
+{% set crumbs = [
+  {"@type": "ListItem", "position": 1, "name": "The Absence Manual", "item": "https://docs.broadcastwell.com/"}
+] %}
+{% else %}
+{% set crumbs = [
+  {"@type": "ListItem", "position": 1, "name": "The Absence Manual", "item": "https://docs.broadcastwell.com/"},
+  {"@type": "ListItem", "position": 2, "name": ptitle, "item": canon}
+] %}
+{% endif %}
+<script type="application/ld+json">{{ {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": crumbs} | tojson }}</script>
+{% if page and page.meta and page.meta.get("schema_type") %}
+{% set article = {
+  "@context": "https://schema.org",
+  "@type": page.meta.get("schema_type") | string,
+  "@id": canon ~ "#article",
+  "headline": page.meta.get("headline", ptitle) | string,
+  "name": page.meta.get("headline", ptitle) | string,
+  "description": page.meta.get("description", "") | string,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "url": canon,
+  "mainEntityOfPage": {"@type": "WebPage", "@id": canon},
+  "author": author,
+  "creator": author,
+  "publisher": org,
+  "datePublished": page.meta.get("date_published", "") | string,
+  "dateModified": page.meta.get("date_modified", "") | string,
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isBasedOn": page.meta.get("is_based_on", "") | string,
+  "image": (config.site_url ~ page.meta.get("image", "assets/manual-card.png")) | string,
+  "proficiencyLevel": "Expert",
+  "dependencies": "None. This page requires no login, no form and no JavaScript."
+} %}
+<script type="application/ld+json">{{ article | tojson }}</script>
+{% endif %}
+{% endblock %}
+
+{% block content %}
+{{ super() }}
+<hr>
+<p class="manual-footer-version">{{ config.extra.manual_version_label }}. Author: Sairam Sivakumar, Broadcastwell. Prose and figures CC BY 4.0, site code MIT. Not peer reviewed. Every figure can be recomputed from the public data at <a href="https://github.com/Broadcastwell/state-of-geo-2026">github.com/Broadcastwell/state-of-geo-2026</a>.</p>
+{% endblock %}
