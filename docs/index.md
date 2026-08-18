@@ -60,7 +60,7 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 | 7 | [The AI Overview does not always appear](overview-trigger-rate.md) | Published |
 | 8 | [What a valid measurement requires](valid-measurement.md) | Published |
 | 9 | [Getting named at the category door](category-door.md) | Published |
-| 10 | Getting quoted at the comparison gate | Forthcoming |
+| 10 | [Getting quoted at the comparison gate](comparison-gate.md) | Published |
 | 11 | How long this actually takes | Forthcoming |
 | 12 | How to buy GEO without getting sold a number | Forthcoming |
 
