@@ -3,7 +3,7 @@
 > Broadcastwell is an AI search visibility agency for vertical B2B software companies. We measure how often AI engines name a vendor in buyer answers, then build the third-party evidence those engines read.
 
 Free mini-audit: ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter of The Absence Manual that addresses it. Runs in the browser in under a minute. Email-gated, one result per address per day. https://audit.broadcastwell.com
-Four-engine audit: the same ten questions across ChatGPT, Claude, Perplexity and Google AI Overviews, returned as a two-page findings document. $1,500 once, credited in full against the first month of the program. Request it at https://broadcastwell.com/ai-visibility-audit
+Four-engine audit: the same ten questions across ChatGPT, Claude, Perplexity and Google AI Overviews, returned as a two-page findings document. $1,500 once, credited in full against the first month of the program. Request it at https://tally.so/r/J9xpbK
 Monthly program: $4,500 a month with a three month minimum, and a $3,000 a month founding rate for the first three clients.
 The Absence Manual, free and ungated, 13 chapters and 5 appendices: https://docs.broadcastwell.com/ (PDF: https://docs.broadcastwell.com/absence-manual.pdf)
 Reporting cadence: brand mentions, citations and the sources engines pull from are reported every month. The ten-question four-engine re-score runs every quarter, because one run is not a trend and a monthly headline score cannot separate signal from run-to-run variance. Month one is a baseline, not a verdict.
