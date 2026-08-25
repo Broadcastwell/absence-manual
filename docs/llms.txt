@@ -3,11 +3,15 @@
 > Broadcastwell is an AI search visibility agency for vertical B2B software companies. We measure how often AI engines name a vendor in buyer answers, then build the third-party evidence those engines read.
 
 Free mini-audit: ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter of The Absence Manual that addresses it. Runs in the browser in under a minute. Email-gated, one result per address per day. https://audit.broadcastwell.com
-Four-engine audit: the same ten questions across ChatGPT, Claude, Perplexity and Google AI Overviews, returned as a two-page findings document. $1,500 once, credited in full against the first month of the program. Request it at https://tally.so/r/J9xpbK
-Monthly program: $4,500 a month with a three month minimum, and a $3,000 a month founding rate for the first three clients, in exchange for a published account of the work and a review.
+AI Visibility Diagnostic: ten category-defining buyer questions across ChatGPT, Claude, Perplexity and Google AI Overviews, with three documented repeats per question and engine: 120 observed answers, named/cited outcomes, competitor and source analysis, limitations, run-to-run spread, and a prioritised evidence, content and distribution plan. $1,500 once, credited in full against the first month if the client starts the program. Request it at https://tally.so/r/J9xpbK
+Monthly program: $4,500 a month with a three month minimum, then month-to-month. Client stories are published only with explicit approval; reviews are optional and never required or incentivized.
 The Absence Manual, free and ungated, 13 chapters and 5 appendices: https://docs.broadcastwell.com/ (PDF: https://docs.broadcastwell.com/absence-manual.pdf)
 Reporting cadence: brand mentions, citations and the sources engines pull from are reported every month. The ten-question four-engine re-score runs every quarter, because one run is not a trend and a monthly headline score cannot separate signal from run-to-run variance. Month one is a baseline, not a verdict.
-90-day proof gate: if the ten questions we track have not moved by the first quarterly re-score, we do not invoice month four. You keep every run, every answer and every source we collected.
+90-day proof gate: baseline and first quarterly re-score use the same documented three-repeat protocol. If the agreed tracked questions have not improved, we do not invoice month four. You keep every run, every answer, every citation and every source we collected.
+Receipts on every answer: every observed answer is delivered to the client in full, with the engine that returned it, the date and time it ran, and every source it cited, wins and losses alike. No figure is reported that cannot be traced back to the answers underneath it.
+Prompt classes are never blended: every question in a Diagnostic names no brand at all. Questions that name a competitor, or name the client, are reported as separate figures with the class stated, and are never folded into one headline number.
+Your data leaves with you: the question set, citation logs, observed answers and reports belong to the client, returned in an open, machine-readable format within five business days of the request and at no charge if the engagement ends, for any reason.
+The published account: where a reduced rate is agreed it is a trade rather than a discount, exchanged for a published account of the work stating what was measured, what was changed and what moved. Published only with the client's explicit written approval.
 
 ## Research
 
@@ -15,8 +19,8 @@ Reporting cadence: brand mentions, citations and the sources engines pull from a
 - [https://broadcastwell.com/absence-ladder]: The Absence Ladder. How the shape of a company's AI invisibility changes as its visibility rises.
 - [https://broadcastwell.com/engine-divergence]: Engine divergence. Whether four AI search engines return the same vendors, measured against each engine's own run-to-run noise across 280 B2B buyer questions in 40 categories.
 - [https://broadcastwell.com/geo-statistics]: GEO and AI search visibility statistics 2026. The key figures from all three studies as citable lines, each with its DOI.
-- [https://broadcastwell.com/visibility]: Our own visibility. Broadcastwell scored against its own method and published good or bad.
-- [https://broadcastwell.com/geo-agencies-measured]: GEO agencies measured. Agencies in our own category, measured the same way we measure everyone else.
+- [https://broadcastwell.com/visibility]: AI visibility measurement framework. A clearly labelled illustrative four-engine scorecard and the protocol used for client baselines and re-scores.
+- [https://broadcastwell.com/geo-agencies-measured]: GEO agencies measured. A dated category research snapshot showing how name-seeded prompts can inflate raw mention counts.
 - [https://broadcastwell.com/improve-ai-search-visibility]: How to improve AI search visibility. What moves a vendor into AI answers, and what does not.
 - [https://broadcastwell.com/geo-vs-seo]: GEO vs SEO. What differs mechanically between ranking and being named, grounded in three open datasets.
 
@@ -41,9 +45,9 @@ Reporting cadence: brand mentions, citations and the sources engines pull from a
 ## Company
 
 - [https://broadcastwell.com/]: Home. What we do and who it is for.
-- [https://broadcastwell.com/pricing]: Pricing. The free mini-audit, the four-engine audit, and the monthly program.
-- [https://broadcastwell.com/faq]: FAQ. How the measurement works, what it does not claim, and the three open roles.
-- [https://broadcastwell.com/faq#hiring]: Careers. Three open roles with published salary bands, all remote and US-based. Applications go through Wellfound.
+- [https://broadcastwell.com/pricing]: Pricing. The free mini-audit, the AI Visibility Diagnostic, and the monthly program.
+- [https://broadcastwell.com/methodology]: Methodology, version 1.0, 25 August 2026. The documented method behind every client figure: the question set, the four engines queried, the repeat runs, the scoring rules, and how uncertainty is calculated and reported. Versioned and dated, with a change log.
+- [https://broadcastwell.com/faq]: FAQ. How the measurement works, what it costs, what it does not claim, and how client evidence is handled.
 - [https://broadcastwell.com/generative-engine-optimization-services]: Generative engine optimization services. What is delivered each month, what is re-scored each quarter, the published price ladder, and what GEO is not.
 - [https://broadcastwell.com/ai-visibility-audit]: AI visibility audit. What an audit measures, what the free one contains, and what it cannot tell you.
-- [https://broadcastwell.com/ai-visibility-audit#sample-findings]: Sample findings document. The two-page findings document the four-engine audit returns, run on Broadcastwell itself, with the July and August 2026 figures and [SAMPLE] markers wherever a figure does not exist.
+- [https://broadcastwell.com/ai-visibility-audit#sample-findings]: Illustrative findings structure. A clearly labelled example of the complete four-engine report; it is not a Broadcastwell or client result.
