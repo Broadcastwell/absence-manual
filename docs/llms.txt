@@ -10,7 +10,7 @@ Reporting cadence: brand mentions, citations and the sources engines pull from a
 90-day proof gate: baseline and first quarterly re-score use the same documented three-repeat protocol. If the agreed tracked questions have not improved, we do not invoice month four. You keep every run, every answer, every citation and every source we collected.
 Money back if it is not the right fit: The $1,500 audit and month one of the program are refundable in full, no questions asked, at any time before month two is invoiced.
 Receipts on every answer: every observed answer is delivered to the client in full, with the engine that returned it, the date and time it ran, and every source it cited, wins and losses alike. No figure is reported that cannot be traced back to the answers underneath it.
-Prompt classes are never blended: every question in a Diagnostic names no brand at all. Questions that name a competitor, or name the client, are reported as separate figures with the class stated, and are never folded into one headline number.
+Prompt classes are never blended: no question in a Diagnostic names the client; three of the ten ask for alternatives to a named incumbent and two compare named rivals, and the client is never one of the names. Questions that name a competitor, or name the client, are reported as separate figures with the class stated, and are never folded into one headline number.
 Your data leaves with you: the question set, citation logs, observed answers and reports belong to the client, returned in an open, machine-readable format within five business days of the request and at no charge if the engagement ends, for any reason.
 The published account: where a reduced rate is agreed it is a trade rather than a discount, exchanged for a published account of the work stating what was measured, what was changed and what moved. Published only with the client's explicit written approval.
 
@@ -41,11 +41,12 @@ The published account: where a reduced rate is agreed it is a trade rather than 
 - [https://broadcastwell.com/ai-search-visibility-healthcare-rcm-software]: Healthcare revenue cycle management software, measured across four AI engines.
 - [https://broadcastwell.com/ai-search-visibility-legal-practice-software]: Legal practice management software, measured across four AI engines.
 - [https://broadcastwell.com/ai-search-visibility-radiology-imaging-software]: Radiology and imaging software, measured across four AI engines.
-- [https://broadcastwell.com/ai-search-visibility-field-service-software]: Field service management software, and what we have not yet measured in it.
 
 ## Company
 
 - [https://broadcastwell.com/]: Home. What we do and who it is for.
+- [https://broadcastwell.com/about]: About. Who Broadcastwell is: the founder, the team of 12 across four cities, and the published research.
+- [https://broadcastwell.com/careers]: Careers. Open roles. Every opening is posted on Wellfound first.
 - [https://broadcastwell.com/pricing]: Pricing. The free mini-audit, the AI Visibility Diagnostic, and the monthly program.
 - [https://broadcastwell.com/methodology]: Methodology, version 1.0, 25 August 2026. The documented method behind every client figure: the question set, the four engines queried, the repeat runs, the scoring rules, and how uncertainty is calculated and reported. Versioned and dated, with a change log.
 - [https://broadcastwell.com/faq]: FAQ. How the measurement works, what it costs, what it does not claim, and how client evidence is handled.
