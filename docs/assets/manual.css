@@ -53,7 +53,9 @@ body { font-family: Inter, sans-serif; }
 @media (max-width: 44.9375em) {
   .md-header.bw-header, .bw-header .md-header__inner { height: 64px; }
   .bw-header .md-header__title { display: none; }
-  .bw-back { display: block; margin-left: auto; font-size: .7rem; white-space: nowrap; }
+  .bw-wordmark { font-size: .9rem; }
+  .bw-back { display: block; margin-left: auto; font-size: .55rem; white-space: nowrap; }
+  .bw-header label[for="__search"], .bw-header .md-search { display: none; }
   .md-content__inner { padding-top: 2.5rem; }
   .md-typeset h1 { font-size: 2.25rem; }
   .md-typeset h2 { font-size: 1.75rem; margin-top: 3rem; }
