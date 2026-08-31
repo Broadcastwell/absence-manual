@@ -25,6 +25,8 @@ SITE = ROOT / "site"
 FOOTER_MARK = "## About this manual"
 
 CSS = """
+@font-face { font-family: "Inter"; src: url("docs/assets/fonts/inter-regular.ttf") format("truetype"); font-weight: 400; }
+@font-face { font-family: "Inter"; src: url("docs/assets/fonts/inter-bold.ttf") format("truetype"); font-weight: 700; }
 @page {
   size: A4;
   margin: 22mm 20mm 20mm 20mm;
@@ -32,7 +34,7 @@ CSS = """
   @top-center { content: "The Absence Manual"; font-size: 8pt; color: #999; }
 }
 @page :first { @top-center { content: ""; } @bottom-center { content: ""; } }
-body { font-family: "DejaVu Serif", Georgia, serif; font-size: 10pt; line-height: 1.45; color: #111; }
+body { font-family: "Inter", sans-serif; font-size: 10pt; line-height: 1.45; color: #111; }
 h1 { font-size: 19pt; line-height: 1.2; margin: 0 0 4mm 0; page-break-before: always; page-break-after: avoid; }
 h1.first { page-break-before: avoid; }
 h2 { font-size: 12.5pt; margin: 7mm 0 2mm 0; page-break-after: avoid; }
@@ -45,7 +47,7 @@ th { background: #f0f0f0; }
 img { max-width: 100%; page-break-inside: avoid; }
 figure { margin: 4mm 0; page-break-inside: avoid; }
 figcaption { font-size: 8.5pt; color: #555; margin-top: 1.5mm; }
-code { font-family: "DejaVu Sans Mono", monospace; font-size: 8.5pt; }
+code { font-family: "Inter", sans-serif; font-size: 8.5pt; }
 a { color: #14418b; text-decoration: none; }
 strong { font-weight: 700; }
 .cover { page-break-after: always; text-align: left; padding-top: 55mm; }
