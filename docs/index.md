@@ -16,7 +16,7 @@ is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
 
 The Absence Manual is a technical manual on AI search visibility for B2B software: how to measure how often an AI answer names your company, how to read what that measurement does and does not tell you, and what the evidence actually supports doing about it. Every finding in it is drawn from three already-published studies with DOIs, open data and open analysis code. It is free, ungated and permanently online. There is no form, no login, no paywall and no email field anywhere on this site, because an AI crawler issues a plain HTTP request and cannot fill in a form. A gated manual about citability would refute itself.
 
-**Author.** Sairam Sivakumar, Broadcastwell.
+**Author.** [Sairam Sivakumar, Broadcastwell](https://broadcastwell.com/about).
 
 > **Operator disclosure.** Broadcastwell ran this measurement and sells services in the category it measures. Broadcastwell is excluded from the measured sample and from every ranking. The mitigation is not that the conflict is absent, it is that the raw data and the code are public and the result can be recomputed by anyone who disagrees.
 
@@ -45,6 +45,32 @@ A claim with no label is a defect. If you find one, it is a mistake and it will 
 ## How to read it
 
 Every chapter has its own permanent URL and stands alone. Statistics carry their sample size in the sentence that states them. Limitations are stated in the body of the argument rather than collected at the end where they can be skipped. Where the evidence is strong the claim is unhedged, and where it is thin the chapter says so and names the base it rests on. Where a number is missing or two published sources disagree, the manual flags the gap rather than filling it with a plausible value.
+
+## Reading paths
+
+### I need to understand the category
+
+About 20 minutes.
+
+1. [Selection, not ranking](selection-not-ranking.md)
+2. [One in three vendors is never named](named-zero-times.md)
+3. [The Absence Ladder](absence-ladder.md)
+
+### I need to evaluate a provider
+
+About 25 minutes.
+
+1. [What a valid measurement requires](valid-measurement.md)
+2. [How to buy GEO without getting sold a number](how-to-buy-geo.md)
+3. [Scoring and matching specification](scoring-spec.md)
+
+### I need to run a measurement program
+
+About 30 minutes.
+
+1. [The ten-question buyer bank](question-bank.md)
+2. [Absence classification rules and precedence](absence-rules.md)
+3. [How long this actually takes](how-long-it-takes.md)
 
 ## Chapters
 
@@ -83,6 +109,8 @@ Every chapter and appendix is published. A slug published once is permanent: ver
 ## For marketing leaders
 
 If you are not going to read a technical manual, start with [what AI search is doing to your category](for-buyers.md). Plain language, no jargon, one page.
+
+If you want this run for your category: [broadcastwell.com/pricing](https://broadcastwell.com/pricing).
 
 ## Notes
 

@@ -26,7 +26,13 @@ ALT_TEXT_FLOOR = 40
 OWNERSHIP_PROOF = "googlefda93e56a71f6d4d.html"
 
 EM_DASH = "—"
+EN_DASH = "–"
 DOUBLE_HYPHEN = "-" + "-"
+BANNED_DASH_ENTITIES = re.compile(r"&(mdash|ndash|#8211|#8212);", re.I)
+APPROVED_PALETTE = {
+    "#111827", "#475569", "#64748B", "#94A3B8", "#BFDBFE",
+    "#1D4ED8", "#3B82F6", "#EFF6FF", "#FFFFFF",
+}
 
 VALID_CLASSES = {"chapter", "note", "appendix", "page"}
 TECHARTICLE_CLASSES = {"chapter", "appendix"}
@@ -184,8 +190,24 @@ for src in sorted(DOCS.rglob("*.md")):
     text = TABLE_RULE.sub("", FRONT_MATTER.sub("", src.read_text(encoding="utf8")))
     if EM_DASH in text:
         fail("%s contains an em dash in its prose" % rel)
+    if EN_DASH in text:
+        fail("%s contains an en dash in its prose" % rel)
+    if BANNED_DASH_ENTITIES.search(text):
+        fail("%s contains a banned dash entity in its prose" % rel)
     if DOUBLE_HYPHEN in text:
         fail("%s contains a double hyphen in its prose" % rel)
+
+
+# ---------- shared palette source scan ----------
+
+for asset in [DOCS / "assets" / "manual.css", DOCS / "assets" / "absence-manual-2026-08.svg"]:
+    if not asset.exists():
+        fail("shared visual asset %s is missing" % asset.relative_to(DOCS))
+        continue
+    colours = re.findall(r"#[0-9A-Fa-f]{6}", asset.read_text(encoding="utf8"))
+    for colour in colours:
+        if colour.upper() not in APPROVED_PALETTE:
+            fail("%s uses colour %s outside the approved blue and neutral palette" % (asset.relative_to(DOCS), colour))
 
 
 # ---------- per page checks ----------

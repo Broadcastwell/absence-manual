@@ -1,6 +1,49 @@
 {% extends "base.html" %}
 
+{% block htmltitle %}
+{% if page and page.title and not page.is_homepage %}
+<title>{{ page.title | striptags }} | {{ config.site_name }}</title>
+{% else %}
+<title>{{ config.site_name }}</title>
+{% endif %}
+{% endblock %}
+
 {% block extrahead %}
+{% set social_title = (page.title if page and page.title else config.site_name) | string %}
+{% set social_description = (page.meta.get("description", config.site_description) if page and page.meta else config.site_description) | string %}
+{% set social_image = (config.site_url ~ "assets/absence-manual-2026-08.svg") | string %}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Broadcastwell">
+<meta property="og:title" content="{{ social_title }}">
+<meta property="og:description" content="{{ social_description }}">
+<meta property="og:url" content="{{ page.canonical_url if page and page.canonical_url else config.site_url }}">
+<meta property="og:image" content="{{ social_image }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ social_title }}">
+<meta name="twitter:description" content="{{ social_description }}">
+<meta name="twitter:image" content="{{ social_image }}">
+<link rel="icon" href="https://broadcastwell.com/favicon.svg" type="image/svg+xml">
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  window.setTimeout(function () {
+    var status = document.querySelector("[data-bw-search-status]");
+    if (!status || !status.isConnected || status.textContent.indexOf("Initializing search") === -1) return;
+    status.textContent = "Search is unavailable. ";
+    var index = document.createElement("a");
+    index.href = "{{ config.site_url }}#chapters";
+    index.textContent = "Browse the chapter index";
+    status.appendChild(index);
+    status.appendChild(document.createTextNode(" or "));
+    var pdf = document.createElement("a");
+    pdf.href = "{{ config.site_url }}absence-manual.pdf";
+    pdf.textContent = "download the PDF";
+    status.appendChild(pdf);
+    status.appendChild(document.createTextNode("."));
+  }, 7000);
+});
+</script>
 {% set org_same_as = [
   "https://www.linkedin.com/company/broadcastwell",
   "https://github.com/Broadcastwell",
@@ -67,8 +110,28 @@
 {% endif %}
 {% endblock %}
 
+{% block header %}
+<header class="md-header bw-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="The Absence Manual">
+    <a class="bw-wordmark" href="https://broadcastwell.com" aria-label="Broadcastwell">Broadcastwell</a>
+    <label class="md-header__button md-icon" for="__drawer" aria-label="Open chapter navigation">{% include ".icons/material/menu.svg" %}</label>
+    <div class="md-header__title" data-md-component="header-title"><div class="md-header__ellipsis"><div class="md-header__topic"><span class="md-ellipsis">The Absence Manual</span></div><div class="md-header__topic" data-md-component="header-topic"><span class="md-ellipsis">{{ page.title if page and page.title else config.site_name }}</span></div></div></div>
+    <a class="bw-back" href="https://broadcastwell.com">Back to Broadcastwell</a>
+    {% if "material/search" in config.plugins %}
+      <label class="md-header__button md-icon" for="__search" aria-label="Search the Manual">{% include ".icons/material/magnify.svg" %}</label>
+      {% include "partials/search.html" %}
+    {% endif %}
+  </nav>
+</header>
+{% endblock %}
+
 {% block content %}
 {{ super() }}
 <hr>
-<p class="manual-footer-version">{{ config.extra.manual_version_label }}. Author: Sairam Sivakumar, Broadcastwell. Prose and figures CC BY 4.0, site code MIT. Not peer reviewed. Every figure can be recomputed from the public data at <a href="https://github.com/Broadcastwell/state-of-geo-2026">github.com/Broadcastwell/state-of-geo-2026</a>.</p>
+<p class="manual-footer-version">{{ config.extra.manual_version_label }}. Author: <a href="https://broadcastwell.com/about">Sairam Sivakumar, Broadcastwell</a>. Prose and figures CC BY 4.0, site code MIT. Not peer reviewed. Every figure can be recomputed from the public data at <a href="https://github.com/Broadcastwell/state-of-geo-2026">github.com/Broadcastwell/state-of-geo-2026</a>.</p>
+{% endblock %}
+
+{% block footer %}
+{{ super() }}
+<footer class="bw-footer"><div class="md-grid"><p>Broadcastwell ran the measurement behind The Absence Manual and sells services in the category it measures. Broadcastwell is excluded from its own sample and from every ranking. The raw data and the analysis code are public.</p><p><a href="https://docs.broadcastwell.com/">The Absence Manual</a> · <a href="https://docs.broadcastwell.com/absence-manual.pdf">PDF</a> · <a href="https://broadcastwell.com/">Broadcastwell</a></p></div></footer>
 {% endblock %}

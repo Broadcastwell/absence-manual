@@ -19,13 +19,17 @@ theme:
   features:
     - navigation.sections
     - navigation.top
+    - navigation.footer
     - content.action.none
     - toc.follow
   palette:
     scheme: default
-    primary: black
-    accent: indigo
-  font: false
+    primary: custom
+    accent: custom
+  font:
+    text: Inter
+    code: Inter
+  favicon: https://broadcastwell.com/favicon.svg
 
 extra:
   manual_version: "1.0"
