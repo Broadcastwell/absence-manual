@@ -27,6 +27,8 @@ FOOTER_MARK = "## About this manual"
 CSS = """
 @font-face { font-family: "Inter"; src: url("docs/assets/fonts/inter-regular.ttf") format("truetype"); font-weight: 400; }
 @font-face { font-family: "Inter"; src: url("docs/assets/fonts/inter-bold.ttf") format("truetype"); font-weight: 700; }
+@font-face { font-family: "Inter"; src: url("docs/assets/fonts/inter-italic.ttf") format("truetype"); font-style: italic; font-weight: 400; }
+@font-face { font-family: "Inter"; src: url("docs/assets/fonts/inter-bold-italic.ttf") format("truetype"); font-style: italic; font-weight: 700; }
 @page {
   size: A4;
   margin: 22mm 20mm 20mm 20mm;
