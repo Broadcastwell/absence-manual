@@ -12,7 +12,7 @@
 }
 
 body { font-family: Inter, sans-serif; }
-.md-header.bw-header { height: 64px; background: #FFFFFF; border-bottom: 1px solid #3B82F6; box-shadow: none; color: #111827; }
+.md-header.bw-header { height: 65px; background: #FFFFFF; border-bottom: 1px solid #3B82F6; box-shadow: none; color: #111827; }
 .bw-header .md-header__inner { height: 64px; }
 .bw-wordmark { color: #1D4ED8; font-size: 1.2rem; font-weight: 700; letter-spacing: -.04em; text-decoration: none; }
 .bw-header .md-header__button, .bw-header .md-header__title { color: #111827; }
@@ -51,7 +51,8 @@ body { font-family: Inter, sans-serif; }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; } }
 @media (max-width: 76.1875em) { .md-content__inner { max-width: 68ch; } }
 @media (max-width: 44.9375em) {
-  .md-header.bw-header, .bw-header .md-header__inner { height: 64px; }
+  .md-header.bw-header { height: 65px; }
+  .bw-header .md-header__inner { height: 64px; }
   .bw-header .md-header__title { display: none; }
   .bw-wordmark { font-size: .9rem; }
   .bw-back { display: block; margin-left: auto; font-size: .55rem; white-space: nowrap; }
