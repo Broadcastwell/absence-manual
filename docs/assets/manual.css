@@ -52,11 +52,13 @@ body { font-family: Inter, sans-serif; }
 @media (max-width: 76.1875em) { .md-content__inner { max-width: 68ch; } }
 @media (max-width: 44.9375em) {
   .md-header.bw-header, .bw-header .md-header__inner { height: 64px; }
-  .bw-back { display: none; }
+  .bw-header .md-header__title { display: none; }
+  .bw-back { display: block; margin-left: auto; font-size: .7rem; white-space: nowrap; }
   .md-content__inner { padding-top: 2.5rem; }
   .md-typeset h1 { font-size: 2.25rem; }
   .md-typeset h2 { font-size: 1.75rem; margin-top: 3rem; }
   .md-typeset h3 { font-size: 1.25rem; }
   .md-typeset p, .md-typeset li { font-size: 1.125rem; }
+  .md-typeset__scrollwrap { width: 100%; margin-left: 0; margin-right: 0; }
   .md-typeset table:not([class]) { display: block; font-size: .8125rem; }
 }
