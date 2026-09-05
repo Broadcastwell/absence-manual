@@ -32,36 +32,71 @@ CSS = """
 @page {
   size: A4;
   margin: 22mm 20mm 20mm 20mm;
-  @bottom-center { content: counter(page); font-size: 8pt; color: #666; }
-  @top-center { content: "The Absence Manual"; font-size: 8pt; color: #999; }
+  @bottom-center { content: counter(page); font-size: 8pt; color: #475569; }
+  @top-center { content: "The Absence Manual"; font-size: 8pt; color: #475569; }
 }
 @page :first { @top-center { content: ""; } @bottom-center { content: ""; } }
-body { font-family: "Inter", sans-serif; font-size: 10pt; line-height: 1.45; color: #111; }
+body { font-family: "Inter", sans-serif; font-size: 10pt; line-height: 1.45; color: #111827; }
 h1 { font-size: 19pt; line-height: 1.2; margin: 0 0 4mm 0; page-break-before: always; page-break-after: avoid; }
 h1.first { page-break-before: avoid; }
 h2 { font-size: 12.5pt; margin: 7mm 0 2mm 0; page-break-after: avoid; }
 h3 { font-size: 11pt; margin: 5mm 0 2mm 0; page-break-after: avoid; }
 p { margin: 0 0 3mm 0; orphans: 3; widows: 3; }
-blockquote { margin: 3mm 0; padding: 2mm 4mm; border-left: 2pt solid #888; color: #333; font-size: 9.5pt; }
+blockquote { margin: 3mm 0; padding: 2mm 4mm; border-left: 2pt solid #3B82F6; color: #475569; font-size: 9.5pt; }
 table { border-collapse: collapse; width: 100%; font-size: 8.5pt; margin: 3mm 0; page-break-inside: avoid; }
-th, td { border: 0.4pt solid #bbb; padding: 1.4mm 2mm; text-align: left; vertical-align: top; }
-th { background: #f0f0f0; }
+th, td { border: 0.4pt solid #94A3B8; padding: 1.4mm 2mm; text-align: left; vertical-align: top; }
+th { background: #EFF6FF; }
 img { max-width: 100%; page-break-inside: avoid; }
 figure { margin: 4mm 0; page-break-inside: avoid; }
-figcaption { font-size: 8.5pt; color: #555; margin-top: 1.5mm; }
+figcaption { font-size: 8.5pt; color: #475569; margin-top: 1.5mm; }
 code { font-family: "Inter", sans-serif; font-size: 8.5pt; }
-a { color: #14418b; text-decoration: none; }
+a { color: #1D4ED8; text-decoration: none; }
 strong { font-weight: 700; }
-.cover { page-break-after: always; text-align: left; padding-top: 55mm; }
-.cover h1 { font-size: 30pt; page-break-before: avoid; margin-bottom: 6mm; }
-.cover .sub { font-size: 12pt; color: #333; margin-bottom: 18mm; }
-.cover .meta { font-size: 9.5pt; color: #444; line-height: 1.7; }
+.cover { page-break-after: always; text-align: left; padding-top: 48mm; }
+.cover .rule { width: 34mm; height: 1.6mm; background: #3B82F6; margin-bottom: 9mm; }
+.cover h1 { font-size: 30pt; page-break-before: avoid; margin-bottom: 6mm; color: #111827; }
+.cover .sub { font-size: 12pt; color: #475569; margin-bottom: 18mm; }
+.cover .meta { font-size: 9.5pt; color: #475569; line-height: 1.7; }
 .toc { page-break-after: always; }
 .toc h1 { page-break-before: avoid; }
 .toc ol { padding-left: 6mm; }
 .toc li { margin-bottom: 1.4mm; font-size: 10pt; }
 .colophon h1 { page-break-before: always; }
 """
+
+
+SITE_URL = "https://docs.broadcastwell.com/"
+MD_HREF = re.compile(r'href="([^"]+\.md(?:#[^"]*)?)"')
+
+
+def public_url(target):
+    """Map a markdown link between chapters onto the URL a reader can open.
+
+    weasyprint resolves a relative href against the build machine's file system,
+    which put local paths into every published PDF. Slugs are permanent, so the
+    mapping from source file to public URL is fixed: docs/x.md is /x/, and
+    docs/index.md is the site root.
+    """
+    anchor = ""
+    if "#" in target:
+        target, _, fragment = target.partition("#")
+        anchor = "#" + fragment
+    target = re.sub(r"^(?:\./|\.\./)+", "", target)
+    if not target.endswith(".md"):
+        return target + anchor
+    stem = target[: -len(".md")]
+    if stem == "index":
+        return SITE_URL + anchor
+    return SITE_URL + stem + "/" + anchor
+
+
+def link_out(html):
+    """Rewrite every cross-chapter href, then refuse to build if one is left relative."""
+    html = MD_HREF.sub(lambda m: 'href="%s"' % public_url(m.group(1)), html)
+    for href in re.findall(r'href="([^"]*)"', html):
+        if not href.startswith(("http://", "https://", "mailto:", "#")):
+            raise SystemExit("PDF build stopped: a link would resolve against the build machine: " + href)
+    return html
 
 
 def read_order():
@@ -118,7 +153,7 @@ def main():
             colophon = footer
         title = str(meta.get("title") or path.stem)
         titles.append(title)
-        html = md.reset().convert(body)
+        html = link_out(md.reset().convert(body))
         # resolve figure paths so weasyprint can find the images
         html = html.replace('src="figures/', f'src="{(DOCS / "figures").as_uri()}/')
         parts.append(f'<section id="{path.stem}">{html}</section>')
@@ -126,6 +161,7 @@ def main():
     toc_items = "".join(f"<li>{t}</li>" for t in titles)
     cover = f"""
 <div class="cover">
+  <div class="rule"></div>
   <h1 class="first">The Absence Manual</h1>
   <div class="sub">A technical manual on AI search visibility for B2B software.</div>
   <div class="meta">
@@ -143,8 +179,10 @@ def main():
 </div>
 <div class="toc"><h1 class="first">Contents</h1><ol>{toc_items}</ol></div>
 """
-    colophon_html = md.reset().convert(colophon).replace(
-        "<h2>About this manual</h2>", "<h1>About this manual</h1>"
+    colophon_html = link_out(
+        md.reset()
+        .convert(colophon)
+        .replace("<h2>About this manual</h2>", "<h1>About this manual</h1>")
     )
 
     doc = (
