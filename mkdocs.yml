@@ -23,7 +23,7 @@ theme:
     - content.action.none
     - toc.follow
   palette:
-    scheme: default
+    scheme: slate
     primary: custom
     accent: custom
   font:
