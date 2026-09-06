@@ -30,8 +30,11 @@ EN_DASH = "–"
 DOUBLE_HYPHEN = "-" + "-"
 BANNED_DASH_ENTITIES = re.compile(r"&(mdash|ndash|#8211|#8212);", re.I)
 APPROVED_PALETTE = {
+    # Light theme values, still used by the PDF and by the light social card.
     "#111827", "#475569", "#64748B", "#94A3B8", "#BFDBFE",
     "#1D4ED8", "#3B82F6", "#EFF6FF", "#FFFFFF",
+    # Dark theme values, the ones the marketing site serves.
+    "#0A0A0B", "#0A0E1A", "#F8FAFC", "#CBD5E1",
 }
 
 VALID_CLASSES = {"chapter", "note", "appendix", "page"}
@@ -200,7 +203,11 @@ for src in sorted(DOCS.rglob("*.md")):
 
 # ---------- shared palette source scan ----------
 
-for asset in [DOCS / "assets" / "manual.css", DOCS / "assets" / "absence-manual-2026-08.svg"]:
+for asset in [
+    DOCS / "assets" / "manual.css",
+    DOCS / "assets" / "absence-manual-2026-08.svg",
+    DOCS / "assets" / "absence-manual-2026-09.svg",
+]:
     if not asset.exists():
         fail("shared visual asset %s is missing" % asset.relative_to(DOCS))
         continue
