@@ -54,5 +54,5 @@ The published account: where a reduced rate is agreed it is a trade rather than 
 - [https://broadcastwell.com/methodology]: Methodology, version 1.1, 8 September 2026. The documented method behind every client figure: the question set, the engines queried, the repeat runs, the scoring rules, and how uncertainty is calculated and reported. Versioned and dated, with a change log.
 - [https://broadcastwell.com/faq]: FAQ. How the measurement works, what it costs, what it does not claim, and how client evidence is handled.
 - [https://broadcastwell.com/generative-engine-optimization-services]: Generative engine optimization services. What is delivered each month, what is re-scored each quarter, the published price ladder, and what GEO is not.
-- [https://broadcastwell.com/ai-visibility-audit]: AI visibility audit. What an audit measures, what the free one contains, and what it cannot tell you.
+- [https://broadcastwell.com/ai-visibility-audit]: AI visibility audit. What the $490 Category Audit measures, what the free 10-question check contains, and what neither of them can tell you.
 - [https://broadcastwell.com/ai-visibility-audit#sample-findings]: Illustrative findings structure. A clearly labelled example of the complete report; it is not a Broadcastwell or client result.

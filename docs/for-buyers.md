@@ -5,7 +5,7 @@ description: "A short, plain-language account of how AI answers pick which vendo
 page_class: page
 schema_type: Article
 date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-08-18T00:00:00+00:00"
+date_modified: "2026-09-10T00:00:00+00:00"
 is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
 ---
 
@@ -70,6 +70,8 @@ We also measure ourselves on the same terms. In our own most recent check, acros
 If you are evaluating suppliers or tools, [Chapter 12: How to buy GEO without getting sold a number](https://docs.broadcastwell.com/how-to-buy-geo/) is the practical companion to this page. It has twelve questions to put to any supplier, a description of what a defensible deliverable looks like, and a section on when the right decision is to hire nobody at all.
 
 If you want the underlying research, [the manual itself](https://docs.broadcastwell.com/) is free, ungated and has no email capture anywhere on it. It is one chapter per page and every number in it traces back to a published dataset you can download.
+
+If you want this measured for your own category rather than done by hand, the [free 10-question check](https://audit.broadcastwell.com) runs ten buyer questions on one engine in under a minute. The paid ladder is three rungs: the Category Audit at $490 once, the AI Visibility Diagnostic at $1,500 once, and the program at $13,500 per 90 days billed $4,500 monthly. Every figure comes from the [published method, v1.1](https://broadcastwell.com/methodology), and the ladder is set out at [broadcastwell.com/pricing](https://broadcastwell.com/pricing).
 
 ## About this manual
 

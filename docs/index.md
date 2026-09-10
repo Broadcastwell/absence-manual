@@ -5,7 +5,7 @@ description: "A free, ungated technical manual on measuring and fixing AI search
 schema_type: TechArticle
 page_class: page
 date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-08-18T00:00:00+00:00"
+date_modified: "2026-09-10T00:00:00+00:00"
 image: "figures/absence-ladder.png"
 is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
 ---
@@ -110,7 +110,17 @@ Every chapter and appendix is published. A slug published once is permanent: ver
 
 If you are not going to read a technical manual, start with [what AI search is doing to your category](for-buyers.md). Plain language, no jargon, one page.
 
-If you want this run for your category: [broadcastwell.com/pricing](https://broadcastwell.com/pricing).
+## If you want this run for your category
+
+Start with the [free 10-question check](https://audit.broadcastwell.com): ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter that addresses it. It runs in the browser in under a minute.
+
+**Category Audit, $490 once.** One category, ten buyer questions, five engines, three measured runs. Which vendors the engines named instead with counts, which of the ten questions you lose, the sources the engines read, your position on the absence ladder, and a written findings document with three prioritised fixes, within 48 hours of the category being confirmed. The full $490 is credited against the Diagnostic if the Diagnostic is bought within 30 days. [Buy the Category Audit](https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400).
+
+**AI Visibility Diagnostic, $1,500 once.** 35 category-defining buyer questions across five engines, three scheduled runs per question and engine plus up to two further runs on any pair whose verdicts disagreed: 525 scheduled observed answers, named and cited outcomes reported separately, competitor and source analysis, a receipts appendix and a prioritised plan. The full $1,500 is credited against the program. [Buy the Diagnostic](https://buy.stripe.com/4gM7sMgDOdmYbi93grds401).
+
+**The program, $13,500 per 90 days, billed $4,500 monthly.** A 90 day initial term, then month to month. Sold by conversation at [broadcastwell.com/contact](https://broadcastwell.com/contact).
+
+Agencies buy the same work wholesale at $1,000 per client per month at [broadcastwell.com/for-agencies](https://broadcastwell.com/for-agencies). Every figure comes from the [published method, v1.1](https://broadcastwell.com/methodology). The full ladder is at [broadcastwell.com/pricing](https://broadcastwell.com/pricing).
 
 ## Notes
 
