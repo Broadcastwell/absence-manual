@@ -21,6 +21,8 @@ is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
 
 **Measured.** All three are published under CC BY 4.0 with their data and analysis code at [github.com/Broadcastwell/state-of-geo-2026](https://github.com/Broadcastwell/state-of-geo-2026). Zenodo also issues a concept identifier covering all versions of the series, which resolves to the latest version. It is not a volume and it is cited nowhere in this manual.
 
+**Measured.** The Volume II paper, The Absence Ladder, is published in full as an open PDF at [The Absence Ladder. The 2026 State of GEO, Volume II](https://docs.broadcastwell.com/absence-ladder-volume-ii.pdf). It carries the same figures, method statement and disclaimers as the record cited above.
+
 **Cite Volume III as:** Sivakumar, S. (2026). Divergence Survives a Length Control on Google AI Overviews and Vanishes on Claude. Measuring Vendor-Set Agreement Across Four AI Search Engines. The 2026 State of Generative Engine Optimization, v3.0. Zenodo.
 
 ## External work cited in this manual
