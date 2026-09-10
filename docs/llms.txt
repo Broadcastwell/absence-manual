@@ -4,6 +4,64 @@
 
 Free 10-question check: ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter of The Absence Manual that addresses it. Runs in the browser in under a minute. An email address is used only to enforce one result per address per day. Addresses are kept for 24 months, with no mailing list. https://audit.broadcastwell.com
 Category Audit: $490 once. One category, ten buyer questions, five engines, three measured runs. Which vendors the engines named instead with counts, which of the ten questions you lose, the sources the engines read to answer, your position on the absence ladder, and a written findings document with three prioritised fixes. Findings within 48 hours of the category being confirmed by email. The full $490 is credited against the Diagnostic if the Diagnostic is bought within 30 days. Buy it at https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400
+AI Visibility Diagnostic: 35 category-defining buyer questions across ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, with three scheduled runs per question and engine and up to two further runs on any pair whose verdicts disagreed: 525 scheduled observed answers, named and cited outcomes reported separately with numerator, denominator and a 95 percent confidence interval, competitor and source analysis, limitations, run-to-run spread, a receipts appendix, machine-readable data files, and a prioritised evidence, content and distribution plan. $990 once, credited in full against the program if the client starts the program. Buy it at https://buy.stripe.com/4gM7sMgDOdmYbi93grds401
+The Program: $13,500 per 90 days, billed $4,500 monthly, with a 90 day initial term, then month to month. Client stories are published only with explicit approval; reviews are optional and never required or incentivized.
+Agency Wholesale: $1,000 per client per month. The monthly measurement on the ten core questions across five engines, the movement statement, the fix list, and a report the agency can put its own name on. One Diagnostic on one of your clients, free, delivered under your name, so you can see the work before you buy. No minimum. Monthly term. Details at https://broadcastwell.com/for-agencies
+The Absence Manual, free and ungated, 13 chapters and 5 appendices: https://docs.broadcastwell.com/ (PDF: https://docs.broadcastwell.com/absence-manual.pdf)
+Reporting cadence: brand mentions, citations and the sources engines pull from are reported every month. The 35 question re-score across five engines runs every quarter, because one run is not a trend and a monthly headline score cannot separate signal from run-to-run variance. Month one is a baseline, not a verdict.
+90-day proof gate: baseline and first quarterly re-score use the same documented three-repeat protocol. If the agreed tracked questions have not improved, we do not invoice month four. You keep every run, every answer, every citation and every source we collected.
+Money back if it is not the right fit: The $990 Diagnostic and month one of the program are refundable in full, no questions asked, at any time before month two is invoiced.
+Receipts on every answer: every observed answer is delivered to the client in full, with the engine that returned it, the date and time it ran, and every source it cited, wins and losses alike. No figure is reported that cannot be traced back to the answers underneath it.
+Prompt classes are never blended: no question in a Diagnostic names the client; some ask for alternatives to a named incumbent and some compare named rivals, and the client is never one of the names. Questions that name a competitor, or name the client, are reported as separate figures with the class stated, and are never folded into one headline number.
+Your data leaves with you: the question set, citation logs, observed answers and reports belong to the client, returned in an open, machine-readable format within five business days of the request and at no charge if the engagement ends, for any reason.
+The published account: where a reduced rate is agreed it is a trade rather than a discount, exchanged for a published account of the work stating what was measured, what was changed and what moved. Published only with the client's explicit written approval.
+
+## Research
+
+- [https://broadcastwell.com/state-of-geo]: The 2026 State of GEO. 860 answers scored on one engine held constant, Claude Sonnet with live web search, with the method published in full.
+- [https://broadcastwell.com/absence-ladder]: The Absence Ladder. How the shape of a company's AI invisibility changes as its visibility rises.
+- [https://broadcastwell.com/engine-divergence]: Engine divergence. Whether four AI search engines return the same vendors, measured against each engine's own run-to-run noise across 280 B2B buyer questions in 40 categories.
+- [https://broadcastwell.com/geo-statistics]: GEO and AI search visibility statistics 2026. The key figures from all three studies as citable lines, each with its DOI.
+- [https://broadcastwell.com/visibility]: AI visibility measurement framework. A clearly labelled illustrative four-engine scorecard and the protocol used for client baselines and re-scores.
+- [https://broadcastwell.com/geo-agencies-measured]: GEO agencies measured. A dated category research snapshot showing how name-seeded prompts can inflate raw mention counts.
+- [https://broadcastwell.com/improve-ai-search-visibility]: How to improve AI search visibility. What moves a vendor into AI answers, and what does not.
+- [https://broadcastwell.com/geo-vs-seo]: GEO vs SEO. What differs mechanically between ranking and being named, grounded in three open datasets.
+
+## Comparisons
+
+- [https://broadcastwell.com/omniscient-digital-alternatives]: Omniscient Digital alternatives, measured across four AI engines.
+- [https://broadcastwell.com/minuttia-alternatives]: Minuttia alternatives, measured across four AI engines.
+- [https://broadcastwell.com/hamster-garage-vs-rampiq]: Hamster Garage vs Rampiq, measured across four AI engines.
+- [https://broadcastwell.com/zupo-vs-omniscient-digital]: Zupo vs Omniscient Digital, measured across four AI engines.
+- [https://broadcastwell.com/chatgpt-perplexity-visibility-agencies]: Best agencies for ChatGPT and Perplexity visibility, measured.
+- [https://broadcastwell.com/ai-seo-agencies-b2b-lead-generation]: AI SEO agencies for B2B lead generation, measured.
+- [https://broadcastwell.com/which-agency-for-llm-search-visibility]: Which agency to pick for LLM search visibility, measured.
+
+## Verticals
+
+- [https://broadcastwell.com/ai-search-visibility-dealership-software]: Powersports dealership management software, measured across four AI engines.
+- [https://broadcastwell.com/ai-search-visibility-healthcare-rcm-software]: Healthcare revenue cycle management software, measured across four AI engines.
+- [https://broadcastwell.com/ai-search-visibility-legal-practice-software]: Legal practice management software, measured across four AI engines.
+- [https://broadcastwell.com/ai-search-visibility-radiology-imaging-software]: Radiology and imaging software, measured across four AI engines.
+
+## Company
+
+- [https://broadcastwell.com/]: Home. What we do and who it is for.
+- [https://broadcastwell.com/about]: About. Who Broadcastwell is: the founder, the team of 12 across four cities, and the published research.
+- [https://broadcastwell.com/careers]: Careers. Open roles. Every opening is posted on Wellfound first.
+- [https://broadcastwell.com/for-agencies]: For agencies. Agency Wholesale at $1,000 per client per month, what the agency gets each month, and how to start.
+- [https://broadcastwell.com/pricing]: Pricing. The free 10-question check, the Category Audit, the AI Visibility Diagnostic, the Program and Agency Wholesale.
+- [https://broadcastwell.com/methodology]: Methodology, version 1.1, 8 September 2026. The documented method behind every client figure: the question set, the engines queried, the repeat runs, the scoring rules, and how uncertainty is calculated and reported. Versioned and dated, with a change log.
+- [https://broadcastwell.com/faq]: FAQ. How the measurement works, what it costs, what it does not claim, and how client evidence is handled.
+- [https://broadcastwell.com/generative-engine-optimization-services]: Generative engine optimization services. What is delivered each month, what is re-scored each quarter, the published price ladder, and what GEO is not.
+- [https://broadcastwell.com/ai-visibility-audit]: AI visibility audit. What the $490 Category Audit measures, what the free 10-question check contains, and what neither of them can tell you.
+- [https://broadcastwell.com/ai-visibility-audit#sample-findings]: Illustrative findings structure. A clearly labelled example of the complete report; it is not a Broadcastwell or client result.
+# Broadcastwell
+
+> Broadcastwell is an AI search visibility agency for vertical B2B software companies. We measure how often AI engines name a vendor in buyer answers, then build the third-party evidence those engines read.
+
+Free 10-question check: ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter of The Absence Manual that addresses it. Runs in the browser in under a minute. An email address is used only to enforce one result per address per day. Addresses are kept for 24 months, with no mailing list. https://audit.broadcastwell.com
+Category Audit: $490 once. One category, ten buyer questions, five engines, three measured runs. Which vendors the engines named instead with counts, which of the ten questions you lose, the sources the engines read to answer, your position on the absence ladder, and a written findings document with three prioritised fixes. Findings within 48 hours of the category being confirmed by email. The full $490 is credited against the Diagnostic if the Diagnostic is bought within 30 days. Buy it at https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400
 AI Visibility Diagnostic: 35 category-defining buyer questions across ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, with three scheduled runs per question and engine and up to two further runs on any pair whose verdicts disagreed: 525 scheduled observed answers, named and cited outcomes reported separately with numerator, denominator and a 95 percent confidence interval, competitor and source analysis, limitations, run-to-run spread, a receipts appendix, machine-readable data files, and a prioritised evidence, content and distribution plan. $1,500 once, credited in full against the program if the client starts the program. Buy it at https://buy.stripe.com/4gM7sMgDOdmYbi93grds401
 The Program: $13,500 per 90 days, billed $4,500 monthly, with a 90 day initial term, then month to month. Client stories are published only with explicit approval; reviews are optional and never required or incentivized.
 Agency Wholesale: $1,000 per client per month. The monthly measurement on the ten core questions across five engines, the movement statement, the fix list, and a report the agency can put its own name on. One Diagnostic on one of your clients, free, delivered under your name, so you can see the work before you buy. No minimum. Monthly term. Details at https://broadcastwell.com/for-agencies
