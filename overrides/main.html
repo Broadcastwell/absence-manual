@@ -129,6 +129,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
 {% block content %}
 {{ super() }}
+{% if page and not page.is_homepage %}
+<section aria-label="A measured next step" style="margin:2rem 0;padding:1.25rem;border:1px solid #425069;border-radius:12px">
+<h2>A measured next step</h2>
+<p>AI answers vary. Repeated observations show who is named instead, the observed sources and the changes to test.</p>
+<div style="display:flex;flex-wrap:wrap;gap:12px">
+<a href="https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400" style="display:inline-block;box-sizing:border-box;max-width:100%;padding:12px 16px;border:1px solid #416fe8;border-radius:8px;background:#416fe8;color:#fff;font-weight:600">Start with the $490 Category Audit</a>
+<a href="https://buy.stripe.com/4gM7sMgDOdmYbi93grds401" style="display:inline-block;box-sizing:border-box;max-width:100%;padding:12px 16px;border:1px solid #8b9ec4;border-radius:8px;background:transparent;color:inherit;font-weight:600">Get the Diagnostic, $990</a>
+</div>
+<p><a href="https://audit.broadcastwell.com/">Try the free 10-question check</a></p>
+<p>See the <a href="https://broadcastwell.com/terms">terms for credits and refunds</a>.</p>
+</section>
+{% endif %}
 <hr>
 <p class="manual-footer-version">{{ config.extra.manual_version_label }}. Author: <a href="https://broadcastwell.com/about">Sairam Sivakumar, Broadcastwell</a>. Prose and figures CC BY 4.0, site code MIT. Not peer reviewed. Every figure can be recomputed from the public data at <a href="https://github.com/Broadcastwell/state-of-geo-2026">github.com/Broadcastwell/state-of-geo-2026</a>.</p>
 {% endblock %}
