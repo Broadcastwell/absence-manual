@@ -112,15 +112,19 @@ If you are not going to read a technical manual, start with [what AI search is d
 
 ## If you want this run for your category
 
-Start with the [free 10-question check](https://audit.broadcastwell.com): ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter that addresses it. It runs in the browser in under a minute.
+Offer record, current as of 11 September 2026.
 
-**Category Audit, $490 once.** One category, ten buyer questions, five engines, three measured runs. Which vendors the engines named instead with counts, which of the ten questions you lose, the sources the engines read, your position on the absence ladder, and a written findings document with three prioritised fixes, within 48 hours of the category being confirmed. The full $490 is credited against the Diagnostic if the Diagnostic is bought within 30 days. [Buy the Category Audit](https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400).
+The [free 10-question check](https://audit.broadcastwell.com): ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter that addresses it. It runs in the browser in under a minute.
 
-**AI Visibility Diagnostic, $990 once.** 35 category-defining buyer questions across five engines, three scheduled runs per question and engine plus up to two further runs on any pair whose verdicts disagreed: 525 scheduled observed answers, named and cited outcomes reported separately, competitor and source analysis, a receipts appendix and a prioritised plan. The full $990 is credited against the program. [Buy the Diagnostic](https://buy.stripe.com/4gM7sMgDOdmYbi93grds401).
+**Category Audit, $490 once.** One category, ten buyer questions, five engines, three measured runs. Which vendors the engines named instead with counts, which of the ten questions you lose, the sources the engines read, your position on the absence ladder, and a written findings document with three prioritised fixes, within 48 hours of the category being confirmed. The full $490 is credited against the Diagnostic if the Diagnostic is bought within 30 days. [Start with the $490 Category Audit](https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400){ .md-button .md-button--primary }
+
+**AI Visibility Diagnostic, $990 once.** 35 buyer questions across shortlist, role, use case and evaluation groups across five engines, three scheduled runs per question and engine plus up to two further runs on any pair whose verdicts disagreed: 525 scheduled observed answers, named and cited outcomes reported separately, competitor and source analysis, a receipts appendix and a prioritised plan. Adaptive observations are extra. AI answers vary, so repeated observations and their disagreement are reported. The full $990 is credited against the program's first monthly invoice. [Get the Diagnostic, $990](https://buy.stripe.com/4gM7sMgDOdmYbi93grds401){ .md-button }
 
 **The program, $13,500 per 90 days, billed $4,500 monthly.** A 90 day initial term, then month to month. Sold by conversation at [broadcastwell.com/contact](https://broadcastwell.com/contact).
 
-Agencies buy the same work wholesale at $1,000 per client per month for the first client and $490 per client per month for each additional client at [broadcastwell.com/for-agencies](https://broadcastwell.com/for-agencies). Every figure comes from the [published method, v1.1](https://broadcastwell.com/methodology). The full ladder is at [broadcastwell.com/pricing](https://broadcastwell.com/pricing).
+Agencies buy the same work wholesale at $1,000 per client per month for the first client and $490 per client per month for each additional client at [broadcastwell.com/for-agencies](https://broadcastwell.com/for-agencies). Three clients are $1,980 a month; five clients are $2,960 a month. The agency keeps the client relationship and implements the fixes. Every figure comes from the [published method, v1.1](https://broadcastwell.com/methodology). The full ladder is at [broadcastwell.com/pricing](https://broadcastwell.com/pricing).
+
+If Broadcastwell is not the right fit, you get your money back. A standalone Category Audit or AI Visibility Diagnostic is refundable in full, no questions asked, if requested within 30 days of delivery of the findings. The first month of the program is refundable in full, no questions asked, at any time before month two is invoiced. You do not need to give a reason, and you keep every deliverable produced up to that point. The only exception is third-party costs paid on your behalf, and we tell you about any of those before they are incurred. See the [master refund and proof-gate terms](https://broadcastwell.com/terms).
 
 ## Notes
 
