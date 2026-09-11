@@ -120,7 +120,7 @@ Start with the [free 10-question check](https://audit.broadcastwell.com): ten bu
 
 **The program, $13,500 per 90 days, billed $4,500 monthly.** A 90 day initial term, then month to month. Sold by conversation at [broadcastwell.com/contact](https://broadcastwell.com/contact).
 
-Agencies buy the same work wholesale at $1,000 per client per month at [broadcastwell.com/for-agencies](https://broadcastwell.com/for-agencies). Every figure comes from the [published method, v1.1](https://broadcastwell.com/methodology). The full ladder is at [broadcastwell.com/pricing](https://broadcastwell.com/pricing).
+Agencies buy the same work wholesale at $1,000 per client per month for the first client and $490 per client per month for each additional client at [broadcastwell.com/for-agencies](https://broadcastwell.com/for-agencies). Every figure comes from the [published method, v1.1](https://broadcastwell.com/methodology). The full ladder is at [broadcastwell.com/pricing](https://broadcastwell.com/pricing).
 
 ## Notes
 
