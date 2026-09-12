@@ -5,7 +5,7 @@ description: "A free, ungated technical manual on measuring and fixing AI search
 schema_type: TechArticle
 page_class: page
 date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-10T00:00:00+00:00"
+date_modified: "2026-09-12T00:00:00+00:00"
 image: "figures/absence-ladder.png"
 is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
 ---
@@ -98,13 +98,13 @@ About 30 minutes.
 | B | [Absence classification rules and precedence](absence-rules.md) | Published |
 | C | [Scoring and matching specification](scoring-spec.md) | Published |
 | D | [Glossary](glossary.md) | Published |
-| E | [References and self-audit disclosure](references.md) | Published |
+| E | [References and research provenance](references.md) | Published |
 
 Every chapter and appendix is published. A slug published once is permanent: version numbers change, URLs never do. See the [changelog](https://github.com/Broadcastwell/absence-manual/blob/main/CHANGELOG.md).
 
 ## The whole manual as one PDF
 
-[Download the complete manual as a PDF](https://docs.broadcastwell.com/absence-manual.pdf). Every chapter, every appendix, the source table with its DOIs and both dated self-audit lines, in one file. It is generated from this same source in the same build, so the PDF and the pages cannot drift apart. There is no form, no email field and no login: the link downloads the file. That address always serves the current version, and the versioned filename is preserved alongside it.
+[Download the complete manual as a PDF](https://docs.broadcastwell.com/absence-manual.pdf). Every chapter, every appendix, the source table with its DOIs and the dated research provenance, in one file. It is generated from this same source in the same build, so the PDF and the pages cannot drift apart. There is no form, no email field and no login: the link downloads the file. That address always serves the current version, and the versioned filename is preserved alongside it.
 
 ## For marketing leaders
 
@@ -135,6 +135,6 @@ Short standalone pieces cut from the chapters, each linking back to its parent.
 
 ## Licence and status
 
-Prose and figures are published under CC BY 4.0. The site code is MIT. Nothing here has been through academic peer review: it is measurement published with the data and code that produced it, and the standing invitation is to recompute any figure you doubt from the public files and publish what you get. In the four-engine, five-run self-audit published alongside Volume II in July 2026, Broadcastwell was named in 0 of 200 answers and cited 0 times among 663 citations. Re-measured on the same ten questions and the same four engines on 18 August 2026, at one run per question rather than five, it was named in 1 of 40 answers and cited once among 674 citations. Both figures stand with their dates and neither replaces the other.
+Prose and figures are published under CC BY 4.0. The site code is MIT. Nothing here has been through academic peer review: it is measurement published with the data and code that produced it, and the standing invitation is to recompute any figure you doubt from the public files and publish what you get. The dated research record and collection designs remain available in the published source files. Compare observations only with their collection dates and run structures attached; a change in run count changes the evidence base.
 
 *Version 1.0, August 2026.*

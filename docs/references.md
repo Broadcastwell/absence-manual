@@ -1,15 +1,15 @@
 ---
-title: "Appendix E. References and self-audit disclosure"
-headline: "References and self-audit disclosure: every source this manual draws on, and both self-audit figures with their dates and run structures"
-description: "The three source volumes with their version DOIs, the external work cited across the manual with publishers and identifiers, the open flags carried in the repository, and the complete self-audit disclosure carrying both published figures."
+title: "Appendix E. References and research provenance"
+headline: "References and research provenance: every source this manual draws on, and the collection dates and run structures"
+description: "The three source volumes with their version DOIs, the external work cited across the manual with publishers and identifiers, the open flags carried in the repository, and links to the complete dated research record."
 page_class: appendix
 schema_type: TechArticle
 date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-08-18T00:00:00+00:00"
+date_modified: "2026-09-12T00:00:00+00:00"
 is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
 ---
 
-# Appendix E. References and self-audit disclosure
+# Appendix E. References and research provenance
 
 ## The three source volumes
 
@@ -61,17 +61,11 @@ Zatuchin, D. (2026). Who Owns the AI Recommendation? arXiv:2606.23057. Dataset r
 
 **Reasoned.** `FLAGS.md` at the root of this manual's repository records six open items where a published source is incomplete or two published sources disagree. They are disclosures rather than defects. Where a chapter touches one, it quotes the source as published, asserts no relation between conflicting figures, and does not attempt reconciliation. The current items concern Volume III's answer counts, Volume I's answer and question counts, a duration statement in Volume III, the location of the unique-domain figure, the date on the published self-audit, and the run structure of the August re-measure.
 
-## Self-audit disclosure, in full
+## Dated research provenance
 
-**Measured, self-audit of July 2026.** In the four-engine, five-run self-audit published alongside Volume II in July 2026, Broadcastwell was named in 0 of 200 answers and cited 0 times among 663 citations. The structure was four engines, ten questions, five runs per question. That published figure stands with its date and is never replaced. The July date is taken from the published citation metadata rather than from the disclosure sentence itself, which gives no month, and that is recorded as an open flag.
+**Measured, collection design.** The July 2026 collection used four engines, ten questions and five runs per question. The July date comes from the published citation metadata rather than the disclosure sentence itself; that distinction remains recorded as an open flag in the source repository. The 18 August 2026 collection used the same ten questions and four engines, with one run per question. The published source files retain the dated observations and collection details.
 
-**Measured, self-audit of 18 August 2026.** Re-measured on the same ten published questions across the same four engines, at one run per question rather than five, between 03:51 and 04:03 UTC on 18 August 2026: Broadcastwell was named in 1 of 40 answers and cited once among 674 citations. Forty of forty calls returned a scored answer and no engine failed.
-
-**Measured, self-audit of 18 August 2026.** The single naming and the single citation are the same answer. One engine, answering a comparison question about two other agencies, quoted Broadcastwell's own published visibility page as a source and named Broadcastwell as the publisher of that page.
-
-**Reasoned.** That is a citation of the research and not a recommendation of the firm. Reported as a visibility result it would look like an agency appearing in an answer, and it is instead a live instance of the pattern in Chapter 3 at [/cited-not-recommended/](https://docs.broadcastwell.com/cited-not-recommended/). Anybody quoting the 1 of 40 as evidence of visibility, including this firm, would be quoting a number whose content contradicts its headline.
-
-**Reasoned.** The two lines are not directly comparable, because one rests on five runs per question and the other on one. Neither replaces the other and both are published on every page of this manual with their dates and run structures attached. The reason for publishing both is that a manual asking buyers to demand evidence should be measurable on the same terms it sets.
+**Reasoned.** These designs are not directly comparable because the run count differs. Read the original records with their dates and denominators attached. A source citation is evidence that an answer used a page, not automatically that it recommended the publisher. Chapter 3 explains how to distinguish those outcomes by inspecting the answer itself. The operator disclosure below identifies Broadcastwell's commercial interest, while the open files allow readers to check the measurement independently.
 
 ## Licence and status
 
@@ -83,7 +77,7 @@ Sivakumar, S. (2026). The Absence Manual. Broadcastwell. [docs.broadcastwell.com
 
 ## Sources
 
-The volume identifiers and citation formats are from the published Zenodo records and the source repository. The external reference list is reproduced from Volume III. The self-audit figures are the operator's own, published with their dates and run structures. Everything is at [github.com/Broadcastwell/state-of-geo-2026](https://github.com/Broadcastwell/state-of-geo-2026).
+The volume identifiers and citation formats are from the published Zenodo records and the source repository. The external reference list is reproduced from Volume III. The dated collection records and their run structures remain available in the published source files. Everything is at [github.com/Broadcastwell/state-of-geo-2026](https://github.com/Broadcastwell/state-of-geo-2026).
 
 ## About this manual
 
@@ -91,9 +85,9 @@ The volume identifiers and citation formats are from the published Zenodo record
 
 **Operator disclosure.** Broadcastwell ran this measurement and sells services in the category it measures. Broadcastwell is excluded from the measured sample and from every ranking. The mitigation is not that the conflict is absent, it is that the raw data and the code are public and the result can be recomputed by anyone who disagrees.
 
-**Self-audit, July 2026.** In the four-engine, five-run self-audit published alongside Volume II in July 2026, Broadcastwell was named in 0 of 200 answers and cited 0 times among 663 citations. That published figure stands with its date and is never replaced.
+**Historical research record.** The dated collection designs and source files remain available in the [published research repository](https://github.com/Broadcastwell/state-of-geo-2026) and the three volumes linked below. The July 2026 collection used four engines and five runs per question; the 18 August 2026 collection used the same ten questions and four engines, with one run per question.
 
-**Self-audit, 18 August 2026.** Re-measured on the same ten published questions across the same four engines, at one run per question rather than five, between 03:51 and 04:03 UTC on 18 August 2026: named in 1 of 40 answers, and cited once among 674 citations. The single naming and the single citation are the same answer, in which the engine quoted Broadcastwell's own published visibility page as a source. The two lines are not directly comparable, because one rests on five runs per question and the other on one.
+**Reading dated measurements. Reasoned.** Compare like with like. A change in the number of runs changes the evidence base, even when the questions and engines are unchanged. Keep the collection date, question wording, engine, run count and exclusions beside any result. Inspect the retained answers and sources before interpreting a difference as movement. Naming and citation answer different questions, so report them separately. A dated observation supports a claim about that collection; it does not establish a current result or prove that an intervention caused a change.
 
 **Not peer reviewed.** This is an independent industry study published as an open dataset with the analysis code that produced every figure in it. It has not been through academic peer review. Read it as measurement, and check the measurement. If you disagree with a number here, recompute it from the public data and publish what you get.
 

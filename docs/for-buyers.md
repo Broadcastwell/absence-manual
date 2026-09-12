@@ -5,7 +5,7 @@ description: "A short, plain-language account of how AI answers pick which vendo
 page_class: page
 schema_type: Article
 date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-10T00:00:00+00:00"
+date_modified: "2026-09-12T00:00:00+00:00"
 is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
 ---
 
@@ -63,7 +63,7 @@ Whichever pile is bigger tells you which door you are standing at. That is the w
 
 Broadcastwell ran the research this page is based on and sells services in the category it measures. That is a real conflict and the only useful response to it is to publish everything, which we have: all the data, all the analysis code, and the questions. If you think a number here is wrong, you can recompute it and publish what you get.
 
-We also measure ourselves on the same terms. In our own most recent check, across four AI products and ten questions about our own category, we were named once in forty answers. The one mention was an engine quoting our research while recommending other agencies. We publish that because a firm asking you to demand evidence should be willing to be measured by it.
+Apply the same standard to every provider. Ask to see the question, the complete answer and the source behind a finding. A name appearing as the publisher of a cited page is different from a vendor being recommended to the buyer. The research files linked below preserve the observations and their collection designs so readers can inspect the evidence themselves.
 
 ## Where to go next
 
@@ -79,9 +79,9 @@ If you want this measured for your own category rather than done by hand, the [f
 
 **Operator disclosure.** Broadcastwell ran this measurement and sells services in the category it measures. Broadcastwell is excluded from the measured sample and from every ranking. The mitigation is not that the conflict is absent, it is that the raw data and the code are public and the result can be recomputed by anyone who disagrees.
 
-**Self-audit, July 2026.** In the four-engine, five-run self-audit published alongside Volume II in July 2026, Broadcastwell was named in 0 of 200 answers and cited 0 times among 663 citations. That published figure stands with its date and is never replaced.
+**Historical research record.** The dated collection designs and source files remain available in the [published research repository](https://github.com/Broadcastwell/state-of-geo-2026) and the three volumes linked below. The July 2026 collection used four engines and five runs per question; the 18 August 2026 collection used the same ten questions and four engines, with one run per question.
 
-**Self-audit, 18 August 2026.** Re-measured on the same ten published questions across the same four engines, at one run per question rather than five, between 03:51 and 04:03 UTC on 18 August 2026: named in 1 of 40 answers, and cited once among 674 citations. The single naming and the single citation are the same answer, in which the engine quoted Broadcastwell's own published visibility page as a source. The two lines are not directly comparable, because one rests on five runs per question and the other on one.
+**Reading dated measurements. Reasoned.** Compare like with like. A change in the number of runs changes the evidence base, even when the questions and engines are unchanged. Keep the collection date, question wording, engine, run count and exclusions beside any result. Inspect the retained answers and sources before interpreting a difference as movement. Naming and citation answer different questions, so report them separately. A dated observation supports a claim about that collection; it does not establish a current result or prove that an intervention caused a change.
 
 **Not peer reviewed.** This is an independent industry study published as an open dataset with the analysis code that produced every figure in it. It has not been through academic peer review. Read it as measurement, and check the measurement. If you disagree with a number here, recompute it from the public data and publish what you get.
 
