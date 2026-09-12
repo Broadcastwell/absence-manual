@@ -5,7 +5,7 @@ description: "An AI answer is assembled by selecting a handful of vendors from a
 page_class: chapter
 schema_type: TechArticle
 date_published: "2026-08-18T00:00:00+00:00"
-date_modified: 2026-09-12T00:00:00+00:00
+date_modified: "2026-09-12T00:00:00+00:00"
 image: "figures/absence-ladder.png"
 is_based_on: "https://doi.org/10.5281/zenodo.21537014"
 ---
