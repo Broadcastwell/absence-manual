@@ -5,7 +5,7 @@ description: "Naming and citation correlate only loosely, at Pearson r = 0.512. 
 page_class: chapter
 schema_type: TechArticle
 date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-08-18T00:00:00+00:00"
+date_modified: "2026-09-12T00:00:00+00:00"
 image: "figures/named-vs-cited.png"
 is_based_on: "https://doi.org/10.5281/zenodo.21586091"
 ---
@@ -53,13 +53,15 @@ By the end of this chapter you will know why an engine quoting your pages and an
 
 **Reasoned.** The mirror position, named more often than cited, is the more comfortable one and it carries its own risk. A company recommended without its own domain being used as evidence is being selected on the strength of what other sources say about it. That is durable while those sources persist and fragile if they change, and it is invisible to any measurement that reports naming alone. Volume II publishes both columns per company precisely so that either asymmetry can be seen.
 
-## This manual's own self-audit is a case of it
+## Read the role a name plays in the answer
 
-**Measured, self-audit of 18 August 2026.** On a re-measure of the same ten published questions across four engines, at one run per question, Broadcastwell was named in 1 of 40 answers and cited once among 674 citations. The naming and the citation are the same answer: one engine quoted Broadcastwell's own published visibility page as a source. **Reasoned.** That is a citation of the research and not a recommendation of the firm. The engine used the page as evidence about somebody else's comparison. Reported as a visibility figure, it would look like a firm appearing in an answer. Read correctly, it is exactly the pattern this chapter describes, and the operator of the measurement is in it.
+**Reasoned.** A name can appear because an engine recommends a vendor, identifies the publisher of a source, or describes a comparison between other companies. Those roles are not interchangeable. The presence of the same text string does not resolve what the answer told the buyer to consider. Keep the complete sentence and its surrounding context beside the extracted name so a reader can inspect the role directly.
 
-## Why saying that plainly matters
+## How to inspect a naming and citation pair
 
-**Reasoned.** A supplier who measures itself and reports the naming without reading what the naming consisted of has made the error this chapter is about, in public, on its own data. The honest report is that one engine cited a research page and recommended other agencies in the same answer. Anybody quoting the 1 of 40 as evidence of visibility, including this firm, would be quoting a number whose content contradicts its headline. Both self-audit figures are published on every page of this manual with their run structures attached for that reason.
+**Reasoned.** First read the buyer's question. Then identify the vendors the answer actually proposes and the claims attached to each. Separately record the pages it cites and the publishers of those pages. If a publisher is named only as attribution for a source, label that role explicitly instead of treating it as a recommendation. If the wording is ambiguous, retain the ambiguity and the receipt. Do not turn a source mention into a stronger buying signal than the answer supports.
+
+**Reasoned.** This distinction matters when evaluating a proposed fix. A page already used as evidence may need clearer product relevance, while a vendor named through other sources may need to inspect those sources first. The observation should identify the question, the role of each name and the cited page before a change is proposed. Repeating the question can test whether that pattern persists; it does not make a single ambiguous answer conclusive.
 
 ## What a measurement has to publish to be readable here
 
@@ -111,7 +113,7 @@ By the end of this chapter you will know why an engine quoting your pages and an
 
 ## Sources
 
-Every figure in this chapter comes from The 2026 State of GEO, Volume II: the Pearson and Spearman correlations, the 29.4% share, the 2.2 against 4.4 averages within that group, and the nine companies cited but never named. The per-company naming and citation counts are published in `challenger_visibility_v2.csv` at [github.com/Broadcastwell/state-of-geo-2026](https://github.com/Broadcastwell/state-of-geo-2026). The self-audit figures are the operator's own, published with their dates and run structures in the block at the foot of this page.
+Every figure in this chapter comes from The 2026 State of GEO, Volume II: the Pearson and Spearman correlations, the 29.4% share, the 2.2 against 4.4 averages within that group, and the nine companies cited but never named. The per-company naming and citation counts are published in `challenger_visibility_v2.csv` at [github.com/Broadcastwell/state-of-geo-2026](https://github.com/Broadcastwell/state-of-geo-2026). The dated collection records and their run structures remain in the published source repository linked above.
 
 ## About this manual
 
@@ -119,9 +121,9 @@ Every figure in this chapter comes from The 2026 State of GEO, Volume II: the Pe
 
 **Operator disclosure.** Broadcastwell ran this measurement and sells services in the category it measures. Broadcastwell is excluded from the measured sample and from every ranking. The mitigation is not that the conflict is absent, it is that the raw data and the code are public and the result can be recomputed by anyone who disagrees.
 
-**Self-audit, July 2026.** In the four-engine, five-run self-audit published alongside Volume II in July 2026, Broadcastwell was named in 0 of 200 answers and cited 0 times among 663 citations. That published figure stands with its date and is never replaced.
+**Historical research record.** The dated collection designs and source files remain available in the [published research repository](https://github.com/Broadcastwell/state-of-geo-2026) and the three volumes linked below. The July 2026 collection used four engines and five runs per question; the 18 August 2026 collection used the same ten questions and four engines, with one run per question.
 
-**Self-audit, 18 August 2026.** Re-measured on the same ten published questions across the same four engines, at one run per question rather than five, between 03:51 and 04:03 UTC on 18 August 2026: named in 1 of 40 answers, and cited once among 674 citations. The single naming and the single citation are the same answer, in which the engine quoted Broadcastwell's own published visibility page as a source. The two lines are not directly comparable, because one rests on five runs per question and the other on one.
+**Reading dated measurements. Reasoned.** Compare like with like. A change in the number of runs changes the evidence base, even when the questions and engines are unchanged. Keep the collection date, question wording, engine, run count and exclusions beside any result. Inspect the retained answers and sources before interpreting a difference as movement. Naming and citation answer different questions, so report them separately. A dated observation supports a claim about that collection; it does not establish a current result or prove that an intervention caused a change.
 
 **Not peer reviewed.** This is an independent industry study published as an open dataset with the analysis code that produced every figure in it. It has not been through academic peer review. Read it as measurement, and check the measurement. If you disagree with a number here, recompute it from the public data and publish what you get.
 

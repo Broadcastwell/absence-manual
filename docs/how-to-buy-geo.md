@@ -5,7 +5,7 @@ description: "Twelve questions to put to any supplier of AI search visibility wo
 page_class: chapter
 schema_type: TechArticle
 date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-08-18T00:00:00+00:00"
+date_modified: "2026-09-12T00:00:00+00:00"
 is_based_on: "https://doi.org/10.5281/zenodo.21789120"
 ---
 
@@ -92,9 +92,9 @@ By the end of this chapter you will have twelve questions to put to any supplier
 
 **Reasoned.** If you are at the category door and have no route to third-party corroboration, no supplier can manufacture recognition you have no basis for. If your category is one an engine does not model cleanly, the work may be category definition rather than visibility work, which is a different discipline. And if you cannot commit to a fixed question set and repeated measurement, you will not be able to tell whether anything worked, in which case the money buys activity and not information. None of those is a reason to buy carefully. They are reasons not to buy.
 
-## What this manual's own self-audit shows about the category
+## Apply the evidence standard to every provider
 
-**Measured, self-audit of 18 August 2026.** On a re-measure of ten published questions across four engines at one run per question, this firm was named in 1 of 40 answers and cited once among 674 citations, and the naming and citation were the same answer, in which an engine quoted its own research page while recommending other agencies. **Reasoned.** That is published because a supplier asking you to demand evidence should be measurable on the same terms. It is also a live example of Chapter 3 at [/cited-not-recommended/](https://docs.broadcastwell.com/cited-not-recommended/), and anybody quoting the 1 of 40 as a visibility result would be making the error this manual is about.
+**Reasoned.** Apply the same evidence standard to every supplier, including the operator of this manual. Ask for dated questions, retained answers, cited pages, exclusions and a clear distinction between a vendor recommendation and attribution to a source publisher. The source records linked below let readers inspect the published collection designs and recompute the research. Chapter 3 at [/cited-not-recommended/](https://docs.broadcastwell.com/cited-not-recommended/) explains why reading the role of a name in an answer matters. A headline count without its receipt is insufficient to decide what happened or which change is worth testing.
 
 ## What this chapter does not claim
 
@@ -118,9 +118,9 @@ The measured figures in this chapter come from The 2026 State of GEO, Volume II 
 
 **Operator disclosure.** Broadcastwell ran this measurement and sells services in the category it measures. Broadcastwell is excluded from the measured sample and from every ranking. The mitigation is not that the conflict is absent, it is that the raw data and the code are public and the result can be recomputed by anyone who disagrees.
 
-**Self-audit, July 2026.** In the four-engine, five-run self-audit published alongside Volume II in July 2026, Broadcastwell was named in 0 of 200 answers and cited 0 times among 663 citations. That published figure stands with its date and is never replaced.
+**Historical research record.** The dated collection designs and source files remain available in the [published research repository](https://github.com/Broadcastwell/state-of-geo-2026) and the three volumes linked below. The July 2026 collection used four engines and five runs per question; the 18 August 2026 collection used the same ten questions and four engines, with one run per question.
 
-**Self-audit, 18 August 2026.** Re-measured on the same ten published questions across the same four engines, at one run per question rather than five, between 03:51 and 04:03 UTC on 18 August 2026: named in 1 of 40 answers, and cited once among 674 citations. The single naming and the single citation are the same answer, in which the engine quoted Broadcastwell's own published visibility page as a source. The two lines are not directly comparable, because one rests on five runs per question and the other on one.
+**Reading dated measurements. Reasoned.** Compare like with like. A change in the number of runs changes the evidence base, even when the questions and engines are unchanged. Keep the collection date, question wording, engine, run count and exclusions beside any result. Inspect the retained answers and sources before interpreting a difference as movement. Naming and citation answer different questions, so report them separately. A dated observation supports a claim about that collection; it does not establish a current result or prove that an intervention caused a change.
 
 **Not peer reviewed.** This is an independent industry study published as an open dataset with the analysis code that produced every figure in it. It has not been through academic peer review. Read it as measurement, and check the measurement. If you disagree with a number here, recompute it from the public data and publish what you get.
 
