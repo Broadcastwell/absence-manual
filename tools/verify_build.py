@@ -217,6 +217,24 @@ for asset in [
             fail("%s uses colour %s outside the approved blue and neutral palette" % (asset.relative_to(DOCS), colour))
 
 
+# ---------- the shared shell's own rules ----------
+
+shell_css = (DOCS / "assets" / "manual.css").read_text(encoding="utf8")
+for rule in [".bw-shell-pill {", ".bw-shell-menu summary {", ".bw-shell-menu-panel a {"]:
+    at = shell_css.find(rule)
+    if at < 0 or "min-height: 44px" not in shell_css[at:shell_css.find("}", at)]:
+        fail("%s must clear 44 px" % rule)
+if ".bw-shell-nav { display: none; }" not in shell_css:
+    fail("the text links must collapse at phone widths")
+if ".bw-shell-menu { display: block;" not in shell_css:
+    fail("a disclosure must take their place at phone widths")
+if re.search(r"\.bw-shell-pill \{ display: none", shell_css):
+    fail("the pill must stay visible at phone widths")
+if ".bw-shell-columns { grid-template-columns: 1fr;" not in shell_css:
+    fail("the footer columns must stack below 640")
+if re.search(r"text-transform:\s*uppercase", shell_css, re.I):
+    fail("no label may be set in capitals")
+
 # ---------- per page checks ----------
 
 for rel, cls in sorted(manifest.items()):
@@ -255,6 +273,37 @@ for rel, cls in sorted(manifest.items()):
             fail("%s has an image whose alt text is missing or shorter than %d characters"
                  % (rel, ALT_TEXT_FLOOR))
 
+    # The permalink anchor sits inside the heading it links to, so it has to stay out
+    # of the accessible name, and an aria-hidden element must not be focusable.
+    for link in re.findall(r'(?is)<a class="headerlink"[^>]*>', html):
+        if 'aria-hidden="true"' not in link:
+            fail("%s has a permalink anchor inside a heading with no aria-hidden" % rel)
+        if 'tabindex="-1"' not in link:
+            fail("%s has a permalink anchor that is hidden but still focusable" % rel)
+
+    # The shell every Broadcastwell surface carries.
+    head = html[html.find("<header"):html.find("</header>")]
+    foot = html[html.rfind("<footer"):html.rfind("</footer>")]
+    for needed in [
+        'class="bw-wordmark" href="https://broadcastwell.com"',
+        'href="https://broadcastwell.com/pricing">Pricing<',
+        'href="https://app.broadcastwell.com/signin">Sign in<',
+        'class="bw-shell-pill" href="https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400">$490 Audit<',
+    ]:
+        if needed not in head:
+            fail("%s header is missing %s" % (rel, needed))
+    for column in ("Product", "Research", "Company", "Contact"):
+        if (">%s</h2>" % column) not in foot:
+            fail("%s footer is missing the %s column" % (rel, column))
+    if "Broadcastwell LLC. Indiana, USA. Copyright 2026." not in foot:
+        fail("%s footer is missing the bottom bar" % rel)
+    for slug in ("privacy", "terms", "cookies"):
+        if ('href="https://broadcastwell.com/%s">' % slug) not in foot:
+            fail("%s footer is missing the %s link" % (rel, slug))
+    if foot.find("excluded from its own sample") > foot.find("bw-shell-columns"):
+        fail("%s footer does not keep its own disclosure note above the shared columns" % rel)
+    if chr(183) in html:
+        fail("%s contains a middle dot" % rel)
     types = []
     for block in re.findall(r"(?is)<script type=\"application/ld\+json\">(.*?)</script>", html):
         try:
