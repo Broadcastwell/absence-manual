@@ -56,3 +56,6 @@ plugins:
   - search
   - awesome-pages
 
+hooks:
+  - tools/hooks.py
+
