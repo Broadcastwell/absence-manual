@@ -2,7 +2,7 @@
 
 > Broadcastwell is an AI search visibility agency for vertical B2B software companies. We measure how often AI engines name a vendor in buyer answers, then build the third-party evidence those engines read.
 
-Free 10-question check: ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter of The Absence Manual that addresses it. Runs in the browser in under a minute. An email address is used only to enforce one result per address per day. Addresses are kept for 24 months, with no mailing list. https://audit.broadcastwell.com
+Free 10-question check: ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter of The Absence Manual that addresses it. Runs in the browser in under a minute. No email is needed; runs are limited per network and per day, and by the site's daily allowance. Addresses are kept for 24 months, with no mailing list. https://audit.broadcastwell.com
 Category Audit: $490 once. One category, ten buyer questions, five engines, three measured runs. Which vendors the engines named instead with counts, which of the ten questions you lose, the sources the engines read to answer, your position on the absence ladder, and a written findings document with three prioritised fixes. Findings within 48 hours of the category being confirmed by email. The full $490 is credited against the Diagnostic if the Diagnostic is bought within 30 days. Buy it at https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400
 AI Visibility Diagnostic: 35 category-defining buyer questions across ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, with three scheduled runs per question and engine and up to two further runs on any pair whose verdicts disagreed: 525 scheduled observed answers, named and cited outcomes reported separately with numerator, denominator and a 95 percent confidence interval, competitor and source analysis, limitations, run-to-run spread, a receipts appendix, machine-readable data files, and a prioritised evidence, content and distribution plan. $990 once. The full $990 Diagnostic fee credits against the program's first monthly invoice. Buy it at https://buy.stripe.com/4gM7sMgDOdmYbi93grds401
 The Program: $13,500 per 90 days, billed $4,500 monthly, with a 90 day initial term, then month to month. Client stories are published only with explicit approval; reviews are optional and never required or incentivized.
@@ -30,43 +30,89 @@ Named B2B software case: Vantaa Tax, an AI-native indirect-tax intelligence soft
 
 Other approved client references: Neurvalis, Diagnostic then program, engagement facts only; Valren Atelier, online-first leather-goods brand, baseline AI visibility audit and strategic guidance, no performance claim, external link https://instagram.com/valrenatelier.
 
+## Offers and pricing
+
+- [Pricing: $490, $990 and $13,500 | Broadcastwell](https://broadcastwell.com/pricing): Category Audit $490, AI Visibility Diagnostic $990, the program $13,500 per 90 days billed $4,500 monthly. Every price sits next to what arrives, its credit rule and the published method.
+- [Category Audit, $490 once | Broadcastwell](https://broadcastwell.com/category-audit): One category, ten buyer questions, five engines and three measured runs, with three prioritised fixes within 48 hours. $490 once.
+- [AI Visibility Diagnostic, $990: why you are not named | Broadcastwell](https://broadcastwell.com/ai-visibility-audit): 35 buyer questions, five engines, three measured runs each. For every question you lose: who is named instead, the source that put them there, and the fix. Credits in full against the program.
+- [GEO Services for Vertical B2B SaaS | Broadcastwell](https://broadcastwell.com/generative-engine-optimization-services): Research-led generative engine optimization across ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, with transparent scope and measurement.
+- [Agency wholesale: $1,000 first client, $490 each after | Broadcastwell](https://broadcastwell.com/for-agencies): Client-facing AI visibility reports under your agency name. $1,000 per client per month for your first client, $490 for each additional. Name one client and we run it free.
+- [Broadcastwell Partner Network | Referral & Strategic Partnerships](https://broadcastwell.com/partners): Apply to the Broadcastwell Partner Network. Earn commissions on eligible collected revenue from referred B2B software clients, subject to approval.
+
 ## Research
 
-- [https://broadcastwell.com/state-of-geo]: The 2026 State of GEO. 860 answers scored on one engine held constant, Claude Sonnet with live web search, with the method published in full.
-- [https://broadcastwell.com/absence-ladder]: The Absence Ladder. How the shape of a company's AI invisibility changes as its visibility rises.
-- [https://broadcastwell.com/engine-divergence]: Engine divergence. Whether four AI search engines return the same vendors, measured against each engine's own run-to-run noise across 280 B2B buyer questions in 40 categories.
-- [https://broadcastwell.com/geo-statistics]: GEO and AI search visibility statistics 2026. The key figures from all three studies as citable lines, each with its DOI.
-- [https://broadcastwell.com/visibility]: AI visibility measurement framework. A clearly labelled illustrative four-engine scorecard and the protocol used for client baselines and re-scores.
-- [https://broadcastwell.com/geo-agencies-measured]: GEO agencies measured. A dated category research snapshot showing how name-seeded prompts can inflate raw mention counts.
-- [https://broadcastwell.com/improve-ai-search-visibility]: How to improve AI search visibility. What moves a vendor into AI answers, and what does not.
-- [https://broadcastwell.com/geo-vs-seo]: GEO vs SEO. What differs mechanically between ranking and being named, grounded in three open datasets.
+- [The 2026 State of GEO - Broadcastwell Research](https://broadcastwell.com/state-of-geo): Original research: 860 AI answers across 85 B2B software companies and 61 categories. One-engine snapshot of naming and citation, with open data.
+- [The AI Visibility Absence Ladder | Broadcastwell](https://broadcastwell.com/absence-ladder): A research framework for diagnosing why B2B software companies are absent from AI-generated buyer answers, based on 616 classified absence cases.
+- [AI Visibility Measurement Framework | Broadcastwell](https://broadcastwell.com/visibility): See how Broadcastwell measures AI search visibility across ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode using a clearly labelled 525-answer example.
+- [GEO Agencies Measured Across Four AI Engines | Broadcastwell](https://broadcastwell.com/geo-agencies-measured): A dated four-engine study of 200 AI answers showing which GEO agencies surfaced and how name-seeded prompts inflated raw mention counts.
+- [How to Improve AI Search Visibility | Broadcastwell](https://broadcastwell.com/improve-ai-search-visibility): A research-led guide to visibility in ChatGPT, Claude, Perplexity and Google AI Overviews: measurement, evidence, entity clarity and source strategy.
+- [GEO and AI Search Visibility Statistics 2026, from Open Datasets](https://broadcastwell.com/geo-statistics): GEO statistics from published research: 860 AI answers across 85 B2B software companies and 61 categories, with sources and stated limits.
+- [AI Search Engine Divergence, Measured | Broadcastwell](https://broadcastwell.com/engine-divergence): A four-engine study of 280 B2B buyer questions showing when vendor sets diverge, and why answer length must be controlled.
+- [GEO vs SEO: What Actually Differs | Broadcastwell](https://broadcastwell.com/geo-vs-seo): Ranking versus being named, measured across four engines: citation concentration, divergence under a length control, and why cited is not recommended.
 
-## Comparisons
+## Rankings
 
-- [https://broadcastwell.com/omniscient-digital-alternatives]: Omniscient Digital alternatives, measured across four AI engines.
-- [https://broadcastwell.com/minuttia-alternatives]: Minuttia alternatives, measured across four AI engines.
-- [https://broadcastwell.com/hamster-garage-vs-rampiq]: Hamster Garage vs Rampiq, measured across four AI engines.
-- [https://broadcastwell.com/zupo-vs-omniscient-digital]: Zupo vs Omniscient Digital, measured across four AI engines.
-- [https://broadcastwell.com/chatgpt-perplexity-visibility-agencies]: Best agencies for ChatGPT and Perplexity visibility, measured.
-- [https://broadcastwell.com/ai-seo-agencies-b2b-lead-generation]: AI SEO agencies for B2B lead generation, measured.
-- [https://broadcastwell.com/which-agency-for-llm-search-visibility]: Which agency to pick for LLM search visibility, measured.
+- [The 10 Best GEO Agencies in 2026, Scored](https://broadcastwell.com/best-geo-agencies): Ten generative engine optimization agencies scored on eight things a buyer can check on each firm's own site, with every source and date shown.
+- [The Best AEO Agencies in 2026, Scored](https://broadcastwell.com/best-aeo-agencies): Ten answer engine optimization agencies scored on eight things a buyer can check on each firm's own site. Every firm here uses the term AEO on its own pages.
+- [Best GEO Agencies for Startups in 2026](https://broadcastwell.com/best-geo-agencies-for-startups): Ten GEO options for startups and small teams, with every published entry price on one page, lowest first, and what each price actually buys.
+- [Best Generative Engine Optimization Firms](https://broadcastwell.com/best-generative-engine-optimization-companies): Twelve generative engine optimization companies, agencies and productised services together, scored on published scope, price and verifiable terms.
+- [Best AI Visibility Tools in 2026, Compared](https://broadcastwell.com/best-ai-visibility-tools): Twelve AI visibility platforms compared on published price, engines tracked, run frequency, receipts behind each number and machine readable results.
+- [Best AI Visibility Audit Services, 2026](https://broadcastwell.com/best-ai-visibility-audit-services): Ten one off AI visibility audits compared on published price, turnaround, engines covered, refund terms and whether the observed answers are handed over.
+- [Best White Label GEO Partners in 2026](https://broadcastwell.com/best-white-label-geo-partners): Ten white label GEO and AEO partners for agencies, scored on published wholesale terms, named engines and machine readable results.
+- [Best AI Search Visibility Agencies, 2026](https://broadcastwell.com/best-ai-search-visibility-agencies): Ten AI search visibility agencies scored on eight verifiable criteria, including the five agencies the engines actually named in July 2026.
+- [Best GEO Agencies for B2B Software, 2026](https://broadcastwell.com/best-geo-agencies-b2b-software): Ten GEO agencies for B2B software, scored on named software case studies, buyer question measurement, published prices and verifiable terms.
+- [The Best AI SEO Agencies for B2B in 2026](https://broadcastwell.com/ai-seo-agencies-b2b-lead-generation): Ten AI SEO agencies for B2B, scored on eight things you can check on each firm's own site: method, engines, price, refund terms and named cases.
 
-## Verticals
+## Tool comparisons
 
-- [https://broadcastwell.com/ai-search-visibility-dealership-software]: Powersports dealership management software, measured across four AI engines.
-- [https://broadcastwell.com/ai-search-visibility-healthcare-rcm-software]: Healthcare revenue cycle management software, measured across four AI engines.
-- [https://broadcastwell.com/ai-search-visibility-legal-practice-software]: Legal practice management software, measured across four AI engines.
-- [https://broadcastwell.com/ai-search-visibility-radiology-imaging-software]: Radiology and imaging software, measured across four AI engines.
+- [Profound Alternative: Broadcastwell vs Profound](https://broadcastwell.com/broadcastwell-vs-profound): A Profound alternative? Broadcastwell and Profound compared on published price, engines, run frequency, receipts and refund terms, read 16 September 2026.
+- [Peec AI Alternative: Broadcastwell vs Peec AI](https://broadcastwell.com/broadcastwell-vs-peec-ai): A Peec AI alternative? Broadcastwell and Peec AI compared on published price, engines, run frequency, receipts and refund terms, read 16 September 2026.
+- [OtterlyAI Alternative: Broadcastwell vs OtterlyAI](https://broadcastwell.com/broadcastwell-vs-otterly): An OtterlyAI alternative? Broadcastwell and OtterlyAI compared on published price, engines, run frequency, receipts and refund terms, read 16 September 2026.
+
+## Agency studies
+
+- [Omniscient Digital Alternatives, Measured Across 4 AI Engines](https://broadcastwell.com/omniscient-digital-alternatives): We scored 200 AI answers across four engines. Omniscient Digital was named 49 times, Hamster Garage 19, Minuttia 15, Rampiq 14 and Zupo 13.
+- [Minuttia Alternatives, Measured Across 4 AI Engines](https://broadcastwell.com/minuttia-alternatives): July 2026: Minuttia named in 15 of 200 answers and 1 of 120 name-free answers; minuttia.com cited 24 times. Four engines, five runs.
+- [Hamster Garage vs Rampiq, Measured Across 4 AI Engines](https://broadcastwell.com/hamster-garage-vs-rampiq): July 2026: Hamster Garage named 3 times, Rampiq 0, in 120 name-free answers; rampiq.agency cited 25 times. Four engines, five runs.
+- [Zupo vs Omniscient Digital, Measured Across 4 AI Engines](https://broadcastwell.com/zupo-vs-omniscient-digital): July 2026: Omniscient Digital named 15 times, Zupo 0, in 120 name-free answers; zupo.co cited 19 times. Four engines, five runs.
+- [Which Agencies AI Engines Name, Measured Across Four Engines | Broadcastwell](https://broadcastwell.com/chatgpt-perplexity-visibility-agencies): July 2026: 200 answers, four engines, five runs. Five agencies received 19 mentions in 120 name-free answers; one firm received 15.
+- [Which Type of Agency to Hire for LLM Search Visibility](https://broadcastwell.com/which-agency-for-llm-search-visibility): Compare four kinds of LLM search visibility agency and the work each does, using a 200-answer, four-engine study to explain measurement.
+
+## Category studies
+
+- [Dealership Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-dealership-software): A 160-answer sweep of powersports dealership management software across four AI engines. everlogic.com was cited 47 times against the category incumbent's 43.
+- [Healthcare RCM Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-healthcare-rcm-software): A 37-answer sweep of healthcare RCM software across four AI engines. Waystar was named 20 times, R1 RCM 12, and 13 answers named no vendor at all.
+- [Legal Practice Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-legal-practice-software): Four-engine study: 39 answers, Clio named 31 times. ChatGPT used one vendor's retired 2023 product identity five times.
+- [Radiology and Imaging Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-radiology-imaging-software): A four-engine sweep of radiology and imaging software returned 622 citations across 187 domains. 94 domains were cited exactly once and KLAS took 9.
+- [Field Service Management Software: What We Have Not Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-field-service-software): A proposed five-engine measurement plan for field service management software. No category results are claimed; scope and limitations are stated.
+
+## Client work
+
+- [Vantaa Tax AI Visibility Case Study | Broadcastwell](https://broadcastwell.com/vantaa-tax-ai-visibility-case-study): Vantaa Tax: approximately 12% improvement in tracked AI visibility over 28 days, an early directional checkpoint in an ongoing engagement.
+- [Neurvalis AI Visibility Diagnostic | Broadcastwell](https://broadcastwell.com/neurvalis-ai-visibility-diagnostic): How Broadcastwell's AI Visibility Diagnostic gave Neurvalis AI Automation a clear baseline and the confidence to begin a 90-day engagement.
+- [Valren Atelier AI Visibility Audit | Broadcastwell](https://broadcastwell.com/valren-ai-visibility-audit): How Broadcastwell worked with Valren Atelier to establish a baseline for AI search visibility: what was measured, what the work covered, and what stays private.
 
 ## Company
 
-- [https://broadcastwell.com/]: Home. What we do and who it is for.
-- [https://broadcastwell.com/about]: About. Who Broadcastwell is: the team of 12 across four cities, and the published research.
-- [https://broadcastwell.com/careers]: Careers. Open roles. Every opening is posted on Wellfound first.
-- [https://broadcastwell.com/for-agencies]: For agencies. Agency Wholesale at $1,000 per client per month for the first client and $490 per client per month for each additional client, what the agency gets each month, and how to start.
-- [https://broadcastwell.com/pricing]: Pricing. The free 10-question check, the Category Audit, the AI Visibility Diagnostic, the Program and Agency Wholesale.
-- [https://broadcastwell.com/methodology]: Methodology, version 1.1, 8 September 2026. The documented method behind every client figure: the question set, the engines queried, the repeat runs, the scoring rules, and how uncertainty is calculated and reported. Versioned and dated, with a change log.
-- [https://broadcastwell.com/faq]: FAQ. How the measurement works, what it costs, what it does not claim, and how client evidence is handled.
-- [https://broadcastwell.com/generative-engine-optimization-services]: Generative engine optimization services. What is delivered each month, what is re-scored each quarter, the published price ladder, and what GEO is not.
-- [https://broadcastwell.com/ai-visibility-audit]: AI visibility audit. What the $490 Category Audit measures, what the free 10-question check contains, and what neither of them can tell you.
-- [https://broadcastwell.com/ai-visibility-audit#sample-findings]: Illustrative findings structure. A clearly labelled example of the complete report; it is not a Broadcastwell or client result.
+- [Broadcastwell | AI Search Visibility Agency for B2B Software](https://broadcastwell.com/): AI search visibility for vertical B2B software. See which vendors five engines name, inspect the evidence, and build a clear plan with Broadcastwell.
+- [About Broadcastwell | AI Search Visibility for B2B Software](https://broadcastwell.com/about): Who Broadcastwell is: a distributed team of 12 across four cities, the published research, and how the work is done.
+- [Company Facts | Broadcastwell](https://broadcastwell.com/company-facts): Verified Broadcastwell company facts: legal identity, team size, services, pricing, audit methodology, approved client work, and official profiles.
+- [Methodology: which engines we measure | Broadcastwell](https://broadcastwell.com/methodology): How Broadcastwell measures AI visibility: 35 buyer questions, the five engines queried, three scheduled runs with further runs on disagreement, the scoring rules, and the confidence interval on every rate.
+- [AI Search Visibility FAQ | Broadcastwell](https://broadcastwell.com/faq): Clear answers on GEO, AI visibility measurement, deliverables, pricing, timelines, limitations, client evidence and how Broadcastwell works.
+- [Insights | Broadcastwell](https://broadcastwell.com/insights): Browse Broadcastwell agency comparisons, industry studies and research guides, with methods, observed findings and clearly stated limits.
+- [Security and Data Handling | Broadcastwell](https://broadcastwell.com/security): How Broadcastwell handles client information, AI-search measurement inputs, access, retention, deletion requests, subprocessors, and security incidents.
+- [Contact Broadcastwell](https://broadcastwell.com/contact): Contact Broadcastwell about AI search visibility. Use the contact form, email hello@broadcastwell.com or call (812) 345-7272. Based in Bloomington, Indiana.
+
+## Careers
+
+- [Careers at Broadcastwell](https://broadcastwell.com/careers): Open and standing roles at Broadcastwell, each with responsibilities, requirements, pay where published and an application form.
+- [AI Solutions Architect, Careers at Broadcastwell](https://broadcastwell.com/careers/ai-solutions-architect): Open role at Broadcastwell: AI Solutions Architect. Remote, United States, $140k to $190k. Own the reliability of published AI search measurement.
+- [AI Automation Engineer, Careers at Broadcastwell](https://broadcastwell.com/careers/ai-automation-engineer): Open role at Broadcastwell: AI Automation Engineer. Remote, United States, $110k to $150k. Keep measurement runs, receipts and scoring reliable.
+- [Management Consultant, B2B SaaS Growth, Broadcastwell](https://broadcastwell.com/careers/management-consultant-b2b-saas-growth): Open role at Broadcastwell: Management Consultant, B2B SaaS Growth. Remote, United States, $90k to $130k. Turn findings into client strategy.
+- [Evidence and Structured Data Specialist, Broadcastwell](https://broadcastwell.com/careers/evidence-and-structured-data-specialist): Evidence and Structured Data Specialist at Broadcastwell. Not open right now; applications stay on file for twelve months.
+
+## Legal
+
+- [Privacy Notice | Broadcastwell](https://broadcastwell.com/privacy): Broadcastwell LLC privacy notice: information collection, retention, analytics, service providers, and how to make a privacy request.
+- [Terms | Broadcastwell](https://broadcastwell.com/terms): Terms for the Category Audit, AI Visibility Diagnostic, program and Free 10-question check, including refunds, credits, partner commissions and limitations.
+- [Cookie Notice | Broadcastwell](https://broadcastwell.com/cookies): Broadcastwell LLC's cookie notice: functional storage, form submissions, analytics and browser controls.
