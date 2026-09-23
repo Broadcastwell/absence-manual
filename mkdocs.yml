@@ -26,9 +26,7 @@ theme:
     scheme: default
     primary: custom
     accent: custom
-  font:
-    text: Inter
-    code: Inter
+  font: false
   favicon: https://framerusercontent.com/images/j6xX2NJoWncy5Askq1FGOGo0Vo.png
 
 extra:
