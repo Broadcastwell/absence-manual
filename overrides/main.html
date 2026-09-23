@@ -117,16 +117,30 @@ document.addEventListener("DOMContentLoaded", function () {
   <nav class="md-header__inner md-grid" aria-label="The Absence Manual">
     <a class="bw-wordmark" href="https://broadcastwell.com" aria-label="Broadcastwell">Broadcastwell</a>
     <div class="bw-shell-nav"><a href="https://broadcastwell.com/pricing">Pricing</a><a href="https://app.broadcastwell.com/signin">Sign in</a></div>
-    <label class="md-header__button md-icon" for="__drawer" aria-label="Open chapter navigation">{% include ".icons/material/menu.svg" %}</label>
+    <button class="md-header__button md-icon" type="button" data-manual-toggle="__drawer" aria-label="Open chapter navigation" aria-expanded="false">{% include ".icons/material/menu.svg" %}</button>
     <div class="md-header__title" data-md-component="header-title"><div class="md-header__ellipsis"><div class="md-header__topic"><span class="md-ellipsis">The Absence Manual</span></div><div class="md-header__topic" data-md-component="header-topic"><span class="md-ellipsis">{{ page.title if page and page.title else config.site_name }}</span></div></div></div>
     <details class="bw-shell-menu"><summary>Menu</summary><div class="bw-shell-menu-panel"><a href="https://broadcastwell.com/pricing">Pricing</a><a href="https://app.broadcastwell.com/signin">Sign in</a></div></details>
     <a class="bw-shell-pill" href="https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400">$490 Audit</a>
     {% if "material/search" in config.plugins %}
-      <label class="md-header__button md-icon" for="__search" aria-label="Search the Manual">{% include ".icons/material/magnify.svg" %}</label>
+      <button class="md-header__button md-icon" type="button" data-manual-toggle="__search" aria-label="Search the Manual" aria-expanded="false">{% include ".icons/material/magnify.svg" %}</button>
       {% include "partials/search.html" %}
     {% endif %}
   </nav>
 </header>
+<script>
+document.querySelectorAll('[data-manual-toggle]').forEach(function(button) {
+  var input = document.getElementById(button.dataset.manualToggle);
+  if (!input) return;
+  button.addEventListener('click', function() {
+    input.checked = !input.checked;
+    input.dispatchEvent(new Event('change', {bubbles:true}));
+    button.setAttribute('aria-expanded', String(input.checked));
+  });
+  input.addEventListener('change', function() {
+    button.setAttribute('aria-expanded', String(input.checked));
+  });
+});
+</script>
 {% endblock %}
 
 {% block content %}
@@ -139,7 +153,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <a href="https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400" style="display:inline-block;box-sizing:border-box;max-width:100%;padding:12px 16px;border:1px solid #416fe8;border-radius:8px;background:#416fe8;color:#fff;font-weight:600">Start with the $490 Category Audit</a>
 <a href="https://buy.stripe.com/4gM7sMgDOdmYbi93grds401" style="display:inline-block;box-sizing:border-box;max-width:100%;padding:12px 16px;border:1px solid #8b9ec4;border-radius:8px;background:transparent;color:inherit;font-weight:600">Get the Diagnostic, $990</a>
 </div>
-<p><a href="https://audit.broadcastwell.com/">Try the free 10-question check</a></p>
+<p><a href="https://audit.broadcastwell.com/">Free 10-question check (one engine)</a></p>
 <p>See the <a href="https://broadcastwell.com/terms">terms for credits and refunds</a>.</p>
 </section>
 {% endif %}

@@ -155,5 +155,11 @@ html{scroll-padding-top:96px}
 .bw-shell-heading{font-size:14px}
 .bw-shell-bottom{border-color:var(--bw-border)}
 .manual-footer-version{font-size:14px}
+.md-typeset a:not(.md-button):not(.headerlink){text-decoration:underline;text-underline-offset:3px}
+.md-typeset a[href^="https://buy.stripe.com/dRm7sM"]{background:var(--bw-accent)!important;color:#fff!important;border-color:var(--bw-accent)!important;text-decoration:none!important;border-radius:10px}
+.md-copyright,.md-copyright__highlight{color:var(--bw-muted)}
+.bw-header button.md-header__button{border:0;background:transparent;cursor:pointer;min-width:44px;min-height:44px}
+@media(min-width:76.25em){.bw-header [data-manual-toggle="__drawer"]{display:none}}
+@media(max-width:44.9375em){.bw-header [data-manual-toggle="__search"]{display:none}}
 @media(max-width:1024px){.bw-shell-nav{display:none}.bw-shell-menu{display:block;margin-left:auto}.bw-shell-columns{grid-template-columns:repeat(2,minmax(0,1fr))}.bw-header .md-header__title{display:none}}
 @media(max-width:640px){.md-header.bw-header,.bw-header .md-header__inner{height:64px}.bw-shell-menu-panel{top:64px}.bw-header .md-header__inner{gap:8px}.bw-wordmark{font-size:15px}.bw-shell-pill,.bw-shell-menu summary{font-size:12px;padding-inline:10px}.bw-shell-columns{grid-template-columns:1fr}.md-content__inner{padding-top:32px}.md-typeset h2{font-size:28px;margin-top:40px}.md-typeset h3{font-size:22px}.md-typeset__scrollwrap{margin-inline:0;width:100%}}
