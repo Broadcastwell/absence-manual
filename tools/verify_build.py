@@ -35,6 +35,8 @@ APPROVED_PALETTE = {
     "#1D4ED8", "#3B82F6", "#EFF6FF", "#FFFFFF",
     # Dark theme values, the ones the marketing site serves.
     "#0A0A0B", "#0A0E1A", "#F8FAFC", "#CBD5E1",
+    # Shared Broadcastwell design system 2.0 light surfaces and neutral ink.
+    "#F7F9FC", "#EFF4FB", "#101828", "#475467", "#667085", "#D5DDE8", "#1E40AF",
 }
 
 VALID_CLASSES = {"chapter", "note", "appendix", "page"}
