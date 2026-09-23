@@ -9,6 +9,7 @@
 {% endblock %}
 
 {% block extrahead %}
+<link rel="preload" href="{{ 'assets/fonts/inter-latin-var.woff2' | url }}" as="font" type="font/woff2" crossorigin>
 {% set social_title = (page.title if page and page.title else config.site_name) | string %}
 {% set social_description = (page.meta.get("description", config.site_description) if page and page.meta else config.site_description) | string %}
 {% set social_image = (config.site_url ~ "assets/absence-manual-2026-09.png") | string %}

@@ -16,4 +16,7 @@ REPLACEMENT = '<a class="headerlink" aria-hidden="true" tabindex="-1"'
 
 
 def on_page_content(html, page=None, config=None, files=None):
-    return PERMALINK.sub(REPLACEMENT, html)
+    html = PERMALINK.sub(REPLACEMENT, html)
+    # Material wraps tables in scroll regions after rendering. A focusable table
+    # lets keyboard users scroll that region without requiring a mouse or script.
+    return re.sub(r'<table(?![^>]*\btabindex=)(?=[\s>])', '<table tabindex="0"', html)
