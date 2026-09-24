@@ -1,0 +1,46 @@
+# Turn a finding into a work order — demonstration transcript
+
+Synthetic learning example — not a client result or live AI measurement. This is an interactive captioned guided demonstration, not a recording of a live client account.
+
+## Step 1: Start with independent evidence
+
+DEMO-PAGE-01 says native on every plan. The fictional product facts say third-party BridgeKit connector, Team edition and a separate account.
+
+Draft: Native Atlas Analytics export on every plan.
+DEMO-FACT-01/02: Third-party BridgeKit; Team edition; separately configured account.
+
+## Step 2: Make one bounded change
+
+Replace one integration paragraph and its duplicate summary. Do not add a connector build, price or activation promise.
+
+Proposed copy: Export to Atlas Analytics through the third-party BridgeKit connector. Requires Team edition and a separately configured BridgeKit account.
+
+## Step 3: Specify acceptance
+
+A reviewer should be able to check the connector type, edition, account prerequisite and source. Keep the synthetic label and inspect desktop/mobile layout.
+
+Acceptance: all three prerequisites visible together; native/every-plan claims removed; approved source linked; no unsupported timing or price.
+
+## Step 4: Keep authority honest
+
+The recommended reviewer is a product specialist role. No real owner, approver or date is assigned. The example remains a draft.
+
+Owner: unassigned
+Approver: unassigned
+Due date: unconfirmed
+Status: draft
+Completion evidence: none
+
+## Step 5: Export the work for review
+
+The functioning exercise lets you review the evidence and export a schema-shaped draft. Export is not approval, publication or delivery.
+
+Next: check evidence and scope below, then export DEMO-WO-01. Recheck only after actual approved publication evidence.
+
+
+
+## Recorded exercise result
+
+Fictional draft exported. No approval, publication, delivery or source change occurred.
+
+The recording is silent. Visible captions and the timed WebVTT track supply all spoken-equivalent instruction.

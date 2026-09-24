@@ -38,6 +38,7 @@ extra:
 
 extra_css:
   - assets/manual.css
+  - assets/learning.css
 
 markdown_extensions:
   - toc:

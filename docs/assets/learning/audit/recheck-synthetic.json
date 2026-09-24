@@ -1,0 +1,83 @@
+{
+  "sample_label": "Synthetic learning example — not a client result or live AI measurement. Dates are fictional scenario times, not events that have occurred.",
+  "is_synthetic": true,
+  "baseline": [
+    {
+      "id": "DEMO-OBS-002",
+      "question_id": "DEMO-Q-002",
+      "method_version": "synthetic-example-v1",
+      "engine": "fictional-test-surface",
+      "interface": "local-fixture",
+      "provider": null,
+      "result_state": "completed",
+      "mention_state": "absent",
+      "reviewed": true,
+      "is_synthetic": true,
+      "observed_at": "2026-09-24T10:02:00Z",
+      "stale": false,
+      "receipt_ref": "DEMO-RECEIPT-002",
+      "source_links": [],
+      "classification": "synthetic"
+    },
+    {
+      "id": "DEMO-OBS-001",
+      "question_id": "DEMO-Q-001",
+      "method_version": "synthetic-example-v1",
+      "engine": "fictional-test-surface",
+      "interface": "local-fixture",
+      "provider": null,
+      "result_state": "completed",
+      "mention_state": "present",
+      "reviewed": true,
+      "is_synthetic": true,
+      "observed_at": "2026-09-24T10:01:00Z",
+      "stale": false,
+      "receipt_ref": "DEMO-RECEIPT-001",
+      "source_links": [
+        "https://example.com/demo/integrations/atlas"
+      ],
+      "classification": "synthetic"
+    }
+  ],
+  "follow_up": [
+    {
+      "id": "DEMO-RECHECK-002",
+      "question_id": "DEMO-Q-002",
+      "method_version": "synthetic-example-v1",
+      "engine": "fictional-test-surface",
+      "interface": "local-fixture",
+      "provider": null,
+      "result_state": "completed",
+      "mention_state": "absent",
+      "reviewed": true,
+      "is_synthetic": true,
+      "observed_at": "2026-10-01T10:02:00Z",
+      "stale": false,
+      "receipt_ref": "DEMO-RECHECK-RECEIPT-002",
+      "source_links": [],
+      "classification": "synthetic"
+    },
+    {
+      "id": "DEMO-RECHECK-001",
+      "question_id": "DEMO-Q-001",
+      "method_version": "synthetic-example-v1",
+      "engine": "fictional-test-surface",
+      "interface": "local-fixture",
+      "provider": null,
+      "result_state": "failed",
+      "mention_state": "not_evaluated",
+      "reviewed": false,
+      "is_synthetic": true,
+      "observed_at": "2026-10-01T10:01:00Z",
+      "stale": false,
+      "receipt_ref": null,
+      "source_links": [],
+      "classification": "synthetic"
+    }
+  ],
+  "matched_completed_reviewed": 1,
+  "no_observed_mention_improvement": 1,
+  "excluded_failed_follow_up": 1,
+  "commercial_signals": [],
+  "conclusion": "No observed mention improvement for the matched fictional question; one failed follow-up excluded, not imputed as absence. No causal or revenue conclusion."
+}

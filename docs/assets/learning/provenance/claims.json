@@ -1,0 +1,90 @@
+[
+  {
+    "claim_id": "BW-RESOURCE-01",
+    "asset": "resources/read-an-answer.html",
+    "version": "bw-content-2026-09-24-v1",
+    "claim_type": "original method with labeled synthetic illustration",
+    "sources": [
+      "METHOD-01",
+      "SYNTHETIC-01"
+    ],
+    "reviewer": "content_enablement agent",
+    "human_release_review": null,
+    "approval_status": "candidate; not public approved",
+    "review_trigger": "source, method or asset change"
+  },
+  {
+    "claim_id": "BW-RESOURCE-02",
+    "asset": "resources/missing-brand.html",
+    "version": "bw-content-2026-09-24-v1",
+    "claim_type": "original method with labeled synthetic illustration",
+    "sources": [
+      "METHOD-01",
+      "SYNTHETIC-01",
+      "PRIMARY-GOOGLE-01"
+    ],
+    "reviewer": "content_enablement agent",
+    "human_release_review": null,
+    "approval_status": "candidate; not public approved",
+    "review_trigger": "source, method or asset change"
+  },
+  {
+    "claim_id": "BW-RESOURCE-03",
+    "asset": "resources/buyer-questions.html",
+    "version": "bw-content-2026-09-24-v1",
+    "claim_type": "original method with labeled synthetic illustration",
+    "sources": [
+      "METHOD-01",
+      "SYNTHETIC-01"
+    ],
+    "reviewer": "content_enablement agent",
+    "human_release_review": null,
+    "approval_status": "candidate; not public approved",
+    "review_trigger": "source, method or asset change"
+  },
+  {
+    "claim_id": "BW-RESOURCE-04",
+    "asset": "resources/comparison-page.html",
+    "version": "bw-content-2026-09-24-v1",
+    "claim_type": "original method with labeled synthetic illustration",
+    "sources": [
+      "METHOD-01",
+      "SYNTHETIC-01"
+    ],
+    "reviewer": "content_enablement agent",
+    "human_release_review": null,
+    "approval_status": "candidate; not public approved",
+    "review_trigger": "source, method or asset change"
+  },
+  {
+    "claim_id": "BW-RESOURCE-05",
+    "asset": "resources/product-facts.html",
+    "version": "bw-content-2026-09-24-v1",
+    "claim_type": "original method with labeled synthetic illustration",
+    "sources": [
+      "METHOD-01",
+      "SYNTHETIC-01"
+    ],
+    "reviewer": "content_enablement agent",
+    "human_release_review": null,
+    "approval_status": "candidate; not public approved",
+    "review_trigger": "source, method or asset change"
+  },
+  {
+    "claim_id": "BW-RESOURCE-06",
+    "asset": "resources/fair-recheck.html",
+    "version": "bw-content-2026-09-24-v1.1",
+    "claim_type": "original method with labeled synthetic illustration",
+    "sources": [
+      "METHOD-01",
+      "SYNTHETIC-01",
+      "PRIMARY-GOOGLE-01"
+    ],
+    "reviewer": "content_enablement agent",
+    "human_release_review": null,
+    "approval_status": "candidate; not public approved",
+    "review_trigger": "source, method or asset change",
+    "source_chain_correction": "CONTENT-RECHECK-01: authored follow-up now in audit/receipts.json; inspectable at audit/recheck-receipts.html",
+    "correction_review": "Content author AI, targeted local tests; independent/human/release review not implied"
+  }
+]

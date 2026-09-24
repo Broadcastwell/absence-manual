@@ -1,0 +1,42 @@
+# Use-case page — reusable implementation brief
+
+Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
+
+## Buyer decision
+
+Show how a defined buyer could evaluate a workflow.
+
+## Intake record
+
+Asset ID: [assign]. Intended existing route: [confirm]. Current page/revision: [record]. Permitted source files and passages: [attach]. Product/edition/region/date: [confirm]. Approved fact IDs/version: [attach]. Content editor: [assign]. Factual reviewer: [confirm]. Publication owner and release path: [verify]. Existing design reference: [owner supplies]. Contracted allowance/revisions: [verify]. No empty field implies approval.
+
+## Minimum structure
+
+User and context; starting input; workflow steps; supported capabilities; human decisions; dependencies; limitations; labeled example; next action.
+
+## Original fictional draft
+
+Synthetic learning example — not a client result or live AI measurement.
+
+Synthetic scenario: a laboratory evaluator reviews a formulation version, confirms approval, prepares a permitted export and checks it in an analysis workflow. This illustration does not establish that Northstar Lab performs any unapproved step. Confirm each capability against current product evidence.
+
+The Northstar Lab fixture is supported only by DEMO-FACT-01/02/03 where applicable; other statements above describe proposed process or explicit unknowns. It is not a product sales claim. Replace fictional content only with permitted approved evidence.
+
+## Boundaries and dependencies
+
+One explanatory scenario within allowance; no customer case study, outcome claim or extra workflow build.
+
+Approved capability map; buyer context; product reviewer; authorized original media.
+
+## Acceptance checklist
+
+- Example remains explicitly hypothetical. Each actual capability has an approved source. No invented customer name, quote, metrics or testimonial.
+- Every factual clause maps to exact approved source/claim version; changed hash invalidates prior candidate approval.
+- Owner inspects rendered desktop/mobile page, source links, alt text, keyboard focus and readable text. No essential information exists only in an image.
+- No customer logos, awards, competitor media or unlicensed assets. Original diagrams may be adapted by the delivery team.
+- Source file and final candidate hash retained; actual approver/date recorded; no fabricated human acceptance.
+- Recheck criteria reference the affected question/method only after real publication evidence. Implementation acceptance does not promise answer placement.
+
+## Publication and handoff
+
+Preview URL/file: [attach]. QA evidence: [attach]. Approved content hash: [attach]. Approver/date: [record actual]. Published URL/source file: [record actual]. Publication receipt: [record actual]. Maintenance owner/review trigger: [confirm]. Rollback: revert only the bounded owned asset revision; retain unrelated work and evidence. Customer systems require that project's actual authority.

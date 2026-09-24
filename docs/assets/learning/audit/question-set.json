@@ -1,0 +1,39 @@
+{
+  "version": "synthetic-audit-scope-v1",
+  "is_synthetic": true,
+  "sample_label": "Six-slot teaching fixture, not a contracted measurement scope or live customer work",
+  "locale": "en-US",
+  "questions": [
+    {
+      "id": "DEMO-Q-001",
+      "text": "What prerequisites matter when exporting formulation records to an analysis tool?",
+      "source": "Original synthetic exercise"
+    },
+    {
+      "id": "DEMO-Q-002",
+      "text": "What data should a laboratory inspect before migrating formulation records?",
+      "source": "Original synthetic exercise"
+    },
+    {
+      "id": "DEMO-Q-003",
+      "text": "What should a laboratory evaluate in record software?",
+      "source": "Original synthetic exercise"
+    },
+    {
+      "id": "DEMO-Q-004",
+      "text": "How can a laboratory assess version history?",
+      "source": "Original synthetic exercise"
+    },
+    {
+      "id": "DEMO-Q-005",
+      "text": "What responsibilities matter before implementation?",
+      "source": "Original synthetic exercise"
+    },
+    {
+      "id": "DEMO-Q-006",
+      "text": "What limitations matter when a laboratory needs work without a connection?",
+      "source": "Original synthetic exercise"
+    }
+  ],
+  "separate_planner_example": "worksheets/question-set-synthetic.json uses DEMO-PLAN-Q IDs and is a separate ten-question planning exercise."
+}

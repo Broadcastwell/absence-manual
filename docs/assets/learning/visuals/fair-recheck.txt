@@ -1,0 +1,1 @@
+Preserve baseline receipts and methods, record the exact published change, then compare matching follow-up observations. Keep failed or changed-method observations separate and measure commercial signals from their own records.

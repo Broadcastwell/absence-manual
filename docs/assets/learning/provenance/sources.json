@@ -1,0 +1,33 @@
+[
+  {
+    "id": "METHOD-01",
+    "type": "supplied design / not operational proof",
+    "source": "08_CONTENT_AND_ENABLEMENT_SYSTEM.md; supplied content and playbooks; original blueprint",
+    "reviewed_at": "2026-09-24",
+    "scope": "Terminology, bounded method, examples and editorial constraints"
+  },
+  {
+    "id": "PRIMARY-GOOGLE-01",
+    "type": "primary documentation",
+    "url": "https://developers.google.com/search/docs/appearance/ai-features",
+    "retrieved_at": "2026-09-24",
+    "page_last_updated": "2025-12-10",
+    "narrow_support": "Ordinary Google Search eligibility applies to supporting links in AI features. No special AI files or schema required. Crawling, indexing and serving not guaranteed.",
+    "not_supported": "Any Broadcastwell ranking, revenue, inclusion result or causal claim"
+  },
+  {
+    "id": "PRIMARY-OPENAI-01",
+    "type": "primary documentation",
+    "url": "https://developers.openai.com/api/docs/bots",
+    "retrieved_at": "2026-09-24",
+    "narrow_support": "OAI-SearchBot search and GPTBot training controls are separate.",
+    "not_supported": "Actual Broadcastwell measurement interface, search inclusion guarantee, or permission to change a crawler policy"
+  },
+  {
+    "id": "SYNTHETIC-01",
+    "type": "original local fixture",
+    "source": "audit/synthetic-facts.json; audit/observations.json; audit/receipts.json",
+    "reviewed_at": "2026-09-24",
+    "scope": "Invented teaching examples, no live provider calls, client evidence or production outcome"
+  }
+]

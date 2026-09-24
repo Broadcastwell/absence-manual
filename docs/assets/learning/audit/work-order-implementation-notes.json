@@ -1,0 +1,47 @@
+[
+  {
+    "work_order_id": "DEMO-WO-01",
+    "priority": "P1",
+    "rationale": "Direct contradiction could misstate compatibility and edition fit.",
+    "recommended_role": "Product content editor; technical/product reviewer",
+    "dependencies": [
+      "Current approved product fact version",
+      "Authorized page owner and scoped allowance",
+      "Existing release path and preview"
+    ],
+    "allowance": "One integration paragraph and its duplicated on-page summary; no connector implementation or new page allowance.",
+    "rollback": "Restore only the changed paragraph from the owner-recorded previous page revision. Preserve legitimate unrelated changes.",
+    "approval_state": "Unassigned real owner and approver; draft sample only",
+    "recheck_eligibility": "After actual publication evidence, product approval and a separately authorized matching question/method recheck."
+  },
+  {
+    "work_order_id": "DEMO-WO-02",
+    "priority": "P2",
+    "rationale": "Missing prerequisites can leave an evaluator unable to assess edition fit; no contradictory price is established.",
+    "recommended_role": "Product content editor; commercial reviewer",
+    "dependencies": [
+      "DEMO-FACT-02",
+      "Unchanged current commercial record",
+      "Page owner review"
+    ],
+    "allowance": "One explanatory block; no price, contract, credit, guarantee or purchased allowance change.",
+    "rollback": "Revert the bounded explanatory block using the recorded prior page revision.",
+    "approval_state": "Unassigned real owner and approver; draft sample only",
+    "recheck_eligibility": "Only after the edition block is publicly accessible and relevant comparable scope is approved."
+  },
+  {
+    "work_order_id": "DEMO-WO-03",
+    "priority": "P3",
+    "rationale": "Independent listing name conflict is supported, but a third-party change depends on its owner.",
+    "recommended_role": "Authorized source-correction owner; product reviewer",
+    "dependencies": [
+      "Current-name approval",
+      "Verified recipient and authority",
+      "Explicit send authorization under the actual project"
+    ],
+    "allowance": "One correction draft; no sending from this lane, paid placement, review campaign or promised acceptance.",
+    "rollback": "Draft can be withdrawn locally. A submitted request has no assumed reverse action; reconcile with source owner.",
+    "approval_state": "Unassigned real owner and approver; draft sample only",
+    "recheck_eligibility": "Only when the actual listing change is verified; a sent request alone is insufficient."
+  }
+]

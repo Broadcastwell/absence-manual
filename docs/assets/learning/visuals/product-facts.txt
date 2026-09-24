@@ -1,0 +1,1 @@
+A fact record links source and product scope to reviewed wording. Approved wording can be used in named assets. A changed source creates a review item while previous versions remain part of the historical record.

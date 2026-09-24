@@ -1,0 +1,18 @@
+{
+  "worksheet_id": "BW-RESOURCE-01",
+  "version": "bw-content-2026-09-24-v1",
+  "classification": "blank template; not approved evidence",
+  "fields": {
+    "Exact question": "",
+    "Buyer and evaluation need": "",
+    "Receipt ID and permitted location": "",
+    "Engine / interface / provider": "",
+    "Observed date / locale / method version": "",
+    "Result state: completed, failed, untested or uncertain": "",
+    "Mention state and review decision": "",
+    "Returned source links": "",
+    "Observation: what the receipt actually says": "",
+    "Interpretation and unresolved uncertainty": "",
+    "One justified next step": ""
+  }
+}

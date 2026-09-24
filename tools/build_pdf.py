@@ -103,6 +103,10 @@ def read_order():
     pages = yaml.safe_load((DOCS / ".pages").read_text(encoding="utf-8"))
     order = []
     for entry in pages["nav"]:
+        # Interactive learning companions have their own text downloads. Keep
+        # the existing book mirror focused on its manual chapters and notes.
+        if entry in {"resources.md", "resources"}:
+            continue
         if entry == "posts":
             for p in sorted((DOCS / "posts").glob("*.md")):
                 order.append(p)
@@ -174,7 +178,8 @@ def main():
     <br>
     This PDF is a mirror. It is generated from the same source as the website,
     in the same build, so the two cannot drift. It is free and ungated: there is
-    no form, no email field and no login anywhere in it or on the site.
+    no signup, email address or login is required to read the manual. Optional web
+    worksheets run locally in the browser.
   </div>
 </div>
 <div class="toc"><h1 class="first">Contents</h1><ol>{toc_items}</ol></div>

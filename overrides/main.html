@@ -109,6 +109,7 @@ document.addEventListener("DOMContentLoaded", function () {
   "dependencies": "None. This page requires no login, no form and no JavaScript."
 } %}
 {% if page.meta.get("image") %}{% set article = dict(article, **{"image": (config.site_url ~ page.meta.get("image")) | string}) %}{% endif %}
+{% if page.meta.get("learning_resource") %}{% set article = dict(article, **{"author": org, "creator": org, "dependencies": "No login required. Guides and downloads are readable without JavaScript; interactive exercises require JavaScript."}) %}{% endif %}
 <script type="application/ld+json">{{ article | tojson }}</script>
 {% endif %}
 {% endblock %}
@@ -121,7 +122,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <button class="md-header__button md-icon" type="button" data-manual-toggle="__drawer" aria-label="Open chapter navigation" aria-expanded="false">{% include ".icons/material/menu.svg" %}</button>
     <div class="md-header__title" data-md-component="header-title"><div class="md-header__ellipsis"><div class="md-header__topic"><span class="md-ellipsis">The Absence Manual</span></div><div class="md-header__topic" data-md-component="header-topic"><span class="md-ellipsis">{{ page.title if page and page.title else config.site_name }}</span></div></div></div>
     <details class="bw-shell-menu"><summary>Menu</summary><div class="bw-shell-menu-panel"><a href="https://broadcastwell.com/pricing">Pricing</a><a href="https://app.broadcastwell.com/signin">Sign in</a></div></details>
-    <a class="bw-shell-pill" href="https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400">$490 Audit</a>
+    <a class="bw-shell-pill" href="mailto:hello@broadcastwell.com">Check Audit availability</a>
     {% if "material/search" in config.plugins %}
       <button class="md-header__button md-icon" type="button" data-manual-toggle="__search" aria-label="Search the Manual" aria-expanded="false">{% include ".icons/material/magnify.svg" %}</button>
       {% include "partials/search.html" %}
@@ -146,20 +147,25 @@ document.querySelectorAll('[data-manual-toggle]').forEach(function(button) {
 
 {% block content %}
 {{ super() }}
-{% if page and not page.is_homepage %}
+{% if page and not page.is_homepage and not page.meta.get("learning_resource") %}
 <section aria-label="A measured next step" style="margin:2rem 0;padding:1.25rem;border:1px solid #425069;border-radius:12px">
-<h2>A measured next step</h2>
-<p>AI answers vary. Repeated observations show who is named instead, the observed sources and the changes to test.</p>
+<h2>New measurement availability</h2>
+<p>New Category Audits and AI Visibility Diagnostics are currently on hold. Please check availability with Broadcastwell before purchasing.</p>
+<p>Published prices: Category Audit $490; AI Visibility Diagnostic $990. Existing scope, terms and orders are unchanged.</p>
 <div style="display:flex;flex-wrap:wrap;gap:12px">
-<a href="https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400" style="display:inline-block;box-sizing:border-box;max-width:100%;padding:12px 16px;border:1px solid #416fe8;border-radius:8px;background:#416fe8;color:#fff;font-weight:600">Start with the $490 Category Audit</a>
-<a href="https://buy.stripe.com/4gM7sMgDOdmYbi93grds401" style="display:inline-block;box-sizing:border-box;max-width:100%;padding:12px 16px;border:1px solid #8b9ec4;border-radius:8px;background:transparent;color:inherit;font-weight:600">Get the Diagnostic, $990</a>
+<a href="mailto:hello@broadcastwell.com" style="display:inline-block;box-sizing:border-box;max-width:100%;padding:12px 16px;border:1px solid #1D4ED8;border-radius:8px;background:#1D4ED8;color:#fff;font-weight:600">Check Audit availability</a>
+<a href="mailto:hello@broadcastwell.com" style="display:inline-block;box-sizing:border-box;max-width:100%;padding:12px 16px;border:1px solid #667085;border-radius:8px;background:transparent;color:inherit;font-weight:600">Check Diagnostic availability</a>
 </div>
 <p><a href="https://audit.broadcastwell.com/">Free 10-question check (one engine)</a></p>
 <p>See the <a href="https://broadcastwell.com/terms">terms for credits and refunds</a>.</p>
 </section>
 {% endif %}
 <hr>
+{% if page and page.meta.get("learning_resource") %}
+<p class="manual-footer-version">Broadcastwell practical resources, September 2026. Original guides and diagrams with authored fictional examples. No client outcome or live AI measurement is represented. Prose and figures CC BY 4.0, site code MIT. <a href="{{ 'resources/provenance/sources/' | url }}">Sources and scope</a>.</p>
+{% else %}
 <p class="manual-footer-version">{{ config.extra.manual_version_label }}. Author: <a href="https://broadcastwell.com/about">Sairam Sivakumar, Broadcastwell</a>. Prose and figures CC BY 4.0, site code MIT. Not peer reviewed. Every figure can be recomputed from the public data at <a href="https://github.com/Broadcastwell/state-of-geo-2026">github.com/Broadcastwell/state-of-geo-2026</a>.</p>
+{% endif %}
 {% endblock %}
 
 {% block footer %}

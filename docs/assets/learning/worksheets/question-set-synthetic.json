@@ -1,0 +1,150 @@
+{
+  "version": "synthetic-questions-v1",
+  "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+  "is_synthetic": true,
+  "scope_approved": false,
+  "reviewer": null,
+  "demand_data_collected": false,
+  "questions": [
+    {
+      "id": "DEMO-PLAN-Q-001",
+      "wording": "What should a small laboratory evaluate in formulation-record software?",
+      "buyer": "small laboratory operations evaluator (fictional)",
+      "stage": "evaluation",
+      "need": "Category shortlist",
+      "reason": "Tests one distinct fictional evaluation need",
+      "source": "Original teaching fixture; not buyer research",
+      "assumptions_to_verify": [
+        "Product category and actual target buyer"
+      ],
+      "surface": "fictional-test-surface",
+      "locale": "en-US"
+    },
+    {
+      "id": "DEMO-PLAN-Q-002",
+      "wording": "How can a laboratory assess version history for formulation records?",
+      "buyer": "small laboratory operations evaluator (fictional)",
+      "stage": "evaluation",
+      "need": "Capability fit",
+      "reason": "Tests one distinct fictional evaluation need",
+      "source": "Original teaching fixture; not buyer research",
+      "assumptions_to_verify": [
+        "Product category and actual target buyer"
+      ],
+      "surface": "fictional-test-surface",
+      "locale": "en-US"
+    },
+    {
+      "id": "DEMO-PLAN-Q-003",
+      "wording": "What prerequisites matter when exporting formulation records to an analysis tool?",
+      "buyer": "small laboratory operations evaluator (fictional)",
+      "stage": "evaluation",
+      "need": "Integration",
+      "reason": "Tests one distinct fictional evaluation need",
+      "source": "Original teaching fixture; not buyer research",
+      "assumptions_to_verify": [
+        "Product category and actual target buyer"
+      ],
+      "surface": "fictional-test-surface",
+      "locale": "en-US"
+    },
+    {
+      "id": "DEMO-PLAN-Q-004",
+      "wording": "What responsibilities should a laboratory clarify before implementing a record system?",
+      "buyer": "small laboratory operations evaluator (fictional)",
+      "stage": "evaluation",
+      "need": "Implementation",
+      "reason": "Tests one distinct fictional evaluation need",
+      "source": "Original teaching fixture; not buyer research",
+      "assumptions_to_verify": [
+        "Product category and actual target buyer"
+      ],
+      "surface": "fictional-test-surface",
+      "locale": "en-US"
+    },
+    {
+      "id": "DEMO-PLAN-Q-005",
+      "wording": "What data should a laboratory inspect before migrating formulation records?",
+      "buyer": "small laboratory operations evaluator (fictional)",
+      "stage": "evaluation",
+      "need": "Migration",
+      "reason": "Tests one distinct fictional evaluation need",
+      "source": "Original teaching fixture; not buyer research",
+      "assumptions_to_verify": [
+        "Product category and actual target buyer"
+      ],
+      "surface": "fictional-test-surface",
+      "locale": "en-US"
+    },
+    {
+      "id": "DEMO-PLAN-Q-006",
+      "wording": "What limitations matter when a laboratory needs work without a connection?",
+      "buyer": "small laboratory operations evaluator (fictional)",
+      "stage": "evaluation",
+      "need": "Constraints",
+      "reason": "Tests one distinct fictional evaluation need",
+      "source": "Original teaching fixture; not buyer research",
+      "assumptions_to_verify": [
+        "Product category and actual target buyer"
+      ],
+      "surface": "fictional-test-surface",
+      "locale": "en-US"
+    },
+    {
+      "id": "DEMO-PLAN-Q-007",
+      "wording": "How should a laboratory compare software editions and included allowances?",
+      "buyer": "small laboratory operations evaluator (fictional)",
+      "stage": "evaluation",
+      "need": "Pricing structure",
+      "reason": "Tests one distinct fictional evaluation need",
+      "source": "Original teaching fixture; not buyer research",
+      "assumptions_to_verify": [
+        "Product category and actual target buyer"
+      ],
+      "surface": "fictional-test-surface",
+      "locale": "en-US"
+    },
+    {
+      "id": "DEMO-PLAN-Q-008",
+      "wording": "How can a laboratory compare documented export workflows fairly?",
+      "buyer": "small laboratory operations evaluator (fictional)",
+      "stage": "evaluation",
+      "need": "Comparison",
+      "reason": "Tests one distinct fictional evaluation need",
+      "source": "Original teaching fixture; not buyer research",
+      "assumptions_to_verify": [
+        "Product category and actual target buyer"
+      ],
+      "surface": "fictional-test-surface",
+      "locale": "en-US"
+    },
+    {
+      "id": "DEMO-PLAN-Q-009",
+      "wording": "What product information should a laboratory collect for an internal procurement review?",
+      "buyer": "small laboratory operations evaluator (fictional)",
+      "stage": "evaluation",
+      "need": "Procurement",
+      "reason": "Tests one distinct fictional evaluation need",
+      "source": "Original teaching fixture; not buyer research",
+      "assumptions_to_verify": [
+        "Product category and actual target buyer"
+      ],
+      "surface": "fictional-test-surface",
+      "locale": "en-US"
+    },
+    {
+      "id": "DEMO-PLAN-Q-010",
+      "wording": "How can a laboratory evaluate the workflow from approved formulation to analysis export?",
+      "buyer": "small laboratory operations evaluator (fictional)",
+      "stage": "evaluation",
+      "need": "Use case",
+      "reason": "Tests one distinct fictional evaluation need",
+      "source": "Original teaching fixture; not buyer research",
+      "assumptions_to_verify": [
+        "Product category and actual target buyer"
+      ],
+      "surface": "fictional-test-surface",
+      "locale": "en-US"
+    }
+  ]
+}

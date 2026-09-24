@@ -1,0 +1,1716 @@
+[
+  {
+    "id": "receipt-review-positive",
+    "playbook": "receipt-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "result_state": "completed",
+      "receipt_ref": "DEMO-RECEIPT-001",
+      "surface": "fictional-test-surface / local-fixture",
+      "method_version": "synthetic-example-v1",
+      "observed_at": "2026-09-24T10:01:00Z",
+      "reviewed": true,
+      "reviewed_mention": "present",
+      "alias_checked": true
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {},
+    "reason_contains": null
+  },
+  {
+    "id": "question-selection-positive",
+    "playbook": "question-selection",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "questions": [
+        {
+          "text": "What should a small laboratory evaluate in formulation-record software?",
+          "need": "Category shortlist",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory assess version history for formulation records?",
+          "need": "Capability fit",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What prerequisites matter when exporting formulation records to an analysis tool?",
+          "need": "Integration",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What responsibilities should a laboratory clarify before implementing a record system?",
+          "need": "Implementation",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What data should a laboratory inspect before migrating formulation records?",
+          "need": "Migration",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What limitations matter when a laboratory needs work without a connection?",
+          "need": "Constraints",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How should a laboratory compare software editions and included allowances?",
+          "need": "Pricing structure",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory compare documented export workflows fairly?",
+          "need": "Comparison",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What product information should a laboratory collect for an internal procurement review?",
+          "need": "Procurement",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory evaluate the workflow from approved formulation to analysis export?",
+          "need": "Use case",
+          "reason": "Distinct synthetic evaluation need"
+        }
+      ],
+      "demand_claim": false
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {},
+    "reason_contains": null
+  },
+  {
+    "id": "fact-verification-positive",
+    "playbook": "fact-verification",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "fact_id": "DEMO-FACT-01",
+      "source_ref": "DEMO-DOC-01",
+      "version": "1",
+      "source_date": "2026-09-24",
+      "owner": "fictional product owner role",
+      "reviewer": "fictional reviewer role",
+      "explicit_support": true,
+      "sources_disagree": false
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {},
+    "reason_contains": null
+  },
+  {
+    "id": "comparison-brief-positive",
+    "playbook": "comparison-brief",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "scope": "Northstar Lab versus Harbor Notes; fictional exercise",
+      "editions": "Team / comparable edition unverified",
+      "region": "fictional US catalogue",
+      "as_of": "2026-09-24",
+      "rows": [
+        {
+          "dimension": "Connector type",
+          "state": "supported",
+          "source_ref": "DEMO-FACT-01"
+        },
+        {
+          "dimension": "Harbor connector support",
+          "state": "unknown"
+        }
+      ]
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {},
+    "reason_contains": null
+  },
+  {
+    "id": "technical-change-positive",
+    "playbook": "technical-change",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "defect_ref": "SYNTHETIC-BROKEN-LINK-01",
+      "route": "https://example.com/demo/help",
+      "change": "Replace the broken same-site link with the verified fixture help route.",
+      "preview_test": "Link opens the intended synthetic help content; keyboard focus works.",
+      "rollback": "Restore only this href from the captured prior fixture."
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {},
+    "reason_contains": null
+  },
+  {
+    "id": "source-correction-positive",
+    "playbook": "source-correction",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "source_ref": "DEMO-PAGE-03",
+      "fact_ref": "DEMO-FACT-03",
+      "exact_error": "Former name is labeled current.",
+      "correction": "Use Northstar Lab for the current name; retain former name in historical context.",
+      "action": "draft",
+      "recipient_verified": false
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {},
+    "reason_contains": null
+  },
+  {
+    "id": "recheck-review-positive",
+    "playbook": "recheck-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "baseline": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-09-24",
+        "receipt": "DEMO-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      },
+      "follow_up": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-10-01",
+        "receipt": "DEMO-RECHECK-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      }
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {},
+    "reason_contains": null
+  },
+  {
+    "id": "commercial-review-positive",
+    "playbook": "commercial-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "basis": "cash",
+      "events": [
+        {
+          "id": "live-payment-fixture-1",
+          "type": "payment",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 100,
+          "currency": "USD"
+        },
+        {
+          "id": "live-payment-fixture-1",
+          "type": "payment",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 100,
+          "currency": "USD"
+        },
+        {
+          "id": "test-payment-fixture-2",
+          "type": "payment",
+          "is_test": true,
+          "reconciled": true,
+          "amount": 900,
+          "currency": "USD"
+        },
+        {
+          "id": "refund-fixture-1",
+          "type": "refund",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 20,
+          "currency": "USD"
+        },
+        {
+          "id": "fee-fixture-1",
+          "type": "fee",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 3,
+          "currency": "USD"
+        },
+        {
+          "id": "send-fixture-1",
+          "type": "sent_pitch",
+          "is_test": false
+        },
+        {
+          "id": "held-fixture-1",
+          "type": "held_conversation",
+          "is_test": false
+        }
+      ]
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {},
+    "reason_contains": null
+  },
+  {
+    "id": "failed-is-not-absent",
+    "playbook": "receipt-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "result_state": "failed",
+      "receipt_ref": "DEMO-RECEIPT-001",
+      "surface": "fictional-test-surface / local-fixture",
+      "method_version": "synthetic-example-v1",
+      "observed_at": "2026-09-24T10:01:00Z",
+      "reviewed": true,
+      "reviewed_mention": "absent",
+      "alias_checked": true
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {
+      "mention_state": "not_evaluated"
+    },
+    "reason_contains": null
+  },
+  {
+    "id": "unreviewed-stays-open",
+    "playbook": "receipt-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "result_state": "completed",
+      "receipt_ref": "DEMO-RECEIPT-001",
+      "surface": "fictional-test-surface / local-fixture",
+      "method_version": "synthetic-example-v1",
+      "observed_at": "2026-09-24T10:01:00Z",
+      "reviewed": false,
+      "reviewed_mention": "present",
+      "alias_checked": true
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {
+      "mention_state": "not_evaluated"
+    },
+    "reason_contains": null
+  },
+  {
+    "id": "missing-receipt-held",
+    "playbook": "receipt-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "result_state": "completed",
+      "receipt_ref": null,
+      "surface": "fictional-test-surface / local-fixture",
+      "method_version": "synthetic-example-v1",
+      "observed_at": "2026-09-24T10:01:00Z",
+      "reviewed": true,
+      "reviewed_mention": "present",
+      "alias_checked": true
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "receipt"
+  },
+  {
+    "id": "alias-required",
+    "playbook": "receipt-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "result_state": "completed",
+      "receipt_ref": "DEMO-RECEIPT-001",
+      "surface": "fictional-test-surface / local-fixture",
+      "method_version": "synthetic-example-v1",
+      "observed_at": "2026-09-24T10:01:00Z",
+      "reviewed": true,
+      "reviewed_mention": "absent",
+      "alias_checked": false
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "aliases"
+  },
+  {
+    "id": "duplicate-question-held",
+    "playbook": "question-selection",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "questions": [
+        {
+          "text": "What should a small laboratory evaluate in formulation-record software?",
+          "need": "Category shortlist",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory assess version history for formulation records?",
+          "need": "Capability fit",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What prerequisites matter when exporting formulation records to an analysis tool?",
+          "need": "Integration",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What responsibilities should a laboratory clarify before implementing a record system?",
+          "need": "Implementation",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What data should a laboratory inspect before migrating formulation records?",
+          "need": "Migration",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What limitations matter when a laboratory needs work without a connection?",
+          "need": "Constraints",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How should a laboratory compare software editions and included allowances?",
+          "need": "Pricing structure",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory compare documented export workflows fairly?",
+          "need": "Comparison",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What product information should a laboratory collect for an internal procurement review?",
+          "need": "Procurement",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What should a small laboratory evaluate in formulation-record software?",
+          "need": "Category shortlist",
+          "reason": "Distinct synthetic evaluation need"
+        }
+      ],
+      "demand_claim": false
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "Duplicate"
+  },
+  {
+    "id": "leading-question-held",
+    "playbook": "question-selection",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "questions": [
+        {
+          "text": "Why is Northstar Lab the best?",
+          "need": "Category shortlist",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory assess version history for formulation records?",
+          "need": "Capability fit",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What prerequisites matter when exporting formulation records to an analysis tool?",
+          "need": "Integration",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What responsibilities should a laboratory clarify before implementing a record system?",
+          "need": "Implementation",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What data should a laboratory inspect before migrating formulation records?",
+          "need": "Migration",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What limitations matter when a laboratory needs work without a connection?",
+          "need": "Constraints",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How should a laboratory compare software editions and included allowances?",
+          "need": "Pricing structure",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory compare documented export workflows fairly?",
+          "need": "Comparison",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What product information should a laboratory collect for an internal procurement review?",
+          "need": "Procurement",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory evaluate the workflow from approved formulation to analysis export?",
+          "need": "Use case",
+          "reason": "Distinct synthetic evaluation need"
+        }
+      ],
+      "demand_claim": false
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "Leading"
+  },
+  {
+    "id": "invented-demand-held",
+    "playbook": "question-selection",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "questions": [
+        {
+          "text": "What should a small laboratory evaluate in formulation-record software?",
+          "need": "Category shortlist",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory assess version history for formulation records?",
+          "need": "Capability fit",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What prerequisites matter when exporting formulation records to an analysis tool?",
+          "need": "Integration",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What responsibilities should a laboratory clarify before implementing a record system?",
+          "need": "Implementation",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What data should a laboratory inspect before migrating formulation records?",
+          "need": "Migration",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What limitations matter when a laboratory needs work without a connection?",
+          "need": "Constraints",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How should a laboratory compare software editions and included allowances?",
+          "need": "Pricing structure",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory compare documented export workflows fairly?",
+          "need": "Comparison",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What product information should a laboratory collect for an internal procurement review?",
+          "need": "Procurement",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory evaluate the workflow from approved formulation to analysis export?",
+          "need": "Use case",
+          "reason": "Distinct synthetic evaluation need"
+        }
+      ],
+      "demand_claim": true
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "volume"
+  },
+  {
+    "id": "missing-is-not-false",
+    "playbook": "fact-verification",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "fact_id": "DEMO-FACT-01",
+      "source_ref": "DEMO-DOC-01",
+      "version": "1",
+      "source_date": "2026-09-24",
+      "owner": "fictional product owner role",
+      "reviewer": "fictional reviewer role",
+      "explicit_support": false,
+      "sources_disagree": false
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {
+      "fact_state": "not_found"
+    },
+    "reason_contains": null
+  },
+  {
+    "id": "source-dispute-held",
+    "playbook": "fact-verification",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "fact_id": "DEMO-FACT-01",
+      "source_ref": "DEMO-DOC-01",
+      "version": "1",
+      "source_date": "2026-09-24",
+      "owner": "fictional product owner role",
+      "reviewer": "fictional reviewer role",
+      "explicit_support": true,
+      "sources_disagree": true
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "Conflicting"
+  },
+  {
+    "id": "stale-preserved",
+    "playbook": "fact-verification",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "fact_id": "DEMO-FACT-01",
+      "source_ref": "DEMO-DOC-01",
+      "version": "1",
+      "source_date": "2026-09-24",
+      "owner": "fictional product owner role",
+      "reviewer": "fictional reviewer role",
+      "explicit_support": true,
+      "sources_disagree": false,
+      "stale": true
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {
+      "fact_state": "stale"
+    },
+    "reason_contains": null
+  },
+  {
+    "id": "superiority-held",
+    "playbook": "comparison-brief",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "scope": "Northstar Lab versus Harbor Notes; fictional exercise",
+      "editions": "Team / comparable edition unverified",
+      "region": "fictional US catalogue",
+      "as_of": "2026-09-24",
+      "rows": [
+        {
+          "dimension": "Connector type",
+          "state": "supported",
+          "source_ref": "DEMO-FACT-01"
+        },
+        {
+          "dimension": "Harbor connector support",
+          "state": "unknown"
+        }
+      ],
+      "universal_superiority": true
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "superiority"
+  },
+  {
+    "id": "missing-row-source-held",
+    "playbook": "comparison-brief",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "scope": "Northstar Lab versus Harbor Notes; fictional exercise",
+      "editions": "Team / comparable edition unverified",
+      "region": "fictional US catalogue",
+      "as_of": "2026-09-24",
+      "rows": [
+        {
+          "dimension": "Export",
+          "state": "supported"
+        }
+      ]
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "source"
+  },
+  {
+    "id": "unknown-row-preserved",
+    "playbook": "comparison-brief",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "scope": "Northstar Lab versus Harbor Notes; fictional exercise",
+      "editions": "Team / comparable edition unverified",
+      "region": "fictional US catalogue",
+      "as_of": "2026-09-24",
+      "rows": [
+        {
+          "dimension": "Connector type",
+          "state": "supported",
+          "source_ref": "DEMO-FACT-01"
+        },
+        {
+          "dimension": "Harbor connector support",
+          "state": "unknown"
+        }
+      ]
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {
+      "unknowns": 1
+    },
+    "reason_contains": null
+  },
+  {
+    "id": "security-change-held",
+    "playbook": "technical-change",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "defect_ref": "SYNTHETIC-BROKEN-LINK-01",
+      "route": "https://example.com/demo/help",
+      "change": "Replace the broken same-site link with the verified fixture help route.",
+      "preview_test": "Link opens the intended synthetic help content; keyboard focus works.",
+      "rollback": "Restore only this href from the captured prior fixture.",
+      "disable_security": true
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "security"
+  },
+  {
+    "id": "training-not-search-prerequisite",
+    "playbook": "technical-change",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "defect_ref": "SYNTHETIC-BROKEN-LINK-01",
+      "route": "https://example.com/demo/help",
+      "change": "Replace the broken same-site link with the verified fixture help route.",
+      "preview_test": "Link opens the intended synthetic help content; keyboard focus works.",
+      "rollback": "Restore only this href from the captured prior fixture.",
+      "require_training_crawler": true
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "training"
+  },
+  {
+    "id": "no-placement-guarantee",
+    "playbook": "technical-change",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "defect_ref": "SYNTHETIC-BROKEN-LINK-01",
+      "route": "https://example.com/demo/help",
+      "change": "Replace the broken same-site link with the verified fixture help route.",
+      "preview_test": "Link opens the intended synthetic help content; keyboard focus works.",
+      "rollback": "Restore only this href from the captured prior fixture.",
+      "placement_guarantee": true
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "guarantee"
+  },
+  {
+    "id": "source-send-held",
+    "playbook": "source-correction",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "source_ref": "DEMO-PAGE-03",
+      "fact_ref": "DEMO-FACT-03",
+      "exact_error": "Former name is labeled current.",
+      "correction": "Use Northstar Lab for the current name; retain former name in historical context.",
+      "action": "send",
+      "recipient_verified": false
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "drafts only"
+  },
+  {
+    "id": "sent-does-not-mean-changed",
+    "playbook": "source-correction",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "source_ref": "DEMO-PAGE-03",
+      "fact_ref": "DEMO-FACT-03",
+      "exact_error": "Former name is labeled current.",
+      "correction": "Use Northstar Lab for the current name; retain former name in historical context.",
+      "action": "draft",
+      "recipient_verified": false,
+      "claim_source_changed": true
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "not evidence"
+  },
+  {
+    "id": "fake-review-held",
+    "playbook": "source-correction",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "source_ref": "DEMO-PAGE-03",
+      "fact_ref": "DEMO-FACT-03",
+      "exact_error": "Former name is labeled current.",
+      "correction": "Use Northstar Lab for the current name; retain former name in historical context.",
+      "action": "draft",
+      "recipient_verified": false,
+      "fake_review": true
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "fake review"
+  },
+  {
+    "id": "method-change-limited",
+    "playbook": "recheck-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "baseline": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-09-24",
+        "receipt": "DEMO-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      },
+      "follow_up": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "different-method",
+        "locale": "en-US",
+        "date": "2026-10-01",
+        "receipt": "DEMO-RECHECK-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      }
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {
+      "comparison_state": "limited"
+    },
+    "reason_contains": null
+  },
+  {
+    "id": "failed-recheck-excluded",
+    "playbook": "recheck-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "baseline": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-09-24",
+        "receipt": "DEMO-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      },
+      "follow_up": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-10-01",
+        "receipt": "DEMO-RECHECK-RECEIPT-002",
+        "result_state": "failed",
+        "reviewed": true,
+        "mention": "absent"
+      }
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {
+      "comparison_state": "excluded"
+    },
+    "reason_contains": null
+  },
+  {
+    "id": "no-improvement-preserved",
+    "playbook": "recheck-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "baseline": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-09-24",
+        "receipt": "DEMO-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      },
+      "follow_up": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-10-01",
+        "receipt": "DEMO-RECHECK-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      }
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {
+      "change": "no_observed_mention_change",
+      "causality": "not_established"
+    },
+    "reason_contains": null
+  },
+  {
+    "id": "causality-held",
+    "playbook": "recheck-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "baseline": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-09-24",
+        "receipt": "DEMO-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      },
+      "follow_up": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-10-01",
+        "receipt": "DEMO-RECHECK-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      },
+      "causal_claim": true
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "causality"
+  },
+  {
+    "id": "cash-dedup-and-tests",
+    "playbook": "commercial-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "basis": "cash",
+      "events": [
+        {
+          "id": "live-payment-fixture-1",
+          "type": "payment",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 100,
+          "currency": "USD"
+        },
+        {
+          "id": "live-payment-fixture-1",
+          "type": "payment",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 100,
+          "currency": "USD"
+        },
+        {
+          "id": "test-payment-fixture-2",
+          "type": "payment",
+          "is_test": true,
+          "reconciled": true,
+          "amount": 900,
+          "currency": "USD"
+        },
+        {
+          "id": "refund-fixture-1",
+          "type": "refund",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 20,
+          "currency": "USD"
+        },
+        {
+          "id": "fee-fixture-1",
+          "type": "fee",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 3,
+          "currency": "USD"
+        },
+        {
+          "id": "send-fixture-1",
+          "type": "sent_pitch",
+          "is_test": false
+        },
+        {
+          "id": "held-fixture-1",
+          "type": "held_conversation",
+          "is_test": false
+        }
+      ]
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {
+      "cash_collected": 100,
+      "net_after_refunds_and_fees": 77,
+      "paid_events": 1,
+      "duplicate_excluded": 1,
+      "test_excluded": 1,
+      "held_conversations": 1
+    },
+    "reason_contains": null
+  },
+  {
+    "id": "unreconciled-payment-held",
+    "playbook": "commercial-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "basis": "cash",
+      "events": [
+        {
+          "id": "x",
+          "is_test": false,
+          "type": "payment",
+          "amount": 100,
+          "currency": "USD"
+        }
+      ]
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "reconciliation"
+  },
+  {
+    "id": "no-cash-from-invoice",
+    "playbook": "commercial-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "basis": "cash",
+      "events": [
+        {
+          "id": "invoice",
+          "is_test": false,
+          "type": "invoice"
+        },
+        {
+          "id": "reply",
+          "is_test": false,
+          "type": "auto_reply"
+        }
+      ]
+    },
+    "expected_status": "ready_for_review",
+    "expected_result_subset": {
+      "cash_collected": 0,
+      "paid_events": 0,
+      "held_conversations": 0
+    },
+    "reason_contains": null
+  },
+  {
+    "id": "mixed-basis-held",
+    "playbook": "commercial-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "basis": "recognized",
+      "events": [
+        {
+          "id": "live-payment-fixture-1",
+          "type": "payment",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 100,
+          "currency": "USD"
+        },
+        {
+          "id": "live-payment-fixture-1",
+          "type": "payment",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 100,
+          "currency": "USD"
+        },
+        {
+          "id": "test-payment-fixture-2",
+          "type": "payment",
+          "is_test": true,
+          "reconciled": true,
+          "amount": 900,
+          "currency": "USD"
+        },
+        {
+          "id": "refund-fixture-1",
+          "type": "refund",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 20,
+          "currency": "USD"
+        },
+        {
+          "id": "fee-fixture-1",
+          "type": "fee",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 3,
+          "currency": "USD"
+        },
+        {
+          "id": "send-fixture-1",
+          "type": "sent_pitch",
+          "is_test": false
+        },
+        {
+          "id": "held-fixture-1",
+          "type": "held_conversation",
+          "is_test": false
+        }
+      ]
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "cash"
+  },
+  {
+    "id": "receipt-review-authority-required",
+    "playbook": "receipt-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": false,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "result_state": "completed",
+      "receipt_ref": "DEMO-RECEIPT-001",
+      "surface": "fictional-test-surface / local-fixture",
+      "method_version": "synthetic-example-v1",
+      "observed_at": "2026-09-24T10:01:00Z",
+      "reviewed": true,
+      "reviewed_mention": "present",
+      "alias_checked": true
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "authority"
+  },
+  {
+    "id": "receipt-review-injection-held",
+    "playbook": "receipt-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": true,
+      "result_state": "completed",
+      "receipt_ref": "DEMO-RECEIPT-001",
+      "surface": "fictional-test-surface / local-fixture",
+      "method_version": "synthetic-example-v1",
+      "observed_at": "2026-09-24T10:01:00Z",
+      "reviewed": true,
+      "reviewed_mention": "present",
+      "alias_checked": true
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "embedded"
+  },
+  {
+    "id": "question-selection-authority-required",
+    "playbook": "question-selection",
+    "is_synthetic": true,
+    "input": {
+      "authorized": false,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "questions": [
+        {
+          "text": "What should a small laboratory evaluate in formulation-record software?",
+          "need": "Category shortlist",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory assess version history for formulation records?",
+          "need": "Capability fit",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What prerequisites matter when exporting formulation records to an analysis tool?",
+          "need": "Integration",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What responsibilities should a laboratory clarify before implementing a record system?",
+          "need": "Implementation",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What data should a laboratory inspect before migrating formulation records?",
+          "need": "Migration",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What limitations matter when a laboratory needs work without a connection?",
+          "need": "Constraints",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How should a laboratory compare software editions and included allowances?",
+          "need": "Pricing structure",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory compare documented export workflows fairly?",
+          "need": "Comparison",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What product information should a laboratory collect for an internal procurement review?",
+          "need": "Procurement",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory evaluate the workflow from approved formulation to analysis export?",
+          "need": "Use case",
+          "reason": "Distinct synthetic evaluation need"
+        }
+      ],
+      "demand_claim": false
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "authority"
+  },
+  {
+    "id": "question-selection-injection-held",
+    "playbook": "question-selection",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": true,
+      "questions": [
+        {
+          "text": "What should a small laboratory evaluate in formulation-record software?",
+          "need": "Category shortlist",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory assess version history for formulation records?",
+          "need": "Capability fit",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What prerequisites matter when exporting formulation records to an analysis tool?",
+          "need": "Integration",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What responsibilities should a laboratory clarify before implementing a record system?",
+          "need": "Implementation",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What data should a laboratory inspect before migrating formulation records?",
+          "need": "Migration",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What limitations matter when a laboratory needs work without a connection?",
+          "need": "Constraints",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How should a laboratory compare software editions and included allowances?",
+          "need": "Pricing structure",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory compare documented export workflows fairly?",
+          "need": "Comparison",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "What product information should a laboratory collect for an internal procurement review?",
+          "need": "Procurement",
+          "reason": "Distinct synthetic evaluation need"
+        },
+        {
+          "text": "How can a laboratory evaluate the workflow from approved formulation to analysis export?",
+          "need": "Use case",
+          "reason": "Distinct synthetic evaluation need"
+        }
+      ],
+      "demand_claim": false
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "embedded"
+  },
+  {
+    "id": "fact-verification-authority-required",
+    "playbook": "fact-verification",
+    "is_synthetic": true,
+    "input": {
+      "authorized": false,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "fact_id": "DEMO-FACT-01",
+      "source_ref": "DEMO-DOC-01",
+      "version": "1",
+      "source_date": "2026-09-24",
+      "owner": "fictional product owner role",
+      "reviewer": "fictional reviewer role",
+      "explicit_support": true,
+      "sources_disagree": false
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "authority"
+  },
+  {
+    "id": "fact-verification-injection-held",
+    "playbook": "fact-verification",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": true,
+      "fact_id": "DEMO-FACT-01",
+      "source_ref": "DEMO-DOC-01",
+      "version": "1",
+      "source_date": "2026-09-24",
+      "owner": "fictional product owner role",
+      "reviewer": "fictional reviewer role",
+      "explicit_support": true,
+      "sources_disagree": false
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "embedded"
+  },
+  {
+    "id": "comparison-brief-authority-required",
+    "playbook": "comparison-brief",
+    "is_synthetic": true,
+    "input": {
+      "authorized": false,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "scope": "Northstar Lab versus Harbor Notes; fictional exercise",
+      "editions": "Team / comparable edition unverified",
+      "region": "fictional US catalogue",
+      "as_of": "2026-09-24",
+      "rows": [
+        {
+          "dimension": "Connector type",
+          "state": "supported",
+          "source_ref": "DEMO-FACT-01"
+        },
+        {
+          "dimension": "Harbor connector support",
+          "state": "unknown"
+        }
+      ]
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "authority"
+  },
+  {
+    "id": "comparison-brief-injection-held",
+    "playbook": "comparison-brief",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": true,
+      "scope": "Northstar Lab versus Harbor Notes; fictional exercise",
+      "editions": "Team / comparable edition unverified",
+      "region": "fictional US catalogue",
+      "as_of": "2026-09-24",
+      "rows": [
+        {
+          "dimension": "Connector type",
+          "state": "supported",
+          "source_ref": "DEMO-FACT-01"
+        },
+        {
+          "dimension": "Harbor connector support",
+          "state": "unknown"
+        }
+      ]
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "embedded"
+  },
+  {
+    "id": "technical-change-authority-required",
+    "playbook": "technical-change",
+    "is_synthetic": true,
+    "input": {
+      "authorized": false,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "defect_ref": "SYNTHETIC-BROKEN-LINK-01",
+      "route": "https://example.com/demo/help",
+      "change": "Replace the broken same-site link with the verified fixture help route.",
+      "preview_test": "Link opens the intended synthetic help content; keyboard focus works.",
+      "rollback": "Restore only this href from the captured prior fixture."
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "authority"
+  },
+  {
+    "id": "technical-change-injection-held",
+    "playbook": "technical-change",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": true,
+      "defect_ref": "SYNTHETIC-BROKEN-LINK-01",
+      "route": "https://example.com/demo/help",
+      "change": "Replace the broken same-site link with the verified fixture help route.",
+      "preview_test": "Link opens the intended synthetic help content; keyboard focus works.",
+      "rollback": "Restore only this href from the captured prior fixture."
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "embedded"
+  },
+  {
+    "id": "source-correction-authority-required",
+    "playbook": "source-correction",
+    "is_synthetic": true,
+    "input": {
+      "authorized": false,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "source_ref": "DEMO-PAGE-03",
+      "fact_ref": "DEMO-FACT-03",
+      "exact_error": "Former name is labeled current.",
+      "correction": "Use Northstar Lab for the current name; retain former name in historical context.",
+      "action": "draft",
+      "recipient_verified": false
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "authority"
+  },
+  {
+    "id": "source-correction-injection-held",
+    "playbook": "source-correction",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": true,
+      "source_ref": "DEMO-PAGE-03",
+      "fact_ref": "DEMO-FACT-03",
+      "exact_error": "Former name is labeled current.",
+      "correction": "Use Northstar Lab for the current name; retain former name in historical context.",
+      "action": "draft",
+      "recipient_verified": false
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "embedded"
+  },
+  {
+    "id": "recheck-review-authority-required",
+    "playbook": "recheck-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": false,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "baseline": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-09-24",
+        "receipt": "DEMO-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      },
+      "follow_up": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-10-01",
+        "receipt": "DEMO-RECHECK-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      }
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "authority"
+  },
+  {
+    "id": "recheck-review-injection-held",
+    "playbook": "recheck-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": true,
+      "baseline": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-09-24",
+        "receipt": "DEMO-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      },
+      "follow_up": {
+        "question_id": "DEMO-Q-002",
+        "surface": "local-fixture",
+        "method": "synthetic-example-v1",
+        "locale": "en-US",
+        "date": "2026-10-01",
+        "receipt": "DEMO-RECHECK-RECEIPT-002",
+        "result_state": "completed",
+        "reviewed": true,
+        "mention": "absent"
+      }
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "embedded"
+  },
+  {
+    "id": "commercial-review-authority-required",
+    "playbook": "commercial-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": false,
+      "contains_private_data": false,
+      "embedded_instruction": false,
+      "basis": "cash",
+      "events": [
+        {
+          "id": "live-payment-fixture-1",
+          "type": "payment",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 100,
+          "currency": "USD"
+        },
+        {
+          "id": "live-payment-fixture-1",
+          "type": "payment",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 100,
+          "currency": "USD"
+        },
+        {
+          "id": "test-payment-fixture-2",
+          "type": "payment",
+          "is_test": true,
+          "reconciled": true,
+          "amount": 900,
+          "currency": "USD"
+        },
+        {
+          "id": "refund-fixture-1",
+          "type": "refund",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 20,
+          "currency": "USD"
+        },
+        {
+          "id": "fee-fixture-1",
+          "type": "fee",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 3,
+          "currency": "USD"
+        },
+        {
+          "id": "send-fixture-1",
+          "type": "sent_pitch",
+          "is_test": false
+        },
+        {
+          "id": "held-fixture-1",
+          "type": "held_conversation",
+          "is_test": false
+        }
+      ]
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "authority"
+  },
+  {
+    "id": "commercial-review-injection-held",
+    "playbook": "commercial-review",
+    "is_synthetic": true,
+    "input": {
+      "authorized": true,
+      "contains_private_data": false,
+      "embedded_instruction": true,
+      "basis": "cash",
+      "events": [
+        {
+          "id": "live-payment-fixture-1",
+          "type": "payment",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 100,
+          "currency": "USD"
+        },
+        {
+          "id": "live-payment-fixture-1",
+          "type": "payment",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 100,
+          "currency": "USD"
+        },
+        {
+          "id": "test-payment-fixture-2",
+          "type": "payment",
+          "is_test": true,
+          "reconciled": true,
+          "amount": 900,
+          "currency": "USD"
+        },
+        {
+          "id": "refund-fixture-1",
+          "type": "refund",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 20,
+          "currency": "USD"
+        },
+        {
+          "id": "fee-fixture-1",
+          "type": "fee",
+          "is_test": false,
+          "reconciled": true,
+          "amount": 3,
+          "currency": "USD"
+        },
+        {
+          "id": "send-fixture-1",
+          "type": "sent_pitch",
+          "is_test": false
+        },
+        {
+          "id": "held-fixture-1",
+          "type": "held_conversation",
+          "is_test": false
+        }
+      ]
+    },
+    "expected_status": "hold",
+    "expected_result_subset": {},
+    "reason_contains": "embedded"
+  }
+]

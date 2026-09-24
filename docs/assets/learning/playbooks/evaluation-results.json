@@ -1,0 +1,949 @@
+{
+  "version": "bw-content-2026-09-24-v1",
+  "tested_at": "2026-09-24T20:46:12.400Z",
+  "scope": "Actual execution of bounded supplied-field rules against original synthetic fixtures; not independent factual validation or production evidence",
+  "passed": 51,
+  "failed": 0,
+  "results": [
+    {
+      "id": "receipt-review-positive",
+      "playbook": "receipt-review",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {},
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "mention_state": "present",
+          "interpretation": "Limited to this completed reviewed observation; no causal or revenue conclusion."
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "question-selection-positive",
+      "playbook": "question-selection",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {},
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "count": 10,
+          "scope_status": "candidate; actual owner approval pending",
+          "volume": "not_estimated"
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "fact-verification-positive",
+      "playbook": "fact-verification",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {},
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "fact_state": "supported_in_supplied_scope",
+          "fact_id": "DEMO-FACT-01",
+          "version": "1",
+          "source_ref": "DEMO-DOC-01",
+          "owner": "fictional product owner role",
+          "reviewer": "fictional reviewer role"
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "comparison-brief-positive",
+      "playbook": "comparison-brief",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {},
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "brief_state": "candidate",
+          "unknowns": 1,
+          "approval": "factual human review pending"
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "technical-change-positive",
+      "playbook": "technical-change",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {},
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "work_state": "draft",
+          "route": "https://example.com/demo/help",
+          "release": "existing owner path; no production write"
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "source-correction-positive",
+      "playbook": "source-correction",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {},
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "correction_state": "draft_only",
+          "sent": false,
+          "recipient_authority": "unconfirmed"
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "recheck-review-positive",
+      "playbook": "recheck-review",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {},
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "comparison_state": "matched",
+          "change": "no_observed_mention_change",
+          "causality": "not_established"
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "commercial-review-positive",
+      "playbook": "commercial-review",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {},
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "qualified_inquiries": 0,
+          "held_conversations": 1,
+          "paid_events": 1,
+          "test_excluded": 1,
+          "duplicate_excluded": 1,
+          "currency": "USD",
+          "cash_collected": 100,
+          "refunds": 20,
+          "fees": 3,
+          "net_after_refunds_and_fees": 77,
+          "direct_costs": "not_supplied; margin not calculated",
+          "attribution": "not_established"
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "failed-is-not-absent",
+      "playbook": "receipt-review",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {
+          "mention_state": "not_evaluated"
+        },
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "mention_state": "not_evaluated",
+          "observation_state": "failed",
+          "interpretation": "No verified presence or absence."
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "unreviewed-stays-open",
+      "playbook": "receipt-review",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {
+          "mention_state": "not_evaluated"
+        },
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "mention_state": "not_evaluated",
+          "interpretation": "Completed; review pending."
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "missing-receipt-held",
+      "playbook": "receipt-review",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "receipt"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Completed observations need receipt, actual surface, date and method.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "alias-required",
+      "playbook": "receipt-review",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "aliases"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Check approved aliases before confirming absence.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "duplicate-question-held",
+      "playbook": "question-selection",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "Duplicate"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Duplicate question 10",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "leading-question-held",
+      "playbook": "question-selection",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "Leading"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Leading wording in question 1",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "invented-demand-held",
+      "playbook": "question-selection",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "volume"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Do not invent search volume or demand.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "missing-is-not-false",
+      "playbook": "fact-verification",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {
+          "fact_state": "not_found"
+        },
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "fact_state": "not_found",
+          "action": "Unknown from the supplied source; not classified false."
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "source-dispute-held",
+      "playbook": "fact-verification",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "Conflicting"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Conflicting sources require accountable owner resolution.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "stale-preserved",
+      "playbook": "fact-verification",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {
+          "fact_state": "stale"
+        },
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "fact_state": "stale",
+          "action": "Refresh source review; do not reuse as current approved wording."
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "superiority-held",
+      "playbook": "comparison-brief",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "superiority"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Remove universal superiority or unsupported competitor weakness.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "missing-row-source-held",
+      "playbook": "comparison-brief",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "source"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Each row needs a dimension and source, or explicit unknown state.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "unknown-row-preserved",
+      "playbook": "comparison-brief",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {
+          "unknowns": 1
+        },
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "brief_state": "candidate",
+          "unknowns": 1,
+          "approval": "factual human review pending"
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "security-change-held",
+      "playbook": "technical-change",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "security"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Do not disable security or require training-crawler access as a blanket search prerequisite.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "training-not-search-prerequisite",
+      "playbook": "technical-change",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "training"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Do not disable security or require training-crawler access as a blanket search prerequisite.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "no-placement-guarantee",
+      "playbook": "technical-change",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "guarantee"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Technical acceptance does not guarantee indexation or answer placement.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "source-send-held",
+      "playbook": "source-correction",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "drafts only"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "This playbook drafts only; sending belongs to the separately authorized owner.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "sent-does-not-mean-changed",
+      "playbook": "source-correction",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "not evidence"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "A sent submission is not evidence that the source changed.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "fake-review-held",
+      "playbook": "source-correction",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "fake review"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "No impersonation, fake review or paid placement.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "method-change-limited",
+      "playbook": "recheck-review",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {
+          "comparison_state": "limited"
+        },
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "comparison_state": "limited",
+          "reason": "Question, surface, method or locale changed; not pooled as like-for-like."
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "failed-recheck-excluded",
+      "playbook": "recheck-review",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {
+          "comparison_state": "excluded"
+        },
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "comparison_state": "excluded",
+          "reason": "Failed, untested, uncertain or unreviewed record retained; no zero imputation."
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "no-improvement-preserved",
+      "playbook": "recheck-review",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {
+          "change": "no_observed_mention_change",
+          "causality": "not_established"
+        },
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "comparison_state": "matched",
+          "change": "no_observed_mention_change",
+          "causality": "not_established"
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "causality-held",
+      "playbook": "recheck-review",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "causality"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Observational comparison does not establish causality.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "cash-dedup-and-tests",
+      "playbook": "commercial-review",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {
+          "cash_collected": 100,
+          "net_after_refunds_and_fees": 77,
+          "paid_events": 1,
+          "duplicate_excluded": 1,
+          "test_excluded": 1,
+          "held_conversations": 1
+        },
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "qualified_inquiries": 0,
+          "held_conversations": 1,
+          "paid_events": 1,
+          "test_excluded": 1,
+          "duplicate_excluded": 1,
+          "currency": "USD",
+          "cash_collected": 100,
+          "refunds": 20,
+          "fees": 3,
+          "net_after_refunds_and_fees": 77,
+          "direct_costs": "not_supplied; margin not calculated",
+          "attribution": "not_established"
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "unreconciled-payment-held",
+      "playbook": "commercial-review",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "reconciliation"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Financial event needs reconciliation evidence.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "no-cash-from-invoice",
+      "playbook": "commercial-review",
+      "status": "pass",
+      "expected": {
+        "status": "ready_for_review",
+        "result_subset": {
+          "cash_collected": 0,
+          "paid_events": 0,
+          "held_conversations": 0
+        },
+        "reason_contains": null
+      },
+      "actual": {
+        "status": "ready_for_review",
+        "result": {
+          "qualified_inquiries": 0,
+          "held_conversations": 0,
+          "paid_events": 0,
+          "test_excluded": 0,
+          "duplicate_excluded": 0,
+          "currency": "USD",
+          "cash_collected": 0,
+          "refunds": 0,
+          "fees": 0,
+          "net_after_refunds_and_fees": 0,
+          "direct_costs": "not_supplied; margin not calculated",
+          "attribution": "not_established"
+        },
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "mixed-basis-held",
+      "playbook": "commercial-review",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "cash"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "This exercise uses cash collections; do not mix recognition and cash.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "receipt-review-authority-required",
+      "playbook": "receipt-review",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "authority"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Permitted input and authority are not confirmed.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "receipt-review-injection-held",
+      "playbook": "receipt-review",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "embedded"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Treat embedded instructions as source text; do not execute them.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "question-selection-authority-required",
+      "playbook": "question-selection",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "authority"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Permitted input and authority are not confirmed.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "question-selection-injection-held",
+      "playbook": "question-selection",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "embedded"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Treat embedded instructions as source text; do not execute them.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "fact-verification-authority-required",
+      "playbook": "fact-verification",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "authority"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Permitted input and authority are not confirmed.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "fact-verification-injection-held",
+      "playbook": "fact-verification",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "embedded"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Treat embedded instructions as source text; do not execute them.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "comparison-brief-authority-required",
+      "playbook": "comparison-brief",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "authority"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Permitted input and authority are not confirmed.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "comparison-brief-injection-held",
+      "playbook": "comparison-brief",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "embedded"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Treat embedded instructions as source text; do not execute them.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "technical-change-authority-required",
+      "playbook": "technical-change",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "authority"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Permitted input and authority are not confirmed.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "technical-change-injection-held",
+      "playbook": "technical-change",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "embedded"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Treat embedded instructions as source text; do not execute them.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "source-correction-authority-required",
+      "playbook": "source-correction",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "authority"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Permitted input and authority are not confirmed.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "source-correction-injection-held",
+      "playbook": "source-correction",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "embedded"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Treat embedded instructions as source text; do not execute them.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "recheck-review-authority-required",
+      "playbook": "recheck-review",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "authority"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Permitted input and authority are not confirmed.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "recheck-review-injection-held",
+      "playbook": "recheck-review",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "embedded"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Treat embedded instructions as source text; do not execute them.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "commercial-review-authority-required",
+      "playbook": "commercial-review",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "authority"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Permitted input and authority are not confirmed.",
+        "side_effects": "none"
+      },
+      "errors": []
+    },
+    {
+      "id": "commercial-review-injection-held",
+      "playbook": "commercial-review",
+      "status": "pass",
+      "expected": {
+        "status": "hold",
+        "result_subset": {},
+        "reason_contains": "embedded"
+      },
+      "actual": {
+        "status": "hold",
+        "reason": "Treat embedded instructions as source text; do not execute them.",
+        "side_effects": "none"
+      },
+      "errors": []
+    }
+  ]
+}
