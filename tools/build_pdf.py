@@ -103,6 +103,10 @@ def read_order():
     pages = yaml.safe_load((DOCS / ".pages").read_text(encoding="utf-8"))
     order = []
     for entry in pages["nav"]:
+        # Interactive learning companions have their own text downloads. Keep
+        # the existing book mirror focused on its manual chapters and notes.
+        if entry in {"resources.md", "resources"}:
+            continue
         if entry == "posts":
             for p in sorted((DOCS / "posts").glob("*.md")):
                 order.append(p)

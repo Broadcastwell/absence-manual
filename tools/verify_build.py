@@ -290,7 +290,7 @@ for rel, cls in sorted(manifest.items()):
         'class="bw-wordmark" href="https://broadcastwell.com"',
         'href="https://broadcastwell.com/pricing">Pricing<',
         'href="https://app.broadcastwell.com/signin">Sign in<',
-        'class="bw-shell-pill" href="https://buy.stripe.com/dRm7sM3R23Mo0Dv6sDds400">$490 Audit<',
+        'class="bw-shell-pill" href="mailto:hello@broadcastwell.com">Check Audit availability<',
     ]:
         if needed not in head:
             fail("%s header is missing %s" % (rel, needed))

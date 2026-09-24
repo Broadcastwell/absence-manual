@@ -1,0 +1,41 @@
+# Your brand was missing. What does that actually tell you?
+
+**Version:** bw-content-2026-09-24-v1 | **Claim ID:** BW-RESOURCE-02 | **Prepared:** 2026-09-24
+
+**Decision:** Choose investigation, question refinement or no change after an absence.
+
+Original Broadcastwell proposed operating method. Synthetic examples illustrate the method; they are not observed client outcomes.
+
+## Define the narrow finding
+
+An absence means the reviewed company or approved alias was not found in a particular completed answer. It does not identify the cause. Start by checking whether the response was complete, whether the full receipt was inspected and whether the name check included legitimate aliases. Failed transport, ambiguous extraction and an untested surface remain separate states.
+
+## Check whether the question deserved the brand
+
+Write down the target buyer, product category and requirements. If the question asks for a feature the product does not support, absence may be consistent with fit. Do not rewrite a neutral question after the fact just to force a mention. Save any improved wording as a new scope version so a future comparison is not mistaken for a like-for-like recheck.
+
+## Follow a synthetic example
+
+DEMO-OBS-002 is a completed, reviewed fictional answer about migration. It does not name Northstar Lab. The sample contains no evidence that changing a migration page would produce inclusion. Separately, DEMO-PAGE-02 fails to state which edition supports connector export, while DEMO-FACT-02 supplies the answer. That page issue can justify a scoped clarification regardless of the missing mention.
+
+## Do not buy a cause you have not established
+
+A technical check may find a real problem, but a green check does not promise appearance. Google says pages must meet ordinary Search eligibility requirements for supporting links in its AI features, and that crawling, indexing and serving are not guaranteed. That narrow guidance does not diagnose a specific missing brand. [Primary guidance, reviewed September 24, 2026](https://developers.google.com/search/docs/appearance/ai-features).
+
+## Choose among three useful outcomes
+
+Investigate when the receipt is valid and an independent issue is plausible. Refine questions when the scope is poorly matched to the buyer. Make no change when the evidence supports no worthwhile action. In each case, document what additional evidence would change the decision. An inconclusive assessment is preferable to an expensive promise built from a screenshot.
+
+## Write the next action precisely
+
+For the synthetic page conflict, the next action is “state Team edition and the third-party connector requirement, subject to product review.” Acceptance is that the page matches the approved fact and exposes the limitation to an evaluator. Future answer inclusion is a separate recheck outcome, not an acceptance condition for the writing task.
+
+## Use the worksheet
+
+[Editable worksheet](https://docs.broadcastwell.com/resources/worksheets/missing-brand/) · [Blank JSON](https://docs.broadcastwell.com/assets/learning/worksheets/missing-brand.json) · [Worked example](https://docs.broadcastwell.com/resources/audit/sample/)
+
+Record one bounded action, or explicitly choose no change; use the sample work orders to check the scope.
+
+## Provenance
+
+This original method extends the supplied September 24 execution-pack draft and blueprint; no competitor writing or outcome is reused. Definitions and synthetic evidence: [source ledger](https://docs.broadcastwell.com/resources/provenance/sources/). External technical statements, where present, have nearby primary-source links. Source freshness is limited to the stated review date.

@@ -1,0 +1,17 @@
+---
+title: "Inspect the matched receipts."
+headline: "Inspect the matched receipts."
+description: "Authored synthetic example. No live engine, client outcome or real release is represented. October 1, 2026 is a fictional scenario date, not an event that has occurred."
+page_class: "page"
+schema_type: "Article"
+learning_resource: "true"
+hide: ["navigation", "toc"]
+date_published: "2026-09-24T00:00:00+00:00"
+date_modified: "2026-09-24T00:00:00+00:00"
+---
+
+# Inspect the matched receipts.
+
+<div class="bw-learning">
+<nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><p class="notice">Authored synthetic example. No live engine, client outcome or real release is represented. October 1, 2026 is a fictional scenario date, not an event that has occurred.</p><p>Question DEMO-Q-002: What data should a laboratory inspect before migrating formulation records?</p><p>Both records use fictional-test-surface, local-fixture, provider none, method synthetic-example-v1 and the same en-US exercise scope.</p><section class="panel"><h2>Baseline: DEMO-RECEIPT-002</h2><p>Observation DEMO-OBS-002; scenario time 2026-09-24T10:02:00Z.</p><blockquote>Inspect record identifiers, field mappings and permissions before planning migration.</blockquote><p>Northstar Lab and former name Northstar Notes are absent in this complete fictional answer. No causal finding.</p></section><section class="panel"><h2>Follow-up: DEMO-RECHECK-RECEIPT-002</h2><p>Observation DEMO-RECHECK-002; fictional scenario time 2026-10-01T10:02:00Z.</p><blockquote>Before migration, inspect record identifiers, field mappings and permissions, then validate a small permitted sample against the agreed mapping.</blockquote><p>The complete authored follow-up text contains neither Northstar Lab nor its former name Northstar Notes. For this fictional exercise, classify the reviewed mention as absent. Compared with DEMO-RECEIPT-002, this supports no observed mention change in the matched synthetic pair. It establishes no causal or revenue result.</p><p class="muted">Review performed by the content author AI on the complete invented text. This is a teaching classification, not human approval or independently measured evidence. No source links were returned in the authored text.</p></section><h2>What can be concluded?</h2><p>One completed, reviewed synthetic pair remains absent at baseline and follow-up. Report no observed mention improvement for this pair. Different wording in the answers does not establish a commercial or causal change.</p><p>The separate DEMO-Q-001 follow-up failed. It remains not_evaluated, has no receipt body, and is excluded from the mention comparison. It is not converted into an absence. No commercial signal was collected.</p><h2>Inspect or export the exact fixture</h2><p><a href="/assets/learning/audit/receipts.json" download>Download all authored receipt bodies</a> | <a href="/assets/learning/audit/recheck-synthetic.json" download>Download observation and recheck states</a> | <a href="/assets/learning/audit/question-set.json" download>Download the Audit question set</a> | <a href="/resources/worksheets/fair-recheck/">Use the recheck worksheet</a></p>
+</div>

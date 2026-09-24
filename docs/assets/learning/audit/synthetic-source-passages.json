@@ -1,0 +1,35 @@
+[
+  {
+    "id": "DEMO-DOC-01",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "content": "Northstar Lab exports to fictional Atlas Analytics through the third-party BridgeKit connector. The export is not native. BridgeKit export requires Team edition and a separately configured BridgeKit account. No price, service level or activation time is specified."
+  },
+  {
+    "id": "DEMO-DOC-02",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "content": "Northstar Lab is the current fictional product name; Northstar Notes is its former name. Historical receipts retain the name present at the time."
+  },
+  {
+    "id": "DEMO-PAGE-01",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "route": "https://example.com/demo/integrations/atlas",
+    "content": "Draft: Native Atlas Analytics export on every plan."
+  },
+  {
+    "id": "DEMO-PAGE-02",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "route": "https://example.com/demo/editions",
+    "content": "Draft: Export your records with BridgeKit. Edition and account prerequisites are not stated."
+  },
+  {
+    "id": "DEMO-PAGE-03",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "route": "https://example.com/demo/directory/northstar",
+    "content": "Fictional listing: Current product name: Northstar Notes."
+  }
+]

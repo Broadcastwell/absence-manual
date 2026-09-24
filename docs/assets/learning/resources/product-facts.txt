@@ -1,0 +1,41 @@
+# Keep product facts consistent without inventing certainty
+
+**Version:** bw-content-2026-09-24-v1 | **Claim ID:** BW-RESOURCE-05 | **Prepared:** 2026-09-24
+
+**Decision:** Resolve real conflicts while keeping unknowns and history visible.
+
+Original Broadcastwell proposed operating method. Synthetic examples illustrate the method; they are not observed client outcomes.
+
+## Start small enough to review
+
+Build a register for names, aliases, category, capabilities, limitations and approved pricing references. Every row should explain which product version it covers, what source supports it and who can resolve a disagreement. Do not use a public worksheet to store confidential terms, private customer data or credentials.
+
+## Distinguish four findings
+
+Supported means the permitted source directly backs the wording in its stated scope. Conflicting means a source or asset makes an incompatible statement. Not found means the inspected material did not answer the question. Stale means the source or review needs refreshing. These categories create different actions; none should be silently collapsed into false.
+
+## Review the synthetic conflict
+
+DEMO-FACT-01 says Northstar Lab uses a third-party connector. DEMO-PAGE-01 says the integration is native. That is a direct contradiction in the exercise. DEMO-PAGE-02 omits the edition requirement: that is missing information, not a statement that every edition qualifies. Both may deserve writing work, but the evidence and proposed changes differ.
+
+## Keep certainty within the source
+
+If two approved documents disagree, preserve both passages and route the decision to the product or commercial owner. Do not choose whichever wording is more persuasive. A candidate claim remains pending until the reviewer resolves it. A source can establish the documented capability without proving real-world performance or third-party validation.
+
+## Connect claims to their uses
+
+Give each approved wording a version and list the pages, reports and future drafts that use it. If the source changes, create a targeted review. Keep historic receipts intact: correcting the fact register today does not alter what an earlier AI answer actually said. Changed asset hashes require review of the changed candidate.
+
+## Make the next review easy
+
+A handoff should contain the exact passage, a source date, permitted uses and a review trigger such as a product release or changed pricing page. Avoid invented review dates that imply a human has accepted the work. Start with the synthetic fact register, then use only authorized public statements when adapting it.
+
+## Use the worksheet
+
+[Editable worksheet](https://docs.broadcastwell.com/resources/worksheets/product-facts/) · [Blank JSON](https://docs.broadcastwell.com/assets/learning/worksheets/product-facts.json) · [Worked example](https://docs.broadcastwell.com/assets/learning/audit/synthetic-facts.json)
+
+Review a small fact set and route conflicts to the accountable owner before reusing the wording.
+
+## Provenance
+
+This original method extends the supplied September 24 execution-pack draft and blueprint; no competitor writing or outcome is reused. Definitions and synthetic evidence: [source ledger](https://docs.broadcastwell.com/resources/provenance/sources/). External technical statements, where present, have nearby primary-source links. Source freshness is limited to the stated review date.

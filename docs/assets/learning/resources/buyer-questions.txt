@@ -1,0 +1,41 @@
+# Choose ten buyer questions worth investigating
+
+**Version:** bw-content-2026-09-24-v1 | **Claim ID:** BW-RESOURCE-03 | **Prepared:** 2026-09-24
+
+**Decision:** Confirm a useful question set without inventing demand.
+
+Original Broadcastwell proposed operating method. Synthetic examples illustrate the method; they are not observed client outcomes.
+
+## Begin with the decision
+
+A question set is a small investigation scope. It is not a forecast of search demand. Define the buyer role, organization type, purchase stage and product category before writing prompts. Use approved public material or authorized, minimized team input. Keep private prospect and customer conversations out of public worksheets.
+
+## Cover needs before counting questions
+
+Consider category selection, capability fit, integrations, implementation, migration, constraints, pricing structure, comparison, procurement and a concrete use case. These ten lenses are a planning aid. Replace irrelevant lenses rather than creating ten paraphrases of the same shortlist question. Every prompt should have one main evaluation purpose.
+
+## Use the fictional starter set
+
+The downloadable set imagines a small laboratory evaluating fictional formulation-record software. Its questions include “What should a small laboratory evaluate in formulation-record software?” and “What prerequisites matter when exporting formulation records to an analysis tool?” The worksheet states that these are invented learning prompts; no demand, buyer interview or search-volume data was collected.
+
+## Remove wording that predetermines the answer
+
+Replace “Why is Northstar Lab the best?” with a neutral category or evaluation question. Separate unrelated conditions joined into a single long prompt. Keep necessary constraints, such as organization size or deployment requirements, when they reflect the confirmed buyer. A fair comparison can name products, but it must not smuggle an unsupported advantage into the premise.
+
+## Preserve useful disagreements
+
+If sales and product disagree about a requirement, record the uncertainty and ask the accountable scope reviewer. Do not convert a roadmap idea into a present capability. Save rejected or revised prompts with a brief reason so later reviewers can understand why the measured scope changed.
+
+## Freeze the working version
+
+Assign stable IDs, exact wording, locale, target surface and question-set version. Approval is a recorded decision by a real scope owner, not a prefilled name. If measurement later uses different questions, report a new scope or a limited comparison. Download the starter set, replace the buyer assumptions and use the question-selection playbook before authorizing fresh measurement.
+
+## Use the worksheet
+
+[Editable worksheet](https://docs.broadcastwell.com/resources/worksheets/buyer-questions/) · [Blank JSON](https://docs.broadcastwell.com/assets/learning/worksheets/buyer-questions.json) · [Worked example](https://docs.broadcastwell.com/assets/learning/worksheets/question-set-synthetic.json)
+
+Adapt the ten-question starter set and record a real scope review before using it for measurement.
+
+## Provenance
+
+This original method extends the supplied September 24 execution-pack draft and blueprint; no competitor writing or outcome is reused. Definitions and synthetic evidence: [source ledger](https://docs.broadcastwell.com/resources/provenance/sources/). External technical statements, where present, have nearby primary-source links. Source freshness is limited to the stated review date.

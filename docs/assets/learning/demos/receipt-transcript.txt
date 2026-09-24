@@ -1,0 +1,49 @@
+# Read a receipt — demonstration transcript
+
+Synthetic learning example — not a client result or live AI measurement. This is an interactive captioned guided demonstration, not a recording of a live client account.
+
+## Step 1: Preserve the observation
+
+This is DEMO-RECEIPT-001. The fixture asks what prerequisites matter when exporting formulation records to an analysis tool.
+
+Question: What prerequisites matter when exporting formulation records to an analysis tool?
+
+## Step 2: Read the surface label
+
+The engine is fictional-test-surface, the interface is local-fixture, and no provider was called. The timestamp is authored fixture metadata.
+
+Engine: fictional-test-surface
+Interface: local-fixture
+Provider: none
+Method: synthetic-example-v1
+Scenario time: 2026-09-24T10:01:00Z
+
+## Step 3: Read what actually appeared
+
+The fictional text names Northstar Lab and mentions a connector. That is a present mention; it does not establish a recommendation or customer preference.
+
+Receipt text: Northstar Lab has a connector-based export; verify edition requirements.
+
+## Step 4: Separate failure from absence
+
+A completed reviewed answer can be classified. A failed request, untested slot or uncertain result remains not_evaluated.
+
+DEMO-OBS-001: completed / reviewed / present
+DEMO-OBS-003: failed / not_evaluated
+DEMO-OBS-004: untested / not_evaluated
+
+## Step 5: Choose the supported next step
+
+Check the separate product facts before recommending work. The synthetic source-page conflict supports a wording review, not a promised visibility or revenue outcome.
+
+Observation: named in one fictional answer.
+Interpretation: investigate independent wording conflict.
+Next step: verify facts and scope a work order.
+
+
+
+## Recorded exercise result
+
+Correct. The mention is limited to this reviewed fixture; the failed request remains not evaluated.
+
+The recording is silent. Visible captions and the timed WebVTT track supply all spoken-equivalent instruction.

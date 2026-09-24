@@ -1,0 +1,212 @@
+{
+  "receipt-review": {
+    "authorized": true,
+    "contains_private_data": false,
+    "embedded_instruction": false,
+    "result_state": "completed",
+    "receipt_ref": "DEMO-RECEIPT-001",
+    "surface": "fictional-test-surface / local-fixture",
+    "method_version": "synthetic-example-v1",
+    "observed_at": "2026-09-24T10:01:00Z",
+    "reviewed": true,
+    "reviewed_mention": "present",
+    "alias_checked": true
+  },
+  "question-selection": {
+    "authorized": true,
+    "contains_private_data": false,
+    "embedded_instruction": false,
+    "questions": [
+      {
+        "text": "What should a small laboratory evaluate in formulation-record software?",
+        "need": "Category shortlist",
+        "reason": "Distinct synthetic evaluation need"
+      },
+      {
+        "text": "How can a laboratory assess version history for formulation records?",
+        "need": "Capability fit",
+        "reason": "Distinct synthetic evaluation need"
+      },
+      {
+        "text": "What prerequisites matter when exporting formulation records to an analysis tool?",
+        "need": "Integration",
+        "reason": "Distinct synthetic evaluation need"
+      },
+      {
+        "text": "What responsibilities should a laboratory clarify before implementing a record system?",
+        "need": "Implementation",
+        "reason": "Distinct synthetic evaluation need"
+      },
+      {
+        "text": "What data should a laboratory inspect before migrating formulation records?",
+        "need": "Migration",
+        "reason": "Distinct synthetic evaluation need"
+      },
+      {
+        "text": "What limitations matter when a laboratory needs work without a connection?",
+        "need": "Constraints",
+        "reason": "Distinct synthetic evaluation need"
+      },
+      {
+        "text": "How should a laboratory compare software editions and included allowances?",
+        "need": "Pricing structure",
+        "reason": "Distinct synthetic evaluation need"
+      },
+      {
+        "text": "How can a laboratory compare documented export workflows fairly?",
+        "need": "Comparison",
+        "reason": "Distinct synthetic evaluation need"
+      },
+      {
+        "text": "What product information should a laboratory collect for an internal procurement review?",
+        "need": "Procurement",
+        "reason": "Distinct synthetic evaluation need"
+      },
+      {
+        "text": "How can a laboratory evaluate the workflow from approved formulation to analysis export?",
+        "need": "Use case",
+        "reason": "Distinct synthetic evaluation need"
+      }
+    ],
+    "demand_claim": false
+  },
+  "fact-verification": {
+    "authorized": true,
+    "contains_private_data": false,
+    "embedded_instruction": false,
+    "fact_id": "DEMO-FACT-01",
+    "source_ref": "DEMO-DOC-01",
+    "version": "1",
+    "source_date": "2026-09-24",
+    "owner": "fictional product owner role",
+    "reviewer": "fictional reviewer role",
+    "explicit_support": true,
+    "sources_disagree": false
+  },
+  "comparison-brief": {
+    "authorized": true,
+    "contains_private_data": false,
+    "embedded_instruction": false,
+    "scope": "Northstar Lab versus Harbor Notes; fictional exercise",
+    "editions": "Team / comparable edition unverified",
+    "region": "fictional US catalogue",
+    "as_of": "2026-09-24",
+    "rows": [
+      {
+        "dimension": "Connector type",
+        "state": "supported",
+        "source_ref": "DEMO-FACT-01"
+      },
+      {
+        "dimension": "Harbor connector support",
+        "state": "unknown"
+      }
+    ]
+  },
+  "technical-change": {
+    "authorized": true,
+    "contains_private_data": false,
+    "embedded_instruction": false,
+    "defect_ref": "SYNTHETIC-BROKEN-LINK-01",
+    "route": "https://example.com/demo/help",
+    "change": "Replace the broken same-site link with the verified fixture help route.",
+    "preview_test": "Link opens the intended synthetic help content; keyboard focus works.",
+    "rollback": "Restore only this href from the captured prior fixture."
+  },
+  "source-correction": {
+    "authorized": true,
+    "contains_private_data": false,
+    "embedded_instruction": false,
+    "source_ref": "DEMO-PAGE-03",
+    "fact_ref": "DEMO-FACT-03",
+    "exact_error": "Former name is labeled current.",
+    "correction": "Use Northstar Lab for the current name; retain former name in historical context.",
+    "action": "draft",
+    "recipient_verified": false
+  },
+  "recheck-review": {
+    "authorized": true,
+    "contains_private_data": false,
+    "embedded_instruction": false,
+    "baseline": {
+      "question_id": "DEMO-Q-002",
+      "surface": "local-fixture",
+      "method": "synthetic-example-v1",
+      "locale": "en-US",
+      "date": "2026-09-24",
+      "receipt": "DEMO-RECEIPT-002",
+      "result_state": "completed",
+      "reviewed": true,
+      "mention": "absent"
+    },
+    "follow_up": {
+      "question_id": "DEMO-Q-002",
+      "surface": "local-fixture",
+      "method": "synthetic-example-v1",
+      "locale": "en-US",
+      "date": "2026-10-01",
+      "receipt": "DEMO-RECHECK-RECEIPT-002",
+      "result_state": "completed",
+      "reviewed": true,
+      "mention": "absent"
+    }
+  },
+  "commercial-review": {
+    "authorized": true,
+    "contains_private_data": false,
+    "embedded_instruction": false,
+    "basis": "cash",
+    "events": [
+      {
+        "id": "live-payment-fixture-1",
+        "type": "payment",
+        "is_test": false,
+        "reconciled": true,
+        "amount": 100,
+        "currency": "USD"
+      },
+      {
+        "id": "live-payment-fixture-1",
+        "type": "payment",
+        "is_test": false,
+        "reconciled": true,
+        "amount": 100,
+        "currency": "USD"
+      },
+      {
+        "id": "test-payment-fixture-2",
+        "type": "payment",
+        "is_test": true,
+        "reconciled": true,
+        "amount": 900,
+        "currency": "USD"
+      },
+      {
+        "id": "refund-fixture-1",
+        "type": "refund",
+        "is_test": false,
+        "reconciled": true,
+        "amount": 20,
+        "currency": "USD"
+      },
+      {
+        "id": "fee-fixture-1",
+        "type": "fee",
+        "is_test": false,
+        "reconciled": true,
+        "amount": 3,
+        "currency": "USD"
+      },
+      {
+        "id": "send-fixture-1",
+        "type": "sent_pitch",
+        "is_test": false
+      },
+      {
+        "id": "held-fixture-1",
+        "type": "held_conversation",
+        "is_test": false
+      }
+    ]
+  }
+}

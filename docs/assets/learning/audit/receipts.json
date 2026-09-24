@@ -1,0 +1,61 @@
+[
+  {
+    "id": "DEMO-RECEIPT-001",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "observation_id": "DEMO-OBS-001",
+    "question": "What prerequisites matter when exporting formulation records to an analysis tool?",
+    "text": "Northstar Lab has a connector-based export; verify edition requirements.",
+    "review": "Brand present; no recommendation or superiority established.",
+    "source_links": [
+      "https://example.com/demo/integrations/atlas"
+    ]
+  },
+  {
+    "id": "DEMO-RECEIPT-002",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "observation_id": "DEMO-OBS-002",
+    "question": "What data should a laboratory inspect before migrating formulation records?",
+    "text": "Inspect record identifiers, field mappings and permissions before planning migration.",
+    "review": "Northstar Lab and former name Northstar Notes are absent in this complete fictional answer. No causal finding.",
+    "source_links": []
+  },
+  {
+    "id": "DEMO-RECEIPT-006",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "observation_id": "DEMO-OBS-006",
+    "question": "What limitations matter when a laboratory needs work without a connection?",
+    "text": "Inspect the documented offline limitations before choosing an option.",
+    "review": "Mention classification not reviewed; remains not_evaluated.",
+    "source_links": []
+  },
+  {
+    "id": "DEMO-RECHECK-RECEIPT-002",
+    "is_synthetic": true,
+    "sample_label": "Authored synthetic follow-up. Not a client result or live AI measurement. October 1, 2026 is a fictional scenario date, not an event that has occurred.",
+    "observation_id": "DEMO-RECHECK-002",
+    "question_id": "DEMO-Q-002",
+    "question": "What data should a laboratory inspect before migrating formulation records?",
+    "scenario_observed_at": "2026-10-01T10:02:00Z",
+    "engine": "fictional-test-surface",
+    "interface": "local-fixture",
+    "provider": null,
+    "method_version": "synthetic-example-v1",
+    "text": "Before migration, inspect record identifiers, field mappings and permissions, then validate a small permitted sample against the agreed mapping.",
+    "review": "The complete authored follow-up text contains neither Northstar Lab nor its former name Northstar Notes. For this fictional exercise, classify the reviewed mention as absent. Compared with DEMO-RECEIPT-002, this supports no observed mention change in the matched synthetic pair. It establishes no causal or revenue result.",
+    "classification_review": {
+      "reviewer": "content_enablement AI content author",
+      "scope": "Direct inspection of the complete authored synthetic text and current/former-name checks only; not human approval or independent live evidence",
+      "result_state": "completed",
+      "mention_state": "absent",
+      "reviewed": true,
+      "aliases_checked": [
+        "Northstar Lab",
+        "Northstar Notes"
+      ]
+    },
+    "source_links": []
+  }
+]

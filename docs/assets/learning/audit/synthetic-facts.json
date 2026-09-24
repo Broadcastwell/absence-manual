@@ -1,0 +1,50 @@
+[
+  {
+    "id": "DEMO-FACT-01",
+    "version": "1",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "product": "Northstar Lab (fictional)",
+    "scope": "Team edition; fictional US catalogue; exercise date 2026-09-24",
+    "wording": "Northstar Lab exports to fictional Atlas Analytics through the third-party BridgeKit connector. The export is not native.",
+    "source_ref": "DEMO-DOC-01",
+    "review_state": "approved within fictional exercise only",
+    "owner": "fictional product reviewer role",
+    "permitted_uses": [
+      "synthetic learning examples"
+    ],
+    "reviewed_at": "2026-09-24"
+  },
+  {
+    "id": "DEMO-FACT-02",
+    "version": "1",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "product": "Northstar Lab (fictional)",
+    "scope": "Team edition; fictional US catalogue; exercise date 2026-09-24",
+    "wording": "BridgeKit export requires Team edition and a separately configured BridgeKit account. No price, service level or activation time is specified.",
+    "source_ref": "DEMO-DOC-01",
+    "review_state": "approved within fictional exercise only",
+    "owner": "fictional product reviewer role",
+    "permitted_uses": [
+      "synthetic learning examples"
+    ],
+    "reviewed_at": "2026-09-24"
+  },
+  {
+    "id": "DEMO-FACT-03",
+    "version": "1",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "product": "Northstar Lab (fictional)",
+    "scope": "Current name in fictional exercise",
+    "wording": "Northstar Lab is the current fictional product name; Northstar Notes is its former name. Historical receipts retain the name present at the time.",
+    "source_ref": "DEMO-DOC-02",
+    "review_state": "approved within fictional exercise only",
+    "owner": "fictional product reviewer role",
+    "permitted_uses": [
+      "synthetic learning examples"
+    ],
+    "reviewed_at": "2026-09-24"
+  }
+]

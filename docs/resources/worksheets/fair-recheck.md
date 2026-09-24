@@ -1,0 +1,21 @@
+---
+title: "Connect published work to a fair recheck"
+headline: "Connect published work to a fair recheck"
+description: "Editable worksheet. Use permitted public or synthetic material. Entries stay in this page; export to keep a copy. Each field is limited to 2,000 characters."
+page_class: "page"
+schema_type: "Article"
+learning_resource: "true"
+hide: ["navigation", "toc"]
+date_published: "2026-09-24T00:00:00+00:00"
+date_modified: "2026-09-24T00:00:00+00:00"
+---
+
+# Connect published work to a fair recheck
+
+<div class="bw-learning">
+<nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><p>Editable worksheet. Use permitted public or synthetic material. Entries stay in this page; export to keep a copy. Each field is limited to 2,000 characters.</p><p><a href="/resources/guides/fair-recheck/">Read the guide</a> | <a download href="/assets/learning/worksheets/fair-recheck.json">Download blank JSON</a></p><form data-title="Connect published work to a fair recheck" data-slug="fair-recheck" autocomplete="off"><label for="f0">Baseline question set and method</label><textarea id="f0" name="Baseline question set and method" maxlength="2000"></textarea><label for="f1">Baseline receipts / dates / surface</label><textarea id="f1" name="Baseline receipts / dates / surface" maxlength="2000"></textarea><label for="f2">Changed asset and approved claim versions</label><textarea id="f2" name="Changed asset and approved claim versions" maxlength="2000"></textarea><label for="f3">Actual publication or source-change evidence</label><textarea id="f3" name="Actual publication or source-change evidence" maxlength="2000"></textarea><label for="f4">Follow-up receipts / dates / surface</label><textarea id="f4" name="Follow-up receipts / dates / surface" maxlength="2000"></textarea><label for="f5">Matching question / method / locale checks</label><textarea id="f5" name="Matching question / method / locale checks" maxlength="2000"></textarea><label for="f6">Failures / exclusions / method changes</label><textarea id="f6" name="Failures / exclusions / method changes" maxlength="2000"></textarea><label for="f7">Observed improvement, no change or decline</label><textarea id="f7" name="Observed improvement, no change or decline" maxlength="2000"></textarea><label for="f8">Uncertainty and alternative explanations</label><textarea id="f8" name="Uncertainty and alternative explanations" maxlength="2000"></textarea><label for="f9">Commercial signal and source</label><textarea id="f9" name="Commercial signal and source" maxlength="2000"></textarea><label for="f10">Continue, revise or stop decision</label><textarea id="f10" name="Continue, revise or stop decision" maxlength="2000"></textarea><div class="actions"><button id="export" type="button">Export my worksheet</button><button type="reset" class="secondary">Reset</button><button id="print" type="button" class="secondary">Print / save as PDF</button></div><p id="message" role="status" aria-live="polite"></p></form>
+</div>
+
+<script>
+const form=document.querySelector('.bw-learning form');const msg=document.getElementById('message');document.getElementById('export').addEventListener('click',()=>{const values=Object.fromEntries(new FormData(form));const has=Object.values(values).some(v=>v.trim());if(!has){msg.textContent='Add at least one worksheet entry before exporting.';return;}const payload={worksheet:form.dataset.title,version:'bw-content-2026-09-24-v1',classification:'user-entered; unreviewed',values};const blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=form.dataset.slug+'-worksheet.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);msg.textContent='Worksheet exported. Your entries remain in this page until reset or navigation.'});form.addEventListener('reset',()=>{msg.textContent='Worksheet cleared.'});document.getElementById('print').addEventListener('click',()=>window.print());
+</script>

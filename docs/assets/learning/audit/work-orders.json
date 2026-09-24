@@ -1,0 +1,89 @@
+[
+  {
+    "work_order_id": "DEMO-WO-01",
+    "tenant_id": "synthetic-example-tenant",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "title": "Clarify third-party integration scope",
+    "status": "draft",
+    "evidence_refs": [
+      "DEMO-PAGE-01",
+      "DEMO-FACT-01",
+      "DEMO-FACT-02"
+    ],
+    "observation": "The fictional DEMO-PAGE-01 calls the integration native on every plan; DEMO-FACT-01 and DEMO-FACT-02 specify a third-party connector requiring Team edition.",
+    "interpretation": "A supported wording improvement within this synthetic exercise. No cause of an AI answer or promised visibility/revenue result is established.",
+    "business_use": "Help a buyer evaluate documented fit and prerequisites before committing.",
+    "proposed_change": "Replace the unsupported draft with: “Export to Atlas Analytics through the third-party BridgeKit connector. Requires Northstar Lab Team edition and a separately configured BridgeKit account. Confirm the documented prerequisites before setup.” Link the approved exercise product sheet; do not state a price or activation time.",
+    "affected_url": "https://example.com/demo/integrations/atlas",
+    "owner": null,
+    "approver": null,
+    "due_at": null,
+    "acceptance_criteria": [
+      "Native and every-plan claims removed from the scoped paragraph and its duplicated summary.",
+      "Connector type, Team edition and separate account prerequisite visible together.",
+      "Source version DEMO-DOC-01 is linked in the implementation record; fictional product reviewer role checks every factual clause.",
+      "Keyboard-accessible source link; no overflow at 360, 768 and 1440 pixels.",
+      "Fictional status remains in the page preview and export."
+    ],
+    "completion_evidence": null,
+    "recheck": null
+  },
+  {
+    "work_order_id": "DEMO-WO-02",
+    "tenant_id": "synthetic-example-tenant",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "title": "State edition and account prerequisites",
+    "status": "draft",
+    "evidence_refs": [
+      "DEMO-PAGE-02",
+      "DEMO-FACT-02"
+    ],
+    "observation": "The fictional DEMO-PAGE-02 omits the edition and separate-account prerequisites supplied in DEMO-FACT-02.",
+    "interpretation": "A supported wording improvement within this synthetic exercise. No cause of an AI answer or promised visibility/revenue result is established.",
+    "business_use": "Help a buyer evaluate documented fit and prerequisites before committing.",
+    "proposed_change": "Add below the BridgeKit export description: “Available for Northstar Lab Team edition in this fictional catalogue. A separately configured BridgeKit account is required. Price and setup timing are not specified in this exercise; confirm current terms before deciding.” Preserve all existing price and contract fields.",
+    "affected_url": "https://example.com/demo/editions",
+    "owner": null,
+    "approver": null,
+    "due_at": null,
+    "acceptance_criteria": [
+      "Edition and account dependency are stated beside export wording.",
+      "No added numeric price, discount, guarantee or timing promise.",
+      "Unknown price and timing remain unknown; commercial reviewer approval required before real adaptation.",
+      "Existing commercial fields preserved in diff; source and synthetic labels retained."
+    ],
+    "completion_evidence": null,
+    "recheck": null
+  },
+  {
+    "work_order_id": "DEMO-WO-03",
+    "tenant_id": "synthetic-example-tenant",
+    "is_synthetic": true,
+    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "title": "Prepare a current-name correction",
+    "status": "draft",
+    "evidence_refs": [
+      "DEMO-PAGE-03",
+      "DEMO-FACT-03"
+    ],
+    "observation": "The synthetic listing DEMO-PAGE-03 uses former name Northstar Notes as current; DEMO-FACT-03 distinguishes current and former names.",
+    "interpretation": "A supported wording improvement within this synthetic exercise. No cause of an AI answer or promised visibility/revenue result is established.",
+    "business_use": "Help a buyer evaluate documented fit and prerequisites before committing.",
+    "proposed_change": "Prepare only this correction draft for the authorized source owner: “The current fictional product name is Northstar Lab. Northstar Notes is the former name. Please update the current-name field while retaining historical references where relevant. Supporting exercise evidence: DEMO-DOC-02.” Do not send or alter the external listing.",
+    "affected_url": "https://example.com/demo/directory/northstar",
+    "owner": null,
+    "approver": null,
+    "due_at": null,
+    "acceptance_criteria": [
+      "Exact current-name field identified; source supports current and former names.",
+      "Draft distinguishes requested update, submission and actual source change.",
+      "No invented recipient, impersonation, paid placement or review request.",
+      "Authorized sender and recipient remain unconfirmed until the real project owner verifies them.",
+      "Historical receipts unchanged; synthetic labels retained."
+    ],
+    "completion_evidence": null,
+    "recheck": null
+  }
+]

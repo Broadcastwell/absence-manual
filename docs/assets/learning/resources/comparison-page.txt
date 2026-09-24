@@ -1,0 +1,41 @@
+# Build a comparison page a buyer can trust
+
+**Version:** bw-content-2026-09-24-v1 | **Claim ID:** BW-RESOURCE-04 | **Prepared:** 2026-09-24
+
+**Decision:** Turn approved facts into a fair evaluation page.
+
+Original Broadcastwell proposed operating method. Synthetic examples illustrate the method; they are not observed client outcomes.
+
+## Make the comparison answer a real choice
+
+A useful comparison explains which documented option fits a particular need. Set the product names, editions, region and date at the top. If one side refers to a paid edition and the other to an entry edition, explain why that is relevant; do not present the result as an unconditional product ranking.
+
+## Choose dimensions buyers can evaluate
+
+Compare a workflow, integration type, migration input, deployment dependency or documented limitation. Avoid vague columns such as “AI ready” unless you define an observable criterion. An unchecked source is unknown. A page that does not mention a feature does not establish that the feature is unavailable.
+
+## A fictional row, with an honest limit
+
+The synthetic Northstar Lab brief says that export to the fictional Atlas Analytics application uses the third-party BridgeKit connector and requires Team edition. For a fictional alternative called Harbor Notes, the supplied exercise has no approved connector evidence. The fair row reads “not verified in the supplied exercise.” It must not become “Harbor cannot integrate.” These names and capabilities are invented teaching material.
+
+## Show the conditions beside the claim
+
+Keep prerequisites in the same row or paragraph as the benefit. Link each factual claim to the relevant source, claim ID and review date. State who must review technical and commercial statements before publication. A certificate, customer logo or outcome is not decoration; it requires its own authorized evidence and permission.
+
+## Help the buyer decide against you
+
+Selection guidance can say, “If your evaluation requires native connectivity, confirm whether a connector-based workflow is acceptable.” That is useful even when it rules out the illustrated product. Do not claim that one page or one integration proves universal superiority.
+
+## Make maintenance part of the handoff
+
+Record the source file, approved claim version, intended route, publication owner and next review trigger. A changed claim should open a review item for affected assets. It should not rewrite a client site automatically. Use the reusable comparison brief within the contracted page allowance; a template is not an extra purchased page.
+
+## Use the worksheet
+
+[Editable worksheet](https://docs.broadcastwell.com/resources/worksheets/comparison-page/) · [Blank JSON](https://docs.broadcastwell.com/assets/learning/worksheets/comparison-page.json) · [Worked example](https://docs.broadcastwell.com/resources/briefs/comparison/)
+
+Fill the comparison brief with permitted sources, preserve unknowns and request factual review through the existing project owner.
+
+## Provenance
+
+This original method extends the supplied September 24 execution-pack draft and blueprint; no competitor writing or outcome is reused. Definitions and synthetic evidence: [source ledger](https://docs.broadcastwell.com/resources/provenance/sources/). External technical statements, where present, have nearby primary-source links. Source freshness is limited to the stated review date.

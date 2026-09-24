@@ -1,0 +1,41 @@
+# Connect published work to a fair recheck
+
+**Version:** bw-content-2026-09-24-v1 | **Claim ID:** BW-RESOURCE-06 | **Prepared:** 2026-09-24
+
+**Decision:** Compare observations without claiming causality or hiding no improvement.
+
+Original Broadcastwell proposed operating method. Synthetic examples illustrate the method; they are not observed client outcomes.
+
+## Record two events separately
+
+A page being published and an answer changing later are different events. Preserve the baseline receipts before work begins. Then keep the actual changed file, approved wording, route, timestamp and accessible publication evidence. A draft is not published work. A correction request being sent is not a third-party listing being updated.
+
+## Choose comparable records
+
+Match question wording, method, interface, provider and locale where possible. Preserve both dates. If a surface or method changes, separate that observation or clearly limit the comparison. Do not assume a model label alone proves identical conditions; record the actual method details and known differences.
+
+## Read a fictional no-improvement example
+
+In the included recheck fixture, DEMO-Q-002 has a reviewed absence at baseline and at follow-up on the same fictional local surface. The summary is “no observed mention improvement in the matched fixture.” A separate question has a failed follow-up and is excluded from mention comparison, with the failure retained. No sale, ranking movement or causal effect is represented.
+
+## Avoid the attractive shortcuts
+
+Do not turn missing follow-up data into zero, remove an unfavorable run or count correlated repeats as independent buyers. Report what completed and what was actually reviewed. If the evidence is too small or changed to support a useful comparison, say that directly and decide whether another bounded investigation is justified.
+
+## Use appropriate primary guidance
+
+For Google Search AI features, satisfying technical eligibility does not guarantee crawling, indexing or serving. That is a reason to keep implementation acceptance separate from appearance in an answer. It is not proof that a particular change worked or failed. [Google Search guidance, reviewed September 24, 2026](https://developers.google.com/search/docs/appearance/ai-features).
+
+## Keep revenue in its own ledger
+
+A resource completion, qualified inquiry, held conversation, invoice and collected payment are distinct commercial signals. Exclude tests and preserve unknown attribution. A later payment may matter to the business without proving this page caused it. Use the recheck worksheet to recommend continuing, revising or stopping the hypothesis; include no-improvement evidence in that decision.
+
+## Use the worksheet
+
+[Editable worksheet](https://docs.broadcastwell.com/resources/worksheets/fair-recheck/) · [Blank JSON](https://docs.broadcastwell.com/assets/learning/worksheets/fair-recheck.json) · [Worked example](https://docs.broadcastwell.com/resources/audit/recheck-receipts/)
+
+Compare one matched pair, retain exclusions and decide whether the evidence supports continuing the work.
+
+## Provenance
+
+This original method extends the supplied September 24 execution-pack draft and blueprint; no competitor writing or outcome is reused. Definitions and synthetic evidence: [source ledger](https://docs.broadcastwell.com/resources/provenance/sources/). External technical statements, where present, have nearby primary-source links. Source freshness is limited to the stated review date.
