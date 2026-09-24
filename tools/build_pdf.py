@@ -178,7 +178,8 @@ def main():
     <br>
     This PDF is a mirror. It is generated from the same source as the website,
     in the same build, so the two cannot drift. It is free and ungated: there is
-    no form, no email field and no login anywhere in it or on the site.
+    no signup, email address or login is required to read the manual. Optional web
+    worksheets run locally in the browser.
   </div>
 </div>
 <div class="toc"><h1 class="first">Contents</h1><ol>{toc_items}</ol></div>
