@@ -119,4 +119,4 @@ This is a teaching package, so it creates no commercial obligation or measured b
 
 ## Review and delivery state
 
-This fictional teaching example does not represent a delivered client Audit. Its source records are available above; no live provider calls or client access are involved.
+This fictional teaching example does not represent a delivered client Audit. Its source records are available above; no live provider calls or client access are involved. Human review: not recorded.

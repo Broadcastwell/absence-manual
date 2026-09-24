@@ -22,7 +22,7 @@ date_modified: "2026-09-24T00:00:00+00:00"
 <p>Products, editions, region and date; buyer needs; supported dimensions; tradeoffs; unknowns; sources; next step.</p>
 <h2>Original fictional draft</h2>
 <p>Synthetic learning example ,  not a client result or live AI measurement.</p>
-<p>Northstar Lab uses third-party BridgeKit export on Team edition. Harbor Notes connector support is not verified in this exercise. If native connectivity is essential, confirm fit before choosing.</p>
+<p>Northstar Lab uses third-party BridgeKit export on Team edition. Harbor Notes (fictional) connector support is not verified in this exercise. If native connectivity is essential, confirm fit before choosing.</p>
 <p>The Northstar Lab fixture is supported only by DEMO-FACT-01/02/03 where applicable; other statements above describe proposed process or explicit unknowns. It is not a product sales claim. Replace fictional content only with permitted approved evidence.</p>
 <h2>Boundaries and dependencies</h2>
 <p>One comparison asset within the purchased allowance; no universal ranking, borrowed results or new page entitlement.</p>
@@ -32,7 +32,7 @@ date_modified: "2026-09-24T00:00:00+00:00"
 <li>Never infer competitor absence from an uninformative page. Every factual row has a source and scope. Unknowns, limitations and current review date remain visible.</li>
 <li>Every factual clause maps to exact approved source/claim version; changed hash invalidates prior candidate approval.</li>
 <li>Owner inspects rendered desktop/mobile page, source links, alt text, keyboard focus and readable text. No essential information exists only in an image.</li>
-<li>No customer logos, awards, competitor media or unlicensed assets. Original diagrams may be adapted through ASTRA DESIGN.</li>
+<li>No customer logos, awards, competitor media or unlicensed assets. Original diagrams may be adapted by the delivery team.</li>
 <li>Source file and final candidate hash retained; actual approver/date recorded; no fabricated human acceptance.</li>
 <li>Recheck criteria reference the affected question/method only after real publication evidence. Implementation acceptance does not promise answer placement.</li>
 </ul>

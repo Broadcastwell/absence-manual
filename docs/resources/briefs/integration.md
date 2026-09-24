@@ -32,7 +32,7 @@ date_modified: "2026-09-24T00:00:00+00:00"
 <li>Product reviewer confirms connector type, editions and prerequisites. Unsupported setup claims remain omitted or explicitly pending. Links are accessible; no copied compatibility logos.</li>
 <li>Every factual clause maps to exact approved source/claim version; changed hash invalidates prior candidate approval.</li>
 <li>Owner inspects rendered desktop/mobile page, source links, alt text, keyboard focus and readable text. No essential information exists only in an image.</li>
-<li>No customer logos, awards, competitor media or unlicensed assets. Original diagrams may be adapted through ASTRA DESIGN.</li>
+<li>No customer logos, awards, competitor media or unlicensed assets. Original diagrams may be adapted by the delivery team.</li>
 <li>Source file and final candidate hash retained; actual approver/date recorded; no fabricated human acceptance.</li>
 <li>Recheck criteria reference the affected question/method only after real publication evidence. Implementation acceptance does not promise answer placement.</li>
 </ul>

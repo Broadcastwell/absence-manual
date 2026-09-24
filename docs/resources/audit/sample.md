@@ -90,5 +90,5 @@ date_modified: "2026-09-24T00:00:00+00:00"
 <li><a href="/resources/audit/executive-template/">Reusable executive template</a></li>
 </ul>
 <h2>Review and delivery state</h2>
-<p>This fictional teaching example does not represent a delivered client Audit. Its source records are available above; no live provider calls or client access are involved.</p>
+<p>This fictional teaching example does not represent a delivered client Audit. Its source records are available above; no live provider calls or client access are involved. Human review: not recorded.</p>
 </div>
