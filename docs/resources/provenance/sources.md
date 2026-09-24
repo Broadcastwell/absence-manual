@@ -32,5 +32,5 @@ date_modified: "2026-09-24T00:00:00+00:00"
 <p>Invented teaching examples, no live provider calls, client evidence or production outcome</p>
 <p>audit/synthetic-facts.json; audit/observations.json; audit/receipts.json</p>
 <h2>Review and rights</h2>
-<p>Content reviewer: content_enablement agent. Named human publisher/reviewer: pending. The SVG diagrams and fictional names, passages and examples were created for this workstream. No competitor artwork, screenshots, customer logos, awards or voice likenesses are included. Hashes identify the candidate; a changed asset requires renewed relevant content review. Review technical statements if the cited documentation changes and review all materials before public release.</p>
+<p>Content checks were recorded by an AI assistant. Human review: not recorded. Publication follows Broadcastwell’s existing review and release process. The SVG diagrams and fictional names, passages and examples were created for this workstream. No competitor artwork, screenshots, customer logos, awards or voice likenesses are included. Hashes identify the candidate; a changed asset requires renewed relevant content review. Review technical statements if the cited documentation changes and review all materials before public release.</p>
 </div>
