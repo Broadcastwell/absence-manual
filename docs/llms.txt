@@ -157,3 +157,19 @@ Broadcastwell is a founder-led team of consultants and engineers. Sairam Sivakum
 - [Fix Sprint, $2,900: Thirty Days of the First Fixes](https://broadcastwell.com/fix-sprint): The Fix Sprint is $2,900 for thirty days: an entity and structured data pass, up to five answer pages, a source plan, a crawler check and a day 30 re-measure reported as before and after.
 - [The account: receipts, history and proof | Broadcastwell](https://broadcastwell.com/platform): What arrives in the account: the observed answer and the cited URLs under every count, history with intervals, who was named instead, the source queue, controlled lift proof, battlecards, alerts and share links.
 - [Measured under Broadcastwell method | Broadcastwell](https://broadcastwell.com/standard): An open standard for reporting AI answer measurement: receipts for every number, engines named exactly, scheduled runs with the repeat count, counts before points, no composite score, the method version, and a public dispute route. CC BY 4.0.
+
+
+## Research published September 26, 2026
+
+- [The Shortlist Gap: who AI engines name when buyers ask, and who they never name | Broadcastwell Research](https://broadcastwell.com/research/shortlist-gap): "Study 1, 26 Sep 2026. 46 of 286 checked software vendors (16.1%) were never named in 2,095 AI answers to 140 buyer questions on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, three runs each. PDF: https://docs.broadcastwell.com/assets/research/study1/Study1_The_Shortlist_Gap_2026-09.pdf. DOI: https://doi.org/10.5281/zenodo.22982426. CC BY 4.0."
+- [What AI search visibility costs in 2026 | Broadcastwell Research](https://broadcastwell.com/research/what-ai-search-visibility-costs): "Study 2, 26 Sep 2026. 70 of 123 sellers (56.9%) publish a paid price; median tool $199 a month, median service $5,125; 3 of 123 tie money to a measured outcome. Prices seen 25 Sep 2026. PDF: https://docs.broadcastwell.com/assets/research/study2/Study2_What_AI_Search_Visibility_Costs_2026-09.pdf. DOI: https://doi.org/10.5281/zenodo.22982430. CC BY 4.0."
+- [Run-to-run noise: what one AI answer tells you and what three do | Broadcastwell Research](https://broadcastwell.com/research/run-to-run-noise): "Study 3, 26 Sep 2026. 22.2% of single-run vendor namings were not repeated by both other runs of the same question on the same engine (1,785 of 8,055 namings, 14,192 cells, five engines). PDF: https://docs.broadcastwell.com/assets/research/study3/Study3_Run_to_Run_Noise_2026-09.pdf. DOI: https://doi.org/10.5281/zenodo.22982432. CC BY 4.0."
+
+## Datasets
+
+- [The Shortlist Gap dataset (Version 1.0)](https://doi.org/10.5281/zenodo.22982426): "286 vendors, 14 categories, source-domain classification, vendor rules and recompute scripts. Built on The Absence Index release 2026-09 (https://doi.org/10.5281/zenodo.22907695). CC BY 4.0."
+- [What AI search visibility costs in 2026 dataset (Version 1.0)](https://doi.org/10.5281/zenodo.22982430): "301 verified in-category offer rows from 123 sellers, with guarantee and checkout tables, read on 25 Sep 2026. CC BY 4.0."
+- [Run-to-run noise dataset (Version 1.0)](https://doi.org/10.5281/zenodo.22982432): "14,192 question x engine x vendor cells with three runs and 286 vendor rows with per-run mention rates. Built on The Absence Index release 2026-09 (https://doi.org/10.5281/zenodo.22907695). CC BY 4.0."
+
+The September Index figure (16.1% of 286 vendors, five engines, three runs) uses a different sample from Volume I's 35% (85 companies, one engine). These are different samples, not a trend.
+- [Data and citation catalog](https://broadcastwell.com/data)
