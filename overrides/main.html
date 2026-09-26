@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <button class="md-header__button md-icon" type="button" data-manual-toggle="__drawer" aria-label="Open chapter navigation" aria-expanded="false">{% include ".icons/material/menu.svg" %}</button>
     <div class="md-header__title" data-md-component="header-title"><div class="md-header__ellipsis"><div class="md-header__topic"><span class="md-ellipsis">The Absence Manual</span></div><div class="md-header__topic" data-md-component="header-topic"><span class="md-ellipsis">{{ page.title if page and page.title else config.site_name }}</span></div></div></div>
     <details class="bw-shell-menu"><summary>Menu</summary><div class="bw-shell-menu-panel"><a href="https://broadcastwell.com/pricing">Pricing</a><a href="https://app.broadcastwell.com/signin">Sign in</a></div></details>
-    <a class="bw-shell-pill" href="mailto:hello@broadcastwell.com">Check Audit availability</a>
+    <a class="bw-shell-pill" href="https://broadcastwell.com/buy/audit" aria-label="Get the Category Audit, $490"><span class="bw-pill-long">Get the Category Audit, $490</span><span class="bw-pill-short">$490 Audit</span></a>
     {% if "material/search" in config.plugins %}
       <button class="md-header__button md-icon" type="button" data-manual-toggle="__search" aria-label="Search the Manual" aria-expanded="false">{% include ".icons/material/magnify.svg" %}</button>
       {% include "partials/search.html" %}
@@ -148,14 +148,11 @@ document.querySelectorAll('[data-manual-toggle]').forEach(function(button) {
 {% block content %}
 {{ super() }}
 {% if page and not page.is_homepage and not page.meta.get("learning_resource") %}
-<section aria-label="A measured next step" style="margin:2rem 0;padding:1.25rem;border:1px solid #425069;border-radius:12px">
-<h2>New measurement availability</h2>
-<p>New Category Audits and AI Visibility Diagnostics are currently on hold. Please check availability with Broadcastwell before purchasing.</p>
-<p>Published prices: Category Audit $490; AI Visibility Diagnostic $990. Existing scope, terms and orders are unchanged.</p>
-<div style="display:flex;flex-wrap:wrap;gap:12px">
-<a href="mailto:hello@broadcastwell.com" style="display:inline-block;box-sizing:border-box;max-width:100%;padding:12px 16px;border:1px solid #1D4ED8;border-radius:8px;background:#1D4ED8;color:#fff;font-weight:600">Check Audit availability</a>
-<a href="mailto:hello@broadcastwell.com" style="display:inline-block;box-sizing:border-box;max-width:100%;padding:12px 16px;border:1px solid #667085;border-radius:8px;background:transparent;color:inherit;font-weight:600">Check Diagnostic availability</a>
-</div>
+<section aria-label="A measured next step" class="bw-next-step">
+<h2>Measure it for your own category</h2>
+<p>The Category Audit: one category, ten buyer questions, five engines, three measured runs, $490 once. Findings within 48 hours of category confirmation. Refundable in full within 30 days of delivery.</p>
+<p class="bw-next-actions"><a class="bw-buy" href="https://broadcastwell.com/buy/audit">Get the Category Audit, $490</a></p>
+<p class="bw-offer-state">AI Visibility Diagnostic, $990: <span class="bw-paused">Paused</span> The Diagnostic reopens after our next Audit delivery. Start with the $490 Category Audit; it credits in full within 30 days.</p>
 <p><a href="https://audit.broadcastwell.com/">Free 10-question check (one engine)</a></p>
 <p>See the <a href="https://broadcastwell.com/terms">terms for credits and refunds</a>.</p>
 </section>
