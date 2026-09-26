@@ -1,8 +1,6 @@
 /* Learning exercises inherit the existing manual's typography and brand. */
-/* Scoped shared availability CTA: the factual admission hold changes routing,
-   while preserving existing prices and service terms. */
-.bw-shell-pill[href="mailto:hello@broadcastwell.com"]{white-space:normal;text-align:center;line-height:1.3}
-@media(max-width:640px){.md-header__inner:has(.bw-shell-pill[href="mailto:hello@broadcastwell.com"]){column-gap:4px;flex-wrap:wrap}.bw-shell-pill[href="mailto:hello@broadcastwell.com"]{max-width:124px;padding:9px 10px;font-size:13px;margin-left:0}}
+/* The shared header pill is the $490 Category Audit through the /buy switch; its short
+   label at phone widths is set in manual.css. */
 .bw-learning{font:inherit;min-width:0;overflow-wrap:anywhere}
 .md-content__inner:has(.bw-learning){max-width:1040px;box-sizing:border-box;padding-left:24px;padding-right:24px}
 body:has(.bw-learning) .md-header__button[data-manual-toggle="__drawer"]{display:none}

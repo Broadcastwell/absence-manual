@@ -30,7 +30,7 @@ body { background: #F7F9FC; font-family: Inter, sans-serif; }
 .bw-shell-nav a { color: #101828; font-size: .75rem; font-weight: 700; text-decoration: none; }
 .bw-shell-nav a:hover { text-decoration: underline; }
 .bw-shell-pill { display: inline-flex; align-items: center; min-height: 44px; margin-left: auto; padding: 0 1rem; border: 1px solid #1D4ED8; border-radius: 8px; background: #1D4ED8; color: #FFFFFF; font-size: .75rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
-.bw-shell-pill:hover { border-color: #3B82F6; background: #3B82F6; color: #FFFFFF; }
+.bw-shell-pill:hover { border-color: #1E40AF; background: #1E40AF; color: #FFFFFF; }
 .bw-shell-menu { display: none; }
 .bw-shell-menu summary { display: flex; align-items: center; min-height: 44px; padding: 0 .75rem; border: 1px solid #667085; border-radius: 8px; color: #101828; cursor: pointer; font-size: .75rem; font-weight: 700; list-style: none; }
 .bw-shell-menu summary::-webkit-details-marker { display: none; }
@@ -159,10 +159,33 @@ html{scroll-padding-top:96px}
 .bw-shell-bottom{border-color:var(--bw-border)}
 .manual-footer-version{font-size:14px}
 .md-typeset a:not(.md-button):not(.headerlink){text-decoration:underline;text-underline-offset:3px}
-.md-typeset a[href^="https://buy.stripe.com/dRm7sM"]{background:var(--bw-accent)!important;color:#fff!important;border-color:var(--bw-accent)!important;text-decoration:none!important;border-radius:10px}
+/* The one purchase control: the $490 Category Audit, through the site's /buy switch. */
+.md-typeset a.bw-buy{display:inline-flex;align-items:center;min-height:44px;padding:10px 18px;border:1px solid var(--bw-accent);border-radius:10px;background:var(--bw-accent);color:#FFFFFF!important;font-weight:600;text-decoration:none!important}
+.md-typeset a.bw-buy:hover{background:#1E40AF;border-color:#1E40AF}
+/* The Paused state every Broadcastwell surface shares. */
+.bw-paused{display:inline-block;margin-right:6px;padding:2px 8px;border-radius:999px;background:#FEF3C7;color:#92400E;font-size:12px;font-weight:600;line-height:18px}
+.bw-next-step{margin:32px 0;padding:20px;border:1px solid var(--bw-border);border-radius:12px;background:#FFFFFF}
+.bw-next-step h2{margin-top:0}
+.md-typeset .bw-offer-state{color:#101828}
+.bw-pill-short{display:none}
 .md-copyright,.md-copyright__highlight{color:var(--bw-muted)}
 .bw-header button.md-header__button{border:0;background:transparent;cursor:pointer;min-width:44px;min-height:44px}
 @media(min-width:76.25em){.bw-header [data-manual-toggle="__drawer"]{display:none}}
 @media(max-width:44.9375em){.bw-header [data-manual-toggle="__search"]{display:none}}
 @media(max-width:1024px){.bw-shell-nav{display:none}.bw-shell-menu{display:block;margin-left:auto}.bw-shell-columns{grid-template-columns:repeat(2,minmax(0,1fr))}.bw-header .md-header__title{display:none}}
-@media(max-width:640px){.md-header.bw-header,.bw-header .md-header__inner{height:64px}.bw-shell-menu-panel{top:64px}.bw-header .md-header__inner{gap:8px}.bw-wordmark{font-size:15px}.bw-shell-pill,.bw-shell-menu summary{font-size:12px;padding-inline:10px}.bw-shell-columns{grid-template-columns:1fr}.md-content__inner{padding-top:32px}.md-typeset h2{font-size:28px;margin-top:40px}.md-typeset h3{font-size:22px}.md-typeset__scrollwrap{margin-inline:0;width:100%}}
+@media(max-width:640px){.bw-pill-long{display:none}.bw-pill-short{display:inline}.md-header.bw-header,.bw-header .md-header__inner{height:64px}.bw-shell-menu-panel{top:64px}.bw-header .md-header__inner{gap:8px}.bw-wordmark{font-size:15px}.bw-shell-pill,.bw-shell-menu summary{font-size:12px;padding-inline:10px}.bw-shell-columns{grid-template-columns:1fr}.md-content__inner{padding-top:32px}.md-typeset h2{font-size:28px;margin-top:40px}.md-typeset h3{font-size:22px}.md-typeset__scrollwrap{margin-inline:0;width:100%}}
+
+/* Phone gutters and tables, 26 September 2026. The reading column is centred with
+   margin: 0 auto, which left no side gutter once the screen was narrower than the
+   measure: text ran from x 0 to 390 on a 390 px phone. Below 720 px the column gets a
+   16 px gutter on each side. A table wider than the column scrolls inside its own box
+   (it is focusable, so a keyboard can scroll it too) instead of running off the page,
+   and long unbroken links such as DOIs may wrap inside a cell. */
+@media(max-width:44.9375em){
+  .md-content__inner{margin-left:0;margin-right:0;padding-left:16px;padding-right:16px}
+  .md-typeset__scrollwrap{margin-left:0;margin-right:0;width:100%;overflow-x:auto}
+  .md-typeset__table{padding-left:0;padding-right:0;max-width:100%}
+  .md-typeset table:not([class]){display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .md-typeset table:not([class]) td a,.md-typeset table:not([class]) td code{overflow-wrap:anywhere}
+  .bw-next-step{padding:16px}
+}
