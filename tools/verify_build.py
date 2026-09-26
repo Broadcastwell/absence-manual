@@ -37,7 +37,16 @@ APPROVED_PALETTE = {
     "#0A0A0B", "#0A0E1A", "#F8FAFC", "#CBD5E1",
     # Shared Broadcastwell design system 2.0 light surfaces and neutral ink.
     "#F7F9FC", "#EFF4FB", "#101828", "#475467", "#667085", "#D5DDE8", "#1E40AF",
+    # The one Paused state every Broadcastwell surface shares: this text on this fill.
+    "#92400E", "#FEF3C7",
 }
+
+# The only purchase address a page may carry, and the words that may no longer appear.
+BUY_AUDIT = "https://broadcastwell.com/buy/audit"
+RETIRED_OFFER_TEXT = [
+    "currently on hold", "Check Audit availability", "Check Diagnostic availability",
+    "working draft", "founding rate", "$89",
+]
 
 VALID_CLASSES = {"chapter", "note", "appendix", "page"}
 TECHARTICLE_CLASSES = {"chapter", "appendix"}
@@ -290,7 +299,7 @@ for rel, cls in sorted(manifest.items()):
         'class="bw-wordmark" href="https://broadcastwell.com"',
         'href="https://broadcastwell.com/pricing">Pricing<',
         'href="https://app.broadcastwell.com/signin">Sign in<',
-        'class="bw-shell-pill" href="mailto:hello@broadcastwell.com">Check Audit availability<',
+        'class="bw-shell-pill" href="%s" aria-label="Get the Category Audit, $490">' % BUY_AUDIT,
     ]:
         if needed not in head:
             fail("%s header is missing %s" % (rel, needed))
@@ -306,6 +315,16 @@ for rel, cls in sorted(manifest.items()):
         fail("%s footer does not keep its own disclosure note above the shared columns" % rel)
     if chr(183) in html:
         fail("%s contains a middle dot" % rel)
+    if "buy.stripe.com" in html:
+        fail("%s links a checkout directly; every buy link goes through %s" % (rel, BUY_AUDIT))
+    for anchor in re.findall(r'(?is)<a\b[^>]*href="mailto:[^"]*"[^>]*>(.*?)</a>', html):
+        if re.search(r"(?i)\$\d|audit|diagnostic|availability|buy|order", strip_tags(anchor)):
+            fail("%s has a mailto link used as a purchase control: %s" % (rel, strip_tags(anchor).strip()[:60]))
+    for retired in RETIRED_OFFER_TEXT:
+        if retired in strip_tags(html):
+            fail("%s still says %r" % (rel, retired))
+    if 'class="bw-next-step"' in html and ('href="%s">Get the Category Audit, $490<' % BUY_AUDIT not in html or '<span class="bw-paused">Paused</span>' not in html):
+        fail("%s next step block must carry the $490 button and the Paused Diagnostic" % rel)
     types = []
     for block in re.findall(r"(?is)<script type=\"application/ld\+json\">(.*?)</script>", html):
         try:
@@ -330,6 +349,24 @@ for rel, cls in sorted(manifest.items()):
         elif words < CHAPTER_WORD_FLOOR:
             fail("%s is a chapter and renders only %d article words, floor is %d"
                  % (rel, words, CHAPTER_WORD_FLOOR))
+
+
+# ---------- llms.txt: the dated price block and no direct checkout ----------
+
+llms = SITE / "llms.txt"
+if not llms.exists():
+    fail("llms.txt missing from the built site root")
+else:
+    body = llms.read_text(encoding="utf8")
+    if "## Current prices and terms (" not in body:
+        fail("llms.txt has no dated Current prices and terms block")
+    if "buy.stripe.com" in body:
+        fail("llms.txt links a checkout directly")
+    if BUY_AUDIT not in body:
+        fail("llms.txt does not give %s" % BUY_AUDIT)
+    for retired in RETIRED_OFFER_TEXT:
+        if retired in body:
+            fail("llms.txt still says %r" % retired)
 
 
 if problems:
