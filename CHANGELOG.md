@@ -15,7 +15,11 @@ permanent.
   render showed three mis-encoded characters instead of the dot in every page
   footer and instead of the ellipsis that ends a shortened excerpt. The page
   count and every other character are unchanged.
-- llms.txt uses the one team sentence in both places it describes the team.
+- llms.txt is rebuilt from the live sitemap of broadcastwell.com (every page read twice,
+  its served title and description): the dated price block now lists every offer and its
+  state (the AI Fact Check is not currently offered and has no price), the free check line
+  says how runs are limited, and the new offer, question, category and research pages are
+  listed. It uses the one team sentence in both places it describes the team.
 
 ## Offer and phone update, 26 September 2026
 
