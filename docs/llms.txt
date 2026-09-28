@@ -2,20 +2,26 @@
 
 > Broadcastwell is an AI search visibility agency for vertical B2B software companies. We measure how often AI engines name a vendor in buyer answers, then build the third-party evidence those answers cite.
 
-## Current prices and terms (26 Sep 2026)
+## Current prices and terms (28 Sep 2026)
 
 This block supersedes any older price or availability line, here or elsewhere. Legal master: https://broadcastwell.com/terms. Price ladder: https://broadcastwell.com/pricing.
 
-- Category Audit: $490 once. Open. One category, ten buyer questions, five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three measured runs, 150 planned observations. Findings within 48 hours of category confirmation. The full $490 credits against the Diagnostic within 30 days. Buy it at https://broadcastwell.com/buy/audit
+- Category Audit: $490 once. Open. One category, ten buyer questions, five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three measured runs, 150 planned observations. Findings within 48 hours of category and question confirmation. The full $490 credits against the Diagnostic within 30 days. Buy it at https://broadcastwell.com/buy/audit
 - AI Visibility Diagnostic: $990 once. Paused; it reopens after our next Audit delivery. 35 buyer questions, five engines, 525 scheduled observed answers, adaptive runs extra. Start with the $490 Category Audit, which credits in full within 30 days.
-- Fix Sprint: $2,900 once, 30 days, available after a completed Diagnostic. https://broadcastwell.com/fix-sprint
-- The program: $13,500 per 90 days, billed $4,500 monthly. Booked by a call: https://broadcastwell.com/contact
-- Agency wholesale: $1,000 per client per month for the first client and $490 per client per month for each additional client. A single white-label Category Audit for an agency client is $490 per report. https://broadcastwell.com/for-agencies
+- Fix Sprint: $2,900 once, 30 days, arranged by conversation after a completed Diagnostic. https://broadcastwell.com/fix-sprint
+- The program: $13,500 per 90 days, billed $4,500 monthly, arranged by conversation: https://broadcastwell.com/contact
+- Agency wholesale: $1,000 per client per month for the first client and $490 per client per month for each additional client. https://broadcastwell.com/for-agencies
+- White-label Category Audit: $490 per agency client report. https://broadcastwell.com/buy/white-label-audit
+- Index Brief with page review: $190 once, a pilot of five orders. Delivered within five business days of page confirmation. https://broadcastwell.com/buy/index-brief
+- Second Opinion: $490 once, for up to ten prompts you already track in another tool. https://broadcastwell.com/buy/second-opinion
+- Portfolio Scan: $1,960 once for four portfolio companies. Delivered within five business days of the last category confirmation. https://broadcastwell.com/buy/portfolio-scan
+- Re-measure: $190, bought only through a private link sent to a buyer with a delivered order.
+- AI Fact Check: not currently offered; it has no price.
 - Refund: a standalone Category Audit or AI Visibility Diagnostic is refundable in full, no questions asked, if requested within 30 days of delivery of the findings.
-- Free 10-question check (one engine): ten buyer questions on Perplexity, no email needed. https://audit.broadcastwell.com
-- The Category Audit, the Diagnostic and the Fix Sprint are one-time prices with no annual contract.
+- Free 10-question check (one engine): ten buyer questions on Perplexity. No email is needed; runs are limited per network and per day, and by the site's daily allowance. https://audit.broadcastwell.com
+- The one-time offers have no annual contract.
 
-Free 10-question check (one engine): ten buyer questions for your category. No email is needed. https://audit.broadcastwell.com
+Free 10-question check (one engine): ten buyer questions for your category on Perplexity, once each. No email is needed; runs are limited per network and per day, and by the site's daily allowance. https://audit.broadcastwell.com
 Category Audit: $490 once. One category, ten buyer questions, five engines, three measured runs. Who is named instead of you with counts, which of the ten questions you lose, the sources cited in those answers, a crawler access check, three prioritized fixes, receipts, a CMO summary and a finance memo. Findings within 48 hours of category confirmation. The full $490 is credited against the Diagnostic if the Diagnostic is bought within 30 days. Buy it at https://broadcastwell.com/buy/audit
 AI Visibility Diagnostic: 35 category-defining buyer questions across ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, with three scheduled runs per question and engine and up to two further runs on any pair whose verdicts disagreed: 525 scheduled observed answers, named and cited outcomes reported separately with numerator, denominator and a 95 percent confidence interval, competitor and source analysis, limitations, run-to-run spread, a receipts appendix, machine-readable data files, and a prioritized evidence, content and distribution plan. $990 once. The full $990 Diagnostic fee credits against the Fix Sprint or the program's first invoice, once, and not both. The Sprint fee does not credit against the program. Paused; it reopens after our next Audit delivery. https://broadcastwell.com/ai-visibility-audit
 Fix Sprint: $2,900 over 30 days, following a completed AI Visibility Diagnostic. An entity and structured data pass, up to five answer pages or rewrites, a source plan with a prepared submission or correction pack for up to ten third-party sources, a crawler access check, and a day 30 re-measure on the fixed question set. For Fix Sprints ordered on or after 26 Sep 2026: at day 30 we re-run your target questions on all five engines, three runs each, and if your named count has not risen beyond the run-to-run noise we measured at baseline, we refund the full $2,900, including the $990 Diagnostic credit, within five business days, without you asking. https://broadcastwell.com/fix-sprint
@@ -30,7 +36,7 @@ Prompt classes are never blended: no question in the Diagnostic names any brand,
 Your data leaves with you: the question set, citation logs, observed answers and reports belong to the client, returned in an open, machine-readable format within five business days of the request and at no charge if the engagement ends, for any reason.
 The published account: where a reduced rate is agreed it is a trade rather than a discount, exchanged for a published account of the work stating what was measured, what was changed and what moved. Published only with the client's explicit written approval.
 
-## Offer record, corrected 26 September 2026
+## Offer record, corrected 28 September 2026
 
 Authoritative current offer record: https://broadcastwell.com/company-facts. Legal master: https://broadcastwell.com/terms.
 
@@ -44,20 +50,27 @@ Other approved client references: Neurvalis, Diagnostic then program, engagement
 
 Current public proof: three published research papers with DOIs, the fictional Kalvenor SAMPLE DATA at https://app.broadcastwell.com/sample, and the API and fifteen-tool connector for Claude and ChatGPT at https://app.broadcastwell.com/developers. The claimable Absence Index, badges and dispute log are at https://index.broadcastwell.com. Its current data release is 2026-09, published 23 Sep 2026: 286 vendors, 14 categories, 2,095 valid target answers, method v1.1, DOI https://doi.org/10.5281/zenodo.22907695. The August release 2026-08.1 (DOI https://doi.org/10.5281/zenodo.22721962) is historical. Historical research engine counts remain those actually measured.
 
-Broadcastwell is a founder-led team of consultants and engineers. Sairam Sivakumar, Founder, is accountable for every order.
+Broadcastwell is a team of consultants and engineers. Sairam Sivakumar, Founder, is accountable for every order.
+
+The Absence Report, the newsletter: https://broadcastwell.com/newsletter. Research PDFs and charts are also served on broadcastwell.com under /files/research/.
 
 ## Offers and pricing
 
 - [Pricing: $490, $990, $2,900 and $13,500 | Broadcastwell](https://broadcastwell.com/pricing): Category Audit $490, AI Visibility Diagnostic $990, Fix Sprint $2,900 for thirty days, the program $13,500 per 90 days billed $4,500 monthly. Every price sits next to what arrives and its credit rule.
-- [Category Audit, $490 once | Broadcastwell](https://broadcastwell.com/category-audit): One category, ten buyer questions, five engines and three measured runs, with three prioritized fixes within 48 hours of category confirmation. $490 once.
-- [AI Visibility Diagnostic, $990: why you are not named | Broadcastwell](https://broadcastwell.com/ai-visibility-audit): 35 buyer questions, five engines, three measured runs each. For every question you lose: who is named instead, the source that put them there, and the fix. Credits in full against the program. Paused until our next Audit delivery.
+- [Category Audit, $490 once | Broadcastwell](https://broadcastwell.com/category-audit): One category, ten buyer questions, five engines and three measured runs, with three prioritised fixes within 48 hours. $490 once.
+- [AI Visibility Diagnostic, $990: why you are not named | Broadcastwell](https://broadcastwell.com/ai-visibility-audit): 35 buyer questions, five engines, three measured runs each. See who is named instead, the cited evidence and supported next actions. Credits in full against the program.
 - [GEO Services for Vertical B2B SaaS | Broadcastwell](https://broadcastwell.com/generative-engine-optimization-services): Research-led generative engine optimization across ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, with transparent scope and measurement.
-- [Agency wholesale: $1,000 first client, $490 each after | Broadcastwell](https://broadcastwell.com/for-agencies): Client-facing AI visibility reports under your agency name. $1,000 per client per month for your first client, $490 for each additional, and a $490 white-label Category Audit per client report.
+- [Agency wholesale: $1,000 first client, $490 each after | Broadcastwell](https://broadcastwell.com/for-agencies): Client-facing AI visibility reports under your agency name. $1,000 per client per month for your first client, $490 for each additional. Name one client and we run it free.
 - [Broadcastwell Partner Network | Referral & Strategic Partnerships](https://broadcastwell.com/partners): Apply to the Broadcastwell Partner Network. Earn commissions on eligible collected revenue from referred B2B software clients, subject to approval.
+- [AI Fact Check | Broadcastwell](https://broadcastwell.com/ai-fact-check): 20 fact questions about your company on 5 AI engines, 3 runs each, checked against the pages each answer cites. Not currently offered.
+- [Index Brief with page review, $190 | Broadcastwell](https://broadcastwell.com/index-brief): A written readout of your Absence Index record, release 2026-09, plus a review of one buyer page. $190 once. Pilot: 5 orders.
+- [Portfolio Scan for PE and holdcos | Broadcastwell](https://broadcastwell.com/portfolio-scan): The Category Audit for 4 portfolio companies, one table across them and one summary for the operating partner. $1,960, then $490 each.
+- [Second Opinion on tracked prompts, $490 | Broadcastwell](https://broadcastwell.com/second-opinion): Up to 10 prompts from your current tool, run on 5 engines with 3 runs each, with a real-or-noise verdict per prompt. $490 once.
+- [White-label Category Audit, $490 | Broadcastwell](https://broadcastwell.com/white-label-audit): The $490 Category Audit under your agency's brand: 10 buyer questions, 5 engines, 3 runs each. One client report, no monthly fee.
 
 ## Research
 
-- [The 2026 State of GEO - Broadcastwell Research](https://broadcastwell.com/state-of-geo): Original research: 860 AI answers across 85 B2B software companies and 61 categories. One-engine snapshot of naming and citation, with open data.
+- [The 2026 State of GEO | Broadcastwell Research](https://broadcastwell.com/state-of-geo): Original research: 860 AI answers across 85 B2B software companies and 61 categories. One-engine snapshot of naming and citation, with open data.
 - [The AI Visibility Absence Ladder | Broadcastwell](https://broadcastwell.com/absence-ladder): A research framework for diagnosing why B2B software companies are absent from AI-generated buyer answers, based on 616 classified absence cases.
 - [AI Visibility Measurement Framework | Broadcastwell](https://broadcastwell.com/visibility): See how Broadcastwell measures AI search visibility across ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode using a clearly labelled 525-answer example.
 - [GEO Agencies Measured: 200 AI Answers, July 2026 | Broadcastwell](https://broadcastwell.com/geo-agencies-measured): A dated study of 200 AI answers on ChatGPT, Claude, Perplexity and Google AI Overviews, showing which GEO agencies surfaced and how name-seeded prompts inflated raw mention counts.
@@ -65,6 +78,7 @@ Broadcastwell is a founder-led team of consultants and engineers. Sairam Sivakum
 - [GEO and AI Search Visibility Statistics 2026, from Open Datasets](https://broadcastwell.com/geo-statistics): GEO statistics from published research: 860 AI answers across 85 B2B software companies and 61 categories, with sources and stated limits.
 - [AI Search Engine Divergence, Measured | Broadcastwell](https://broadcastwell.com/engine-divergence): A study of 280 B2B buyer questions on ChatGPT, Claude, Perplexity and Google AI Overviews, showing when vendor sets diverge and why answer length must be controlled.
 - [GEO vs SEO: What Actually Differs | Broadcastwell](https://broadcastwell.com/geo-vs-seo): Ranking versus being named, measured on ChatGPT, Claude, Perplexity and Google AI Overviews: citation concentration, divergence under a length control, and why cited is not recommended.
+- [Broadcastwell Research](https://broadcastwell.com/research): Open studies of AI shortlists, market prices and repeat variation, with data and stated limits.
 
 ## Rankings
 
@@ -101,6 +115,11 @@ Broadcastwell is a founder-led team of consultants and engineers. Sairam Sivakum
 - [GEO Agencies With Guarantees: Who Puts It in Writing](https://broadcastwell.com/geo-agencies-with-guarantees): We read 47 GEO agencies and AI visibility platforms for a written guarantee. 44 publish no terms a buyer can find. Every term and page, dated.
 - [GEO Agency RFP: 25 Questions and Who Answers Them](https://broadcastwell.com/geo-agency-rfp): 25 questions to ask a GEO agency, and which of ten agencies answer each on their own site. Every Yes linked to its source. Copy, print or download.
 - [Buy GEO Without a Sales Call: Every Self Serve Offer](https://broadcastwell.com/buy-geo-without-a-sales-call): 26 of 92 GEO and AI visibility price records can be paid for without a call. Every offer, what arrives, how fast, refunds and how you pay.
+- [Cheapest way to check if AI names my company](https://broadcastwell.com/cheapest-way-to-check-if-ai-names-my-company): Start free: 10 buyer questions on one engine, no email needed. Then the $490 Category Audit covers 5 engines with 3 runs each.
+- [Procurement pack | Broadcastwell](https://broadcastwell.com/procurement): Subprocessors, DPA template, security questionnaire (no SOC 2), retention and deletion, method v1.1 and sample receipts. One PDF, no form.
+- [What does an AI visibility audit cost? | Broadcastwell](https://broadcastwell.com/what-does-an-ai-visibility-audit-cost): Published one-time audit prices in USD ran from $69 to $4,500 on 25 Sep 2026. Each with its source, and what $490 buys at Broadcastwell.
+- [White-label AI visibility reporting for agencies](https://broadcastwell.com/white-label-ai-visibility-reporting-for-agencies): Monthly white-label tools or a finished report per client. Prices checked 25 Sep 2026. Broadcastwell's white-label Audit is $490 per report.
+- [Who can audit how AI describes my software company?](https://broadcastwell.com/who-can-audit-how-ai-describes-my-software-company): Do it yourself, use a tool, hire an agency or buy a measured audit. What each shows, with prices checked 25 Sep 2026. Audit from $490.
 
 ## Agency studies
 
@@ -113,11 +132,19 @@ Broadcastwell is a founder-led team of consultants and engineers. Sairam Sivakum
 
 ## Category studies
 
-- [Dealership Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-dealership-software): A 160-answer sweep of powersports dealership management software on ChatGPT, Claude, Perplexity and Google AI Overviews. everlogic.com was cited 47 times against the category incumbent's 43.
+- [Dealership Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-dealership-software): CDK Global was named in 90 of 150 observed answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Absence Index, 23 September 2026.
 - [Healthcare RCM Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-healthcare-rcm-software): A 37-answer sweep of healthcare RCM software on ChatGPT, Claude, Perplexity and Google AI Overviews. Waystar was named 20 times, R1 RCM 12, and 13 answers named no vendor at all.
-- [Legal Practice Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-legal-practice-software): 39 answers on ChatGPT, Claude, Perplexity and Google AI Overviews: Clio named 31 times. ChatGPT used one vendor's retired 2023 product identity five times.
-- [Radiology and Imaging Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-radiology-imaging-software): An 80-answer sweep of radiology and imaging software on ChatGPT, Claude, Perplexity and Google AI Overviews returned 622 citations across 187 domains. 94 domains were cited exactly once and KLAS took 9.
-- [Field Service Management Software: What We Have Not Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-field-service-software): A proposed five-engine measurement plan for field service management software. No category results are claimed; scope and limitations are stated.
+- [Legal Practice Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-legal-practice-software): Clio was named in 126 of 150 observed answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Absence Index, 23 September 2026.
+- [Radiology and Imaging Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-radiology-imaging-software): Sectra was named in 87 of 150 observed answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Absence Index, 23 September 2026.
+- [Field Service Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-field-service-software): Housecall Pro was named in 108 of 150 observed answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Absence Index, 23 September 2026.
+- [Construction Project Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-construction-project-management-software): Procore was named in 109 of 150 observed answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Absence Index, 23 September 2026.
+- [Dental Practice Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-dental-practice-software): Dentrix was named in 120 of 149 observed answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Absence Index, 23 September 2026.
+- [Hotel Property Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-hotel-property-management-software): Cloudbeds was named in 115 of 149 observed answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Absence Index, 23 September 2026.
+- [Insurance Agency Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-insurance-agency-management-software): Applied Systems: named in 127 of 150 observed answers across five AI engines. Insurance agency management systems, Absence Index, 23 September 2026.
+- [Loan Origination Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-loan-origination-software): nCino was named in 92 of 150 observed answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Absence Index, 23 September 2026.
+- [Residential Property Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-residential-property-management-software): Buildium was named in 119 of 148 observed answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Absence Index, 23 September 2026.
+- [Transportation Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-transportation-management-software): AscendTMS was named in 64 of 150 observed answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Absence Index, 23 September 2026.
+- [Veterinary Practice Management Software: AI Search Visibility Measured | Broadcastwell](https://broadcastwell.com/ai-search-visibility-veterinary-practice-software): ezyVet was named in 115 of 149 observed answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Absence Index, 23 September 2026.
 
 ## Client work
 
@@ -127,8 +154,8 @@ Broadcastwell is a founder-led team of consultants and engineers. Sairam Sivakum
 ## Company
 
 - [Broadcastwell | AI Search Visibility Agency for B2B Software](https://broadcastwell.com/): AI search visibility for vertical B2B software. See which vendors five engines name, inspect the evidence, and build a clear plan with Broadcastwell.
-- [About Broadcastwell | AI Search Visibility for B2B Software](https://broadcastwell.com/about): Who Broadcastwell is: a founder-led team of consultants and engineers, the published research, and how the work is done.
-- [Company Facts | Broadcastwell](https://broadcastwell.com/company-facts): Verified Broadcastwell company facts: legal identity, services, pricing, audit methodology, approved client work, and official profiles.
+- [About Broadcastwell | AI Search Visibility for B2B Software](https://broadcastwell.com/about): Who Broadcastwell is: its published research, founder and how the work is done.
+- [Company Facts | Broadcastwell](https://broadcastwell.com/company-facts): Company, service, pricing, methodology, client and contact information for Broadcastwell LLC.
 - [Methodology: which engines we measure | Broadcastwell](https://broadcastwell.com/methodology): How Broadcastwell measures AI visibility: 35 buyer questions, the five engines queried, three scheduled runs with further runs on disagreement, the scoring rules, and the confidence interval on every rate.
 - [AI Search Visibility FAQ | Broadcastwell](https://broadcastwell.com/faq): Clear answers on GEO, AI visibility measurement, deliverables, pricing, timelines, limitations, client evidence and how Broadcastwell works.
 - [Insights | Broadcastwell](https://broadcastwell.com/insights): Browse Broadcastwell agency comparisons, industry studies and research guides, with methods, observed findings and clearly stated limits.
@@ -157,3 +184,19 @@ Broadcastwell is a founder-led team of consultants and engineers. Sairam Sivakum
 - [Fix Sprint, $2,900: Thirty Days of the First Fixes](https://broadcastwell.com/fix-sprint): The Fix Sprint is $2,900 for thirty days: an entity and structured data pass, up to five answer pages, a source plan, a crawler check and a day 30 re-measure reported as before and after.
 - [The account: receipts, history and proof | Broadcastwell](https://broadcastwell.com/platform): What arrives in the account: the observed answer and the cited URLs under every count, history with intervals, who was named instead, the source queue, controlled lift proof, battlecards, alerts and share links.
 - [Measured under Broadcastwell method | Broadcastwell](https://broadcastwell.com/standard): An open standard for reporting AI answer measurement: receipts for every number, engines named exactly, scheduled runs with the repeat count, counts before points, no composite score, the method version, and a public dispute route. CC BY 4.0.
+- [The Absence Report | Broadcastwell](https://broadcastwell.com/newsletter): The monthly letter of the Absence Index: published observations, a category story and methods for B2B software teams.
+
+## Research published September 26, 2026
+
+- [The Shortlist Gap: who AI engines name when buyers ask, and who they never name | Broadcastwell Research](https://broadcastwell.com/research/shortlist-gap): "Study 1, 26 Sep 2026. 46 of 286 checked software vendors (16.1%) were never named in 2,095 AI answers to 140 buyer questions on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, three runs each. PDF: https://docs.broadcastwell.com/assets/research/study1/Study1_The_Shortlist_Gap_2026-09.pdf. DOI: https://doi.org/10.5281/zenodo.22982426. CC BY 4.0."
+- [What AI search visibility costs in 2026 | Broadcastwell Research](https://broadcastwell.com/research/what-ai-search-visibility-costs): "Study 2, 26 Sep 2026. 70 of 123 sellers (56.9%) publish a paid price; median tool $199 a month, median service $5,125; 3 of 123 tie money to a measured outcome. Prices seen 25 Sep 2026. PDF: https://docs.broadcastwell.com/assets/research/study2/Study2_What_AI_Search_Visibility_Costs_2026-09.pdf. DOI: https://doi.org/10.5281/zenodo.22982430. CC BY 4.0."
+- [Run-to-run noise: what one AI answer tells you and what three do | Broadcastwell Research](https://broadcastwell.com/research/run-to-run-noise): "Study 3, 26 Sep 2026. 22.2% of single-run vendor namings were not repeated by both other runs of the same question on the same engine (1,785 of 8,055 namings, 14,192 cells, five engines). PDF: https://docs.broadcastwell.com/assets/research/study3/Study3_Run_to_Run_Noise_2026-09.pdf. DOI: https://doi.org/10.5281/zenodo.22982432. CC BY 4.0."
+
+## Datasets
+
+- [The Shortlist Gap dataset (Version 1.0)](https://doi.org/10.5281/zenodo.22982426): "286 vendors, 14 categories, source-domain classification, vendor rules and recompute scripts. Built on The Absence Index release 2026-09 (https://doi.org/10.5281/zenodo.22907695). CC BY 4.0."
+- [What AI search visibility costs in 2026 dataset (Version 1.0)](https://doi.org/10.5281/zenodo.22982430): "301 verified in-category offer rows from 123 sellers, with guarantee and checkout tables, read on 25 Sep 2026. CC BY 4.0."
+- [Run-to-run noise dataset (Version 1.0)](https://doi.org/10.5281/zenodo.22982432): "14,192 question x engine x vendor cells with three runs and 286 vendor rows with per-run mention rates. Built on The Absence Index release 2026-09 (https://doi.org/10.5281/zenodo.22907695). CC BY 4.0."
+
+The September Index figure (16.1% of 286 vendors, five engines, three runs) uses a different sample from Volume I's 35% (85 companies, one engine). These are different samples, not a trend.
+- [Data and citation catalog](https://broadcastwell.com/data)

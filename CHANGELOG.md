@@ -3,6 +3,24 @@
 Version numbers change. URLs never do. A chapter slug published once is
 permanent.
 
+## Research downloads and sample packs, 28 September 2026
+
+- The three September studies are downloadable here with their charts:
+  The Shortlist Gap, What AI search visibility costs in 2026, and Run-to-run
+  noise, each as a PDF under /assets/research/ with its DOI in llms.txt.
+- The sample Category Audit packs (FieldEdge rehearsal, Kalvenor fictional,
+  white-label) are published under /assets/samples/, each under its new name
+  and its earlier name, so both links resolve.
+- The three sample packs are re-printed from the same source. The published
+  render showed three mis-encoded characters instead of the dot in every page
+  footer and instead of the ellipsis that ends a shortened excerpt. The page
+  count and every other character are unchanged.
+- llms.txt is rebuilt from the live sitemap of broadcastwell.com (every page read twice,
+  its served title and description): the dated price block now lists every offer and its
+  state (the AI Fact Check is not currently offered and has no price), the free check line
+  says how runs are limited, and the new offer, question, category and research pages are
+  listed. It uses the one team sentence in both places it describes the team.
+
 ## Offer and phone update, 26 September 2026
 
 - The header button and the next step under every chapter now go to the $490

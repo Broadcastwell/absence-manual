@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="590.4pt" height="360pt" viewBox="0 0 590.4 360" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:c2pa="http://c2pa.org/manifest">
+ <metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5MDA3MmUzMi03ZGQ1LTRiZGItYThlYy04N2ZjN2QyZjk0MGIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaC87YOw7FSi1yTrAZeZeuGgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkMjE3ZDFiZi1mZDhhLTRlMGUtODFiMC0xOWNiMTEwOTEyNmFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoY2UneJFj/ypckEF3ih0mFQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggIPfKuYpxazeN+fdsi85G8J32v9cB5cpajpuF6pY9epCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJjiCu0GpmZNlRaEhmXMz6EAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIB+VVysLFh9y8tJHQdGV1qc8CJDnBmgAqLGngXHHaLmcZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQF1Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjkwMDcyZTMyLTdkZDUtNGJkYi1hOGVjLTg3ZmM3ZDJmOTQwYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjkzNDY0ZDJiLTYwNTktNGNmYS1iNmEyLTFlZDdmYTU3ZTQwYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAg98q5inFrN43592yLzkbwnfa/1wHlylqOm4Xqlj16kKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgghSHHjV46St+OSueHqU/niyxq2A3QxPRKbC2eIEAeGgWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg0bD1itvJS47vWL3EcQsu7oxY0QTzlo0aXlY9F7FJ1+90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQPCavkJ9f9m+WDr6HVEl1szqhem8LBRkgTw65Uq1nJ34EL+v+mUzj1hNrHHa0LGOMLghN2o15lLRaiooR3X4e3w=</c2pa:manifest>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-26T19:55:33.514411</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 590.4 360 
+L 590.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 168.264 293.76 
+L 560.88 293.76 
+L 560.88 51.84 
+L 168.264 51.84 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 168.264 293.76 
+L 168.264 51.84 
+" clip-path="url(#p1cc7637544)" style="fill: none; stroke: #e4e7ec; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="mc979bafa66" d="M 0 0 
+L 0 3.5 
+" style="stroke: #475467; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc979bafa66" x="168.264" y="293.76" style="fill: #475467; stroke: #475467; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: middle; fill: #475467" x="168.264" y="306.94375" transform="rotate(-0 168.264 306.94375)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 215.796203 293.76 
+L 215.796203 51.84 
+" clip-path="url(#p1cc7637544)" style="fill: none; stroke: #e4e7ec; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mc979bafa66" x="215.796203" y="293.76" style="fill: #475467; stroke: #475467; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: middle; fill: #475467" x="215.796203" y="306.94375" transform="rotate(-0 215.796203 306.94375)">5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 263.328407 293.76 
+L 263.328407 51.84 
+" clip-path="url(#p1cc7637544)" style="fill: none; stroke: #e4e7ec; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mc979bafa66" x="263.328407" y="293.76" style="fill: #475467; stroke: #475467; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: middle; fill: #475467" x="263.328407" y="306.94375" transform="rotate(-0 263.328407 306.94375)">10</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 310.86061 293.76 
+L 310.86061 51.84 
+" clip-path="url(#p1cc7637544)" style="fill: none; stroke: #e4e7ec; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mc979bafa66" x="310.86061" y="293.76" style="fill: #475467; stroke: #475467; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: middle; fill: #475467" x="310.86061" y="306.94375" transform="rotate(-0 310.86061 306.94375)">15</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 358.392814 293.76 
+L 358.392814 51.84 
+" clip-path="url(#p1cc7637544)" style="fill: none; stroke: #e4e7ec; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mc979bafa66" x="358.392814" y="293.76" style="fill: #475467; stroke: #475467; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: middle; fill: #475467" x="358.392814" y="306.94375" transform="rotate(-0 358.392814 306.94375)">20</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 405.925017 293.76 
+L 405.925017 51.84 
+" clip-path="url(#p1cc7637544)" style="fill: none; stroke: #e4e7ec; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mc979bafa66" x="405.925017" y="293.76" style="fill: #475467; stroke: #475467; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: middle; fill: #475467" x="405.925017" y="306.94375" transform="rotate(-0 405.925017 306.94375)">25</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 453.45722 293.76 
+L 453.45722 51.84 
+" clip-path="url(#p1cc7637544)" style="fill: none; stroke: #e4e7ec; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mc979bafa66" x="453.45722" y="293.76" style="fill: #475467; stroke: #475467; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: middle; fill: #475467" x="453.45722" y="306.94375" transform="rotate(-0 453.45722 306.94375)">30</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 500.989424 293.76 
+L 500.989424 51.84 
+" clip-path="url(#p1cc7637544)" style="fill: none; stroke: #e4e7ec; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mc979bafa66" x="500.989424" y="293.76" style="fill: #475467; stroke: #475467; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: middle; fill: #475467" x="500.989424" y="306.94375" transform="rotate(-0 500.989424 306.94375)">35</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 548.521627 293.76 
+L 548.521627 51.84 
+" clip-path="url(#p1cc7637544)" style="fill: none; stroke: #e4e7ec; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mc979bafa66" x="548.521627" y="293.76" style="fill: #475467; stroke: #475467; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: middle; fill: #475467" x="548.521627" y="306.94375" transform="rotate(-0 548.521627 306.94375)">40</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_19"/>
+     <g id="text_10">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #101827" x="164.764" y="77.567795" transform="rotate(-0 164.764 77.567795)">under $50 per month</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_20"/>
+     <g id="text_11">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #101827" x="164.764" y="105.908938" transform="rotate(-0 164.764 105.908938)">$50 to 99 per month</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_21"/>
+     <g id="text_12">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #101827" x="164.764" y="134.250082" transform="rotate(-0 164.764 134.250082)">$100 to 249 per month</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_22"/>
+     <g id="text_13">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #101827" x="164.764" y="162.591225" transform="rotate(-0 164.764 162.591225)">$250 to 499 per month</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_23"/>
+     <g id="text_14">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #101827" x="164.764" y="190.932369" transform="rotate(-0 164.764 190.932369)">$500 to 999 per month</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_24"/>
+     <g id="text_15">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #101827" x="164.764" y="219.273512" transform="rotate(-0 164.764 219.273512)">$1,000 to 2,999 per month</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_25"/>
+     <g id="text_16">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #101827" x="164.764" y="247.614655" transform="rotate(-0 164.764 247.614655)">$3,000 to 9,999 per month</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_26"/>
+     <g id="text_17">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #101827" x="164.764" y="275.955799" transform="rotate(-0 164.764 275.955799)">$10,000+ per month</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 168.264 293.76 
+L 560.88 293.76 
+" style="fill: none; stroke: #e4e7ec; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 168.264 62.836364 
+L 272.834847 62.836364 
+L 272.834847 73.039175 
+L 168.264 73.039175 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #3b82f6"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 168.264 91.177507 
+L 462.963661 91.177507 
+L 462.963661 101.380319 
+L 168.264 101.380319 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #3b82f6"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 168.264 119.51865 
+L 500.989424 119.51865 
+L 500.989424 129.721462 
+L 168.264 129.721462 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #1d4ed8"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 168.264 147.859794 
+L 462.963661 147.859794 
+L 462.963661 158.062605 
+L 168.264 158.062605 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #3b82f6"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 168.264 176.200937 
+L 339.379932 176.200937 
+L 339.379932 186.403749 
+L 168.264 186.403749 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #3b82f6"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 168.264 204.542081 
+L 177.770441 204.542081 
+L 177.770441 214.744892 
+L 168.264 214.744892 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #3b82f6"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 168.264 232.883224 
+L 187.276881 232.883224 
+L 187.276881 243.086036 
+L 168.264 243.086036 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #3b82f6"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 168.264 261.224367 
+L 168.264 261.224367 
+L 168.264 271.427179 
+L 168.264 271.427179 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #3b82f6"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 168.264 74.172821 
+L 168.264 74.172821 
+L 168.264 84.375633 
+L 168.264 84.375633 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #64748b"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 168.264 102.513964 
+L 177.770441 102.513964 
+L 177.770441 112.716776 
+L 168.264 112.716776 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #64748b"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 168.264 130.855108 
+L 168.264 130.855108 
+L 168.264 141.057919 
+L 168.264 141.057919 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #64748b"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 168.264 159.196251 
+L 168.264 159.196251 
+L 168.264 169.399063 
+L 168.264 169.399063 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #64748b"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 168.264 187.537395 
+L 187.276881 187.537395 
+L 187.276881 197.740206 
+L 168.264 197.740206 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #64748b"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 168.264 215.878538 
+L 196.783322 215.878538 
+L 196.783322 226.08135 
+L 168.264 226.08135 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #64748b"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 168.264 244.219681 
+L 339.379932 244.219681 
+L 339.379932 254.422493 
+L 168.264 254.422493 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #64748b"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 168.264 272.560825 
+L 263.328407 272.560825 
+L 263.328407 282.763636 
+L 168.264 282.763636 
+z
+" clip-path="url(#p1cc7637544)" style="fill: #64748b"/>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #101827" x="276.827553" y="70.412769" transform="rotate(-0 276.827553 70.412769)">11</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #101827" x="466.956366" y="98.753913" transform="rotate(-0 466.956366 98.753913)">31</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #101827" x="504.982129" y="127.095056" transform="rotate(-0 504.982129 127.095056)">35</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #101827" x="466.956366" y="155.4362" transform="rotate(-0 466.956366 155.4362)">31</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #101827" x="343.372637" y="183.777343" transform="rotate(-0 343.372637 183.777343)">18</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #101827" x="181.763146" y="212.118486" transform="rotate(-0 181.763146 212.118486)">1</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #101827" x="191.269586" y="240.45963" transform="rotate(-0 191.269586 240.45963)">2</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #101827" x="172.256705" y="268.800773" transform="rotate(-0 172.256705 268.800773)">0</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #475467" x="172.256705" y="81.749227" transform="rotate(-0 172.256705 81.749227)">0</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #475467" x="181.763146" y="110.09037" transform="rotate(-0 181.763146 110.09037)">1</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #475467" x="172.256705" y="138.431514" transform="rotate(-0 172.256705 138.431514)">0</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #475467" x="172.256705" y="166.772657" transform="rotate(-0 172.256705 166.772657)">0</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #475467" x="191.269586" y="195.1138" transform="rotate(-0 191.269586 195.1138)">2</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #475467" x="200.776027" y="223.454944" transform="rotate(-0 200.776027 223.454944)">3</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #475467" x="343.372637" y="251.796087" transform="rotate(-0 343.372637 251.796087)">18</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 9px; font-family: 'JetBrains Mono'; text-anchor: start; fill: #475467" x="267.321112" y="280.137231" transform="rotate(-0 267.321112 280.137231)">10</text>
+   </g>
+  </g>
+  <g id="text_34">
+   <text style="font-weight: 600; font-size: 13px; font-family: 'Inter'; text-anchor: start; fill: #101827" x="11.808" y="21.428437" transform="rotate(-0 11.808 21.428437)">Monthly prices by band, tools versus services</text>
+  </g>
+  <g id="text_35">
+   <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #475467" x="11.808" y="38.163594" transform="rotate(-0 11.808 38.163594)">163 paid monthly offers from 65 companies. Median: tools $199 per month, services $5,125 per month.</text>
+  </g>
+  <g id="text_36">
+   <text style="font-size: 7.5px; font-family: 'Inter'; text-anchor: start; fill: #98a2b3" x="11.808" y="354.840234" transform="rotate(-0 11.808 354.840234)">Source: Broadcastwell Research, What AI search visibility costs in 2026, DOI 10.5281/zenodo.22982430. Prices seen 25 Sep 2026. CC BY 4.0.</text>
+  </g>
+  <g id="legend_1">
+   <g id="patch_20">
+    <path d="M 128.167031 330.355859 
+L 141.767031 330.355859 
+L 141.767031 324.405859 
+L 128.167031 324.405859 
+z
+" style="fill: #3b82f6"/>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: start; fill: #101827" x="148.567031" y="330.355859" transform="rotate(-0 148.567031 330.355859)">Tools (platforms and suites)</text>
+   </g>
+   <g id="patch_21">
+    <path d="M 274.750859 330.355859 
+L 288.350859 330.355859 
+L 288.350859 324.405859 
+L 274.750859 324.405859 
+z
+" style="fill: #64748b"/>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: start; fill: #101827" x="295.150859" y="330.355859" transform="rotate(-0 295.150859 330.355859)">Services (agencies and self-serve audits)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1cc7637544">
+   <rect x="168.264" y="51.84" width="392.616" height="241.92"/>
+  </clipPath>
+ </defs>
+</svg>
