@@ -44,7 +44,7 @@ Other approved client references: Neurvalis, Diagnostic then program, engagement
 
 Current public proof: three published research papers with DOIs, the fictional Kalvenor SAMPLE DATA at https://app.broadcastwell.com/sample, and the API and fifteen-tool connector for Claude and ChatGPT at https://app.broadcastwell.com/developers. The claimable Absence Index, badges and dispute log are at https://index.broadcastwell.com. Its current data release is 2026-09, published 23 Sep 2026: 286 vendors, 14 categories, 2,095 valid target answers, method v1.1, DOI https://doi.org/10.5281/zenodo.22907695. The August release 2026-08.1 (DOI https://doi.org/10.5281/zenodo.22721962) is historical. Historical research engine counts remain those actually measured.
 
-Broadcastwell is a founder-led team of consultants and engineers. Sairam Sivakumar, Founder, is accountable for every order.
+Broadcastwell is a team of consultants and engineers. Sairam Sivakumar, Founder, is accountable for every order.
 
 ## Offers and pricing
 
@@ -127,7 +127,7 @@ Broadcastwell is a founder-led team of consultants and engineers. Sairam Sivakum
 ## Company
 
 - [Broadcastwell | AI Search Visibility Agency for B2B Software](https://broadcastwell.com/): AI search visibility for vertical B2B software. See which vendors five engines name, inspect the evidence, and build a clear plan with Broadcastwell.
-- [About Broadcastwell | AI Search Visibility for B2B Software](https://broadcastwell.com/about): Who Broadcastwell is: a founder-led team of consultants and engineers, the published research, and how the work is done.
+- [About Broadcastwell | AI Search Visibility for B2B Software](https://broadcastwell.com/about): Who Broadcastwell is: a team of consultants and engineers, the published research, and how the work is done.
 - [Company Facts | Broadcastwell](https://broadcastwell.com/company-facts): Verified Broadcastwell company facts: legal identity, services, pricing, audit methodology, approved client work, and official profiles.
 - [Methodology: which engines we measure | Broadcastwell](https://broadcastwell.com/methodology): How Broadcastwell measures AI visibility: 35 buyer questions, the five engines queried, three scheduled runs with further runs on disagreement, the scoring rules, and the confidence interval on every rate.
 - [AI Search Visibility FAQ | Broadcastwell](https://broadcastwell.com/faq): Clear answers on GEO, AI visibility measurement, deliverables, pricing, timelines, limitations, client evidence and how Broadcastwell works.
