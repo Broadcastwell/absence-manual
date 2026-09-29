@@ -164,10 +164,18 @@ The Absence Report, the newsletter: https://broadcastwell.com/newsletter. Resear
 
 ## Careers
 
-- [Careers at Broadcastwell](https://broadcastwell.com/careers): Open and standing roles at Broadcastwell, each with responsibilities, requirements, pay where published and an application form.
+- [Careers at Broadcastwell: 11 openings](https://broadcastwell.com/careers): Seven open roles, two fellowships and two internships at Broadcastwell. Remote, United States and India. Pay, terms and an application form on each.
 - [AI Solutions Architect, Careers at Broadcastwell](https://broadcastwell.com/careers/ai-solutions-architect): Open role at Broadcastwell: AI Solutions Architect. Remote, United States, $140k to $190k. Own the reliability of published AI search measurement.
 - [AI Automation Engineer, Careers at Broadcastwell](https://broadcastwell.com/careers/ai-automation-engineer): Open role at Broadcastwell: AI Automation Engineer. Remote, United States, $110k to $150k. Keep measurement runs, receipts and scoring reliable.
 - [Management Consultant, B2B SaaS Growth, Broadcastwell](https://broadcastwell.com/careers/management-consultant-b2b-saas-growth): Open role at Broadcastwell: Management Consultant, B2B SaaS Growth. Remote, United States, $90k to $130k. Turn findings into client strategy.
+- [Account Executive, AI Search Visibility, Broadcastwell](https://broadcastwell.com/careers/account-executive-ai-search-visibility): Open role at Broadcastwell: Account Executive, AI Search Visibility. Remote, United States, $80k to $95k base, $140k to $160k on target.
+- [Engagement Manager, Client Delivery, Broadcastwell](https://broadcastwell.com/careers/engagement-manager-client-delivery): Open role at Broadcastwell: Engagement Manager, Client Delivery. Remote, United States, $100k to $125k. Own every paid order to delivery.
+- [Research Analyst, AI Answer Measurement, Broadcastwell](https://broadcastwell.com/careers/research-analyst-ai-answer-measurement): Open role at Broadcastwell: Research Analyst, AI Answer Measurement. Remote, United States, $80k to $105k. Own the Absence Index releases.
+- [Full-Stack Product Engineer, Careers at Broadcastwell](https://broadcastwell.com/careers/full-stack-product-engineer): Open role at Broadcastwell: Full-Stack Product Engineer, TypeScript and React. Remote, United States, $135k to $165k. Own app.broadcastwell.com.
+- [AI Search Research Fellow, Careers at Broadcastwell](https://broadcastwell.com/careers/ai-search-research-fellow): Unpaid 12-week research fellowship at Broadcastwell. Remote, India or United States. Learn how AI answers are measured, with a named mentor.
+- [Growth and Partnerships Fellow, Careers at Broadcastwell](https://broadcastwell.com/careers/growth-and-partnerships-fellow): Unpaid 12-week growth and partnerships fellowship at Broadcastwell. Remote, India or United States. Learn evidence-led go-to-market.
+- [Marketing and Content Intern, Careers at Broadcastwell](https://broadcastwell.com/careers/marketing-and-content-intern): Unpaid 12-week marketing and content internship at Broadcastwell. Remote, India or United States. Evidence-led writing, with your byline.
+- [Software Engineering Intern, TypeScript, Broadcastwell](https://broadcastwell.com/careers/software-engineering-intern): Unpaid 12-week software engineering internship at Broadcastwell. Remote, India or United States. TypeScript, code review, merged work.
 - [Evidence and Structured Data Specialist, Broadcastwell](https://broadcastwell.com/careers/evidence-and-structured-data-specialist): Evidence and Structured Data Specialist at Broadcastwell. Not open right now; applications stay on file for twelve months.
 
 ## Legal
