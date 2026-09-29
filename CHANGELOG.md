@@ -3,6 +3,21 @@
 Version numbers change. URLs never do. A chapter slug published once is
 permanent.
 
+## llms.txt corrections, 29 September 2026
+
+- The withdrawn July 2026 agency study figures are gone from llms.txt. The
+  seven pages that carried them keep their place in the list, with their
+  served titles and the site's withdrawal line: "Earlier July 2026 agency
+  mention counts have been withdrawn because the underlying answer records
+  could not be reverified." No manual page or PDF carried the figures.
+- The Fix Sprint lines follow /fix-sprint: it can be bought straight after
+  the $490 Category Audit, with the $490 credited once within 30 days of the
+  Audit's delivery, and no Diagnostic is needed first.
+- The Category Audit lines say it includes a Fix Pack, in the site's words.
+- Every mention of Neurvalis or Valren Atelier carries the site's
+  disclosure: Broadcastwell's founder previously owned and sold Neurvalis AI
+  Automation and Valren Atelier.
+
 ## Research downloads and sample packs, 28 September 2026
 
 - The three September studies are downloadable here with their charts:
