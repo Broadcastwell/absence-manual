@@ -161,6 +161,7 @@ The Absence Report, the newsletter: https://broadcastwell.com/newsletter. Resear
 - [Insights | Broadcastwell](https://broadcastwell.com/insights): Browse Broadcastwell agency comparisons, industry studies and research guides, with methods, observed findings and clearly stated limits.
 - [Security and Data Handling | Broadcastwell](https://broadcastwell.com/security): How Broadcastwell handles client information, AI-search measurement inputs, access, retention, deletion requests, subprocessors, and security incidents.
 - [Contact Broadcastwell](https://broadcastwell.com/contact): Contact Broadcastwell about AI search visibility. Use the contact form, email hello@broadcastwell.com or call (812) 345-7272. Based in Bloomington, Indiana.
+- [Broadcastwell Exchange](https://exchange.broadcastwell.com/): A public discussion space where practitioners, marketers, candidates and the Broadcastwell team discuss AI search visibility with evidence, and every thread gets a named team reply within one business day.
 
 ## Careers
 
