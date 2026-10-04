@@ -2,20 +2,24 @@
 title: Broadcastwell Launchpad
 description: Free evidence learning, independent referrals and a separate paid-work route.
 learning_resource: true
+page_class: page
+schema_type: Article
+date_published: 2026-10-04T05:00:00Z
+date_modified: 2026-10-04T05:35:00Z
 ---
 
 # Broadcastwell Launchpad
 
 Learn how to read AI search evidence and make a useful, bounded recommendation. Our free Foundations course has eight open lessons, synthetic practice and an automatically scored assessment. It takes about four hours, including the assessment. The first useful evidence note takes about 15 minutes.
 
-[Start the first lesson](https://app.broadcastwell.com/launchpad/learn/read-an-answer){ .md-button .md-button--primary }
+[Start the first lesson](https://app.broadcastwell.com/launchpad/learn/read-an-answer){ .md-button }
 [Explore all eight modules](https://app.broadcastwell.com/launchpad/learn){ .md-button }
 
 ## Three independent routes
 
 **Learn.** Study without an account. Enroll only when saving an assessment and completion record. Pass at least 20/25 questions and all five safety questions, plus the structured case at 6/8 with full accuracy and ethics scores. The title is **Broadcastwell Launchpad Foundations, certificate of completion**. It is not accredited and creates no job or income promise. Public verification requires a separate choice.
 
-**Refer.** Apply if we already know suitable B2B software buyers. Approval, a safety step, both signatures on fixed terms and restricted tax/payment onboarding precede activation. Experienced introducers may use a 45-minute safety briefing instead of the full course. Most participants may earn nothing. No fee, purchase, quota, exclusivity, downline or recruiting reward.
+**Refer.** We welcome applications from people who already know suitable B2B software buyers. Approval, a safety step, both signatures on fixed terms and restricted tax/payment onboarding precede activation. Experienced introducers may use a 45-minute safety briefing instead of the full course. Most participants may earn nothing. No fee, purchase, quota, exclusivity, downline or recruiting reward.
 
 **Paid work.** Funded roles have their own selection process on [Careers](https://broadcastwell.com/careers). The six paid samples remain on hold.
 
