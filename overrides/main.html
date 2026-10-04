@@ -159,7 +159,7 @@ document.querySelectorAll('[data-manual-toggle]').forEach(function(button) {
 {% endif %}
 <hr>
 {% if page and page.meta.get("learning_resource") %}
-<p class="manual-footer-version">Broadcastwell practical resources, September 2026. Original guides and diagrams with authored fictional examples. No client outcome or live AI measurement is represented. Prose and figures CC BY 4.0, site code MIT. <a href="{{ 'resources/provenance/sources/' | url }}">Sources and scope</a>.</p>
+<p class="manual-footer-version">Broadcastwell practical resources, {{ page.meta.get("resource_date", "September 2026") }}. Original guides and diagrams with authored fictional examples. No client outcome or live AI measurement is represented. Prose and figures CC BY 4.0, site code MIT. <a href="{{ 'resources/provenance/sources/' | url }}">Sources and scope</a>.</p>
 {% else %}
 <p class="manual-footer-version">{{ config.extra.manual_version_label }}. Author: <a href="https://broadcastwell.com/about">Sairam Sivakumar, Broadcastwell</a>. Prose and figures CC BY 4.0, site code MIT. Not peer reviewed. Every figure can be recomputed from the public data at <a href="https://github.com/Broadcastwell/state-of-geo-2026">github.com/Broadcastwell/state-of-geo-2026</a>.</p>
 {% endif %}

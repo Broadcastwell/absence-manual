@@ -2,10 +2,11 @@
 title: Broadcastwell Launchpad
 description: Free evidence learning, independent referrals and a separate paid-work route.
 learning_resource: true
+resource_date: "October 2026"
 page_class: page
 schema_type: Article
-date_published: 2026-10-04T05:00:00Z
-date_modified: 2026-10-04T05:35:00Z
+date_published: "2026-10-04T05:00:00Z"
+date_modified: "2026-10-04T05:50:00Z"
 ---
 
 # Broadcastwell Launchpad
