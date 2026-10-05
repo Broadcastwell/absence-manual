@@ -22,7 +22,7 @@ Use the work-order interchange schema and companion implementation notes. For ea
 
 ## Next decision and purchase boundary
 
-State why the evidence supports the recommended next step and when no implementation purchase is justified. Link only the current reconciled offer if recommending a service. Record included/excluded work, prerequisites and actual purchased allowance. Written explanation is the default until any live review session has a confirmed owner, cost, capacity and prospective inclusion.
+State why the evidence supports the recommended next step and when no implementation purchase is justified. Link only the current reconciled offer if recommending a service. Record included/excluded work, prerequisites and actual purchased allowance. Written explanation is the default until any live review session has a confirmed owner, cost, staffing and prospective inclusion.
 
 ## Evidence appendix and delivery
 

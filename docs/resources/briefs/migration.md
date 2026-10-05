@@ -7,7 +7,7 @@ schema_type: "Article"
 learning_resource: "true"
 hide: ["navigation", "toc"]
 date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+date_modified: "2026-10-05T00:00:00+00:00"
 ---
 
 # Migration planning page ,  reusable implementation brief
@@ -26,7 +26,7 @@ date_modified: "2026-09-24T00:00:00+00:00"
 <p>The Northstar Lab fixture is supported only by DEMO-FACT-01/02/03 where applicable; other statements above describe proposed process or explicit unknowns. It is not a product sales claim. Replace fictional content only with permitted approved evidence.</p>
 <h2>Boundaries and dependencies</h2>
 <p>One planning asset; no live migration, deletion, unlimited mapping or new implementation inclusion.</p>
-<p>Supported source/target documentation; data owner authority; actual backup/restore plan; technical capacity.</p>
+<p>Supported source/target documentation; data owner authority; actual backup/restore plan; the technical staff and time to run it.</p>
 <h2>Acceptance checklist</h2>
 <ul>
 <li>Engineer reviews actual supported export/import route. Counts and semantic checks defined. No zero-downtime, migration-time or data-loss guarantee. No live customer data in this sample.</li>

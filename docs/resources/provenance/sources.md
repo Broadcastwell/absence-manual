@@ -7,14 +7,14 @@ schema_type: "Article"
 learning_resource: "true"
 hide: ["navigation", "toc"]
 date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+date_modified: "2026-10-05T00:00:00+00:00"
 ---
 
 # Sources and editorial provenance
 
 <div class="bw-learning">
 <nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><p>Version bw-content-2026-09-24-v1</p>
-<p>All six guides are original expansions of the supplied drafts. Operational recommendations are proposed Broadcastwell methods, not scientific causal findings. No real client, competitor result, website offer, contract or human capacity is asserted.</p>
+<p>All six guides are original expansions of the supplied drafts. Operational recommendations are proposed Broadcastwell methods, not scientific causal findings. No real client, competitor result, website offer, contract or staffing level is asserted.</p>
 <h2>METHOD-01</h2>
 <p>supplied design / not operational proof; reviewed 2026-09-24.</p>
 <p>Terminology, bounded method, examples and editorial constraints</p>
