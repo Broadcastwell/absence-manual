@@ -5,7 +5,7 @@ description: "A free, ungated technical manual on measuring and fixing AI search
 schema_type: TechArticle
 page_class: page
 date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-26T00:00:00+00:00"
+date_modified: "2026-10-05T00:00:00+00:00"
 image: "figures/absence-ladder.png"
 is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
 ---
@@ -112,23 +112,21 @@ If you are not going to read a technical manual, start with [what AI search is d
 
 ## If you want this run for your category
 
-Current prices and terms, 26 September 2026.
+Current prices and terms, 5 October 2026. Every offer below is available now.
 
 The [free 10-question check](https://audit.broadcastwell.com): ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter that addresses it.
 
-**Category Audit, $490 once.** One category, ten buyer questions, five engines, three measured runs. Who is named instead of you with counts, which of the ten questions you lose, the sources cited in those answers, a crawler access check, three prioritized fixes, receipts, a CMO summary and a finance memo, within 48 hours of category confirmation. The full $490 is credited against the Diagnostic if the Diagnostic is bought within 30 days. Refundable in full within 30 days of delivery.
+**Category Audit, $490 once.** One category, ten buyer questions, five engines, three measured runs. Who is named instead of you with counts, which of the ten questions you lose, the sources cited in those answers, a crawler access check, three prioritized fixes, receipts, a CMO summary and a finance memo. Findings within 48 hours of your category confirmation. The $490 credits once against the $2,900 Fix Sprint within 30 days of delivery, so the Sprint is $2,410. Refundable in full within 30 days of delivery.
 
 [Get the Category Audit, $490](https://broadcastwell.com/buy/audit){ .bw-buy }
 
-**AI Visibility Diagnostic, $990 once. Paused until our next Audit delivery.** 35 buyer questions across shortlist, role, use case and evaluation groups across five engines, three scheduled runs per question and engine plus up to two further runs on any pair whose verdicts disagreed: 525 scheduled observed answers, named and cited outcomes reported separately, competitor and source analysis, a receipts appendix and a prioritized plan. Adaptive observations are extra. AI answers vary, so repeated observations and their disagreement are reported. The full $990 is credited against the program's first monthly invoice. The Diagnostic reopens after our next Audit delivery. Start with the $490 Category Audit; it credits in full within 30 days.
-
-**Fix Sprint, $2,900 once.** Thirty days of the first fixes, available after a completed Diagnostic. Terms at [broadcastwell.com/fix-sprint](https://broadcastwell.com/fix-sprint).
+**Fix Sprint, $2,900 over 30 days.** Thirty days of the first fixes, available directly or after a $490 Category Audit. The $490 credits once against the $2,900 Fix Sprint within 30 days of delivery, so the Sprint is $2,410. Terms at [broadcastwell.com/fix-sprint](https://broadcastwell.com/fix-sprint).
 
 **The program, $13,500 per 90 days, billed $4,500 monthly.** A 90 day initial term, then month to month. Booked by a call at [broadcastwell.com/contact](https://broadcastwell.com/contact).
 
 Agencies buy the same work wholesale at $1,000 per client per month for the first client and $490 per client per month for each additional client at [broadcastwell.com/for-agencies](https://broadcastwell.com/for-agencies). Three clients are $1,980 a month; five clients are $2,960 a month. A single white-label Category Audit for an agency client is $490 per report. The agency keeps the client relationship and implements the fixes. Every figure comes from the [published method, v1.1](https://broadcastwell.com/methodology). The full ladder is at [broadcastwell.com/pricing](https://broadcastwell.com/pricing). Findings can also be read with your own tools: a read only API, signed webhooks and a connector for Claude and ChatGPT, described at [broadcastwell.com/developers](https://broadcastwell.com/developers).
 
-Refund terms depend on the offer. A standalone Category Audit or AI Visibility Diagnostic is refundable in full, no questions asked, if requested within 30 days of delivery of the findings. The first month of the program is refundable in full, no questions asked, at any time before month two is invoiced. You do not need to give a reason, and you keep every deliverable produced up to that point. The only exception is third-party costs paid on your behalf, and we tell you about any of those before they are incurred. See the [master refund and proof-gate terms](https://broadcastwell.com/terms).
+Refund terms depend on the offer. A standalone Category Audit is refundable in full, no questions asked, if requested within 30 days of delivery of the findings. The first month of the program is refundable in full, no questions asked, at any time before month two is invoiced. You do not need to give a reason, and you keep every deliverable produced up to that point. The only exception is third-party costs paid on your behalf, and we tell you about any of those before they are incurred. See the [master refund and proof-gate terms](https://broadcastwell.com/terms).
 
 ## Notes
 

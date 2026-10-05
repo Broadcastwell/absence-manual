@@ -7,7 +7,7 @@ schema_type: "Article"
 learning_resource: "true"
 hide: ["navigation", "toc"]
 date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+date_modified: "2026-10-05T00:00:00+00:00"
 ---
 
 # Category Audit ,  executive delivery template
@@ -24,7 +24,7 @@ date_modified: "2026-09-24T00:00:00+00:00"
 <h2>Three prioritized work orders</h2>
 <p>Use the work-order interchange schema and companion implementation notes. For each include the evidence-supported problem, exact affected page/source, proposed wording/change, dependencies, priority rationale, recommended role, bounded allowance, acceptance checks, real owner/approver when confirmed, due date when confirmed, and recheck eligibility. Delivered states require real completion and recipient-facing access evidence. Do not prefill approvals, dates or owners as facts.</p>
 <h2>Next decision and purchase boundary</h2>
-<p>State why the evidence supports the recommended next step and when no implementation purchase is justified. Link only the current reconciled offer if recommending a service. Record included/excluded work, prerequisites and actual purchased allowance. Written explanation is the default until any live review session has a confirmed owner, cost, capacity and prospective inclusion.</p>
+<p>State why the evidence supports the recommended next step and when no implementation purchase is justified. Link only the current reconciled offer if recommending a service. Record included/excluded work, prerequisites and actual purchased allowance. Written explanation is the default until any live review session has a confirmed owner, cost, staffing and prospective inclusion.</p>
 <h2>Evidence appendix and delivery</h2>
 <p>Attach the exact approved observation export, source passages/fact versions, receipts or permitted receipt references, work orders and failure/exclusion table. Record classification and tenant permissions. Reviewer identity: [record actual]. Reviewer type: [record actual]. Review date: [record actual]. Review reference: [link to the supporting review record]. Technical reviewer identifiers belong in that supporting record. Candidate version/hash: [required]. Intended recipient/account access test: [required]. Delivery receipt/time: [required]. All remain pending until evidence exists. A local file or passing fixture does not establish delivery.</p>
 </div>

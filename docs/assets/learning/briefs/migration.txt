@@ -26,7 +26,7 @@ The Northstar Lab fixture is supported only by DEMO-FACT-01/02/03 where applicab
 
 One planning asset; no live migration, deletion, unlimited mapping or new implementation inclusion.
 
-Supported source/target documentation; data owner authority; actual backup/restore plan; technical capacity.
+Supported source/target documentation; data owner authority; actual backup/restore plan; the technical staff and time to run it.
 
 ## Acceptance checklist
 

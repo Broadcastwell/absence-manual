@@ -3,6 +3,29 @@
 Version numbers change. URLs never do. A chapter slug published once is
 permanent.
 
+## Every offer always available, 5 October 2026
+
+- Sairam's ruling of 5 October 2026 applied to every page, llms.txt and the
+  sample packs. The $990 AI Visibility Diagnostic is retired and the AI Fact
+  Check is removed: no price, no state and no link to either anywhere on the
+  site. Every remaining offer is shown as available now, with no cap.
+- The credit line is the one ruled: "The $490 credits once against the $2,900
+  Fix Sprint within 30 days of delivery, so the Sprint is $2,410." The
+  Category Audit promise reads "Findings within 48 hours of your category
+  confirmation." The Fix Sprint guarantee's baseline is the Category Audit
+  bought first.
+- The next step under every page carries the $490 button, the promise and the
+  credit line; the footer's Product column lists the Fix Sprint in place of the
+  Diagnostic. llms.txt lists only the current offers.
+- The FieldEdge rehearsal and Kalvenor sample packs are re-printed from the
+  same renderer and data with the new credit note; every other page is
+  unchanged, and both file names still resolve. The white-label pack carried no
+  offer terms and is unchanged.
+- The build now fails if any served page, download, the search index or a
+  served PDF (dated research excepted) carries a retired offer or one of the
+  availability words the ruling bans, and if llms.txt, the front page or the
+  next step block loses the credit line or the promise.
+
 ## Research downloads and sample packs, 28 September 2026
 
 - The three September studies are downloadable here with their charts:

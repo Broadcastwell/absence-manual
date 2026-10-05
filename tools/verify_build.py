@@ -37,8 +37,6 @@ APPROVED_PALETTE = {
     "#0A0A0B", "#0A0E1A", "#F8FAFC", "#CBD5E1",
     # Shared Broadcastwell design system 2.0 light surfaces and neutral ink.
     "#F7F9FC", "#EFF4FB", "#101828", "#475467", "#667085", "#D5DDE8", "#1E40AF",
-    # The one Paused state every Broadcastwell surface shares: this text on this fill.
-    "#92400E", "#FEF3C7",
 }
 
 # The only purchase address a page may carry, and the words that may no longer appear.
@@ -47,6 +45,46 @@ RETIRED_OFFER_TEXT = [
     "currently on hold", "Check Audit availability", "Check Diagnostic availability",
     "working draft", "founding rate", "$89",
 ]
+
+# Sairam's ruling of 5 October 2026, section 0. Every remaining offer is always buyable, the
+# $990 AI Visibility Diagnostic is retired and the AI Fact Check is removed. None of the words
+# below may reach a reader: page text, buttons, alt text, meta, JSON-LD, llms.txt, the search
+# index, the learning downloads and the PDFs this site serves.
+CREDIT_LINE = "The $490 credits once against the $2,900 Fix Sprint within 30 days of delivery, so the Sprint is $2,410."
+AUDIT_PROMISE = "Findings within 48 hours of your category confirmation"
+AVAILABILITY_WORDS = re.compile(
+    r"(?i)\bpaused\b|\bpause\b|\bpilot\b|\bclosed\b|not currently offered|\bnot open\b|\breopens?\b"
+    r"|\bis full\b|orders in total|\(\s*\d+\s+orders?\s*\)|\b\d+\s+orders\b|\bwaitlist\b"
+    r"|\btemporarily\b|limited availability|\bnext batch\b|\bcapacity\b"
+)
+RETIRED_OFFERS = re.compile(
+    r"(?i)\$990|ai fact check|/buy/diagnostic|/buy/ai-fact-check"
+    r"|broadcastwell\.com/ai-fact-check|broadcastwell\.com/ai-visibility-audit"
+)
+# "Diagnostic" as something to buy. The lower-case word is the manual's own self-run method (the
+# two-gate diagnostic of Chapter 2) and stays. History may describe past diagnostic work with no
+# price, status or buy link; the published case study title is the one capitalised use allowed.
+DIAGNOSTIC_OFFER = re.compile(r"\bDiagnostic\b")
+DIAGNOSTIC_HISTORY = [
+    "[Neurvalis AI Visibility Diagnostic | Broadcastwell](https://broadcastwell.com/neurvalis-ai-visibility-diagnostic):"
+    " How Broadcastwell's AI Visibility Diagnostic gave Neurvalis",
+]
+# Dated research with a DOI is the record of what was observed on its date, other sellers' offer
+# names included, so it is not rewritten. The theme's own scripts and styles carry no copy.
+RULING_EXEMPT = ("assets/research/", "absence-ladder-volume-ii.pdf", "assets/javascripts/", "assets/stylesheets/")
+SERVED_TEXT = {".html", ".txt", ".xml", ".json", ".js", ".css", ".svg", ".vtt", ".md"}
+
+
+def ruling_hits(text):
+    """Every banned word, retired offer and Diagnostic-for-sale in one served text."""
+    text = " ".join(text.split())
+    for allowed in DIAGNOSTIC_HISTORY:
+        text = text.replace(allowed, " ")
+    hits = []
+    for rx in (AVAILABILITY_WORDS, RETIRED_OFFERS, DIAGNOSTIC_OFFER):
+        for m in rx.finditer(text):
+            hits.append(text[max(0, m.start() - 50):m.end() + 50])
+    return hits
 
 VALID_CLASSES = {"chapter", "note", "appendix", "page"}
 TECHARTICLE_CLASSES = {"chapter", "appendix"}
@@ -323,8 +361,14 @@ for rel, cls in sorted(manifest.items()):
     for retired in RETIRED_OFFER_TEXT:
         if retired in strip_tags(html):
             fail("%s still says %r" % (rel, retired))
-    if 'class="bw-next-step"' in html and ('href="%s">Get the Category Audit, $490<' % BUY_AUDIT not in html or '<span class="bw-paused">Paused</span>' not in html):
-        fail("%s next step block must carry the $490 button and the Paused Diagnostic" % rel)
+    if 'class="bw-next-step"' in html:
+        at = html.find('class="bw-next-step"')
+        block = html[at:html.find("</section>", at)]
+        for needed in ('href="%s">Get the Category Audit, $490<' % BUY_AUDIT, CREDIT_LINE, AUDIT_PROMISE):
+            if needed not in block:
+                fail("%s next step block must carry %r" % (rel, needed))
+        if "bw-paused" in block or "Diagnostic" in block:
+            fail("%s next step block still shows a paused state or the retired Diagnostic" % rel)
     types = []
     for block in re.findall(r"(?is)<script type=\"application/ld\+json\">(.*?)</script>", html):
         try:
@@ -367,6 +411,53 @@ else:
     for retired in RETIRED_OFFER_TEXT:
         if retired in body:
             fail("llms.txt still says %r" % retired)
+    if CREDIT_LINE not in body:
+        fail("llms.txt does not carry the credit line exactly as ruled on 5 October 2026")
+    if AUDIT_PROMISE not in body:
+        fail("llms.txt does not carry the Category Audit promise %r" % AUDIT_PROMISE)
+
+home = SITE / "index.html"
+if home.exists():
+    home_html = home.read_text(encoding="utf8")
+    for needed in (CREDIT_LINE, AUDIT_PROMISE, 'href="%s"' % BUY_AUDIT):
+        if needed not in home_html:
+            fail("the front page offer section does not carry %r" % needed)
+
+
+# ---------- section 0 of the 5 October 2026 ruling, on everything served ----------
+
+try:
+    from pypdf import PdfReader
+except ImportError:
+    PdfReader = None
+    fail("pypdf is needed to read the served PDFs; install requirements.txt")
+
+
+def pdf_text(path):
+    if PdfReader is None:
+        return ""
+    return "\n".join(page.extract_text() or "" for page in PdfReader(str(path)).pages)
+
+
+ruling_files = 0
+for served in sorted(SITE.rglob("*")):
+    if not served.is_file():
+        continue
+    rel = served.relative_to(SITE).as_posix()
+    if rel.startswith(RULING_EXEMPT):
+        continue
+    suffix = served.suffix.lower()
+    if suffix == ".pdf":
+        text = pdf_text(served)
+    elif suffix in SERVED_TEXT:
+        text = served.read_text(encoding="utf8", errors="replace")
+    else:
+        continue
+    ruling_files += 1
+    for hit in ruling_hits(text):
+        fail("%s breaks the 5 October 2026 ruling: ...%s..." % (rel, hit))
+if ruling_files == 0:
+    fail("the ruling scan read no served files")
 
 
 if problems:
@@ -375,8 +466,9 @@ if problems:
         print("  " + p)
     sys.exit(1)
 
-print("Build verification passed. %d pages checked (%s)." % (
+print("Build verification passed. %d pages checked (%s); %d served files clear of the 5 October 2026 ruling words." % (
     len(manifest),
     ", ".join("%d %s" % (sum(1 for c in manifest.values() if c == k), k)
               for k in sorted(VALID_CLASSES) if any(c == k for c in manifest.values())),
+    ruling_files,
 ))
