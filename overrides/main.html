@@ -9,6 +9,9 @@
 {% endblock %}
 
 {% block extrahead %}
+{% if page and page.url == "vendor-facts/" %}
+<style>.md-typeset .bw-next-step a.bw-buy{background:transparent;color:#1D4ED8!important}.md-typeset .bw-next-step a.bw-buy:hover{background:#EFF6FF}</style>
+{% endif %}
 <link rel="preload" href="{{ 'assets/fonts/inter-latin-var.woff2' | url }}" as="font" type="font/woff2" crossorigin>
 {% set social_title = (page.title if page and page.title else config.site_name) | string %}
 {% set social_description = (page.meta.get("description", config.site_description) if page and page.meta else config.site_description) | string %}
