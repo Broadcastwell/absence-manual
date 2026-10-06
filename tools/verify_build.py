@@ -415,6 +415,16 @@ else:
         fail("llms.txt does not carry the credit line exactly as ruled on 5 October 2026")
     if AUDIT_PROMISE not in body:
         fail("llms.txt does not carry the Category Audit promise %r" % AUDIT_PROMISE)
+    for required in (
+        "Category Exclusive: included with the Fix Sprint and the program at no extra charge.",
+        "The Category Audit, white-label reports and every Index service stay open to everyone.",
+        "Availability check: https://app.broadcastwell.com/exclusive",
+        "Index Verified: free for every checked vendor on the Absence Index:",
+        "No payment changes any Index number. https://index.broadcastwell.com/verified/",
+        "[Index Verified and Category Exclusive | Broadcastwell](https://broadcastwell.com/index-verified)",
+    ):
+        if required not in body:
+            fail("llms.txt is missing the verified offer rule %r" % required)
 
 home = SITE / "index.html"
 if home.exists():
