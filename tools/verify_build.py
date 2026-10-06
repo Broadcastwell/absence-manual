@@ -470,6 +470,32 @@ if ruling_files == 0:
     fail("the ruling scan read no served files")
 
 
+# Agent Ready is separate from the engine measurement method and published research.
+facts = SITE / "vendor-facts" / "index.html"
+if not facts.exists():
+    fail("Vendor Facts File standard missing from the built site")
+else:
+    facts_text = facts.read_text(encoding="utf8")
+    for required in (
+        "Vendor Facts File v1", "It is not a ranking signal.", "SAMPLE DATA",
+        "https://app.broadcastwell.com/standard/vendor-facts.schema.json",
+        "https://creativecommons.org/licenses/by/4.0/", "get_company", "get_pricing",
+        "get_fit", "get_integrations", "get_compliance", "get_links",
+        "Format validation does not verify the truth of a claim.",
+    ):
+        if required not in facts_text:
+            fail("Vendor Facts File is missing %r" % required)
+if llms.exists():
+    for required in (
+        "Agent Test: $490 once.", "Findings within 48 hours of task confirmation.",
+        "White-label Agent Test: $490 per agency client report.", "one credit per Sprint.",
+        "https://broadcastwell.com/buy/agent-test", "https://broadcastwell.com/agent-ready",
+        "Ask <Vendor>: a read-only connector", "https://app.broadcastwell.com/mcp/vendor/kalvenor",
+        "Vendor Facts File v1: an open schema (CC BY 4.0)",
+    ):
+        if required not in llms.read_text(encoding="utf8"):
+            fail("llms.txt is missing the Agent Ready rule %r" % required)
+
 if problems:
     print("Build verification failed:")
     for p in problems:
