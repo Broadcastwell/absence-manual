@@ -2,10 +2,13 @@
 
 > Broadcastwell is an AI search visibility agency for vertical B2B software companies. We measure how often AI engines name a vendor in buyer answers, then build the third-party evidence those answers cite.
 
-## Current prices and terms (5 Oct 2026)
+## Current prices and terms (6 Oct 2026)
 
 This block supersedes any older price or availability line, here or elsewhere. Every offer below is available now. Legal master: https://broadcastwell.com/terms. Price ladder: https://broadcastwell.com/pricing.
 
+- Agent Test: $490 once. Ten buyer tasks run by AI buying agents on the buyer's category and site, two runs each, every session recorded and scored by the published rules. Findings within 48 hours of task confirmation. Refundable in full within 30 days of delivery. The full $490 credits once toward the Fix Sprint within 30 days of delivery; one credit per Sprint. White-label Agent Test: $490 per agency client report. Buy it at https://broadcastwell.com/buy/agent-test
+- Ask <Vendor>: a read-only connector served for every Fix Sprint and program client at https://app.broadcastwell.com/mcp/vendor/<slug>, answering only from the client's Vendor Facts File. Sample: https://app.broadcastwell.com/mcp/vendor/kalvenor
+- Vendor Facts File v1: an open schema (CC BY 4.0) for the facts a vendor states about itself, hosted at https://<domain>/vendor-facts.json. https://app.broadcastwell.com/standard/vendor-facts
 - Category Audit: $490 once. One category, ten buyer questions, five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three measured runs, 150 planned observations. Findings within 48 hours of your category confirmation. The $490 credits once against the $2,900 Fix Sprint within 30 days of delivery, so the Sprint is $2,410. Buy it at https://broadcastwell.com/buy/audit
 - Fix Sprint: $2,900 over 30 days, available directly or after a $490 Category Audit. The $490 credits once against the $2,900 Fix Sprint within 30 days of delivery, so the Sprint is $2,410. https://broadcastwell.com/fix-sprint
 - The program: $13,500 per 90 days, billed $4,500 a month, arranged by conversation: https://broadcastwell.com/contact
@@ -54,6 +57,7 @@ The Absence Report, the newsletter: https://broadcastwell.com/newsletter. Resear
 
 ## Offers and pricing
 
+- [Agent Ready: the Agent Test, $490 | Broadcastwell](https://broadcastwell.com/agent-ready): AI buying agents run ten tasks on your category and site, two runs each, every session recorded. $490, findings in 48 hours, three fixes, the Agent Surface inside the Fix Sprint.
 - [Index Verified and Category Exclusive | Broadcastwell](https://broadcastwell.com/index-verified): Claim your Absence Index record and show the badge, read a free Index Brief, and lock your category: one company per category on the Fix Sprint and the program.
 - [Pricing | Broadcastwell](https://broadcastwell.com/pricing): Category Audit $490, Fix Sprint $2,900 for thirty days ($2,410 after the Audit credit), the program $13,500 per 90 days billed $4,500 monthly. Every price sits next to what arrives and its credit rule.
 - [Category Audit, $490 once | Broadcastwell](https://broadcastwell.com/category-audit): One category, ten buyer questions, five engines and three measured runs, with three prioritised fixes. Findings within 48 hours of your category confirmation. $490 once.
