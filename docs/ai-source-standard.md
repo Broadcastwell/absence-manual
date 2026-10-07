@@ -12,6 +12,8 @@ date_modified: "2026-10-07T00:00:00+00:00"
 
 Version 1.0. Specification date: 7 October 2026. Copyright 2026 Broadcastwell LLC. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), attribution to Broadcastwell. Adopt it without asking. This specification and its templates are free.
 
+GA4, Google Tag Manager and Salesforce recipes: **documentation checked; live installation not tested.** Broadcastwell's reference stack uses Framer analytics and HubSpot. Each installation needs its own verification record; local fixture checks do not establish live platform import acceptance.
+
 A small, open specification for recording where AI-assisted buyers came from, in the systems a company already runs. One source field, an optional question, two CRM properties, analytics definitions and a classification of referrers and parameters. Buyers may arrive with no referrer. A visibility score cannot show what reached a company's pipeline. This standard adds no identity field, cookie or Broadcastwell tracking service. Free text can contain personal information and needs the controls below.
 
 ## 1. Form fields
@@ -108,5 +110,9 @@ The Proof Page shows what analytics, forms and CRM recorded beside measured pres
 ## 9. Version and adoption
 
 Do not change the option list without a version note. Changes to values, inclusion rules, period bases or privacy rules require a new version and a migration note; never rewrite past reports. Corrections retain a dated changelog. Preserve the standard version in every template, installation record and report. A DOI identifies the published release; an unreleased working copy must not invent one.
+
+## Templates and downloads
+
+Use the [version 1.0 downloads](https://app.broadcastwell.com/standard/ai-source#downloads) for the complete specification, HubSpot property JSON and field table, platform recipes, local classifier, Tag Manager container recipe, optional HTML fields and privacy sentence. Preserve existing platform settings and verify the actual installation before publishing it. The files are free under CC BY 4.0 with attribution to Broadcastwell.
 
 Platform recipes can be documentation-checked without a live installation. An installation record must state which systems were actually applied, who verified them, evidence dates, omitted features and pending human click-through checks. Do not describe a recipe as live merely because its JSON parses. The free standard is independent of buying Proof Setup.
