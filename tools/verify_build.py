@@ -488,13 +488,23 @@ else:
 if llms.exists():
     for required in (
         "Agent Test: $490 once.", "Findings within 48 hours of task confirmation.",
-        "White-label Agent Test: $490 per agency client report.", "one credit per Sprint.",
+        "White-label Agent Test: $490 per agency client report, run by ChatGPT Work with Cloud browser, two runs per task.",
+        "One credit per Sprint.",
         "https://broadcastwell.com/buy/agent-test", "https://broadcastwell.com/agent-ready",
         "Ask <Vendor>: a read-only connector", "https://app.broadcastwell.com/mcp/vendor/kalvenor",
         "Vendor Facts File v1: an open schema (CC BY 4.0)",
     ):
         if required not in llms.read_text(encoding="utf8"):
             fail("llms.txt is missing the Agent Ready rule %r" % required)
+    for prefix in ("- Agent Test:", "- [Agent Ready:"):
+        lines = [line for line in llms.read_text(encoding="utf8").splitlines() if line.startswith(prefix)]
+        if len(lines) != 1:
+            fail("llms.txt must have exactly one commercial Agent Test entry for %r" % prefix)
+            continue
+        if "ChatGPT Work with Cloud browser" not in lines[0] or "two runs per task" not in lines[0]:
+            fail("llms.txt commercial Agent Test entry must name the cloud agent and two runs per task")
+        if any(old in lines[0] for old in ("Perplexity Computer", "two agents", "both agents")):
+            fail("llms.txt commercial Agent Test entry has superseded agent scope")
 
 if problems:
     print("Build verification failed:")
