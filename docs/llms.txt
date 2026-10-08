@@ -43,6 +43,21 @@ Prompt classes are never blended: no Audit or program question names any brand, 
 Your data leaves with you: the question set, citation logs, observed answers and reports belong to the client, returned in an open, machine-readable format within five business days of the request and at no charge if the engagement ends, for any reason.
 The published account: where a reduced rate is agreed it is a trade rather than a discount, exchanged for a published account of the work stating what was measured, what was changed and what moved. Published only with the client's explicit written approval.
 
+## Fix Sprint, pay when named (8 October 2026)
+
+Fix Sprint, pay when named. Order for $0. We save your card and charge nothing. We run your Category Audit if you do not have one, fix what the record shows, and on day 30 we re-measure the same 150 answers under the published method. If your company is named in more of them than at the baseline, we charge $2,900 ($2,410 if you paid for the Audit). If it is not, we charge nothing and the work stays yours. Every figure comes from the published method.
+
+Nothing is charged on day 30. Our day 30 result email gives you five business days to request one no-cost re-run. If you do not request it, we charge on business day six only if the named count is greater than the baseline. If you request it, the re-run decides and no charge occurs before that result or the end of the request window. Business days are Monday through Friday, in Bloomington, Indiana time. The email and your account show the exact deadline.
+
+Pay-when-named re-measure: day 30 after Sprint delivery, same 10 questions, same five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three runs, 150 answers, named count compared with the Audit baseline, recorded as an observation under method v1.1; one no-cost re-run on request.
+
+Eligibility: baseline below 150 of 150; one pay-when-named Sprint per company in twelve months. A paid Category Audit credit applies once within 30 days of its delivery. The existing Fix Sprint description and refund terms elsewhere in this file describe the upfront option, which remains available beside this one. Partner commission posts only when the fee is collected.
+
+Order: https://broadcastwell.com/buy/fix-sprint-pay-when-named
+Both options: https://broadcastwell.com/fix-sprint
+Terms: https://broadcastwell.com/terms
+Every figure comes from the published method: https://broadcastwell.com/methodology
+
 ## Offer record, corrected 28 September 2026
 
 Authoritative current offer record: https://broadcastwell.com/company-facts. Legal master: https://broadcastwell.com/terms.
