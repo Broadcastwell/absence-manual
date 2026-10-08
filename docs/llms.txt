@@ -83,7 +83,7 @@ The Absence Report, the newsletter: https://broadcastwell.com/newsletter. Resear
 - [The Buyer's Checklist](https://broadcastwell.com/buyers-checklist): what the five engines tell buyers to require before the shortlist, and which of a company's differentiators made the list.
 ## Research
 
-- [AI Source Standard v1](https://docs.broadcastwell.com/ai-source-standard): the open specification for recording AI-assisted buyers in forms, CRM and analytics; CC BY 4.0; templates for HubSpot, Salesforce, GA4 and Tag Manager.
+- [AI Source Standard v1](https://docs.broadcastwell.com/ai-source-standard): the open specification for recording AI-assisted buyers in forms, CRM and analytics; CC BY 4.0; templates for HubSpot, Salesforce, GA4 and Tag Manager. Version 1.0, DOI https://doi.org/10.5281/zenodo.23225776.
 - [Broadcastwell's own Proof Page](https://app.broadcastwell.com/proof/broadcastwell): our dated source record, with missing sources labelled not measured and the installation verification state stated; no modelled revenue or implied performance claim.
 
 - [Head to Head, October 2026](https://broadcastwell.com/research/head-to-head): who the engines pick when a buyer asks A or B, from the September 2026 Absence Index deposit; DOI https://doi.org/10.5281/zenodo.23202939. Study 5, 7 Oct 2026: 75 of 359 scored head to head answers named a single winner; all five engines picked the same winner on 1 of 24 questions. PDF: https://docs.broadcastwell.com/assets/research/study5/HEAD_TO_HEAD_REPORT.pdf. CC BY 4.0.
