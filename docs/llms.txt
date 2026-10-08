@@ -242,3 +242,20 @@ The September Index figure (16.1% of 286 vendors, five engines, three runs) uses
 - [Foundations course](https://app.broadcastwell.com/launchpad/learn): About four hours including assessment, with a useful first exercise in 15 minutes. Open lessons need no account. Completion requires 20/25, all five safety questions, and the structured case. Certificate verification is optional and consented.
 - [Fixed partner agreement v2026-10](https://app.broadcastwell.com/launchpad/agreement): Audit $50; Sprint $290 target less commission already paid on one credited fee; program 10% of new retained cash for first 12 paid months. One-time $100 first and $150 third distinct retained retail customer bonuses. No wholesale or white-label schedule. Seven-calendar-day payout after the product refund condition closes and tax forms are complete, subject to earlier mandatory law. Existing accepted rights remain unchanged.
 - [Launchpad privacy](https://app.broadcastwell.com/launchpad/privacy): Applicant data remains hiring-only. Enrollment, optional email permission, referral approval and public certificate verification are separate choices. New individual referrers working in CA, MA or NJ are held pending lawyer review; Learn stays open.
+
+## Sidebar capture rules, method v1.1 extension, 8 October 2026
+
+These are the prospective rules for Study 8, The Sidebar. Capture begins only after this block and the matching rules at https://broadcastwell.com/methodology#sidebar-capture-rules are served.
+
+The cohort is the 70 Study 6 vendors. Perplexity Comet and Gemini in Chrome are mandatory. ChatGPT Atlas is added only after a capturer confirms a Mac. Copilot in Edge is not included. A person uses their own signed in seat, US English, no memory or personalisation, and a fresh chat for each question with the vendor's own pricing page active. Use the home page only when no pricing page exists and record the exception. No automated capture is permitted.
+
+Q1: Should I buy this? Give me the main reasons for and against.
+Q2: What does it cost, and which alternatives should I compare it with?
+
+One session per vendor, browser and question gives 280 mandatory sessions. Keep the answer verbatim, complete readable screenshots, every cited URL or NONE, actual page URL, UTC time, browser version, capturer initials and notes. Record blocked and declined sessions. Do not retry to select a preferred answer.
+
+Code competitors named; explicit recommendations of a competitor over the vendor; prices stated and whether they match the open vendor page; true, wrong, stale or unverifiable factual statements under the Record rules; vendor, third party, both or no cited sources; and declines and hedges separately. Record the vendor proof URL, quote and read time. Unverifiable statements count as neither correct nor wrong. Two different Broadcastwell analysts review every flagged answer before publication, with both initials, a date and a decision.
+
+Report counts and actual bases before rates, Wilson 95 percent intervals, per browser, category and vendor tables, and category medians. Price correct uses only answers stating a checkable price. Missing observations never become zeros. Disclose shortfalls from 280 and the limits of one primary run per session. These observations describe assistant answers on the stated dates and do not measure vendor quality or establish a lift verdict. Study findings and a DOI are published only after capture validation and the review gate pass.
+
+Any named company may request one no-cost re-run at index@broadcastwell.com; both results are published.
