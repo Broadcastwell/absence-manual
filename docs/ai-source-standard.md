@@ -10,6 +10,8 @@ date_modified: "2026-10-07T00:00:00+00:00"
 
 # AI Source Standard v1
 
+Published release v1.0: [DOI 10.5281/zenodo.23225776](https://doi.org/10.5281/zenodo.23225776). [Release source and templates](https://github.com/Broadcastwell/ai-source-standard/tree/v1.0).
+
 Version 1.0. Specification date: 7 October 2026. Copyright 2026 Broadcastwell LLC. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), attribution to Broadcastwell. Adopt it without asking. This specification and its templates are free.
 
 GA4, Google Tag Manager and Salesforce recipes: **documentation checked; live installation not tested.** Broadcastwell's reference stack uses Framer analytics and HubSpot. Each installation needs its own verification record; local fixture checks do not establish live platform import acceptance.
