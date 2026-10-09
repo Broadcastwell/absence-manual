@@ -162,6 +162,9 @@ html{scroll-padding-top:96px}
 /* The one purchase control: the $490 Category Audit, through the site's /buy switch. */
 .md-typeset a.bw-buy{display:inline-flex;align-items:center;min-height:44px;padding:10px 18px;border:1px solid var(--bw-accent);border-radius:10px;background:var(--bw-accent);color:#FFFFFF!important;font-weight:600;text-decoration:none!important}
 .md-typeset a.bw-buy:hover{background:#1E40AF;border-color:#1E40AF}
+/* Keep the header Audit action primary; the repeated next-step action is outlined. */
+.md-typeset .bw-next-step a.bw-buy{background:transparent;color:var(--bw-accent)!important}
+.md-typeset .bw-next-step a.bw-buy:hover{background:var(--bw-subtle);border-color:var(--bw-accent)}
 .bw-next-step{margin:32px 0;padding:20px;border:1px solid var(--bw-border);border-radius:12px;background:#FFFFFF}
 .bw-next-step h2{margin-top:0}
 .md-typeset .bw-offer-state{color:#101828}
