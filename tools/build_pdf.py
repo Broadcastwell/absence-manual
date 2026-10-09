@@ -103,9 +103,9 @@ def read_order():
     pages = yaml.safe_load((DOCS / ".pages").read_text(encoding="utf-8"))
     order = []
     for entry in pages["nav"]:
-        # Interactive learning companions have their own text downloads. Keep
-        # the existing book mirror focused on its manual chapters and notes.
-        if entry in {"resources.md", "resources"}:
+        # Learning companions and dated research have their own complete downloads.
+        # Keep the existing book mirror focused on its manual chapters and notes.
+        if entry in {"resources.md", "resources", "research"}:
             continue
         if entry == "posts":
             for p in sorted((DOCS / "posts").glob("*.md")):
@@ -169,7 +169,7 @@ def main():
   <h1 class="first">The Absence Manual</h1>
   <div class="sub">A technical manual on AI search visibility for B2B software.</div>
   <div class="meta">
-    Sairam Sivakumar, Broadcastwell<br>
+    Broadcastwell team<br>
     {version_label}<br>
     Built {build_date}<br>
     <br>
