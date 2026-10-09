@@ -2,6 +2,26 @@
 
 > Broadcastwell is an AI search visibility agency for vertical B2B software companies. We measure how often AI engines name a vendor in buyer answers, then build the third-party evidence those answers cite.
 
+
+## Study 6: Wrong About You (9 October 2026)
+
+Prepared by the Broadcastwell team
+
+Answers captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index release 2026-09 (DOI 10.5281/zenodo.22907695). Statements were extracted and classified under the published Record rules and checked against each vendor's own public pages. Every flagged statement is published with its engine, run, question, capture date and the vendor page it was checked against. Team review of the flagged statements is in progress; rows change only if the review changes them, and every change is logged in the public ledger.
+
+118 provisional wrong or stale statements: 113 wrong and 5 stale; 0 analyst verified. 70 vendors in 14 categories, 5346 answers and 2922 engine statements. Wrong or stale among verifiable statements: 118 of 2042 (5.8 percent, 95 percent Wilson interval 4.8 to 6.9). Unverifiable counts as neither right nor wrong. CC BY 4.0.
+
+Study: https://broadcastwell.com/research/wrong-about-you
+Documentation: https://docs.broadcastwell.com/research/study6-wrong-about-you/
+Version DOI: https://doi.org/10.5281/zenodo.23270124
+All versions: https://doi.org/10.5281/zenodo.23270123
+Data and public review ledger: https://github.com/Broadcastwell/wrong-about-you-2026-10
+Correction Desk: https://app.broadcastwell.com/correction-desk
+
+Every figure comes from the published method, v1.1. https://broadcastwell.com/methodology
+
+Any named company may request one no-cost re-run at index@broadcastwell.com; both results are published.
+
 ## Current prices and terms (7 Oct 2026)
 
 This block supersedes any older price or availability line, here or elsewhere. Every offer below is available now. Legal master: https://broadcastwell.com/terms. Price ladder: https://broadcastwell.com/pricing.
@@ -64,7 +84,7 @@ Authoritative current offer record: https://broadcastwell.com/company-facts. Leg
 
 Agency wholesale worked totals: one client $1,000 a month, three clients $1,980 a month, five clients $2,960 a month; each additional client $490 per month.
 
-Partner Network, updated 8 October 2026: two tracks. Referral Partner, for people who introduce and step back, uses the fixed v2026-10 agreement at https://app.broadcastwell.com/launchpad/agreement: Audit $50; Sprint $290 target less commission already paid on one credited fee; program 10% of new retained cash for the first 12 paid months; one-time $100 first and $150 third distinct retained retail customer bonuses; no wholesale or white-label schedule. Strategic Partner, for people who bring the client and stay the relationship contact while our team delivers, uses the fixed v2026-10-SP agreement at https://app.broadcastwell.com/launchpad/agreement/strategic: 50% of the first invoice collected from a referred client, then 20% of every further invoice collected from that client within twelve months of the first collected payment; agency wholesale and white-label reports are not commissionable. Example: a client buys the Fix Sprint directly ($2,900): $1,450. Both tracks pay within seven calendar days after the product refund condition closes and the tax form is complete, subject to earlier mandatory law. Commission is earned only when a referred client pays and the refund window closes. Many partners earn nothing. Figures shown are worked examples, not typical earnings. Apply for the Strategic track at https://app.broadcastwell.com/launchpad/strategic. Existing accepted partner rights remain unchanged.
+Partner Network, updated 9 October 2026: two tracks. Referral Partner, for people who introduce and step back, uses the fixed v2026-10-09 agreement at https://app.broadcastwell.com/launchpad/agreement/current: Audit $50; Sprint $290 target less commission already paid on one credited fee; program 10% of new retained cash for the first 12 paid months; one-time $100 first and $150 third distinct retained retail customer bonuses; no wholesale or white-label schedule. Strategic Partner, for people who bring the client and stay the relationship contact while our team delivers, uses the fixed v2026-10-SP agreement at https://app.broadcastwell.com/launchpad/agreement/strategic: 50% of the first invoice collected from a referred client, then 20% of every further invoice collected from that client within twelve months of the first collected payment; agency wholesale and white-label reports are not commissionable. Example: a client buys the Fix Sprint directly ($2,900): $1,450. Both tracks pay within seven calendar days after the product refund condition closes and the tax form is complete, subject to earlier mandatory law. Commission is earned only when a referred client pays and the refund window closes. Many partners earn nothing. Figures shown are worked examples, not typical earnings. Apply for the Strategic track at https://app.broadcastwell.com/launchpad/strategic. Existing accepted partner rights remain unchanged.
 
 Method v1.1: Claude, ChatGPT, Perplexity, Google AI Overviews and Google AI Mode. 525 scheduled observed answers; adaptive observations are extra and reported separately. AI answers vary, so repeated observations and disagreements are retained. Presence is measured, tone is not. The headline comparison uses the scheduled fixed panel.
 
@@ -72,7 +92,7 @@ Other approved client references: Neurvalis, a past AI visibility baseline follo
 
 Current public proof: three published research papers with DOIs, the fictional Kalvenor SAMPLE DATA at https://app.broadcastwell.com/sample, and the API and fifteen-tool connector for Claude and ChatGPT at https://app.broadcastwell.com/developers. The claimable Absence Index, badges and dispute log are at https://index.broadcastwell.com. Its current data release is 2026-09, published 23 Sep 2026: 286 vendors, 14 categories, 2,095 valid target answers, method v1.1, DOI https://doi.org/10.5281/zenodo.22907695. The August release 2026-08.1 (DOI https://doi.org/10.5281/zenodo.22721962) is historical. Historical research engine counts remain those actually measured.
 
-Broadcastwell is a team of consultants and engineers. Sairam Sivakumar, Founder, is accountable for every order.
+Broadcastwell is a team of consultants and engineers. Priya Nair is the delivery lead.
 
 The Absence Report, the newsletter: https://broadcastwell.com/newsletter. Research PDFs and charts are also served on broadcastwell.com under /files/research/.
 
