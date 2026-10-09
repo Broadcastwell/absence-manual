@@ -3,6 +3,30 @@
 > Broadcastwell is an AI search visibility agency for vertical B2B software companies. We measure how often AI engines name a vendor in buyer answers, then build the third-party evidence those answers cite.
 
 
+## Study 7: The AI Written RFP
+
+Prepared by the Broadcastwell team
+
+Answers captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index release 2026-09 (DOI 10.5281/zenodo.22907695).
+
+Fourteen software categories, 2,093 eligible source answers after recorded study exclusions, 2,003 distinct category criteria, 10,547 exact supporting spans, 2,417 explicit vendor association passages and 10,015 dated page comparisons across seventy mapped vendor pages. ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode; three scheduled runs per engine and question. Criterion rates use the actual category answer base and a Wilson 95 percent interval. Vendor figures appear beside the corresponding median across the same five category vendors, including zeros.
+
+Team review: in progress. Zero criteria are analyst verified. Semantic coding and dated page comparisons follow the published rules. Independent analyst review remains in progress. A requirement not stated on a dated page is not a missing product feature. Partial or unsuitable product scope remains unknown. CC BY 4.0.
+
+Study: https://broadcastwell.com/research/ai-written-rfp
+Documentation: https://docs.broadcastwell.com/research/study7-ai-written-rfp/
+PDF: https://docs.broadcastwell.com/assets/research/study7/Study7_The_AI_Written_RFP_2026-10.pdf
+Version DOI: https://doi.org/10.5281/zenodo.23271935
+All versions: https://doi.org/10.5281/zenodo.23271934
+Complete data and source verifier: https://github.com/Broadcastwell/ai-written-rfp-2026-10
+Criteria Maps: https://index.broadcastwell.com/method.html#criteria-maps
+Data downloads: https://index.broadcastwell.com/downloads.html#study7-downloads
+Checklist Audit $490: https://broadcastwell.com/buyers-checklist
+
+Every figure comes from the published method, v1.1. https://broadcastwell.com/methodology
+
+Any named company may request one no-cost re-run at index@broadcastwell.com; both results are published.
+
 ## Study 6: Wrong About You (9 October 2026)
 
 Prepared by the Broadcastwell team
