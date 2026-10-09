@@ -16,7 +16,9 @@ is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
 
 The Absence Manual is a technical manual on AI search visibility for B2B software: how to measure how often an AI answer names your company, how to read what that measurement does and does not tell you, and what the evidence actually supports doing about it. Every finding in it is drawn from three already-published studies with DOIs, open data and open analysis code. It is free, ungated and permanently online. There is no form, no login, no paywall and no email field anywhere on this site, because an AI crawler issues a plain HTTP request and cannot fill in a form. A gated manual about citability would refute itself.
 
-**Author.** [Sairam Sivakumar, Broadcastwell](https://broadcastwell.com/about).
+**Author.** [Broadcastwell team](https://broadcastwell.com/about).
+
+*Version 1.0, August 2026.*
 
 > **Operator disclosure.** Broadcastwell ran this measurement and sells services in the category it measures. Broadcastwell is excluded from the measured sample and from every ranking. The mitigation is not that the conflict is absent, it is that the raw data and the code are public and the result can be recomputed by anyone who disagrees.
 
@@ -138,5 +140,3 @@ Short standalone pieces cut from the chapters, each linking back to its parent.
 ## Licence and status
 
 Prose and figures are published under CC BY 4.0. The site code is MIT. Nothing here has been through academic peer review: it is measurement published with the data and code that produced it, and the standing invitation is to recompute any figure you doubt from the public files and publish what you get. The dated research record and collection designs remain available in the published source files. Compare observations only with their collection dates and run structures attached; a change in run count changes the evidence base.
-
-*Version 1.0, August 2026.*

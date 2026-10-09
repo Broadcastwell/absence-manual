@@ -73,7 +73,7 @@ Zatuchin, D. (2026). Who Owns the AI Recommendation? arXiv:2606.23057. Dataset r
 
 ## Attribution
 
-Sivakumar, S. (2026). The Absence Manual. Broadcastwell. [docs.broadcastwell.com](https://docs.broadcastwell.com/)
+Broadcastwell team. (2026). The Absence Manual. Broadcastwell. [docs.broadcastwell.com](https://docs.broadcastwell.com/)
 
 ## Sources
 
@@ -81,7 +81,7 @@ The volume identifiers and citation formats are from the published Zenodo record
 
 ## About this manual
 
-**Author.** Sairam Sivakumar, Broadcastwell.
+**Author.** Broadcastwell team.
 
 **Operator disclosure.** Broadcastwell ran this measurement and sells services in the category it measures. Broadcastwell is excluded from the measured sample and from every ranking. The mitigation is not that the conflict is absent, it is that the raw data and the code are public and the result can be recomputed by anyone who disagrees.
 

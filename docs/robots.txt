@@ -1,7 +1,7 @@
 # The Absence Manual, docs.broadcastwell.com
 # Everything here is free, ungated and open to crawlers, including AI crawlers.
 # There is no form, no login and no paywall anywhere on this site.
-# Prose and figures are CC BY 4.0. Attribution: Sairam Sivakumar, Broadcastwell.
+# Prose and figures are CC BY 4.0. Attribution: Broadcastwell team.
 
 User-agent: OAI-SearchBot
 Allow: /

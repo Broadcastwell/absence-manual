@@ -106,7 +106,7 @@ Volume I supplies the 2.05 vendors per answer, the 20% median, the 35% zero rate
 
 ## About this manual
 
-**Author.** Sairam Sivakumar, Broadcastwell.
+**Author.** Broadcastwell team.
 
 **Operator disclosure.** Broadcastwell ran this measurement and sells services in the category it measures. Broadcastwell is excluded from the measured sample and from every ranking. The mitigation is not that the conflict is absent, it is that the raw data and the code are public and the result can be recomputed by anyone who disagrees.
 
