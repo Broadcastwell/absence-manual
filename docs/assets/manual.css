@@ -73,6 +73,18 @@ body { background: #F7F9FC; font-family: Inter, sans-serif; }
 .md-search__input::placeholder { color: #667085; }
 .md-search-result__meta { color: #667085; }
 .md-search-result__article { background: #F7F9FC; }
+/* Keep the expanded desktop search inside the viewport without moving the header. */
+@media screen and (min-width: 60em) {
+  [data-md-toggle="search"]:checked ~ .bw-header .md-search { min-width: 11.7rem; }
+  [data-md-toggle="search"]:checked ~ .bw-header .md-search__inner {
+    position: fixed;
+    top: 12px;
+    left: auto;
+    right: 16px;
+    max-width: calc(100vw - 32px);
+    float: none;
+  }
+}
 .md-footer { margin-top: 5rem; background: #F7F9FC; }
 .md-footer-meta { background: #F7F9FC; color: #667085; }
 .md-footer-meta a { color: #3B82F6; }
