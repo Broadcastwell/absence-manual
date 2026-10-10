@@ -60,6 +60,11 @@ body { background: #F7F9FC; font-family: Inter, sans-serif; }
 .md-typeset .admonition, .md-typeset details { background: #EFF4FB; border-color: #3B82F6; color: #475467; }
 .md-typeset .admonition-title, .md-typeset summary { background: #EFF4FB; color: #101828; }
 .md-sidebar { font-size: .75rem; }
+/* Material's desktop height: 0 lets sticky children paint beyond the main
+   reading container. Include their actual height so they stop before the footer.
+   Keep the smaller-screen fixed navigation drawer unchanged. */
+@media screen and (min-width: 60em) { .md-sidebar--secondary { height: auto; } }
+@media screen and (min-width: 76.25em) { .md-sidebar--primary { height: auto; } }
 .md-sidebar--primary .md-nav__title { background: #EFF4FB; color: #101828; box-shadow: none; }
 .md-nav__link { color: #667085; }
 .md-nav__item .md-nav__link--active { color: #3B82F6; font-weight: 700; }
