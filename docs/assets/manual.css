@@ -78,6 +78,7 @@ body { background: #F7F9FC; font-family: Inter, sans-serif; }
   [data-md-toggle="search"]:checked ~ .bw-header .md-search { min-width: 11.7rem; }
   [data-md-toggle="search"]:checked ~ .bw-header .md-search__inner {
     position: fixed;
+    z-index: 2;
     top: 12px;
     left: auto;
     right: 16px;
