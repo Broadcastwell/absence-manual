@@ -1,4 +1,4 @@
-# Limitations and pricing explanation — reusable implementation brief
+# Limitations and pricing explanation: reusable implementation brief
 
 Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
 
@@ -16,7 +16,7 @@ Edition/region/date; included and excluded; prerequisites; current approved pric
 
 ## Original fictional draft
 
-Synthetic learning example — not a client result or live AI measurement.
+Synthetic learning example: not a client result or live AI measurement.
 
 In this fictional catalogue, BridgeKit export requires Team edition and a separate connector account. This exercise provides no price, discount, guarantee, implementation allowance or activation time. Confirm those terms in the current approved commercial record before deciding.
 

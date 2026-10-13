@@ -1,6 +1,6 @@
-# Synthetic Category Audit — Northstar Lab
+# Synthetic Category Audit: Northstar Lab
 
-**Synthetic learning example — not a client result or live AI measurement.** Prepared 2026-09-24; version bw-content-2026-09-24-v1. No client, live engine, payment or delivered engagement is represented. Scenario timestamps are authored fixture metadata.
+**Synthetic learning example: not a client result or live AI measurement.** Prepared 2026-09-24; version bw-content-2026-09-24-v1. No client, live engine, payment or delivered engagement is represented. Scenario timestamps are authored fixture metadata.
 
 ## Executive decision
 
@@ -24,7 +24,7 @@ Finding F-03: DEMO-PAGE-03 uses the former name as current, while DEMO-FACT-03 d
 
 ## Three implementation-ready proposals
 
-## DEMO-WO-01 — Clarify third-party integration scope (P1)
+## DEMO-WO-01: Clarify third-party integration scope (P1)
 
 Direct contradiction could misstate compatibility and edition fit.
 
@@ -50,7 +50,7 @@ Affected fixture URL: https://example.com/demo/integrations/atlas. Evidence: DEM
 
 **Rollback:** Restore only the changed paragraph from the owner-recorded previous page revision. Preserve legitimate unrelated changes.
 
-## DEMO-WO-02 — State edition and account prerequisites (P2)
+## DEMO-WO-02: State edition and account prerequisites (P2)
 
 Missing prerequisites can leave an evaluator unable to assess edition fit; no contradictory price is established.
 
@@ -75,7 +75,7 @@ Affected fixture URL: https://example.com/demo/editions. Evidence: DEMO-PAGE-02,
 
 **Rollback:** Revert the bounded explanatory block using the recorded prior page revision.
 
-## DEMO-WO-03 — Prepare a current-name correction (P3)
+## DEMO-WO-03: Prepare a current-name correction (P3)
 
 Independent listing name conflict is supported, but a third-party change depends on its owner.
 

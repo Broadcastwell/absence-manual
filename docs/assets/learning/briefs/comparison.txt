@@ -1,4 +1,4 @@
-# Comparison page — reusable implementation brief
+# Comparison page: reusable implementation brief
 
 Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
 
@@ -16,7 +16,7 @@ Products, editions, region and date; buyer needs; supported dimensions; tradeoff
 
 ## Original fictional draft
 
-Synthetic learning example — not a client result or live AI measurement.
+Synthetic learning example: not a client result or live AI measurement.
 
 Northstar Lab uses third-party BridgeKit export on Team edition. Harbor Notes (fictional) connector support is not verified in this exercise. If native connectivity is essential, confirm fit before choosing.
 

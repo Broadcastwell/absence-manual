@@ -114,15 +114,15 @@ If you are not going to read a technical manual, start with [what AI search is d
 
 ## If you want this run for your category
 
-Current prices and terms, 5 October 2026. Every offer below is available now.
+Current prices and terms, 13 October 2026. Every offer below is available now.
 
-The [free 10-question check](https://audit.broadcastwell.com): ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter that addresses it.
+The [free 10 question check](https://audit.broadcastwell.com): ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter that addresses it.
 
-**Category Audit, $490 once.** One category, ten buyer questions, five engines, three measured runs. Who is named instead of you with counts, which of the ten questions you lose, the sources cited in those answers, a crawler access check, three prioritized fixes, receipts, a CMO summary and a finance memo. Findings within 48 hours of your category confirmation. The $490 credits once against the $2,900 Fix Sprint within 30 days of delivery, so the Sprint is $2,410. Refundable in full within 30 days of delivery.
+**Category Audit, $490 once.** One category, ten buyer questions, five engines, three measured runs. Who is named instead of you with counts, which of the ten questions you lose, the sources cited in those answers, a crawler access check, three prioritized fixes, receipts, a CMO summary and a finance memo. Findings within 48 hours of your category confirmation. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410. Refundable in full within 30 days of delivery.
 
 [Get the Category Audit, $490](https://broadcastwell.com/buy/audit){ .bw-buy }
 
-**Fix Sprint, $2,900 over 30 days.** Thirty days of the first fixes, available directly or after a $490 Category Audit. The $490 credits once against the $2,900 Fix Sprint within 30 days of delivery, so the Sprint is $2,410. Terms at [broadcastwell.com/fix-sprint](https://broadcastwell.com/fix-sprint).
+**Fix Sprint, $2,900 over 30 days.** Thirty days of the first fixes, available directly or after a $490 Category Audit. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410. Terms at [broadcastwell.com/fix-sprint](https://broadcastwell.com/fix-sprint).
 
 **The program, $13,500 per 90 days, billed $4,500 monthly.** A 90 day initial term, then month to month. Booked by a call at [broadcastwell.com/contact](https://broadcastwell.com/contact).
 
