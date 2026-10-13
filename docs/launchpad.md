@@ -6,7 +6,7 @@ resource_date: "October 2026"
 page_class: page
 schema_type: Article
 date_published: "2026-10-04T05:00:00Z"
-date_modified: "2026-10-04T05:50:00Z"
+date_modified: "2026-10-13T19:10:00Z"
 ---
 
 # Broadcastwell Launchpad
@@ -29,7 +29,7 @@ Joining, declining, completing or leaving Launchpad, making referrals, generatin
 ## Read the complete terms
 
 - [Launchpad overview](https://broadcastwell.com/launchpad)
-- [Fixed partner agreement and refund conditions](https://app.broadcastwell.com/launchpad/agreement)
+- [Current Referral Partner agreement and refund conditions](https://app.broadcastwell.com/launchpad/agreement/current)
 - [45-minute safety briefing](https://app.broadcastwell.com/launchpad/briefing)
 - [Disclosure guide](https://app.broadcastwell.com/launchpad/disclosures)
 - [22-slide orientation PDF](https://app.broadcastwell.com/launchpad/orientation.pdf)
