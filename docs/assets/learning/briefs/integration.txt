@@ -1,4 +1,4 @@
-# Integration explanation — reusable implementation brief
+# Integration explanation: reusable implementation brief
 
 Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
 
@@ -16,7 +16,7 @@ Supported products/versions; native versus third-party/custom; prerequisites; se
 
 ## Original fictional draft
 
-Synthetic learning example — not a client result or live AI measurement.
+Synthetic learning example: not a client result or live AI measurement.
 
 Export to fictional Atlas Analytics through the third-party BridgeKit connector. Requires Team edition and a separately configured connector account. Setup sequence and support responsibility require technical confirmation; no activation time is promised.
 

@@ -1,5 +1,5 @@
 {
-  "sample_label": "Synthetic learning example — not a client result or live AI measurement. Dates are fictional scenario times, not events that have occurred.",
+  "sample_label": "Synthetic learning example: not a client result or live AI measurement. Dates are fictional scenario times, not events that have occurred.",
   "is_synthetic": true,
   "baseline": [
     {

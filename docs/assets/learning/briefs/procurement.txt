@@ -1,4 +1,4 @@
-# Procurement summary — reusable implementation brief
+# Procurement summary: reusable implementation brief
 
 Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
 
@@ -16,7 +16,7 @@ Product scope; deployment; integration prerequisites; data responsibilities; app
 
 ## Original fictional draft
 
-Synthetic learning example — not a client result or live AI measurement.
+Synthetic learning example: not a client result or live AI measurement.
 
 The fictional exercise documents connector type and edition prerequisites only. Security certifications, data residency, retention, subprocessors, service levels and contractual terms are not supplied. Mark them pending evidence and identify the accountable reviewer before procurement proceeds.
 

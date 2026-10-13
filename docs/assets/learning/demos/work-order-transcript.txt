@@ -1,6 +1,6 @@
-# Turn a finding into a work order — demonstration transcript
+# Turn a finding into a work order: demonstration transcript
 
-Synthetic learning example — not a client result or live AI measurement. This is an interactive captioned guided demonstration, not a recording of a live client account.
+Synthetic learning example: not a client result or live AI measurement. This is an interactive captioned guided demonstration, not a recording of a live client account.
 
 ## Step 1: Start with independent evidence
 

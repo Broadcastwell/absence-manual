@@ -1,6 +1,6 @@
-# Read a receipt — demonstration transcript
+# Read a receipt: demonstration transcript
 
-Synthetic learning example — not a client result or live AI measurement. This is an interactive captioned guided demonstration, not a recording of a live client account.
+Synthetic learning example: not a client result or live AI measurement. This is an interactive captioned guided demonstration, not a recording of a live client account.
 
 ## Step 1: Preserve the observation
 

@@ -50,7 +50,7 @@ RETIRED_OFFER_TEXT = [
 # $990 AI Visibility Diagnostic is retired and the AI Fact Check is removed. None of the words
 # below may reach a reader: page text, buttons, alt text, meta, JSON-LD, llms.txt, the search
 # index, the learning downloads and the PDFs this site serves.
-CREDIT_LINE = "The $490 credits once against the $2,900 Fix Sprint within 30 days of delivery, so the Sprint is $2,410."
+CREDIT_LINE = "The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410."
 AUDIT_PROMISE = "Findings within 48 hours of your category confirmation"
 AVAILABILITY_WORDS = re.compile(
     r"(?i)\bpaused\b|\bpause\b|\bpilot\b|\bclosed\b|not currently offered|\bnot open\b|\breopens?\b"
@@ -412,7 +412,7 @@ else:
         if retired in body:
             fail("llms.txt still says %r" % retired)
     if CREDIT_LINE not in body:
-        fail("llms.txt does not carry the credit line exactly as ruled on 5 October 2026")
+        fail("llms.txt does not carry the credit line exactly as ruled on 12 October 2026")
     if AUDIT_PROMISE not in body:
         fail("llms.txt does not carry the Category Audit promise %r" % AUDIT_PROMISE)
     for required in (

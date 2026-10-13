@@ -1,6 +1,6 @@
 {
   "version": "synthetic-questions-v1",
-  "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+  "sample_label": "Synthetic learning example: not a client result or live AI measurement.",
   "is_synthetic": true,
   "scope_approved": false,
   "reviewer": null,

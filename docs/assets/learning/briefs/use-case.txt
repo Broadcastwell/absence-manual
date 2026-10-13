@@ -1,4 +1,4 @@
-# Use-case page — reusable implementation brief
+# Use-case page: reusable implementation brief
 
 Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
 
@@ -16,7 +16,7 @@ User and context; starting input; workflow steps; supported capabilities; human 
 
 ## Original fictional draft
 
-Synthetic learning example — not a client result or live AI measurement.
+Synthetic learning example: not a client result or live AI measurement.
 
 Synthetic scenario: a laboratory evaluator reviews a formulation version, confirms approval, prepares a permitted export and checks it in an analysis workflow. This illustration does not establish that Northstar Lab performs any unapproved step. Confirm each capability against current product evidence.
 

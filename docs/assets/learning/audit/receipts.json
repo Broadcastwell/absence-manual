@@ -2,7 +2,7 @@
   {
     "id": "DEMO-RECEIPT-001",
     "is_synthetic": true,
-    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "sample_label": "Synthetic learning example: not a client result or live AI measurement.",
     "observation_id": "DEMO-OBS-001",
     "question": "What prerequisites matter when exporting formulation records to an analysis tool?",
     "text": "Northstar Lab has a connector-based export; verify edition requirements.",
@@ -14,7 +14,7 @@
   {
     "id": "DEMO-RECEIPT-002",
     "is_synthetic": true,
-    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "sample_label": "Synthetic learning example: not a client result or live AI measurement.",
     "observation_id": "DEMO-OBS-002",
     "question": "What data should a laboratory inspect before migrating formulation records?",
     "text": "Inspect record identifiers, field mappings and permissions before planning migration.",
@@ -24,7 +24,7 @@
   {
     "id": "DEMO-RECEIPT-006",
     "is_synthetic": true,
-    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "sample_label": "Synthetic learning example: not a client result or live AI measurement.",
     "observation_id": "DEMO-OBS-006",
     "question": "What limitations matter when a laboratory needs work without a connection?",
     "text": "Inspect the documented offline limitations before choosing an option.",

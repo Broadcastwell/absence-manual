@@ -1,4 +1,4 @@
-# Migration planning page — reusable implementation brief
+# Migration planning page: reusable implementation brief
 
 Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
 
@@ -16,7 +16,7 @@ Inputs; source/target versions; mapping; validation; responsibilities; cutover g
 
 ## Original fictional draft
 
-Synthetic learning example — not a client result or live AI measurement.
+Synthetic learning example: not a client result or live AI measurement.
 
 For the fictional record migration, first inventory permitted fields and record IDs, agree a mapping, test a small synthetic sample, compare record counts and meaning, and obtain a go/no-go decision before any real cutover. Keep the original source available until the authorized owner accepts validation.
 

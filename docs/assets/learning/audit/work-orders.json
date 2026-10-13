@@ -3,7 +3,7 @@
     "work_order_id": "DEMO-WO-01",
     "tenant_id": "synthetic-example-tenant",
     "is_synthetic": true,
-    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "sample_label": "Synthetic learning example: not a client result or live AI measurement.",
     "title": "Clarify third-party integration scope",
     "status": "draft",
     "evidence_refs": [
@@ -33,7 +33,7 @@
     "work_order_id": "DEMO-WO-02",
     "tenant_id": "synthetic-example-tenant",
     "is_synthetic": true,
-    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "sample_label": "Synthetic learning example: not a client result or live AI measurement.",
     "title": "State edition and account prerequisites",
     "status": "draft",
     "evidence_refs": [
@@ -61,7 +61,7 @@
     "work_order_id": "DEMO-WO-03",
     "tenant_id": "synthetic-example-tenant",
     "is_synthetic": true,
-    "sample_label": "Synthetic learning example — not a client result or live AI measurement.",
+    "sample_label": "Synthetic learning example: not a client result or live AI measurement.",
     "title": "Prepare a current-name correction",
     "status": "draft",
     "evidence_refs": [
