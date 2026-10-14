@@ -3,6 +3,14 @@
 > Broadcastwell is a B2B AI visibility company for vertical software companies. We measure how often AI engines name a vendor in buyer answers, then build the third-party evidence those answers cite.
 
 
+## AI search visibility guides (14 October 2026)
+
+- [AI search visibility agencies for B2B software](https://broadcastwell.com/ai-search-visibility-agencies-b2b-software): How to choose an AI search visibility agency for a B2B software company, and how Broadcastwell measures what five engines say about you.
+- [AI search visibility for mid sized B2B software companies](https://broadcastwell.com/ai-search-visibility-agencies-mid-sized-companies): What a mid sized B2B software company should expect from an AI search visibility agency: the measure, the evidence, the price and the timing.
+- [AI search visibility work an operations leader can run](https://broadcastwell.com/ai-search-visibility-for-operations-leaders): How Broadcastwell runs AI search visibility work for an operations leader: a fixed scope, owners and done checks, receipts and a dated review.
+- [How to choose an AI search visibility agency](https://broadcastwell.com/how-to-choose-an-ai-search-visibility-agency): Six checks before you hire an AI search visibility agency: the engines, the base, the evidence, the exclusions, the measures and the pass rule.
+- [Compare AI search visibility agencies before you sign](https://broadcastwell.com/compare-ai-search-visibility-agencies-before-signing): What to compare in an AI search visibility contract: scope, price, refund, the day 30 test and what is never guaranteed.
+
 ## Study 7: The AI Written RFP
 
 Prepared by the Broadcastwell team
