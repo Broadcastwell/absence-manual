@@ -29,6 +29,11 @@ jobs:
         run: sudo apt-get update -qq && sudo apt-get install -y -qq libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz0b
       - name: Install pinned dependencies
         run: pip install -r requirements.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Verify shared chrome and responsive disclosure behavior
+        run: node --test tests/site-chrome.test.mjs tests/manual-controls.test.mjs
       - name: Build site
         run: mkdocs build
       - name: Build the ungated PDF mirror from the same source

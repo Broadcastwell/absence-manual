@@ -39,6 +39,11 @@ extra:
 extra_css:
   - assets/manual.css
   - assets/learning.css
+  - assets/site-chrome.css
+
+extra_javascript:
+  - assets/manual-controls.js
+  - assets/site-chrome.js
 
 markdown_extensions:
   - toc:
