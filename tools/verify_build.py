@@ -30,6 +30,7 @@ EN_DASH = "–"
 DOUBLE_HYPHEN = "-" + "-"
 BANNED_DASH_ENTITIES = re.compile(r"&(mdash|ndash|#8211|#8212);", re.I)
 APPROVED_PALETTE = {
+    "#E3E8EF", "#2C3036", "#434A55",
     # Light theme values, still used by the PDF and by the light social card.
     "#111827", "#475569", "#64748B", "#94A3B8", "#BFDBFE",
     "#1D4ED8", "#3B82F6", "#EFF6FF", "#FFFFFF",
@@ -254,6 +255,7 @@ for src in sorted(DOCS.rglob("*.md")):
 
 for asset in [
     DOCS / "assets" / "manual.css",
+    DOCS / "assets" / "site-chrome.css",
     DOCS / "assets" / "absence-manual-2026-08.svg",
     DOCS / "assets" / "absence-manual-2026-09.svg",
 ]:
@@ -268,21 +270,15 @@ for asset in [
 
 # ---------- the shared shell's own rules ----------
 
-shell_css = (DOCS / "assets" / "manual.css").read_text(encoding="utf8")
-for rule in [".bw-shell-pill {", ".bw-shell-menu summary {", ".bw-shell-menu-panel a {"]:
+shell_css = (DOCS / "assets" / "site-chrome.css").read_text(encoding="utf8")
+for rule in [".bw-shared-audit {", ".bw-shared-menu>summary {", ".bw-shared-menu>nav>a {"]:
     at = shell_css.find(rule)
-    if at < 0 or "min-height: 44px" not in shell_css[at:shell_css.find("}", at)]:
+    if at < 0 or "min-height:44px" not in shell_css[at:shell_css.find("}", at)]:
         fail("%s must clear 44 px" % rule)
-if ".bw-shell-nav { display: none; }" not in shell_css:
-    fail("the text links must collapse at phone widths")
-if ".bw-shell-menu { display: block;" not in shell_css:
-    fail("a disclosure must take their place at phone widths")
-if re.search(r"\.bw-shell-pill \{ display: none", shell_css):
-    fail("the pill must stay visible at phone widths")
-if ".bw-shell-columns { grid-template-columns: 1fr;" not in shell_css:
-    fail("the footer columns must stack below 640")
-if re.search(r"text-transform:\s*uppercase", shell_css, re.I):
-    fail("no label may be set in capitals")
+if "@media(max-width:809px)" not in shell_css or "grid-template-columns:repeat(5,minmax(0,1fr))" not in shell_css:
+    fail("footer requires mobile disclosure and five desktop columns")
+if "background:transparent" not in shell_css[shell_css.find(".bw-shared-audit {"):shell_css.find(".bw-shared-audit:hover")]:
+    fail("header Audit action must be outlined")
 
 # ---------- per page checks ----------
 
@@ -334,23 +330,30 @@ for rel, cls in sorted(manifest.items()):
     head = html[html.find("<header"):html.find("</header>")]
     foot = html[html.rfind("<footer"):html.rfind("</footer>")]
     for needed in [
-        'class="bw-wordmark" href="https://broadcastwell.com"',
+        'class="bw-shared-wordmark" href="https://broadcastwell.com/"',
         'href="https://broadcastwell.com/pricing">Pricing<',
         'href="https://app.broadcastwell.com/signin">Sign in<',
-        'class="bw-shell-pill" href="%s" aria-label="Get the Category Audit, $490">' % BUY_AUDIT,
+        'class="bw-shared-audit" href="%s" aria-label="Get the Category Audit, $490">' % BUY_AUDIT,
     ]:
         if needed not in head:
             fail("%s header is missing %s" % (rel, needed))
-    for column in ("Product", "Research", "Company", "Contact"):
+    for column in ("Product", "Research", "Free tools", "Company", "Contact"):
         if (">%s</h2>" % column) not in foot:
             fail("%s footer is missing the %s column" % (rel, column))
-    if "Broadcastwell LLC. Indiana, USA. Copyright 2026." not in foot:
+    if "Copyright 2026 Broadcastwell LLC." not in foot:
         fail("%s footer is missing the bottom bar" % rel)
     for slug in ("privacy", "terms", "cookies"):
         if ('href="https://broadcastwell.com/%s">' % slug) not in foot:
             fail("%s footer is missing the %s link" % (rel, slug))
-    if foot.find("excluded from its own sample") > foot.find("bw-shell-columns"):
+    if foot.find("excluded from its own sample") > foot.find("bw-shared-columns"):
         fail("%s footer does not keep its own disclosure note above the shared columns" % rel)
+    groups = re.findall(r'<details class="bw-shared-group"[^>]*>([\s\S]*?)</details>', foot)
+    if len(groups) != 5 or any(len(re.findall(r"<li>", group)) != 6 for group in groups):
+        fail("%s footer must contain five groups of six links" % rel)
+    if 'href="tel:+18123457272">(812) 345 7272' not in foot or '517 E Kirkwood Ave<br>Bloomington, IN 47408' not in foot:
+        fail("%s footer is missing the public address or phone" % rel)
+    if not re.search(r'<time datetime="\d{4}-\d{2}-\d{2}">', foot):
+        fail("%s footer is missing its publication date" % rel)
     if chr(183) in html:
         fail("%s contains a middle dot" % rel)
     if "buy.stripe.com" in html:
