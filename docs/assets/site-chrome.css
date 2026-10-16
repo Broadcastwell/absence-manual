@@ -107,6 +107,11 @@
 [data-md-toggle="search"]:checked~.bw-header .md-search__icon[for="__search"]{display:flex;align-items:center;justify-content:center;min-width:44px;min-height:44px;cursor:pointer}
 [data-md-toggle="search"]:checked~.bw-header .md-search__icon[for="__search"]:focus-visible{outline:3px solid #1D4ED8;outline-offset:2px}
 .bw-header>.md-search .md-search__inner{position:relative;top:0;right:0;width:min(600px,calc(100vw - 48px));max-width:100%;margin:0}
+/* Material's phone results are absolutely positioned inside this panel. Give
+   the open panel a viewport height so results remain visible and scrollable. */
+@media(max-width:59.9375em){
+  [data-md-toggle="search"]:checked~.bw-header>.md-search .md-search__inner{position:fixed;inset:0;width:100vw;max-width:none;height:100vh;height:100dvh}
+}
 .bw-document-pagination{display:flex;justify-content:space-between;gap:24px;padding:32px 24px;max-width:1200px;margin:0 auto}
 .bw-document-pagination a{font:500 15px/1.5 Inter,sans-serif;color:#1D4ED8;max-width:48%;overflow-wrap:anywhere}
 @media(min-width:76.25em){.bw-document-tools [data-manual-toggle="__drawer"]{display:none}}
