@@ -333,7 +333,7 @@ for rel, cls in sorted(manifest.items()):
         'class="bw-shared-wordmark" href="https://broadcastwell.com/"',
         'href="https://broadcastwell.com/pricing">Pricing<',
         'href="https://app.broadcastwell.com/signin">Sign in<',
-        'class="bw-shared-audit" href="%s" aria-label="Get the Category Audit, $490">' % BUY_AUDIT,
+        'class="bw-shared-audit" href="%s">' % BUY_AUDIT,
     ]:
         if needed not in head:
             fail("%s header is missing %s" % (rel, needed))
