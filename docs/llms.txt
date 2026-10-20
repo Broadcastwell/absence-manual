@@ -11,6 +11,14 @@
 - [How to choose an AI search visibility agency](https://broadcastwell.com/how-to-choose-an-ai-search-visibility-agency): Six checks before you hire an AI search visibility agency: the engines, the base, the evidence, the exclusions, the measures and the pass rule.
 - [Compare AI search visibility agencies before you sign](https://broadcastwell.com/compare-ai-search-visibility-agencies-before-signing): What to compare in an AI search visibility contract: scope, price, refund, the day 30 test and what is never guaranteed.
 
+## Current public entry points (20 October 2026)
+
+- [Pricing](https://broadcastwell.com/pricing): Category Audit $490 once; Fix Sprint $2,900 upfront or $0 at order under its conditional payment terms; program $13,500 per 90 days, billed $4,500 monthly; white-label Category Audit $490 per client report and monthly agency wholesale from $1,000 for the first client, then $490 per additional client.
+- [More ways to measure](https://broadcastwell.com/free-tools#more-ways-to-measure): The focused-offer directory on our resources page. Agent Test $490; Proof Setup $490; Absence Ads $2,900 for 30 days with separate ad spend; Pre-Call Briefs $490 for ten, with the first brief free for one deal per company; Record Check $490; Checklist Audit $490; Index Brief $190; Second Opinion $490; Portfolio Scan $1,960 for four companies, then $490 per additional company; Remeasure $190 for a delivered order. Every listing links to its scope and ordering page. All listed offers are available.
+- [Category Audit](https://broadcastwell.com/category-audit): Priya Nair, Management Consultant, reviews every Audit. Credited in full against the Fix Sprint within 30 days. Order at https://broadcastwell.com/buy/audit; white-label orders use https://broadcastwell.com/buy/white-label-audit.
+- [Public Fix](https://broadcastwell.com/public-fix): Two runs are live: #0 Broadcastwell, started 14 October 2026, and #1 Vantaa Tax, started 19 October 2026. Watch the runs at https://app.broadcastwell.com/public-fix.
+- [Absence Index](https://broadcastwell.com/absence-index): Current release 2026-09, published 23 September 2026: 14 categories, 286 vendors, 150 planned answers per category on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. DOI 10.5281/zenodo.22907695; all-versions DOI 10.5281/zenodo.22150321.
+
 ## Study 7: The AI Written RFP
 
 Prepared by the Broadcastwell team
@@ -54,7 +62,7 @@ Every figure comes from the published method, v1.1. https://broadcastwell.com/me
 
 Any named company may request one no-cost re-run at index@broadcastwell.com; both results are published.
 
-## Current prices and terms (13 Oct 2026)
+## Current prices and terms (20 Oct 2026)
 
 This block supersedes any older price or availability line, here or elsewhere. Every offer below is available now. Legal master: https://broadcastwell.com/terms. Price ladder: https://broadcastwell.com/pricing.
 
@@ -63,7 +71,7 @@ This block supersedes any older price or availability line, here or elsewhere. E
 - Ask <Vendor>: a read-only connector served for every Fix Sprint and program client at https://app.broadcastwell.com/mcp/vendor/<slug>, answering only from the client's Vendor Facts File. Sample: https://app.broadcastwell.com/mcp/vendor/kalvenor
 - Vendor Facts File v1: an open schema (CC BY 4.0) for the facts a vendor states about itself, hosted at https://<domain>/vendor-facts.json. https://app.broadcastwell.com/standard/vendor-facts
 - Category Audit: $490 once. One category, ten buyer questions, five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three measured runs, 150 planned observations. Findings within 48 hours of your category confirmation. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410. Buy it at https://broadcastwell.com/buy/audit
-- Fix Sprint: $2,900 over 30 days, available directly or after a $490 Category Audit. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410. https://broadcastwell.com/fix-sprint
+- Fix Sprint: thirty days, with two ways to buy: $2,900 upfront, or $0 at order with a saved card and conditional payment under the published pay-when-named terms below. Available directly or after a $490 Category Audit. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410. https://broadcastwell.com/fix-sprint
 - The program: $13,500 per 90 days, billed $4,500 a month, arranged by conversation: https://broadcastwell.com/contact
 - Agency wholesale: $1,000 per client per month for the first client, then $490 per client per month for each additional client. https://broadcastwell.com/for-agencies
 - White-label Category Audit: $490 per agency client report. https://broadcastwell.com/buy/white-label-audit
@@ -75,13 +83,13 @@ This block supersedes any older price or availability line, here or elsewhere. E
 - Checklist Audit: $490 once; 25 answers to five criteria questions captured by hand on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode; the Criteria Table, Differentiator Coverage with 95 percent intervals and the Fix List within three business days of intake; included in the Fix Sprint and the program; agencies $490 per client, white-label; no credit toward other offers; the report records answers on stated dates and promises no inclusion in any requirements, no position, no leads and no revenue.
 - Record Check: $490 once; 25 answers to five fact questions captured by hand on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode; every statement verified against the client's published facts and classed true, wrong, stale or unverifiable; each wrong or stale statement traced to its causing page; the Access Check; Time to AI for three launches; the Correction List within three business days of the fact sheet; included in the Fix Sprint and monthly in the program; agencies $490 per client, white-label; no credit toward other offers; the Record promises no correction, no position, no leads and no revenue. https://broadcastwell.com/set-the-record
 - Refund: a standalone Category Audit is refundable in full, no questions asked, if requested within 30 days of delivery of the findings. Every other refund term is as published at https://broadcastwell.com/terms.
-- Free 10 question check (one engine): ten buyer questions on Perplexity. No email is needed; runs are limited per network and per day, and by the site's daily allowance. https://audit.broadcastwell.com
+- Free 10-question check (one engine): ten buyer questions on Claude, one run. No email is needed; runs are limited per network and per day, and by the site's daily allowance. https://audit.broadcastwell.com
 - Correction Desk: free, one per company domain; a company reports one wrong or stale AI statement about itself and receives the dated record and one correction line within five business days; the Correction Ledger publishes statement type, engine and dates with consent. https://app.broadcastwell.com/correction-desk
 - The one-time offers have no annual contract.
 - Category Exclusive: included with the Fix Sprint and the program at no extra charge. One company per category; the first to sign locks it for the engagement plus 30 days. The Category Audit, white-label reports and every Index service stay open to everyone. Availability check: https://app.broadcastwell.com/exclusive
 - Index Verified: free for every checked vendor on the Absence Index: claim by DNS, badge, Index Brief, one re-run per release, corrections. No payment changes any Index number. https://index.broadcastwell.com/verified/
 
-Free 10 question check (one engine): ten buyer questions for your category on Perplexity, once each. No email is needed; runs are limited per network and per day, and by the site's daily allowance. https://audit.broadcastwell.com
+Free 10-question check (one engine): ten buyer questions for your category on Claude, once each. It reports whether the company was named, who was named instead and which sources were cited. No email is needed; runs are limited per network and per day, and by the site's daily allowance. https://audit.broadcastwell.com
 Category Audit: $490 once. One category, ten buyer questions, five engines, three measured runs. Who is named instead of you with counts, which of the ten questions you lose, the sources cited in those answers, a crawler access check, three prioritized fixes, receipts, a CMO summary and a finance memo. Findings within 48 hours of your category confirmation. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410. Buy it at https://broadcastwell.com/buy/audit A Fix Pack: the Source Map with the asks written, three answer pages ready to publish, your markup, inclusion requests and a 30-day plan.
 Fix Sprint: $2,900 over 30 days, available directly or after a $490 Category Audit. An entity and structured data pass, up to five answer pages or rewrites, a source plan with a prepared submission or correction pack for up to ten third-party sources, a crawler access check, and a day 30 re-measure on the fixed question set. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410. For orders on or after 13 October 2026, the upfront test passes if the named or own domain cited count clears the baseline run variation, or the total wrong or stale statement count is lower. If none passes, we start the full $2,900 refund within five business days, including any credited Audit fee once, without you asking. The three measures, start rule and approval clause below are governed by terms version 2026-10-13-three-rates-v1; earlier orders retain their accepted terms. https://broadcastwell.com/fix-sprint
 The Program: $13,500 per 90 days, billed $4,500 monthly, with a 90 day initial term, then month to month. Booked by a call. Client stories are published only with explicit approval; reviews are optional and never required or incentivized.
@@ -208,11 +216,11 @@ The Absence Report, the newsletter: https://broadcastwell.com/newsletter. Resear
 - [GEO Agencies With Guarantees: Who Puts It in Writing](https://broadcastwell.com/geo-agencies-with-guarantees): We read 47 GEO agencies and AI visibility platforms for a written guarantee. 44 publish no terms a buyer can find. Every term and page, dated.
 - [GEO Agency RFP: 25 Questions and Who Answers Them](https://broadcastwell.com/geo-agency-rfp): 25 questions to ask a GEO agency, and which of ten agencies answer each on their own site. Every Yes linked to its source. Copy, print or download.
 - [Buy GEO Without a Sales Call: Every Self Serve Offer](https://broadcastwell.com/buy-geo-without-a-sales-call): 26 of 92 GEO and AI visibility price records can be paid for without a call. Every offer, what arrives, how fast, refunds and how you pay.
-- [Cheapest way to check if AI names my company](https://broadcastwell.com/cheapest-way-to-check-if-ai-names-my-company): Start free: 10 buyer questions on one engine, no email needed. Then the $490 Category Audit covers 5 engines with 3 runs each.
+- [Cheapest way to check if AI names our company](https://broadcastwell.com/cheapest-way-to-check-if-ai-names-my-company): Start free: 10 buyer questions on one engine, no email needed. Then the $490 Category Audit covers 5 engines with 3 runs each.
 - [Procurement pack | Broadcastwell](https://broadcastwell.com/procurement): Subprocessors, DPA template, security questionnaire (no SOC 2), retention and deletion, method v1.1 and sample receipts. One PDF, no form.
 - [What does an AI visibility audit cost? | Broadcastwell](https://broadcastwell.com/what-does-an-ai-visibility-audit-cost): Published one-time audit prices in USD ranged between $69 and $4,500 on 25 Sep 2026. Each with its source, and what $490 buys at Broadcastwell.
 - [White-label AI visibility reporting for agencies](https://broadcastwell.com/white-label-ai-visibility-reporting-for-agencies): Monthly white-label tools or a finished report per client. Prices checked 25 Sep 2026. Broadcastwell's white-label Audit is $490 per report.
-- [Who can audit how AI describes my software company?](https://broadcastwell.com/who-can-audit-how-ai-describes-my-software-company): Do it yourself, use a tool, hire an agency or buy a measured audit. What each shows, with prices checked 25 Sep 2026. The Category Audit is $490.
+- [Who can audit how AI describes our software company?](https://broadcastwell.com/who-can-audit-how-ai-describes-my-software-company): Do it yourself, use a tool, hire an agency or buy a measured audit. What each shows, with prices checked 25 Sep 2026. The Category Audit is $490.
 
 ## Agency studies
 
@@ -281,7 +289,7 @@ The Absence Report, the newsletter: https://broadcastwell.com/newsletter. Resear
 ## Legal
 
 - [Privacy Notice | Broadcastwell](https://broadcastwell.com/privacy): Broadcastwell LLC privacy notice: information collection, retention, analytics, service providers, and how to make a privacy request.
-- [Terms | Broadcastwell](https://broadcastwell.com/terms): Terms for the Category Audit, the Fix Sprint, the program and the Free 10 question check, including refunds, credits, partner commissions and limitations.
+- [Terms | Broadcastwell](https://broadcastwell.com/terms): Terms for the Category Audit, the Fix Sprint, the program and the Free 10-question check, including refunds, credits, partner commissions and limitations.
 - [Cookie Notice | Broadcastwell](https://broadcastwell.com/cookies): Broadcastwell LLC's cookie notice: functional storage, form submissions, analytics and browser controls.
 
 ## Additional current pages
@@ -324,10 +332,10 @@ The September Index figure (16.1% of 286 vendors, five engines, three runs) uses
 
 These are the prospective rules for Study 8, The Sidebar. Capture begins only after this block and the matching rules at https://broadcastwell.com/methodology#sidebar-capture-rules are served.
 
-The cohort is the 70 Study 6 vendors. Perplexity Comet and Gemini in Chrome are mandatory. ChatGPT Atlas is added only after a capturer confirms a Mac. Copilot in Edge is not included. A person uses their own signed in seat, US English, no memory or personalisation, and a fresh chat for each question with the vendor's own pricing page active. Use the home page only when no pricing page exists and record the exception. No automated capture is permitted.
+The cohort is the 70 Study 6 vendors. Perplexity Comet and Google's conversational AI in Chrome are mandatory. ChatGPT Atlas is added only after a capturer confirms a Mac. Copilot in Edge is not included. A person uses their own signed in seat, US English, no memory or personalisation, and a fresh chat for each question with the vendor's own pricing page active. Use the home page only when no pricing page exists and record the exception. No automated capture is permitted.
 
-Q1: Should I buy this? Give me the main reasons for and against.
-Q2: What does it cost, and which alternatives should I compare it with?
+Question 1, summary: assess the reasons for and against buying.
+Question 2, summary: report the price and alternatives. Exact question wording remains in the published study protocol.
 
 One session per vendor, browser and question gives 280 mandatory sessions. Keep the answer verbatim, complete readable screenshots, every cited URL or NONE, actual page URL, UTC time, browser version, capturer initials and notes. Record blocked and declined sessions. Do not retry to select a preferred answer.
 
@@ -336,3 +344,4 @@ Code competitors named; explicit recommendations of a competitor over the vendor
 Report counts and actual bases before rates, Wilson 95 percent intervals, per browser, category and vendor tables, and category medians. Price correct uses only answers stating a checkable price. Missing observations never become zeros. Disclose shortfalls from 280 and the limits of one primary run per session. These observations describe assistant answers on the stated dates and do not measure vendor quality or establish a lift verdict. Study findings and a DOI are published only after capture validation and the review gate pass.
 
 Any named company may request one no-cost re-run at index@broadcastwell.com; both results are published.
+
