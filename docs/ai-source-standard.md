@@ -1,13 +1,24 @@
 ---
 title: 'AI Source Standard: reading business evidence'
 headline: 'AI source attribution: what a buyer report can establish'
-description: A reader guide to self-reported source, observed referrals and separately
-  evidenced pipeline outcomes. Keep visibility and attribution distinct.
+description: A reader guide to self-reported source, observed referrals and separately evidenced
+  pipeline outcomes. Keep visibility and attribution distinct.
 page_class: page
 schema_type: Article
 date_published: '2026-10-07T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-10-21T00:00:00+00:00'
+faq:
+- question: What does a recorded AI referral establish?
+  answer: A recorded referral supports an observed visit under the analytics record's own
+    scope and limits. It is separate from an answer naming a company, a buyer's account of
+    discovery and a qualified opportunity. Each observation needs its own evidence.
+- question: How should a report present these outcomes?
+  answer: Show answer observations, recorded referrals, buyer self-reports and qualified opportunities
+    separately, each with its date, base and evidence. Missing or unknown information stays
+    missing or unknown. A summary must not turn those separate records into a promised commercial
+    result.
 ---
+
 
 # AI source attribution: what a buyer report can establish
 
@@ -58,3 +69,13 @@ Ask for the definition, base and dated evidence behind each measure. Inspect a c
 ## Original record and further reading
 
 The original v1.0 specification and its licence are preserved in the [published release](https://doi.org/10.5281/zenodo.23225776). Use the [GEO Hub](https://broadcastwell.com/insights), [published measurement definitions](https://broadcastwell.com/methodology) and [citation-reading guide](resources/guides/read-an-answer.md) to connect the evidence without collapsing different results into one score.
+
+## Questions and answers
+
+### What does a recorded AI referral establish?
+
+A recorded referral supports an observed visit under the analytics record's own scope and limits. It is separate from an answer naming a company, a buyer's account of discovery and a qualified opportunity. Each observation needs its own evidence.
+
+### How should a report present these outcomes?
+
+Show answer observations, recorded referrals, buyer self-reports and qualified opportunities separately, each with its date, base and evidence. Missing or unknown information stays missing or unknown. A summary must not turn those separate records into a promised commercial result.
