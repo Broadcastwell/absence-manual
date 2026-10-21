@@ -1,13 +1,16 @@
 ---
-title: "Turn evidence into useful next work."
-headline: "Turn evidence into useful next work."
-description: "Six practical guides, editable worksheets and honest synthetic examples for reviewing AI-answer evidence and planning buyer-facing improvements."
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+title: Turn evidence into useful next work.
+headline: Turn evidence into useful next work.
+description: Six practical guides, editable worksheets and honest synthetic examples
+  for reviewing AI-answer evidence and planning buyer-facing improvements.
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Turn evidence into useful next work.

@@ -1,11 +1,12 @@
 ---
-title: "The three measured rates"
-headline: "Three measured rates, with their counts and denominators"
-description: "How a Category Audit reports named answers, source citations and share of voice separately, with exclusions and classification limits."
+title: The three measured rates
+headline: Three measured rates, with their counts and denominators
+description: How a Category Audit reports named answers, source citations and share
+  of voice separately, with exclusions and classification limits.
 page_class: note
 schema_type: Article
-date_published: "2026-10-13T00:00:00+00:00"
-date_modified: "2026-10-13T00:00:00+00:00"
+date_published: '2026-10-13T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # The three measured rates

@@ -1,15 +1,20 @@
 ---
-title: "Appendix A. The ten-question buyer bank"
-headline: "The ten-question buyer bank: the design rules that make a question bank a valid measurement instrument"
-description: "The question shapes used across the three State of GEO volumes, the coverage requirement each category had to meet, the realised shape mix, and the rules that make a bank fixed, published and checkable."
+title: Appendix A. The ten-question buyer bank
+headline: 'The ten-question buyer bank: the design rules that make a question bank
+  a valid measurement instrument'
+description: The question shapes used across the three State of GEO volumes, the coverage
+  requirement each category had to meet, the realised shape mix, and the rules that
+  make a bank fixed, published and checkable.
 page_class: appendix
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-is_based_on: "https://doi.org/10.5281/zenodo.21789120"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
 
 # Appendix A. The ten-question buyer bank
+
+Question examples on this page are plain-language themes. The linked original research release preserves the exact questions, observation dates and answer records. All study counts refer to the original questions.
 
 Reference material for Chapter 8 at [/valid-measurement/](https://docs.broadcastwell.com/valid-measurement/). This appendix reproduces the question bank design at the level the source volumes publish it, and no deeper.
 

@@ -1,12 +1,16 @@
 ---
-title: "Chapter 8. What a valid measurement requires"
-headline: "What a valid measurement requires: the criteria a buyer should demand before accepting an AI visibility number"
-description: "Six requirements a visibility measurement has to meet before its number means anything: a fixed and published question bank, repeat runs, a named engine set, a deterministic scoring rule, stated denominators, and disclosed exclusions. Plus the failure modes that void a number entirely."
+title: Chapter 8. What a valid measurement requires
+headline: 'What a valid measurement requires: the criteria a buyer should demand before
+  accepting an AI visibility number'
+description: 'Six requirements a visibility measurement has to meet before its number
+  means anything: a fixed and published question bank, repeat runs, a named engine
+  set, a deterministic scoring rule, stated denominators, and disclosed exclusions.
+  Plus the failure modes that void a number entirely.'
 page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-is_based_on: "https://doi.org/10.5281/zenodo.21789120"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
 
 # Chapter 8. What a valid measurement requires

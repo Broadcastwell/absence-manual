@@ -1,13 +1,15 @@
 ---
-title: "Choose ten buyer questions worth investigating"
-headline: "Choose ten buyer questions worth investigating"
-description: "Planning / BW-RESOURCE-03"
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+title: Choose ten buyer questions worth investigating
+headline: Choose ten buyer questions worth investigating
+description: Planning / BW-RESOURCE-03
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Choose ten buyer questions worth investigating

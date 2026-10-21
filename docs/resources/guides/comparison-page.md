@@ -1,13 +1,15 @@
 ---
-title: "Build a comparison page a buyer can trust"
-headline: "Build a comparison page a buyer can trust"
-description: "Implementation / BW-RESOURCE-04"
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+title: Build a comparison page a buyer can trust
+headline: Build a comparison page a buyer can trust
+description: Implementation / BW-RESOURCE-04
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Build a comparison page a buyer can trust

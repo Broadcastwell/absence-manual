@@ -1,12 +1,15 @@
 ---
-title: "Chapter 12. How to buy GEO without getting sold a number"
-headline: "How to buy GEO without getting sold a number: evaluation criteria, the questions to ask, and the case for hiring nobody"
-description: "Twelve questions to put to any supplier of AI search visibility work, what a defensible deliverable contains, how to read a proposal, and the conditions under which the right decision is to hire nobody and do the diagnostic yourself."
+title: Chapter 12. How to buy GEO without getting sold a number
+headline: 'How to buy GEO without getting sold a number: evaluation criteria, the
+  questions to ask, and the case for hiring nobody'
+description: Twelve questions to put to any supplier of AI search visibility work,
+  what a defensible deliverable contains, how to read a proposal, and the conditions
+  under which the right decision is to hire nobody and do the diagnostic yourself.
 page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-is_based_on: "https://doi.org/10.5281/zenodo.21789120"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
 
 # Chapter 12. How to buy GEO without getting sold a number

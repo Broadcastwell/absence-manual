@@ -1,13 +1,15 @@
 ---
-title: "Your brand was missing. What does that actually tell you?"
-headline: "Your brand was missing. What does that actually tell you?"
-description: "Evidence / BW-RESOURCE-02"
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+title: Your brand was missing. What does that actually tell you?
+headline: Your brand was missing. What does that actually tell you?
+description: Evidence / BW-RESOURCE-02
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Your brand was missing. What does that actually tell you?

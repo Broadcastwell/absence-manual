@@ -1,12 +1,16 @@
 ---
-title: "Chapter 10. Getting quoted at the comparison gate"
-headline: "Getting quoted at the comparison gate: what a model needs in order to lift a claim about you into a comparison answer"
-description: "Companies named in seven or more of ten answers lost head-to-head comparisons 68.8% of the time. The second gate is preference against a named rival, and it turns on whether a checkable comparative claim about you exists in a form a model can quote."
+title: Chapter 10. Getting quoted at the comparison gate
+headline: 'Getting quoted at the comparison gate: what a model needs in order to lift
+  a claim about you into a comparison answer'
+description: Companies named in seven or more of ten answers lost head-to-head comparisons
+  68.8% of the time. The second gate is preference against a named rival, and it turns
+  on whether a checkable comparative claim about you exists in a form a model can
+  quote.
 page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-is_based_on: "https://doi.org/10.5281/zenodo.21586091"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+is_based_on: https://doi.org/10.5281/zenodo.21586091
 ---
 
 # Chapter 10. Getting quoted at the comparison gate
@@ -33,7 +37,7 @@ By the end of this chapter you will know what the second gate tests, why it is t
 
 ## The comparison surface is the one that always exists
 
-**Measured, Volume III.** On a separate four-engine collection, Google returned an AI Overview for 47 of 47 comparison questions, a rate of 100%, against 88.8% for best-of questions. **Reasoned.** Comparison questions reliably produce a generated answer. So unlike the category door, where some questions produce no surface at all, the comparison gate is a contest that always takes place. Losing one is losing a contest that happened rather than missing one that did not.
+**Measured, Volume III.** On a separate cross-engine collection, Google returned an AI Overview for 47 of 47 comparison questions, a rate of 100%, against 88.8% for best-of questions. **Reasoned.** Comparison questions reliably produce a generated answer. So unlike the category door, where some questions produce no surface at all, the comparison gate is a contest that always takes place. Losing one is losing a contest that happened rather than missing one that did not.
 
 ## Standard one: a specific named rival appears
 

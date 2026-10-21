@@ -1,13 +1,17 @@
 ---
-title: "Watch the method in action."
-headline: "Watch the method in action."
-description: "Synthetic demonstrations recorded from the local functioning exercises. No client data, live AI measurement, real approval or real delivery is represented. Original silent video with visible captions,"
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+title: Watch the method in action.
+headline: Watch the method in action.
+description: Synthetic demonstrations recorded from the local functioning exercises.
+  No client data, live AI measurement, real approval or real delivery is represented.
+  Original silent video with visible captions,
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Watch the method in action.

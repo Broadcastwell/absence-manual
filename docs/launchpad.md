@@ -1,12 +1,13 @@
 ---
 title: Broadcastwell Launchpad
-description: Free evidence learning, independent referrals and a separate paid-work route.
+description: Free evidence learning, independent referrals and a separate paid-work
+  route.
 learning_resource: true
-resource_date: "October 2026"
+resource_date: October 2026
 page_class: page
 schema_type: Article
-date_published: "2026-10-04T05:00:00Z"
-date_modified: "2026-10-13T19:10:00Z"
+date_published: '2026-10-04T05:00:00Z'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Broadcastwell Launchpad
@@ -22,7 +23,7 @@ Learn how to read AI search evidence and make a useful, bounded recommendation. 
 
 **Refer.** We welcome applications from people who already know suitable B2B software buyers. Approval, a safety step, both signatures on fixed terms and restricted tax/payment onboarding precede activation. Experienced introducers may use a 45-minute safety briefing instead of the full course. Most participants may earn nothing. No fee, purchase, quota, exclusivity, downline or recruiting reward.
 
-**Paid work.** Funded roles have their own selection process on [Careers](https://broadcastwell.com/careers). The six paid samples remain on hold.
+**Paid work.** Funded roles have their own selection process on [Careers](https://broadcastwell.com/careers). The learning and practice material is available now.
 
 Joining, declining, completing or leaving Launchpad, making referrals, generating revenue, or taking part in the Exchange does not affect any application, interview, paid assessment or hiring decision. Learning and referrals create no entitlement or priority for paid work.
 

@@ -1,12 +1,16 @@
 ---
-title: "Chapter 1. One in three vendors is never named"
-headline: "One in three vendors is never named: the size of the absence problem in B2B software"
-description: "Across 860 scored AI answers covering 85 B2B software companies, 35% of companies were named in zero answers for their own category while the median category leader appeared in 80% of its category's answers. This is what the distribution of AI visibility actually looks like."
+title: Chapter 1. One in three vendors is never named
+headline: 'One in three vendors is never named: the size of the absence problem in
+  B2B software'
+description: Across 860 scored AI answers covering 85 B2B software companies, 35%
+  of companies were named in zero answers for their own category while the median
+  category leader appeared in 80% of its category's answers. This is what the distribution
+  of AI visibility actually looks like.
 page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-is_based_on: "https://doi.org/10.5281/zenodo.21537014"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+is_based_on: https://doi.org/10.5281/zenodo.21537014
 ---
 
 # Chapter 1. One in three vendors is never named

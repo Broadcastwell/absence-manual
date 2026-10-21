@@ -1,13 +1,17 @@
 ---
-title: "Inspect the matched receipts."
-headline: "Inspect the matched receipts."
-description: "Authored synthetic example. No live engine, client outcome or real release is represented. October 1, 2026 is a fictional scenario date, not an event that has occurred."
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+title: Inspect the matched receipts.
+headline: Inspect the matched receipts.
+description: Authored synthetic example. No live engine, client outcome or real release
+  is represented. October 1, 2026 is a fictional scenario date, not an event that
+  has occurred.
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Inspect the matched receipts.

@@ -1,13 +1,17 @@
 ---
-title: "Synthetic Category Audit ,  Northstar Lab"
-headline: "Synthetic Category Audit ,  Northstar Lab"
-description: "Synthetic learning example ,  not a client result or live AI measurement. Prepared 2026-09-24; version bw-content-2026-09-24-v1. No client, live engine, payment or delivered engagement is represented. "
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+title: Synthetic Category Audit ,  Northstar Lab
+headline: Synthetic Category Audit ,  Northstar Lab
+description: 'Synthetic learning example ,  not a client result or live AI measurement.
+  Prepared 2026-09-24; version bw-content-2026-09-24-v1. No client, live engine, payment
+  or delivered engagement is represented. '
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Synthetic Category Audit ,  Northstar Lab

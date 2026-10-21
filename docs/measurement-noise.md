@@ -1,13 +1,17 @@
 ---
-title: "Chapter 6. Your Score Is Noisier Than Your Vendor Admits"
-headline: "Your score is noisier than your vendor admits: what an engine's run-to-run variance does to a single-run visibility number"
-description: "Asked the identical question three times, Google AI Overviews agreed with its own shortlist at 0.499 and Claude at 0.442 across 62 and 74 repeat pairs. Any cross-engine divergence headline that is not read against that noise floor is uninterpretable."
+title: Chapter 6. Your Score Is Noisier Than Your Vendor Admits
+headline: 'Your score is noisier than your vendor admits: what an engine''s run-to-run
+  variance does to a single-run visibility number'
+description: Asked the identical question three times, Google AI Overviews agreed
+  with its own shortlist at 0.499 and Claude at 0.442 across 62 and 74 repeat pairs.
+  Any cross-engine divergence headline that is not read against that noise floor is
+  uninterpretable.
 page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-image: "figures/within-vs-between.png"
-is_based_on: "https://doi.org/10.5281/zenodo.21789120"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+image: figures/within-vs-between.png
+is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
 
 # Chapter 6. Your Score Is Noisier Than Your Vendor Admits
@@ -36,7 +40,7 @@ is_based_on: "https://doi.org/10.5281/zenodo.21789120"
 
 ## Why that disclosure is a feature and not an embarrassment
 
-**Measured, Volume III.** The two engines that did not finish were deliberately not refilled. A refill collected in a second window would make every cross-engine pair span two windows, so engine drift between windows would read as engine divergence and inflate the exact quantity the study measures. Staying short was the more honest option. The four-engine intersection is reported at its true size of 18 questions rather than dressed up, and every figure carries the sample it was computed on. **Reasoned.** This disclosure is the reason the chapter can be trusted, not a caveat on it.
+**Measured, Volume III.** The two engines that did not finish were deliberately not refilled. A refill collected in a second window would make every cross-engine pair span two windows, so engine drift between windows would read as engine divergence and inflate the exact quantity the study measures. Staying short was the more honest option. The cross-engine intersection is reported at its true size of 18 questions rather than dressed up, and every figure carries the sample it was computed on. **Reasoned.** This disclosure is the reason the chapter can be trusted, not a caveat on it.
 
 ## The decisive test, reported per engine and never pooled
 

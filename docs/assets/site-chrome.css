@@ -118,3 +118,8 @@
 @media(max-width:809px){.bw-document-tools{gap:8px;flex-wrap:wrap}.bw-document-tools>a{flex-basis:100%;order:-1}}
 
 .md-typeset a,.md-nav__link--active,.md-nav__link:hover,.md-nav__link:focus{color:var(--bw-primary)}
+
+/* Reader actions share the Audit hierarchy and accessible blue contrast. */
+.md-typeset .md-button,.md-typeset .md-button--primary{background:transparent!important;color:#1D4ED8!important;border:1px solid #1D4ED8!important;box-shadow:none!important}
+.md-typeset .bw-next-step a.bw-buy{background:#1D4ED8!important;color:#FFFFFF!important;border:1px solid #1D4ED8!important}
+.bw-editorial-byline{font-size:.8rem;color:#475569;margin-block:2rem}

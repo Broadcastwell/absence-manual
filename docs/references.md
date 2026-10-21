@@ -1,12 +1,15 @@
 ---
-title: "Appendix E. References and research provenance"
-headline: "References and research provenance: every source this manual draws on, and the collection dates and run structures"
-description: "The three source volumes with their version DOIs, the external work cited across the manual with publishers and identifiers, the open flags carried in the repository, and links to the complete dated research record."
+title: Appendix E. References and research provenance
+headline: 'References and research provenance: every source this manual draws on,
+  and the collection dates and run structures'
+description: The three source volumes with their version DOIs, the external work cited
+  across the manual with publishers and identifiers, the open flags carried in the
+  repository, and links to the complete dated research record.
 page_class: appendix
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+is_based_on: https://github.com/Broadcastwell/state-of-geo-2026
 ---
 
 # Appendix E. References and research provenance

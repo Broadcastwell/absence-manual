@@ -1,11 +1,12 @@
 ---
-title: "Vendor Facts File v1"
-headline: "Vendor Facts File v1: the facts a vendor states about itself"
-description: "An open JSON schema for vendor facts, with a complete fictional example, validation instructions and CC BY 4.0 reuse. A facts file is not a ranking signal."
+title: Vendor Facts File v1
+headline: 'Vendor Facts File v1: the facts a vendor states about itself'
+description: An open JSON schema for vendor facts, with a complete fictional example,
+  validation instructions and CC BY 4.0 reuse. A facts file is not a ranking signal.
 page_class: page
 schema_type: Article
-date_published: "2026-10-06T00:00:00+00:00"
-date_modified: "2026-10-06T00:00:00+00:00"
+date_published: '2026-10-06T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Vendor Facts File v1
@@ -71,7 +72,7 @@ Kalvenor is fictional. Every example fact below is illustrative and describes no
     "plans": [
       {
         "name": "Illustrative plan",
-        "price": "SAMPLE DATA: $99",
+        "price": "SAMPLE DATA: see the current product page",
         "billing": "per month, fictional",
         "includes": [
           "Illustrative dispatch board"

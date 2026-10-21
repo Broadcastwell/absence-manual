@@ -1,13 +1,17 @@
 ---
-title: "Chapter 5. One engine is not four"
-headline: "One engine is not four: what a single-engine visibility measurement does and does not generalise to"
-description: "Across 280 buyer questions put to four AI search engines, mean pairwise vendor-set overlap was 0.313 over 590 pair observations, and 14 of 32 measured companies were visible on some engines and invisible on others. A single-engine score measures one engine."
+title: Chapter 5. One engine is not four
+headline: 'One engine is not four: what a single-engine visibility measurement does
+  and does not generalise to'
+description: Across 280 buyer questions put to four AI search engines, mean pairwise
+  vendor-set overlap was 0.313 over 590 pair observations, and 14 of 32 measured companies
+  were visible on some engines and invisible on others. A single-engine score measures
+  one engine.
 page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-image: "figures/jaccard-matrix.png"
-is_based_on: "https://doi.org/10.5281/zenodo.21789120"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+image: figures/jaccard-matrix.png
+is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
 
 # Chapter 5. One engine is not four
@@ -92,7 +96,7 @@ By the end of this chapter you will know how much two AI search engines agree ab
 
 ## Limitation: the collection was interrupted
 
-**Measured, Volume III.** Three of the four API accounts ran out of credit during collection. One was topped up and finished, two were not. The study as executed holds 18 ChatGPT, 280 Claude, 175 Perplexity and 280 Google AI Overviews answers, against 280 planned for each. **Reasoned.** Every ChatGPT pair therefore rests on 18 questions and carries wide uncertainty, and the four-engine intersection is reported at its true size rather than dressed up. Volume III's answer counts do not reconcile across the different tables it publishes, which is recorded as an open flag in this manual and not reconciled here.
+**Measured, Volume III.** Three of the four API accounts ran out of credit during collection. One was topped up and finished, two were not. The study as executed holds 18 ChatGPT, 280 Claude, 175 Perplexity and 280 Google AI Overviews answers, against 280 planned for each. **Reasoned.** Every ChatGPT pair therefore rests on 18 questions and carries wide uncertainty, and the cross-engine intersection is reported at its true size rather than dressed up. Volume III's answer counts do not reconcile across the different tables it publishes, which is recorded as an open flag in this manual and not reconciled here.
 
 ## Limitation: one window, and endpoints rather than apps
 

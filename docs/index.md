@@ -1,13 +1,16 @@
 ---
-title: "The Absence Manual"
-headline: "The Absence Manual: a technical manual on AI search visibility for B2B software"
-description: "A free, ungated technical manual on measuring and fixing AI search visibility, built entirely from three published open datasets with DOIs. One chapter per URL. No form, no login, no paywall."
+title: The Absence Manual
+headline: 'The Absence Manual: a technical manual on AI search visibility for B2B
+  software'
+description: A free, ungated technical manual on measuring and fixing AI search visibility,
+  built entirely from three published open datasets with DOIs. One chapter per URL.
+  No form, no login, no paywall.
 schema_type: TechArticle
 page_class: page
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-10-05T00:00:00+00:00"
-image: "figures/absence-ladder.png"
-is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+image: figures/absence-ladder.png
+is_based_on: https://github.com/Broadcastwell/state-of-geo-2026
 ---
 
 # The Absence Manual
@@ -120,13 +123,13 @@ The [free 10 question check](https://audit.broadcastwell.com): ten buyer questio
 
 **Category Audit, $490 once.** One category, ten buyer questions, five engines, three measured runs. Who is named instead of you with counts, which of the ten questions you lose, the sources cited in those answers, a crawler access check, three prioritized fixes, receipts, a CMO summary and a finance memo. Findings within 48 hours of your category confirmation. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410. Refundable in full within 30 days of delivery.
 
-[Get the Category Audit, $490](https://broadcastwell.com/buy/audit){ .bw-buy }
+[Start with the $490 Category Audit](https://broadcastwell.com/buy/audit){ .bw-buy }
 
 **Fix Sprint, $2,900 over 30 days.** Thirty days of the first fixes, available directly or after a $490 Category Audit. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410. Terms at [broadcastwell.com/fix-sprint](https://broadcastwell.com/fix-sprint).
 
 **The program, $13,500 per 90 days, billed $4,500 monthly.** A 90 day initial term, then month to month. Booked by a call at [broadcastwell.com/contact](https://broadcastwell.com/contact).
 
-Agencies buy the same work wholesale at $1,000 per client per month for the first client and $490 per client per month for each additional client at [broadcastwell.com/for-agencies](https://broadcastwell.com/for-agencies). Three clients are $1,980 a month; five clients are $2,960 a month. A single white-label Category Audit for an agency client is $490 per report. The agency keeps the client relationship and implements the fixes. Every figure comes from the [published method, v1.1](https://broadcastwell.com/methodology). The full ladder is at [broadcastwell.com/pricing](https://broadcastwell.com/pricing). Findings can also be read with your own tools: a read only API, signed webhooks and a connector for Claude and ChatGPT, described at [broadcastwell.com/developers](https://broadcastwell.com/developers).
+Agencies buy the same work wholesale at $1,000 per client per month for the first client and $490 per client per month for each additional client at [broadcastwell.com/for-agencies](https://broadcastwell.com/for-agencies). A single white-label Category Audit for an agency client is $490 per report. The agency keeps the client relationship and implements the fixes. Every figure comes from the [published method, v1.1](https://broadcastwell.com/methodology). The full ladder is at [broadcastwell.com/pricing](https://broadcastwell.com/pricing). Findings can also be read with your own tools: a read only API, signed webhooks and a connector for Claude and ChatGPT, described at [broadcastwell.com/developers](https://broadcastwell.com/developers).
 
 Refund terms depend on the offer. A standalone Category Audit is refundable in full, no questions asked, if requested within 30 days of delivery of the findings. The first month of the program is refundable in full, no questions asked, at any time before month two is invoiced. You do not need to give a reason, and you keep every deliverable produced up to that point. The only exception is third-party costs paid on your behalf, and we tell you about any of those before they are incurred. See the [master refund and proof-gate terms](https://broadcastwell.com/terms).
 

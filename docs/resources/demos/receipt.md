@@ -1,13 +1,15 @@
 ---
-title: "Read a receipt"
-headline: "Read a receipt"
-description: "Captioned guided demonstration / synthetic"
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-10-05T00:00:00+00:00"
+title: Read a receipt
+headline: Read a receipt
+description: Captioned guided demonstration / synthetic
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Read a receipt

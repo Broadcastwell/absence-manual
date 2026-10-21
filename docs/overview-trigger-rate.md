@@ -1,18 +1,36 @@
 ---
-title: "Chapter 7. The AI Overview does not always appear"
-headline: "The AI Overview does not always appear: what a variable trigger rate does to the denominator of a visibility score"
-description: "Google returned an AI Overview for 92.1% of 280 B2B buyer questions, and the rate moved from 88.8% on best-of questions to 100% on comparison questions. A score computed over answers that appeared is not comparable to one computed over questions asked."
+title: Chapter 7. The AI Overview does not always appear
+headline: 'The AI Overview does not always appear: what a variable trigger rate does
+  to the denominator of a visibility score'
+description: Google returned an AI Overview for 92.1% of 280 B2B buyer questions,
+  and the rate moved from 88.8% on best-of questions to 100% on comparison questions.
+  A score computed over answers that appeared is not comparable to one computed over
+  questions asked.
 page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-image: "figures/answer-rate.png"
-is_based_on: "https://doi.org/10.5281/zenodo.21789120"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+image: figures/answer-rate.png
+is_based_on: https://doi.org/10.5281/zenodo.21789120
+faq:
+- question: Why does Google AI Overviews not appear for every search?
+  answer: Google may show an AI Overview when its systems judge that the response
+    adds value. It is not an answer format that appears on every query. Record whether
+    an Overview appeared separately from whether a company was named within it. A
+    missing Overview and an observed answer that omits a company are different outcomes,
+    with different bases. The historical trigger rates below belong to their stated
+    collection window.
 ---
 
 # Chapter 7. The AI Overview does not always appear
 
 By the end of this chapter you will know how often one major engine declined to generate an answer at all, how much that rate moved with the shape of the question, and why a visibility percentage is meaningless until you know which of two denominators it used.
+
+## Why does Google AI Overviews not appear for every search?
+
+Google may show an AI Overview when its systems judge that the response adds value. It is not an answer format that appears on every query. Record whether an Overview appeared separately from whether a company was named within it. A missing Overview and an observed answer that omits a company are different outcomes, with different bases. The historical trigger rates below belong to their stated collection window.
+
+Source: [Google AI features guidance](https://developers.google.com/search/docs/appearance/ai-features), reviewed 20 October 2026.
 
 ## The claim this chapter defends
 

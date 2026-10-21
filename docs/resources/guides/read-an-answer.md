@@ -1,13 +1,23 @@
 ---
-title: "Read an AI answer without overreading it"
-headline: "Read an AI answer without overreading it"
-description: "Evidence / BW-RESOURCE-01"
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+title: Read an AI answer without overreading it
+headline: Read an AI answer without overreading it
+description: Evidence / BW-RESOURCE-01
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+faq:
+- question: How can I tell whether an AI citation supports the claim beside it?
+  answer: Open the cited page and locate the passage that supports the exact claim.
+    Compare the subject, observation date, population, numbers and conclusion. A working
+    link can be relevant to the topic without supporting the specific statement. If
+    the source is inaccessible or the passage does not establish the claim, mark support
+    as unverified. Keep a source's own commercial assertion separate from independent
+    evidence.
 ---
 
 # Read an AI answer without overreading it
@@ -35,3 +45,10 @@ date_modified: "2026-09-24T00:00:00+00:00"
 <h2>Provenance</h2>
 <p>This original method extends the supplied September 24 execution-pack draft and blueprint; no competitor writing or outcome is reused. Definitions and synthetic evidence: <a href="/resources/provenance/sources/">source ledger</a>. External technical statements, where present, have nearby primary-source links. Source freshness is limited to the stated review date.</p></article>
 </div>
+
+
+## How can I tell whether an AI citation supports the claim beside it?
+
+Open the cited page and locate the passage that supports the exact claim. Compare the subject, observation date, population, numbers and conclusion. A working link can be relevant to the topic without supporting the specific statement. If the source is inaccessible or the passage does not establish the claim, mark support as unverified. Keep a source's own commercial assertion separate from independent evidence.
+
+Read [who the engines cite](../../who-gets-cited.md), the [Absence Ladder](../../absence-ladder.md) and the [GEO Hub](https://broadcastwell.com/insights) for the surrounding definitions.

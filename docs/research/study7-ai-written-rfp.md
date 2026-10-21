@@ -1,13 +1,17 @@
 ---
 page_class: page
 schema_type: Article
-date_published: "2026-10-09T23:53:48Z"
-date_modified: "2026-10-09T23:53:48Z"
-title: "Study 7: The AI Written RFP"
-description: "2,003 criteria from 2,093 September source answers across fourteen software categories, with exact evidence and dated page comparisons. Team review: in progress. DOI 10.5281/zenodo.23271935."
+date_published: '2026-10-09T23:53:48Z'
+date_modified: '2026-10-20T00:00:00+00:00'
+title: 'Study 7: The AI Written RFP'
+description: '2,003 criteria from 2,093 September source answers across fourteen software
+  categories, with exact evidence and dated page comparisons. Team review: in progress.
+  DOI 10.5281/zenodo.23271935.'
 ---
 
 # Study 7: The AI Written RFP
+
+Question examples on this page are plain-language themes. The linked original research release preserves the exact questions, observation dates and answer records. All study counts refer to the original questions.
 
 Broadcastwell Research, Study 7. CC BY 4.0. DOI [10.5281/zenodo.23271935](https://doi.org/10.5281/zenodo.23271935). [All versions](https://doi.org/10.5281/zenodo.23271934).
 
@@ -731,7 +735,7 @@ The accompanying files provide all observations, not only the displayed rows. [r
 
 [Checklist Audit $490](https://broadcastwell.com/buyers-checklist). [Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)
 
-Any named company may request one no-cost re-run at index@broadcastwell.com; both results are published.
+Any named company may request one no-cost re-run at hello@broadcastwell.com; both results are published.
 
 CC BY 4.0. Source material remains attributable to its original source. The published data describes dated observations, not product performance or a promised outcome.
 
