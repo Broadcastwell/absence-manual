@@ -8,7 +8,7 @@ description: A free, ungated technical manual on measuring and fixing AI search 
 schema_type: TechArticle
 page_class: page
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-10-21T00:00:00+00:00'
 image: figures/absence-ladder.png
 is_based_on: https://github.com/Broadcastwell/state-of-geo-2026
 ---
@@ -119,7 +119,7 @@ If you are not going to read a technical manual, start with [what AI search is d
 
 Current prices and terms, 13 October 2026. Every offer below is available now.
 
-The [free 10 question check](https://audit.broadcastwell.com): ten buyer questions for your category on one engine, Perplexity, returning your position on the absence ladder and the chapter that addresses it.
+The [Free 10-question check (one engine)](https://audit.broadcastwell.com): ten buyer questions for your category on one engine, returning the observed answers and cited sources.
 
 **Category Audit, $490 once.** One category, ten buyer questions, five engines, three measured runs. Who is named instead of you with counts, which of the ten questions you lose, the sources cited in those answers, a crawler access check, three prioritized fixes, receipts, a CMO summary and a finance memo. Findings within 48 hours of your category confirmation. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410. Refundable in full within 30 days of delivery.
 
