@@ -28,7 +28,8 @@ body:has(.bw-learning) .md-header__button[data-manual-toggle="__drawer"]{display
 .bw-learning label{display:block;font-weight:600;margin:1rem 0 .4rem}
 .bw-learning :is(input,textarea,select){display:block;width:100%;padding:.75rem;border:1px solid #667085;border-radius:6px;color:#101828;background:#FFFFFF;font:inherit}
 .bw-learning textarea{min-height:7rem;resize:vertical}
-.bw-learning button{min-height:44px;border:1px solid #1D4ED8;border-radius:6px;background:#1D4ED8;color:#FFFFFF;padding:.65rem 1rem;font:inherit;font-weight:600;cursor:pointer}
+.bw-learning button{min-height:44px;border:1px solid #1D4ED8;border-radius:6px;background:#FFFFFF;color:#1D4ED8;padding:.65rem 1rem;font:inherit;font-weight:600;cursor:pointer}
+.bw-learning button:hover:not(:disabled){background:#EFF6FF}
 .bw-learning button.secondary{color:#101828;background:#FFFFFF;border-color:#667085}
 .bw-learning button:disabled{opacity:.6;cursor:default}
 .bw-learning :is(button,input,select,textarea,summary):focus-visible{outline:3px solid #1D4ED8;outline-offset:3px}
