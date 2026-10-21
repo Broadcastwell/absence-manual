@@ -1,17 +1,86 @@
 ---
-title: "Chapter 4. Who the engines actually cite"
-headline: "Who the engines actually cite: the composition of the evidence layer behind AI answers"
-description: "Among the 100 most-cited domains in Volume I, 77.4% of citations resolved to vendor-authored content. Community sources accounted for 0.0% of all 5,160 citations. The top 10 domains held only 12%, and 56% of cited domains appeared exactly once."
+title: Chapter 4. Who the engines actually cite
+headline: 'Who the engines actually cite: the composition of the evidence layer behind
+  AI answers'
+description: Among the 100 most-cited domains in Volume I, 77.4% of citations resolved
+  to vendor-authored content. Community sources accounted for 0.0% of all 5,160 citations.
+  The top 10 domains held only 12%, and 56% of cited domains appeared exactly once.
 page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-is_based_on: "https://doi.org/10.5281/zenodo.21537014"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+is_based_on: https://doi.org/10.5281/zenodo.21537014
+faq:
+- question: How does Perplexity work?
+  answer: Perplexity combines information retrieved from sources into an answer with
+    citations. Its Pro Search documentation describes multiple web searches and synthesis,
+    with links to original sources. Inspect the cited passage and note which search
+    mode was used; a description of Pro Search does not establish that every standard
+    answer used the same depth of retrieval.
+- question: How does Claude web search work?
+  answer: Claude can use live web search when current information would help, then
+    include source citations in its answer. Look for the visible search activity and
+    open the linked evidence. Distinguish a web-grounded answer from an answer produced
+    without retrieval, and record the question and date when comparing observations.
+- question: How does ChatGPT choose which sources to cite?
+  answer: A ChatGPT answer using web search can cite web sources relevant to its response.
+    The sources shown in that answer are the evidence to inspect; they are not a complete
+    published formula for selecting every source. Open the cited page and check the
+    supporting passage. Search crawling and training-data collection are separate
+    choices in OpenAI's bot documentation.
+- question: How do Google AI Overviews choose sources?
+  answer: Google may generate an AI Overview when its systems judge that an AI response
+    would add value. Supporting links come from eligible search content. A page needs
+    to be indexed and eligible for a snippet, while selection for a particular response
+    remains a separate decision. Read the actual supporting links for the query instead
+    of inferring inclusion from ordinary search position.
+- question: How does Google AI Mode choose sources?
+  answer: Google says AI Mode can use query fan-out to explore related searches and
+    identify supporting pages. The pages still rely on ordinary search eligibility.
+    A broader question can therefore surface a different source set from a simple
+    web query. Inspect the links beside the actual answer and retain the date; eligibility
+    does not guarantee selection.
 ---
 
 # Chapter 4. Who the engines actually cite
 
 By the end of this chapter you will know what kinds of source an AI engine reached for when it answered B2B software buying questions, how concentrated or fragmented that evidence layer is, and which of those figures carry which denominator, because two of the headline numbers in this chapter are computed on different bases and are routinely quoted as though they were not.
+
+## How the search products find evidence today
+
+AI search products can retrieve live sources and then compose an answer. Their search modes, questions and observation dates can produce different source sets. The source-selection explanations below were reviewed on 20 October 2026. The historical Volume I findings later in this chapter retain their original sample and July 2026 collection window. They describe that study, rather than a universal source distribution across all engines.
+
+### How does Perplexity work?
+
+Perplexity combines information retrieved from sources into an answer with citations. Its Pro Search documentation describes multiple web searches and synthesis, with links to original sources. Inspect the cited passage and note which search mode was used; a description of Pro Search does not establish that every standard answer used the same depth of retrieval.
+
+Source: [Official product documentation](https://www.perplexity.ai/help-center/en/articles/10352903-what-is-pro-search), reviewed 20 October 2026.
+
+### How does Claude web search work?
+
+Claude can use live web search when current information would help, then include source citations in its answer. Look for the visible search activity and open the linked evidence. Distinguish a web-grounded answer from an answer produced without retrieval, and record the question and date when comparing observations.
+
+Source: [Official product documentation](https://support.claude.com/en/articles/10684626-enable-and-use-web-search), reviewed 20 October 2026.
+
+### How does ChatGPT choose which sources to cite?
+
+A ChatGPT answer using web search can cite web sources relevant to its response. The sources shown in that answer are the evidence to inspect; they are not a complete published formula for selecting every source. Open the cited page and check the supporting passage. Search crawling and training-data collection are separate choices in OpenAI's bot documentation.
+
+Source: [Official product documentation](https://developers.openai.com/api/docs/bots), reviewed 20 October 2026.
+
+### How do Google AI Overviews choose sources?
+
+Google may generate an AI Overview when its systems judge that an AI response would add value. Supporting links come from eligible search content. A page needs to be indexed and eligible for a snippet, while selection for a particular response remains a separate decision. Read the actual supporting links for the query instead of inferring inclusion from ordinary search position.
+
+Source: [Official product documentation](https://developers.google.com/search/docs/appearance/ai-features), reviewed 20 October 2026.
+
+### How does Google AI Mode choose sources?
+
+Google says AI Mode can use query fan-out to explore related searches and identify supporting pages. The pages still rely on ordinary search eligibility. A broader question can therefore surface a different source set from a simple web query. Inspect the links beside the actual answer and retain the date; eligibility does not guarantee selection.
+
+Source: [Official product documentation](https://developers.google.com/search/docs/appearance/ai-features), reviewed 20 October 2026.
+
+Read the [GEO Hub](https://broadcastwell.com/insights), [measurement definitions](https://broadcastwell.com/methodology) and [citation-reading guide](resources/guides/read-an-answer.md) for the next checks.
 
 ## The claim this chapter defends
 
@@ -61,7 +130,7 @@ By the end of this chapter you will know what kinds of source an AI engine reach
 
 ## Why a zero is worth more attention than a small number
 
-**Reasoned.** A category at two or three percent would be a minor contributor. A category at zero across the whole corpus is a structural absence, and structural absences are more informative than small positives because they cannot be explained by sampling noise in the same way. It also means any strategy premised on community presence feeding AI answers has no support in this dataset and needs its own evidence before anyone spends against it.
+**Reasoned.** A category at two or three percent would be a minor contributor. A category at zero across this corpus is an observed absence in this sample and window. A different question set, engine or later run could produce a different result. It also means any strategy premised on community presence feeding AI answers has no support in this dataset and needs its own evidence before anyone spends against it.
 
 ## Analyst and review presence, in proportion
 

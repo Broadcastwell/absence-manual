@@ -1,13 +1,17 @@
 ---
-title: "Half its own shortlist"
-headline: "Half its own shortlist: an AI engine asked the same question twice agrees with itself about half the time"
-description: "Across 62 and 74 repeat pairs on a 25-question subsample, Google AI Overviews agreed with its own vendor shortlist at 0.499 and Claude at 0.442 when asked the identical question again. Every single-run visibility score carries that variance and cannot show it."
+title: Half its own shortlist
+headline: 'Half its own shortlist: an AI engine asked the same question twice agrees
+  with itself about half the time'
+description: Across 62 and 74 repeat pairs on a 25-question subsample, Google AI Overviews
+  agreed with its own vendor shortlist at 0.499 and Claude at 0.442 when asked the
+  identical question again. Every single-run visibility score carries that variance
+  and cannot show it.
 page_class: note
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-image: "figures/within-vs-between.png"
-is_based_on: "https://doi.org/10.5281/zenodo.21789120"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+image: figures/within-vs-between.png
+is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
 
 # Half its own shortlist
@@ -30,7 +34,7 @@ is_based_on: "https://doi.org/10.5281/zenodo.21789120"
 
 **Measured, Volume III.** Three of the four API accounts ran out of credit during collection. One was topped up and finished, two were not. The study as executed holds 18 ChatGPT, 280 Claude, 175 Perplexity and 280 Google AI Overviews answers, against 280 planned for each. Rows carrying a billing error are excluded from every denominator and retained in the raw data so the exclusion is checkable.
 
-**Measured, Volume III.** The two short engines were deliberately not refilled. A refill collected in a second window would make every cross-engine pair span two windows, so engine drift between windows would read as engine divergence and inflate the exact quantity the study was measuring. **Reasoned.** Staying short was the more honest option, and the four-engine intersection is reported at its true size of 18 questions rather than dressed up.
+**Measured, Volume III.** The two short engines were deliberately not refilled. A refill collected in a second window would make every cross-engine pair span two windows, so engine drift between windows would read as engine divergence and inflate the exact quantity the study was measuring. **Reasoned.** Staying short was the more honest option, and the cross-engine intersection is reported at its true size of 18 questions rather than dressed up.
 
 **Measured, Volume III.** Only the two engines that completed contributed repeat pairs. ChatGPT and Perplexity contributed none and therefore get no verdict.
 

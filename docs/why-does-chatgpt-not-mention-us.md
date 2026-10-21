@@ -1,11 +1,15 @@
 ---
-title: "Why does ChatGPT not mention us?"
-headline: "Why does ChatGPT not mention us? The four usual causes, and what changes each one"
-description: "The four reasons an AI engine names someone else in your category: the sources it reads do not name you, your entity facts are thin or inconsistent, the engine cannot reach your site, or you are present on how-to questions and absent on shortlist questions."
+title: Why does ChatGPT not mention us?
+headline: Why does ChatGPT not mention us? The four usual causes, and what changes
+  each one
+description: 'The four reasons an AI engine names someone else in your category: the
+  sources it reads do not name you, your entity facts are thin or inconsistent, the
+  engine cannot reach your site, or you are present on how-to questions and absent
+  on shortlist questions.'
 page_class: page
 schema_type: Article
-date_published: "2026-09-11T00:00:00+00:00"
-date_modified: "2026-09-11T00:00:00+00:00"
+date_published: '2026-09-11T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Why does ChatGPT not mention us?

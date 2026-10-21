@@ -1,13 +1,17 @@
 ---
-title: "Chapter 9. Getting named at the category door"
-headline: "Getting named at the category door: the standards evidence has to meet before an engine will treat you as a member of a category"
-description: "Companies named in zero of ten answers lost category-level questions 55.3% of the time. The first gate is membership, not preference. This chapter sets out what has to be true of the evidence about a company before an engine will assemble it into a candidate set."
+title: Chapter 9. Getting named at the category door
+headline: 'Getting named at the category door: the standards evidence has to meet
+  before an engine will treat you as a member of a category'
+description: Companies named in zero of ten answers lost category-level questions
+  55.3% of the time. The first gate is membership, not preference. This chapter sets
+  out what has to be true of the evidence about a company before an engine will assemble
+  it into a candidate set.
 page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-image: "figures/leader-null.png"
-is_based_on: "https://doi.org/10.5281/zenodo.21586091"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+image: figures/leader-null.png
+is_based_on: https://doi.org/10.5281/zenodo.21586091
 ---
 
 # Chapter 9. Getting named at the category door

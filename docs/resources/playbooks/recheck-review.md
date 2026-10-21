@@ -1,13 +1,17 @@
 ---
-title: "Comparable-recheck interpretation"
-headline: "Comparable-recheck interpretation"
-description: "Version: bw-content-2026-09-24-v1. Original task card. Rules evaluate bounded supplied fixture fields; they do not verify the truth of arbitrary pasted sources or replace independent source review. Ac"
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+title: Comparable-recheck interpretation
+headline: Comparable-recheck interpretation
+description: 'Version: bw-content-2026-09-24-v1. Original task card. Rules evaluate
+  bounded supplied fixture fields; they do not verify the truth of arbitrary pasted
+  sources or replace independent source review. Ac'
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Comparable-recheck interpretation

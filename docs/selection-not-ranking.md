@@ -1,13 +1,17 @@
 ---
-title: "Chapter 0. Selection, not ranking"
-headline: "Selection, not ranking: why the mental model you brought from SEO produces the wrong questions about AI search"
-description: "An AI answer is assembled by selecting a handful of vendors from a candidate set, not by ordering every vendor in a category. Volume I measured an average of 2.05 vendors named per answer. That single number breaks the ranking model, and with it the metrics and remedies built on top of it."
+title: Chapter 0. Selection, not ranking
+headline: 'Selection, not ranking: why the mental model you brought from SEO produces
+  the wrong questions about AI search'
+description: An AI answer is assembled by selecting a handful of vendors from a candidate
+  set, not by ordering every vendor in a category. Volume I measured an average of
+  2.05 vendors named per answer. That single number breaks the ranking model, and
+  with it the metrics and remedies built on top of it.
 page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-image: "figures/absence-ladder.png"
-is_based_on: "https://doi.org/10.5281/zenodo.21537014"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+image: figures/absence-ladder.png
+is_based_on: https://doi.org/10.5281/zenodo.21537014
 ---
 
 # Chapter 0. Selection, not ranking
@@ -90,7 +94,7 @@ By the end of this chapter you will know why AI search is a selection problem ra
 
 ## The honest limitation of this framing
 
-**Measured, Volume I and Volume II.** The evidence behind this chapter is one engine with one run per question, on a challenger-skewed sample of 85 companies, plus a four-engine single-window collection in Volume III. **Reasoned.** That supports the direction of the argument and not a precise parameterisation of it. Nothing here has been tested as an intervention: no company in these datasets was measured, changed and measured again. Read the selection model as the frame that fits the observations, and hold it loosely enough to drop it if a larger or longitudinal dataset fits better.
+**Measured, Volume I and Volume II.** The evidence behind this chapter is one engine with one run per question, on a challenger-skewed sample of 85 companies, plus a cross-engine single-window collection in Volume III. **Reasoned.** That supports the direction of the argument and not a precise parameterisation of it. Nothing here has been tested as an intervention: no company in these datasets was measured, changed and measured again. Read the selection model as the frame that fits the observations, and hold it loosely enough to drop it if a larger or longitudinal dataset fits better.
 
 ## What this means for your buying decision
 

@@ -333,7 +333,7 @@ for rel, cls in sorted(manifest.items()):
         'class="bw-shared-wordmark" href="https://broadcastwell.com/"',
         'href="https://broadcastwell.com/pricing">Pricing<',
         'href="https://app.broadcastwell.com/signin">Sign in<',
-        'class="bw-shared-audit" href="%s" aria-label="Get the Category Audit, $490">' % BUY_AUDIT,
+        'class="bw-shared-audit" href="%s" aria-label="Start with the $490 Category Audit">' % BUY_AUDIT,
     ]:
         if needed not in head:
             fail("%s header is missing %s" % (rel, needed))
@@ -367,7 +367,7 @@ for rel, cls in sorted(manifest.items()):
     if 'class="bw-next-step"' in html:
         at = html.find('class="bw-next-step"')
         block = html[at:html.find("</section>", at)]
-        for needed in ('href="%s">Get the Category Audit, $490<' % BUY_AUDIT, CREDIT_LINE, AUDIT_PROMISE):
+        for needed in ('href="%s">Start with the $490 Category Audit<' % BUY_AUDIT, CREDIT_LINE, AUDIT_PROMISE):
             if needed not in block:
                 fail("%s next step block must carry %r" % (rel, needed))
         if "bw-paused" in block or "Diagnostic" in block:
@@ -490,10 +490,12 @@ else:
             fail("Vendor Facts File is missing %r" % required)
 if llms.exists():
     for required in (
-        "Agent Test: $490 once.", "Findings within 48 hours of task confirmation.",
-        "White-label Agent Test: $490 per agency client report, run by ChatGPT Work with Cloud browser, two runs per task.",
+        "Agent Test: ten buyer tasks with recorded evidence and reviewed findings.",
+        "Findings within 48 hours of task confirmation.",
+        "White-label Agent Test: evidence delivered under the agency's brand.",
         "One credit per Sprint.",
-        "https://broadcastwell.com/buy/agent-test", "https://broadcastwell.com/agent-ready",
+        "The current credit comes from one paid Category Audit.",
+        "https://broadcastwell.com/agent-ready",
         "Ask <Vendor>: a read-only connector", "https://app.broadcastwell.com/mcp/vendor/kalvenor",
         "Vendor Facts File v1: an open schema (CC BY 4.0)",
     ):
@@ -504,9 +506,11 @@ if llms.exists():
         if len(lines) != 1:
             fail("llms.txt must have exactly one commercial Agent Test entry for %r" % prefix)
             continue
-        if "ChatGPT Work with Cloud browser" not in lines[0] or "two runs per task" not in lines[0]:
-            fail("llms.txt commercial Agent Test entry must name the cloud agent and two runs per task")
-        if any(old in lines[0] for old in ("Perplexity Computer", "two agents", "both agents")):
+        if any(term not in lines[0].lower() for term in ("tasks", "evidence", "scope")):
+            fail("llms.txt Agent Test entry must state buyer task evidence and scope")
+        if re.search(r"\$\d", lines[0]):
+            fail("llms.txt Agent Test entry advertises a price outside the 20 October approved offer list")
+        if any(old in lines[0] for old in ("Perplexity Computer", "two agents", "both agents", "ChatGPT Work with Cloud browser")):
             fail("llms.txt commercial Agent Test entry has superseded agent scope")
 
 if problems:

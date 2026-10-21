@@ -9,9 +9,6 @@
 {% endblock %}
 
 {% block extrahead %}
-{% if page and page.url == "vendor-facts/" %}
-<style>.md-typeset .bw-next-step a.bw-buy{background:transparent;color:#1D4ED8!important}.md-typeset .bw-next-step a.bw-buy:hover{background:#EFF6FF}</style>
-{% endif %}
 <link rel="preload" href="{{ 'assets/fonts/inter-latin-var.woff2' | url }}" as="font" type="font/woff2" crossorigin>
 {% set social_title = (page.title if page and page.title else config.site_name) | string %}
 {% set social_description = (page.meta.get("description", config.site_description) if page and page.meta else config.site_description) | string %}
@@ -109,6 +106,11 @@ document.addEventListener("DOMContentLoaded", function () {
 {% if page.meta.get("learning_resource") %}{% set article = dict(article, **{"author": org, "creator": org, "dependencies": "No login required. Guides and downloads are readable without JavaScript; interactive exercises require JavaScript."}) %}{% endif %}
 <script type="application/ld+json">{{ article | tojson }}</script>
 {% endif %}
+{% if page and page.meta and page.meta.get("faq") %}
+{% set qa = namespace(items=[]) %}
+{% for f in page.meta.get("faq") %}{% set qa.items = qa.items + [{"@type":"Question","name":f.question,"acceptedAnswer":{"@type":"Answer","text":f.answer}}] %}{% endfor %}
+<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"FAQPage","mainEntity":qa.items} | tojson }}</script>
+{% endif %}
 {% endblock %}
 
 {% block header %}
@@ -122,14 +124,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
 {% block content %}
 {{ super() }}
-{% if page and not page.is_homepage and not page.meta.get("learning_resource") %}
+<p class="bw-editorial-byline">By the Broadcastwell team. Last reviewed 20 October 2026</p>
+{% if page %}
 <section aria-label="A measured next step" class="bw-next-step">
 <h2>Measure it for your own category</h2>
 <p>The Category Audit: one category, ten buyer questions, five engines, three measured runs, $490 once. Findings within 48 hours of your category confirmation. Refundable in full within 30 days of delivery.</p>
-<p class="bw-next-actions"><a class="bw-buy" href="https://broadcastwell.com/buy/audit">Get the Category Audit, $490</a></p>
+<p class="bw-next-actions"><a class="bw-buy" href="https://broadcastwell.com/buy/audit">Start with the $490 Category Audit</a></p>
 <p>Results appear in your account; a sign-in link arrives by email. <a href="https://app.broadcastwell.com/signin">Sign in or create a free account</a>.</p>
 <p class="bw-offer-state">The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410.</p>
-<p><a href="https://audit.broadcastwell.com/">Free 10 question check (one engine)</a></p>
+<p><a href="https://audit.broadcastwell.com/">Free 10-question check (one engine)</a></p>
 <p>See the <a href="https://broadcastwell.com/terms">terms for credits and refunds</a>.</p>
 </section>
 {% endif %}

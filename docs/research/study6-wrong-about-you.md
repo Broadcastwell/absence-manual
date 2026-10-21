@@ -1,10 +1,11 @@
 ---
 page_class: page
 schema_type: Article
-date_published: "2026-10-09T20:07:00Z"
-date_modified: "2026-10-09T20:35:00Z"
-title: "Study 6: Wrong About You"
-description: "What five AI engines state about 70 software vendors, classed against the vendors' own pages. Absence Index release 2026-09 answers, DOI 10.5281/zenodo.23270124."
+date_published: '2026-10-09T20:07:00Z'
+date_modified: '2026-10-20T00:00:00+00:00'
+title: 'Study 6: Wrong About You'
+description: What five AI engines state about 70 software vendors, classed against
+  the vendors' own pages. Absence Index release 2026-09 answers, DOI 10.5281/zenodo.23270124.
 ---
 
 # Study 6: Wrong About You
@@ -182,7 +183,7 @@ Wrong About You records what five AI engines stated about 70 vendors in answer t
 
 ## Disputes and citation
 
-Any named company may request one no-cost re-run at index@broadcastwell.com; both results are published.
+Any named company may request one no-cost re-run at hello@broadcastwell.com; both results are published.
 
 Cite as: Broadcastwell (2026). Wrong About You: what five AI engines state about 70 software vendors (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23270124. All versions: https://doi.org/10.5281/zenodo.23270123.
 

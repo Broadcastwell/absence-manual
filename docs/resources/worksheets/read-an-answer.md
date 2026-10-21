@@ -1,13 +1,16 @@
 ---
-title: "Read an AI answer without overreading it"
-headline: "Read an AI answer without overreading it"
-description: "Editable worksheet. Use permitted public or synthetic material. Entries stay in this page; export to keep a copy. Each field is limited to 2,000 characters."
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+title: Read an AI answer without overreading it
+headline: Read an AI answer without overreading it
+description: Editable worksheet. Use permitted public or synthetic material. Entries
+  stay in this page; export to keep a copy. Each field is limited to 2,000 characters.
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Read an AI answer without overreading it

@@ -1,13 +1,17 @@
 ---
-title: "Chapter 3. Cited is not recommended"
-headline: "Cited is not recommended: why being quoted as a source and being named as an option are separate properties"
-description: "Naming and citation correlate only loosely, at Pearson r = 0.512. 29.4% of companies were cited more often than they were named, and nine were cited as a source while never being named at all. A visibility score that collapses the two cannot see the difference."
+title: Chapter 3. Cited is not recommended
+headline: 'Cited is not recommended: why being quoted as a source and being named
+  as an option are separate properties'
+description: Naming and citation correlate only loosely, at Pearson r = 0.512. 29.4%
+  of companies were cited more often than they were named, and nine were cited as
+  a source while never being named at all. A visibility score that collapses the two
+  cannot see the difference.
 page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-image: "figures/named-vs-cited.png"
-is_based_on: "https://doi.org/10.5281/zenodo.21586091"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+image: figures/named-vs-cited.png
+is_based_on: https://doi.org/10.5281/zenodo.21586091
 ---
 
 # Chapter 3. Cited is not recommended

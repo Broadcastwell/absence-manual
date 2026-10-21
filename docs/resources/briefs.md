@@ -1,13 +1,16 @@
 ---
-title: "Six reusable asset briefs"
-headline: "Six reusable asset briefs"
-description: "Formats for selecting useful work within the existing purchased allowance. Six templates do not promise six extra pages."
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+title: Six reusable asset briefs
+headline: Six reusable asset briefs
+description: Formats for selecting useful work within the existing purchased allowance.
+  Six templates do not promise six extra pages.
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Six reusable asset briefs

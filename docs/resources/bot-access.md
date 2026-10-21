@@ -1,35 +1,66 @@
 ---
-title: "Bot access per engine"
-headline: "Bot access per engine: what the check can establish"
-description: "How Broadcastwell checks robots rules, server responses and returned HTML, with separate policy notes and explicit limits."
+title: Bot access and AI search visibility
+headline: Bot access, search eligibility and cited sources
+description: Understand the difference between permission to crawl, search inclusion
+  and an observed citation, using current primary documentation.
 page_class: note
 schema_type: Article
-date_published: "2026-10-13T00:00:00+00:00"
-date_modified: "2026-10-13T00:00:00+00:00"
+date_published: '2026-10-13T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+faq:
+- question: Does Anthropic crawl data from the web, and how can site owners block
+    the crawler?
+  answer: Yes. Anthropic documents ClaudeBot for potential training-data collection,
+    Claude-SearchBot for search and Claude-User for user-directed page access. Its
+    bots honour robots.txt signals. Site owners should decide on these purposes separately
+    and review the current official documentation. A decision about one purpose should
+    not be treated as evidence about every other purpose.
+- question: Does allowing GPTBot make a site appear in ChatGPT search?
+  answer: No. OpenAI distinguishes GPTBot, associated with training, from OAI-SearchBot,
+    associated with search. Their permissions are independent. Allowing training collection
+    is not a prerequisite or a guarantee for search inclusion. Check the search-specific
+    access policy and the sources in actual search answers.
+- question: Does Google-Extended control AI Overviews or AI Mode visibility?
+  answer: No. Google documents Google-Extended separately from Google Search. It does
+    not control Search inclusion or ranking, including the AI search features. Search
+    eligibility depends on the relevant Google Search requirements. Keep a training-policy
+    decision separate from the question of whether a page can appear as a supporting
+    link.
 ---
 
-# Bot access per engine
+# Bot access and AI search visibility
 
-The bot access check reports a state for ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. It checks robots.txt, llms.txt, the homepage and up to two pages identified by the findings. No engine is asked a question.
+Permission to read a page, inclusion in a search index, retrieval for a question and appearance as a citation are different events. A successful page request establishes access for that request. It does not establish the later events.
 
 ## What the requests show
 
-Requests use configured identities based on the providers' documented search and user fetcher tokens and examples, with the source date recorded. They come from our servers, not the providers' verified addresses. A firewall may therefore respond differently to a provider's own request.
-
-Robots rules use the applicable groups and longest matching rule, with Allow winning a tie. Unknown or incomplete checks remain **Unknown**. An issue count of zero does not turn an Unknown result into Reachable.
-
-Google AI Overviews and Google AI Mode use the Googlebot access result. `Google-Extended` is reported separately as a robots policy token; it is not an HTTP fetcher and does not decide the Google Search access result. Training crawler policies are also reported separately.
+A dated access observation can show that a page was returned under the conditions tested. Read the URL, date and scope with the result. A public educational page should be readable without exposing private customer material. Access decisions should follow the site owner's policy for each purpose.
 
 ## What the HTML check cannot show
 
-The main text check examines the returned HTML. Very little visible text together with signs of content loaded by scripts can be flagged for review. It is an HTML heuristic, not a browser render or proof of what a provider ultimately reads. Google rendering limits are noted rather than treated as the same finding for every engine.
-
-Pages intentionally left out of this check, such as sign in, account and legal pages, are listed separately and excluded from the issue count. Reachability does not establish indexing, citation or inclusion.
+An accessible page is not guaranteed to be indexed, retrieved, cited or recommended. A training crawler and a search crawler can have different purposes. Read the search product's current documentation rather than treating all AI-related requests as one system.
 
 ## Reading a result
 
-An existing stored check carries its date and is shown with the findings. Reading a findings page does not run a new check. A missing check is not evidence that the site is reachable.
+Record the access finding separately from actual answer observations. If an answer cites your domain, inspect the linked page and the passage supporting the claim. If it does not, check search eligibility and the relevance of the page without assuming that access alone decides the outcome.
 
-The [Kalvenor bot access sample](https://app.broadcastwell.com/sample/bot-access) uses fictional **SAMPLE DATA**. It illustrates the states and policy notes; it is not a customer check or a visit by a provider's own crawler.
+## Does Anthropic crawl data from the web, and how can site owners block the crawler?
 
-[Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)
+Yes. Anthropic documents ClaudeBot for potential training-data collection, Claude-SearchBot for search and Claude-User for user-directed page access. Its bots honour robots.txt signals. Site owners should decide on these purposes separately and review the current official documentation. A decision about one purpose should not be treated as evidence about every other purpose.
+
+## Does allowing GPTBot make a site appear in ChatGPT search?
+
+No. OpenAI distinguishes GPTBot, associated with training, from OAI-SearchBot, associated with search. Their permissions are independent. Allowing training collection is not a prerequisite or a guarantee for search inclusion. Check the search-specific access policy and the sources in actual search answers.
+
+## Does Google-Extended control AI Overviews or AI Mode visibility?
+
+No. Google documents Google-Extended separately from Google Search. It does not control Search inclusion or ranking, including the AI search features. Search eligibility depends on the relevant Google Search requirements. Keep a training-policy decision separate from the question of whether a page can appear as a supporting link.
+
+## Primary sources
+
+- [OpenAI's crawler purposes](https://developers.openai.com/api/docs/bots)
+- [Anthropic's crawler purposes and owner choices](https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler)
+- [Google's crawler documentation](https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers)
+- [Google's AI feature eligibility guidance](https://developers.google.com/search/docs/appearance/ai-features)
+
+Sources reviewed 20 October 2026. Read the [GEO Hub](https://broadcastwell.com/insights), [AI source chapter](../who-gets-cited.md) and [answer-reading guide](guides/read-an-answer.md) next.

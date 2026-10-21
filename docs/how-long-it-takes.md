@@ -1,12 +1,16 @@
 ---
-title: "Chapter 11. How long this actually takes"
-headline: "How long this actually takes: what the evidence does and does not say about time to effect in AI search visibility"
-description: "None of the three volumes measures elapsed time to effect. Every timeline claim in this chapter is inference or external report, labelled as such. What the measured data does constrain is how quickly a change could be detected at all, and that turns out to be the binding limit."
+title: Chapter 11. How long this actually takes
+headline: 'How long this actually takes: what the evidence does and does not say about
+  time to effect in AI search visibility'
+description: None of the three volumes measures elapsed time to effect. Every timeline
+  claim in this chapter is inference or external report, labelled as such. What the
+  measured data does constrain is how quickly a change could be detected at all, and
+  that turns out to be the binding limit.
 page_class: chapter
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-is_based_on: "https://doi.org/10.5281/zenodo.21789120"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
 
 # Chapter 11. How long this actually takes

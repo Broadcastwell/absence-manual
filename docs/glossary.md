@@ -1,12 +1,15 @@
 ---
-title: "Appendix D. Glossary"
-headline: "Glossary: every term this manual uses in a specific sense, with one definition each"
-description: "Definitions for the terms used in a specific technical sense across The Absence Manual, including the evidence levels, the two gates, the agreement measures, the denominator vocabulary and the scoring layers."
+title: Appendix D. Glossary
+headline: 'Glossary: every term this manual uses in a specific sense, with one definition
+  each'
+description: Definitions for the terms used in a specific technical sense across The
+  Absence Manual, including the evidence levels, the two gates, the agreement measures,
+  the denominator vocabulary and the scoring layers.
 page_class: appendix
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+is_based_on: https://github.com/Broadcastwell/state-of-geo-2026
 ---
 
 # Appendix D. Glossary

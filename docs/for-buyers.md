@@ -1,12 +1,15 @@
 ---
-title: "For marketing leaders: what AI search is doing to your category"
-headline: "For marketing leaders: what AI search is doing to your category, in plain language"
-description: "A short, plain-language account of how AI answers pick which vendors to name, why most companies are missing from them, why the number your agency shows you may not mean what you think, and what to do next."
+title: 'For marketing leaders: what AI search is doing to your category'
+headline: 'For marketing leaders: what AI search is doing to your category, in plain
+  language'
+description: A short, plain-language account of how AI answers pick which vendors
+  to name, why most companies are missing from them, why the number your agency shows
+  you may not mean what you think, and what to do next.
 page_class: page
 schema_type: Article
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-10-05T00:00:00+00:00"
-is_based_on: "https://github.com/Broadcastwell/state-of-geo-2026"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+is_based_on: https://github.com/Broadcastwell/state-of-geo-2026
 ---
 
 # For marketing leaders: what AI search is doing to your category

@@ -1,12 +1,16 @@
 ---
-title: "Appendix C. Scoring and matching specification"
-headline: "Scoring and matching specification: the deterministic rules that decide whether a brand was named and whether a domain was cited"
-description: "The two-layer extraction design, the text normalisation applied before matching, the word-boundary and case-sensitivity rules for brand names, hostname-level domain matching, the citation classification scheme and the completeness rules, as published in Volume III."
+title: Appendix C. Scoring and matching specification
+headline: 'Scoring and matching specification: the deterministic rules that decide
+  whether a brand was named and whether a domain was cited'
+description: The two-layer extraction design, the text normalisation applied before
+  matching, the word-boundary and case-sensitivity rules for brand names, hostname-level
+  domain matching, the citation classification scheme and the completeness rules,
+  as published in Volume III.
 page_class: appendix
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-is_based_on: "https://doi.org/10.5281/zenodo.21789120"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
 
 # Appendix C. Scoring and matching specification

@@ -1,13 +1,17 @@
 ---
-title: "Eight workflow playbooks"
-headline: "Eight workflow playbooks"
-description: "Original read-and-draft task cards with synthetic passing and failure examples. These rules check supplied fields; they cannot establish that a source is true or that a real owner has approved work."
-page_class: "page"
-schema_type: "Article"
-learning_resource: "true"
-hide: ["navigation", "toc"]
-date_published: "2026-09-24T00:00:00+00:00"
-date_modified: "2026-09-24T00:00:00+00:00"
+title: Eight workflow playbooks
+headline: Eight workflow playbooks
+description: Original read-and-draft task cards with synthetic passing and failure
+  examples. These rules check supplied fields; they cannot establish that a source
+  is true or that a real owner has approved work.
+page_class: page
+schema_type: Article
+learning_resource: 'true'
+hide:
+- navigation
+- toc
+date_published: '2026-09-24T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
 ---
 
 # Eight workflow playbooks

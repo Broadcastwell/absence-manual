@@ -1,12 +1,15 @@
 ---
-title: "Appendix B. Absence classification rules and precedence"
-headline: "Absence classification rules and precedence: the six question shapes, their regular-expression rules and the fixed order in which they are applied"
-description: "The complete classification scheme behind the absence ladder, reproduced as published in Volume II: six question shapes, the rule that assigns each, the precedence order, worked examples, and the residual category."
+title: Appendix B. Absence classification rules and precedence
+headline: 'Absence classification rules and precedence: the six question shapes, their
+  regular-expression rules and the fixed order in which they are applied'
+description: 'The complete classification scheme behind the absence ladder, reproduced
+  as published in Volume II: six question shapes, the rule that assigns each, the
+  precedence order, worked examples, and the residual category.'
 page_class: appendix
 schema_type: TechArticle
-date_published: "2026-08-18T00:00:00+00:00"
-date_modified: "2026-09-12T00:00:00+00:00"
-is_based_on: "https://doi.org/10.5281/zenodo.21586091"
+date_published: '2026-08-18T00:00:00+00:00'
+date_modified: '2026-10-20T00:00:00+00:00'
+is_based_on: https://doi.org/10.5281/zenodo.21586091
 ---
 
 # Appendix B. Absence classification rules and precedence
