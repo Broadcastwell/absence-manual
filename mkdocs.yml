@@ -62,4 +62,5 @@ plugins:
 
 hooks:
   - tools/hooks.py
+  - tools/performance_assets.py
 
