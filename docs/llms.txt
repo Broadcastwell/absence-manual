@@ -39,6 +39,10 @@ Google guidance: https://developers.google.com/search/docs/fundamentals/ai-optim
 - [PHP2Shell statement template](https://broadcastwell.com/php2shell/statement-template): A free statement format (CC BY 4.0) with the fields the engines quote. Markdown: https://broadcastwell.com/files/php2shell-statement-template.md
 - [Our own PHP2Shell statement](https://broadcastwell.com/security#php2shell): None of Broadcastwell's services serves web requests through PHP, so none is affected. Reviewed 23 October 2026.
 
+- [PHP2Shell Answer Study, reviewed](https://doi.org/10.5281/zenodo.23586713): Ten site owner questions asked three times on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode on 23 October 2026. 150 planned cells, 148 eligible answers and two exclusions. Final grades: 23 of 148 potentially misleading; two of 148 wrong fixed version; two of 148 WordPress update error. The last two flags refer to the same two answers. Reviewed and analysed by the Broadcastwell team. DOI 10.5281/zenodo.23586713. CC BY 4.0.
+- [PHP2Shell study data](https://index.broadcastwell.com/php2shell/data/#study-data): All 150 final grades and captured answer records with cited URLs, including two exclusions. Answer wording is verbatim except marked removals of attack mechanics in nine answer rows. README and full method included, CC BY 4.0.
+- [Free PHP2Shell company answer check](https://audit.broadcastwell.com/?mode=php2shell): One dated Claude answer with its cited URLs, shown beside the company's published Statement Index record. No email needed. This is not a security assessment.
+
 Nothing in this section is security advice. For patching, follow PHP's advisory of 21 October 2026 (https://www.php.net/archive/2026.php#2026-10-21-5) and your host.
 
 ## GEO explained
