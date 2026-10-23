@@ -33,9 +33,9 @@ Google guidance: https://developers.google.com/search/docs/fundamentals/ai-optim
 
 ## PHP2Shell (CVE-2026-109618 and CVE-2026-109619), 23 October 2026
 
-- [PHP2Shell: what AI engines say, and who has published | Broadcastwell](https://broadcastwell.com/php2shell): What ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode tell site owners about PHP2Shell, the Statement Index, the daily AI Answer Watch and the PHP2Shell Record Check.
+- [PHP2Shell: what AI engines say, and who has published | Broadcastwell](https://broadcastwell.com/php2shell): What ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode tell site owners about PHP2Shell, the Statement Index, the twice-weekly AI Answer Watch and the PHP2Shell Record Check.
 - [PHP2Shell Statement Index](https://index.broadcastwell.com/php2shell/): Which hosts, platforms and software vendors have published a PHP2Shell statement, with the status in their own words, the date and the places checked. Data under CC BY 4.0.
-- [PHP2Shell AI Answer Watch](https://index.broadcastwell.com/php2shell/watch/): Five site owner questions asked daily on all five engines, each answer checked for the fixed PHP versions, the WordPress update error, the worker restart and the 9.2 severity.
+- [PHP2Shell AI Answer Watch](https://index.broadcastwell.com/php2shell/watch/): Five site owner questions asked on Mondays and Thursdays (US Eastern) through 19 November 2026 on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, each answer checked for the fixed PHP versions, the WordPress update error, the worker restart and the 9.2 severity.
 - [PHP2Shell statement template](https://broadcastwell.com/php2shell/statement-template): A free statement format (CC BY 4.0) with the fields the engines quote. Markdown: https://broadcastwell.com/files/php2shell-statement-template.md
 - [Our own PHP2Shell statement](https://broadcastwell.com/security#php2shell): None of Broadcastwell's services serves web requests through PHP, so none is affected. Reviewed 23 October 2026.
 
