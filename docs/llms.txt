@@ -14,6 +14,8 @@ Long-form education: https://docs.broadcastwell.com/
 - Program: $13,500 per 90 days, billed $4,500 monthly.
 - Agency wholesale: $1,000 for the first client per month and $490 for each additional client per month.
 - White-label Category Audit: $490 per report.
+- Record Check: $490 once for one company and one change event. Ten questions on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, three runs: 150 planned answers, with receipts and human review. Findings within 48 hours of scope confirmation. https://broadcastwell.com/change-desk
+- White-label Record Check: $490 per client report, for one client company and one change event, delivered to the agency under its brand within 48 hours of scope confirmation. We never contact the agency's client. Refundable in full, no questions asked, if requested within 30 days of delivery. https://broadcastwell.com/terms
 - More ways to measure: https://broadcastwell.com/pricing
 - Free 10-question check (one engine): https://audit.broadcastwell.com/
 - Scope, credits, refunds and earlier order rights: https://broadcastwell.com/terms
@@ -29,6 +31,10 @@ Index Verified: free for every checked vendor on the Absence Index: claim the da
 
 Naming, recommendations, citations, referral visits and business outcomes are separate measures. Read each study's own dates, sample and method. The original v1.0 study used one engine; the client service covers ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Crawler access does not establish indexing or citation. Standard search guidance does not require llms.txt, AI-specific schema or content chunking.
 Google guidance: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+
+## When your facts change
+
+- [The Change Desk: what AI tells your buyers after your facts change | Broadcastwell](https://broadcastwell.com/change-desk): After an incident statement, an acquisition or ownership change, or a price, plan, product or link change, check dated AI answers against public facts. Three studies are in review; no findings are published yet. Record Check, $490; white-label, $490 per client report. Free correction route: hello@broadcastwell.com.
 
 ## GEO explained
 
@@ -50,7 +56,7 @@ Google guidance: https://developers.google.com/search/docs/fundamentals/ai-optim
 - [Neurvalis AI visibility baseline | Broadcastwell](https://broadcastwell.com/neurvalis-ai-visibility-diagnostic): How Broadcastwell's AI visibility baseline assessment gave Neurvalis AI Automation a clear starting point and the confidence to begin a 90 day engagement.
 - [Read an AI answer without overreading it | The Absence Manual](https://docs.broadcastwell.com/resources/guides/read-an-answer/): Evidence / BW-RESOURCE-01
 - [Read an AI answer without overreading it | The Absence Manual](https://docs.broadcastwell.com/resources/worksheets/read-an-answer/): Editable worksheet. Use permitted public or synthetic material. Entries stay in this page; export to keep a copy. Each field is limited to 2,000 characters.
-- [Check What AI Says About You | Broadcastwell](https://broadcastwell.com/set-the-record): Check what AI answers say about your company against your published facts. Read the Record Check scope, delivery, correction evidence and terms.
+- [Check What AI Says About You | Broadcastwell](https://broadcastwell.com/set-the-record): A $490 Record Check for one company and one change event. Ten questions, five engines, three runs and 150 planned answers, with receipts and human review within 48 hours of scope confirmation.
 - [The AI Visibility Absence Ladder | Broadcastwell](https://broadcastwell.com/absence-ladder): A research framework for diagnosing why B2B software companies are absent from AI-generated buyer answers, based on 616 classified absence cases.
 - [Vantaa Tax AI visibility case study | Broadcastwell](https://broadcastwell.com/vantaa-tax-ai-visibility-case-study): Vantaa Tax: tracked AI visibility rose about 12% in 28 days across ten buyer questions and four AI engines. An early directional benchmark, not traffic or revenue.
 - [Watch the method in action. | The Absence Manual](https://docs.broadcastwell.com/resources/demos/recordings/): Synthetic demonstrations recorded from the local functioning exercises. No client data, live AI measurement, real approval or real delivery is represented. Original silent video with visible captions,
