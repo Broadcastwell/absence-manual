@@ -1,40 +1,42 @@
 # Broadcastwell
 
-> AI search visibility: clear buyer answers, measured evidence and original research.
+> Broadcastwell Answer Operations: buyer answers built, maintained and warranted on your own site.
 
 GEO Hub: https://broadcastwell.com/insights
 Research library: https://broadcastwell.com/research
 Long-form education: https://docs.broadcastwell.com/
 
-## Current prices and terms (23 October 2026)
+## Current prices and terms (26 October 2026)
 
-- Category Audit: $490 once. Findings within 48 hours of your category confirmation. Start with the $490 Category Audit: https://broadcastwell.com/buy/audit
-- Fix Sprint: $2,900 upfront, or $2,410 after one paid Category Audit credit within 30 days of delivery. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410.
-- Fix Sprint, pay when named: $0 at order, under the published conditional payment terms, beside the upfront option. https://broadcastwell.com/fix-sprint
-- Program: $13,500 per 90 days, billed $4,500 monthly.
-- Agency wholesale: $1,000 for the first client per month and $490 for each additional client per month.
-- White-label Category Audit: $490 per report.
-- Record Check: $490 once for one company and one change event. Ten questions on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, three runs: 150 planned answers, with receipts and human review. Findings within 48 hours of scope confirmation. https://broadcastwell.com/change-desk
-- White-label Record Check: $490 per client report, for one client company and one change event, delivered to the agency under its brand within 48 hours of scope confirmation. We never contact the agency's client. Refundable in full, no questions asked, if requested within 30 days of delivery. https://broadcastwell.com/terms
-- More ways to measure: https://broadcastwell.com/pricing
+We turn the Absence Index into buyer answers we build, maintain and warrant on your own site.
+
+- Answer Repair: $490. One buyer question and one completed source-backed page or equivalent fix. Choose Live or Handoff before payment. Live access and approval must be complete before payment. Due 48 elapsed hours after recorded Ready. If we miss the deliverable or deadline, we initiate a full $490 refund within five business days and you keep the work. You may also request a full refund within 30 days of delivery. https://broadcastwell.com/answer-repair
+- Agency Deadline Audit: $490 per client report, white label. Ten agreed buyer questions, asked three times on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode: 150 planned answers. Valid answers and exclusions shown separately. Three prioritized fixes and one paste-ready change of 250 words or fewer. Findings within 48 hours of recorded scope confirmation. Refundable in full within 30 days. No full-page deployment. We never contact the agency's client during the work or for twelve months after. https://broadcastwell.com/for-agencies
+- Fix Sprint: $3,900 ($3,410 after the $490 entry is credited, once). The $490 entry credits once against the $3,900 Fix Sprint, leaving $3,410. Six contracted pages or rewrites over 30 days, including any credited entry page. One primary test, naming, own-domain citation or buyer-task completion, agreed before payment and re-measured at day 30. Measured gain on the agreed test, or the full $3,900 back. The client keeps the work. https://broadcastwell.com/fix-sprint
+- Sprint channel add-on: $900. Four posts on owned channels, added to a Fix Sprint.
+- Care: $490 a month, only after setup. Integrity monitoring for up to 150 already-approved existing pages and two human hours a month. No new pages. Requires an explicit purchase; no automatic enrolment.
+- Program: $5,500 a month. Twelve pages or rewrites and 8 channel posts a month across Substack, WordPress, Medium, LinkedIn, YouTube and directories. Includes a quarterly research study written by our researchers and up to 150 pages under management. The client owns the domain, content and exports.
+- 150-page build: $6,000 plus $250 a page, in batches of 25. Starts only after a 5-page paid trial. Every page must answer a distinct buyer need with real evidence. Fewer useful pages is the correct outcome when the facts do not support more.
+- Larger scopes are agreed through https://broadcastwell.com/contact
+- Full ladder: https://broadcastwell.com/pricing
+- Answer Repair buy route: https://broadcastwell.com/buy/answer-repair
+- Agency Audit buy route: https://broadcastwell.com/buy/white-label-audit
+- Versioned terms, 26 October 2026: https://broadcastwell.com/terms#2026-10-26-answer-operations-v2
+- Orders placed before 26 October 2026 keep the terms shown at purchase.
 - Free 10-question check (one engine): https://audit.broadcastwell.com/
-- Scope, credits, refunds and earlier order rights: https://broadcastwell.com/terms
 - Contact: hello@broadcastwell.com
 
-Category Exclusive: included with the Fix Sprint and the program at no extra charge. The Category Audit, white-label reports and every Index service stay open to everyone. Availability check: https://app.broadcastwell.com/exclusive
-Index Verified: free for every checked vendor on the Absence Index: claim the dated record and inspect correction rights. No payment changes any Index number. https://index.broadcastwell.com/verified/
+Ready records payment, the agreed question and page scope, sufficient source facts, a named approver and, for Live, access and approval. Ready and due times are recorded. We confirm Ready within 60 minutes during business hours. If anything is missing, a member of our team contacts you directly and finishes it with you. If Ready still cannot be reached, you can cancel for a full refund. Business hours are 08:00 to 20:00 Indianapolis Monday to Friday and 10:00 to 16:00 Saturday and Sunday. Day 7 of a Sprint or Program brings the first approved page batch, fixed fact record, publication and rollback log, known blockers and next batch. Day 30 records the contracted work and a separate measurement report. Shipped work, observed engine answers, referred visits and client-verified opportunities stay separate.
 
-- Agent Test: ten buyer tasks with recorded evidence and reviewed findings. Findings within 48 hours of task confirmation. Read the scope and order terms: https://broadcastwell.com/agent-ready
-- White-label Agent Test: evidence delivered under the agency's brand. Earlier orders retain their receipt terms. One credit per Sprint. The current credit comes from one paid Category Audit.
-- Ask <Vendor>: a read-only connector answering from client-approved public facts. Fictional sample: https://app.broadcastwell.com/mcp/vendor/kalvenor
-- Vendor Facts File v1: an open schema (CC BY 4.0) for a vendor's own public statements. https://docs.broadcastwell.com/vendor-facts/
+Ask <Vendor>: a read-only connector answering from approved public facts. Sample, fictional company: https://app.broadcastwell.com/mcp/vendor/kalvenor
+Vendor Facts File v1: an open schema (CC BY 4.0) for a vendor's public statements. https://docs.broadcastwell.com/vendor-facts/
 
-Naming, recommendations, citations, referral visits and business outcomes are separate measures. Read each study's own dates, sample and method. The original v1.0 study used one engine; the client service covers ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Crawler access does not establish indexing or citation. Standard search guidance does not require llms.txt, AI-specific schema or content chunking.
+Naming, recommendations, citations, referral visits and business outcomes are separate measures. Read each study's own dates, sample and method. The original v1.0 study used one engine. Crawler access does not establish indexing or citation. Standard search guidance does not require llms.txt, AI-specific schema or content chunking.
 Google guidance: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
 
 ## PHP2Shell (CVE-2026-109618 and CVE-2026-109619), 23 October 2026
 
-- [PHP2Shell: what AI engines say, and who has published | Broadcastwell](https://broadcastwell.com/php2shell): What ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode tell site owners about PHP2Shell, the Statement Index, the twice-weekly AI Answer Watch and the PHP2Shell Record Check.
+- [PHP2Shell: what AI engines say, and who has published | Broadcastwell](https://broadcastwell.com/php2shell): What ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode tell site owners about PHP2Shell, the Statement Index, the twice-weekly AI Answer Watch and our published research.
 - [PHP2Shell Statement Index](https://index.broadcastwell.com/php2shell/): Which hosts, platforms and software vendors have published a PHP2Shell statement, with the status in their own words, the date and the places checked. Data under CC BY 4.0.
 - [PHP2Shell AI Answer Watch](https://index.broadcastwell.com/php2shell/watch/): Five site owner questions asked on Mondays and Thursdays (US Eastern) through 19 November 2026 on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, each answer checked for the fixed PHP versions, the WordPress update error, the worker restart and the 9.2 severity.
 - [PHP2Shell statement template](https://broadcastwell.com/php2shell/statement-template): A free statement format (CC BY 4.0) with the fields the engines quote. Markdown: https://broadcastwell.com/files/php2shell-statement-template.md
@@ -50,7 +52,7 @@ Nothing in this section is security advice. For patching, follow PHP's advisory 
 
 ## When your facts change
 
-- [The Change Desk: what AI tells your buyers after your facts change | Broadcastwell](https://broadcastwell.com/change-desk): After an incident statement, an acquisition or ownership change, or a price, plan, product or link change, check dated AI answers against public facts. Three studies are in review; no findings are published yet. Record Check, $490; white-label, $490 per client report. Free correction route: hello@broadcastwell.com.
+- [The Change Desk: what AI tells your buyers after your facts change | Broadcastwell](https://broadcastwell.com/change-desk): After an incident statement, an acquisition or ownership change, or a price, plan, product or link change, check dated AI answers against public facts. Three studies are in review; no findings are published yet. Answer Repair, $490; Agency Deadline Audit, $490 per client report. Free correction route: hello@broadcastwell.com.
 
 ## GEO explained
 
@@ -72,7 +74,6 @@ Nothing in this section is security advice. For patching, follow PHP's advisory 
 - [Neurvalis AI visibility baseline | Broadcastwell](https://broadcastwell.com/neurvalis-ai-visibility-diagnostic): How Broadcastwell's AI visibility baseline assessment gave Neurvalis AI Automation a clear starting point and the confidence to begin a 90 day engagement.
 - [Read an AI answer without overreading it | The Absence Manual](https://docs.broadcastwell.com/resources/guides/read-an-answer/): Evidence / BW-RESOURCE-01
 - [Read an AI answer without overreading it | The Absence Manual](https://docs.broadcastwell.com/resources/worksheets/read-an-answer/): Editable worksheet. Use permitted public or synthetic material. Entries stay in this page; export to keep a copy. Each field is limited to 2,000 characters.
-- [Check What AI Says About You | Broadcastwell](https://broadcastwell.com/set-the-record): A $490 Record Check for one company and one change event. Ten questions, five engines, three runs and 150 planned answers, with receipts and human review within 48 hours of scope confirmation.
 - [The AI Visibility Absence Ladder | Broadcastwell](https://broadcastwell.com/absence-ladder): A research framework for diagnosing why B2B software companies are absent from AI-generated buyer answers, based on 616 classified absence cases.
 - [Vantaa Tax AI visibility case study | Broadcastwell](https://broadcastwell.com/vantaa-tax-ai-visibility-case-study): Vantaa Tax: tracked AI visibility rose about 12% in 28 days across ten buyer questions and four AI engines. An early directional benchmark, not traffic or revenue.
 - [Watch the method in action. | The Absence Manual](https://docs.broadcastwell.com/resources/demos/recordings/): Synthetic demonstrations recorded from the local functioning exercises. No client data, live AI measurement, real approval or real delivery is represented. Original silent video with visible captions,
@@ -85,7 +86,6 @@ Nothing in this section is security advice. For patching, follow PHP's advisory 
 - [AI Answer Agencies Compared, 2026 | Broadcastwell](https://broadcastwell.com/best-aeo-agencies): Compare agencies that work on AI answers. Check their published methods, entry offers, refund terms and named cases before buying.
 - [Ahrefs Brand Radar Alternatives | Broadcastwell](https://broadcastwell.com/ahrefs-brand-radar-alternatives): Compare Ahrefs Brand Radar alternatives on prices, engine coverage, answer evidence and purchase routes, with dated source links.
 - [AI Search Agencies for B2B Software | Broadcastwell](https://broadcastwell.com/ai-search-visibility-agencies-b2b-software): Choose an AI search agency for B2B software. Check the buyer questions, engine coverage, answer evidence, valid bases, delivery and terms.
-- [AI Search Visibility Agencies, 2026 | Broadcastwell](https://broadcastwell.com/best-ai-search-visibility-agencies): Compare AI search agencies for B2B software, with dated source checks and our October 2026 table of which agencies 105 valid AI answers named.
 - [AI Search Agencies for Midmarket Teams | Broadcastwell](https://broadcastwell.com/ai-search-visibility-agencies-mid-sized-companies): Choose an AI search agency for a midmarket software team. Check measurement scope, answer evidence, delivery, prices and terms.
 - [AI Search Agencies for B2B Leads | Broadcastwell](https://broadcastwell.com/ai-seo-agencies-b2b-lead-generation): Compare AI search agencies for B2B teams using published methods, engine coverage, prices, refund terms and named software cases.
 - [AI Visibility Audit Services Compared | Broadcastwell](https://broadcastwell.com/best-ai-visibility-audit-services): Compare AI visibility audit services by scope, engine coverage, repeat runs, answer evidence, delivery, prices and published refund terms.
@@ -98,7 +98,6 @@ Nothing in this section is security advice. For patching, follow PHP's advisory 
 - [Free AI Visibility Checkers Compared | Broadcastwell](https://broadcastwell.com/best-free-ai-visibility-checkers): Read what 11 free AI visibility checkers showed for one domain, what required an email and which evidence each result actually included.
 - [AI Search Visibility Companies | Broadcastwell](https://broadcastwell.com/best-generative-engine-optimization-companies): Compare AI search visibility companies by published scope, method, prices and terms. Read source evidence before choosing a service.
 - [AI Search Agencies Compared, 2026 | Broadcastwell](https://broadcastwell.com/best-geo-agencies): Compare AI search agencies on published scope, method, prices, purchase routes and refund terms. Alphabetical, with dated source links.
-- [B2B AI Search Agencies Compared, 2026 | Broadcastwell](https://broadcastwell.com/best-geo-agencies-b2b-software): Compare AI search agencies for B2B software, with dated source checks and our October 2026 table of which agencies 105 valid AI answers named.
 - [AI Search Agencies for Cybersecurity | Broadcastwell](https://broadcastwell.com/best-geo-agencies-for-cybersecurity): Compare AI search agencies for cybersecurity using named client evidence, published methods, prices and terms, with dated sources.
 - [AI Search Agencies for Fintech | Broadcastwell](https://broadcastwell.com/best-geo-agencies-for-fintech): Compare AI search agencies for fintech using named client evidence, published methods, scope, prices and terms, with dated sources.
 - [AI Search Agency Guarantees | Broadcastwell](https://broadcastwell.com/geo-agencies-with-guarantees): Check which AI search suppliers publish written guarantees, what their terms cover and what a buyer must verify before paying.
@@ -124,18 +123,14 @@ Nothing in this section is security advice. For patching, follow PHP's advisory 
 - [AI Search Agency Pricing Compared | Broadcastwell](https://broadcastwell.com/geo-agency-pricing): Compare published AI search agency prices and what each offer includes. Read the dated scope, purchase routes and source evidence.
 - [White Label GEO Partners, Compared 2026](https://broadcastwell.com/best-white-label-geo-partners): White label GEO and AEO partners for agencies, compared on published wholesale terms, named engines and machine readable results.
 - [White-label AI visibility reporting for agencies](https://broadcastwell.com/white-label-ai-visibility-reporting-for-agencies): Monthly white-label tools or a finished report per client. Prices checked 25 Sep 2026. Broadcastwell's white-label Audit is $490 per report.
-- [White-label AI visibility reports | Broadcastwell](https://broadcastwell.com/for-agencies): White-label AI visibility reports for your agency. Delivery lead: Priya Nair, Management Consultant. Your agency keeps the client relationship.
+- [Agency Deadline Audit | Broadcastwell](https://broadcastwell.com/for-agencies): $490 per client report. Evidence, three prioritized fixes and one paste-ready change under the agency brand. Findings within 48 hours of recorded scope confirmation; refundable in full within 30 days.
 - [AI Search Agency Lists, Audited | Broadcastwell](https://broadcastwell.com/best-geo-agencies-lists-audited): See how AI search agency lists handle ranking, publisher interests, source evidence and disclosure. Read the dated checks before choosing.
 
 ## What moves an AI answer
 
 - [AI Search Visibility Team | Broadcastwell](https://broadcastwell.com/about): Meet the team behind Broadcastwell AI search visibility work. Read our evidence standards, named delivery lead and published research.
-- [Absence Ads: Sponsored Presence Beside Organic Evidence | Broadcastwell](https://broadcastwell.com/absence-ads): Review sponsored presence in your advertiser accounts alongside separately measured organic answers. Ad spend is separate; read scope and refund terms.
-- [Agent Ready: Buyer Tasks and Evidence | Broadcastwell](https://broadcastwell.com/agent-ready): Check whether an AI buyer can find, understand and reach your public product information. Read the task evidence, findings, scope and limits.
 - [AI Automation Engineer, Careers at Broadcastwell](https://broadcastwell.com/careers/ai-automation-engineer): Open role at Broadcastwell: AI Automation Engineer. Remote, United States, $110k to $150k. Keep measurement runs, receipts and scoring reliable.
-- [AI Pipeline Proof: Read Presence, Demand and Outcomes | Broadcastwell](https://broadcastwell.com/pipeline-proof): Read measured AI presence, recorded demand and business outcomes separately, with their sources and dates. Inspect the scope and published terms.
 - [AI Search Visibility Questions | Broadcastwell](https://broadcastwell.com/faq): Get plain answers about AI search visibility, what we measure, the $490 Category Audit, delivery, refunds and the evidence behind every figure.
-- [AI Shortlist Check, a free Chrome extension | Broadcastwell](https://broadcastwell.com/ai-shortlist-check): See how often ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode name the software company you are viewing. Free, private, no account.
 - [AI Solutions Architect, Careers at Broadcastwell](https://broadcastwell.com/careers/ai-solutions-architect): Open role at Broadcastwell: AI Solutions Architect. Remote, United States, $140k to $190k. Own the reliability of published AI search measurement.
 - [API, webhooks and the MCP connector | Broadcastwell](https://broadcastwell.com/developers): A read only API with an OpenAPI 3.1 description, signed webhooks that also deliver to Slack and Teams, and a connector for Claude and ChatGPT with fifteen read only tools. A public demo key opens a fictional sample.
 - [Appendix A. The ten-question buyer bank | The Absence Manual](https://docs.broadcastwell.com/question-bank/): The question shapes used across the three State of GEO volumes, the coverage requirement each category had to meet, the realised shape mix, and the rules that make a bank fixed, published and checkable.
@@ -169,7 +164,6 @@ Nothing in this section is security advice. For patching, follow PHP's advisory 
 - [AI Search Visibility Program | Broadcastwell](https://broadcastwell.com/generative-engine-optimization-services): Read the AI search visibility program scope, delivery, fixed buyer questions, evidence, prices and the published day-90 measurement gate.
 - [Growth and Partnerships Fellow | Paid, India | Broadcastwell](https://broadcastwell.com/careers/growth-and-partnerships-fellow): Paid Growth and Partnerships Fellow role, remote in India. INR 25,000 gross per month, 20 hours per week for 12 weeks. Hiring starts only after legal and employer readiness checks.
 - [Half its own shortlist | The Absence Manual](https://docs.broadcastwell.com/posts/half-its-own-shortlist/): Across 62 and 74 repeat pairs on a 25-question subsample, Google AI Overviews agreed with its own vendor shortlist at 0.499 and Claude at 0.442 when asked the identical question again. Every single-run visibility score carries that variance and cannot show it.
-- [Index Verified and Category Exclusive | Broadcastwell](https://broadcastwell.com/index-verified): Claim your Absence Index record, show the badge, read your free Index Brief, and lock your category: one company per category on the Fix Sprint and the program.
 - [Keep product facts consistent without inventing certainty | The Absence Manual](https://docs.broadcastwell.com/resources/guides/product-facts/): Governance / BW-RESOURCE-05
 - [Keep product facts consistent without inventing certainty | The Absence Manual](https://docs.broadcastwell.com/resources/worksheets/product-facts/): Editable worksheet. Use permitted public or synthetic material. Entries stay in this page; export to keep a copy. Each field is limited to 2,000 characters.
 - [Management Consultant, B2B SaaS Growth, Broadcastwell](https://broadcastwell.com/careers/management-consultant-b2b-saas-growth): Open role at Broadcastwell: Management Consultant, B2B SaaS Growth. Remote, United States, $90k to $130k. Turn findings into client strategy.
@@ -195,40 +189,32 @@ Nothing in this section is security advice. For patching, follow PHP's advisory 
 - [Turn evidence into useful next work. | The Absence Manual](https://docs.broadcastwell.com/resources/): Six practical guides, editable worksheets and honest synthetic examples for reviewing AI-answer evidence and planning buyer-facing improvements.
 - [Vendor Facts File v1 | The Absence Manual](https://docs.broadcastwell.com/vendor-facts/): An open JSON schema for vendor facts, with a complete fictional example, validation instructions and CC BY 4.0 reuse. A facts file is not a ranking signal.
 - [What 2,095 AI answers say about who gets named for B2B software](https://broadcastwell.com/insights/2095-ai-answers): What dated AI answers show about software shortlists, factual accuracy and buying requirements, with sources, denominators and review limits.
-- [What AI Said: the Pre-Call Brief | Broadcastwell](https://broadcastwell.com/what-ai-said): A dated read of what AI answers tell a prospective buyer about your company and a rival, with source receipts and a concise talk track.
 
 ## Buying and procurement
 
 - [Buy AI Search Work Without a Call | Broadcastwell](https://broadcastwell.com/buy-geo-without-a-sales-call): Find AI search visibility offers that publish a route to buy without a call. Compare what arrives, timing, prices and refund terms.
 - [Category Audit , executive delivery template | The Absence Manual](https://docs.broadcastwell.com/resources/audit/executive-template/): Classification: Template only; incomplete fields block client delivery. Version: bw-content-2026-09-24-v1.
-- [AI Search Visibility Audit, $490 | Broadcastwell](https://broadcastwell.com/category-audit): See which software AI search names in your category, who is named instead and why. $490; findings within 48 hours of category confirmation.
 - [Chapter 12. How to buy GEO without getting sold a number | The Absence Manual](https://docs.broadcastwell.com/how-to-buy-geo/): Twelve questions to put to any supplier of AI search visibility work, what a defensible deliverable contains, how to read a proposal, and the conditions under which the right decision is to hire nobody and do the diagnostic yourself.
 - [Choose ten buyer questions worth investigating | The Absence Manual](https://docs.broadcastwell.com/resources/guides/buyer-questions/): Planning / BW-RESOURCE-03
 - [Choose ten buyer questions worth investigating | The Absence Manual](https://docs.broadcastwell.com/resources/worksheets/buyer-questions/): Editable worksheet. Use permitted public or synthetic material. Entries stay in this page; export to keep a copy. Each field is limited to 2,000 characters.
 - [Comparison page , reusable implementation brief | The Absence Manual](https://docs.broadcastwell.com/resources/briefs/comparison/): Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
 - [Comparison-page briefing | The Absence Manual](https://docs.broadcastwell.com/resources/playbooks/comparison-brief/): Version: bw-content-2026-09-24-v1. Original task card. Rules evaluate bounded supplied fixture fields; they do not verify the truth of arbitrary pasted sources or replace independent source review. Ac
-- [AI Search Visibility Fix Sprint | Broadcastwell](https://broadcastwell.com/fix-sprint): Fix the gaps behind AI answers with a 30-day Fix Sprint. See our own Audit proof, both payment options and the exact measurement and refund rules.
+- [Fix Sprint | Broadcastwell](https://broadcastwell.com/fix-sprint): Six contracted pages or rewrites over 30 days, $3,900, or $3,410 after the $490 entry is credited once. Measured gain on the agreed test, or the full $3,900 back.
 - [For marketing leaders: what AI search is doing to your category | The Absence Manual](https://docs.broadcastwell.com/for-buyers/): A short, plain-language account of how AI answers pick which vendors to name, why most companies are missing from them, why the number your agency shows you may not mean what you think, and what to do next.
-- [Index Brief with page review | Broadcastwell](https://broadcastwell.com/index-brief): A written readout of your Absence Index record and a review of one buyer page. Read the current scope and ordering route through More ways to measure on pricing.
 - [Inspect the matched receipts. | The Absence Manual](https://docs.broadcastwell.com/resources/audit/recheck-receipts/): Authored synthetic example. No live engine, client outcome or real release is represented. October 1, 2026 is a fictional scenario date, not an event that has occurred.
 - [Integration explanation , reusable implementation brief | The Absence Manual](https://docs.broadcastwell.com/resources/briefs/integration/): Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
 - [Limitations and pricing explanation , reusable implementation brief | The Absence Manual](https://docs.broadcastwell.com/resources/briefs/limitations-pricing/): Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
 - [Migration planning page , reusable implementation brief | The Absence Manual](https://docs.broadcastwell.com/resources/briefs/migration/): Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
-- [Portfolio Scan for PE and holdcos | Broadcastwell](https://broadcastwell.com/portfolio-scan): Four company measurements with one table and an operating-partner summary. Read current scope and ordering through More ways to measure on pricing.
-- [AI Search Visibility Pricing | Broadcastwell](https://broadcastwell.com/pricing): Compare the $490 Category Audit, Fix Sprint and program. Read the scope, dated proof, published method, delivery lead and exact refund terms.
+- [Answer Operations pricing | Broadcastwell](https://broadcastwell.com/pricing): Answer Repair and Agency Deadline Audit, $490. Compare the Fix Sprint, Care, Program and page-build scopes with their delivery and refund terms.
 - [Procurement pack | Broadcastwell](https://broadcastwell.com/procurement): Subprocessors, DPA template, security questionnaire (no SOC 2), retention and deletion, method v1.1 and sample receipts. One PDF, no form.
 - [Procurement summary , reusable implementation brief | The Absence Manual](https://docs.broadcastwell.com/resources/briefs/procurement/): Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
-- [Second Opinion on Tracked Questions | Broadcastwell](https://broadcastwell.com/second-opinion): Read an independent comparison of the questions you already track, with observed answers, source receipts and a separate finding for each question.
 - [Security and Data Handling | Broadcastwell](https://broadcastwell.com/security): How Broadcastwell handles client information, AI-search measurement inputs, access, retention, deletion requests, subprocessors, and security incidents.
 - [Six reusable asset briefs | The Absence Manual](https://docs.broadcastwell.com/resources/briefs/): Formats for selecting useful work within the existing purchased allowance. Six templates do not promise six extra pages.
-- [Start with the $490 Category Audit](https://broadcastwell.com/buy/audit): Category Audit order entry. Read the scope, delivery promise, credit and refund terms before ordering.
 - [Synthetic Category Audit , Northstar Lab | The Absence Manual](https://docs.broadcastwell.com/resources/audit/sample/): Synthetic learning example , not a client result or live AI measurement. Prepared 2026-09-24; version bw-content-2026-09-24-v1. No client, live engine, payment or delivered engagement is represented.
 - [Terms | Broadcastwell](https://broadcastwell.com/terms): Terms for the Category Audit, Fix Sprint, program and Free 10-question check, including refunds, credits, partner commissions and limitations.
-- [The Buyer's Checklist: Read AI Buying Criteria | Broadcastwell](https://broadcastwell.com/buyers-checklist): Read the criteria AI gives buyers, compare them with your published product facts and inspect the sources behind each finding.
 - [Use-case page , reusable implementation brief | The Absence Manual](https://docs.broadcastwell.com/resources/briefs/use-case/): Version bw-content-2026-09-24-v1. Template plus synthetic draft; not a client asset or new inclusion.
 - [Valren Atelier AI Visibility Audit | Broadcastwell](https://broadcastwell.com/valren-ai-visibility-audit): How Broadcastwell worked with Valren Atelier to establish a baseline for AI search visibility: what was measured, what the work covered, and what stays private.
 - [AI Visibility Audit Cost and Scope | Broadcastwell](https://broadcastwell.com/what-does-an-ai-visibility-audit-cost): Compare AI visibility audit prices with the questions, engines, repeated runs, evidence and delivery included. Read the $490 Audit scope.
-- [White label Category Audit, $490 | Broadcastwell](https://broadcastwell.com/white-label-audit): The $490 Category Audit under your agency's brand: 10 buyer questions, 5 engines, 3 runs each. One client report, no monthly fee.
 - [Who Can Check AI Answers About Us? | Broadcastwell](https://broadcastwell.com/who-can-audit-how-ai-describes-my-software-company): Compare checking AI answers yourself, using a tool or hiring a team. Read what each approach shows, its scope and the evidence to request.
 
 ## By industry and role
@@ -285,13 +271,14 @@ Nothing in this section is security advice. For patching, follow PHP's advisory 
 - [Wrong About You: Study 6 | Broadcastwell](https://broadcastwell.com/research/wrong-about-you): 118 provisionally flagged statements about 70 software vendors: 113 wrong and 5 stale. Published sources, data and method. Team review is in progress.
 
 
-## Buyer pages, reviewed 23 October 2026
+## Buyer pages, reviewed 26 October 2026
 
-Does AI name your software when buyers ask? Delivery lead: Priya Nair, Management Consultant.
+Buyer answers, built and maintained on your site. Delivery lead: Priya Nair, Management Consultant.
 
-The Category Audit asks ten buyer questions on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, three scheduled runs each: 150 planned answers. Valid answers and exclusions are separate. Every figure comes from the published method, v1.1: https://broadcastwell.com/methodology
+The Agency Deadline Audit asks ten buyer questions on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, three scheduled runs each: 150 planned answers. Valid answers and exclusions are separate. Every figure comes from the published method, v1.1: https://broadcastwell.com/methodology
 
-The two disclosed 2026 comparisons show the eight agencies recorded in our own Category Audit of 14 October 2026, with counts out of 105 valid answers; 45 incomplete captures were excluded. Broadcastwell was named in 0 of 105. Agencies are alphabetical and Broadcastwell is not scored. Source: https://broadcastwell.com/public-fix
 
 Absence Index, release 2026-09: 286 software vendors across 14 categories. DOI 10.5281/zenodo.22907695: https://doi.org/10.5281/zenodo.22907695
 State of GEO Volume III, DOI 10.5281/zenodo.21789120: https://doi.org/10.5281/zenodo.21789120
+
+- [Answer Repair | Broadcastwell](https://broadcastwell.com/answer-repair): One buyer question, one completed page or fix, $490. Live or Handoff. Due 48 elapsed hours after Ready, with the published full-refund terms.

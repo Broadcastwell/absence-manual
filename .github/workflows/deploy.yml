@@ -1,4 +1,4 @@
-name: Build and deploy The Absence Manual
+name: Deploy the verified Absence Manual
 
 on:
   push:
@@ -8,6 +8,8 @@ on:
 
 permissions:
   contents: read
+  actions: read
+  pull-requests: read
   pages: write
   id-token: write
 
@@ -16,36 +18,44 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  promote:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Find the trusted successful preview for this merged tree
+        id: preview
+        uses: actions/github-script@v7
         with:
-          python-version: "3.12"
-          cache: pip
-      - name: Install the system libraries the PDF renderer needs
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz0b
-      - name: Install pinned dependencies
-        run: pip install -r requirements.txt
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "24"
-      - name: Verify shared chrome and responsive disclosure behavior
-        run: node --test tests/site-chrome.test.mjs tests/manual-controls.test.mjs
-      - name: Build site
-        run: mkdocs build
-      - name: Build the ungated PDF mirror from the same source
-        run: python tools/build_pdf.py
-      - name: Verify the build is ungated and crawlable
-        run: python tools/verify_build.py
+          script: |
+            const fs = require('fs');
+            const {owner, repo} = context.repo;
+            const prs = (await github.rest.repos.listPullRequestsAssociatedWithCommit({owner,repo,commit_sha:context.sha,per_page:100})).data;
+            const pr = prs.find(p => p.merged_at && p.merge_commit_sha === context.sha && p.base.ref === 'main' && p.head.repo?.full_name === `${owner}/${repo}`);
+            if (!pr) throw new Error('No trusted merged pull request matches this production commit');
+            const runs = (await github.rest.actions.listWorkflowRuns({owner,repo,workflow_id:'verify.yml',head_sha:pr.head.sha,event:'pull_request',status:'success',per_page:20})).data.workflow_runs;
+            const run = runs.find(r => r.conclusion === 'success' && r.head_repository?.full_name === `${owner}/${repo}`);
+            if (!run) throw new Error('No successful verification run matches the merged PR head');
+            const artifacts = (await github.rest.actions.listWorkflowRunArtifacts({owner,repo,run_id:run.id,per_page:100})).data.artifacts;
+            const matches = artifacts.filter(a => a.name === 'manual-site-preview' && !a.expired);
+            if (matches.length !== 1) throw new Error('Expected exactly one unexpired verified preview');
+            const zip = await github.rest.actions.downloadArtifact({owner,repo,artifact_id:matches[0].id,archive_format:'zip'});
+            fs.writeFileSync('verified-preview.zip', Buffer.from(zip.data));
+            core.setOutput('source-head',pr.head.sha);
+            core.setOutput('run-id',String(run.id));
+      - name: Validate artifact provenance against the production tree
+        env:
+          EXPECTED_HEAD: ${{ steps.preview.outputs.source-head }}
+          EXPECTED_RUN: ${{ steps.preview.outputs.run-id }}
+        run: |
+          unzip -q verified-preview.zip -d site
+          python tools/validate_preview.py site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
 
   deploy:
-    needs: build
+    needs: promote
     runs-on: ubuntu-latest
     timeout-minutes: 15
     environment:

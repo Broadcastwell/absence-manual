@@ -41,7 +41,7 @@ APPROVED_PALETTE = {
 }
 
 # The only purchase address a page may carry, and the words that may no longer appear.
-BUY_AUDIT = "https://broadcastwell.com/buy/audit"
+BUY_ENTRY = "https://broadcastwell.com/answer-repair"
 RETIRED_OFFER_TEXT = [
     "currently on hold", "Check Audit availability", "Check Diagnostic availability",
     "working draft", "founding rate", "$89",
@@ -51,16 +51,25 @@ RETIRED_OFFER_TEXT = [
 # $990 AI Visibility Diagnostic is retired and the AI Fact Check is removed. None of the words
 # below may reach a reader: page text, buttons, alt text, meta, JSON-LD, llms.txt, the search
 # index, the learning downloads and the PDFs this site serves.
-CREDIT_LINE = "The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410."
-AUDIT_PROMISE = "Findings within 48 hours of your category confirmation"
+CREDIT_LINE = "The $490 entry credits once against the $3,900 Fix Sprint, leaving $3,410."
+AUDIT_PROMISE = "Due 48 elapsed hours after recorded Ready."
 AVAILABILITY_WORDS = re.compile(
     r"(?i)\bpaused\b|\bpause\b|\bpilot\b|\bclosed\b|not currently offered|\bnot open\b|\breopens?\b"
     r"|\bis full\b|orders in total|\(\s*\d+\s+orders?\s*\)|\b\d+\s+orders\b|\bwaitlist\b"
-    r"|\btemporarily\b|limited availability|\bnext batch\b|\bcapacity\b"
+    r"|\btemporarily\b|limited availability|\bcapacity\b"
 )
 RETIRED_OFFERS = re.compile(
     r"(?i)\$990|ai fact check|/buy/diagnostic|/buy/ai-fact-check"
     r"|broadcastwell\.com/ai-fact-check|broadcastwell\.com/ai-visibility-audit"
+)
+# The 25 October relaunch replaces prior commercial catalogues. Quoted dated
+# research and the protected existing client summaries retain their source facts.
+RELAUNCH_REMOVALS = re.compile(
+    r"(?i)0 of 105|0/105|105 valid|45 excluded|own-record|Public Fix \#?0"
+    r"|\$(?:2,900|2900|13,500|13500|4,500|4500|990|1,960|1960|190)\b"
+    r"|pay when named|Portfolio Scan|Second Opinion|Index Brief|Checklist Audit"
+    r"|\$19 a credit|per credit|\$1,000 (?:per|a month)"
+    r"|(?:order|reserve|availability|limited).{0,40}next batch"
 )
 # "Diagnostic" as something to buy. The lower-case word is the manual's own self-run method (the
 # two-gate diagnostic of Chapter 2) and stays. History may describe past diagnostic work with no
@@ -82,7 +91,7 @@ def ruling_hits(text):
     for allowed in DIAGNOSTIC_HISTORY:
         text = text.replace(allowed, " ")
     hits = []
-    for rx in (AVAILABILITY_WORDS, RETIRED_OFFERS, DIAGNOSTIC_OFFER):
+    for rx in (AVAILABILITY_WORDS, RETIRED_OFFERS, DIAGNOSTIC_OFFER, RELAUNCH_REMOVALS):
         for m in rx.finditer(text):
             hits.append(text[max(0, m.start() - 50):m.end() + 50])
     return hits
@@ -333,7 +342,7 @@ for rel, cls in sorted(manifest.items()):
         'class="bw-shared-wordmark" href="https://broadcastwell.com/"',
         'href="https://broadcastwell.com/pricing">Pricing<',
         'href="https://app.broadcastwell.com/signin">Sign in<',
-        'class="bw-shared-audit" href="%s" aria-label="Start with the $490 Category Audit">' % BUY_AUDIT,
+        'class="bw-shared-audit" href="%s" aria-label="Fix one answer, $490">' % BUY_ENTRY,
     ]:
         if needed not in head:
             fail("%s header is missing %s" % (rel, needed))
@@ -348,8 +357,8 @@ for rel, cls in sorted(manifest.items()):
     if foot.find("excluded from its own sample") > foot.find("bw-shared-columns"):
         fail("%s footer does not keep its own disclosure note above the shared columns" % rel)
     groups = re.findall(r'<details class="bw-shared-group"[^>]*>([\s\S]*?)</details>', foot)
-    if len(groups) != 5 or any(len(re.findall(r"<li>", group)) != 6 for group in groups):
-        fail("%s footer must contain five groups of six links" % rel)
+    if len(groups) != 5 or [len(re.findall(r"<li>", group)) for group in groups] != [8, 6, 6, 6, 6]:
+        fail("%s footer must contain five complete groups, preserving PHP2Shell and Change Desk links" % rel)
     if 'href="tel:+18123457272">(812) 345 7272' not in foot or '517 E Kirkwood Ave<br>Bloomington, IN 47408' not in foot:
         fail("%s footer is missing the public address or phone" % rel)
     if not re.search(r'<time datetime="\d{4}-\d{2}-\d{2}">', foot):
@@ -357,7 +366,7 @@ for rel, cls in sorted(manifest.items()):
     if chr(183) in html:
         fail("%s contains a middle dot" % rel)
     if "buy.stripe.com" in html:
-        fail("%s links a checkout directly; every buy link goes through %s" % (rel, BUY_AUDIT))
+        fail("%s links a checkout directly; every buy link goes through %s" % (rel, BUY_ENTRY))
     for anchor in re.findall(r'(?is)<a\b[^>]*href="mailto:[^"]*"[^>]*>(.*?)</a>', html):
         if re.search(r"(?i)\$\d|audit|diagnostic|availability|buy|order", strip_tags(anchor)):
             fail("%s has a mailto link used as a purchase control: %s" % (rel, strip_tags(anchor).strip()[:60]))
@@ -367,7 +376,7 @@ for rel, cls in sorted(manifest.items()):
     if 'class="bw-next-step"' in html:
         at = html.find('class="bw-next-step"')
         block = html[at:html.find("</section>", at)]
-        for needed in ('href="%s">Start with the $490 Category Audit<' % BUY_AUDIT, CREDIT_LINE, AUDIT_PROMISE):
+        for needed in ('href="%s">Fix one answer, $490<' % BUY_ENTRY, CREDIT_LINE, AUDIT_PROMISE):
             if needed not in block:
                 fail("%s next step block must carry %r" % (rel, needed))
         if "bw-paused" in block or "Diagnostic" in block:
@@ -409,35 +418,36 @@ else:
         fail("llms.txt has no dated Current prices and terms block")
     if "buy.stripe.com" in body:
         fail("llms.txt links a checkout directly")
-    if BUY_AUDIT not in body:
-        fail("llms.txt does not give %s" % BUY_AUDIT)
+    if BUY_ENTRY not in body:
+        fail("llms.txt does not give %s" % BUY_ENTRY)
     for retired in RETIRED_OFFER_TEXT:
         if retired in body:
             fail("llms.txt still says %r" % retired)
     if CREDIT_LINE not in body:
-        fail("llms.txt does not carry the credit line exactly as ruled on 12 October 2026")
+        fail("llms.txt does not carry the current one-time entry credit")
     if AUDIT_PROMISE not in body:
-        fail("llms.txt does not carry the Category Audit promise %r" % AUDIT_PROMISE)
+        fail("llms.txt does not carry the Answer Repair clock %r" % AUDIT_PROMISE)
     for required in (
-        "Category Exclusive: included with the Fix Sprint and the program at no extra charge.",
-        "The Category Audit, white-label reports and every Index service stay open to everyone.",
-        "Availability check: https://app.broadcastwell.com/exclusive",
-        "Index Verified: free for every checked vendor on the Absence Index:",
-        "No payment changes any Index number. https://index.broadcastwell.com/verified/",
-        "[Index Verified and Category Exclusive | Broadcastwell](https://broadcastwell.com/index-verified)",
+        "Agency Deadline Audit: $490 per client report", "Answer Repair: $490.",
+        "Fix Sprint: $3,900 ($3,410 after the $490 entry is credited, once)",
+        "Sprint channel add-on: $900", "Care: $490 a month", "Program: $5,500 a month",
+        "150-page build: $6,000 plus $250 a page, in batches of 25",
+        "Orders placed before 26 October 2026 keep the terms shown at purchase.",
+        "https://broadcastwell.com/buy/answer-repair", "https://broadcastwell.com/buy/white-label-audit",
+        "ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode",
     ):
         if required not in body:
-            fail("llms.txt is missing the verified offer rule %r" % required)
+            fail("llms.txt is missing the current Answer Operations rule %r" % required)
 
 home = SITE / "index.html"
 if home.exists():
     home_html = home.read_text(encoding="utf8")
-    for needed in (CREDIT_LINE, AUDIT_PROMISE, 'href="%s"' % BUY_AUDIT):
+    for needed in (CREDIT_LINE, AUDIT_PROMISE, 'href="%s"' % BUY_ENTRY):
         if needed not in home_html:
             fail("the front page offer section does not carry %r" % needed)
 
 
-# ---------- section 0 of the 5 October 2026 ruling, on everything served ----------
+# ---------- section 0 of the current relaunch rules, on everything served ----------
 
 try:
     from pypdf import PdfReader
@@ -468,7 +478,7 @@ for served in sorted(SITE.rglob("*")):
         continue
     ruling_files += 1
     for hit in ruling_hits(text):
-        fail("%s breaks the 5 October 2026 ruling: ...%s..." % (rel, hit))
+        fail("%s breaks the current relaunch rules: ...%s..." % (rel, hit))
 if ruling_files == 0:
     fail("the ruling scan read no served files")
 
@@ -489,29 +499,16 @@ else:
         if required not in facts_text:
             fail("Vendor Facts File is missing %r" % required)
 if llms.exists():
+    current_llms = llms.read_text(encoding="utf8")
     for required in (
-        "Agent Test: ten buyer tasks with recorded evidence and reviewed findings.",
-        "Findings within 48 hours of task confirmation.",
-        "White-label Agent Test: evidence delivered under the agency's brand.",
-        "One credit per Sprint.",
-        "The current credit comes from one paid Category Audit.",
-        "https://broadcastwell.com/agent-ready",
         "Ask <Vendor>: a read-only connector", "https://app.broadcastwell.com/mcp/vendor/kalvenor",
-        "Vendor Facts File v1: an open schema (CC BY 4.0)",
+        "Sample, fictional company", "Vendor Facts File v1: an open schema (CC BY 4.0)",
     ):
-        if required not in llms.read_text(encoding="utf8"):
-            fail("llms.txt is missing the Agent Ready rule %r" % required)
-    for prefix in ("- Agent Test:", "- [Agent Ready:"):
-        lines = [line for line in llms.read_text(encoding="utf8").splitlines() if line.startswith(prefix)]
-        if len(lines) != 1:
-            fail("llms.txt must have exactly one commercial Agent Test entry for %r" % prefix)
-            continue
-        if any(term not in lines[0].lower() for term in ("tasks", "evidence", "scope")):
-            fail("llms.txt Agent Test entry must state buyer task evidence and scope")
-        if re.search(r"\$\d", lines[0]):
-            fail("llms.txt Agent Test entry advertises a price outside the 20 October approved offer list")
-        if any(old in lines[0] for old in ("Perplexity Computer", "two agents", "both agents", "ChatGPT Work with Cloud browser")):
-            fail("llms.txt commercial Agent Test entry has superseded agent scope")
+        if required not in current_llms:
+            fail("llms.txt is missing the factual connector or open-standard rule %r" % required)
+    for retired_route in ("/agent-ready", "/index-verified", "/portfolio-scan", "/second-opinion", "/index-brief", "/buy/audit"):
+        if "https://broadcastwell.com" + retired_route in current_llms:
+            fail("llms.txt promotes a retired or fallback route %s" % retired_route)
 
 if problems:
     print("Build verification failed:")
@@ -519,7 +516,7 @@ if problems:
         print("  " + p)
     sys.exit(1)
 
-print("Build verification passed. %d pages checked (%s); %d served files clear of the 5 October 2026 ruling words." % (
+print("Build verification passed. %d pages checked (%s); %d served files clear of the current relaunch rules words." % (
     len(manifest),
     ", ".join("%d %s" % (sum(1 for c in manifest.values() if c == k), k)
               for k in sorted(VALID_CLASSES) if any(c == k for c in manifest.values())),

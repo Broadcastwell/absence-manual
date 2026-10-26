@@ -733,7 +733,7 @@ The accompanying files provide all observations, not only the displayed rows. [r
 
 ## Product and corrections
 
-[Checklist Audit $490](https://broadcastwell.com/buyers-checklist). [Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)
+[Answer Repair, $490](https://broadcastwell.com/answer-repair), for one completed source-backed page or fix. [Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)
 
 Any named company may request one no-cost re-run at hello@broadcastwell.com; both results are published.
 
