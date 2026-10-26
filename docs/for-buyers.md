@@ -74,7 +74,7 @@ If you are evaluating suppliers or tools, [Chapter 12: How to buy GEO without ge
 
 If you want the underlying research, [the manual itself](https://docs.broadcastwell.com/) is free, ungated and has no email capture anywhere on it. It is one chapter per page and every number in it traces back to a published dataset you can download.
 
-For one completed buyer-answer repair, choose [Answer Repair, $490](https://broadcastwell.com/answer-repair). For a client report and paste-ready change under your agency brand, choose the [Agency Deadline Audit, $490 per client report](https://broadcastwell.com/for-agencies). The [current ladder](https://broadcastwell.com/pricing) explains the Fix Sprint, Care, Program and page-build scopes. Read the [terms dated 26 October 2026](https://broadcastwell.com/terms#2026-10-26-answer-operations-v1) before ordering. Orders placed before 26 October 2026 keep the terms shown at purchase.
+For one completed buyer-answer repair, choose [Answer Repair, $490](https://broadcastwell.com/answer-repair). For a client report and paste-ready change under your agency brand, choose the [Agency Deadline Audit, $490 per client report](https://broadcastwell.com/for-agencies). The [current ladder](https://broadcastwell.com/pricing) explains the Fix Sprint, Care, Program and page-build scopes. Read the [terms dated 26 October 2026](https://broadcastwell.com/terms#2026-10-26-answer-operations-v2) before ordering. Orders placed before 26 October 2026 keep the terms shown at purchase.
 
 ## About this manual
 
