@@ -115,23 +115,33 @@ Every chapter and appendix is published. A slug published once is permanent: ver
 
 If you are not going to read a technical manual, start with [what AI search is doing to your category](for-buyers.md). Plain language, no jargon, one page.
 
-## If you want this run for your category
+## Buyer answers, built and maintained on your site
 
-Current prices and terms, 13 October 2026. Every offer below is available now.
+We turn the Absence Index into buyer answers we build, maintain and warrant on your own site. Choose the first job you need.
 
-The [Free 10-question check (one engine)](https://audit.broadcastwell.com): ten buyer questions for your category on one engine, returning the observed answers and cited sources.
+**Answer Repair, $490.** One buyer question, one source-backed new page or equivalent fix. Choose Live or Handoff before payment. Live access and approval must be complete before payment. Due 48 elapsed hours after recorded Ready. If we miss the deliverable or deadline, we initiate a full $490 refund within five business days, and you keep the work. You may also request a full refund within 30 days of delivery.
 
-**Category Audit, $490 once.** One category, ten buyer questions, five engines, three measured runs. Who is named instead of you with counts, which of the ten questions you lose, the sources cited in those answers, a crawler access check, three prioritized fixes, receipts, a CMO summary and a finance memo. Findings within 48 hours of your category confirmation. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410. Refundable in full within 30 days of delivery.
+[Fix one answer, $490](https://broadcastwell.com/answer-repair){ .bw-buy }
 
-[Start with the $490 Category Audit](https://broadcastwell.com/buy/audit){ .bw-buy }
+**Agency Deadline Audit, $490 per client report.** We agree ten buyer questions, then ask each three times on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. You receive the evidence, three prioritized fixes and one paste-ready change of 250 words or fewer, under your brand. Findings within 48 hours of recorded scope confirmation. Refundable in full within 30 days. Your agency implements the change. We never contact your client during the work or for twelve months after.
 
-**Fix Sprint, $2,900 over 30 days.** Thirty days of the first fixes, available directly or after a $490 Category Audit. The full $490 credits once toward the $2,900 Fix Sprint within 30 days of Audit delivery, leaving $2,410. Terms at [broadcastwell.com/fix-sprint](https://broadcastwell.com/fix-sprint).
+[Read the agency scope](https://broadcastwell.com/for-agencies).
 
-**The program, $13,500 per 90 days, billed $4,500 monthly.** A 90 day initial term, then month to month. Booked by a call at [broadcastwell.com/contact](https://broadcastwell.com/contact).
+**Fix Sprint, $3,900 ($3,410 after the $490 entry is credited, once).** Six contracted pages or rewrites over 30 days, including any credited entry page. One primary test is agreed before payment and re-measured at day 30: naming, own-domain citation or buyer-task completion. Measured gain on the agreed test, or the full $3,900 back. You keep the work.
 
-Agencies buy the same work wholesale at $1,000 per client per month for the first client and $490 per client per month for each additional client at [broadcastwell.com/for-agencies](https://broadcastwell.com/for-agencies). A single white-label Category Audit for an agency client is $490 per report. The agency keeps the client relationship and implements the fixes. Every figure comes from the [published method, v1.1](https://broadcastwell.com/methodology). The full ladder is at [broadcastwell.com/pricing](https://broadcastwell.com/pricing). Findings can also be read with your own tools: a read only API, signed webhooks and a connector for Claude and ChatGPT, described at [broadcastwell.com/developers](https://broadcastwell.com/developers).
+**Sprint channel add-on, $900.** Four posts on owned channels, added to a Fix Sprint.
 
-Refund terms depend on the offer. A standalone Category Audit is refundable in full, no questions asked, if requested within 30 days of delivery of the findings. The first month of the program is refundable in full, no questions asked, at any time before month two is invoiced. You do not need to give a reason, and you keep every deliverable produced up to that point. The only exception is third-party costs paid on your behalf, and we tell you about any of those before they are incurred. See the [master refund and proof-gate terms](https://broadcastwell.com/terms).
+**Care, $490 a month.** Only after setup. Integrity monitoring for up to 150 already-approved existing pages and two human hours a month. No new pages. Requires an explicit purchase, with no automatic enrolment.
+
+**Program, $5,500 a month.** Twelve pages or rewrites and 8 channel posts a month across Substack, WordPress, Medium, LinkedIn, YouTube and directories. Includes a quarterly research study written by our researchers and up to 150 pages under management. You own the domain, content and exports.
+
+**150-page build, $6,000 plus $250 a page, in batches of 25.** Starts only after a 5-page paid trial. Each page must answer a distinct buyer need with real evidence. We build fewer pages when the facts do not support more.
+
+Larger scopes are agreed through [contact](https://broadcastwell.com/contact). Read the [full ladder](https://broadcastwell.com/pricing) and [versioned terms dated 26 October 2026](https://broadcastwell.com/terms#2026-10-26-answer-operations-v1). Orders placed before 26 October 2026 keep the terms shown at purchase.
+
+Ready records payment, the question and page scope, sufficient source facts, a named approver and, for Live, access and approval. Due 48 elapsed hours after recorded Ready. If Ready cannot be reached within 60 minutes after payment, you get immediate cancellation and a refund. Day 7 of a Sprint or Program brings the first approved page batch, fixed fact record, publication and rollback log, known blockers and next batch. Day 30 records the contracted work and separate measurement.
+
+The [Free 10-question check (one engine)](https://audit.broadcastwell.com/) shows one dated set of observed answers and cited sources. Shipped work, engine answers, referred visits and client-verified opportunities are separate measures.
 
 ## Notes
 

@@ -2,9 +2,6 @@ name: Verify manual pull request
 
 on:
   pull_request:
-  push:
-    branches-ignore:
-      - main
 
 permissions:
   contents: read
@@ -28,6 +25,8 @@ jobs:
           node-version: "24"
       - name: Verify shared chrome and responsive disclosure behavior
         run: node --test tests/site-chrome.test.mjs tests/manual-controls.test.mjs
+      - name: Verify production artifact rejection guards
+        run: python -m unittest discover -s tests -p 'test_verified_preview.py'
       - name: Build site
         run: mkdocs build
       - name: Build the ungated PDF mirror from the same source
@@ -35,6 +34,19 @@ jobs:
       - name: Verify the build is ungated and crawlable
         run: python tools/verify_build.py
       - name: Save the complete site preview
+        env:
+          SOURCE_HEAD: ${{ github.event.pull_request.head.sha }}
+        run: |
+          python - <<'PY'
+          import json, os, pathlib, subprocess
+          pathlib.Path('site/relaunch-build-provenance.json').write_text(json.dumps({
+              'source_head': os.environ['SOURCE_HEAD'],
+              'source_tree': subprocess.check_output(['git','rev-parse','HEAD^{tree}'],text=True).strip(),
+              'repository': os.environ['GITHUB_REPOSITORY'],
+              'run_id': os.environ['GITHUB_RUN_ID'],
+          }))
+          PY
+      - name: Upload the complete verified site
         uses: actions/upload-artifact@v4
         with:
           name: manual-site-preview
