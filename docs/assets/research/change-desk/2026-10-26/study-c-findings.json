@@ -1,0 +1,275 @@
+{
+  "study": "C",
+  "reviewer_line": "Reviewed by Priya Nair and Vikram Patel, Broadcastwell",
+  "counts": {
+    "planned": 150,
+    "captured": 150,
+    "valid": 150,
+    "excluded": 0,
+    "reviewed_adverse": 25,
+    "preflight_reviewed_adverse": 4,
+    "new_reviewed_adverse": 21,
+    "held": 5,
+    "answers_for_publication": 145,
+    "new_dispositions": {
+      "upheld": 19,
+      "held": 5,
+      "dropped": 14,
+      "narrowed": 2
+    }
+  },
+  "findings": [
+    {
+      "receipt_id": "CD-C-Q01-CL-R1",
+      "question_id": "Q01",
+      "engine": "Claude",
+      "run": "1",
+      "classification": "stale",
+      "finding": "The answer identifies an earlier update as latest. Frozen IR04 records 24 October 2026 at 14:00 UTC, within the question cutoff, and includes a later phased-onboarding target.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q01-CL-R2",
+      "question_id": "Q01",
+      "engine": "Claude",
+      "run": "2",
+      "classification": "stale",
+      "finding": "The answer identifies an earlier update as latest. Frozen IR04 records 24 October 2026 at 14:00 UTC, within the question cutoff, and includes a later phased-onboarding target.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q01-CL-R3",
+      "question_id": "Q01",
+      "engine": "Claude",
+      "run": "3",
+      "classification": "stale",
+      "finding": "The answer identifies an earlier update as latest. Frozen IR04 records 24 October 2026 at 14:00 UTC, within the question cutoff, and includes a later phased-onboarding target.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q01-AO-R1",
+      "question_id": "Q01",
+      "engine": "Google AI Overviews",
+      "run": "1",
+      "classification": "unsupported expansion",
+      "finding": "A specific account of incident operation goes beyond IR04. Technical detail is withheld from the public presentation; the label concerns the frozen source's scope.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q01-AM-R2",
+      "question_id": "Q01",
+      "engine": "Google AI Mode",
+      "run": "2",
+      "classification": "stale",
+      "finding": "The answer identifies an earlier update as latest. Frozen IR04 records 24 October 2026 at 14:00 UTC, within the question cutoff, and includes a later phased-onboarding target.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q03-AM-R2",
+      "question_id": "Q03",
+      "engine": "Google AI Mode",
+      "run": "2",
+      "classification": "contradicted",
+      "finding": "The answer gives 15 October as the discovery date; frozen IR04 states 14 October. This is a dated-statement discrepancy.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q04-CL-R1",
+      "question_id": "Q04",
+      "engine": "Claude",
+      "run": "1",
+      "classification": "unsupported expansion",
+      "finding": "The answer adds specific attribution, scale or potential downstream effects from material outside the frozen bundle. IR04 leaves individual customer impact unresolved. This is a source-scope finding, not a determination of actual impact.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q04-CL-R2",
+      "question_id": "Q04",
+      "engine": "Claude",
+      "run": "2",
+      "classification": "unsupported expansion",
+      "finding": "The answer adds specific attribution, scale or potential downstream effects from material outside the frozen bundle. IR04 leaves individual customer impact unresolved. This is a source-scope finding, not a determination of actual impact.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q04-CL-R3",
+      "question_id": "Q04",
+      "engine": "Claude",
+      "run": "3",
+      "classification": "unsupported expansion",
+      "finding": "The answer adds specific attribution, scale or potential downstream effects from material outside the frozen bundle. IR04 leaves individual customer impact unresolved. This is a source-scope finding, not a determination of actual impact.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q04-AO-R1",
+      "question_id": "Q04",
+      "engine": "Google AI Overviews",
+      "run": "1",
+      "classification": "unsupported expansion",
+      "finding": "A specific named actor is added beyond IR04. The finding concerns the frozen statement's attribution scope and does not determine the actor's identity.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q04-AO-R2",
+      "question_id": "Q04",
+      "engine": "Google AI Overviews",
+      "run": "2",
+      "classification": "unsupported expansion",
+      "finding": "The answer adds specific attribution, scale or potential downstream effects from material outside the frozen bundle. IR04 leaves individual customer impact unresolved. This is a source-scope finding, not a determination of actual impact.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q04-AO-R3",
+      "question_id": "Q04",
+      "engine": "Google AI Overviews",
+      "run": "3",
+      "classification": "unsupported expansion",
+      "finding": "The answer adds specific attribution, scale or potential downstream effects from material outside the frozen bundle. IR04 leaves individual customer impact unresolved. This is a source-scope finding, not a determination of actual impact.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q06-CL-R1",
+      "question_id": "Q06",
+      "engine": "Claude",
+      "run": "1",
+      "classification": "stale",
+      "finding": "The answer identifies an earlier update as latest. Frozen IR04 records 24 October 2026 at 14:00 UTC, within the question cutoff, and includes a later phased-onboarding target.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q06-CL-R2",
+      "question_id": "Q06",
+      "engine": "Claude",
+      "run": "2",
+      "classification": "stale",
+      "finding": "The answer identifies an earlier update as latest. Frozen IR04 records 24 October 2026 at 14:00 UTC, within the question cutoff, and includes a later phased-onboarding target.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q06-CL-R3",
+      "question_id": "Q06",
+      "engine": "Claude",
+      "run": "3",
+      "classification": "stale",
+      "finding": "The answer identifies an earlier update as latest. Frozen IR04 records 24 October 2026 at 14:00 UTC, within the question cutoff, and includes a later phased-onboarding target.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q06-AO-R1",
+      "question_id": "Q06",
+      "engine": "Google AI Overviews",
+      "run": "1",
+      "classification": "stale",
+      "finding": "The answer identifies an earlier update as latest. Frozen IR04 records 24 October 2026 at 14:00 UTC, within the question cutoff, and includes a later phased-onboarding target.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q06-AO-R2",
+      "question_id": "Q06",
+      "engine": "Google AI Overviews",
+      "run": "2",
+      "classification": "stale",
+      "finding": "The answer identifies an earlier update as latest. Frozen IR04 records 24 October 2026 at 14:00 UTC, within the question cutoff, and includes a later phased-onboarding target.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q06-AO-R3",
+      "question_id": "Q06",
+      "engine": "Google AI Overviews",
+      "run": "3",
+      "classification": "stale",
+      "finding": "The answer identifies an earlier update as latest. Frozen IR04 records 24 October 2026 at 14:00 UTC, within the question cutoff, and includes a later phased-onboarding target.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q06-AM-R1",
+      "question_id": "Q06",
+      "engine": "Google AI Mode",
+      "run": "1",
+      "classification": "stale",
+      "finding": "The answer gives 18 October as the latest update; frozen IR04 records 24 October at 14:00 UTC. This finding concerns the latest-update date.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q06-AM-R3",
+      "question_id": "Q06",
+      "engine": "Google AI Mode",
+      "run": "3",
+      "classification": "stale",
+      "finding": "The answer identifies an earlier update as latest. Frozen IR04 records 24 October 2026 at 14:00 UTC, within the question cutoff, and includes a later phased-onboarding target.",
+      "reference_ids": "IR04"
+    },
+    {
+      "receipt_id": "CD-C-Q09-PP-R3",
+      "question_id": "Q09",
+      "engine": "Perplexity",
+      "run": "3",
+      "classification": "contradicted",
+      "finding": "The reviewed label is contradiction: the answer substitutes general uncertainty for GCIT's published, bounded report of its completed customer checks.",
+      "reference_ids": "C_PRECAPTURE_IR07; C_PRECAPTURE_IR07A"
+    },
+    {
+      "receipt_id": "CD-C-Q09-AO-R2",
+      "question_id": "Q09",
+      "engine": "Google AI Overviews",
+      "run": "2",
+      "classification": "contradicted",
+      "finding": "The answer denies a matching GCIT statement and resolves the acronym to an educational institution. Frozen own-domain statements from the Australian provider contradict that blanket absence claim. The acronym ambiguity remains disclosed.",
+      "reference_ids": "C_PRECAPTURE_IR07; C_PRECAPTURE_IR07A"
+    },
+    {
+      "receipt_id": "CD-C-Q09-AO-R3",
+      "question_id": "Q09",
+      "engine": "Google AI Overviews",
+      "run": "3",
+      "classification": "contradicted",
+      "finding": "The answer denies a matching GCIT statement and resolves the acronym to an educational institution. Frozen own-domain statements from the Australian provider contradict that blanket absence claim. The acronym ambiguity remains disclosed.",
+      "reference_ids": "C_PRECAPTURE_IR07; C_PRECAPTURE_IR07A"
+    },
+    {
+      "receipt_id": "CD-C-Q09-AM-R3",
+      "question_id": "Q09",
+      "engine": "Google AI Mode",
+      "run": "3",
+      "classification": "unsupported expansion",
+      "finding": "The answer combines GCIT's own-environment observation with its managed-customer statement. The frozen statements distinguish those scopes; no broader customer-impact conclusion is drawn.",
+      "reference_ids": "C_PRECAPTURE_IR07; C_PRECAPTURE_IR07A"
+    },
+    {
+      "receipt_id": "CD-C-Q10-AM-R2",
+      "question_id": "Q10",
+      "engine": "Google AI Mode",
+      "run": "2",
+      "classification": "contradicted",
+      "finding": "The answer says official statements have not attributed the event. Frozen IR04 already contains a qualified attribution. This finding preserves that qualification and draws no security conclusion.",
+      "reference_ids": "IR04"
+    }
+  ],
+  "held": [
+    {
+      "review_sheet_row": 39,
+      "receipt_id": "CD-C-Q03-CL-R1",
+      "status": "unresolved; withheld from publication"
+    },
+    {
+      "review_sheet_row": 41,
+      "receipt_id": "CD-C-Q03-AO-R1",
+      "status": "unresolved; withheld from publication"
+    },
+    {
+      "review_sheet_row": 53,
+      "receipt_id": "CD-C-Q06-CG-R2",
+      "status": "unresolved; withheld from publication"
+    },
+    {
+      "review_sheet_row": 54,
+      "receipt_id": "CD-C-Q06-CG-R3",
+      "status": "unresolved; withheld from publication"
+    },
+    {
+      "review_sheet_row": 71,
+      "receipt_id": "CD-C-Q10-AO-R1",
+      "status": "unresolved; withheld from publication"
+    }
+  ]
+}

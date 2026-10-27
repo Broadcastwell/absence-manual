@@ -1,0 +1,63 @@
+{
+  "B": {
+    "windows": [
+      {
+        "bundle": "CD-B-FULL-2026-10-24T17:20:15Z",
+        "cells": 120,
+        "first_utc": "2026-10-24T17:27:07.781Z",
+        "last_utc": "2026-10-24T18:33:48.927Z"
+      },
+      {
+        "bundle": "CD-B-2026-10-24T03:01:00Z",
+        "cells": 30,
+        "first_utc": "2026-10-24T03:35:21.694Z",
+        "last_utc": "2026-10-24T03:41:04.364Z"
+      }
+    ],
+    "planned": 150,
+    "captured": 150,
+    "valid": 150,
+    "excluded": 0,
+    "reviewed_adverse": 25,
+    "preflight_reviewed_adverse": 6,
+    "new_reviewed_adverse": 19,
+    "held": 0,
+    "answers_for_publication": 150,
+    "new_dispositions": {
+      "dropped": 13,
+      "upheld": 17,
+      "narrowed": 2
+    }
+  },
+  "C": {
+    "windows": [
+      {
+        "bundle": "CD-C-FULL-2026-10-24T17:20:15Z",
+        "cells": 120,
+        "first_utc": "2026-10-24T17:29:20.133Z",
+        "last_utc": "2026-10-24T18:36:47.587Z"
+      },
+      {
+        "bundle": "CD-C-2026-10-24T04:02:48Z",
+        "cells": 30,
+        "first_utc": "2026-10-24T04:22:31.053Z",
+        "last_utc": "2026-10-24T04:58:41.918Z"
+      }
+    ],
+    "planned": 150,
+    "captured": 150,
+    "valid": 150,
+    "excluded": 0,
+    "reviewed_adverse": 25,
+    "preflight_reviewed_adverse": 4,
+    "new_reviewed_adverse": 21,
+    "held": 5,
+    "answers_for_publication": 145,
+    "new_dispositions": {
+      "upheld": 19,
+      "held": 5,
+      "dropped": 14,
+      "narrowed": 2
+    }
+  }
+}

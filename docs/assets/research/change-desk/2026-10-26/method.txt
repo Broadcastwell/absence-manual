@@ -1,0 +1,8 @@
+We asked ten fixed questions on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, with three fresh-context runs per question and engine. Each study contains a 30-answer preflight and 120 further answers. Every question carries an as-of UTC cutoff. We compare answers with the source versions frozen for that window, not later pages. The answer tables retain question text, engine, run, capture time, source bundle, citations, links and ordinary redirect destinations. They show nonadverse and unresolved cases as well as reviewed adverse findings. A missing adverse label does not certify every detail of an answer. These are dated observations from fixed questions, not a representative error rate for an engine.
+
+The new review covered 72 proposed adverse cells across both studies. Of these, 36 were upheld, four were narrowed and 27 were dropped. Five split cells remain unresolved and are withheld. The closed preflight decisions remain six adverse cells for Study B and four for Study C. The four narrowed findings remove the specific allegations the reviewers did not accept; no replacement finding was added.
+
+The answer tables and our classifications are available under CC BY 4.0. Linked third-party sources retain their own rights. Full answer presentations have marked redactions for technical incident detail and unrequested operational follow-ups; dash punctuation is normalized. The private captures are unchanged. Five held Study C answers and their proposed findings are withheld. The frozen-source register records source URLs, retrieval times, bundle cutoffs and SHA-256 hashes.
+
+Corrections are free: hello@broadcastwell.com.
+Reviewed by Priya Nair and Vikram Patel, Broadcastwell
