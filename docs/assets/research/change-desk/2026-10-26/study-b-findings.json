@@ -1,0 +1,248 @@
+{
+  "study": "B",
+  "reviewer_line": "Reviewed by Priya Nair and Vikram Patel, Broadcastwell",
+  "counts": {
+    "planned": 150,
+    "captured": 150,
+    "valid": 150,
+    "excluded": 0,
+    "reviewed_adverse": 25,
+    "preflight_reviewed_adverse": 6,
+    "new_reviewed_adverse": 19,
+    "held": 0,
+    "answers_for_publication": 150,
+    "new_dispositions": {
+      "dropped": 13,
+      "upheld": 17,
+      "narrowed": 2
+    }
+  },
+  "findings": [
+    {
+      "receipt_id": "CD-B-Q02-AM-R1",
+      "question_id": "Q02",
+      "engine": "Google AI Mode",
+      "run": "1",
+      "classification": "unsupported expansion",
+      "finding": "Specific product, roadmap and contact assurances extend beyond ME01. The retained finding concerns what the announcement supports, rather than whether the details may be true elsewhere.",
+      "reference_ids": "ME01"
+    },
+    {
+      "receipt_id": "CD-B-Q06-CL-R1",
+      "question_id": "Q06",
+      "engine": "Claude",
+      "run": "1",
+      "classification": "unsupported expansion",
+      "finding": "Near-term integration and customer-retention milestones are attributed to the announcement but are not established by ME10. No completed platform integration is inferred.",
+      "reference_ids": "ME10"
+    },
+    {
+      "receipt_id": "CD-B-Q06-CL-R3",
+      "question_id": "Q06",
+      "engine": "Claude",
+      "run": "3",
+      "classification": "unsupported expansion",
+      "finding": "Near-term integration and customer-retention milestones are attributed to the announcement but are not established by ME10. No completed platform integration is inferred.",
+      "reference_ids": "ME10"
+    },
+    {
+      "receipt_id": "CD-B-Q06-AO-R1",
+      "question_id": "Q06",
+      "engine": "Google AI Overviews",
+      "run": "1",
+      "classification": "unsupported expansion",
+      "finding": "Specific product names or capabilities extend beyond ME10's broad software inventory. The finding does not determine whether separate product pages support those details.",
+      "reference_ids": "ME10"
+    },
+    {
+      "receipt_id": "CD-B-Q06-AO-R3",
+      "question_id": "Q06",
+      "engine": "Google AI Overviews",
+      "run": "3",
+      "classification": "unsupported expansion",
+      "finding": "Email-processing and Drivers App capabilities extend beyond the software categories in ME10. The finding concerns the frozen announcement, not separate product documentation.",
+      "reference_ids": "ME10"
+    },
+    {
+      "receipt_id": "CD-B-Q06-AM-R1",
+      "question_id": "Q06",
+      "engine": "Google AI Mode",
+      "run": "1",
+      "classification": "unsupported expansion",
+      "finding": "Named products and partner or integration counts extend beyond ME10. Its acquired wording supports completion by the announcement, while a separate legal closing date is not established.",
+      "reference_ids": "ME10"
+    },
+    {
+      "receipt_id": "CD-B-Q06-AM-R2",
+      "question_id": "Q06",
+      "engine": "Google AI Mode",
+      "run": "2",
+      "classification": "unsupported expansion",
+      "finding": "Specific product names or capabilities extend beyond ME10's broad software inventory. The finding does not determine whether separate product pages support those details.",
+      "reference_ids": "ME10"
+    },
+    {
+      "receipt_id": "CD-B-Q06-AM-R3",
+      "question_id": "Q06",
+      "engine": "Google AI Mode",
+      "run": "3",
+      "classification": "unsupported expansion",
+      "finding": "Specific product names or capabilities extend beyond ME10's broad software inventory. The finding does not determine whether separate product pages support those details.",
+      "reference_ids": "ME10"
+    },
+    {
+      "receipt_id": "CD-B-Q07-CL-R1",
+      "question_id": "Q07",
+      "engine": "Claude",
+      "run": "1",
+      "classification": "contradicted by the primary source",
+      "finding": "The answer treats the 12 October agreement as the latest official record despite Freshworks' 19 October welcome. A separate legal closing date and completed operational integration remain unresolved.",
+      "reference_ids": "ME15; ME15B"
+    },
+    {
+      "receipt_id": "CD-B-Q07-CL-R2",
+      "question_id": "Q07",
+      "engine": "Claude",
+      "run": "2",
+      "classification": "contradicted by the primary source",
+      "finding": "The answer treats the 12 October agreement as the latest official record despite Freshworks' 19 October welcome. A separate legal closing date and completed operational integration remain unresolved.",
+      "reference_ids": "ME15; ME15B"
+    },
+    {
+      "receipt_id": "CD-B-Q07-PP-R1",
+      "question_id": "Q07",
+      "engine": "Perplexity",
+      "run": "1",
+      "classification": "contradicted by the primary source",
+      "finding": "The answer treats the 12 October agreement as the latest official record despite Freshworks' 19 October welcome. A separate legal closing date and completed operational integration remain unresolved.",
+      "reference_ids": "ME15; ME15B"
+    },
+    {
+      "receipt_id": "CD-B-Q07-PP-R2",
+      "question_id": "Q07",
+      "engine": "Perplexity",
+      "run": "2",
+      "classification": "contradicted by the primary source",
+      "finding": "The answer treats the 12 October agreement as the latest official record despite Freshworks' 19 October welcome. A separate legal closing date and completed operational integration remain unresolved.",
+      "reference_ids": "ME15; ME15B"
+    },
+    {
+      "receipt_id": "CD-B-Q07-PP-R3",
+      "question_id": "Q07",
+      "engine": "Perplexity",
+      "run": "3",
+      "classification": "contradicted by the primary source",
+      "finding": "The answer treats the 12 October agreement as the latest official record despite Freshworks' 19 October welcome. A separate legal closing date and completed operational integration remain unresolved.",
+      "reference_ids": "ME15; ME15B"
+    },
+    {
+      "receipt_id": "CD-B-Q07-AM-R1",
+      "question_id": "Q07",
+      "engine": "Google AI Mode",
+      "run": "1",
+      "classification": "contradicted by the primary source",
+      "finding": "The answer treats the 12 October agreement as the latest official record despite Freshworks' 19 October welcome. A separate legal closing date and completed operational integration remain unresolved.",
+      "reference_ids": "ME15; ME15B"
+    },
+    {
+      "receipt_id": "CD-B-Q10-CL-R1",
+      "question_id": "Q10",
+      "engine": "Claude",
+      "run": "1",
+      "classification": "unsupported expansion",
+      "finding": "Operational independence, leadership or workforce-retention claims extend beyond ME07. Its assurances about existing contracts, services and support are preserved. The finding concerns the announcement's scope.",
+      "reference_ids": "ME07"
+    },
+    {
+      "receipt_id": "CD-B-Q10-CL-R2",
+      "question_id": "Q10",
+      "engine": "Claude",
+      "run": "2",
+      "classification": "unsupported expansion",
+      "finding": "Operational independence, leadership or workforce-retention claims extend beyond ME07. Its assurances about existing contracts, services and support are preserved. The finding concerns the announcement's scope.",
+      "reference_ids": "ME07"
+    },
+    {
+      "receipt_id": "CD-B-Q10-CL-R3",
+      "question_id": "Q10",
+      "engine": "Claude",
+      "run": "3",
+      "classification": "unsupported expansion",
+      "finding": "Operational independence, leadership or workforce-retention claims extend beyond ME07. Its assurances about existing contracts, services and support are preserved. The finding concerns the announcement's scope.",
+      "reference_ids": "ME07"
+    },
+    {
+      "receipt_id": "CD-B-Q10-PP-R1",
+      "question_id": "Q10",
+      "engine": "Perplexity",
+      "run": "1",
+      "classification": "unsupported expansion",
+      "finding": "Operational independence, leadership or workforce-retention claims extend beyond ME07. Its assurances about existing contracts, services and support are preserved. The finding concerns the announcement's scope.",
+      "reference_ids": "ME07"
+    },
+    {
+      "receipt_id": "CD-B-Q10-PP-R2",
+      "question_id": "Q10",
+      "engine": "Perplexity",
+      "run": "2",
+      "classification": "unsupported expansion",
+      "finding": "Operational independence, leadership or workforce-retention claims extend beyond ME07. Its assurances about existing contracts, services and support are preserved. The finding concerns the announcement's scope.",
+      "reference_ids": "ME07"
+    },
+    {
+      "receipt_id": "CD-B-Q10-PP-R3",
+      "question_id": "Q10",
+      "engine": "Perplexity",
+      "run": "3",
+      "classification": "unsupported expansion",
+      "finding": "Operational independence, leadership or workforce-retention claims extend beyond ME07. Its assurances about existing contracts, services and support are preserved. The finding concerns the announcement's scope.",
+      "reference_ids": "ME07"
+    },
+    {
+      "receipt_id": "CD-B-Q10-AO-R1",
+      "question_id": "Q10",
+      "engine": "Google AI Overviews",
+      "run": "1",
+      "classification": "unsupported expansion",
+      "finding": "Operational independence, leadership or workforce-retention claims extend beyond ME07. Its assurances about existing contracts, services and support are preserved. The finding concerns the announcement's scope.",
+      "reference_ids": "ME07"
+    },
+    {
+      "receipt_id": "CD-B-Q10-AO-R2",
+      "question_id": "Q10",
+      "engine": "Google AI Overviews",
+      "run": "2",
+      "classification": "unsupported expansion",
+      "finding": "Operational independence, leadership or workforce-retention claims extend beyond ME07. Its assurances about existing contracts, services and support are preserved. The finding concerns the announcement's scope.",
+      "reference_ids": "ME07"
+    },
+    {
+      "receipt_id": "CD-B-Q10-AO-R3",
+      "question_id": "Q10",
+      "engine": "Google AI Overviews",
+      "run": "3",
+      "classification": "unsupported expansion",
+      "finding": "Operational independence, leadership or workforce-retention claims extend beyond ME07. Its assurances about existing contracts, services and support are preserved. The finding concerns the announcement's scope.",
+      "reference_ids": "ME07"
+    },
+    {
+      "receipt_id": "CD-B-Q10-AM-R1",
+      "question_id": "Q10",
+      "engine": "Google AI Mode",
+      "run": "1",
+      "classification": "unsupported expansion",
+      "finding": "Operational independence, leadership or workforce-retention claims extend beyond ME07. Its assurances about existing contracts, services and support are preserved. The finding concerns the announcement's scope.",
+      "reference_ids": "ME07"
+    },
+    {
+      "receipt_id": "CD-B-Q10-AM-R2",
+      "question_id": "Q10",
+      "engine": "Google AI Mode",
+      "run": "2",
+      "classification": "unsupported expansion",
+      "finding": "Operational independence, leadership or workforce-retention claims extend beyond ME07. Its assurances about existing contracts, services and support are preserved. The finding concerns the announcement's scope.",
+      "reference_ids": "ME07"
+    }
+  ],
+  "held": []
+}
