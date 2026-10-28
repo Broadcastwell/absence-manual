@@ -27,6 +27,11 @@ jobs:
         run: node --test tests/site-chrome.test.mjs tests/manual-controls.test.mjs
       - name: Verify production artifact rejection guards
         run: python -m unittest discover -s tests -p 'test_verified_preview.py'
+      - name: Verify answer library rules and generated source index
+        run: |
+          python -m unittest discover -s tests -p 'test_answers.py'
+          python tools/generate_answers_llms.py --check
+          python tools/verify_answers.py --check-external --receipt answer-link-check.json
       - name: Build site
         run: mkdocs build
       - name: Build the ungated PDF mirror from the same source

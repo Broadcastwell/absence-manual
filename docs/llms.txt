@@ -282,3 +282,10 @@ Absence Index, release 2026-09: 286 software vendors across 14 categories. DOI 1
 State of GEO Volume III, DOI 10.5281/zenodo.21789120: https://doi.org/10.5281/zenodo.21789120
 
 - [Answer Repair | Broadcastwell](https://broadcastwell.com/answer-repair): One buyer question, one completed page or fix, $490. Live or Handoff. Due 48 elapsed hours after Ready, with the published full-refund terms.
+
+## Answers
+
+- [AI visibility answers](https://docs.broadcastwell.com/answers/): Two worked answers explain AI visibility scores and citation metrics using dated counts from the published Absence Index.
+- [AI visibility measurement answers](https://docs.broadcastwell.com/answers/measurement/): Compare named answers, domain citations and category context using dated counts from the Absence Index.
+- [What is a good AI visibility score?](https://docs.broadcastwell.com/answers/measurement/what-is-a-good-ai-visibility-score/): No universal score is established: Dentrix was named in 120 of 149 dental answers; AscendTMS in 64 of 150 transportation answers.
+- [How do we compare citation metrics when changing AI tools?](https://docs.broadcastwell.com/answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools/): Match definitions before rates: Housecall Pro was named in 108 of 150 answers and its own domain cited in 43 of 150.

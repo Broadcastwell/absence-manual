@@ -124,8 +124,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 {% block content %}
 {{ super() }}
+{% if page and not (page.meta.get("library_cluster") or page.meta.get("library_hub")) %}
 <p class="bw-editorial-byline">By the Broadcastwell team. Last reviewed 26 October 2026</p>
-{% if page %}
 <section aria-label="Choose the first job" class="bw-next-step">
 <h2>Choose the answer you need to repair.</h2>
 <p>Answer Repair is $490 for one buyer question and one completed source-backed page or fix. Choose Live or Handoff before payment. Due 48 elapsed hours after recorded Ready.</p>
@@ -136,7 +136,9 @@ document.addEventListener("DOMContentLoaded", function () {
 </section>
 {% endif %}
 <hr>
-{% if page and page.meta.get("learning_resource") %}
+{% if page and (page.meta.get("library_cluster") or page.meta.get("library_hub")) %}
+<p class="manual-footer-version">Broadcastwell answer library. Prose and figures CC BY 4.0. Site code MIT. <a href="{{ config.site_url }}answers/">Read the library</a>.</p>
+{% elif page and page.meta.get("learning_resource") %}
 <p class="manual-footer-version">Broadcastwell practical resources, {{ page.meta.get("resource_date", "September 2026") }}. Original guides and diagrams with authored fictional examples. No client outcome or live AI measurement is represented. Prose and figures CC BY 4.0, site code MIT. <a href="{{ 'resources/provenance/sources/' | url }}">Sources and scope</a>.</p>
 {% else %}
 <p class="manual-footer-version">{{ config.extra.manual_version_label }}. Author: <a href="https://broadcastwell.com/about">Broadcastwell team</a>. Prose and figures CC BY 4.0, site code MIT. Not peer reviewed. Every figure can be recomputed from the public data at <a href="https://github.com/Broadcastwell/state-of-geo-2026">github.com/Broadcastwell/state-of-geo-2026</a>.</p>
