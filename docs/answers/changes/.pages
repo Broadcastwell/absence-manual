@@ -1,0 +1,11 @@
+title: Changes
+nav:
+- index.md
+- how-should-i-check-a-reported-vulnerability-s-product-impact.md
+- what-should-a-vendor-say-while-an-incident-is-uncertain.md
+- how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md
+- how-should-we-preserve-conflicting-ai-incident-answers.md
+- how-should-a-vendor-correct-outdated-facts-after-a-public-change.md
+- how-should-i-verify-a-fixed-version-quoted-by-an-ai-answer.md
+- how-should-we-date-an-ai-facing-incident-statement.md
+- how-should-we-distinguish-planned-fixes-from-completed-fixes.md

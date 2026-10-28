@@ -1,30 +1,55 @@
 ---
 title: AI visibility answers
 headline: Answers to AI visibility questions
-description: Two worked answers explain AI visibility scores and citation metrics using dated counts from the published Absence Index.
+description: 50 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and
+  source corrections.
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-28T17:40:48+00:00'
-is_based_on: https://doi.org/10.5281/zenodo.22907695
+date_modified: '2026-10-28T22:22:47+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 ---
 
 # Answers to AI visibility questions
 
-Dentrix was named in 120 of 149 dental practice answers; AscendTMS appeared in 64 of 150 transportation answers. Both had the largest naming count in their checked category on 22 September 2026. That makes a useful place to start when someone hands you a score without its question set.
+Start with the question you need to answer. These 50 pages use Broadcastwell's published observations and link to the records behind their figures. The dates and bases matter: a named vendor, a cited page and a buyer's decision are different events.
 
-## Measurement
+## Browse the library
 
-[Read measurement answers](measurement/index.md): counts, answer bases, citation definitions and the category behind a visibility score.
+- [GEO basics](geo-basics/index.md): Definitions, question sets and the difference between being cited and being chosen.
+
+- [Measurement](measurement/index.md): Counts, citations, repeat runs and the evidence needed to compare reports.
+
+- [Buying GEO](buying/index.md): Scope, acceptance evidence and questions to ask before agreeing to work.
+
+- [Fixes](fixes/index.md): Source facts, readable pages and changes that can be checked after publication.
+
+- [Changes](changes/index.md): Dated facts, uncertain incidents and the distinction between a plan and a completed change.
+
+- [Agents](agents/index.md): What assistants found, understood and reached on public software websites.
 
 ## Start here
 
-- [What is a good AI visibility score?](measurement/what-is-a-good-ai-visibility-score.md) There is no universal pass mark. Read the two category records, their Wilson intervals and what you can infer from them.
-- [How do we compare citation metrics when changing AI tools?](measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md) Housecall Pro was named in 108 of 150 answers and its own domain cited in 43 of 150. Match the events and bases before comparing reports.
+Start with a question you can check against the linked records.
 
-The figures come from [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695), published 23 September 2026. They describe dated answer observations, not a ranking or a judgment of product quality.
+- [What is a good AI visibility score?](measurement/what-is-a-good-ai-visibility-score.md) No universal score is established: Dentrix was named in 120 of 149 dental answers; AscendTMS in 64 of 150 transportation answers.
+
+- [How do we compare citation metrics when changing AI tools?](measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md) Match definitions before rates: Housecall Pro was named in 108 of 150 answers and its own domain cited in 43 of 150.
+
+- [Should I buy AI visibility monitoring or a completed page fix?](buying/should-i-buy-ai-visibility-monitoring-or-a-completed-page-fix.md) Buy observation or a defined change: a dated Procore page had 20 stated, 44 unstated and 28 unknown criteria.
+
+- [What belongs in a white-label GEO delivery scope?](buying/what-belongs-in-a-white-label-geo-delivery-scope.md) Name the research, approval and implementation work: Study 7 extracted 2,003 criteria from 2,093 eligible answers.
+
+- [How can I check whether a GEO tool covers the engines I need?](buying/how-can-i-check-whether-a-geo-tool-covers-the-engines-i-need.md) Ask for separate engine receipts: Procore was named in 0/3 AI Overviews answers and 3/3 AI Mode answers on one question.
+
+- [How should I check a reported vulnerability's product impact?](changes/how-should-i-check-a-reported-vulnerability-s-product-impact.md) Verify the product and version against a dated primary advisory; 23 of 148 PHP2Shell study answers were potentially misleading.
+
+- [What should a vendor say while an incident is uncertain?](changes/what-should-a-vendor-say-while-an-incident-is-uncertain.md) State confirmed facts and unresolved scope separately; Wrong About You labelled 880 of 2,922 statements unverifiable.
+
+- [What does AI visibility mean?](geo-basics/what-does-ai-visibility-mean.md) AI visibility needs a defined event: Housecall Pro was named in 108 of 150 answers, while 43 also cited its domain.
+
+The [Manual](../index.md) explains the broader argument. The [Absence Index](https://index.broadcastwell.com/) holds the vendor and buyer-question records, including the questions already answered there.
 
 Prepared by the Broadcastwell team.
 

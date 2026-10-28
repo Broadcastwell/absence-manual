@@ -1,5 +1,9 @@
 title: Measurement
 nav:
-  - index.md
-  - what-is-a-good-ai-visibility-score.md
-  - how-do-we-compare-citation-metrics-when-changing-ai-tools.md
+- index.md
+- what-is-a-good-ai-visibility-score.md
+- how-do-we-compare-citation-metrics-when-changing-ai-tools.md
+- what-should-a-client-ai-visibility-report-contain.md
+- what-evidence-can-connect-ai-visibility-with-pipeline.md
+- how-accurate-are-geo-tools-across-different-industries.md
+- how-can-i-check-a-tool-s-historical-ai-visibility-data.md

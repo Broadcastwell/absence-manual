@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "title": "Search Console query-length summary, exported 27 October 2026",
+  "publisher": "Broadcastwell",
+  "source": "Google Search Console",
+  "observation_window": {
+    "start": "2026-07-26",
+    "end": "2026-10-25",
+    "days": 92
+  },
+  "export_date": "2026-10-27",
+  "source_query_rows": 1000,
+  "filter": {
+    "minimum_whitespace_words": 12
+  },
+  "matching_distinct_queries": 134,
+  "matching_impressions": 969,
+  "matching_query_table_clicks": 0,
+  "source_export_sha256": "aa7b9e6b49a24724ca03099deb95279c909102c4b02bac0d111e9dba4f1edf94",
+  "source_queries_csv_sha256": "62db3c33c29a183e23d2394f97e6d6990c365f7bf66c555e657790255e51afa2",
+  "definitions": {
+    "impressions_and_clicks": "https://support.google.com/webmasters/answer/7042828",
+    "google_ai_features": "https://developers.google.com/search/docs/appearance/ai-features"
+  },
+  "scope": "Query length does not identify who wrote a query or what an AI engine answered. These are query-table figures, not isolated AI-feature results."
+}
