@@ -82,10 +82,15 @@
   .bw-shared-bottom { align-items:flex-start; display:grid; gap:8px; }
   .bw-shared-bottom>p:last-child { margin-left:0; }
 }
+@media(max-width:480px) {
+  .bw-shared-bar { gap:8px; padding-inline:16px; }
+  .bw-shared-wordmark { font-size:17px; }
+  .bw-shared-audit { font-size:14px; padding-inline:8px; }
+}
 @media(max-width:374px) {
-  .bw-shared-bar { gap:8px; }
-  .bw-shared-wordmark { font-size:16px; }
-  .bw-shared-audit { padding-inline:8px; }
+  .bw-shared-bar { gap:4px; padding-inline:8px; }
+  .bw-shared-wordmark { font-size:15px; }
+  .bw-shared-audit { font-size:13px; padding-inline:6px; }
 }
 @media(prefers-reduced-motion:reduce) {
   [data-bw-site-header] *, .bw-shared-footer * { transition:none!important; scroll-behavior:auto!important; }

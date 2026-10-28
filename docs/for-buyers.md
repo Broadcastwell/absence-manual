@@ -8,7 +8,7 @@ description: A short, plain-language account of how AI answers pick which vendor
 page_class: page
 schema_type: Article
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-21T00:00:00+00:00'
+date_modified: '2026-10-28T17:40:48+00:00'
 is_based_on: https://github.com/Broadcastwell/state-of-geo-2026
 ---
 
@@ -69,6 +69,8 @@ Broadcastwell ran the research this page is based on and sells services in the c
 Apply the same standard to every provider. Ask to see the question, the complete answer and the source behind a finding. A name appearing as the publisher of a cited page is different from a vendor being recommended to the buyer. The research files linked below preserve the observations and their collection designs so readers can inspect the evidence themselves.
 
 ## Where to go next
+
+The [answer library](https://docs.broadcastwell.com/answers/) works through Dentrix's 120 of 149 named answers and AscendTMS's 64 of 150 to explain why an AI visibility score needs its category and question set.
 
 If you are evaluating suppliers or tools, [Chapter 12: How to buy GEO without getting sold a number](https://docs.broadcastwell.com/how-to-buy-geo/) is the practical companion to this page. It has twelve questions to put to any supplier, a description of what a defensible deliverable looks like, and a section on when the right decision is to hire nobody at all.
 

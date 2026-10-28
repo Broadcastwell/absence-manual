@@ -8,7 +8,7 @@ description: A free, ungated technical manual on measuring and fixing AI search 
 schema_type: TechArticle
 page_class: page
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-21T00:00:00+00:00'
+date_modified: '2026-10-28T17:40:48+00:00'
 image: figures/absence-ladder.png
 is_based_on: https://github.com/Broadcastwell/state-of-geo-2026
 ---
@@ -114,6 +114,8 @@ Every chapter and appendix is published. A slug published once is permanent: ver
 ## For marketing leaders
 
 If you are not going to read a technical manual, start with [what AI search is doing to your category](for-buyers.md). Plain language, no jargon, one page.
+
+Read the [answer library](https://docs.broadcastwell.com/answers/) for a worked comparison of Dentrix's 120 of 149 named answers and AscendTMS's 64 of 150, and why neither supplies a universal score target.
 
 ## Buyer answers, built and maintained on your site
 

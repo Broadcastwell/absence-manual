@@ -105,7 +105,7 @@ def read_order():
     for entry in pages["nav"]:
         # Learning companions and dated research have their own complete downloads.
         # Keep the existing book mirror focused on its manual chapters and notes.
-        if entry in {"resources.md", "resources", "research"}:
+        if entry in {"resources.md", "resources", "research", "answers"}:
             continue
         if entry == "posts":
             for p in sorted((DOCS / "posts").glob("*.md")):

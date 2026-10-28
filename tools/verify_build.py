@@ -16,6 +16,8 @@ import subprocess
 import re
 import sys
 
+from library_answers import built_relative, ownership_violations, page_url
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
 DOCS = ROOT / "docs"
@@ -90,7 +92,7 @@ def ruling_hits(text):
     text = " ".join(text.split())
     for allowed in DIAGNOSTIC_HISTORY:
         text = text.replace(allowed, " ")
-    hits = []
+    hits = ownership_violations(text)
     for rx in (AVAILABILITY_WORDS, RETIRED_OFFERS, DIAGNOSTIC_OFFER, RELAUNCH_REMOVALS):
         for m in rx.finditer(text):
             hits.append(text[max(0, m.start() - 50):m.end() + 50])
@@ -139,17 +141,11 @@ def article_words(html):
 
 
 def built_path(md_rel):
-    stem = md_rel[: -len(".md")]
-    if stem == "index":
-        return "index.html"
-    return stem + "/index.html"
+    return built_relative(md_rel)
 
 
 def expected_canonical(md_rel):
-    stem = md_rel[: -len(".md")]
-    if stem == "index":
-        return SITE_URL
-    return SITE_URL + stem + "/"
+    return page_url(md_rel)
 
 
 # ---------- site root artefacts ----------
@@ -250,6 +246,8 @@ for src in sorted(DOCS.rglob("*.md")):
 for src in sorted(DOCS.rglob("*.md")):
     rel = src.relative_to(DOCS).as_posix()
     text = TABLE_RULE.sub("", FRONT_MATTER.sub("", src.read_text(encoding="utf8")))
+    if ownership_violations(text):
+        fail("%s contains the false ownership claim" % rel)
     if EM_DASH in text:
         fail("%s contains an em dash in its prose" % rel)
     if EN_DASH in text:
@@ -297,6 +295,8 @@ for rel, cls in sorted(manifest.items()):
         fail("%s did not build to %s" % (rel, built_path(rel)))
         continue
     html = out.read_text(encoding="utf8")
+    if ownership_violations(html):
+        fail("%s renders the false ownership claim" % rel)
 
     for form in re.findall(r"(?is)<form\b[^>]*>", html):
         if re.search(r"(?is)\baction=", form):
@@ -389,6 +389,14 @@ for rel, cls in sorted(manifest.items()):
             fail("%s has JSON-LD that does not parse: %s" % (rel, exc))
             continue
         types.append(parsed.get("@type"))
+        if rel.startswith("answers/") and not rel.endswith("/index.md") and parsed.get("@type") == "Article":
+            meta = front_matter((DOCS / rel).read_text(encoding="utf8"))
+            if parsed.get("author", {}).get("@type") != "Organization":
+                fail("%s must name the Organization as Article author" % rel)
+            if parsed.get("mainEntityOfPage", {}).get("@id") != expected_canonical(rel):
+                fail("%s Article mainEntityOfPage must match its canonical" % rel)
+            if parsed.get("isBasedOn") != meta.get("is_based_on"):
+                fail("%s Article isBasedOn must match its source DOI" % rel)
         for key in ("datePublished", "dateModified"):
             if key in parsed and not ISO_STAMP.match(str(parsed[key])):
                 fail("%s emits %s as %r, which is not a full ISO timestamp with a timezone"
