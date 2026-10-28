@@ -92,7 +92,7 @@ def ruling_hits(text):
     text = " ".join(text.split())
     for allowed in DIAGNOSTIC_HISTORY:
         text = text.replace(allowed, " ")
-    hits = []
+    hits = ownership_violations(text)
     for rx in (AVAILABILITY_WORDS, RETIRED_OFFERS, DIAGNOSTIC_OFFER, RELAUNCH_REMOVALS):
         for m in rx.finditer(text):
             hits.append(text[max(0, m.start() - 50):m.end() + 50])

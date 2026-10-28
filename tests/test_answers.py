@@ -139,6 +139,20 @@ Page owner: Vikram Patel, AI Architect. Corrections: hello@broadcastwell.com
         self.assertTrue(ownership_violations(claim.replace("owned and sold", "<b>owned</b>\n and sold")))
         self.assertFalse(ownership_violations("Neurvalis and Valren Atelier are client records."))
 
+    def test_served_text_scan_rejects_false_claim_in_llms_and_search_json(self):
+        source = ast.parse((ROOT / "tools" / "verify_build.py").read_text(encoding="utf8"))
+        constants = {"DIAGNOSTIC_HISTORY", "AVAILABILITY_WORDS", "RETIRED_OFFERS", "DIAGNOSTIC_OFFER", "RELAUNCH_REMOVALS"}
+        nodes = [node for node in source.body if
+                 (isinstance(node, ast.Assign) and any(isinstance(target, ast.Name) and target.id in constants for target in node.targets))
+                 or (isinstance(node, ast.FunctionDef) and node.name == "ruling_hits")]
+        namespace = {"re": re, "ownership_violations": ownership_violations}
+        exec(compile(ast.Module(body=nodes, type_ignores=[]), "verify_build.ruling_hits", "exec"), namespace)
+        claim = "Broadcastwell's founder previously owned and sold Neurvalis AI Automation and Valren Atelier."
+        for text in ("# Broadcastwell\n\n" + claim, json.dumps({"docs": [{"text": claim}]})):
+            with self.subTest(text=text):
+                self.assertTrue(namespace["ruling_hits"](text))
+        self.assertEqual(namespace["ruling_hits"]("Neurvalis and Valren Atelier are client records."), [])
+
     def test_every_answer_hub_needs_a_named_owner_and_team_byline(self):
         hub = self.docs / "answers" / "index.md"
         meta = {"title": "Library hub", "library_hub": True, "page_class": "page", "schema_type": "Article",
