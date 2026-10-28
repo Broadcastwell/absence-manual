@@ -1,6 +1,7 @@
 """Shared validation helpers for the evidence-backed answer library."""
 
 import html
+import json
 from pathlib import Path
 import re
 import unicodedata
@@ -49,6 +50,30 @@ FALSE_OWNERSHIP = re.compile(
     r"(?:Broadcastwell|Sairam)", re.I,
 )
 
+# Exact approved records. This is a source allowlist, not a general URL escape.
+SEPTEMBER_INDEX_DOI = "https://doi.org/10.5281/zenodo.22907695"
+GSC_SUMMARY_URL = "https://docs.broadcastwell.com/assets/library/search-console-2026-10-27-summary.json"
+GSC_SUMMARY_PATH = "assets/library/search-console-2026-10-27-summary.json"
+DEFAULT_METHOD_LABEL = "Every figure comes from the published method, v1.1."
+SCOPED_METHOD_LABEL = "Our answer-study method, v1.1."
+GSC_SCOPE_SENTENCE = "Query wording does not identify who wrote it or what an AI engine answered."
+APPROVED_STUDY_DOIS = {
+    "https://doi.org/10.5281/zenodo.22907695",  # September Index, including mixed-source pages
+    "https://doi.org/10.5281/zenodo.22721962",  # August Index
+    "https://doi.org/10.5281/zenodo.21537014",  # State of GEO Volume I
+    "https://doi.org/10.5281/zenodo.21586091",  # Volume II
+    "https://doi.org/10.5281/zenodo.21789120",  # Volume III
+    "https://doi.org/10.5281/zenodo.23202939",  # Head to Head
+    "https://doi.org/10.5281/zenodo.23270124",  # Wrong About You
+    "https://doi.org/10.5281/zenodo.23271935",  # The AI Written RFP
+    "https://doi.org/10.5281/zenodo.23197560",  # Agent Gap
+    "https://doi.org/10.5281/zenodo.23586713",  # PHP2Shell Answer Study
+}
+APPROVED_METHOD_RECEIPTS = APPROVED_STUDY_DOIS | {
+    "https://docs.broadcastwell.com/assets/research/change-desk/2026-10-26/method.txt",
+}
+GSC_EXPECTED_SUMMARY = {'schema_version': '1.0', 'title': 'Search Console query-length summary, exported 27 October 2026', 'publisher': 'Broadcastwell', 'source': 'Google Search Console', 'observation_window': {'start': '2026-07-26', 'end': '2026-10-25', 'days': 92}, 'export_date': '2026-10-27', 'source_query_rows': 1000, 'filter': {'minimum_whitespace_words': 12}, 'matching_distinct_queries': 134, 'matching_impressions': 969, 'matching_query_table_clicks': 0, 'source_export_sha256': 'aa7b9e6b49a24724ca03099deb95279c909102c4b02bac0d111e9dba4f1edf94', 'source_queries_csv_sha256': '62db3c33c29a183e23d2394f97e6d6990c365f7bf66c555e657790255e51afa2', 'definitions': {'impressions_and_clicks': 'https://support.google.com/webmasters/answer/7042828', 'google_ai_features': 'https://developers.google.com/search/docs/appearance/ai-features'}, 'scope': 'Query length does not identify who wrote a query or what an AI engine answered. These are query-table figures, not isolated AI-feature results.'}
+
 
 def split_markdown(text):
     match = re.match(r"\A\ufeff?---\r?\n(.*?)\r?\n---\r?\n", text, re.S)
@@ -71,7 +96,8 @@ def plain_text(value):
 
 
 def ownership_violations(text):
-    return [m.group(0) for m in FALSE_OWNERSHIP.finditer(plain_text(text))]
+    text = plain_text(text)
+    return [m.group(0) for m in FALSE_OWNERSHIP.finditer(text)]
 
 
 def page_url(relative):
@@ -146,6 +172,91 @@ def paragraph_after_heading(body):
     return re.split(r"\n\s*\n", content, maxsplit=1)[0]
 
 
+
+def _reject_duplicate_json_keys(pairs):
+    result = {}
+    for key, value in pairs:
+        if key in result:
+            raise ValueError("duplicate JSON key: " + key)
+        result[key] = value
+    return result
+
+
+def validate_source_evidence(meta, body, docs):
+    """Bind a source to its own method without relaxing any page/build rule."""
+    errors = []
+    kind = meta.get("evidence_kind", "")
+    source = str(meta.get("is_based_on", ""))
+    start = body.find("## What we measured")
+    end = body.find("## What this means for you")
+    measured = body[start:end] if 0 <= start < end else ""
+    method_label = DEFAULT_METHOD_LABEL
+    if not kind:
+        if source != SEPTEMBER_INDEX_DOI:
+            errors.append("non-September sources require approved published-study metadata")
+    elif kind == "published-study":
+        method_label = SCOPED_METHOD_LABEL
+        if source not in APPROVED_STUDY_DOIS:
+            errors.append("published-study source is outside the approved DOI allowlist")
+        receipts = meta.get("evidence_method_receipts")
+        if not isinstance(receipts, list) or not receipts or any(not isinstance(value, str) for value in receipts):
+            errors.append("published-study requires a list of evidence_method_receipts")
+            receipts = []
+        if source not in receipts:
+            errors.append("study method receipts must include the primary source DOI")
+        if len(set(receipts)) != len(receipts):
+            errors.append("study method receipts must be unique")
+        for receipt in receipts:
+            if receipt not in APPROVED_METHOD_RECEIPTS:
+                errors.append("unapproved study method receipt: " + receipt)
+            if receipt not in markdown_links(measured):
+                errors.append("study method receipt must be linked in What we measured: " + receipt)
+        if not re.search(r"\b(?:method|protocol|study design|record rules)\b", plain_text(measured), re.I):
+            errors.append("What we measured must describe the study-specific method")
+        if DEFAULT_METHOD_LABEL in body:
+            errors.append("published-study must not use the universal v1.1 method sentence")
+    elif kind == "search-console-export":
+        method_label = SCOPED_METHOD_LABEL
+        if source != GSC_SUMMARY_URL:
+            errors.append("Search Console source must be the exact approved aggregate URL")
+        path = Path(docs) / GSC_SUMMARY_PATH
+        try:
+            summary = json.loads(path.read_text(encoding="utf8"), object_pairs_hook=_reject_duplicate_json_keys)
+            if json.dumps(summary, sort_keys=True) != json.dumps(GSC_EXPECTED_SUMMARY, sort_keys=True):
+                errors.append("Search Console summary differs from approved counts, dates, filter, base or source hashes")
+        except (OSError, ValueError) as exc:
+            errors.append("Search Console aggregate cannot be verified: " + str(exc))
+        text = plain_text(measured)
+        required_numbers = {
+            "134 distinct queries": r"\b134\b",
+            "969 impressions": r"\b969\s+impressions\b",
+            "zero query-table clicks": r"\b(?:0|zero)\s+(?:query[ -]table\s+)?clicks\b",
+            "1000-row source base": r"\b1,?000\s+(?:source\s+)?quer(?:y|ies)(?:[ -]rows)?\b",
+            "92-day window": r"\b92(?:[ -]day|\s+days)\b",
+            "26 July to25October2026 window": r"\b26\s+July(?:\s+2026)?\s+(?:to|through)\s+25\s+October\s+2026\b",
+            "27 October2026 export": r"\b27\s+October\s+2026\b",
+            "12-word whitespace filter": r"\bat least\s+(?:12|twelve)\s+whitespace-separated\s+words\b",
+        }
+        for label, pattern in required_numbers.items():
+            if not re.search(pattern, text, re.I):
+                errors.append("Search Console evidence is missing " + label)
+        first = plain_text(paragraph_after_heading(body))
+        if not all(re.search(r"\b" + value + r"\b", first) for value in ("134", "969")):
+            errors.append("first Search Console paragraph must include its134-query and969-impression figures")
+        for link in (GSC_SUMMARY_URL, *GSC_EXPECTED_SUMMARY["definitions"].values()):
+            if link not in markdown_links(measured):
+                errors.append("Search Console definitions/source must be linked in What we measured: " + link)
+        if GSC_SCOPE_SENTENCE not in measured:
+            errors.append("Search Console evidence must state its query-authorship/answer scope limit")
+        if DEFAULT_METHOD_LABEL in body:
+            errors.append("Search Console figures must not use the universal v1.1 method sentence")
+    else:
+        errors.append("unknown evidence_kind")
+    if f"[{method_label}](https://broadcastwell.com/methodology)" not in body:
+        errors.append("method label must link to the published answer-study method")
+    return errors, method_label
+
+
 def validate_answer(path, docs):
     path, docs = Path(path), Path(docs)
     meta, body = split_markdown(path.read_text(encoding="utf8"))
@@ -174,8 +285,8 @@ def validate_answer(path, docs):
     for key in ("date_published", "date_modified"):
         if not re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\+\d{2}:\d{2}|Z)", str(meta.get(key, ""))):
             errors.append(key + " requires a full timestamp with timezone")
-    if not re.match(r"https://doi\.org/10\.", str(meta.get("is_based_on", ""))):
-        errors.append("is_based_on must name the source DOI")
+    source_errors, method_label = validate_source_evidence(meta, body, docs)
+    errors.extend(source_errors)
     headings = re.findall(r"(?m)^# (.+)$", body)
     if headings != [str(meta.get("headline", ""))]:
         errors.append("exactly one H1 must match headline")
@@ -192,7 +303,7 @@ def validate_answer(path, docs):
         errors.append("body must contain 350 to 900 words")
     for required in ("Measured", LIMIT_SENTENCE, "Prepared by the Broadcastwell team.",
                      "Free 10-question check (one engine)", "Fix one answer, $490",
-                     "Every figure comes from the published method, v1.1.",
+                     method_label,
                      "Page owner: " + str(meta.get("library_owner", "")) + ". Corrections: hello@broadcastwell.com"):
         if required not in body:
             errors.append("missing " + required)

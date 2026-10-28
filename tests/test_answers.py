@@ -13,7 +13,8 @@ import yaml
 
 from tools.generate_answers_llms import answers_section, regenerate
 from tools.library_answers import (
-    CLUSTER_OWNERS, LIMIT_SENTENCE, built_relative, normalized_question,
+    CLUSTER_OWNERS, LIMIT_SENTENCE, GSC_EXPECTED_SUMMARY, GSC_SUMMARY_PATH, GSC_SUMMARY_URL,
+    SCOPED_METHOD_LABEL, DEFAULT_METHOD_LABEL, GSC_SCOPE_SENTENCE, built_relative, normalized_question,
     ownership_violations, page_url, resolve_local_link, validate_answer,
     validate_collection,
 )
@@ -137,7 +138,7 @@ Page owner: Vikram Patel, AI Architect. Corrections: hello@broadcastwell.com
         claim = "Broadcastwell's founder previously owned and sold Neurvalis AI Automation and Valren Atelier."
         self.assertTrue(ownership_violations(claim))
         self.assertTrue(ownership_violations(claim.replace("owned and sold", "<b>owned</b>\n and sold")))
-        self.assertFalse(ownership_violations("Neurvalis and Valren Atelier are client records."))
+        self.assertFalse(ownership_violations("Neurvalis and Valren Atelier are separate named companies."))
 
     def test_served_text_scan_rejects_false_claim_in_llms_and_search_json(self):
         source = ast.parse((ROOT / "tools" / "verify_build.py").read_text(encoding="utf8"))
@@ -151,7 +152,24 @@ Page owner: Vikram Patel, AI Architect. Corrections: hello@broadcastwell.com
         for text in ("# Broadcastwell\n\n" + claim, json.dumps({"docs": [{"text": claim}]})):
             with self.subTest(text=text):
                 self.assertTrue(namespace["ruling_hits"](text))
-        self.assertEqual(namespace["ruling_hits"]("Neurvalis and Valren Atelier are client records."), [])
+        self.assertEqual(namespace["ruling_hits"]("Neurvalis and Valren Atelier are separate named companies."), [])
+
+    def test_client_studies_counts_and_links_do_not_imply_founder_ownership(self):
+        permitted_client_evidence = (
+            "Broadcastwell worked with Valren Atelier to establish a baseline.",
+            "Broadcastwell's AI visibility baseline assessment gave Neurvalis a starting point.",
+            "Valren Atelier is active client work.",
+            "Neurvalis AI Automation was our client.",
+            "Broadcastwell clients: VantaaTax, Neurvalis, Valren Atelier.",
+            "Three client case studies cover VantaaTax, Neurvalis and Valren Atelier.",
+            "[Neurvalis client study](https://broadcastwell.com/neurvalis-ai-visibility-diagnostic)",
+            "[Valren Atelier client study](https://broadcastwell.com/valren-ai-visibility-audit)",
+        )
+        for value in permitted_client_evidence:
+            with self.subTest(client_evidence=value):
+                self.assertEqual(ownership_violations(value), [])
+                self.assertEqual(ownership_violations(json.dumps({"text": value})), [])
+        self.assertTrue(ownership_violations("Broadcastwell's founder previously owned and sold Neurvalis AI Automation and Valren Atelier."))
 
     def test_every_answer_hub_needs_a_named_owner_and_team_byline(self):
         hub = self.docs / "answers" / "index.md"
@@ -250,6 +268,112 @@ Page owner: Vikram Patel, AI Architect. Corrections: hello@broadcastwell.com
         page.meta = {}
         rendered = env.get_template("footer.html").render(page=page)
         self.assertIn('<time datetime="2026-10-26">26 October 2026</time>', rendered)
+
+
+
+class SourceMethodRuleTests(unittest.TestCase):
+    def setUp(self):
+        self.fixture = LibraryRuleTests("test_complete_fixture_passes")
+        self.fixture.setUp()
+        self.addCleanup(self.fixture.doCleanups)
+
+    def make_gsc(self):
+        fixture = self.fixture
+        fixture.meta.update(evidence_kind="search-console-export", is_based_on=GSC_SUMMARY_URL)
+        fixture.body = fixture.body.replace(
+            "This test fixture describes a 30-answer repeat check dated 28 October 2026. You can read its validation rules below.",
+            "The 27 October 2026 export has134 queries in our length filter and969 impressions. You can inspect the aggregate without reading private query text.")
+        fixture.body = fixture.body.replace(DEFAULT_METHOD_LABEL, SCOPED_METHOD_LABEL)
+        fixture.body = fixture.body.replace("Measured: this fixture is for validation tests and is never published. It has a dated source and a declared base.",
+            "Measured:134 distinct queries generated969 impressions and0 query-table clicks from1,000 query rows. "
+            "The92-day window runs from26 July to25 October2026; the export date is27 October2026. "
+            "The filter retains queries with at least12 whitespace-separated words. " + GSC_SCOPE_SENTENCE + "\n\n"
+            "[Aggregate source](" + GSC_SUMMARY_URL + "). "
+            "[Google impression/click definitions](https://support.google.com/webmasters/answer/7042828). "
+            "[Google AI feature reporting](https://developers.google.com/search/docs/appearance/ai-features).")
+        # Ordinary fixture language below is normalized; the metadata/JSON stays exact.
+        for old, new in (("has134", "has 134"),("and969", "and 969"),("generated969", "generated 969"),("and0", "and 0"),
+                         ("from1,000", "from 1,000"),("The92", "The 92"),("from26", "from 26"),("to25", "to 25"),
+                         ("October2026", "October 2026"),("is27", "is 27"),("least12", "least 12")):
+            fixture.body=fixture.body.replace(old,new)
+        asset=fixture.docs/GSC_SUMMARY_PATH;asset.parent.mkdir(parents=True,exist_ok=True)
+        asset.write_text(json.dumps(GSC_EXPECTED_SUMMARY),encoding="utf8")
+        fixture.write()
+        return asset
+
+    def make_study(self):
+        fixture=self.fixture
+        doi="https://doi.org/10.5281/zenodo.23197560"
+        fixture.meta.update(evidence_kind="published-study",is_based_on=doi,evidence_method_receipts=[doi])
+        fixture.body=fixture.body.replace(DEFAULT_METHOD_LABEL,SCOPED_METHOD_LABEL)
+        fixture.body=fixture.body.replace("Measured: this fixture is for validation tests and is never published. It has a dated source and a declared base.",
+            "Measured: this fixture describes the separate public-browsing study protocol. "
+            "The [published study method]("+doi+") specifies the tasks and scored outcomes.")
+        fixture.write()
+
+    def errors(self):
+        return "\n".join(validate_answer(self.fixture.path,self.fixture.docs))
+
+    def test_approved_aggregate_passes_without_relaxing_default_doi_rules(self):
+        self.make_gsc()
+        self.assertEqual(self.errors(),"")
+        self.fixture.meta.pop("evidence_kind")
+        self.fixture.write()
+        self.assertIn("non-September sources",self.errors())
+
+    def test_gsc_tampered_counts_hash_and_raw_fields_fail(self):
+        asset=self.make_gsc()
+        for key,value in (("matching_distinct_queries",135),("matching_query_table_clicks",False),("source_queries_csv_sha256","0"*64),
+                          ("raw_queries",["private fixture text"]),("local_path","C:/private/source.csv")):
+            with self.subTest(key=key):
+                payload=dict(GSC_EXPECTED_SUMMARY);payload[key]=value
+                asset.write_text(json.dumps(payload),encoding="utf8")
+                self.assertIn("differs from approved",self.errors())
+
+    def test_gsc_rejects_arbitrary_url_unknown_kind_and_duplicate_json_keys(self):
+        asset=self.make_gsc()
+        self.fixture.meta["is_based_on"]="https://example.org/summary.json";self.fixture.write()
+        self.assertIn("exact approved aggregate",self.errors())
+        self.fixture.meta["is_based_on"]=GSC_SUMMARY_URL;self.fixture.meta["evidence_kind"]="arbitrary-source";self.fixture.write()
+        self.assertIn("unknown evidence_kind",self.errors())
+        self.fixture.meta["evidence_kind"]="search-console-export";self.fixture.write()
+        asset.write_text('{"schema_version":"private duplicate",'+json.dumps(GSC_EXPECTED_SUMMARY)[1:],encoding="utf8")
+        self.assertIn("duplicate JSON key",self.errors())
+
+    def test_gsc_requires_actual_filter_scope_dates_and_primary_definitions(self):
+        self.make_gsc();original=self.fixture.body
+        for removed in ("at least 12 whitespace-separated words","https://support.google.com/webmasters/answer/7042828",
+                        GSC_SCOPE_SENTENCE,"92-day","1,000 query rows"):
+            with self.subTest(removed=removed):
+                self.fixture.body=original.replace(removed,"");self.fixture.write()
+                self.assertIn("Search Console",self.errors())
+
+    def test_approved_study_needs_its_method_receipt_and_truthful_label(self):
+        self.make_study();self.assertEqual(self.errors(),"")
+        self.fixture.body=self.fixture.body.replace(SCOPED_METHOD_LABEL,DEFAULT_METHOD_LABEL);self.fixture.write()
+        self.assertIn("universal v1.1",self.errors())
+        self.fixture.body=self.fixture.body.replace(DEFAULT_METHOD_LABEL,SCOPED_METHOD_LABEL)
+        self.fixture.meta.pop("evidence_method_receipts");self.fixture.write()
+        self.assertIn("requires a list",self.errors())
+
+    def test_study_rejects_unknown_doi_and_unlinked_or_arbitrary_receipts(self):
+        self.make_study()
+        self.fixture.meta["is_based_on"]="https://doi.org/10.5281/zenodo.99999999";self.fixture.write()
+        self.assertIn("outside the approved DOI",self.errors())
+        self.fixture.meta["is_based_on"]="https://doi.org/10.5281/zenodo.23197560"
+        self.fixture.meta["evidence_method_receipts"].append("https://example.org/method");self.fixture.write()
+        self.assertIn("unapproved study method receipt",self.errors())
+        self.fixture.meta["evidence_method_receipts"].pop()
+        self.fixture.body=self.fixture.body.replace("https://doi.org/10.5281/zenodo.23197560","https://example.org/unrelated");self.fixture.write()
+        self.assertIn("must be linked in What we measured",self.errors())
+
+    def test_gsc_rejects_false_universal_method_and_missing_first_figure(self):
+        self.make_gsc()
+        self.fixture.body=self.fixture.body.replace(SCOPED_METHOD_LABEL,DEFAULT_METHOD_LABEL);self.fixture.write()
+        self.assertIn("universal v1.1",self.errors())
+        self.fixture.body=self.fixture.body.replace(DEFAULT_METHOD_LABEL,SCOPED_METHOD_LABEL)
+        self.fixture.body=self.fixture.body.replace("has 134 queries in our length filter and 969 impressions","has a measured result")
+        self.fixture.write();self.assertIn("first Search Console paragraph",self.errors())
 
 
 class RepositoryLibraryTests(unittest.TestCase):
