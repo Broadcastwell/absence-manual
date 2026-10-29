@@ -5,7 +5,7 @@ description: Source facts, readable pages and changes that can be checked after 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T19:17:53+00:00'
+date_modified: '2026-10-29T21:09:24+00:00'
 library_hub: true
 library_owner: Rohan Iyer, AI Engineer
 library_order: 9
@@ -15,7 +15,7 @@ library_order: 9
 
 Source facts, readable pages and changes that can be checked after publication.
 
-These 20 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 22 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Official company facts
 
@@ -136,6 +136,18 @@ The llms.txt v2 proposal describes a Markdown overview with links. Agent Gap rea
 [Which websites have an llms.txt file?](which-websites-have-an-llms-txt-file.md)
 
 Minuttia and OpenAI developer documentation served llms.txt files on 29 October 2026. Availability is separate from our dated agency evidence score.
+
+## File-checker scope
+
+[What is an llms.txt checker?](what-is-an-llms-txt-checker.md)
+
+An llms.txt checker tests stated file rules. Separate a valid structure or working link from a correct account of the destination and its pricing.
+
+## Buyer-question content selection
+
+[How should I choose content for SEO, AEO and GEO?](how-should-i-choose-content-for-seo-aeo-and-geo.md)
+
+Choose a buyer decision before a content format: Study 7 extracted 2,003 category-specific criteria from answers captured on 22 and 23 September 2026.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

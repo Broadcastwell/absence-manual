@@ -5359,6 +5359,64 @@
       "unit": "lists",
       "label": "Agency-list audit: publishers present in their own lists",
       "source_review_sha256": "1fcab70828befda683865f9370b6dbcc297c7717d78b3fb8359d9604a3eab62a"
+    },
+    "figure:c8cc690a9ec4ea0fb44c4d8e2add2b477edf64cc5d9fd5a73896fc9e679b1f98": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "insurance-agency-management",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 10,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap insurance-agency-management: reached",
+      "source_review_sha256": "b29e1188aeee2a77c6e46fe50e7d61971096a66aa7629f0822924b9631af0f57"
+    },
+    "figure:849206160eeb7f5ded0ccc0f3deed26b21fdf0d77d48b0a2ac07c7491ee7d30b": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "legal-practice-management",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 13,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap legal-practice-management: reached",
+      "source_review_sha256": "b29e1188aeee2a77c6e46fe50e7d61971096a66aa7629f0822924b9631af0f57"
+    },
+    "figure:839b7f2410a4991956782a8a291b69eade2e1532f0263e0d4fc0943cf23dbb7e": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "loan-origination-software",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 6,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap loan-origination-software: reached",
+      "source_review_sha256": "b29e1188aeee2a77c6e46fe50e7d61971096a66aa7629f0822924b9631af0f57"
+    },
+    "figure:3c91e38e03983fe42adc776a834e490767a2fc997754b7f242f9d1e4ede546a2": {
+      "source_url": "https://broadcastwell.com/best-geo-agencies",
+      "record": {
+        "subject": "Omniscient Digital",
+        "metric": "verifiable_yeses",
+        "event_date": "2026-10-28"
+      },
+      "count": 3,
+      "base": 8,
+      "unit": "publication_criteria",
+      "label": "Omniscient Digital dated publicly verifiable criteria",
+      "source_review_sha256": "8ad8e4692ae842627e76386cd4449b9238cc86b3451dad5c29f3cca3b4b28402"
     }
   },
   "pages": {
@@ -9817,6 +9875,150 @@
       "opening_shape": "action_first",
       "classification_reason": "Compare Clutch client accounts with G2product reviews is an imperative that leads the first sentence.",
       "writing_review_sha256": "a7129cd8f209fcd85bb054d8ca2cded4c5ba7161290b5f799d97fc794d73d63e"
+    },
+    "answers/agents/can-insurance-agency-software-integrate-with-chatgpt.md": {
+      "source_sha256": "375462ebd99eb5a8b9379277d363640afa33997403c6d8578c5c5343fb2cf9cb",
+      "canonical_source_sha256": "375462ebd99eb5a8b9379277d363640afa33997403c6d8578c5c5343fb2cf9cb",
+      "opening_sha256": "84631052a26f10efd5e034aaba13afe8127b0a2e34b718ae77d9efe5b52025eb",
+      "bank_id": "LB-Q0394",
+      "lead_figures": [
+        "figure:c8cc690a9ec4ea0fb44c4d8e2add2b477edf64cc5d9fd5a73896fc9e679b1f98"
+      ],
+      "lead_figure_spans": {
+        "figure:c8cc690a9ec4ea0fb44c4d8e2add2b477edf64cc5d9fd5a73896fc9e679b1f98": [
+          "AgencyZoom has a documented Zapier connection for insurance agencies, with a separate ChatGPT-compatible MCP route listed by Zapier. Our Agent Gap study reached the specified endpoint in 10 of 15 initial insurance-agency website tasks on 6 October 2026."
+        ]
+      },
+      "source_review_sha256": "b29e1188aeee2a77c6e46fe50e7d61971096a66aa7629f0822924b9631af0f57",
+      "opening_shape": "vendor_first",
+      "classification_reason": "AgencyZoom, a named insurance software product, leads the first clause and its documented route. The public task count follows that subject.",
+      "writing_review_sha256": "6c259d8b37e41a21977a28a502aa36532bc73667974ef852682a9ca3d7210b03"
+    },
+    "answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md": {
+      "source_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0",
+      "canonical_source_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0",
+      "opening_sha256": "52699821e634d9d288c70140ddf39ea7c5cf24d9a228d4c9cf778f513aa2c9ee",
+      "bank_id": "LB-Q0041",
+      "lead_figures": [
+        "figure:3c91e38e03983fe42adc776a834e490767a2fc997754b7f242f9d1e4ede546a2"
+      ],
+      "lead_figure_spans": {
+        "figure:3c91e38e03983fe42adc776a834e490767a2fc997754b7f242f9d1e4ede546a2": [
+          "[Omniscient Digital](https://broadcastwell.com/best-geo-agencies#omniscient) has a 3/8 publication score: Engines, B2B cases and Reviews are Yes. Our copy, read on 29 October 2026, retains Partial for Method and Machine readable. You can compare the public evidence using the earlier field dates shown below."
+        ]
+      },
+      "source_review_sha256": "8ad8e4692ae842627e76386cd4449b9238cc86b3451dad5c29f3cca3b4b28402",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Omniscient Digital, the checked agency identity, leads the first clause and its publication score. It is the reviewed supplier rather than the cited host or publisher; the earlier source_first plan does not govern the actual prose. This follows the existing supplier-name use of vendor_first.",
+      "writing_review_sha256": "8d6b5082256f1888132a3e882d4c9806757376e00b281d3e57a12e5314a599ef"
+    },
+    "answers/buying/what-does-an-ai-visibility-audit-include.md": {
+      "source_sha256": "778eedcf727c5050690e8d3ec5814d5c392b3bd2e49e87fc7049042f59be24e2",
+      "canonical_source_sha256": "778eedcf727c5050690e8d3ec5814d5c392b3bd2e49e87fc7049042f59be24e2",
+      "opening_sha256": "170b6809b86b128358eb5fd10aa7c69dce14cc40690f1c24753d5a2bd3dc8181",
+      "bank_id": "LB-Q0044",
+      "lead_figures": [
+        "figure:6516d979c519c14b7b75f2f69a7e35336c6fac325119f4b5b7640030f430eb47"
+      ],
+      "lead_figure_spans": {
+        "figure:6516d979c519c14b7b75f2f69a7e35336c6fac325119f4b5b7640030f430eb47": [
+          "Three Yes fields appear in [Go Fish Digital](https://broadcastwell.com/best-geo-agencies#go-fish-digital)'s 3/8 publication record: Engines, B2B cases and Reviews. An AI visibility audit should include the observed answers, questions, engines, run dates and cited sources. Our source copy was read on 29 October 2026. Its Method entry is Partial and Machine readable is No. You need the actual evidence handover specified alongside any list of covered engines."
+        ]
+      },
+      "source_review_sha256": "8ad8e4692ae842627e76386cd4449b9238cc86b3451dad5c29f3cca3b4b28402",
+      "opening_shape": "figure_first",
+      "classification_reason": "Three Yes fields is the initial count subject, before the checked agency identity and the direct audit-deliverable answer. The actual opening is figure_first.",
+      "writing_review_sha256": "e38ed8e0b8dacb0feb6d7c99a73d95c0a6e46ba4a7f14c01b27b416cc69c2b10"
+    },
+    "answers/geo-basics/how-well-can-entry-level-geo-solutions-scale-with-a-growing-business.md": {
+      "source_sha256": "1f4ca6e44e16685f3cec86cf0fc8da71e2462c40c0928db19f7bfccc94435b1b",
+      "canonical_source_sha256": "1f4ca6e44e16685f3cec86cf0fc8da71e2462c40c0928db19f7bfccc94435b1b",
+      "opening_sha256": "9cfd67dd3d4e4da04dfded4261c57c0df95876056febaed79190b04a4c2d569f",
+      "bank_id": "LB-Q0049",
+      "lead_figures": [
+        "figure:a11a0d596a2cf9dff57ac7d2aa313c1f32c8280bdd77993393156210ce55aef1"
+      ],
+      "lead_figure_spans": {
+        "figure:a11a0d596a2cf9dff57ac7d2aa313c1f32c8280bdd77993393156210ce55aef1": [
+          "If your business is adding brands or clients, an entry-level GEO tool scales only as far as its documented resources and reporting boundaries allow. Our September Index retained 2,095/2,100 scheduled answers from captures on 22 and 23 September 2026. You need room for the missing or excluded observations as well as the usable ones. Otterly's shared prompt pool illustrates a resource boundary; it is not a measured performance result."
+        ]
+      },
+      "source_review_sha256": "9fdf3631b164cedc945b11ed6f56f572dea73800faea1ad18311bd7baa0d0093",
+      "opening_shape": "reader_situation",
+      "classification_reason": "If your business is adding brands or clients is the particular reader/workload condition that leads the first sentence.",
+      "writing_review_sha256": "7b89ef5b031c4b73c3b1afa65d4bb84df55e4b37cd019af7d98a9cf50c32ce68"
+    },
+    "answers/measurement/what-does-hotwire-gaio-tech-publish-about-model-coverage.md": {
+      "source_sha256": "dded5b973c3c717dcf04ea6b5d42365ae0b3b80a719267f1eb1f6dff288ae803",
+      "canonical_source_sha256": "dded5b973c3c717dcf04ea6b5d42365ae0b3b80a719267f1eb1f6dff288ae803",
+      "opening_sha256": "c315c0ae4d8f447df7021d1157f3d39c32edc90001558c9468ce7cd288927072",
+      "bank_id": "LB-Q0067",
+      "lead_figures": [
+        "figure:d3b6221a1f9e19709347f4a56905f433f9a0b225563a427e61b2fb88345811a8"
+      ],
+      "lead_figure_spans": {
+        "figure:d3b6221a1f9e19709347f4a56905f433f9a0b225563a427e61b2fb88345811a8": [
+          "On 21 May 2024, Hotwire announced GAIO.tech with ChatGPT, Claude and Perplexity among its examples, alongside Google's conversational assistant. Its later Spark announcement names ChatGPT and Copilot alongside that Google chatbot. Keep those dated labels when you assess coverage: our own 22 September 2026 construction panel named Procore in 23/30 ChatGPT answers. That engine-specific count illustrates an output record, not a coverage test of Hotwire's product."
+        ]
+      },
+      "source_review_sha256": "9fdf3631b164cedc945b11ed6f56f572dea73800faea1ad18311bd7baa0d0093",
+      "opening_shape": "date_first",
+      "classification_reason": "The actual 21 May 2024 announcement event frames the first clause and is contrasted with the later Spark announcement. This is a real source chronology rather than a date shuffled within a repeated opening.",
+      "writing_review_sha256": "237b1bbbbd9085c8113db7a3797ee088bc9b8f142028177c477739f288fe8156"
+    },
+    "answers/fixes/what-is-an-llms-txt-checker.md": {
+      "source_sha256": "fdc84351286f988e5a6601650c9ddf1fb7bdb967c260e60a8b0d38463f573bc3",
+      "canonical_source_sha256": "fdc84351286f988e5a6601650c9ddf1fb7bdb967c260e60a8b0d38463f573bc3",
+      "opening_sha256": "e6118adfc9e0ca12ce4d36f9537ebad6f649222c99b4d17200f7362c68e8091e",
+      "bank_id": "LB-Q0405",
+      "lead_figures": [
+        "figure:515304c8ae9a40230c50eea143ff050365982d15d880b78ae62c7278a68bf3d4"
+      ],
+      "lead_figure_spans": {
+        "figure:515304c8ae9a40230c50eea143ff050365982d15d880b78ae62c7278a68bf3d4": [
+          "An llms.txt checker is a program that checks a file against stated structure rules; some also inspect its links. A format pass cannot establish that the linked information was understood correctly. In our separate Agent Gap browser tasks on 6 October 2026, pricing results were correct in 67/70 initial sessions. You should keep a checker's file result distinct from that kind of content-correctness result; we did not test an llms.txt checker in the study."
+        ]
+      },
+      "source_review_sha256": "9fdf3631b164cedc945b11ed6f56f572dea73800faea1ad18311bd7baa0d0093",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The opening directly defines the checker object and its file/link operations. It begins neither with a count, a supplier nor a refutation; the limitation and task count follow the definition.",
+      "writing_review_sha256": "934e1f6505122fd26eedb243f3a3f6fb3e7d73c2c2f0f21e9683cfbeb57728f2"
+    },
+    "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo.md": {
+      "source_sha256": "815dfc8e6f21bc716b0807b2c8e36cbca584b19733d9dff3f235d6291579b72b",
+      "canonical_source_sha256": "815dfc8e6f21bc716b0807b2c8e36cbca584b19733d9dff3f235d6291579b72b",
+      "opening_sha256": "1b0c4a4abeaebc0b8c00641455367bd65693373f4a6e404bdd2b81e0204b121e",
+      "bank_id": "LB-Q0475",
+      "lead_figures": [
+        "figure:4aa3a23236001bb46e32892529c61d77de57a15ad8ba446dbd25dec83e2c0b97"
+      ],
+      "lead_figure_spans": {
+        "figure:4aa3a23236001bb46e32892529c61d77de57a15ad8ba446dbd25dec83e2c0b97": [
+          "For a team choosing between an accounting-integration explainer and a broad construction article, the unanswered buyer decision should determine the brief. In the AI Written RFP dataset, the 22 and 23 September 2026 captures yielded 2,003 category-specific criteria."
+        ]
+      },
+      "source_review_sha256": "9fdf3631b164cedc945b11ed6f56f572dea73800faea1ad18311bd7baa0d0093",
+      "opening_shape": "reader_situation",
+      "classification_reason": "A team choosing between the particular accounting-integration explainer and broad construction article leads the first clause, before the criterion count.",
+      "writing_review_sha256": "cb0a897ca414e8a8222a25822aefbae7b2e82a93385d0fedd3b592609298e56e"
+    },
+    "answers/measurement/what-does-athena-publish-about-data-accuracy.md": {
+      "source_sha256": "82febd7337410ee28dd73fcbbe4e253493e4b6e1c454c8d39f8389139d2e7e32",
+      "canonical_source_sha256": "82febd7337410ee28dd73fcbbe4e253493e4b6e1c454c8d39f8389139d2e7e32",
+      "opening_sha256": "5a94129d00c533727c1a13b456f553c4383c332186fdd661cc426dd717a2e58e",
+      "bank_id": "LB-Q0066",
+      "lead_figures": [
+        "figure:5243720b6211ee67048d838fa0ddffc4b7db31d6459130be9b10ef16f0442d0b"
+      ],
+      "lead_figure_spans": {
+        "figure:5243720b6211ee67048d838fa0ddffc4b7db31d6459130be9b10ef16f0442d0b": [
+          "The AthenaHQ accuracy FAQ describes collecting AI answers and tracking visibility, then points to customer outcomes as evidence of reliability. For a truth check, you need the underlying claim and its reference instead. Wrong About You classified 1,924 of 2,922 statements as true using 22 September and 23 September 2026 captures; its vendor-reference check took place on 8 October. Those dated classifications are ours, not a test of AthenaHQ."
+        ]
+      },
+      "source_review_sha256": "33d19f03af0ca8f69c133eeebc2992581969db3b71e96c0bb1d7c65ead90276a",
+      "opening_shape": "source_first",
+      "classification_reason": "The named AthenaHQ accuracy FAQ is the grammatical source-document subject of the first clause. Its descriptions, rather than a checked software-performance result, lead the paragraph. This matches the existing source_first definition and measurement inventory.",
+      "writing_review_sha256": "1e45771c715150a95b5a0622a90e946412d75da23d283bb2e9ddee7f2535faa5"
     }
   },
   "index_question_titles": {

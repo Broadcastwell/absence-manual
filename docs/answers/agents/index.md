@@ -5,7 +5,7 @@ description: What assistants found, understood and reached on public software we
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T19:17:53+00:00'
+date_modified: '2026-10-29T21:09:24+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 11
@@ -15,7 +15,7 @@ library_order: 11
 
 What assistants found, understood and reached on public software websites.
 
-These 13 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 14 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Connections and public browsing
 
@@ -90,6 +90,12 @@ Zapier lists Housecall Pro job triggers, a customer action and separate AI conne
 [Can hotel software integrate with ChatGPT?](can-hotel-software-integrate-with-chatgpt.md)
 
 Cloudbeds has a documented third-party AI connection listing. Our 14-of-15 hotel website-task result did not test guest records or booking changes.
+
+## Insurance agency connections
+
+[Can insurance agency software integrate with ChatGPT?](can-insurance-agency-software-integrate-with-chatgpt.md)
+
+AgencyZoom documents a Zapier route for insurance agencies; Agent Gap reached 10 of 15 public insurance website endpoints on 6 October 2026.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

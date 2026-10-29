@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T20:03:41+00:00'
+date_modified: '2026-10-29T21:08:52+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 20 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 21 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -124,6 +124,12 @@ GetMint describes commerce and content work; OtterlyAI documents shopping tracki
 [Which review sites for GEO should a buyer compare?](which-review-sites-for-geo-should-a-buyer-compare.md)
 
 Compare client reviews, software reviews and publisher disclosures using our dated 29-of-32 list finding and the distinct parent-company status.
+
+## Growing measurement workload
+
+[How well can entry-level GEO solutions scale with a growing business?](how-well-can-entry-level-geo-solutions-scale-with-a-growing-business.md)
+
+Size a growing GEO workload by retained answers and shared resources. Otterly documents client Workspaces and a shared prompt pool; throughput is untested.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
