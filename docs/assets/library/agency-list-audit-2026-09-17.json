@@ -1,0 +1,573 @@
+{
+  "schema_version": "1.0",
+  "title": "Agency-list publication audit, 17 September 2026",
+  "publisher": "Broadcastwell",
+  "publisher_scored": false,
+  "source_url": "https://broadcastwell.com/best-geo-agencies-lists-audited",
+  "method_url": "https://broadcastwell.com/best-geo-agencies-lists-audited#how-scored",
+  "source_html_sha256": "8de93b046f9c782eaa18d5c0852886590356a47400d2e19ef2780371a7c1d9f9",
+  "field_read_date": "2026-09-17",
+  "unit": "list-pages",
+  "counting_rule": "One list page is one row. Repeated publishers remain separate. Only exact Yes counts as self-inclusion; Parent company listed is a separate state.",
+  "criteria": [
+    "Discloses its interest",
+    "Publishes criteria",
+    "Links sources",
+    "Shows a date",
+    "Shows prices",
+    "Correction route"
+  ],
+  "summary": {
+    "rows": 32,
+    "in_own_list_yes": 29,
+    "in_own_list_no": 2,
+    "parent_company_listed": 1
+  },
+  "scope": "Publication-page disclosure checks, not a provider test, service-quality comparison or client/AI outcome benchmark.",
+  "records": [
+    {
+      "list_url": "https://aeovision.ai/articles/best-aeo-geo-agencies-2026/",
+      "publisher": "AEO Vision",
+      "list_title": "Best 60+ AEO/GEO Agencies in 2026 (US, Europe & Asia Directory)",
+      "in_own_list": "No",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "No"
+      ],
+      "yes_count": 3,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://aiclicks.io/blog/best-generative-engine-optimization-agencies",
+      "publisher": "AIclicks",
+      "list_title": "10 Best GEO (Generative Engine Optimization) Agencies in 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "No"
+      ],
+      "yes_count": 3,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.breakingb2b.com/blog/best-llm-seo-agency",
+      "publisher": "Breaking B2B",
+      "list_title": "Best LLM SEO Agency: We Reviewed 22 for AI Search Visibility",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Partial",
+        "Partial",
+        "Yes",
+        "Partial",
+        "No"
+      ],
+      "yes_count": 1,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://cracklepr.com/best-geo-agencies-2026",
+      "publisher": "Crackle PR",
+      "list_title": "Best GEO Agencies 2026 | Top Generative Engine Optimization Firms | Crackle PR",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "No",
+        "Partial",
+        "No"
+      ],
+      "yes_count": 2,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://csp.agency/blog/top-8-geo-agencies-for-2026-ranked-by-data/",
+      "publisher": "CSP Agency",
+      "list_title": "Top 8 GEO Agencies for 2026 Ranked by Data",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Yes",
+        "Partial",
+        "Yes",
+        "No",
+        "No"
+      ],
+      "yes_count": 2,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://thedigitalelevator.com/blog/best-generative-engine-optimization-geo-agencies/",
+      "publisher": "Digital Elevator",
+      "list_title": "The 12 Best Generative Engine Optimization (GEO) Agencies of 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "Yes"
+      ],
+      "yes_count": 3,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://firstpagesage.com/seo-blog/the-top-generative-engine-optimization-geo-agencies/",
+      "publisher": "First Page Sage",
+      "list_title": "The Top GEO Agencies of 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Yes",
+        "Partial",
+        "Yes",
+        "No",
+        "No"
+      ],
+      "yes_count": 2,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.gen-optima.com/geo/the-12-best-generative-engine-optimization-geo-agencies-in-2026/",
+      "publisher": "GenOptima",
+      "list_title": "The 12 Best Generative Engine Optimization (GEO) Agencies in 2026: Ranked by Methodology, AI Citation Data, and Pricing Transparency",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Yes",
+        "Yes"
+      ],
+      "yes_count": 5,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://gofishdigital.com/blog/generative-engine-optimization-agencies/",
+      "publisher": "Go Fish Digital",
+      "list_title": "8 Top Generative Engine Optimization (GEO) Agencies",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Yes",
+        "Partial",
+        "Yes",
+        "No",
+        "Yes"
+      ],
+      "yes_count": 3,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://growpad.pro/best-ai-visibility-llmo-agencies-for-saas-brands/",
+      "publisher": "GrowPad",
+      "list_title": "Best LLMO Agencies for B2B SaaS | Ranking 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Yes",
+        "No"
+      ],
+      "yes_count": 3,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.gtm8020.com/blog/agencies-seo-geo-combined",
+      "publisher": "GTM 8020",
+      "list_title": "8 Best Agencies for SEO and GEO Combined in 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Partial",
+        "Yes",
+        "Yes",
+        "No",
+        "No"
+      ],
+      "yes_count": 2,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.lilbigthings.com/post/best-aeo-agencies",
+      "publisher": "Lil Big Things",
+      "list_title": "8 Best Answer Engine Optimization (AEO) Agencies in 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "No"
+      ],
+      "yes_count": 3,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://minuttia.com/best-geo-agencies/",
+      "publisher": "Minuttia",
+      "list_title": "10 Best Generative Engine Optimization (GEO) Agencies September, 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Partial",
+        "Partial",
+        "Yes",
+        "Partial",
+        "No"
+      ],
+      "yes_count": 1,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://nogood.io/blog/best-answer-engine-optimization-agencies",
+      "publisher": "NoGood",
+      "list_title": "The Best Answer Engine Optimization (AEO) Agencies in 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Yes",
+        "Partial",
+        "Yes",
+        "No",
+        "No"
+      ],
+      "yes_count": 2,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.nutshell.com/blog/top-geo-agencies",
+      "publisher": "Nutshell",
+      "list_title": "The Best GEO Agencies to Partner With in 2026",
+      "in_own_list": "Parent company listed",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "No"
+      ],
+      "yes_count": 3,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.onely.com/blog/best-geo-agencies/",
+      "publisher": "Onely",
+      "list_title": "Top 14 Best GEO Agencies in 2026: An Enterprise Buyer's Evaluation",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "Yes"
+      ],
+      "yes_count": 4,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.onely.com/blog/best-ai-seo-agencies/",
+      "publisher": "Onely",
+      "list_title": "Top 10 AI SEO Agencies in 2026: What They Actually Deliver and How to Evaluate Them",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "Yes"
+      ],
+      "yes_count": 4,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.yesoptimist.com/best-geo-agencies/",
+      "publisher": "Optimist",
+      "list_title": "The 7 Best GEO Agencies Driving Real Revenue from AI in 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "Yes"
+      ],
+      "yes_count": 4,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.yesoptimist.com/best-ai-seo-agencies/",
+      "publisher": "Optimist",
+      "list_title": "The 7 Best AI SEO Agencies Helping Clients Win AI Search in 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "Yes",
+        "Partial",
+        "Partial",
+        "Yes",
+        "Partial",
+        "Yes"
+      ],
+      "yes_count": 3,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://outreachbloom.com/best-aiseo-agencies",
+      "publisher": "OutreachBloom",
+      "list_title": "10 Best AI SEO Agencies & Services (2026)",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "No"
+      ],
+      "yes_count": 3,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.position.digital/blog/top-geo-agencies/",
+      "publisher": "Position Digital",
+      "list_title": "Top GEO Agencies in 2026 (Objective Comparison)",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "Yes"
+      ],
+      "yes_count": 3,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://respona.com/blog/answer-engine-optimization-agencies/",
+      "publisher": "Respona",
+      "list_title": "23 Best Answer Engine Optimization (AEO) Agencies in 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Partial",
+        "Partial",
+        "Yes",
+        "Partial",
+        "No"
+      ],
+      "yes_count": 1,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://revenuezen.com/top-answer-engine-optimization-aeo-agencies/",
+      "publisher": "RevenueZen",
+      "list_title": "Top Answer Engine Optimization Agencies (AEO) In 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Partial",
+        "Partial",
+        "Yes",
+        "No",
+        "No"
+      ],
+      "yes_count": 1,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.searchbloom.com/strategy/best-ai-seo-agency-companies-services-usa/",
+      "publisher": "Searchbloom",
+      "list_title": "Best AI SEO (AEO/GEO) Companies + Services in the US 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "Yes"
+      ],
+      "yes_count": 4,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://seoprofy.com/blog/generative-engine-optimization-agencies/",
+      "publisher": "SeoProfy",
+      "list_title": "Top 13 Generative Engine Optimization (GEO) Agencies for 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Partial",
+        "Partial",
+        "Yes",
+        "No",
+        "No"
+      ],
+      "yes_count": 1,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.silverbackstrategies.com/lists/best-geo-agencies-generative-engine-optimization-in-2026-ranked-reviewed/",
+      "publisher": "Silverback Strategies",
+      "list_title": "Best GEO Agencies (Generative Engine Optimization) in 2026 (Ranked & Reviewed)",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Partial",
+        "No",
+        "Yes",
+        "No",
+        "Yes"
+      ],
+      "yes_count": 2,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://skale.so/agencies/aeo/",
+      "publisher": "Skale",
+      "list_title": "Top 9 Answer Engine Optimization (AEO) Agencies in 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Partial",
+        "Partial",
+        "Yes",
+        "Partial",
+        "No"
+      ],
+      "yes_count": 1,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.spicymargarita.co/blog/top-ai-seo-agencies-for-b2b",
+      "publisher": "Spicy Margarita",
+      "list_title": "10 Top AI SEO Agencies in 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Partial",
+        "Partial",
+        "No",
+        "No",
+        "No"
+      ],
+      "yes_count": 0,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.stratabeat.com/best-geo-agency/",
+      "publisher": "Stratabeat",
+      "list_title": "The 10 Best GEO Agencies in 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "No"
+      ],
+      "yes_count": 3,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://aijourn.com/top-geo-agencies-by-industry-2026/",
+      "publisher": "The AI Journal",
+      "list_title": "Top GEO Agencies by Industry (2026)",
+      "in_own_list": "No",
+      "criteria_statuses": [
+        "No",
+        "Yes",
+        "Partial",
+        "Yes",
+        "Partial",
+        "No"
+      ],
+      "yes_count": 2,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.thebusinessrover.com/blog/best-aeo-geo-agencies",
+      "publisher": "The Business Rover",
+      "list_title": "16 best AEO & GEO agencies and platforms for AI visibility in 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "Yes",
+        "Yes",
+        "Partial",
+        "Yes",
+        "No",
+        "Yes"
+      ],
+      "yes_count": 4,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    },
+    {
+      "list_url": "https://www.thriveagency.com/news/top-generative-engine-optimization-geo-agencies/",
+      "publisher": "Thrive Internet Marketing Agency",
+      "list_title": "The 10 Top Generative Engine Optimization (GEO) Agencies in 2026",
+      "in_own_list": "Yes",
+      "criteria_statuses": [
+        "No",
+        "Yes",
+        "Partial",
+        "Yes",
+        "No",
+        "No"
+      ],
+      "yes_count": 2,
+      "criteria_base": 6,
+      "field_read_date": "2026-09-17"
+    }
+  ]
+}

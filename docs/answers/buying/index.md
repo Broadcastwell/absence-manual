@@ -5,7 +5,7 @@ description: Scope, acceptance evidence and questions to ask before agreeing to 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T16:21:09+00:00'
+date_modified: '2026-10-29T19:17:53+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 7
@@ -15,7 +15,7 @@ library_order: 7
 
 Scope, acceptance evidence and questions to ask before agreeing to work.
 
-These 17 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 19 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Delivery choices
 
@@ -118,6 +118,18 @@ Citant and Embarque each have four Yes cells out of eight in our dated startup c
 [Which agencies document work across AI answer engines?](which-agencies-document-work-across-ai-answer-engines.md)
 
 Our published comparison records Go Fish Digital at three Yes cells out of eight, including Engines; inspect the stated surfaces and the method limit.
+
+## White-label evidence and deliverables
+
+[Is Blobic a good white label GEO provider?](is-blobic-a-good-white-label-geo-provider.md)
+
+Blobic publishes white-label deliverables and terms. Our 118-of-2,042 statement finding explains one accuracy check; it does not score Blobic’s work.
+
+## Research methods and client proof
+
+[How does Seer Interactive compare to other GEO agencies when it comes to research, measurement capabilities, and proven client results?](how-does-seer-interactive-compare-to-other-geo-agencies-when-it-comes.md)
+
+Seer publishes research and specific measurement deliverables. Compare study scopes and case evidence separately; our 75-of-359 result does not rank agencies.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

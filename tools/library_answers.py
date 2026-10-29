@@ -9,6 +9,13 @@ from urllib.parse import urlsplit, unquote
 
 import yaml
 
+try:
+    from tools.library_list_audit import (LIST_AUDIT_SOURCE, LIST_AUDIT_METHOD_URL,
+        LIST_AUDIT_METHOD_LABEL, LIST_AUDIT_RECEIPT_URL, validate_list_audit)
+except ModuleNotFoundError:
+    from library_list_audit import (LIST_AUDIT_SOURCE, LIST_AUDIT_METHOD_URL,
+        LIST_AUDIT_METHOD_LABEL, LIST_AUDIT_RECEIPT_URL, validate_list_audit)
+
 SITE_URL = "https://docs.broadcastwell.com/"
 BUY_ENTRY = "https://broadcastwell.com/answer-repair"
 LIMIT_SENTENCE = "No email is needed; runs are limited per network and per day, and by the site's daily allowance."
@@ -61,7 +68,7 @@ AUDIT_CRITERIA = (
     "Method", "Open data", "Engines", "Price", "Refund", "B2B cases",
     "Reviews", "Machine readable",
 )
-# These are four publication-record observations, not answer-engine experiments.
+# These are publication-record observations, not answer-engine experiments.
 # Snapshot hashes bind the exact saved HTML; a later source needs a fresh review.
 APPROVED_PUBLICATION_AUDITS = {
     "https://broadcastwell.com/best-geo-agencies": {
@@ -70,6 +77,13 @@ APPROVED_PUBLICATION_AUDITS = {
         "records": {
             "go-fish-digital": {"name": "Go Fish Digital", "statuses": ("Partial", "No", "Yes", "No", "No", "Yes", "Yes", "No")},
             "minuttia": {"name": "Minuttia", "statuses": ("Partial", "No", "Yes", "Partial", "No", "Yes", "Yes", "Partial")},
+            "first-page-sage": {"name": "First Page Sage", "statuses": ("Partial", "No", "Yes", "No", "No", "Yes", "No", "No")},
+            "omniscient": {"name": "Omniscient Digital", "statuses": ("Partial", "No", "Yes", "Partial", "No", "Yes", "Yes", "Partial")},
+            "optimist": {"name": "Optimist", "statuses": ("Partial", "No", "Yes", "Partial", "No", "Yes", "Not verified", "Partial")},
+            "relevance": {"name": "Relevance", "statuses": ("Partial", "No", "Yes", "No", "No", "Yes", "Not verified", "Partial")},
+            "single-grain": {"name": "Single Grain", "statuses": ("Partial", "No", "Yes", "No", "No", "Yes", "Yes", "Partial")},
+            "skale": {"name": "Skale", "statuses": ("Partial", "No", "Yes", "Partial", "No", "Yes", "Not verified", "Partial")},
+            "webfx": {"name": "WebFX", "statuses": ("Partial", "No", "Yes", "Partial", "No", "Yes", "Not verified", "Yes")},
         },
         "dates": ("15 September 2026", "16 September 2026", "28 October 2026"),
         "date_context": "Prices, refund terms and engine lists were read again on 28 October 2026; other cells retain their earlier dates.",
@@ -83,6 +97,15 @@ APPROVED_PUBLICATION_AUDITS = {
         },
         "dates": ("15 September 2026", "16 September 2026"),
         "date_context": "Other cells retain their original dates.",
+    },
+}
+# Named review-status updates in the same pinned main audit snapshot.
+PUBLICATION_AUDIT_REVIEW_STATUS_UPDATES = {
+    "https://broadcastwell.com/best-geo-agencies": {
+        "optimist": ("29 September 2026", "Not verified"),
+        "relevance": ("29 September 2026", "Not verified"),
+        "skale": ("29 September 2026", "Not verified"),
+        "webfx": ("29 September 2026", "Not verified"),
     },
 }
 GSC_SCOPE_SENTENCE = "Query wording does not identify who wrote it or what an AI engine answered."
@@ -192,6 +215,7 @@ def external_evidence_links(body):
             parsed.netloc == "index.broadcastwell.com"
             or (parsed.netloc == "broadcastwell.com" and parsed.path.startswith("/research/"))
             or href.split("#", 1)[0] in APPROVED_PUBLICATION_AUDITS
+            or href.split("#", 1)[0] == LIST_AUDIT_SOURCE
         ):
             result.add(href.split("#", 1)[0])
     return result
@@ -358,6 +382,13 @@ def _audit_scope_and_dates(source, selected, measured):
     if "citant" in selected:
         required += [(role, "23 October 2026", r"\bCitant\b") for role in ("method", "open_data")]
         required += [("reviews", "29 September 2026", r"\bCitant\b.*\bNot verified\b|\bNot verified\b.*\bCitant\b")]
+    review_updates = PUBLICATION_AUDIT_REVIEW_STATUS_UPDATES.get(source, {})
+    for record_id in selected:
+        if record_id in review_updates:
+            date, status = review_updates[record_id]
+            name = re.escape(APPROVED_PUBLICATION_AUDITS[source]["records"][record_id]["name"])
+            context = r"\b" + name + r"\b.*\b" + re.escape(status) + r"\b|\b" + re.escape(status) + r"\b.*\b" + name + r"\b"
+            required.append(("reviews", date, context))
     for role, date, extra in required:
         if not has_date(role, date, extra):
             errors.append("published-audit field/read date missing or misattributed: " + role + " = " + date)
@@ -385,6 +416,21 @@ def _audit_scope_and_dates(source, selected, measured):
                     valid_dates.add("23 October 2026")
                 if role == "reviews":
                     valid_dates.add("29 September 2026")
+            if role == "reviews":
+                for record_id in selected:
+                    if record_id in review_updates:
+                        update_date, status = review_updates[record_id]
+                        name = re.escape(APPROVED_PUBLICATION_AUDITS[source]["records"][record_id]["name"])
+                        if re.search(r"\b" + name + r"\b", unit, re.I) and re.search(r"\b" + re.escape(status) + r"\b", unit, re.I):
+                            valid_dates.add(update_date)
+                            # This date records a verification-status update,
+                            # not another read of a review platform. Remove the
+                            # status phrase before checking negation so its
+                            # word Not cannot negate an affirmative reread.
+                            assertion = re.sub(r"\bNot verified\b", "unverified", unit, flags=re.I)
+                            read_concept = r"re[- ]?read|re[- ]?checked|fresh(?:ly)? (?:read|checked|reviewed)|read|reviewed|checked"
+                            if update_date in unit and re.search(r"\b(?:" + read_concept + r")\b", assertion, re.I) and not _audit_negates(assertion, read_concept):
+                                errors.append("published-audit review-status update is not evidence of a fresh review read: " + record_id)
             if date.group() not in valid_dates:
                 errors.append("published-audit contradicts the approved field/read dates: " + role + " = " + date.group())
     return errors
@@ -523,10 +569,18 @@ def validate_source_evidence(meta, body, docs):
         errors.extend(validate_publication_audit(meta, body, measured))
         if method_url not in markdown_links(measured):
             errors.append("publication-audit criteria must be linked in What we measured")
+    elif kind == "published-list-audit":
+        method_label = LIST_AUDIT_METHOD_LABEL
+        method_url = LIST_AUDIT_METHOD_URL
+        errors.extend(validate_list_audit(meta, body, measured, docs,
+            plain_text=plain_text, markdown_links=markdown_links,
+            paragraph_after_heading=paragraph_after_heading,
+            audit_prose=_audit_prose, audit_negates=_audit_negates,
+            unsupported_claims=_audit_unsupported_claims))
     else:
         errors.append("unknown evidence_kind")
     if f"[{method_label}]({method_url})" not in body:
-        errors.append("method label must link to the publication-audit scorecard" if kind == "published-audit" else "method label must link to the published answer-study method")
+        errors.append("method label must link to the publication-audit scorecard" if kind == "published-audit" else "method label must link to the list-audit criteria" if kind == "published-list-audit" else "method label must link to the published answer-study method")
     return errors, method_label
 
 
@@ -626,7 +680,13 @@ def validate_answer(path, docs):
         and str(meta.get("is_based_on", "")) in APPROVED_PUBLICATION_AUDITS
         and str(meta.get("is_based_on")) + "#scorecard" in markdown_links(body)
     )
-    if not (standard_evidence or approved_gsc_evidence or approved_audit_evidence):
+    approved_list_audit_evidence = (
+        meta.get("evidence_kind") == "published-list-audit"
+        and meta.get("is_based_on") == LIST_AUDIT_SOURCE
+        and LIST_AUDIT_METHOD_URL in markdown_links(body)
+        and LIST_AUDIT_RECEIPT_URL in markdown_links(body)
+    )
+    if not (standard_evidence or approved_gsc_evidence or approved_audit_evidence or approved_list_audit_evidence):
         errors.append("missing published evidence link")
     return [rel + ": " + error for error in errors]
 

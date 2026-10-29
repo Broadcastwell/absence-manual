@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T16:21:09+00:00'
+date_modified: '2026-10-29T20:03:41+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 18 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 20 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -112,6 +112,18 @@ Compare Profound and seoClarity by definitions: our CRM record had 113 naming an
 [What are alternatives to Go Fish Digital for GEO?](what-are-alternatives-to-go-fish-digital-for-geo.md)
 
 Compare Minuttia with Go Fish Digital through their dated published evidence: each has three Yes cells, while their Partial and No fields differ.
+
+## Shopping visibility and transaction proof
+
+[How do GetMint and Otterly compare for transactional GEO in the United States?](how-do-getmint-and-otterly-compare-for-transactional-geo-in-the-united.md)
+
+GetMint describes commerce and content work; OtterlyAI documents shopping tracking. Our 44-of-70 demo-path result did not measure completed transactions.
+
+## Choosing review evidence
+
+[Which review sites for GEO should a buyer compare?](which-review-sites-for-geo-should-a-buyer-compare.md)
+
+Compare client reviews, software reviews and publisher disclosures using our dated 29-of-32 list finding and the distinct parent-company status.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

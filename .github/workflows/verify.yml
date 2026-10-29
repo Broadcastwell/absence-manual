@@ -31,6 +31,8 @@ jobs:
         run: |
           python -m unittest discover -s tests -p 'test_answers.py'
           python -m unittest discover -s tests -p 'test_answers_published_audit.py'
+          python -m unittest discover -s tests -p 'test_answers_published_audit_extension.py'
+          python -m unittest discover -s tests -p 'test_answers_published_list_audit.py'
           python tools/generate_answers_llms.py --check
           python tools/verify_answers.py --check-external --receipt answer-link-check.json
       - name: Build site

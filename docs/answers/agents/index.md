@@ -5,7 +5,7 @@ description: What assistants found, understood and reached on public software we
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T16:36:11+00:00'
+date_modified: '2026-10-29T19:17:53+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 11
@@ -15,7 +15,7 @@ library_order: 11
 
 What assistants found, understood and reached on public software websites.
 
-These 9 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 13 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Connections and public browsing
 
@@ -66,6 +66,30 @@ Zapier documents a Procore and ChatGPT connection; Agent Gap reached 15 of 15 co
 [Can CRM software integrate with ChatGPT?](can-crm-software-integrate-with-chatgpt.md)
 
 HubSpot documents a ChatGPT connector with permissions for CRM access. Our 13-of-15 CRM website-task result did not test that connection.
+
+## Connected dealership records
+
+[Can dealership software integrate with ChatGPT?](can-dealership-software-integrate-with-chatgpt.md)
+
+DealerAI documents a store-scoped ChatGPT connector. Our 10-of-15 dealership website-task result did not test connected inventory or customer records.
+
+## connected-dental-records
+
+[Can dental practice software integrate with ChatGPT?](can-dental-practice-software-integrate-with-chatgpt.md)
+
+Dentally documents API access, but we have not verified a ready-made ChatGPT route. See the partner stages and the limits of our public-site study.
+
+## Connected field-service operations
+
+[Can field service software integrate with ChatGPT?](can-field-service-software-integrate-with-chatgpt.md)
+
+Zapier lists Housecall Pro job triggers, a customer action and separate AI connection routes. Agent Gap reached 13 of 15 public field-service endpoints.
+
+## Connected hotel records
+
+[Can hotel software integrate with ChatGPT?](can-hotel-software-integrate-with-chatgpt.md)
+
+Cloudbeds has a documented third-party AI connection listing. Our 14-of-15 hotel website-task result did not test guest records or booking changes.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

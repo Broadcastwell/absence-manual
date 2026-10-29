@@ -5,7 +5,7 @@ description: Source facts, readable pages and changes that can be checked after 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T16:21:09+00:00'
+date_modified: '2026-10-29T19:17:53+00:00'
 library_hub: true
 library_owner: Rohan Iyer, AI Engineer
 library_order: 9
@@ -15,7 +15,7 @@ library_order: 9
 
 Source facts, readable pages and changes that can be checked after publication.
 
-These 17 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 20 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Official company facts
 
@@ -118,6 +118,24 @@ Profound describes page-update and creation paths; Agent Gap reached the endpoin
 [What do AI crawlers do, and how can site owners control access?](what-do-ai-crawlers-do-and-how-can-site-owners-control-access.md)
 
 Search, training and user retrieval use different bot controls. Agent Gap reached 67 of 70 description-task endpoints, without measuring any crawler rule.
+
+## Evidence of file use
+
+[Is llms.txt actually used?](is-llms-txt-actually-used.md)
+
+The llms.txt proposal reports use in documentation workflows. Agent Gap found description destinations in 70 of 70 tasks without measuring file consumption.
+
+## File definition and scope
+
+[What is an llms.txt file?](what-is-an-llms-txt-file.md)
+
+The llms.txt v2 proposal describes a Markdown overview with links. Agent Gap reached 67 of 70 description endpoints without testing the file.
+
+## File examples
+
+[Which websites have an llms.txt file?](which-websites-have-an-llms-txt-file.md)
+
+Minuttia and OpenAI developer documentation served llms.txt files on 29 October 2026. Availability is separate from our dated agency evidence score.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

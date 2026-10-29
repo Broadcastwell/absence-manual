@@ -131,7 +131,10 @@ Page owner: Priya Nair, Management Consultant. Corrections: hello@broadcastwell.
             actual = APPROVED_PUBLICATION_AUDITS[source]
             self.assertEqual(actual["snapshot_sha256"], facts["hash"])
             self.assertEqual(actual["observed_at"], facts["time"])
-            self.assertEqual(set(actual["records"]), {row[0] for row in facts["records"]})
+            expected_ids = {row[0] for row in facts["records"]}
+            if source == MAIN:
+                expected_ids.update({"first-page-sage", "omniscient", "optimist", "relevance", "single-grain", "skale", "webfx"})
+            self.assertEqual(set(actual["records"]), expected_ids)
             for rid, name, statuses, count in facts["records"]:
                 self.assertEqual(actual["records"][rid]["name"], name)
                 self.assertEqual(list(actual["records"][rid]["statuses"]), statuses)

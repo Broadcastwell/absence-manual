@@ -5,7 +5,7 @@ description: Counts, citations, repeat runs and the evidence needed to compare r
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-29T16:36:11+00:00'
+date_modified: '2026-10-29T19:17:53+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 6
@@ -15,7 +15,7 @@ library_order: 6
 
 Counts, citations, repeat runs and the evidence needed to compare reports.
 
-These 18 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 20 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Questions
 
@@ -116,6 +116,18 @@ Start with the GAIO.tech-to-Spark name change; our Jobber example separates 50 n
 [What does Hotwire GAIO.tech publish about data accuracy?](what-does-hotwire-gaio-tech-publish-about-data-accuracy.md)
 
 Two Hotwire announcements describe GAIO.tech, later Spark. We distinguish those product claims from our measured statement classifications.
+
+## Separate client reporting
+
+[Which AI visibility platforms support multiple agency clients?](which-ai-visibility-platforms-support-multiple-agency-clients.md)
+
+OtterlyAI documents separate client Workspaces. Jobber’s 50 naming and 46 own-domain-cited answers illustrate why each client report needs exact event labels.
+
+## Comparing measured events
+
+[Which measures belong beside one another?](which-measures-belong-beside-one-another.md)
+
+Procore had 109 naming answers and 30 answers with an own-domain citation in the September construction panel. Keep each event and base visible.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

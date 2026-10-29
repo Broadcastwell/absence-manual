@@ -26,7 +26,8 @@
       "belief_correction",
       "question_back",
       "answer_definition",
-      "study_result_first"
+      "study_result_first",
+      "action_first"
     ],
     "chatgpt": [
       "figure_first",
@@ -38,7 +39,8 @@
       "belief_correction",
       "question_back",
       "study_result_first",
-      "action_first"
+      "action_first",
+      "source_first"
     ],
     "claude": [
       "figure_first",
@@ -130,7 +132,8 @@
       "belief_correction",
       "question_back",
       "answer_definition",
-      "action_first"
+      "action_first",
+      "source_first"
     ],
     "changes": [
       "figure_first",
@@ -154,7 +157,8 @@
       "belief_correction",
       "question_back",
       "answer_definition",
-      "action_first"
+      "action_first",
+      "source_first"
     ]
   },
   "figures": {
@@ -5145,6 +5149,216 @@
       "unit": "initial_tasks",
       "label": "Agent Gap: reached initial tasks in crm",
       "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4"
+    },
+    "figure:c3fbeac0f8831c8bd4cc082eedc893044dfd220f4e36dcb0444252ebb6b8edec": {
+      "source_url": "https://doi.org/10.5281/zenodo.23270124",
+      "record": {
+        "capture_date": "2026-09-22|2026-09-23",
+        "event_date": "2026-10-08",
+        "subject": "all-verifiable-statements",
+        "metric": "wrong_or_stale"
+      },
+      "count": "118",
+      "base": "2042",
+      "unit": "statements",
+      "label": "Wrong or stale among verifiable statements",
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518"
+    },
+    "figure:81af58c68331c7c75d95079027ed87c70dbdbb943339aae279e68a22bd70d274": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions",
+        "category": "dealership-management-systems"
+      },
+      "count": 10,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap dealership-management-systems: reached",
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518"
+    },
+    "figure:6e1378399ac39a3f4877d04e88b181d1d40aa35ae9a4c50c49063fa0f3b14d86": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "construction-project-management",
+        "engine": "ChatGPT",
+        "subject": "Fieldwire",
+        "metric": "named"
+      },
+      "count": 9,
+      "base": 30,
+      "unit": "answers",
+      "label": "Fieldwire named in ChatGPT construction answers",
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518"
+    },
+    "figure:35fb41c2617f26e0c50ed2da8137f0c39b55e57a094902189f540ca874c998d8": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "construction-project-management",
+        "engine": "pooled-five-engines",
+        "subject": "Procore",
+        "metric": "named"
+      },
+      "count": 109,
+      "base": 150,
+      "unit": "answers",
+      "label": "Procore: named",
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518"
+    },
+    "figure:080bf39227fa2b27b9713e47b80cbb5f6bf292199e49965cefb5a1fda3ffb49c": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "construction-project-management",
+        "engine": "pooled-five-engines",
+        "subject": "Procore",
+        "metric": "own_domain_cited_with_name"
+      },
+      "count": 30,
+      "base": 150,
+      "unit": "answers",
+      "label": "Procore: own_domain_cited_with_name",
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518"
+    },
+    "figure:881508b2a99e09ee7b6929d4171dd5a84ae5ce2e410ca21f458bd1714127431a": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions",
+        "category": "field-service-management"
+      },
+      "count": 13,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap field-service-management: reached",
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518"
+    },
+    "figure:d982424a0b7d5728a8e45ab3fdf379d73f28b5e30b790dabeed1cc0e94ad4b73": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions",
+        "category": "hotel-property-management"
+      },
+      "count": 14,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap hotel-property-management: reached",
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518"
+    },
+    "figure:20a7834175b7baebc2e2eedcd6d96d0de8851797b9ce352e2bfe649f0c72f685": {
+      "source_url": "https://doi.org/10.5281/zenodo.23202939",
+      "record": {
+        "capture_date": "2026-09-22",
+        "subject": "all-scored-comparison-answers",
+        "metric": "single_vendor"
+      },
+      "count": "75",
+      "base": "359",
+      "unit": "answers",
+      "label": "Head to Head scored answers choosing one vendor",
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518"
+    },
+    "figure:9db51f5baeebdcbd9e3904e1d7aa10ae16a1e44f392ba51aadc86abd05a15e5c": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "dental-practice-management",
+        "engine": "pooled-five-engines",
+        "subject": "Dentally",
+        "metric": "named"
+      },
+      "count": "0",
+      "base": "149",
+      "unit": "answers",
+      "label": "Dentally named in the valid dental answer panel",
+      "source_review_sha256": "c1ba7668d0ab8749c805dde8c8f4607d0238f23563ca8457ed7b6fcbbf6c376c"
+    },
+    "figure:440f45e36a70ba8b8a06afc55622c9fc78e7afd3526cf2f28dcbdfb6dc375ec4": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "residential-property-management",
+        "engine": "Google AI Overviews",
+        "subject": "all-target-answers",
+        "metric": "no_overview_returned"
+      },
+      "count": "2",
+      "base": "30",
+      "unit": "targets",
+      "label": "Residential property management Overview targets explicitly returning no Overview",
+      "source_review_sha256": "a9455fb92a0d79fa329275ed5ff9093b5a1584bee8c6e55380a59bf40375648e"
+    },
+    "figure:ea75015b4b8f402ea7705900ea5a054ed274c576164b8c9a22a79df7039bcd67": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "residential-property-management",
+        "engine": "Google AI Overviews",
+        "subject": "all-target-answers",
+        "metric": "valid_answers"
+      },
+      "count": "28",
+      "base": "30",
+      "unit": "targets",
+      "label": "Residential property management Overview targets retained as valid",
+      "source_review_sha256": "a9455fb92a0d79fa329275ed5ff9093b5a1584bee8c6e55380a59bf40375648e"
+    },
+    "figure:6011b0318f4def257b4977125b6fd6f52d80cfdf4497c22d6d96d88aac0a529e": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions",
+        "category": "dental-practice-management"
+      },
+      "count": 12,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap dental-practice-management: reached",
+      "source_review_sha256": "2f630ff408294f014ec81b0e55976c9c8155b26548830a41059cc5c5149f23cc"
+    },
+    "figure:d487cf2460bc9b069a3b551f84dc23953303dad767457d7644c171012bf629eb": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22|2026-09-23",
+        "category": "construction-project-management",
+        "subject": "accounting_integration",
+        "metric": "criterion_answer_frequency"
+      },
+      "count": 3,
+      "base": 149,
+      "unit": "answers",
+      "label": "Study 7 construction answers stating accounting/ERP integration as a criterion",
+      "source_review_sha256": "e81a935d0693419180f167a5e4c65f34c53483dd4c5bc8e1ee2a14027db931dc"
+    },
+    "figure:5f57b8280f4c3abcc95d09563d148171e37f7cef2a6a23bc2decfc5156ae75d3": {
+      "source_url": "https://broadcastwell.com/best-geo-agencies-lists-audited",
+      "record": {
+        "event_date": "2026-09-17",
+        "subject": "thirty-two-audited-agency-lists",
+        "metric": "publisher_included_on_own_list"
+      },
+      "count": 29,
+      "base": 32,
+      "unit": "lists",
+      "label": "Agency-list audit: publishers present in their own lists",
+      "source_review_sha256": "1fcab70828befda683865f9370b6dbcc297c7717d78b3fb8359d9604a3eab62a"
     }
   },
   "pages": {
@@ -9249,6 +9463,360 @@
       "opening_shape": "date_first",
       "classification_reason": "The29Octoberread date frames the actual HubSpotconnectorguide before permissions and the separate6October13/15taskresult.",
       "writing_review_sha256": "3a0d37f2a4d6f2280a7681c87105a941288a900186a28a41064f2c7f5824d1ad"
+    },
+    "answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md": {
+      "source_sha256": "816247b6282a1119d911d493c62db4e66757f1e821500b3854f5639698b03018",
+      "canonical_source_sha256": "816247b6282a1119d911d493c62db4e66757f1e821500b3854f5639698b03018",
+      "opening_sha256": "ebb27c512b8de15e8b5762f267d8bf220ad7d1e8c8d3b27237537e31c617559f",
+      "bank_id": "LB-Q0274",
+      "lead_figures": [
+        "figure:d3b6221a1f9e19709347f4a56905f433f9a0b225563a427e61b2fb88345811a8"
+      ],
+      "lead_figure_spans": {
+        "figure:d3b6221a1f9e19709347f4a56905f433f9a0b225563a427e61b2fb88345811a8": [
+          "No. GPTBot is OpenAI's training crawler, while OAI-SearchBot supports search; OpenAI documents their controls as independent. Allowing GPTBot does not set your search permission or secure a place in an answer. In our construction capture of 22 September 2026, Procore appeared by name in 23 out of 30 ChatGPT responses. That observed output is separate from a test of either crawler setting."
+        ]
+      },
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518",
+      "opening_shape": "yes_no",
+      "classification_reason": "The opening No answers the asserted GPTBot-to-search consequence before explaining separate controls.",
+      "writing_review_sha256": "1c06cf1b1f82369e8963b37d2db461c03e26dc25703ff01ad66e1d9710a5f86c"
+    },
+    "answers/fixes/which-websites-have-an-llms-txt-file.md": {
+      "source_sha256": "5dada6a55398292ecef598cc9874a1b06bd1347bc385ecab7e3a0718c6b6d2eb",
+      "canonical_source_sha256": "5dada6a55398292ecef598cc9874a1b06bd1347bc385ecab7e3a0718c6b6d2eb",
+      "opening_sha256": "6a1fabf1d9480b3424a3700beafafb6070dad0117031ec63c7e17df1f89471f8",
+      "bank_id": "LB-Q0309",
+      "lead_figures": [
+        "figure:fb26a97bd94722142a936a3e5ab5290bd8b8464e6279ed3e02aab51ca033e77b"
+      ],
+      "lead_figure_spans": {
+        "figure:fb26a97bd94722142a936a3e5ab5290bd8b8464e6279ed3e02aab51ca033e77b": [
+          "On 29 October 2026, Minuttia and OpenAI's developer documentation both served public llms.txt files. They are two checked examples, not an adoption census. Our separate [Minuttia agency record](https://broadcastwell.com/best-geo-agencies#minuttia), read that day, has 3/8 Yes cells and a Machine readable Partial. That count concerns published agency evidence; it is not a score for the file's format or proof that an answer engine consumed it."
+        ]
+      },
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518",
+      "opening_shape": "date_first",
+      "classification_reason": "On 29 October 2026 leads the checked-file examples before the separate agency-record figure.",
+      "writing_review_sha256": "1c06cf1b1f82369e8963b37d2db461c03e26dc25703ff01ad66e1d9710a5f86c"
+    },
+    "answers/buying/is-blobic-a-good-white-label-geo-provider.md": {
+      "source_sha256": "c94ff209e97b904bb043d008571ffd3ac75f5ef4dcbce0c9842fa6d6e7a299ac",
+      "canonical_source_sha256": "c94ff209e97b904bb043d008571ffd3ac75f5ef4dcbce0c9842fa6d6e7a299ac",
+      "opening_sha256": "a27e7f379ebd66a160dc89381e53250ad6f9bcca431c227effa9e055b873ec7d",
+      "bank_id": "LB-Q0016",
+      "lead_figures": [
+        "figure:c3fbeac0f8831c8bd4cc082eedc893044dfd220f4e36dcb0444252ebb6b8edec"
+      ],
+      "lead_figure_spans": {
+        "figure:c3fbeac0f8831c8bd4cc082eedc893044dfd220f4e36dcb0444252ebb6b8edec": [
+          "Blobic publishes a concrete white-label scope, including branded audits, monthly reports and a promise to leave the client relationship with your agency. That makes it a candidate you can examine, without establishing its delivery quality. In Wrong About You's 22 and 23 September 2026 captures, 118 of 2,042 verifiable statements were wrong or stale. For a sample white-label audit, you can examine whether the cited product evidence supports each factual claim."
+        ]
+      },
+      "source_review_sha256": "d9eecc55320d0766bc7d6b258a191906d65e4a745ba03c9aa3ae3800d106a0de",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Blobic is the opening subject and its published white-label scope leads before the separate study figure.",
+      "writing_review_sha256": "f4e5583b41c1c6a0068c708f98dd4a0408489e7a0327408a9758d70c0872c519"
+    },
+    "answers/fixes/is-llms-txt-actually-used.md": {
+      "source_sha256": "2b7cac22bb8a249f98a1c612243d9caa40967149cc2f8b8285824b1b8dfc35d1",
+      "canonical_source_sha256": "2b7cac22bb8a249f98a1c612243d9caa40967149cc2f8b8285824b1b8dfc35d1",
+      "opening_sha256": "26bf25d766211dc8bbf1c6e3363970a40b7e77896b29e62b05b820b7b339a82f",
+      "bank_id": "LB-Q0298",
+      "lead_figures": [
+        "figure:fba7132384e6da501e6ca784c462b48cb2d23a009084999b538cdf952dbb0bec"
+      ],
+      "lead_figure_spans": {
+        "figure:fba7132384e6da501e6ca784c462b48cb2d23a009084999b538cdf952dbb0bec": [
+          "Yes, the llms.txt proposal reports use in software-documentation workflows, but that does not establish whether a particular answer engine used your file. We found a public description destination in 70 of 70 initial tasks in Agent Gap on 6 October 2026. The found field did not record which supporting file, if any, the assistant consumed."
+        ]
+      },
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518",
+      "opening_shape": "yes_no",
+      "classification_reason": "The first word is Yes, qualified by the proposal author's documentation-workflow account.",
+      "writing_review_sha256": "e9c33bc46d0eca255c4669ceecbb45addb215920509d0ef48452a102c4c1c33e"
+    },
+    "answers/agents/can-dealership-software-integrate-with-chatgpt.md": {
+      "source_sha256": "0f6b2abdb2e7c81fb480e433f378ce29bd68f3c4af69b9ad14c88bc2a780fd3d",
+      "canonical_source_sha256": "0f6b2abdb2e7c81fb480e433f378ce29bd68f3c4af69b9ad14c88bc2a780fd3d",
+      "opening_sha256": "60d6aa18c6ab310f86d1144b1e70e50f3591799797520f4f65bfc112e475dce4",
+      "bank_id": "LB-Q0352",
+      "lead_figures": [
+        "figure:81af58c68331c7c75d95079027ed87c70dbdbb943339aae279e68a22bd70d274"
+      ],
+      "lead_figure_spans": {
+        "figure:81af58c68331c7c75d95079027ed87c70dbdbb943339aae279e68a22bd70d274": [
+          "DealerAI documents a ChatGPT connector for a dealership's inventory, conversations and store information, with access limited to the selected store and approved permissions. That gives you a named connection route to examine. The dealership part of our 6 October 2026 Agent Gap study reached 10 of 15 initial website endpoints. That work did not connect DealerAI or test access to a dealership account."
+        ]
+      },
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518",
+      "opening_shape": "vendor_first",
+      "classification_reason": "DealerAI is the opening subject, followed by its documented store-scoped route.",
+      "writing_review_sha256": "e9c33bc46d0eca255c4669ceecbb45addb215920509d0ef48452a102c4c1c33e"
+    },
+    "answers/measurement/which-ai-visibility-platforms-support-multiple-agency-clients.md": {
+      "source_sha256": "a4fcff68a0c615aa544b2a73c75e97c6cc1d9c25a981f80656ba05875660ec52",
+      "canonical_source_sha256": "a4fcff68a0c615aa544b2a73c75e97c6cc1d9c25a981f80656ba05875660ec52",
+      "opening_sha256": "0e94e0fa5e2b54cc44e321f60332fec12d61281c8c79524020a9c9268031f3ff",
+      "bank_id": "LB-Q0031",
+      "lead_figures": [
+        "figure:bb2e3b76840067ffc3c2c3287772decbb48979d5694f3b4af5edaeb5b51950e4",
+        "figure:fd9a12b685773211678b4dcfa614476ddad7bd51c7abefee34591a0bbd828709"
+      ],
+      "lead_figure_spans": {
+        "figure:bb2e3b76840067ffc3c2c3287772decbb48979d5694f3b4af5edaeb5b51950e4": [
+          "OtterlyAI documents a separate Workspace for each agency client, with distinct brands, prompts, reports and team access. That is one supported option to inspect. For the measurement record each client receives, our 22 September 2026 field-service panel shows why labels matter: Jobber had 50 naming answers and 46 answers with a concurrent own-domain citation, each from 150 valid responses."
+        ],
+        "figure:fd9a12b685773211678b4dcfa614476ddad7bd51c7abefee34591a0bbd828709": [
+          "OtterlyAI documents a separate Workspace for each agency client, with distinct brands, prompts, reports and team access. That is one supported option to inspect. For the measurement record each client receives, our 22 September 2026 field-service panel shows why labels matter: Jobber had 50 naming answers and 46 answers with a concurrent own-domain citation, each from 150 valid responses."
+        ]
+      },
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518",
+      "opening_shape": "vendor_first",
+      "classification_reason": "OtterlyAI is the opening subject and its Workspace feature answers the supplier question.",
+      "writing_review_sha256": "e9c33bc46d0eca255c4669ceecbb45addb215920509d0ef48452a102c4c1c33e"
+    },
+    "answers/fixes/what-is-an-llms-txt-file.md": {
+      "source_sha256": "caed7155b9eaa1760ea3872675a23a4a84d16f6339975ee480aebc4ced3a66ba",
+      "canonical_source_sha256": "caed7155b9eaa1760ea3872675a23a4a84d16f6339975ee480aebc4ced3a66ba",
+      "opening_sha256": "734a4297e05fc3fa1bb7499f6f67b93c1d8299cfc4e7fd9557064e862eef2297",
+      "bank_id": "LB-Q0305",
+      "lead_figures": [
+        "figure:40b18c75e140d30cc475549e0e6bc6dcd76de9992553b3475459a99b2f5fe673"
+      ],
+      "lead_figure_spans": {
+        "figure:40b18c75e140d30cc475549e0e6bc6dcd76de9992553b3475459a99b2f5fe673": [
+          "The llms.txt v2 proposal defines a short Markdown overview with background and links to detailed content under its path. It gives you a way to describe a site's material to an assistant. Agent Gap separately recorded 67 of 70 initial description tasks reaching their public endpoint on 6 October 2026, without testing llms.txt. That distinction matters when someone presents a file as proof of usable product information."
+        ]
+      },
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518",
+      "opening_shape": "source_first",
+      "classification_reason": "The named llms.txt v2 proposal is the opening subject and supplies the definition.",
+      "writing_review_sha256": "e9c33bc46d0eca255c4669ceecbb45addb215920509d0ef48452a102c4c1c33e"
+    },
+    "answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite.md": {
+      "source_sha256": "387671513da284faae63c192bb21e60ded8427d9c635565258b36fb7570563cf",
+      "canonical_source_sha256": "387671513da284faae63c192bb21e60ded8427d9c635565258b36fb7570563cf",
+      "opening_sha256": "0fa7f499cb7b9cf9a6ce046d2b9ae3957415e3c0636710f637c0bcb941d4b7c3",
+      "bank_id": "LB-Q0280",
+      "lead_figures": [
+        "figure:47b2f062493412720ce344d10741b69dc2aa4bcc8ef72c4c7a5f398e50b12747",
+        "figure:6e1378399ac39a3f4877d04e88b181d1d40aa35ae9a4c50c49063fa0f3b14d86"
+      ],
+      "lead_figure_spans": {
+        "figure:47b2f062493412720ce344d10741b69dc2aa4bcc8ef72c4c7a5f398e50b12747": [
+          "OpenAI's search guide says ChatGPT uses several ranking factors to seek relevant, reliable information; it does not disclose a complete citation formula. In our 22 September 2026 construction capture, fieldwire.com appeared as a cited host in 52 of 150 answers across five engines. ChatGPT itself named Fieldwire in 9 of 30 responses. Those are observed outputs you can inspect, rather than weights explaining the source choice."
+        ],
+        "figure:6e1378399ac39a3f4877d04e88b181d1d40aa35ae9a4c50c49063fa0f3b14d86": [
+          "OpenAI's search guide says ChatGPT uses several ranking factors to seek relevant, reliable information; it does not disclose a complete citation formula. In our 22 September 2026 construction capture, fieldwire.com appeared as a cited host in 52 of 150 answers across five engines. ChatGPT itself named Fieldwire in 9 of 30 responses. Those are observed outputs you can inspect, rather than weights explaining the source choice."
+        ]
+      },
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518",
+      "opening_shape": "source_first",
+      "classification_reason": "OpenAI's search guide is the opening subject; the observations are expressly separate.",
+      "writing_review_sha256": "e9c33bc46d0eca255c4669ceecbb45addb215920509d0ef48452a102c4c1c33e"
+    },
+    "answers/measurement/which-measures-belong-beside-one-another.md": {
+      "source_sha256": "5e7785b8a1602e2b5fafb20ec255c256a3c580e73dd5eff51d498c2d03aa7082",
+      "canonical_source_sha256": "5e7785b8a1602e2b5fafb20ec255c256a3c580e73dd5eff51d498c2d03aa7082",
+      "opening_sha256": "951b99d54318e9017cc2782a2e4fd6b4633f6277391201a6e05770b391ae5e7a",
+      "bank_id": "LB-Q0291",
+      "lead_figures": [
+        "figure:35fb41c2617f26e0c50ed2da8137f0c39b55e57a094902189f540ca874c998d8",
+        "figure:080bf39227fa2b27b9713e47b80cbb5f6bf292199e49965cefb5a1fda3ffb49c"
+      ],
+      "lead_figure_spans": {
+        "figure:35fb41c2617f26e0c50ed2da8137f0c39b55e57a094902189f540ca874c998d8": [
+          "109 of 150 valid construction answers named Procore; 30 of the same 150 included a concurrent citation to its own domain. Those two measures belong beside one another because they describe different events in the same capture of 22 September 2026. If you report them together, keep the event labels rather than turning either count into an overall success score."
+        ],
+        "figure:080bf39227fa2b27b9713e47b80cbb5f6bf292199e49965cefb5a1fda3ffb49c": [
+          "109 of 150 valid construction answers named Procore; 30 of the same 150 included a concurrent citation to its own domain. Those two measures belong beside one another because they describe different events in the same capture of 22 September 2026. If you report them together, keep the event labels rather than turning either count into an overall success score."
+        ]
+      },
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518",
+      "opening_shape": "figure_first",
+      "classification_reason": "109 of 150 and 30 of the same 150 lead the paragraph. These are two measures from one panel, not an engine contrast.",
+      "writing_review_sha256": "e9c33bc46d0eca255c4669ceecbb45addb215920509d0ef48452a102c4c1c33e"
+    },
+    "answers/agents/can-field-service-software-integrate-with-chatgpt.md": {
+      "source_sha256": "d6ca778759add51fbe931d4b4f8b535e957629146a44840da9074def23729f04",
+      "canonical_source_sha256": "d6ca778759add51fbe931d4b4f8b535e957629146a44840da9074def23729f04",
+      "opening_sha256": "8ce675490f91653f16f79d7111591790091d8e099f6a50e50f52e522f1411a6f",
+      "bank_id": "LB-Q0364",
+      "lead_figures": [
+        "figure:881508b2a99e09ee7b6929d4171dd5a84ae5ce2e410ca21f458bd1714127431a"
+      ],
+      "lead_figure_spans": {
+        "figure:881508b2a99e09ee7b6929d4171dd5a84ae5ce2e410ca21f458bd1714127431a": [
+          "Separate the Housecall Pro workflow from direct chat access: Zapier documents job events paired with its ChatGPT app and, separately, actions exposed to compatible AI clients. These are reported routes you can inspect, rather than proof of a native field-service feature. In Agent Gap on 6 October 2026, 13 of 15 initial field-service website tasks reached their endpoint without testing an authenticated connection."
+        ]
+      },
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518",
+      "opening_shape": "action_first",
+      "classification_reason": "Separate the Housecall Pro workflow from direct chat access is an imperative opening.",
+      "writing_review_sha256": "e9c33bc46d0eca255c4669ceecbb45addb215920509d0ef48452a102c4c1c33e"
+    },
+    "answers/agents/can-hotel-software-integrate-with-chatgpt.md": {
+      "source_sha256": "fe12705cce74ec98db95cc40f825a74c367f2de9cfb53ebe0dca311368c16145",
+      "canonical_source_sha256": "fe12705cce74ec98db95cc40f825a74c367f2de9cfb53ebe0dca311368c16145",
+      "opening_sha256": "6bae38056976484a971a51a41b03f69f1504c43748c7f5df15078bed48a330ac",
+      "bank_id": "LB-Q0387",
+      "lead_figures": [
+        "figure:d982424a0b7d5728a8e45ab3fdf379d73f28b5e30b790dabeed1cc0e94ad4b73"
+      ],
+      "lead_figure_spans": {
+        "figure:d982424a0b7d5728a8e45ab3fdf379d73f28b5e30b790dabeed1cc0e94ad4b73": [
+          "If you use Cloudbeds and want a hotel event to reach an AI assistant, Zapier publishes a Cloudbeds and ChatGPT connection listing. Its documented guest and reservation triggers differ from a verified booking-write capability. Our Agent Gap hotel capture on 6 October 2026 reached 14 of 15 initial website endpoints; all observations concerned public sites, without access to a property's guest records."
+        ]
+      },
+      "source_review_sha256": "d9eecc55320d0766bc7d6b258a191906d65e4a745ba03c9aa3ae3800d106a0de",
+      "opening_shape": "reader_situation",
+      "classification_reason": "If you use Cloudbeds sets the reader's actual hotel-system situation before the route.",
+      "writing_review_sha256": "f4e5583b41c1c6a0068c708f98dd4a0408489e7a0327408a9758d70c0872c519"
+    },
+    "answers/geo-basics/how-do-getmint-and-otterly-compare-for-transactional-geo-in-the-united.md": {
+      "source_sha256": "7e6119d827fa9b004eb7411c26748422c8b3651f2822b5e6e5ceceea3ac904a3",
+      "canonical_source_sha256": "7e6119d827fa9b004eb7411c26748422c8b3651f2822b5e6e5ceceea3ac904a3",
+      "opening_sha256": "978821f271d1a41a75a6edb5de26da7addd1fa2afbd1097a5a05e2c3479588a6",
+      "bank_id": "LB-Q0043",
+      "lead_figures": [
+        "figure:e73143fcd11d4e0803b03686db1724f288228f1724c667f89c5d48b5ae281cd0"
+      ],
+      "lead_figure_spans": {
+        "figure:e73143fcd11d4e0803b03686db1724f288228f1724c667f89c5d48b5ae281cd0": [
+          "GetMint describes product visibility, content work and agentic commerce, while OtterlyAI documents tracking products and retailers inside ChatGPT shopping answers. For a United States brief, distinguish those reported functions from completing a purchase. Our Agent Gap study on 6 October 2026 reached 44 of 70 initial public demo endpoints; it did not measure completed orders or compare transactions through these platforms."
+        ]
+      },
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518",
+      "opening_shape": "vendor_first",
+      "classification_reason": "GetMint is the opening subject, contrasted with the named OtterlyAI scope. This is a vendor comparison, not an engine contrast.",
+      "writing_review_sha256": "e9c33bc46d0eca255c4669ceecbb45addb215920509d0ef48452a102c4c1c33e"
+    },
+    "answers/buying/how-does-seer-interactive-compare-to-other-geo-agencies-when-it-comes.md": {
+      "source_sha256": "faa32433497cb6cdfd11296c3c9305eca31dc37a454dd8cf4cfde36195c2d12d",
+      "canonical_source_sha256": "faa32433497cb6cdfd11296c3c9305eca31dc37a454dd8cf4cfde36195c2d12d",
+      "opening_sha256": "6ade568c7baf418b187ec672ca07df9da3e6445181e34ed484e1020c44dde998",
+      "bank_id": "LB-Q0021",
+      "lead_figures": [
+        "figure:20a7834175b7baebc2e2eedcd6d96d0de8851797b9ce352e2bfe649f0c72f685"
+      ],
+      "lead_figure_spans": {
+        "figure:20a7834175b7baebc2e2eedcd6d96d0de8851797b9ce352e2bfe649f0c72f685": [
+          "On our 29 October 2026 read, Seer Interactive publishes original research and named measurement deliverables, but the inspected material does not support an agency-wide verdict on superior client results. Compare what each study measures: in our Head to Head capture of 22 September 2026, 75 of 359 scored answers chose one vendor. That is an answer-choice result, rather than a test of Seer or another agency's delivery."
+        ]
+      },
+      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518",
+      "opening_shape": "date_first",
+      "classification_reason": "On our 29 October 2026 read leads the actual source assessment before the separate September study figure.",
+      "writing_review_sha256": "e9c33bc46d0eca255c4669ceecbb45addb215920509d0ef48452a102c4c1c33e"
+    },
+    "answers/industries/is-dentally-a-good-fit-for-uk-dentists-running-a-cloud-based-practice.md": {
+      "source_sha256": "854c637a502051344eebb629c2e564b326e6171b29abb61343fa5e10aa2472a5",
+      "canonical_source_sha256": "854c637a502051344eebb629c2e564b326e6171b29abb61343fa5e10aa2472a5",
+      "opening_sha256": "9d119196e7814a6b2105b804cc2b612ac3196ab9f737be4a3f95141974d5f310",
+      "bank_id": "LB-Q0047",
+      "lead_figures": [
+        "figure:9db51f5baeebdcbd9e3904e1d7aa10ae16a1e44f392ba51aadc86abd05a15e5c"
+      ],
+      "lead_figure_spans": {
+        "figure:9db51f5baeebdcbd9e3904e1d7aa10ae16a1e44f392ba51aadc86abd05a15e5c": [
+          "Dentally is a candidate to examine for a UK cloud-based practice: its UK site describes cloud practice software and NHS or HSC integration coverage, subject to your actual practice requirements. In our dental capture on 22 September 2026, Dentally was named in 0 of 149 valid answers. That observed absence does not establish whether the product suits your practice or whether its advertised connections work."
+        ]
+      },
+      "source_review_sha256": "c1ba7668d0ab8749c805dde8c8f4607d0238f23563ca8457ed7b6fcbbf6c376c",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Dentally is the opening subject; its published UK cloud-practice scope leads before the separate dated naming absence.",
+      "writing_review_sha256": "cf91bfa487a66708525e892df80d37d7960e5f388f80606072a09d850bda31ea"
+    },
+    "answers/google-ai/can-i-disable-google-ai-overviews.md": {
+      "source_sha256": "2d2a54329ef6aeed07a901d153817363ad926920a8f3844847821b7f3b48143b",
+      "canonical_source_sha256": "2d2a54329ef6aeed07a901d153817363ad926920a8f3844847821b7f3b48143b",
+      "opening_sha256": "390669d80fd79d33094ac82b8122c2f73b0b13a11cf8c78cf2b1c7cfb61a8561",
+      "bank_id": "LB-Q0294",
+      "lead_figures": [
+        "figure:440f45e36a70ba8b8a06afc55622c9fc78e7afd3526cf2f28dcbdfb6dc375ec4"
+      ],
+      "lead_figure_spans": {
+        "figure:440f45e36a70ba8b8a06afc55622c9fc78e7afd3526cf2f28dcbdfb6dc375ec4": [
+          "No permanent off switch for core AI Overviews is documented in Google's help, read on 29 October 2026. You can select the Web filter after a search to see text links without the Overview. An absent box is not evidence of an opt-out: in our residential property management capture on 22 September 2026, 2 of 30 scheduled Overview targets returned no Overview. We did not test a setting change."
+        ]
+      },
+      "source_review_sha256": "2f630ff408294f014ec81b0e55976c9c8155b26548830a41059cc5c5149f23cc",
+      "opening_shape": "yes_no",
+      "classification_reason": "The opening begins No permanent off switch and directly answers the disable question before giving the scoped Web-view alternative.",
+      "writing_review_sha256": "be74bb4687fa4ebb8e21a048b7472878182af4f6873fc25c74d92a0bafddf9e9"
+    },
+    "answers/google-ai/is-the-ai-overview-gone.md": {
+      "source_sha256": "386c39b38907c6a43de3613dd4c5dd09c96ea339b1fd22a5655e30e4ad0e7a62",
+      "canonical_source_sha256": "386c39b38907c6a43de3613dd4c5dd09c96ea339b1fd22a5655e30e4ad0e7a62",
+      "opening_sha256": "0d30e228ec726bb41081ce1c35d4e12997986fc20da01d155175070103bfcebf",
+      "bank_id": "LB-Q0301",
+      "lead_figures": [
+        "figure:ea75015b4b8f402ea7705900ea5a054ed274c576164b8c9a22a79df7039bcd67"
+      ],
+      "lead_figure_spans": {
+        "figure:ea75015b4b8f402ea7705900ea5a054ed274c576164b8c9a22a79df7039bcd67": [
+          "A missing AI Overview does not mean the feature has gone away. Google's help still described it when we read the page on 29 October 2026, and says its systems decide when to show one. Our September residential property management panel retained valid Overviews for 28 of 30 scheduled targets on 22 September. That dated count is evidence of variable returns in that panel, not a check of Google's service today."
+        ]
+      },
+      "source_review_sha256": "2f630ff408294f014ec81b0e55976c9c8155b26548830a41059cc5c5149f23cc",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The first sentence directly rejects the inference that a missing Overview means the feature has gone away.",
+      "writing_review_sha256": "be74bb4687fa4ebb8e21a048b7472878182af4f6873fc25c74d92a0bafddf9e9"
+    },
+    "answers/agents/can-dental-practice-software-integrate-with-chatgpt.md": {
+      "source_sha256": "fd2bcea69e2d170cdadc0f9567925213881e5a76f8328c01b4188a6d2461b4c2",
+      "canonical_source_sha256": "fd2bcea69e2d170cdadc0f9567925213881e5a76f8328c01b4188a6d2461b4c2",
+      "opening_sha256": "6e72a0f6c86de1dd17b6716a47a3fcf72b0621c2901c31fca556f69a8a56c58f",
+      "bank_id": "LB-Q0362",
+      "lead_figures": [
+        "figure:6011b0318f4def257b4977125b6fd6f52d80cfdf4497c22d6d96d88aac0a529e"
+      ],
+      "lead_figure_spans": {
+        "figure:6011b0318f4def257b4977125b6fd6f52d80cfdf4497c22d6d96d88aac0a529e": [
+          "Dentally's practice and partner FAQs document API access, a possible dental-system side of a custom connection; neither inspected FAQ confirms a ready-made ChatGPT integration. You need the actual assistant route as well. In our Agent Gap dental capture on 6 October 2026, 12 of 15 initial website tasks reached their public endpoint. Those visits did not connect to practice records or test an assistant workflow."
+        ]
+      },
+      "source_review_sha256": "2f630ff408294f014ec81b0e55976c9c8155b26548830a41059cc5c5149f23cc",
+      "opening_shape": "source_first",
+      "classification_reason": "Dentally's practice and partner FAQs are the grammatical source subject documenting API access; the opening is framed by those named source documents, rather than a measured vendor result. This is honestly source_first, not a new shape invented from the two FAQ labels.",
+      "writing_review_sha256": "be74bb4687fa4ebb8e21a048b7472878182af4f6873fc25c74d92a0bafddf9e9"
+    },
+    "answers/industries/which-industrial-ai-platforms-integrate-best-with-erp-eam-fsm-and-proj.md": {
+      "source_sha256": "1a8c8d6eedea4353b0a2c591f7ee5c61b815ac8f7aa1898dc2f2c72d7cb8a832",
+      "canonical_source_sha256": "1a8c8d6eedea4353b0a2c591f7ee5c61b815ac8f7aa1898dc2f2c72d7cb8a832",
+      "opening_sha256": "1b3efad90d63dd9d41365189c5ef36a08d22a420b717f051a3098bed611587ad",
+      "bank_id": "LB-Q0046",
+      "lead_figures": [
+        "figure:d487cf2460bc9b069a3b551f84dc23953303dad767457d7644c171012bf629eb"
+      ],
+      "lead_figure_spans": {
+        "figure:d487cf2460bc9b069a3b551f84dc23953303dad767457d7644c171012bf629eb": [
+          "If your construction team needs ERP, asset-maintenance, field-service and project data to work together, the inspected evidence does not establish which platform integrates best. C3 AI's data connectors and Microsoft's application links give you specific routes to compare. In our AI-Written RFP capture of 22 September 2026, three of 149 eligible construction responses raised accounting or ERP integration; that count describes buyer criteria, without ranking the connections."
+        ]
+      },
+      "source_review_sha256": "e81a935d0693419180f167a5e4c65f34c53483dd4c5bc8e1ee2a14027db931dc",
+      "opening_shape": "reader_situation",
+      "classification_reason": "If your construction team needs the named system types is the specific reader situation that leads the answer.",
+      "writing_review_sha256": "c610a2d81eea4354386400d6715d3fd9d3d96cf39e56492d7c5e583b62417d59"
+    },
+    "answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare.md": {
+      "source_sha256": "a6e4f3975ed70799c981d5d543a898f2558b32e95995f1b37261ba38239a5ab9",
+      "canonical_source_sha256": "a6e4f3975ed70799c981d5d543a898f2558b32e95995f1b37261ba38239a5ab9",
+      "opening_sha256": "969ef4134fd9541bbfcf0470629218f856cb3071b4b4bf397d8a9f4eb5a50581",
+      "bank_id": "LB-Q0042",
+      "lead_figures": [
+        "figure:5f57b8280f4c3abcc95d09563d148171e37f7cef2a6a23bc2decfc5156ae75d3"
+      ],
+      "lead_figure_spans": {
+        "figure:5f57b8280f4c3abcc95d09563d148171e37f7cef2a6a23bc2decfc5156ae75d3": [
+          "Compare Clutch's client accounts with G2's software-product reviews, and treat an agency's ranked list as a different kind of evidence. In [our audit dated 17 September 2026](https://broadcastwell.com/best-geo-agencies-lists-audited), 29 of 32 agency-list rows marked Yes for the publisher appearing on its own list. Before relying on a GEO recommendation, check who published it and whether you are reading a client's experience, a product review or an editorial selection."
+        ]
+      },
+      "source_review_sha256": "1fcab70828befda683865f9370b6dbcc297c7717d78b3fb8359d9604a3eab62a",
+      "opening_shape": "action_first",
+      "classification_reason": "Compare Clutch client accounts with G2product reviews is an imperative that leads the first sentence.",
+      "writing_review_sha256": "a7129cd8f209fcd85bb054d8ca2cded4c5ba7161290b5f799d97fc794d73d63e"
     }
   },
   "index_question_titles": {

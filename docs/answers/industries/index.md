@@ -5,7 +5,7 @@ description: Absences and cited sources in each of the fourteen measured softwar
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T01:38:25+00:00'
-date_modified: '2026-10-29T16:36:11+00:00'
+date_modified: '2026-10-29T19:54:12+00:00'
 library_hub: true
 library_owner: Ananya Rao, AI Engineer
 library_order: 8
@@ -15,7 +15,7 @@ library_order: 8
 
 Absences and cited sources in each of the fourteen measured software categories.
 
-These 30 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 32 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Construction absence checks
 
@@ -182,6 +182,18 @@ Buildium was named in 119 of 148 property-software answers on 22 September 2026;
 [Does Housecall Pro provide field service management software for home service businesses covering scheduling, dispatching, invoicing, and payment collection?](does-housecall-pro-provide-field-service-management-software-for-home.md)
 
 Housecall Pro advertised the named features on the page read 8 October. Its 22-of-30 Overview naming count is context, not a functionality test.
+
+## Construction system connections
+
+[Which industrial AI platforms integrate best with ERP, EAM, FSM, and project management tools in the engineering and construction industry?](which-industrial-ai-platforms-integrate-best-with-erp-eam-fsm-and-proj.md)
+
+Compare documented construction integration routes, their ERP and asset-data limits, and the three-of-149 buyer-criterion finding without a tested winner.
+
+## UK cloud-practice fit
+
+[Is Dentally a good fit for UK dentists running a cloud based practice?](is-dentally-a-good-fit-for-uk-dentists-running-a-cloud-based-practice.md)
+
+Dentally’s UK site describes cloud practice software and regional integrations. Its zero names in 149 dental answers do not measure suitability.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
