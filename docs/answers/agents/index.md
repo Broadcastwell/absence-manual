@@ -5,7 +5,7 @@ description: What assistants found, understood and reached on public software we
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T21:09:24+00:00'
+date_modified: '2026-10-29T22:39:48+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 11
@@ -73,7 +73,7 @@ HubSpot documents a ChatGPT connector with permissions for CRM access. Our 13-of
 
 DealerAI documents a store-scoped ChatGPT connector. Our 10-of-15 dealership website-task result did not test connected inventory or customer records.
 
-## connected-dental-records
+## Connected dental records
 
 [Can dental practice software integrate with ChatGPT?](can-dental-practice-software-integrate-with-chatgpt.md)
 
