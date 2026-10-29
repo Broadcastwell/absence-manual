@@ -5,7 +5,7 @@ description: AI Overviews, AI Mode, their different answers and the bases needed
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T23:36:56+00:00'
-date_modified: '2026-10-29T19:17:53+00:00'
+date_modified: '2026-10-29T22:39:48+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 5
@@ -87,13 +87,13 @@ seoClarity lists Google AI Overviews and Microsoft Copilot; our dated Google exa
 
 Google does not show an Overview for every search: our 4 August panel had 22 no-Overview results in 280 main searches. Source eligibility is a separate check.
 
-## overview-controls
+## Overview controls
 
 [Can I disable Google AI Overviews?](can-i-disable-google-ai-overviews.md)
 
 Google documents no off switch for core AI Overviews. See the Web filter, the separate Labs control and a dated example of missing Overviews.
 
-## overview-availability
+## Overview availability
 
 [Is the AI Overview gone?](is-the-ai-overview-gone.md)
 
