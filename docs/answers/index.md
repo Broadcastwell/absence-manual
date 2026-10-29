@@ -1,19 +1,19 @@
 ---
 title: AI visibility answers
 headline: Answers to AI visibility questions
-description: 100 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and
+description: 150 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and
   source corrections.
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-29T00:22:46+00:00'
+date_modified: '2026-10-29T02:24:55+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 ---
 
 # Answers to AI visibility questions
 
-Start with the question you need to answer. These 100 pages use Broadcastwell's published observations and link to the records behind their figures. The dates and bases matter: a named vendor, a cited page and a buyer's decision are different events.
+Start with the question you need to answer. These 150 pages use Broadcastwell's published observations and link to the records behind their figures. The dates and bases matter: a named vendor, a cited page and a buyer's decision are different events.
 
 ## Browse the library
 
@@ -21,11 +21,17 @@ Start with the question you need to answer. These 100 pages use Broadcastwell's 
 
 - [ChatGPT](chatgpt/index.md): Dated software naming counts, category shortlists and the limits of a mention.
 
+- [Claude](claude/index.md): Software category observations from Claude, with the questions and answer bases attached.
+
+- [Perplexity](perplexity/index.md): Software names observed in Perplexity answers, read beside the category records.
+
 - [Google AI](google-ai/index.md): AI Overviews, AI Mode, their different answers and the bases needed to compare them.
 
 - [Measurement](measurement/index.md): Counts, citations, repeat runs and the evidence needed to compare reports.
 
 - [Buying GEO](buying/index.md): Scope, acceptance evidence and questions to ask before agreeing to work.
+
+- [Industries](industries/index.md): Absences and cited sources in each of the fourteen measured software categories.
 
 - [Fixes](fixes/index.md): Source facts, readable pages and changes that can be checked after publication.
 
