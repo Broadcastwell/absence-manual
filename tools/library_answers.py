@@ -56,6 +56,35 @@ GSC_SUMMARY_URL = "https://docs.broadcastwell.com/assets/library/search-console-
 GSC_SUMMARY_PATH = "assets/library/search-console-2026-10-27-summary.json"
 DEFAULT_METHOD_LABEL = "Every figure comes from the published method, v1.1."
 SCOPED_METHOD_LABEL = "Our answer-study method, v1.1."
+AUDIT_METHOD_LABEL = "Our published agency-audit criteria."
+AUDIT_CRITERIA = (
+    "Method", "Open data", "Engines", "Price", "Refund", "B2B cases",
+    "Reviews", "Machine readable",
+)
+# These are four publication-record observations, not answer-engine experiments.
+# Snapshot hashes bind the exact saved HTML; a later source needs a fresh review.
+APPROVED_PUBLICATION_AUDITS = {
+    "https://broadcastwell.com/best-geo-agencies": {
+        "observed_at": "2026-10-29T14:37:02.799269+00:00",
+        "snapshot_sha256": "4c2722c06bb8308bc8900e85d18599cfdd2a1ee870261152455a1ccbfe47af54",
+        "records": {
+            "go-fish-digital": {"name": "Go Fish Digital", "statuses": ("Partial", "No", "Yes", "No", "No", "Yes", "Yes", "No")},
+            "minuttia": {"name": "Minuttia", "statuses": ("Partial", "No", "Yes", "Partial", "No", "Yes", "Yes", "Partial")},
+        },
+        "dates": ("15 September 2026", "16 September 2026", "28 October 2026"),
+        "date_context": "Prices, refund terms and engine lists were read again on 28 October 2026; other cells retain their earlier dates.",
+    },
+    "https://broadcastwell.com/best-geo-agencies-for-startups": {
+        "observed_at": "2026-10-29T14:37:02.864788+00:00",
+        "snapshot_sha256": "0e9c684aa54488edcbd6518e6205ea51ff3de58a6addb6b22dde027e15e47fa6",
+        "records": {
+            "citant": {"name": "Citant", "statuses": ("Yes", "Yes", "Yes", "Partial", "Yes", "No", "Not verified", "No")},
+            "embarque": {"name": "Embarque", "statuses": ("Partial", "No", "Yes", "Partial", "Yes", "Yes", "Yes", "Partial")},
+        },
+        "dates": ("15 September 2026", "16 September 2026"),
+        "date_context": "Other cells retain their original dates.",
+    },
+}
 GSC_SCOPE_SENTENCE = "Query wording does not identify who wrote it or what an AI engine answered."
 APPROVED_STUDY_DOIS = {
     "https://doi.org/10.5281/zenodo.22907695",  # September Index, including mixed-source pages
@@ -162,6 +191,7 @@ def external_evidence_links(body):
         if parsed.scheme == "https" and (
             parsed.netloc == "index.broadcastwell.com"
             or (parsed.netloc == "broadcastwell.com" and parsed.path.startswith("/research/"))
+            or href.split("#", 1)[0] in APPROVED_PUBLICATION_AUDITS
         ):
             result.add(href.split("#", 1)[0])
     return result
@@ -182,6 +212,242 @@ def _reject_duplicate_json_keys(pairs):
     return result
 
 
+def _audit_table_rows(measured):
+    """Read only the explicit eight-criterion Markdown score table."""
+    header = ("Agency", *AUDIT_CRITERIA, "Yes count")
+    rows, active = [], False
+    for line in measured.splitlines():
+        if not line.strip().startswith("|"):
+            if active:
+                break
+            continue
+        cells = tuple(cell.strip() for cell in line.strip().strip("|").split("|"))
+        if not active:
+            active = tuple(cell.casefold() for cell in cells) == tuple(cell.casefold() for cell in header)
+        elif all(re.fullmatch(r":?-+:?", cell) for cell in cells):
+            continue
+        else:
+            rows.append(cells)
+    return rows
+
+
+def _audit_unsupported_claims(body):
+    """Keep this source kind confined to dated publication checks."""
+    errors = []
+    before_next, separator, next_step = body.partition("## Next step")
+    # Only the existing fixed Answer Repair CTA is a monetary exception.
+    if separator:
+        next_step = next_step.replace(
+            "[Fix one answer, $490](https://broadcastwell.com/answer-repair)", "", 1,
+        )
+    # Section names such as "What this means for you" are navigation labels,
+    # not assertions about a nearby result. Keep them out of claim parsing.
+    claim_text = plain_text(re.sub(r"(?m)^#{1,6}[^\n]*$", "", before_next + "\n" + next_step))
+    if re.search(r"(?:[$\u00a3\u20ac]\s*\d|\b(?:USD|GBP|EUR)\s*\d|\b\d[\d,.]*\s*(?:dollars|pounds|euros)\b)", claim_text, re.I):
+        errors.append("publication-audit does not support monetary price claims; only the fixed Next step CTA is allowed")
+    names = "|".join(re.escape(record["name"]) for audit in APPROVED_PUBLICATION_AUDITS.values() for record in audit["records"].values())
+    if re.search(r"\b(?:" + names + r")\b[^.!?]{0,45}\b(?:charges?|costs?|currently prices?|starts? at|is free)\b", claim_text, re.I):
+        errors.append("publication-audit does not support a provider's current pricing claim")
+    # Negated limitations are welcome. Inspect each affirmative outcome verb,
+    # rather than banning a whole sentence just for mentioning client results.
+    for clause in re.split(r"[.!?;]|\bbut\b|\bhowever\b", claim_text, flags=re.I):
+        if not re.search(r"\b(?:results?|quality|traffic|conversions?|rankings?|recommendations?|best|winner|value for money|cheapest|cheaper|lowest price)\b", clause, re.I):
+            continue
+        if not re.search(r"\b(?:scores?|scorecards?|counts?|audits?|yeses|" + names + r")\b", clause, re.I):
+            continue
+        for match in re.finditer(r"\b(?:prove[sd]?|show[sn]?|measures?|means?|demonstrates?|predicts?|guarantees?|delivers?|achieves?|increases?|improves?|outperforms?|wins?|ranks?|makes?|confirms?|establishes?|indicates?|reflects?|is the best|is cheapest|is cheaper|has the lowest price)\b", clause, re.I):
+            prefix = clause[max(0, match.start() - 80):match.start()]
+            suffix = clause[match.end():]
+            negated = re.search(r"\b(?:not|never|cannot|can't|doesn't|don't|isn't|aren't)\b(?!\s+only\b)[^,;]*$|\bno (?:publication )?(?:score|count|audit|evidence)\b[^,;]*$", prefix, re.I)
+            no_evidence = re.match(r"\s+no evidence\b", suffix, re.I)
+            if not (negated or no_evidence):
+                errors.append("publication-audit cannot claim service quality, current AI outcomes, client results or a ranking")
+                break
+    return errors
+
+
+def _audit_prose(measured):
+    """Keep authored prose separate from headings and the fixed source table."""
+    prose = "\n".join(line for line in measured.splitlines()
+                      if not line.lstrip().startswith(("|", "#")))
+    paragraphs = [plain_text(part) for part in re.split(r"\n\s*\n", prose) if plain_text(part)]
+    units = [unit.strip() for paragraph in paragraphs
+             for unit in re.split(r"[.!?;]\s*", paragraph) if unit.strip()]
+    return paragraphs, units
+
+
+def _audit_negates(text, concept):
+    """Recognize a bounded negated assertion, without accepting 'not only'."""
+    negative = r"\b(?:not(?!\s+only\b)|no|never|cannot|can't|doesn't|don't|isn't|aren't|wasn't|weren't|without|rather than|instead of)\b"
+    return bool(re.search(negative + r"[^.!?;]{0,150}\b(?:" + concept + r")\b", text, re.I))
+
+
+def _audit_scope_and_dates(source, selected, measured):
+    """Check visible assertions, not a reusable paragraph of fixed wording."""
+    errors = []
+    paragraphs, units = _audit_prose(measured)
+    text = " ".join(paragraphs)
+    publication = any(
+        re.search(r"\b(?:published|publication|publicly (?:available|checkable))\b", unit, re.I)
+        and re.search(r"\b(?:counts?|counted|scores?|read|checks?|audit|documents?|material|evidence|records?|criteria|cells?)\b", unit, re.I)
+        and not _audit_negates(unit, r"published (?:evidence|material|records?)|publication (?:evidence|check|audit)")
+        for unit in units
+    )
+    if not publication:
+        errors.append("published-audit must identify its scope as a read/check of published evidence")
+    test_concept = r"retest(?:ing|ed|s)?|(?:new|fresh|live) (?:provider |agency |performance )?(?:test|tests|measurement)|(?:provider|agency) (?:test|tests|testing)"
+    outcome_concept = r"results?|outcomes?|performance|quality|recommendations?|proof of (?:client |AI )?results"
+    if not any(_audit_negates(paragraph, test_concept) and _audit_negates(paragraph, outcome_concept)
+               for paragraph in paragraphs):
+        errors.append("published-audit needs a plain limitation: no new provider test and no proof of results")
+    if not re.search(r"\balphabetical(?:ly)?\b|\bA\s+(?:to|-)\s*Z\b", text, re.I):
+        errors.append("published-audit must disclose alphabetical ordering")
+    if not any(_audit_negates(unit, r"rank(?:ing|ings|ed)?|order of merit|merit") for unit in units):
+        errors.append("published-audit must disclose that its order is not a ranking")
+    publisher_unscored = any(
+        re.search(r"\b(?:Broadcastwell|publisher)\b", unit, re.I)
+        and (re.search(r"\bunscored\b|\b(?:outside|excluded from|not part of) the (?:scorecard|scoring|scores?)\b", unit, re.I)
+             or _audit_negates(unit, r"scored|rated|assessed"))
+        for unit in units
+    )
+    if not publisher_unscored:
+        errors.append("published-audit must disclose that Broadcastwell/the publisher is not scored")
+    yes_only = any(
+        re.search(r"\bonly (?:the )?Yes\b|\bYes(?: (?:cells|responses|entries))? (?:alone|only)\b", unit, re.I)
+        and re.search(r"\b(?:counts?|total(?:led|ed|s)?|scores?|scoring|contribut(?:e|es|ed)|adds?|form)\b", unit, re.I)
+        for unit in units
+    )
+    if not yes_only:
+        errors.append("published-audit must explain that Yes alone contributes to its count")
+    for unit in units:
+        if _audit_negates(unit, r"published (?:evidence|material|records?)|publication (?:evidence|check|audit)"):
+            errors.append("published-audit cannot deny its publication-evidence scope")
+        publisher_score = re.search(r"\b(?:Broadcastwell|publisher)\b.{0,40}\b(?:scored|rated|assessed|included in (?:the )?(?:scoring|scorecard))\b", unit, re.I)
+        if publisher_score and not _audit_negates(unit, r"scored|rated|assessed|included in (?:the )?(?:scoring|scorecard)"):
+            errors.append("published-audit cannot claim that Broadcastwell/the publisher is scored")
+        positive_rank = re.search(r"\brank(?:ed|ing|ings|s)?\b|\border of merit\b|\bbest to worst\b", unit, re.I)
+        if positive_rank and not _audit_negates(unit, r"rank(?:ed|ing|ings|s)?|order of merit|best to worst"):
+            errors.append("published-audit cannot claim that the scorecard ranks agencies")
+        if re.search(r"\b(?:Partial|Not verified|No cells?)\b[^.!?]{0,35}\b(?:also count|counts? toward|contribut(?:e|es) to|adds? one|worth one)\b", unit, re.I):
+            if not _audit_negates(unit, r"counts? toward|contribut(?:e|es) to|adds? one|worth one"):
+                errors.append("published-audit cannot count Partial, No or Not verified as Yes")
+        positive_retest = re.search(r"\b(?:retest(?:ed|ing)? (?:the )?(?:providers|agencies)|(?:providers|agencies) (?:were |are )?retested|(?:new|fresh|live) (?:provider|agency|performance) tests?)\b", unit, re.I)
+        if positive_retest and not _audit_negates(unit, test_concept):
+            errors.append("published-audit cannot describe the snapshot as a new provider test")
+
+    # Each required historical read is attached to the field it describes.
+    # A date merely listed elsewhere on the page does not satisfy this check.
+    roles = {
+        "snapshot": r"snapshot|saved (?:source|audit|page)|source (?:read|page|HTML)",
+        "original": r"original(?:ly)?|initial|first|company[ -]sites?|sites? (?:were )?(?:read|checked)",
+        "reviews": r"reviews?|ratings?",
+        "method": r"method",
+        "open_data": r"open data|data cells?",
+        "price": r"prices?|pricing",
+        "refund": r"refunds?(?: terms)?",
+        "engine": r"engines?(?: lists?)?",
+    }
+    def has_date(role, date, extra=None):
+        return any(date in unit and re.search(r"\b(?:" + roles[role] + r")\b", unit, re.I)
+                   and (extra is None or re.search(extra, unit, re.I)) for unit in units)
+    required = [("snapshot", "29 October 2026", None),
+                ("original", "15 September 2026", None),
+                ("reviews", "16 September 2026", None)]
+    if source.endswith("/best-geo-agencies"):
+        required += [(role, "28 October 2026", None) for role in ("price", "refund", "engine")]
+    if "citant" in selected:
+        required += [(role, "23 October 2026", r"\bCitant\b") for role in ("method", "open_data")]
+        required += [("reviews", "29 September 2026", r"\bCitant\b.*\bNot verified\b|\bNot verified\b.*\bCitant\b")]
+    for role, date, extra in required:
+        if not has_date(role, date, extra):
+            errors.append("published-audit field/read date missing or misattributed: " + role + " = " + date)
+
+    allowed = {
+        "snapshot": {"29 October 2026"}, "original": {"15 September 2026"},
+        "reviews": {"16 September 2026"}, "method": {"15 September 2026"},
+        "open_data": {"15 September 2026"}, "price": {"15 September 2026"},
+        "refund": {"15 September 2026"}, "engine": {"15 September 2026"},
+    }
+    if source.endswith("/best-geo-agencies"):
+        for role in ("price", "refund", "engine"):
+            allowed[role].add("28 October 2026")
+    for unit in units:
+        dates = list(re.finditer(r"\b\d{1,2} (?:September|October) 2026\b", unit))
+        positions = [(match.start(), role) for role, pattern in roles.items()
+                     for match in re.finditer(r"\b(?:" + pattern + r")\b", unit, re.I)]
+        for date in dates:
+            if not positions:
+                continue
+            _, role = min(positions, key=lambda item: abs(item[0] - date.start()))
+            valid_dates = set(allowed[role])
+            if re.search(r"\bCitant\b", unit, re.I):
+                if role in ("method", "open_data"):
+                    valid_dates.add("23 October 2026")
+                if role == "reviews":
+                    valid_dates.add("29 September 2026")
+            if date.group() not in valid_dates:
+                errors.append("published-audit contradicts the approved field/read dates: " + role + " = " + date.group())
+    return errors
+
+
+def validate_publication_audit(meta, body, measured):
+    """Validate exactly the approved publication snapshots and record cuts."""
+    errors = []
+    source = str(meta.get("is_based_on", ""))
+    audit = APPROVED_PUBLICATION_AUDITS.get(source)
+    if audit is None:
+        return ["published-audit source is outside the two approved audit URLs"]
+    for key, expected in (("evidence_audit_observed_at", audit["observed_at"]),
+                          ("evidence_audit_snapshot_sha256", audit["snapshot_sha256"])):
+        if str(meta.get(key, "")) != expected:
+            errors.append("published-audit requires the exact approved " + key)
+    selected = meta.get("evidence_audit_records")
+    if not isinstance(selected, list) or not selected or any(not isinstance(item, str) for item in selected):
+        errors.append("published-audit requires a nonempty evidence_audit_records list")
+        selected = []
+    if len(set(selected)) != len(selected):
+        errors.append("published-audit record IDs must be unique")
+    if any(item not in audit["records"] for item in selected):
+        errors.append("published-audit record is not approved for this source")
+    selected = [item for item in selected if item in audit["records"]]
+    if meta.get("evidence_method_receipts"):
+        errors.append("published-audit uses its own scorecard, not answer-study method receipts")
+    errors.extend(_audit_scope_and_dates(source, selected, measured))
+    rows = _audit_table_rows(measured)
+    expected_rows = []
+    for record_id in sorted(selected, key=lambda item: audit["records"][item]["name"].casefold()):
+        record = audit["records"][record_id]
+        count = record["statuses"].count("Yes")
+        expected_rows.append((record["name"], *record["statuses"], str(count) + "/8"))
+        link = source + "#" + record_id
+        if link not in markdown_links(measured):
+            errors.append("published-audit record must link to its exact source anchor: " + link)
+    actual_rows = [tuple(plain_text(cell) for cell in row) for row in rows]
+    if actual_rows != expected_rows or not expected_rows:
+        errors.append("published-audit table must match the exact approved alphabetical records, eight statuses and Yes counts")
+    first = plain_text(paragraph_after_heading(body))
+    selected_counts = {audit["records"][item]["statuses"].count("Yes") for item in selected}
+    pairs = re.findall(r"\b(\d+)\s*(?:/|of|out of)\s*(\d+)\b", plain_text(body), re.I)
+    if any(int(base) != 8 or int(count) not in selected_counts for count, base in pairs):
+        errors.append("published-audit count/base differs from its approved record")
+    opening_receipt = False
+    for record_id in selected:
+        record = audit["records"][record_id]
+        count = record["statuses"].count("Yes")
+        name = re.escape(record["name"])
+        claims = re.findall(name + r"[^.!?\n|]{0,140}?\b(\d+)\s*(?:/|of|out of)\s*(\d+)\b", plain_text(body), re.I)
+        if any((int(value), int(base)) != (count, 8) for value, base in claims):
+            errors.append("published-audit score is attributed to the wrong record: " + record["name"])
+        if re.search(name + r"[^.!?]{0,140}?\b" + str(count) + r"\s*(?:/|of|out of)\s*8\b", first, re.I) and source + "#" + record_id in markdown_links(paragraph_after_heading(body)):
+            opening_receipt = True
+    if not opening_receipt:
+        errors.append("first publication-audit paragraph must name an approved record, give its score/base and link its source anchor")
+    if DEFAULT_METHOD_LABEL in body or SCOPED_METHOD_LABEL in body:
+        errors.append("published-audit must not use an answer-study or universal v1.1 method label")
+    errors.extend(_audit_unsupported_claims(body))
+    return errors
+
+
 def validate_source_evidence(meta, body, docs):
     """Bind a source to its own method without relaxing any page/build rule."""
     errors = []
@@ -191,6 +457,7 @@ def validate_source_evidence(meta, body, docs):
     end = body.find("## What this means for you")
     measured = body[start:end] if 0 <= start < end else ""
     method_label = DEFAULT_METHOD_LABEL
+    method_url = "https://broadcastwell.com/methodology"
     if not kind:
         if source != SEPTEMBER_INDEX_DOI:
             errors.append("non-September sources require approved published-study metadata")
@@ -250,10 +517,16 @@ def validate_source_evidence(meta, body, docs):
             errors.append("Search Console evidence must state its query-authorship/answer scope limit")
         if DEFAULT_METHOD_LABEL in body:
             errors.append("Search Console figures must not use the universal v1.1 method sentence")
+    elif kind == "published-audit":
+        method_label = AUDIT_METHOD_LABEL
+        method_url = source + "#scorecard"
+        errors.extend(validate_publication_audit(meta, body, measured))
+        if method_url not in markdown_links(measured):
+            errors.append("publication-audit criteria must be linked in What we measured")
     else:
         errors.append("unknown evidence_kind")
-    if f"[{method_label}](https://broadcastwell.com/methodology)" not in body:
-        errors.append("method label must link to the published answer-study method")
+    if f"[{method_label}]({method_url})" not in body:
+        errors.append("method label must link to the publication-audit scorecard" if kind == "published-audit" else "method label must link to the published answer-study method")
     return errors, method_label
 
 
@@ -348,7 +621,12 @@ def validate_answer(path, docs):
         and meta.get("is_based_on") == GSC_SUMMARY_URL
         and GSC_SUMMARY_URL in markdown_links(body)
     )
-    if not (standard_evidence or approved_gsc_evidence):
+    approved_audit_evidence = (
+        meta.get("evidence_kind") == "published-audit"
+        and str(meta.get("is_based_on", "")) in APPROVED_PUBLICATION_AUDITS
+        and str(meta.get("is_based_on")) + "#scorecard" in markdown_links(body)
+    )
+    if not (standard_evidence or approved_gsc_evidence or approved_audit_evidence):
         errors.append("missing published evidence link")
     return [rel + ": " + error for error in errors]
 
