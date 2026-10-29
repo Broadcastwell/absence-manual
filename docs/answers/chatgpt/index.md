@@ -5,7 +5,7 @@ description: Dated software naming counts, category shortlists and the limits of
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T00:22:46+00:00'
-date_modified: '2026-10-29T00:22:46+00:00'
+date_modified: '2026-10-29T02:24:55+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 2
@@ -15,7 +15,7 @@ library_order: 2
 
 Dated software naming counts, category shortlists and the limits of a mention.
 
-These 13 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 15 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Construction buyer context
 
@@ -88,6 +88,18 @@ ChatGPT named Buildium in 24 of 30 property-management answers and AppFolio in 1
 [How many software vendors does ChatGPT name in an answer?](how-many-software-vendors-does-chatgpt-name-in-an-answer.md)
 
 The September sample averaged 3.56 checked names per valid ChatGPT answer: 1,496 appearances across 420 answers captured on 22 September 2026.
+
+## Broker and shipper questions
+
+[Which transportation software does ChatGPT recommend?](which-transportation-software-does-chatgpt-recommend.md)
+
+ChatGPT named Descartes in 12 of 30 transportation answers captured on 22 September 2026. Broker and shipper questions produced different names.
+
+## Clinic and hospital scope
+
+[Which veterinary software does ChatGPT recommend?](which-veterinary-software-does-chatgpt-recommend.md)
+
+ezyVet appeared in 23 of 30 ChatGPT veterinary answers on 22 September 2026. New-clinic and emergency-hospital answers differed.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

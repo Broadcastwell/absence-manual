@@ -5,7 +5,7 @@ description: Scope, acceptance evidence and questions to ask before agreeing to 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T00:22:46+00:00'
+date_modified: '2026-10-29T02:24:55+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 7
