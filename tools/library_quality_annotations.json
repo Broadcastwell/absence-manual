@@ -37,7 +37,8 @@
       "date_first",
       "belief_correction",
       "question_back",
-      "study_result_first"
+      "study_result_first",
+      "action_first"
     ],
     "claude": [
       "figure_first",
@@ -49,7 +50,8 @@
       "belief_correction",
       "question_back",
       "study_result_first",
-      "context_contrast"
+      "context_contrast",
+      "answer_definition"
     ],
     "perplexity": [
       "figure_first",
@@ -61,7 +63,8 @@
       "belief_correction",
       "question_back",
       "context_contrast",
-      "study_result_first"
+      "study_result_first",
+      "answer_definition"
     ],
     "google-ai": [
       "figure_first",
@@ -86,7 +89,8 @@
       "belief_correction",
       "question_back",
       "action_first",
-      "answer_definition"
+      "answer_definition",
+      "source_first"
     ],
     "buying": [
       "figure_first",
@@ -99,7 +103,8 @@
       "question_back",
       "answer_definition",
       "action_first",
-      "context_contrast"
+      "context_contrast",
+      "source_first"
     ],
     "industries": [
       "figure_first",
@@ -4951,6 +4956,195 @@
       "base": "30",
       "label": "ClickUp named: project_management, Claude, all questions",
       "source_url": "https://doi.org/10.5281/zenodo.22907695"
+    },
+    "figure:bb2e3b76840067ffc3c2c3287772decbb48979d5694f3b4af5edaeb5b51950e4": {
+      "source_review_sha256": "340b57df8f346ef0c06c4bebdcfe3f7d753867d665930bfbf820121933a6d29d",
+      "unit": "answers",
+      "base": "150",
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "field-service-management",
+        "engine": "pooled-five-engines",
+        "subject": "Jobber",
+        "metric": "named"
+      },
+      "label": "Jobber named",
+      "count": "50"
+    },
+    "figure:fd9a12b685773211678b4dcfa614476ddad7bd51c7abefee34591a0bbd828709": {
+      "source_review_sha256": "340b57df8f346ef0c06c4bebdcfe3f7d753867d665930bfbf820121933a6d29d",
+      "unit": "answers",
+      "base": "150",
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "field-service-management",
+        "engine": "pooled-five-engines",
+        "subject": "Jobber",
+        "metric": "own_domain_cited_with_name"
+      },
+      "label": "Jobber own_domain_cited_with_name",
+      "count": "46"
+    },
+    "figure:8189dc5c69d1ddb69e7587d5bf617dd5576211fdbc16c18aaf966ede7ceba62c": {
+      "source_review_sha256": "340b57df8f346ef0c06c4bebdcfe3f7d753867d665930bfbf820121933a6d29d",
+      "unit": "answers",
+      "base": "148",
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "residential-property-management",
+        "engine": "pooled-five-engines",
+        "subject": "Buildium",
+        "metric": "named"
+      },
+      "label": "Buildium named",
+      "count": "119"
+    },
+    "figure:bbb25a7b71b2256f9e21bb9a956c6ac6a7fb928676c9e4335f26ed593ff45460": {
+      "source_review_sha256": "340b57df8f346ef0c06c4bebdcfe3f7d753867d665930bfbf820121933a6d29d",
+      "unit": "answers",
+      "base": "30",
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "field-service-management",
+        "engine": "Google AI Overviews",
+        "subject": "Housecall Pro",
+        "metric": "named"
+      },
+      "label": "Housecall Pro named in Google AI Overviews",
+      "count": "22"
+    },
+    "figure:5243720b6211ee67048d838fa0ddffc4b7db31d6459130be9b10ef16f0442d0b": {
+      "source_review_sha256": "340b57df8f346ef0c06c4bebdcfe3f7d753867d665930bfbf820121933a6d29d",
+      "unit": "statements",
+      "base": "2922",
+      "source_url": "https://doi.org/10.5281/zenodo.23270124",
+      "record": {
+        "capture_date": "2026-09-22|2026-09-23",
+        "event_date": "2026-10-08",
+        "subject": "all-classified-statements",
+        "metric": "true"
+      },
+      "label": "Wrong About You classified true statements",
+      "count": "1924"
+    },
+    "figure:40b18c75e140d30cc475549e0e6bc6dcd76de9992553b3475459a99b2f5fe673": {
+      "source_review_sha256": "340b57df8f346ef0c06c4bebdcfe3f7d753867d665930bfbf820121933a6d29d",
+      "unit": "initial_tasks",
+      "base": "70",
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "subject": "S1",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "label": "Agent Gap Describe tasks reaching the observed endpoint",
+      "count": "67"
+    },
+    "figure:8c6716b5839f69d3ec0d01050e1e801169178d7562c331a103526c827ecdc348": {
+      "source_url": "https://broadcastwell.com/best-geo-agencies-for-startups",
+      "record": {
+        "subject": "Citant",
+        "metric": "verifiable_yeses",
+        "event_date": "2026-10-23"
+      },
+      "count": "4",
+      "base": "8",
+      "unit": "publication_criteria",
+      "label": "Citant dated publicly verifiable criteria",
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4"
+    },
+    "figure:382f39c45dc3a45a4be296ed776c9ebc7d2ec43b8c039eb18e83f7df999dd399": {
+      "source_url": "https://broadcastwell.com/best-geo-agencies-for-startups",
+      "record": {
+        "subject": "Embarque",
+        "metric": "verifiable_yeses",
+        "event_date": "2026-09-15"
+      },
+      "count": "4",
+      "base": "8",
+      "unit": "publication_criteria",
+      "label": "Embarque dated publicly verifiable criteria",
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4"
+    },
+    "figure:6516d979c519c14b7b75f2f69a7e35336c6fac325119f4b5b7640030f430eb47": {
+      "source_url": "https://broadcastwell.com/best-geo-agencies",
+      "record": {
+        "subject": "Go Fish Digital",
+        "metric": "verifiable_yeses",
+        "event_date": "2026-10-28"
+      },
+      "count": "3",
+      "base": "8",
+      "unit": "publication_criteria",
+      "label": "Go Fish Digital dated publicly verifiable criteria",
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4"
+    },
+    "figure:4931f9f723b247e50ecf6b2caa0871e1a7f29f58d32f2ae39ac36286e3f52304": {
+      "source_url": "https://doi.org/10.5281/zenodo.23270124",
+      "record": {
+        "capture_date": "2026-09-22",
+        "event_date": "2026-10-08",
+        "category": "construction-project-management",
+        "subject": "Procore",
+        "metric": "wrong"
+      },
+      "count": "2",
+      "base": "57",
+      "unit": "statements",
+      "label": "Wrong About You Procore wrong statements",
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4"
+    },
+    "figure:fb26a97bd94722142a936a3e5ab5290bd8b8464e6279ed3e02aab51ca033e77b": {
+      "source_url": "https://broadcastwell.com/best-geo-agencies",
+      "record": {
+        "subject": "Minuttia",
+        "metric": "verifiable_yeses",
+        "event_date": "2026-10-28"
+      },
+      "count": "3",
+      "base": "8",
+      "unit": "publication_criteria",
+      "label": "Minuttia dated publicly verifiable criteria",
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4"
+    },
+    "figure:c1b3befa6ef8cb9cbaa8488726397862b5734acb5ba661bbd6c1ac970dcc043a": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "construction-project-management",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": "15",
+      "base": "15",
+      "unit": "initial_tasks",
+      "label": "Agent Gap: reached initial tasks in construction-project-management",
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4"
+    },
+    "figure:daf72cd4b22d82a2df7dc779c91036c6ff279cc2638adee1c4d95524bdc6397a": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "crm",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": "13",
+      "base": "15",
+      "unit": "initial_tasks",
+      "label": "Agent Gap: reached initial tasks in crm",
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4"
     }
   },
   "pages": {
@@ -8613,6 +8807,448 @@
         ]
       },
       "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+    },
+    "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify.md": {
+      "bank_id": "LB-Q0002",
+      "source_sha256": "2775308c1321ecd3fa17f6cdd0362f14430f5259fb3ca3f5cc0dbd889dc4febf",
+      "canonical_source_sha256": "2775308c1321ecd3fa17f6cdd0362f14430f5259fb3ca3f5cc0dbd889dc4febf",
+      "opening_sha256": "d8e802f9e1f1a770373af108dbb7fffb2ee18134795df8bfaaf4a773e76470a3",
+      "lead_figures": [
+        "figure:bb2e3b76840067ffc3c2c3287772decbb48979d5694f3b4af5edaeb5b51950e4",
+        "figure:fd9a12b685773211678b4dcfa614476ddad7bd51c7abefee34591a0bbd828709"
+      ],
+      "lead_figure_spans": {
+        "figure:bb2e3b76840067ffc3c2c3287772decbb48979d5694f3b4af5edaeb5b51950e4": [
+          "If you want an AI visibility tool you can check, Profound and seoClarity publish descriptions you can compare with an actual answer record. Start with the event each number counts. On 22 September 2026, our field-service record counted 50 answers naming Jobber and 46 answers that cited Jobber's domain, from 150 valid answers. A tool that combines those events gives you a different result from one that keeps them separate."
+        ],
+        "figure:fd9a12b685773211678b4dcfa614476ddad7bd51c7abefee34591a0bbd828709": [
+          "If you want an AI visibility tool you can check, Profound and seoClarity publish descriptions you can compare with an actual answer record. Start with the event each number counts. On 22 September 2026, our field-service record counted 50 answers naming Jobber and 46 answers that cited Jobber's domain, from 150 valid answers. A tool that combines those events gives you a different result from one that keeps them separate."
+        ]
+      },
+      "source_review_sha256": "340b57df8f346ef0c06c4bebdcfe3f7d753867d665930bfbf820121933a6d29d",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The conditional buyer need leads the first clause, before the named products and observed result.",
+      "writing_review_sha256": "df82562e06b2ecc57caed3b5fe11d85b032ded443cbde199af3d4918b9d3a539"
+    },
+    "answers/industries/what-do-ai-answers-say-about-property-management-software.md": {
+      "bank_id": "LB-Q0007",
+      "source_sha256": "0e4be590012c4c0907ea762b1de6f980221c903151464a8390b01e0685ec090b",
+      "canonical_source_sha256": "0e4be590012c4c0907ea762b1de6f980221c903151464a8390b01e0685ec090b",
+      "opening_sha256": "1f6e0978669b56827fa3c764fa6241948b20e731814f77f7a52902f4ed7cc96c",
+      "lead_figures": [
+        "figure:8189dc5c69d1ddb69e7587d5bf617dd5576211fdbc16c18aaf966ede7ceba62c"
+      ],
+      "lead_figure_spans": {
+        "figure:8189dc5c69d1ddb69e7587d5bf617dd5576211fdbc16c18aaf966ede7ceba62c": [
+          "119 of the 148 valid property-management answers named Buildium in our 22 September 2026 panel. The answers covered landlords, growing management companies, comparisons and alternatives; they did not give one universal product choice. If you are buying for a particular portfolio, read that buyer question before treating the pooled count as your shortlist."
+        ]
+      },
+      "source_review_sha256": "340b57df8f346ef0c06c4bebdcfe3f7d753867d665930bfbf820121933a6d29d",
+      "opening_shape": "figure_first",
+      "classification_reason": "The first information is119 of148 before the named Buildium result.",
+      "writing_review_sha256": "df82562e06b2ecc57caed3b5fe11d85b032ded443cbde199af3d4918b9d3a539"
+    },
+    "answers/geo-basics/how-does-profound-track-brand-coverage-across-ai-answer-engines.md": {
+      "bank_id": "LB-Q0030",
+      "source_sha256": "bd642f2532186037eea0b23228c1f0fbd9e511123a995945c6e243ba7fd4ae2f",
+      "canonical_source_sha256": "bd642f2532186037eea0b23228c1f0fbd9e511123a995945c6e243ba7fd4ae2f",
+      "opening_sha256": "38965f0bea058efa788c51a1ce707711beeeb3a5a3cb03c2a632f3dab94b2868",
+      "lead_figures": [
+        "figure:adf22e775fd6faff199216f1281f2ef48113a749b06d43e86a33fc0ee88d8cdc",
+        "figure:bbb25a7b71b2256f9e21bb9a956c6ac6a7fb928676c9e4335f26ed593ff45460"
+      ],
+      "lead_figure_spans": {
+        "figure:adf22e775fd6faff199216f1281f2ef48113a749b06d43e86a33fc0ee88d8cdc": [
+          "Profound tracks brand coverage by collecting answer responses and recording whether the brand appears, according to its documentation read on 29 October 2026. Its published definition makes the denominator part of the result. Our own field-service capture on 22 September illustrates why engine labels also matter: Housecall Pro was named in 21 of 30 ChatGPT answers and 22 of 30 Google AI Overview answers."
+        ],
+        "figure:bbb25a7b71b2256f9e21bb9a956c6ac6a7fb928676c9e4335f26ed593ff45460": [
+          "Profound tracks brand coverage by collecting answer responses and recording whether the brand appears, according to its documentation read on 29 October 2026. Its published definition makes the denominator part of the result. Our own field-service capture on 22 September illustrates why engine labels also matter: Housecall Pro was named in 21 of 30 ChatGPT answers and 22 of 30 Google AI Overview answers."
+        ]
+      },
+      "source_review_sha256": "340b57df8f346ef0c06c4bebdcfe3f7d753867d665930bfbf820121933a6d29d",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Profound is the named software-product subject of the first clause.",
+      "writing_review_sha256": "df82562e06b2ecc57caed3b5fe11d85b032ded443cbde199af3d4918b9d3a539"
+    },
+    "answers/changes/which-ai-visibility-tools-monitor-factual-accuracy.md": {
+      "bank_id": "LB-Q0036",
+      "source_sha256": "b8fa56a0cbf585a9318fc4fe41fb3989cd414d14d03690cd30041e19b5de18a7",
+      "canonical_source_sha256": "b8fa56a0cbf585a9318fc4fe41fb3989cd414d14d03690cd30041e19b5de18a7",
+      "opening_sha256": "2e553fc1be6d0279ac7733784fdc5600942eb61ab425918a92256c06967135e5",
+      "lead_figures": [
+        "figure:5243720b6211ee67048d838fa0ddffc4b7db31d6459130be9b10ef16f0442d0b"
+      ],
+      "lead_figure_spans": {
+        "figure:5243720b6211ee67048d838fa0ddffc4b7db31d6459130be9b10ef16f0442d0b": [
+          "Profound FactCheck and seoClarity ArcAI Accuracy publish descriptions of tools that check claims in AI answers against company information. Read those as product descriptions. Broadcastwell's separate Wrong About You study labelled 1,924 of 2,922 statements true: the answers were captured on 22 and 23 September 2026, then compared with vendor pages read on 8 October."
+        ]
+      },
+      "source_review_sha256": "340b57df8f346ef0c06c4bebdcfe3f7d753867d665930bfbf820121933a6d29d",
+      "opening_shape": "vendor_first",
+      "classification_reason": "The first clause names Profound FactCheck and seoClarity ArcAI Accuracy as the products being described.",
+      "writing_review_sha256": "df82562e06b2ecc57caed3b5fe11d85b032ded443cbde199af3d4918b9d3a539"
+    },
+    "answers/fixes/which-ai-visibility-tools-also-complete-content-changes.md": {
+      "bank_id": "LB-Q0056",
+      "source_sha256": "d662f81c7840d73dc8ee621223befc00efe343febcc302a261d8cab3afedbc3f",
+      "canonical_source_sha256": "d662f81c7840d73dc8ee621223befc00efe343febcc302a261d8cab3afedbc3f",
+      "opening_sha256": "9bc47ca877666a9926cd20053dbcef9e80209f0b51e9ed9019c85450ce1eb0c9",
+      "lead_figures": [
+        "figure:40b18c75e140d30cc475549e0e6bc6dcd76de9992553b3475459a99b2f5fe673"
+      ],
+      "lead_figure_spans": {
+        "figure:40b18c75e140d30cc475549e0e6bc6dcd76de9992553b3475459a99b2f5fe673": [
+          "Profound describes content-update and content-creation paths from a FactCheck result, with an outreach-draft path when another publisher controls the source. Completion needs a served page as its receipt. Agent Gap reached the endpoint in 67 of 70 vendor-description tasks on 6 October 2026."
+        ]
+      },
+      "source_review_sha256": "fdf4357abdd0ec8bcdeff91356143394688fde13206860ab9e36e71fcd836c11",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Profound leads the first clause with its documented update/creation paths.",
+      "writing_review_sha256": "d438605d618ec0fd77469def725d4e9d1ad06537da17c70d3532fcc4f853c0e8"
+    },
+    "answers/geo-basics/how-do-profound-and-seo-clarity-compare-for-tracking-brand-coverage-in.md": {
+      "bank_id": "LB-Q0035",
+      "source_sha256": "af1eb538dcffd7c036b4fb492fbd3d60d49c87d388e3ff95b6203f03e105fa19",
+      "canonical_source_sha256": "af1eb538dcffd7c036b4fb492fbd3d60d49c87d388e3ff95b6203f03e105fa19",
+      "opening_sha256": "8a8f139eeb8bd35f00f65ce5cf1cd5d261a88b9992fdbe0b4f71a75b8e0a0c2a",
+      "lead_figures": [
+        "figure:17668ca4156d396baf4031f914520389724e2a6271bb3bd1729569003665bdc4",
+        "figure:82504f3ab4d8fb1125cceb6ad31afa2bfe97fda83c2c5eff6378a51cac8d3aa2"
+      ],
+      "lead_figure_spans": {
+        "figure:17668ca4156d396baf4031f914520389724e2a6271bb3bd1729569003665bdc4": [
+          "If you are comparing Profound with seoClarity, compare the definitions and answer records before choosing a score. Profound publishes distinct visibility and share-of-voice denominators; seoClarity describes separate mention and citation tracking. In our CRM capture on 22 September 2026, HubSpot CRM had 113 naming answers and 34 answers with an own-domain citation, each from 150 valid answers. Those two events give you a concrete test case for reading the definitions."
+        ],
+        "figure:82504f3ab4d8fb1125cceb6ad31afa2bfe97fda83c2c5eff6378a51cac8d3aa2": [
+          "If you are comparing Profound with seoClarity, compare the definitions and answer records before choosing a score. Profound publishes distinct visibility and share-of-voice denominators; seoClarity describes separate mention and citation tracking. In our CRM capture on 22 September 2026, HubSpot CRM had 113 naming answers and 34 answers with an own-domain citation, each from 150 valid answers. Those two events give you a concrete test case for reading the definitions."
+        ]
+      },
+      "source_review_sha256": "79462b5d828639916520f1035f579e1fd114512a83bbad992e4bf08a1ae9d07e",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The opening condition is the reader comparing two named products; their definition differences follow that buying situation.",
+      "writing_review_sha256": "0d6417f36df1f40eaf4e81e9e4df1cba4454db19df85728b3739d6993f336f90"
+    },
+    "answers/measurement/how-can-i-evaluate-hotwire-gaio-tech-as-an-ai-visibility-product.md": {
+      "bank_id": "LB-Q0017",
+      "source_sha256": "b49b0e91fcc67731337aaf22ccbedcd80f34b7aa9890423274632016c44a1202",
+      "canonical_source_sha256": "b49b0e91fcc67731337aaf22ccbedcd80f34b7aa9890423274632016c44a1202",
+      "opening_sha256": "007dcf249321eea5b9eab17b290ed33efb81e719d2c8a54f1adbd0cc5a7021d4",
+      "lead_figures": [
+        "figure:bb2e3b76840067ffc3c2c3287772decbb48979d5694f3b4af5edaeb5b51950e4",
+        "figure:fd9a12b685773211678b4dcfa614476ddad7bd51c7abefee34591a0bbd828709"
+      ],
+      "lead_figure_spans": {
+        "figure:bb2e3b76840067ffc3c2c3287772decbb48979d5694f3b4af5edaeb5b51950e4": [
+          "On 27 March 2025, Hotwire identified Spark as the later name for GAIO.tech; start your evaluation with that identity record and the product's stated scope. Then ask which answer events its reports count. Our 22 September 2026 Jobber example recorded 50 naming answers and 46 own-domain citation answers from a 150-answer field-service base, illustrating why the event definition belongs in your review."
+        ],
+        "figure:fd9a12b685773211678b4dcfa614476ddad7bd51c7abefee34591a0bbd828709": [
+          "On 27 March 2025, Hotwire identified Spark as the later name for GAIO.tech; start your evaluation with that identity record and the product's stated scope. Then ask which answer events its reports count. Our 22 September 2026 Jobber example recorded 50 naming answers and 46 own-domain citation answers from a 150-answer field-service base, illustrating why the event definition belongs in your review."
+        ]
+      },
+      "source_review_sha256": "60c96f5d045a9a2f65a008bb958e8460ddfbd4b54dce1bf2edaeaf8acc4b1b70",
+      "opening_shape": "date_first",
+      "classification_reason": "The initial27March2025 date frames the documented Hotwire name history before the reader action.",
+      "writing_review_sha256": "89c1aa100d9b51fca47fcaed3f644ec8b2d21ede07f54afa215cf1cacc9ddb7c"
+    },
+    "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md": {
+      "bank_id": "LB-Q0275",
+      "source_sha256": "2633e93eb21db50dbfa957a8a1f58a9eb854c9a907d99340da15ca2cec4bc371",
+      "canonical_source_sha256": "2633e93eb21db50dbfa957a8a1f58a9eb854c9a907d99340da15ca2cec4bc371",
+      "opening_sha256": "aa47957399e947a8c6ffb5ea919279613812e1e3517833135ded7d12fcc7942f",
+      "lead_figures": [
+        "figure:d5a000f0e571856a76ac6c396cac26de2abb6ad010c4df5af70c7d568f205423"
+      ],
+      "lead_figure_spans": {
+        "figure:d5a000f0e571856a76ac6c396cac26de2abb6ad010c4df5af70c7d568f205423": [
+          "On 29 October 2026, Anthropic's published crawler guide describes separate robots for training collection, search and user-directed retrieval, with robots.txt controls for each. Choose the control that matches your purpose. In our construction capture dated 22 September 2026, Claude named Buildertrend in 21 of 30 valid answers."
+        ]
+      },
+      "source_review_sha256": "efae86d4719cd7716441b139f632338b0365a7b5d6809954028749db0901284b",
+      "opening_shape": "date_first",
+      "classification_reason": "The guide-read date is the initial frame before the three reported robot purposes and the measured result.",
+      "writing_review_sha256": "a8a94e155e8807f7ab154f2ed1faa5086f1570e8fe96042dadf5b6b462e2e6fb"
+    },
+    "answers/claude/how-does-claude-web-search-work.md": {
+      "bank_id": "LB-Q0281",
+      "source_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407",
+      "canonical_source_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407",
+      "opening_sha256": "34b6b16ccaba1ab34fd2236f37cf40869fffa6b62a1bc729df69bcfcaac1464b",
+      "lead_figures": [
+        "figure:a8c37ccfdedb149aa8c6de80fcf8ec010658824556ddc7608d6a9e2c950ad1a4"
+      ],
+      "lead_figure_spans": {
+        "figure:a8c37ccfdedb149aa8c6de80fcf8ec010658824556ddc7608d6a9e2c950ad1a4": [
+          "Claude web search retrieves material from the web to inform an answer and supplies citations when that search capability is used, according to Anthropic's guide read on 29 October 2026. Read the citation beside the particular claim. Our 22 September construction panel recorded Procore in 21 of 30 Claude answers."
+        ]
+      },
+      "source_review_sha256": "bbe39e351dc6c4764e86a27ae292f1cb2fec21e5ed3d3f09cacda94864c9635d",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The first clause directly defines Claude web search and its conditional citation behavior, rather than leading with a vendor count or instruction.",
+      "writing_review_sha256": "a20ee32afccf7f449ec2b7a3d697191e237e51ef1787ced6dcd6bacc4b18d9c9"
+    },
+    "answers/google-ai/which-software-tracks-brand-rankings-in-google-ai-overviews-and-bing-c.md": {
+      "bank_id": "LB-Q0112",
+      "source_sha256": "519aa292984cdea9de299ac0bcf1e0a0498e366cf0379af7ce35710b8997b24c",
+      "canonical_source_sha256": "519aa292984cdea9de299ac0bcf1e0a0498e366cf0379af7ce35710b8997b24c",
+      "opening_sha256": "eafc08fde073e21827adb3851bfe8e140c97d0a9213473aed483afcbc5559920",
+      "lead_figures": [
+        "figure:bbb25a7b71b2256f9e21bb9a956c6ac6a7fb928676c9e4335f26ed593ff45460"
+      ],
+      "lead_figure_spans": {
+        "figure:bbb25a7b71b2256f9e21bb9a956c6ac6a7fb928676c9e4335f26ed593ff45460": [
+          "If you need one tracker for Google AI Overviews and Bing Copilot, seoClarity's ArcAI Visibility documentation explicitly lists both Google AI Overviews and Microsoft Copilot. Check the actual surface behind a chart labelled rankings. Our September panel counted Housecall Pro names in 22 of 30 Google AI Overview answers on 22 September 2026; that is a naming count, with no Copilot result attached."
+        ]
+      },
+      "source_review_sha256": "fddb331510796980343e84684ddc7c9ab8a47f01cd98af50d557da234822ef78",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The conditional buyer need for one tracker spanning the two named surfaces leads the clause; the provider and observed figure follow.",
+      "writing_review_sha256": "54e1fa98e752bc7eb1dcb80066dae46b9ca30cfb0fa2f579de2eeef91305a1b0"
+    },
+    "answers/perplexity/how-does-perplexity-work.md": {
+      "bank_id": "LB-Q0283",
+      "source_sha256": "2e4cf4c190bae538f78fcd8416d4324bb111b60ffd08a5d06cd46c55d0831f8b",
+      "canonical_source_sha256": "2e4cf4c190bae538f78fcd8416d4324bb111b60ffd08a5d06cd46c55d0831f8b",
+      "opening_sha256": "ae38a4498484f54c006fbd69b56cb4aac1c038f92b01bf262e294f6f1aa0e73d",
+      "lead_figures": [
+        "figure:26f47919b5003bde1788e022e018d0c41b481ca7fea2b4ca105371484ee57e1c"
+      ],
+      "lead_figure_spans": {
+        "figure:26f47919b5003bde1788e022e018d0c41b481ca7fea2b4ca105371484ee57e1c": [
+          "Perplexity describes its search experience as finding web sources and producing an answer with source links; its current Pro Search guide explains a deeper search option within that experience. Our construction-software capture on 22 September 2026 named Procore in 21 of 30 Perplexity answers. That observation shows what appeared in our questions, while the provider's documentation explains the reported search feature."
+        ]
+      },
+      "source_review_sha256": "fddb331510796980343e84684ddc7c9ab8a47f01cd98af50d557da234822ef78",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The first sentence defines the reported source-search and source-linked-answer experience, rather than reporting a naming result or instructing a reader.",
+      "writing_review_sha256": "54e1fa98e752bc7eb1dcb80066dae46b9ca30cfb0fa2f579de2eeef91305a1b0"
+    },
+    "answers/chatgpt/how-can-a-page-get-cited-by-chatgpt.md": {
+      "bank_id": "LB-Q0509",
+      "source_sha256": "7dbca8f389bdaca9c1df5bcd410de6a737efa46b602b0d156dae86ab4ec6cd71",
+      "canonical_source_sha256": "7dbca8f389bdaca9c1df5bcd410de6a737efa46b602b0d156dae86ab4ec6cd71",
+      "opening_sha256": "22fea8ac29938120e770d47b421c1cf10178d7003311184d25496db81f631dbb",
+      "lead_figures": [
+        "figure:82504f3ab4d8fb1125cceb6ad31afa2bfe97fda83c2c5eff6378a51cac8d3aa2",
+        "figure:6fc4a432dd524f74c423000a74730a9291fefa48013ccbea257d646c1056bb1c"
+      ],
+      "lead_figure_spans": {
+        "figure:82504f3ab4d8fb1125cceb6ad31afa2bfe97fda83c2c5eff6378a51cac8d3aa2": [
+          "Check that OAI-SearchBot can reach the page and that your host allows OpenAI's published searchbot traffic; those are OpenAI's stated search eligibility checks, not a promise of citation. In our CRM capture of 22 September 2026, 24 of the 30 ChatGPT answers named HubSpot CRM. Across all five engines, 34 answers cited the HubSpot domain, from a base of 150 answers. Keep those different events and bases separate when you judge whether your page was cited."
+        ],
+        "figure:6fc4a432dd524f74c423000a74730a9291fefa48013ccbea257d646c1056bb1c": [
+          "Check that OAI-SearchBot can reach the page and that your host allows OpenAI's published searchbot traffic; those are OpenAI's stated search eligibility checks, not a promise of citation. In our CRM capture of 22 September 2026, 24 of the 30 ChatGPT answers named HubSpot CRM. Across all five engines, 34 answers cited the HubSpot domain, from a base of 150 answers. Keep those different events and bases separate when you judge whether your page was cited."
+        ]
+      },
+      "source_review_sha256": "2af1c39311d25443293d2727829e85d9440017f8c25da255964c3fede58f24c7",
+      "opening_shape": "action_first",
+      "classification_reason": "The imperative to check OAI-SearchBot and host permission leads the opening; it is a specific source-backed action before the dated naming/citation facts.",
+      "writing_review_sha256": "5021a9b8c8ea765e21b02df170ded0b86b4efb314154eda3c7104d36da58769a"
+    },
+    "answers/chatgpt/how-can-a-business-be-recommended-by-chatgpt.md": {
+      "bank_id": "LB-Q0511",
+      "source_sha256": "7c2edf6a9ddfc9295107c57a0b61517d3bba1de9689870510c5af32a1d3dcb1f",
+      "canonical_source_sha256": "7c2edf6a9ddfc9295107c57a0b61517d3bba1de9689870510c5af32a1d3dcb1f",
+      "opening_sha256": "dd389b9ee49dd9c994d2c67de75ea80cfc2f4e7337d0374ad89fa69c33814a54",
+      "lead_figures": [
+        "figure:6fc4a432dd524f74c423000a74730a9291fefa48013ccbea257d646c1056bb1c"
+      ],
+      "lead_figure_spans": {
+        "figure:6fc4a432dd524f74c423000a74730a9291fefa48013ccbea257d646c1056bb1c": [
+          "Search eligibility does not secure a ChatGPT recommendation. OpenAI says there is no way to guarantee top placement; you can check access and make the page answer a specific buyer need, then inspect what a later answer actually says. ChatGPT named HubSpot CRM in 24 of 30 CRM answers in our 22 September 2026 panel. That is evidence of naming in those questions, not a finding that HubSpot was the best purchase."
+        ]
+      },
+      "source_review_sha256": "2af1c39311d25443293d2727829e85d9440017f8c25da255964c3fede58f24c7",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The first sentence directly rejects the inference that search eligibility secures a ChatGPT recommendation.",
+      "writing_review_sha256": "9960fbc57ecced55ab9618d22733d79c5314ce6eccd42ed75fdc79e098b806d8"
+    },
+    "answers/buying/which-geo-agencies-serve-new-companies.md": {
+      "bank_id": "LB-Q0009",
+      "source_sha256": "e3d95df1ea8f820ebd1c1c0efb0667873b374caf6877e135082d5cedaef556ff",
+      "canonical_source_sha256": "e3d95df1ea8f820ebd1c1c0efb0667873b374caf6877e135082d5cedaef556ff",
+      "opening_sha256": "95c7efbf4e086f07e159fcdfab31ca4e04a2ecbb050745199fa25bfecd772b49",
+      "lead_figures": [
+        "figure:8c6716b5839f69d3ec0d01050e1e801169178d7562c331a103526c827ecdc348",
+        "figure:382f39c45dc3a45a4be296ed776c9ebc7d2ec43b8c039eb18e83f7df999dd399"
+      ],
+      "lead_figure_spans": {
+        "figure:8c6716b5839f69d3ec0d01050e1e801169178d7562c331a103526c827ecdc348": [
+          "If you are choosing GEO help for a new company, our published startup comparison includes Citant and Embarque as candidates to examine. The source snapshot read on 29 October 2026 records 4/8 Yes cells for [Citant](https://broadcastwell.com/best-geo-agencies-for-startups#citant) and 4/8 for [Embarque](https://broadcastwell.com/best-geo-agencies-for-startups#embarque). Their equal totals hide different evidence: Citant has an Open data Yes and a B2B cases No, while Embarque has those two statuses reversed."
+        ],
+        "figure:382f39c45dc3a45a4be296ed776c9ebc7d2ec43b8c039eb18e83f7df999dd399": [
+          "If you are choosing GEO help for a new company, our published startup comparison includes Citant and Embarque as candidates to examine. The source snapshot read on 29 October 2026 records 4/8 Yes cells for [Citant](https://broadcastwell.com/best-geo-agencies-for-startups#citant) and 4/8 for [Embarque](https://broadcastwell.com/best-geo-agencies-for-startups#embarque). Their equal totals hide different evidence: Citant has an Open data Yes and a B2B cases No, while Embarque has those two statuses reversed."
+        ]
+      },
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The conditional new-company buyer situation leads before the two agency records and their counts.",
+      "writing_review_sha256": "470751a8e6bd4e74271375e7189f225d04b764d33916391769e0c0c7402f65be"
+    },
+    "answers/fixes/what-do-ai-crawlers-do-and-how-can-site-owners-control-access.md": {
+      "bank_id": "LB-Q0132",
+      "source_sha256": "77e3dc1d41d5db03d53284d2d7b10ff0f700eb30b3cce4de7f2be449e7975cca",
+      "canonical_source_sha256": "77e3dc1d41d5db03d53284d2d7b10ff0f700eb30b3cce4de7f2be449e7975cca",
+      "opening_sha256": "8e07ba3228e755396a67f3abb152756a788ce33f032de1fb3467e89705e0aea1",
+      "lead_figures": [
+        "figure:40b18c75e140d30cc475549e0e6bc6dcd76de9992553b3475459a99b2f5fe673"
+      ],
+      "lead_figure_spans": {
+        "figure:40b18c75e140d30cc475549e0e6bc6dcd76de9992553b3475459a99b2f5fe673": [
+          "On our 29 October 2026 read, OpenAI and Anthropic document different web robots for search, training and user-directed retrieval. Choose the rule for the job you mean to permit or block. Our Agent Gap study reached the endpoint in 67 of 70 initial description tasks on 6 October 2026; those website tasks did not identify a crawler or test the effect of a robots rule."
+        ]
+      },
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4",
+      "opening_shape": "date_first",
+      "classification_reason": "The29Octoberprimary-document read leads before robot purposes and the separately dated67/70task outcome.",
+      "writing_review_sha256": "470751a8e6bd4e74271375e7189f225d04b764d33916391769e0c0c7402f65be"
+    },
+    "answers/buying/which-agencies-document-work-across-ai-answer-engines.md": {
+      "bank_id": "LB-Q0010",
+      "source_sha256": "58ccb34445b086f2eb0210f709caead17648417c42df00efb095e6f7e62d25b3",
+      "canonical_source_sha256": "58ccb34445b086f2eb0210f709caead17648417c42df00efb095e6f7e62d25b3",
+      "opening_sha256": "09fd5281514198346d48d31a61d22183b83633df862f30fe862f77aba02da7bd",
+      "lead_figures": [
+        "figure:6516d979c519c14b7b75f2f69a7e35336c6fac325119f4b5b7640030f430eb47"
+      ],
+      "lead_figure_spans": {
+        "figure:6516d979c519c14b7b75f2f69a7e35336c6fac325119f4b5b7640030f430eb47": [
+          "Our [Go Fish Digital comparison record](https://broadcastwell.com/best-geo-agencies#go-fish-digital) documents a named GEO service and an Engines Yes, with 3/8 Yes cells in the saved page we read on 29 October 2026. Its engine list, rechecked on 28 October, names Google AI Overviews, Google AI Mode, ChatGPT and Bing Copilot. That makes it a documented example to inspect, rather than proof of successful work on every AI engine."
+        ]
+      },
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4",
+      "opening_shape": "source_first",
+      "classification_reason": "The subject is the named published Go Fish Digital comparison record, rather than a provider achievement or a count alone.",
+      "writing_review_sha256": "23fa7647eb8ba0df9f6b8ae3c9ac1978d0558628cf1207aca103e18b5958c04d"
+    },
+    "answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md": {
+      "bank_id": "LB-Q0467",
+      "source_sha256": "88c019d27982c6869586069afb26a1c2de09e18740721dd5153b24404bd52362",
+      "canonical_source_sha256": "88c019d27982c6869586069afb26a1c2de09e18740721dd5153b24404bd52362",
+      "opening_sha256": "0a7e93b2f9a3b3653b1aed3630fdee711db24546204a604fd7e61d344ae51133",
+      "lead_figures": [
+        "figure:4931f9f723b247e50ecf6b2caa0871e1a7f29f58d32f2ae39ac36286e3f52304"
+      ],
+      "lead_figure_spans": {
+        "figure:4931f9f723b247e50ecf6b2caa0871e1a7f29f58d32f2ae39ac36286e3f52304": [
+          "If you have an AI answer with a disputed fact, check the exact statement against the vendor's dated evidence before deciding what needs correction. Wrong About You classified 2 of Procore's 57 extracted statements as wrong: the underlying answers were captured on 22 September 2026 and the vendor's pages read on 8 October. Both flagged records still show team review in progress; they are evidence to inspect, not a claim that a correction has already been completed."
+        ]
+      },
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader holding one disputed fact leads, then the actual2/57Procoreclassification and review state.",
+      "writing_review_sha256": "23fa7647eb8ba0df9f6b8ae3c9ac1978d0558628cf1207aca103e18b5958c04d"
+    },
+    "answers/geo-basics/what-are-alternatives-to-go-fish-digital-for-geo.md": {
+      "bank_id": "LB-Q0039",
+      "source_sha256": "c08eb9b9119e92b6b4fe5af008711a2ddde345521dbee9c0f40671db0c95be81",
+      "canonical_source_sha256": "c08eb9b9119e92b6b4fe5af008711a2ddde345521dbee9c0f40671db0c95be81",
+      "opening_sha256": "a31141b229afa30fedb2c01d135b3247f75ccdf82e607b6e6197837d824025b5",
+      "lead_figures": [
+        "figure:6516d979c519c14b7b75f2f69a7e35336c6fac325119f4b5b7640030f430eb47",
+        "figure:fb26a97bd94722142a936a3e5ab5290bd8b8464e6279ed3e02aab51ca033e77b"
+      ],
+      "lead_figure_spans": {
+        "figure:6516d979c519c14b7b75f2f69a7e35336c6fac325119f4b5b7640030f430eb47": [
+          "On the 29 October 2026 read of our agency comparison, [Minuttia](https://broadcastwell.com/best-geo-agencies#minuttia) is an alternative to examine alongside [Go Fish Digital](https://broadcastwell.com/best-geo-agencies#go-fish-digital): each record has 3/8 Yes cells. Their marked prices, refund terms and engine lists were last rechecked on 28 October. You can compare the published evidence without treating equal totals as evidence of equal services."
+        ],
+        "figure:fb26a97bd94722142a936a3e5ab5290bd8b8464e6279ed3e02aab51ca033e77b": [
+          "On the 29 October 2026 read of our agency comparison, [Minuttia](https://broadcastwell.com/best-geo-agencies#minuttia) is an alternative to examine alongside [Go Fish Digital](https://broadcastwell.com/best-geo-agencies#go-fish-digital): each record has 3/8 Yes cells. Their marked prices, refund terms and engine lists were last rechecked on 28 October. You can compare the published evidence without treating equal totals as evidence of equal services."
+        ]
+      },
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4",
+      "opening_shape": "date_first",
+      "classification_reason": "The actual29Octoberread date frames the comparison before the two named agency records and their equal counts.",
+      "writing_review_sha256": "23fa7647eb8ba0df9f6b8ae3c9ac1978d0558628cf1207aca103e18b5958c04d"
+    },
+    "answers/google-ai/how-do-i-get-a-google-ai-overview.md": {
+      "bank_id": "LB-Q0293",
+      "source_sha256": "40407cf03e7e66c0c4993d6807ae267b3c6c9363aed984d9f0464b2b4a80505a",
+      "canonical_source_sha256": "40407cf03e7e66c0c4993d6807ae267b3c6c9363aed984d9f0464b2b4a80505a",
+      "opening_sha256": "8785db2f991ce308badceb95d334a57a56eee1f1f30af7b96df76181e80064a1",
+      "lead_figures": [
+        "figure:a2f82914d1694637aa79b49ac50027a610bd294e13d89055e801046f49a33b26"
+      ],
+      "lead_figure_spans": {
+        "figure:a2f82914d1694637aa79b49ac50027a610bd294e13d89055e801046f49a33b26": [
+          "On 4 August 2026, 22 of our 280 main Google searches returned no AI Overview. You cannot make an Overview appear for every query. If you mean getting your own page included as a source, Google's published guidance requires the page to be indexed and eligible to show a snippet; it does not offer a separate guaranteed inclusion route."
+        ]
+      },
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4",
+      "opening_shape": "date_first",
+      "classification_reason": "The4Augustcapturedate introduces the22/280no-Overview result before eligibility guidance.",
+      "writing_review_sha256": "23fa7647eb8ba0df9f6b8ae3c9ac1978d0558628cf1207aca103e18b5958c04d"
+    },
+    "answers/measurement/what-does-hotwire-gaio-tech-publish-about-data-accuracy.md": {
+      "bank_id": "LB-Q0023",
+      "source_sha256": "558123742c249706102bfa05808e566baf15768bffa428cbd6601cf2e55b74bf",
+      "canonical_source_sha256": "558123742c249706102bfa05808e566baf15768bffa428cbd6601cf2e55b74bf",
+      "opening_sha256": "1a9bcd43d58cfdae33e7fec50f5d37a24bc60423194c776de01af8ef4706bb3a",
+      "lead_figures": [
+        "figure:5243720b6211ee67048d838fa0ddffc4b7db31d6459130be9b10ef16f0442d0b"
+      ],
+      "lead_figure_spans": {
+        "figure:5243720b6211ee67048d838fa0ddffc4b7db31d6459130be9b10ef16f0442d0b": [
+          "Hotwire's GAIO.tech launch announcement and its later Spark announcement describe answer visibility and source information; the two pages we read on 29 October 2026 do not supply a claim-by-claim accuracy result. Our own Wrong About You study classified 1,924 of 2,922 extracted statements as true, using answers from 22 September 2026 and 23 September 2026, with the vendors' published facts inspected on 8 October 2026. That is an example of a defined classification, not an accuracy score for Hotwire's product."
+        ]
+      },
+      "source_review_sha256": "27ab83a1ec050955a65ec295af7d8c9f9755cb6f0e9773ccc31bed7e53343d1a",
+      "opening_shape": "source_first",
+      "classification_reason": "The two named Hotwireannouncement sources are the subject of the initial clause; the bounded published-content finding precedes the independentclassificationfigure.",
+      "writing_review_sha256": "b93ae72fca37a73fe7e6338a5823f1bc86bf32a3b15aaf9bb29ae946d8c84e4f"
+    },
+    "answers/industries/does-housecall-pro-provide-field-service-management-software-for-home.md": {
+      "bank_id": "LB-Q0038",
+      "source_sha256": "2808978884b8e216e6dec7477d2e5da22b04663faf398c78bfeefdd52e5d9d10",
+      "canonical_source_sha256": "2808978884b8e216e6dec7477d2e5da22b04663faf398c78bfeefdd52e5d9d10",
+      "opening_sha256": "8df3190dd7bf9181737bbbd1d2df276c725eb85e768abb2f1bc6b8eaf95df0e2",
+      "lead_figures": [
+        "figure:bbb25a7b71b2256f9e21bb9a956c6ac6a7fb928676c9e4335f26ed593ff45460"
+      ],
+      "lead_figure_spans": {
+        "figure:bbb25a7b71b2256f9e21bb9a956c6ac6a7fb928676c9e4335f26ed593ff45460": [
+          "Yes, as a statement about its published feature labels: Housecall Pro's homepage read on 8 October 2026 advertised scheduling, team dispatch, invoices and payments. In the separate field-service capture of 22 September 2026, Google AI Overview answers included Housecall Pro 22 times, with 30 valid answers as the base. The labels answer what the vendor advertised; the Overview count measures how often its name appeared, not whether those features worked."
+        ]
+      },
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4",
+      "opening_shape": "yes_no",
+      "classification_reason": "The answer explicitly begins Yes, narrowly qualified to actual vendoradvertisedfeaturelabels rather than testedfunctionality, before the dated22/30namingcut.",
+      "writing_review_sha256": "c6ea3451f5e1664ec054c3e63c05534348351b6aaf4b8f5ee4f6bdc0bb0d71b0"
+    },
+    "answers/agents/can-construction-software-integrate-with-chatgpt.md": {
+      "bank_id": "LB-Q0337",
+      "source_sha256": "6c1a47cbce8b36465f1a46a2f9f6b57277986808df12eba3ec08dee272d356a0",
+      "canonical_source_sha256": "6c1a47cbce8b36465f1a46a2f9f6b57277986808df12eba3ec08dee272d356a0",
+      "opening_sha256": "5d7ddd046c1a97699ca96b1b9b0ed50f523e4de6b8f1e4360f0af5e943e8ba1c",
+      "lead_figures": [
+        "figure:c1b3befa6ef8cb9cbaa8488726397862b5734acb5ba661bbd6c1ac970dcc043a"
+      ],
+      "lead_figure_spans": {
+        "figure:c1b3befa6ef8cb9cbaa8488726397862b5734acb5ba661bbd6c1ac970dcc043a": [
+          "If you want construction records available to ChatGPT, Zapier documents one route connecting Procore actions with an AI client; that is a reported integration option, not a Procore-native ChatGPT feature we tested. In Agent Gap on 6 October 2026, all 15 initial construction website tasks reached their stated endpoint. Those public-site tasks did not connect a project account or establish access to its records."
+        ]
+      },
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The construction reader wanting project records available to ChatGPT leads, with the reported route and actual15/15website-taskresult following.",
+      "writing_review_sha256": "3a0d37f2a4d6f2280a7681c87105a941288a900186a28a41064f2c7f5824d1ad"
+    },
+    "answers/agents/can-crm-software-integrate-with-chatgpt.md": {
+      "bank_id": "LB-Q0346",
+      "source_sha256": "7cc840085390efa64535b5658ebf6b923a933d392fe316819aa8bb1e8ed8ddb8",
+      "canonical_source_sha256": "7cc840085390efa64535b5658ebf6b923a933d392fe316819aa8bb1e8ed8ddb8",
+      "opening_sha256": "26892d4ff467e24a3339a03ea2c9966f18b99b78751355a0151a8220e8b98453",
+      "lead_figures": [
+        "figure:daf72cd4b22d82a2df7dc779c91036c6ff279cc2638adee1c4d95524bdc6397a"
+      ],
+      "lead_figure_spans": {
+        "figure:daf72cd4b22d82a2df7dc779c91036c6ff279cc2638adee1c4d95524bdc6397a": [
+          "On the 29 October 2026 read, HubSpot's connector guide documents a way to use CRM context in ChatGPT, subject to account access and permissions. That is a concrete yes example for CRM integration, rather than a claim that every CRM connects. Agent Gap reached 13 of 15 initial CRM website-task endpoints on 6 October 2026; none of those tasks tested an authenticated CRM connection."
+        ]
+      },
+      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4",
+      "opening_shape": "date_first",
+      "classification_reason": "The29Octoberread date frames the actual HubSpotconnectorguide before permissions and the separate6October13/15taskresult.",
+      "writing_review_sha256": "3a0d37f2a4d6f2280a7681c87105a941288a900186a28a41064f2c7f5824d1ad"
     }
   },
   "index_question_titles": {

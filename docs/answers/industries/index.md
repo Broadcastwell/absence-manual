@@ -5,7 +5,7 @@ description: Absences and cited sources in each of the fourteen measured softwar
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T01:38:25+00:00'
-date_modified: '2026-10-29T02:24:55+00:00'
+date_modified: '2026-10-29T16:36:11+00:00'
 library_hub: true
 library_owner: Ananya Rao, AI Engineer
 library_order: 8
@@ -15,7 +15,7 @@ library_order: 8
 
 Absences and cited sources in each of the fourteen measured software categories.
 
-These 28 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 30 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Construction absence checks
 
@@ -170,6 +170,18 @@ ClienTrax, Onward Vet and VetlinkPRO had no names in 149 valid veterinary-softwa
 [Which sources do AI answers cite for veterinary software?](which-sources-do-ai-answers-cite-for-veterinary-software.md)
 
 Veterinary-software answers captured 22 September 2026 cited capterra.com in 61 of 149 and digitail.com in 52, pooled across five engines.
+
+## Property management
+
+[What do AI answers say about property management software?](what-do-ai-answers-say-about-property-management-software.md)
+
+Buildium was named in 119 of 148 property-software answers on 22 September 2026; engine bases and buyer contexts explain the scope.
+
+## Field service features
+
+[Does Housecall Pro provide field service management software for home service businesses covering scheduling, dispatching, invoicing, and payment collection?](does-housecall-pro-provide-field-service-management-software-for-home.md)
+
+Housecall Pro advertised the named features on the page read 8 October. Its 22-of-30 Overview naming count is context, not a functionality test.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

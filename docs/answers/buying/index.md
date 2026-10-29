@@ -5,7 +5,7 @@ description: Scope, acceptance evidence and questions to ask before agreeing to 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T02:24:55+00:00'
+date_modified: '2026-10-29T16:21:09+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 7
@@ -15,7 +15,7 @@ library_order: 7
 
 Scope, acceptance evidence and questions to ask before agreeing to work.
 
-These 15 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 17 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Delivery choices
 
@@ -106,6 +106,18 @@ Keep evidence gaps explicit: 880 of 2,922 statements were unverifiable in Wrong 
 [How can I check a GEO vendor's published measurement method?](how-can-i-check-a-geo-vendor-s-published-measurement-method.md)
 
 Reconstruct one figure from the method: Dentrix had 120 naming observations in 149 valid answers after one exclusion.
+
+## Agency selection
+
+[Which GEO agencies serve new companies?](which-geo-agencies-serve-new-companies.md)
+
+Citant and Embarque each have four Yes cells out of eight in our dated startup comparison; inspect the different evidence behind those equal totals.
+
+## Agency evidence
+
+[Which agencies document work across AI answer engines?](which-agencies-document-work-across-ai-answer-engines.md)
+
+Our published comparison records Go Fish Digital at three Yes cells out of eight, including Engines; inspect the stated surfaces and the method limit.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

@@ -5,7 +5,7 @@ description: AI Overviews, AI Mode, their different answers and the bases needed
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T23:36:56+00:00'
-date_modified: '2026-10-29T02:24:55+00:00'
+date_modified: '2026-10-29T16:21:09+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 5
@@ -15,7 +15,7 @@ library_order: 5
 
 AI Overviews, AI Mode, their different answers and the bases needed to compare them.
 
-These 12 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 14 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Google surfaces
 
@@ -74,6 +74,18 @@ AI Mode named Mews in 8 of 30 hotel software answers captured 22 September 2026,
 [Which veterinary software does Google AI Mode name?](which-veterinary-software-does-google-ai-mode-name.md)
 
 Google AI Mode named ezyVet in 24 of 30 veterinary answers captured 22 September 2026. The IDEXX checked label appeared in 22; naming is not a capability test.
+
+## Tracking surfaces
+
+[Which software tracks brand rankings in Google AI Overviews and Bing Copilot?](which-software-tracks-brand-rankings-in-google-ai-overviews-and-bing-c.md)
+
+seoClarity lists Google AI Overviews and Microsoft Copilot; our dated Google example records 22 Housecall Pro names in 30 answers, without measuring Copilot.
+
+## Overview eligibility
+
+[How do I get a Google AI Overview?](how-do-i-get-a-google-ai-overview.md)
+
+Google does not show an Overview for every search: our 4 August panel had 22 no-Overview results in 280 main searches. Source eligibility is a separate check.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

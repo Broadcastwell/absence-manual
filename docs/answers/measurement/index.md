@@ -5,7 +5,7 @@ description: Counts, citations, repeat runs and the evidence needed to compare r
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-29T02:24:55+00:00'
+date_modified: '2026-10-29T16:36:11+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 6
@@ -15,7 +15,7 @@ library_order: 6
 
 Counts, citations, repeat runs and the evidence needed to compare reports.
 
-These 15 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 18 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Questions
 
@@ -100,6 +100,22 @@ Check the exact passage. Procore's dated pricing-page claim was one of 113 state
 [What does a recorded AI referral establish?](what-does-a-recorded-ai-referral-establish.md)
 
 A recorded AI referral is a visit classification, not an answer count or sale. Housecall Pro’s 108/150 names and 43/150 citations were answer observations.
+
+## Checking tools
+
+[Which AI visibility tools can a buyer verify?](which-ai-visibility-tools-can-a-buyer-verify.md)
+
+Check Profound and seoClarity against answer receipts: Jobber was named in 50 of 150 answers and its domain cited in 46 on 22 September 2026.
+
+[How can I evaluate Hotwire GAIO.tech as an AI visibility product?](how-can-i-evaluate-hotwire-gaio-tech-as-an-ai-visibility-product.md)
+
+Start with the GAIO.tech-to-Spark name change; our Jobber example separates 50 naming from 46 own-domain citation answers, base 150.
+
+## Tool accuracy evidence
+
+[What does Hotwire GAIO.tech publish about data accuracy?](what-does-hotwire-gaio-tech-publish-about-data-accuracy.md)
+
+Two Hotwire announcements describe GAIO.tech, later Spark. We distinguish those product claims from our measured statement classifications.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

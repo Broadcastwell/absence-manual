@@ -5,7 +5,7 @@ description: Source facts, readable pages and changes that can be checked after 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T02:24:55+00:00'
+date_modified: '2026-10-29T16:21:09+00:00'
 library_hub: true
 library_owner: Rohan Iyer, AI Engineer
 library_order: 9
@@ -15,7 +15,7 @@ library_order: 9
 
 Source facts, readable pages and changes that can be checked after publication.
 
-These 15 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 17 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Official company facts
 
@@ -106,6 +106,18 @@ Put dated support beside the exact claim. Wrong About You left 880 of 2,922 stat
 [How should I audit third-party sources before requesting a correction?](how-should-i-audit-third-party-sources-before-requesting-a-correction.md)
 
 Read the exact third-party claim against dated primary evidence. Wrong About You found 118 wrong or stale statements among 2,922, with 880 unresolved.
+
+## Content changes
+
+[Which AI visibility tools also complete content changes?](which-ai-visibility-tools-also-complete-content-changes.md)
+
+Profound describes page-update and creation paths; Agent Gap reached the endpoint in 67 of 70 description tasks, without testing publication.
+
+## Crawler controls
+
+[What do AI crawlers do, and how can site owners control access?](what-do-ai-crawlers-do-and-how-can-site-owners-control-access.md)
+
+Search, training and user retrieval use different bot controls. Agent Gap reached 67 of 70 description-task endpoints, without measuring any crawler rule.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

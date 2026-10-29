@@ -5,7 +5,7 @@ description: Software category observations from Claude, with the questions and 
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T01:38:25+00:00'
-date_modified: '2026-10-29T02:24:55+00:00'
+date_modified: '2026-10-29T15:32:43+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 3
@@ -15,7 +15,7 @@ library_order: 3
 
 Software category observations from Claude, with the questions and answer bases attached.
 
-These 10 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 12 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Construction buyer context
 
@@ -76,6 +76,18 @@ Claude named nCino in 21 of 30 loan-origination answers captured 22 September 20
 [Which project management software does Claude recommend?](which-project-management-software-does-claude-recommend.md)
 
 ClickUp and Wrike each appeared in 18 of 30 Claude project-management answers captured 22 September 2026. The tied total does not choose a tool for your team.
+
+## Crawler controls
+
+[Does Anthropic crawl data from the web, and how can site owners block the crawler?](does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md)
+
+Anthropic documents three separate web robots; Claude named Buildertrend in 21 of 30 construction answers captured on 22 September 2026.
+
+## Web search
+
+[How does Claude web search work?](how-does-claude-web-search-work.md)
+
+Claude web search retrieves web material and cites sources when used; Procore was named in 21 of 30 construction answers on 22 September 2026.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
