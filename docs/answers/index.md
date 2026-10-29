@@ -1,23 +1,27 @@
 ---
 title: AI visibility answers
 headline: Answers to AI visibility questions
-description: 50 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and
+description: 100 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and
   source corrections.
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-28T22:22:47+00:00'
+date_modified: '2026-10-29T00:22:46+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 ---
 
 # Answers to AI visibility questions
 
-Start with the question you need to answer. These 50 pages use Broadcastwell's published observations and link to the records behind their figures. The dates and bases matter: a named vendor, a cited page and a buyer's decision are different events.
+Start with the question you need to answer. These 100 pages use Broadcastwell's published observations and link to the records behind their figures. The dates and bases matter: a named vendor, a cited page and a buyer's decision are different events.
 
 ## Browse the library
 
 - [GEO basics](geo-basics/index.md): Definitions, question sets and the difference between being cited and being chosen.
+
+- [ChatGPT](chatgpt/index.md): Dated software naming counts, category shortlists and the limits of a mention.
+
+- [Google AI](google-ai/index.md): AI Overviews, AI Mode, their different answers and the bases needed to compare them.
 
 - [Measurement](measurement/index.md): Counts, citations, repeat runs and the evidence needed to compare reports.
 

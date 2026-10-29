@@ -342,7 +342,13 @@ def validate_answer(path, docs):
                 errors.append("broken internal anchor: " + href)
     if "/vendors/" in body and "Claiming or correcting a vendor record is free and never depends on a purchase." not in body:
         errors.append("vendor record requires the free correction sentence")
-    if not re.search(r"https://(?:index\.broadcastwell\.com/|broadcastwell\.com/research/|doi\.org/10\.)", body):
+    standard_evidence = re.search(r"https://(?:index\.broadcastwell\.com/|broadcastwell\.com/research/|doi\.org/10\.)", body)
+    approved_gsc_evidence = (
+        meta.get("evidence_kind") == "search-console-export"
+        and meta.get("is_based_on") == GSC_SUMMARY_URL
+        and GSC_SUMMARY_URL in markdown_links(body)
+    )
+    if not (standard_evidence or approved_gsc_evidence):
         errors.append("missing published evidence link")
     return [rel + ": " + error for error in errors]
 
