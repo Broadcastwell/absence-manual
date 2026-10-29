@@ -34,6 +34,10 @@ jobs:
           python tools/verify_answers.py --check-external --receipt answer-link-check.json
       - name: Build site
         run: mkdocs build
+      - name: Verify whole-library similarity, openings, lead facts and uniqueness
+        run: |
+          python -m unittest discover -s tests -p 'test_library_quality.py'
+          python tools/library_quality.py --report library-quality-report.json
       - name: Build the ungated PDF mirror from the same source
         run: python tools/build_pdf.py
       - name: Verify the build is ungated and crawlable
