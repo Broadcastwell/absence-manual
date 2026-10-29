@@ -296,6 +296,14 @@ class SourceMethodRuleTests(unittest.TestCase):
                          ("from1,000", "from 1,000"),("The92", "The 92"),("from26", "from 26"),("to25", "to 25"),
                          ("October2026", "October 2026"),("is27", "is 27"),("least12", "least 12")):
             fixture.body=fixture.body.replace(old,new)
+        # A GSC-only page must pass without an unrelated research link masking
+        # the approved aggregate URL at the final published-evidence guard.
+        fixture.body = fixture.body.replace(
+            "[Source DOI](https://doi.org/10.5281/zenodo.22907695).",
+            "[Aggregate record](" + GSC_SUMMARY_URL + ").")
+        fixture.body = fixture.body.replace(
+            "[Published Index](https://index.broadcastwell.com/).",
+            "[Google metric definitions](https://support.google.com/webmasters/answer/7042828).")
         asset=fixture.docs/GSC_SUMMARY_PATH;asset.parent.mkdir(parents=True,exist_ok=True)
         asset.write_text(json.dumps(GSC_EXPECTED_SUMMARY),encoding="utf8")
         fixture.write()
@@ -316,6 +324,7 @@ class SourceMethodRuleTests(unittest.TestCase):
 
     def test_approved_aggregate_passes_without_relaxing_default_doi_rules(self):
         self.make_gsc()
+        self.assertNotRegex(self.fixture.body, r"https://(?:index\.broadcastwell\.com/|broadcastwell\.com/research/|doi\.org/)")
         self.assertEqual(self.errors(),"")
         self.fixture.meta.pop("evidence_kind")
         self.fixture.write()

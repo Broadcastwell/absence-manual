@@ -5,3 +5,14 @@ nav:
 - how-should-a-comparison-page-handle-unknown-product-features.md
 - how-should-i-request-an-ai-fact-correction-with-a-source-receipt.md
 - how-should-a-page-distinguish-native-features-from-integrations.md
+- what-should-i-include-in-an-llms-txt-file.md
+- how-can-i-generate-llms-txt-from-existing-pages.md
+- how-should-i-check-an-llms-txt-file.md
+- is-llms-txt-required-for-ai-search-visibility.md
+- what-does-publishing-llms-txt-prove-about-ai-visibility.md
+- how-should-i-use-robots-txt-to-control-ai-crawler-access.md
+- how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md
+- how-should-i-structure-headings-for-ai-crawlers.md
+- how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md
+- how-should-an-answer-page-link-each-claim-to-evidence.md
+- how-should-i-audit-third-party-sources-before-requesting-a-correction.md
