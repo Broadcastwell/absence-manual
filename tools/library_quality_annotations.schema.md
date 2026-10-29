@@ -9,7 +9,8 @@ Top-level fields are `schema_version:1`, `shape_definitions`, `cluster_plans`, `
 Each page key is its source path relative to `docs`, such as `answers/measurement/example.md`. Its record contains:
 
 - `bank_id`: the same LB-Q receipt ID as the page metadata.
-- `source_sha256`: the exact file-byte hash.
+- `source_sha256`: the exact historical review file-byte hash, retained as a receipt. CRLF packaging can differ between Windows and Linux.
+- `canonical_source_sha256`: the portable full-source content hash, with only UTF-8 BOM removal and CRLF/lone CR normalized to LF. CI validates this binding; changes to prose, metadata or other source content fail.
 - `opening_sha256`: the UTF-8 hash of the answer paragraph extracted by `paragraph_after_heading`, with CRLF and lone CR normalized to LF and outer whitespace trimmed, before prose normalization. This matches the independent readers' text extraction; file-byte hashes remain exact.
 - `opening_shape` and `classification_reason`: the independent writing review's actual classification and reason.
 - `writing_review_sha256`: the saved independent review receipt hash.

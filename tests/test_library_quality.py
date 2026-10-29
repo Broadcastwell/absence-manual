@@ -14,14 +14,14 @@ ROOT = Path(__file__).resolve().parents[1]
 def page(name, text='', shape='figure_first'):
     return {'path':name,'cluster':'measurement','meta':{'title':name+' question',
         'headline':name+' question','description':name+' distinct description'},
-        'body':text,'opening':text,'source_sha256':'a'*64,'opening_sha256':'b'*64,
+        'body':text,'opening':text,'source_sha256':'a'*64,'canonical_source_sha256':'a'*64,'opening_sha256':'b'*64,
         'six':q.sequences(q.words(text),6),'eight':q.sequences(q.words(text),8),
         'quality_annotation':{'opening_shape':shape,'lead_figures':['one']}}
 
 
 def baseline_fixture():
     pages = {f'answers/measurement/fictional-{i}.md':page(f'fictional-{i}') for i in range(150)}
-    snapshot = {name:{'source_sha256':p['source_sha256'],'opening_sha256':p['opening_sha256'],
+    snapshot = {name:{'source_sha256':p['source_sha256'],'canonical_source_sha256':p['canonical_source_sha256'],'opening_sha256':p['opening_sha256'],
         'opening_shape':'figure_first','lead_figures':['one']} for name,p in pages.items()}
     baseline = {'schema_version':1,'frozen_pages':snapshot,'exceptions':{}}
     trusted = {'snapshot_sha256':q.digest(q.canonical_json(snapshot).encode()),
@@ -84,6 +84,10 @@ class QualityRuleTests(unittest.TestCase):
         self.assertEqual(a['opening'],b['opening'])
         self.assertEqual(a['opening_sha256'],b['opening_sha256'])
         self.assertNotEqual(a['source_sha256'],b['source_sha256'])
+        self.assertEqual(a['canonical_source_sha256'],b['canonical_source_sha256'])
+        (folder/'crlf.md').write_bytes(text.replace('3 of 10','4 of 10').replace('\n','\r\n').encode())
+        changed=q.load_pages(self.docs)['answers/measurement/crlf.md']
+        self.assertNotEqual(a['canonical_source_sha256'],changed['canonical_source_sha256'])
 
     def test_only_named_fixed_blocks_and_link_labels_are_excluded(self):
         prose='# Question\n\nUnique evidence stays. [Common label](https://example.test/)\n\n## What we measured\n\nA specific source fact remains.\n\n'+q.LIMIT_SENTENCE+'\n\n## Next step\n\nFixed purchase text.\nPrepared by the Broadcastwell team.'
@@ -142,6 +146,7 @@ class QualityRuleTests(unittest.TestCase):
         new=q.fact('eight_word_opening',[a,'new'],shared_sequences=row['shared_sequences'])
         self.assertEqual(q.apply_baseline({'violations':[new]},pages,baseline,trusted)[0],[new])
         pages[a]['source_sha256']='c'*64
+        pages[a]['canonical_source_sha256']='c'*64
         with self.assertRaisesRegex(ValueError,'frozen baseline page changed'):
             q.apply_baseline({'violations':[row]},pages,baseline,trusted)
 
@@ -221,7 +226,7 @@ class QualityRuleTests(unittest.TestCase):
         p['meta']['demand_evidence']='LB-Q9000, fictional validation receipt'
         record={'source_url':'https://doi.org/10.5281/zenodo.12345','record':{'metric':'named','subject':'vendor-a'},'count':'3','base':'10','unit':'answers','label':'Fictional test observation','source_review_sha256':'a'*64}
         fid=q.figure_key(record)
-        note={'bank_id':'LB-Q9000','source_sha256':p['source_sha256'],'opening_sha256':p['opening_sha256'],
+        note={'bank_id':'LB-Q9000','source_sha256':p['source_sha256'],'canonical_source_sha256':p['canonical_source_sha256'],'opening_sha256':p['opening_sha256'],
               'opening_shape':'shape0','classification_reason':'Fictional vendor subject leads.',
               'writing_review_sha256':'a'*64,'source_review_sha256':'a'*64,'lead_figures':[fid],
               'lead_figure_spans':{fid:['3 of 10']}}

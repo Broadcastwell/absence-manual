@@ -6,6 +6,7 @@
       "bank_id": "LB-Q0551",
       "cluster": "agents",
       "source_sha256": "445d4fa6e3b0983be89571db3484e0bf08465529a2cbc6be0225d001f1b4eff9",
+      "canonical_source_sha256": "b69203a601d743a1efc86e5332ea74a0ac4041014be3cdcb4e66fdbd37a5562c",
       "opening_sha256": "a55245dbffce09488a5f05bdedd33ffed24f5afb5b26bbcc7afdb2884cbc8ed6",
       "opening_shape": "yes_no",
       "lead_figures": [
@@ -20,6 +21,7 @@
       "bank_id": "LB-Q0554",
       "cluster": "agents",
       "source_sha256": "9d18241cd2aef589d0cab374f0a9a56149048cfd5f6f810e695df9999b4d90ad",
+      "canonical_source_sha256": "a68df40d124a06e7d69946fec4e11297ff4c2796d242ba190c00344c4e1b890a",
       "opening_sha256": "5c1b3769988b24ede4cfb92781a16956911631dde48e51b228794d0d21fdda35",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -30,6 +32,7 @@
       "bank_id": "LB-Q0553",
       "cluster": "agents",
       "source_sha256": "63f263fff824311b438a39ca0e49ada8c18034dbde5de499faaa5f42ebebc445",
+      "canonical_source_sha256": "778b2889ee7f593715b75ddf459b8ce72cdfef369a3bd05a2fd5475cc460a24d",
       "opening_sha256": "00c05756d1a9ff9aabac7c339d6616f985cc12fc06c06b8dd570c1e11dd9b35f",
       "opening_shape": "yes_no",
       "lead_figures": [
@@ -43,6 +46,7 @@
       "bank_id": "LB-Q0555",
       "cluster": "agents",
       "source_sha256": "828f718f71d104069ea538b80ce4e8bb04432b3fdd90ca7ffdcadd3d53fd4bb5",
+      "canonical_source_sha256": "18a8abd7a10a2b9a64050d3a833e6ca2a1359f79392358ebede4f86290d08d54",
       "opening_sha256": "9049041c011121f77da7a85ae4557589f6eca4ff61302fa8999aa46b2ded85b8",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -55,6 +59,7 @@
       "bank_id": "LB-Q0556",
       "cluster": "agents",
       "source_sha256": "e72108f22cfc3edd44b4f711543168816786e337fb4a000652132ebf0b7ada7b",
+      "canonical_source_sha256": "1889a57d1b9ac692130c62273d807868a9483e32150939429291b60db01730fc",
       "opening_sha256": "760fc50114565588f9d9dc0703167956dbd7785429599aa7623ca18e8378c300",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -66,6 +71,7 @@
       "bank_id": "LB-Q0552",
       "cluster": "agents",
       "source_sha256": "c7a07d19e76a2a99cdb3ad0b45e9b76b7c4092ad878ec1185212f0303d719f67",
+      "canonical_source_sha256": "4754e575464e9cdf09e5914e4f5a00eb65a79d1c491db08f915d353c7742519c",
       "opening_sha256": "63f93804420293a8e5504c2d27f55a94b88288d4c8d3ebc053e3f3391f538b52",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -77,6 +83,7 @@
       "bank_id": "LB-Q0550",
       "cluster": "agents",
       "source_sha256": "02a1660bb9e148dde5244b1ed35791d1d4b1839bc5d0f6b83efccf258db1d235",
+      "canonical_source_sha256": "6a19e07a9b7348b945726acd934b09a4f5b22fd407f4440d3e29d864c47fc850",
       "opening_sha256": "c1859d8fd3711d7395bb4e8a505d1da098e3263f84934d77ab2fbeac16ad44a2",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -89,6 +96,7 @@
       "bank_id": "LB-Q0623",
       "cluster": "buying",
       "source_sha256": "5629862bfd2f7d6efcc9c1a745120bfe5931ee6ca9f2dce2062959d699d708a9",
+      "canonical_source_sha256": "7d0a24b9e56babaa7bb5c0aca5a1eb7f002888eda2d368caa188d2c7dd571315",
       "opening_sha256": "680e20138459ed3b986452129374d52fc3b4143f3081f8f667acfc1ffa3d39cd",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -99,6 +107,7 @@
       "bank_id": "LB-Q0628",
       "cluster": "buying",
       "source_sha256": "1048bd187792d993bfe9a6399a46cd8ab46035d66bf701a55cd9328313b3e853",
+      "canonical_source_sha256": "d7ca1a412e30b2e751fa752c19bd895b54c71b6cce44c01d39de64f08a9b92a1",
       "opening_sha256": "18b5098f4f03efe874aafb6646de5015050afb3b21a76acc73decbfba901788c",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -111,6 +120,7 @@
       "bank_id": "LB-Q0632",
       "cluster": "buying",
       "source_sha256": "cd143b42dfa9d57b88fd1ec0b72838affe2da799386ae7dca803da873de3f60e",
+      "canonical_source_sha256": "344409bad9fa738600f133033f7d8d0e992429b7a5c412d5d2b8d02643276491",
       "opening_sha256": "c27ce22ab2dc2d511e107fd432ca5cfa760874907aaed7a6035e81eaa9ed425d",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -122,6 +132,7 @@
       "bank_id": "LB-Q0629",
       "cluster": "buying",
       "source_sha256": "4368a248675b7126760a440009a525c43193252a9c30159259d5356c7da5b126",
+      "canonical_source_sha256": "1b2ec8a98d5d1b437d0d3fdd5e55c25aac1b9d2136ab13da38df374dec740413",
       "opening_sha256": "3539a7dda091589ab7cbe6915313beccfcb47f3574dcead10178f89d16af1fe7",
       "opening_shape": "reader_situation",
       "lead_figures": [
@@ -132,6 +143,7 @@
       "bank_id": "LB-Q0625",
       "cluster": "buying",
       "source_sha256": "e1255a8d924759ded50767c096aa542e2183aae66d409610b5b6d52cabc874ce",
+      "canonical_source_sha256": "113a3b8b043871012fc03cb484b0a34e6a3f02f730953f1105ebbbbc36fe224d",
       "opening_sha256": "2e73224b921081767345cf8995be411f45b4136044bdf401e9c1814f82d027e3",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -143,6 +155,7 @@
       "bank_id": "LB-Q0620",
       "cluster": "buying",
       "source_sha256": "b69ba4c6ab631471243ad7e3b45be92612b71e9855999843c95902b4cd387269",
+      "canonical_source_sha256": "5852c19e01df692c386d757c73b0008878e986735eeffa1f5da30634a84c944d",
       "opening_sha256": "8f4d394a90c95a2b0d643c22628ca9b90501159d48c0ee9f038bb5ae07f95a30",
       "opening_shape": "context_contrast",
       "lead_figures": [
@@ -153,6 +166,7 @@
       "bank_id": "LB-Q0626",
       "cluster": "buying",
       "source_sha256": "9ee9cab62ee5ef2e8a1c13f6d8f3accec71815a6704ceaee417edd396c020676",
+      "canonical_source_sha256": "12dd87975d628a2104e1f92d614a1a90b3be225dd2f63cae2847016b7024453e",
       "opening_sha256": "60e79d3a4b305c1a11454357408e201b36a1adb3847acd90f0a6458c73a585b5",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -164,6 +178,7 @@
       "bank_id": "LB-Q0627",
       "cluster": "buying",
       "source_sha256": "b998b1ee5ed9d65c3d13cdebb8a75b56f1cfc51a82dccecfbd8d7a45586ce98a",
+      "canonical_source_sha256": "1f2b8355d22865a2a42dc5a336e9256fd4e4ce010a6037bf5c1e3ac9285b963d",
       "opening_sha256": "2cd2b3fee3da5a1027dbf80682043b37d3dff779c244dd40485318c99ab92240",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -176,6 +191,7 @@
       "bank_id": "LB-Q0621",
       "cluster": "buying",
       "source_sha256": "8fde402998c9c8715d6ab6a608404b4af828f242522dce1f8b2c17c960ab1ff9",
+      "canonical_source_sha256": "65309b87930c0e397a76ce14921d0752547f1838e9bf946e4afca2aae07d6d7c",
       "opening_sha256": "94b499aeddc14acc7b4b062cbee27abefd35822fb90a14918090717236eb7a9e",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -188,6 +204,7 @@
       "bank_id": "LB-Q0624",
       "cluster": "buying",
       "source_sha256": "24fae66036cea62c28ab4975bf923f24458b53a1f1a101b14b66b2ad3fdb83f9",
+      "canonical_source_sha256": "f60254fb6a164d181569f88e1f20acf92e43f30c330274764b5b2a0432c0544b",
       "opening_sha256": "e7a601e0386e86fd3c40da584c316febc670e20f9913a1aa9be2c7684e71df21",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -199,6 +216,7 @@
       "bank_id": "LB-Q0631",
       "cluster": "buying",
       "source_sha256": "ee336fd22978bd56db04d7a93c8e10f1fe2f113df241d10ce2d8ddf1b1a1e913",
+      "canonical_source_sha256": "bd718a7d7cd0caf6ad252b9414f49a5c68e8589d2579e772dffdd402d70ab3b3",
       "opening_sha256": "caefcdb22eeda0940a63598430813d8a08b2a71bbba7d27d9d60dbb9123362e2",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -211,6 +229,7 @@
       "bank_id": "LB-Q0630",
       "cluster": "buying",
       "source_sha256": "1d0a00655bcc7d840dd2974cb2b419cb37ece2634f852836e5d03e58beaca18e",
+      "canonical_source_sha256": "049bf525895b475bf69f327c3b43f4a1cc70b53a9449e69d430c8394c732a169",
       "opening_sha256": "0d70daeffe215f10e330c2acd66ddc82f1a0e6b646b9086d1800aa788e8b4975",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -222,6 +241,7 @@
       "bank_id": "LB-Q0634",
       "cluster": "buying",
       "source_sha256": "1124f407a476662c74dfd7e3ea2f9a3f58ce714c03a67e125cdf471030bc82b8",
+      "canonical_source_sha256": "ae331c0e41a97200a4e848b7e4866c29dca46e3a28f46c9668b886417689d795",
       "opening_sha256": "430124bb1b2c178d674a19c600f3585ea4eaeacb4e232e8df7a375ee6f44d233",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -234,6 +254,7 @@
       "bank_id": "LB-Q0622",
       "cluster": "buying",
       "source_sha256": "e692c7e0bd44e8de41750922a05dcde56ca59720f3656e7b1e961b50a8f644f9",
+      "canonical_source_sha256": "9c7b430cd90ed6614d3a6aa3c364e29641cfe6b2c8e6ae5bd231d1f386e0f64f",
       "opening_sha256": "77b25322b54911dfde3906f3819d41e54c8712d9623388d0e299afb93ed32424",
       "opening_shape": "reader_situation",
       "lead_figures": [
@@ -245,6 +266,7 @@
       "bank_id": "LB-Q0633",
       "cluster": "buying",
       "source_sha256": "a763a40ec3fbe9be75811d73cc08f6f3a85b74d770192254a75f1d3f08931e1f",
+      "canonical_source_sha256": "b6d8a72b4801f1fd86b337484aeaf5430946e2748929ec39bf6afda57f0a82d4",
       "opening_sha256": "7e62434727715d268be68bcfd2e2c5a3ebbe3b258e6d32d7b2b4ba8b51ac3de0",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -256,6 +278,7 @@
       "bank_id": "LB-Q0650",
       "cluster": "changes",
       "source_sha256": "a7fce099ac6d5a95958574e4e023cd125360d239a07bcf711be26d8998334efa",
+      "canonical_source_sha256": "a785e4ca34b81d1897c2eaab3f6fe541d131ef0313421b915bfc35eaf0aaecd7",
       "opening_sha256": "0e6471bcc156175a2e9791ff719a17630ad9051a459bd58704fa40ceddf606a7",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -266,6 +289,7 @@
       "bank_id": "LB-Q0654",
       "cluster": "changes",
       "source_sha256": "d4bd8cfb0c37a9e7df72dbafee88740ab770e58a06f0e9335f1b23d7b2c9cee2",
+      "canonical_source_sha256": "4e4669b66369dfda5e79c136abff93c9d2eafd3211d244e8a2d5dded09db4b6c",
       "opening_sha256": "65d2dba39c9fa6d250c25fb3a3f8b993429f5c7e7e9ed67efab7529800162e43",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -276,6 +300,7 @@
       "bank_id": "LB-Q0648",
       "cluster": "changes",
       "source_sha256": "28f86bc6207c0d5ad2c6b40ef3591b5bfe61d9a758273b1204afb173d3688ecb",
+      "canonical_source_sha256": "94c16142698118147b597b609e349e0c078a556139dee4837b508284ddc60dd4",
       "opening_sha256": "19b05f1b347d689a5952ab4135f2d48dd823b6c9ca53d5c840084885c1f0d8bc",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -286,6 +311,7 @@
       "bank_id": "LB-Q0649",
       "cluster": "changes",
       "source_sha256": "42fe33b4c5798a28bd84fe7fa5de41d46349bc0649acafc31c8fd06df01223d0",
+      "canonical_source_sha256": "24926f982ac1a9c5073f08d837145096e946e1666687ece45a33133d373f28ab",
       "opening_sha256": "4f4eaf12ff0cd4c6440175d5d77953f668b27ec226f2f8a5332a6b49f58a51a8",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -296,6 +322,7 @@
       "bank_id": "LB-Q0652",
       "cluster": "changes",
       "source_sha256": "e78e6861a45753c552b50ce154d632bf8514da189114e9ee8ef05accf82adb38",
+      "canonical_source_sha256": "0b4de64189a35e40a58e8a8159996e105f979ca6b557486891a08c7897cf5f2f",
       "opening_sha256": "ce5814b756041c7fc8712f21c023168966f42fe42df3c7bee5b73210b9100e1d",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -306,6 +333,7 @@
       "bank_id": "LB-Q0653",
       "cluster": "changes",
       "source_sha256": "ea24fa95fa939b1fc954d00e3bf79d7f4f38551452905f399c38b2fa6540a6b6",
+      "canonical_source_sha256": "4b589021a26e1b1e5b24e76ff9e83e66f7fbf98eaa829d5fee343482b729c61c",
       "opening_sha256": "16a22cf762a2cb91af6c1ae599e76f42ef9bff283ae89903ac43e2d75c594ce0",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -316,6 +344,7 @@
       "bank_id": "LB-Q0655",
       "cluster": "changes",
       "source_sha256": "09d7f5462476748c54ea71240cd5a595a57638b09014b11caf7453cd647bdea3",
+      "canonical_source_sha256": "3c3aff76e17fc8b2adb5e03a398f276e26cbcfeee825903154aa210747a4e9e1",
       "opening_sha256": "3fefcb717f3d8d50d9f80a2c5aa16aac675106b7b4365ccc5cffe002e3bb05e3",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -327,6 +356,7 @@
       "bank_id": "LB-Q0651",
       "cluster": "changes",
       "source_sha256": "acd24462f19704db6f3b2318c1081ebb0e22b4da2cc15314502142d37bf13da5",
+      "canonical_source_sha256": "f1574a26f70d64fa31abffd9d07793bdc62634e9958446455c02625acaf7f542",
       "opening_sha256": "5fe178cb2683b00097e774ec05f879a8cbe9532548a33280edb4aa6b1886c934",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -337,6 +367,7 @@
       "bank_id": "LB-Q0619",
       "cluster": "chatgpt",
       "source_sha256": "8787c9bd4634b5db60e1b748592e043d8f472ca301540ab046b4353188bf1087",
+      "canonical_source_sha256": "dc4b44b2da6229b10f442cb64ebfe77af27a0671e2b5ce9ba5ab41aff8aafd6c",
       "opening_sha256": "9de204d5220220cb9ce0a2f9e3399294c92f63fd5b8db203e72a051520b5a3fc",
       "opening_shape": "figure_first",
       "lead_figures": [
@@ -347,6 +378,7 @@
       "bank_id": "LB-Q0585",
       "cluster": "chatgpt",
       "source_sha256": "cbfe3d0c4cda28d9107d0252dba589c9a978fb60ea90d810e120cec7166f3986",
+      "canonical_source_sha256": "c3848da8e0e312d0862872ed2ec14681725018c3a9cd12a480b238dc92b0ac29",
       "opening_sha256": "4123e7e30b5b1b2dc2633bf97c348dffb49dd20e30c54f8ce6a31b05c471e45e",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -358,6 +390,7 @@
       "bank_id": "LB-Q0597",
       "cluster": "chatgpt",
       "source_sha256": "b0e23807f44e4dadcce3959718c123ae8084185e9e720ec324e6a2bc02146ac1",
+      "canonical_source_sha256": "ac50f4bff070f762b43ca716fca276341370635cdaa616d014461a4e8e6b39db",
       "opening_sha256": "b4a6a46367554ba3ab06465db40a47db0ad7ded99f20fdc3f15d5a2606eabcc3",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -370,6 +403,7 @@
       "bank_id": "LB-Q0586",
       "cluster": "chatgpt",
       "source_sha256": "d08af91bbfba42f30d306842bf3491ae291645c055eaa582c486a09cd180efb2",
+      "canonical_source_sha256": "b7396ac6fe44d9a9c5655b0db68eb7e81fb75f7da413b0e5db5ff52a4c23aae2",
       "opening_sha256": "2e0c8fd9fa1941f9b93eb28728e6bec7198f57601d73db3376c3fb3e17850bee",
       "opening_shape": "reader_situation",
       "lead_figures": [
@@ -384,6 +418,7 @@
       "bank_id": "LB-Q0587",
       "cluster": "chatgpt",
       "source_sha256": "c7175d96880dda87199c42d9053f5fd505c811eef6c13368690203d1b4de7b60",
+      "canonical_source_sha256": "6878473c5818031f1688d49912dddf7496cc52f08db41f76893ec920fdce686a",
       "opening_sha256": "e882aa8c23796480aacd1e4dbf235b4f44f22bfc2a36eb7ef6f9cbc3472a141e",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -396,6 +431,7 @@
       "bank_id": "LB-Q0588",
       "cluster": "chatgpt",
       "source_sha256": "65d74bd2545056abe46524fbb459dfbec4a3a66c4f6af7465668a22df3a0e561",
+      "canonical_source_sha256": "a4c8a567d0185617acd1d7126818a7aa0b97dff9ab1eddbeab3852d0448b68f9",
       "opening_sha256": "e22fd8a3678285969cd2ae0783269a0493b313af1f485c4b5919ff996b268e2e",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -409,6 +445,7 @@
       "bank_id": "LB-Q0589",
       "cluster": "chatgpt",
       "source_sha256": "d5f695b93b9b9e4f614344b06fdf861d8da4e00ea01ea9521297e1fecb0967e0",
+      "canonical_source_sha256": "6541dff2c7b513563ba43b865e1b5d4c56d8c643feaa88037ac60777eb7396c1",
       "opening_sha256": "9631eca1bfc9541c157644a6407696962843a50c5f4896b8a4123ce5f2141770",
       "opening_shape": "reader_situation",
       "lead_figures": [
@@ -423,6 +460,7 @@
       "bank_id": "LB-Q0590",
       "cluster": "chatgpt",
       "source_sha256": "561539b040bd5eb11f97c4eb93305e58c5802a32ed2d5f9adafe05dea6a0975a",
+      "canonical_source_sha256": "1bf448ef9834da6b7a030f4cf0bf5bdcc661befc78921fbd37ebcfffc86586fb",
       "opening_sha256": "4a051a14ed905a3aa0a425facf4d7022aa23392f973647e64f0c99ba1e46b3fe",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -435,6 +473,7 @@
       "bank_id": "LB-Q0591",
       "cluster": "chatgpt",
       "source_sha256": "36c6ed3ebed80077108417d0b93e1e53628cad4dfe168972cdebeeaa4591fdf9",
+      "canonical_source_sha256": "5fb20bce29e6555ff535ccd8ebea633e9d4f06875cf0c6d1c8f5d0aedde89f8a",
       "opening_sha256": "26164418bdeb30d10d92485834e33dd487631d6d6a36b31a92a3451ddb6987ff",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -448,6 +487,7 @@
       "bank_id": "LB-Q0592",
       "cluster": "chatgpt",
       "source_sha256": "b48ff88b7dd96e0586e6b31e7dbb3e84ebfb851de665f7759014c787d0442656",
+      "canonical_source_sha256": "cecd7a5deb3f4f00bddd57f54b1e046e65fb410857a81ffbd1c1324d42c8ba40",
       "opening_sha256": "d11b9ceb787eaf95d7b562154d7d16842c4373897f782f67dcd8754a5e72aa87",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -459,6 +499,7 @@
       "bank_id": "LB-Q0598",
       "cluster": "chatgpt",
       "source_sha256": "80f57fc5846552e965f0fe26234216b5b20feba4371b2a56b5da0a4c2cbe314b",
+      "canonical_source_sha256": "654bb7004fcd787c705e028b1aa1fbab4fd4a745850b68a9a8eec03424270d2b",
       "opening_sha256": "c7b6c9cf5e7c1d370c683230947654ecab7154d8de8c75ba770a7584880da4e7",
       "opening_shape": "figure_first",
       "lead_figures": [
@@ -471,6 +512,7 @@
       "bank_id": "LB-Q0594",
       "cluster": "chatgpt",
       "source_sha256": "202bfc7f58473841e82695e9ae09be15cb06a5691d4c2e261a582b4d3478ba59",
+      "canonical_source_sha256": "8c001d22c0313d5b2f4f357d675cd130d3eadeaffad8fc6cb242551ce699c8aa",
       "opening_sha256": "8c18879147cdfd8a4b4cf72f86a0443a0a3370a4ed9c5d2f1b50078b36a2ff27",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -483,6 +525,7 @@
       "bank_id": "LB-Q0593",
       "cluster": "chatgpt",
       "source_sha256": "211d9f79c0d212a87bbd014bf3b36c49f9a950c0a849895be49cb4a31f40ff7a",
+      "canonical_source_sha256": "73eae2c2f688256ebee3760140d8a1a269dcba0ab6da2d6245ed534fbea4fdb1",
       "opening_sha256": "cbc28b6d8fd5725675e2d40ef9cfcdbe9f0841f7c85943e4fc2ce37af06880f6",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -495,6 +538,7 @@
       "bank_id": "LB-Q0595",
       "cluster": "chatgpt",
       "source_sha256": "5ae04c50c5df3e0f0df82c475d7660c6700063de424ba4843a43152af6a28eb2",
+      "canonical_source_sha256": "4e5029b2db0f91270789faef200ce97a00ae4fd8db3f9c07a3d7f6bb36b2b9ae",
       "opening_sha256": "cdc0e1d90fa9b254ab581e54e8b20c401df3af022959f5d575980c5d57ec67ba",
       "opening_shape": "reader_situation",
       "lead_figures": [
@@ -508,6 +552,7 @@
       "bank_id": "LB-Q0596",
       "cluster": "chatgpt",
       "source_sha256": "a8dea4d9114ecddf2ad14c323c3fef9ed1865dec5cb7f03ae9893452b535319e",
+      "canonical_source_sha256": "2d52f047323196c11634fbf65e11f6046ada4d73554326cf8a9cf88a822878bd",
       "opening_sha256": "c8b586e77ecb1315ccc4950542b31d743d759e69889cbc056e6a0de47aec9b25",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -526,6 +571,7 @@
       "bank_id": "LB-Q0599",
       "cluster": "claude",
       "source_sha256": "1d2a7a33c6dfbae187aa978e1842f65039af62884818e8aca1256f7b33137486",
+      "canonical_source_sha256": "83ecccb91ecdc1c511669fde80e1830acaf4fbfd094beda90ab98452938b77ac",
       "opening_sha256": "1e5597b283bb345838b8221ea3f1038ac4d98d7a40ace1446ad46b789a693a70",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -541,6 +587,7 @@
       "bank_id": "LB-Q0607",
       "cluster": "claude",
       "source_sha256": "fac0ef7c1dee3d214cde9fd5e3b01e0e2ec514cd0a622689bc706f4dbf05f261",
+      "canonical_source_sha256": "06f1c1e7b2cac05c25a5b88930a94be4692fc7f29b7cf92cbfd5c1a2edeac94e",
       "opening_sha256": "3c1d51b5d2cec070b9e5229c55211c1da5fed580c943b88038d2459b92cfb84f",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -555,6 +602,7 @@
       "bank_id": "LB-Q0600",
       "cluster": "claude",
       "source_sha256": "f68e818e6ac7dee5814a072a89663668d7ce4108ca2ceef8aeb5cebc14a26bbe",
+      "canonical_source_sha256": "1a24c45e439373de7407e2990d29a0ca9d53fc040aaffcdaeda145c8b56e1ccc",
       "opening_sha256": "0e104802cb6fced13210521e80c76f783fe686f69462f72ad9287a847fa06978",
       "opening_shape": "context_contrast",
       "lead_figures": [
@@ -569,6 +617,7 @@
       "bank_id": "LB-Q0601",
       "cluster": "claude",
       "source_sha256": "2de4b42ff86c6892c1abe9c51c97ec0954c01f1e7b12b99279c3beb4c56d683f",
+      "canonical_source_sha256": "2de66088d41a0bc2aeb1c32680a594761f13da1de2955b5674ad4ae0c4c85a10",
       "opening_sha256": "5ed84325f807229e1a44d3d473ba3f3d4749ef0c16997f539ec0235c3d92c7cd",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -581,6 +630,7 @@
       "bank_id": "LB-Q0602",
       "cluster": "claude",
       "source_sha256": "da2b6b6457bb05ba416768cb94b5699efa45aa3850ca19c1b62ffee8f2e7d2b4",
+      "canonical_source_sha256": "dd19b1c075f34bf67ce94cc57cbb39acc3d6a8e6a547aa3d91b28f4d257578f9",
       "opening_sha256": "d0252ab6054455356c0921219b2e50898a59d94f6d4891103c0e20cd442a2c78",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -596,6 +646,7 @@
       "bank_id": "LB-Q0603",
       "cluster": "claude",
       "source_sha256": "2a7373b19e2c1f1db9e5c2ac604b7ee9e1e8591dab4ebbd3e52d5005d29c45be",
+      "canonical_source_sha256": "ede4900b418184667271dc330eb31d9f33e28d96b6a2440fa436d9b09e63f73d",
       "opening_sha256": "bbad7911143f70055b3e13375d2744a9ed60d5bba5da28cdd91015b9e0840dc0",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -610,6 +661,7 @@
       "bank_id": "LB-Q0604",
       "cluster": "claude",
       "source_sha256": "c442edc82d9bb9731b932caeac848af1ae5e7c1feb0d78fdd587eda47d0c882a",
+      "canonical_source_sha256": "cb8ac17402f786b0f8b625216c6deb886a94d7df9244692167c251ec362f67c4",
       "opening_sha256": "0b21f85fc6ccd45b4b8045b8a4fa6127cbcdcb5c38e36f0d0ecd45e40cd65035",
       "opening_shape": "context_contrast",
       "lead_figures": [
@@ -622,6 +674,7 @@
       "bank_id": "LB-Q0605",
       "cluster": "claude",
       "source_sha256": "27532df5b07da3219c9cb82bde0aa6e077c728c0a5620dfdee76137f26c724a6",
+      "canonical_source_sha256": "597f8a1a1b17f02b40d5a2005b0dd43dd922661e8cf2d8c408cd9d7d093cfb24",
       "opening_sha256": "624825ff1aa927743fa1d2789c12eef940beefb09c113e3b0a2f93324160fa17",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -634,6 +687,7 @@
       "bank_id": "LB-Q0606",
       "cluster": "claude",
       "source_sha256": "f6378e2ca75d4b5b2666fd630754ef27f8873d2d2116a088680d7712da176bc9",
+      "canonical_source_sha256": "12b105311b5d28e6e9e49a2eb94a5f50f834a5b860553a41e90b26629d01cab4",
       "opening_sha256": "36628f1cc1328d9407c10a8c8618458bee8e836a37b86dae4d996d3cf1f0532f",
       "opening_shape": "reader_situation",
       "lead_figures": [
@@ -648,6 +702,7 @@
       "bank_id": "LB-Q0608",
       "cluster": "claude",
       "source_sha256": "cebc19f97945d8c1ef478d321d5aeefe96165df81506b7685917500b50d1bc7d",
+      "canonical_source_sha256": "76ec2ca20b8fb6f37f4413d8a4321f2ff4ac70799a0af1dac023d21a1d0ee18e",
       "opening_sha256": "48103c4cd26cfcd76248ba5e1e0a3bda406c29ca18fea919d898acf0bdc2393c",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -660,6 +715,7 @@
       "bank_id": "LB-Q0638",
       "cluster": "fixes",
       "source_sha256": "cd4fcb2d86ba7c169064bb2d4072681d9a0a8421e10b386ae8c0b9253417ec05",
+      "canonical_source_sha256": "d130c94ef86ffb2b7eeb5c0bde53cbe6177acb78b67dfad6362752353b3af8ab",
       "opening_sha256": "8819e8d7be2a7873138230cb8770015eef62d68fb6382821fc3b84b509edbafa",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -672,6 +728,7 @@
       "bank_id": "LB-Q0642",
       "cluster": "fixes",
       "source_sha256": "509e1d210df2e3f582cdbaceaf6ebb69d47dae785db71e393d870f1cf10e264c",
+      "canonical_source_sha256": "b9f3ed40b02414a0f44d40fe7b7b1e82a1f343ffb6b954da2f82f435afa8dcff",
       "opening_sha256": "e3a6057ccbd2d937a9eac2fe20a0201eec8efce34c93dc3f25bd73c1341691d4",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -682,6 +739,7 @@
       "bank_id": "LB-Q0644",
       "cluster": "fixes",
       "source_sha256": "4090f44962296eb41aefbaf3527be253ea1b2ccd56d462415fc5cf356cda068e",
+      "canonical_source_sha256": "ad2953b1d9f24a9d72bf27e10f01cecb62d27ffcbf707aae539dd344d2d217ed",
       "opening_sha256": "aa4050bac56166d707065da7ee8722975303a1f5416ba1695d60fb292baab039",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -694,6 +752,7 @@
       "bank_id": "LB-Q0645",
       "cluster": "fixes",
       "source_sha256": "aae75a5a2f72ef7f69fa3c46f55bee24a233a1b4e3bb8bb0a3f7aad2d9b50731",
+      "canonical_source_sha256": "31362c1f5bc4d6635fecd40dcf62818f90ab4ff4f034b9f66c8a4ea0a26b9f07",
       "opening_sha256": "62513b4cedf202447421d0cdc12af1b86694132b76469681db867a58904e89da",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -704,6 +763,7 @@
       "bank_id": "LB-Q0643",
       "cluster": "fixes",
       "source_sha256": "40b7216490965b30000ec9e4dab872cfa4e6024db60c94ead8872dd3689a13d1",
+      "canonical_source_sha256": "0a9e93503bf40eb830db1d79cfe229b7cbf9222329c756ed207108a43f235579",
       "opening_sha256": "65a1339c1ad8e2ad3aa08b1784d4670478188c5017f4339f919ce53091d6123e",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -714,6 +774,7 @@
       "bank_id": "LB-Q0647",
       "cluster": "fixes",
       "source_sha256": "2548a8d2db80217f63431819ae7b05334887ab6ff574e9464c417a851822f0cc",
+      "canonical_source_sha256": "25fdd95ee67cd079feab8541e4054b91d71a20759bb3cbe81ea55cacfaf85d64",
       "opening_sha256": "8dca3872d8341f67f2723d48bce59f2e572cdb98d52790b7f0c5782ad172ce3f",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -725,6 +786,7 @@
       "bank_id": "LB-Q0639",
       "cluster": "fixes",
       "source_sha256": "8250fada40de4c708c5e3b67e9a965e76f802d14115059c4e581ad20b3a7234b",
+      "canonical_source_sha256": "bc0add69d08349c314e64897059cf43877b61610fd9cde7115921d743fceefa1",
       "opening_sha256": "10b951103a1dd4c0e291040884fdc99d69951c38aa7136ee3f7e378766467406",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -736,6 +798,7 @@
       "bank_id": "LB-Q0646",
       "cluster": "fixes",
       "source_sha256": "960affaeee97f098be7b81b0fc75e0e0dc1a2b27e4e5bda892ac0a3edf664e44",
+      "canonical_source_sha256": "125c50e46f1ed888e45e64f69d69d10a6118afc6e9ba1ecde2f4baeb209a2a48",
       "opening_sha256": "3b3fea0cba698de4c5b2479213656b46347fbf64f02e57d656d46024d30523dc",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -748,6 +811,7 @@
       "bank_id": "LB-Q0519",
       "cluster": "fixes",
       "source_sha256": "e9f750c99f51686b733eb4b889a282d144083762b4e7decbd0ea2c9d473211ef",
+      "canonical_source_sha256": "2b25edf410e9a9c34ded920e8b87bcd9f577f0c6dcc37696fffedf9aa64e9564",
       "opening_sha256": "10a50ad2e181167dd93d24e62c56baf8903931c14165f7f976dd9cd3c08b4a9d",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -758,6 +822,7 @@
       "bank_id": "LB-Q0635",
       "cluster": "fixes",
       "source_sha256": "df59e43298ee2c5d18c7dfe66b113c3084dab13fa0790950ef3cefc8c5af0616",
+      "canonical_source_sha256": "d4d456900b7d1ebb4911b32dd8b1f0529f8ebc4a0886ad40e66847a8dabdd989",
       "opening_sha256": "ce8d9f952e1d34fcec1079b2236d5a62e27eb66c2446080b84122631dcf3531a",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -768,6 +833,7 @@
       "bank_id": "LB-Q0641",
       "cluster": "fixes",
       "source_sha256": "a7900291040b0b8f87a8b8ac75e2d20b5c404ae56f93e6e335f45000e8942ca7",
+      "canonical_source_sha256": "e1d30e75db7b16afbfcfc8ae0a2d541b3037cbf41692d657fdb3d079d4902dd5",
       "opening_sha256": "b7a74b675457a7644f703de06359e509b9a76a0d65e16709c26d975323c51c7e",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -779,6 +845,7 @@
       "bank_id": "LB-Q0299",
       "cluster": "fixes",
       "source_sha256": "72824a125b4313b814dfc6d69ff28f3e3278fb8511f427d4c870ed8234e88582",
+      "canonical_source_sha256": "c3edb10ae6d090f8c89a13035328e4998ecf3429aabd3c753707dafa6bb40c56",
       "opening_sha256": "82d698d95cb287cc44229bf098840802342d2a424b468839f2e2972fe70b24ee",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -789,6 +856,7 @@
       "bank_id": "LB-Q0640",
       "cluster": "fixes",
       "source_sha256": "8c5f1ea4775dc8880ec5213a552d68297cd124ca81a370668bfbed7c2b21d852",
+      "canonical_source_sha256": "535f72327d0c9d85eb6a282e0f97b38e82726a9dc124df7bc004ddc846b8c26f",
       "opening_sha256": "46fdc57b1908e0c1da29e071671d822d5f5d381988508aae1c3e8f93df004cd5",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -800,6 +868,7 @@
       "bank_id": "LB-Q0636",
       "cluster": "fixes",
       "source_sha256": "0f0948cd44f0a64483fc12d4a7a0afd9b7d382ce1df116494fb64fc984bd606b",
+      "canonical_source_sha256": "70316d13ed2a3350339f174cb59d043f9c59d1d71aa7a6055811360285ed08d4",
       "opening_sha256": "ddb3bfc47aea4dfee4427d4e16044425927375bd546a4d9b230fead206debce7",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -811,6 +880,7 @@
       "bank_id": "LB-Q0637",
       "cluster": "fixes",
       "source_sha256": "3aef091e902229305560a0db798a0c6860950e9178884f1188981ea6fd6ec1a8",
+      "canonical_source_sha256": "a690467bf29322226734e042997fe21af2c61f8508a6a37527914d7bf9418d5c",
       "opening_sha256": "6dfc88ae621d34786b9bd42389d06c72922ae3880b4b08a817dedb5341450259",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -822,6 +892,7 @@
       "bank_id": "LB-Q0536",
       "cluster": "geo-basics",
       "source_sha256": "31c3e4dd586eb287678f84a0b91a76e1d38990b4acda81799d8a5eb85105abd3",
+      "canonical_source_sha256": "c0afcfbce3a7cdfc1f52ca34dd9bd60090f48a2d50a6b3f5986b42ee78036972",
       "opening_sha256": "cffd5e7e24fc50fa267331ea7ce9ea6ec4ca024c9f57003d9c10c8a8d194ae0b",
       "opening_shape": "figure_first",
       "lead_figures": [
@@ -833,6 +904,7 @@
       "bank_id": "LB-Q0534",
       "cluster": "geo-basics",
       "source_sha256": "14cdd26e76d8cf7414eb159c7008be11d5ba1f8cab2fdf0a107dba33df782a64",
+      "canonical_source_sha256": "9050d995c56b8642de3777057051b03ebdb486f5e2169318f760a9bc23645842",
       "opening_sha256": "5d91f8ff07c85e7f82af09f31e1a24a699af2daaa17ed9cdbb451c42f1ecd997",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -844,6 +916,7 @@
       "bank_id": "LB-Q0531",
       "cluster": "geo-basics",
       "source_sha256": "837238eafaea24ad6949fb01a23d2e961ea03eb482175b4f9156c6e9b433b6fa",
+      "canonical_source_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a",
       "opening_sha256": "a9d27dab249ed7da186b8f156b8620d6f8c05953fcb5b1c25140ebfbefb16d47",
       "opening_shape": "yes_no",
       "lead_figures": [
@@ -854,6 +927,7 @@
       "bank_id": "LB-Q0538",
       "cluster": "geo-basics",
       "source_sha256": "112807b4fa020efd36a2a9a99dd9a565880f90efa63d0c9052b771120cb2a6de",
+      "canonical_source_sha256": "07b4670c11b5c2d27dc5620f062846097654a841eb3fac7ad3ec4a56d6eea12a",
       "opening_sha256": "5c23062beb287abb6a8db8b258e7e05974e1fc6f990d18f01f0702a9ac9c907a",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -865,6 +939,7 @@
       "bank_id": "LB-Q0541",
       "cluster": "geo-basics",
       "source_sha256": "39fe25683ae3619b0e337d4558c57506b13d0c08b78d459ec281f73ddfcaff34",
+      "canonical_source_sha256": "0fc1974e90ca16df11d310724628da1ebe9ce086adfd18bc40948b2f2b3de0a7",
       "opening_sha256": "c1d26fc553eefbb5a016434326ecbbfbda05a488825bbb0d574e45a6ef9b44b1",
       "opening_shape": "yes_no",
       "lead_figures": [
@@ -875,6 +950,7 @@
       "bank_id": "LB-Q0530",
       "cluster": "geo-basics",
       "source_sha256": "a0ecf51efb27ae667bcda4935172af0710a24dbcb104c1d7e0e14f167fb4924d",
+      "canonical_source_sha256": "46da8c20c5a27cda881a662513c121e5009568c1486b87984bde2a30265261bb",
       "opening_sha256": "8849e0c2b896f30486ee4a7344d26090fe0334ed7f05b892a3923a9544eeadfb",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -885,6 +961,7 @@
       "bank_id": "LB-Q0532",
       "cluster": "geo-basics",
       "source_sha256": "76d4dc270952c70c4c06f2757496496493a217fdd184f881a629bde6d1d667a6",
+      "canonical_source_sha256": "42190d7f5932577c5dc377613200e8be4771539c6b3e20aabb3768f8b973e726",
       "opening_sha256": "896bdf228f757e79d1753cacfcea711b8e6c5ea84e97ba32dba599d49ef0eb11",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -895,6 +972,7 @@
       "bank_id": "LB-Q0533",
       "cluster": "geo-basics",
       "source_sha256": "b6049c4347880f79ce4d7910b1c039341f8ede957d921ddd7e7b49327c7105c3",
+      "canonical_source_sha256": "3a90ddd0464008050ffec5a23ed54f6b98ea997b12360331987dc13ac722bb45",
       "opening_sha256": "d71357c4fa831d5e7d24c501a930e2dae8338198ce09c2f36cedc6381b2219bf",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -907,6 +985,7 @@
       "bank_id": "LB-Q0539",
       "cluster": "geo-basics",
       "source_sha256": "f759b19b1e03ee88e9cbc60926deaee030ac46da2650bab4a3f77ea2e0292784",
+      "canonical_source_sha256": "84ebc5bcc9223f9e37e02a08ddd848db1cbb277e5967132ec5076fed3d991fe8",
       "opening_sha256": "abc28ab22576e516d8eba839afdaa77cb740b063b4da06254859f62bd91dbeb6",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -917,6 +996,7 @@
       "bank_id": "LB-Q0012",
       "cluster": "geo-basics",
       "source_sha256": "e64d04409dda9323ba75e13c5b883cc5d176436c747aa872b3f3e71c406c3d46",
+      "canonical_source_sha256": "fc2ed968886c3c83994bda32f4db2926d15cb8f84914a8c601ebbf8f74cf6f53",
       "opening_sha256": "916a612a86751fb2de88a85e8a339a1deb10e85934338271cfcba9a6c16adb24",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -928,6 +1008,7 @@
       "bank_id": "LB-Q0528",
       "cluster": "geo-basics",
       "source_sha256": "626ec9e634bd1e2b85d61d80becb30b9902022e7ff33c5939c7a3ff096b4d02b",
+      "canonical_source_sha256": "408fb950676fbd1acd85629bf21335249254a11caba7b5ea1225a36f06f4a2dd",
       "opening_sha256": "79818f07013daf4945661c49614b039a75d6b16b8a6ca7f33ac3c3cdc2c6449e",
       "opening_shape": "reader_situation",
       "lead_figures": [
@@ -938,6 +1019,7 @@
       "bank_id": "LB-Q0540",
       "cluster": "geo-basics",
       "source_sha256": "0cffe7590f70809a90572c52604051fac184e05c625f91a9dcf1b4582e6d66ad",
+      "canonical_source_sha256": "002c109422876a580c834822c20b6e06c87191a40b927de2b78830ec2e316aae",
       "opening_sha256": "1eee64d207ac319a8f5d1566c26aec585aebad6566c3ef7d0ee53b96f4046708",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -948,6 +1030,7 @@
       "bank_id": "LB-Q0529",
       "cluster": "geo-basics",
       "source_sha256": "ecc061b161048621abd89bf3bd1456e9240bb54b8693092861b9e4b3996fb73d",
+      "canonical_source_sha256": "c53fb999b9de07417818e96bedd438b76488e5ee8a21cd1329e3ba586316ebcf",
       "opening_sha256": "9278ccc58e167b8f96f9fbe012c7dde6ff0095c86b84d9b8047578f5acae22ef",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -958,6 +1041,7 @@
       "bank_id": "LB-Q0535",
       "cluster": "geo-basics",
       "source_sha256": "f65a134b4fa631b671a63c4df1399dc33acf9f4a8c5e16eb4f33d50d2230767d",
+      "canonical_source_sha256": "18591db04b2cb29f5ed78b92810ec28d3df5034c09c10572dd91c85c49700188",
       "opening_sha256": "75aacf26417a37fd1b5c62bf02d171ed8bb1cb09a6cecf5ac780f3de092dabfc",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -969,6 +1053,7 @@
       "bank_id": "LB-Q0537",
       "cluster": "geo-basics",
       "source_sha256": "3b02af9470bb339319d821e9cad145cad2af824229d32d73858ce19e4d4bfea0",
+      "canonical_source_sha256": "3105b9a375e1404d8655f5b720c77ca794b274732ce5396514ba414ebe0c76ab",
       "opening_sha256": "6fab601c287b342c866fb85c3e09a4a015fd9ad852ec2b7d6cc53522d85820ee",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -980,6 +1065,7 @@
       "bank_id": "LB-Q0276",
       "cluster": "google-ai",
       "source_sha256": "3efda0afd3ad69d96e80bce7d36e5549d48a17d88906f51a984952b205135bae",
+      "canonical_source_sha256": "ecbf0ed954a5b86a9c6e1343e6727ada939fb897f8949f4b3260200886f849f0",
       "opening_sha256": "a8006e7e928d3058b88692c7e0f135841c236ee3ea9e3caa6f94a4d8c405b28b",
       "opening_shape": "yes_no",
       "lead_figures": [
@@ -990,6 +1076,7 @@
       "bank_id": "LB-Q0382",
       "cluster": "google-ai",
       "source_sha256": "b6b1cd957e26d822e928204c9142e09de29ad4af4cc64d20c21439843bccdb94",
+      "canonical_source_sha256": "962ec307b56dde559ce0920dacb73538111e689ccd92f4f53bee50790fd2363b",
       "opening_sha256": "b6145535837602cbe37b3477be3b223836645f97da648169b2573370be3e46cf",
       "opening_shape": "engine_contrast",
       "lead_figures": [
@@ -1001,6 +1088,7 @@
       "bank_id": "LB-Q0282",
       "cluster": "google-ai",
       "source_sha256": "cfd7d26751f89d724e35598592326714b0612cf13bf529b010ebe5229ac69636",
+      "canonical_source_sha256": "826cba2b7a82d40676e80d1b5386e7af7cab654dcce7fd5f9f46e820bb380001",
       "opening_sha256": "8d5236a33e50e0637c09c0509beb94a392c285c608e87d94213753b13d5ef7e7",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -1011,6 +1099,7 @@
       "bank_id": "LB-Q0543",
       "cluster": "google-ai",
       "source_sha256": "eee0eba6357864ff1a2d5089ecaf75bb98cc971bfda82bef5b95cb02d0a57d40",
+      "canonical_source_sha256": "1f06c410834a2a06aeb0f0aa57e93df9b3bb864c882db211a5d851d4ac6c053e",
       "opening_sha256": "1b9d95143d39a3aa2a4e2d439914537b8f4c948dd723fd77cc9ef2d19156580a",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -1022,6 +1111,7 @@
       "bank_id": "LB-Q0542",
       "cluster": "google-ai",
       "source_sha256": "f192f26b556f95a5477c5f431d6dced2e68e172123789faca0b520f8391c606a",
+      "canonical_source_sha256": "c1dcf41d24dd661ece41bf5136d2cec24cc61b1174dca86991dbc1a194cead04",
       "opening_sha256": "378e08bca823e2f9ce94e2838bcd0a132bbe12a6509c9b71663386294c6f65fb",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -1033,6 +1123,7 @@
       "bank_id": "LB-Q0371",
       "cluster": "google-ai",
       "source_sha256": "5717b95082b192d0027c942ef739a3d04eff3287a3d8d2d6e235284d4581fd88",
+      "canonical_source_sha256": "cc9ce6d634b3cec070eb778ae088567daeafc49dc5189c480dcf007af78bfbea",
       "opening_sha256": "8f83db72a838572e70879b01dcbac954eb816ef69d0a0d4e10caf18683aa7a5f",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -1043,6 +1134,7 @@
       "bank_id": "LB-Q0544",
       "cluster": "google-ai",
       "source_sha256": "208c7fbb76cabe78e7e52b13cff7f91153f4e0c5f2170e1538dc095cdfb61077",
+      "canonical_source_sha256": "85002e645ab5132716fa5164f904afe7ef327e261ed35952227e1625cb55e997",
       "opening_sha256": "7e2d8339fe81aad22cc65be759d813e860ca80c969906574cf17e41b2e148c81",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -1054,6 +1146,7 @@
       "bank_id": "LB-Q0545",
       "cluster": "google-ai",
       "source_sha256": "f80d241ec4c99a19a579b2a249da4b0c9d59aea955b28e778db0df779504f612",
+      "canonical_source_sha256": "a67e68715f1846748aaab87e090970f0d512d494a6070592096a00623de1e9e4",
       "opening_sha256": "affe02d6bf243c9691c8b67447a1358babdebcdeda17e6633fbcfb3c4296ad71",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -1066,6 +1159,7 @@
       "bank_id": "LB-Q0546",
       "cluster": "google-ai",
       "source_sha256": "9f4c13bd229f3e5cb4345248d751cdb9e4015bc9e7aeb3e9ce8b36e02475517b",
+      "canonical_source_sha256": "b7233ea74760d829e90f2973c051b9a5dcac728577514209c2bf25643798bc3f",
       "opening_sha256": "54f13659f4eb2e8f4e6f4ac19f96a64dedfb9e7e2fa4642ae6a746939741c16a",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -1079,6 +1173,7 @@
       "bank_id": "LB-Q0547",
       "cluster": "google-ai",
       "source_sha256": "64768c3b89aefd0940b531c970510cded4a82f0845de36757bda542eb51bfd29",
+      "canonical_source_sha256": "cc95ec8c0f18f053f4d56cb2f167350ed90b7412197f34e7fd54275f49a94877",
       "opening_sha256": "33e3ea8730d94787c2c2832d75f89f292c387be2944587bf6cc406c7d44c2fa0",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1092,6 +1187,7 @@
       "bank_id": "LB-Q0548",
       "cluster": "google-ai",
       "source_sha256": "9e6930f14cbf500cc95fe665c337bc51796aa561a3069ded81871643c2b9bd0e",
+      "canonical_source_sha256": "e5dbe52f136b414cce0ecbf90e18856ac66211e4a8475eb1c659ae03f1679f70",
       "opening_sha256": "40775dcd5cc8b51ebe26ed36ae59ed13a4b30e77941d1d838cd8a7c3f2f59503",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1104,6 +1200,7 @@
       "bank_id": "LB-Q0549",
       "cluster": "google-ai",
       "source_sha256": "99d77c2fbfe107ac120fa5d8caeed9c6774c68114db24762ddcb9ede2ff16f80",
+      "canonical_source_sha256": "b084133b990b506dfdcd2b7694d38dd246d2aca2dd4b8fb1c546619149138d16",
       "opening_sha256": "095a896ae677f65a4e3862a39126f2ad1614083d570d1bcb79de2b2a11480ebd",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -1116,6 +1213,7 @@
       "bank_id": "LB-Q0558",
       "cluster": "industries",
       "source_sha256": "21f93cae5498abc799a4ab27e8cd5e02d95cb32e2873ccc2704b80090b2523d7",
+      "canonical_source_sha256": "2abd81bcc8b8461f6b1a57c9c44c0f0a91dc857a2f20fedfc1e44f799b6b780e",
       "opening_sha256": "4baf7c25a56b8c3182bd1074ce788065c41580fdc987e4eeedb9cee63b70ff82",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1128,6 +1226,7 @@
       "bank_id": "LB-Q0582",
       "cluster": "industries",
       "source_sha256": "46b3bdca01d67fd86787ae8793e327ee24cecef3b87f1289d9101607da169c47",
+      "canonical_source_sha256": "2a5a3d24baf5493f3e4b97d19198d1a517fe196dcb8049d2587572485fd62a49",
       "opening_sha256": "9bbe2c2be4b47844868b5535dff23ec4f5ee5d9b7de430ed73668a45991f8903",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -1140,6 +1239,7 @@
       "bank_id": "LB-Q0560",
       "cluster": "industries",
       "source_sha256": "ad3d8bff39c7b51ff27687a99ef2519c45c312ef52235d5c25986bdc979a9205",
+      "canonical_source_sha256": "c6d90f43753bd5a1e9b6dfeb75abf8ab3ffb27e270a0b1735a127b109d9cdd30",
       "opening_sha256": "a6464c8c9a381b1acc2a5dc95df34d6fe1fdcdd06c933c477ab21d942d8f0827",
       "opening_shape": "source_first",
       "lead_figures": [
@@ -1153,6 +1253,7 @@
       "bank_id": "LB-Q0562",
       "cluster": "industries",
       "source_sha256": "b2411a9c00736ee8139b708a83360b05e2385b2fa854c2d7202b754147058930",
+      "canonical_source_sha256": "c72ba88edbd0aab1b0b83281f1e915705ee745fe0f3569ea6b7870b02e37501d",
       "opening_sha256": "7010a71c92c592777ec2e616aa2e7974b58a5e383ef089c6b2400ae1e3b039d2",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1165,6 +1266,7 @@
       "bank_id": "LB-Q0564",
       "cluster": "industries",
       "source_sha256": "8a252b15cfa015b102e54feb627157875ac34e8c7e42f351e81a702bc622f274",
+      "canonical_source_sha256": "baf4911e627204c792cdb3fde81df2ca36bf6ffd3df8118068ddbb7493e348f3",
       "opening_sha256": "89f2f5d8c8cbf221fc1353ba75813917f07936a48c6d7a6fa31c2a28ea4119ca",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -1178,6 +1280,7 @@
       "bank_id": "LB-Q0566",
       "cluster": "industries",
       "source_sha256": "ebfcb16092ca703d01f4ea20e7cf9133991d21e458c89406eeae075ec328e07e",
+      "canonical_source_sha256": "fa802b6494a67fdea47b8710ce41d4f1fb1587c88a63c5ddb4b33f09100d5bc3",
       "opening_sha256": "00c433a9678431725633950f6b37a61cc578759387e80711b5601b2e1a0ca234",
       "opening_shape": "source_first",
       "lead_figures": [
@@ -1191,6 +1294,7 @@
       "bank_id": "LB-Q0568",
       "cluster": "industries",
       "source_sha256": "e092c1320c8c9862e5228aac8fa83aaea17288f7bc6f7570c49e5ee54279e8c5",
+      "canonical_source_sha256": "c2cf3496f5812671865deeec8c36b13fb6a1b2e96f9f33839a898645fc40c655",
       "opening_sha256": "0281e7e83cc5dce07ceac79a4276d0c83e6f0d80110dd7b26c631ab322371eb2",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1204,6 +1308,7 @@
       "bank_id": "LB-Q0570",
       "cluster": "industries",
       "source_sha256": "1dda7d82401e57867e95b90fb6835907d48af1ebc238eb649924e06e386ca4ff",
+      "canonical_source_sha256": "7d2a30a5683dd784972d26cbc08e4daa6e8cd201fea790d7db302680e2e9cfad",
       "opening_sha256": "3ed93b1df8560f8fef06b9d51196fd6bf38a111673afdd0c76f78c525f9846e7",
       "opening_shape": "source_first",
       "lead_figures": [
@@ -1216,6 +1321,7 @@
       "bank_id": "LB-Q0572",
       "cluster": "industries",
       "source_sha256": "3c345f311213c909ffb41e2e720351090ad70c8a7b2fa22ffabf569fedb39807",
+      "canonical_source_sha256": "314babdd09a1a03283f1bf427fd72b7946ad14417ac9c5b3d5a582b1b5d7d601",
       "opening_sha256": "bbf685bfc06cbe06708a106265d837cb28ae6d99610cfbdbebc5d2e87abdc31d",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1229,6 +1335,7 @@
       "bank_id": "LB-Q0584",
       "cluster": "industries",
       "source_sha256": "7406dabd724ea146583990e587ba7fc1a1758414ae2e2f652cda07707b663900",
+      "canonical_source_sha256": "76ebe8cf5ce7b9175a10cfce4f85e6e6b4c62ffa5ddc03c9975f3dced2955516",
       "opening_sha256": "0b3220d103ddeb4b50953f37ddcf7927d20158ea9a2c04ea6f13121efb56eacd",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1241,6 +1348,7 @@
       "bank_id": "LB-Q0574",
       "cluster": "industries",
       "source_sha256": "57ab3319a1d3eba066c5f9c6df9783a09856a2578072ba64e634db2cee26afd1",
+      "canonical_source_sha256": "548acbc2376b8bf63549246ea8caaa42d5c831e7d3a0a7a4a8402912bc15b4f1",
       "opening_sha256": "630bb9a40611c6b504ce755c2ede9f442b06e0ad7ef549fc6d078b1347de95fd",
       "opening_shape": "source_first",
       "lead_figures": [
@@ -1253,6 +1361,7 @@
       "bank_id": "LB-Q0578",
       "cluster": "industries",
       "source_sha256": "acfed999272047bd92dc736675c59fe19f015606461f43dc8fecfd18e4918cf5",
+      "canonical_source_sha256": "7112683b148bc8f49c3e30d11e71f8ed92fc9712614b99c3b8eba7e19b6621a1",
       "opening_sha256": "b3bf3612aaad51915770edd01d8b0c90120b172d0c365d46b6b9367631e33ae8",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1265,6 +1374,7 @@
       "bank_id": "LB-Q0580",
       "cluster": "industries",
       "source_sha256": "a09e72e6facd31e903cadc235eb563f047661705df0ee5e4ae785ae5a31f6454",
+      "canonical_source_sha256": "ebf1e67b27c034b73aa40e72ad691c8ce8fe406c0eb4c20201ea5b6181720b42",
       "opening_sha256": "d96be918329e26c66a9eb62e4e8903a581d50cfdac1dcc1ed2d54be76ae5cb1c",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -1276,6 +1386,7 @@
       "bank_id": "LB-Q0576",
       "cluster": "industries",
       "source_sha256": "8742c2e31c6877e1ab68e0a2b5286d3e089321be498399405045027289e03174",
+      "canonical_source_sha256": "7da1e733e46d3432849956a6e67f5220d687b6db5dc7a77029662cbb82003cf0",
       "opening_sha256": "7e7e85ec8e51fddd6920225dccce4bc8f80c7cb8abb79b97725b07290fb01075",
       "opening_shape": "source_first",
       "lead_figures": [
@@ -1288,6 +1399,7 @@
       "bank_id": "LB-Q0557",
       "cluster": "industries",
       "source_sha256": "8a953f8e48b956d57a76feb7df4cba6ae426c9bf796e9be5065f2bef29b6130d",
+      "canonical_source_sha256": "9472f834e55865158b5ecbc0ab9a4d2033cc25f934ddc656cbd004ad64918aa7",
       "opening_sha256": "ea649dc5d3b623b2ec83ccf8354855a40f39308e3f254ddcb7187f2e3ebe69dd",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -1302,6 +1414,7 @@
       "bank_id": "LB-Q0581",
       "cluster": "industries",
       "source_sha256": "e32e86df50ce373a3b66c9eabaa1c61931165a1ce1cd11b788075f547f7baac1",
+      "canonical_source_sha256": "cb81d443a317f573d31aa1b74b619656258656fa6c71530e68a68dd139f0d907",
       "opening_sha256": "eeeb4e2d1bda6802db8ca2796d804bd3e55aa8c093a8b23ea93f1df192c420ee",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -1313,6 +1426,7 @@
       "bank_id": "LB-Q0559",
       "cluster": "industries",
       "source_sha256": "4a51a318c57601e897c4d67f7fd10d80ab777a61c4d83d672dc3e94a6582db84",
+      "canonical_source_sha256": "e31da0be1a15ce5480d29bc0549a55c11c8db8ce204ae90fb7c9e632c9f5c77d",
       "opening_sha256": "36c8f6e09cac0ec4c5c5a571a84350b78f54bb771aae5668852eb05c6046508e",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -1325,6 +1439,7 @@
       "bank_id": "LB-Q0561",
       "cluster": "industries",
       "source_sha256": "cb94a91e45cb8403809e4403875817908ba627d731dc902afdaf8b3ecdc1ed4f",
+      "canonical_source_sha256": "892c12f7b2c6f1bc8fecf62cfbeb13d79ba44b94160ff7a214225eaeee5ca023",
       "opening_sha256": "a88bc85fc17857c707538708cbcff87611850d30c0cb5b1c354edb8be50f6c1d",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -1336,6 +1451,7 @@
       "bank_id": "LB-Q0563",
       "cluster": "industries",
       "source_sha256": "b9b7c91354cab08dbcca075542e109997dda5c736f572b88b6dd5ba84b73b13d",
+      "canonical_source_sha256": "685eda3cc35685a7d3e17465c543bf495a0dcf3af2825cdb4cacd7579929b61a",
       "opening_sha256": "6a016efe6d04cf0f1b51e5b04986cff7920a1f7989223d781417d2bab2a20425",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -1347,6 +1463,7 @@
       "bank_id": "LB-Q0565",
       "cluster": "industries",
       "source_sha256": "6fe95dac9f6b5373f11bf13f20a038cbbb9a10ce1296e40c9cb6fad74107f4c9",
+      "canonical_source_sha256": "1b13d02a8505180a76f8b07d7ee9b00062601686b323da032a8105d9878d1a63",
       "opening_sha256": "14e23505fd846ec2faebbafb10fb2067a3adc1463ed85449d0a50ca3e1f57e7d",
       "opening_shape": "figure_first",
       "lead_figures": [
@@ -1358,6 +1475,7 @@
       "bank_id": "LB-Q0567",
       "cluster": "industries",
       "source_sha256": "a08e88f1c05c37613f1bc6c437c559e7a68a918c64ef6c001c43aa66bd37a128",
+      "canonical_source_sha256": "5429b971aae4803173daf49b52199f0d5ccb707d393bb5323e1113a5dc7a749d",
       "opening_sha256": "f85fcbf95114bf3c152140d04717889325f6881ac056a0ae0dce313101a455ce",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1369,6 +1487,7 @@
       "bank_id": "LB-Q0569",
       "cluster": "industries",
       "source_sha256": "8191a8a19ad7e8e431d2678532b1eaef0c555084aa44d7ccfd388edba95f2135",
+      "canonical_source_sha256": "34e70807331cdfe7778903147ccfbbf126bd0170142c63d212ea24214ea9f2e1",
       "opening_sha256": "f278fb6169ba09e6b7c892a4defab17ccf11f6d4fd01c7fe86a0a664dc5a7eb2",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -1382,6 +1501,7 @@
       "bank_id": "LB-Q0571",
       "cluster": "industries",
       "source_sha256": "60e2dc1a864c2b8b277fabb82e4231df64dcc6757835c56bc6828dff83b03587",
+      "canonical_source_sha256": "14ff08a95a38926d00ad38f5dd0155bb438799ac0867b804a2b055cc68bfc5cd",
       "opening_sha256": "e3aaaeef37ac1c0d438d4a06c5a5efcddbfdec5b4f8e91ff44124a7cb3ad2057",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -1393,6 +1513,7 @@
       "bank_id": "LB-Q0583",
       "cluster": "industries",
       "source_sha256": "8e5bb2266e222db35114dc6ddd4257e9061ed5ad1bf61386247f856a482bdc0c",
+      "canonical_source_sha256": "68ca9f77998a4ac2610d57afaa7fba65af722bd929589b226292a45ebf9f72b0",
       "opening_sha256": "c255298510b9194d4f2fecf9867b749b244fdcac3329114323846ceca0acdd08",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -1404,6 +1525,7 @@
       "bank_id": "LB-Q0575",
       "cluster": "industries",
       "source_sha256": "293c9e7f993a15fc9ede613ce8f035a3073edf7a881761ca927b9fe1f1c95b52",
+      "canonical_source_sha256": "a9f28f3d5cd65bc91b4d63df15631e5d02508ae8b757ec15dc357180d1be7843",
       "opening_sha256": "fa3a2955e85abfc4c13773ee17746ef11913638e18fef96351c742b966beb65e",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -1417,6 +1539,7 @@
       "bank_id": "LB-Q0573",
       "cluster": "industries",
       "source_sha256": "60830c194c9bd97aa1fde2f83d057d39a49ede190da994822d3406d78a09a7b7",
+      "canonical_source_sha256": "ae35f3a45a4356ed0a6625b20df0b5ed3e307576ea4c57309b49df1fc896f578",
       "opening_sha256": "34425540142527fbe3d5af8cf6a81bf97cea34e1317dca3fecbb9783f60776f8",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1429,6 +1552,7 @@
       "bank_id": "LB-Q0577",
       "cluster": "industries",
       "source_sha256": "886406554856fa53147aaf92d01428859bb4db95f56adfd310f3952d4c81d294",
+      "canonical_source_sha256": "33b4965ac217d6845d73d4033bf794d1344e3be30989fdac5b8ccf880bfff675",
       "opening_sha256": "5c9e944ed6e2683cd46bb32d98778863480831a1483e0c473edac79360558233",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -1442,6 +1566,7 @@
       "bank_id": "LB-Q0579",
       "cluster": "industries",
       "source_sha256": "9c759dfcfbedd804a9332176e5a25d1f8072ccb9a324a8ceb02f39e67e85ae7e",
+      "canonical_source_sha256": "ef52e572c5e50e66187f55211de23256e5b54ebff9faa898bb2c043b53252bb1",
       "opening_sha256": "1680dd2b8cc395d5d938313228c2e478505f112fdbe4337dafb1ea6aff75e28f",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -1455,6 +1580,7 @@
       "bank_id": "LB-Q0459",
       "cluster": "measurement",
       "source_sha256": "2f6a6ac9b38c3d2fdfc90a72028fbec6e23c7bcad68f4567b2e3d5a24e2697e7",
+      "canonical_source_sha256": "e220ab6bb28b422a9aa816bf66e46fbbb538a60e38b235360aac166d48ef7075",
       "opening_sha256": "f5a6c48e7ed4f51390e072d997af56bf054989fef743e1046b381f7a337c7c51",
       "opening_shape": "yes_no",
       "lead_figures": [
@@ -1467,6 +1593,7 @@
       "bank_id": "LB-Q0055",
       "cluster": "measurement",
       "source_sha256": "7b24ce816ea74d4392ea3e47223a57d53c8a8a57cdc3f69752eeeed65063f638",
+      "canonical_source_sha256": "1f11ad67bc084506e018c842c394c2affb18359e54c3bd77d91baeddc09ede10",
       "opening_sha256": "a219c8f16bb427d9997df055a4283426dcea5bf601e90f2549f1d780d080df85",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -1478,6 +1605,7 @@
       "bank_id": "LB-Q0527",
       "cluster": "measurement",
       "source_sha256": "37444941a1a2cfcd7b28b65784c182316d78fd61146cbd4f5cfea979da75d303",
+      "canonical_source_sha256": "af27366fe211d0b0239929fcfa67b67eb8fad7fd9cd19006167c99dd6eeb9568",
       "opening_sha256": "9a035d64b93e875d0dd477b665eefdaec68981a7cc4dcb7a5812920c354b02c3",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -1489,6 +1617,7 @@
       "bank_id": "LB-Q0278",
       "cluster": "measurement",
       "source_sha256": "fca5573e4b16e5c2c58642a98e333f9f5ff55b3fcf87d3a05d24f716c215a5f9",
+      "canonical_source_sha256": "218d9124eba20fff67a593c7e2c163620699db3afceb42253f2f4bb21152c066",
       "opening_sha256": "f14507fccb22889ba2a2d1eefc651c01eb0dc19293aa6964831c7b5fde46aa5c",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -1499,6 +1628,7 @@
       "bank_id": "LB-Q0064",
       "cluster": "measurement",
       "source_sha256": "07bd12f847d6d941466d0688cc36d49133518f48cc5edda1d1c5b0d61a348c52",
+      "canonical_source_sha256": "07bd12f847d6d941466d0688cc36d49133518f48cc5edda1d1c5b0d61a348c52",
       "opening_sha256": "8d4dc95164685b350d9a61c72c944abc904f0fb2bcce9ac20216512902d7a10e",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -1510,6 +1640,7 @@
       "bank_id": "LB-Q0521",
       "cluster": "measurement",
       "source_sha256": "387e8a217b61d11935ff329e018c5a0782198826505dae5a5d276b9b847027a4",
+      "canonical_source_sha256": "bcaf4372173e5111a26c9509a86a1fbfa90a4590f5211e51904d2293fac5fd3a",
       "opening_sha256": "c4f9f718aea5372faf2b15c26147463320c935dca92cb4b33fa3dd72510f33a7",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -1520,6 +1651,7 @@
       "bank_id": "LB-Q0520",
       "cluster": "measurement",
       "source_sha256": "5ff972a4c698c07aa6caf5b2446db19521bba2f3bab3d8298e9bfc2ebbf6e730",
+      "canonical_source_sha256": "20f5415572dd88e390d09303995d1553b7d00d6578cf88d1e662e6213ad7110b",
       "opening_sha256": "c93c2f42f5f6188c23a57da3c661ccf4a3de80f8e34617a1e3c0f466f83cca57",
       "opening_shape": "reader_situation",
       "lead_figures": [
@@ -1530,6 +1662,7 @@
       "bank_id": "LB-Q0452",
       "cluster": "measurement",
       "source_sha256": "49adf5d9c395ea8fb4cd0bbf467a4cc75e6324522854fdfebe91fd055c1bd1a7",
+      "canonical_source_sha256": "c925ec34a5b2f311bc42bb1767d7e62959c9767ff5708fca10c294a2fb19e1a0",
       "opening_sha256": "751f46640094908a2742e6f80a473480242c5b41a82ddec426862855ad90682b",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -1542,6 +1675,7 @@
       "bank_id": "LB-Q0525",
       "cluster": "measurement",
       "source_sha256": "1aa8a18ef90cef4ba9b96c12fd8bd10330b162b97849cee04ec129f94f6b04c4",
+      "canonical_source_sha256": "77fc5f6cc8ae4f47412048536cbbcaac0773bc6ce1f4b2a0477369b9705311ba",
       "opening_sha256": "b9bb9eaba5e15c526f8961d487cff9ecc468c32cf86e5910e1316759e1e5093f",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -1552,6 +1686,7 @@
       "bank_id": "LB-Q0526",
       "cluster": "measurement",
       "source_sha256": "63e12a12f52ebb4ea437ced72c523c117c23e011fc44d30f34e7bb621754ed8d",
+      "canonical_source_sha256": "08e8b6a72313325c93c53eb3386b524997452fd08bb0ab7eda82608d886a0ac3",
       "opening_sha256": "a232dee4ee8a29d3eea8900ee0dbcf11cb7560a1f900d1307cd607e7af85320d",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -1562,6 +1697,7 @@
       "bank_id": "LB-Q0287",
       "cluster": "measurement",
       "source_sha256": "43648bb310cc43da4f74cd9cfabf00854bd0826bf40570d968f51efb018a80d8",
+      "canonical_source_sha256": "62c484cc46a04bf82a9e1a7038009fd35fda2850bbfe41d343226c2e45fdf7e6",
       "opening_sha256": "1cdccd2394c9e9da3679c75a08c5da1ef6de777d3f7d7c70fb948c35a2e5db65",
       "opening_shape": "answer_definition",
       "lead_figures": [
@@ -1573,6 +1709,7 @@
       "bank_id": "LB-Q0029",
       "cluster": "measurement",
       "source_sha256": "21afe15f6efa40ef08ebba1b098c87fe46ce7397d754ac9163be0063f66caa48",
+      "canonical_source_sha256": "019df46383c8cafe5680a9418442bbffeb891bfd0bccda23bd29c1c73f379032",
       "opening_sha256": "6e48388548e621df4f56a3efce42849c7de04da35b6b2fed17b131f8a607f409",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -1583,6 +1720,7 @@
       "bank_id": "LB-Q0297",
       "cluster": "measurement",
       "source_sha256": "a1b13ca6787c00a6ba26ca9e40cd6d9bcc5118e0f08e885ff38e42b307be2cbe",
+      "canonical_source_sha256": "a1b13ca6787c00a6ba26ca9e40cd6d9bcc5118e0f08e885ff38e42b307be2cbe",
       "opening_sha256": "b002ea62ca0782e4654ecbfd02751c8900be7b651fb6241298d15a6b3f746021",
       "opening_shape": "belief_correction",
       "lead_figures": [
@@ -1594,6 +1732,7 @@
       "bank_id": "LB-Q0019",
       "cluster": "measurement",
       "source_sha256": "a43b2f726c1b7efd53f864bcf8754d6479ffd7255dac4dabdf84916ef38c5659",
+      "canonical_source_sha256": "c02460b845fd63e678beadbb31e2e0d74d95fa18b11a48262267f37cd6963231",
       "opening_sha256": "0fd21a9dce51d6765497d32800298a1dce1071a7cc935dd5f0b5116d62ea616a",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -1605,6 +1744,7 @@
       "bank_id": "LB-Q0477",
       "cluster": "measurement",
       "source_sha256": "1d58e99196e298197a5b94b6cc94f16107f22d267480549889f9779229d5bda9",
+      "canonical_source_sha256": "645230d443686b46321f518b1ea89d4c4827b58ea479052fb3031249cfa94f2e",
       "opening_sha256": "3eb1646020e6048ebdad4745dc31e01186a8e0b4465e91d9e1caf526946e2f23",
       "opening_shape": "action_first",
       "lead_figures": [
@@ -1615,6 +1755,7 @@
       "bank_id": "LB-Q0609",
       "cluster": "perplexity",
       "source_sha256": "d4a3121c99f0c75f5bca91dbb28bc0f05643c1c9728a4bd3172c5e2b07c92d70",
+      "canonical_source_sha256": "8263dfdf4afe4003815d9fdecac12ef6e0ec380135787a3e9726a2c59b536da9",
       "opening_sha256": "06b394855f9c7ebc2ca0f3b426ecb27436c1c637c502feaf9f09a1b9d5e58103",
       "opening_shape": "reader_situation",
       "lead_figures": [
@@ -1629,6 +1770,7 @@
       "bank_id": "LB-Q0617",
       "cluster": "perplexity",
       "source_sha256": "9d10b1a31fea7f7b6149cb97558818f616df935b8f88a049d43f9e1802e39116",
+      "canonical_source_sha256": "6b4c8332e3fdf8a9492ed2936dd094d8d006b0ce354ab25cc92879a36091bbd2",
       "opening_sha256": "96715661949c3de368f4bd4884a93598eff19e5698fb59d3050cacec589398bf",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -1642,6 +1784,7 @@
       "bank_id": "LB-Q0610",
       "cluster": "perplexity",
       "source_sha256": "da33df74b1e87a674d64d6c10df03032876b9e0279c9655df9ea4c75f4e11ffd",
+      "canonical_source_sha256": "f0ed0715aa449cbb8501d4cc6d386f25566c7dc9e667254d59d57c3e8628646b",
       "opening_sha256": "0d11ec2e1d7d9b4d5de2c8d878301dca3e3f03df67fe3a6ae06a7fa3fe17f488",
       "opening_shape": "figure_first",
       "lead_figures": [
@@ -1655,6 +1798,7 @@
       "bank_id": "LB-Q0611",
       "cluster": "perplexity",
       "source_sha256": "b0fc3f9e689f84569fc2786c0f52e9ebfc8f293917640f90a871ff6cb7fd20dc",
+      "canonical_source_sha256": "7c1bca69d71903ba5ad560c4c1cb79d87723a6becb7b48c60ef1264ff890a8b5",
       "opening_sha256": "4ff498e36741edf23e910322740bfaf3e3a98bc4d92163018383747df770cf64",
       "opening_shape": "context_contrast",
       "lead_figures": [
@@ -1668,6 +1812,7 @@
       "bank_id": "LB-Q0612",
       "cluster": "perplexity",
       "source_sha256": "ef0f7aa9ba16907028093741d6cdd2106f2a5d7c87ff0f8cd37849c1432629fd",
+      "canonical_source_sha256": "e65471336f177c7588755d6f2c1b44fcbbdbd064e1f9960e813d6a4efe791e60",
       "opening_sha256": "dd488adbcab807b157151476976dd1526e714dca597d19278edfb2a37d294b8a",
       "opening_shape": "date_first",
       "lead_figures": [
@@ -1680,6 +1825,7 @@
       "bank_id": "LB-Q0618",
       "cluster": "perplexity",
       "source_sha256": "477cbe77f1921fd77287c383ddc181821277ff3ba1cb1aa6b17213e18cc050df",
+      "canonical_source_sha256": "c76307720f195bb696a59c49fbc9ccccd4985cea8798d65cc1aec89ed50a249f",
       "opening_sha256": "9baa9c73624ad0221f31b1b574e0f7914bd93ce4fccaef771ae8644ca8d45cd8",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1693,6 +1839,7 @@
       "bank_id": "LB-Q0614",
       "cluster": "perplexity",
       "source_sha256": "6c792796f4422898c412408bc633cbb1a3d0d918be9991183fa7566424a03476",
+      "canonical_source_sha256": "e98d9d64aec0ee7297c5934c7785861233a2db28327a63f1347e4935fcc8fe7e",
       "opening_sha256": "2e9a0c03309d6dee7e283132adfc032fefe27ffcdff52754a03715a49f6a9cbc",
       "opening_shape": "vendor_first",
       "lead_figures": [
@@ -1707,6 +1854,7 @@
       "bank_id": "LB-Q0613",
       "cluster": "perplexity",
       "source_sha256": "1341e28780066b6eda0b9f6b1f10651eff6562610c3dcb752c9b0c0bdf5dfdc8",
+      "canonical_source_sha256": "fd0698eddbf12090e901e817e2d92e88153b8fb55f34af09835aef0b0b4aeee1",
       "opening_sha256": "39cf94a34139d1990576420f1ea7fb515d9366d5d05a26cc72190c6fa12b1fca",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1720,6 +1868,7 @@
       "bank_id": "LB-Q0615",
       "cluster": "perplexity",
       "source_sha256": "d4fbdd57b62f7bb7992c3fcba4b03c4c9ee9e3ae796f69cffbc2c6ae45f92cab",
+      "canonical_source_sha256": "9288860f76d752453ce7bf4930b38cf0f8d24e30c56f309e233d1edee512f87c",
       "opening_sha256": "71960bbd24e23899f79728146f69bb0f1305d5726554ad66f9e954ca242acd8c",
       "opening_shape": "study_result_first",
       "lead_figures": [
@@ -1733,6 +1882,7 @@
       "bank_id": "LB-Q0616",
       "cluster": "perplexity",
       "source_sha256": "b63801adbe1a3b4209315524ff291bdd83c64c98d0582b570ffc57498b17c7ae",
+      "canonical_source_sha256": "9fd9e2f0b6654f70776baae1894304796669f3e20ae916533674afe180494202",
       "opening_sha256": "5a5f4a59a628a0da2d43e95516f77000da670c497fcb06538b9fef3bc1ef3f4a",
       "opening_shape": "vendor_first",
       "lead_figures": [

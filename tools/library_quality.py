@@ -26,8 +26,8 @@ except ModuleNotFoundError:
 
 ROOT = Path(__file__).resolve().parents[1]
 # Filled only after the independently audited150-leaf snapshot is frozen.
-FROZEN_WAVE_ONE_SNAPSHOT_SHA256 = '73dec63ff9119ea31db531414e90f41e573a5b0baa183bb92fb5fcf1db7b5683'
-FROZEN_WAVE_ONE_BASELINE_SHA256 = 'dcb7df675cf3a2f26fa507cb72d17fc4a7d3cd31dad382ddb01429c457e7ff07'
+FROZEN_WAVE_ONE_SNAPSHOT_SHA256 = '1caaae45e7ee80e0ac23a84cb17754bd9c3c0a0e136f7a417d46380f2ad7f7a2'
+FROZEN_WAVE_ONE_BASELINE_SHA256 = '0cd78fbde5e1a7b6a6291bdf2bf8f9169d0744246953102469433a666056292e'
 RECORD_FIELDS = {'category', 'engine', 'question', 'run', 'subject', 'metric',
                  'event_date', 'capture_date', 'cohort', 'release'}
 LINK = re.compile(r'!?\[([^\]]*)\]\([^)]*\)')
@@ -35,7 +35,7 @@ HTML_LINK = re.compile(r'<a\b[^>]*>.*?</a>', re.I|re.S)
 HEX = re.compile(r'[0-9a-f]{64}')
 METADATA_FIELDS = {'schema_version','shape_definitions','cluster_plans','figures','pages','index_question_titles'}
 PAGE_FIELDS = {'bank_id','source_sha256','opening_sha256','opening_shape','classification_reason',
-               'writing_review_sha256','source_review_sha256','lead_figures','lead_figure_spans'}
+               'canonical_source_sha256','writing_review_sha256','source_review_sha256','lead_figures','lead_figure_spans'}
 FIGURE_FIELDS = {'source_url','record','count','base','unit','label','source_review_sha256'}
 
 
@@ -168,6 +168,7 @@ def load_pages(docs):
         opening = paragraph_after_heading(body).strip()
         result[rel] = {'path': rel, 'file': path, 'cluster': meta.get('library_cluster'),
             'meta': meta, 'body': body, 'source_sha256': digest(raw),
+            'canonical_source_sha256': digest(text.encode('utf-8')),
             'opening': opening, 'opening_sha256': digest(opening.encode('utf-8')),
             'six': sequences(words(comparison_prose(body)), 6),
             'eight': sequences(words(comparison_prose(opening)), 8)}
@@ -326,7 +327,8 @@ def validate_annotations(pages, metadata):
         require(set(note)<=PAGE_FIELDS, rel+': unknown/private page audit fields')
         bank_ids = set(re.findall(r'\bLB-Q\d{4}\b',str(p['meta'].get('demand_evidence',''))))
         require(len(bank_ids)==1 and note.get('bank_id') in bank_ids, rel+': annotation bank ID differs from the actual receipt metadata')
-        require(note.get('source_sha256')==p['source_sha256'], rel+': source changed after quality annotation')
+        require(HEX.fullmatch(note.get('source_sha256','')), rel+': historical raw source hash missing')
+        require(note.get('canonical_source_sha256')==p['canonical_source_sha256'], rel+': source content changed after quality annotation')
         require(note.get('opening_sha256')==p['opening_sha256'], rel+': opening changed after human classification')
         require(note.get('opening_shape') in plans[p['cluster']], rel+': shape is outside the actual cluster plan')
         require(note.get('classification_reason') and HEX.fullmatch(note.get('writing_review_sha256','')), rel+': independent human shape reason/receipt missing')
@@ -347,7 +349,7 @@ def apply_baseline(analysis, pages, baseline, trusted_policy):
     require(len(snapshot)==150, 'Baseline must contain exactly the original150 leaves')
     require(set(snapshot)<=set(pages), 'A frozen live leaf was removed')
     for rel,record in snapshot.items():
-        require(record['source_sha256']==pages[rel]['source_sha256'], rel+': frozen baseline page changed; old exceptions cannot follow changed source')
+        require(record['canonical_source_sha256']==pages[rel]['canonical_source_sha256'], rel+': frozen baseline page changed; old exceptions cannot follow changed source content')
         annotation = pages[rel].get('quality_annotation', {})
         require(record['opening_sha256']==pages[rel]['opening_sha256'], rel+': frozen opening changed')
         require(record['opening_shape']==annotation.get('opening_shape') and record['lead_figures']==annotation.get('lead_figures'), rel+': frozen shape/figure classification changed')
