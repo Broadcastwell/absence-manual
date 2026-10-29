@@ -5,7 +5,7 @@ description: Dated software naming counts, category shortlists and the limits of
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T00:22:46+00:00'
-date_modified: '2026-10-29T02:24:55+00:00'
+date_modified: '2026-10-29T19:17:53+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 2
@@ -15,7 +15,7 @@ library_order: 2
 
 Dated software naming counts, category shortlists and the limits of a mention.
 
-These 15 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 19 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Construction buyer context
 
@@ -100,6 +100,30 @@ ChatGPT named Descartes in 12 of 30 transportation answers captured on 22 Septem
 [Which veterinary software does ChatGPT recommend?](which-veterinary-software-does-chatgpt-recommend.md)
 
 ezyVet appeared in 23 of 30 ChatGPT veterinary answers on 22 September 2026. New-clinic and emergency-hospital answers differed.
+
+## Search access and citations
+
+[How can a page get cited by ChatGPT?](how-can-a-page-get-cited-by-chatgpt.md)
+
+Allow search access and inspect the cited URL. Our September CRM panel separates HubSpot naming on ChatGPT from pooled own-domain citations.
+
+## Recommendations and presence
+
+[How can a business be recommended by ChatGPT?](how-can-a-business-be-recommended-by-chatgpt.md)
+
+OpenAI gives search eligibility checks, not guaranteed recommendations. ChatGPT named HubSpot CRM in 24 of 30 September CRM answers in our panel.
+
+## Training and search controls
+
+[Does allowing GPTBot make a site appear in ChatGPT search?](does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md)
+
+GPTBot controls training collection; OAI-SearchBot supports search. Our 23-of-30 Procore naming count does not measure either permission.
+
+## Source selection and observed links
+
+[How does ChatGPT choose which sources to cite?](how-does-chatgpt-choose-which-sources-to-cite.md)
+
+OpenAI describes several search-ranking factors. Fieldwire.com appeared in 52 of 150 pooled construction answers; ChatGPT named Fieldwire in 9 of 30.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

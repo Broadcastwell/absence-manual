@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T02:24:55+00:00'
+date_modified: '2026-10-29T21:08:52+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 15 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 21 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -96,6 +96,40 @@ Unverifiable means the checked vendor pages did not settle the claim: 880 of 2,9
 [Does a recent AI answer contain only current product facts?](does-a-recent-ai-answer-contain-only-current-product-facts.md)
 
 A new answer can repeat an old fact. Wrong About You found five stale statements among 2,922 statements captured on 22 and 23 September 2026.
+
+## Tool definitions
+
+[How does Profound track brand coverage across AI answer engines?](how-does-profound-track-brand-coverage-across-ai-answer-engines.md)
+
+Profound describes response-based brand tracking; Housecall Pro appeared in 21 of 30 ChatGPT and 22 of 30 Google AI Overview answers in September.
+
+[How do Profound and SEO Clarity compare for tracking brand coverage in AI answers?](how-do-profound-and-seo-clarity-compare-for-tracking-brand-coverage-in.md)
+
+Compare Profound and seoClarity by definitions: our CRM record had 113 naming answers and 34 domain-citation answers for HubSpot CRM, base 150.
+
+## Agency alternatives
+
+[What are alternatives to Go Fish Digital for GEO?](what-are-alternatives-to-go-fish-digital-for-geo.md)
+
+Compare Minuttia with Go Fish Digital through their dated published evidence: each has three Yes cells, while their Partial and No fields differ.
+
+## Shopping visibility and transaction proof
+
+[How do GetMint and Otterly compare for transactional GEO in the United States?](how-do-getmint-and-otterly-compare-for-transactional-geo-in-the-united.md)
+
+GetMint describes commerce and content work; OtterlyAI documents shopping tracking. Our 44-of-70 demo-path result did not measure completed transactions.
+
+## Choosing review evidence
+
+[Which review sites for GEO should a buyer compare?](which-review-sites-for-geo-should-a-buyer-compare.md)
+
+Compare client reviews, software reviews and publisher disclosures using our dated 29-of-32 list finding and the distinct parent-company status.
+
+## Growing measurement workload
+
+[How well can entry-level GEO solutions scale with a growing business?](how-well-can-entry-level-geo-solutions-scale-with-a-growing-business.md)
+
+Size a growing GEO workload by retained answers and shared resources. Otterly documents client Workspaces and a shared prompt pool; throughput is untested.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

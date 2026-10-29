@@ -5,7 +5,7 @@ description: Counts, citations, repeat runs and the evidence needed to compare r
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-29T02:24:55+00:00'
+date_modified: '2026-10-29T21:08:52+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 6
@@ -15,7 +15,7 @@ library_order: 6
 
 Counts, citations, repeat runs and the evidence needed to compare reports.
 
-These 15 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 22 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Questions
 
@@ -100,6 +100,46 @@ Check the exact passage. Procore's dated pricing-page claim was one of 113 state
 [What does a recorded AI referral establish?](what-does-a-recorded-ai-referral-establish.md)
 
 A recorded AI referral is a visit classification, not an answer count or sale. Housecall Pro’s 108/150 names and 43/150 citations were answer observations.
+
+## Checking tools
+
+[Which AI visibility tools can a buyer verify?](which-ai-visibility-tools-can-a-buyer-verify.md)
+
+Check Profound and seoClarity against answer receipts: Jobber was named in 50 of 150 answers and its domain cited in 46 on 22 September 2026.
+
+[How can I evaluate Hotwire GAIO.tech as an AI visibility product?](how-can-i-evaluate-hotwire-gaio-tech-as-an-ai-visibility-product.md)
+
+Start with the GAIO.tech-to-Spark name change; our Jobber example separates 50 naming from 46 own-domain citation answers, base 150.
+
+## Tool accuracy evidence
+
+[What does Hotwire GAIO.tech publish about data accuracy?](what-does-hotwire-gaio-tech-publish-about-data-accuracy.md)
+
+Two Hotwire announcements describe GAIO.tech, later Spark. We distinguish those product claims from our measured statement classifications.
+
+## Separate client reporting
+
+[Which AI visibility platforms support multiple agency clients?](which-ai-visibility-platforms-support-multiple-agency-clients.md)
+
+OtterlyAI documents separate client Workspaces. Jobber’s 50 naming and 46 own-domain-cited answers illustrate why each client report needs exact event labels.
+
+## Comparing measured events
+
+[Which measures belong beside one another?](which-measures-belong-beside-one-another.md)
+
+Procore had 109 naming answers and 30 answers with an own-domain citation in the September construction panel. Keep each event and base visible.
+
+## Athena accuracy definitions
+
+[What does Athena publish about data accuracy?](what-does-athena-publish-about-data-accuracy.md)
+
+AthenaHQ's accuracy FAQ describes visibility metrics and client results. Read those separately from our dated claim classifications.
+
+## Dated Hotwire engine labels
+
+[What does Hotwire GAIO.tech publish about model coverage?](what-does-hotwire-gaio-tech-publish-about-model-coverage.md)
+
+Hotwire named four chatbots in its GAIO.tech launch and a different list in the Spark announcement. Read the dated labels separately from our engine counts.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

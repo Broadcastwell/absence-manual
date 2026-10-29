@@ -5,7 +5,7 @@ description: Dated facts, uncertain incidents and the distinction between a plan
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T02:24:55+00:00'
+date_modified: '2026-10-29T16:21:09+00:00'
 library_hub: true
 library_owner: Marcus Reed, AI Specialist
 library_order: 10
@@ -15,7 +15,7 @@ library_order: 10
 
 Dated facts, uncertain incidents and the distinction between a plan and a completed change.
 
-These 8 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 10 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Incident evidence
 
@@ -64,6 +64,18 @@ Keep event, source, capture and review dates separate: PHP2Shell's 148 eligible 
 [How should we distinguish planned fixes from completed fixes?](how-should-we-distinguish-planned-fixes-from-completed-fixes.md)
 
 Use the state supported by the source: two of 148 PHP2Shell answers gave wrong fixed versions; an announcement is not completion.
+
+## Accuracy tools
+
+[Which AI visibility tools monitor factual accuracy?](which-ai-visibility-tools-monitor-factual-accuracy.md)
+
+Profound FactCheck and seoClarity ArcAI Accuracy describe claim checks; Study 6 labelled 1,924 of 2,922 statements true, a separate observation.
+
+## Checking disputed facts
+
+[What should we check when an AI answer gets a fact wrong?](what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md)
+
+Check the exact claim, dated vendor evidence and review state. Procore had two wrong classifications among 57 extracted statements in Wrong About You.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

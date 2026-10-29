@@ -5,7 +5,7 @@ description: Scope, acceptance evidence and questions to ask before agreeing to 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T02:24:55+00:00'
+date_modified: '2026-10-29T21:08:52+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 7
@@ -15,7 +15,7 @@ library_order: 7
 
 Scope, acceptance evidence and questions to ask before agreeing to work.
 
-These 15 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 21 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Delivery choices
 
@@ -106,6 +106,42 @@ Keep evidence gaps explicit: 880 of 2,922 statements were unverifiable in Wrong 
 [How can I check a GEO vendor's published measurement method?](how-can-i-check-a-geo-vendor-s-published-measurement-method.md)
 
 Reconstruct one figure from the method: Dentrix had 120 naming observations in 149 valid answers after one exclusion.
+
+## Agency selection
+
+[Which GEO agencies serve new companies?](which-geo-agencies-serve-new-companies.md)
+
+Citant and Embarque each have four Yes cells out of eight in our dated startup comparison; inspect the different evidence behind those equal totals.
+
+## Agency evidence
+
+[Which agencies document work across AI answer engines?](which-agencies-document-work-across-ai-answer-engines.md)
+
+Our published comparison records Go Fish Digital at three Yes cells out of eight, including Engines; inspect the stated surfaces and the method limit.
+
+## White-label evidence and deliverables
+
+[Is Blobic a good white label GEO provider?](is-blobic-a-good-white-label-geo-provider.md)
+
+Blobic publishes white-label deliverables and terms. Our 118-of-2,042 statement finding explains one accuracy check; it does not score Blobic’s work.
+
+## Research methods and client proof
+
+[How does Seer Interactive compare to other GEO agencies when it comes to research, measurement capabilities, and proven client results?](how-does-seer-interactive-compare-to-other-geo-agencies-when-it-comes.md)
+
+Seer publishes research and specific measurement deliverables. Compare study scopes and case evidence separately; our 75-of-359 result does not rank agencies.
+
+## Agency publication evidence
+
+[How does Omniscient Digital compare as a GEO agency?](how-does-omniscient-digital-compare-as-a-geo-agency.md)
+
+Omniscient Digital has three Yes cells in our eight-field record. Inspect its dated evidence and gaps without turning the total into a service ranking.
+
+## Checkable audit deliverables
+
+[What does an AI visibility audit include?](what-does-an-ai-visibility-audit-include.md)
+
+An AI visibility audit should supply the answers, questions, engines, dates and sources. Our Go Fish publication record shows why the evidence scope matters.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

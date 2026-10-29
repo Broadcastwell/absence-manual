@@ -5,7 +5,7 @@ description: Software names observed in Perplexity answers, read beside the cate
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T02:24:55+00:00'
-date_modified: '2026-10-29T02:24:55+00:00'
+date_modified: '2026-10-29T16:21:09+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 4
@@ -15,7 +15,7 @@ library_order: 4
 
 Software names observed in Perplexity answers, read beside the category records.
 
-These 10 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 11 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Construction buyer contexts
 
@@ -76,6 +76,12 @@ AscendTMS appeared in 15 of 30 Perplexity transportation answers captured on 22 
 [Which veterinary software does Perplexity recommend?](which-veterinary-software-does-perplexity-recommend.md)
 
 ezyVet was named in 21 of 30 Perplexity veterinary answers captured on 22 September 2026; IDEXX (Cornerstone, Neo) appeared in 18.
+
+## How the engine works
+
+[How does Perplexity work?](how-does-perplexity-work.md)
+
+Perplexity describes web search with source-linked answers. Our construction panel recorded Procore in 21 of 30 Perplexity answers on 22 September 2026.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
