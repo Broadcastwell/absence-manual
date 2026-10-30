@@ -5,7 +5,7 @@ description: What assistants found, understood and reached on public software we
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T22:39:48+00:00'
+date_modified: '2026-10-30T03:35:42+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 11
@@ -15,7 +15,7 @@ library_order: 11
 
 What assistants found, understood and reached on public software websites.
 
-These 14 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 22 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Connections and public browsing
 
@@ -96,6 +96,54 @@ Cloudbeds has a documented third-party AI connection listing. Our 14-of-15 hotel
 [Can insurance agency software integrate with ChatGPT?](can-insurance-agency-software-integrate-with-chatgpt.md)
 
 AgencyZoom documents a Zapier route for insurance agencies; Agent Gap reached 10 of 15 public insurance website endpoints on 6 October 2026.
+
+## Legal matter connections
+
+[Can legal practice software integrate with ChatGPT?](can-legal-practice-software-integrate-with-chatgpt.md)
+
+Clio lists ChatGPT-compatible actions through Zapier; Agent Gap reached 13 of 15 legal website endpoints on 6 October 2026.
+
+## Loan origination connections
+
+[Can loan origination software integrate with ChatGPT?](can-loan-origination-software-integrate-with-chatgpt.md)
+
+LendingPad lists a loan-creation route for ChatGPT-compatible clients; Agent Gap reached 6 of 15 loan website endpoints on 6 October 2026.
+
+## Radiology patient-app connections
+
+[Can radiology software integrate with ChatGPT?](can-radiology-software-integrate-with-chatgpt.md)
+
+RamSoft announced a ChatGPT-powered imaging patient app in 2023. That embedded feature differs from connecting a consumer account.
+
+## Property-management custom API routes
+
+[Can residential property software integrate with ChatGPT?](can-residential-property-software-integrate-with-chatgpt.md)
+
+Buildium’s property-data API offers a possible custom GPT Actions route. Its account, authentication and lease scope still need a design.
+
+## Transportation account access
+
+[Can transportation software integrate with ChatGPT?](can-transportation-software-integrate-with-chatgpt.md)
+
+Alvys describes beta MCP access from ChatGPT for loads, invoices and tracking. Public-site reach is a separate observation.
+
+## Veterinary custom API connections
+
+[Can veterinary software integrate with ChatGPT?](can-veterinary-software-integrate-with-chatgpt.md)
+
+An ezyVet API and GPT Actions custom build is a possible route, subject to approval. That is different from a ready-made connector.
+
+## Commerce protocols and business evidence
+
+[Is agent-to-agent commerce a viable business opportunity?](is-agent-to-agent-commerce-a-viable-business-opportunity.md)
+
+A checkout protocol describes a transaction path. It does not establish buyer demand, paid orders or a viable business.
+
+## CRM permissions and writes
+
+[What are the benefits and risks of connecting HubSpot with ChatGPT?](what-are-the-benefits-and-risks-of-connecting-hubspot-with-chatgpt.md)
+
+HubSpot documents CRM reads and writes, with approval and validation limits. Our 13/15 CRM website result measures discovery.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

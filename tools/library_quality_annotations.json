@@ -5417,6 +5417,368 @@
       "unit": "publication_criteria",
       "label": "Omniscient Digital dated publicly verifiable criteria",
       "source_review_sha256": "8ad8e4692ae842627e76386cd4449b9238cc86b3451dad5c29f3cca3b4b28402"
+    },
+    "figure:1f079cdf77ce5342aa92a2d5024beb25d9bbee508d6d6424e96d7ac7d8babcd9": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "engine": "Google AI Mode",
+        "subject": "all-scheduled-answers",
+        "metric": "excluded_request_limit",
+        "cohort": "study7-derived-records"
+      },
+      "count": 1,
+      "base": 420,
+      "unit": "answers",
+      "label": "Study7 Google AI Mode target excluded for explicit request-limit response",
+      "source_review_sha256": "18a30528136c81e1a0dc45e48cfbde8b24b971489adb659ae3700802519c34b0"
+    },
+    "figure:9f72c44206d1873048d0a6f7c2ec3f8dcf625885b8503328056454fe6b6a47fd": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "veterinary-practice-management",
+        "engine": "pooled-five-engines",
+        "subject": "Digitail",
+        "metric": "named"
+      },
+      "count": 67,
+      "base": 149,
+      "unit": "answers",
+      "label": "Digitail: named",
+      "source_review_sha256": "e1ea869154d31a90ba1605e151610b92fdf1f910572a8034d003858461d0393d"
+    },
+    "figure:d4cd0c284fbc773d41dcd219a100b7430ab83df24d07a42ae224cd22ec5c0db2": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "veterinary-practice-management",
+        "engine": "pooled-five-engines",
+        "subject": "ezyVet",
+        "metric": "named"
+      },
+      "count": 115,
+      "base": 149,
+      "unit": "answers",
+      "label": "ezyVet: named",
+      "source_review_sha256": "e1ea869154d31a90ba1605e151610b92fdf1f910572a8034d003858461d0393d"
+    },
+    "figure:539a927b43f5757aa088e168625aa0fd1807f9ca078a89cce6a896bf791f5525": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "engine": "Google AI Mode",
+        "subject": "all-fourteen-categories",
+        "metric": "scheduled_targets"
+      },
+      "count": 420,
+      "base": null,
+      "unit": "targets",
+      "label": "September Index Google AI Mode target cohort",
+      "source_review_sha256": "425d2fd6f58262ccf3b6cc26cdb2772f73fa607fa21e8daf9aa80034cad60cde"
+    },
+    "figure:5af00bfce83dbf587027a865e03f1ed5056ee4ae8f37a9c3b58c11b983d0c89f": {
+      "source_url": "https://broadcastwell.com/best-ai-visibility-tools-with-mcp",
+      "record": {
+        "capture_date": "2026-09-17",
+        "subject": "OtterlyAI",
+        "metric": "MCP_access_named_plan_labels"
+      },
+      "count": 3,
+      "base": null,
+      "unit": "plan-labels",
+      "label": "OtterlyAI MCP access: three named plan labels in the dated review",
+      "source_review_sha256": "31c4aa01572a65dbb5a4cb9f3b3e8172e30e0473ea4dae0406590c48d02bf926"
+    },
+    "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22|2026-09-23",
+        "engine": "Google AI Overviews",
+        "subject": "all-fourteen-categories",
+        "metric": "retained_answers",
+        "cohort": "scheduled-question-engine-repeats"
+      },
+      "count": 415,
+      "base": 420,
+      "unit": "answers",
+      "label": "Original September Index: retained Google AI Overviews answers",
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e"
+    },
+    "figure:12a81bc92c79d42568cc5358290b46db1333c79a0fd9eff542f3deb8012649ab": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "radiology-medical-imaging",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 11,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap radiology-medical-imaging: reached",
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e"
+    },
+    "figure:582678caf30bb8a9e527e1a8a7f6e413dd54e78d0625a789f5a7c3b816c8ca1a": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "residential-property-management",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 12,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap residential-property-management: reached",
+      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9"
+    },
+    "figure:25bf47569357bbd13c78d0fc9edc82b9324e6a83b786e4040548dce84d400904": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "transportation-management-systems",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 11,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap transportation-management-systems: reached",
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e"
+    },
+    "figure:84d870519372a108a6ccb6ba32712f32fc48e3389a1823442c1aa08645c35cfe": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "veterinary-practice-management",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 12,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap veterinary-practice-management: reached",
+      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9"
+    },
+    "figure:5a4d71411e2253b30de0863e40d0b9e9d4d01812896c03ba90b1657f35172ddf": {
+      "source_url": "https://doi.org/10.5281/zenodo.23586713",
+      "record": {
+        "capture_date": "2026-10-23",
+        "engine": "ChatGPT",
+        "subject": "eligible-answer-panel",
+        "metric": "potentially_misleading"
+      },
+      "count": 2,
+      "base": 30,
+      "unit": "answers",
+      "label": "PHP2Shell: ChatGPT potentially misleading answer flags",
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e"
+    },
+    "figure:ce26a836bf190140c59aa209e5d8056986471f944c05804647d63b554448c669": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22|2026-09-23",
+        "subject": "all-checked-category-sets",
+        "metric": "checked_vendors"
+      },
+      "count": 286,
+      "base": null,
+      "unit": "checked-vendors",
+      "label": "September Index checked vendor panel",
+      "source_review_sha256": "7593ee40a0b0072c9918572d1e0b485814f20ac7861e8d73baa7ce33c3c4c8b1"
+    },
+    "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22|2026-09-23",
+        "engine": "Google AI Overviews",
+        "subject": "all-fourteen-categories",
+        "metric": "checked_vendor_name_appearances"
+      },
+      "count": 1352,
+      "base": 415,
+      "unit": "checked-name-appearances",
+      "label": "Google AI Overviews checked-name appearances per answer",
+      "source_review_sha256": "7593ee40a0b0072c9918572d1e0b485814f20ac7861e8d73baa7ce33c3c4c8b1"
+    },
+    "figure:98bcaddb283391c820d37de6e9a216704fb374def217f17e2066843b290c62d5": {
+      "source_url": "https://doi.org/10.5281/zenodo.21789120",
+      "record": {
+        "capture_date": "2026-08-04",
+        "engine": "chatgpt",
+        "subject": "main-question-panel",
+        "metric": "collected_answers",
+        "cohort": "main-run"
+      },
+      "count": 18,
+      "base": 280,
+      "unit": "answers",
+      "label": "VolumeIIIChatGPT main answers collected before the billing stop",
+      "source_review_sha256": "7593ee40a0b0072c9918572d1e0b485814f20ac7861e8d73baa7ce33c3c4c8b1"
+    },
+    "figure:0231d3e67eab9d2ba2040461e1264e46eae5088ef0f3ed5317154f01ce11d300": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "engine": "Claude",
+        "subject": "all-fourteen-categories",
+        "metric": "checked_vendor_name_appearances"
+      },
+      "count": 2039,
+      "base": 420,
+      "unit": "checked-name-appearances",
+      "label": "Claude checked-name appearances per answer",
+      "source_review_sha256": "7593ee40a0b0072c9918572d1e0b485814f20ac7861e8d73baa7ce33c3c4c8b1"
+    },
+    "figure:f1a88cedbae04ebcc9958c55e2087d783d786e3bdc483feb8d173e3637d6d1ce": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "loan-origination-software",
+        "subject": "Origence",
+        "metric": "named"
+      },
+      "count": 14,
+      "base": 150,
+      "unit": "answers",
+      "label": "Origence named across original loan-software answers",
+      "source_review_sha256": "fcac74a74a2a552aa9abc1786347604fcd6bf42396edcd1778896a6dbe4ddf51"
+    },
+    "figure:a4e527e0901a3804381c47a595a8007eba6e615ea92b754d05c4c3123bf41177": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "category": "construction-project-management",
+        "subject": "price",
+        "metric": "criterion_stated",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 5,
+      "base": 149,
+      "unit": "answers",
+      "label": "Clear pricing basis and included features",
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26"
+    },
+    "figure:cd0aad6e73d00ccaf619c3b44e62554dc03a84da7bb915a72af277685e89502b": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "field-service-management",
+        "engine": "ChatGPT",
+        "subject": "Jobber",
+        "metric": "named"
+      },
+      "count": 18,
+      "base": 30,
+      "unit": "answers",
+      "label": "Jobber named in ChatGPT field-service answers",
+      "source_review_sha256": "6839f73e55a629bbcd934183a113efafec816e29551c016bc90fc5a7fc5e8275"
+    },
+    "figure:427a1b4af6fc1eac33c964fbe1bd5736d03bf9717e84b6d841c930507970b69b": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22|2026-09-23",
+        "subject": "threads.net|threads.com",
+        "metric": "answers_with_recorded_cited_host",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 0,
+      "base": 2093,
+      "unit": "answers",
+      "label": "Included Study7 answers with a recorded Threads citation URL",
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26"
+    },
+    "figure:096f900bde1dba03f887e4a68fb4be689b2017dee6e3d35d51db17ecff334f8b": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "category": "construction-project-management",
+        "subject": "workflow",
+        "metric": "criterion_stated",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 9,
+      "base": 149,
+      "unit": "answers",
+      "label": "Construction workflow tracking for RFIs, submittals and field reports",
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26"
+    },
+    "figure:bb81590150c48e4676e96c55ca10e947ca294271c85ed71eb95daea97c073bf7": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22|2026-09-23",
+        "engine": "Google AI Overviews",
+        "subject": "capterra.com",
+        "metric": "recorded_cited_host",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 45,
+      "base": 414,
+      "unit": "answers",
+      "label": "Study7 included Overviews with capterra.com in recorded citation URLs",
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26"
+    },
+    "figure:149ee9b35840e872b32a388ce8cd4212ec0e061c2ec0d312ab009cfe60fdbcc1": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "hotel-property-management",
+        "engine": "Google AI Overviews",
+        "subject": "all-question-targets",
+        "metric": "no_overview",
+        "cohort": "original-index-targets"
+      },
+      "count": 1,
+      "base": 30,
+      "unit": "targets",
+      "label": "Original hotel-software target with explicit no Overview",
+      "source_review_sha256": "fcac74a74a2a552aa9abc1786347604fcd6bf42396edcd1778896a6dbe4ddf51"
+    },
+    "figure:98d216e8303dc92e0ffa7f69b3ccb20f8c34d0dc321d91e2085d815e279cf68f": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "ChatGPT",
+        "subject": "HubSpot CRM",
+        "metric": "own_domain_cited"
+      },
+      "count": 24,
+      "base": 30,
+      "unit": "answers",
+      "label": "HubSpot own domain cited in ChatGPT CRM answers",
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26"
+    },
+    "figure:852c894276065ae503cb3a9f415865dec9abb7897df3ca76fe3cb69e2d162ef3": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "crm",
+        "subject": "S2",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 5,
+      "base": 5,
+      "unit": "initial_tasks",
+      "label": "Agent Gap CRM initial Pricing-page tasks reached",
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26"
     }
   },
   "pages": {
@@ -10019,6 +10381,910 @@
       "opening_shape": "source_first",
       "classification_reason": "The named AthenaHQ accuracy FAQ is the grammatical source-document subject of the first clause. Its descriptions, rather than a checked software-performance result, lead the paragraph. This matches the existing source_first definition and measurement inventory.",
       "writing_review_sha256": "1e45771c715150a95b5a0622a90e946412d75da23d283bb2e9ddee7f2535faa5"
+    },
+    "answers/agents/can-legal-practice-software-integrate-with-chatgpt.md": {
+      "source_sha256": "995e75a5f6d071ffad8fbcb23b73fea3f14a19a474c154319ba5409051adecef",
+      "canonical_source_sha256": "995e75a5f6d071ffad8fbcb23b73fea3f14a19a474c154319ba5409051adecef",
+      "opening_sha256": "2ba2761c478078426414a32dac6ee2334d9521b1568ee6914a8b8b807c98e321",
+      "bank_id": "LB-Q0399",
+      "lead_figures": [
+        "figure:849206160eeb7f5ded0ccc0f3deed26b21fdf0d77d48b0a2ac07c7491ee7d30b"
+      ],
+      "lead_figure_spans": {
+        "figure:849206160eeb7f5ded0ccc0f3deed26b21fdf0d77d48b0a2ac07c7491ee7d30b": [
+          "Yes. Clio's Zapier listing describes a ChatGPT-compatible MCP connection, while a separate activity automation uses OpenAI's Chat Completions API. Agent Gap recorded 13 reached endpoints from 15 initial legal-software website tasks on 6 October 2026."
+        ]
+      },
+      "source_review_sha256": "b29e1188aeee2a77c6e46fe50e7d61971096a66aa7629f0822924b9631af0f57",
+      "opening_shape": "yes_no",
+      "classification_reason": "The paragraph explicitly starts Yes and immediately answers the title question, before the named Clio route and count.",
+      "writing_review_sha256": "4cfa2e047e441d76b2d01fd0c146161da97f284959a61ee9928dfacec3aa687e"
+    },
+    "answers/agents/can-loan-origination-software-integrate-with-chatgpt.md": {
+      "source_sha256": "6bf2e73bfc5394587bd83a8c25df3ad883b1284c6e8f9f6db0b124c86005d171",
+      "canonical_source_sha256": "6bf2e73bfc5394587bd83a8c25df3ad883b1284c6e8f9f6db0b124c86005d171",
+      "opening_sha256": "f546992c79e5a32edbf7585380b5c6e62e51e91b5df762a2eab5f9213d3042dd",
+      "bank_id": "LB-Q0408",
+      "lead_figures": [
+        "figure:839b7f2410a4991956782a8a291b69eade2e1532f0263e0d4fc0943cf23dbb7e"
+      ],
+      "lead_figure_spans": {
+        "figure:839b7f2410a4991956782a8a291b69eade2e1532f0263e0d4fc0943cf23dbb7e": [
+          "On 29 October 2026, we read LendingPad's Zapier listing: it names Create New Lead / Loan in an MCP section for ChatGPT-compatible clients. Our loan-origination observations in Agent Gap recorded 6 reached endpoints in 15 initial public website tasks on 6 October 2026."
+        ]
+      },
+      "source_review_sha256": "b29e1188aeee2a77c6e46fe50e7d61971096a66aa7629f0822924b9631af0f57",
+      "opening_shape": "date_first",
+      "classification_reason": "The date of the actual new primary-listing read frames the first clause and route; the study capture is separately dated. This is the source-capture event in the new paragraph, not an old repeated sentence shuffled to obtain a label.",
+      "writing_review_sha256": "6c259d8b37e41a21977a28a502aa36532bc73667974ef852682a9ca3d7210b03"
+    },
+    "answers/fixes/how-should-teams-handle-seo-and-geo-in-day-to-day-work.md": {
+      "source_sha256": "9e387c7d1d33f30ed8d737eb321010f29f5db9acae5f78467d934674f4a64b3f",
+      "canonical_source_sha256": "9e387c7d1d33f30ed8d737eb321010f29f5db9acae5f78467d934674f4a64b3f",
+      "opening_sha256": "c4fca90d903bd7fa6376d3a0583ef40ad7249ba9aa66e60e2bc637aabfcd8573",
+      "bank_id": "LB-Q0485",
+      "lead_figures": [
+        "figure:4931f9f723b247e50ecf6b2caa0871e1a7f29f58d32f2ae39ac36286e3f52304"
+      ],
+      "lead_figure_spans": {
+        "figure:4931f9f723b247e50ecf6b2caa0871e1a7f29f58d32f2ae39ac36286e3f52304": [
+          "Procore's pricing flags give a team a concrete daily task: check the disputed claim, assign the relevant page work and record what was actually completed. Wrong About You marked 2/57 Procore statements wrong. The study captured those answers on 22 September 2026; the vendor-page check followed on 8 October. You can use those records to specify work; both still have team review in progress, so neither is a completed repair."
+        ]
+      },
+      "source_review_sha256": "8ad8e4692ae842627e76386cd4449b9238cc86b3451dad5c29f3cca3b4b28402",
+      "opening_shape": "vendor_first",
+      "classification_reason": "The checked Procore identity and its pricing flags lead the first clause and task; the numerical statement finding follows.",
+      "writing_review_sha256": "e38ed8e0b8dacb0feb6d7c99a73d95c0a6e46ba4a7f14c01b27b416cc69c2b10"
+    },
+    "answers/google-ai/why-is-google-ai-mode-not-working.md": {
+      "source_sha256": "dbff5486a8698e2977ea873528b11419b494570a7cba29f4741108dd96ec7b03",
+      "canonical_source_sha256": "dbff5486a8698e2977ea873528b11419b494570a7cba29f4741108dd96ec7b03",
+      "opening_sha256": "7a7305ba04c818c7a48d1bdd1865d6a3531aaaa4def2d57790b507ccc179f8eb",
+      "bank_id": "LB-Q0375",
+      "lead_figures": [
+        "figure:1f079cdf77ce5342aa92a2d5024beb25d9bbee508d6d6424e96d7ac7d8babcd9"
+      ],
+      "lead_figure_spans": {
+        "figure:1f079cdf77ce5342aa92a2d5024beb25d9bbee508d6d6424e96d7ac7d8babcd9": [
+          "If your AI Mode screen shows a request-limit message, that notice is more informative than the label 'not working'. Our derived Study 7 coding excluded one of 420 scheduled AI Mode targets from 22 September 2026 as a request-limit response. A missing entry or a links-only result needs a different check against Google's help."
+        ]
+      },
+      "source_review_sha256": "18a30528136c81e1a0dc45e48cfbde8b24b971489adb659ae3700802519c34b0",
+      "opening_shape": "reader_situation",
+      "classification_reason": "If your AI Mode screen shows a request-limit message is the particular reader condition leading the first sentence. It is not a first-person engine diagnosis, figure-first count or general definition.",
+      "writing_review_sha256": "82bb9d36c4f1dbc731a3e816a78f6269d2a605bafba28ccf0451d363c57c751c"
+    },
+    "answers/industries/digitail-vs-ezyvet-for-ai-native-veterinary-practice-management-with-t.md": {
+      "source_sha256": "017e5e2610016d099bbe9b21050621f5b4c39da37002fd89daaa5bc909fc9c3d",
+      "canonical_source_sha256": "017e5e2610016d099bbe9b21050621f5b4c39da37002fd89daaa5bc909fc9c3d",
+      "opening_sha256": "c5f2a4f8bd155ad585b969ee355267bc7b4480881dc1c78d0b425d648799ac2f",
+      "bank_id": "LB-Q0073",
+      "lead_figures": [
+        "figure:9f72c44206d1873048d0a6f7c2ec3f8dcf625885b8503328056454fe6b6a47fd",
+        "figure:d4cd0c284fbc773d41dcd219a100b7430ab83df24d07a42ae224cd22ec5c0db2"
+      ],
+      "lead_figure_spans": {
+        "figure:9f72c44206d1873048d0a6f7c2ec3f8dcf625885b8503328056454fe6b6a47fd": [
+          "For a practice choosing AI-assisted records alongside telemedicine and client messaging, compare the documented setup: Digitail describes built-in intake, while ezyVet documents separate VetRec and Zoom connections. Our 22 September 2026 veterinary answers named Digitail in 67 of 149 and ezyVet in 115 of 149. Those counts measure visibility, not which system is better for your clinic."
+        ],
+        "figure:d4cd0c284fbc773d41dcd219a100b7430ab83df24d07a42ae224cd22ec5c0db2": [
+          "For a practice choosing AI-assisted records alongside telemedicine and client messaging, compare the documented setup: Digitail describes built-in intake, while ezyVet documents separate VetRec and Zoom connections. Our 22 September 2026 veterinary answers named Digitail in 67 of 149 and ezyVet in 115 of 149. Those counts measure visibility, not which system is better for your clinic."
+        ]
+      },
+      "source_review_sha256": "e1ea869154d31a90ba1605e151610b92fdf1f910572a8034d003858461d0393d",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The particular practice choosing records/telemedicine/messaging leads the first clause, before the named setup comparison.",
+      "writing_review_sha256": "87a071eefa925696d66dceb71de7731cef25495499b1762dbbc0025fcfb593b9"
+    },
+    "answers/buying/which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo.md": {
+      "source_sha256": "5a0d985ea4fb7f6ef72143db6504d338ee0d877c69124986238961fc4a315ccc",
+      "canonical_source_sha256": "5a0d985ea4fb7f6ef72143db6504d338ee0d877c69124986238961fc4a315ccc",
+      "opening_sha256": "6699731fb6ea5be14e7c18f31c1afc7568adefbd2e45543b6a5e547182b35877",
+      "bank_id": "LB-Q0057",
+      "lead_figures": [
+        "figure:4931f9f723b247e50ecf6b2caa0871e1a7f29f58d32f2ae39ac36286e3f52304"
+      ],
+      "lead_figure_spans": {
+        "figure:4931f9f723b247e50ecf6b2caa0871e1a7f29f58d32f2ae39ac36286e3f52304": [
+          "OtterlyAI documents temporary Workspaces for proposals, so it offers a named route for agencies preparing prospect audits. Scope the output before treating a visibility chart as a fact-checked sales report: Wrong About You marked two of 57 Procore statements wrong in answers captured on 22 September 2026, against vendor evidence read on 8 October."
+        ]
+      },
+      "source_review_sha256": "de70585b7d601dbea878f2e5f43ba07cdaa5641d4b2c47081bdf059e949c5cc4",
+      "opening_shape": "vendor_first",
+      "classification_reason": "OtterlyAI, the checked named software provider, leads the first clause and its documented proposal route.",
+      "writing_review_sha256": "051a1d0ba9e89243e59b7ffcfa8dae3ea078d1c3b581d8489e1f2c05899f4414"
+    },
+    "answers/google-ai/what-is-deep-search-in-google-ai-mode.md": {
+      "source_sha256": "e86327665f37819a3a61dd2497878725f0fcff45707c2b8cf6b6afcbad1caeb4",
+      "canonical_source_sha256": "c99f3c7cf1897ba456a47ab3d6b268d52d44307d3c30195499959257467380b3",
+      "opening_sha256": "bb8990a4e9d59e1b3a7193883e1c8daf86c61425cf70ebecddccb35963bf24c2",
+      "bank_id": "LB-Q0377",
+      "lead_figures": [
+        "figure:539a927b43f5757aa088e168625aa0fd1807f9ca078a89cce6a896bf791f5525"
+      ],
+      "lead_figure_spans": {
+        "figure:539a927b43f5757aa088e168625aa0fd1807f9ca078a89cce6a896bf791f5525": [
+          "On 20 May 2025, Google described Deep Search as an AI Mode research feature that expands a question into searches and produces a cited report. Our September Index recorded 420 Mode-labelled targets on 22 September 2026, kept as our ordinary AI Mode cohort rather than a separately labelled Deep Search test."
+        ]
+      },
+      "source_review_sha256": "425d2fd6f58262ccf3b6cc26cdb2772f73fa607fa21e8daf9aa80034cad60cde",
+      "opening_shape": "date_first",
+      "classification_reason": "On20May2025 is the actual leading chronological frame, followed by the named announcement and separate22September2026 cohort. It is not a source-first or figure-first opening.",
+      "writing_review_sha256": "585347650478fd8544b0026698b0cb79e0f8fde1b75ec1ecab41a13a3ed97ff8"
+    },
+    "answers/geo-basics/how-do-ai-visibility-vendors-differ-for-regulated-industries.md": {
+      "source_sha256": "f91a5fa89bde97f55178e38f7b77ffb1dfa8fea79291b77846c6b923831ca640",
+      "canonical_source_sha256": "e5c94b7ed858a02ed3ec33cb1cd6fe8b4d5ef5f1467adfc0b098b876b3092d73",
+      "opening_sha256": "d03e16378a3584c225efc52bb9c43a3dc2a1f35d366e4d877187638d1667550e",
+      "bank_id": "LB-Q0076",
+      "lead_figures": [
+        "figure:5af00bfce83dbf587027a865e03f1ed5056ee4ae8f37a9c3b58c11b983d0c89f"
+      ],
+      "lead_figure_spans": {
+        "figure:5af00bfce83dbf587027a865e03f1ed5056ee4ae8f37a9c3b58c11b983d0c89f": [
+          "On 17 September 2026, our publication review recorded three MCP-access plan labels for OtterlyAI: Standard, Premium and Enterprise. The vendor's SSO guide places SSO on Enterprise; differentiation for regulated buyers therefore depends on the specific documented control and plan, rather than whether an MCP connector exists."
+        ]
+      },
+      "source_review_sha256": "31c4aa01572a65dbb5a4cb9f3b3e8172e30e0473ea4dae0406590c48d02bf926",
+      "opening_shape": "date_first",
+      "classification_reason": "On17September2026 is the actual opening frame before theOtterlyAI plan-label fact. It is a dated documentation-record opening, not vendor_first or a runtime-study result.",
+      "writing_review_sha256": "2886bbde0b5654ef9e19bfdec66503f5e6f9c4afe48def2d4545a54326f0e0cd"
+    },
+    "answers/buying/79dev-com-geo-services-worth-it.md": {
+      "bank_id": "LB-Q0061",
+      "source_sha256": "65ea979a09589edb6c76a9ce1f3216018b07ade259ba0e894f4982872c9cc8f1",
+      "canonical_source_sha256": "65ea979a09589edb6c76a9ce1f3216018b07ade259ba0e894f4982872c9cc8f1",
+      "opening_sha256": "572ecf4078c9d2c2b7e52549bcd109920e50eb41d79fccb26061d77d97713725",
+      "lead_figures": [
+        "figure:40dc825f975e0ba5d3880c38c3df0c68e7fb6ad66b273d9135961290c7d4c5fd"
+      ],
+      "lead_figure_spans": {
+        "figure:40dc825f975e0ba5d3880c38c3df0c68e7fb6ad66b273d9135961290c7d4c5fd": [
+          "If you are considering 79 Development, judge its published audit and implementation scope against the evidence your business needs. Our [Volume II study](https://doi.org/10.5281/zenodo.21586091) found 25 of 85 companies were cited more often than named on 18 and 23 July 2026, so mentions and citations should remain separate in that buying decision."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader considering 79 Development is the initial condition, before the audit and study figures.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re.md": {
+      "bank_id": "LB-Q0088",
+      "source_sha256": "e6af0fa0909b0b7ad9506dcab50cfb36e05a3ae93f9b3014b3e708e70d1b2a78",
+      "canonical_source_sha256": "e6af0fa0909b0b7ad9506dcab50cfb36e05a3ae93f9b3014b3e708e70d1b2a78",
+      "opening_sha256": "8f7b888a3efaa807801e47128c5bd21c88874defdc9745a5e3c398d657cdfb92",
+      "lead_figures": [
+        "figure:a573e70eff379bd895e8510e37748ac26af57acd269de32807249188b80e479a"
+      ],
+      "lead_figure_spans": {
+        "figure:a573e70eff379bd895e8510e37748ac26af57acd269de32807249188b80e479a": [
+          "Otterly documents daily prompt monitoring and cumulative counts; Profound documents daily answer datasets and charts. For context, our [Volume III study](https://doi.org/10.5281/zenodo.21789120) found a mean vendor-set Jaccard overlap of 0.499 across 62 Google AI Overviews repeat pairs on 4 August 2026, making the underlying runs material to a trend."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Otterly leads the first clause with its documented monitoring, followed by Profound and the repeat-run context.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/measurement/what-ai-visibility-products-does-hotwire-gaio-tech-offer.md": {
+      "bank_id": "LB-Q0091",
+      "source_sha256": "dfd8f9d0f56ef9af35e1614249623dc7251fa20c037278896e002c2abd2d5431",
+      "canonical_source_sha256": "dfd8f9d0f56ef9af35e1614249623dc7251fa20c037278896e002c2abd2d5431",
+      "opening_sha256": "8f5ec2df6e0d1a45b80c4d9d8ea0a0199b9990e2e0d88a489d6ab6a14bfec387",
+      "lead_figures": [
+        "figure:40dc825f975e0ba5d3880c38c3df0c68e7fb6ad66b273d9135961290c7d4c5fd"
+      ],
+      "lead_figure_spans": {
+        "figure:40dc825f975e0ba5d3880c38c3df0c68e7fb6ad66b273d9135961290c7d4c5fd": [
+          "On 27 March 2025, Hotwire announced that Spark was the tool formerly called GAIO.tech, separate from its Ignite account-intelligence product. To distinguish visibility outputs, our [Volume II study](https://doi.org/10.5281/zenodo.21586091) found 25 of 85 companies received more own-domain citations than name appearances on 18 and 23 July 2026."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "date_first",
+      "classification_reason": "The 27 March 2025 announcement date leads the opening, before the Spark identity and separate study finding.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-and-generative-ui-relate.md": {
+      "bank_id": "LB-Q0381",
+      "source_sha256": "33b531aba6291ba019e5166687eb78beea3be2adab4e149a13f9d1b151c28125",
+      "canonical_source_sha256": "33b531aba6291ba019e5166687eb78beea3be2adab4e149a13f9d1b151c28125",
+      "opening_sha256": "7a7eb5c6f7fc8807ddac355eccf486848de7aede70eaa2099621024550f5ffbc",
+      "lead_figures": [
+        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4"
+      ],
+      "lead_figure_spans": {
+        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4": [
+          "Generative UI is a way Google can present an AI answer as an interactive visual or tool inside Search. Google described it in Overviews on 19 August 2026; our [September Index](https://doi.org/10.5281/zenodo.22907695) retained 415 Overview text-answer records from 420 targets on 22 and 23 September 2026, a different unit from counting interactive widgets."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The first clause defines generative UI as a presentation capability, before naming dates and counts.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/google-ai/are-google-ai-overviews-available-in-france.md": {
+      "bank_id": "LB-Q0383",
+      "source_sha256": "5e49aad8401b81068ab578868b8a67291fc10cc622ea3237ca7ed6bc3650b28b",
+      "canonical_source_sha256": "5e49aad8401b81068ab578868b8a67291fc10cc622ea3237ca7ed6bc3650b28b",
+      "opening_sha256": "1a5048b33b69f39d34ca554176186e3c017fb356ca76ce877d74c7ba7a50673a",
+      "lead_figures": [
+        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4"
+      ],
+      "lead_figure_spans": {
+        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4": [
+          "Yes. Google announced AI Overviews in France on 22 July 2026, while explaining that an Overview appears only when its systems find one useful. Our separate [September Index](https://doi.org/10.5281/zenodo.22907695) retained 415 Google AI Overviews answers from 420 scheduled targets on 22 and 23 September 2026."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "yes_no",
+      "classification_reason": "The opening begins Yes and directly answers French availability, then distinguishes query-level returns.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/agents/can-radiology-software-integrate-with-chatgpt.md": {
+      "bank_id": "LB-Q0429",
+      "source_sha256": "29ee632c2b129968fef0ae675d71f4549e55caf2a130f6c74f330fd0b5f94239",
+      "canonical_source_sha256": "29ee632c2b129968fef0ae675d71f4549e55caf2a130f6c74f330fd0b5f94239",
+      "opening_sha256": "0f0c1fa9b741acfab4373253c6c6a1176b32b234052a42c4cd734513adae6fc5",
+      "lead_figures": [
+        "figure:12a81bc92c79d42568cc5358290b46db1333c79a0fd9eff542f3deb8012649ab"
+      ],
+      "lead_figure_spans": {
+        "figure:12a81bc92c79d42568cc5358290b46db1333c79a0fd9eff542f3deb8012649ab": [
+          "RamSoft announced a ChatGPT-powered feature for its Blume medical-imaging patient app on 13 April 2023. That is a reported embedded example: our separate [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 11 endpoints from 15 initial radiology-software website tasks on 6 October 2026, without exercising patient-app access."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "vendor_first",
+      "classification_reason": "RamSoft leads with its dated Blume announcement; the public-path study follows as a separate scope.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/agents/can-residential-property-software-integrate-with-chatgpt.md": {
+      "bank_id": "LB-Q0435",
+      "source_sha256": "e6a899f8a7192a442d41750c6a666ba81d5cafcdfcc894b1c49f9ad8c114570d",
+      "canonical_source_sha256": "e6a899f8a7192a442d41750c6a666ba81d5cafcdfcc894b1c49f9ad8c114570d",
+      "opening_sha256": "57b4d01ace6641dbaa91e5ec254ad185486a34d5e77eaa0a39049895b4d902bf",
+      "lead_figures": [
+        "figure:582678caf30bb8a9e527e1a8a7f6e413dd54e78d0625a789f5a7c3b816c8ca1a"
+      ],
+      "lead_figure_spans": {
+        "figure:582678caf30bb8a9e527e1a8a7f6e413dd54e78d0625a789f5a7c3b816c8ca1a": [
+          "OpenAI’s GPT Actions guide describes custom API connections, and Buildium’s developer guide supplies a property-data API that could support such a build, subject to its account and authentication requirements. In our [6 October 2026 Agent Gap study](https://doi.org/10.5281/zenodo.23197560), 12 of 15 residential-property-software public-site tasks reached their destination."
+        ]
+      },
+      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9",
+      "opening_shape": "source_first",
+      "classification_reason": "The GPT Actions guide is the leading source-document subject. Buildium follows as the checked property API; this is source_first rather than a vendor-first claim about a completed connection.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/agents/can-transportation-software-integrate-with-chatgpt.md": {
+      "bank_id": "LB-Q0438",
+      "source_sha256": "7da66b0032774d3896d4e0c22488f59062eaaaa45fc0ebf352e46832f966022f",
+      "canonical_source_sha256": "7da66b0032774d3896d4e0c22488f59062eaaaa45fc0ebf352e46832f966022f",
+      "opening_sha256": "fc798fc35c5115c01b7c791a3e16449ea6957e01b79d568939e59ca0b42eb7f8",
+      "lead_figures": [
+        "figure:25bf47569357bbd13c78d0fc9edc82b9324e6a83b786e4040548dce84d400904"
+      ],
+      "lead_figure_spans": {
+        "figure:25bf47569357bbd13c78d0fc9edc82b9324e6a83b786e4040548dce84d400904": [
+          "Finding a freight-software website does not prove a ChatGPT connection. Alvys separately reports beta MCP access for ChatGPT; our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 11 of 15 initial transportation-software website tasks on 6 October 2026, measuring the public path rather than that account route."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The opening first corrects the inference from finding a public freight website to proving a ChatGPT connection.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/agents/can-veterinary-software-integrate-with-chatgpt.md": {
+      "bank_id": "LB-Q0448",
+      "source_sha256": "636cba3f91d316d4bcc57a51d603ef17c6cfbe3b5c831dd07a2d2c38ed28ae44",
+      "canonical_source_sha256": "636cba3f91d316d4bcc57a51d603ef17c6cfbe3b5c831dd07a2d2c38ed28ae44",
+      "opening_sha256": "2aa23c07e9aa6469474b27edd3177e505362e06f0a5bd6b2cc1391d29db6bab9",
+      "lead_figures": [
+        "figure:84d870519372a108a6ccb6ba32712f32fc48e3389a1823442c1aa08645c35cfe"
+      ],
+      "lead_figure_spans": {
+        "figure:84d870519372a108a6ccb6ba32712f32fc48e3389a1823442c1aa08645c35cfe": [
+          "If you need a custom ChatGPT connection for an ezyVet practice, the published API and GPT Actions documentation provide possible building blocks, subject to ezyVet approval. Our separate [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 12 endpoints from 15 initial veterinary-software website tasks on 6 October 2026; it did not connect a practice account."
+        ]
+      },
+      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The practice needing a custom ezyVet connection is the opening condition; possible API building blocks and public-path evidence follow.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/fixes/how-can-a-local-auto-glass-business-appear-in-google-ai-and-chatgpt-an.md": {
+      "bank_id": "LB-Q0487",
+      "source_sha256": "64085eb7dd8ea99752f0aed42eb4c13d27e7e191714b7df8358be06229fe39c3",
+      "canonical_source_sha256": "64085eb7dd8ea99752f0aed42eb4c13d27e7e191714b7df8358be06229fe39c3",
+      "opening_sha256": "8b1ef8984bd2f3c766d3ce17c50b9c6448df18a4ed0ba914e5ee0fbd4b547948",
+      "lead_figures": [
+        "figure:57f399169b80e955f036812055c32a4aa3ac899126e677068e903390ec44dc66"
+      ],
+      "lead_figure_spans": {
+        "figure:57f399169b80e955f036812055c32a4aa3ac899126e677068e903390ec44dc66": [
+          "If your auto-glass shop is missing from a 'near me' answer, separate a recommendation of the shop from a citation of its website. Our 18 to 23 July 2026 study found 9 of 85 B2B software companies were never named but had their own domain cited. For a local business, the practical checks are search eligibility, accurate business details and the location attached to the question."
+        ]
+      },
+      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The local auto-glass shop missing from a near-me answer leads, before the citation and naming distinction.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/fixes/can-google-ai-overview-answers-be-changed.md": {
+      "bank_id": "LB-Q0489",
+      "source_sha256": "45383144418c23727a72dd53f211da4edad3e5d641cb6899ac2f88261e648a75",
+      "canonical_source_sha256": "45383144418c23727a72dd53f211da4edad3e5d641cb6899ac2f88261e648a75",
+      "opening_sha256": "2a2a6e29dccdfeac1e736cdfb18ca1028b0fd75fe9b67397773e2cc863b29d6b",
+      "lead_figures": [
+        "figure:a573e70eff379bd895e8510e37748ac26af57acd269de32807249188b80e479a"
+      ],
+      "lead_figure_spans": {
+        "figure:a573e70eff379bd895e8510e37748ac26af57acd269de32807249188b80e479a": [
+          "Yes, Google AI Overview answers can change, but a publisher cannot directly edit the generated answer. In our [4 August 2026 repeat study](https://doi.org/10.5281/zenodo.21789120), the vendor-set overlap score averaged 0.499 across 62 Overview pairs; that observed variation was not a test of website edits or feedback."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "yes_no",
+      "classification_reason": "Yes directly answers whether an Overview can change, immediately qualifying publisher edit access.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/fixes/how-can-i-check-chatgpt-s-seo-output.md": {
+      "bank_id": "LB-Q0490",
+      "source_sha256": "487843f35f1cf4a9e15089183a8f5e9e75a04c1de421f7fc1570715a2ab9c6ab",
+      "canonical_source_sha256": "487843f35f1cf4a9e15089183a8f5e9e75a04c1de421f7fc1570715a2ab9c6ab",
+      "opening_sha256": "4f6e051d7d4b7b429e7eab079c187975a9e2e1ae1cb0af610d35e0c945935e0d",
+      "lead_figures": [
+        "figure:5a4d71411e2253b30de0863e40d0b9e9d4d01812896c03ba90b1657f35172ddf"
+      ],
+      "lead_figure_spans": {
+        "figure:5a4d71411e2253b30de0863e40d0b9e9d4d01812896c03ba90b1657f35172ddf": [
+          "Two of thirty ChatGPT answers carried a potentially-misleading flag in our [23 October 2026 PHP2Shell study](https://doi.org/10.5281/zenodo.23586713), while both retained the separate overall grade Incomplete. To check your SEO draft, isolate its factual claims and compare each with the dated primary record, rather than judging its fluency."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "figure_first",
+      "classification_reason": "Two of thirty flagged ChatGPT answers is the first informational subject, before the checking instruction.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/measurement/does-profound-provide-a-full-seo-audit-or-a-partial-audit.md": {
+      "bank_id": "LB-Q0109",
+      "source_sha256": "b8d2155dc4c845b132412f84ed4d2041909fee9eac73c2f2e27fce9895b6fe7b",
+      "canonical_source_sha256": "b8d2155dc4c845b132412f84ed4d2041909fee9eac73c2f2e27fce9895b6fe7b",
+      "opening_sha256": "5e30e0ef399aaf627eb4f096cdc995d6f84456cfeec303fa269253467b393e92",
+      "lead_figures": [
+        "figure:7ef6b66485087d6befc51e52f56635542ca89667bd5f92818d689c384006d346"
+      ],
+      "lead_figure_spans": {
+        "figure:7ef6b66485087d6befc51e52f56635542ca89667bd5f92818d689c384006d346": [
+          "An AI visibility score is not a full technical SEO audit. Profound's documented Answer Engine Insights and FactCheck cover answer presence, citations and brand-claim checks, so those are the parts of the audit question supported by the sources read on 29 October 2026. Our PHP2Shell study, captured on 23 October 2026, flagged 23 of 148 eligible answers as potentially misleading, a defined answer-review task to compare with those documented features."
+        ]
+      },
+      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The first sentence corrects the equivalence of an AI visibility score and a full technical SEO audit.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/geo-basics/where-can-i-find-an-ai-search-visibility-expert-near-me.md": {
+      "bank_id": "LB-Q0074",
+      "source_sha256": "70dd15814baf0c11bc9e7ec214ddc98ed2c839b5c0db158eaea7f9cdeffca6b4",
+      "canonical_source_sha256": "70dd15814baf0c11bc9e7ec214ddc98ed2c839b5c0db158eaea7f9cdeffca6b4",
+      "opening_sha256": "b07f6881b34d190f0aaca3c20eed595bca604760908328b4b70c9396b586efbe",
+      "lead_figures": [
+        "figure:3c91e38e03983fe42adc776a834e490767a2fc997754b7f242f9d1e4ede546a2"
+      ],
+      "lead_figure_spans": {
+        "figure:3c91e38e03983fe42adc776a834e490767a2fc997754b7f242f9d1e4ede546a2": [
+          "If you need an AI search visibility expert near you, start with your actual city and verify where the work is delivered. [Omniscient Digital](https://broadcastwell.com/best-geo-agencies#omniscient) has a 3/8 public-evidence score in our dated comparison, with selected fields rechecked on 28 October 2026; that score cannot establish distance."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader needing an expert near their own location leads the opening before the Omniscient score.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/measurement/how-can-i-check-ai-search-visibility.md": {
+      "bank_id": "LB-Q0131",
+      "source_sha256": "30362ee56491ef6f7df811b482176e85bed41643aa492fa13c83159e9fc6a113",
+      "canonical_source_sha256": "30362ee56491ef6f7df811b482176e85bed41643aa492fa13c83159e9fc6a113",
+      "opening_sha256": "ade41b410c5ab0ac6e2f52a6438bc4477f60ce9ad45b01fe153d1ccf00b2ff49",
+      "lead_figures": [
+        "figure:b0a08e6f529031bf11c42203148abfc08914473576bd24710b592a74be3f590b"
+      ],
+      "lead_figure_spans": {
+        "figure:b0a08e6f529031bf11c42203148abfc08914473576bd24710b592a74be3f590b": [
+          "1,496 checked-name appearances across 420 ChatGPT answers were recorded in our [September Index](https://doi.org/10.5281/zenodo.22907695) on 22 September 2026. To check AI search visibility, start with that kind of answer record: a named engine, an exact question and a saved response, then count your brand under a stated rule."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "figure_first",
+      "classification_reason": "The 1,496 checked-name appearances is the first subject, followed by the method instruction.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/measurement/what-is-an-ai-visibility-index.md": {
+      "bank_id": "LB-Q0322",
+      "source_sha256": "36c25f09cb4cc9f0f51f890b4b65cab02ae26f95d3b08a7dc82c8598bb6c82a5",
+      "canonical_source_sha256": "36c25f09cb4cc9f0f51f890b4b65cab02ae26f95d3b08a7dc82c8598bb6c82a5",
+      "opening_sha256": "9a9f6aa87a25d49dcae38cd77fc70bb38c8fe7d6791567fc2596bb274064d2ab",
+      "lead_figures": [
+        "figure:ce26a836bf190140c59aa209e5d8056986471f944c05804647d63b554448c669"
+      ],
+      "lead_figure_spans": {
+        "figure:ce26a836bf190140c59aa209e5d8056986471f944c05804647d63b554448c669": [
+          "An AI visibility index is a defined record of what selected AI answers name or cite, rather than a universal ranking of the web. Our [September 2026 Absence Index](https://doi.org/10.5281/zenodo.22907695) contains 286 checked vendor/category records across fourteen software categories, collected on 22 and 23 September 2026."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The opening directly defines an AI visibility index before the actual checked-panel size.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/google-ai/is-there-an-api-for-google-ai-overviews.md": {
+      "bank_id": "LB-Q0384",
+      "source_sha256": "132031172d1e28c0a15376f28f8f72c5b8dcfa6d271092bd1f2078576ca5fc06",
+      "canonical_source_sha256": "132031172d1e28c0a15376f28f8f72c5b8dcfa6d271092bd1f2078576ca5fc06",
+      "opening_sha256": "425451c0f393e31b3a773dd0bb973df1a0ab0aee0d12de9dfdb0bc45c3c03c2e",
+      "lead_figures": [
+        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4"
+      ],
+      "lead_figure_spans": {
+        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4": [
+          "On 30 October 2026, SerpApi documented a third-party API that collects Google AI Overview blocks, distinct from generating a Search-grounded reply. Our [September Index](https://doi.org/10.5281/zenodo.22907695) retained 415 Overview answers against a scheduled base of 420 on 22 and 23 September 2026; collection success belongs in any such API report."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "date_first",
+      "classification_reason": "The source-read date, 30 October 2026, leads the reported third-party interface before the historical collection result.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/google-ai/can-ads-appear-in-google-ai-overviews.md": {
+      "bank_id": "LB-Q0385",
+      "source_sha256": "3eaf764df225434ef6cdf19451f1249d290f21ab83b9707ad35751614f42ca90",
+      "canonical_source_sha256": "3eaf764df225434ef6cdf19451f1249d290f21ab83b9707ad35751614f42ca90",
+      "opening_sha256": "c883495be6e188766a84143160ddb6316d629f6f6497101913278a30310786d7",
+      "lead_figures": [
+        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd"
+      ],
+      "lead_figure_spans": {
+        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd": [
+          "Yes. Google documents ads within or alongside AI Overviews, with Sponsored labeling that separates them from organic content. Our [September Index](https://doi.org/10.5281/zenodo.22907695) counted 1,352 checked-name appearances across 415 retained Overview answers on 22 and 23 September 2026; those answer-text counts are not an ad-placement or advertising-spend measure."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "yes_no",
+      "classification_reason": "Yes is a standalone direct answer to whether ads can appear, followed by the Sponsored boundary.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/measurement/how-can-i-verify-that-an-ai-visibility-tracker-uses-live-answers.md": {
+      "bank_id": "LB-Q0451",
+      "source_sha256": "8d7c0d07937329570f37ac750ff05d7b8c4409646769be23d54e17254bac7bf2",
+      "canonical_source_sha256": "8d7c0d07937329570f37ac750ff05d7b8c4409646769be23d54e17254bac7bf2",
+      "opening_sha256": "2955a02c232def20f7345ee1abe40fd598ccfd288c4a72fc7623411fca5f5788",
+      "lead_figures": [
+        "figure:98bcaddb283391c820d37de6e9a216704fb374def217f17e2066843b290c62d5"
+      ],
+      "lead_figure_spans": {
+        "figure:98bcaddb283391c820d37de6e9a216704fb374def217f17e2066843b290c62d5": [
+          "On 4 August 2026, our [Volume III study](https://doi.org/10.5281/zenodo.21789120) collected 18 of 280 scheduled ChatGPT main answers before a recorded credit stop. To verify a tracker’s live-answer claim, inspect its collection receipt, saved response and cache settings; a dashboard refresh cannot establish that a new answer was collected."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "date_first",
+      "classification_reason": "The date, 4 August 2026, leads the historical interrupted collection, followed by the tracker verification task.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-affect-website-visibility.md": {
+      "bank_id": "LB-Q0492",
+      "source_sha256": "957c99e616cbce375b2cf817a054936e99cb7e412a9d8a3c30ad353a1091e82c",
+      "canonical_source_sha256": "957c99e616cbce375b2cf817a054936e99cb7e412a9d8a3c30ad353a1091e82c",
+      "opening_sha256": "157198d473c5e36bc20befcaeca1273a7a73eb381f3b6886f200857c2e894609",
+      "lead_figures": [
+        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd"
+      ],
+      "lead_figure_spans": {
+        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd": [
+          "1,352 checked-name appearances across 415 retained Google AI Overviews answers show one form of visibility: being named inside an answer. Our [September Index](https://doi.org/10.5281/zenodo.22907695), collected on 22 and 23 September 2026, did not measure whether that exposure increased or reduced visits to the named companies’ websites."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "figure_first",
+      "classification_reason": "The 1,352 appearances are the leading subject and are explicitly separated from website visits.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md": {
+      "bank_id": "LB-Q0493",
+      "source_sha256": "a710678228f230a67e31f3320a7503deb44ab2dd6d2b2d17a819b97786f7dd40",
+      "canonical_source_sha256": "a710678228f230a67e31f3320a7503deb44ab2dd6d2b2d17a819b97786f7dd40",
+      "opening_sha256": "fe9bd18bb571dc23686c13f616b6c1bd76253b68b200a4f07d1ae2ebde20fcba",
+      "lead_figures": [
+        "figure:440f45e36a70ba8b8a06afc55622c9fc78e7afd3526cf2f28dcbdfb6dc375ec4"
+      ],
+      "lead_figure_spans": {
+        "figure:440f45e36a70ba8b8a06afc55622c9fc78e7afd3526cf2f28dcbdfb6dc375ec4": [
+          "If you publish the source page, Google documents crawl and preview controls for how its content can appear in Search, plus a France-specific participation control. Our [September Index](https://doi.org/10.5281/zenodo.22907695) recorded 2/30 residential-property Overview targets with no Overview on 22 September 2026; a missing answer alone cannot prove that a publisher used a control."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "reader_situation",
+      "classification_reason": "If you publish the source page is the opening condition; the count follows the control distinction.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/google-ai/how-does-google-ai-mode-change-keyword-research.md": {
+      "bank_id": "LB-Q0495",
+      "source_sha256": "fe7e668a8c1ce7c560e7aefbf231200dba2f2404082c2af1cb79719295be6974",
+      "canonical_source_sha256": "fe7e668a8c1ce7c560e7aefbf231200dba2f2404082c2af1cb79719295be6974",
+      "opening_sha256": "1fce32514b513f32779d22bd12c78aea800e0df1460ee47360d1d493f698abb5",
+      "lead_figures": [
+        "figure:539a927b43f5757aa088e168625aa0fd1807f9ca078a89cce6a896bf791f5525"
+      ],
+      "lead_figure_spans": {
+        "figure:539a927b43f5757aa088e168625aa0fd1807f9ca078a89cce6a896bf791f5525": [
+          "A keyword is not a record of every search Google AI Mode may use to answer it. Google describes related searches across subtopics; our [September Index](https://doi.org/10.5281/zenodo.22907695) scheduled 420 Mode targets on 22 September 2026, counting returned buyer-question observations rather than the engine’s internal searches or keyword volume."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The first sentence corrects the equivalence of a keyword and every internal search performed by Mode.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md": {
+      "bank_id": "LB-Q0498",
+      "source_sha256": "9fa0f57d22dd3837247092ec25ecc7f89d7fa4277bc07227f4691560b0ae44cc",
+      "canonical_source_sha256": "9fa0f57d22dd3837247092ec25ecc7f89d7fa4277bc07227f4691560b0ae44cc",
+      "opening_sha256": "ea79676e675d9bae37f5479dc15cc52cf1c3a011dcfb3e3337b65665ed5de257",
+      "lead_figures": [
+        "figure:e19bfcea9de0dbcd7ceee668dada6ccfaa5ba7e2a177a3a116f1ba16ea39b016"
+      ],
+      "lead_figure_spans": {
+        "figure:e19bfcea9de0dbcd7ceee668dada6ccfaa5ba7e2a177a3a116f1ba16ea39b016": [
+          "Capterra.com was a cited host in 34 of 150 construction-software answers in our [September Index](https://doi.org/10.5281/zenodo.22907695), collected on 22 September 2026 across five engines. That supports a host-level citation observation; explaining a particular page’s selection requires its returned URL and answer, and still does not reveal the engine’s internal reason."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "source_first",
+      "classification_reason": "Capterra.com is the leading cited-source host, not a product being proposed or a count-first construction.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/fixes/what-does-google-s-guidance-say-about-llms-txt.md": {
+      "bank_id": "LB-Q0500",
+      "source_sha256": "c4ca5af2ff6d13fb7f604632208e4b9b64d398a0398e6cfa704261200611ba23",
+      "canonical_source_sha256": "c4ca5af2ff6d13fb7f604632208e4b9b64d398a0398e6cfa704261200611ba23",
+      "opening_sha256": "7800d707685fdb6202b4c7b2c97f732d43a4d9962f97c9f2ae63d5d1d7a16047",
+      "lead_figures": [
+        "figure:fb26a97bd94722142a936a3e5ab5290bd8b8464e6279ed3e02aab51ca033e77b"
+      ],
+      "lead_figure_spans": {
+        "figure:fb26a97bd94722142a936a3e5ab5290bd8b8464e6279ed3e02aab51ca033e77b": [
+          "On 29 October 2026, Google’s inspected site-owner guidance said new AI text files were not needed to appear in its Search AI features. Our separate [agency publication record](https://broadcastwell.com/best-geo-agencies#minuttia) scored Minuttia 3/8, with Machine readable marked Partial; a published llms.txt file is not proof of Google Search adoption."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "date_first",
+      "classification_reason": "The 29 October 2026 source-read date frames the file requirement before the separate audit record.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/agents/is-agent-to-agent-commerce-a-viable-business-opportunity.md": {
+      "bank_id": "LB-Q0518",
+      "source_sha256": "7bb74ae567cd5a1c59d71aafc5095a192273d76c1736339994321bc89e6d9664",
+      "canonical_source_sha256": "7bb74ae567cd5a1c59d71aafc5095a192273d76c1736339994321bc89e6d9664",
+      "opening_sha256": "eefd101292e78608299deea10bf6f08cf09f48d0c84c24f79948a7a5f973058f",
+      "lead_figures": [
+        "figure:e73143fcd11d4e0803b03686db1724f288228f1724c667f89c5d48b5ae281cd0"
+      ],
+      "lead_figure_spans": {
+        "figure:e73143fcd11d4e0803b03686db1724f288228f1724c667f89c5d48b5ae281cd0": [
+          "No published protocol alone establishes that agent-to-agent commerce is a viable business opportunity. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 44 of 70 initial public demo-path tasks on 6 October 2026; reaching a handoff was not a purchase, and it supplied no evidence of willingness to pay."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "belief_correction",
+      "classification_reason": "No published protocol alone establishes viability rejects a protocol-to-market inference. It does not answer No to whether the business can be viable.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/geo-basics/which-ai-tools-for-analyzing-online-visibility-are-available-in-the-uk.md": {
+      "bank_id": "LB-Q0093",
+      "source_sha256": "0efc19dd0195cfae10a5e01b486544feb979f178cfde5bbcbc951c7134540ea3",
+      "canonical_source_sha256": "0efc19dd0195cfae10a5e01b486544feb979f178cfde5bbcbc951c7134540ea3",
+      "opening_sha256": "5dbae18d513ba957d323827ac50d80b6d685a4a416f76757d53704ef6f74f2cb",
+      "lead_figures": [
+        "figure:0231d3e67eab9d2ba2040461e1264e46eae5088ef0f3ed5317154f01ce11d300"
+      ],
+      "lead_figure_spans": {
+        "figure:0231d3e67eab9d2ba2040461e1264e46eae5088ef0f3ed5317154f01ce11d300": [
+          "Semrush documents United Kingdom coverage in its AI Visibility Toolkit, and seoClarity publishes UK AI Overview research. In our 22 September 2026 Index capture, Claude produced 2,039 checked-name appearances across 420 answers, showing why the engine and the count unit also belong in a UK tracking brief."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Semrush is the leading named provider; its documented UK scope precedes the separate Claude count.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/agents/what-are-the-benefits-and-risks-of-connecting-hubspot-with-chatgpt.md": {
+      "bank_id": "LB-Q0523",
+      "source_sha256": "c7ac955cbb07f7e4cd834261e5250d78ca1228b303a35cdb1a766112c773afe8",
+      "canonical_source_sha256": "c7ac955cbb07f7e4cd834261e5250d78ca1228b303a35cdb1a766112c773afe8",
+      "opening_sha256": "a46eb084aabcff416d3b4d561487fd36936126834a0e693d89c89b6d50604d22",
+      "lead_figures": [
+        "figure:daf72cd4b22d82a2df7dc779c91036c6ff279cc2638adee1c4d95524bdc6397a"
+      ],
+      "lead_figure_spans": {
+        "figure:daf72cd4b22d82a2df7dc779c91036c6ff279cc2638adee1c4d95524bdc6397a": [
+          "Separate HubSpot record lookup from permission to edit it. HubSpot's guide describes CRM answers and record changes in ChatGPT, but it also says custom validation rules do not apply to those writes. Our Agent Gap capture on 6 October 2026 recorded 13 reached destinations in 15 initial CRM website tasks, a public discovery step to keep distinct from an account operation."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "action_first",
+      "classification_reason": "Separate HubSpot record lookup from permission to edit it is the leading imperative, before the source facts and study count.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/geo-basics/origence.md": {
+      "bank_id": "LB-Q0094",
+      "source_sha256": "ebb6c7442b9444e62d024126452738dfcf8eca88374275f0caa17c51e7738d34",
+      "canonical_source_sha256": "ebb6c7442b9444e62d024126452738dfcf8eca88374275f0caa17c51e7738d34",
+      "opening_sha256": "adbd105ca696eba21ef90e5a9ee857f8316e4acd316ee7bc099a7b4952dbad33",
+      "lead_figures": [
+        "figure:f1a88cedbae04ebcc9958c55e2087d783d786e3bdc483feb8d173e3637d6d1ce"
+      ],
+      "lead_figure_spans": {
+        "figure:f1a88cedbae04ebcc9958c55e2087d783d786e3bdc483feb8d173e3637d6d1ce": [
+          "14 of 150 loan-software answers named Origence in our [September Index](https://doi.org/10.5281/zenodo.22907695), captured on 22 September 2026. Origence is the lending-technology network whose official FAQ distinguishes arc, Lending Services, CUDL and FI Connect; the Index’s naming result describes that checked entity rather than a lending recommendation."
+        ]
+      },
+      "source_review_sha256": "eda8009af6de47f27a8d43adaf1f4365683fe8fd07e04e0cc95058c8d3c5a55f",
+      "opening_shape": "figure_first",
+      "classification_reason": "The count, fourteen of 150 loan-software answers, leads the opening before the Origence definition.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/buying/we-re-looking-for-an-ai-visibility-agency-that-can-get-our-brand-into.md": {
+      "bank_id": "LB-Q0107",
+      "source_sha256": "1ce9121f890aaa3323195275a803c369e8e52fbbccbaba178e752da20fc2b082",
+      "canonical_source_sha256": "39db8ccfb19c3825b39d20e7ee43e2b73abce80fec89f4bd09f56ebafae37a3b",
+      "opening_sha256": "02ffc65432ec43920fab05228e14607b05326b4aa212a9d28cb8dbf8c3cb22bc",
+      "lead_figures": [
+        "figure:5f57b8280f4c3abcc95d09563d148171e37f7cef2a6a23bc2decfc5156ae75d3"
+      ],
+      "lead_figure_spans": {
+        "figure:5f57b8280f4c3abcc95d09563d148171e37f7cef2a6a23bc2decfc5156ae75d3": [
+          "An agency list cannot settle which of these firms delivers faster results. Our [17 September 2026 audit](https://broadcastwell.com/best-geo-agencies-lists-audited) found 29/32 agency-list pages included their own publisher. Compare Althea Labs, Keenfolks and SourceCode Communications using the event each timeline actually describes, rather than a position on a list."
+        ]
+      },
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The opening rejects an agency-list position as a way to settle comparative delivery speed before presenting the disclosure audit.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/measurement/how-would-you-optimize-an-e-commerce-product-page-for-google-and-ai-se.md": {
+      "bank_id": "LB-Q0453",
+      "source_sha256": "9f7f7dbc69b3748fdc776c691332ad8138a2a7121d913a88e6b69ce2542d4a29",
+      "canonical_source_sha256": "38c3dbccbe5e7bea753e326494656ec39dd0c00c2c1b5743ecb945881ba7e25b",
+      "opening_sha256": "1fd0f09ccf1ac827b102fbb4101e96a3ca8f382face067edf3dd3c524429cb65",
+      "lead_figures": [
+        "figure:a4e527e0901a3804381c47a595a8007eba6e615ea92b754d05c4c3123bf41177"
+      ],
+      "lead_figure_spans": {
+        "figure:a4e527e0901a3804381c47a595a8007eba6e615ea92b754d05c4c3123bf41177": [
+          "If your product page shows an amount without saying what it buys, make the offer explicit before adding search markup. In the construction category of our [Answer RFP study](https://doi.org/10.5281/zenodo.23271935), five of 149 included answers stated a clear pricing basis and included features; the capture date was 22 September 2026. Apply that distinction to the product configuration, amount and currency that your page actually offers."
+        ]
+      },
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader’s page showing an amount without the purchased configuration is the opening situation.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/fixes/how-should-a-local-business-respond-when-chatgpt-cites-ranking-list-pa.md": {
+      "bank_id": "LB-Q0512",
+      "source_sha256": "37f2456d9b03ca086e12433cbe5f3813a43bda949c268d95c9c84093e0cc3707",
+      "canonical_source_sha256": "ba8b5a0624c78dc7f80cf471d0b6e459c6cc509e4e6299fa460f5bf32853a37f",
+      "opening_sha256": "a7e25e2f7688a567a22630715d10bf37e9ff867071a365e3838d848ef8caff3f",
+      "lead_figures": [
+        "figure:5f57b8280f4c3abcc95d09563d148171e37f7cef2a6a23bc2decfc5156ae75d3"
+      ],
+      "lead_figure_spans": {
+        "figure:5f57b8280f4c3abcc95d09563d148171e37f7cef2a6a23bc2decfc5156ae75d3": [
+          "The [17 September 2026 agency-list audit](https://broadcastwell.com/best-geo-agencies-lists-audited) records 29/32 pages whose publisher also appeared in the list. When ChatGPT cites a local ranking list, inspect its owner, city and selection date before treating its ordering as a statement about your service. Start with the page the answer actually cites."
+        ]
+      },
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
+      "opening_shape": "source_first",
+      "classification_reason": "The dated named agency-list audit leads the opening before its publisher-inclusion figure and local-list advice.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/google-ai/how-do-people-use-google-ai-mode.md": {
+      "bank_id": "LB-Q0514",
+      "source_sha256": "c3c91c996599f7740d36719ee587b97f26cafd45b9955ab19702e6bf822730d0",
+      "canonical_source_sha256": "c3c91c996599f7740d36719ee587b97f26cafd45b9955ab19702e6bf822730d0",
+      "opening_sha256": "d9d4f39c44eb7decde0ef84f655df31c45fc47de610f34e86097c5fb303f4d60",
+      "lead_figures": [
+        "figure:539a927b43f5757aa088e168625aa0fd1807f9ca078a89cce6a896bf791f5525"
+      ],
+      "lead_figure_spans": {
+        "figure:539a927b43f5757aa088e168625aa0fd1807f9ca078a89cce6a896bf791f5525": [
+          "People can use Google AI Mode to explore a question, compare options and ask follow-ups, according to Google’s consumer help. Our [September Index](https://doi.org/10.5281/zenodo.22907695) scheduled 420 ordinary AI Mode software-buyer targets on 22 September 2026; those fixed questions illustrate one use, rather than measuring how often the public uses each feature."
+        ]
+      },
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The first sentence defines documented uses of AI Mode, before the bounded 420-target research example.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/buying/looking-for-ai-software-for-field-service-providers-in-the-united-king.md": {
+      "source_sha256": "d3fbe0c9cbe7633420a8318aa0d02c148dee4085c4b36f04f1783bda1d6068df",
+      "canonical_source_sha256": "2b685b039d5069f289907040ca148e08816646cb05b2107db2a7d27546423b98",
+      "opening_sha256": "6f30ef2905fdeac293b2de37df58c29c4cb4e73174139357e1d4cf471b4193c5",
+      "bank_id": "LB-Q0111",
+      "lead_figures": [
+        "figure:cd0aad6e73d00ccaf619c3b44e62554dc03a84da7bb915a72af277685e89502b"
+      ],
+      "lead_figure_spans": {
+        "figure:cd0aad6e73d00ccaf619c3b44e62554dc03a84da7bb915a72af277685e89502b": [
+          "Jobber is an option to examine: its help updated on 28 October 2026 places Receptionist in the United Kingdom, with separate website-chat and phone/text conditions. We counted Jobber in 18 of 30 ChatGPT field-service software answers captured on 22 September 2026. Use the product guides to check what that observed name would mean for your UK business."
+        ]
+      },
+      "source_review_sha256": "6839f73e55a629bbcd934183a113efafec816e29551c016bc90fc5a7fc5e8275",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Jobber is the leading provider subject, with its actual UK Receptionist scope before the observed naming count.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/measurement/can-google-bing-and-llms-find-content-on-threads.md": {
+      "bank_id": "LB-Q0455",
+      "source_sha256": "0a3afa2bf6e95f0278ff5f6c9ab7b5ca0f04142e0410b5cfe6c0ef43d6a45403",
+      "canonical_source_sha256": "0a3afa2bf6e95f0278ff5f6c9ab7b5ca0f04142e0410b5cfe6c0ef43d6a45403",
+      "opening_sha256": "71072cd5f956d5fdf943573d1607e4e474c6bd84af09a32f834c52f248a54d07",
+      "lead_figures": [
+        "figure:427a1b4af6fc1eac33c964fbe1bd5736d03bf9717e84b6d841c930507970b69b"
+      ],
+      "lead_figure_spans": {
+        "figure:427a1b4af6fc1eac33c964fbe1bd5736d03bf9717e84b6d841c930507970b69b": [
+          "A public Threads address does not by itself prove that Google, Bing or an LLM returns its content. We found no recorded threads.net or threads.com citation host in [2,093 included Answer RFP responses](https://doi.org/10.5281/zenodo.23271935), collected over 22 September 2026 and the following day. This source result describes our software-buyer sample, not whether a particular Threads post is indexed."
+        ]
+      },
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The opening corrects the belief that a public Threads address proves engine retrieval, before the recorded-host absence.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/fixes/which-ai-tools-can-support-programmatic-seo.md": {
+      "bank_id": "LB-Q0513",
+      "source_sha256": "c6e8d0194451a0894c178b19311c419064f773345e64124521c9ad961581ce93",
+      "canonical_source_sha256": "c6e8d0194451a0894c178b19311c419064f773345e64124521c9ad961581ce93",
+      "opening_sha256": "f298ef2ea2c74a9e7941bbf70c52454d7f425433c6f10c615970689b410c3a09",
+      "lead_figures": [
+        "figure:096f900bde1dba03f887e4a68fb4be689b2017dee6e3d35d51db17ecff334f8b"
+      ],
+      "lead_figure_spans": {
+        "figure:096f900bde1dba03f887e4a68fb4be689b2017dee6e3d35d51db17ecff334f8b": [
+          "If you are assembling pages from a template, separate content generation from the facts supplied to it and the checks after publication. Jobber documents service-page content generation, while Semrush documents crawling checks. Our [Answer RFP study](https://doi.org/10.5281/zenodo.23271935) coded RFI, submittal and field-report workflow requirements in 9 of 149 construction-software answers from the 22 September 2026 capture: those specific fields illustrate a data requirement that a generic page generator does not establish."
+        ]
+      },
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The opening starts with the reader assembling pages from a template, before assigning creation, factual-input and checking roles.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-choose-sources.md": {
+      "bank_id": "LB-Q0279",
+      "source_sha256": "d1658380c01752588c1ab3e4df2afccabc05479d2242788477c6afe541f6f9a1",
+      "canonical_source_sha256": "d1658380c01752588c1ab3e4df2afccabc05479d2242788477c6afe541f6f9a1",
+      "opening_sha256": "233a7cd1f612f309970fdd0a56d1cdd892d926dd6f8a9c7f4b013553a8e84e77",
+      "lead_figures": [
+        "figure:bb81590150c48e4676e96c55ca10e947ca294271c85ed71eb95daea97c073bf7"
+      ],
+      "lead_figure_spans": {
+        "figure:bb81590150c48e4676e96c55ca10e947ca294271c85ed71eb95daea97c073bf7": [
+          "Our [Answer RFP capture](https://doi.org/10.5281/zenodo.23271935) recorded capterra.com in the citation URLs of 45 of 414 included Google AI Overviews from 22 and 23 September 2026. Google says supporting pages must be indexed and eligible for a Search snippet; our citation observations show which sources appeared, without establishing why Google chose an individual page."
+        ]
+      },
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
+      "opening_shape": "study_result_first",
+      "classification_reason": "The Answer RFP study and its recorded Capterra result are the opening subject, before the separately reported eligibility rule.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/measurement/how-can-i-defend-branded-search-results-against-lookalike-sites-that-c.md": {
+      "bank_id": "LB-Q0456",
+      "source_sha256": "160c57dc74e2afd92f56a54fa7ad785947efb22e629825f925d410b3e97c3c00",
+      "canonical_source_sha256": "160c57dc74e2afd92f56a54fa7ad785947efb22e629825f925d410b3e97c3c00",
+      "opening_sha256": "ebcb22c53dc4d06b326bc7fd53a2ac0948e95e58251e65f0099c3705d6d5547c",
+      "lead_figures": [
+        "figure:7f5abc4b2b40193eeabe8bd64cb64b2b762783b5eebd5ce9e8e1b5a3610fac6e"
+      ],
+      "lead_figure_spans": {
+        "figure:7f5abc4b2b40193eeabe8bd64cb64b2b762783b5eebd5ce9e8e1b5a3610fac6e": [
+          "The [Agent Gap method](https://doi.org/10.5281/zenodo.23197560) separates finding a company’s public endpoint from describing it correctly: one of seventy initial Describe tasks was labeled incorrect on 6 October 2026. For a suspected lookalike, preserve the disputed answer, its exact cited URL and your dated company reference before attributing the error or specifying a correction."
+        ]
+      },
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
+      "opening_shape": "source_first",
+      "classification_reason": "The Agent Gap method is the leading source subject, before its Describe-task observation and the reader’s disputed claim.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/fixes/does-a-crawler-request-count-as-a-buyer-visit.md": {
+      "bank_id": "LB-Q0273",
+      "source_sha256": "51706ff19042e3b2580a78e8f183ff69fa751822b4f147c2c0cd5760c6d3875e",
+      "canonical_source_sha256": "51706ff19042e3b2580a78e8f183ff69fa751822b4f147c2c0cd5760c6d3875e",
+      "opening_sha256": "e951878f52197e7746b8b2a8fd5ed7380996acd6c4570c945b4dd8686cf8c392",
+      "lead_figures": [
+        "figure:8e66d02ce9beb421b65dc43cfac046a9968e974db3b783df3e83440fe197b31a"
+      ],
+      "lead_figure_spans": {
+        "figure:8e66d02ce9beb421b65dc43cfac046a9968e974db3b783df3e83440fe197b31a": [
+          "No. A crawler request is evidence of a machine request, not an identified buyer visit. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) labeled 70 of 70 initial demo-path responses correct on 6 October 2026, yet correctness described the assigned task response rather than a customer arriving or placing an order."
+        ]
+      },
+      "source_review_sha256": "fcac74a74a2a552aa9abc1786347604fcd6bf42396edcd1778896a6dbe4ddf51",
+      "opening_shape": "yes_no",
+      "classification_reason": "No is a standalone direct answer to whether a crawler request counts as a buyer visit.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/google-ai/why-does-google-ai-overviews-not-appear-for-every-search.md": {
+      "bank_id": "LB-Q0292",
+      "source_sha256": "6fb0d0e711fc5e50e122f954eae96da6092385963e0572a68c885626beb24852",
+      "canonical_source_sha256": "6fb0d0e711fc5e50e122f954eae96da6092385963e0572a68c885626beb24852",
+      "opening_sha256": "8c74c399704a13db161cd126c5be82f6d24d7eee708db5899b0ac4ae4d99fa4e",
+      "lead_figures": [
+        "figure:149ee9b35840e872b32a388ce8cd4212ec0e061c2ec0d312ab009cfe60fdbcc1"
+      ],
+      "lead_figure_spans": {
+        "figure:149ee9b35840e872b32a388ce8cd4212ec0e061c2ec0d312ab009cfe60fdbcc1": [
+          "If a search shows ordinary results without an AI Overview, that alone does not show a fault in your website or account: Google makes Overview display conditional. Our [September Index](https://doi.org/10.5281/zenodo.22907695) recorded one explicit no-Overview result among thirty hotel-software targets on 22 September 2026; the capture does not identify its cause."
+        ]
+      },
+      "source_review_sha256": "fcac74a74a2a552aa9abc1786347604fcd6bf42396edcd1778896a6dbe4ddf51",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The opening condition is the reader seeing ordinary results without an AI Overview, before the hotel observation.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/geo-basics/how-do-profound-and-seoclarity-compare.md": {
+      "bank_id": "LB-Q0103",
+      "source_sha256": "beaf7597b401673e8883b0d50ba360ce23d5c4ba45dbdd764a98dcc9e62d102c",
+      "canonical_source_sha256": "beaf7597b401673e8883b0d50ba360ce23d5c4ba45dbdd764a98dcc9e62d102c",
+      "opening_sha256": "f77f45ee69cc44ee6f58838e5bc2802a4d003af303daab3022341540ae879cb2",
+      "lead_figures": [
+        "figure:98d216e8303dc92e0ffa7f69b3ccb20f8c34d0dc321d91e2085d815e279cf68f"
+      ],
+      "lead_figure_spans": {
+        "figure:98d216e8303dc92e0ffa7f69b3ccb20f8c34d0dc321d91e2085d815e279cf68f": [
+          "Choose the output you need before comparing Profound with seoClarity: a disputed-claim review and a dated record of site changes are different jobs. Our [September Index](https://doi.org/10.5281/zenodo.22907695) recorded HubSpot’s own domain in 24 of 30 ChatGPT CRM answers on 22 September 2026. That engine-specific source count illustrates a measurement input, rather than scoring either product’s checking or change-record functions."
+        ]
+      },
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
+      "opening_shape": "action_first",
+      "classification_reason": "The imperative to choose the needed output leads the opening before either provider or the observed citation count.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/industries/crm-software-chatgpt-free.md": {
+      "bank_id": "LB-Q0345",
+      "source_sha256": "4b01a59446443667f78010b8c4ea0592b04e52e601e84f015fe0dda4ea0543bb",
+      "canonical_source_sha256": "4b01a59446443667f78010b8c4ea0592b04e52e601e84f015fe0dda4ea0543bb",
+      "opening_sha256": "331df6ea6a3217d275bf450f88deaad2a4ff3dd8fd5c74ee21967e7aa01157ec",
+      "lead_figures": [
+        "figure:852c894276065ae503cb3a9f415865dec9abb7897df3ca76fe3cb69e2d162ef3"
+      ],
+      "lead_figure_spans": {
+        "figure:852c894276065ae503cb3a9f415865dec9abb7897df3ca76fe3cb69e2d162ef3": [
+          "The [free CRM terms published by HubSpot](https://www.hubspot.com/products/crm) establish a free CRM, while ChatGPT app availability has separate conditions. Our [Agent Gap capture](https://doi.org/10.5281/zenodo.23197560) reached all five CRM pricing-page destinations on 6 October 2026; that finding concerns access to public terms, not five free licenses or a verified zero-cost ChatGPT connection."
+        ]
+      },
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
+      "opening_shape": "source_first",
+      "classification_reason": "The published free-CRM terms are the opening source subject, with HubSpot named as their publisher.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/measurement/how-can-i-track-brand-visibility-in-claude.md": {
+      "bank_id": "LB-Q0460",
+      "source_sha256": "d0f97ed1c547aa7ee9ef5a04f07da3251cda2756c903e31cb99bee9031afe198",
+      "canonical_source_sha256": "d0f97ed1c547aa7ee9ef5a04f07da3251cda2756c903e31cb99bee9031afe198",
+      "opening_sha256": "07b903965c0ec041dee433be807e8f0d4318eeae6f593cd7c4b4adfa6bbd1683",
+      "lead_figures": [
+        "figure:0231d3e67eab9d2ba2040461e1264e46eae5088ef0f3ed5317154f01ce11d300"
+      ],
+      "lead_figure_spans": {
+        "figure:0231d3e67eab9d2ba2040461e1264e46eae5088ef0f3ed5317154f01ce11d300": [
+          "2,039 checked-name appearances across 420 Claude answers were recorded in our [22 September 2026 Index capture](https://doi.org/10.5281/zenodo.22907695). To track brand visibility in Claude, preserve the exact buyer question and response, then count the checked brand under one stated alias rule; appearances across several brands are not your brand’s answer share."
+        ]
+      },
+      "source_review_sha256": "fcac74a74a2a552aa9abc1786347604fcd6bf42396edcd1778896a6dbe4ddf51",
+      "opening_shape": "figure_first",
+      "classification_reason": "The 2,039 appearances lead the opening before the Claude tracking instruction.",
+      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
     }
   },
   "index_question_titles": {
