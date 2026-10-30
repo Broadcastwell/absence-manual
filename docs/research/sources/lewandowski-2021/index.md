@@ -72,7 +72,7 @@ The original reports 1,974 Wikipedia results. Of those Wikipedia results, 27% we
 
 You can check the difference with a question: among which records was the percentage calculated? Here the answer is Wikipedia's own returned results. The rounded percentages do not reveal exact integer counts at each position, so we retain the reported precision and do not add an invented interval.
 
-We also withhold the prose's overall 0.7% Wikipedia share as a clean, reconciled statistic. Dividing the printed 1,974 by the overall 256,853 gives about 0.769%, which rounds to 0.8% at one decimal place. The underlying data might explain the mismatch, but the article alone does not. Quoting 0.7% without this qualification would hide a real unresolved arithmetic discrepancy. [§5 and Figure 1].
+We also withhold the prose's overall 0.7% Wikipedia share as a clean, reconciled statistic. Dividing the printed 1,974 by the overall 256,853 gives about 0.769%, which rounds to 0.8% at one decimal place. The article leaves that arithmetic unresolved. Quoting 0.7% without this qualification would hide a real unresolved arithmetic discrepancy. [§5 and Figure 1].
 
 ## High prevalence persists beyond the first positions
 
