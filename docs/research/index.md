@@ -58,6 +58,8 @@ Read the original-study reviews of [Lewandowski and colleagues](sources/lewandow
 
 ## Take a number with its boundary
 
+Read the source reviews of [university website measurements](sources/giannakoulopoulos-2019/), [ranking perceptions](sources/bataineh-2025/), [exploratory rank correlations](sources/ziakis-2019/), [newsroom interviews](sources/giomelakis-2019/), [news commenting](sources/karyotakis-2019/), [the AI review taxonomy](sources/ziakis-vlachopoulou-2024/), [Google's historical guide](sources/google-seo-starter-guide-2010/) and [the 2009 practitioner book](sources/seo-bible-2009/). The [annotated reading list](sources/reading-list/) locates useful pages, while the [statistic-checking guide](evidence/spot-a-fake-statistic/) shows how units and source chains can fail.
+
 The [quotable numbers](evidence/quotable-numbers/) page gives the observation, source location and wording that can travel together. Its companion, [numbers we could not verify](evidence/unverified-numbers/), retains claims whose sources are missing, whose units changed in retelling or whose original papers do not support the advertised inference.
 
 Some rejected claims have useful ancestors. A historical Google Home study measured the length of spoken answers, for example; it did not establish the length of the user's voice query. Recovering the original does not make its observation current. Both the date and the measured object still matter.
