@@ -5,7 +5,7 @@ description: Source facts, readable pages and changes that can be checked after 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T21:09:24+00:00'
+date_modified: '2026-10-30T05:08:26+00:00'
 library_hub: true
 library_owner: Rohan Iyer, AI Engineer
 library_order: 9
@@ -15,7 +15,7 @@ library_order: 9
 
 Source facts, readable pages and changes that can be checked after publication.
 
-These 22 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 32 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Official company facts
 
@@ -148,6 +148,66 @@ An llms.txt checker tests stated file rules. Separate a valid structure or worki
 [How should I choose content for SEO, AEO and GEO?](how-should-i-choose-content-for-seo-aeo-and-geo.md)
 
 Choose a buyer decision before a content format: Study 7 extracted 2,003 category-specific criteria from answers captured on 22 and 23 September 2026.
+
+## Daily factual-claim triage
+
+[How should teams handle SEO and GEO in day-to-day work?](how-should-teams-handle-seo-and-geo-in-day-to-day-work.md)
+
+Use dated claim records for daily SEO and GEO work. Two Procore pricing flags separate source checks, page edits and changed answers.
+
+## Local discovery and source citations
+
+[How can a local auto-glass business appear in Google AI and ChatGPT answers?](how-can-a-local-auto-glass-business-appear-in-google-ai-and-chatgpt-an.md)
+
+Check search access, business details and location. In our July study, 9/85 software companies were cited without being named.
+
+## Changing an Overview claim
+
+[Can Google AI Overview answers be changed?](can-google-ai-overview-answers-be-changed.md)
+
+Google Overview answers can vary, but publishers do not directly edit them. Source corrections, feedback and preview controls differ.
+
+## Checking an SEO draft’s factual claims
+
+[How can I check ChatGPT's SEO output?](how-can-i-check-chatgpt-s-seo-output.md)
+
+Check the exact facts in a ChatGPT SEO draft against primary records. Two of 30 dated site-owner answers carried misleading flags.
+
+## Publisher controls for Overview content
+
+[How can I control whether my content appears in Google AI Overviews?](how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md)
+
+Publisher preview controls differ from turning off an Overview as a reader. Google also reports a France-specific control.
+
+## Citation observations and selection claims
+
+[What evidence supports a page's selection as a source in an AI answer?](what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md)
+
+A saved citation shows what was linked. It does not reveal the engine’s reason for selecting that page.
+
+## A text-file proposal and Google Search requirements
+
+[What does Google's guidance say about llms.txt?](what-does-google-s-guidance-say-about-llms-txt.md)
+
+Google says new AI text files are not needed for Search AI features. A published llms.txt file serves a different claimed purpose.
+
+## Cited local lists
+
+[How should a local business respond when ChatGPT cites ranking-list pages?](how-should-a-local-business-respond-when-chatgpt-cites-ranking-list-pa.md)
+
+Inspect the cited list's publisher, city and selection date. Our 17 September agency-list audit found publisher self-inclusion on 29/32 pages.
+
+## Page generation, domain data and crawling checks
+
+[Which AI tools can support programmatic SEO?](which-ai-tools-can-support-programmatic-seo.md)
+
+Jobber documents service-page generation and Semrush documents crawl checks. A construction-software example shows why template data needs its own evidence.
+
+## Machine requests and buyer evidence
+
+[Does a crawler request count as a buyer visit?](does-a-crawler-request-count-as-a-buyer-visit.md)
+
+A crawler request records machine access. It does not identify a buyer, a purchase or a completed customer journey.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

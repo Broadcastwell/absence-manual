@@ -5,7 +5,7 @@ description: AI Overviews, AI Mode, their different answers and the bases needed
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T23:36:56+00:00'
-date_modified: '2026-10-29T22:39:48+00:00'
+date_modified: '2026-10-30T05:08:26+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 5
@@ -15,7 +15,7 @@ library_order: 5
 
 AI Overviews, AI Mode, their different answers and the bases needed to compare them.
 
-These 16 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 27 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Google surfaces
 
@@ -98,6 +98,72 @@ Google documents no off switch for core AI Overviews. See the Web filter, the se
 [Is the AI Overview gone?](is-the-ai-overview-gone.md)
 
 A missing Overview does not show that Google has withdrawn the feature. Compare current help with 28 retained property-management targets out of 30.
+
+## AI Mode failure context
+
+[Why is Google AI Mode not working?](why-is-google-ai-mode-not-working.md)
+
+Read the displayed condition: Study 7 excluded one request-limit response from 420 AI Mode targets captured on 22 September 2026.
+
+## Deep Search and research-report units
+
+[What is Deep Search in Google AI Mode?](what-is-deep-search-in-google-ai-mode.md)
+
+Deep Search is Google’s cited-report research feature in AI Mode. Our September Index’s 420 Mode targets form a separate ordinary-Mode cohort.
+
+## Interactive Overview results
+
+[How do Google AI Overviews and generative UI relate?](how-do-google-ai-overviews-and-generative-ui-relate.md)
+
+Generative UI adds interactive tools to some Google AI results. The September Index counted text answers, not rendered widgets.
+
+## Overview availability in France
+
+[Are Google AI Overviews available in France?](are-google-ai-overviews-available-in-france.md)
+
+Google announced AI Overviews in France on 22 July 2026. Availability differs from receiving an Overview for each query.
+
+## Overview collection interfaces
+
+[Is there an API for Google AI Overviews?](is-there-an-api-for-google-ai-overviews.md)
+
+SerpApi documents an Overview collection interface. A Search-grounded generated response is a different output.
+
+## Sponsored placements and answer counts
+
+[Can ads appear in Google AI Overviews?](can-ads-appear-in-google-ai-overviews.md)
+
+Google documents Sponsored ads in and around Overviews. An organic name count does not measure paid placement.
+
+## Answer visibility and website visits
+
+[How do Google AI Overviews affect website visibility?](how-do-google-ai-overviews-affect-website-visibility.md)
+
+Overviews add answer-level names and source links. Those observations alone cannot establish a website’s traffic gain or loss.
+
+## Buyer questions and internal Search expansion
+
+[How does Google AI Mode change keyword research?](how-does-google-ai-mode-change-keyword-research.md)
+
+Keep full buyer questions and their subtopics. Google’s query fan-out is not an observed keyword-volume measure.
+
+## Documented AI Mode uses
+
+[How do people use Google AI Mode?](how-do-people-use-google-ai-mode.md)
+
+Google documents comparisons, follow-up questions and several input types in AI Mode. Our software-buyer sample is not a survey of its users.
+
+## Overview source observations
+
+[How do Google AI Overviews choose sources?](how-do-google-ai-overviews-choose-sources.md)
+
+Google documents supporting-page eligibility, not a guaranteed selection recipe. Our Overview records show citations without revealing selection causes.
+
+## A query with no Overview
+
+[Why don’t Google AI Overviews appear for every search?](why-does-google-ai-overviews-not-appear-for-every-search.md)
+
+Google makes Overview display conditional. One recorded hotel-software query returned no Overview, without revealing its cause.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
