@@ -1,0 +1,85 @@
+category,engine,top_three,top_three_named_occurrences,all_checked_vendor_named_occurrences,share_pct,wilson_low_pct,wilson_high_pct,unit
+construction-project-management,all,Procore | Buildertrend | Contractor Foreman,269,555,48.4685,44.3355,52.6225,Checked-vendor naming occurrences; an answer can name several vendors
+construction-project-management,ChatGPT,Procore | Buildertrend | Contractor Foreman,55,121,45.4545,36.8588,54.33,Checked-vendor naming occurrences; an answer can name several vendors
+construction-project-management,Claude,Buildertrend | Procore | Contractor Foreman,60,126,47.619,39.0987,56.2803,Checked-vendor naming occurrences; an answer can name several vendors
+construction-project-management,Perplexity,Procore | Contractor Foreman | Buildertrend,54,115,46.9565,38.0816,56.0282,Checked-vendor naming occurrences; an answer can name several vendors
+construction-project-management,Google AI Overviews,Procore | Buildertrend | Contractor Foreman,48,90,53.3333,43.1022,63.2916,Checked-vendor naming occurrences; an answer can name several vendors
+construction-project-management,Google AI Mode,Procore | Buildertrend | Contractor Foreman,52,103,50.4854,40.9875,59.9484,Checked-vendor naming occurrences; an answer can name several vendors
+dealership-management-systems,all,CDK Global | DealerCenter | Tekion,245,633,38.7046,34.9892,42.5563,Checked-vendor naming occurrences; an answer can name several vendors
+dealership-management-systems,ChatGPT,DealerCenter | CDK Global | Dealertrack,46,115,40.0,31.5095,49.137,Checked-vendor naming occurrences; an answer can name several vendors
+dealership-management-systems,Claude,CDK Global | DealerCenter | Tekion,52,154,33.7662,26.7731,41.5496,Checked-vendor naming occurrences; an answer can name several vendors
+dealership-management-systems,Perplexity,DealerCenter | CDK Global | Tekion,48,122,39.3443,31.1282,48.2109,Checked-vendor naming occurrences; an answer can name several vendors
+dealership-management-systems,Google AI Overviews,CDK Global | Tekion | DealerCenter,49,116,42.2414,33.6431,51.337,Checked-vendor naming occurrences; an answer can name several vendors
+dealership-management-systems,Google AI Mode,CDK Global | DealerCenter | Tekion,50,126,39.6825,31.5671,48.4085,Checked-vendor naming occurrences; an answer can name several vendors
+dental-practice-management,all,Dentrix | Open Dental | Curve Dental,353,741,47.6383,44.0637,51.2373,Checked-vendor naming occurrences; an answer can name several vendors
+dental-practice-management,ChatGPT,Dentrix | Open Dental | Dentrix Ascend,65,131,49.6183,41.1901,58.0683,Checked-vendor naming occurrences; an answer can name several vendors
+dental-practice-management,Claude,Dentrix | Curve Dental | Open Dental,75,175,42.8571,35.7561,50.265,Checked-vendor naming occurrences; an answer can name several vendors
+dental-practice-management,Perplexity,Open Dental | Curve Dental | Dentrix,65,146,44.5205,36.7023,52.6198,Checked-vendor naming occurrences; an answer can name several vendors
+dental-practice-management,Google AI Overviews,Dentrix | Open Dental | Curve Dental,71,133,53.3835,44.9297,61.6472,Checked-vendor naming occurrences; an answer can name several vendors
+dental-practice-management,Google AI Mode,Curve Dental | Dentrix | Open Dental,79,156,50.641,42.875,58.3763,Checked-vendor naming occurrences; an answer can name several vendors
+field-service-management,all,Housecall Pro | ServiceTitan | Workiz,268,578,46.3668,42.3387,50.4428,Checked-vendor naming occurrences; an answer can name several vendors
+field-service-management,ChatGPT,Housecall Pro | ServiceTitan | Jobber,58,107,54.2056,44.7835,63.3362,Checked-vendor naming occurrences; an answer can name several vendors
+field-service-management,Claude,ServiceTitan | Housecall Pro | FieldPulse,61,155,39.3548,32.0106,47.214,Checked-vendor naming occurrences; an answer can name several vendors
+field-service-management,Perplexity,Housecall Pro | ServiceTitan | FieldPulse,52,124,41.9355,33.6206,50.735,Checked-vendor naming occurrences; an answer can name several vendors
+field-service-management,Google AI Overviews,Housecall Pro | ServiceTitan | Workiz,53,84,63.0952,52.4152,72.6299,Checked-vendor naming occurrences; an answer can name several vendors
+field-service-management,Google AI Mode,ServiceTitan | Housecall Pro | Workiz,63,108,58.3333,48.9057,67.1885,Checked-vendor naming occurrences; an answer can name several vendors
+hotel-property-management,all,Cloudbeds | Stayntouch | Little Hotelier,234,557,42.0108,37.9802,46.1508,Checked-vendor naming occurrences; an answer can name several vendors
+hotel-property-management,ChatGPT,Cloudbeds | Mews | Stayntouch,59,99,59.596,49.7469,68.7281,Checked-vendor naming occurrences; an answer can name several vendors
+hotel-property-management,Claude,Cloudbeds | Hotelogix | Stayntouch,57,160,35.625,28.6215,43.3026,Checked-vendor naming occurrences; an answer can name several vendors
+hotel-property-management,Perplexity,Cloudbeds | Stayntouch | Hotelogix,49,123,39.8374,31.6199,48.6705,Checked-vendor naming occurrences; an answer can name several vendors
+hotel-property-management,Google AI Overviews,Cloudbeds | Stayntouch | Mews,42,82,51.2195,40.5908,61.7391,Checked-vendor naming occurrences; an answer can name several vendors
+hotel-property-management,Google AI Mode,Cloudbeds | Stayntouch | Little Hotelier,46,93,49.4624,39.5259,59.4415,Checked-vendor naming occurrences; an answer can name several vendors
+insurance-agency-management,all,Applied Systems | EZLynx | HawkSoft,335,606,55.2805,51.301,59.1936,Checked-vendor naming occurrences; an answer can name several vendors
+insurance-agency-management,ChatGPT,Applied Systems | EZLynx | Vertafore,68,115,59.1304,49.9921,67.6785,Checked-vendor naming occurrences; an answer can name several vendors
+insurance-agency-management,Claude,Applied Systems | EZLynx | HawkSoft,71,142,50.0,41.8852,58.1148,Checked-vendor naming occurrences; an answer can name several vendors
+insurance-agency-management,Perplexity,Applied Systems | EZLynx | HawkSoft,65,120,54.1667,45.261,62.8139,Checked-vendor naming occurrences; an answer can name several vendors
+insurance-agency-management,Google AI Overviews,Applied Systems | EZLynx | Vertafore,66,108,61.1111,51.6866,69.7724,Checked-vendor naming occurrences; an answer can name several vendors
+insurance-agency-management,Google AI Mode,Applied Systems | EZLynx | HawkSoft,68,121,56.1983,47.3024,64.7128,Checked-vendor naming occurrences; an answer can name several vendors
+legal-practice-management,all,Clio | 8am MyCase | CosmoLex,299,625,47.84,43.9489,51.7575,Checked-vendor naming occurrences; an answer can name several vendors
+legal-practice-management,ChatGPT,Clio | 8am MyCase | PracticePanther,58,110,52.7273,43.4637,61.8068,Checked-vendor naming occurrences; an answer can name several vendors
+legal-practice-management,Claude,Clio | 8am MyCase | Filevine,65,158,41.1392,33.7653,48.9338,Checked-vendor naming occurrences; an answer can name several vendors
+legal-practice-management,Perplexity,Clio | 8am MyCase | PracticePanther,63,125,50.4,41.7548,59.0214,Checked-vendor naming occurrences; an answer can name several vendors
+legal-practice-management,Google AI Overviews,Clio | 8am MyCase | CosmoLex,60,108,55.5556,46.1536,64.5759,Checked-vendor naming occurrences; an answer can name several vendors
+legal-practice-management,Google AI Mode,Clio | 8am MyCase | Filevine,61,124,49.1935,40.5516,57.884,Checked-vendor naming occurrences; an answer can name several vendors
+loan-origination-software,all,nCino | MeridianLink | ICE Mortgage Technology,235,559,42.0394,38.0153,46.1721,Checked-vendor naming occurrences; an answer can name several vendors
+loan-origination-software,ChatGPT,MeridianLink | nCino | ICE Mortgage Technology,44,102,43.1373,33.9476,52.825,Checked-vendor naming occurrences; an answer can name several vendors
+loan-origination-software,Claude,nCino | ICE Mortgage Technology | MeridianLink,57,144,39.5833,31.9665,47.7415,Checked-vendor naming occurrences; an answer can name several vendors
+loan-origination-software,Perplexity,nCino | MeridianLink | Abrigo,43,109,39.4495,30.7839,48.8335,Checked-vendor naming occurrences; an answer can name several vendors
+loan-origination-software,Google AI Overviews,nCino | MeridianLink | LendingPad,46,97,47.4227,37.7745,57.2672,Checked-vendor naming occurrences; an answer can name several vendors
+loan-origination-software,Google AI Mode,nCino | MeridianLink | ICE Mortgage Technology,49,107,45.7944,36.6638,55.2165,Checked-vendor naming occurrences; an answer can name several vendors
+radiology-medical-imaging,all,Sectra | Intelerad | Visage Imaging,232,573,40.4887,36.5457,44.5583,Checked-vendor naming occurrences; an answer can name several vendors
+radiology-medical-imaging,ChatGPT,Intelerad | RamSoft | Sectra,39,105,37.1429,28.5078,46.6855,Checked-vendor naming occurrences; an answer can name several vendors
+radiology-medical-imaging,Claude,Sectra | Intelerad | Agfa HealthCare,55,158,34.8101,27.8227,42.5187,Checked-vendor naming occurrences; an answer can name several vendors
+radiology-medical-imaging,Perplexity,Sectra | Intelerad | Visage Imaging,47,116,40.5172,32.0265,49.6159,Checked-vendor naming occurrences; an answer can name several vendors
+radiology-medical-imaging,Google AI Overviews,Sectra | Intelerad | Visage Imaging,38,91,41.7582,32.1613,52.0228,Checked-vendor naming occurrences; an answer can name several vendors
+radiology-medical-imaging,Google AI Mode,Intelerad | Sectra | Visage Imaging,55,103,53.3981,43.8161,62.7356,Checked-vendor naming occurrences; an answer can name several vendors
+residential-property-management,all,Buildium | AppFolio | DoorLoop,291,598,48.6622,44.6775,52.664,Checked-vendor naming occurrences; an answer can name several vendors
+residential-property-management,ChatGPT,Buildium | AppFolio | DoorLoop,56,105,53.3333,43.8425,62.5889,Checked-vendor naming occurrences; an answer can name several vendors
+residential-property-management,Claude,Buildium | AppFolio | DoorLoop,68,162,41.9753,34.6478,49.6746,Checked-vendor naming occurrences; an answer can name several vendors
+residential-property-management,Perplexity,Buildium | AppFolio | DoorLoop,59,129,45.7364,37.3872,54.3322,Checked-vendor naming occurrences; an answer can name several vendors
+residential-property-management,Google AI Overviews,Buildium | AppFolio | Yardi,52,97,53.6082,43.7364,63.2052,Checked-vendor naming occurrences; an answer can name several vendors
+residential-property-management,Google AI Mode,Buildium | AppFolio | DoorLoop,58,105,55.2381,45.7097,64.3967,Checked-vendor naming occurrences; an answer can name several vendors
+transportation-management-systems,all,AscendTMS | Alvys | Oracle Transportation Management,165,535,30.8411,27.0758,34.8796,Checked-vendor naming occurrences; an answer can name several vendors
+transportation-management-systems,ChatGPT,Descartes | Descartes Aljex | Alvys,31,96,32.2917,23.7758,42.1702,Checked-vendor naming occurrences; an answer can name several vendors
+transportation-management-systems,Claude,AscendTMS | Alvys | Oracle Transportation Management,43,142,30.2817,23.3259,38.2763,Checked-vendor naming occurrences; an answer can name several vendors
+transportation-management-systems,Perplexity,AscendTMS | Alvys | Infios (MercuryGate),33,112,29.4643,21.8157,38.4749,Checked-vendor naming occurrences; an answer can name several vendors
+transportation-management-systems,Google AI Overviews,AscendTMS | Alvys | Oracle Transportation Management,30,85,35.2941,25.9725,45.8875,Checked-vendor naming occurrences; an answer can name several vendors
+transportation-management-systems,Google AI Mode,Alvys | AscendTMS | SAP Transportation Management,37,100,37.0,28.1824,46.7795,Checked-vendor naming occurrences; an answer can name several vendors
+veterinary-practice-management,all,"ezyVet | IDEXX (Cornerstone, Neo) | Digitail",272,606,44.8845,40.9691,48.8644,Checked-vendor naming occurrences; an answer can name several vendors
+veterinary-practice-management,ChatGPT,ezyVet | Shepherd | Digitail,57,110,51.8182,42.5779,60.9357,Checked-vendor naming occurrences; an answer can name several vendors
+veterinary-practice-management,Claude,"IDEXX (Cornerstone, Neo) | ezyVet | Provet",65,155,41.9355,34.4542,49.8068,Checked-vendor naming occurrences; an answer can name several vendors
+veterinary-practice-management,Perplexity,"ezyVet | IDEXX (Cornerstone, Neo) | DaySmart Vet",54,113,47.7876,38.8029,56.9178,Checked-vendor naming occurrences; an answer can name several vendors
+veterinary-practice-management,Google AI Overviews,"ezyVet | IDEXX (Cornerstone, Neo) | DaySmart Vet",48,102,47.0588,37.6559,56.6752,Checked-vendor naming occurrences; an answer can name several vendors
+veterinary-practice-management,Google AI Mode,"ezyVet | IDEXX (Cornerstone, Neo) | DaySmart Vet",61,126,48.4127,39.8636,57.0557,Checked-vendor naming occurrences; an answer can name several vendors
+crm,all,HubSpot CRM | Salesforce Sales Cloud | Pipedrive,319,476,67.0168,62.6717,71.0894,Checked-vendor naming occurrences; an answer can name several vendors
+crm,ChatGPT,HubSpot CRM | Salesforce Sales Cloud | Pipedrive,62,89,69.6629,59.4629,78.2358,Checked-vendor naming occurrences; an answer can name several vendors
+crm,Claude,HubSpot CRM | Salesforce Sales Cloud | Pipedrive,70,110,63.6364,54.3277,72.0248,Checked-vendor naming occurrences; an answer can name several vendors
+crm,Perplexity,HubSpot CRM | Pipedrive | Salesforce Sales Cloud,66,103,64.0777,54.4601,72.6829,Checked-vendor naming occurrences; an answer can name several vendors
+crm,Google AI Overviews,HubSpot CRM | Salesforce Sales Cloud | Pipedrive,58,81,71.6049,60.9821,80.2713,Checked-vendor naming occurrences; an answer can name several vendors
+crm,Google AI Mode,HubSpot CRM | Salesforce Sales Cloud | Pipedrive,63,93,67.7419,57.7013,76.3751,Checked-vendor naming occurrences; an answer can name several vendors
+project_management,all,Asana | ClickUp | Jira,240,443,54.1761,49.5203,58.7601,Checked-vendor naming occurrences; an answer can name several vendors
+project_management,ChatGPT,Asana | Jira | ClickUp,49,91,53.8462,43.6562,63.7246,Checked-vendor naming occurrences; an answer can name several vendors
+project_management,Claude,ClickUp | Wrike | Smartsheet,52,98,53.0612,43.2525,62.639,Checked-vendor naming occurrences; an answer can name several vendors
+project_management,Perplexity,Asana | ClickUp | Wrike,51,85,60.0,49.3714,69.7638,Checked-vendor naming occurrences; an answer can name several vendors
+project_management,Google AI Overviews,Asana | ClickUp | Jira,46,78,58.9744,47.8881,69.2181,Checked-vendor naming occurrences; an answer can name several vendors
+project_management,Google AI Mode,Asana | ClickUp | Jira,54,91,59.3407,49.0694,68.8552,Checked-vendor naming occurrences; an answer can name several vendors

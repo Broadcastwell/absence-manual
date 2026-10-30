@@ -1,0 +1,37 @@
+file,sha256,role,source
+answer-citation-audit.csv,870a01d49d90b3d146bf487b48171ff69663cfea3548e863cc7641db7fffded5,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+answer-citation-bases.csv,1908c8c14af91eb0d1d6bb2ac811ac075eacc62f71e550c7822277fe56a4b863,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+citation-class-shares-post-audit.csv,416363686d1733c2bcbe9f4469286c397fc83e2601dc9bc76fc1264e8a61dd65,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+citation-class-shares.csv,a516e444d93f486e03b62a809822ccf2db196df4dd1b7234578b23170853ffc5,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+citation-concentration.csv,e9d6b88dec45393202d508a7d7f312048856a629e2ee1319bafe2912e7f1b40a,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+citation-invalid.csv,e9228d3f431c9d134516e02eaf9e1ef24eed0eff4c9f684781363093fbf6a26a,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+citation-occurrences.csv,fbf0dda06220b5c414542cfc2f71a89471e3d84af9dffa0fc1d56ef0398921ac,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+cited-hosts.csv,65e2468d2edd34d10012622e16d9f74b0f6c75740a16576dbffcc6d3c80b7aee,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+dated-standings.csv,addef6611bf9c92f2b5156d563ddabb3c28e22f78e2d68b8db5e50f92c84b756,Public reproducibility file; see study page for scope and unit,Primary source DOI recorded in the corresponding source review
+excluded-answers.csv,9c3100824dcec90b651ce9574c1ba7f973d05ac3e93039794b89587d4dab4518,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+host-class-post-audit-changes.csv,adf32c8f3ae85e7a559fb13144498d1380eeb296b89032d00c6f579dec8214eb,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+host-classes-post-audit.csv,3f53f95938ea3b45f24373ba7e73436fd8d0af7c5a9d83bb4091c6daf136154a,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+host-classes.csv,1c72328bbb09377f56a95884deef05b2d74b07ddfcbc0e623d38d15e072c6dfb,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+protocol-deviations.csv,3ee652424046d10d3eb0c633e6a7b6a5f373f5d982d901bd5bdd554feee840e2,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+quotable-numbers.csv,f3bb29e0473413f1422ea9d47414fe93a0a3f0c163fae0fe52f4b32f3d5039f7,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+repeat-disagreement.csv,4baa3768bda1130a47fbaaa33c2abed0814bff0bf4f8d28db86b9fb8d20c0d7d,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+review-platform-occurrences.csv,4355674e5b387757a9b8e3f8b453b741b99af39b76e108ac14ddcfd5d484e0c0,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+rovira-median-differences.csv,05dd0e35affaaed1a3cdd9389354eddc52eebf9425be49d8dac130ef049016ad,Public reproducibility file; see study page for scope and unit,Primary source DOI recorded in the corresponding source review
+rovira-workbook-reanalysis.csv,e5e84410035f5f1823a16df2ba6dc07b66debf6f2b1f9335b48f2fbbfb0ee473,Public reproducibility file; see study page for scope and unit,Primary source DOI recorded in the corresponding source review
+top-twenty-hosts.csv,716b3421d7771f9ed232dbb713c2072e6ab618e84a1f23c4f0d1b42b9812b023,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+university-source-results.csv,c929d70c15d09896cc8c269949c11d1578e39c0ffb80827ea6753bb14fbb7172,Public reproducibility file; see study page for scope and unit,Primary source DOI recorded in the corresponding source review
+vendor-concentration.csv,797dbd058ce01200a4f5d96e4dff16f3e398b0e5403fc1c99146677e97d25f8a,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+vendor-naming-citation.csv,fed91f5317b7c4cc07dcd39469140231597b6246e9301fd690c2d1a965cb0cf1,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+vendor-pair-reconciliation.csv,691e85d27ba1d3a2fbf7607672b5113aca76318ddde8dfba2ee420f164d9988c,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+vendor-pair-summary.csv,f62cd7130797b6b9ac711576d024b769f961a2fa99beab0e1ef85e7e5d67be93,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+vendor-pairs.csv,69b45b4ea2c2aa2ad62f5d5ac6f79316ca34b584f4adc7728ef770966c52aab8,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+vendor-presence.csv,f10ca6f1800471604fa7b8ea65b110b1cd94ea4af09054962e4e512fc2de7074,Public reproducibility file; see study page for scope and unit,https://doi.org/10.5281/zenodo.22907695
+Frozen original host evidence table (private excerpts omitted in public projection),d6c965c9bc7e6232501553e3038db30f3613cb954eda22c1a8f0362882b73fe0,"Original pre-aggregation identity, 2026-10-30T04:41:53.839948Z; public host-classes.csv preserves class and ambiguity values",https://doi.org/10.17605/OSF.IO/VCZKT
+analyze_citations.py,5ad7300eafcf694922f4204e932e8b3c8f38ed1ce9d70dadb7e45ea911d821fb,"Public offline analysis program, explicit local inputs",Public analysis accompanying the registered study and cited source workbooks
+dated_standings.py,5afebd8526b04c89aedf981ee30bedfb55afd2a96a5ee342246ca0172d13e17e,"Public offline analysis program, explicit local inputs",Public analysis accompanying the registered study and cited source workbooks
+recompute_source_workbooks.py,855a3c09526b66683457d338ccb56c64e10c42ad845d71978709b0e2d2f5cedd,"Public offline analysis program, explicit local inputs",Public analysis accompanying the registered study and cited source workbooks
+vendor_matching.mjs,e532a85801447c6bdc8a5a553546ef57c94677d881c2a236df065e40ea77329f,Public limited reproduction instrument; no private implementation repository needed,https://doi.org/10.5281/zenodo.22907695
+vendor-matching-dictionary.csv,611d31d07e375ad44ac63cc924fb3f0c27dff08bcc2ea3240f9e749bbff8778b,Public limited reproduction instrument; no private implementation repository needed,https://doi.org/10.5281/zenodo.22907695
+reproduce_vendor_pairs.mjs,e6f6d33115c6571089b588c0e035540e39be6a25b6d22dfa47dd153dd0792acd,Public limited reproduction instrument; no private implementation repository needed,https://doi.org/10.5281/zenodo.22907695
+research-crawler-collection.mjs,194a8c932f2af1bfabe51c816c76c2cf44c1296f164b27885ef5c7035cd5f056,Public limited reproduction instrument; no private implementation repository needed,https://doi.org/10.5281/zenodo.22907695
+study2-reproduction.txt,13f3938384e06d9cd7716f4c21161dfa049328094b5259a3144776360472fd8b,Public limited reproduction instrument; no private implementation repository needed,https://doi.org/10.5281/zenodo.22907695
