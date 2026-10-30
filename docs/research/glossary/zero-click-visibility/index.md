@@ -36,7 +36,7 @@ HubSpot’s AEO article also uses Zero-Click Visibility as a heading. On 30 Octo
 
 ## Define the missing click
 
-“No click to our site” and “no click anywhere” are different outcomes. A person might visit a review platform, open another vendor, make a call or return later through a different route. A publisher’s analytics generally cannot observe all those actions.
+“No click to our site” and “no click anywhere” are different outcomes. A person might visit a review platform, compare another vendor’s website, save a product description for later or return through a different route. A publisher’s analytics generally cannot observe all those actions.
 
 Likewise, no recorded referral does not prove no visit occurred. Referrer handling, application transitions, consent and incomplete observation can prevent a visit from being attributed to the earlier answer. Use “unattributed” where that is the actual state of the evidence.
 
