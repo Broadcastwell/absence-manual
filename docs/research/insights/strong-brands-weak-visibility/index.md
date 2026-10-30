@@ -94,6 +94,8 @@ The examples above come from [release 2026-09, DOI 10.5281/zenodo.22907695](http
 - Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Is there a correlation? Future Internet, 11(11), 242. https://doi.org/10.3390/fi11110242 Verified 30 October 2026.
 - Xanthopoulou, P., Kavoura, A., Sahinidis, A., & Antoniadis, I. (2024). Communicating corporate social responsibility in an era of disruption: A study of Greek companies participating in Corporate Responsibility Index (CRI). In Strategic innovative marketing and tourism (pp. 631 to 639). Springer. Figure 4, p. 636. https://doi.org/10.1007/978-3-031-51038-0_68 Verified 30 October 2026.
 
+- Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Deposited spreadsheets [Data set]. Zenodo. Results Sheet1, C3:C102 and H3:H102. https://doi.org/10.5281/zenodo.3484673 Verified 30 October 2026.
+
 ## Cite this page
 
 Broadcastwell research team. (2026, October 30). *Familiar brands can have low measured presence*. Broadcastwell. https://docs.broadcastwell.com/research/insights/strong-brands-weak-visibility/ Published 30 October 2026; updated 30 October 2026.
