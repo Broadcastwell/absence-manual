@@ -285,7 +285,7 @@ State of GEO Volume III, DOI 10.5281/zenodo.21789120: https://doi.org/10.5281/ze
 
 ## Answers
 
-- [AI visibility answers](https://docs.broadcastwell.com/answers/): 250 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and source corrections.
+- [AI visibility answers](https://docs.broadcastwell.com/answers/): 253 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and source corrections.
 - [GEO basics answers](https://docs.broadcastwell.com/answers/geo-basics/): Definitions, question sets and the difference between being cited and being chosen.
 - [ChatGPT answers](https://docs.broadcastwell.com/answers/chatgpt/): Dated software naming counts, category shortlists and the limits of a mention.
 - [Claude answers](https://docs.broadcastwell.com/answers/claude/): Software category observations from Claude, with the questions and answer bases attached.
@@ -547,3 +547,6 @@ State of GEO Volume III, DOI 10.5281/zenodo.21789120: https://doi.org/10.5281/ze
 - [How do Profound and seoClarity compare?](https://docs.broadcastwell.com/answers/geo-basics/how-do-profound-and-seoclarity-compare/): Compare Profound’s reported fact-checking workflow with seoClarity’s accuracy and change-record functions. Our records do not rank either supplier.
 - [Is CRM software with ChatGPT free?](https://docs.broadcastwell.com/answers/industries/crm-software-chatgpt-free/): A free CRM and a free ChatGPT connection are separate entitlements. Compare HubSpot’s published CRM terms with the app’s account requirements.
 - [How can I track brand visibility in Claude?](https://docs.broadcastwell.com/answers/measurement/how-can-i-track-brand-visibility-in-claude/): Track Claude with fixed questions, saved answers and a stated name rule. Web-search citations and brand mentions remain different units.
+- [What can an agency deliver when a client asks for GEO?](https://docs.broadcastwell.com/answers/buying/what-can-an-agency-deliver-when-a-client-asks-for-geo/): Define a client deliverable around a retained answer, a company fact and the evidence needed for a specific change. A publication is not an answer outcome.
+- [What does Peec measure?](https://docs.broadcastwell.com/answers/geo-basics/peec-visibility-or-aeo-or-geo-or-search-or-citation-or-seo-or-generati/): Peec describes visibility, position and sentiment. Our Close example separates named-answer counts, vendor citations and distinct buyer questions.
+- [What can CRM software with ChatGPT do for project management?](https://docs.broadcastwell.com/answers/industries/crm-software-chatgpt-project-management/): HubSpot documents CRM Task operations in ChatGPT; our handoff question named HubSpot in 3/3 answers. Compare the checked CRM table.

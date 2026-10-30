@@ -5779,6 +5779,38 @@
       "unit": "initial_tasks",
       "label": "Agent Gap CRM initial Pricing-page tasks reached",
       "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26"
+    },
+    "figure:d7b6d0f73d4d048a7c4614e9eb6d41a67a794b132d8c4c15bef39e7115501d36": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "ChatGPT",
+        "question": "10",
+        "subject": "HubSpot CRM",
+        "metric": "named"
+      },
+      "count": 3,
+      "base": 3,
+      "unit": "answers",
+      "label": "HubSpot CRM named in ChatGPT handoff/follow-up answers",
+      "source_review_sha256": "6839f73e55a629bbcd934183a113efafec816e29551c016bc90fc5a7fc5e8275"
+    },
+    "figure:50989f4a24c211a0afee2fc4b50436ff285308b51bbdea016a1c825acaa52115": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "subject": "Close",
+        "metric": "named"
+      },
+      "count": 12,
+      "base": 150,
+      "unit": "answers",
+      "label": "Close named in September CRM answers",
+      "source_review_sha256": "8c0097ba7aed37307bda31a0ad05d8a8ab0faa74a264aa7f1951bd17704c5b49"
     }
   },
   "pages": {
@@ -11285,6 +11317,60 @@
       "opening_shape": "figure_first",
       "classification_reason": "The 2,039 appearances lead the opening before the Claude tracking instruction.",
       "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/buying/what-can-an-agency-deliver-when-a-client-asks-for-geo.md": {
+      "bank_id": "LB-Q0478",
+      "source_sha256": "e080ed5310a89145246d3822297ddb74ed52d86d171a3cf81da50c2dbdedc12a",
+      "canonical_source_sha256": "e080ed5310a89145246d3822297ddb74ed52d86d171a3cf81da50c2dbdedc12a",
+      "opening_sha256": "80a94a2b8edbbbf490bd4fb7fb7ee19707c0940f1f982ccce3fa1b86502c9cd7",
+      "lead_figures": [
+        "figure:7f5abc4b2b40193eeabe8bd64cb64b2b762783b5eebd5ce9e8e1b5a3610fac6e"
+      ],
+      "lead_figure_spans": {
+        "figure:7f5abc4b2b40193eeabe8bd64cb64b2b762783b5eebd5ce9e8e1b5a3610fac6e": [
+          "One of seventy initial company-description tasks was labeled incorrect in our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560), captured on 6 October 2026. An agency can turn a broad request for GEO into a defined evidence brief: the client’s exact question, retained answer, disputed company fact, dated reference and a specific proposed change, with later observations reported separately."
+        ]
+      },
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
+      "opening_shape": "figure_first",
+      "classification_reason": "The one-of-seventy Describe-task count leads the opening, followed by the proposed client deliverable.",
+      "writing_review_sha256": "3b6f7e18ae34e08795e4a0b26a97b42d699ea733cef928a908bd7f42d19fccfd"
+    },
+    "answers/industries/crm-software-chatgpt-project-management.md": {
+      "source_sha256": "7bf5287806d2417a48fec106964cb01dae86f5c47937f79982b158d72787e216",
+      "canonical_source_sha256": "5c3a8642616eb4c753e151063903563704278102a179978a56fab881d6a23988",
+      "opening_sha256": "01b1abaffbf109a7cc5370a5dc87f4dcd2cef31480e1960fe2db5a9d7bb0c52a",
+      "bank_id": "LB-Q0347",
+      "lead_figures": [
+        "figure:d7b6d0f73d4d048a7c4614e9eb6d41a67a794b132d8c4c15bef39e7115501d36"
+      ],
+      "lead_figure_spans": {
+        "figure:d7b6d0f73d4d048a7c4614e9eb6d41a67a794b132d8c4c15bef39e7115501d36": [
+          "3/3 ChatGPT answers to our CRM handoff-and-follow-up question named HubSpot CRM on 22 September 2026. HubSpot's connector guide separately lists Tasks as CRM activities that ChatGPT can read, create and update. That is a documented task route to examine for a sales handoff."
+        ]
+      },
+      "source_review_sha256": "6839f73e55a629bbcd934183a113efafec816e29551c016bc90fc5a7fc5e8275",
+      "opening_shape": "figure_first",
+      "classification_reason": "The 3/3 ChatGPT handoff answer count leads the opening before the separately reported Task operations.",
+      "writing_review_sha256": "3b6f7e18ae34e08795e4a0b26a97b42d699ea733cef928a908bd7f42d19fccfd"
+    },
+    "answers/geo-basics/peec-visibility-or-aeo-or-geo-or-search-or-citation-or-seo-or-generati.md": {
+      "bank_id": "LB-Q0105",
+      "source_sha256": "517bf242b15d9c9ef372a63b0039720202568d59f9865ff97310425c36f5404e",
+      "canonical_source_sha256": "517bf242b15d9c9ef372a63b0039720202568d59f9865ff97310425c36f5404e",
+      "opening_sha256": "ff0f4a272f43bb7350fee812f25457af281b56bc826cbaf0754c21364f634a45",
+      "lead_figures": [
+        "figure:50989f4a24c211a0afee2fc4b50436ff285308b51bbdea016a1c825acaa52115"
+      ],
+      "lead_figure_spans": {
+        "figure:50989f4a24c211a0afee2fc4b50436ff285308b51bbdea016a1c825acaa52115": [
+          "On 22 September 2026, our [CRM panel](https://doi.org/10.5281/zenodo.22907695) named Close in twelve of 150 answers. Peec describes AI-search analytics through visibility, position and sentiment; its public visibility definition concerns the share of chats mentioning a brand. The Close count gives you a concrete naming example to distinguish from source citations, without representing a Peec product result."
+        ]
+      },
+      "source_review_sha256": "8c0097ba7aed37307bda31a0ad05d8a8ab0faa74a264aa7f1951bd17704c5b49",
+      "opening_shape": "date_first",
+      "classification_reason": "The actual 22 September 2026 capture date leads the first sentence before the Close naming count and Peec metric definition.",
+      "writing_review_sha256": "3b6f7e18ae34e08795e4a0b26a97b42d699ea733cef928a908bd7f42d19fccfd"
     }
   },
   "index_question_titles": {

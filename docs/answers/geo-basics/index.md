@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T05:08:26+00:00'
+date_modified: '2026-10-30T06:52:42+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 26 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 27 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -160,6 +160,12 @@ Origence is a credit-union lending technology network. The September Index check
 [How do Profound and seoClarity compare?](how-do-profound-and-seoclarity-compare.md)
 
 Compare Profound’s reported fact-checking workflow with seoClarity’s accuracy and change-record functions. Our records do not rank either supplier.
+
+## Peec’s published metric roles
+
+[What does Peec measure?](peec-visibility-or-aeo-or-geo-or-search-or-citation-or-seo-or-generati.md)
+
+Peec describes visibility, position and sentiment. Our Close example separates named-answer counts, vendor citations and distinct buyer questions.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

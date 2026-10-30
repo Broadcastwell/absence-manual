@@ -5,7 +5,7 @@ description: Scope, acceptance evidence and questions to ask before agreeing to 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T05:08:26+00:00'
+date_modified: '2026-10-30T06:52:42+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 7
@@ -15,7 +15,7 @@ library_order: 7
 
 Scope, acceptance evidence and questions to ask before agreeing to work.
 
-These 25 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 26 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Delivery choices
 
@@ -166,6 +166,12 @@ Compare dated deliverables before speed claims: our 17 September audit found pub
 [Looking for AI software for field service providers in the United Kingdom?](looking-for-ai-software-for-field-service-providers-in-the-united-king.md)
 
 Jobber documents UK Receptionist with channel and plan conditions. In our capture, ChatGPT named Jobber in 18/30 field-service answers.
+
+## A client’s first GEO deliverable
+
+[What can an agency deliver when a client asks for GEO?](what-can-an-agency-deliver-when-a-client-asks-for-geo.md)
+
+Define a client deliverable around a retained answer, a company fact and the evidence needed for a specific change. A publication is not an answer outcome.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
