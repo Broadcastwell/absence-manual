@@ -5,7 +5,7 @@ description: Absences and cited sources in each of the fourteen measured softwar
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T01:38:25+00:00'
-date_modified: '2026-10-30T12:00:10+00:00'
+date_modified: '2026-10-30T13:21:55+00:00'
 library_hub: true
 library_owner: Ananya Rao, AI Engineer
 library_order: 8
@@ -15,7 +15,7 @@ library_order: 8
 
 Absences and cited sources in each of the fourteen measured software categories.
 
-These 36 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 37 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Construction absence checks
 
@@ -218,6 +218,12 @@ HubSpot documents CRM Task operations in ChatGPT; our handoff question named Hub
 [Does ChatGPT cite Reddit in CRM software answers?](crm-software-chatgpt-reddit.md)
 
 No Reddit URLs appeared in our thirty dated ChatGPT CRM answers. See the citation rule, complete vendor counts and what the zero cannot establish.
+
+## Dealership task coordination
+
+[What can dealership software with ChatGPT do for project management?](dealership-software-chatgpt-project-management.md)
+
+DealerAI documents inventory, leads and Reach follow-up with store permissions. Our 6/150 finding counts an integration requirement, not an executed workflow.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

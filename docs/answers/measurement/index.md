@@ -5,7 +5,7 @@ description: Counts, citations, repeat runs and the evidence needed to compare r
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-30T12:00:10+00:00'
+date_modified: '2026-10-30T13:21:55+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 6
@@ -15,7 +15,7 @@ library_order: 6
 
 Counts, citations, repeat runs and the evidence needed to compare reports.
 
-These 41 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 46 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Questions
 
@@ -254,6 +254,36 @@ On 22 September 2026, Reddit appeared in 23/30 radiology Overview records and 0/
 [How do ads in Google AI Overviews affect organic traffic?](how-do-ads-in-google-ai-overviews-affect-organic-traffic.md)
 
 Our 1352 name appearances across 415 Overviews are not click data. Google documents Sponsored placements and aggregate ad reporting, not organic lift.
+
+## AI Mode and site clicks
+
+[How does Google AI Mode affect site clicks?](how-does-google-ai-mode-affect-site-clicks.md)
+
+Our Mode CRM panel has three HubSpot-domain citing answers. Their retained URLs and Google’s Web report distinguish source selection from site clicks.
+
+## Google rank and answer-source selection
+
+[Why can a page rank in Google without being cited by ChatGPT or Perplexity?](why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple.md)
+
+Salesforce-domain URLs appeared in 19 ChatGPT and three Perplexity CRM answers. Compare those source selections with the services’ eligibility rules.
+
+## Observed crawler requests to llms.txt
+
+[How can server logs show whether AI crawlers request llms.txt?](how-can-server-logs-show-whether-ai-crawlers-request-llms-txt.md)
+
+A server request needs a path, time, status and a defensible crawler identity. Our zero llms.txt citations in 2,093 answers measure a different event.
+
+## YouTube citations and transcript evidence
+
+[Do YouTube transcripts affect LLM citations?](do-youtube-transcripts-affect-llm-citations.md)
+
+YouTube URLs appeared in 21 of 148 eligible PHP2Shell answers. Their engine, URL and grading records show citations, without a transcript-use test.
+
+## Verifying a reported conclusion
+
+[How can a buyer verify the conclusion?](how-can-a-buyer-verify-the-conclusion.md)
+
+The 12/77 Open Dental finding has dated claims and vendor references. Use the statement, base, status and source pair to check the historical conclusion.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

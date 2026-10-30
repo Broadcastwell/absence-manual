@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T12:00:10+00:00'
+date_modified: '2026-10-30T13:21:55+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 35 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 37 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -214,6 +214,18 @@ Published Dentrix Ascend scheduling and billing functions, a multi-location cust
 [What does Blue Yonder publish about LTL freight shipping?](what-does-blue-yonder-publish-about-ltl-freight-shipping.md)
 
 Blue Yonder’s page lists LTL execution. Our 6/30 ChatGPT count concerns enterprise and alternative questions, without an LTL shipment test.
+
+## ChatGPT and the CRM system of record
+
+[Can I use ChatGPT as a CRM?](can-i-use-chatgpt-as-a-crm.md)
+
+ChatGPT can be an interface to HubSpot CRM. Our 1/150 system-of-record criterion separates a useful chat from the customer database and its permissions.
+
+## Three CRM naming totals
+
+[What are the top 3 CRM platforms?](what-are-the-top-3-crm-platforms.md)
+
+HubSpot CRM, Pipedrive and Salesforce had the September panel’s highest naming totals. This is dated visibility, not a product-quality verdict.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

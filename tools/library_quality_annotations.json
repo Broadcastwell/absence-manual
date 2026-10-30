@@ -27,7 +27,8 @@
       "question_back",
       "answer_definition",
       "study_result_first",
-      "action_first"
+      "action_first",
+      "source_first"
     ],
     "chatgpt": [
       "figure_first",
@@ -6029,6 +6030,114 @@
       "unit": "answers",
       "label": "Blue Yonder named in ChatGPT transportation-management-systems answers",
       "source_review_sha256": "d89d2308b50528640e16eb7c41d1aec1a9bd3b168da5d6e141844d7b86c79c49"
+    },
+    "figure:8a152a526a7f93f479301b308b3d8d91780e3dac6b51be726e96da3cd2645834": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "category": "dealership-management-systems",
+        "subject": "integrate",
+        "metric": "criterion_stated",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 6,
+      "base": 150,
+      "unit": "answers",
+      "label": "Working connections to CRM, OEM, lender and other business systems",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:4961c3c7635a3010c68f1ec506402d0d961eedaf03cd83d407bb42233682ee36": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "Google AI Mode",
+        "subject": "HubSpot CRM",
+        "metric": "own_domain_cited"
+      },
+      "count": 3,
+      "base": 30,
+      "unit": "answers",
+      "label": "hubspot.com present in recorded cited URLs, Google AI Mode crm",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "ChatGPT",
+        "subject": "Salesforce Sales Cloud",
+        "metric": "own_domain_cited"
+      },
+      "count": 19,
+      "base": 30,
+      "unit": "answers",
+      "label": "salesforce.com present in recorded cited URLs, ChatGPT crm",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "Perplexity",
+        "subject": "Salesforce Sales Cloud",
+        "metric": "own_domain_cited"
+      },
+      "count": 3,
+      "base": 30,
+      "unit": "answers",
+      "label": "salesforce.com present in recorded cited URLs, Perplexity crm",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:87f075fd10760346b6103c067eb0ba992af7ab6b77f63088d8fed12c6642ec71": {
+      "source_url": "https://doi.org/10.5281/zenodo.23586713",
+      "record": {
+        "capture_date": "2026-10-23",
+        "subject": "youtube.com",
+        "metric": "answers_citing_domain",
+        "cohort": "eligible-answer-panel"
+      },
+      "count": 21,
+      "base": 148,
+      "unit": "answers",
+      "label": "Eligible PHP2Shell answers with a recorded YouTube citation URL",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "subject": "system_of_record",
+        "metric": "criterion_stated",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 1,
+      "base": 150,
+      "unit": "answers",
+      "label": "CRM as the authoritative customer system of record",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:6f30ab822a0e68b7f1e94785637b413225266d39891e38e9b289fd43409cb5b0": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "pooled-five-engines",
+        "subject": "Salesforce Sales Cloud",
+        "metric": "named"
+      },
+      "count": 109,
+      "base": 150,
+      "unit": "answers",
+      "label": "Salesforce Sales Cloud named in pooled-five-engines crm",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
     }
   },
   "pages": {
@@ -11989,6 +12098,154 @@
       "opening_shape": "date_first",
       "classification_reason": "The actual22September2026capture date leads before the Blue Yonder naming count and supplier-reported LTL scope.",
       "writing_review_sha256": "ed4ea457b3cbb6ada478e6f6febba8c489b7e5ac721d46b6e040a9a3be8807eb"
+    },
+    "answers/industries/dealership-software-chatgpt-project-management.md": {
+      "source_sha256": "f6be054ca0b10f1e5bc62dea510c1a36eb65b82f3c22d4d7e3c8d24dc64e974d",
+      "canonical_source_sha256": "f96b7263e1f77d0a247cbe0443ca267bdf6e4b113abdee5a6517e887c7af7e38",
+      "opening_sha256": "16913df50a4d31951b5601001c73de0c43128ff3b92db225270a4d5c55ee873d",
+      "bank_id": "LB-Q0350",
+      "lead_figures": [
+        "figure:8a152a526a7f93f479301b308b3d8d91780e3dac6b51be726e96da3cd2645834"
+      ],
+      "lead_figure_spans": {
+        "figure:8a152a526a7f93f479301b308b3d8d91780e3dac6b51be726e96da3cd2645834": [
+          "Coordinate dealership follow-up through DealerAI's documented ChatGPT connection: its permitted actions include inventory lookups, staff-facing leads and Reach sequences. [The AI written RFP](https://doi.org/10.5281/zenodo.23271935), our published study, found a working-system-connections criterion in 6 of 150 dealership buyer answers captured on 22 September 2026. The named record and permission determine what that coordination covers."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "action_first",
+      "classification_reason": "The imperative to coordinate dealership follow-up leads before the particular permitted DealerAI actions and dated procurement criterion.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/measurement/how-does-google-ai-mode-affect-site-clicks.md": {
+      "source_sha256": "a1ba112d9546531102cbc130e7054d674ff448046c7be47bc51a4b82351d6b1d",
+      "canonical_source_sha256": "ca1f54a50a2f7752c8ec10b88114663ffa7938f907ff81f59d30aad5076fe78c",
+      "opening_sha256": "b497945af4f1f68b45e11763f14d4cfdfe5cb02d5c2ec9e7fe43bf75a0d950a4",
+      "bank_id": "LB-Q0494",
+      "lead_figures": [
+        "figure:4961c3c7635a3010c68f1ec506402d0d961eedaf03cd83d407bb42233682ee36"
+      ],
+      "lead_figure_spans": {
+        "figure:4961c3c7635a3010c68f1ec506402d0d961eedaf03cd83d407bb42233682ee36": [
+          "A citation total cannot tell you whether AI Mode raised or lowered site clicks. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) recorded a HubSpot-domain URL in 3 of 30 Google AI Mode CRM answers. Those are three answer observations; estimating a traffic change requires the separate click records and their reporting scope."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The opening corrects the inference that a citation total establishes a traffic change.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple.md": {
+      "source_sha256": "34527bd49ec6301a7e0a874ff2bc68427f3cdddd512927d50fc098d0015920d1",
+      "canonical_source_sha256": "c34a4c841f1b18fd527750073bc5c71dfc6ccd90f1aec5d871510b51c740600b",
+      "opening_sha256": "90086bdd8549ba6f327330e8f0ff32784908fcc4f36ce88c8c8cd7c7e3606304",
+      "bank_id": "LB-Q0503",
+      "lead_figures": [
+        "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021",
+        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801"
+      ],
+      "lead_figure_spans": {
+        "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021": [
+          "Salesforce-domain URLs appeared in 19 of 30 ChatGPT CRM answers and 3 of 30 Perplexity CRM answers in our [Index capture of 22 September 2026](https://doi.org/10.5281/zenodo.22907695). That difference is a concrete source-selection result, not a Google rank comparison. A page's Google position does not establish that either service will select it as an answer citation."
+        ],
+        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801": [
+          "Salesforce-domain URLs appeared in 19 of 30 ChatGPT CRM answers and 3 of 30 Perplexity CRM answers in our [Index capture of 22 September 2026](https://doi.org/10.5281/zenodo.22907695). That difference is a concrete source-selection result, not a Google rank comparison. A page's Google position does not establish that either service will select it as an answer citation."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Salesforce-domain URLs are the first checked-vendor subject before the two engine counts.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/measurement/how-can-server-logs-show-whether-ai-crawlers-request-llms-txt.md": {
+      "source_sha256": "e577359f7d2e0acec77924bd246a1dd92de78c5771a031260b41a19ff213be2d",
+      "canonical_source_sha256": "51cbfd3f9c6eeb801955364e8105c1995aea22b3e575b17292e99abae3c539da",
+      "opening_sha256": "d73ca305bab01dec301083e5910f0e4285a723d5bd28ba5aac1918052c731d74",
+      "bank_id": "LB-Q0504",
+      "lead_figures": [
+        "figure:191d9f7e1d9b2eba7dde0f33b88379d0ca805f394f2ebcc854743f0e5e1fb90c"
+      ],
+      "lead_figure_spans": {
+        "figure:191d9f7e1d9b2eba7dde0f33b88379d0ca805f394f2ebcc854743f0e5e1fb90c": [
+          "Read the request path in your server or CDN log to establish a request for llms.txt; a crawler name on its own is insufficient. Our [Study 7 capture of 22 to 23 September 2026](https://doi.org/10.5281/zenodo.23271935) contains 0 recorded llms.txt citation URLs among 2,093 eligible answers. That is an answer-source result, so it cannot substitute for a request log."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "action_first",
+      "classification_reason": "The imperative to read the actual request path leads before the separate answer-citation count.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/measurement/do-youtube-transcripts-affect-llm-citations.md": {
+      "source_sha256": "01690ac992179b880786f28a6c15109cc37780d9e0d0a1b422e51b15ed9f8d50",
+      "canonical_source_sha256": "002c62725c2a112c11e78962cdab951bb739f8d819d5c63755de30eb28e4f576",
+      "opening_sha256": "54803266be2e1d9619f090b55a98ca186cdd0fb1e416bd9ebb5061b875d8b68c",
+      "bank_id": "LB-Q0506",
+      "lead_figures": [
+        "figure:87f075fd10760346b6103c067eb0ba992af7ab6b77f63088d8fed12c6642ec71"
+      ],
+      "lead_figure_spans": {
+        "figure:87f075fd10760346b6103c067eb0ba992af7ab6b77f63088d8fed12c6642ec71": [
+          "21 of 148 eligible answers cited a YouTube URL in our [23 October 2026 PHP2Shell study](https://doi.org/10.5281/zenodo.23586713), but the data does not establish whether a transcript affected those citations. The collection preserves returned answers and source URLs."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "figure_first",
+      "classification_reason": "The21of148eligible-answer count leads before the transcript-versus-URL distinction.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/geo-basics/can-i-use-chatgpt-as-a-crm.md": {
+      "source_sha256": "b0c0ad48867b3b2d708969046cd868d72c8d1c01a46b64fd39f9bd31e8f360e6",
+      "canonical_source_sha256": "2fb3a7ae7142e166204831bc4c0e6bbf9c28ac8b744999ed0f14f07109dc1b3f",
+      "opening_sha256": "00ee7b5ca8a0d9a4c8a4e64c25f64fb543a5c616c586ae455060b90e2c8ff5b3",
+      "bank_id": "LB-Q0296",
+      "lead_figures": [
+        "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1"
+      ],
+      "lead_figure_spans": {
+        "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1": [
+          "If you need a customer system of record, ChatGPT can be an interface to HubSpot's documented CRM connection; the records still live in the CRM. [The AI written RFP](https://doi.org/10.5281/zenodo.23271935), our published study, found the authoritative-system-of-record criterion in 1 answer from its CRM panel of 150. That panel was captured on 22 September 2026. That requirement is different from keeping a useful sales conversation in a chat."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader need for a customer system of record leads before the documented interface and criterion.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/measurement/how-can-a-buyer-verify-the-conclusion.md": {
+      "source_sha256": "1cc47a3a81622981828de4c29f9d2331cf6763d45e1cbdbeb1c5984ef3f01945",
+      "canonical_source_sha256": "67745ee8279b46e942a1487e7a72cbd97e328f61aaf3756c279b2a59b22cb3b4",
+      "opening_sha256": "9ad1ff60e89cb511b4d2824a9488fa0ec954ff7e1f589547861ea1dbbecbc10a",
+      "bank_id": "LB-Q0277",
+      "lead_figures": [
+        "figure:bae9e1d2f26364a37726d5d18c4e0d98e7e88acbdf21ae9882e576c9c9231873"
+      ],
+      "lead_figure_spans": {
+        "figure:bae9e1d2f26364a37726d5d18c4e0d98e7e88acbdf21ae9882e576c9c9231873": [
+          "On 8 October 2026, our Open Dental reference checks examined the claims retained from 22 September 2026 answer captures. [Wrong About You](https://doi.org/10.5281/zenodo.23270124) labels 12 of 77 statements wrong or stale. To verify that conclusion, inspect the particular retained claim and dated reference, while preserving what the 77-statement base counts."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "date_first",
+      "classification_reason": "The actual8October2026vendor-reference check date leads before the retained22Septemberanswer captures and wrong-or-stale count.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/geo-basics/what-are-the-top-3-crm-platforms.md": {
+      "source_sha256": "6f75d00603c64374fc148823f71a14e5ee5ab5ccb53d5c77bf144a69c63c9297",
+      "canonical_source_sha256": "33b7df50b27437a160a43a96ea6a6c82382983477a4585e50352989c3c76e9e1",
+      "opening_sha256": "c72ef3ffe53d9d382a7e4b792a9e9c1df227b47f984f40861a6584c29f0c62ee",
+      "bank_id": "LB-Q0302",
+      "lead_figures": [
+        "figure:6f30ab822a0e68b7f1e94785637b413225266d39891e38e9b289fd43409cb5b0"
+      ],
+      "lead_figure_spans": {
+        "figure:6f30ab822a0e68b7f1e94785637b413225266d39891e38e9b289fd43409cb5b0": [
+          "In our [22 September 2026 CRM Index](https://doi.org/10.5281/zenodo.22907695), the highest naming totals belong to HubSpot CRM, Pipedrive and Salesforce Sales Cloud. Salesforce appeared in 109 of 150 valid answers. Here, top means most often named in this dated buyer-question panel, rather than the best product for every business."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "source_first",
+      "classification_reason": "The explicitly named dated CRMIndex source is the opening preface, before the highest-name list/count. This is reviewed as a named-source-led form, consistent with named-publication openings, rather than relabelling to fit current inventory.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
     }
   },
   "index_question_titles": {
