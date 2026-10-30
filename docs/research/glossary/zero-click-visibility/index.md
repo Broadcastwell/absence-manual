@@ -32,7 +32,7 @@ Rand Fishkin’s SparkToro post dated **13 August 2019** documents the older zer
 
 The exact phrase zero-click visibility appears in decipher’s article by Ema Fulga. The current page shows **27 January 2026** and retains an earlier **26 September 2025** update block. That earlier displayed date is the earliest dated exact-phrase use we verified for this definition; it is not proof of coinage or an archived unchanged 2025 text. [Fulga, current page].
 
-HubSpot’s AEO article, updated **11 September 2026**, also uses Zero-Click Visibility as a section heading about companies appearing in AI answers. Both are vendor uses. Their presence establishes terminology, not a common measurement standard or a demonstrated value for every exposure. [Clark, 2026].
+HubSpot’s AEO article also uses Zero-Click Visibility as a heading. On 30 October, its primary URL displayed **11 September and 26 October 2026** update dates in different responses. That conflict remains unresolved. These vendor uses establish terminology, not a common measurement standard or exposure value. [Clark, 2026].
 
 ## Define the missing click
 
@@ -76,7 +76,7 @@ This is a naming-without-own-citation result, **not a measured zero-click rate**
 
 - Fishkin, R. (2019, August 13). Less than half of Google searches now result in a click. SparkToro. Methodology notes and zero-click definition update. Historical browser-panel study. https://sparktoro.com/blog/less-than-half-of-google-searches-now-result-in-a-click/ Verified 30 October 2026.
 - Fulga, E. (2026, January 27; earlier update displayed September 26, 2025). Zero-click visibility: Why showing up once is everything. decipher. Vendor explanation; both dates appear in the current page. https://www.decipher.agency/resources/zero-click-visibility Verified 30 October 2026.
-- Clark, C. W. (2026, September 11). What is answer engine optimization (AEO), and how does it change SEO? HubSpot. Definition and Zero-Click Visibility sections. Page displays Updated: 09/11/26. https://blog.hubspot.com/marketing/answer-engine-optimization Verified 30 October 2026.
+- Clark, C. W. (2026). What is answer engine optimization (AEO), and how does it change SEO? HubSpot. Definition and Zero-Click Visibility sections. Primary responses display conflicting updates: September 11 and October 26, 2026. https://blog.hubspot.com/marketing/answer-engine-optimization Verified 30 October 2026.
 - Google Search Central. (2026). AI features and your website. How AI features work; eligibility and measurement sections, checked 30 October 2026. https://developers.google.com/search/docs/appearance/ai-features Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 

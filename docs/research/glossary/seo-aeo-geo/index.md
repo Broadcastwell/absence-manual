@@ -24,7 +24,7 @@ defined_term: SEO, AEO and GEO
 
 These labels organize different questions about discovery. Their boundaries depend on the source using them. A page can be indexed, quoted in a direct answer and cited in a generated response; those events do not require three independent disciplines with three universal algorithms.
 
-The library already answers [what GEO means in AI search](/answers/geo-basics/what-does-geo-mean-in-ai-search/). Here, we compare terminology.
+The library already answers [what GEO means in AI search](/answers/geo-basics/what-does-geo-mean-in-ai-search/).
 
 ## Which dated uses can we substantiate?
 
@@ -36,7 +36,7 @@ The GEO paper by Aggarwal and colleagues has a first arXiv submission dated **16
 
 ## An attributed comparison and our working definitions
 
-Raju and colleagues’ **October 2025 IJSREM paper, Table 1 on PDF pages 3 to 4**, contrasts SERP ranking, direct snippets or voice answers, and AI-generated inclusion. It pairs these with different techniques and metrics. That is the authors’ conceptual framing, not an experiment establishing three discrete causal layers.
+Raju and colleagues’ **October 2025 IJSREM paper, Table 1 on PDF pages 3 to 4**, contrasts SERP ranking, direct snippets or voice answers, and AI-generated inclusion. That is the authors’ conceptual framing, not an experiment establishing three discrete causal layers.
 
 | Label | IJSREM Table 1’s emphasis, paraphrased | Our operational use |
 | --- | --- | --- |
@@ -48,7 +48,7 @@ The paper’s synthesis does not provide an original intervention dataset. Its s
 
 ## Why vendor definitions overlap
 
-Kalicube’s dated article groups several acronyms around a shared brand-understanding objective. HubSpot’s AEO article, updated **11 September 2026**, extends AEO to appearances in generated answers. Their boundaries differ from a strict “AEO means only snippets, GEO means only generated text” split. [Barnard, 2025; Clark, 2026].
+Kalicube’s article groups acronyms around a shared brand-understanding objective. HubSpot extends AEO to generated-answer appearances. Its primary URL displayed conflicting update dates, **11 September and 26 October 2026**, on 30 October. We retain that unresolved chronology; these definitions do not establish a strict snippets-versus-generated-text boundary. [Barnard, 2025; Clark, 2026].
 
 Google’s current AI-feature guidance says ordinary SEO best practices remain relevant and specifies no extra technical requirements for its AI features beyond Search eligibility. That statement applies to Google’s described experiences, not every independent assistant or action service. [Google Search Central, AI features].
 
@@ -79,7 +79,7 @@ In Study 2, **39 of 2,095 eligible target answers had empty citation lists: 1.9%
 - Barnard, J. (2025, May 30). This is the era of generative and assistive engine optimization. Kalicube. Vendor terminology and retrospective AEO-origin claim. https://kalicube.com/learning-spaces/faq-list/generative-ai/generative-and-assistive-engine-optimization-moving-from-the-all-tab-to-the-ai-mode-tab-in-google/ Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
-- Clark, C. W. (2026, September 11). What is answer engine optimization (AEO), and how does it change SEO? HubSpot. https://blog.hubspot.com/marketing/answer-engine-optimization . Verified 30 October 2026.
+- Clark, C. W. (2026). What is answer engine optimization (AEO), and how does it change SEO? HubSpot. Conflicting displayed updates: September 11 and October 26, 2026. https://blog.hubspot.com/marketing/answer-engine-optimization . Verified 30 October 2026.
 - Google Search Central. (2026). AI features and your website. https://developers.google.com/search/docs/appearance/ai-features . Verified 30 October 2026.
 
 ## Cite this page
