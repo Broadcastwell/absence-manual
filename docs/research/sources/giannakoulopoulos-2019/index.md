@@ -85,7 +85,7 @@ We grade the paper B for this bounded use: a documented observational comparison
 
 ## What our own data shows
 
-Our external-source check uses the authors’ [deposited 2019 results](https://doi.org/10.5281/zenodo.3484673), with the [rank comparison](../../data/university-rank-reanalysis.csv), [100-row transcription](../../data/university-source-results.csv) and [offline calculations](../../data/recompute_source_workbooks.py) available. The separate GE HealthCare observation comes from [September release 2026-09](https://doi.org/10.5281/zenodo.22907695). The archive does not measure institutional prestige, general brand awareness or the causal effect of an audit score.
+GE HealthCare is named in **24/150 valid September radiology target answers, 16.0% (Wilson 95% interval 11.0% to 22.7%)**. This is the software-category observation discussed above. Our external-source check uses the authors’ [deposited 2019 results](https://doi.org/10.5281/zenodo.3484673), with the [rank comparison](../../data/university-rank-reanalysis.csv), [100-row transcription](../../data/university-source-results.csv) and [offline calculations](../../data/recompute_source_workbooks.py) available. The separate GE HealthCare observation comes from [September release 2026-09](https://doi.org/10.5281/zenodo.22907695). The archive does not measure institutional prestige, general brand awareness or the causal effect of an audit score.
 
 ## Sources
 

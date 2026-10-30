@@ -99,7 +99,7 @@ Even a future finding that most cited pages carry technical optimization signals
 
 ## What our own data shows
 
-The September 2026 release contains 2,095 valid target answers after five target exclusions, with controls kept separate. Its explicit citation arrays contain 18,893 target citation occurrences in our registered Study 2 reanalysis. Those are answer-linked URL entries, not Google ranked-result records. [Broadcastwell, release 2026-09, README and answer JSONL](https://doi.org/10.5281/zenodo.22907695); [Study 2 registration](https://doi.org/10.17605/OSF.IO/VCZKT). We have no completed Study 1 measurement of optimization signals to place beside Figure 1, and this page reports no such result.
+The September 2026 release contains 2,095 valid target answers after five target exclusions, with controls kept separate. Its explicit citation arrays contain 18,893 target citation occurrences in our registered Study 2 reanalysis. Those are answer-linked URL entries, not Google ranked-result records. [Broadcastwell, release 2026-09, README and answer JSONL](https://doi.org/10.5281/zenodo.22907695); [Study 2 registration](https://doi.org/10.17605/OSF.IO/VCZKT). This review uses Study 2’s citation counts for its own-data comparison. Study 1’s separate page-signal analysis is not reported as a result on this review page.
 
 ## Sources
 
