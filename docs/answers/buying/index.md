@@ -5,7 +5,7 @@ description: Scope, acceptance evidence and questions to ask before agreeing to 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T05:08:26+00:00'
+date_modified: '2026-10-30T12:00:10+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 7
@@ -15,7 +15,7 @@ library_order: 7
 
 Scope, acceptance evidence and questions to ask before agreeing to work.
 
-These 25 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 30 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Delivery choices
 
@@ -143,6 +143,12 @@ Omniscient Digital has three Yes cells in our eight-field record. Inspect its da
 
 An AI visibility audit should supply the answers, questions, engines, dates and sources. Our Go Fish publication record shows why the evidence scope matters.
 
+## Agency platform standardization
+
+[Should a public-affairs agency standardize on Suede or Profound for regulated clients?](i-m-a-public-affairs-agency-lead-for-our-regulated-industry-clients-su.md)
+
+Suede describes approval-gated content; Profound describes claim checks against a Knowledge Base. Our 10/150 access criterion keeps permissions distinct.
+
 ## Prospect-audit scope and resources
 
 [Which GEO platforms let agencies run pre-sales AI visibility audits for prospects?](which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo.md)
@@ -166,6 +172,30 @@ Compare dated deliverables before speed claims: our 17 September audit found pub
 [Looking for AI software for field service providers in the United Kingdom?](looking-for-ai-software-for-field-service-providers-in-the-united-king.md)
 
 Jobber documents UK Receptionist with channel and plan conditions. In our capture, ChatGPT named Jobber in 18/30 field-service answers.
+
+## A client’s first GEO deliverable
+
+[What can an agency deliver when a client asks for GEO?](what-can-an-agency-deliver-when-a-client-asks-for-geo.md)
+
+Define a client deliverable around a retained answer, a company fact and the evidence needed for a specific change. A publication is not an answer outcome.
+
+## Agency answer reporting
+
+[How does GEO change the work of a traditional SEO agency?](how-does-geo-change-the-work-of-a-traditional-seo-agency.md)
+
+Google retains SEO fundamentals for AI features. Our 6/30 HubSpot reference count shows the separate answer evidence an agency can report.
+
+## Home-service visibility tools
+
+[Which AEO tools suit home-service companies and contractors?](which-aeo-tools-suit-home-service-companies-and-contractors.md)
+
+Compare Semrush location-aware reports and seoClarity Overview references. Our Jobber 18/30 count concerns software buyers, not local contractors.
+
+## US agency comparison
+
+[Which AEO agencies should a buyer compare in the United States?](which-aeo-agencies-should-a-buyer-compare-in-the-united-states.md)
+
+Compare Seer Interactive, Siege Media and WebFX using dated US-office facts and published evidence. WebFX meets 3/8 publication criteria.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

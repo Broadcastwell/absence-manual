@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T05:08:26+00:00'
+date_modified: '2026-10-30T14:53:57+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 26 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 46 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -137,6 +137,12 @@ Size a growing GEO workload by retained answers and shared resources. Otterly do
 
 Compare each documented control and plan. Our dated OtterlyAI row names three MCP plans; its SSO guide specifies Enterprise sign-in.
 
+## PAC software reporting fields
+
+[How do Suede and AthenaHQ differ beyond price for a PAC?](how-do-suede-and-athenahq-differ-beyond-price-for-a-pac.md)
+
+Compare the providers' reported issue, citation and sentiment fields beyond price. Our HubSpot citation example is a website-reference unit, not a PAC result.
+
 ## Finding a provider in your own city
 
 [Where can I find an AI search visibility expert near me?](where-can-i-find-an-ai-search-visibility-expert-near-me.md)
@@ -155,11 +161,125 @@ Semrush lists UK reporting; seoClarity publishes UK research. Our Claude sample 
 
 Origence is a credit-union lending technology network. The September Index checked its name and published aliases.
 
+## Energy permitting information workflows
+
+[How do Suede and Profound compare for permitting and community narratives at an energy company?](how-do-suede-and-profound-compare-for-permitting-and-community-narrati.md)
+
+Suede documents energy-project audience monitoring; Profound documents factual-claim checks. Our dated 12/77 example separates factual status from stance.
+
+## Trade-association reporting scope
+
+[How do Suede, Profound and AthenaHQ compare for a trade group in a regulated industry?](how-do-suede-profound-and-athenahq-compare-for-a-trade-group-in-a-regu.md)
+
+Suede names trade associations; Profound and Athena describe other report fields. Our cited-publisher example separates an association site from member brands.
+
 ## Product outputs beyond brand-coverage charts
 
 [How do Profound and seoClarity compare?](how-do-profound-and-seoclarity-compare.md)
 
 Compare Profound’s reported fact-checking workflow with seoClarity’s accuracy and change-record functions. Our records do not rank either supplier.
+
+## Peec’s published metric roles
+
+[What does Peec measure?](peec-visibility-or-aeo-or-geo-or-search-or-citation-or-seo-or-generati.md)
+
+Peec describes visibility, position and sentiment. Our Close example separates named-answer counts, vendor citations and distinct buyer questions.
+
+## Suede and Athena citation tracking
+
+[How do Suede and AthenaHQ compare for tracking citations across models?](how-do-suede-and-athenahq-compare-for-tracking-citations-across-models.md)
+
+Suede describes captured-source drill-down; Athena-supported research defines root-domain citation share. Our HubSpot 1/30 example shows the unit.
+
+## Competitor prominence scores
+
+[What platform scores competitors on generative engine prominence?](what-platform-scores-competitors-on-generative-engine-prominence.md)
+
+Profound and Semrush document different prominence metrics. Our 2039 name appearances across 420 Claude answers show why the denominator matters.
+
+## BrightEdge alternatives
+
+[What are alternatives to BrightEdge for GEO?](what-are-alternatives-to-brightedge-for-geo.md)
+
+Profound, Semrush and seoClarity document GEO reporting functions. Compare their named units with our 1496 appearances across 420 ChatGPT answers.
+
+## Practice size and Dentrix Ascend
+
+[What sizes of dental practice use Dentrix Ascend for scheduling and billing?](what-sizes-of-dental-practice-use-dentrix-ascend-for-scheduling-and-bi.md)
+
+Published Dentrix Ascend scheduling and billing functions, a multi-location customer example, and the limits of our dental-question naming data.
+
+## Blue Yonder’s published LTL scope
+
+[What does Blue Yonder publish about LTL freight shipping?](what-does-blue-yonder-publish-about-ltl-freight-shipping.md)
+
+Blue Yonder’s page lists LTL execution. Our 6/30 ChatGPT count concerns enterprise and alternative questions, without an LTL shipment test.
+
+## Combined AI visibility and social listening
+
+[Which tools combine AI visibility and social listening?](which-tools-combine-ai-visibility-and-social-listening.md)
+
+Meltwater documents GenAI Lens alongside social listening. Our dated Reddit-citation count shows why AI source links and social-conversation records differ.
+
+## Evidence for competitive-industry GEO claims
+
+[Who has the best GEO results in competitive industries?](who-has-the-best-geo-results-in-competitive-industries.md)
+
+A dated WebFX publication check and Suede’s named Koomba case show how to inspect evidence without turning different records into a universal agency winner.
+
+## AI assistance for SEO work
+
+[Can I use AI to do my SEO?](can-i-use-ai-to-do-my-seo.md)
+
+AI can assist SEO research and drafting. Our dated HubSpot claim checks show why company facts still need their own retained source and reference date.
+
+## ChatGPT and the CRM system of record
+
+[Can I use ChatGPT as a CRM?](can-i-use-chatgpt-as-a-crm.md)
+
+ChatGPT can be an interface to HubSpot CRM. Our 1/150 system-of-record criterion separates a useful chat from the customer database and its permissions.
+
+## Perplexity for SEO source research
+
+[Is Perplexity good for SEO?](is-perplexity-good-for-seo.md)
+
+Perplexity can help research sources for SEO work. A dated Salesforce citation example shows what its answer links establish and what still needs checking.
+
+## Three CRM naming totals
+
+[What are the top 3 CRM platforms?](what-are-the-top-3-crm-platforms.md)
+
+HubSpot CRM, Pipedrive and Salesforce had the September panel’s highest naming totals. This is dated visibility, not a product-quality verdict.
+
+## Meaning of large language model
+
+[What does LLM in AI mean?](what-does-llm-in-ai-mean.md)
+
+LLM means large language model. Read how tokens, context and Transformers relate to generated text, with a dated company-fact example.
+
+## Task-specific AI CRM comparison
+
+[Which AI-based CRM is the best?](which-ai-based-crm-is-the-best.md)
+
+A CRM’s AI label does not establish the best fit. A dated buyer-question criterion and HubSpot’s documented record controls make the comparison more specific.
+
+## Using AI for search work
+
+[Which AI is best for SEO?](which-ai-is-best-for-seo.md)
+
+Choose the assistant for the work you need to check. Our Salesforce-domain citation counts differ between ChatGPT and Perplexity without measuring SEO lift.
+
+## Using AI with business software
+
+[Will CRM get replaced by AI?](will-crm-get-replaced-by-ai.md)
+
+HubSpot’s ChatGPT connection uses a HubSpot account. A chat interface and a replacement for its backing customer-record system are different claims.
+
+## Search foundations
+
+[Does AI search replace SEO?](does-ai-search-replace-seo.md)
+
+Google keeps search eligibility rules for AI features. Our HubSpot citation count measures answers, with clicks and rankings kept separate.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
