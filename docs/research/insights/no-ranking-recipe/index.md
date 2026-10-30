@@ -84,7 +84,7 @@ We still want explanatory research. Merely counting answers can leave mechanisms
 
 ## What our own data shows
 
-The September repeat comparison above is reconstructed from published engine-presence counts in [release 2026-09](https://doi.org/10.5281/zenodo.22907695), with the [repeat-disagreement CSV](../../data/repeat-disagreement.csv) available. It does not replace the unresolved Volume III company cohort with a silently revised denominator. We have no causal measurement of a universal ranking or citation recipe on this point.
+Across September’s complete vendor-question-engine groups, ChatGPT has mixed naming across three valid repeats in **159/2,860 groups, 5.6% (Wilson 95% interval 4.8% to 6.5%)**, and AI Mode in **345/2,860, 12.1% (10.9% to 13.3%)**. These are within-engine descriptive observations, not a test that one engine is causally more stable. The September repeat comparison above is reconstructed from published engine-presence counts in [release 2026-09](https://doi.org/10.5281/zenodo.22907695), with the [repeat-disagreement CSV](../../data/repeat-disagreement.csv) available. It does not replace the unresolved Volume III company cohort with a silently revised denominator. We have no causal measurement of a universal ranking or citation recipe on this point.
 
 ## Sources
 

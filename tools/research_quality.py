@@ -7,9 +7,9 @@ import json, re, html
 from html.parser import HTMLParser
 import yaml
 try:
-    from tools.library_quality import words, sequences
+    from tools.library_quality import words, sequences, comparison_prose
 except ModuleNotFoundError:
-    from library_quality import words, sequences
+    from library_quality import words, sequences, comparison_prose
 
 FLOORS={'hub':(800,1400),'insight':(1400,2500),'source':(1400,2500),
         'study':(1400,2500),'playbook':(1200,2200),'glossary':(600,1100)}
@@ -33,13 +33,10 @@ def split(text):
     return (yaml.safe_load(m[1]) or {},m[2]) if m else ({},text)
 
 def comparable(body):
-    # Fixed reference, citation, attribution and next-step blocks carry no original argument.
-    # The same exclusions apply to every candidate and every comparison page.
-    body=re.split(r'(?m)^## (?:Sources|Cite this page|Continue)\s*$',body)[0]
-    body=re.sub(r'(?s)```.*?```',' ',body)
-    body=re.sub(r'\[([^\]]+)\]\([^)]+\)',r'\1',body)
-    body=re.sub(r'<[^>]+>',' ',body)
-    return body
+    # Use the library's required full-page comparison, including references.
+    # Only that unchanged function's explicitly excluded fixed/link text is removed.
+    return comparison_prose(body)
+
 
 def check_research(root):
     root=Path(root); docs=root/'docs'; errors=[]; pages={}; ids=[]
