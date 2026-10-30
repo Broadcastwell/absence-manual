@@ -1,0 +1,43 @@
+Study 1: observed optimization signals on cited pages
+CC BY 4.0 for released data and prose. Analysis programs: MIT.
+
+The public scalar capture omits response bodies, redirect-chain/location metadata
+and free-text errors. Two failed final destinations with sensitive query-key
+names are blanked; the analysis already blanks those public URLs. No signal
+used to assign a classification or substantive aggregate is removed. The file
+manifest distinguishes original capture/table hashes from public LF-normalized
+copies. The frozen collection instruments retain their original bytes.
+
+Offline reproduction, Python standard library:
+  python reproduce_study1.py .
+This checks each classification and every numeric aggregate table against the
+released scalar classification and citation-membership tables, including
+Wilson limits, citation order, schema types and host-file observations.
+
+Rebuild from the captured scalar JSONL, without fetching any page:
+1. Obtain answers-2026-09.jsonl, release-2026-09.json and the control-question
+   input from version DOI 10.5281/zenodo.22907695. Place answers and release in
+   inputs/22907695/ beside the frozen receipt. Preserve the deposited bytes.
+   The controls input is the separately published control-questions.json here.
+2. Keep collect_page_signals.py, page-signal-rules.json, study1-news-hosts.csv
+   and study1-precollection-freeze.json beside the analysis program, unchanged.
+3. Create your own local excluded-hosts.txt for domains outside your collection
+   permissions. The published capture has no client-domain URL examples. A
+   private exclusion list is not distributed. An empty file reproduces the
+   already released, public URL projection; this is not permission to fetch.
+4. Run:
+   python analyze_page_signals.py --answers inputs/22907695/answers-2026-09.jsonl --release inputs/22907695/release-2026-09.json --controls control-questions.json --signals study1-page-signals.jsonl --rules page-signal-rules.json --freeze study1-precollection-freeze.json --exclude-hosts excluded-hosts.txt --out reproduced
+5. Compare CSV cells, not platform-dependent CRLF versus LF bytes. The summary
+   records the supplied scalar projection hash; original_capture_sha256 in the
+   provenance file identifies the fuller captured metadata record.
+
+The collector is supplied for inspection as the exact frozen research instrument.
+A new live collection measures a new date and is not a reproduction of this
+snapshot. It requires a locally supplied host exclusion policy, the public OSF
+availability check, robots compliance and per-host delays. Never distribute
+the collected response bodies. The exact .py fingerprint in the frozen receipt
+is checked before analysis alongside the news list, rules and answer inputs.
+
+Interpretation: static signatures are not evidence of optimization intent or
+that a signal caused an AI citation. Failed fetches remain separate. Intervals
+describe this dependent convenience archive, not a population of buyer searches.

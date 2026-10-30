@@ -1,0 +1,62 @@
+[
+  {
+    "category_id": "construction-project-management",
+    "question_id": "c1",
+    "text": "best construction management software in 2026 overall",
+    "type": "control"
+  },
+  {
+    "category_id": "construction-project-management",
+    "question_id": "c2",
+    "text": "what are the best alternatives to Sage 300 CRE",
+    "type": "control"
+  },
+  {
+    "category_id": "construction-project-management",
+    "question_id": "c3",
+    "text": "eSUB vs Procore for a specialty subcontractor",
+    "type": "control"
+  },
+  {
+    "category_id": "construction-project-management",
+    "question_id": "c4",
+    "text": "how much does construction management software cost",
+    "type": "control"
+  },
+  {
+    "category_id": "construction-project-management",
+    "question_id": "c5",
+    "text": "what software do you use to run a residential design build firm under two million in revenue",
+    "type": "control"
+  },
+  {
+    "category_id": "crm",
+    "question_id": "control-1",
+    "text": "What information should a team document before evaluating CRM software?",
+    "type": "control"
+  },
+  {
+    "category_id": "crm",
+    "question_id": "control-2",
+    "text": "What process changes should a team consider before adopting CRM software?",
+    "type": "control"
+  },
+  {
+    "category_id": "crm",
+    "question_id": "control-3",
+    "text": "What data quality checks are relevant when moving to CRM software?",
+    "type": "control"
+  },
+  {
+    "category_id": "crm",
+    "question_id": "control-4",
+    "text": "What should a team record when testing a CRM workflow?",
+    "type": "control"
+  },
+  {
+    "category_id": "crm",
+    "question_id": "control-5",
+    "text": "How can a team document its requirements for CRM software?",
+    "type": "control"
+  }
+]

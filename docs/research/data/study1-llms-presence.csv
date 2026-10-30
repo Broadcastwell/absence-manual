@@ -1,0 +1,1189 @@
+scope,engine,category,measure,count,base,percent,wilson_95_low,wilson_95_high,unit,denominator
+combined,ChatGPT,all,llms.txt present,100,298,33.557,28.4353,39.0973,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,all,llms.txt present,342,891,38.3838,35.2469,41.6205,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,all,llms.txt absent,171,298,57.3826,51.709,62.8682,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,all,llms.txt absent,467,891,52.413,49.1305,55.6749,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,all,llms.txt unknown,27,298,9.0604,6.3015,12.8613,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,all,llms.txt unknown,82,891,9.2031,7.4762,11.2804,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,construction-project-management,llms.txt present,10,34,29.4118,16.8346,46.1689,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,construction-project-management,llms.txt present,33,94,35.1064,26.2155,45.1668,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,construction-project-management,llms.txt absent,20,34,58.8235,42.2216,73.634,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,construction-project-management,llms.txt absent,55,94,58.5106,48.408,67.945,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,construction-project-management,llms.txt unknown,4,34,11.7647,4.6714,26.6208,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,construction-project-management,llms.txt unknown,6,94,6.383,2.958,13.233,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,crm,llms.txt present,17,27,62.963,44.2292,78.4675,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,crm,llms.txt present,67,119,56.3025,47.3318,64.879,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,crm,llms.txt absent,8,27,29.6296,15.853,48.4807,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,crm,llms.txt absent,39,119,32.7731,24.9938,41.6298,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,crm,llms.txt unknown,2,27,7.4074,2.0555,23.3696,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,crm,llms.txt unknown,13,119,10.9244,6.4962,17.7964,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,dealership-management-systems,llms.txt present,4,22,18.1818,7.3069,38.5166,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,dealership-management-systems,llms.txt present,8,41,19.5122,10.2344,34.0136,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,dealership-management-systems,llms.txt absent,18,22,81.8182,61.4834,92.6931,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,dealership-management-systems,llms.txt absent,33,41,80.4878,65.9864,89.7656,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,dealership-management-systems,llms.txt unknown,0,22,0.0,0,14.8655,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,dealership-management-systems,llms.txt unknown,0,41,0.0,0,8.5668,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,dental-practice-management,llms.txt present,3,17,17.6471,6.1911,41.0295,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,dental-practice-management,llms.txt present,12,50,24.0,14.2974,37.4127,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,dental-practice-management,llms.txt absent,13,17,76.4706,52.7382,90.445,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,dental-practice-management,llms.txt absent,36,50,72.0,58.3349,82.5258,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,dental-practice-management,llms.txt unknown,1,17,5.8824,1.046,26.982,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,dental-practice-management,llms.txt unknown,2,50,4.0,1.1039,13.4601,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,field-service-management,llms.txt present,10,16,62.5,38.641,81.5188,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,field-service-management,llms.txt present,41,63,65.0794,52.7515,75.674,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,field-service-management,llms.txt absent,5,16,31.25,14.1646,55.5956,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,field-service-management,llms.txt absent,21,63,33.3333,22.9496,45.6328,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,field-service-management,llms.txt unknown,1,16,6.25,1.1119,28.3287,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,field-service-management,llms.txt unknown,1,63,1.5873,0.2807,8.4585,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,hotel-property-management,llms.txt present,4,18,22.2222,9.0009,45.2146,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,hotel-property-management,llms.txt present,6,54,11.1111,5.193,22.1947,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,hotel-property-management,llms.txt absent,12,18,66.6667,43.7495,83.7212,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,hotel-property-management,llms.txt absent,41,54,75.9259,63.0525,85.3557,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,hotel-property-management,llms.txt unknown,2,18,11.1111,3.102,32.7998,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,hotel-property-management,llms.txt unknown,7,54,12.963,6.4237,24.4217,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,insurance-agency-management,llms.txt present,2,25,8.0,2.222,24.9661,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,insurance-agency-management,llms.txt present,4,72,5.5556,2.1814,13.432,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,insurance-agency-management,llms.txt absent,17,25,68.0,48.4103,82.7948,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,insurance-agency-management,llms.txt absent,47,72,65.2778,53.7613,75.2466,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,insurance-agency-management,llms.txt unknown,6,25,24.0,11.4963,43.4297,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,insurance-agency-management,llms.txt unknown,21,72,29.1667,19.9381,40.5057,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,legal-practice-management,llms.txt present,4,13,30.7692,12.6807,57.6307,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,legal-practice-management,llms.txt present,12,35,34.2857,20.8317,50.8481,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,legal-practice-management,llms.txt absent,7,13,53.8462,29.1438,76.7939,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,legal-practice-management,llms.txt absent,18,35,51.4286,35.5688,67.0058,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,legal-practice-management,llms.txt unknown,2,13,15.3846,4.3258,42.2346,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,legal-practice-management,llms.txt unknown,5,35,14.2857,6.2602,29.3756,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,loan-origination-software,llms.txt present,10,27,37.037,21.5325,55.7708,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,loan-origination-software,llms.txt present,25,55,45.4545,33.0253,58.4773,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,loan-origination-software,llms.txt absent,15,27,55.5556,37.313,72.4141,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,loan-origination-software,llms.txt absent,28,55,50.9091,38.0763,63.6232,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,loan-origination-software,llms.txt unknown,2,27,7.4074,2.0555,23.3696,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,loan-origination-software,llms.txt unknown,2,55,3.6364,1.003,12.3235,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,project_management,llms.txt present,10,24,41.6667,24.4676,61.1653,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,project_management,llms.txt present,50,80,62.5,51.5487,72.3058,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,project_management,llms.txt absent,9,24,37.5,21.1594,57.29,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,project_management,llms.txt absent,17,80,21.25,13.7124,31.4222,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,project_management,llms.txt unknown,5,24,20.8333,9.2448,40.4705,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,project_management,llms.txt unknown,13,80,16.25,9.7498,25.8429,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,radiology-medical-imaging,llms.txt present,4,31,12.9032,5.1343,28.8524,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,radiology-medical-imaging,llms.txt present,13,69,18.8406,11.3547,29.6129,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,radiology-medical-imaging,llms.txt absent,24,31,77.4194,60.1876,88.6049,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,radiology-medical-imaging,llms.txt absent,50,69,72.4638,60.9527,81.6055,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,radiology-medical-imaging,llms.txt unknown,3,31,9.6774,3.3465,24.8999,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,radiology-medical-imaging,llms.txt unknown,6,69,8.6957,4.0464,17.7015,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,residential-property-management,llms.txt present,8,18,44.4444,24.5595,66.2836,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,residential-property-management,llms.txt present,23,47,48.9362,35.2756,62.7575,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,residential-property-management,llms.txt absent,9,18,50.0,29.031,70.969,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,residential-property-management,llms.txt absent,21,47,44.6809,31.411,58.7545,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,residential-property-management,llms.txt unknown,1,18,5.5556,0.9875,25.7573,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,residential-property-management,llms.txt unknown,3,47,6.383,2.1945,17.1626,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,transportation-management-systems,llms.txt present,11,24,45.8333,27.8913,64.9251,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,transportation-management-systems,llms.txt present,25,55,45.4545,33.0253,58.4773,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,transportation-management-systems,llms.txt absent,12,24,50.0,31.4274,68.5726,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,transportation-management-systems,llms.txt absent,28,55,50.9091,38.0763,63.6232,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,transportation-management-systems,llms.txt unknown,1,24,4.1667,0.7393,20.2418,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,transportation-management-systems,llms.txt unknown,2,55,3.6364,1.003,12.3235,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,veterinary-practice-management,llms.txt present,7,15,46.6667,24.8095,69.883,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,veterinary-practice-management,llms.txt present,23,57,40.3509,28.6175,53.3027,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,veterinary-practice-management,llms.txt absent,7,15,46.6667,24.8095,69.883,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,veterinary-practice-management,llms.txt absent,33,57,57.8947,44.9801,69.8124,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,ChatGPT,veterinary-practice-management,llms.txt unknown,1,15,6.6667,1.1867,29.8165,distinct final origin,origins of successful complete HTML URLs
+combined,ChatGPT,veterinary-practice-management,llms.txt unknown,1,57,1.7544,0.3104,9.2907,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,all,llms.txt present,382,727,52.5447,48.911,56.1516,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,all,llms.txt present,721,1330,54.2105,51.5246,56.8722,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,all,llms.txt absent,308,727,42.3659,38.8233,45.9887,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,all,llms.txt absent,570,1330,42.8571,40.2219,45.5336,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,all,llms.txt unknown,37,727,5.0894,3.7147,6.9363,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,all,llms.txt unknown,39,1330,2.9323,2.1524,3.9834,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,construction-project-management,llms.txt present,49,92,53.2609,43.1405,63.1199,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,construction-project-management,llms.txt present,93,172,54.0698,46.6146,61.3471,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,construction-project-management,llms.txt absent,36,92,39.1304,29.7856,49.3466,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,construction-project-management,llms.txt absent,72,172,41.8605,34.7445,49.3321,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,construction-project-management,llms.txt unknown,7,92,7.6087,3.7344,14.8812,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,construction-project-management,llms.txt unknown,7,172,4.0698,1.9851,8.1612,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,crm,llms.txt present,74,116,63.7931,54.7351,71.9669,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,crm,llms.txt present,100,151,66.2252,58.3625,73.2828,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,crm,llms.txt absent,36,116,31.0345,23.3372,39.9476,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,crm,llms.txt absent,45,151,29.8013,23.0808,37.5241,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,crm,llms.txt unknown,6,116,5.1724,2.3919,10.8268,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,crm,llms.txt unknown,6,151,3.9735,1.8336,8.3972,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,dealership-management-systems,llms.txt present,34,57,59.6491,46.6973,71.3825,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,dealership-management-systems,llms.txt present,54,86,62.7907,52.2338,72.2537,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,dealership-management-systems,llms.txt absent,23,57,40.3509,28.6175,53.3027,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,dealership-management-systems,llms.txt absent,32,86,37.2093,27.7463,47.7662,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,dealership-management-systems,llms.txt unknown,0,57,0.0,0,6.3139,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,dealership-management-systems,llms.txt unknown,0,86,0.0,0,4.2758,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,dental-practice-management,llms.txt present,22,47,46.8085,33.3317,60.7676,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,dental-practice-management,llms.txt present,30,74,40.5405,30.0906,51.9242,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,dental-practice-management,llms.txt absent,23,47,48.9362,35.2756,62.7575,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,dental-practice-management,llms.txt absent,42,74,56.7568,45.4127,67.4339,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,dental-practice-management,llms.txt unknown,2,47,4.2553,1.1748,14.2485,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,dental-practice-management,llms.txt unknown,2,74,2.7027,0.7443,9.3293,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,field-service-management,llms.txt present,36,58,62.069,49.2028,73.4357,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,field-service-management,llms.txt present,70,101,69.3069,59.7427,77.4564,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,field-service-management,llms.txt absent,21,58,36.2069,25.0549,49.0725,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,field-service-management,llms.txt absent,30,101,29.703,21.6683,39.225,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,field-service-management,llms.txt unknown,1,58,1.7241,0.305,9.1409,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,field-service-management,llms.txt unknown,1,101,0.9901,0.175,5.3967,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,hotel-property-management,llms.txt present,22,42,52.381,37.7225,66.6404,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,hotel-property-management,llms.txt present,36,69,52.1739,40.5873,63.5313,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,hotel-property-management,llms.txt absent,18,42,42.8571,29.1177,57.7938,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,hotel-property-management,llms.txt absent,30,69,43.4783,32.4328,55.2116,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,hotel-property-management,llms.txt unknown,2,42,4.7619,1.3158,15.7899,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,hotel-property-management,llms.txt unknown,3,69,4.3478,1.4896,12.0212,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,insurance-agency-management,llms.txt present,16,41,39.0244,25.6561,54.2731,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,insurance-agency-management,llms.txt present,27,70,38.5714,28.0477,50.2843,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,insurance-agency-management,llms.txt absent,24,41,58.5366,43.3671,72.2435,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,insurance-agency-management,llms.txt absent,42,70,60.0,48.2938,70.6657,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,insurance-agency-management,llms.txt unknown,1,41,2.439,0.4319,12.5951,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,insurance-agency-management,llms.txt unknown,1,70,1.4286,0.2526,7.6582,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,legal-practice-management,llms.txt present,34,67,50.7463,39.0638,62.3478,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,legal-practice-management,llms.txt present,45,90,50.0,39.8837,60.1163,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,legal-practice-management,llms.txt absent,30,67,44.7761,33.4764,56.6424,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,legal-practice-management,llms.txt absent,42,90,46.6667,36.7084,56.8978,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,legal-practice-management,llms.txt unknown,3,67,4.4776,1.5344,12.3578,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,legal-practice-management,llms.txt unknown,3,90,3.3333,1.14,9.3473,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,loan-origination-software,llms.txt present,24,44,54.5455,40.0662,68.2948,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,loan-origination-software,llms.txt present,42,63,66.6667,54.3672,77.0504,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,loan-origination-software,llms.txt absent,19,44,43.1818,29.6827,57.7759,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,loan-origination-software,llms.txt absent,20,63,31.746,21.5867,44.0035,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,loan-origination-software,llms.txt unknown,1,44,2.2727,0.4023,11.8077,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,loan-origination-software,llms.txt unknown,1,63,1.5873,0.2807,8.4585,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,project_management,llms.txt present,35,63,55.5556,43.3196,67.1529,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,project_management,llms.txt present,48,84,57.1429,46.477,67.184,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,project_management,llms.txt absent,25,63,39.6825,28.5319,52.0191,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,project_management,llms.txt absent,33,84,39.2857,29.5303,49.9782,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,project_management,llms.txt unknown,3,63,4.7619,1.6326,13.091,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,project_management,llms.txt unknown,3,84,3.5714,1.222,9.9817,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,radiology-medical-imaging,llms.txt present,20,65,30.7692,20.887,42.7976,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,radiology-medical-imaging,llms.txt present,33,98,33.6735,25.0901,43.4885,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,radiology-medical-imaging,llms.txt absent,41,65,63.0769,50.9238,73.7706,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,radiology-medical-imaging,llms.txt absent,60,98,61.2245,51.3287,70.2735,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,radiology-medical-imaging,llms.txt unknown,4,65,6.1538,2.4189,14.7822,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,radiology-medical-imaging,llms.txt unknown,5,98,5.102,2.1987,11.3925,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,residential-property-management,llms.txt present,28,60,46.6667,34.6279,59.1066,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,residential-property-management,llms.txt present,58,118,49.1525,40.3024,58.0561,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,residential-property-management,llms.txt absent,27,60,45.0,33.0937,57.5081,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,residential-property-management,llms.txt absent,55,118,46.6102,37.8587,55.5754,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,residential-property-management,llms.txt unknown,5,60,8.3333,3.612,18.0689,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,residential-property-management,llms.txt unknown,5,118,4.2373,1.8233,9.5369,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,transportation-management-systems,llms.txt present,27,56,48.2143,35.6682,60.9896,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,transportation-management-systems,llms.txt present,48,91,52.7473,42.5878,62.6842,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,transportation-management-systems,llms.txt absent,27,56,48.2143,35.6682,60.9896,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,transportation-management-systems,llms.txt absent,41,91,45.0549,35.2398,55.2707,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,transportation-management-systems,llms.txt unknown,2,56,3.5714,0.9849,12.1188,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,transportation-management-systems,llms.txt unknown,2,91,2.1978,0.6048,7.6632,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,veterinary-practice-management,llms.txt present,19,38,50.0,34.8499,65.1501,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,veterinary-practice-management,llms.txt present,38,64,59.375,47.1452,70.5431,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,veterinary-practice-management,llms.txt absent,19,38,50.0,34.8499,65.1501,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,veterinary-practice-management,llms.txt absent,26,64,40.625,29.4569,52.8548,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Claude,veterinary-practice-management,llms.txt unknown,0,38,0.0,0,9.181,distinct final origin,origins of successful complete HTML URLs
+combined,Claude,veterinary-practice-management,llms.txt unknown,0,64,0.0,0,5.6624,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,all,llms.txt present,213,411,51.8248,46.9996,56.6162,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,all,llms.txt present,353,697,50.6456,46.9406,54.3435,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,all,llms.txt absent,182,411,44.2822,39.555,49.1154,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,all,llms.txt absent,327,697,46.9154,43.2375,50.627,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,all,llms.txt unknown,16,411,3.8929,2.4102,6.2296,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,all,llms.txt unknown,17,697,2.439,1.5283,3.8711,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,construction-project-management,llms.txt present,24,50,48.0,34.7971,61.4883,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,construction-project-management,llms.txt present,38,80,47.5,36.9247,58.3044,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,construction-project-management,llms.txt absent,22,50,44.0,31.1622,57.694,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,construction-project-management,llms.txt absent,38,80,47.5,36.9247,58.3044,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,construction-project-management,llms.txt unknown,4,50,8.0,3.155,18.8382,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,construction-project-management,llms.txt unknown,4,80,5.0,1.9614,12.1623,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,crm,llms.txt present,25,44,56.8182,42.2241,70.3173,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,crm,llms.txt present,31,66,46.9697,35.4304,58.8423,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,crm,llms.txt absent,17,44,38.6364,25.7212,53.3764,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,crm,llms.txt absent,33,66,50.0,38.2737,61.7263,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,crm,llms.txt unknown,2,44,4.5455,1.2555,15.135,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,crm,llms.txt unknown,2,66,3.0303,0.835,10.3925,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,dealership-management-systems,llms.txt present,13,28,46.4286,29.5316,64.1873,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,dealership-management-systems,llms.txt present,16,32,50.0,33.6309,66.3691,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,dealership-management-systems,llms.txt absent,15,28,53.5714,35.8127,70.4684,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,dealership-management-systems,llms.txt absent,16,32,50.0,33.6309,66.3691,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,dealership-management-systems,llms.txt unknown,0,28,0.0,0.0,12.0643,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,dealership-management-systems,llms.txt unknown,0,32,0.0,0,10.7179,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,dental-practice-management,llms.txt present,6,24,25.0,11.9994,44.8994,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,dental-practice-management,llms.txt present,13,45,28.8889,17.7301,43.3685,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,dental-practice-management,llms.txt absent,16,24,66.6667,46.7063,82.0278,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,dental-practice-management,llms.txt absent,30,45,66.6667,52.0705,78.6411,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,dental-practice-management,llms.txt unknown,2,24,8.3333,2.3159,25.8488,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,dental-practice-management,llms.txt unknown,2,45,4.4444,1.2274,14.8275,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,field-service-management,llms.txt present,20,24,83.3333,64.1469,93.3213,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,field-service-management,llms.txt present,31,54,57.4074,44.1627,69.6682,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,field-service-management,llms.txt absent,4,24,16.6667,6.6787,35.8531,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,field-service-management,llms.txt absent,23,54,42.5926,30.3318,55.8373,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,field-service-management,llms.txt unknown,0,24,0.0,0.0,13.7976,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,field-service-management,llms.txt unknown,0,54,0.0,0,6.6414,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,hotel-property-management,llms.txt present,14,22,63.6364,42.9517,80.2668,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,hotel-property-management,llms.txt present,20,37,54.0541,38.384,68.9614,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,hotel-property-management,llms.txt absent,8,22,36.3636,19.7332,57.0483,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,hotel-property-management,llms.txt absent,17,37,45.9459,31.0386,61.616,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,hotel-property-management,llms.txt unknown,0,22,0.0,0,14.8655,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,hotel-property-management,llms.txt unknown,0,37,0.0,0,9.4058,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,insurance-agency-management,llms.txt present,13,27,48.1481,30.7432,66.0144,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,insurance-agency-management,llms.txt present,26,46,56.5217,42.2474,69.7907,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,insurance-agency-management,llms.txt absent,13,27,48.1481,30.7432,66.0144,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,insurance-agency-management,llms.txt absent,19,46,41.3043,28.2886,55.6605,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,insurance-agency-management,llms.txt unknown,1,27,3.7037,0.6568,18.2835,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,insurance-agency-management,llms.txt unknown,1,46,2.1739,0.3848,11.3353,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,legal-practice-management,llms.txt present,17,35,48.5714,32.9942,64.4312,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,legal-practice-management,llms.txt present,19,43,44.186,30.4333,58.8924,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,legal-practice-management,llms.txt absent,16,35,45.7143,30.466,61.8103,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,legal-practice-management,llms.txt absent,21,43,48.8372,34.6174,63.2477,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,legal-practice-management,llms.txt unknown,2,35,5.7143,1.5813,18.6071,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,legal-practice-management,llms.txt unknown,3,43,6.9767,2.4012,18.609,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,loan-origination-software,llms.txt present,22,29,75.8621,57.8924,87.7816,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,loan-origination-software,llms.txt present,36,44,81.8182,68.0394,90.4872,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,loan-origination-software,llms.txt absent,7,29,24.1379,12.2184,42.1076,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,loan-origination-software,llms.txt absent,8,44,18.1818,9.5128,31.9606,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,loan-origination-software,llms.txt unknown,0,29,0.0,0,11.697,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,loan-origination-software,llms.txt unknown,0,44,0.0,0,8.0296,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,project_management,llms.txt present,13,23,56.5217,36.8114,74.3654,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,project_management,llms.txt present,18,36,50.0,34.4743,65.5257,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,project_management,llms.txt absent,10,23,43.4783,25.6346,63.1886,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,project_management,llms.txt absent,18,36,50.0,34.4743,65.5257,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,project_management,llms.txt unknown,0,23,0.0,0,14.3117,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,project_management,llms.txt unknown,0,36,0.0,0,9.6419,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,radiology-medical-imaging,llms.txt present,14,50,28.0,17.4742,41.6651,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,radiology-medical-imaging,llms.txt present,24,70,34.2857,24.246,45.9605,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,radiology-medical-imaging,llms.txt absent,34,50,68.0,54.1897,79.2418,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,radiology-medical-imaging,llms.txt absent,44,70,62.8571,51.1472,73.2293,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,radiology-medical-imaging,llms.txt unknown,2,50,4.0,1.1039,13.4601,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,radiology-medical-imaging,llms.txt unknown,2,70,2.8571,0.7871,9.8323,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,residential-property-management,llms.txt present,19,34,55.8824,39.4539,71.1165,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,residential-property-management,llms.txt present,23,59,38.9831,27.5794,51.7337,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,residential-property-management,llms.txt absent,15,34,44.1176,28.8835,60.5461,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,residential-property-management,llms.txt absent,36,59,61.0169,48.2663,72.4206,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,residential-property-management,llms.txt unknown,0,34,0.0,0,10.1515,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,residential-property-management,llms.txt unknown,0,59,0.0,0,6.1129,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,transportation-management-systems,llms.txt present,24,38,63.1579,47.284,76.6158,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,transportation-management-systems,llms.txt present,35,53,66.0377,52.5948,77.313,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,transportation-management-systems,llms.txt absent,11,38,28.9474,17.0033,44.7571,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,transportation-management-systems,llms.txt absent,15,53,28.3019,17.9663,41.5703,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,transportation-management-systems,llms.txt unknown,3,38,7.8947,2.7215,20.7994,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,transportation-management-systems,llms.txt unknown,3,53,5.6604,1.9437,15.3702,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,veterinary-practice-management,llms.txt present,11,17,64.7059,41.3004,82.6903,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,veterinary-practice-management,llms.txt present,25,34,73.5294,56.8829,85.3988,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,veterinary-practice-management,llms.txt absent,6,17,35.2941,17.3097,58.6996,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,veterinary-practice-management,llms.txt absent,9,34,26.4706,14.6012,43.1171,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Mode,veterinary-practice-management,llms.txt unknown,0,17,0.0,0,18.4318,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Mode,veterinary-practice-management,llms.txt unknown,0,34,0.0,0,10.1515,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,all,llms.txt present,331,650,50.9231,47.0858,54.7495,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,all,llms.txt present,605,1260,48.0159,45.2675,50.7763,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,all,llms.txt absent,293,650,45.0769,41.2919,48.9198,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,all,llms.txt absent,623,1260,49.4444,46.6897,52.2026,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,all,llms.txt unknown,26,650,4.0,2.7441,5.7964,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,all,llms.txt unknown,32,1260,2.5397,1.8047,3.5632,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,construction-project-management,llms.txt present,37,73,50.6849,39.4722,61.8291,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,construction-project-management,llms.txt present,63,129,48.8372,40.3705,57.3712,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,construction-project-management,llms.txt absent,31,73,42.4658,31.7842,53.9006,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,construction-project-management,llms.txt absent,59,129,45.7364,37.3872,54.3322,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,construction-project-management,llms.txt unknown,5,73,6.8493,2.9609,15.0521,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,construction-project-management,llms.txt unknown,7,129,5.4264,2.6531,10.7775,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,crm,llms.txt present,43,86,50.0,39.661,60.339,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,crm,llms.txt present,72,148,48.6486,40.7328,56.6329,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,crm,llms.txt absent,41,86,47.6744,37.4455,58.1022,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,crm,llms.txt absent,74,148,50.0,42.0471,57.9529,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,crm,llms.txt unknown,2,86,2.3256,0.6401,8.088,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,crm,llms.txt unknown,2,148,1.3514,0.3714,4.7929,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,dealership-management-systems,llms.txt present,30,57,52.6316,39.918,65.0128,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,dealership-management-systems,llms.txt present,43,89,48.3146,38.2193,58.5494,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,dealership-management-systems,llms.txt absent,26,57,45.614,33.3726,58.4093,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,dealership-management-systems,llms.txt absent,45,89,50.5618,40.3686,60.7085,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,dealership-management-systems,llms.txt unknown,1,57,1.7544,0.3104,9.2907,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,dealership-management-systems,llms.txt unknown,1,89,1.1236,0.1986,6.0932,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,dental-practice-management,llms.txt present,17,42,40.4762,27.0429,55.5057,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,dental-practice-management,llms.txt present,25,67,37.3134,26.7182,49.2846,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,dental-practice-management,llms.txt absent,25,42,59.5238,44.4943,72.9571,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,dental-practice-management,llms.txt absent,42,67,62.6866,50.7154,73.2818,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,dental-practice-management,llms.txt unknown,0,42,0.0,0,8.3799,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,dental-practice-management,llms.txt unknown,0,67,0.0,0,5.4226,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,field-service-management,llms.txt present,27,37,72.973,57.0218,84.6025,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,field-service-management,llms.txt present,43,74,58.1081,46.7403,68.6757,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,field-service-management,llms.txt absent,9,37,24.3243,13.3614,40.1173,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,field-service-management,llms.txt absent,30,74,40.5405,30.0906,51.9242,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,field-service-management,llms.txt unknown,1,37,2.7027,0.4787,13.8241,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,field-service-management,llms.txt unknown,1,74,1.3514,0.2389,7.2654,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,hotel-property-management,llms.txt present,15,34,44.1176,28.8835,60.5461,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,hotel-property-management,llms.txt present,21,56,37.5,26.0102,50.5946,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,hotel-property-management,llms.txt absent,17,34,50.0,34.0693,65.9307,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,hotel-property-management,llms.txt absent,33,56,58.9286,45.8776,70.8332,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,hotel-property-management,llms.txt unknown,2,34,5.8824,1.6283,19.0936,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,hotel-property-management,llms.txt unknown,2,56,3.5714,0.9849,12.1188,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,insurance-agency-management,llms.txt present,20,41,48.7805,34.2544,63.5155,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,insurance-agency-management,llms.txt present,44,77,57.1429,46.0105,67.5963,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,insurance-agency-management,llms.txt absent,20,41,48.7805,34.2544,63.5155,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,insurance-agency-management,llms.txt absent,30,77,38.961,28.8423,50.1289,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,insurance-agency-management,llms.txt unknown,1,41,2.439,0.4319,12.5951,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,insurance-agency-management,llms.txt unknown,3,77,3.8961,1.3338,10.84,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,legal-practice-management,llms.txt present,33,52,63.4615,49.8717,75.1993,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,legal-practice-management,llms.txt present,50,93,53.7634,43.6829,63.5454,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,legal-practice-management,llms.txt absent,17,52,32.6923,21.5221,46.2438,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,legal-practice-management,llms.txt absent,41,93,44.086,34.4294,54.2118,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,legal-practice-management,llms.txt unknown,2,52,3.8462,1.0612,12.9812,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,legal-practice-management,llms.txt unknown,2,93,2.1505,0.5917,7.5055,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,loan-origination-software,llms.txt present,28,45,62.2222,47.6299,74.8919,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,loan-origination-software,llms.txt present,61,84,72.619,62.2526,81.0072,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,loan-origination-software,llms.txt absent,17,45,37.7778,25.1081,52.3701,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,loan-origination-software,llms.txt absent,23,84,27.381,18.9928,37.7474,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,loan-origination-software,llms.txt unknown,0,45,0.0,0,7.8652,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,loan-origination-software,llms.txt unknown,0,84,0.0,0,4.3732,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,project_management,llms.txt present,27,52,51.9231,38.6857,64.8959,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,project_management,llms.txt present,33,85,38.8235,29.1613,49.4523,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,project_management,llms.txt absent,22,52,42.3077,29.8681,55.8057,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,project_management,llms.txt absent,49,85,57.6471,47.0364,67.5965,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,project_management,llms.txt unknown,3,52,5.7692,1.9814,15.6425,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,project_management,llms.txt unknown,3,85,3.5294,1.2075,9.87,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,radiology-medical-imaging,llms.txt present,19,55,34.5455,23.3627,47.7461,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,radiology-medical-imaging,llms.txt present,26,98,26.5306,18.7957,36.036,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,radiology-medical-imaging,llms.txt absent,32,55,58.1818,45.0331,70.2622,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,radiology-medical-imaging,llms.txt absent,66,98,67.3469,57.5615,75.8237,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,radiology-medical-imaging,llms.txt unknown,4,55,7.2727,2.8644,17.2599,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,radiology-medical-imaging,llms.txt unknown,6,98,6.1224,2.8359,12.7191,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,residential-property-management,llms.txt present,17,37,45.9459,31.0386,61.616,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,residential-property-management,llms.txt present,26,80,32.5,23.2442,43.3595,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,residential-property-management,llms.txt absent,17,37,45.9459,31.0386,61.616,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,residential-property-management,llms.txt absent,51,80,63.75,52.8108,73.4292,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,residential-property-management,llms.txt unknown,3,37,8.1081,2.7961,21.3007,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,residential-property-management,llms.txt unknown,3,80,3.75,1.2835,10.4547,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,transportation-management-systems,llms.txt present,33,63,52.381,40.2704,64.2179,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,transportation-management-systems,llms.txt present,55,102,53.9216,44.282,63.2765,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,transportation-management-systems,llms.txt absent,28,63,44.4444,32.8471,56.6804,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,transportation-management-systems,llms.txt absent,45,102,44.1176,34.8693,53.793,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,transportation-management-systems,llms.txt unknown,2,63,3.1746,0.875,10.8565,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,transportation-management-systems,llms.txt unknown,2,102,1.9608,0.5394,6.8693,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,veterinary-practice-management,llms.txt present,22,42,52.381,37.7225,66.6404,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,veterinary-practice-management,llms.txt present,44,79,55.6962,44.7319,66.1322,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,veterinary-practice-management,llms.txt absent,20,42,47.619,33.3596,62.2775,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,veterinary-practice-management,llms.txt absent,35,79,44.3038,33.8678,55.2681,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Google AI Overviews,veterinary-practice-management,llms.txt unknown,0,42,0.0,0,8.3799,distinct final origin,origins of successful complete HTML URLs
+combined,Google AI Overviews,veterinary-practice-management,llms.txt unknown,0,79,0.0,0,4.6371,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,all,llms.txt present,511,921,55.4832,52.2573,58.6635,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,all,llms.txt present,1047,1897,55.1924,52.9463,57.4175,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,all,llms.txt absent,377,921,40.9338,37.8022,44.1407,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,all,llms.txt absent,803,1897,42.33,40.1243,44.5667,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,all,llms.txt unknown,33,921,3.5831,2.5626,4.9892,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,all,llms.txt unknown,47,1897,2.4776,1.8683,3.279,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,construction-project-management,llms.txt present,61,111,54.955,45.688,63.8904,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,construction-project-management,llms.txt present,101,175,57.7143,50.3065,64.7907,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,construction-project-management,llms.txt absent,45,111,40.5405,31.8718,49.8421,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,construction-project-management,llms.txt absent,69,175,39.4286,32.4897,46.8216,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,construction-project-management,llms.txt unknown,5,111,4.5045,1.9392,10.1135,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,construction-project-management,llms.txt unknown,5,175,2.8571,1.2264,6.5131,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,crm,llms.txt present,110,182,60.4396,53.1903,67.2573,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,crm,llms.txt present,157,249,63.0522,56.9013,68.8065,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,crm,llms.txt absent,68,182,37.3626,30.6637,44.584,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,crm,llms.txt absent,87,249,34.9398,29.2873,41.0498,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,crm,llms.txt unknown,4,182,2.1978,0.8579,5.5139,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,crm,llms.txt unknown,5,249,2.008,0.8607,4.6137,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,dealership-management-systems,llms.txt present,42,69,60.8696,49.074,71.5187,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,dealership-management-systems,llms.txt present,78,119,65.5462,56.6424,73.4778,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,dealership-management-systems,llms.txt absent,26,69,37.6812,27.1835,49.4781,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,dealership-management-systems,llms.txt absent,40,119,33.6134,25.7566,42.4952,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,dealership-management-systems,llms.txt unknown,1,69,1.4493,0.2563,7.7631,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,dealership-management-systems,llms.txt unknown,1,119,0.8403,0.1485,4.6068,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,dental-practice-management,llms.txt present,34,68,50.0,38.4381,61.5619,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,dental-practice-management,llms.txt present,51,108,47.2222,38.0649,56.5703,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,dental-practice-management,llms.txt absent,30,68,44.1176,32.9462,55.9181,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,dental-practice-management,llms.txt absent,53,108,49.0741,39.8409,58.3709,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,dental-practice-management,llms.txt unknown,4,68,5.8824,2.3111,14.1717,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,dental-practice-management,llms.txt unknown,4,108,3.7037,1.4496,9.1382,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,field-service-management,llms.txt present,46,75,61.3333,50.0175,71.5448,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,field-service-management,llms.txt present,100,141,70.922,62.9507,77.7835,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,field-service-management,llms.txt absent,27,75,36.0,26.0649,47.2993,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,field-service-management,llms.txt absent,38,141,26.9504,20.3099,34.8134,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,field-service-management,llms.txt unknown,2,75,2.6667,0.7344,9.2115,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,field-service-management,llms.txt unknown,3,141,2.1277,0.7262,6.0684,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,hotel-property-management,llms.txt present,33,59,55.9322,43.2894,67.8498,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,hotel-property-management,llms.txt present,53,96,55.2083,45.2516,64.7642,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,hotel-property-management,llms.txt absent,24,59,40.678,29.089,53.4066,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,hotel-property-management,llms.txt absent,39,96,40.625,31.3453,50.6261,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,hotel-property-management,llms.txt unknown,2,59,3.3898,0.9346,11.5436,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,hotel-property-management,llms.txt unknown,4,96,4.1667,1.6321,10.2282,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,insurance-agency-management,llms.txt present,40,74,54.0541,42.7813,64.9266,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,insurance-agency-management,llms.txt present,66,135,48.8889,40.6048,57.2345,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,insurance-agency-management,llms.txt absent,33,74,44.5946,33.8158,55.9069,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,insurance-agency-management,llms.txt absent,66,135,48.8889,40.6048,57.2345,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,insurance-agency-management,llms.txt unknown,1,74,1.3514,0.2389,7.2654,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,insurance-agency-management,llms.txt unknown,3,135,2.2222,0.7586,6.3297,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,legal-practice-management,llms.txt present,37,70,52.8571,41.3219,64.0951,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,legal-practice-management,llms.txt present,56,114,49.1228,40.1252,58.1776,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,legal-practice-management,llms.txt absent,33,70,47.1429,35.9049,58.6781,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,legal-practice-management,llms.txt absent,58,114,50.8772,41.8224,59.8748,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,legal-practice-management,llms.txt unknown,0,70,0.0,0,5.2023,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,legal-practice-management,llms.txt unknown,0,114,0.0,0,3.2599,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,loan-origination-software,llms.txt present,49,91,53.8462,43.6562,63.7246,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,loan-origination-software,llms.txt present,102,158,64.557,56.8338,71.5891,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,loan-origination-software,llms.txt absent,35,91,38.4615,29.1266,48.7312,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,loan-origination-software,llms.txt absent,48,158,30.3797,23.7448,37.9461,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,loan-origination-software,llms.txt unknown,7,91,7.6923,3.776,15.0359,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,loan-origination-software,llms.txt unknown,8,158,5.0633,2.5877,9.6721,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,project_management,llms.txt present,49,96,51.0417,41.196,60.8071,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,project_management,llms.txt present,83,152,54.6053,46.6742,62.3093,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,project_management,llms.txt absent,45,96,46.875,37.2061,56.7844,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,project_management,llms.txt absent,66,152,43.4211,35.7997,51.3668,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,project_management,llms.txt unknown,2,96,2.0833,0.5732,7.2807,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,project_management,llms.txt unknown,3,152,1.9737,0.6735,5.6416,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,radiology-medical-imaging,llms.txt present,17,50,34.0,22.4369,47.8462,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,radiology-medical-imaging,llms.txt present,32,93,34.4086,25.5451,44.5091,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,radiology-medical-imaging,llms.txt absent,31,50,62.0,48.1504,74.1372,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,radiology-medical-imaging,llms.txt absent,55,93,59.1398,48.98,68.5745,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,radiology-medical-imaging,llms.txt unknown,2,50,4.0,1.1039,13.4601,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,radiology-medical-imaging,llms.txt unknown,6,93,6.4516,2.9901,13.368,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,residential-property-management,llms.txt present,39,82,47.561,37.105,58.2353,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,residential-property-management,llms.txt present,61,143,42.6573,34.8477,50.8512,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,residential-property-management,llms.txt absent,40,82,48.7805,38.2609,59.4092,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,residential-property-management,llms.txt absent,79,143,55.2448,47.0639,63.1512,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,residential-property-management,llms.txt unknown,3,82,3.6585,1.252,10.2127,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,residential-property-management,llms.txt unknown,3,143,2.0979,0.716,5.9861,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,transportation-management-systems,llms.txt present,43,85,50.5882,40.1664,60.9592,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,transportation-management-systems,llms.txt present,66,138,47.8261,39.6641,56.1058,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,transportation-management-systems,llms.txt absent,40,85,47.0588,36.8062,57.5658,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,transportation-management-systems,llms.txt absent,70,138,50.7246,42.4774,58.9326,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,transportation-management-systems,llms.txt unknown,2,85,2.3529,0.6477,8.1787,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,transportation-management-systems,llms.txt unknown,2,138,1.4493,0.3983,5.13,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,veterinary-practice-management,llms.txt present,24,48,50.0,36.3893,63.6107,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,veterinary-practice-management,llms.txt present,43,83,51.8072,41.2178,62.2368,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,veterinary-practice-management,llms.txt absent,24,48,50.0,36.3893,63.6107,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,veterinary-practice-management,llms.txt absent,40,83,48.1928,37.7632,58.7822,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,Perplexity,veterinary-practice-management,llms.txt unknown,0,48,0.0,0.0,7.41,distinct final origin,origins of successful complete HTML URLs
+combined,Perplexity,veterinary-practice-management,llms.txt unknown,0,83,0.0,0.0,4.4235,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,all,llms.txt present,844,1723,48.9843,46.6288,51.3444,distinct final origin,origins of successful complete HTML URLs
+combined,all,all,llms.txt present,2310,4750,48.6316,47.2119,50.0535,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,all,llms.txt absent,786,1723,45.6181,43.2786,47.9771,distinct final origin,origins of successful complete HTML URLs
+combined,all,all,llms.txt absent,2255,4750,47.4737,46.0562,48.8952,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,all,llms.txt unknown,93,1723,5.3976,4.4264,6.5672,distinct final origin,origins of successful complete HTML URLs
+combined,all,all,llms.txt unknown,185,4750,3.8947,3.3808,4.4832,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,construction-project-management,llms.txt present,104,219,47.4886,40.9752,54.0885,distinct final origin,origins of successful complete HTML URLs
+combined,all,construction-project-management,llms.txt present,235,507,46.3511,42.0541,50.7029,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,construction-project-management,llms.txt absent,100,219,45.6621,39.1964,52.2773,distinct final origin,origins of successful complete HTML URLs
+combined,all,construction-project-management,llms.txt absent,250,507,49.3097,44.9794,53.6503,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,construction-project-management,llms.txt unknown,15,219,6.8493,4.1944,10.992,distinct final origin,origins of successful complete HTML URLs
+combined,all,construction-project-management,llms.txt unknown,22,507,4.3393,2.8828,6.4824,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,crm,llms.txt present,182,313,58.147,52.6154,63.481,distinct final origin,origins of successful complete HTML URLs
+combined,all,crm,llms.txt present,360,619,58.1583,54.2336,61.9824,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,crm,llms.txt absent,118,313,37.6997,32.5104,43.1872,distinct final origin,origins of successful complete HTML URLs
+combined,all,crm,llms.txt absent,234,619,37.8029,34.0693,41.687,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,crm,llms.txt unknown,13,313,4.1534,2.4431,6.9754,distinct final origin,origins of successful complete HTML URLs
+combined,all,crm,llms.txt unknown,25,619,4.0388,2.7504,5.8941,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,dealership-management-systems,llms.txt present,68,134,50.7463,42.3794,59.0715,distinct final origin,origins of successful complete HTML URLs
+combined,all,dealership-management-systems,llms.txt present,142,274,51.8248,45.9242,57.6749,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,dealership-management-systems,llms.txt absent,64,134,47.7612,39.4848,56.1624,distinct final origin,origins of successful complete HTML URLs
+combined,all,dealership-management-systems,llms.txt absent,130,274,47.4453,41.6089,53.3522,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,dealership-management-systems,llms.txt unknown,2,134,1.4925,0.4103,5.2785,distinct final origin,origins of successful complete HTML URLs
+combined,all,dealership-management-systems,llms.txt unknown,2,274,0.7299,0.2004,2.6219,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,dental-practice-management,llms.txt present,49,112,43.75,34.9212,52.9934,distinct final origin,origins of successful complete HTML URLs
+combined,all,dental-practice-management,llms.txt present,97,249,38.9558,33.1105,45.1368,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,dental-practice-management,llms.txt absent,55,112,49.1071,40.033,58.2405,distinct final origin,origins of successful complete HTML URLs
+combined,all,dental-practice-management,llms.txt absent,142,249,57.0281,50.8186,63.0241,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,dental-practice-management,llms.txt unknown,8,112,7.1429,3.6636,13.4645,distinct final origin,origins of successful complete HTML URLs
+combined,all,dental-practice-management,llms.txt unknown,10,249,4.0161,2.1958,7.2336,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,field-service-management,llms.txt present,78,129,60.4651,51.8427,68.4823,distinct final origin,origins of successful complete HTML URLs
+combined,all,field-service-management,llms.txt present,222,356,62.3596,57.2201,67.2351,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,field-service-management,llms.txt absent,46,129,35.6589,27.9177,44.2295,distinct final origin,origins of successful complete HTML URLs
+combined,all,field-service-management,llms.txt absent,128,356,35.9551,31.1446,41.0654,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,field-service-management,llms.txt unknown,5,129,3.876,1.6668,8.7528,distinct final origin,origins of successful complete HTML URLs
+combined,all,field-service-management,llms.txt unknown,6,356,1.6854,0.7747,3.6277,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,hotel-property-management,llms.txt present,51,103,49.5146,40.0516,59.0125,distinct final origin,origins of successful complete HTML URLs
+combined,all,hotel-property-management,llms.txt present,98,240,40.8333,34.8067,47.1488,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,hotel-property-management,llms.txt absent,46,103,44.6602,35.4236,54.2808,distinct final origin,origins of successful complete HTML URLs
+combined,all,hotel-property-management,llms.txt absent,128,240,53.3333,47.0188,59.5428,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,hotel-property-management,llms.txt unknown,6,103,5.8252,2.6968,12.1302,distinct final origin,origins of successful complete HTML URLs
+combined,all,hotel-property-management,llms.txt unknown,14,240,5.8333,3.5062,9.552,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,insurance-agency-management,llms.txt present,57,127,44.8819,36.5085,53.5558,distinct final origin,origins of successful complete HTML URLs
+combined,all,insurance-agency-management,llms.txt present,116,296,39.1892,33.8004,44.855,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,insurance-agency-management,llms.txt absent,64,127,50.3937,41.8151,58.9492,distinct final origin,origins of successful complete HTML URLs
+combined,all,insurance-agency-management,llms.txt absent,157,296,53.0405,47.3525,58.6507,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,insurance-agency-management,llms.txt unknown,6,127,4.7244,2.183,9.9244,distinct final origin,origins of successful complete HTML URLs
+combined,all,insurance-agency-management,llms.txt unknown,23,296,7.7703,5.2333,11.3893,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,legal-practice-management,llms.txt present,69,141,48.9362,40.8234,57.1054,distinct final origin,origins of successful complete HTML URLs
+combined,all,legal-practice-management,llms.txt present,130,286,45.4545,39.7821,51.2475,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,legal-practice-management,llms.txt absent,67,141,47.5177,39.4506,55.7166,distinct final origin,origins of successful complete HTML URLs
+combined,all,legal-practice-management,llms.txt absent,145,286,50.6993,44.9344,56.4457,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,legal-practice-management,llms.txt unknown,5,141,3.5461,1.524,8.0323,distinct final origin,origins of successful complete HTML URLs
+combined,all,legal-practice-management,llms.txt unknown,11,286,3.8462,2.161,6.7547,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,loan-origination-software,llms.txt present,66,138,47.8261,39.6641,56.1058,distinct final origin,origins of successful complete HTML URLs
+combined,all,loan-origination-software,llms.txt present,194,312,62.1795,56.6812,67.3815,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,loan-origination-software,llms.txt absent,64,138,46.3768,38.2676,54.6823,distinct final origin,origins of successful complete HTML URLs
+combined,all,loan-origination-software,llms.txt absent,108,312,34.6154,29.5525,40.0525,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,loan-origination-software,llms.txt unknown,8,138,5.7971,2.9664,11.022,distinct final origin,origins of successful complete HTML URLs
+combined,all,loan-origination-software,llms.txt unknown,10,312,3.2051,1.7501,5.7984,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,project_management,llms.txt present,79,169,46.7456,39.3793,54.2565,distinct final origin,origins of successful complete HTML URLs
+combined,all,project_management,llms.txt present,198,374,52.9412,47.8784,57.9442,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,project_management,llms.txt absent,80,169,47.3373,39.9527,54.8402,distinct final origin,origins of successful complete HTML URLs
+combined,all,project_management,llms.txt absent,156,374,41.7112,36.823,46.768,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,project_management,llms.txt unknown,10,169,5.9172,3.2455,10.5483,distinct final origin,origins of successful complete HTML URLs
+combined,all,project_management,llms.txt unknown,20,374,5.3476,3.4881,8.115,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,radiology-medical-imaging,llms.txt present,43,143,30.0699,23.1561,38.0265,distinct final origin,origins of successful complete HTML URLs
+combined,all,radiology-medical-imaging,llms.txt present,96,338,28.4024,23.8585,33.4316,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,radiology-medical-imaging,llms.txt absent,91,143,63.6364,55.4909,71.0683,distinct final origin,origins of successful complete HTML URLs
+combined,all,radiology-medical-imaging,llms.txt absent,221,338,65.3846,60.1655,70.2579,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,radiology-medical-imaging,llms.txt unknown,9,143,6.2937,3.3461,11.528,distinct final origin,origins of successful complete HTML URLs
+combined,all,radiology-medical-imaging,llms.txt unknown,21,338,6.213,4.0993,9.3109,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,residential-property-management,llms.txt present,63,128,49.2188,40.7077,57.7753,distinct final origin,origins of successful complete HTML URLs
+combined,all,residential-property-management,llms.txt present,146,341,42.8152,37.6722,48.1184,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,residential-property-management,llms.txt absent,57,128,44.5312,36.2055,53.1757,distinct final origin,origins of successful complete HTML URLs
+combined,all,residential-property-management,llms.txt absent,183,341,53.6657,48.3616,58.8881,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,residential-property-management,llms.txt unknown,8,128,6.25,3.2007,11.8488,distinct final origin,origins of successful complete HTML URLs
+combined,all,residential-property-management,llms.txt unknown,12,341,3.5191,2.0243,6.0494,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,transportation-management-systems,llms.txt present,74,157,47.1338,39.4875,54.917,distinct final origin,origins of successful complete HTML URLs
+combined,all,transportation-management-systems,llms.txt present,166,344,48.2558,43.0238,53.5264,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,transportation-management-systems,llms.txt absent,77,157,49.0446,41.3416,56.7932,distinct final origin,origins of successful complete HTML URLs
+combined,all,transportation-management-systems,llms.txt absent,170,344,49.4186,44.1709,54.6791,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,transportation-management-systems,llms.txt unknown,6,157,3.8217,1.7631,8.086,distinct final origin,origins of successful complete HTML URLs
+combined,all,transportation-management-systems,llms.txt unknown,8,344,2.3256,1.183,4.5211,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,veterinary-practice-management,llms.txt present,37,77,48.0519,37.253,59.036,distinct final origin,origins of successful complete HTML URLs
+combined,all,veterinary-practice-management,llms.txt present,116,225,51.5556,45.0544,58.0045,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,veterinary-practice-management,llms.txt absent,39,77,50.6494,39.72,61.517,distinct final origin,origins of successful complete HTML URLs
+combined,all,veterinary-practice-management,llms.txt absent,108,225,48.0,41.5605,54.5066,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+combined,all,veterinary-practice-management,llms.txt unknown,1,77,1.2987,0.2296,6.9962,distinct final origin,origins of successful complete HTML URLs
+combined,all,veterinary-practice-management,llms.txt unknown,1,225,0.4444,0.0785,2.4741,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,ChatGPT,all,llms.txt present,10,25,40.0,23.4033,59.2605,distinct final origin,origins of successful complete HTML URLs
+control,ChatGPT,all,llms.txt present,27,79,34.1772,24.671,45.1509,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,ChatGPT,all,llms.txt absent,13,25,52.0,33.4985,69.9687,distinct final origin,origins of successful complete HTML URLs
+control,ChatGPT,all,llms.txt absent,45,79,56.962,45.9722,67.3062,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,ChatGPT,all,llms.txt unknown,2,25,8.0,2.222,24.9661,distinct final origin,origins of successful complete HTML URLs
+control,ChatGPT,all,llms.txt unknown,7,79,8.8608,4.3585,17.1783,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,ChatGPT,construction-project-management,llms.txt present,6,18,33.3333,16.2788,56.2505,distinct final origin,origins of successful complete HTML URLs
+control,ChatGPT,construction-project-management,llms.txt present,13,42,30.9524,19.0711,46.026,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,ChatGPT,construction-project-management,llms.txt absent,11,18,61.1111,38.619,79.6948,distinct final origin,origins of successful complete HTML URLs
+control,ChatGPT,construction-project-management,llms.txt absent,28,42,66.6667,51.5525,78.9875,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,ChatGPT,construction-project-management,llms.txt unknown,1,18,5.5556,0.9875,25.7573,distinct final origin,origins of successful complete HTML URLs
+control,ChatGPT,construction-project-management,llms.txt unknown,1,42,2.381,0.4215,12.3212,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,ChatGPT,crm,llms.txt present,4,7,57.1429,25.0458,84.178,distinct final origin,origins of successful complete HTML URLs
+control,ChatGPT,crm,llms.txt present,14,37,37.8378,24.064,53.8996,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,ChatGPT,crm,llms.txt absent,2,7,28.5714,8.2219,64.1066,distinct final origin,origins of successful complete HTML URLs
+control,ChatGPT,crm,llms.txt absent,17,37,45.9459,31.0386,61.616,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,ChatGPT,crm,llms.txt unknown,1,7,14.2857,2.568,51.3128,distinct final origin,origins of successful complete HTML URLs
+control,ChatGPT,crm,llms.txt unknown,6,37,16.2162,7.6512,31.1365,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Claude,all,llms.txt present,48,87,55.1724,44.7245,65.1828,distinct final origin,origins of successful complete HTML URLs
+control,Claude,all,llms.txt present,66,120,55.0,46.0815,63.6083,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Claude,all,llms.txt absent,35,87,40.2299,30.5508,50.7353,distinct final origin,origins of successful complete HTML URLs
+control,Claude,all,llms.txt absent,50,120,41.6667,33.2384,50.612,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Claude,all,llms.txt unknown,4,87,4.5977,1.8023,11.233,distinct final origin,origins of successful complete HTML URLs
+control,Claude,all,llms.txt unknown,4,120,3.3333,1.3038,8.258,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Claude,construction-project-management,llms.txt present,23,41,56.0976,41.0405,70.1099,distinct final origin,origins of successful complete HTML URLs
+control,Claude,construction-project-management,llms.txt present,39,69,56.5217,44.7884,67.5672,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Claude,construction-project-management,llms.txt absent,17,41,41.4634,27.7565,56.6329,distinct final origin,origins of successful complete HTML URLs
+control,Claude,construction-project-management,llms.txt absent,29,69,42.029,31.1061,53.7926,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Claude,construction-project-management,llms.txt unknown,1,41,2.439,0.4319,12.5951,distinct final origin,origins of successful complete HTML URLs
+control,Claude,construction-project-management,llms.txt unknown,1,69,1.4493,0.2563,7.7631,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Claude,crm,llms.txt present,25,46,54.3478,40.1802,67.8453,distinct final origin,origins of successful complete HTML URLs
+control,Claude,crm,llms.txt present,27,51,52.9412,39.5233,65.947,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Claude,crm,llms.txt absent,18,46,39.1304,26.3932,53.5432,distinct final origin,origins of successful complete HTML URLs
+control,Claude,crm,llms.txt absent,21,51,41.1765,28.7544,54.8347,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Claude,crm,llms.txt unknown,3,46,6.5217,2.2428,17.5027,distinct final origin,origins of successful complete HTML URLs
+control,Claude,crm,llms.txt unknown,3,51,5.8824,2.0207,15.9246,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Mode,all,llms.txt present,17,35,48.5714,32.9942,64.4312,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Mode,all,llms.txt present,18,40,45.0,30.7053,60.1709,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Mode,all,llms.txt absent,17,35,48.5714,32.9942,64.4312,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Mode,all,llms.txt absent,21,40,52.5,37.4974,67.0645,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Mode,all,llms.txt unknown,1,35,2.8571,0.5061,14.5331,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Mode,all,llms.txt unknown,1,40,2.5,0.4427,12.8814,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Mode,construction-project-management,llms.txt present,11,23,47.8261,29.2372,67.0373,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Mode,construction-project-management,llms.txt present,12,28,42.8571,26.5085,60.9292,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Mode,construction-project-management,llms.txt absent,12,23,52.1739,32.9627,70.7628,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Mode,construction-project-management,llms.txt absent,16,28,57.1429,39.0708,73.4915,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Mode,construction-project-management,llms.txt unknown,0,23,0.0,0,14.3117,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Mode,construction-project-management,llms.txt unknown,0,28,0.0,0.0,12.0643,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Mode,crm,llms.txt present,6,12,50.0,25.3782,74.6218,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Mode,crm,llms.txt present,6,12,50.0,25.3782,74.6218,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Mode,crm,llms.txt absent,5,12,41.6667,19.326,68.0489,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Mode,crm,llms.txt absent,5,12,41.6667,19.326,68.0489,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Mode,crm,llms.txt unknown,1,12,8.3333,1.4865,35.388,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Mode,crm,llms.txt unknown,1,12,8.3333,1.4865,35.388,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Overviews,all,llms.txt present,37,67,55.2239,43.3576,66.5236,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Overviews,all,llms.txt present,53,102,51.9608,42.3711,61.4081,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Overviews,all,llms.txt absent,28,67,41.791,30.7423,53.7301,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Overviews,all,llms.txt absent,47,102,46.0784,36.7235,55.718,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Overviews,all,llms.txt unknown,2,67,2.9851,0.8225,10.2466,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Overviews,all,llms.txt unknown,2,102,1.9608,0.5394,6.8693,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Overviews,construction-project-management,llms.txt present,22,37,59.4595,43.486,73.6535,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Overviews,construction-project-management,llms.txt present,32,59,54.2373,41.6578,66.2987,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Overviews,construction-project-management,llms.txt absent,13,37,35.1351,21.8256,51.241,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Overviews,construction-project-management,llms.txt absent,25,59,42.3729,30.6127,55.0655,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Overviews,construction-project-management,llms.txt unknown,2,37,5.4054,1.4951,17.7047,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Overviews,construction-project-management,llms.txt unknown,2,59,3.3898,0.9346,11.5436,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Overviews,crm,llms.txt present,15,31,48.3871,31.9703,65.1596,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Overviews,crm,llms.txt present,21,43,48.8372,34.6174,63.2477,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Overviews,crm,llms.txt absent,16,31,51.6129,34.8404,68.0297,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Overviews,crm,llms.txt absent,22,43,51.1628,36.7523,65.3826,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Google AI Overviews,crm,llms.txt unknown,0,31,0.0,0,11.0255,distinct final origin,origins of successful complete HTML URLs
+control,Google AI Overviews,crm,llms.txt unknown,0,43,0.0,0,8.201,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Perplexity,all,llms.txt present,75,126,59.5238,50.7945,67.6895,distinct final origin,origins of successful complete HTML URLs
+control,Perplexity,all,llms.txt present,89,152,58.5526,50.6045,66.0791,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Perplexity,all,llms.txt absent,48,126,38.0952,30.0871,46.8078,distinct final origin,origins of successful complete HTML URLs
+control,Perplexity,all,llms.txt absent,60,152,39.4737,32.0546,47.4117,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Perplexity,all,llms.txt unknown,3,126,2.381,0.813,6.7666,distinct final origin,origins of successful complete HTML URLs
+control,Perplexity,all,llms.txt unknown,3,152,1.9737,0.6735,5.6416,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Perplexity,construction-project-management,llms.txt present,31,57,54.386,41.5907,66.6274,distinct final origin,origins of successful complete HTML URLs
+control,Perplexity,construction-project-management,llms.txt present,39,72,54.1667,42.7399,65.1714,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Perplexity,construction-project-management,llms.txt absent,24,57,42.1053,30.1876,55.0199,distinct final origin,origins of successful complete HTML URLs
+control,Perplexity,construction-project-management,llms.txt absent,31,72,43.0556,32.2579,54.5567,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Perplexity,construction-project-management,llms.txt unknown,2,57,3.5088,0.9676,11.9208,distinct final origin,origins of successful complete HTML URLs
+control,Perplexity,construction-project-management,llms.txt unknown,2,72,2.7778,0.7651,9.5742,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Perplexity,crm,llms.txt present,45,70,64.2857,52.5884,74.4967,distinct final origin,origins of successful complete HTML URLs
+control,Perplexity,crm,llms.txt present,50,80,62.5,51.5487,72.3058,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Perplexity,crm,llms.txt absent,24,70,34.2857,24.246,45.9605,distinct final origin,origins of successful complete HTML URLs
+control,Perplexity,crm,llms.txt absent,29,80,36.25,26.5708,47.1892,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,Perplexity,crm,llms.txt unknown,1,70,1.4286,0.2526,7.6582,distinct final origin,origins of successful complete HTML URLs
+control,Perplexity,crm,llms.txt unknown,1,80,1.25,0.221,6.7463,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,all,all,llms.txt present,130,236,55.0847,48.7077,61.2989,distinct final origin,origins of successful complete HTML URLs
+control,all,all,llms.txt present,204,409,49.8778,45.0558,54.702,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,all,all,llms.txt absent,95,236,40.2542,34.2019,46.6188,distinct final origin,origins of successful complete HTML URLs
+control,all,all,llms.txt absent,189,409,46.2103,41.4362,51.0549,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,all,all,llms.txt unknown,11,236,4.661,2.6223,8.1521,distinct final origin,origins of successful complete HTML URLs
+control,all,all,llms.txt unknown,16,409,3.912,2.4221,6.2596,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,all,construction-project-management,llms.txt present,56,110,50.9091,41.6951,60.0617,distinct final origin,origins of successful complete HTML URLs
+control,all,construction-project-management,llms.txt present,103,220,46.8182,40.3357,53.4098,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,all,construction-project-management,llms.txt absent,49,110,44.5455,35.5977,53.8613,distinct final origin,origins of successful complete HTML URLs
+control,all,construction-project-management,llms.txt absent,112,220,50.9091,44.3445,57.4425,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,all,construction-project-management,llms.txt unknown,5,110,4.5455,1.9569,10.2016,distinct final origin,origins of successful complete HTML URLs
+control,all,construction-project-management,llms.txt unknown,5,220,2.2727,0.9746,5.209,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,all,crm,llms.txt present,75,129,58.1395,49.5117,66.2966,distinct final origin,origins of successful complete HTML URLs
+control,all,crm,llms.txt present,101,189,53.4392,46.3301,60.4112,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,all,crm,llms.txt absent,48,129,37.2093,29.3512,45.8072,distinct final origin,origins of successful complete HTML URLs
+control,all,crm,llms.txt absent,77,189,40.7407,33.9878,47.8625,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+control,all,crm,llms.txt unknown,6,129,4.6512,2.1489,9.7762,distinct final origin,origins of successful complete HTML URLs
+control,all,crm,llms.txt unknown,11,189,5.8201,3.2806,10.1198,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,all,llms.txt present,95,287,33.101,27.9115,38.737,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,all,llms.txt present,317,825,38.4242,35.166,41.7898,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,all,llms.txt absent,166,287,57.8397,52.06,63.4124,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,all,llms.txt absent,433,825,52.4848,49.0736,55.8731,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,all,llms.txt unknown,26,287,9.0592,6.2572,12.9427,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,all,llms.txt unknown,75,825,9.0909,7.3142,11.2468,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,construction-project-management,llms.txt present,6,24,25.0,11.9994,44.8994,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,construction-project-management,llms.txt present,22,64,34.375,23.9231,46.5964,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,construction-project-management,llms.txt absent,15,24,62.5,42.71,78.8406,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,construction-project-management,llms.txt absent,37,64,57.8125,45.61,69.1302,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,construction-project-management,llms.txt unknown,3,24,12.5,4.3443,31.0039,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,construction-project-management,llms.txt unknown,5,64,7.8125,3.3831,17.0195,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,crm,llms.txt present,16,26,61.5385,42.5349,77.5714,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,crm,llms.txt present,53,83,63.8554,53.1197,73.3654,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,crm,llms.txt absent,8,26,30.7692,16.5013,49.9883,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,crm,llms.txt absent,23,83,27.7108,19.2319,38.1617,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,crm,llms.txt unknown,2,26,7.6923,2.1355,24.1416,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,crm,llms.txt unknown,7,83,8.4337,4.1453,16.3995,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,dealership-management-systems,llms.txt present,4,22,18.1818,7.3069,38.5166,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,dealership-management-systems,llms.txt present,8,41,19.5122,10.2344,34.0136,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,dealership-management-systems,llms.txt absent,18,22,81.8182,61.4834,92.6931,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,dealership-management-systems,llms.txt absent,33,41,80.4878,65.9864,89.7656,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,dealership-management-systems,llms.txt unknown,0,22,0.0,0,14.8655,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,dealership-management-systems,llms.txt unknown,0,41,0.0,0,8.5668,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,dental-practice-management,llms.txt present,3,17,17.6471,6.1911,41.0295,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,dental-practice-management,llms.txt present,12,50,24.0,14.2974,37.4127,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,dental-practice-management,llms.txt absent,13,17,76.4706,52.7382,90.445,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,dental-practice-management,llms.txt absent,36,50,72.0,58.3349,82.5258,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,dental-practice-management,llms.txt unknown,1,17,5.8824,1.046,26.982,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,dental-practice-management,llms.txt unknown,2,50,4.0,1.1039,13.4601,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,field-service-management,llms.txt present,10,16,62.5,38.641,81.5188,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,field-service-management,llms.txt present,41,63,65.0794,52.7515,75.674,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,field-service-management,llms.txt absent,5,16,31.25,14.1646,55.5956,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,field-service-management,llms.txt absent,21,63,33.3333,22.9496,45.6328,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,field-service-management,llms.txt unknown,1,16,6.25,1.1119,28.3287,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,field-service-management,llms.txt unknown,1,63,1.5873,0.2807,8.4585,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,hotel-property-management,llms.txt present,4,18,22.2222,9.0009,45.2146,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,hotel-property-management,llms.txt present,6,54,11.1111,5.193,22.1947,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,hotel-property-management,llms.txt absent,12,18,66.6667,43.7495,83.7212,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,hotel-property-management,llms.txt absent,41,54,75.9259,63.0525,85.3557,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,hotel-property-management,llms.txt unknown,2,18,11.1111,3.102,32.7998,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,hotel-property-management,llms.txt unknown,7,54,12.963,6.4237,24.4217,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,insurance-agency-management,llms.txt present,2,25,8.0,2.222,24.9661,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,insurance-agency-management,llms.txt present,4,72,5.5556,2.1814,13.432,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,insurance-agency-management,llms.txt absent,17,25,68.0,48.4103,82.7948,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,insurance-agency-management,llms.txt absent,47,72,65.2778,53.7613,75.2466,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,insurance-agency-management,llms.txt unknown,6,25,24.0,11.4963,43.4297,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,insurance-agency-management,llms.txt unknown,21,72,29.1667,19.9381,40.5057,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,legal-practice-management,llms.txt present,4,13,30.7692,12.6807,57.6307,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,legal-practice-management,llms.txt present,12,35,34.2857,20.8317,50.8481,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,legal-practice-management,llms.txt absent,7,13,53.8462,29.1438,76.7939,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,legal-practice-management,llms.txt absent,18,35,51.4286,35.5688,67.0058,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,legal-practice-management,llms.txt unknown,2,13,15.3846,4.3258,42.2346,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,legal-practice-management,llms.txt unknown,5,35,14.2857,6.2602,29.3756,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,loan-origination-software,llms.txt present,10,27,37.037,21.5325,55.7708,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,loan-origination-software,llms.txt present,25,55,45.4545,33.0253,58.4773,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,loan-origination-software,llms.txt absent,15,27,55.5556,37.313,72.4141,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,loan-origination-software,llms.txt absent,28,55,50.9091,38.0763,63.6232,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,loan-origination-software,llms.txt unknown,2,27,7.4074,2.0555,23.3696,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,loan-origination-software,llms.txt unknown,2,55,3.6364,1.003,12.3235,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,project_management,llms.txt present,10,24,41.6667,24.4676,61.1653,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,project_management,llms.txt present,50,80,62.5,51.5487,72.3058,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,project_management,llms.txt absent,9,24,37.5,21.1594,57.29,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,project_management,llms.txt absent,17,80,21.25,13.7124,31.4222,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,project_management,llms.txt unknown,5,24,20.8333,9.2448,40.4705,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,project_management,llms.txt unknown,13,80,16.25,9.7498,25.8429,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,radiology-medical-imaging,llms.txt present,4,31,12.9032,5.1343,28.8524,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,radiology-medical-imaging,llms.txt present,13,69,18.8406,11.3547,29.6129,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,radiology-medical-imaging,llms.txt absent,24,31,77.4194,60.1876,88.6049,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,radiology-medical-imaging,llms.txt absent,50,69,72.4638,60.9527,81.6055,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,radiology-medical-imaging,llms.txt unknown,3,31,9.6774,3.3465,24.8999,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,radiology-medical-imaging,llms.txt unknown,6,69,8.6957,4.0464,17.7015,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,residential-property-management,llms.txt present,8,18,44.4444,24.5595,66.2836,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,residential-property-management,llms.txt present,23,47,48.9362,35.2756,62.7575,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,residential-property-management,llms.txt absent,9,18,50.0,29.031,70.969,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,residential-property-management,llms.txt absent,21,47,44.6809,31.411,58.7545,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,residential-property-management,llms.txt unknown,1,18,5.5556,0.9875,25.7573,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,residential-property-management,llms.txt unknown,3,47,6.383,2.1945,17.1626,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,transportation-management-systems,llms.txt present,11,24,45.8333,27.8913,64.9251,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,transportation-management-systems,llms.txt present,25,55,45.4545,33.0253,58.4773,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,transportation-management-systems,llms.txt absent,12,24,50.0,31.4274,68.5726,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,transportation-management-systems,llms.txt absent,28,55,50.9091,38.0763,63.6232,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,transportation-management-systems,llms.txt unknown,1,24,4.1667,0.7393,20.2418,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,transportation-management-systems,llms.txt unknown,2,55,3.6364,1.003,12.3235,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,veterinary-practice-management,llms.txt present,7,15,46.6667,24.8095,69.883,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,veterinary-practice-management,llms.txt present,23,57,40.3509,28.6175,53.3027,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,veterinary-practice-management,llms.txt absent,7,15,46.6667,24.8095,69.883,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,veterinary-practice-management,llms.txt absent,33,57,57.8947,44.9801,69.8124,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,ChatGPT,veterinary-practice-management,llms.txt unknown,1,15,6.6667,1.1867,29.8165,distinct final origin,origins of successful complete HTML URLs
+target,ChatGPT,veterinary-practice-management,llms.txt unknown,1,57,1.7544,0.3104,9.2907,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,all,llms.txt present,354,679,52.1355,48.3767,55.8703,distinct final origin,origins of successful complete HTML URLs
+target,Claude,all,llms.txt present,664,1228,54.0717,51.276,56.8419,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,all,llms.txt absent,292,679,43.0044,39.3302,46.7573,distinct final origin,origins of successful complete HTML URLs
+target,Claude,all,llms.txt absent,529,1228,43.0782,40.3344,45.8651,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,all,llms.txt unknown,33,679,4.8601,3.4813,6.7467,distinct final origin,origins of successful complete HTML URLs
+target,Claude,all,llms.txt unknown,35,1228,2.8502,2.0564,3.938,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,construction-project-management,llms.txt present,35,71,49.2958,38.0052,60.6587,distinct final origin,origins of successful complete HTML URLs
+target,Claude,construction-project-management,llms.txt present,62,119,52.1008,43.2008,60.8695,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,construction-project-management,llms.txt absent,30,71,42.2535,31.453,53.8493,distinct final origin,origins of successful complete HTML URLs
+target,Claude,construction-project-management,llms.txt absent,51,119,42.8571,34.3265,51.8346,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,construction-project-management,llms.txt unknown,6,71,8.4507,3.9307,17.236,distinct final origin,origins of successful complete HTML URLs
+target,Claude,construction-project-management,llms.txt unknown,6,119,5.042,2.331,10.5648,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,crm,llms.txt present,55,80,68.75,57.9322,77.8496,distinct final origin,origins of successful complete HTML URLs
+target,Claude,crm,llms.txt present,74,102,72.549,63.1894,80.2718,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,crm,llms.txt absent,22,80,27.5,18.9178,38.1441,distinct final origin,origins of successful complete HTML URLs
+target,Claude,crm,llms.txt absent,25,102,24.5098,17.1882,33.6818,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,crm,llms.txt unknown,3,80,3.75,1.2835,10.4547,distinct final origin,origins of successful complete HTML URLs
+target,Claude,crm,llms.txt unknown,3,102,2.9412,1.0052,8.2931,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,dealership-management-systems,llms.txt present,34,57,59.6491,46.6973,71.3825,distinct final origin,origins of successful complete HTML URLs
+target,Claude,dealership-management-systems,llms.txt present,54,86,62.7907,52.2338,72.2537,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,dealership-management-systems,llms.txt absent,23,57,40.3509,28.6175,53.3027,distinct final origin,origins of successful complete HTML URLs
+target,Claude,dealership-management-systems,llms.txt absent,32,86,37.2093,27.7463,47.7662,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,dealership-management-systems,llms.txt unknown,0,57,0.0,0,6.3139,distinct final origin,origins of successful complete HTML URLs
+target,Claude,dealership-management-systems,llms.txt unknown,0,86,0.0,0,4.2758,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,dental-practice-management,llms.txt present,22,47,46.8085,33.3317,60.7676,distinct final origin,origins of successful complete HTML URLs
+target,Claude,dental-practice-management,llms.txt present,30,74,40.5405,30.0906,51.9242,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,dental-practice-management,llms.txt absent,23,47,48.9362,35.2756,62.7575,distinct final origin,origins of successful complete HTML URLs
+target,Claude,dental-practice-management,llms.txt absent,42,74,56.7568,45.4127,67.4339,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,dental-practice-management,llms.txt unknown,2,47,4.2553,1.1748,14.2485,distinct final origin,origins of successful complete HTML URLs
+target,Claude,dental-practice-management,llms.txt unknown,2,74,2.7027,0.7443,9.3293,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,field-service-management,llms.txt present,36,58,62.069,49.2028,73.4357,distinct final origin,origins of successful complete HTML URLs
+target,Claude,field-service-management,llms.txt present,70,101,69.3069,59.7427,77.4564,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,field-service-management,llms.txt absent,21,58,36.2069,25.0549,49.0725,distinct final origin,origins of successful complete HTML URLs
+target,Claude,field-service-management,llms.txt absent,30,101,29.703,21.6683,39.225,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,field-service-management,llms.txt unknown,1,58,1.7241,0.305,9.1409,distinct final origin,origins of successful complete HTML URLs
+target,Claude,field-service-management,llms.txt unknown,1,101,0.9901,0.175,5.3967,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,hotel-property-management,llms.txt present,22,42,52.381,37.7225,66.6404,distinct final origin,origins of successful complete HTML URLs
+target,Claude,hotel-property-management,llms.txt present,36,69,52.1739,40.5873,63.5313,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,hotel-property-management,llms.txt absent,18,42,42.8571,29.1177,57.7938,distinct final origin,origins of successful complete HTML URLs
+target,Claude,hotel-property-management,llms.txt absent,30,69,43.4783,32.4328,55.2116,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,hotel-property-management,llms.txt unknown,2,42,4.7619,1.3158,15.7899,distinct final origin,origins of successful complete HTML URLs
+target,Claude,hotel-property-management,llms.txt unknown,3,69,4.3478,1.4896,12.0212,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,insurance-agency-management,llms.txt present,16,41,39.0244,25.6561,54.2731,distinct final origin,origins of successful complete HTML URLs
+target,Claude,insurance-agency-management,llms.txt present,27,70,38.5714,28.0477,50.2843,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,insurance-agency-management,llms.txt absent,24,41,58.5366,43.3671,72.2435,distinct final origin,origins of successful complete HTML URLs
+target,Claude,insurance-agency-management,llms.txt absent,42,70,60.0,48.2938,70.6657,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,insurance-agency-management,llms.txt unknown,1,41,2.439,0.4319,12.5951,distinct final origin,origins of successful complete HTML URLs
+target,Claude,insurance-agency-management,llms.txt unknown,1,70,1.4286,0.2526,7.6582,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,legal-practice-management,llms.txt present,34,67,50.7463,39.0638,62.3478,distinct final origin,origins of successful complete HTML URLs
+target,Claude,legal-practice-management,llms.txt present,45,90,50.0,39.8837,60.1163,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,legal-practice-management,llms.txt absent,30,67,44.7761,33.4764,56.6424,distinct final origin,origins of successful complete HTML URLs
+target,Claude,legal-practice-management,llms.txt absent,42,90,46.6667,36.7084,56.8978,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,legal-practice-management,llms.txt unknown,3,67,4.4776,1.5344,12.3578,distinct final origin,origins of successful complete HTML URLs
+target,Claude,legal-practice-management,llms.txt unknown,3,90,3.3333,1.14,9.3473,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,loan-origination-software,llms.txt present,24,44,54.5455,40.0662,68.2948,distinct final origin,origins of successful complete HTML URLs
+target,Claude,loan-origination-software,llms.txt present,42,63,66.6667,54.3672,77.0504,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,loan-origination-software,llms.txt absent,19,44,43.1818,29.6827,57.7759,distinct final origin,origins of successful complete HTML URLs
+target,Claude,loan-origination-software,llms.txt absent,20,63,31.746,21.5867,44.0035,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,loan-origination-software,llms.txt unknown,1,44,2.2727,0.4023,11.8077,distinct final origin,origins of successful complete HTML URLs
+target,Claude,loan-origination-software,llms.txt unknown,1,63,1.5873,0.2807,8.4585,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,project_management,llms.txt present,35,63,55.5556,43.3196,67.1529,distinct final origin,origins of successful complete HTML URLs
+target,Claude,project_management,llms.txt present,48,84,57.1429,46.477,67.184,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,project_management,llms.txt absent,25,63,39.6825,28.5319,52.0191,distinct final origin,origins of successful complete HTML URLs
+target,Claude,project_management,llms.txt absent,33,84,39.2857,29.5303,49.9782,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,project_management,llms.txt unknown,3,63,4.7619,1.6326,13.091,distinct final origin,origins of successful complete HTML URLs
+target,Claude,project_management,llms.txt unknown,3,84,3.5714,1.222,9.9817,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,radiology-medical-imaging,llms.txt present,20,65,30.7692,20.887,42.7976,distinct final origin,origins of successful complete HTML URLs
+target,Claude,radiology-medical-imaging,llms.txt present,33,98,33.6735,25.0901,43.4885,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,radiology-medical-imaging,llms.txt absent,41,65,63.0769,50.9238,73.7706,distinct final origin,origins of successful complete HTML URLs
+target,Claude,radiology-medical-imaging,llms.txt absent,60,98,61.2245,51.3287,70.2735,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,radiology-medical-imaging,llms.txt unknown,4,65,6.1538,2.4189,14.7822,distinct final origin,origins of successful complete HTML URLs
+target,Claude,radiology-medical-imaging,llms.txt unknown,5,98,5.102,2.1987,11.3925,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,residential-property-management,llms.txt present,28,60,46.6667,34.6279,59.1066,distinct final origin,origins of successful complete HTML URLs
+target,Claude,residential-property-management,llms.txt present,58,118,49.1525,40.3024,58.0561,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,residential-property-management,llms.txt absent,27,60,45.0,33.0937,57.5081,distinct final origin,origins of successful complete HTML URLs
+target,Claude,residential-property-management,llms.txt absent,55,118,46.6102,37.8587,55.5754,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,residential-property-management,llms.txt unknown,5,60,8.3333,3.612,18.0689,distinct final origin,origins of successful complete HTML URLs
+target,Claude,residential-property-management,llms.txt unknown,5,118,4.2373,1.8233,9.5369,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,transportation-management-systems,llms.txt present,27,56,48.2143,35.6682,60.9896,distinct final origin,origins of successful complete HTML URLs
+target,Claude,transportation-management-systems,llms.txt present,48,91,52.7473,42.5878,62.6842,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,transportation-management-systems,llms.txt absent,27,56,48.2143,35.6682,60.9896,distinct final origin,origins of successful complete HTML URLs
+target,Claude,transportation-management-systems,llms.txt absent,41,91,45.0549,35.2398,55.2707,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,transportation-management-systems,llms.txt unknown,2,56,3.5714,0.9849,12.1188,distinct final origin,origins of successful complete HTML URLs
+target,Claude,transportation-management-systems,llms.txt unknown,2,91,2.1978,0.6048,7.6632,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,veterinary-practice-management,llms.txt present,19,38,50.0,34.8499,65.1501,distinct final origin,origins of successful complete HTML URLs
+target,Claude,veterinary-practice-management,llms.txt present,38,64,59.375,47.1452,70.5431,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,veterinary-practice-management,llms.txt absent,19,38,50.0,34.8499,65.1501,distinct final origin,origins of successful complete HTML URLs
+target,Claude,veterinary-practice-management,llms.txt absent,26,64,40.625,29.4569,52.8548,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Claude,veterinary-practice-management,llms.txt unknown,0,38,0.0,0,9.181,distinct final origin,origins of successful complete HTML URLs
+target,Claude,veterinary-practice-management,llms.txt unknown,0,64,0.0,0,5.6624,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,all,llms.txt present,201,387,51.938,46.9656,56.8722,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,all,llms.txt present,336,663,50.6787,46.8802,54.4694,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,all,llms.txt absent,171,387,44.186,39.3195,49.1669,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,all,llms.txt absent,311,663,46.908,43.1381,50.7135,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,all,llms.txt unknown,15,387,3.876,2.3627,6.2959,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,all,llms.txt unknown,16,663,2.4133,1.4908,3.884,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,construction-project-management,llms.txt present,17,36,47.2222,31.986,62.9941,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,construction-project-management,llms.txt present,27,58,46.5517,34.332,59.1998,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,construction-project-management,llms.txt absent,15,36,41.6667,27.1406,57.7997,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,construction-project-management,llms.txt absent,27,58,46.5517,34.332,59.1998,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,construction-project-management,llms.txt unknown,4,36,11.1111,4.4066,25.3148,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,construction-project-management,llms.txt unknown,4,58,6.8966,2.7144,16.4337,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,crm,llms.txt present,20,33,60.6061,43.6834,75.3169,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,crm,llms.txt present,25,54,46.2963,33.6899,59.3946,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,crm,llms.txt absent,12,33,36.3636,22.1872,53.3838,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,crm,llms.txt absent,28,54,51.8519,38.8517,64.606,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,crm,llms.txt unknown,1,33,3.0303,0.5369,15.3187,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,crm,llms.txt unknown,1,54,1.8519,0.3276,9.7714,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,dealership-management-systems,llms.txt present,13,28,46.4286,29.5316,64.1873,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,dealership-management-systems,llms.txt present,16,32,50.0,33.6309,66.3691,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,dealership-management-systems,llms.txt absent,15,28,53.5714,35.8127,70.4684,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,dealership-management-systems,llms.txt absent,16,32,50.0,33.6309,66.3691,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,dealership-management-systems,llms.txt unknown,0,28,0.0,0.0,12.0643,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,dealership-management-systems,llms.txt unknown,0,32,0.0,0,10.7179,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,dental-practice-management,llms.txt present,6,24,25.0,11.9994,44.8994,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,dental-practice-management,llms.txt present,13,45,28.8889,17.7301,43.3685,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,dental-practice-management,llms.txt absent,16,24,66.6667,46.7063,82.0278,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,dental-practice-management,llms.txt absent,30,45,66.6667,52.0705,78.6411,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,dental-practice-management,llms.txt unknown,2,24,8.3333,2.3159,25.8488,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,dental-practice-management,llms.txt unknown,2,45,4.4444,1.2274,14.8275,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,field-service-management,llms.txt present,20,24,83.3333,64.1469,93.3213,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,field-service-management,llms.txt present,31,54,57.4074,44.1627,69.6682,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,field-service-management,llms.txt absent,4,24,16.6667,6.6787,35.8531,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,field-service-management,llms.txt absent,23,54,42.5926,30.3318,55.8373,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,field-service-management,llms.txt unknown,0,24,0.0,0.0,13.7976,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,field-service-management,llms.txt unknown,0,54,0.0,0,6.6414,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,hotel-property-management,llms.txt present,14,22,63.6364,42.9517,80.2668,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,hotel-property-management,llms.txt present,20,37,54.0541,38.384,68.9614,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,hotel-property-management,llms.txt absent,8,22,36.3636,19.7332,57.0483,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,hotel-property-management,llms.txt absent,17,37,45.9459,31.0386,61.616,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,hotel-property-management,llms.txt unknown,0,22,0.0,0,14.8655,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,hotel-property-management,llms.txt unknown,0,37,0.0,0,9.4058,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,insurance-agency-management,llms.txt present,13,27,48.1481,30.7432,66.0144,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,insurance-agency-management,llms.txt present,26,46,56.5217,42.2474,69.7907,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,insurance-agency-management,llms.txt absent,13,27,48.1481,30.7432,66.0144,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,insurance-agency-management,llms.txt absent,19,46,41.3043,28.2886,55.6605,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,insurance-agency-management,llms.txt unknown,1,27,3.7037,0.6568,18.2835,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,insurance-agency-management,llms.txt unknown,1,46,2.1739,0.3848,11.3353,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,legal-practice-management,llms.txt present,17,35,48.5714,32.9942,64.4312,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,legal-practice-management,llms.txt present,19,43,44.186,30.4333,58.8924,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,legal-practice-management,llms.txt absent,16,35,45.7143,30.466,61.8103,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,legal-practice-management,llms.txt absent,21,43,48.8372,34.6174,63.2477,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,legal-practice-management,llms.txt unknown,2,35,5.7143,1.5813,18.6071,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,legal-practice-management,llms.txt unknown,3,43,6.9767,2.4012,18.609,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,loan-origination-software,llms.txt present,22,29,75.8621,57.8924,87.7816,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,loan-origination-software,llms.txt present,36,44,81.8182,68.0394,90.4872,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,loan-origination-software,llms.txt absent,7,29,24.1379,12.2184,42.1076,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,loan-origination-software,llms.txt absent,8,44,18.1818,9.5128,31.9606,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,loan-origination-software,llms.txt unknown,0,29,0.0,0,11.697,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,loan-origination-software,llms.txt unknown,0,44,0.0,0,8.0296,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,project_management,llms.txt present,13,23,56.5217,36.8114,74.3654,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,project_management,llms.txt present,18,36,50.0,34.4743,65.5257,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,project_management,llms.txt absent,10,23,43.4783,25.6346,63.1886,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,project_management,llms.txt absent,18,36,50.0,34.4743,65.5257,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,project_management,llms.txt unknown,0,23,0.0,0,14.3117,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,project_management,llms.txt unknown,0,36,0.0,0,9.6419,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,radiology-medical-imaging,llms.txt present,14,50,28.0,17.4742,41.6651,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,radiology-medical-imaging,llms.txt present,24,70,34.2857,24.246,45.9605,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,radiology-medical-imaging,llms.txt absent,34,50,68.0,54.1897,79.2418,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,radiology-medical-imaging,llms.txt absent,44,70,62.8571,51.1472,73.2293,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,radiology-medical-imaging,llms.txt unknown,2,50,4.0,1.1039,13.4601,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,radiology-medical-imaging,llms.txt unknown,2,70,2.8571,0.7871,9.8323,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,residential-property-management,llms.txt present,19,34,55.8824,39.4539,71.1165,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,residential-property-management,llms.txt present,23,59,38.9831,27.5794,51.7337,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,residential-property-management,llms.txt absent,15,34,44.1176,28.8835,60.5461,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,residential-property-management,llms.txt absent,36,59,61.0169,48.2663,72.4206,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,residential-property-management,llms.txt unknown,0,34,0.0,0,10.1515,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,residential-property-management,llms.txt unknown,0,59,0.0,0,6.1129,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,transportation-management-systems,llms.txt present,24,38,63.1579,47.284,76.6158,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,transportation-management-systems,llms.txt present,35,53,66.0377,52.5948,77.313,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,transportation-management-systems,llms.txt absent,11,38,28.9474,17.0033,44.7571,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,transportation-management-systems,llms.txt absent,15,53,28.3019,17.9663,41.5703,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,transportation-management-systems,llms.txt unknown,3,38,7.8947,2.7215,20.7994,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,transportation-management-systems,llms.txt unknown,3,53,5.6604,1.9437,15.3702,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,veterinary-practice-management,llms.txt present,11,17,64.7059,41.3004,82.6903,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,veterinary-practice-management,llms.txt present,25,34,73.5294,56.8829,85.3988,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,veterinary-practice-management,llms.txt absent,6,17,35.2941,17.3097,58.6996,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,veterinary-practice-management,llms.txt absent,9,34,26.4706,14.6012,43.1171,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Mode,veterinary-practice-management,llms.txt unknown,0,17,0.0,0,18.4318,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Mode,veterinary-practice-management,llms.txt unknown,0,34,0.0,0,10.1515,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,all,llms.txt present,314,612,51.3072,47.3514,55.2467,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,all,llms.txt present,559,1168,47.8596,45.0065,50.7267,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,all,llms.txt absent,273,612,44.6078,40.7154,48.5676,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,all,llms.txt absent,579,1168,49.5719,46.7107,52.436,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,all,llms.txt unknown,25,612,4.085,2.782,5.9607,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,all,llms.txt unknown,30,1168,2.5685,1.805,3.643,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,construction-project-management,llms.txt present,25,51,49.0196,35.8575,62.3191,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,construction-project-management,llms.txt present,35,76,46.0526,35.3077,57.1774,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,construction-project-management,llms.txt absent,22,51,43.1373,30.5012,56.7347,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,construction-project-management,llms.txt absent,36,76,47.3684,36.5421,58.448,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,construction-project-management,llms.txt unknown,4,51,7.8431,3.0922,18.4999,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,construction-project-management,llms.txt unknown,5,76,6.5789,2.8427,14.4935,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,crm,llms.txt present,34,64,53.125,41.0721,64.824,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,crm,llms.txt present,54,109,49.5413,40.3319,58.7819,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,crm,llms.txt absent,28,64,43.75,32.294,55.9138,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,crm,llms.txt absent,53,109,48.6239,39.4487,57.8927,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,crm,llms.txt unknown,2,64,3.125,0.8612,10.6973,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,crm,llms.txt unknown,2,109,1.8349,0.5046,6.4445,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,dealership-management-systems,llms.txt present,30,57,52.6316,39.918,65.0128,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,dealership-management-systems,llms.txt present,43,89,48.3146,38.2193,58.5494,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,dealership-management-systems,llms.txt absent,26,57,45.614,33.3726,58.4093,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,dealership-management-systems,llms.txt absent,45,89,50.5618,40.3686,60.7085,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,dealership-management-systems,llms.txt unknown,1,57,1.7544,0.3104,9.2907,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,dealership-management-systems,llms.txt unknown,1,89,1.1236,0.1986,6.0932,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,dental-practice-management,llms.txt present,17,42,40.4762,27.0429,55.5057,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,dental-practice-management,llms.txt present,25,67,37.3134,26.7182,49.2846,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,dental-practice-management,llms.txt absent,25,42,59.5238,44.4943,72.9571,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,dental-practice-management,llms.txt absent,42,67,62.6866,50.7154,73.2818,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,dental-practice-management,llms.txt unknown,0,42,0.0,0,8.3799,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,dental-practice-management,llms.txt unknown,0,67,0.0,0,5.4226,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,field-service-management,llms.txt present,27,37,72.973,57.0218,84.6025,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,field-service-management,llms.txt present,43,74,58.1081,46.7403,68.6757,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,field-service-management,llms.txt absent,9,37,24.3243,13.3614,40.1173,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,field-service-management,llms.txt absent,30,74,40.5405,30.0906,51.9242,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,field-service-management,llms.txt unknown,1,37,2.7027,0.4787,13.8241,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,field-service-management,llms.txt unknown,1,74,1.3514,0.2389,7.2654,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,hotel-property-management,llms.txt present,15,34,44.1176,28.8835,60.5461,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,hotel-property-management,llms.txt present,21,56,37.5,26.0102,50.5946,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,hotel-property-management,llms.txt absent,17,34,50.0,34.0693,65.9307,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,hotel-property-management,llms.txt absent,33,56,58.9286,45.8776,70.8332,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,hotel-property-management,llms.txt unknown,2,34,5.8824,1.6283,19.0936,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,hotel-property-management,llms.txt unknown,2,56,3.5714,0.9849,12.1188,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,insurance-agency-management,llms.txt present,20,41,48.7805,34.2544,63.5155,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,insurance-agency-management,llms.txt present,44,77,57.1429,46.0105,67.5963,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,insurance-agency-management,llms.txt absent,20,41,48.7805,34.2544,63.5155,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,insurance-agency-management,llms.txt absent,30,77,38.961,28.8423,50.1289,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,insurance-agency-management,llms.txt unknown,1,41,2.439,0.4319,12.5951,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,insurance-agency-management,llms.txt unknown,3,77,3.8961,1.3338,10.84,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,legal-practice-management,llms.txt present,33,52,63.4615,49.8717,75.1993,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,legal-practice-management,llms.txt present,50,93,53.7634,43.6829,63.5454,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,legal-practice-management,llms.txt absent,17,52,32.6923,21.5221,46.2438,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,legal-practice-management,llms.txt absent,41,93,44.086,34.4294,54.2118,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,legal-practice-management,llms.txt unknown,2,52,3.8462,1.0612,12.9812,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,legal-practice-management,llms.txt unknown,2,93,2.1505,0.5917,7.5055,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,loan-origination-software,llms.txt present,28,45,62.2222,47.6299,74.8919,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,loan-origination-software,llms.txt present,61,84,72.619,62.2526,81.0072,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,loan-origination-software,llms.txt absent,17,45,37.7778,25.1081,52.3701,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,loan-origination-software,llms.txt absent,23,84,27.381,18.9928,37.7474,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,loan-origination-software,llms.txt unknown,0,45,0.0,0,7.8652,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,loan-origination-software,llms.txt unknown,0,84,0.0,0,4.3732,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,project_management,llms.txt present,27,52,51.9231,38.6857,64.8959,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,project_management,llms.txt present,33,85,38.8235,29.1613,49.4523,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,project_management,llms.txt absent,22,52,42.3077,29.8681,55.8057,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,project_management,llms.txt absent,49,85,57.6471,47.0364,67.5965,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,project_management,llms.txt unknown,3,52,5.7692,1.9814,15.6425,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,project_management,llms.txt unknown,3,85,3.5294,1.2075,9.87,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,radiology-medical-imaging,llms.txt present,19,55,34.5455,23.3627,47.7461,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,radiology-medical-imaging,llms.txt present,26,98,26.5306,18.7957,36.036,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,radiology-medical-imaging,llms.txt absent,32,55,58.1818,45.0331,70.2622,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,radiology-medical-imaging,llms.txt absent,66,98,67.3469,57.5615,75.8237,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,radiology-medical-imaging,llms.txt unknown,4,55,7.2727,2.8644,17.2599,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,radiology-medical-imaging,llms.txt unknown,6,98,6.1224,2.8359,12.7191,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,residential-property-management,llms.txt present,17,37,45.9459,31.0386,61.616,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,residential-property-management,llms.txt present,26,80,32.5,23.2442,43.3595,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,residential-property-management,llms.txt absent,17,37,45.9459,31.0386,61.616,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,residential-property-management,llms.txt absent,51,80,63.75,52.8108,73.4292,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,residential-property-management,llms.txt unknown,3,37,8.1081,2.7961,21.3007,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,residential-property-management,llms.txt unknown,3,80,3.75,1.2835,10.4547,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,transportation-management-systems,llms.txt present,33,63,52.381,40.2704,64.2179,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,transportation-management-systems,llms.txt present,55,102,53.9216,44.282,63.2765,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,transportation-management-systems,llms.txt absent,28,63,44.4444,32.8471,56.6804,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,transportation-management-systems,llms.txt absent,45,102,44.1176,34.8693,53.793,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,transportation-management-systems,llms.txt unknown,2,63,3.1746,0.875,10.8565,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,transportation-management-systems,llms.txt unknown,2,102,1.9608,0.5394,6.8693,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,veterinary-practice-management,llms.txt present,22,42,52.381,37.7225,66.6404,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,veterinary-practice-management,llms.txt present,44,79,55.6962,44.7319,66.1322,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,veterinary-practice-management,llms.txt absent,20,42,47.619,33.3596,62.2775,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,veterinary-practice-management,llms.txt absent,35,79,44.3038,33.8678,55.2681,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Google AI Overviews,veterinary-practice-management,llms.txt unknown,0,42,0.0,0,8.3799,distinct final origin,origins of successful complete HTML URLs
+target,Google AI Overviews,veterinary-practice-management,llms.txt unknown,0,79,0.0,0,4.6371,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,all,llms.txt present,459,836,54.9043,51.5165,58.2472,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,all,llms.txt present,968,1766,54.8131,52.484,57.1213,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,all,llms.txt absent,347,836,41.5072,38.2134,44.8787,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,all,llms.txt absent,754,1766,42.6954,40.4067,45.0157,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,all,llms.txt unknown,30,836,3.5885,2.525,5.0766,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,all,llms.txt unknown,44,1766,2.4915,1.8612,3.3281,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,construction-project-management,llms.txt present,44,78,56.4103,45.362,66.8568,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,construction-project-management,llms.txt present,72,123,58.5366,49.7005,66.8556,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,construction-project-management,llms.txt absent,31,78,39.7436,29.6119,50.8381,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,construction-project-management,llms.txt absent,48,123,39.0244,30.8611,47.8524,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,construction-project-management,llms.txt unknown,3,78,3.8462,1.3166,10.7084,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,construction-project-management,llms.txt unknown,3,123,2.439,0.8329,6.926,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,crm,llms.txt present,69,118,58.4746,49.4536,66.9611,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,crm,llms.txt present,107,170,62.9412,55.4702,69.8402,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,crm,llms.txt absent,46,118,38.9831,30.6635,47.9973,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,crm,llms.txt absent,59,170,34.7059,27.9594,42.1283,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,crm,llms.txt unknown,3,118,2.5424,0.8684,7.2089,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,crm,llms.txt unknown,4,170,2.3529,0.9187,5.8929,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,dealership-management-systems,llms.txt present,42,69,60.8696,49.074,71.5187,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,dealership-management-systems,llms.txt present,78,119,65.5462,56.6424,73.4778,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,dealership-management-systems,llms.txt absent,26,69,37.6812,27.1835,49.4781,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,dealership-management-systems,llms.txt absent,40,119,33.6134,25.7566,42.4952,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,dealership-management-systems,llms.txt unknown,1,69,1.4493,0.2563,7.7631,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,dealership-management-systems,llms.txt unknown,1,119,0.8403,0.1485,4.6068,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,dental-practice-management,llms.txt present,34,68,50.0,38.4381,61.5619,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,dental-practice-management,llms.txt present,51,108,47.2222,38.0649,56.5703,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,dental-practice-management,llms.txt absent,30,68,44.1176,32.9462,55.9181,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,dental-practice-management,llms.txt absent,53,108,49.0741,39.8409,58.3709,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,dental-practice-management,llms.txt unknown,4,68,5.8824,2.3111,14.1717,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,dental-practice-management,llms.txt unknown,4,108,3.7037,1.4496,9.1382,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,field-service-management,llms.txt present,46,75,61.3333,50.0175,71.5448,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,field-service-management,llms.txt present,100,141,70.922,62.9507,77.7835,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,field-service-management,llms.txt absent,27,75,36.0,26.0649,47.2993,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,field-service-management,llms.txt absent,38,141,26.9504,20.3099,34.8134,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,field-service-management,llms.txt unknown,2,75,2.6667,0.7344,9.2115,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,field-service-management,llms.txt unknown,3,141,2.1277,0.7262,6.0684,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,hotel-property-management,llms.txt present,33,59,55.9322,43.2894,67.8498,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,hotel-property-management,llms.txt present,53,96,55.2083,45.2516,64.7642,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,hotel-property-management,llms.txt absent,24,59,40.678,29.089,53.4066,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,hotel-property-management,llms.txt absent,39,96,40.625,31.3453,50.6261,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,hotel-property-management,llms.txt unknown,2,59,3.3898,0.9346,11.5436,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,hotel-property-management,llms.txt unknown,4,96,4.1667,1.6321,10.2282,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,insurance-agency-management,llms.txt present,40,74,54.0541,42.7813,64.9266,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,insurance-agency-management,llms.txt present,66,135,48.8889,40.6048,57.2345,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,insurance-agency-management,llms.txt absent,33,74,44.5946,33.8158,55.9069,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,insurance-agency-management,llms.txt absent,66,135,48.8889,40.6048,57.2345,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,insurance-agency-management,llms.txt unknown,1,74,1.3514,0.2389,7.2654,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,insurance-agency-management,llms.txt unknown,3,135,2.2222,0.7586,6.3297,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,legal-practice-management,llms.txt present,37,70,52.8571,41.3219,64.0951,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,legal-practice-management,llms.txt present,56,114,49.1228,40.1252,58.1776,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,legal-practice-management,llms.txt absent,33,70,47.1429,35.9049,58.6781,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,legal-practice-management,llms.txt absent,58,114,50.8772,41.8224,59.8748,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,legal-practice-management,llms.txt unknown,0,70,0.0,0,5.2023,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,legal-practice-management,llms.txt unknown,0,114,0.0,0,3.2599,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,loan-origination-software,llms.txt present,49,91,53.8462,43.6562,63.7246,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,loan-origination-software,llms.txt present,102,158,64.557,56.8338,71.5891,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,loan-origination-software,llms.txt absent,35,91,38.4615,29.1266,48.7312,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,loan-origination-software,llms.txt absent,48,158,30.3797,23.7448,37.9461,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,loan-origination-software,llms.txt unknown,7,91,7.6923,3.776,15.0359,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,loan-origination-software,llms.txt unknown,8,158,5.0633,2.5877,9.6721,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,project_management,llms.txt present,49,96,51.0417,41.196,60.8071,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,project_management,llms.txt present,83,152,54.6053,46.6742,62.3093,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,project_management,llms.txt absent,45,96,46.875,37.2061,56.7844,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,project_management,llms.txt absent,66,152,43.4211,35.7997,51.3668,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,project_management,llms.txt unknown,2,96,2.0833,0.5732,7.2807,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,project_management,llms.txt unknown,3,152,1.9737,0.6735,5.6416,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,radiology-medical-imaging,llms.txt present,17,50,34.0,22.4369,47.8462,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,radiology-medical-imaging,llms.txt present,32,93,34.4086,25.5451,44.5091,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,radiology-medical-imaging,llms.txt absent,31,50,62.0,48.1504,74.1372,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,radiology-medical-imaging,llms.txt absent,55,93,59.1398,48.98,68.5745,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,radiology-medical-imaging,llms.txt unknown,2,50,4.0,1.1039,13.4601,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,radiology-medical-imaging,llms.txt unknown,6,93,6.4516,2.9901,13.368,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,residential-property-management,llms.txt present,39,82,47.561,37.105,58.2353,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,residential-property-management,llms.txt present,61,143,42.6573,34.8477,50.8512,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,residential-property-management,llms.txt absent,40,82,48.7805,38.2609,59.4092,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,residential-property-management,llms.txt absent,79,143,55.2448,47.0639,63.1512,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,residential-property-management,llms.txt unknown,3,82,3.6585,1.252,10.2127,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,residential-property-management,llms.txt unknown,3,143,2.0979,0.716,5.9861,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,transportation-management-systems,llms.txt present,43,85,50.5882,40.1664,60.9592,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,transportation-management-systems,llms.txt present,66,138,47.8261,39.6641,56.1058,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,transportation-management-systems,llms.txt absent,40,85,47.0588,36.8062,57.5658,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,transportation-management-systems,llms.txt absent,70,138,50.7246,42.4774,58.9326,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,transportation-management-systems,llms.txt unknown,2,85,2.3529,0.6477,8.1787,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,transportation-management-systems,llms.txt unknown,2,138,1.4493,0.3983,5.13,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,veterinary-practice-management,llms.txt present,24,48,50.0,36.3893,63.6107,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,veterinary-practice-management,llms.txt present,43,83,51.8072,41.2178,62.2368,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,veterinary-practice-management,llms.txt absent,24,48,50.0,36.3893,63.6107,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,veterinary-practice-management,llms.txt absent,40,83,48.1928,37.7632,58.7822,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,Perplexity,veterinary-practice-management,llms.txt unknown,0,48,0.0,0.0,7.41,distinct final origin,origins of successful complete HTML URLs
+target,Perplexity,veterinary-practice-management,llms.txt unknown,0,83,0.0,0.0,4.4235,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,all,llms.txt present,774,1600,48.375,45.9332,50.8246,distinct final origin,origins of successful complete HTML URLs
+target,all,all,llms.txt present,2141,4420,48.4389,46.9676,49.9129,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,all,llms.txt absent,741,1600,46.3125,43.881,48.7617,distinct final origin,origins of successful complete HTML URLs
+target,all,all,llms.txt absent,2109,4420,47.7149,46.2451,49.1888,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,all,llms.txt unknown,85,1600,5.3125,4.3167,6.5224,distinct final origin,origins of successful complete HTML URLs
+target,all,all,llms.txt unknown,170,4420,3.8462,3.3181,4.4543,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,construction-project-management,llms.txt present,73,161,45.3416,37.8498,53.0506,distinct final origin,origins of successful complete HTML URLs
+target,all,construction-project-management,llms.txt present,162,355,45.6338,40.5268,50.8343,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,construction-project-management,llms.txt absent,76,161,47.205,39.6489,54.8913,distinct final origin,origins of successful complete HTML URLs
+target,all,construction-project-management,llms.txt absent,175,355,49.2958,44.1305,54.4761,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,construction-project-management,llms.txt unknown,12,161,7.4534,4.3148,12.575,distinct final origin,origins of successful complete HTML URLs
+target,all,construction-project-management,llms.txt unknown,18,355,5.0704,3.231,7.8718,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,crm,llms.txt present,127,223,56.9507,50.3884,63.2775,distinct final origin,origins of successful complete HTML URLs
+target,all,crm,llms.txt present,264,441,59.8639,55.2229,64.3346,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,crm,llms.txt absent,88,223,39.4619,33.2774,46.0033,distinct final origin,origins of successful complete HTML URLs
+target,all,crm,llms.txt absent,163,441,36.9615,32.587,41.5611,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,crm,llms.txt unknown,8,223,3.5874,1.8288,6.918,distinct final origin,origins of successful complete HTML URLs
+target,all,crm,llms.txt unknown,14,441,3.1746,1.9003,5.2576,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,dealership-management-systems,llms.txt present,68,134,50.7463,42.3794,59.0715,distinct final origin,origins of successful complete HTML URLs
+target,all,dealership-management-systems,llms.txt present,142,274,51.8248,45.9242,57.6749,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,dealership-management-systems,llms.txt absent,64,134,47.7612,39.4848,56.1624,distinct final origin,origins of successful complete HTML URLs
+target,all,dealership-management-systems,llms.txt absent,130,274,47.4453,41.6089,53.3522,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,dealership-management-systems,llms.txt unknown,2,134,1.4925,0.4103,5.2785,distinct final origin,origins of successful complete HTML URLs
+target,all,dealership-management-systems,llms.txt unknown,2,274,0.7299,0.2004,2.6219,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,dental-practice-management,llms.txt present,49,112,43.75,34.9212,52.9934,distinct final origin,origins of successful complete HTML URLs
+target,all,dental-practice-management,llms.txt present,97,249,38.9558,33.1105,45.1368,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,dental-practice-management,llms.txt absent,55,112,49.1071,40.033,58.2405,distinct final origin,origins of successful complete HTML URLs
+target,all,dental-practice-management,llms.txt absent,142,249,57.0281,50.8186,63.0241,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,dental-practice-management,llms.txt unknown,8,112,7.1429,3.6636,13.4645,distinct final origin,origins of successful complete HTML URLs
+target,all,dental-practice-management,llms.txt unknown,10,249,4.0161,2.1958,7.2336,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,field-service-management,llms.txt present,78,129,60.4651,51.8427,68.4823,distinct final origin,origins of successful complete HTML URLs
+target,all,field-service-management,llms.txt present,222,356,62.3596,57.2201,67.2351,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,field-service-management,llms.txt absent,46,129,35.6589,27.9177,44.2295,distinct final origin,origins of successful complete HTML URLs
+target,all,field-service-management,llms.txt absent,128,356,35.9551,31.1446,41.0654,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,field-service-management,llms.txt unknown,5,129,3.876,1.6668,8.7528,distinct final origin,origins of successful complete HTML URLs
+target,all,field-service-management,llms.txt unknown,6,356,1.6854,0.7747,3.6277,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,hotel-property-management,llms.txt present,51,103,49.5146,40.0516,59.0125,distinct final origin,origins of successful complete HTML URLs
+target,all,hotel-property-management,llms.txt present,98,240,40.8333,34.8067,47.1488,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,hotel-property-management,llms.txt absent,46,103,44.6602,35.4236,54.2808,distinct final origin,origins of successful complete HTML URLs
+target,all,hotel-property-management,llms.txt absent,128,240,53.3333,47.0188,59.5428,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,hotel-property-management,llms.txt unknown,6,103,5.8252,2.6968,12.1302,distinct final origin,origins of successful complete HTML URLs
+target,all,hotel-property-management,llms.txt unknown,14,240,5.8333,3.5062,9.552,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,insurance-agency-management,llms.txt present,57,127,44.8819,36.5085,53.5558,distinct final origin,origins of successful complete HTML URLs
+target,all,insurance-agency-management,llms.txt present,116,296,39.1892,33.8004,44.855,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,insurance-agency-management,llms.txt absent,64,127,50.3937,41.8151,58.9492,distinct final origin,origins of successful complete HTML URLs
+target,all,insurance-agency-management,llms.txt absent,157,296,53.0405,47.3525,58.6507,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,insurance-agency-management,llms.txt unknown,6,127,4.7244,2.183,9.9244,distinct final origin,origins of successful complete HTML URLs
+target,all,insurance-agency-management,llms.txt unknown,23,296,7.7703,5.2333,11.3893,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,legal-practice-management,llms.txt present,69,141,48.9362,40.8234,57.1054,distinct final origin,origins of successful complete HTML URLs
+target,all,legal-practice-management,llms.txt present,130,286,45.4545,39.7821,51.2475,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,legal-practice-management,llms.txt absent,67,141,47.5177,39.4506,55.7166,distinct final origin,origins of successful complete HTML URLs
+target,all,legal-practice-management,llms.txt absent,145,286,50.6993,44.9344,56.4457,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,legal-practice-management,llms.txt unknown,5,141,3.5461,1.524,8.0323,distinct final origin,origins of successful complete HTML URLs
+target,all,legal-practice-management,llms.txt unknown,11,286,3.8462,2.161,6.7547,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,loan-origination-software,llms.txt present,66,138,47.8261,39.6641,56.1058,distinct final origin,origins of successful complete HTML URLs
+target,all,loan-origination-software,llms.txt present,194,312,62.1795,56.6812,67.3815,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,loan-origination-software,llms.txt absent,64,138,46.3768,38.2676,54.6823,distinct final origin,origins of successful complete HTML URLs
+target,all,loan-origination-software,llms.txt absent,108,312,34.6154,29.5525,40.0525,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,loan-origination-software,llms.txt unknown,8,138,5.7971,2.9664,11.022,distinct final origin,origins of successful complete HTML URLs
+target,all,loan-origination-software,llms.txt unknown,10,312,3.2051,1.7501,5.7984,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,project_management,llms.txt present,79,169,46.7456,39.3793,54.2565,distinct final origin,origins of successful complete HTML URLs
+target,all,project_management,llms.txt present,198,374,52.9412,47.8784,57.9442,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,project_management,llms.txt absent,80,169,47.3373,39.9527,54.8402,distinct final origin,origins of successful complete HTML URLs
+target,all,project_management,llms.txt absent,156,374,41.7112,36.823,46.768,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,project_management,llms.txt unknown,10,169,5.9172,3.2455,10.5483,distinct final origin,origins of successful complete HTML URLs
+target,all,project_management,llms.txt unknown,20,374,5.3476,3.4881,8.115,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,radiology-medical-imaging,llms.txt present,43,143,30.0699,23.1561,38.0265,distinct final origin,origins of successful complete HTML URLs
+target,all,radiology-medical-imaging,llms.txt present,96,338,28.4024,23.8585,33.4316,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,radiology-medical-imaging,llms.txt absent,91,143,63.6364,55.4909,71.0683,distinct final origin,origins of successful complete HTML URLs
+target,all,radiology-medical-imaging,llms.txt absent,221,338,65.3846,60.1655,70.2579,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,radiology-medical-imaging,llms.txt unknown,9,143,6.2937,3.3461,11.528,distinct final origin,origins of successful complete HTML URLs
+target,all,radiology-medical-imaging,llms.txt unknown,21,338,6.213,4.0993,9.3109,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,residential-property-management,llms.txt present,63,128,49.2188,40.7077,57.7753,distinct final origin,origins of successful complete HTML URLs
+target,all,residential-property-management,llms.txt present,146,341,42.8152,37.6722,48.1184,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,residential-property-management,llms.txt absent,57,128,44.5312,36.2055,53.1757,distinct final origin,origins of successful complete HTML URLs
+target,all,residential-property-management,llms.txt absent,183,341,53.6657,48.3616,58.8881,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,residential-property-management,llms.txt unknown,8,128,6.25,3.2007,11.8488,distinct final origin,origins of successful complete HTML URLs
+target,all,residential-property-management,llms.txt unknown,12,341,3.5191,2.0243,6.0494,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,transportation-management-systems,llms.txt present,74,157,47.1338,39.4875,54.917,distinct final origin,origins of successful complete HTML URLs
+target,all,transportation-management-systems,llms.txt present,166,344,48.2558,43.0238,53.5264,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,transportation-management-systems,llms.txt absent,77,157,49.0446,41.3416,56.7932,distinct final origin,origins of successful complete HTML URLs
+target,all,transportation-management-systems,llms.txt absent,170,344,49.4186,44.1709,54.6791,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,transportation-management-systems,llms.txt unknown,6,157,3.8217,1.7631,8.086,distinct final origin,origins of successful complete HTML URLs
+target,all,transportation-management-systems,llms.txt unknown,8,344,2.3256,1.183,4.5211,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,veterinary-practice-management,llms.txt present,37,77,48.0519,37.253,59.036,distinct final origin,origins of successful complete HTML URLs
+target,all,veterinary-practice-management,llms.txt present,116,225,51.5556,45.0544,58.0045,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,veterinary-practice-management,llms.txt absent,39,77,50.6494,39.72,61.517,distinct final origin,origins of successful complete HTML URLs
+target,all,veterinary-practice-management,llms.txt absent,108,225,48.0,41.5605,54.5066,distinct exact URL,successful complete HTML URLs; host result repeated across URLs
+target,all,veterinary-practice-management,llms.txt unknown,1,77,1.2987,0.2296,6.9962,distinct final origin,origins of successful complete HTML URLs
+target,all,veterinary-practice-management,llms.txt unknown,1,225,0.4444,0.0785,2.4741,distinct exact URL,successful complete HTML URLs; host result repeated across URLs

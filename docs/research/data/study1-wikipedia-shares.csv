@@ -1,0 +1,397 @@
+scope,engine,category,measure,count,base,percent,wilson_95_low,wilson_95_high,unit,denominator
+combined,ChatGPT,all,Wikipedia or sister project,1,1093,0.0915,0.0162,0.5164,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,all,Wikipedia or sister project,1,891,0.1122,0.0198,0.633,distinct exact URL,successful complete HTML
+combined,ChatGPT,construction-project-management,Wikipedia or sister project,0,123,0.0,0,3.0286,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,construction-project-management,Wikipedia or sister project,0,94,0.0,0,3.9262,distinct exact URL,successful complete HTML
+combined,ChatGPT,crm,Wikipedia or sister project,0,128,0.0,0,2.9137,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,crm,Wikipedia or sister project,0,119,0.0,0,3.1272,distinct exact URL,successful complete HTML
+combined,ChatGPT,dealership-management-systems,Wikipedia or sister project,0,52,0.0,0,6.8792,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,dealership-management-systems,Wikipedia or sister project,0,41,0.0,0,8.5668,distinct exact URL,successful complete HTML
+combined,ChatGPT,dental-practice-management,Wikipedia or sister project,0,64,0.0,0,5.6624,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,dental-practice-management,Wikipedia or sister project,0,50,0.0,0.0,7.1348,distinct exact URL,successful complete HTML
+combined,ChatGPT,field-service-management,Wikipedia or sister project,0,73,0.0,0,4.9992,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,field-service-management,Wikipedia or sister project,0,63,0.0,0,5.7471,distinct exact URL,successful complete HTML
+combined,ChatGPT,hotel-property-management,Wikipedia or sister project,0,67,0.0,0,5.4226,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,hotel-property-management,Wikipedia or sister project,0,54,0.0,0,6.6414,distinct exact URL,successful complete HTML
+combined,ChatGPT,insurance-agency-management,Wikipedia or sister project,0,86,0.0,0,4.2758,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,insurance-agency-management,Wikipedia or sister project,0,72,0.0,0,5.0651,distinct exact URL,successful complete HTML
+combined,ChatGPT,legal-practice-management,Wikipedia or sister project,1,56,1.7857,0.3159,9.4456,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,legal-practice-management,Wikipedia or sister project,1,35,2.8571,0.5061,14.5331,distinct exact URL,successful complete HTML
+combined,ChatGPT,loan-origination-software,Wikipedia or sister project,0,77,0.0,0,4.7518,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,loan-origination-software,Wikipedia or sister project,0,55,0.0,0,6.5285,distinct exact URL,successful complete HTML
+combined,ChatGPT,project_management,Wikipedia or sister project,0,95,0.0,0,3.8865,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,project_management,Wikipedia or sister project,0,80,0.0,0,4.5818,distinct exact URL,successful complete HTML
+combined,ChatGPT,radiology-medical-imaging,Wikipedia or sister project,0,87,0.0,0,4.2288,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,radiology-medical-imaging,Wikipedia or sister project,0,69,0.0,0.0,5.2737,distinct exact URL,successful complete HTML
+combined,ChatGPT,residential-property-management,Wikipedia or sister project,0,50,0.0,0.0,7.1348,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,residential-property-management,Wikipedia or sister project,0,47,0.0,0,7.5558,distinct exact URL,successful complete HTML
+combined,ChatGPT,transportation-management-systems,Wikipedia or sister project,0,74,0.0,0,4.935,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,transportation-management-systems,Wikipedia or sister project,0,55,0.0,0,6.5285,distinct exact URL,successful complete HTML
+combined,ChatGPT,veterinary-practice-management,Wikipedia or sister project,0,63,0.0,0,5.7471,distinct exact URL,all eligible cited URLs
+combined,ChatGPT,veterinary-practice-management,Wikipedia or sister project,0,57,0.0,0,6.3139,distinct exact URL,successful complete HTML
+combined,Claude,all,Wikipedia or sister project,1,1734,0.0577,0.0102,0.326,distinct exact URL,all eligible cited URLs
+combined,Claude,all,Wikipedia or sister project,1,1330,0.0752,0.0133,0.4247,distinct exact URL,successful complete HTML
+combined,Claude,construction-project-management,Wikipedia or sister project,0,220,0.0,0,1.7162,distinct exact URL,all eligible cited URLs
+combined,Claude,construction-project-management,Wikipedia or sister project,0,172,0.0,0,2.1846,distinct exact URL,successful complete HTML
+combined,Claude,crm,Wikipedia or sister project,0,164,0.0,0,2.2887,distinct exact URL,all eligible cited URLs
+combined,Claude,crm,Wikipedia or sister project,0,151,0.0,0,2.4809,distinct exact URL,successful complete HTML
+combined,Claude,dealership-management-systems,Wikipedia or sister project,1,116,0.8621,0.1523,4.722,distinct exact URL,all eligible cited URLs
+combined,Claude,dealership-management-systems,Wikipedia or sister project,1,86,1.1628,0.2056,6.2964,distinct exact URL,successful complete HTML
+combined,Claude,dental-practice-management,Wikipedia or sister project,0,91,0.0,0,4.0504,distinct exact URL,all eligible cited URLs
+combined,Claude,dental-practice-management,Wikipedia or sister project,0,74,0.0,0,4.935,distinct exact URL,successful complete HTML
+combined,Claude,field-service-management,Wikipedia or sister project,0,118,0.0,0,3.1528,distinct exact URL,all eligible cited URLs
+combined,Claude,field-service-management,Wikipedia or sister project,0,101,0.0,0,3.6641,distinct exact URL,successful complete HTML
+combined,Claude,hotel-property-management,Wikipedia or sister project,0,108,0.0,0,3.4347,distinct exact URL,all eligible cited URLs
+combined,Claude,hotel-property-management,Wikipedia or sister project,0,69,0.0,0.0,5.2737,distinct exact URL,successful complete HTML
+combined,Claude,insurance-agency-management,Wikipedia or sister project,0,114,0.0,0,3.2599,distinct exact URL,all eligible cited URLs
+combined,Claude,insurance-agency-management,Wikipedia or sister project,0,70,0.0,0,5.2023,distinct exact URL,successful complete HTML
+combined,Claude,legal-practice-management,Wikipedia or sister project,0,114,0.0,0,3.2599,distinct exact URL,all eligible cited URLs
+combined,Claude,legal-practice-management,Wikipedia or sister project,0,90,0.0,0,4.0936,distinct exact URL,successful complete HTML
+combined,Claude,loan-origination-software,Wikipedia or sister project,0,96,0.0,0.0,3.8476,distinct exact URL,all eligible cited URLs
+combined,Claude,loan-origination-software,Wikipedia or sister project,0,63,0.0,0,5.7471,distinct exact URL,successful complete HTML
+combined,Claude,project_management,Wikipedia or sister project,0,101,0.0,0,3.6641,distinct exact URL,all eligible cited URLs
+combined,Claude,project_management,Wikipedia or sister project,0,84,0.0,0,4.3732,distinct exact URL,successful complete HTML
+combined,Claude,radiology-medical-imaging,Wikipedia or sister project,0,122,0.0,0,3.0526,distinct exact URL,all eligible cited URLs
+combined,Claude,radiology-medical-imaging,Wikipedia or sister project,0,98,0.0,0.0,3.772,distinct exact URL,successful complete HTML
+combined,Claude,residential-property-management,Wikipedia or sister project,0,149,0.0,0.0,2.5134,distinct exact URL,all eligible cited URLs
+combined,Claude,residential-property-management,Wikipedia or sister project,0,118,0.0,0,3.1528,distinct exact URL,successful complete HTML
+combined,Claude,transportation-management-systems,Wikipedia or sister project,0,114,0.0,0,3.2599,distinct exact URL,all eligible cited URLs
+combined,Claude,transportation-management-systems,Wikipedia or sister project,0,91,0.0,0,4.0504,distinct exact URL,successful complete HTML
+combined,Claude,veterinary-practice-management,Wikipedia or sister project,0,108,0.0,0,3.4347,distinct exact URL,all eligible cited URLs
+combined,Claude,veterinary-practice-management,Wikipedia or sister project,0,64,0.0,0,5.6624,distinct exact URL,successful complete HTML
+combined,Google AI Mode,all,Wikipedia or sister project,0,982,0.0,0,0.3897,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,all,Wikipedia or sister project,0,697,0.0,0,0.5481,distinct exact URL,successful complete HTML
+combined,Google AI Mode,construction-project-management,Wikipedia or sister project,0,120,0.0,0,3.1019,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,construction-project-management,Wikipedia or sister project,0,80,0.0,0,4.5818,distinct exact URL,successful complete HTML
+combined,Google AI Mode,crm,Wikipedia or sister project,0,85,0.0,0,4.3239,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,crm,Wikipedia or sister project,0,66,0.0,0,5.5003,distinct exact URL,successful complete HTML
+combined,Google AI Mode,dealership-management-systems,Wikipedia or sister project,0,53,0.0,0,6.7582,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,dealership-management-systems,Wikipedia or sister project,0,32,0.0,0,10.7179,distinct exact URL,successful complete HTML
+combined,Google AI Mode,dental-practice-management,Wikipedia or sister project,0,55,0.0,0,6.5285,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,dental-practice-management,Wikipedia or sister project,0,45,0.0,0,7.8652,distinct exact URL,successful complete HTML
+combined,Google AI Mode,field-service-management,Wikipedia or sister project,0,64,0.0,0,5.6624,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,field-service-management,Wikipedia or sister project,0,54,0.0,0,6.6414,distinct exact URL,successful complete HTML
+combined,Google AI Mode,hotel-property-management,Wikipedia or sister project,0,66,0.0,0,5.5003,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,hotel-property-management,Wikipedia or sister project,0,37,0.0,0,9.4058,distinct exact URL,successful complete HTML
+combined,Google AI Mode,insurance-agency-management,Wikipedia or sister project,0,69,0.0,0.0,5.2737,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,insurance-agency-management,Wikipedia or sister project,0,46,0.0,0,7.7074,distinct exact URL,successful complete HTML
+combined,Google AI Mode,legal-practice-management,Wikipedia or sister project,0,76,0.0,0,4.8114,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,legal-practice-management,Wikipedia or sister project,0,43,0.0,0,8.201,distinct exact URL,successful complete HTML
+combined,Google AI Mode,loan-origination-software,Wikipedia or sister project,0,56,0.0,0.0,6.4194,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,loan-origination-software,Wikipedia or sister project,0,44,0.0,0,8.0296,distinct exact URL,successful complete HTML
+combined,Google AI Mode,project_management,Wikipedia or sister project,0,49,0.0,0.0,7.2698,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,project_management,Wikipedia or sister project,0,36,0.0,0,9.6419,distinct exact URL,successful complete HTML
+combined,Google AI Mode,radiology-medical-imaging,Wikipedia or sister project,0,86,0.0,0,4.2758,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,radiology-medical-imaging,Wikipedia or sister project,0,70,0.0,0,5.2023,distinct exact URL,successful complete HTML
+combined,Google AI Mode,residential-property-management,Wikipedia or sister project,0,74,0.0,0,4.935,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,residential-property-management,Wikipedia or sister project,0,59,0.0,0,6.1129,distinct exact URL,successful complete HTML
+combined,Google AI Mode,transportation-management-systems,Wikipedia or sister project,0,74,0.0,0,4.935,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,transportation-management-systems,Wikipedia or sister project,0,53,0.0,0,6.7582,distinct exact URL,successful complete HTML
+combined,Google AI Mode,veterinary-practice-management,Wikipedia or sister project,0,57,0.0,0,6.3139,distinct exact URL,all eligible cited URLs
+combined,Google AI Mode,veterinary-practice-management,Wikipedia or sister project,0,34,0.0,0,10.1515,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,all,Wikipedia or sister project,0,1692,0.0,0,0.2265,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,all,Wikipedia or sister project,0,1260,0.0,0,0.304,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,construction-project-management,Wikipedia or sister project,0,180,0.0,0,2.0895,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,construction-project-management,Wikipedia or sister project,0,129,0.0,0,2.8918,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,crm,Wikipedia or sister project,0,170,0.0,0,2.2097,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,crm,Wikipedia or sister project,0,148,0.0,0,2.5299,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,dealership-management-systems,Wikipedia or sister project,0,130,0.0,0,2.8702,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,dealership-management-systems,Wikipedia or sister project,0,89,0.0,0,4.1377,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,dental-practice-management,Wikipedia or sister project,0,86,0.0,0,4.2758,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,dental-practice-management,Wikipedia or sister project,0,67,0.0,0,5.4226,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,field-service-management,Wikipedia or sister project,0,94,0.0,0,3.9262,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,field-service-management,Wikipedia or sister project,0,74,0.0,0,4.935,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,hotel-property-management,Wikipedia or sister project,0,82,0.0,0,4.4751,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,hotel-property-management,Wikipedia or sister project,0,56,0.0,0.0,6.4194,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,insurance-agency-management,Wikipedia or sister project,0,118,0.0,0,3.1528,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,insurance-agency-management,Wikipedia or sister project,0,77,0.0,0,4.7518,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,legal-practice-management,Wikipedia or sister project,0,132,0.0,0,2.8279,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,legal-practice-management,Wikipedia or sister project,0,93,0.0,0,3.9668,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,loan-origination-software,Wikipedia or sister project,0,110,0.0,0,3.3744,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,loan-origination-software,Wikipedia or sister project,0,84,0.0,0,4.3732,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,project_management,Wikipedia or sister project,0,114,0.0,0,3.2599,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,project_management,Wikipedia or sister project,0,85,0.0,0,4.3239,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,radiology-medical-imaging,Wikipedia or sister project,0,122,0.0,0,3.0526,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,radiology-medical-imaging,Wikipedia or sister project,0,98,0.0,0.0,3.772,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,residential-property-management,Wikipedia or sister project,0,111,0.0,0.0,3.345,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,residential-property-management,Wikipedia or sister project,0,80,0.0,0,4.5818,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,transportation-management-systems,Wikipedia or sister project,0,133,0.0,0,2.8072,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,transportation-management-systems,Wikipedia or sister project,0,102,0.0,0,3.6294,distinct exact URL,successful complete HTML
+combined,Google AI Overviews,veterinary-practice-management,Wikipedia or sister project,0,112,0.0,0.0,3.3161,distinct exact URL,all eligible cited URLs
+combined,Google AI Overviews,veterinary-practice-management,Wikipedia or sister project,0,79,0.0,0,4.6371,distinct exact URL,successful complete HTML
+combined,Perplexity,all,Wikipedia or sister project,0,2502,0.0,0,0.1533,distinct exact URL,all eligible cited URLs
+combined,Perplexity,all,Wikipedia or sister project,0,1897,0.0,0,0.2021,distinct exact URL,successful complete HTML
+combined,Perplexity,construction-project-management,Wikipedia or sister project,0,235,0.0,0,1.6084,distinct exact URL,all eligible cited URLs
+combined,Perplexity,construction-project-management,Wikipedia or sister project,0,175,0.0,0,2.148,distinct exact URL,successful complete HTML
+combined,Perplexity,crm,Wikipedia or sister project,0,295,0.0,0.0,1.2855,distinct exact URL,all eligible cited URLs
+combined,Perplexity,crm,Wikipedia or sister project,0,249,0.0,0.0,1.5193,distinct exact URL,successful complete HTML
+combined,Perplexity,dealership-management-systems,Wikipedia or sister project,0,169,0.0,0,2.2225,distinct exact URL,all eligible cited URLs
+combined,Perplexity,dealership-management-systems,Wikipedia or sister project,0,119,0.0,0,3.1272,distinct exact URL,successful complete HTML
+combined,Perplexity,dental-practice-management,Wikipedia or sister project,0,142,0.0,0,2.634,distinct exact URL,all eligible cited URLs
+combined,Perplexity,dental-practice-management,Wikipedia or sister project,0,108,0.0,0,3.4347,distinct exact URL,successful complete HTML
+combined,Perplexity,field-service-management,Wikipedia or sister project,0,165,0.0,0,2.2752,distinct exact URL,all eligible cited URLs
+combined,Perplexity,field-service-management,Wikipedia or sister project,0,141,0.0,0,2.6522,distinct exact URL,successful complete HTML
+combined,Perplexity,hotel-property-management,Wikipedia or sister project,0,136,0.0,0,2.747,distinct exact URL,all eligible cited URLs
+combined,Perplexity,hotel-property-management,Wikipedia or sister project,0,96,0.0,0.0,3.8476,distinct exact URL,successful complete HTML
+combined,Perplexity,insurance-agency-management,Wikipedia or sister project,0,204,0.0,0,1.8483,distinct exact URL,all eligible cited URLs
+combined,Perplexity,insurance-agency-management,Wikipedia or sister project,0,135,0.0,0,2.7668,distinct exact URL,successful complete HTML
+combined,Perplexity,legal-practice-management,Wikipedia or sister project,0,163,0.0,0,2.3025,distinct exact URL,all eligible cited URLs
+combined,Perplexity,legal-practice-management,Wikipedia or sister project,0,114,0.0,0,3.2599,distinct exact URL,successful complete HTML
+combined,Perplexity,loan-origination-software,Wikipedia or sister project,0,211,0.0,0,1.788,distinct exact URL,all eligible cited URLs
+combined,Perplexity,loan-origination-software,Wikipedia or sister project,0,158,0.0,0,2.3736,distinct exact URL,successful complete HTML
+combined,Perplexity,project_management,Wikipedia or sister project,0,179,0.0,0,2.101,distinct exact URL,all eligible cited URLs
+combined,Perplexity,project_management,Wikipedia or sister project,0,152,0.0,0,2.465,distinct exact URL,successful complete HTML
+combined,Perplexity,radiology-medical-imaging,Wikipedia or sister project,0,122,0.0,0,3.0526,distinct exact URL,all eligible cited URLs
+combined,Perplexity,radiology-medical-imaging,Wikipedia or sister project,0,93,0.0,0,3.9668,distinct exact URL,successful complete HTML
+combined,Perplexity,residential-property-management,Wikipedia or sister project,0,174,0.0,0,2.16,distinct exact URL,all eligible cited URLs
+combined,Perplexity,residential-property-management,Wikipedia or sister project,0,143,0.0,0,2.6161,distinct exact URL,successful complete HTML
+combined,Perplexity,transportation-management-systems,Wikipedia or sister project,0,186,0.0,0,2.0235,distinct exact URL,all eligible cited URLs
+combined,Perplexity,transportation-management-systems,Wikipedia or sister project,0,138,0.0,0.0,2.7083,distinct exact URL,successful complete HTML
+combined,Perplexity,veterinary-practice-management,Wikipedia or sister project,0,128,0.0,0,2.9137,distinct exact URL,all eligible cited URLs
+combined,Perplexity,veterinary-practice-management,Wikipedia or sister project,0,83,0.0,0.0,4.4235,distinct exact URL,successful complete HTML
+combined,all,all,Wikipedia or sister project,2,6271,0.0319,0.0087,0.1162,distinct exact URL,all eligible cited URLs
+combined,all,all,Wikipedia or sister project,2,4750,0.0421,0.0115,0.1534,distinct exact URL,successful complete HTML
+combined,all,construction-project-management,Wikipedia or sister project,0,690,0.0,0,0.5537,distinct exact URL,all eligible cited URLs
+combined,all,construction-project-management,Wikipedia or sister project,0,507,0.0,0,0.752,distinct exact URL,successful complete HTML
+combined,all,crm,Wikipedia or sister project,0,718,0.0,0,0.5322,distinct exact URL,all eligible cited URLs
+combined,all,crm,Wikipedia or sister project,0,619,0.0,0,0.6168,distinct exact URL,successful complete HTML
+combined,all,dealership-management-systems,Wikipedia or sister project,1,387,0.2584,0.0456,1.449,distinct exact URL,all eligible cited URLs
+combined,all,dealership-management-systems,Wikipedia or sister project,1,274,0.365,0.0645,2.038,distinct exact URL,successful complete HTML
+combined,all,dental-practice-management,Wikipedia or sister project,0,325,0.0,0,1.1682,distinct exact URL,all eligible cited URLs
+combined,all,dental-practice-management,Wikipedia or sister project,0,249,0.0,0.0,1.5193,distinct exact URL,successful complete HTML
+combined,all,field-service-management,Wikipedia or sister project,0,423,0.0,0,0.9,distinct exact URL,all eligible cited URLs
+combined,all,field-service-management,Wikipedia or sister project,0,356,0.0,0,1.0675,distinct exact URL,successful complete HTML
+combined,all,hotel-property-management,Wikipedia or sister project,0,349,0.0,0,1.0887,distinct exact URL,all eligible cited URLs
+combined,all,hotel-property-management,Wikipedia or sister project,0,240,0.0,0,1.5754,distinct exact URL,successful complete HTML
+combined,all,insurance-agency-management,Wikipedia or sister project,0,440,0.0,0,0.8655,distinct exact URL,all eligible cited URLs
+combined,all,insurance-agency-management,Wikipedia or sister project,0,296,0.0,0,1.2812,distinct exact URL,successful complete HTML
+combined,all,legal-practice-management,Wikipedia or sister project,1,410,0.2439,0.0431,1.3685,distinct exact URL,all eligible cited URLs
+combined,all,legal-practice-management,Wikipedia or sister project,1,286,0.3497,0.0617,1.9536,distinct exact URL,successful complete HTML
+combined,all,loan-origination-software,Wikipedia or sister project,0,425,0.0,0,0.8958,distinct exact URL,all eligible cited URLs
+combined,all,loan-origination-software,Wikipedia or sister project,0,312,0.0,0,1.2163,distinct exact URL,successful complete HTML
+combined,all,project_management,Wikipedia or sister project,0,458,0.0,0,0.8318,distinct exact URL,all eligible cited URLs
+combined,all,project_management,Wikipedia or sister project,0,374,0.0,0,1.0167,distinct exact URL,successful complete HTML
+combined,all,radiology-medical-imaging,Wikipedia or sister project,0,430,0.0,0,0.8855,distinct exact URL,all eligible cited URLs
+combined,all,radiology-medical-imaging,Wikipedia or sister project,0,338,0.0,0,1.1238,distinct exact URL,successful complete HTML
+combined,all,residential-property-management,Wikipedia or sister project,0,427,0.0,0,0.8916,distinct exact URL,all eligible cited URLs
+combined,all,residential-property-management,Wikipedia or sister project,0,341,0.0,0,1.114,distinct exact URL,successful complete HTML
+combined,all,transportation-management-systems,Wikipedia or sister project,0,462,0.0,0,0.8246,distinct exact URL,all eligible cited URLs
+combined,all,transportation-management-systems,Wikipedia or sister project,0,344,0.0,0,1.1044,distinct exact URL,successful complete HTML
+combined,all,veterinary-practice-management,Wikipedia or sister project,0,341,0.0,0,1.114,distinct exact URL,all eligible cited URLs
+combined,all,veterinary-practice-management,Wikipedia or sister project,0,225,0.0,0.0,1.6787,distinct exact URL,successful complete HTML
+control,ChatGPT,all,Wikipedia or sister project,0,96,0.0,0.0,3.8476,distinct exact URL,all eligible cited URLs
+control,ChatGPT,all,Wikipedia or sister project,0,79,0.0,0,4.6371,distinct exact URL,successful complete HTML
+control,ChatGPT,construction-project-management,Wikipedia or sister project,0,53,0.0,0,6.7582,distinct exact URL,all eligible cited URLs
+control,ChatGPT,construction-project-management,Wikipedia or sister project,0,42,0.0,0,8.3799,distinct exact URL,successful complete HTML
+control,ChatGPT,crm,Wikipedia or sister project,0,43,0.0,0,8.201,distinct exact URL,all eligible cited URLs
+control,ChatGPT,crm,Wikipedia or sister project,0,37,0.0,0,9.4058,distinct exact URL,successful complete HTML
+control,Claude,all,Wikipedia or sister project,0,146,0.0,0,2.5637,distinct exact URL,all eligible cited URLs
+control,Claude,all,Wikipedia or sister project,0,120,0.0,0,3.1019,distinct exact URL,successful complete HTML
+control,Claude,construction-project-management,Wikipedia or sister project,0,90,0.0,0,4.0936,distinct exact URL,all eligible cited URLs
+control,Claude,construction-project-management,Wikipedia or sister project,0,69,0.0,0.0,5.2737,distinct exact URL,successful complete HTML
+control,Claude,crm,Wikipedia or sister project,0,56,0.0,0.0,6.4194,distinct exact URL,all eligible cited URLs
+control,Claude,crm,Wikipedia or sister project,0,51,0.0,0,7.0047,distinct exact URL,successful complete HTML
+control,Google AI Mode,all,Wikipedia or sister project,0,54,0.0,0,6.6414,distinct exact URL,all eligible cited URLs
+control,Google AI Mode,all,Wikipedia or sister project,0,40,0.0,0,8.7622,distinct exact URL,successful complete HTML
+control,Google AI Mode,construction-project-management,Wikipedia or sister project,0,40,0.0,0,8.7622,distinct exact URL,all eligible cited URLs
+control,Google AI Mode,construction-project-management,Wikipedia or sister project,0,28,0.0,0.0,12.0643,distinct exact URL,successful complete HTML
+control,Google AI Mode,crm,Wikipedia or sister project,0,14,0.0,0.0,21.5311,distinct exact URL,all eligible cited URLs
+control,Google AI Mode,crm,Wikipedia or sister project,0,12,0.0,0.0,24.2494,distinct exact URL,successful complete HTML
+control,Google AI Overviews,all,Wikipedia or sister project,0,128,0.0,0,2.9137,distinct exact URL,all eligible cited URLs
+control,Google AI Overviews,all,Wikipedia or sister project,0,102,0.0,0,3.6294,distinct exact URL,successful complete HTML
+control,Google AI Overviews,construction-project-management,Wikipedia or sister project,0,78,0.0,0,4.6938,distinct exact URL,all eligible cited URLs
+control,Google AI Overviews,construction-project-management,Wikipedia or sister project,0,59,0.0,0,6.1129,distinct exact URL,successful complete HTML
+control,Google AI Overviews,crm,Wikipedia or sister project,0,50,0.0,0.0,7.1348,distinct exact URL,all eligible cited URLs
+control,Google AI Overviews,crm,Wikipedia or sister project,0,43,0.0,0,8.201,distinct exact URL,successful complete HTML
+control,Perplexity,all,Wikipedia or sister project,0,187,0.0,0,2.0129,distinct exact URL,all eligible cited URLs
+control,Perplexity,all,Wikipedia or sister project,0,152,0.0,0,2.465,distinct exact URL,successful complete HTML
+control,Perplexity,construction-project-management,Wikipedia or sister project,0,91,0.0,0,4.0504,distinct exact URL,all eligible cited URLs
+control,Perplexity,construction-project-management,Wikipedia or sister project,0,72,0.0,0,5.0651,distinct exact URL,successful complete HTML
+control,Perplexity,crm,Wikipedia or sister project,0,96,0.0,0.0,3.8476,distinct exact URL,all eligible cited URLs
+control,Perplexity,crm,Wikipedia or sister project,0,80,0.0,0,4.5818,distinct exact URL,successful complete HTML
+control,all,all,Wikipedia or sister project,0,502,0.0,0.0,0.7594,distinct exact URL,all eligible cited URLs
+control,all,all,Wikipedia or sister project,0,409,0.0,0,0.9305,distinct exact URL,successful complete HTML
+control,all,construction-project-management,Wikipedia or sister project,0,282,0.0,0,1.3439,distinct exact URL,all eligible cited URLs
+control,all,construction-project-management,Wikipedia or sister project,0,220,0.0,0,1.7162,distinct exact URL,successful complete HTML
+control,all,crm,Wikipedia or sister project,0,220,0.0,0,1.7162,distinct exact URL,all eligible cited URLs
+control,all,crm,Wikipedia or sister project,0,189,0.0,0,1.992,distinct exact URL,successful complete HTML
+target,ChatGPT,all,Wikipedia or sister project,1,1015,0.0985,0.0174,0.5559,distinct exact URL,all eligible cited URLs
+target,ChatGPT,all,Wikipedia or sister project,1,825,0.1212,0.0214,0.6834,distinct exact URL,successful complete HTML
+target,ChatGPT,construction-project-management,Wikipedia or sister project,0,86,0.0,0,4.2758,distinct exact URL,all eligible cited URLs
+target,ChatGPT,construction-project-management,Wikipedia or sister project,0,64,0.0,0,5.6624,distinct exact URL,successful complete HTML
+target,ChatGPT,crm,Wikipedia or sister project,0,87,0.0,0,4.2288,distinct exact URL,all eligible cited URLs
+target,ChatGPT,crm,Wikipedia or sister project,0,83,0.0,0.0,4.4235,distinct exact URL,successful complete HTML
+target,ChatGPT,dealership-management-systems,Wikipedia or sister project,0,52,0.0,0,6.8792,distinct exact URL,all eligible cited URLs
+target,ChatGPT,dealership-management-systems,Wikipedia or sister project,0,41,0.0,0,8.5668,distinct exact URL,successful complete HTML
+target,ChatGPT,dental-practice-management,Wikipedia or sister project,0,64,0.0,0,5.6624,distinct exact URL,all eligible cited URLs
+target,ChatGPT,dental-practice-management,Wikipedia or sister project,0,50,0.0,0.0,7.1348,distinct exact URL,successful complete HTML
+target,ChatGPT,field-service-management,Wikipedia or sister project,0,73,0.0,0,4.9992,distinct exact URL,all eligible cited URLs
+target,ChatGPT,field-service-management,Wikipedia or sister project,0,63,0.0,0,5.7471,distinct exact URL,successful complete HTML
+target,ChatGPT,hotel-property-management,Wikipedia or sister project,0,67,0.0,0,5.4226,distinct exact URL,all eligible cited URLs
+target,ChatGPT,hotel-property-management,Wikipedia or sister project,0,54,0.0,0,6.6414,distinct exact URL,successful complete HTML
+target,ChatGPT,insurance-agency-management,Wikipedia or sister project,0,86,0.0,0,4.2758,distinct exact URL,all eligible cited URLs
+target,ChatGPT,insurance-agency-management,Wikipedia or sister project,0,72,0.0,0,5.0651,distinct exact URL,successful complete HTML
+target,ChatGPT,legal-practice-management,Wikipedia or sister project,1,56,1.7857,0.3159,9.4456,distinct exact URL,all eligible cited URLs
+target,ChatGPT,legal-practice-management,Wikipedia or sister project,1,35,2.8571,0.5061,14.5331,distinct exact URL,successful complete HTML
+target,ChatGPT,loan-origination-software,Wikipedia or sister project,0,77,0.0,0,4.7518,distinct exact URL,all eligible cited URLs
+target,ChatGPT,loan-origination-software,Wikipedia or sister project,0,55,0.0,0,6.5285,distinct exact URL,successful complete HTML
+target,ChatGPT,project_management,Wikipedia or sister project,0,95,0.0,0,3.8865,distinct exact URL,all eligible cited URLs
+target,ChatGPT,project_management,Wikipedia or sister project,0,80,0.0,0,4.5818,distinct exact URL,successful complete HTML
+target,ChatGPT,radiology-medical-imaging,Wikipedia or sister project,0,87,0.0,0,4.2288,distinct exact URL,all eligible cited URLs
+target,ChatGPT,radiology-medical-imaging,Wikipedia or sister project,0,69,0.0,0.0,5.2737,distinct exact URL,successful complete HTML
+target,ChatGPT,residential-property-management,Wikipedia or sister project,0,50,0.0,0.0,7.1348,distinct exact URL,all eligible cited URLs
+target,ChatGPT,residential-property-management,Wikipedia or sister project,0,47,0.0,0,7.5558,distinct exact URL,successful complete HTML
+target,ChatGPT,transportation-management-systems,Wikipedia or sister project,0,74,0.0,0,4.935,distinct exact URL,all eligible cited URLs
+target,ChatGPT,transportation-management-systems,Wikipedia or sister project,0,55,0.0,0,6.5285,distinct exact URL,successful complete HTML
+target,ChatGPT,veterinary-practice-management,Wikipedia or sister project,0,63,0.0,0,5.7471,distinct exact URL,all eligible cited URLs
+target,ChatGPT,veterinary-practice-management,Wikipedia or sister project,0,57,0.0,0,6.3139,distinct exact URL,successful complete HTML
+target,Claude,all,Wikipedia or sister project,1,1609,0.0622,0.011,0.3512,distinct exact URL,all eligible cited URLs
+target,Claude,all,Wikipedia or sister project,1,1228,0.0814,0.0144,0.4598,distinct exact URL,successful complete HTML
+target,Claude,construction-project-management,Wikipedia or sister project,0,149,0.0,0.0,2.5134,distinct exact URL,all eligible cited URLs
+target,Claude,construction-project-management,Wikipedia or sister project,0,119,0.0,0,3.1272,distinct exact URL,successful complete HTML
+target,Claude,crm,Wikipedia or sister project,0,110,0.0,0,3.3744,distinct exact URL,all eligible cited URLs
+target,Claude,crm,Wikipedia or sister project,0,102,0.0,0,3.6294,distinct exact URL,successful complete HTML
+target,Claude,dealership-management-systems,Wikipedia or sister project,1,116,0.8621,0.1523,4.722,distinct exact URL,all eligible cited URLs
+target,Claude,dealership-management-systems,Wikipedia or sister project,1,86,1.1628,0.2056,6.2964,distinct exact URL,successful complete HTML
+target,Claude,dental-practice-management,Wikipedia or sister project,0,91,0.0,0,4.0504,distinct exact URL,all eligible cited URLs
+target,Claude,dental-practice-management,Wikipedia or sister project,0,74,0.0,0,4.935,distinct exact URL,successful complete HTML
+target,Claude,field-service-management,Wikipedia or sister project,0,118,0.0,0,3.1528,distinct exact URL,all eligible cited URLs
+target,Claude,field-service-management,Wikipedia or sister project,0,101,0.0,0,3.6641,distinct exact URL,successful complete HTML
+target,Claude,hotel-property-management,Wikipedia or sister project,0,108,0.0,0,3.4347,distinct exact URL,all eligible cited URLs
+target,Claude,hotel-property-management,Wikipedia or sister project,0,69,0.0,0.0,5.2737,distinct exact URL,successful complete HTML
+target,Claude,insurance-agency-management,Wikipedia or sister project,0,114,0.0,0,3.2599,distinct exact URL,all eligible cited URLs
+target,Claude,insurance-agency-management,Wikipedia or sister project,0,70,0.0,0,5.2023,distinct exact URL,successful complete HTML
+target,Claude,legal-practice-management,Wikipedia or sister project,0,114,0.0,0,3.2599,distinct exact URL,all eligible cited URLs
+target,Claude,legal-practice-management,Wikipedia or sister project,0,90,0.0,0,4.0936,distinct exact URL,successful complete HTML
+target,Claude,loan-origination-software,Wikipedia or sister project,0,96,0.0,0.0,3.8476,distinct exact URL,all eligible cited URLs
+target,Claude,loan-origination-software,Wikipedia or sister project,0,63,0.0,0,5.7471,distinct exact URL,successful complete HTML
+target,Claude,project_management,Wikipedia or sister project,0,101,0.0,0,3.6641,distinct exact URL,all eligible cited URLs
+target,Claude,project_management,Wikipedia or sister project,0,84,0.0,0,4.3732,distinct exact URL,successful complete HTML
+target,Claude,radiology-medical-imaging,Wikipedia or sister project,0,122,0.0,0,3.0526,distinct exact URL,all eligible cited URLs
+target,Claude,radiology-medical-imaging,Wikipedia or sister project,0,98,0.0,0.0,3.772,distinct exact URL,successful complete HTML
+target,Claude,residential-property-management,Wikipedia or sister project,0,149,0.0,0.0,2.5134,distinct exact URL,all eligible cited URLs
+target,Claude,residential-property-management,Wikipedia or sister project,0,118,0.0,0,3.1528,distinct exact URL,successful complete HTML
+target,Claude,transportation-management-systems,Wikipedia or sister project,0,114,0.0,0,3.2599,distinct exact URL,all eligible cited URLs
+target,Claude,transportation-management-systems,Wikipedia or sister project,0,91,0.0,0,4.0504,distinct exact URL,successful complete HTML
+target,Claude,veterinary-practice-management,Wikipedia or sister project,0,108,0.0,0,3.4347,distinct exact URL,all eligible cited URLs
+target,Claude,veterinary-practice-management,Wikipedia or sister project,0,64,0.0,0,5.6624,distinct exact URL,successful complete HTML
+target,Google AI Mode,all,Wikipedia or sister project,0,936,0.0,0,0.4087,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,all,Wikipedia or sister project,0,663,0.0,0.0,0.5761,distinct exact URL,successful complete HTML
+target,Google AI Mode,construction-project-management,Wikipedia or sister project,0,88,0.0,0,4.1827,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,construction-project-management,Wikipedia or sister project,0,58,0.0,0,6.2118,distinct exact URL,successful complete HTML
+target,Google AI Mode,crm,Wikipedia or sister project,0,71,0.0,0,5.1328,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,crm,Wikipedia or sister project,0,54,0.0,0,6.6414,distinct exact URL,successful complete HTML
+target,Google AI Mode,dealership-management-systems,Wikipedia or sister project,0,53,0.0,0,6.7582,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,dealership-management-systems,Wikipedia or sister project,0,32,0.0,0,10.7179,distinct exact URL,successful complete HTML
+target,Google AI Mode,dental-practice-management,Wikipedia or sister project,0,55,0.0,0,6.5285,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,dental-practice-management,Wikipedia or sister project,0,45,0.0,0,7.8652,distinct exact URL,successful complete HTML
+target,Google AI Mode,field-service-management,Wikipedia or sister project,0,64,0.0,0,5.6624,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,field-service-management,Wikipedia or sister project,0,54,0.0,0,6.6414,distinct exact URL,successful complete HTML
+target,Google AI Mode,hotel-property-management,Wikipedia or sister project,0,66,0.0,0,5.5003,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,hotel-property-management,Wikipedia or sister project,0,37,0.0,0,9.4058,distinct exact URL,successful complete HTML
+target,Google AI Mode,insurance-agency-management,Wikipedia or sister project,0,69,0.0,0.0,5.2737,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,insurance-agency-management,Wikipedia or sister project,0,46,0.0,0,7.7074,distinct exact URL,successful complete HTML
+target,Google AI Mode,legal-practice-management,Wikipedia or sister project,0,76,0.0,0,4.8114,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,legal-practice-management,Wikipedia or sister project,0,43,0.0,0,8.201,distinct exact URL,successful complete HTML
+target,Google AI Mode,loan-origination-software,Wikipedia or sister project,0,56,0.0,0.0,6.4194,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,loan-origination-software,Wikipedia or sister project,0,44,0.0,0,8.0296,distinct exact URL,successful complete HTML
+target,Google AI Mode,project_management,Wikipedia or sister project,0,49,0.0,0.0,7.2698,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,project_management,Wikipedia or sister project,0,36,0.0,0,9.6419,distinct exact URL,successful complete HTML
+target,Google AI Mode,radiology-medical-imaging,Wikipedia or sister project,0,86,0.0,0,4.2758,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,radiology-medical-imaging,Wikipedia or sister project,0,70,0.0,0,5.2023,distinct exact URL,successful complete HTML
+target,Google AI Mode,residential-property-management,Wikipedia or sister project,0,74,0.0,0,4.935,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,residential-property-management,Wikipedia or sister project,0,59,0.0,0,6.1129,distinct exact URL,successful complete HTML
+target,Google AI Mode,transportation-management-systems,Wikipedia or sister project,0,74,0.0,0,4.935,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,transportation-management-systems,Wikipedia or sister project,0,53,0.0,0,6.7582,distinct exact URL,successful complete HTML
+target,Google AI Mode,veterinary-practice-management,Wikipedia or sister project,0,57,0.0,0,6.3139,distinct exact URL,all eligible cited URLs
+target,Google AI Mode,veterinary-practice-management,Wikipedia or sister project,0,34,0.0,0,10.1515,distinct exact URL,successful complete HTML
+target,Google AI Overviews,all,Wikipedia or sister project,0,1579,0.0,0,0.2427,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,all,Wikipedia or sister project,0,1168,0.0,0,0.3278,distinct exact URL,successful complete HTML
+target,Google AI Overviews,construction-project-management,Wikipedia or sister project,0,112,0.0,0.0,3.3161,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,construction-project-management,Wikipedia or sister project,0,76,0.0,0,4.8114,distinct exact URL,successful complete HTML
+target,Google AI Overviews,crm,Wikipedia or sister project,0,125,0.0,0.0,2.9815,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,crm,Wikipedia or sister project,0,109,0.0,0,3.4043,distinct exact URL,successful complete HTML
+target,Google AI Overviews,dealership-management-systems,Wikipedia or sister project,0,130,0.0,0,2.8702,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,dealership-management-systems,Wikipedia or sister project,0,89,0.0,0,4.1377,distinct exact URL,successful complete HTML
+target,Google AI Overviews,dental-practice-management,Wikipedia or sister project,0,86,0.0,0,4.2758,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,dental-practice-management,Wikipedia or sister project,0,67,0.0,0,5.4226,distinct exact URL,successful complete HTML
+target,Google AI Overviews,field-service-management,Wikipedia or sister project,0,94,0.0,0,3.9262,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,field-service-management,Wikipedia or sister project,0,74,0.0,0,4.935,distinct exact URL,successful complete HTML
+target,Google AI Overviews,hotel-property-management,Wikipedia or sister project,0,82,0.0,0,4.4751,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,hotel-property-management,Wikipedia or sister project,0,56,0.0,0.0,6.4194,distinct exact URL,successful complete HTML
+target,Google AI Overviews,insurance-agency-management,Wikipedia or sister project,0,118,0.0,0,3.1528,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,insurance-agency-management,Wikipedia or sister project,0,77,0.0,0,4.7518,distinct exact URL,successful complete HTML
+target,Google AI Overviews,legal-practice-management,Wikipedia or sister project,0,132,0.0,0,2.8279,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,legal-practice-management,Wikipedia or sister project,0,93,0.0,0,3.9668,distinct exact URL,successful complete HTML
+target,Google AI Overviews,loan-origination-software,Wikipedia or sister project,0,110,0.0,0,3.3744,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,loan-origination-software,Wikipedia or sister project,0,84,0.0,0,4.3732,distinct exact URL,successful complete HTML
+target,Google AI Overviews,project_management,Wikipedia or sister project,0,114,0.0,0,3.2599,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,project_management,Wikipedia or sister project,0,85,0.0,0,4.3239,distinct exact URL,successful complete HTML
+target,Google AI Overviews,radiology-medical-imaging,Wikipedia or sister project,0,122,0.0,0,3.0526,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,radiology-medical-imaging,Wikipedia or sister project,0,98,0.0,0.0,3.772,distinct exact URL,successful complete HTML
+target,Google AI Overviews,residential-property-management,Wikipedia or sister project,0,111,0.0,0.0,3.345,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,residential-property-management,Wikipedia or sister project,0,80,0.0,0,4.5818,distinct exact URL,successful complete HTML
+target,Google AI Overviews,transportation-management-systems,Wikipedia or sister project,0,133,0.0,0,2.8072,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,transportation-management-systems,Wikipedia or sister project,0,102,0.0,0,3.6294,distinct exact URL,successful complete HTML
+target,Google AI Overviews,veterinary-practice-management,Wikipedia or sister project,0,112,0.0,0.0,3.3161,distinct exact URL,all eligible cited URLs
+target,Google AI Overviews,veterinary-practice-management,Wikipedia or sister project,0,79,0.0,0,4.6371,distinct exact URL,successful complete HTML
+target,Perplexity,all,Wikipedia or sister project,0,2339,0.0,0,0.164,distinct exact URL,all eligible cited URLs
+target,Perplexity,all,Wikipedia or sister project,0,1766,0.0,0,0.2171,distinct exact URL,successful complete HTML
+target,Perplexity,construction-project-management,Wikipedia or sister project,0,167,0.0,0,2.2486,distinct exact URL,all eligible cited URLs
+target,Perplexity,construction-project-management,Wikipedia or sister project,0,123,0.0,0,3.0286,distinct exact URL,successful complete HTML
+target,Perplexity,crm,Wikipedia or sister project,0,200,0.0,0.0,1.8845,distinct exact URL,all eligible cited URLs
+target,Perplexity,crm,Wikipedia or sister project,0,170,0.0,0,2.2097,distinct exact URL,successful complete HTML
+target,Perplexity,dealership-management-systems,Wikipedia or sister project,0,169,0.0,0,2.2225,distinct exact URL,all eligible cited URLs
+target,Perplexity,dealership-management-systems,Wikipedia or sister project,0,119,0.0,0,3.1272,distinct exact URL,successful complete HTML
+target,Perplexity,dental-practice-management,Wikipedia or sister project,0,142,0.0,0,2.634,distinct exact URL,all eligible cited URLs
+target,Perplexity,dental-practice-management,Wikipedia or sister project,0,108,0.0,0,3.4347,distinct exact URL,successful complete HTML
+target,Perplexity,field-service-management,Wikipedia or sister project,0,165,0.0,0,2.2752,distinct exact URL,all eligible cited URLs
+target,Perplexity,field-service-management,Wikipedia or sister project,0,141,0.0,0,2.6522,distinct exact URL,successful complete HTML
+target,Perplexity,hotel-property-management,Wikipedia or sister project,0,136,0.0,0,2.747,distinct exact URL,all eligible cited URLs
+target,Perplexity,hotel-property-management,Wikipedia or sister project,0,96,0.0,0.0,3.8476,distinct exact URL,successful complete HTML
+target,Perplexity,insurance-agency-management,Wikipedia or sister project,0,204,0.0,0,1.8483,distinct exact URL,all eligible cited URLs
+target,Perplexity,insurance-agency-management,Wikipedia or sister project,0,135,0.0,0,2.7668,distinct exact URL,successful complete HTML
+target,Perplexity,legal-practice-management,Wikipedia or sister project,0,163,0.0,0,2.3025,distinct exact URL,all eligible cited URLs
+target,Perplexity,legal-practice-management,Wikipedia or sister project,0,114,0.0,0,3.2599,distinct exact URL,successful complete HTML
+target,Perplexity,loan-origination-software,Wikipedia or sister project,0,211,0.0,0,1.788,distinct exact URL,all eligible cited URLs
+target,Perplexity,loan-origination-software,Wikipedia or sister project,0,158,0.0,0,2.3736,distinct exact URL,successful complete HTML
+target,Perplexity,project_management,Wikipedia or sister project,0,179,0.0,0,2.101,distinct exact URL,all eligible cited URLs
+target,Perplexity,project_management,Wikipedia or sister project,0,152,0.0,0,2.465,distinct exact URL,successful complete HTML
+target,Perplexity,radiology-medical-imaging,Wikipedia or sister project,0,122,0.0,0,3.0526,distinct exact URL,all eligible cited URLs
+target,Perplexity,radiology-medical-imaging,Wikipedia or sister project,0,93,0.0,0,3.9668,distinct exact URL,successful complete HTML
+target,Perplexity,residential-property-management,Wikipedia or sister project,0,174,0.0,0,2.16,distinct exact URL,all eligible cited URLs
+target,Perplexity,residential-property-management,Wikipedia or sister project,0,143,0.0,0,2.6161,distinct exact URL,successful complete HTML
+target,Perplexity,transportation-management-systems,Wikipedia or sister project,0,186,0.0,0,2.0235,distinct exact URL,all eligible cited URLs
+target,Perplexity,transportation-management-systems,Wikipedia or sister project,0,138,0.0,0.0,2.7083,distinct exact URL,successful complete HTML
+target,Perplexity,veterinary-practice-management,Wikipedia or sister project,0,128,0.0,0,2.9137,distinct exact URL,all eligible cited URLs
+target,Perplexity,veterinary-practice-management,Wikipedia or sister project,0,83,0.0,0.0,4.4235,distinct exact URL,successful complete HTML
+target,all,all,Wikipedia or sister project,2,5861,0.0341,0.0094,0.1243,distinct exact URL,all eligible cited URLs
+target,all,all,Wikipedia or sister project,2,4420,0.0452,0.0124,0.1648,distinct exact URL,successful complete HTML
+target,all,construction-project-management,Wikipedia or sister project,0,487,0.0,0,0.7826,distinct exact URL,all eligible cited URLs
+target,all,construction-project-management,Wikipedia or sister project,0,355,0.0,0,1.0705,distinct exact URL,successful complete HTML
+target,all,crm,Wikipedia or sister project,0,511,0.0,0,0.7461,distinct exact URL,all eligible cited URLs
+target,all,crm,Wikipedia or sister project,0,441,0.0,0,0.8636,distinct exact URL,successful complete HTML
+target,all,dealership-management-systems,Wikipedia or sister project,1,387,0.2584,0.0456,1.449,distinct exact URL,all eligible cited URLs
+target,all,dealership-management-systems,Wikipedia or sister project,1,274,0.365,0.0645,2.038,distinct exact URL,successful complete HTML
+target,all,dental-practice-management,Wikipedia or sister project,0,325,0.0,0,1.1682,distinct exact URL,all eligible cited URLs
+target,all,dental-practice-management,Wikipedia or sister project,0,249,0.0,0.0,1.5193,distinct exact URL,successful complete HTML
+target,all,field-service-management,Wikipedia or sister project,0,423,0.0,0,0.9,distinct exact URL,all eligible cited URLs
+target,all,field-service-management,Wikipedia or sister project,0,356,0.0,0,1.0675,distinct exact URL,successful complete HTML
+target,all,hotel-property-management,Wikipedia or sister project,0,349,0.0,0,1.0887,distinct exact URL,all eligible cited URLs
+target,all,hotel-property-management,Wikipedia or sister project,0,240,0.0,0,1.5754,distinct exact URL,successful complete HTML
+target,all,insurance-agency-management,Wikipedia or sister project,0,440,0.0,0,0.8655,distinct exact URL,all eligible cited URLs
+target,all,insurance-agency-management,Wikipedia or sister project,0,296,0.0,0,1.2812,distinct exact URL,successful complete HTML
+target,all,legal-practice-management,Wikipedia or sister project,1,410,0.2439,0.0431,1.3685,distinct exact URL,all eligible cited URLs
+target,all,legal-practice-management,Wikipedia or sister project,1,286,0.3497,0.0617,1.9536,distinct exact URL,successful complete HTML
+target,all,loan-origination-software,Wikipedia or sister project,0,425,0.0,0,0.8958,distinct exact URL,all eligible cited URLs
+target,all,loan-origination-software,Wikipedia or sister project,0,312,0.0,0,1.2163,distinct exact URL,successful complete HTML
+target,all,project_management,Wikipedia or sister project,0,458,0.0,0,0.8318,distinct exact URL,all eligible cited URLs
+target,all,project_management,Wikipedia or sister project,0,374,0.0,0,1.0167,distinct exact URL,successful complete HTML
+target,all,radiology-medical-imaging,Wikipedia or sister project,0,430,0.0,0,0.8855,distinct exact URL,all eligible cited URLs
+target,all,radiology-medical-imaging,Wikipedia or sister project,0,338,0.0,0,1.1238,distinct exact URL,successful complete HTML
+target,all,residential-property-management,Wikipedia or sister project,0,427,0.0,0,0.8916,distinct exact URL,all eligible cited URLs
+target,all,residential-property-management,Wikipedia or sister project,0,341,0.0,0,1.114,distinct exact URL,successful complete HTML
+target,all,transportation-management-systems,Wikipedia or sister project,0,462,0.0,0,0.8246,distinct exact URL,all eligible cited URLs
+target,all,transportation-management-systems,Wikipedia or sister project,0,344,0.0,0,1.1044,distinct exact URL,successful complete HTML
+target,all,veterinary-practice-management,Wikipedia or sister project,0,341,0.0,0,1.114,distinct exact URL,all eligible cited URLs
+target,all,veterinary-practice-management,Wikipedia or sister project,0,225,0.0,0.0,1.6787,distinct exact URL,successful complete HTML

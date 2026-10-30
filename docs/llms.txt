@@ -547,3 +547,14 @@ State of GEO Volume III, DOI 10.5281/zenodo.21789120: https://doi.org/10.5281/ze
 - [How do Profound and seoClarity compare?](https://docs.broadcastwell.com/answers/geo-basics/how-do-profound-and-seoclarity-compare/): Compare Profound’s reported fact-checking workflow with seoClarity’s accuracy and change-record functions. Our records do not rank either supplier.
 - [Is CRM software with ChatGPT free?](https://docs.broadcastwell.com/answers/industries/crm-software-chatgpt-free/): A free CRM and a free ChatGPT connection are separate entitlements. Compare HubSpot’s published CRM terms with the app’s account requirements.
 - [How can I track brand visibility in Claude?](https://docs.broadcastwell.com/answers/measurement/how-can-i-track-brand-visibility-in-claude/): Track Claude with fixed questions, saved answers and a stated name rule. Web-search citations and brand mentions remain different units.
+
+## Search research and evidence
+
+- [Research hub](https://docs.broadcastwell.com/research/): Source reviews, bounded findings, definitions and registered studies on search and AI answers.
+- [Insights](https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/): Ten measured questions with source identities, dates, denominators and interpretation limits.
+- [Source reviews](https://docs.broadcastwell.com/research/sources/reading-list/): Annotated reading routes and article-level methods, findings and reproducibility discrepancies.
+- [Evidence ledgers](https://docs.broadcastwell.com/research/evidence/quotable-numbers/): Quotable findings, graded sources, unsupported claims and checks for statistical errors.
+- [Practical guides](https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/): Publishing, structured data, access, research discovery and source verification.
+- [Definitions](https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/): Attributed terminology with explicit measurement boundaries.
+- [Registered studies](https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/): Page-signal and citation analyses, a prospective persistence protocol, scalar data and reproduction files.
+- [Evidence standard](https://docs.broadcastwell.com/research/standard/): How this section preserves sources, dates, uncertainty and limits.
