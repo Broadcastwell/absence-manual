@@ -5,7 +5,7 @@ description: Counts, citations, repeat runs and the evidence needed to compare r
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-30T05:08:26+00:00'
+date_modified: '2026-10-30T11:00:14+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 6
@@ -15,7 +15,7 @@ library_order: 6
 
 Counts, citations, repeat runs and the evidence needed to compare reports.
 
-These 32 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 40 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Questions
 
@@ -200,6 +200,54 @@ Keep the disputed claim, cited domain and dated company reference together befor
 [How can I track brand visibility in Claude?](how-can-i-track-brand-visibility-in-claude.md)
 
 Track Claude with fixed questions, saved answers and a stated name rule. Web-search citations and brand mentions remain different units.
+
+## AIO website tracking
+
+[Which tools can track whether my website appears in Google AI Overviews?](which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md)
+
+seoClarity documents AIO reference checks and SERP Previews; our CRM panel recorded HubSpot's own site in 6/30 Overviews answers.
+
+## Lighthouse file retrieval and citation records
+
+[What does Lighthouse’s llms.txt audit check?](if-llms-txt-has-no-impact-on-ai-visibility-why-did-google-add-it-into.md)
+
+Lighthouse documents a file-retrieval audit. Our zero cited-file count measures a separate event, rather than a visibility effect.
+
+## Company-fact errors
+
+[Can AI answers get company facts wrong?](are-you-guys-starting-to-see-ai-backfiring-on-companies.md)
+
+Our dated Open Dental record labels 12/77 statements wrong or stale. Check the claim class, capture date and retained vendor reference.
+
+## Documented ChatGPT GEO cases
+
+[Who has documented results from GEO work in ChatGPT?](who-has-documented-results-from-geo-work-in-chatgpt.md)
+
+Suede publishes a dated Koomba ChatGPT case using a named-or-cited rate. Our Close 3/30 example distinguishes a naming-only observation.
+
+## Answer-audit scope
+
+[How does an AEO or GEO audit differ from an SEO audit?](how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit.md)
+
+An answer audit inspects retained claims as well as site eligibility. Our construction study found a pricing criterion in 5/149 included answers.
+
+## GEO effectiveness
+
+[Is GEO more effective than SEO?](is-geo-more-effective-than-seo.md)
+
+Our 1642 name appearances across 420 Perplexity answers measure visibility, not visits or sales. Define the result before comparing GEO with SEO.
+
+## Reddit citations
+
+[Do AI product answers cite Reddit?](do-ai-product-answers-cite-reddit.md)
+
+On 22 September 2026, Reddit appeared in 23/30 radiology Overview records and 0/30 ChatGPT records, counted once per answer.
+
+## Overview ads and organic clicks
+
+[How do ads in Google AI Overviews affect organic traffic?](how-do-ads-in-google-ai-overviews-affect-organic-traffic.md)
+
+Our 1352 name appearances across 415 Overviews are not click data. Google documents Sponsored placements and aggregate ad reporting, not organic lift.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

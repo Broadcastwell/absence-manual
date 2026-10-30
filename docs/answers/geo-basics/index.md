@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T06:52:42+00:00'
+date_modified: '2026-10-30T11:00:14+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 27 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 30 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -166,6 +166,24 @@ Compare Profound’s reported fact-checking workflow with seoClarity’s accurac
 [What does Peec measure?](peec-visibility-or-aeo-or-geo-or-search-or-citation-or-seo-or-generati.md)
 
 Peec describes visibility, position and sentiment. Our Close example separates named-answer counts, vendor citations and distinct buyer questions.
+
+## Suede and Athena citation tracking
+
+[How do Suede and AthenaHQ compare for tracking citations across models?](how-do-suede-and-athenahq-compare-for-tracking-citations-across-models.md)
+
+Suede describes captured-source drill-down; Athena-supported research defines root-domain citation share. Our HubSpot 1/30 example shows the unit.
+
+## Competitor prominence scores
+
+[What platform scores competitors on generative engine prominence?](what-platform-scores-competitors-on-generative-engine-prominence.md)
+
+Profound and Semrush document different prominence metrics. Our 2039 name appearances across 420 Claude answers show why the denominator matters.
+
+## BrightEdge alternatives
+
+[What are alternatives to BrightEdge for GEO?](what-are-alternatives-to-brightedge-for-geo.md)
+
+Profound, Semrush and seoClarity document GEO reporting functions. Compare their named units with our 1496 appearances across 420 ChatGPT answers.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
