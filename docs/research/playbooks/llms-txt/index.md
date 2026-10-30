@@ -27,7 +27,7 @@ The proposal itself has changed. Jeremy Howard’s current **v2**, modified **10
 
 ## Which kind of adoption can you verify?
 
-Separate publication, retrieval, documented use and measured effect. A live file proves that its publisher serves a file. An HTTP request shows that a requester asked for it. A documented audit shows that a particular product checks it. None of those observations alone shows a resulting citation gain.
+Separate publication, retrieval, documented use and measured effect. A live file establishes that the publisher is serving it, whereas an HTTP request shows a requester asking for the file. A documented audit shows that a particular product checks it. None of those observations alone shows a resulting citation gain.
 
 There is a concrete example of a reader: Chrome’s Lighthouse documentation describes its llms.txt audit. The audit flags a server error while retrieving the file; a missing file returning 404 is marked not applicable because the file is optional. This is evidence about that audit’s behaviour, not a Google Search ranking requirement. [Chrome for Developers, llms.txt audit, updated 5 May 2026](https://developer.chrome.com/docs/lighthouse/agentic-browsing/llms-txt).
 
@@ -37,7 +37,7 @@ The opened [FastHTML documentation file](https://www.fastht.ml/docs/llms.txt) is
 
 Under v2 a file can sit at the origin root or under a path. It covers URLs beneath that path, with a more specific applicable file taking precedence in the proposed convention. This makes a documentation section possible without requiring control over an entire shared hostname. [Howard, v2, proposal and format sections].
 
-Decide what belongs in the guide before adding links. For a software documentation section, that may be the overview, terminology, supported versions and the pages people need to complete a task. For a research collection, it may be the methods, datasets, releases and correction policy. A short description of purpose can prevent the link list from becoming a second, less reliable sitemap.
+Decide what belongs in the guide before adding links. For a software documentation section, that may be the overview, terminology, supported versions and the pages people need to complete a task. For a research collection, prefer the methods, datasets, releases and correction policy that let a reader check the work, rather than an inventory whose only virtue is completeness. A short description of purpose can prevent the link list from becoming a second, less reliable sitemap.
 
 Do not paste every page’s full text into the index because there is no immediate file-size error. The proposal’s intended reading path keeps the overview small and places detail behind links. A file that no one can review comfortably is also difficult to maintain responsibly.
 
@@ -88,6 +88,8 @@ For operational monitoring, report the observation you actually have: the reques
 
 Maintain llms.txt if it gives a useful, accurate route into your public material. Describe its intended use plainly. A current guide can be worthwhile without attaching an unsupported visibility promise to it.
 
+Jeremy Howard describes the file as “A proposal to standardise”. That word matters: the proposal and an individual operator’s documented treatment of it remain separate sources of evidence. [Howard, The /llms.txt file, v2, opening description, modified 10 August 2026; verified 30 October 2026].
+
 ## What our own data shows
 
 We have no measurement on this point: whether serving our llms.txt changes citation or naming. Broadcastwell serves a public llms.txt file, which was opened directly for this guide. We have no measurement showing that the file increased our citations, naming rate or buyer visits. Presence and effect remain separate questions.
@@ -120,7 +122,7 @@ Broadcastwell research team. (2026, October 30). *What is llms.txt, and what can
 
 Prepared by the Broadcastwell research team. Lead: Rohan Iyer, AI engineer.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

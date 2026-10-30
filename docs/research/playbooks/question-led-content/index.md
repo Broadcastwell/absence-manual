@@ -31,7 +31,7 @@ Not in the evidence used here. Backlinko’s opened study reports results from *
 
 BrightLocal’s **April 2018 online panel of 1,012 US consumers** reports that **58%** said they had used voice search for local-business information in the preceding year. That is historical, self-reported local-consumer behaviour. It is not an estimate of current B2B software buying or a frequency table for question words. The published percentage is rounded; we do not manufacture an exact numerator or interval from it. [Murphy, 2018, study method and first question].
 
-Neither observation justifies assigning a universal priority to “how,” “what” or “which” for a software vendor today. No verified frequency ordering of current voice-query opening words is asserted on this page. The useful lesson is to preserve the task and measured object rather than importing a convenient historical statistic.
+Neither observation justifies assigning a universal priority to “how,” “what” or “which” for a software vendor today. No verified frequency ordering of current voice-query opening words is asserted on this page. Preserve the original task and measured object when applying a historical statistic.
 
 ## What can our own question inventory show?
 
@@ -88,9 +88,11 @@ After publication, distinguish discovery, visits, answer citations and successfu
 
 Question-led content is a way to organize an answerable task. It is not a measured guarantee that a particular opening word, page length or conversational tone will cause an engine to quote the page.
 
+Brian Dean writes that “the average voice search answer is 29 words”. The measured object in that sentence is the answer, so it cannot establish a typical query length. [Dean, Voice search SEO study, “Voice Search Results Tend to Be Short and Concise”; verified 30 October 2026].
+
 ## What our own data shows
 
-The literal first token is “what” in **89/140 released target questions, 63.6% (Wilson 95% interval 55.3% to 71.1%)**. This describes the fixed question bank, not buyer search demand. The new inventory counts the first tokens of the released target-question texts. It is separate from the registered citation studies and reports no search-volume estimate. The source archive and the small public calculation make that narrow count reproducible.
+The literal first token is “what” in **89/140 released target questions, 63.6% (Wilson 95% interval 55.3% to 71.1%)**. This describes the fixed question bank, not buyer search demand. The new inventory counts the first tokens of the released target-question texts. It is separate from the registered citation studies and reports no search-volume estimate. The [September release, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695), and the public calculation make that narrow count reproducible.
 
 We have no experiment showing that changing a question’s first word increases citations, naming rate or sales. The library’s single-question format is an editorial choice whose usefulness should be evaluated against the reader’s task.
 
@@ -118,7 +120,7 @@ Broadcastwell research team. (2026, October 30). *How do you choose a buyer ques
 
 Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

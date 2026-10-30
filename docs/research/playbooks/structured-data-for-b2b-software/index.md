@@ -21,7 +21,7 @@ is_based_on: https://developers.google.com/search/updates
 
 **Google stopped showing FAQ rich results from 7 May 2026; FAQPage remains a Schema.org type (Google, 2026; Schema.org, 2026).**
 
-**7 May 2026** is the date Google gives for the end of FAQ rich-result display. Its later documentation update explains why the former FAQ feature page was removed. A Schema.org type can remain meaningful even after a search feature stops using it in that way. [Google Search Central, May 8 and June 15 changelog entries](https://developers.google.com/search/updates); [Schema.org, FAQPage](https://schema.org/FAQPage).
+Google gives **7 May 2026** for the end of FAQ rich-result display; its later documentation update explains why the former FAQ feature page was removed. A Schema.org type can remain meaningful even after a search feature stops using it in that way. [Google Search Central, May 8 and June 15 changelog entries](https://developers.google.com/search/updates); [Schema.org, FAQPage](https://schema.org/FAQPage).
 
 For a B2B software site, start with what the page actually describes. An organization, a software application, a product offer, a dataset and a navigation trail are different things. Marking all of them on every page makes the representation less useful. Choose the type and properties that match the visible material, then check the requirements of the service you hope will consume them.
 
@@ -36,7 +36,7 @@ For a B2B software site, start with what the page actually describes. An organiz
 | A published research dataset | Dataset, with DataDownload for its files | Name, description, creator, identifier, license, access and distribution details. |
 | The route through a site | BreadcrumbList | A real, ordered navigation trail with resolvable destinations. |
 
-The table is a planning aid. It does not say that every listed type qualifies for a Google feature. The broad Schema.org vocabulary and Google’s supported feature requirements are separate references.
+The table is a planning aid. That vocabulary does not confer Google eligibility. The broad Schema.org vocabulary and Google’s supported feature requirements are separate references.
 
 ## Give the organization a stable identity
 
@@ -58,7 +58,7 @@ When prices or plans change, review both the visible page and the embedded data.
 
 A dataset landing page should identify the collection before it lists files. State what the rows represent, who created the data, which version is being described and what license permits reuse. Link the actual download separately from the explanation of the method. Google’s Dataset guide recommends identifiers such as DOIs and describes distribution metadata. [Google Search Central, Dataset structured data].
 
-Here is an invented illustration of a small research release. Every name and URL in it is fictional; it reports no real measurement:
+Here is an invented illustration of a small research release. This example reports no measurement:
 
 ```json
 {
@@ -98,6 +98,8 @@ Compare the page title, entity names, dates, download links and current offers w
 
 Lewandowski’s historical classifier counted observable optimization signals. Detecting structured data in that design is not evidence that the markup was accurate, eligible for a rich result or responsible for the page’s position. The later registered signal study likewise concerns presence, with its own rules. Use those observations to describe the page, while keeping validation and causal claims separate.
 
+Google defines structured data as “a standardized format for providing information about a page”. The definition explains machine-readable description, without establishing that any particular feature will appear. [Google Search Central, Introduction to structured data markup in Google Search, opening paragraph; verified 30 October 2026].
+
 ## What our own data shows
 
 We have no measurement on this point: the causal effect of adding a particular structured-data type on AI citation. Our registered page-signal study includes JSON-LD and microdata as observable signals. Its structured-data presence test does not certify a page’s factual content or search-feature eligibility. Invalid JSON-LD is separately recorded.
@@ -133,7 +135,7 @@ Broadcastwell research team. (2026, October 30). *Which structured data belongs 
 
 Prepared by the Broadcastwell research team. Lead: Rohan Iyer, AI engineer.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

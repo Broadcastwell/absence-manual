@@ -49,7 +49,7 @@ Operator references: [OpenAI](https://developers.openai.com/api/docs/bots), [Ant
 
 ## Find the observation source before interpreting a zero
 
-Check which host serves the page and which request records are available for it. A content dashboard showing page views is not necessarily a raw request log. A CDN total may combine humans, assets and crawlers without exposing individual user agents. Identify the actual fields and period before deciding what the report can answer.
+Check which host serves the page and which request records are available for it. Page views are not request records. A CDN total may combine humans, assets and crawlers without exposing individual user agents. Identify the actual fields and period before deciding what the report can answer.
 
 If you have no requester-level record, say that coverage is unavailable. Do not turn a missing report into “no AI visits.” A site can also be served from several hosts or a cached copy; observing one host does not cover the others.
 
@@ -75,7 +75,7 @@ Robots rules communicate crawl preferences to cooperating requesters. They are n
 
 ## Group visits without hiding gaps
 
-A weekly table should identify its timezone, first and last observation, covered hosts and paths, success-status rules and excluded checks. Count requests consistently, and state whether repeated requests to one page remain separate events. A count of requests is not a count of unique readers.
+A weekly table should identify its timezone, first and last observation, covered hosts and paths, success-status rules and excluded checks. Count requests consistently, and state whether repeated requests to one page remain separate events. No unique-reader count follows.
 
 If a quota, outage or deployment change interrupts collection, mark the affected period as incomplete. Separate incomplete periods from complete periods with zero recorded matches. The distinction is essential when someone later plots a trend.
 
@@ -87,14 +87,19 @@ An answer receipt can show a particular visible citation on a stated date. A req
 
 Our [public crawler-log study](https://docs.broadcastwell.com/research/studies/ai-crawler-log/) begins with an explicitly short window and restricted route coverage. Its downloadable table states those boundaries. It is a starting observation, not a benchmark for how often every B2B site should be crawled.
 
+OpenAI’s operator documentation says, “Each setting is independent of the others”. A permission for search and a permission for model training therefore need separate interpretation when reading the declared request tokens. [OpenAI, Overview of OpenAI crawlers, opening explanation; verified 30 October 2026].
+
+## Recorded operational snapshot
+
+The first Index log snapshot records zero declared AI-token matches among 83 other requests after one named check is excluded. Its descriptive Wilson 95% interval is 0.0% to 4.4%, for that short covered window only. [Initial operational snapshot, 30 October 2026](https://docs.broadcastwell.com/research/data/ai-crawler-log.csv). This operational log is separate from the registered answer-archive studies. It does not authenticate requester identity or cover the documentation host.
+
 ## What our own data shows
 
-The first Index log snapshot records zero declared AI-token matches among 83 other requests after one named check is excluded. Its descriptive Wilson 95% interval is 0.0% to 4.4%, for that short covered window only. [Initial snapshot](https://docs.broadcastwell.com/research/data/ai-crawler-log.csv).
-
-The observations do not authenticate requester identity or cover the documentation host. We have no measurement connecting a recorded visit to a later citation or sale.
+We have no measurement on this point: whether a recorded crawler visit leads to a later citation or sale. The operational request counts above do not measure that relationship.
 
 ## Sources
 
+- Broadcastwell. (2026, October 30). AI crawler operational log: initial snapshot [Data set]. Index-host covered HTML requests, 05:35:44.478 to 05:38:00.771840 UTC; named check excluded. https://docs.broadcastwell.com/research/data/ai-crawler-log.csv Verified 30 October 2026.
 - OpenAI. (2026). Overview of OpenAI crawlers. Search, training and user-request roles. https://developers.openai.com/api/docs/bots Verified 30 October 2026.
 - Anthropic. (2026, April 7). Does Anthropic crawl data from the web, and how can site owners block the crawler? https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler Verified 30 October 2026.
 - Perplexity. (2026). Perplexity crawlers. Search and user-request roles. https://docs.perplexity.ai/docs/resources/perplexity-crawlers Verified 30 October 2026.
@@ -121,7 +126,7 @@ Broadcastwell research team. (2026, October 30). *How can you see which AI crawl
 
 Prepared by the Broadcastwell research team. Lead: Daniel Kim, AI engineer.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

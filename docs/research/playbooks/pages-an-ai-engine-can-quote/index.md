@@ -85,6 +85,8 @@ Choose a next review based on what can change. A product capability may need che
 
 Finally, keep the outcome claim modest. A well-supported page is easier for people to inspect and reuse. Whether a particular engine retrieves it, cites it or changes an answer remains an observation to measure later. Publishing the page does not complete that measurement.
 
+Google Search Central states, “There are no additional technical requirements.” That sentence concerns eligibility for supporting links in Google AI features; it does not guarantee crawling, indexing or selection. [Google Search Central, AI features and your website, “Technical requirements for appearing in AI features”; verified 30 October 2026].
+
 ## What our own data shows
 
 We have no measurement on this point: the causal effect of this page format on citations or sales. Study 1 registers a descriptive test of observable signals on pages cited in the September Index. Its public plan distinguishes strong signals, weak signals, missing metadata and fetch failures. Those classes do not measure the causal benefit of rewriting a sentence.
@@ -116,7 +118,7 @@ Broadcastwell research team. (2026, October 30). *How do you write a page an AI 
 
 Prepared by the Broadcastwell research team. Lead: Rohan Iyer, AI engineer.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

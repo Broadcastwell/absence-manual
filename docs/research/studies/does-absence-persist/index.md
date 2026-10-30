@@ -35,9 +35,45 @@ Registration DOI: **10.17605/OSF.IO/MKJ9V**. OSF recorded registration on **30 O
 
 A company can be missing from many measured answers on one date without being permanently invisible. It might appear under another question, in another engine or after a refresh. The question here is narrower: when a vendor has low measured presence in an eligible release, how often does that same vendor-category observation remain in the low band in the next comparable release?
 
-## What has to match before we join releases?
+## Registered protocol, unchanged
 
-The registered plan requires matching category definitions, target question text and type, engine set, scheduled repeats, vendor matching rules and eligible-answer rules. Controls stay outside vendor standings. Capture dates and differences in valid bases remain visible. A third release by itself does not authorize a transition estimate. [Registered plan, Waiting and comparability rule].
+The text below is the registered plan, including the prior-knowledge and timing statements as recorded then. The separately disclosed Study 2 timing amendment does not relax this protocol's waiting or comparability conditions. [OSF MKJ9V](https://doi.org/10.17605/OSF.IO/MKJ9V).
+
+### Question and status
+
+> For vendors measured in consecutive, comparable Absence Index releases, what share of those named in a quarter or fewer of eligible answers remain in that band in the next release? What share of those named in three quarters or more remain in that band? This is a registered protocol for future descriptive analysis. No persistence result is being computed now.
+
+### Sources and prior knowledge
+
+> The historical comparison sources are the corrected August 2026 archive, version DOI 10.5281/zenodo.22721962, and the September 2026 release, version DOI 10.5281/zenodo.22907695. The Index concept DOI is 10.5281/zenodo.22150321. Record the exact version DOI, published method and checksums for any future release used. The existing releases and published summaries are known; this is not a claim of complete blinding. None of the new research-section study outcomes have been computed. All three plans must be registered before analysis begins.
+
+### Waiting and comparability rule
+
+> Do not compute persistence until a third Index release exists. A third release alone is insufficient: there must also be a consecutive pair with the same published configuration. Require matching category scope and definition, target question text and type, engine set, scheduled repeat count, vendor matching rules and eligible-answer rules. Exclude controls from standings. Document capture dates, exclusions and any differences in valid bases. If the published configurations differ or cannot be verified, do not join them into a transition estimate. Register an amendment before using a changed rule. The August and September configurations differ, so show their CRM and project-management standings only as two separately dated observations, with a configuration table placed first. Do not use those two releases to claim improvement, deterioration, momentum or persistence.
+
+### Units and cohort
+
+> The primary transition unit is a vendor-category pair in the intersection of the vendor universes measured in both eligible releases. Identify vendors by published canonical-domain and documented identity mappings, not by an undocumented fuzzy name join. Publish additions, removals, renames and unmatched records separately. The principal analysis pools the configured engines within each release; report per-engine transitions as secondary descriptive strata when they are comparable. No sampling or recruitment is planned: include the full eligible matched cohort, with exact inclusion and exclusion counts.
+
+### Definitions
+
+> Use unrounded named counts and valid target-answer bases from each release. A low-presence observation has named_count divided by valid_base less than or equal to 0.25. A high-presence observation has that ratio greater than or equal to 0.75. A zero valid base is missing, never zero presence. Use integer cross-products for band membership so rounding does not move a vendor across a boundary. Keep the middle band and all missing observations visible. Vendor presence is an observed naming rate, not product quality, market share, a purchase recommendation or a universal engine ranking.
+
+### Primary statistics
+
+> For each comparable release pair, count vendors in the low band at N and count how many of them are still in the low band at N+1. Report the numerator, eligible low-band base, conditional proportion and a two-sided Wilson 95% interval. Repeat for the high band. Show the full transition table among low, middle and high bands, plus missing records, so band selection cannot hide other outcomes. Give each category separately and a pooled matched-cohort table; state that categories and engines are not interchangeable independent samples. Provide per-engine tables only when that engine's configuration is unchanged. Publish calculations, input version references and join/exclusion CSVs. There is no p-value threshold, directional hypothesis or minimum effect required for publication.
+
+### Finding rule and interpretation
+
+> A finding is a reproducible descriptive transition proportion from an eligible pair, whether persistence is high, low or indeterminate. If there is no eligible pair, the finding is that the protocol remains waiting; do not manufacture a result. Compare cautiously with the rich-get-richer discussion in Lewandowski, Suenkler and Yagci (2021), DOI 10.1145/3447535.3462479. That discussion concerns Google search results and possible selection feedback; it is not proof of an AI-answer mechanism. Persistent absence cannot establish its cause, and a threshold transition is not proof of a durable change in buyer exposure.
+
+### Limits and reporting
+
+> A fixed question bank is not representative of all buyer questions. Repeated answers may be dependent, observations change with refreshes, and surviving matched vendors are a selected cohort. Wilson intervals summarize the observed archive and are not a guarantee about future answers. Different release dates can include external product or publisher changes that this design does not isolate. Report every protocol deviation with its timing and reason. Publish the registration URL and timestamp on the study page now; add results only after the waiting and comparability conditions are satisfied. Do not claim control or ownership of AI answers.
+
+## Which configurations produced the dated observations?
+
+The configuration table comes before the standings because matching question text cannot cancel a different engine set or missing evidence about other collection conditions.
 
 | Configuration | Corrected August release 2026-08.1 | September release 2026-09 |
 | --- | --- | --- |
@@ -53,31 +89,9 @@ The registered plan requires matching category definitions, target question text
 
 Sources: the two versioned release JSONs and READMEs, verified 30 October 2026. The shared question wording was compared directly, not assumed from the category label. Matching wording does not cancel the different engine set or answer-evidence scope.
 
-If the configuration differs or cannot be verified, the protocol says not to join those releases into a transition estimate. A changed comparability rule would require a registered amendment before use. Choosing a subset after seeing an attractive result would answer a different question from the one registered here.
-
-## The cohort and the bands are fixed in advance
-
-The primary unit is a vendor-category pair in the intersection of the vendor universes in the two eligible releases. Canonical domains and documented identity mappings establish the join. An undocumented fuzzy name match does not. Additions, removals, renames and unmatched records will be published separately. [Registered plan, Units and cohort].
-
-The low band means a vendor is named in **a quarter or fewer** of the valid target answers for its category. The high band means naming in **three quarters or more**. These are operational thresholds chosen in the registration, not natural boundaries between successful and unsuccessful businesses. We will use unrounded counts and integer cross-products to determine membership. A rounded display percentage must not push a vendor across a threshold. [Definitions].
-
-A zero valid base means missing evidence. It does not mean zero presence. The middle band remains in the transition table, and missing observations remain visible. This avoids an appealing but incomplete comparison that selects only the most extreme vendors and forgets the rest of the cohort.
-
-The principal table pools the configured engines within each eligible release. Secondary engine-specific tables will appear only when that engine's configuration is unchanged. The registered plan includes the full eligible matched cohort rather than recruiting a new sample of companies.
-
-## What will the persistence estimate mean?
-
-For the low band, the numerator will be the number of eligible vendor-category pairs that are low at the first release and still low at the next. The denominator will be all eligible low-band pairs at the first release. The high-band estimate uses the corresponding high-band cohort. Each will include its exact count, base, proportion and two-sided Wilson 95% interval. [Registered plan, Primary statistics].
-
-The full low, middle and high transition table will accompany these conditional shares, together with missing records. Category-specific tables and a pooled matched-cohort table will be reported. Repeated answers and categories are not interchangeable independent draws from all buyer behavior. The intervals describe the observed archive under these rules, with that dependence and the fixed question bank left explicit.
-
-No p-value threshold or minimum directional effect is required for publication. If the eligible data show little persistence, that is still a result. If there is no eligible pair, the protocol remains waiting. The registered wording is direct: “do not manufacture a result.” [Finding rule and interpretation].
-
-You will be able to inspect the input versions, identity join, exclusions and calculation tables. The study will not turn a threshold crossing into proof that a marketing action worked. It records an observed sequence, with external product changes, publisher changes and engine changes still possible.
-
 ## The current standings are two observations
 
-The table below contains the shared historical vendors with the release configuration shown above it. It is deliberately presented without a change column, arrows or a trend score. Different valid bases and engine coverage prevent an interpretation of these columns as an estimated improvement, deterioration or persistence probability.
+The table below contains the shared historical vendors with the release configuration shown above it. There is no change column. Different valid bases and engine coverage prevent an interpretation of these columns as an estimated improvement, deterioration or persistence probability.
 
 | Category and vendor | August 2026.1, named/base, share [Wilson 95% interval] | September 2026, named/base, share [Wilson 95% interval] |
 | --- | --- | --- |
@@ -117,9 +131,9 @@ There is a trade-off in waiting. We give up the convenience of an immediate long
 
 ## What will change on this page next?
 
-Results will be added only after the third-release and same-configuration conditions hold. The update will identify the version DOIs, capture windows, matched vendors, exclusions, transition counts and descriptive intervals. Any amendment or deviation will be dated and explained beside the affected table. Until then, the empty result is an unavailable estimate, not a measured zero.
+The result remains unavailable. Once an eligible pair exists, the update will identify its version DOIs and capture windows, the matched cohort and exclusions, and each transition count with its descriptive interval. Any amendment or deviation belongs beside the affected table, with a date and an explanation; an unavailable estimate must never be displayed as zero.
 
-The registration originally included an all-three-studies-before-analysis timing clause. A later timing ruling authorized the already registered Study 2 to proceed while Study 1 waits. That departure is recorded with Study 2; it supplies no permission to compute Study 3 persistence early. The waiting and comparability rules on this page still govern this study.
+The Study 2 timing departure remains separately recorded. It authorized that already registered secondary analysis while Study 1 awaited approval, without permitting an early persistence estimate here or changing the comparability conditions quoted above.
 
 ## What our own data shows
 
@@ -150,7 +164,7 @@ Broadcastwell research team. (2026, October 30). *Does low presence persist? The
 
 Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

@@ -21,7 +21,7 @@ is_based_on: https://doi.org/10.3390/fi11120261
 
 **Four Greek newsroom interviews describe SEO responsibilities without dedicated specialist positions (Giomelakis, Karypidou and Veglis, 2019, §6.2).**
 
-Every newsroom in this four-outlet interview study reported using SEO, yet none reported a dedicated SEO specialist position. The work fell to people with other responsibilities or an external contributor. [Giomelakis, Karypidou and Veglis, 2019, §§6.1 to 6.2, reprint PDF p. 78, printed p. 69](https://doi.org/10.3390/fi11120261).
+Every newsroom in this four-outlet interview study reported using SEO, yet none reported a dedicated SEO specialist position. The work fell to people with other responsibilities or an external contributor. [Giomelakis, Karypidou and Veglis, 2019, §§6.1 to 6.2, reprint PDF p. 78, printed p. 69](../../source-archives/newsrooms-2019.pdf).
 
 The interesting detail is the gap between adopting practices and giving someone clear responsibility for them. It is a useful organizational question for a software company, too. It is not a measured estimate of what hiring an SEO specialist would do to its traffic or its presence in AI answers.
 
@@ -100,8 +100,9 @@ That result does not reveal the vendor’s staffing or explain the absence. We h
 
 ## Sources
 
-- Giomelakis, D., Karypidou, C., & Veglis, A. (2019). SEO inside newsrooms: Reports from the field. Future Internet, 11(12), 261. https://doi.org/10.3390/fi11120261 . Methods §4, results §§6.1 to 6.5, limitations §7. Reprint PDF pp. 72 to 86. Verified 30 October 2026.
+- Giomelakis, D., Karypidou, C., & Veglis, A. (2019). SEO inside newsrooms: Reports from the field. Future Internet, 11(12), 261. https://doi.org/10.3390/fi11120261 . Methods §4, results §§6.1 to 6.5, limitations §7. Reprint PDF pp. 72 to 86. [Accessible original](../../source-archives/newsrooms-2019.pdf) Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
+
 
 ## Cite this page
 
@@ -121,7 +122,7 @@ Broadcastwell research team. (2026, October 30). *Four newsrooms used SEO withou
 
 Prepared by the Broadcastwell research team. Lead: Ethan Brooks, management consultant.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

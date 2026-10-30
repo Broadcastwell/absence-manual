@@ -63,7 +63,7 @@ For a practical check, request a known page, an intentionally nonexistent path a
 
 Google’s link guide says crawlable anchors generally need an HTML a element with an href. A script event on a styled span is a different object. Where interactive navigation is needed, preserve a sensible ordinary link destination as well. [Google Search Central, Link best practices].
 
-Check important routes without depending on a search form or a hidden menu. A visitor should be able to move from the section hub to an individual page and then to its evidence. A large site need not link every page from every other page; it needs a comprehensible hierarchy.
+Check important routes without depending on a search form or a hidden menu. A visitor should be able to move from the section hub to an individual page and then to its evidence. Give the site a clear hierarchy.
 
 The historical guide’s recommendation for mostly text navigation remains a useful principle, even though its examples name older technologies. Read it as a reason to provide usable links, then verify behaviour in the current site. [Google, 2010, PDF p. 12].
 
@@ -86,6 +86,8 @@ For images used as links, provide text that explains the destination through the
 | Descriptive anchors | A reader can anticipate linked material | That the destination’s claim is factually correct. |
 
 Run these checks on the deployed pages after a navigation change, as well as on a local preview. A broken link can survive a successful build. Keep any observed indexing state separate from these technical and editorial checks.
+
+Google’s link guidance says, “Good anchor text is descriptive, reasonably concise”. The surrounding explanation also asks that the wording fit both the current page and the linked destination. [Google Search Central, Link best practices, “Write good anchor text”; verified 30 October 2026].
 
 ## What our own data shows
 
@@ -120,7 +122,7 @@ Broadcastwell research team. (2026, October 30). *Which site-structure basics st
 
 Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

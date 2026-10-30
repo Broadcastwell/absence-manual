@@ -73,7 +73,7 @@ The paper does not supply the raw page-level table here or confidence intervals 
 
 Source: Ziakis et al., **Table 2**, reprint PDF pp. **19 to 20**, printed pp. **10 to 11**. Each query column concerns 15 selected results. The last column transcribes the published average, including its rounding. [Download the table](https://docs.broadcastwell.com/research/data/ziakis-2019-correlations.csv).
 
-The query columns are more informative than a list sorted by the final column. Loading time is negative for hotels and positive for the other queries. Backlink quantity is negative for hotels and email marketing but slightly positive for shoes. A near-zero average can conceal differences between queries; it does not prove a factor never matters.
+The query columns matter: loading time is negative for hotels and positive for the other queries, a difference that a list sorted by the final average would hide. Backlink quantity is negative for hotels and email marketing but slightly positive for shoes. A near-zero average can conceal differences between queries; it does not prove a factor never matters.
 
 Likewise, a factor shared by most selected results may have little variation left to correlate with position. That can happen even when it is useful for access, usability or eligibility. Observing only already prominent results restricts the comparison. It cannot establish how pages outside the selected range differ or why they were not included.
 
@@ -99,7 +99,7 @@ You can still evaluate whether the intended repair worked. Record the original c
 
 The habit of identifying a measurement transfers. The coefficients do not automatically transfer. The 2018 study’s outcome is Google result position. A software vendor being named in a later AI answer is a different event, under a different set of questions and systems. A source URL being cited is different again.
 
-An AI citation study can inspect observable page characteristics and compare the cited pages. Without suitable uncited controls or an intervention, it still cannot claim those characteristics caused citation. A common feature among cited pages may simply be common across the accessible web. Selection is the second thread connecting this old ranking study with current citation claims.
+An AI citation study can inspect observable page characteristics and compare the cited pages. Without suitable uncited controls or an intervention, it still cannot claim those characteristics caused citation. The feature may be widespread anyway. Selection matters here too.
 
 If you quote this paper, name the year, the three-query sample and the statistic. “SSL had the strongest average reported association in these samples” is supportable. “SSL is the top ranking factor” is a substantially broader claim. The complete table makes it possible to see that difference without relying on a promotional summary.
 
@@ -132,7 +132,7 @@ Broadcastwell research team. (2026, October 30). *A small Google study does not 
 
 Prepared by the Broadcastwell research team. Lead: Ethan Brooks, management consultant.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

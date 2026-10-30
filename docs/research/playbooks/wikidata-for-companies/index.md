@@ -75,7 +75,17 @@ Broadcastwell’s [company-facts page](https://broadcastwell.com/company-facts),
 
 The [September Index deposit](https://doi.org/10.5281/zenodo.22907695) separately identifies a published research dataset. A work item, if appropriate under Wikidata’s rules, should identify that work and its supported publisher relationship rather than being used to decorate a company item with an implied endorsement.
 
-No Broadcastwell Q-id is claimed on this page. The public company-facts source is the worked fact sheet; the presence of that sheet is not represented as a completed Wikidata entry or a measured visibility improvement.
+The public item is [Broadcastwell LLC, Q141927812](https://www.wikidata.org/wiki/Q141927812), created and read back on **30 October 2026**. Its English label preserves the legal name; Broadcastwell remains an alias, and the description identifies the research subject in a factual phrase that readers can check against the company source. Each saved statement has its own reference URL to the company-facts page.
+
+| Saved statement | Value | Statement reference |
+| --- | --- | --- |
+| instance of | company | [Company facts](https://broadcastwell.com/company-facts) |
+| country | United States | [Company facts](https://broadcastwell.com/company-facts) |
+| located in the administrative territorial entity | Indiana | [Company facts](https://broadcastwell.com/company-facts) |
+| inception | 2026, year precision | [Company facts](https://broadcastwell.com/company-facts) |
+| official website | https://broadcastwell.com/ | [Company facts](https://broadcastwell.com/company-facts) |
+
+Indiana records the published business location, not an asserted incorporation jurisdiction. The year does not supply an invented month or day. There is no Wikipedia article or sitelink in this example. The identifiable-entity route is the applicable inclusion basis; the public record remains open to Wikidata community review. Creation supplies neither independent endorsement nor evidence of a visibility improvement.
 
 ## Do not write the company’s own Wikipedia article
 
@@ -89,6 +99,8 @@ After any authorized edit, open the actual item and inspect the label, descripti
 
 Later maintenance should be driven by a changed source or a genuine identity correction. Do not continually adjust the record to follow marketing campaigns. A restrained item with a small number of sound statements is more defensible than a large set of claims that no reader can verify.
 
+Wikidata’s notability policy requires “serious and publicly available references” for its identifiable-entity route. A factual company sheet supplies statement evidence, while item eligibility remains subject to that wider inclusion rule. [Wikidata:Notability, criterion 2; verified 30 October 2026].
+
 ## What our own data shows
 
 We have no measurement on this point: the causal citation effect of creating a Wikidata company item. The Index records software vendors named and cited in dated answers. It does not measure the effect of creating a Wikidata company item. We have no controlled evidence that an item would increase Broadcastwell’s naming rate or its citations.
@@ -97,6 +109,7 @@ Our official fact sheet and deposited research identities provide inspectable pu
 
 ## Sources
 
+- Wikidata. (2026, October 30). Broadcastwell LLC (Q141927812) [Entity record]. English label, description and five company-facts-referenced statements. https://www.wikidata.org/wiki/Q141927812 Verified 30 October 2026.
 - Wikidata. (2026). Wikidata:Notability. Three inclusion routes and community decision. https://www.wikidata.org/wiki/Wikidata:Notability Verified 30 October 2026.
 - Wikidata. (2026). Help:Items. Search and item-creation guidance. https://www.wikidata.org/wiki/Help:Items Verified 30 October 2026.
 - Wikidata. (2026). Help:Sources. Reference URL, source identity and retrieval-date guidance. https://www.wikidata.org/wiki/Help:Sources Verified 30 October 2026.
@@ -123,7 +136,7 @@ Broadcastwell research team. (2026, October 30). *What belongs in a company’s 
 
 Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 
