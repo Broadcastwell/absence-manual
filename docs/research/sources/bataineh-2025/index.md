@@ -76,7 +76,7 @@ This matters for the strongest-looking path. The engagement-to-ranking coefficie
 
 For the indirect technical-SEO relationship, Table 7 reports **0.122** with **t = 3.937**. The preceding narrative instead prints **0.231** and **t = 5.062** for that mediated relationship, matching the direct content-quality values elsewhere. We use the table value when describing the reported model and keep the conflicting prose visible. [§4.2, PDF p. 10, printed p. 9; Table 7, PDF p. 11].
 
-The mismatch may be a reporting error, but the published material does not establish its cause. We do not claim to have corrected the underlying model by selecting the more plausible number. A definitive reconstruction would require the response-level data, the measurement specification and the fitted analysis outputs.
+The cause is unestablished. We do not claim to have corrected the underlying model by selecting the more plausible number. A definitive reconstruction would require the response-level data, the measurement specification and the fitted analysis outputs.
 
 Table 6 also gives **R² = 0.388** for the ranking construct and **0.435** for engagement. These describe explained variation in the fitted latent-variable models, conditional on their definitions and sample. They are not the proportion of Google ranking behavior caused by the included practices, nor an independently tested out-of-sample forecasting result. [Table 6, PDF p. 10].
 

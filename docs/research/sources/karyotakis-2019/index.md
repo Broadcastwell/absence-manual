@@ -29,7 +29,7 @@ That distinction is easy to miss because the paper repeatedly connects comments 
 
 The study used Alexa lists to select an international group and groups associated with Greece and Cyprus. The final examined lists contained **353**, **175** and **128 websites**, respectively. Those counts sum to the reported 656 entries. [§3, PDF p. 91, and §4, PDF pp. 93 to 95].
 
-The lists are not probability samples of every news publisher in those locations. The authors removed aggregators and social-media sites, encountered pages they could not access and excluded non-news entries. Their descriptions also note that a country’s popular-site list could include sites from elsewhere. The Cypriot list, for example, included Turkish news sites with Turkish- and English-language content. [§4].
+The lists are not probability samples of every news publisher in those locations. The authors removed aggregators and social-media sites, encountered pages they could not access and excluded non-news entries. A national list could include foreign sites. The Cypriot list, for example, included Turkish news sites with Turkish- and English-language content. [§4].
 
 For the international list, the authors began with **500** highly visited entries and retained **353** after exclusions. They specifically mention inaccessible sites, including US sites unavailable under the access conditions associated with GDPR. This is a possible selection problem: the pages that could be inspected may differ from those that could not. [§4, PDF p. 93, printed p. 84].
 
