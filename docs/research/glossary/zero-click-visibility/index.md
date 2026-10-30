@@ -60,7 +60,13 @@ Show exposure and response in separate columns. A business can reasonably care a
 
 Avoid a universal conversion multiplier for no-click exposure. If a later survey asks how a customer first heard about a product, record the wording, timing and recall limits. If a comparison test estimates a commercial effect, report the design. A name in an answer remains a narrower observation until that additional evidence exists.
 
+Rand Fishkin defines the historical event as “a search that results in zero website referrals”. That definition concerns observed referrals, leaving the reason for the search ending unresolved. [Fishkin, 13 August 2019, definition update after Methodology Notes; verified 30 October 2026].
+
+You need referral observations to count clicks.
+
 ## What our own data shows
+
+Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
 Study 2 found **5,477 named-without-own-domain-citation pairs among 42,792 eligible vendor-answer pairs: 12.8%, Wilson 95% interval 12.5% to 13.1%**. The [citation study](/research/studies/who-ai-engines-cite/) explains that denominator and exact matching rules.
 
@@ -92,7 +98,7 @@ Broadcastwell research team. (2026, October 30). *What is zero-click visibility?
 
 Prepared by the Broadcastwell research team. Lead: Lauren Chen, AI architect and specialist.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

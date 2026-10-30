@@ -32,21 +32,23 @@ research_dataset:
 
 **Study 1 classifies 3,913 of 4,420 captured target URLs as definitely optimized: 88.5%, Wilson 95% interval 87.6% to 89.4% (registered rules; October 2026 capture).**
 
-**Registration:** [OSF DVYFU](https://doi.org/10.17605/OSF.IO/DVYFU). This descriptive study has no causal test.
+**Registration:** [OSF DVYFU](https://doi.org/10.17605/OSF.IO/DVYFU).
 
 Before comparing it with Lewandowski and colleagues, retain the design differences: **German Google queries collected in 2020 versus B2B software answers across five engines in September 2026; October page retrieval; static HTML, expanded signature rules and registered precedence; time to first byte instead of full page-loading time**. The earlier chart is contextual evidence, not a controlled baseline.
 
 ## Was the plan public before this analysis?
 
-The existing OSF record reports registration at **2026-10-30T01:06:12.768170Z**. Its delayed approval was completed from the existing notice at approximately **05:31Z**, without a duplicate registration. Registration timestamp, approval action and public availability are distinct events.
+The existing OSF record reports registration at **2026-10-30T01:06:12.768170Z**. Its delayed approval was completed from the existing notice at approximately **05:31Z**, without a duplicate registration.
 
 All three registrations were checked public and no longer archiving at approximately **05:32Z**. The collection rules, news list, instrument and source identities were frozen at **05:36:56.935712Z**; the first resource collection started at **05:37:03.800062Z**. A further all-three public check at **07:20:32 to 07:20:35Z** preceded the first aggregate analysis at **07:20:56.107845Z**.
 
 The [provenance record](../../data/study1-provenance.json) and [freeze receipt](../../data/study1-precollection-freeze.json) preserve the chronology and fingerprints. Timestamps are not independently notarized. Answers and aggregate counts were public before registration.
 
+Lewandowski and colleagues call pages “at least probably optimized” (2021, abstract, PDF p. 1); these inferred labels do not establish causation.
+
 ## Registered protocol, unchanged
 
-This is the registered text, including its prior-knowledge statements as recorded before collection. Later clarification and deviations are identified separately. [OSF DVYFU](https://doi.org/10.17605/OSF.IO/DVYFU).
+Quoted paragraphs reproduce the registered text unchanged. Unquoted section introductions guide reading; they are not part of the registration. [OSF DVYFU](https://doi.org/10.17605/OSF.IO/DVYFU).
 
 ### Question and design
 
@@ -57,6 +59,8 @@ This is the registered text, including its prior-knowledge statements as recorde
 > Use the published answers-2026-09.jsonl and release-2026-09.json attached to version DOI 10.5281/zenodo.22907695, with their published checksums. These answers were already collected and made public before this registration. Published aggregate counts and the comparison paper have been read. No new study results, host classification totals or page-signal shares have been computed. All three research-section plans must be registered before analysis begins.
 
 ### Units and inclusion
+
+The next section defines eligible units.
 
 > Include every explicit citation URL in the archived answers. Retain engine, category, question, repeat, capture date and citation order for every occurrence. Deduplicate the analysis units by exact URL, preserving scheme, path, query and fragment in the unit identifier. Preserve a separate mapping to the requested resource URL. A URL contributes once to each engine or category stratum in which it occurs. Report target and control questions separately as well as the combined archive; do not treat a missing answer or an answer without a citation as a URL with no optimization. Retain excluded answer rows in a separate audit, but omit their citation URLs from the primary eligible-answer analysis unless the same URL also appears in an eligible answer. Give any all-record sensitivity analysis a separate label. Preserve extraction exclusions and reasons. Report any archival mismatch before continuing.
 
@@ -164,9 +168,9 @@ The leading declared schema types among captured target URLs are:
 
 Types overlap. The [full table](../../data/study1-schema-types.csv) normalizes HTTP/HTTPS Schema.org prefixes, counts each type once per URL and excludes empty declarations.
 
-## Can the published files reproduce the result?
+## Can you reproduce the result?
 
-The [instructions](../../data/study1-reproduction.txt) support scalar recounts and a full rebuild from public captured signals and deposited answers. The [manifest](../../data/study1-file-manifest.csv) distinguishes public hashes from original fingerprints where projection or line endings differ.
+The [instructions](../../data/study1-reproduction.txt) support scalar recounts and a full rebuild; the [manifest](../../data/study1-file-manifest.csv) distinguishes public bytes from original fingerprints.
 
 The public projection omits response bodies, redirect metadata and free-text errors, retaining a generic timeout marker. Two failed sensitive-query final destinations are blanked. Classifications and aggregate tables are unchanged; original metadata retains its fingerprint.
 
@@ -176,11 +180,13 @@ The [order table](../../data/study1-citation-order.csv) gives occurrence and dis
 
 ## Deviations and interpretation limits
 
-After the first aggregation, empty schema-type declarations were removed from the type-frequency labels. Their original scalar declarations remain in the data, and no URL classification changed. The provenance file records the before/after schema-table fingerprints and rerun time. No news-domain or signature dictionary was expanded after aggregation.
+After the first aggregation, empty schema-type declarations were removed from the type-frequency labels; their original scalar declarations remain in the data, and no URL classification changed. The provenance file records the before/after schema-table fingerprints and rerun time. No news-domain or signature dictionary was expanded after aggregation.
 
-Static capture misses rendered-only features, and retrieval missingness can be selective. The registered stale-page, dependence and convenience-sample limits above remain in force.
+Static capture misses rendered-only features. Retrieval missingness can be selective. The registered limits still apply.
 
 ## What our own data shows
+
+Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
 Across target and control scopes together, **4,750/6,271 distinct URLs** produced successful complete HTML. The target class result is **3,913/4,420 definitely optimized, 88.5% (Wilson 95% interval 87.6% to 89.4%)**. Its separate target retrieval success is **4,420/5,861, 75.4% (74.3% to 76.5%)**.
 
@@ -210,7 +216,7 @@ Broadcastwell research team. (2026, October 30). *Which optimization signals app
 
 Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

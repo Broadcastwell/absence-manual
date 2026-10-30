@@ -28,7 +28,7 @@ The library explains [what counts as a brand mention](/answers/measurement/what-
 
 ## A vendor framework with a limited date
 
-Firefly Web Labs displays **2025** on its Entity Confidence framework page, without a day or month. It is the earliest dated AI-visibility framework use we verified for this entry. We cannot establish a sole inventor or a precise first-publication day from that page.
+Firefly Web Labs displays **2025** on its Entity Confidence framework page, without a day or month. This is our earliest verified dated framework use, although the page does not expose enough publishing history to establish a sole inventor or an exact first-publication day.
 
 Firefly organizes the idea around identifiability, consistency, corroboration, specificity and stability. Its FAQ acknowledges that the concept is not a single published score inside AI systems. The page also retains an unfilled research placeholder for a proposed relationship with citation frequency. That placeholder is a reason to withhold the proposed empirical conclusion. [Firefly Web Labs, displayed 2025, definition, FAQ and research placeholder].
 
@@ -46,7 +46,7 @@ If a report presents such a score, ask who produces it. An externally constructe
 
 Start with observable tasks. Can the answer distinguish the intended company from a similarly named one? Does it correctly state the product category? Does it attach the right official domain? Preserve the question, answer, time and reference facts used to judge correctness.
 
-Report those outcomes separately before combining them. A well-known name can be recognized and still be described inaccurately. A correct description can appear without a recommendation. An omission cannot reveal how certain the system felt about an entity it never named.
+Separate those outcomes. A well-known name can be recognized and still be described inaccurately. A correct description can appear without a recommendation. An omission cannot reveal how certain the system felt about an entity it never named.
 
 A calibrated probability would need repeated outcomes and an explicit validation design. If items assigned a given probability are not checked against known outcomes, the number may be an audit rating rather than measured confidence. Name it accordingly and disclose any weighting chosen by the assessor.
 
@@ -56,7 +56,11 @@ Prefer a documented identity record over a promise to increase an invisible scor
 
 Do not infer that absence proves identity confusion. A question can exclude a product for legitimate scope reasons, retrieval may fail, or the answer may vary. Investigate those possibilities using the actual answer record rather than selecting the vendor framework’s preferred explanation in advance.
 
+Asked whether Entity Confidence is a real score inside AI systems, Firefly Web Labs answers, “Not as a single published number.” That acknowledgement limits how the framework should be presented to a reader. [Firefly Web Labs, Entity Confidence, FAQ; verified 30 October 2026].
+
 ## What our own data shows
+
+Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
 Our published method uses explicit **name and domain matching rules**. These produce observed matching events; they are not confidence scores inside an engine. Study 2’s **8,085 named pairs among 42,792 eligible vendor-answer pairs** are counted under those rules, not graded on a hidden certainty scale.
 
@@ -86,7 +90,7 @@ Broadcastwell research team. (2026, October 30). *What is entity confidence, and
 
 Prepared by the Broadcastwell research team. Lead: Maya Thompson, AI architect and specialist.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

@@ -54,15 +54,19 @@ When actual search traces are unavailable, describe observable outputs: which an
 
 It gives a sensible reason to answer the supporting questions a reader would need to resolve. A comparison page can explain exclusions and compatibility as well as the headline feature. Keep those sections useful on their own, with the evidence next to the claim.
 
-It does not justify publishing every conceivable wording as a separate page. Repeated thin variants can obscure the actual answer and create maintenance work. Group related material where it serves the reader, and give genuinely different questions distinct, substantive answers.
+It does not justify publishing every conceivable wording as a separate page. Thin variants create upkeep. Group related material where it serves the reader, and give genuinely different questions distinct, substantive answers.
 
 Google’s current guidance keeps ordinary Search eligibility relevant to its AI features and promises no guaranteed inclusion. The mechanism supplies context for content planning, not an exemption from evidence, a special ranking formula or a requirement to expose undocumented files.
 
+Google states, “Both AI Overviews and AI Mode may use a ‘query fan-out’ technique”. Its qualified verb leaves room for different responses and implementations; an observed output alone does not expose the complete search process. [Google Search Central, AI features and your website, “How AI features work in Search”; verified 30 October 2026].
+
 ## What our own data shows
+
+Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
 Our released answer archive supports citation and naming analysis, **not a complete fan-out trace**. Study 2 counted **18,893 citation occurrences in eligible target answers**, separately from **1,297 control-answer occurrences**. These counts describe the saved citation lists, not how many searches generated them.
 
-The [registered citation study](/research/studies/who-ai-engines-cite/) publishes its inclusion rules and source-class tables. We call those outcomes citation occurrences and named vendor-answer pairs. No result there establishes which unobserved subquery caused a source to be chosen.
+The [registered citation study](/research/studies/who-ai-engines-cite/) publishes its inclusion rules and source-class tables. Those are the published outcome labels. No result there establishes which unobserved subquery caused a source to be chosen.
 
 ## Sources
 
@@ -89,7 +93,7 @@ Broadcastwell research team. (2026, October 30). *What does query fan-out mean?*
 
 Prepared by the Broadcastwell research team. Lead: Lauren Chen, AI architect and specialist.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

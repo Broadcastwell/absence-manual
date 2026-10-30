@@ -30,7 +30,7 @@ The library’s [SEO, AEO and GEO content-choice guidance](/answers/fixes/how-sh
 
 The phrase has technical uses outside SEO. For the search-specific meaning, an inspectable primary record is Google’s patent application published **5 November 2020**, later granted as **US11354342B2 on 7 June 2022**. The filing date shown is **18 October 2018**. Filing, publication and grant are different dates; the filing date alone does not establish when the document became public. [Carbune & Anders, patent record].
 
-The patent describes selecting further documents by information additional to material already presented to a user. Its contextual comparison is more specific than a universal originality score assigned permanently to every page. A patent describes an invention; it does not establish that every described mechanism was deployed in Google Search.
+The patent describes selecting further documents by information additional to material already presented to a user. Its contextual comparison is more specific than a universal originality score assigned permanently to every page. Deployment is not established by a patent.
 
 ## How vendor blogs use the term
 
@@ -50,11 +50,15 @@ Novelty also needs a quality check. An invented statistic is new text but poor e
 
 ## What changes when someone claims an SEO effect?
 
-An editorial score and a measured visibility outcome require separate validation. Showing that highly ranked pages contain original work does not identify which property caused their rank. Stronger brands, better distribution, topic selection and other differences can accompany that original work.
+An editorial score and a measured visibility outcome require separate validation. Observing originality does not establish causation. Stronger brands, better distribution, topic selection and other differences can accompany that original work.
 
 For an intervention, preserve the starting page and comparison conditions, specify the changed content and observe the chosen outcome. Record whether the outcome is organic position, answer-level naming, citation frequency or something else. Do not borrow a percentage from one outcome to promise an improvement in another.
 
 Google’s people-first content guidance asks about original information and value beyond other results. That supports a useful editorial question. It does not give a publisher an information-gain meter or establish a guaranteed increase in citations for adding a chart. [Google Search Central, helpful content guidance].
+
+Carbune and Anders’s patent abstract refers to “documents that were previously viewed by the user”. The comparison depends on that user’s previous information; the patent does not prove a universal production ranking score. [US11354342B2, abstract; verified 30 October 2026].
+
+You can ask what new evidence a page supplies.
 
 ## What our own data shows
 
@@ -88,7 +92,7 @@ Broadcastwell research team. (2026, October 30). *What does information gain mea
 
 Prepared by the Broadcastwell research team. Lead: Maya Thompson, AI architect and specialist.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

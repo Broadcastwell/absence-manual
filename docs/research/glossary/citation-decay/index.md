@@ -56,9 +56,13 @@ A declining series can identify a page worth investigating. It does not establis
 
 If an intervention follows, record its date and preserve the earlier version. Report the outcome against an appropriate comparison design. A refresh recommendation and a demonstrated refresh effect are separate claims, and a decay estimate supplies only the former unless the later test supports more.
 
+Joey Adelman and Matthew Huo write, “We track this on a rolling two-week average”. That smoothing choice is part of Profound’s published product definition, rather than a rule established for every citation dataset. [Adelman and Huo, 29 September 2026, “What Citation Decay shows”; verified 30 October 2026].
+
+You can distinguish an ageing document from a measured decline in citation share.
+
 ## What our own data shows
 
-We have **no citation-decay estimate** to report. Study 3 is a registered protocol for release-to-release absence persistence and remains unrun until its comparability conditions are met. Vendor absence persistence is also a different event from a particular URL’s citation half-life.
+We have no measurement on this point: citation decay. Study 3 is a registered protocol for release-to-release absence persistence and remains unrun until its comparability conditions are met. Vendor absence persistence is also a different event from a particular URL’s citation half-life.
 
 Our repeated-question analysis observed **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups: 8.9%, Wilson 95% interval 8.4% to 9.4%**. Mixed means named in one or two of three valid repeats. These within-release groups do not measure elapsed-time decay. See [the measurement-noise finding](/research/insights/one-rank-number-is-a-fiction/) and the [Study 3 protocol](/research/studies/does-absence-persist/).
 
@@ -86,7 +90,7 @@ Broadcastwell research team. (2026, October 30). *What is citation decay?*. Broa
 
 Prepared by the Broadcastwell research team. Lead: Lauren Chen, AI architect and specialist.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

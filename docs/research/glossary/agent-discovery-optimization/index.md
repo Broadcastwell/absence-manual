@@ -58,11 +58,15 @@ Use current documentation for a particular protocol or directory. A conceptual m
 
 Test the actual task after a change. Discovery alone does not demonstrate preference, successful use or a commercial result. Keep each observed stage named so a technical repair does not become an unsupported growth claim.
 
+Omnia’s definition concerns agents “when they autonomously research, compare, and take actions”. That expands the proposed objective beyond appearing in a displayed answer, while leaving the actual mechanism and outcome to be measured. [Omnia, Agent Discovery Optimization, opening definition; verified 30 October 2026].
+
+You need task-level evidence to assess autonomous discovery.
+
 ## What our own data shows
 
-The Absence Index observes **answers to category questions**, not autonomous task completion or connector-directory selection. We publish naming and citation outcomes under that narrower description.
+We have no measurement on this point: autonomous task completion or connector-directory selection. The Absence Index observes **answers to category questions**. We publish naming and citation outcomes under that narrower description.
 
-Our crawler study also records requests, not discovery success. Its initial snapshot contained **83 observations after removing our own check, with 0 declared AI user-agent matches; Wilson 95% interval 0% to 4.4%**. The [crawler-log study](/research/studies/ai-crawler-log/) explains the short window, matching limits and later privacy correction. This is no estimate of how often an agent can find or use a product.
+Our crawler log also records requests, not discovery success. Its initial snapshot contained **83 observations after removing our own check, with 0 declared AI user-agent matches; Wilson 95% interval 0% to 4.4%**. The [crawler-log study](/research/studies/ai-crawler-log/) explains the short window, matching limits and later privacy correction. This is no estimate of how often an agent can find or use a product.
 
 ## Sources
 
@@ -89,7 +93,7 @@ Broadcastwell research team. (2026, October 30). *What is agent discovery optimi
 
 Prepared by the Broadcastwell research team. Lead: Maya Thompson, AI architect and specialist.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

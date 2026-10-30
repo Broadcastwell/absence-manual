@@ -24,7 +24,7 @@ defined_term: SEO, AEO and GEO
 
 These labels organize different questions about discovery. Their boundaries depend on the source using them. A page can be indexed, quoted in a direct answer and cited in a generated response; those events do not require three independent disciplines with three universal algorithms.
 
-The library already answers [what GEO means in AI search](/answers/geo-basics/what-does-geo-mean-in-ai-search/). This shorter comparison focuses on terminology, origins and measurement boundaries.
+The library already answers [what GEO means in AI search](/answers/geo-basics/what-does-geo-mean-in-ai-search/). Here, we compare terminology.
 
 ## Which dated uses can we substantiate?
 
@@ -56,9 +56,15 @@ Google’s current AI-feature guidance says ordinary SEO best practices remain r
 
 Preserve the question, engine, date and answer. State the counted unit, and distinguish a name, recommendation, citation and visit.
 
-Commercial outcomes require their own evidence. Renaming a report GEO does not make mentions equal to visits, and renaming an editing task AEO does not establish a conversion effect. An explicit observation design is more informative than arguing which acronym owns the work.
+Neither acronym turns mentions into visits or establishes conversions. Specify the observation and comparison before claiming a commercial effect.
+
+Aggarwal and colleagues caution that “the efficacy of these strategies varies across domains” (2024, abstract, v3; verified 30 October 2026).
+
+You can keep the labels flexible while holding the outcome definition fixed.
 
 ## What our own data shows
+
+Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
 Our published framework separates **naming, absence and citation**. Study 1 classifies captured page signals; Study 2 describes source citations and matching vendor pairs; Study 3 registers a future comparability test for absence persistence. These are research questions with specified units, not a single SEO/AEO/GEO score.
 
@@ -94,7 +100,7 @@ Broadcastwell research team. (2026, October 30). *How do SEO, AEO and GEO differ
 
 Prepared by the Broadcastwell research team. Lead: Maya Thompson, AI architect and specialist.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

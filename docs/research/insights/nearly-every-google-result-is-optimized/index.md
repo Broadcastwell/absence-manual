@@ -99,7 +99,13 @@ The time-to-first-byte threshold is our adaptation of the paper’s page-loading
 
 Finally, this is a fixed software-question archive, not a probability sample of buyer searches or all cited web pages. Report the count, base, dates and class definition together. Those details are the finding’s boundaries, rather than fine print to discard when quoting it.
 
+Lewandowski, Sünkler and Yagci write that “a large fraction of pages found in Google is at least probably optimized”. Their wording preserves the probable class instead of treating every inferred feature as confirmed publisher intent. [Lewandowski et al., 2021, abstract, PDF p. 1; doi:10.1145/3447535.3462479].
+
+You can inspect the class rules before comparing percentages.
+
 ## What our own data shows
+
+Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
 Registered Study 1 classifies **3,913/4,420 captured target URLs as definitely optimized: 88.5%, Wilson 95% interval 87.6% to 89.4%**. Separately, complete HTML retrieval succeeded for **4,420/5,861 target URLs: 75.4% (74.3% to 76.5%)**. Missing captures remain outside the class denominator.
 
@@ -129,7 +135,7 @@ Broadcastwell research team. (2026, October 30). *Optimization signals are commo
 
 Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

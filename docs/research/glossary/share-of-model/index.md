@@ -52,11 +52,17 @@ A negative recommendation still contains a mention. Report the naming event sepa
 
 ## What should a software company request?
 
-Request the counted observations behind a material movement, not just a percentage change. Check which questions changed, which competitors entered the calculation, and whether the engine configuration stayed comparable. A larger proportion of a shrinking mention pool can coexist with fewer absolute mentions.
+Ask for the observations. Check which questions changed, which competitors entered the calculation, and whether the engine configuration stayed comparable. A larger proportion of a shrinking mention pool can coexist with fewer absolute mentions.
 
-Use the result to describe exposure within the observed category questions. Connecting it to commercial outcomes requires additional evidence about people, visits and purchases. The measure itself does not establish market share, customer preference or revenue attributable to AI answers.
+Describe the observed exposure. Connecting it to commercial outcomes requires additional evidence about people, visits and purchases. The measure itself does not establish market share, customer preference or revenue attributable to AI answers.
+
+Peter Mangin’s definition concerns how models “perceive a brand in comparison to its competitors”. That phrasing establishes a comparative idea; the counted event and denominator still require a separate specification. [Mangin, 20 March 2024, “What is Share of Model?”; verified 30 October 2026].
+
+You need the counted event before you can interpret the share.
 
 ## What our own data shows
+
+Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
 The Absence Index calls its answer-level outcome **naming rate**, with the eligible answer base stated in the release. Study 2 separately reports vendor-answer pairs, own-domain citations and named-without-own-citation events. Those measures retain their own names; we do not relabel them Share of Model.
 
@@ -87,7 +93,7 @@ Broadcastwell research team. (2026, October 30). *What does Share of Model measu
 
 Prepared by the Broadcastwell research team. Lead: Lauren Chen, AI architect and specialist.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 
