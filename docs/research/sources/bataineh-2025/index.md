@@ -100,7 +100,7 @@ We grade the Jordan study B for the observational perception evidence used here.
 
 ## What our own data shows
 
-The [September release](https://doi.org/10.5281/zenodo.22907695) supplies the independently inspectable naming observation beside this survey. [Vendor-level counts and intervals](../../data/vendor-presence.csv) preserve its valid-answer base. We have no measurement here linking those answers to the Jordan respondents’ engagement scores, or estimating a causal effect of engagement on search position. The outside model is reported with its self-report and numerical-reporting limits.
+Microsoft Dynamics 365 is named in **36/150 valid September CRM target answers, 24.0% (Wilson 95% interval 17.9% to 31.4%)**. This answer-level measure is separate from the Jordan survey. The [September release](https://doi.org/10.5281/zenodo.22907695) supplies the independently inspectable naming observation beside this survey. [Vendor-level counts and intervals](../../data/vendor-presence.csv) preserve its valid-answer base. We have no measurement here linking those answers to the Jordan respondents’ engagement scores, or estimating a causal effect of engagement on search position. The outside model is reported with its self-report and numerical-reporting limits.
 
 ## Sources
 
