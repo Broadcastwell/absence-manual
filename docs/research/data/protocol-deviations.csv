@@ -1,0 +1,3 @@
+study,recorded_at,stage,change,unchanged,reason
+2,2026-10-30T03:36:50.987090+00:00,Before outcome aggregation,Begin this registered study while Study 1 is pending,Units; classifications; statistics; exclusions; sensitivity analyses,Prospective timing ruling; completed public Study 2 registration permits its own analysis
+2,2026-10-30T04:52:58.350251+00:00,After primary outcome aggregation,Publish a separately labelled post-audit class sensitivity for five host-role corrections and additional directory/review ambiguity flags,Frozen primary table and all primary outputs retained without replacement,"Primary publisher pages contradict family-based or directory-only labels; display both results, never silently revise the registered primary classification"

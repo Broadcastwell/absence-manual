@@ -1,0 +1,12 @@
+request_token,documented_role,operator,included_in_ai_match,primary_documentation,verified
+GPTBot,Training-related crawl,OpenAI,yes,https://developers.openai.com/api/docs/bots,2026-10-30
+OAI-SearchBot,Search for ChatGPT,OpenAI,yes,https://developers.openai.com/api/docs/bots,2026-10-30
+ChatGPT-User,"User-initiated retrieval, not automatic crawl",OpenAI,yes,https://developers.openai.com/api/docs/bots,2026-10-30
+ClaudeBot,Training-related crawl,Anthropic,yes,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler,2026-10-30
+Claude-SearchBot,Search-related crawl,Anthropic,yes,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler,2026-10-30
+Claude-User,User-initiated retrieval,Anthropic,yes,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler,2026-10-30
+PerplexityBot,Search crawl,Perplexity,yes,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,2026-10-30
+Perplexity-User,User-initiated retrieval,Perplexity,yes,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,2026-10-30
+Googlebot,General Google Search crawl; not specific evidence of AI use,Google,no,https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers,2026-10-30
+bingbot,General Bing crawl; not specific evidence of AI use,Microsoft Bing,no,https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0,2026-10-30
+Applebot,Apple search-related crawl; AI use cannot be inferred per request,Apple,no,https://support.apple.com/en-us/119829,2026-10-30

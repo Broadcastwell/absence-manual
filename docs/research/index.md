@@ -38,21 +38,23 @@ You can use these pages to find a defensible claim, inspect a familiar statistic
 | [What does a single rank conceal?](insights/one-rank-number-is-a-fiction/) | The same vendor can be named in some repeats and absent in others. |
 | [Does a familiar brand ensure visibility?](insights/strong-brands-weak-visibility/) | Presence in a fixed buyer-question sample is a separate observation from company stature. |
 | [Can an engine's ordering change without a notice?](insights/engines-change-without-telling-you/) | Dated snapshots remain useful when their collection conditions travel with them. |
-| Who gets cited for software questions? | A cited publisher class describes the source of a link; it does not reveal an engine's private trust judgment. |
-| What role do software review sites play? | Citation frequency and the quality of the underlying reviews need separate assessment. |
-| How concentrated are category answers? | A category may spread mentions across vendors differently from another category or engine. |
+| [Who gets cited for software questions?](insights/who-the-engines-trust/) | A cited publisher class describes the source of a link; it does not reveal an engine's private trust judgment. |
+| [What role do software review sites play?](insights/review-platforms-as-the-objective-source/) | Citation frequency and the quality of the underlying reviews need separate assessment. |
+| [How concentrated are category answers?](insights/one-channel-is-a-risk/) | A category may spread mentions across vendors differently from another category or engine. |
 | [Why publish original research?](insights/google-asks-for-original-research/) | Google's advice supports useful original work without promising a citation or a commercial return. |
-| How much GEO research can a reader check? | A dated, reproducible search is more informative than a confident claim about the whole literature. |
+| [How much GEO research can a reader check?](insights/state-of-geo-research-2026/) | A dated, reproducible search is more informative than a confident claim about the whole literature. |
 
 ## Three studies, with their status visible
 
 **Study 1, optimization signals on cited pages:** the existing plan is public at [OSF dvyfu](https://doi.org/10.17605/OSF.IO/DVYFU), with platform registration timestamp 30 October 2026 at 01:06:12 UTC. Approval completed before the new page-signal collection began. No result is presented here. The study concerns observable signals and citation samples; those signals cannot establish why an engine selected a page.
 
-**Study 2, publishers cited for B2B software questions:** the plan is registered at [OSF vczkt](https://doi.org/10.17605/OSF.IO/VCZKT), 30 October 2026 at 01:32:03 UTC. Its registered secondary analysis concerns the explicit citation arrays in the September archive. The published protocol fixes the units and the treatment of repeated links, controls and uncertain publisher classifications.
+**Study 2, publishers cited for B2B software questions:** the plan is registered at [OSF vczkt](https://doi.org/10.17605/OSF.IO/VCZKT), 30 October 2026 at 01:32:03 UTC. Its registered secondary analysis concerns the explicit citation arrays in the September archive. The [results and reproducibility files](studies/who-ai-engines-cite/) preserve the units, repeated-link handling, control questions, uncertain publisher classes and post-analysis corrections.
 
-**Study 3, persistence of absence:** the prospective plan is registered at [OSF mkj9v](https://doi.org/10.17605/OSF.IO/MKJ9V), 30 October 2026 at 01:12:44 UTC. Its persistence analysis requires a further eligible release under comparable conditions. The existing August and September standings are dated observations; they are not a measured transition.
+**Study 3, persistence of absence:** the prospective plan is registered at [OSF mkj9v](https://doi.org/10.17605/OSF.IO/MKJ9V), 30 October 2026 at 01:12:44 UTC. Its persistence analysis requires a further eligible release under comparable conditions. The [published waiting protocol](studies/does-absence-persist/) keeps the existing August and September standings as dated observations; they are not a measured transition.
 
 Registration preserves a plan. It does not mean a result exists or that a study has passed peer review. Completed descriptive tables from an existing release are identified separately from these registered studies.
+
+Read the original-study reviews of [Lewandowski and colleagues](sources/lewandowski-2021/) and [Rovira and colleagues](sources/rovira-2019/), including the latter’s deposited calculation discrepancy. The [Index against the literature](insights/index-against-the-literature/) compares their questions without treating different outcomes as interchangeable. The [crawler log](studies/ai-crawler-log/) is a separate, bounded public-request record; it does not establish citation.
 
 ## Take a number with its boundary
 

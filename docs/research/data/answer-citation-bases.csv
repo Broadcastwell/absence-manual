@@ -1,0 +1,199 @@
+scope,engine,category,valid_answers,zero_citation_answers,zero_share_pct,wilson_low_pct,wilson_high_pct,citation_array_entries
+combined,ChatGPT,all,450,0,0.0,0.0,0.8464,2133
+combined,ChatGPT,construction-project-management,45,0,0.0,0,7.8652,256
+combined,ChatGPT,crm,45,0,0.0,0,7.8652,195
+combined,ChatGPT,dealership-management-systems,30,0,0.0,0,11.3513,121
+combined,ChatGPT,dental-practice-management,30,0,0.0,0,11.3513,128
+combined,ChatGPT,field-service-management,30,0,0.0,0,11.3513,139
+combined,ChatGPT,hotel-property-management,30,0,0.0,0,11.3513,139
+combined,ChatGPT,insurance-agency-management,30,0,0.0,0,11.3513,152
+combined,ChatGPT,legal-practice-management,30,0,0.0,0,11.3513,138
+combined,ChatGPT,loan-origination-software,30,0,0.0,0,11.3513,152
+combined,ChatGPT,project_management,30,0,0.0,0,11.3513,146
+combined,ChatGPT,radiology-medical-imaging,30,0,0.0,0,11.3513,148
+combined,ChatGPT,residential-property-management,30,0,0.0,0,11.3513,137
+combined,ChatGPT,transportation-management-systems,30,0,0.0,0,11.3513,142
+combined,ChatGPT,veterinary-practice-management,30,0,0.0,0,11.3513,140
+combined,Claude,all,450,0,0.0,0.0,0.8464,4274
+combined,Claude,construction-project-management,45,0,0.0,0,7.8652,482
+combined,Claude,crm,45,0,0.0,0,7.8652,399
+combined,Claude,dealership-management-systems,30,0,0.0,0,11.3513,275
+combined,Claude,dental-practice-management,30,0,0.0,0,11.3513,246
+combined,Claude,field-service-management,30,0,0.0,0,11.3513,295
+combined,Claude,hotel-property-management,30,0,0.0,0,11.3513,304
+combined,Claude,insurance-agency-management,30,0,0.0,0,11.3513,284
+combined,Claude,legal-practice-management,30,0,0.0,0,11.3513,311
+combined,Claude,loan-origination-software,30,0,0.0,0,11.3513,256
+combined,Claude,project_management,30,0,0.0,0,11.3513,253
+combined,Claude,radiology-medical-imaging,30,0,0.0,0,11.3513,271
+combined,Claude,residential-property-management,30,0,0.0,0,11.3513,318
+combined,Claude,transportation-management-systems,30,0,0.0,0,11.3513,267
+combined,Claude,veterinary-practice-management,30,0,0.0,0,11.3513,313
+combined,Google AI Mode,all,450,40,8.8889,6.5956,11.8781,1648
+combined,Google AI Mode,construction-project-management,45,3,6.6667,2.2932,17.8566,200
+combined,Google AI Mode,crm,45,15,33.3333,21.3589,47.9295,121
+combined,Google AI Mode,dealership-management-systems,30,1,3.3333,0.5909,16.6704,101
+combined,Google AI Mode,dental-practice-management,30,2,6.6667,1.8477,21.3235,91
+combined,Google AI Mode,field-service-management,30,5,16.6667,7.3365,33.5644,99
+combined,Google AI Mode,hotel-property-management,30,2,6.6667,1.8477,21.3235,118
+combined,Google AI Mode,insurance-agency-management,30,1,3.3333,0.5909,16.6704,110
+combined,Google AI Mode,legal-practice-management,30,0,0.0,0,11.3513,115
+combined,Google AI Mode,loan-origination-software,30,0,0.0,0,11.3513,113
+combined,Google AI Mode,project_management,30,3,10.0,3.46,25.6211,73
+combined,Google AI Mode,radiology-medical-imaging,30,1,3.3333,0.5909,16.6704,147
+combined,Google AI Mode,residential-property-management,30,2,6.6667,1.8477,21.3235,124
+combined,Google AI Mode,transportation-management-systems,30,4,13.3333,5.3097,29.6813,118
+combined,Google AI Mode,veterinary-practice-management,30,1,3.3333,0.5909,16.6704,118
+combined,Google AI Overviews,all,445,11,2.4719,1.3858,4.3716,3258
+combined,Google AI Overviews,construction-project-management,45,0,0.0,0,7.8652,301
+combined,Google AI Overviews,crm,45,2,4.4444,1.2274,14.8275,309
+combined,Google AI Overviews,dealership-management-systems,30,1,3.3333,0.5909,16.6704,236
+combined,Google AI Overviews,dental-practice-management,29,0,0.0,0,11.697,218
+combined,Google AI Overviews,field-service-management,30,4,13.3333,5.3097,29.6813,173
+combined,Google AI Overviews,hotel-property-management,29,0,0.0,0,11.697,187
+combined,Google AI Overviews,insurance-agency-management,30,0,0.0,0,11.3513,242
+combined,Google AI Overviews,legal-practice-management,30,1,3.3333,0.5909,16.6704,257
+combined,Google AI Overviews,loan-origination-software,30,0,0.0,0,11.3513,207
+combined,Google AI Overviews,project_management,30,2,6.6667,1.8477,21.3235,205
+combined,Google AI Overviews,radiology-medical-imaging,30,0,0.0,0,11.3513,228
+combined,Google AI Overviews,residential-property-management,28,1,3.5714,0.6333,17.7122,206
+combined,Google AI Overviews,transportation-management-systems,30,0,0.0,0,11.3513,252
+combined,Google AI Overviews,veterinary-practice-management,29,0,0.0,0,11.697,237
+combined,Perplexity,all,450,0,0.0,0.0,0.8464,8877
+combined,Perplexity,construction-project-management,45,0,0.0,0,7.8652,858
+combined,Perplexity,crm,45,0,0.0,0,7.8652,945
+combined,Perplexity,dealership-management-systems,30,0,0.0,0,11.3513,574
+combined,Perplexity,dental-practice-management,30,0,0.0,0,11.3513,558
+combined,Perplexity,field-service-management,30,0,0.0,0,11.3513,558
+combined,Perplexity,hotel-property-management,30,0,0.0,0,11.3513,527
+combined,Perplexity,insurance-agency-management,30,0,0.0,0,11.3513,671
+combined,Perplexity,legal-practice-management,30,0,0.0,0,11.3513,582
+combined,Perplexity,loan-origination-software,30,0,0.0,0,11.3513,671
+combined,Perplexity,project_management,30,0,0.0,0,11.3513,609
+combined,Perplexity,radiology-medical-imaging,30,0,0.0,0,11.3513,503
+combined,Perplexity,residential-property-management,30,0,0.0,0,11.3513,612
+combined,Perplexity,transportation-management-systems,30,0,0.0,0,11.3513,651
+combined,Perplexity,veterinary-practice-management,30,0,0.0,0,11.3513,558
+combined,all,all,2245,51,2.2717,1.732,2.9744,20190
+combined,all,construction-project-management,225,3,1.3333,0.4545,3.8461,2097
+combined,all,crm,225,17,7.5556,4.7705,11.7656,1969
+combined,all,dealership-management-systems,150,2,1.3333,0.3664,4.7307,1307
+combined,all,dental-practice-management,149,2,1.3423,0.3689,4.7616,1241
+combined,all,field-service-management,150,9,6.0,3.1884,11.009,1264
+combined,all,hotel-property-management,149,2,1.3423,0.3689,4.7616,1275
+combined,all,insurance-agency-management,150,1,0.6667,0.1178,3.6793,1459
+combined,all,legal-practice-management,150,1,0.6667,0.1178,3.6793,1403
+combined,all,loan-origination-software,150,0,0.0,0,2.497,1399
+combined,all,project_management,150,5,3.3333,1.432,7.5652,1286
+combined,all,radiology-medical-imaging,150,1,0.6667,0.1178,3.6793,1297
+combined,all,residential-property-management,148,3,2.027,0.6917,5.7897,1397
+combined,all,transportation-management-systems,150,4,2.6667,1.0418,6.6554,1430
+combined,all,veterinary-practice-management,149,1,0.6711,0.1186,3.7033,1366
+control,ChatGPT,all,30,0,0.0,0,11.3513,140
+control,ChatGPT,construction-project-management,15,0,0.0,0,20.3883,88
+control,ChatGPT,crm,15,0,0.0,0,20.3883,52
+control,Claude,all,30,0,0.0,0,11.3513,299
+control,Claude,construction-project-management,15,0,0.0,0,20.3883,168
+control,Claude,crm,15,0,0.0,0,20.3883,131
+control,Google AI Mode,all,30,11,36.6667,21.8739,54.4864,71
+control,Google AI Mode,construction-project-management,15,1,6.6667,1.1867,29.8165,50
+control,Google AI Mode,crm,15,10,66.6667,41.7135,84.8237,21
+control,Google AI Overviews,all,30,1,3.3333,0.5909,16.6704,208
+control,Google AI Overviews,construction-project-management,15,0,0.0,0,20.3883,114
+control,Google AI Overviews,crm,15,1,6.6667,1.1867,29.8165,94
+control,Perplexity,all,30,0,0.0,0,11.3513,579
+control,Perplexity,construction-project-management,15,0,0.0,0,20.3883,288
+control,Perplexity,crm,15,0,0.0,0,20.3883,291
+control,all,all,150,12,8.0,4.6354,13.4621,1297
+control,all,construction-project-management,75,1,1.3333,0.2358,7.1734,708
+control,all,crm,75,11,14.6667,8.3917,24.3848,589
+target,ChatGPT,all,420,0,0.0,0,0.9063,1993
+target,ChatGPT,construction-project-management,30,0,0.0,0,11.3513,168
+target,ChatGPT,crm,30,0,0.0,0,11.3513,143
+target,ChatGPT,dealership-management-systems,30,0,0.0,0,11.3513,121
+target,ChatGPT,dental-practice-management,30,0,0.0,0,11.3513,128
+target,ChatGPT,field-service-management,30,0,0.0,0,11.3513,139
+target,ChatGPT,hotel-property-management,30,0,0.0,0,11.3513,139
+target,ChatGPT,insurance-agency-management,30,0,0.0,0,11.3513,152
+target,ChatGPT,legal-practice-management,30,0,0.0,0,11.3513,138
+target,ChatGPT,loan-origination-software,30,0,0.0,0,11.3513,152
+target,ChatGPT,project_management,30,0,0.0,0,11.3513,146
+target,ChatGPT,radiology-medical-imaging,30,0,0.0,0,11.3513,148
+target,ChatGPT,residential-property-management,30,0,0.0,0,11.3513,137
+target,ChatGPT,transportation-management-systems,30,0,0.0,0,11.3513,142
+target,ChatGPT,veterinary-practice-management,30,0,0.0,0,11.3513,140
+target,Claude,all,420,0,0.0,0,0.9063,3975
+target,Claude,construction-project-management,30,0,0.0,0,11.3513,314
+target,Claude,crm,30,0,0.0,0,11.3513,268
+target,Claude,dealership-management-systems,30,0,0.0,0,11.3513,275
+target,Claude,dental-practice-management,30,0,0.0,0,11.3513,246
+target,Claude,field-service-management,30,0,0.0,0,11.3513,295
+target,Claude,hotel-property-management,30,0,0.0,0,11.3513,304
+target,Claude,insurance-agency-management,30,0,0.0,0,11.3513,284
+target,Claude,legal-practice-management,30,0,0.0,0,11.3513,311
+target,Claude,loan-origination-software,30,0,0.0,0,11.3513,256
+target,Claude,project_management,30,0,0.0,0,11.3513,253
+target,Claude,radiology-medical-imaging,30,0,0.0,0,11.3513,271
+target,Claude,residential-property-management,30,0,0.0,0,11.3513,318
+target,Claude,transportation-management-systems,30,0,0.0,0,11.3513,267
+target,Claude,veterinary-practice-management,30,0,0.0,0,11.3513,313
+target,Google AI Mode,all,420,29,6.9048,4.8502,9.7405,1577
+target,Google AI Mode,construction-project-management,30,2,6.6667,1.8477,21.3235,150
+target,Google AI Mode,crm,30,5,16.6667,7.3365,33.5644,100
+target,Google AI Mode,dealership-management-systems,30,1,3.3333,0.5909,16.6704,101
+target,Google AI Mode,dental-practice-management,30,2,6.6667,1.8477,21.3235,91
+target,Google AI Mode,field-service-management,30,5,16.6667,7.3365,33.5644,99
+target,Google AI Mode,hotel-property-management,30,2,6.6667,1.8477,21.3235,118
+target,Google AI Mode,insurance-agency-management,30,1,3.3333,0.5909,16.6704,110
+target,Google AI Mode,legal-practice-management,30,0,0.0,0,11.3513,115
+target,Google AI Mode,loan-origination-software,30,0,0.0,0,11.3513,113
+target,Google AI Mode,project_management,30,3,10.0,3.46,25.6211,73
+target,Google AI Mode,radiology-medical-imaging,30,1,3.3333,0.5909,16.6704,147
+target,Google AI Mode,residential-property-management,30,2,6.6667,1.8477,21.3235,124
+target,Google AI Mode,transportation-management-systems,30,4,13.3333,5.3097,29.6813,118
+target,Google AI Mode,veterinary-practice-management,30,1,3.3333,0.5909,16.6704,118
+target,Google AI Overviews,all,415,10,2.4096,1.314,4.3782,3050
+target,Google AI Overviews,construction-project-management,30,0,0.0,0,11.3513,187
+target,Google AI Overviews,crm,30,1,3.3333,0.5909,16.6704,215
+target,Google AI Overviews,dealership-management-systems,30,1,3.3333,0.5909,16.6704,236
+target,Google AI Overviews,dental-practice-management,29,0,0.0,0,11.697,218
+target,Google AI Overviews,field-service-management,30,4,13.3333,5.3097,29.6813,173
+target,Google AI Overviews,hotel-property-management,29,0,0.0,0,11.697,187
+target,Google AI Overviews,insurance-agency-management,30,0,0.0,0,11.3513,242
+target,Google AI Overviews,legal-practice-management,30,1,3.3333,0.5909,16.6704,257
+target,Google AI Overviews,loan-origination-software,30,0,0.0,0,11.3513,207
+target,Google AI Overviews,project_management,30,2,6.6667,1.8477,21.3235,205
+target,Google AI Overviews,radiology-medical-imaging,30,0,0.0,0,11.3513,228
+target,Google AI Overviews,residential-property-management,28,1,3.5714,0.6333,17.7122,206
+target,Google AI Overviews,transportation-management-systems,30,0,0.0,0,11.3513,252
+target,Google AI Overviews,veterinary-practice-management,29,0,0.0,0,11.697,237
+target,Perplexity,all,420,0,0.0,0,0.9063,8298
+target,Perplexity,construction-project-management,30,0,0.0,0,11.3513,570
+target,Perplexity,crm,30,0,0.0,0,11.3513,654
+target,Perplexity,dealership-management-systems,30,0,0.0,0,11.3513,574
+target,Perplexity,dental-practice-management,30,0,0.0,0,11.3513,558
+target,Perplexity,field-service-management,30,0,0.0,0,11.3513,558
+target,Perplexity,hotel-property-management,30,0,0.0,0,11.3513,527
+target,Perplexity,insurance-agency-management,30,0,0.0,0,11.3513,671
+target,Perplexity,legal-practice-management,30,0,0.0,0,11.3513,582
+target,Perplexity,loan-origination-software,30,0,0.0,0,11.3513,671
+target,Perplexity,project_management,30,0,0.0,0,11.3513,609
+target,Perplexity,radiology-medical-imaging,30,0,0.0,0,11.3513,503
+target,Perplexity,residential-property-management,30,0,0.0,0,11.3513,612
+target,Perplexity,transportation-management-systems,30,0,0.0,0,11.3513,651
+target,Perplexity,veterinary-practice-management,30,0,0.0,0,11.3513,558
+target,all,all,2095,39,1.8616,1.3648,2.5346,18893
+target,all,construction-project-management,150,2,1.3333,0.3664,4.7307,1389
+target,all,crm,150,6,4.0,1.8459,8.4513,1380
+target,all,dealership-management-systems,150,2,1.3333,0.3664,4.7307,1307
+target,all,dental-practice-management,149,2,1.3423,0.3689,4.7616,1241
+target,all,field-service-management,150,9,6.0,3.1884,11.009,1264
+target,all,hotel-property-management,149,2,1.3423,0.3689,4.7616,1275
+target,all,insurance-agency-management,150,1,0.6667,0.1178,3.6793,1459
+target,all,legal-practice-management,150,1,0.6667,0.1178,3.6793,1403
+target,all,loan-origination-software,150,0,0.0,0,2.497,1399
+target,all,project_management,150,5,3.3333,1.432,7.5652,1286
+target,all,radiology-medical-imaging,150,1,0.6667,0.1178,3.6793,1297
+target,all,residential-property-management,148,3,2.027,0.6917,5.7897,1397
+target,all,transportation-management-systems,150,4,2.6667,1.0418,6.6554,1430
+target,all,veterinary-practice-management,149,1,0.6711,0.1186,3.7033,1366
