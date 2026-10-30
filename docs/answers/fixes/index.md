@@ -5,7 +5,7 @@ description: Source facts, readable pages and changes that can be checked after 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T21:09:24+00:00'
+date_modified: '2026-10-29T23:17:04+00:00'
 library_hub: true
 library_owner: Rohan Iyer, AI Engineer
 library_order: 9
@@ -15,7 +15,7 @@ library_order: 9
 
 Source facts, readable pages and changes that can be checked after publication.
 
-These 22 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 23 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Official company facts
 
@@ -148,6 +148,12 @@ An llms.txt checker tests stated file rules. Separate a valid structure or worki
 [How should I choose content for SEO, AEO and GEO?](how-should-i-choose-content-for-seo-aeo-and-geo.md)
 
 Choose a buyer decision before a content format: Study 7 extracted 2,003 category-specific criteria from answers captured on 22 and 23 September 2026.
+
+## Daily factual-claim triage
+
+[How should teams handle SEO and GEO in day-to-day work?](how-should-teams-handle-seo-and-geo-in-day-to-day-work.md)
+
+Use dated claim records for daily SEO and GEO work. Two Procore pricing flags separate source checks, page edits and changed answers.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

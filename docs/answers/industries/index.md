@@ -5,7 +5,7 @@ description: Absences and cited sources in each of the fourteen measured softwar
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T01:38:25+00:00'
-date_modified: '2026-10-29T19:54:12+00:00'
+date_modified: '2026-10-29T23:17:04+00:00'
 library_hub: true
 library_owner: Ananya Rao, AI Engineer
 library_order: 8
@@ -15,7 +15,7 @@ library_order: 8
 
 Absences and cited sources in each of the fourteen measured software categories.
 
-These 32 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 33 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Construction absence checks
 
@@ -194,6 +194,12 @@ Compare documented construction integration routes, their ERP and asset-data lim
 [Is Dentally a good fit for UK dentists running a cloud based practice?](is-dentally-a-good-fit-for-uk-dentists-running-a-cloud-based-practice.md)
 
 Dentally’s UK site describes cloud practice software and regional integrations. Its zero names in 149 dental answers do not measure suitability.
+
+## Veterinary telemedicine and engagement
+
+[Digitail vs ezyVet for AI-native veterinary practice management with telemedicine and client engagement tools, which is better?](digitail-vs-ezyvet-for-ai-native-veterinary-practice-management-with-t.md)
+
+Compare documented setups: the September Index named Digitail in 67/149 and ezyVet in 115/149 veterinary answers captured on 22 September 2026.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

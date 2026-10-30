@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "source_url": "https://broadcastwell.com/best-ai-visibility-tools-with-mcp",
+  "publication_date": "2026-09-18",
+  "source_snapshot": {
+    "read_utc": "2026-10-28T18:38:51.788710+00:00",
+    "html_sha256": "3eb24eced80a5d0fe1b4f66d257d2d0817dd608c3a8b23d1db85ef37899eb1f3"
+  },
+  "method": {
+    "kind": "dated-publication-review",
+    "unit": "named MCP-access plan labels in one published provider record",
+    "count_rule": "Count Standard, Premium and Enterprise once each; Lite is explicitly excluded.",
+    "runtime_integration_test": false,
+    "security_or_compliance_audit": false,
+    "publisher_scored": false
+  },
+  "record": {
+    "id": "otterlyai-2026-09-17",
+    "provider": "OtterlyAI",
+    "field_date": "2026-09-17",
+    "MCP_connector": "Yes",
+    "MCP_plan_labels": [
+      "Standard",
+      "Premium",
+      "Enterprise"
+    ],
+    "MCP_excluded_plan_labels": [
+      "Lite"
+    ],
+    "official_API": "Yes",
+    "API_plan_labels": [
+      "Standard",
+      "Premium",
+      "Enterprise"
+    ],
+    "API_excluded_plan_labels": [
+      "Lite"
+    ],
+    "demo_without_account": "No",
+    "documentation_host": "docs.otterly.ai"
+  },
+  "lead_fact": {
+    "source_url": "https://broadcastwell.com/best-ai-visibility-tools-with-mcp",
+    "record": {
+      "capture_date": "2026-09-17",
+      "subject": "OtterlyAI",
+      "metric": "MCP_access_named_plan_labels"
+    },
+    "count": 3,
+    "base": null,
+    "unit": "plan-labels",
+    "label": "OtterlyAI MCP access: three named plan labels in the dated review"
+  }
+}

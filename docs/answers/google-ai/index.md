@@ -5,7 +5,7 @@ description: AI Overviews, AI Mode, their different answers and the bases needed
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T23:36:56+00:00'
-date_modified: '2026-10-29T22:39:48+00:00'
+date_modified: '2026-10-29T23:17:04+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 5
@@ -15,7 +15,7 @@ library_order: 5
 
 AI Overviews, AI Mode, their different answers and the bases needed to compare them.
 
-These 16 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 18 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Google surfaces
 
@@ -98,6 +98,18 @@ Google documents no off switch for core AI Overviews. See the Web filter, the se
 [Is the AI Overview gone?](is-the-ai-overview-gone.md)
 
 A missing Overview does not show that Google has withdrawn the feature. Compare current help with 28 retained property-management targets out of 30.
+
+## AI Mode failure context
+
+[Why is Google AI Mode not working?](why-is-google-ai-mode-not-working.md)
+
+Read the displayed condition: Study 7 excluded one request-limit response from 420 AI Mode targets captured on 22 September 2026.
+
+## Deep Search and research-report units
+
+[What is Deep Search in Google AI Mode?](what-is-deep-search-in-google-ai-mode.md)
+
+Deep Search is Google’s cited-report research feature in AI Mode. Our September Index’s 420 Mode targets form a separate ordinary-Mode cohort.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

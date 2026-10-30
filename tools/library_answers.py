@@ -16,6 +16,13 @@ except ModuleNotFoundError:
     from library_list_audit import (LIST_AUDIT_SOURCE, LIST_AUDIT_METHOD_URL,
         LIST_AUDIT_METHOD_LABEL, LIST_AUDIT_RECEIPT_URL, validate_list_audit)
 
+try:
+    from tools.library_documentation_review import (DOC_REVIEW_SOURCE, DOC_REVIEW_METHOD_URL,
+        DOC_REVIEW_METHOD_LABEL, DOC_REVIEW_RECEIPT_URL, validate_documentation_review)
+except ModuleNotFoundError:
+    from library_documentation_review import (DOC_REVIEW_SOURCE, DOC_REVIEW_METHOD_URL,
+        DOC_REVIEW_METHOD_LABEL, DOC_REVIEW_RECEIPT_URL, validate_documentation_review)
+
 SITE_URL = "https://docs.broadcastwell.com/"
 BUY_ENTRY = "https://broadcastwell.com/answer-repair"
 LIMIT_SENTENCE = "No email is needed; runs are limited per network and per day, and by the site's daily allowance."
@@ -577,10 +584,16 @@ def validate_source_evidence(meta, body, docs):
             paragraph_after_heading=paragraph_after_heading,
             audit_prose=_audit_prose, audit_negates=_audit_negates,
             unsupported_claims=_audit_unsupported_claims))
+    elif kind == "published-documentation-review":
+        method_label = DOC_REVIEW_METHOD_LABEL
+        method_url = DOC_REVIEW_METHOD_URL
+        errors.extend(validate_documentation_review(meta, body, measured, docs,
+            plain_text=plain_text, markdown_links=markdown_links,
+            paragraph_after_heading=paragraph_after_heading))
     else:
         errors.append("unknown evidence_kind")
     if f"[{method_label}]({method_url})" not in body:
-        errors.append("method label must link to the publication-audit scorecard" if kind == "published-audit" else "method label must link to the list-audit criteria" if kind == "published-list-audit" else "method label must link to the published answer-study method")
+        errors.append("method label must link to the publication-audit scorecard" if kind == "published-audit" else "method label must link to the list-audit criteria" if kind == "published-list-audit" else "method label must link to the dated documentation review" if kind == "published-documentation-review" else "method label must link to the published answer-study method")
     return errors, method_label
 
 
@@ -686,7 +699,13 @@ def validate_answer(path, docs):
         and LIST_AUDIT_METHOD_URL in markdown_links(body)
         and LIST_AUDIT_RECEIPT_URL in markdown_links(body)
     )
-    if not (standard_evidence or approved_gsc_evidence or approved_audit_evidence or approved_list_audit_evidence):
+    approved_documentation_evidence = (
+        meta.get("evidence_kind") == "published-documentation-review"
+        and meta.get("is_based_on") == DOC_REVIEW_SOURCE
+        and DOC_REVIEW_SOURCE in markdown_links(body)
+        and DOC_REVIEW_RECEIPT_URL in markdown_links(body)
+    )
+    if not (standard_evidence or approved_gsc_evidence or approved_audit_evidence or approved_list_audit_evidence or approved_documentation_evidence):
         errors.append("missing published evidence link")
     return [rel + ": " + error for error in errors]
 

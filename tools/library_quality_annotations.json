@@ -5417,6 +5417,81 @@
       "unit": "publication_criteria",
       "label": "Omniscient Digital dated publicly verifiable criteria",
       "source_review_sha256": "8ad8e4692ae842627e76386cd4449b9238cc86b3451dad5c29f3cca3b4b28402"
+    },
+    "figure:1f079cdf77ce5342aa92a2d5024beb25d9bbee508d6d6424e96d7ac7d8babcd9": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "engine": "Google AI Mode",
+        "subject": "all-scheduled-answers",
+        "metric": "excluded_request_limit",
+        "cohort": "study7-derived-records"
+      },
+      "count": 1,
+      "base": 420,
+      "unit": "answers",
+      "label": "Study7 Google AI Mode target excluded for explicit request-limit response",
+      "source_review_sha256": "18a30528136c81e1a0dc45e48cfbde8b24b971489adb659ae3700802519c34b0"
+    },
+    "figure:9f72c44206d1873048d0a6f7c2ec3f8dcf625885b8503328056454fe6b6a47fd": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "veterinary-practice-management",
+        "engine": "pooled-five-engines",
+        "subject": "Digitail",
+        "metric": "named"
+      },
+      "count": 67,
+      "base": 149,
+      "unit": "answers",
+      "label": "Digitail: named",
+      "source_review_sha256": "e1ea869154d31a90ba1605e151610b92fdf1f910572a8034d003858461d0393d"
+    },
+    "figure:d4cd0c284fbc773d41dcd219a100b7430ab83df24d07a42ae224cd22ec5c0db2": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "veterinary-practice-management",
+        "engine": "pooled-five-engines",
+        "subject": "ezyVet",
+        "metric": "named"
+      },
+      "count": 115,
+      "base": 149,
+      "unit": "answers",
+      "label": "ezyVet: named",
+      "source_review_sha256": "e1ea869154d31a90ba1605e151610b92fdf1f910572a8034d003858461d0393d"
+    },
+    "figure:539a927b43f5757aa088e168625aa0fd1807f9ca078a89cce6a896bf791f5525": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "engine": "Google AI Mode",
+        "subject": "all-fourteen-categories",
+        "metric": "scheduled_targets"
+      },
+      "count": 420,
+      "base": null,
+      "unit": "targets",
+      "label": "September Index Google AI Mode target cohort",
+      "source_review_sha256": "425d2fd6f58262ccf3b6cc26cdb2772f73fa607fa21e8daf9aa80034cad60cde"
+    },
+    "figure:5af00bfce83dbf587027a865e03f1ed5056ee4ae8f37a9c3b58c11b983d0c89f": {
+      "source_url": "https://broadcastwell.com/best-ai-visibility-tools-with-mcp",
+      "record": {
+        "capture_date": "2026-09-17",
+        "subject": "OtterlyAI",
+        "metric": "MCP_access_named_plan_labels"
+      },
+      "count": 3,
+      "base": null,
+      "unit": "plan-labels",
+      "label": "OtterlyAI MCP access: three named plan labels in the dated review",
+      "source_review_sha256": "31c4aa01572a65dbb5a4cb9f3b3e8172e30e0473ea4dae0406590c48d02bf926"
     }
   },
   "pages": {
@@ -10019,6 +10094,154 @@
       "opening_shape": "source_first",
       "classification_reason": "The named AthenaHQ accuracy FAQ is the grammatical source-document subject of the first clause. Its descriptions, rather than a checked software-performance result, lead the paragraph. This matches the existing source_first definition and measurement inventory.",
       "writing_review_sha256": "1e45771c715150a95b5a0622a90e946412d75da23d283bb2e9ddee7f2535faa5"
+    },
+    "answers/agents/can-legal-practice-software-integrate-with-chatgpt.md": {
+      "source_sha256": "995e75a5f6d071ffad8fbcb23b73fea3f14a19a474c154319ba5409051adecef",
+      "canonical_source_sha256": "995e75a5f6d071ffad8fbcb23b73fea3f14a19a474c154319ba5409051adecef",
+      "opening_sha256": "2ba2761c478078426414a32dac6ee2334d9521b1568ee6914a8b8b807c98e321",
+      "bank_id": "LB-Q0399",
+      "lead_figures": [
+        "figure:849206160eeb7f5ded0ccc0f3deed26b21fdf0d77d48b0a2ac07c7491ee7d30b"
+      ],
+      "lead_figure_spans": {
+        "figure:849206160eeb7f5ded0ccc0f3deed26b21fdf0d77d48b0a2ac07c7491ee7d30b": [
+          "Yes. Clio's Zapier listing describes a ChatGPT-compatible MCP connection, while a separate activity automation uses OpenAI's Chat Completions API. Agent Gap recorded 13 reached endpoints from 15 initial legal-software website tasks on 6 October 2026."
+        ]
+      },
+      "source_review_sha256": "b29e1188aeee2a77c6e46fe50e7d61971096a66aa7629f0822924b9631af0f57",
+      "opening_shape": "yes_no",
+      "classification_reason": "The paragraph explicitly starts Yes and immediately answers the title question, before the named Clio route and count.",
+      "writing_review_sha256": "4cfa2e047e441d76b2d01fd0c146161da97f284959a61ee9928dfacec3aa687e"
+    },
+    "answers/agents/can-loan-origination-software-integrate-with-chatgpt.md": {
+      "source_sha256": "6bf2e73bfc5394587bd83a8c25df3ad883b1284c6e8f9f6db0b124c86005d171",
+      "canonical_source_sha256": "6bf2e73bfc5394587bd83a8c25df3ad883b1284c6e8f9f6db0b124c86005d171",
+      "opening_sha256": "f546992c79e5a32edbf7585380b5c6e62e51e91b5df762a2eab5f9213d3042dd",
+      "bank_id": "LB-Q0408",
+      "lead_figures": [
+        "figure:839b7f2410a4991956782a8a291b69eade2e1532f0263e0d4fc0943cf23dbb7e"
+      ],
+      "lead_figure_spans": {
+        "figure:839b7f2410a4991956782a8a291b69eade2e1532f0263e0d4fc0943cf23dbb7e": [
+          "On 29 October 2026, we read LendingPad's Zapier listing: it names Create New Lead / Loan in an MCP section for ChatGPT-compatible clients. Our loan-origination observations in Agent Gap recorded 6 reached endpoints in 15 initial public website tasks on 6 October 2026."
+        ]
+      },
+      "source_review_sha256": "b29e1188aeee2a77c6e46fe50e7d61971096a66aa7629f0822924b9631af0f57",
+      "opening_shape": "date_first",
+      "classification_reason": "The date of the actual new primary-listing read frames the first clause and route; the study capture is separately dated. This is the source-capture event in the new paragraph, not an old repeated sentence shuffled to obtain a label.",
+      "writing_review_sha256": "6c259d8b37e41a21977a28a502aa36532bc73667974ef852682a9ca3d7210b03"
+    },
+    "answers/fixes/how-should-teams-handle-seo-and-geo-in-day-to-day-work.md": {
+      "source_sha256": "9e387c7d1d33f30ed8d737eb321010f29f5db9acae5f78467d934674f4a64b3f",
+      "canonical_source_sha256": "9e387c7d1d33f30ed8d737eb321010f29f5db9acae5f78467d934674f4a64b3f",
+      "opening_sha256": "c4fca90d903bd7fa6376d3a0583ef40ad7249ba9aa66e60e2bc637aabfcd8573",
+      "bank_id": "LB-Q0485",
+      "lead_figures": [
+        "figure:4931f9f723b247e50ecf6b2caa0871e1a7f29f58d32f2ae39ac36286e3f52304"
+      ],
+      "lead_figure_spans": {
+        "figure:4931f9f723b247e50ecf6b2caa0871e1a7f29f58d32f2ae39ac36286e3f52304": [
+          "Procore's pricing flags give a team a concrete daily task: check the disputed claim, assign the relevant page work and record what was actually completed. Wrong About You marked 2/57 Procore statements wrong. The study captured those answers on 22 September 2026; the vendor-page check followed on 8 October. You can use those records to specify work; both still have team review in progress, so neither is a completed repair."
+        ]
+      },
+      "source_review_sha256": "8ad8e4692ae842627e76386cd4449b9238cc86b3451dad5c29f3cca3b4b28402",
+      "opening_shape": "vendor_first",
+      "classification_reason": "The checked Procore identity and its pricing flags lead the first clause and task; the numerical statement finding follows.",
+      "writing_review_sha256": "e38ed8e0b8dacb0feb6d7c99a73d95c0a6e46ba4a7f14c01b27b416cc69c2b10"
+    },
+    "answers/google-ai/why-is-google-ai-mode-not-working.md": {
+      "source_sha256": "dbff5486a8698e2977ea873528b11419b494570a7cba29f4741108dd96ec7b03",
+      "canonical_source_sha256": "dbff5486a8698e2977ea873528b11419b494570a7cba29f4741108dd96ec7b03",
+      "opening_sha256": "7a7305ba04c818c7a48d1bdd1865d6a3531aaaa4def2d57790b507ccc179f8eb",
+      "bank_id": "LB-Q0375",
+      "lead_figures": [
+        "figure:1f079cdf77ce5342aa92a2d5024beb25d9bbee508d6d6424e96d7ac7d8babcd9"
+      ],
+      "lead_figure_spans": {
+        "figure:1f079cdf77ce5342aa92a2d5024beb25d9bbee508d6d6424e96d7ac7d8babcd9": [
+          "If your AI Mode screen shows a request-limit message, that notice is more informative than the label 'not working'. Our derived Study 7 coding excluded one of 420 scheduled AI Mode targets from 22 September 2026 as a request-limit response. A missing entry or a links-only result needs a different check against Google's help."
+        ]
+      },
+      "source_review_sha256": "18a30528136c81e1a0dc45e48cfbde8b24b971489adb659ae3700802519c34b0",
+      "opening_shape": "reader_situation",
+      "classification_reason": "If your AI Mode screen shows a request-limit message is the particular reader condition leading the first sentence. It is not a first-person engine diagnosis, figure-first count or general definition.",
+      "writing_review_sha256": "82bb9d36c4f1dbc731a3e816a78f6269d2a605bafba28ccf0451d363c57c751c"
+    },
+    "answers/industries/digitail-vs-ezyvet-for-ai-native-veterinary-practice-management-with-t.md": {
+      "source_sha256": "017e5e2610016d099bbe9b21050621f5b4c39da37002fd89daaa5bc909fc9c3d",
+      "canonical_source_sha256": "017e5e2610016d099bbe9b21050621f5b4c39da37002fd89daaa5bc909fc9c3d",
+      "opening_sha256": "c5f2a4f8bd155ad585b969ee355267bc7b4480881dc1c78d0b425d648799ac2f",
+      "bank_id": "LB-Q0073",
+      "lead_figures": [
+        "figure:9f72c44206d1873048d0a6f7c2ec3f8dcf625885b8503328056454fe6b6a47fd",
+        "figure:d4cd0c284fbc773d41dcd219a100b7430ab83df24d07a42ae224cd22ec5c0db2"
+      ],
+      "lead_figure_spans": {
+        "figure:9f72c44206d1873048d0a6f7c2ec3f8dcf625885b8503328056454fe6b6a47fd": [
+          "For a practice choosing AI-assisted records alongside telemedicine and client messaging, compare the documented setup: Digitail describes built-in intake, while ezyVet documents separate VetRec and Zoom connections. Our 22 September 2026 veterinary answers named Digitail in 67 of 149 and ezyVet in 115 of 149. Those counts measure visibility, not which system is better for your clinic."
+        ],
+        "figure:d4cd0c284fbc773d41dcd219a100b7430ab83df24d07a42ae224cd22ec5c0db2": [
+          "For a practice choosing AI-assisted records alongside telemedicine and client messaging, compare the documented setup: Digitail describes built-in intake, while ezyVet documents separate VetRec and Zoom connections. Our 22 September 2026 veterinary answers named Digitail in 67 of 149 and ezyVet in 115 of 149. Those counts measure visibility, not which system is better for your clinic."
+        ]
+      },
+      "source_review_sha256": "e1ea869154d31a90ba1605e151610b92fdf1f910572a8034d003858461d0393d",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The particular practice choosing records/telemedicine/messaging leads the first clause, before the named setup comparison.",
+      "writing_review_sha256": "87a071eefa925696d66dceb71de7731cef25495499b1762dbbc0025fcfb593b9"
+    },
+    "answers/buying/which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo.md": {
+      "source_sha256": "5a0d985ea4fb7f6ef72143db6504d338ee0d877c69124986238961fc4a315ccc",
+      "canonical_source_sha256": "5a0d985ea4fb7f6ef72143db6504d338ee0d877c69124986238961fc4a315ccc",
+      "opening_sha256": "6699731fb6ea5be14e7c18f31c1afc7568adefbd2e45543b6a5e547182b35877",
+      "bank_id": "LB-Q0057",
+      "lead_figures": [
+        "figure:4931f9f723b247e50ecf6b2caa0871e1a7f29f58d32f2ae39ac36286e3f52304"
+      ],
+      "lead_figure_spans": {
+        "figure:4931f9f723b247e50ecf6b2caa0871e1a7f29f58d32f2ae39ac36286e3f52304": [
+          "OtterlyAI documents temporary Workspaces for proposals, so it offers a named route for agencies preparing prospect audits. Scope the output before treating a visibility chart as a fact-checked sales report: Wrong About You marked two of 57 Procore statements wrong in answers captured on 22 September 2026, against vendor evidence read on 8 October."
+        ]
+      },
+      "source_review_sha256": "de70585b7d601dbea878f2e5f43ba07cdaa5641d4b2c47081bdf059e949c5cc4",
+      "opening_shape": "vendor_first",
+      "classification_reason": "OtterlyAI, the checked named software provider, leads the first clause and its documented proposal route.",
+      "writing_review_sha256": "051a1d0ba9e89243e59b7ffcfa8dae3ea078d1c3b581d8489e1f2c05899f4414"
+    },
+    "answers/google-ai/what-is-deep-search-in-google-ai-mode.md": {
+      "source_sha256": "e86327665f37819a3a61dd2497878725f0fcff45707c2b8cf6b6afcbad1caeb4",
+      "canonical_source_sha256": "c99f3c7cf1897ba456a47ab3d6b268d52d44307d3c30195499959257467380b3",
+      "opening_sha256": "bb8990a4e9d59e1b3a7193883e1c8daf86c61425cf70ebecddccb35963bf24c2",
+      "bank_id": "LB-Q0377",
+      "lead_figures": [
+        "figure:539a927b43f5757aa088e168625aa0fd1807f9ca078a89cce6a896bf791f5525"
+      ],
+      "lead_figure_spans": {
+        "figure:539a927b43f5757aa088e168625aa0fd1807f9ca078a89cce6a896bf791f5525": [
+          "On 20 May 2025, Google described Deep Search as an AI Mode research feature that expands a question into searches and produces a cited report. Our September Index recorded 420 Mode-labelled targets on 22 September 2026, kept as our ordinary AI Mode cohort rather than a separately labelled Deep Search test."
+        ]
+      },
+      "source_review_sha256": "425d2fd6f58262ccf3b6cc26cdb2772f73fa607fa21e8daf9aa80034cad60cde",
+      "opening_shape": "date_first",
+      "classification_reason": "On20May2025 is the actual leading chronological frame, followed by the named announcement and separate22September2026 cohort. It is not a source-first or figure-first opening.",
+      "writing_review_sha256": "585347650478fd8544b0026698b0cb79e0f8fde1b75ec1ecab41a13a3ed97ff8"
+    },
+    "answers/geo-basics/how-do-ai-visibility-vendors-differ-for-regulated-industries.md": {
+      "source_sha256": "f91a5fa89bde97f55178e38f7b77ffb1dfa8fea79291b77846c6b923831ca640",
+      "canonical_source_sha256": "e5c94b7ed858a02ed3ec33cb1cd6fe8b4d5ef5f1467adfc0b098b876b3092d73",
+      "opening_sha256": "d03e16378a3584c225efc52bb9c43a3dc2a1f35d366e4d877187638d1667550e",
+      "bank_id": "LB-Q0076",
+      "lead_figures": [
+        "figure:5af00bfce83dbf587027a865e03f1ed5056ee4ae8f37a9c3b58c11b983d0c89f"
+      ],
+      "lead_figure_spans": {
+        "figure:5af00bfce83dbf587027a865e03f1ed5056ee4ae8f37a9c3b58c11b983d0c89f": [
+          "On 17 September 2026, our publication review recorded three MCP-access plan labels for OtterlyAI: Standard, Premium and Enterprise. The vendor's SSO guide places SSO on Enterprise; differentiation for regulated buyers therefore depends on the specific documented control and plan, rather than whether an MCP connector exists."
+        ]
+      },
+      "source_review_sha256": "31c4aa01572a65dbb5a4cb9f3b3e8172e30e0473ea4dae0406590c48d02bf926",
+      "opening_shape": "date_first",
+      "classification_reason": "On17September2026 is the actual opening frame before theOtterlyAI plan-label fact. It is a dated documentation-record opening, not vendor_first or a runtime-study result.",
+      "writing_review_sha256": "2886bbde0b5654ef9e19bfdec66503f5e6f9c4afe48def2d4545a54326f0e0cd"
     }
   },
   "index_question_titles": {

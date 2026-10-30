@@ -5,7 +5,7 @@ description: What assistants found, understood and reached on public software we
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T22:39:48+00:00'
+date_modified: '2026-10-29T23:17:04+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 11
@@ -15,7 +15,7 @@ library_order: 11
 
 What assistants found, understood and reached on public software websites.
 
-These 14 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 16 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Connections and public browsing
 
@@ -96,6 +96,18 @@ Cloudbeds has a documented third-party AI connection listing. Our 14-of-15 hotel
 [Can insurance agency software integrate with ChatGPT?](can-insurance-agency-software-integrate-with-chatgpt.md)
 
 AgencyZoom documents a Zapier route for insurance agencies; Agent Gap reached 10 of 15 public insurance website endpoints on 6 October 2026.
+
+## Legal matter connections
+
+[Can legal practice software integrate with ChatGPT?](can-legal-practice-software-integrate-with-chatgpt.md)
+
+Clio lists ChatGPT-compatible actions through Zapier; Agent Gap reached 13 of 15 legal website endpoints on 6 October 2026.
+
+## Loan origination connections
+
+[Can loan origination software integrate with ChatGPT?](can-loan-origination-software-integrate-with-chatgpt.md)
+
+LendingPad lists a loan-creation route for ChatGPT-compatible clients; Agent Gap reached 6 of 15 loan website endpoints on 6 October 2026.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

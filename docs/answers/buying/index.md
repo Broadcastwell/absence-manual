@@ -5,7 +5,7 @@ description: Scope, acceptance evidence and questions to ask before agreeing to 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T21:08:52+00:00'
+date_modified: '2026-10-29T23:17:04+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 7
@@ -15,7 +15,7 @@ library_order: 7
 
 Scope, acceptance evidence and questions to ask before agreeing to work.
 
-These 21 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 22 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Delivery choices
 
@@ -142,6 +142,12 @@ Omniscient Digital has three Yes cells in our eight-field record. Inspect its da
 [What does an AI visibility audit include?](what-does-an-ai-visibility-audit-include.md)
 
 An AI visibility audit should supply the answers, questions, engines, dates and sources. Our Go Fish publication record shows why the evidence scope matters.
+
+## Prospect-audit scope and resources
+
+[Which GEO platforms let agencies run pre-sales AI visibility audits for prospects?](which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo.md)
+
+OtterlyAI documents proposal Workspaces. Two wrong statements among 57 Procore claims show why a prospect report also needs factual review.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
