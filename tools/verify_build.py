@@ -84,6 +84,13 @@ DIAGNOSTIC_HISTORY = [
 # Dated research with a DOI is the record of what was observed on its date, other sellers' offer
 # names included, so it is not rewritten. The theme's own scripts and styles carry no copy.
 RULING_EXEMPT = ("assets/research/", "absence-ladder-volume-ii.pdf", "assets/javascripts/", "assets/stylesheets/")
+# Exact, complete CC BY article reprints retain the original authors' language.
+# Hashes prevent edited PDFs from inheriting an archival-copy exception.
+LICENSED_SOURCE_ARCHIVES = {
+    "research/source-archives/ziakis-2019.pdf": "4863c53c4ef07559678eb0655e50e793d23838aa82d4cf4c7efcee92db23d70a",
+    "research/source-archives/giannakoulopoulos-2019.pdf": "e5db993d0cf8e24251900ba188b759f6955119cee1f8d8524b4d7e35b01c7f6c",
+    "research/source-archives/rovira-2019.pdf": "7118dc5379eba098e3a93527319c18d66e7bf14fbdb1d5e754c6d639656b7f52",
+}
 SERVED_TEXT = {".html", ".txt", ".xml", ".json", ".js", ".css", ".svg", ".vtt", ".md"}
 
 
@@ -481,6 +488,10 @@ for served in sorted(SITE.rglob("*")):
     if not served.is_file():
         continue
     rel = served.relative_to(SITE).as_posix()
+    if rel in LICENSED_SOURCE_ARCHIVES:
+        if __import__('hashlib').sha256(served.read_bytes()).hexdigest() != LICENSED_SOURCE_ARCHIVES[rel]:
+            fail("%s differs from its licensed article archive" % rel)
+        continue
     if rel.startswith(RULING_EXEMPT):
         continue
     suffix = served.suffix.lower()

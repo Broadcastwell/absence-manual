@@ -46,7 +46,7 @@ You can use these pages to find a defensible claim, inspect a familiar statistic
 
 ## What is each study’s current status?
 
-**Study 1, optimization signals on cited pages:** the existing plan is public at [OSF dvyfu](https://doi.org/10.17605/OSF.IO/DVYFU), with platform registration timestamp 30 October 2026 at 01:06:12 UTC. Approval completed before the new page-signal collection began. No result is presented here. The study concerns observable signals and citation samples; those signals cannot establish why an engine selected a page.
+**Study 1, optimization signals on cited pages:** the existing plan is public at [OSF dvyfu](https://doi.org/10.17605/OSF.IO/DVYFU), with platform registration timestamp 30 October 2026 at 01:06:12 UTC. No result is presented here. The study concerns observable signals and citation samples; those signals cannot establish why an engine selected a page.
 
 **Study 2, publishers cited for B2B software questions:** the plan is registered at [OSF vczkt](https://doi.org/10.17605/OSF.IO/VCZKT), 30 October 2026 at 01:32:03 UTC. Its registered secondary analysis concerns the explicit citation arrays in the September archive. The published protocol fixes the units and the treatment of repeated links, controls and uncertain publisher classifications.
 
@@ -76,7 +76,7 @@ The September release is a fixed set of captured answers, not a survey of every 
 - Broadcastwell. (2026). Does absence persist from one release to the next? [Registration]. OSF. Registered 30 October 2026, 01:12:44 UTC. https://doi.org/10.17605/OSF.IO/MKJ9V Verified 30 October 2026.
 - Ledford, J. L. (2009). SEO: Search engine optimization bible (2nd ed.). Wiley. Jill Whalen interview, printed pp. 447 to 449 (PDF pp. 469 to 471). ISBN 978-0-470-45264-6. https://books.google.com/books?vid=ISBN9780470452646 Verified 30 October 2026.
 
-- Broadcastwell. (2026). Do AI engines cite optimized pages? [Registration]. OSF. Platform registration timestamp 30 October 2026, 01:06:12 UTC; public approval verified before page collection. https://doi.org/10.17605/OSF.IO/DVYFU Verified 30 October 2026.
+- Broadcastwell. (2026). Do AI engines cite optimized pages? [Registration]. OSF. Platform registration timestamp 30 October 2026, 01:06:12 UTC. https://doi.org/10.17605/OSF.IO/DVYFU Verified 30 October 2026.
 
 - Broadcastwell. (2026). Supplied search-research collection: 21-document identity inventory [Data set]. Original filenames, PDF page counts and SHA256 identities; duplicate editions retained as physical files, not independent studies. [Collection inventory](https://docs.broadcastwell.com/research/data/source-collection-inventory.csv). Verified 30 October 2026.
 
