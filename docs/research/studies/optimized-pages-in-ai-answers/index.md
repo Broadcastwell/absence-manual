@@ -32,7 +32,7 @@ research_dataset:
 
 **Study 1 classifies 3,913 of 4,420 captured target URLs as definitely optimized: 88.5%, Wilson 95% interval 87.6% to 89.4% (registered rules; October 2026 capture).**
 
-**Registration:** [OSF DVYFU](https://doi.org/10.17605/OSF.IO/DVYFU). This is a descriptive secondary-data study with no directional hypothesis or causal test. Its question is which visible page signals occur among URLs already cited in the published September answer archive.
+**Registration:** [OSF DVYFU](https://doi.org/10.17605/OSF.IO/DVYFU). This descriptive study has no causal test.
 
 Before comparing it with Lewandowski and colleagues, retain the design differences: **German Google queries collected in 2020 versus B2B software answers across five engines in September 2026; October page retrieval; static HTML, expanded signature rules and registered precedence; time to first byte instead of full page-loading time**. The earlier chart is contextual evidence, not a controlled baseline.
 
@@ -42,35 +42,48 @@ The existing OSF record reports registration at **2026-10-30T01:06:12.768170Z**.
 
 All three registrations were checked public and no longer archiving at approximately **05:32Z**. The collection rules, news list, instrument and source identities were frozen at **05:36:56.935712Z**; the first resource collection started at **05:37:03.800062Z**. A further all-three public check at **07:20:32 to 07:20:35Z** preceded the first aggregate analysis at **07:20:56.107845Z**.
 
-The [provenance record](../../data/study1-provenance.json) and [frozen receipt](../../data/study1-precollection-freeze.json) preserve this recorded chronology and the file fingerprints. These are research records, not independently notarized timestamps. The original answers and published aggregate counts were already available before registration; we do not describe them as previously unseen data.
+The [provenance record](../../data/study1-provenance.json) and [freeze receipt](../../data/study1-precollection-freeze.json) preserve the chronology and fingerprints. Timestamps are not independently notarized. Answers and aggregate counts were public before registration.
 
-## What were the source records and units?
+## Registered protocol, unchanged
 
-The source is version DOI [10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695), using its answer JSONL, release JSON and control-question identities. Every explicit citation in eligible answers contributes an occurrence record with engine, category, question, repeat, capture date and saved array position.
+This is the registered text, including its prior-knowledge statements as recorded before collection. Later clarification and deviations are identified separately. [OSF DVYFU](https://doi.org/10.17605/OSF.IO/DVYFU).
 
-The eligible archive contains **20,190 citation occurrences** and **6,271 distinct exact URLs**, requested as **6,261 fragment-free resources**. The target scope has **5,861 distinct URLs**. Exact scheme, path, query and fragment remain part of URL identity; a shared requested resource does not erase a distinct cited identifier.
+### Question and design
 
-A URL contributes once to each engine/category stratum in which it occurs. Strata overlap. Target and control questions are identified from the released inputs, not inferred from an identifier prefix. Excluded answers do not contribute primary citation units; the extraction-exclusion table contains no citation rows in this archive. An answer without a source is not a URL without optimization.
+> What share of URLs cited in the Absence Index release 2026-09 carry visible optimization signals, and how does that share differ by engine and software category? This is a descriptive secondary-data study, with no directional hypothesis and no causal test of whether a signal produces a citation.
 
-## What did collection preserve?
+### Source and prior knowledge
 
-The research instrument requested each resource once, reused cached responses and observed robots policies and per-host delays. It did not bypass restrictions. Complete successful HTML is required for a page classification. Other states remain separately tabulated.
+> Use the published answers-2026-09.jsonl and release-2026-09.json attached to version DOI 10.5281/zenodo.22907695, with their published checksums. These answers were already collected and made public before this registration. Published aggregate counts and the comparison paper have been read. No new study results, host classification totals or page-signal shares have been computed. All three research-section plans must be registered before analysis begins.
 
-The capture records nonempty title and description, canonical, Open Graph, viewport, JSON-LD or microdata and declared types, four listed plugin families, the listed analytics and advertising signatures, HTTPS, host-root files and time to first byte. [Exact instrument](../../data/collect_page_signals.py); [frozen signature dictionary](../../data/page-signal-rules.json); [news list](../../data/study1-news-hosts.csv).
+### Units and inclusion
 
-The root-file rule is deliberately limited. A sitemap marker is not full XML validation. A nonempty text llms.txt response is recorded as present, without establishing conformance to every specification, consumption by an engine or an effect on citations. Blocked or ambiguous host-file responses remain unknown.
+> Include every explicit citation URL in the archived answers. Retain engine, category, question, repeat, capture date and citation order for every occurrence. Deduplicate the analysis units by exact URL, preserving scheme, path, query and fragment in the unit identifier. Preserve a separate mapping to the requested resource URL. A URL contributes once to each engine or category stratum in which it occurs. Report target and control questions separately as well as the combined archive; do not treat a missing answer or an answer without a citation as a URL with no optimization. Retain excluded answer rows in a separate audit, but omit their citation URLs from the primary eligible-answer analysis unless the same URL also appears in an eligible answer. Give any all-record sensitivity analysis a separate label. Preserve extraction exclusions and reasons. Report any archival mismatch before continuing.
 
-## Which classification takes precedence?
+### Collection
 
-For captured HTML, apply the following order without fitting it to these outcomes:
+> Retrieve each resource once and cache the result. Observe robots.txt and a maximum of one request per second per host, including redirects and host-root files. Use BroadcastwellResearchBot/1.0 (+https://docs.broadcastwell.com/research/). Do not fetch restricted client domains. Record requested and final URL, fetch date, status, content type, redirect chain and time to first byte. Record robots exclusions, blocked responses, 4xx, 5xx, timeout, non-HTML and other failures separately. A failed fetch is never evidence that a page is not optimized. Do not evade access controls. Keep raw HTML out of the public dataset.
 
-1. Wikipedia and the listed sister projects: definitely not optimized, by stipulation.
-2. A listed plugin, qualifying structured data, frozen news-host indicator or listed advertising signature: definitely optimized.
-3. Otherwise a missing nonempty title or description: probably not optimized, overriding weak signals.
-4. Otherwise any registered weak signal: probably optimized.
-5. Otherwise: unclassified.
+### Signals and classification
 
-Weak signals include the listed analytics markers, HTTPS, canonical, viewport, Open Graph, qualifying sitemap or robots hints, and time to first byte below three seconds. Qualifying JSON-LD means a parseable nonempty object or list, not validation of its truth or every Schema.org requirement. [Registered plan](../../data/study1-registered-plan.txt).
+> Record non-empty title and meta description; canonical link; Open Graph tags; viewport meta; JSON-LD or microdata and reported schema types; SEO plugin signatures, including Yoast, Rank Math, All in One SEO and SEOPress; analytics and advertising signatures; HTTPS; host-root robots.txt, sitemap and llms.txt; and time to first byte. Distinguish absent, present and unknown for host files. Publish exact signal rules and a host evidence table. Freeze any news-domain list and additional signature dictionary before aggregating outcomes; additions after inspecting results are exploratory and reported as deviations.
+> Apply this precedence to successfully fetched HTML: (1) Wikipedia and sister projects: definitely not optimized, a stipulated class rather than a quality judgment; (2) an SEO plugin, structured data, a documented news-domain classification or an advertising signature: definitely optimized; (3) otherwise, a missing title or missing meta description: probably not optimized, overriding weak positive signals; (4) otherwise at least one weak signal: probably optimized. Weak signals are analytics, HTTPS, canonical, viewport, Open Graph, sitemap, explicit SEO hints in robots.txt, or time to first byte below three seconds. Any residual page is unclassified, not forced into a negative class. The time-to-first-byte threshold is our adaptation; Lewandowski et al. used page loading time below three seconds. A public rule table will distinguish this adaptation and the expanded structured-data rule from the paper's fitted decision tree.
+
+### Statistics and finding rule
+
+> For each class report numerator, eligible URL base, percentage and two-sided Wilson 95% interval overall, per engine and per category. Report unclassified and failed units with their own bases. Give citation-order results only when the archive provides order; do not infer answer rank from a host list. Separately report Wikipedia share, llms.txt presence and schema-type frequencies with explicit denominators and unknowns. Strata overlap and repeat answers are dependent; Wilson intervals describe uncertainty conditional on this archive and are not population confidence claims. No significance tests or claims of representativeness. A finding is a reproducible descriptive count or share supported by the released classification CSV, including a null or low observed share.
+
+### Comparison and limits
+
+> Compare only descriptively with Figure 1 of Lewandowski, Suenkler and Yagci (2021), DOI 10.1145/3447535.3462479: 59.0% definitely optimized, 29.0% probably optimized and 12.0% (probably) not optimized among 256,853 Google result URLs. State method differences first: German Google query sets in 2020 versus archived B2B software questions across five answer engines in September 2026; later fetch date; different signal and classification implementation. Cite the paper's chart rather than conflicting prose. Its 27% figure concerns the position of its Wikipedia results, not Wikipedia's share of all first-position results. A cited URL is not proof of the answer's source of truth, a fetched page may have changed since the answer, and this question set is not a representative sample of buyer searches. Publish code, classification CSVs, failures and deviations; do not claim control of AI answers.
+
+**Comparison clarification:** the plan's phrase “conflicting prose” is retained as registered. The original paper's 48.4%, 27% and 31% concern news-content shares, not an alternative optimization-class split. They do not contradict Figure 1. The class results use that chart. [Lewandowski et al., §5, PDF p. 6, printed p. 17].
+
+## Which records and implementation definitions produced the tables?
+
+The eligible archive contains **20,190 citation occurrences** and **6,271 distinct exact URLs**, requested as **6,261 fragment-free resources**. The target scope contains **5,861 distinct URLs**. The [membership table](../../data/study1-citation-membership.csv) preserves each exact URL and its overlapping strata.
+
+Qualifying JSON-LD means a parseable nonempty object or list. A host-root sitemap marker is not full XML validation; nonempty llms.txt is presence, not conformance or consumption. Blocked or ambiguous root-file responses remain unknown. [Frozen instrument](../../data/collect_page_signals.py); [exact rules](../../data/page-signal-rules.json); [news list](../../data/study1-news-hosts.csv).
 
 ## What is the target result?
 
@@ -82,7 +95,7 @@ Weak signals include the listed analytics markers, HTTPS, canonical, viewport, O
 | definitely not optimized | 2 / 4,420 | 0.045% (0.012% to 0.165%) |
 | unclassified | 0 / 4,420 | 0.000% (0.000% to 0.087%) |
 
-Source: [class-share table](../../data/study1-class-shares.csv), target/all/all. The base is successful complete HTML, including unclassified pages. The complete CSV reports every class overall, per engine, per category and jointly, with control and combined scopes separately. It does not put failed retrievals into the negative classes.
+Source: [class-share table](../../data/study1-class-shares.csv), target/all/all. Successful complete HTML is the base. The CSV gives every class, engine, category and joint stratum, with control and combined scopes separate; failures remain outside negative classes.
 
 ## How much of the target archive was observable?
 
@@ -101,7 +114,7 @@ Source: [class-share table](../../data/study1-class-shares.csv), target/all/all.
 | successful HTML | 4,420 / 5,861 | 75.4% (74.3% to 76.5%) |
 | timeout | 28 / 5,861 | 0.5% (0.3% to 0.7%) |
 
-Source: [retrieval-outcome table](../../data/study1-fetch-outcomes.csv), target/all/all. Each row uses all target URLs as its base. These failures are substantive limits on the captured-page result, not evidence that the excluded pages lacked signatures.
+Source: [retrieval outcomes](../../data/study1-fetch-outcomes.csv), target/all/all. All target URLs form each base. Failures limit observation; they do not establish absent signatures.
 
 ## How do category strata compare?
 
@@ -122,7 +135,7 @@ Source: [retrieval-outcome table](../../data/study1-fetch-outcomes.csv), target/
 | transportation management systems | 290 / 344 | 84.3% (80.1% to 87.8%) |
 | veterinary practice management | 181 / 225 | 80.4% (74.8% to 85.1%) |
 
-These rows show the definite class as a compact category comparison. [Every class and interval](../../data/study1-class-shares.csv) and the [per-engine overview](../../insights/nearly-every-google-result-is-optimized/) retain their own successful-capture bases. No pooled category average is substituted for a URL-level result.
+[All classes](../../data/study1-class-shares.csv) and the [engine overview](../../insights/nearly-every-google-result-is-optimized/) retain successful-capture bases; category rows are not pooled.
 
 ## What about Wikipedia, root files and schema types?
 
@@ -136,7 +149,7 @@ For llms.txt, the unique final-origin result is:
 | llms.txt absent | 741 / 1,600 | 46.3% (43.9% to 48.8%) |
 | llms.txt unknown | 85 / 1,600 | 5.3% (4.3% to 6.5%) |
 
-The [download](../../data/study1-llms-presence.csv) also supplies a distinct-URL-weighted view, repeating each cached host result across its cited URLs. Do not confuse those denominators. Presence is conditional on origins associated with successfully captured HTML and is not measured adoption across the web.
+The [CSV](../../data/study1-llms-presence.csv) also weights cached origins by cited URLs. Neither denominator measures web-wide adoption.
 
 The leading declared schema types among captured target URLs are:
 
@@ -149,25 +162,23 @@ The leading declared schema types among captured target URLs are:
 | WebPage | 2,442 / 4,420 | 55.2% (53.8% to 56.7%) |
 | Person | 2,248 / 4,420 | 50.9% (49.4% to 52.3%) |
 
-Types can co-occur, so this is not a partition. The [complete type table](../../data/study1-schema-types.csv) normalizes the HTTP/HTTPS Schema.org prefixes and counts a type once per URL. An empty declared string is not a type.
+Types overlap. The [full table](../../data/study1-schema-types.csv) normalizes HTTP/HTTPS Schema.org prefixes, counts each type once per URL and excludes empty declarations.
 
 ## Can the published files reproduce the result?
 
-The [package instructions](../../data/study1-reproduction.txt) support an offline recount from scalar classifications and citation memberships, plus a full rebuild from the public captured-signal projection and deposited answer inputs. The [manifest](../../data/study1-file-manifest.csv) records public hashes and distinct original-file fingerprints where line endings or projection differ.
+The [instructions](../../data/study1-reproduction.txt) support scalar recounts and a full rebuild from public captured signals and deposited answers. The [manifest](../../data/study1-file-manifest.csv) distinguishes public hashes from original fingerprints where projection or line endings differ.
 
-The public projection omits fetched response bodies, redirect metadata and free-text errors. A generic timeout marker preserves that outcome. Two failed final destinations with sensitive query-key names are blanked under the public URL policy. Those removals leave classifications and substantive aggregate tables unchanged; the original metadata capture retains its own fingerprint.
+The public projection omits response bodies, redirect metadata and free-text errors, retaining a generic timeout marker. Two failed sensitive-query final destinations are blanked. Classifications and aggregate tables are unchanged; original metadata retains its fingerprint.
 
-The [recount program](../../data/reproduce_study1.py) checks **19,290 numeric table rows across 198 strata**, along with **1,723 host-evidence rows**. A separate full rebuild matched **47,474 data rows across ten CSV files**, cell for cell. These are writer reproduction checks, not peer review or independent approval.
+The [recount](../../data/reproduce_study1.py) checks **19,290 numeric rows, 198 strata and 1,723 host-evidence rows**. A full rebuild matched **47,474 rows across ten CSV files**, cell for cell. This is not peer review or independent approval.
 
-The [citation-order table](../../data/study1-citation-order.csv) gives both occurrence-weighted and distinct-URL-at-position summaries. Saved citation-array position is not vendor recommendation rank. The [URL classifications](../../data/study1-url-classifications.csv) and [membership mapping](../../data/study1-citation-membership.csv) expose the counted units.
+The [order table](../../data/study1-citation-order.csv) gives occurrence and distinct-URL-at-position summaries, not vendor ranks. [Classifications](../../data/study1-url-classifications.csv) and [memberships](../../data/study1-citation-membership.csv) preserve the counted units.
 
 ## Deviations and interpretation limits
 
 After the first aggregation, empty schema-type declarations were removed from the type-frequency labels. Their original scalar declarations remain in the data, and no URL classification changed. The provenance file records the before/after schema-table fingerprints and rerun time. No news-domain or signature dictionary was expanded after aggregation.
 
-The original ACM Figure 1 reports **59.0%, 29.0% and 12.0%** in its combined classes. Our broader signature rule and different population preclude treating the difference as a trend or intervention effect. The original’s loading-time feature is not our time-to-first-byte measure.
-
-Pages can change after citation. Static capture misses rendered-only features, signatures are incomplete and missingness can be selective. Shared URLs and repeated questions create dependencies. Wilson intervals describe proportions conditional on this convenience archive; no significance tests, buyer-population estimates or causal citation claims follow.
+Static capture misses rendered-only features, and retrieval missingness can be selective. The registered stale-page, dependence and convenience-sample limits above remain in force.
 
 ## What our own data shows
 
