@@ -31,7 +31,7 @@ The [evidence standard](../../standard/) defines the scale. Grade A permits a sc
 
 | Document in the supplied collection | Grade for this section | Reason and permitted use |
 |---|---|---|
-| Lewandowski, Sunkler and Yagci, 2021, The influence of search engine optimization on Google's results, ACM WebSci | A | Transparent large result-sample design and open research materials. Quote its classifications with query, year and classifier limits. Preserve the split between definite, probable and negative classifications. DOI 10.1145/3447535.3462479. |
+| Lewandowski, Sünkler and Yagci, 2021, The influence of search engine optimization on Google's results, ACM WebSci | A | Transparent large result-sample design and open research materials. Quote its classifications with query, year and classifier limits. Preserve the split between definite, probable and negative classifications. DOI 10.1145/3447535.3462479. |
 | Search Engine Optimization, the edited Future Internet reprint | Article-specific | The container includes distinct designs. Use the article-level table below rather than assigning the whole volume the strength of its best article. |
 | Strategic Innovative Marketing and Tourism, Springer proceedings, 2024 | D overall; selected uses C or B | Most chapters address other questions. Relevant reviews and small case studies need individual limits; an imprint does not validate a chapter's numeric claims. ISBN 978-3-031-51038-0. |
 | Google, Search Engine Optimization Starter Guide, 2010 edition | B | Primary evidence of what Google recommended then. Historical principles can be discussed; present product instructions require current operator documentation. |
@@ -86,7 +86,7 @@ We have no measurement on this point: this selected collection is not a represen
 
 ## Sources
 
-- Lewandowski, D., Sunkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
 - Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. https://doi.org/10.3390/fi11090202 Verified 30 October 2026.
 - Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Is there a correlation? Future Internet, 11(11), 242. https://doi.org/10.3390/fi11110242 Verified 30 October 2026.
 - Ziakis, C., Vlachopoulou, M., Kyrkoudis, T., & Karagkiozidou, M. (2019). Important factors for improving Google search rank. Future Internet, 11(2), 32. https://doi.org/10.3390/fi11020032 Verified 30 October 2026.
