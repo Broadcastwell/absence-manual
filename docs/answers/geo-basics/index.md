@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T21:08:52+00:00'
+date_modified: '2026-10-30T05:08:26+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 21 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 26 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -130,6 +130,36 @@ Compare client reviews, software reviews and publisher disclosures using our dat
 [How well can entry-level GEO solutions scale with a growing business?](how-well-can-entry-level-geo-solutions-scale-with-a-growing-business.md)
 
 Size a growing GEO workload by retained answers and shared resources. Otterly documents client Workspaces and a shared prompt pool; throughput is untested.
+
+## Published access and assurance controls
+
+[How do AI visibility vendors differ for regulated industries?](how-do-ai-visibility-vendors-differ-for-regulated-industries.md)
+
+Compare each documented control and plan. Our dated OtterlyAI row names three MCP plans; its SSO guide specifies Enterprise sign-in.
+
+## Finding a provider in your own city
+
+[Where can I find an AI search visibility expert near me?](where-can-i-find-an-ai-search-visibility-expert-near-me.md)
+
+Use your actual city and the provider’s stated delivery location. A public evidence score cannot establish that a firm is nearby.
+
+## UK report coverage
+
+[Which AI tools for analyzing online visibility are available in the UK?](which-ai-tools-for-analyzing-online-visibility-are-available-in-the-uk.md)
+
+Semrush lists UK reporting; seoClarity publishes UK research. Our Claude sample has 2,039 checked-name appearances across 420 answers.
+
+## Origence’s identity and recorded names
+
+[What is Origence?](origence.md)
+
+Origence is a credit-union lending technology network. The September Index checked its name and published aliases.
+
+## Product outputs beyond brand-coverage charts
+
+[How do Profound and seoClarity compare?](how-do-profound-and-seoclarity-compare.md)
+
+Compare Profound’s reported fact-checking workflow with seoClarity’s accuracy and change-record functions. Our records do not rank either supplier.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
