@@ -98,7 +98,7 @@ def ruling_hits(text):
             hits.append(text[max(0, m.start() - 50):m.end() + 50])
     return hits
 
-VALID_CLASSES = {"chapter", "note", "appendix", "page"}
+VALID_CLASSES = {"chapter", "note", "appendix", "page", "research"}
 TECHARTICLE_CLASSES = {"chapter", "appendix"}
 ARTICLE_TYPES = {"TechArticle", "Article"}
 WORD_FLOOR_CLASSES = {"chapter"}
@@ -517,6 +517,9 @@ if llms.exists():
     for retired_route in ("/agent-ready", "/index-verified", "/portfolio-scan", "/second-opinion", "/index-brief", "/buy/audit"):
         if "https://broadcastwell.com" + retired_route in current_llms:
             fail("llms.txt promotes a retired or fallback route %s" % retired_route)
+
+from research_quality import check_research
+problems.extend(check_research(ROOT))
 
 if problems:
     print("Build verification failed:")

@@ -1,0 +1,122 @@
+---
+title: Numbers we could not verify, and claims the originals correct
+description: A claim-by-claim ledger of unsupported SEO and GEO statistics, corrected units, missing primary reports
+  and objections withdrawn after checking originals.
+page_class: research
+research_id: 23
+research_group: evidence
+lead: Vikram Patel
+published: '2026-10-30T03:55:00Z'
+updated: '2026-10-30T03:55:00Z'
+next_review: '2027-01-30T03:55:00Z'
+canonical: https://docs.broadcastwell.com/research/evidence/unverified-numbers/
+sources_verified: true
+schema_type: Article
+date_published: '2026-10-30T03:55:00Z'
+date_modified: '2026-10-30T03:55:00Z'
+is_based_on: https://arxiv.org/html/2311.09735v3
+---
+
+# Numbers we could not verify, and claims the originals correct
+
+**A statistic can survive source checking while the sentence built around it fails.**
+
+The **41%** GEO claim has a real ancestor, but “citation probability” is the wrong outcome. Aggarwal and colleagues' Table 1 describes improvement in a **position-adjusted word-count visibility metric**, with a separate subjective-impression measure. It is not a measured probability that a business will be cited. [Aggarwal et al., 2024, author manuscript v3, Table 1](https://arxiv.org/html/2311.09735v3).
+
+This ledger preserves the claim as encountered, then states what survives checking. It includes missing sources, changes of unit, invalid inference and corrections to our own initial objections. A rejected sentence is not proof that its underlying topic is unimportant, or that an author acted dishonestly.
+
+You can use the status column to distinguish an unavailable report from a claim contradicted by an opened original. Those are different findings. A number appearing repeatedly in secondary sources has not acquired independent confirmation merely through repetition.
+
+## Recovered originals, narrower wording
+
+| Claim encountered | Where it appeared | Primary check and status |
+|---|---|---|
+| Statistics boost AI visibility by up to 40%; expert quotations increase citation probability by 41% | Vidhate, Jadhav and Gole, IJNRD 2026, PDF p. 3 | Aggarwal et al.'s abstract uses “up to 40%”; Table 1 describes a 41% best improvement in position-adjusted word count. The conditions and metrics must remain attached. A universal citation-probability uplift is unsupported. Corrected metric belongs in the quotable ledger. |
+| Voice searches average 29 words | Anttila, 2021, p. 9 | [Backlinko's original 2018 study](https://backlinko.com/voice-search-seo-study) reports the average **answer** length in its Google Home results. It is not query length. The corrected historical observation is usable with that sample and date. |
+| 96% of businesses are not voice-search ready | Anttila, 2021, p. 2 | [Uberall's 2019 primary release](https://uberall.com/en-us/company/news-press/uberall-defines-online-voice-search-readiness-vsr-with-first-of-its-kind-study-of-73-000-business-locations) concerns 73,000 business locations and its own listings-readiness definition. It reports only 3.82% with correct information on its three principal directories. That does not establish the share of all businesses technically unable to appear in voice search. |
+| Organic traffic research proves a general marketing tactic works | Secondary accounts citing Baye et al., 2016 | [The publisher's original](https://doi.org/10.1111/jems.12141) studies retail organic clicks in August 2012. Its sample, econometric design and outcome are identifiable. It does not supply a general effect on present-day AI-answer citation. |
+
+The full Backlinko population is stated as **10,000 Google Home results**; the reported average is a historical vendor study result. Its rounded average does not provide the individual-length distribution or a reconstructable uncertainty interval. It should not become a required answer length for every page you publish.
+
+Uberall's release also distinguishes its readiness score from real-world return on investment. A vendor-defined score can identify missing listing information under its rules. It cannot, without another design, establish how often those errors caused an assistant to omit a business.
+
+## Claims still withheld
+
+| Claim encountered | Source location | Why the sentence remains withheld |
+|---|---|---|
+| Half of cited AI-search content is less than 13 weeks old | IJNRD 2026, PDF p. 4 | No identifiable primary dataset, sampling window or age definition is supplied for this statistic. We have not established a source that supports the stated population. |
+| E-E-A-T has become measurable Entity Confidence Scores | IJNRD 2026, PDF p. 3 | The paper supplies no primary operator specification for the promoted metric. It is not accepted here as a defined Google score. |
+| A pooled SEO effectiveness effect size of d = 1.049 | Usmany et al., 2024, abstract and results | The methods refer to 50 included studies while the results describe 10 and label rows P1 to P10 without identifying the included studies. The pooled result cannot be checked from the reported study mapping. |
+| SEO produces “85.4%” brand positioning | Ahmad et al., F1000Research versions, Table 1 | The table reports Pearson r = 0.854 from a convenience-sampled questionnaire. A correlation is not the percentage of a business outcome attributable to SEO, and the design does not establish causation. |
+| 88% of search users never click paid ads | Historical HubSpot ebook, p. 5 | Its citation chain points to a discussion rather than a checkable primary sampling report. We do not treat it as measured user behavior. |
+| Organic converts three to one over paid | Kuehn interview, SEO Bible, 2009 | A practitioner's recollection is not a recoverable comparative conversion study. Attribution can preserve testimony; it cannot turn the ratio into a general fact. |
+| Up to 70% of searches happen on destination sites | Hoppe interview in SEO Bible, citing IDC | The underlying IDC study and its population have not been recovered here. No current or general rate is asserted. |
+| SEO has higher long-run ROI as a measured finding | Singh and Kesarwani, IJRPR 2025 | The supplied paper discusses the comparison but does not present an auditable outcome dataset establishing that claim. The leftover phrase “next point same instructions” appears on printed p. 4132, PDF p. 4; it is an editorial defect, not proof of research fraud. |
+| Historical position click rates, including 30/16/10 and 32.5/17.6/11.4 | Secondary citations in the 2019 reprint and later reviews | The underlying studies and dates must be identified. The legacy Chitika route did not yield the original report in this check. Secondary charts are insufficient for a current first-position click-rate claim. |
+| Voice behavior percentages attributed to Microsoft's 2019 report | Anttila and related secondary accounts | The original Microsoft landing URL now redirects to a general insights page, and the legacy report-file route was unavailable. This review has not verified a report-specific figure from a recovered primary copy. |
+
+“Unavailable” describes this check, not every possible archive. If you have an original report with its method and tables, the status can change. Until then, a polished replacement citation would only disguise the missing evidence.
+
+## Rules that the supplied evidence does not establish
+
+| Proposed rule | Source family | What the record permits |
+|---|---|---|
+| Keyword density should be 5 to 7%, 7 to 10%, 2 to 4%, 1 to 2%, or 15 to 20% in a Yahoo title | Old practitioner book, LPU course text and Naila R. guide | Conflicting prescriptions without a transferable experimental basis. No density target is recommended from this collection. |
+| Bounce rate, time on site or social signals are proven ranking factors | Ziakis article, LPU text and HubSpot ebook | Assertion and observational correlation do not identify a causal ranking input. This is not evidence that those inputs never matter; it is an evidentiary limit on these sources. |
+| W3C validation boosts rank, or educational and government domain endings rank higher | Ziakis 2019 and derivative teaching | The cited exploratory work does not establish the proposed causal rules. A domain ending is not a substitute for checking who published a claim. |
+| The strongest factor in the Ziakis table is a proven optimization prescription | Ziakis et al., 2019, Table 2 | The small exploratory table's average coefficients do not meet the paper's stated absolute-correlation bar. We use it to examine the evidence problem, not as a list of established effects. |
+| A practitioner textbook is current operator documentation | LPU course text and historical SEO books | Named tools and policies require current primary verification. A historical quotation remains historical. |
+| Microsoft Academic is a currently available service | A present-tense retelling of Rovira's 2019 comparison | The study is a dated comparison. Its historical system names must not become an unverified present-day availability claim. |
+| Any internally inconsistent tourism or marketing figure can be selected from a conference volume | Springer proceedings | A collection's imprint does not resolve a chapter's conflicting table and prose. Each chapter needs its own source check and stated unit. |
+
+## Objections we corrected after opening the primary
+
+| Earlier interpretation | What the original actually supports |
+|---|---|
+| The 48.4%, 27% and 31% prose shares contradict the optimization figure | They describe **news-content shares**. We withdraw the proposed contradiction; they are not alternative “probably optimized” values. Lewandowski et al., §4 and Figure 1. |
+| Wikipedia held 27% of every first-position result | The stated base is Wikipedia's **1,974 results**; 27% of those were at position 1 and 79.3% were in the top ten. The reversed denominator is unsupported. Lewandowski et al., §4.2. |
+| Google results were simply 88% optimized | The figure separates 59.0% definitely and 29.0% probably optimized, with 12.0% in the combined negative group. Retain the uncertainty labels, source year and sample. |
+| Wikipedia's rounded prose share and its stated result count can be combined without qualification | The prose's 0.7% does not directly reconcile with 1,974 / 256,853. We retain the explicit count for the position statement and do not invent an exact numerator from the rounded share. |
+
+Corrections belong in the record even when the initial error came from our own reading material. There is no useful reason to preserve an allegation after its source has disproved it. The unresolved rows remain separate from the withdrawn ones, so a reader can see which evidence would actually change each status.
+
+## What our own data shows
+
+We have no measurement on this point: the number of unsupported claims in this selected reading collection does not estimate a prevalence of misinformation across SEO or GEO publishing. Our [evidence standard](../../standard/) governs individual uses. Only corrected, bounded findings are carried into the [quotable-numbers ledger](../quotable-numbers/).
+
+## Sources
+
+- Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative engine optimization. KDD 2024. https://doi.org/10.1145/3637528.3671900 . Author manuscript v3: https://arxiv.org/html/2311.09735v3 Verified 30 October 2026.
+- Dean, B. (2018, February 28). We analyzed 10,000 Google Home results. Here's what we learned about voice search SEO. Backlinko. https://backlinko.com/voice-search-seo-study Verified 30 October 2026.
+- Uberall. (2019, April 9). Uberall defines online voice search readiness with first-of-its-kind study of 73,000 business locations. https://uberall.com/en-us/company/news-press/uberall-defines-online-voice-search-readiness-vsr-with-first-of-its-kind-study-of-73-000-business-locations Verified 30 October 2026.
+- Baye, M. R., De los Santos, B., & Wildenbeest, M. R. (2016). Search engine optimization: What drives organic traffic to retail sites? Journal of Economics & Management Strategy, 25(1), 6 to 31. https://doi.org/10.1111/jems.12141 Verified 30 October 2026.
+- Usmany, P., Rachmawati, R., Rembe, E., Sopacua, F., Santosa, T. A., Arifin, A. H., Fitria, A., & Suhardi. (2024). The effectiveness of search engine optimization (SEO) in marketing: A meta-anlysis study. COSTING, 7(5), 807 to 811. Supplied original PDF. Journal: https://journal.ipm2kpe.or.id/index.php/COSTING . Individual included-study identities are not recoverable from its results table. Verified 30 October 2026.
+- Ahmad, U. F., Mahdee, J., & Abu Bakar, N. (2024). Search engine optimisation (SEO) strategy as determinants to enhance the online brand positioning (version 2). F1000Research, 11, 714. https://doi.org/10.12688/f1000research.73382.2 Verified 30 October 2026.
+- Lewandowski, D., Sunkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
+- Ziakis, C., Vlachopoulou, M., Kyrkoudis, T., & Karagkiozidou, M. (2019). Important factors for improving Google search rank. Future Internet, 11(2), 32. https://doi.org/10.3390/fi11020032 Verified 30 October 2026.
+- Ledford, J. L. (2009). SEO: Search engine optimization bible (2nd ed.). Wiley. Jill Whalen interview, printed pp. 447 to 449 (PDF pp. 469 to 471). ISBN 978-0-470-45264-6. https://books.google.com/books?vid=ISBN9780470452646 Verified 30 October 2026.
+
+## Cite this page
+
+Broadcastwell research team. (2026, October 30). *Numbers we could not verify, and claims the originals correct*. Broadcastwell. https://docs.broadcastwell.com/research/evidence/unverified-numbers/ Published 30 October 2026; updated 30 October 2026.
+
+```bibtex
+@online{broadcastwell2026research23,
+  author = {{Broadcastwell research team}},
+  title = {Numbers we could not verify, and claims the originals correct},
+  year = {2026},
+  date = {2026-10-30},
+  url = {https://docs.broadcastwell.com/research/evidence/unverified-numbers/},
+  urldate = {2026-10-30},
+  note = {Published 2026-10-30; updated 2026-10-30}
+}
+```
+
+Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
+
+Sources checked 30 October 2026. This page has not been peer reviewed.
+
+## Continue
+
+- [Run a free visibility check](https://audit.broadcastwell.com/).
+- [Read the measurement chapter](https://docs.broadcastwell.com/measurement-noise/).

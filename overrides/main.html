@@ -111,6 +111,17 @@ document.addEventListener("DOMContentLoaded", function () {
 {% for f in page.meta.get("faq") %}{% set qa.items = qa.items + [{"@type":"Question","name":f.question,"acceptedAnswer":{"@type":"Answer","text":f.answer}}] %}{% endfor %}
 <script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"FAQPage","mainEntity":qa.items} | tojson }}</script>
 {% endif %}
+{% if page and page.meta and page.meta.get("defined_term") %}
+<script type="application/ld+json">{{ {"@context":"https://schema.org", "@type":"DefinedTerm", "name":page.meta.get("defined_term"), "description":page.meta.get("description"), "url":canon, "inDefinedTermSet":"https://docs.broadcastwell.com/research/"} | tojson }}</script>
+{% endif %}
+{% if page and page.meta and page.meta.get("research_dataset") %}
+{% set rd = page.meta.get("research_dataset") %}
+{% set downloads = namespace(items=[]) %}
+{% for d in rd.get("distribution", []) %}{% set downloads.items = downloads.items + [dict(d, **{"@type":"DataDownload"})] %}{% endfor %}
+{% set dataset = {"@context":"https://schema.org", "@type":"Dataset", "@id":canon ~ "#dataset", "name":rd.get("name"), "description":rd.get("description"), "url":canon, "creator":org, "publisher":org, "license":"https://creativecommons.org/licenses/by/4.0/", "datePublished":page.meta.get("published"), "dateModified":page.meta.get("updated"), "isAccessibleForFree":true, "isBasedOn":page.meta.get("is_based_on"), "distribution":downloads.items} %}
+{% if page.meta.get("research_report_doi") %}{% set dataset = dict(dataset, **{"citation":page.meta.get("research_report_doi")}) %}{% endif %}
+<script type="application/ld+json">{{ dataset | tojson }}</script>
+{% endif %}
 {% endblock %}
 
 {% block header %}
@@ -124,7 +135,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 {% block content %}
 {{ super() }}
-{% if page and not (page.meta.get("library_cluster") or page.meta.get("library_hub")) %}
+{% if page and not (page.meta.get("library_cluster") or page.meta.get("library_hub") or page.meta.get("page_class") == "research") %}
 <p class="bw-editorial-byline">By the Broadcastwell team. Last reviewed 26 October 2026</p>
 <section aria-label="Choose the first job" class="bw-next-step">
 <h2>Choose the answer you need to repair.</h2>
@@ -138,6 +149,8 @@ document.addEventListener("DOMContentLoaded", function () {
 <hr>
 {% if page and (page.meta.get("library_cluster") or page.meta.get("library_hub")) %}
 <p class="manual-footer-version">Broadcastwell answer library. Prose and figures CC BY 4.0. Site code MIT. <a href="{{ config.site_url }}answers/">Read the library</a>.</p>
+{% elif page and page.meta.get("page_class") == "research" %}
+<p class="manual-footer-version">Broadcastwell research. Sources and dates are stated on each page. Prose and derived tables CC BY 4.0, site code MIT. External sources retain their own licenses. Not peer reviewed. <a href="{{ 'research/standard/' | url }}">Evidence standard</a>.</p>
 {% elif page and page.meta.get("learning_resource") %}
 <p class="manual-footer-version">Broadcastwell practical resources, {{ page.meta.get("resource_date", "September 2026") }}. Original guides and diagrams with authored fictional examples. No client outcome or live AI measurement is represented. Prose and figures CC BY 4.0, site code MIT. <a href="{{ 'resources/provenance/sources/' | url }}">Sources and scope</a>.</p>
 {% else %}
