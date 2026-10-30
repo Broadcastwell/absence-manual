@@ -89,7 +89,7 @@ The Index supplies dated answer observations and the registered analyses supply 
 
 ## What our own data shows
 
-The pair, repeat and named-vendor figures above come from [September version DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695), with the exact units stated beside each count. The [registered citation analysis](https://doi.org/10.17605/OSF.IO/VCZKT) has published reproducibility files; the [persistence plan](https://doi.org/10.17605/OSF.IO/MKJ9V) has no persistence result. The separately registered [page-signal study](https://doi.org/10.17605/OSF.IO/DVYFU) is collecting its data. We have no causal estimate of how changing a company’s page will alter its visibility.
+Study 2 reproduces **8,085 named vendor-answer pairs among 42,792 eligible pairs**, with the matching dictionary and valid-answer bases preserved. These are counted archive observations, not a measure of causal effectiveness. The pair, repeat and named-vendor figures above come from [September version DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695), with the exact units stated beside each count. The [registered citation analysis](https://doi.org/10.17605/OSF.IO/VCZKT) has published reproducibility files; the [persistence plan](https://doi.org/10.17605/OSF.IO/MKJ9V) has no persistence result. The separately registered [page-signal study](https://doi.org/10.17605/OSF.IO/DVYFU) has its publication state recorded on the research hub; this comparison does not use its result. We have no causal estimate of how changing a company’s page will alter its visibility.
 
 ## Sources
 

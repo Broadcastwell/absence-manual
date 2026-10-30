@@ -101,7 +101,7 @@ The initial interval remains an historical snapshot rather than being overwritte
 
 ## What our own data shows
 
-The [initial observation CSV](../../data/ai-crawler-log.csv) is a direct aggregate from the public-request record, with one named own check excluded. The reference archive used for our answer studies is separately identified by [September release DOI](https://doi.org/10.5281/zenodo.22907695); it is not the source of crawler visits. We have no measurement here of whether any logged request caused an AI citation, a visit from a buyer or a commercial outcome.
+After the named own check is excluded, the initial snapshot has **0 declared AI-token matches among 83 observations, 0.0% (Wilson 95% interval 0.0% to 4.4%)**. These are declared user-agent matches in that short covered window. The [initial observation CSV](../../data/ai-crawler-log.csv) is a direct aggregate from the public-request record, with one named own check excluded. The reference archive used for our answer studies is separately identified by [September release DOI](https://doi.org/10.5281/zenodo.22907695); it is not the source of crawler visits. We have no measurement here of whether any logged request caused an AI citation, a visit from a buyer or a commercial outcome.
 
 ## Sources
 

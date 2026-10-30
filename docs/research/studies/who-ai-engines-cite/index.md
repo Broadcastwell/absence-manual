@@ -47,7 +47,7 @@ Host classes were frozen at **04:41:53 UTC**, before class-share aggregation. A 
 
 ## Which answers enter the analysis?
 
-Inputs are the releaseâ€™s answer JSONL, release JSON and control-question file, under version DOI **10.5281/zenodo.22907695**. Published checksums were matched before analysis. The archive has **2,250 observations**: **2,100 targets** and **150 controls**. Five excluded target observations remain in the exclusion audit, leaving **2,095 eligible targets** and all **150 controls**. [Release README, files and exclusion fields].
+Inputs are the release’s answer JSONL, release JSON and control-question file, under version DOI **10.5281/zenodo.22907695**. Published checksums were matched before analysis. The archive has **2,250 observations**: **2,100 targets** and **150 controls**. Five excluded target observations remain in the exclusion audit, leaving **2,095 eligible targets** and all **150 controls**. [Release README, files and exclusion fields].
 
 The primary target analysis contains **18,893 explicit citation-array entries**. Controls contribute **1,297**, making **20,190 eligible entries** in the combined archive. We neither infer extra references from prose nor treat an empty array as an unoptimized page. [Extraction CSV and answer-bases CSV].
 
@@ -65,7 +65,7 @@ Source: [answer-bases CSV](../../data/answer-citation-bases.csv), target scope a
 
 Each original array entry retains its URL, engine, category, question, repeat, capture date and order. The primary count preserves occurrences. A separately computed sensitivity keeps no more than one exact URL per answer. This archive contains no within-answer exact duplicates, so that sensitivity reproduces the primary occurrence totals. No malformed or non-HTTP entries were found; the empty invalid-entry audit remains available. [Citation-occurrences and invalid-entry CSVs].
 
-For host summaries, we lowercase the parsed hostname and remove a leading www. Other subdomains remain separate. Host concentration therefore differs from concentration by corporate owner. A citation to a review serviceâ€™s editorial subdomain can be a different host from its product-review pages.
+For host summaries, we lowercase the parsed hostname and remove a leading www. Other subdomains remain separate. Host concentration therefore differs from concentration by corporate owner. A citation to a review service’s editorial subdomain can be a different host from its product-review pages.
 
 All Wilson intervals are two-sided and descriptive, conditional on these archived observations. References share questions, repeats and answers; they are not independent draws from all future queries. We report counts and bases even when the observed proportion is zero.
 
@@ -73,11 +73,11 @@ All Wilson intervals are two-sided and descriptive, conditional on these archive
 
 The registered classes are checked vendor site, review platform, Wikipedia or sister project, news or trade media, agency/consultancy/blog, directory or listicle, forum, video, government or standards body, and other. Malformed entries would receive a separate unclassified audit label while remaining in the occurrence denominator.
 
-Canonical vendor domains and documented subdomains use the releaseâ€™s published record. Additional publisher-purpose evidence uses the publisherâ€™s own accessible description. A list-shaped article does not automatically make its host a directory. A software feature for collecting reviews does not automatically make the vendor a review platform. Unknown, blocked or conflicting evidence remains other, with an ambiguity flag.
+Canonical vendor domains and documented subdomains use the release’s published record. Additional publisher-purpose evidence uses the publisher’s own accessible description. A list-shaped article does not automatically make its host a directory. A software feature for collecting reviews does not automatically make the vendor a review platform. Unknown, blocked or conflicting evidence remains other, with an ambiguity flag.
 
 Purpose descriptions are evidence of what a publisher says it does, not independent verification of every claim on the site. The public host table provides the evidence URL, rationale, verification date and ambiguity for each host. It omits copied marketing excerpts. Primary response hashes document the collected source evidence without publishing raw HTML.
 
-The vendor inventory is conservative. It includes the releaseâ€™s checked vendors and documented additional category vendors; it does not establish a complete census of every vendor on the web. In particular, other is not equivalent to nonvendor.
+The vendor inventory is conservative. It includes the release’s checked vendors and documented additional category vendors; it does not establish a complete census of every vendor on the web. In particular, other is not equivalent to nonvendor.
 
 ## What did the frozen primary classification produce?
 
@@ -112,13 +112,13 @@ Both classification versions also provide an ambiguity sensitivity that assigns 
 
 The target record contains **1,896 distinct normalized hosts**. Its leading ten supply **3,192/18,893 entries**, **16.9%**, descriptive **95% Wilson interval 16.4% to 17.4%**. The highest-frequency ceiling of one percent is **19 hosts**, supplying **4,107/18,893**, **21.7%**, interval **21.2% to 22.3%**. Host-count ties are broken alphabetically. [Concentration CSV, target/all/all rows].
 
-The [top-twenty table](../../data/top-twenty-hosts.csv) reports overall and engine-specific hosts with counts and shares. G2â€™s exact host is the overall leading host, with **580/18,893**, **3.1%**, interval **2.8% to 3.3%**. These are citation occurrences, not clicks, unique users or the portion of answers whose reasoning depended on that host. The [source-choice insight](../../insights/who-the-engines-trust/) discusses the engine-specific concentration table.
+The [top-twenty table](../../data/top-twenty-hosts.csv) reports overall and engine-specific hosts with counts and shares. G2’s exact host is the overall leading host, with **580/18,893**, **3.1%**, interval **2.8% to 3.3%**. These are citation occurrences, not clicks, unique users or the portion of answers whose reasoning depended on that host. The [source-choice insight](../../insights/who-the-engines-trust/) discusses the engine-specific concentration table.
 
 ## Naming a vendor is different from citing its own site
 
 Using the September matching definition and its accompanying public dictionary projection, we reproduced all **286 vendor records** across **42,792 eligible vendor-answer pairs**. Every named count, qualifying own-domain cited count and valid base reconciles with the deposited release. Plain-word names retain the published qualifier and boundary rules rather than accepting every substring.
 
-Of **8,085 named pairs**, **2,608** have a qualifying own-domain citation: **32.3%**, descriptive **95% Wilson interval 31.2% to 33.3%**. Separately, **5,477/42,792 eligible pairs** are named without an own-domain citation: **12.8%**, interval **12.5% to 13.1%**. Those are deliberately different denominators. A third-party review reference does not count as the vendorâ€™s own source. [Vendor-pair summary and reconciliation CSVs].
+Of **8,085 named pairs**, **2,608** have a qualifying own-domain citation: **32.3%**, descriptive **95% Wilson interval 31.2% to 33.3%**. Separately, **5,477/42,792 eligible pairs** are named without an own-domain citation: **12.8%**, interval **12.5% to 13.1%**. Those are deliberately different denominators. A third-party review reference does not count as the vendor’s own source. [Vendor-pair summary and reconciliation CSVs].
 
 You can inspect the engine and category breakdowns in the downloads. The result does not mean the remaining named pairs lacked every source, or that a missing own-domain link caused a commercial disadvantage. It records what the saved answer said and cited under the published matching definition.
 
@@ -128,7 +128,7 @@ The release deposit supplies the immutable answers and question files. The [publ
 
 The public analysis accepts explicit input paths and an expected classification-file hash. The public host CSV is a projection of the frozen table with copied publisher prose removed; class and ambiguity values are identical. Its hash differs from the original frozen evidence file, and the manifest preserves both identities. [Citation analysis](../../data/analyze_citations.py); [pair reproduction](../../data/reproduce_vendor_pairs.mjs).
 
-The main unresolved issue is classification coverage. More primary publisher evidence could resolve some other entries, while changed sites could make todayâ€™s labels less suitable for the September citation dates. The URL archive preserves the observation; a later fetch does not recover the page exactly as it existed when the answer was captured.
+The main unresolved issue is classification coverage. More primary publisher evidence could resolve some other entries, while changed sites could make today’s labels less suitable for the September citation dates. The URL archive preserves the observation; a later fetch does not recover the page exactly as it existed when the answer was captured.
 
 ## What our own data shows
 
