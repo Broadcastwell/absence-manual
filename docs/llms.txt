@@ -285,7 +285,7 @@ State of GEO Volume III, DOI 10.5281/zenodo.21789120: https://doi.org/10.5281/ze
 
 ## Answers
 
-- [AI visibility answers](https://docs.broadcastwell.com/answers/): 292 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and source corrections.
+- [AI visibility answers](https://docs.broadcastwell.com/answers/): 300 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and source corrections.
 - [GEO basics answers](https://docs.broadcastwell.com/answers/geo-basics/): Definitions, question sets and the difference between being cited and being chosen.
 - [ChatGPT answers](https://docs.broadcastwell.com/answers/chatgpt/): Dated software naming counts, category shortlists and the limits of a mention.
 - [Claude answers](https://docs.broadcastwell.com/answers/claude/): Software category observations from Claude, with the questions and answer bases attached.
@@ -589,3 +589,11 @@ State of GEO Volume III, DOI 10.5281/zenodo.21789120: https://doi.org/10.5281/ze
 - [Is hotel property management software with ChatGPT free?](https://docs.broadcastwell.com/answers/industries/hotel-property-management-software-chatgpt-free/): ChatGPT Free research, a Zapier tier and a hotel PMS license are separate conditions. Read the named Cloudbeds route and its reported limits.
 - [How should the report show visits?](https://docs.broadcastwell.com/answers/measurement/how-should-the-report-show-visits/): A visits report needs its own period, visit definition and received source evidence. An AI answer citation belongs in a separate observation row.
 - [Which AI-based CRM is the best?](https://docs.broadcastwell.com/answers/geo-basics/which-ai-based-crm-is-the-best/): A CRM’s AI label does not establish the best fit. A dated buyer-question criterion and HubSpot’s documented record controls make the comparison more specific.
+- [What did the buyer report?](https://docs.broadcastwell.com/answers/measurement/what-did-the-buyer-report/): A buyer’s source statement is their own account. Our 75 single-vendor AI answers are model outputs, not buyer testimony or sales records.
+- [Which AI is best for SEO?](https://docs.broadcastwell.com/answers/geo-basics/which-ai-is-best-for-seo/): Choose the assistant for the work you need to check. Our Salesforce-domain citation counts differ between ChatGPT and Perplexity without measuring SEO lift.
+- [What does the business record establish?](https://docs.broadcastwell.com/answers/measurement/what-does-the-business-record-establish/): Use a defined enquiry, opportunity or sale record for a business event. A CRM requirement stated in an AI answer is a different kind of evidence.
+- [Will CRM get replaced by AI?](https://docs.broadcastwell.com/answers/geo-basics/will-crm-get-replaced-by-ai/): HubSpot’s ChatGPT connection uses a HubSpot account. A chat interface and a replacement for its backing customer-record system are different claims.
+- [What information belongs in a public report?](https://docs.broadcastwell.com/answers/measurement/what-information-belongs-in-a-public-report/): Publish reviewed aggregates with dates, bases and sources. Our insurance permissions count distinguishes coded records from visible quotations.
+- [Does AI search replace SEO?](https://docs.broadcastwell.com/answers/geo-basics/does-ai-search-replace-seo/): Google keeps search eligibility rules for AI features. Our HubSpot citation count measures answers, with clicks and rankings kept separate.
+- [What can insurance agency software with ChatGPT do for project management?](https://docs.broadcastwell.com/answers/industries/insurance-agency-software-chatgpt-project-management/): AgencyZoom documents task assignment. A dated insurance-buyer criterion and full vendor matrix separate that handoff from full project planning.
+- [Is legal practice software with ChatGPT free?](https://docs.broadcastwell.com/answers/industries/legal-practice-software-chatgpt-free/): ChatGPT Free can research public legal-software information. A Clio task route has separate account conditions, distinct from a reached public-pricing page.

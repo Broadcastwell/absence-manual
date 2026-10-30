@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T14:13:49+00:00'
+date_modified: '2026-10-30T14:53:57+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 43 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 46 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -262,6 +262,24 @@ LLM means large language model. Read how tokens, context and Transformers relate
 [Which AI-based CRM is the best?](which-ai-based-crm-is-the-best.md)
 
 A CRM’s AI label does not establish the best fit. A dated buyer-question criterion and HubSpot’s documented record controls make the comparison more specific.
+
+## Using AI for search work
+
+[Which AI is best for SEO?](which-ai-is-best-for-seo.md)
+
+Choose the assistant for the work you need to check. Our Salesforce-domain citation counts differ between ChatGPT and Perplexity without measuring SEO lift.
+
+## Using AI with business software
+
+[Will CRM get replaced by AI?](will-crm-get-replaced-by-ai.md)
+
+HubSpot’s ChatGPT connection uses a HubSpot account. A chat interface and a replacement for its backing customer-record system are different claims.
+
+## Search foundations
+
+[Does AI search replace SEO?](does-ai-search-replace-seo.md)
+
+Google keeps search eligibility rules for AI features. Our HubSpot citation count measures answers, with clicks and rankings kept separate.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

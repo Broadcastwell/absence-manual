@@ -6184,6 +6184,36 @@
       "unit": "initial_tasks",
       "label": "Agent Gap hotel-property-management initial pricing-page tasks reached",
       "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5"
+    },
+    "figure:7cc97e99427a67fc22eb82316773614decf5c09b1049a31ee365a91c848a4fb4": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "category": "insurance-agency-management",
+        "subject": "task_assignment",
+        "metric": "criterion_stated",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 8,
+      "base": 150,
+      "unit": "answers",
+      "label": "Task assignment",
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24"
+    },
+    "figure:3fc1c342cf1ee227e594715531a9e7e9c45206cb7e1ad24115cb86579d0b7ed3": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "legal-practice-management",
+        "subject": "S2",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 5,
+      "base": 5,
+      "unit": "initial_tasks",
+      "label": "Agent Gap legal-practice-management initial pricing-path tasks reached",
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24"
     }
   },
   "pages": {
@@ -12454,6 +12484,154 @@
       "opening_shape": "vendor_first",
       "classification_reason": "MeltwaterGenAILens is the leading named product/vendor subject.",
       "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/measurement/what-did-the-buyer-report.md": {
+      "source_sha256": "ef6a7d4a3c81952ae9211cca7c496f627f23cb1e138f3093beaf8009b5ee1256",
+      "canonical_source_sha256": "ef6a7d4a3c81952ae9211cca7c496f627f23cb1e138f3093beaf8009b5ee1256",
+      "opening_sha256": "345ef4604bdc072ec98f1def3f377c316bc8b637430002981749e128aa4bac6d",
+      "bank_id": "LB-Q0286",
+      "lead_figures": [
+        "figure:20a7834175b7baebc2e2eedcd6d96d0de8851797b9ce352e2bfe649f0c72f685"
+      ],
+      "lead_figure_spans": {
+        "figure:20a7834175b7baebc2e2eedcd6d96d0de8851797b9ce352e2bfe649f0c72f685": [
+          "A buyer report is the buyer’s own account of how they found or assessed you. It differs from an assistant choosing a supplier: our [Head to Head study](https://doi.org/10.5281/zenodo.23202939) recorded 75 single-vendor selections among 359 scored answers from 22 September 2026. Those selections tell you what the engines returned, not what a buyer said, clicked or bought."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The opening defines a buyer’s own account before contrasting measured supplier selection.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/measurement/what-does-the-business-record-establish.md": {
+      "source_sha256": "a980e651b6ec9eda5ab8ae102e42b0dbb594ddea65981ab5ef590b25f3ebf77e",
+      "canonical_source_sha256": "a980e651b6ec9eda5ab8ae102e42b0dbb594ddea65981ab5ef590b25f3ebf77e",
+      "opening_sha256": "fca9a645cb2e744993520d53e7a632bac820a076e4d1e66e1bce45b12e292b35",
+      "bank_id": "LB-Q0289",
+      "lead_figures": [
+        "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1"
+      ],
+      "lead_figure_spans": {
+        "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1": [
+          "If you need to count an enquiry, use the business record for that defined event, with its date and status. An assistant describing a CRM is a different source: our [22 September 2026 buyer-language study](https://doi.org/10.5281/zenodo.23271935) coded a system-of-record requirement in 1 of 150 CRM answers. That observation records words in an answer, without establishing any company’s enquiry or sale."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The need to count an enquiry is the first reader condition before the observed criterion.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/measurement/what-information-belongs-in-a-public-report.md": {
+      "source_sha256": "d9cf06abb78afcb66ee408cafd3c345641907dc0a34ad11ca11e6a6650e366df",
+      "canonical_source_sha256": "d9cf06abb78afcb66ee408cafd3c345641907dc0a34ad11ca11e6a6650e366df",
+      "opening_sha256": "6292908d09f302962fdb03e21d019d50900e73b3cd06de35c29a0143b66849d8",
+      "bank_id": "LB-Q0290",
+      "lead_figures": [
+        "figure:59febd4b1677af152b9cc70e03a566e11bed7788cb89dbaaca2ae77ed4b76637"
+      ],
+      "lead_figure_spans": {
+        "figure:59febd4b1677af152b9cc70e03a566e11bed7788cb89dbaaca2ae77ed4b76637": [
+          "Publish reviewed aggregates and authorised evidence, with the date, base and source needed to check the claim. The permissions criterion in our [insurance buyer-language study](https://doi.org/10.5281/zenodo.23271935) has a 10/150 answer count, using the 22 September 2026 capture. That public count can be reported; it does not turn private customer records, deal notes or unreviewed text into material you may publish."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "action_first",
+      "classification_reason": "Publish is the opening reporting action before the actual insurance criterion.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/geo-basics/which-ai-is-best-for-seo.md": {
+      "source_sha256": "5cd8727e1fa4839200713fda425a3b0708f1c0b26c2c825dfd17f841f54d73e2",
+      "canonical_source_sha256": "5cd8727e1fa4839200713fda425a3b0708f1c0b26c2c825dfd17f841f54d73e2",
+      "opening_sha256": "5721aeb5838e18125b49b61f6ed86f38ac1279bc0379af50466ca7de75a06b19",
+      "bank_id": "LB-Q0308",
+      "lead_figures": [
+        "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021",
+        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801"
+      ],
+      "lead_figure_spans": {
+        "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021": [
+          "Compare ChatGPT Search and Perplexity Pro Search against a factual SEO research task whose sources you can check: our [September CRM release](https://doi.org/10.5281/zenodo.22907695) recorded Salesforce-domain citations in 19 of 30 ChatGPT answers, compared with 3 of 30 Perplexity answers from 22 September 2026. Those observations compare returned sources, rather than ranking skill or improvements to a website."
+        ],
+        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801": [
+          "Compare ChatGPT Search and Perplexity Pro Search against a factual SEO research task whose sources you can check: our [September CRM release](https://doi.org/10.5281/zenodo.22907695) recorded Salesforce-domain citations in 19 of 30 ChatGPT answers, compared with 3 of 30 Perplexity answers from 22 September 2026. Those observations compare returned sources, rather than ranking skill or improvements to a website."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "action_first",
+      "classification_reason": "Compare gives the reader a bounded factual research task before the counts; two engine measures later in that paragraph do not change its initial action form.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/geo-basics/will-crm-get-replaced-by-ai.md": {
+      "source_sha256": "45840aa24539fa861f88fee3a09aef87a8f63391422e3280c5be47f05ecccccc",
+      "canonical_source_sha256": "45840aa24539fa861f88fee3a09aef87a8f63391422e3280c5be47f05ecccccc",
+      "opening_sha256": "772cecffdc8215c94a7170cab27d70469933b3c3c3b08fbc97ec72fc5352b9d6",
+      "bank_id": "LB-Q0310",
+      "lead_figures": [
+        "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1"
+      ],
+      "lead_figure_spans": {
+        "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1": [
+          "HubSpot’s documented ChatGPT connection uses records in a connected HubSpot account, so that workflow adds an AI interface without replacing the CRM behind it. Our [buyer-language study](https://doi.org/10.5281/zenodo.23271935) coded one CRM answer for the system-of-record criterion, from a 150-answer capture on 22 September 2026. Neither observation is a forecast that the whole CRM market will disappear or remain unchanged."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "vendor_first",
+      "classification_reason": "HubSpot’s connected account and retained CRM relationship give the first named-vendor answer before the study criterion.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/geo-basics/does-ai-search-replace-seo.md": {
+      "source_sha256": "28d37990b0e5e37f62051f060eddd28032cff3428bb8ec83e18976f50ac6360b",
+      "canonical_source_sha256": "28d37990b0e5e37f62051f060eddd28032cff3428bb8ec83e18976f50ac6360b",
+      "opening_sha256": "b0613998a0ac1488337dbc1b6d1dbf4c86af0dcffb23c6381257e2b0cd130036",
+      "bank_id": "LB-Q0311",
+      "lead_figures": [
+        "figure:900e1c0e23abd4dbf4f3101a58fb1c8168de7b5429e7289b53c6e229d24cbbe5"
+      ],
+      "lead_figure_spans": {
+        "figure:900e1c0e23abd4dbf4f3101a58fb1c8168de7b5429e7289b53c6e229d24cbbe5": [
+          "No. For Google’s AI features, the published guidance still depends on ordinary search eligibility and useful, accessible content. Our [CRM panel captured on 22 September 2026](https://doi.org/10.5281/zenodo.22907695) recorded a HubSpot-domain citation in 6 of 30 Google AI Overviews answers. That is an additional answer-source observation to examine beside SEO records, rather than evidence that a site no longer needs its search foundations."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "yes_no",
+      "classification_reason": "No answers replacement directly, immediately scoped to Google eligibility and dated HubSpot citations.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/industries/insurance-agency-software-chatgpt-project-management.md": {
+      "source_sha256": "88f45a2a1f285c3ab00fcf92197cabca992af255cd250517a07125ea1c114733",
+      "canonical_source_sha256": "88f45a2a1f285c3ab00fcf92197cabca992af255cd250517a07125ea1c114733",
+      "opening_sha256": "85e4af56ea57a5e4b4cd2b71075ec03fbe96de4754ea5e6dcab55e88857b5ade",
+      "bank_id": "LB-Q0392",
+      "lead_figures": [
+        "figure:7cc97e99427a67fc22eb82316773614decf5c09b1049a31ee365a91c848a4fb4"
+      ],
+      "lead_figure_spans": {
+        "figure:7cc97e99427a67fc22eb82316773614decf5c09b1049a31ee365a91c848a4fb4": [
+          "AgencyZoom's [ChatGPT pair listing](https://zapier.com/apps/agencyzoom-ca67272/integrations/chatgpt) documents a Create Task action, giving this project-management question a specific task-handoff answer. In [The AI written RFP](https://doi.org/10.5281/zenodo.23271935), task assignment appears as a criterion in 8 of 150 insurance-software answers captured on 22 September 2026. That criterion concerns what the answers ask buyers to evaluate, rather than a completed AgencyZoom operation."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Named AgencyZoom Create Task answers the workflow before the insurance criterion count.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/industries/legal-practice-software-chatgpt-free.md": {
+      "source_sha256": "1a143de2f33b3d76c6bf22e1575ef08cdbc004eda4d85afe8bd9fb791126cbff",
+      "canonical_source_sha256": "1a143de2f33b3d76c6bf22e1575ef08cdbc004eda4d85afe8bd9fb791126cbff",
+      "opening_sha256": "cd4104ec245d848f7ab25896977b1372a8257c514c539fc00f06c861ee8adbf7",
+      "bank_id": "LB-Q0397",
+      "lead_figures": [
+        "figure:3fc1c342cf1ee227e594715531a9e7e9c45206cb7e1ad24115cb86579d0b7ed3"
+      ],
+      "lead_figure_spans": {
+        "figure:3fc1c342cf1ee227e594715531a9e7e9c45206cb7e1ad24115cb86579d0b7ed3": [
+          "If you mean researching public legal-software information, ChatGPT Free has documented web-search functions; that does not establish a free Clio-and-ChatGPT workflow. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached all 5 of the 5 legal-software pricing destinations on 6 October 2026. Finding those destinations is a public-site observation, rather than a license or account entitlement."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader’s intended public research is the first condition, before separating free software/account routes.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
     }
   },
   "index_question_titles": {

@@ -5,7 +5,7 @@ description: Counts, citations, repeat runs and the evidence needed to compare r
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-30T14:13:50+00:00'
+date_modified: '2026-10-30T14:53:57+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 6
@@ -15,7 +15,7 @@ library_order: 6
 
 Counts, citations, repeat runs and the evidence needed to compare reports.
 
-These 48 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 51 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Questions
 
@@ -296,6 +296,20 @@ Show answer observations, visits, buyer reports and commercial events in separat
 [How should the report show visits?](how-should-the-report-show-visits.md)
 
 A visits report needs its own period, visit definition and received source evidence. An AI answer citation belongs in a separate observation row.
+
+## Source and business evidence
+
+[What did the buyer report?](what-did-the-buyer-report.md)
+
+A buyer’s source statement is their own account. Our 75 single-vendor AI answers are model outputs, not buyer testimony or sales records.
+
+[What does the business record establish?](what-does-the-business-record-establish.md)
+
+Use a defined enquiry, opportunity or sale record for a business event. A CRM requirement stated in an AI answer is a different kind of evidence.
+
+[What information belongs in a public report?](what-information-belongs-in-a-public-report.md)
+
+Publish reviewed aggregates with dates, bases and sources. Our insurance permissions count distinguishes coded records from visible quotations.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
