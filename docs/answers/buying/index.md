@@ -5,7 +5,7 @@ description: Scope, acceptance evidence and questions to ask before agreeing to 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T11:00:14+00:00'
+date_modified: '2026-10-30T12:00:10+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 7
@@ -15,7 +15,7 @@ library_order: 7
 
 Scope, acceptance evidence and questions to ask before agreeing to work.
 
-These 29 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 30 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Delivery choices
 
@@ -142,6 +142,12 @@ Omniscient Digital has three Yes cells in our eight-field record. Inspect its da
 [What does an AI visibility audit include?](what-does-an-ai-visibility-audit-include.md)
 
 An AI visibility audit should supply the answers, questions, engines, dates and sources. Our Go Fish publication record shows why the evidence scope matters.
+
+## Agency platform standardization
+
+[Should a public-affairs agency standardize on Suede or Profound for regulated clients?](i-m-a-public-affairs-agency-lead-for-our-regulated-industry-clients-su.md)
+
+Suede describes approval-gated content; Profound describes claim checks against a Knowledge Base. Our 10/150 access criterion keeps permissions distinct.
 
 ## Prospect-audit scope and resources
 

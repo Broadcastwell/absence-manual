@@ -5,7 +5,7 @@ description: Counts, citations, repeat runs and the evidence needed to compare r
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-30T11:00:14+00:00'
+date_modified: '2026-10-30T12:00:10+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 6
@@ -15,7 +15,7 @@ library_order: 6
 
 Counts, citations, repeat runs and the evidence needed to compare reports.
 
-These 40 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 41 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Questions
 
@@ -140,6 +140,12 @@ AthenaHQ's accuracy FAQ describes visibility metrics and client results. Read th
 [What does Hotwire GAIO.tech publish about model coverage?](what-does-hotwire-gaio-tech-publish-about-model-coverage.md)
 
 Hotwire named four chatbots in its GAIO.tech launch and a different list in the Spark announcement. Read the dated labels separately from our engine counts.
+
+## Provider sampling definitions
+
+[How do Suede, Profound and AthenaHQ differ in sampling AI answers and measuring share of voice?](how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md)
+
+Our CRM row has 13 checked-name appearances in three Perplexity returns. Compare that unit with the three providers' disclosed metrics and cohorts.
 
 ## Named platform history features
 

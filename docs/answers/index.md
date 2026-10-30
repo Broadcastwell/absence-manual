@@ -1,19 +1,19 @@
 ---
 title: AI visibility answers
 headline: Answers to AI visibility questions
-description: 267 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and
+description: 275 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and
   source corrections.
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-30T11:00:14+00:00'
+date_modified: '2026-10-30T12:00:10+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 ---
 
 # Answers to AI visibility questions
 
-Start with the question you need to answer. These 267 pages use Broadcastwell's published observations and link to the records behind their figures. The dates and bases matter: a named vendor, a cited page and a buyer's decision are different events.
+Start with the question you need to answer. These 275 pages use Broadcastwell's published observations and link to the records behind their figures. The dates and bases matter: a named vendor, a cited page and a buyer's decision are different events.
 
 ## Browse the library
 

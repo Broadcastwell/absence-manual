@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T11:00:14+00:00'
+date_modified: '2026-10-30T12:00:10+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 30 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 35 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -137,6 +137,12 @@ Size a growing GEO workload by retained answers and shared resources. Otterly do
 
 Compare each documented control and plan. Our dated OtterlyAI row names three MCP plans; its SSO guide specifies Enterprise sign-in.
 
+## PAC software reporting fields
+
+[How do Suede and AthenaHQ differ beyond price for a PAC?](how-do-suede-and-athenahq-differ-beyond-price-for-a-pac.md)
+
+Compare the providers' reported issue, citation and sentiment fields beyond price. Our HubSpot citation example is a website-reference unit, not a PAC result.
+
 ## Finding a provider in your own city
 
 [Where can I find an AI search visibility expert near me?](where-can-i-find-an-ai-search-visibility-expert-near-me.md)
@@ -154,6 +160,18 @@ Semrush lists UK reporting; seoClarity publishes UK research. Our Claude sample 
 [What is Origence?](origence.md)
 
 Origence is a credit-union lending technology network. The September Index checked its name and published aliases.
+
+## Energy permitting information workflows
+
+[How do Suede and Profound compare for permitting and community narratives at an energy company?](how-do-suede-and-profound-compare-for-permitting-and-community-narrati.md)
+
+Suede documents energy-project audience monitoring; Profound documents factual-claim checks. Our dated 12/77 example separates factual status from stance.
+
+## Trade-association reporting scope
+
+[How do Suede, Profound and AthenaHQ compare for a trade group in a regulated industry?](how-do-suede-profound-and-athenahq-compare-for-a-trade-group-in-a-regu.md)
+
+Suede names trade associations; Profound and Athena describe other report fields. Our cited-publisher example separates an association site from member brands.
 
 ## Product outputs beyond brand-coverage charts
 
@@ -184,6 +202,18 @@ Profound and Semrush document different prominence metrics. Our 2039 name appear
 [What are alternatives to BrightEdge for GEO?](what-are-alternatives-to-brightedge-for-geo.md)
 
 Profound, Semrush and seoClarity document GEO reporting functions. Compare their named units with our 1496 appearances across 420 ChatGPT answers.
+
+## Practice size and Dentrix Ascend
+
+[What sizes of dental practice use Dentrix Ascend for scheduling and billing?](what-sizes-of-dental-practice-use-dentrix-ascend-for-scheduling-and-bi.md)
+
+Published Dentrix Ascend scheduling and billing functions, a multi-location customer example, and the limits of our dental-question naming data.
+
+## Blue Yonder’s published LTL scope
+
+[What does Blue Yonder publish about LTL freight shipping?](what-does-blue-yonder-publish-about-ltl-freight-shipping.md)
+
+Blue Yonder’s page lists LTL execution. Our 6/30 ChatGPT count concerns enterprise and alternative questions, without an LTL shipment test.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

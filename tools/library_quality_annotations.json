@@ -5948,6 +5948,87 @@
       "unit": "answers",
       "label": "Close named in ChatGPT CRM answers",
       "source_review_sha256": "302c34c6e3419fc8e5e5ab00ea5db2ab63208b3e2aa833b0db4affba018d7c9a"
+    },
+    "figure:59febd4b1677af152b9cc70e03a566e11bed7788cb89dbaaca2ae77ed4b76637": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "category": "insurance-agency-management",
+        "subject": "permissions",
+        "metric": "criterion_stated",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 10,
+      "base": 150,
+      "unit": "answers",
+      "label": "Role-based access permissions",
+      "source_review_sha256": "0368daee0bfb566e3f1ee1f72d962c4484fb65ff31cea141b1279f5aa157cdab"
+    },
+    "figure:98560693d279f8cc7286bbe106062158b04533096bea1422c3e67b0d69954381": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "Perplexity",
+        "question": "q5",
+        "subject": "all-checked-vendors",
+        "metric": "checked_vendor_name_appearances"
+      },
+      "count": 13,
+      "base": 3,
+      "unit": "checked-name-appearances",
+      "label": "Perplexity checked-name appearances for the scaling-small-sales-team CRM question",
+      "source_review_sha256": "0368daee0bfb566e3f1ee1f72d962c4484fb65ff31cea141b1279f5aa157cdab"
+    },
+    "figure:2feb61c3d4060ea8d7b35007f1803873d947aae050c46c577c776ae021b145b6": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "ChatGPT",
+        "subject": "reddit.com",
+        "metric": "cited_domain"
+      },
+      "count": 0,
+      "base": 30,
+      "unit": "answers",
+      "label": "reddit.com cited in ChatGPT crm answers",
+      "source_review_sha256": "d89d2308b50528640e16eb7c41d1aec1a9bd3b168da5d6e141844d7b86c79c49"
+    },
+    "figure:d8df77981734577a34c2b7227d4fccfe2142faf2b1c2b03d69c77318a9dc3c25": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "dental-practice-management",
+        "engine": "ChatGPT",
+        "subject": "Dentrix Ascend",
+        "metric": "named",
+        "question": "q10"
+      },
+      "count": 3,
+      "base": 3,
+      "unit": "answers",
+      "label": "Dentrix Ascend named in ChatGPT dental-practice-management q10 answers",
+      "source_review_sha256": "d89d2308b50528640e16eb7c41d1aec1a9bd3b168da5d6e141844d7b86c79c49"
+    },
+    "figure:bac5a251af7f543fef98f2610bd7f0eb493caee9dccb421cabe12e01124e3684": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "transportation-management-systems",
+        "engine": "ChatGPT",
+        "subject": "Blue Yonder",
+        "metric": "named"
+      },
+      "count": 6,
+      "base": 30,
+      "unit": "answers",
+      "label": "Blue Yonder named in ChatGPT transportation-management-systems answers",
+      "source_review_sha256": "d89d2308b50528640e16eb7c41d1aec1a9bd3b168da5d6e141844d7b86c79c49"
     }
   },
   "pages": {
@@ -11764,6 +11845,150 @@
       "opening_shape": "reader_situation",
       "classification_reason": "The reader needing a named ChatGPT GEO case is the first condition before the case and separate own naming-only count.",
       "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/buying/i-m-a-public-affairs-agency-lead-for-our-regulated-industry-clients-su.md": {
+      "source_sha256": "815a676d09b711ff3af899fecefcea755ee3c6aadc10dc484b9d9a83098e6b72",
+      "canonical_source_sha256": "9670d89e76679635847034fba4f00912b5206f66f698808de75d421f10cdb0cc",
+      "opening_sha256": "14592f556e2d2c4c405ae289d20af6f01b14551ac8977debefaea010243d182f",
+      "bank_id": "LB-Q0054",
+      "lead_figures": [
+        "figure:59febd4b1677af152b9cc70e03a566e11bed7788cb89dbaaca2ae77ed4b76637"
+      ],
+      "lead_figure_spans": {
+        "figure:59febd4b1677af152b9cc70e03a566e11bed7788cb89dbaaca2ae77ed4b76637": [
+          "For your agency, Suede's documented fit is approval-gated project content; Profound's is checking claims against a client Knowledge Base. Our study, [The AI written RFP](https://doi.org/10.5281/zenodo.23271935), codes role-based access permissions in 10 of 150 insurance-software buyer answers from 22 September 2026, a distinct procurement criterion."
+        ]
+      },
+      "source_review_sha256": "d832e7dbc6f36035f08b35030950f8eb0953d1500abf6704def1e0ca1911fe84",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The agency reader and its two documented tasks lead before the insurance criterion.",
+      "writing_review_sha256": "aa7b7d5793a271d2480b528fe8f34d480c9c1bd43be9f67f39aa20bd0a51b9b6"
+    },
+    "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md": {
+      "source_sha256": "02052d8d68d31758055d08d52c89b641f87c3c3051bf84ac3e766dc71c7df5c5",
+      "canonical_source_sha256": "09b3abf93e1c5d88a78d83995f05c0a8ede63a317ea5a81e6f5d96edfa852b15",
+      "opening_sha256": "ce2fea7358c69f584517e427520ffd77d4746dd21405ffbcb8f02ebd652ed171",
+      "bank_id": "LB-Q0100",
+      "lead_figures": [
+        "figure:98560693d279f8cc7286bbe106062158b04533096bea1422c3e67b0d69954381"
+      ],
+      "lead_figure_spans": {
+        "figure:98560693d279f8cc7286bbe106062158b04533096bea1422c3e67b0d69954381": [
+          "13 checked-name appearances in three Perplexity returns show why an answer total and a mention total need different labels. That is the scaling-small-sales-team CRM row in our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695). Suede reports persona-based capture; Profound defines several denominators; AthenaHQ-supported research publishes eligible-cohort and source-counting rules."
+        ]
+      },
+      "source_review_sha256": "6319173b5ae64a8b0d7f492c975cbdb9c59e937536546390e1d515a546c1f87b",
+      "opening_shape": "figure_first",
+      "classification_reason": "Thirteen checked-name appearances in three returns lead before the provider methods.",
+      "writing_review_sha256": "589d1dd97344aa8f37fea4f13d9c6202331b5ad9e76c7869893308bb28b3bf29"
+    },
+    "answers/geo-basics/how-do-suede-and-athenahq-differ-beyond-price-for-a-pac.md": {
+      "source_sha256": "6a4b79057f881beebbab37890c9cf275eed68c3e63ebe4eda595c649f413619d",
+      "canonical_source_sha256": "2775405dac13f79c3b5b90b40410c9ff8a02684167222b0663327ff456b2ac6c",
+      "opening_sha256": "196f03530335363ce48aa71190777fac521ed5d8f91d134a80c2ec2fc311df18",
+      "bank_id": "LB-Q0079",
+      "lead_figures": [
+        "figure:07b484cfa0ac3d7eca01f583887fa21a5fae3df8d01a81cf46f09d398a4857a9"
+      ],
+      "lead_figure_spans": {
+        "figure:07b484cfa0ac3d7eca01f583887fa21a5fae3df8d01a81cf46f09d398a4857a9": [
+          "Compare Suede's issue-and-audience fields with AthenaHQ's brand metrics before reducing the choice to price. Our [Index](https://doi.org/10.5281/zenodo.22907695), dated 22 September 2026, recorded 1 answer citing a HubSpot-domain URL in the Claude CRM set of 30. Its HubSpot-domain reference illustrates a website-citation unit, which differs from the stance or sentiment fields these products describe."
+        ]
+      },
+      "source_review_sha256": "6319173b5ae64a8b0d7f492c975cbdb9c59e937536546390e1d515a546c1f87b",
+      "opening_shape": "action_first",
+      "classification_reason": "The imperative to compare issue/audience fields and brand metrics leads the opening.",
+      "writing_review_sha256": "589d1dd97344aa8f37fea4f13d9c6202331b5ad9e76c7869893308bb28b3bf29"
+    },
+    "answers/geo-basics/how-do-suede-and-profound-compare-for-permitting-and-community-narrati.md": {
+      "source_sha256": "aab55b6a6ac7d3f82f28ef2191015ef7dc81db10f842dfd8c5798c195847d9ff",
+      "canonical_source_sha256": "4324a364f2e9f7b9edf60d978cf1a54c73bf98cc2c96d58bbb4b0655d3badf67",
+      "opening_sha256": "79991a32a9bf2f5d17a4b5067f1fcac3da1b625875d164115faa027c1d4904d0",
+      "bank_id": "LB-Q0098",
+      "lead_figures": [
+        "figure:bae9e1d2f26364a37726d5d18c4e0d98e7e88acbdf21ae9882e576c9c9231873"
+      ],
+      "lead_figure_spans": {
+        "figure:bae9e1d2f26364a37726d5d18c4e0d98e7e88acbdf21ae9882e576c9c9231873": [
+          "Favorable stance is not factual accuracy. Suede documents monitoring for energy projects and their audiences; Profound documents claim verification. Our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) labels 12 of 77 Open Dental statements wrong or stale, from quotations captured on 22 September 2026 and vendor references checked on 8 October. Those are factual-status labels, not sentiment scores."
+        ]
+      },
+      "source_review_sha256": "0368daee0bfb566e3f1ee1f72d962c4484fb65ff31cea141b1279f5aa157cdab",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The opening corrects favorable stance equals factual accuracy before documenting the different jobs.",
+      "writing_review_sha256": "ed4ea457b3cbb6ada478e6f6febba8c489b7e5ac721d46b6e040a9a3be8807eb"
+    },
+    "answers/geo-basics/how-do-suede-profound-and-athenahq-compare-for-a-trade-group-in-a-regu.md": {
+      "source_sha256": "760b9e91dae78b5e414c38079fae7ba3bd6b9480bf84068810c0881314485c36",
+      "canonical_source_sha256": "ea5e90fffd28128ca9e438b68e5dae02f4e9fd282f3b0aa8fd9a300a8c49247b",
+      "opening_sha256": "4542b257a84bf33c9f318a5f1a3099889ce1346fe8e574aacb0771e78dece4a4",
+      "bank_id": "LB-Q0102",
+      "lead_figures": [
+        "figure:07b484cfa0ac3d7eca01f583887fa21a5fae3df8d01a81cf46f09d398a4857a9"
+      ],
+      "lead_figure_spans": {
+        "figure:07b484cfa0ac3d7eca01f583887fa21a5fae3df8d01a81cf46f09d398a4857a9": [
+          "If your trade group needs issue-level reporting, Suede's official page explicitly names trade associations; the comparison with Profound and AthenaHQ still needs clear report objects. In our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695), 1 of Claude's 30 CRM returns cites a HubSpot blog URL whose path names Microsoft Dynamics and Zoho: the publisher and the named products are different identities."
+        ]
+      },
+      "source_review_sha256": "6319173b5ae64a8b0d7f492c975cbdb9c59e937536546390e1d515a546c1f87b",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader trade group and issue-level reporting need lead before the provider audience and cited-publisher example.",
+      "writing_review_sha256": "589d1dd97344aa8f37fea4f13d9c6202331b5ad9e76c7869893308bb28b3bf29"
+    },
+    "answers/industries/crm-software-chatgpt-reddit.md": {
+      "source_sha256": "45b92c0740dbd4d051a1a6aa461eb45d02dbdaa218de3581fdbd05fb0b12581b",
+      "canonical_source_sha256": "c24409e9326f5fb873a74935f2c6e944afaeb39e390fa28a197569d171ff76cf",
+      "opening_sha256": "d5725395e9ee1e6d686b99e1866df7f5e7e0a56f370ac2be1509678b7d8b77ad",
+      "bank_id": "LB-Q0348",
+      "lead_figures": [
+        "figure:2feb61c3d4060ea8d7b35007f1803873d947aae050c46c577c776ae021b145b6"
+      ],
+      "lead_figure_spans": {
+        "figure:2feb61c3d4060ea8d7b35007f1803873d947aae050c46c577c776ae021b145b6": [
+          "No Reddit URL appeared in the thirty ChatGPT CRM answers retained in our [September Index](https://doi.org/10.5281/zenodo.22907695), captured on 22 September 2026. That is a result about the recorded references in this panel. It does not establish that ChatGPT never used Reddit, or that CRM discussions on Reddit have no value."
+        ]
+      },
+      "source_review_sha256": "d89d2308b50528640e16eb7c41d1aec1a9bd3b168da5d6e141844d7b86c79c49",
+      "opening_shape": "yes_no",
+      "classification_reason": "The first clause directly answers no within the dated thirty-answer CRM panel.",
+      "writing_review_sha256": "ed4ea457b3cbb6ada478e6f6febba8c489b7e5ac721d46b6e040a9a3be8807eb"
+    },
+    "answers/geo-basics/what-sizes-of-dental-practice-use-dentrix-ascend-for-scheduling-and-bi.md": {
+      "source_sha256": "78e86e04c2a31947f4eb7a652d98711875218d942d6d3ac95f0e5c9aedc4eaaf",
+      "canonical_source_sha256": "3d9a7fc4dbfc81831f94513a3bc3b9e3b81cd8b5ddec9a085d539d505535fd60",
+      "opening_sha256": "5d7388d7eac7178ccecfbfd8b80ed1645c49186d43ef0ecf224d15593bb7afc6",
+      "bank_id": "LB-Q0122",
+      "lead_figures": [
+        "figure:d8df77981734577a34c2b7227d4fccfe2142faf2b1c2b03d69c77318a9dc3c25"
+      ],
+      "lead_figure_spans": {
+        "figure:d8df77981734577a34c2b7227d4fccfe2142faf2b1c2b03d69c77318a9dc3c25": [
+          "For a practice working across locations, Dentrix Ascend publishes scheduling and billing functions for that setup; its [solutions page](https://www.dentrixascend.com/dental-solutions/) also addresses single-location practices. Our [September Index](https://doi.org/10.5281/zenodo.22907695) named Ascend in all three ChatGPT answers to the DSO and multiple-location question, captured on 22 September 2026. That measures an answer context, not the sizes of its installed customer base."
+        ]
+      },
+      "source_review_sha256": "6319173b5ae64a8b0d7f492c975cbdb9c59e937536546390e1d515a546c1f87b",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader practice working across locations is the initial condition before supplier functions and the dated DSO observation.",
+      "writing_review_sha256": "589d1dd97344aa8f37fea4f13d9c6202331b5ad9e76c7869893308bb28b3bf29"
+    },
+    "answers/geo-basics/what-does-blue-yonder-publish-about-ltl-freight-shipping.md": {
+      "source_sha256": "8dcda4e0602aa872e089b433ea1211409a9fab50c7b178cfbb32fb84957c24ce",
+      "canonical_source_sha256": "10e4917ff362d8df6423caae56bc5b4f707bcfd528417ff8a76bf7b2995b3199",
+      "opening_sha256": "4644407dd80cb992af56b6e1311ea5975f144513797bb5001bc0b6835a977dc1",
+      "bank_id": "LB-Q0128",
+      "lead_figures": [
+        "figure:bac5a251af7f543fef98f2610bd7f0eb493caee9dccb421cabe12e01124e3684"
+      ],
+      "lead_figure_spans": {
+        "figure:bac5a251af7f543fef98f2610bd7f0eb493caee9dccb421cabe12e01124e3684": [
+          "On 22 September 2026, our [transportation panel](https://doi.org/10.5281/zenodo.22907695) named Blue Yonder in six of thirty ChatGPT answers. Blue Yonder’s [Transportation Execution description](https://blueyonder.com/solutions/transportation-management/transportation-execution) includes LTL among its published modes. The particular LTL function comes from that supplier page; our six observations record software names."
+        ]
+      },
+      "source_review_sha256": "d89d2308b50528640e16eb7c41d1aec1a9bd3b168da5d6e141844d7b86c79c49",
+      "opening_shape": "date_first",
+      "classification_reason": "The actual22September2026capture date leads before the Blue Yonder naming count and supplier-reported LTL scope.",
+      "writing_review_sha256": "ed4ea457b3cbb6ada478e6f6febba8c489b7e5ac721d46b6e040a9a3be8807eb"
     }
   },
   "index_question_titles": {
