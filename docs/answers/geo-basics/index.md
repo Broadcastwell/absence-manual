@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T14:53:57+00:00'
+date_modified: '2026-10-30T16:25:58+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 46 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 54 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -280,6 +280,52 @@ HubSpot’s ChatGPT connection uses a HubSpot account. A chat interface and a re
 [Does AI search replace SEO?](does-ai-search-replace-seo.md)
 
 Google keeps search eligibility rules for AI features. Our HubSpot citation count measures answers, with clicks and rankings kept separate.
+
+## Visibility platforms
+
+[What does Searchable offer for AI search visibility?](what-does-searchable-offer-for-ai-search-visibility.md)
+
+Searchable describes answer monitoring, a brand agent, content tools and site audits. Our Zoho naming count illustrates the scope behind a visibility number.
+
+## Learning and credentials
+
+[What courses cover answer engine optimization?](what-courses-cover-answer-engine-optimization.md)
+
+HubSpot Academy publishes a course on SEO in the age of AI. Its syllabus covers AEO; our Claude naming example shows one measurement exercise to check.
+
+[What certifications cover answer engine optimization?](what-certifications-cover-answer-engine-optimization.md)
+
+HubSpot Academy lists two AEO certifications with different scopes. A credential’s title and a dated evidence-checking task answer different questions.
+
+## AEO work functions and factual review
+
+[What jobs involve answer engine optimization?](what-jobs-involve-answer-engine-optimization.md)
+
+AEO work spans editing, technical publication and measurement. A dated CosmoLex record makes those functions concrete without claiming vacancies.
+
+## Concrete factual-answer examples
+
+[What are examples of answer engine optimization?](what-are-examples-of-answer-engine-optimization.md)
+
+A retained Jobber price disagreement illustrates factual-answer work. Read its dated claim, billing qualifier and reference without assuming visibility lift.
+
+## ChatGPT source retrieval and SEO page conditions
+
+[How does ChatGPT relate to SEO?](how-does-chatgpt-relate-to-seo.md)
+
+ChatGPT can retrieve sources; SEO concerns a published site’s search conditions. A dated Salesforce citation count keeps these observations separate.
+
+## Proposed prompts for factual SEO research
+
+[What SEO prompts can I use with ChatGPT?](what-seo-prompts-can-i-use-with-chatgpt.md)
+
+Use proposed prompts to inspect a specific company claim and dated reference. The Jobber example supplies real fields without claiming the prompts were tested.
+
+## Human source-reading skills for ChatGPT SEO
+
+[What skills help with ChatGPT SEO work?](chatgpt-seo-skills.md)
+
+Reading qualifiers, tracing references and reporting unknowns help with ChatGPT SEO. Four dated JobTread claim flags supply concrete tasks.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

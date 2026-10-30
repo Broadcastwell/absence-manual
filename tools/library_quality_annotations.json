@@ -6214,6 +6214,102 @@
       "unit": "initial_tasks",
       "label": "Agent Gap legal-practice-management initial pricing-path tasks reached",
       "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24"
+    },
+    "figure:5b466578739edceb0895008f0ca7a313450d0d8b5e647c2cbeb2fdc630a637b3": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "ChatGPT",
+        "subject": "Zoho CRM",
+        "metric": "named"
+      },
+      "count": 15,
+      "base": 30,
+      "unit": "answers",
+      "label": "Zoho CRM named by ChatGPT",
+      "source_review_sha256": "00ab80625269acdcd7a9f70146480379527845a32980b6e5140411d2a9809e1d"
+    },
+    "figure:5178c111d0c5e60b0835e4a36594025397148c3d1e94f7fb346e1f056773e964": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "Claude",
+        "subject": "Freshsales",
+        "metric": "named"
+      },
+      "count": 8,
+      "base": 30,
+      "unit": "answers",
+      "label": "Freshsales named by Claude",
+      "source_review_sha256": "00ab80625269acdcd7a9f70146480379527845a32980b6e5140411d2a9809e1d"
+    },
+    "figure:f0abca5f656a929e9c8cbdf4b9a08e6a6b2365c8f9a79f0c3e39bed85fc6d4fd": {
+      "source_url": "https://doi.org/10.5281/zenodo.23270124",
+      "record": {
+        "capture_date": "2026-09-22",
+        "event_date": "2026-10-08",
+        "category": "construction-project-management",
+        "subject": "Contractor Foreman",
+        "metric": "wrong_or_stale",
+        "cohort": "all-classified-statements"
+      },
+      "count": 3,
+      "base": 32,
+      "unit": "statements",
+      "label": "Contractor Foreman statements labelled wrong or stale",
+      "source_review_sha256": "00ab80625269acdcd7a9f70146480379527845a32980b6e5140411d2a9809e1d"
+    },
+    "figure:880ea4fab803f24ca1e821ac8a5b8bdf8556e9dce48d505298c73a6856ad628c": {
+      "source_url": "https://doi.org/10.5281/zenodo.23270124",
+      "record": {
+        "capture_date": "2026-09-22",
+        "event_date": "2026-10-08",
+        "category": "legal-practice-management",
+        "subject": "CosmoLex",
+        "metric": "wrong_or_stale",
+        "cohort": "all-classified-statements"
+      },
+      "count": 14,
+      "base": 38,
+      "unit": "statements",
+      "label": "CosmoLex statements labelled wrong or stale",
+      "source_review_sha256": "4caa0cdf0b603e8a445284d986024393cfc297e96713951afb6c818f5047287d"
+    },
+    "figure:8177f5bdacfddfe334e05ea05650d36ad4e52814f91630e9c101185da2b2df60": {
+      "source_url": "https://doi.org/10.5281/zenodo.23270124",
+      "record": {
+        "capture_date": "2026-09-22",
+        "event_date": "2026-10-08",
+        "category": "field-service-management",
+        "subject": "Jobber",
+        "metric": "wrong_or_stale",
+        "cohort": "all-classified-statements"
+      },
+      "count": 2,
+      "base": 41,
+      "unit": "statements",
+      "label": "Jobber statements labelled wrong or stale",
+      "source_review_sha256": "4caa0cdf0b603e8a445284d986024393cfc297e96713951afb6c818f5047287d"
+    },
+    "figure:afbc46e25bc43f5473fdde416043b71799f2522e1225c964a5bcef8882191273": {
+      "source_url": "https://doi.org/10.5281/zenodo.23270124",
+      "record": {
+        "capture_date": "2026-09-22",
+        "event_date": "2026-10-08",
+        "category": "construction-project-management",
+        "subject": "JobTread",
+        "metric": "wrong_or_stale",
+        "cohort": "all-classified-statements"
+      },
+      "count": 4,
+      "base": 30,
+      "unit": "statements",
+      "label": "JobTread statements labelled wrong or stale",
+      "source_review_sha256": "4caa0cdf0b603e8a445284d986024393cfc297e96713951afb6c818f5047287d"
     }
   },
   "pages": {
@@ -12632,6 +12728,150 @@
       "opening_shape": "reader_situation",
       "classification_reason": "The reader’s intended public research is the first condition, before separating free software/account routes.",
       "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/geo-basics/what-does-searchable-offer-for-ai-search-visibility.md": {
+      "source_sha256": "c8edfbf8fd42273df191e4d39c48b77cf5ab6e305e54c829ec6ac217d4e724d9",
+      "canonical_source_sha256": "c8edfbf8fd42273df191e4d39c48b77cf5ab6e305e54c829ec6ac217d4e724d9",
+      "opening_sha256": "29f01675b425588456bfcbea3ae4f11e9ce9a92ec1ab67b7cf247ec26c4c2532",
+      "bank_id": "LB-Q0320",
+      "lead_figures": [
+        "figure:5b466578739edceb0895008f0ca7a313450d0d8b5e647c2cbeb2fdc630a637b3"
+      ],
+      "lead_figure_spans": {
+        "figure:5b466578739edceb0895008f0ca7a313450d0d8b5e647c2cbeb2fdc630a637b3": [
+          "Searchable describes an AI-search platform with answer monitoring, a brand-focused agent, content creation and site audits. To interpret its measures, keep the question set visible: our [22 September 2026 CRM release](https://doi.org/10.5281/zenodo.22907695) named Zoho CRM in 15 of 30 ChatGPT answers. That own observation illustrates a bounded naming measure; it is not a result produced by Searchable."
+        ]
+      },
+      "source_review_sha256": "00ab80625269acdcd7a9f70146480379527845a32980b6e5140411d2a9809e1d",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Searchable and its named platform offer answer before the observed Zoho figure.",
+      "writing_review_sha256": "80634c7593dc7f0692e86a9b7cfb930f96022608f24df6c436ed31bc00a9268f"
+    },
+    "answers/geo-basics/what-courses-cover-answer-engine-optimization.md": {
+      "source_sha256": "64844fc0197cd3456c033fdb6641ac091ff84907ece1607e7b6ad21c49718336",
+      "canonical_source_sha256": "64844fc0197cd3456c033fdb6641ac091ff84907ece1607e7b6ad21c49718336",
+      "opening_sha256": "f6b6f6da621f3b9733fa38799fd2197f631ffadc3c7c9313ed41d4afd476842f",
+      "bank_id": "LB-Q0323",
+      "lead_figures": [
+        "figure:5178c111d0c5e60b0835e4a36594025397148c3d1e94f7fb346e1f056773e964"
+      ],
+      "lead_figure_spans": {
+        "figure:5178c111d0c5e60b0835e4a36594025397148c3d1e94f7fb346e1f056773e964": [
+          "If you want a named course covering answer engine optimization, HubSpot Academy publishes [SEO in the Age of AI](https://academy.hubspot.com/courses/seo-in-the-age-of-ai-en). Use a real measurement example when assessing its lessons: our [September CRM panel](https://doi.org/10.5281/zenodo.22907695) found Freshsales names in 8 of 30 Claude returns on 22 September 2026. That count can support a practice exercise, rather than prove a course improves a site’s visibility."
+        ]
+      },
+      "source_review_sha256": "00ab80625269acdcd7a9f70146480379527845a32980b6e5140411d2a9809e1d",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader’s need for a named AEO course supplies the first condition before the course title and dated measured exercise.",
+      "writing_review_sha256": "80634c7593dc7f0692e86a9b7cfb930f96022608f24df6c436ed31bc00a9268f"
+    },
+    "answers/geo-basics/what-certifications-cover-answer-engine-optimization.md": {
+      "source_sha256": "90e415efa31bee2ed4b786f027decf7f046c6500b0a78b9eb6a03bdf15747c49",
+      "canonical_source_sha256": "90e415efa31bee2ed4b786f027decf7f046c6500b0a78b9eb6a03bdf15747c49",
+      "opening_sha256": "54c467367ed9d48677b7f2ff6d9e6fe1d5e3cb021b62ee4d00d466936e02b0ed",
+      "bank_id": "LB-Q0324",
+      "lead_figures": [
+        "figure:f0abca5f656a929e9c8cbdf4b9a08e6a6b2365c8f9a79f0c3e39bed85fc6d4fd"
+      ],
+      "lead_figure_spans": {
+        "figure:f0abca5f656a929e9c8cbdf4b9a08e6a6b2365c8f9a79f0c3e39bed85fc6d4fd": [
+          "On 30 October 2026, HubSpot Academy’s public [AEO certification page](https://offers.hubspot.com/academy-aeo-certifications) lists AEO Fundamentals and Implementing AEO With HubSpot. Read the credential’s scope beside an actual evidence task: our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) labelled 3 of 32 Contractor Foreman statements wrong, comparing 22 September 2026 answers with a vendor reference checked 8 October 2026. That historical fact-checking result is not a score for either certification."
+        ]
+      },
+      "source_review_sha256": "00ab80625269acdcd7a9f70146480379527845a32980b6e5140411d2a9809e1d",
+      "opening_shape": "date_first",
+      "classification_reason": "The explicit30October2026 public credential-list date is the initial organizing clause before the separate historical study dates.",
+      "writing_review_sha256": "80634c7593dc7f0692e86a9b7cfb930f96022608f24df6c436ed31bc00a9268f"
+    },
+    "answers/geo-basics/what-jobs-involve-answer-engine-optimization.md": {
+      "source_sha256": "fd917b22b332c116fd5533988873edaa1b6f93185843aadd5a1b19c1c6e17210",
+      "canonical_source_sha256": "fd917b22b332c116fd5533988873edaa1b6f93185843aadd5a1b19c1c6e17210",
+      "opening_sha256": "3c6537dd83e7d00241babf4cba3754e2111d1d623c84d1cff914da3e23d66fc6",
+      "bank_id": "LB-Q0325",
+      "lead_figures": [
+        "figure:880ea4fab803f24ca1e821ac8a5b8bdf8556e9dce48d505298c73a6856ad628c"
+      ],
+      "lead_figure_spans": {
+        "figure:880ea4fab803f24ca1e821ac8a5b8bdf8556e9dce48d505298c73a6856ad628c": [
+          "Answer engine optimization involves factual editing, technical publication and measurement work. Our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) marks 14 of 38 CosmoLex statements wrong using 22 September 2026 captures and 8 October reference checks. Those records give a concrete source-review task to someone writing or measuring company answers; they are not a survey of job vacancies."
+        ]
+      },
+      "source_review_sha256": "4caa0cdf0b603e8a445284d986024393cfc297e96713951afb6c818f5047287d",
+      "opening_shape": "answer_definition",
+      "classification_reason": "Defines AEO factual editing/technical publication/measurement functions before the CosmoLex result.",
+      "writing_review_sha256": "80634c7593dc7f0692e86a9b7cfb930f96022608f24df6c436ed31bc00a9268f"
+    },
+    "answers/geo-basics/what-are-examples-of-answer-engine-optimization.md": {
+      "source_sha256": "5ad8f5d57b00529d6a0cc10bcf9f216f1dd12e02e9986a03aa1def185fdcbd82",
+      "canonical_source_sha256": "5ad8f5d57b00529d6a0cc10bcf9f216f1dd12e02e9986a03aa1def185fdcbd82",
+      "opening_sha256": "c8f848187002758c52fcd8aac8d6d374c9902e74405b0ceabd322b2efd383c41",
+      "bank_id": "LB-Q0326",
+      "lead_figures": [
+        "figure:8177f5bdacfddfe334e05ea05650d36ad4e52814f91630e9c101185da2b2df60"
+      ],
+      "lead_figure_spans": {
+        "figure:8177f5bdacfddfe334e05ea05650d36ad4e52814f91630e9c101185da2b2df60": [
+          "Jobber's retained plan-price disagreement is a concrete example for factual-answer work: publish a specific claim with the plan, billing basis and dated source needed to check it. Our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) labels 2 of 41 Jobber statements wrong. Its answer captures are from 22 September 2026, and the pricing-page reference was read on 8 October 2026. The example identifies a correction task, rather than a measured increase in AI visibility."
+        ]
+      },
+      "source_review_sha256": "4caa0cdf0b603e8a445284d986024393cfc297e96713951afb6c818f5047287d",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Jobber’s retained plan-price disagreement leads before the dated count.",
+      "writing_review_sha256": "80634c7593dc7f0692e86a9b7cfb930f96022608f24df6c436ed31bc00a9268f"
+    },
+    "answers/geo-basics/how-does-chatgpt-relate-to-seo.md": {
+      "source_sha256": "01aecc8a48475c5294d26a05ebf2b110732d99bb25ad070d0ab1b77c97e5812f",
+      "canonical_source_sha256": "01aecc8a48475c5294d26a05ebf2b110732d99bb25ad070d0ab1b77c97e5812f",
+      "opening_sha256": "71af6ba56c127f9f419f8937248c8d9c7e8f3d7ef38331e404cc3634faf05c7c",
+      "bank_id": "LB-Q0327",
+      "lead_figures": [
+        "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021"
+      ],
+      "lead_figure_spans": {
+        "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021": [
+          "OpenAI's [ChatGPT search help](https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt) describes retrieving web information and linking sources, which can support SEO research. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) records Salesforce-domain URLs in 19 of 30 ChatGPT CRM answers. Those are source-selection observations, separate from the Google page conditions and traffic records used to assess SEO work."
+        ]
+      },
+      "source_review_sha256": "4caa0cdf0b603e8a445284d986024393cfc297e96713951afb6c818f5047287d",
+      "opening_shape": "source_first",
+      "classification_reason": "The named OpenAI search-help source and its retrieval description lead before the historical own figure.",
+      "writing_review_sha256": "80634c7593dc7f0692e86a9b7cfb930f96022608f24df6c436ed31bc00a9268f"
+    },
+    "answers/geo-basics/what-seo-prompts-can-i-use-with-chatgpt.md": {
+      "source_sha256": "3045f73f00f6ea5e1db4de0238cff692dbe73d4d2ec158022869c2422b4967dd",
+      "canonical_source_sha256": "3045f73f00f6ea5e1db4de0238cff692dbe73d4d2ec158022869c2422b4967dd",
+      "opening_sha256": "4660e701a56bf1dc98b449087f49f2d0a0887cf9b76c831fea93ca2d25614d37",
+      "bank_id": "LB-Q0328",
+      "lead_figures": [
+        "figure:8177f5bdacfddfe334e05ea05650d36ad4e52814f91630e9c101185da2b2df60"
+      ],
+      "lead_figure_spans": {
+        "figure:8177f5bdacfddfe334e05ea05650d36ad4e52814f91630e9c101185da2b2df60": [
+          "Ask ChatGPT to separate the product claim, its billing qualifiers and the dated reference before using the material in an SEO comparison. Our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) found 2 wrong statements among 41 Jobber statements, using 22 September 2026 captures and an 8 October reference check. The prompts below are proposed writing aids grounded in that example, not prompts we ran as a new test."
+        ]
+      },
+      "source_review_sha256": "4caa0cdf0b603e8a445284d986024393cfc297e96713951afb6c818f5047287d",
+      "opening_shape": "action_first",
+      "classification_reason": "Ask ChatGPT gives the reader a proposed field-specific writing task before the measured example.",
+      "writing_review_sha256": "80634c7593dc7f0692e86a9b7cfb930f96022608f24df6c436ed31bc00a9268f"
+    },
+    "answers/geo-basics/chatgpt-seo-skills.md": {
+      "source_sha256": "e87bfee13ac6c823b265a98f08823d007e417471ee4ee2f1a9f14ccf45d1b38f",
+      "canonical_source_sha256": "e87bfee13ac6c823b265a98f08823d007e417471ee4ee2f1a9f14ccf45d1b38f",
+      "opening_sha256": "e2c8e02b178a73524454e5d526535479a16b69efdf3c63da674cf2e37fa38af9",
+      "bank_id": "LB-Q0329",
+      "lead_figures": [
+        "figure:afbc46e25bc43f5473fdde416043b71799f2522e1225c964a5bcef8882191273"
+      ],
+      "lead_figure_spans": {
+        "figure:afbc46e25bc43f5473fdde416043b71799f2522e1225c964a5bcef8882191273": [
+          "If you use ChatGPT for SEO product research, practise reading qualifiers, tracing references and distinguishing unknowns from errors. Our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) flags 4 of 30 JobTread statements as wrong, with answer captures from 22 September 2026 and references read on 8 October."
+        ]
+      },
+      "source_review_sha256": "4caa0cdf0b603e8a445284d986024393cfc297e96713951afb6c818f5047287d",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader’s ChatGPT product-research situation leads before the JobTread error count.",
+      "writing_review_sha256": "80634c7593dc7f0692e86a9b7cfb930f96022608f24df6c436ed31bc00a9268f"
     }
   },
   "index_question_titles": {
