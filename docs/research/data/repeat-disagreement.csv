@@ -1,0 +1,77 @@
+engine,category,mixed_complete_vendor_question_cells,complete_vendor_question_cells,incomplete_cells_excluded,mixed_pct,wilson_low_pct,wilson_high_pct,unit
+ChatGPT,all,159,2860,0,5.5594,4.7777,6.4604,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,construction-project-management,10,220,0,4.5455,2.4875,8.1636,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,crm,3,100,0,3.0,1.0255,8.4519,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,dealership-management-systems,12,220,0,5.4545,3.1474,9.2906,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,dental-practice-management,11,200,0,5.5,3.0985,9.5787,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,field-service-management,17,220,0,7.7273,4.8802,12.0252,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,hotel-property-management,10,250,0,4.0,2.187,7.2053,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,insurance-agency-management,13,190,0,6.8421,4.0418,11.3529,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,legal-practice-management,9,210,0,4.2857,2.2709,7.943,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,loan-origination-software,13,250,0,5.2,3.0638,8.6922,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,project_management,4,100,0,4.0,1.5663,9.8371,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,radiology-medical-imaging,17,240,0,7.0833,4.4692,11.0497,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,residential-property-management,14,220,0,6.3636,3.8282,10.3968,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,transportation-management-systems,9,250,0,3.6,1.9053,6.699,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+ChatGPT,veterinary-practice-management,17,190,0,8.9474,5.6613,13.8605,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,all,253,2860,0,8.8462,7.8599,9.9428,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,construction-project-management,9,220,0,4.0909,2.1669,7.5906,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,crm,12,100,0,12.0,6.9994,19.8121,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,dealership-management-systems,32,220,0,14.5455,10.4954,19.8124,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,dental-practice-management,12,200,0,6.0,3.4652,10.1932,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,field-service-management,14,220,0,6.3636,3.8282,10.3968,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,hotel-property-management,27,250,0,10.8,7.5292,15.2573,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,insurance-agency-management,8,190,0,4.2105,2.1487,8.0872,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,legal-practice-management,19,210,0,9.0476,5.8687,13.6979,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,loan-origination-software,17,250,0,6.8,4.2886,10.6189,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,project_management,15,100,0,15.0,9.306,23.2836,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,radiology-medical-imaging,24,240,0,10.0,6.8124,14.448,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,residential-property-management,21,220,0,9.5455,6.3282,14.1512,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,transportation-management-systems,18,250,0,7.2,4.6026,11.0929,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Claude,veterinary-practice-management,25,190,0,13.1579,9.0737,18.7023,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,all,345,2860,0,12.0629,10.9199,13.3078,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,construction-project-management,20,220,0,9.0909,5.962,13.6239,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,crm,22,100,0,22.0,15.0013,31.0704,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,dealership-management-systems,18,220,0,8.1818,5.2379,12.5611,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,dental-practice-management,29,200,0,14.5,10.2894,20.0487,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,field-service-management,23,220,0,10.4545,7.0679,15.1985,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,hotel-property-management,23,250,0,9.2,6.2087,13.4262,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,insurance-agency-management,17,190,0,8.9474,5.6613,13.8605,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,legal-practice-management,23,210,0,10.9524,7.4098,15.8979,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,loan-origination-software,28,250,0,11.2,7.8634,15.7109,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,project_management,29,100,0,29.0,21.0148,38.5389,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,radiology-medical-imaging,27,240,0,11.25,7.8477,15.8732,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,residential-property-management,20,220,0,9.0909,5.962,13.6239,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,transportation-management-systems,35,250,0,14.0,10.2416,18.848,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Mode,veterinary-practice-management,31,190,0,16.3158,11.7389,22.2277,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,all,302,2752,108,10.9738,9.86,12.1965,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,construction-project-management,18,220,0,8.1818,5.2379,12.5611,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,crm,21,100,0,21.0,14.1657,29.98,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,dealership-management-systems,23,220,0,10.4545,7.0679,15.1985,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,dental-practice-management,20,180,20,11.1111,7.3088,16.5387,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,field-service-management,23,220,0,10.4545,7.0679,15.1985,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,hotel-property-management,22,225,25,9.7778,6.546,14.36,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,insurance-agency-management,17,190,0,8.9474,5.6613,13.8605,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,legal-practice-management,17,210,0,8.0952,5.1155,12.5805,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,loan-origination-software,24,250,0,9.6,6.5362,13.8866,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,project_management,23,100,0,23.0,15.8433,32.1544,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,radiology-medical-imaging,27,240,0,11.25,7.8477,15.8732,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,residential-property-management,16,176,44,9.0909,5.6733,14.2562,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,transportation-management-systems,25,250,0,10.0,6.8655,14.3452,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Google AI Overviews,veterinary-practice-management,26,171,19,15.2047,10.5922,21.3461,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,all,200,2860,0,6.993,6.1149,7.9865,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,construction-project-management,8,220,0,3.6364,1.8539,7.0102,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,crm,14,100,0,14.0,8.5263,22.1372,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,dealership-management-systems,10,220,0,4.5455,2.4875,8.1636,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,dental-practice-management,13,200,0,6.5,3.8376,10.8019,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,field-service-management,14,220,0,6.3636,3.8282,10.3968,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,hotel-property-management,21,250,0,8.4,5.5596,12.4995,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,insurance-agency-management,9,190,0,4.7368,2.5118,8.7559,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,legal-practice-management,14,210,0,6.6667,4.0124,10.8778,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,loan-origination-software,18,250,0,7.2,4.6026,11.0929,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,project_management,9,100,0,9.0,4.8073,16.2262,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,radiology-medical-imaging,16,240,0,6.6667,4.1449,10.5538,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,residential-property-management,20,220,0,9.0909,5.962,13.6239,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,transportation-management-systems,18,250,0,7.2,4.6026,11.0929,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+Perplexity,veterinary-practice-management,16,190,0,8.4211,5.2498,13.2403,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats
+all,all,1259,14192,108,8.8712,8.4145,9.3502,A checked vendor by category question by engine; mixed means named in one or two of three valid repeats

@@ -1,0 +1,21 @@
+category,vendor,august_count,august_base,august_pct,august_wilson_low,august_wilson_high,september_count,september_base,september_pct,september_wilson_low,september_wilson_high
+CRM,Salesforce Sales Cloud,78,117,66.7,57.7,74.6,109,150,72.7,65,79.2
+CRM,HubSpot CRM,77,117,65.8,56.8,73.8,113,150,75.3,67.9,81.5
+CRM,Pipedrive,63,117,53.8,44.8,62.6,97,150,64.7,56.7,71.9
+CRM,Zoho CRM,63,117,53.8,44.8,62.6,73,150,48.7,40.8,56.6
+CRM,Nimble,0,117,0,0,3.2,0,150,0,0,2.5
+CRM,Microsoft Dynamics 365,23,117,19.7,13.5,27.8,36,150,24,17.9,31.4
+CRM,Freshsales,15,117,12.8,7.9,20.1,22,150,14.7,9.9,21.2
+CRM,Copper,1,117,0.9,0.2,4.7,4,150,2.7,1,6.7
+CRM,Insightly,3,117,2.6,0.9,7.3,10,150,6.7,3.7,11.8
+CRM,Close,5,117,4.3,1.8,9.6,12,150,8,4.6,13.5
+Project management,Jira,32,120,26.7,19.6,35.2,63,150,42,34.4,50
+Project management,Asana,62,120,51.7,42.8,60.4,97,150,64.7,56.7,71.9
+Project management,Smartsheet,40,120,33.3,25.5,42.2,54,150,36,28.8,43.9
+Project management,monday.com,71,120,59.2,50.2,67.5,26,150,17.3,12.1,24.2
+Project management,ClickUp,56,120,46.7,38,55.6,80,150,53.3,45.4,61.1
+Project management,Notion,1,120,0.8,0.1,4.6,6,150,4,1.8,8.5
+Project management,Airtable,8,120,6.7,3.4,12.6,13,150,8.7,5.1,14.3
+Project management,Wrike,49,120,40.8,32.5,49.8,54,150,36,28.8,43.9
+Project management,Basecamp,6,120,5,2.3,10.5,18,150,12,7.7,18.2
+Project management,Trello,18,120,15,9.7,22.5,32,150,21.3,15.5,28.6

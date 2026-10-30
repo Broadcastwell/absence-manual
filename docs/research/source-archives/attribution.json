@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Important Factors for Improving Google Search Rank",
+    "doi": "10.3390/fi11020032",
+    "filename": "ziakis-2019.pdf",
+    "source_volume": "Search Engine Optimization, edited by Andreas Veglis and Dimitrios Giomelakis, MDPI, 2021, ISBN 978-3-03936-819-8",
+    "volume_pdf_pages": "12-23",
+    "article_license": "https://creativecommons.org/licenses/by/4.0/",
+    "article_notices_retained": true,
+    "sha256": "4863c53c4ef07559678eb0655e50e793d23838aa82d4cf4c7efcee92db23d70a"
+  },
+  {
+    "title": "Academic Excellence, Website Quality, SEO Performance: Is there a Correlation?",
+    "doi": "10.3390/fi11110242",
+    "filename": "giannakoulopoulos-2019.pdf",
+    "source_volume": "Search Engine Optimization, edited by Andreas Veglis and Dimitrios Giomelakis, MDPI, 2021, ISBN 978-3-03936-819-8",
+    "volume_pdf_pages": "24-48",
+    "article_license": "https://creativecommons.org/licenses/by/4.0/",
+    "article_notices_retained": true,
+    "sha256": "e5db993d0cf8e24251900ba188b759f6955119cee1f8d8524b4d7e35b01c7f6c"
+  },
+  {
+    "title": "Ranking by Relevance and Citation Counts, a Comparative Study: Google Scholar, Microsoft Academic, WoS and Scopus",
+    "doi": "10.3390/fi11090202",
+    "filename": "rovira-2019.pdf",
+    "source_volume": "Search Engine Optimization, edited by Andreas Veglis and Dimitrios Giomelakis, MDPI, 2021, ISBN 978-3-03936-819-8",
+    "volume_pdf_pages": "50-70",
+    "article_license": "https://creativecommons.org/licenses/by/4.0/",
+    "article_notices_retained": true,
+    "sha256": "7118dc5379eba098e3a93527319c18d66e7bf14fbdb1d5e754c6d639656b7f52"
+  },
+  {
+    "title": "SEO inside Newsrooms: Reports from the Field",
+    "doi": "10.3390/fi11120261",
+    "filename": "newsrooms-2019.pdf",
+    "source_volume": "Search Engine Optimization, MDPI, 2021, ISBN 978-3-03936-819-8",
+    "volume_pdf_pages": "72-86",
+    "article_license": "https://creativecommons.org/licenses/by/4.0/",
+    "article_notices_retained": true,
+    "sha256": "aa00800efc652d3cab7426a52f1b510609398f758f351286bef361c98b643f59"
+  },
+  {
+    "title": "SEO Practices: A Study about the Way News Websites Allow the Users to Comment on Their News Articles",
+    "doi": "10.3390/fi11090188",
+    "filename": "news-comments-2019.pdf",
+    "source_volume": "Search Engine Optimization, MDPI, 2021, ISBN 978-3-03936-819-8",
+    "volume_pdf_pages": "88-100",
+    "article_license": "https://creativecommons.org/licenses/by/4.0/",
+    "article_notices_retained": true,
+    "sha256": "b4ce3201dfe96ea84ebc3d6189ea5b14c32d405cc92dd082b7e5c56f914271d2"
+  },
+  {
+    "title": "The evolution of SEO strategies: from keywords to user experience in private universities of Jordan",
+    "doi": "10.1080/23311975.2025.2491678",
+    "filename": "jordan-2025.pdf",
+    "source_filename": "The evolution of SEO strategies  from keywords to user experience in private universities of Jordan.pdf",
+    "pdf_pages": 17,
+    "article_license": "https://creativecommons.org/licenses/by/4.0/",
+    "license_evidence": "Original PDF p. 2",
+    "original_file_unchanged": true,
+    "sha256": "a171301f1245c62eeed51a1ee196595d5f908e4bb6bb2cf6722f4f273d0e2cb3"
+  },
+  {
+    "title": "Search engine optimization: A review",
+    "doi": "10.23743/acs-2021-07",
+    "filename": "almukhtar-2021.pdf",
+    "source_filename": "132-ArticleText-800-1-10-20210331.pdf",
+    "pdf_pages": 11,
+    "article_license": "https://creativecommons.org/licenses/by/4.0/",
+    "license_evidence": "https://ph.pollub.pl/index.php/acs/article/view/3098 ; article License section checked 30 October 2026",
+    "original_file_unchanged": true,
+    "sha256": "d645950d2f9d76680dbaf1bba8b91c2ec9084d49c74dc434372229269d0cdeee"
+  }
+]
