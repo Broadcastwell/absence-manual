@@ -90,7 +90,7 @@ The remaining question is not whether review sites deserve one universal trust l
 
 ## What our own data shows
 
-Our [September release](https://doi.org/10.5281/zenodo.22907695) contains the saved answers and explicit references underlying these counts. [OSF registration](https://doi.org/10.17605/OSF.IO/VCZKT) records the study question and analysis plan. The [CSV](../../data/review-platform-occurrences.csv) includes all engine/category scopes with bases and intervals; the [study](../../studies/who-ai-engines-cite/) discloses classification corrections and timing. We have no measurement here of whether a review was truthful, whether an engine considered it objective or whether a vendor’s listing caused inclusion.
+The frozen review-platform class contains **1,663/18,893 target citation occurrences, 8.8% (Wilson 95% interval 8.4% to 9.2%)**. The later host audit is reported separately. Our [September release](https://doi.org/10.5281/zenodo.22907695) contains the saved answers and explicit references underlying these counts. [OSF registration](https://doi.org/10.17605/OSF.IO/VCZKT) records the study question and analysis plan. The [CSV](../../data/review-platform-occurrences.csv) includes all engine/category scopes with bases and intervals; the [study](../../studies/who-ai-engines-cite/) discloses classification corrections and timing. We have no measurement here of whether a review was truthful, whether an engine considered it objective or whether a vendor’s listing caused inclusion.
 
 ## Sources
 

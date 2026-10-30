@@ -123,7 +123,7 @@ The registration originally included an all-three-studies-before-analysis timing
 
 ## What our own data shows
 
-The existing September archive measures 286 vendors across fourteen categories, with 2,095 valid target answers after five target exclusions. The table above shows only the shared historical CRM and project-management vendors and their own category bases. We have no measurement on the persistence question yet. The protocol is a commitment to a future eligible comparison, not a claim that either low or high presence already persists.
+We have no measurement on this point: release-to-release absence persistence under the registered comparability conditions. The existing September archive measures 286 vendors across fourteen categories, with 2,095 valid target answers after five target exclusions. The table above shows only the shared historical CRM and project-management vendors and their own category bases. We have no measurement on the persistence question yet. The protocol is a commitment to a future eligible comparison, not a claim that either low or high presence already persists.
 
 ## Sources
 

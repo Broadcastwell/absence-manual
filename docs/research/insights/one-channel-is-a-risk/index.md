@@ -86,7 +86,7 @@ The choice for a business is therefore narrower than “follow the biggest perce
 
 ## What our own data shows
 
-The chart and table are computed from the published vendor naming counts in [September release 2026-09](https://doi.org/10.5281/zenodo.22907695). The [CSV](../../data/vendor-concentration.csv) retains all 14 categories and all five engines separately. This is an additional descriptive analysis, not Study 1, and it contains no traffic or revenue observations. The [public calculation](../../data/release_descriptives.py) defines the occurrence denominator; neither the leading vendors nor the category totals are market shares.
+In CRM, the leading three vendors account for **319/476 vendor-naming occurrences, 67.0% (Wilson 95% interval 62.7% to 71.1%)**. This is a share of naming occurrences, not buyers or market share. The chart and table are computed from the published vendor naming counts in [September release 2026-09](https://doi.org/10.5281/zenodo.22907695). The [CSV](../../data/vendor-concentration.csv) retains all 14 categories and all five engines separately. This is an additional descriptive analysis, not Study 1, and it contains no traffic or revenue observations. The [public calculation](../../data/release_descriptives.py) defines the occurrence denominator; neither the leading vendors nor the category totals are market shares.
 
 ## Sources
 

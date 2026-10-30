@@ -84,7 +84,7 @@ The trade-off is practical. A conservative classification leaves a conspicuous u
 
 ## What our own data shows
 
-The tables above are a descriptive reanalysis of [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695), under [OSF registration vczkt](https://doi.org/10.17605/OSF.IO/VCZKT). Download the [host-purpose record](../../data/host-classes.csv), [class shares](../../data/citation-class-shares.csv), [post-audit sensitivity](../../data/citation-class-shares-post-audit.csv) and [concentration tables](../../data/citation-concentration.csv). The class corrections, timing deviation and complete method are stated on the [registered study page](../../studies/who-ai-engines-cite/). No table measures trust, truth, traffic or a causal effect of publishing.
+The target archive’s leading ten hosts supply **3,192/18,893 citation occurrences, 16.9% (Wilson 95% interval 16.4% to 17.4%)**. This measures concentration under the registered host rules. The tables above are a descriptive reanalysis of [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695), under [OSF registration vczkt](https://doi.org/10.17605/OSF.IO/VCZKT). Download the [host-purpose record](../../data/host-classes.csv), [class shares](../../data/citation-class-shares.csv), [post-audit sensitivity](../../data/citation-class-shares-post-audit.csv) and [concentration tables](../../data/citation-concentration.csv). The class corrections, timing deviation and complete method are stated on the [registered study page](../../studies/who-ai-engines-cite/). No table measures trust, truth, traffic or a causal effect of publishing.
 
 ## Sources
 

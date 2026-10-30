@@ -87,6 +87,10 @@ RULING_EXEMPT = ("assets/research/", "absence-ladder-volume-ii.pdf", "assets/jav
 # Exact, complete CC BY article reprints retain the original authors' language.
 # Hashes prevent edited PDFs from inheriting an archival-copy exception.
 LICENSED_SOURCE_ARCHIVES = {
+    'research/source-archives/almukhtar-2021.pdf': 'd645950d2f9d76680dbaf1bba8b91c2ec9084d49c74dc434372229269d0cdeee',
+    'research/source-archives/jordan-2025.pdf': 'a171301f1245c62eeed51a1ee196595d5f908e4bb6bb2cf6722f4f273d0e2cb3',
+    'research/source-archives/news-comments-2019.pdf': 'b4ce3201dfe96ea84ebc3d6189ea5b14c32d405cc92dd082b7e5c56f914271d2',
+    'research/source-archives/newsrooms-2019.pdf': 'aa00800efc652d3cab7426a52f1b510609398f758f351286bef361c98b643f59',
     "research/source-archives/ziakis-2019.pdf": "4863c53c4ef07559678eb0655e50e793d23838aa82d4cf4c7efcee92db23d70a",
     "research/source-archives/giannakoulopoulos-2019.pdf": "e5db993d0cf8e24251900ba188b759f6955119cee1f8d8524b4d7e35b01c7f6c",
     "research/source-archives/rovira-2019.pdf": "7118dc5379eba098e3a93527319c18d66e7bf14fbdb1d5e754c6d639656b7f52",

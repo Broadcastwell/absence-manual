@@ -97,7 +97,7 @@ The unresolved question is which future observations will remain comparable. The
 
 ## What our own data shows
 
-[Download the complete repeat table](../../data/repeat-disagreement.csv), [vendor-presence table](../../data/vendor-presence.csv) and [naming/citation aggregate table](../../data/vendor-naming-citation.csv). All derive from [release 2026-09](https://doi.org/10.5281/zenodo.22907695). Counts and units appear above; Wilson intervals describe observed proportions without an independence claim. This ledger contains no Study 1 result.
+The repeated-question table records **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups, 8.9% (Wilson 95% interval 8.4% to 9.4%)**. Mixed means named in one or two of three valid repeats. This is a conditional description of the September archive. [Download the complete repeat table](../../data/repeat-disagreement.csv), [vendor-presence table](../../data/vendor-presence.csv) and [naming/citation aggregate table](../../data/vendor-naming-citation.csv). All derive from [release 2026-09](https://doi.org/10.5281/zenodo.22907695). Counts and units appear above; Wilson intervals describe observed proportions without an independence claim. This ledger contains no Study 1 result.
 
 ## Sources
 
