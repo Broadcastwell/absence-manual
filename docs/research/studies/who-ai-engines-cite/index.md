@@ -138,7 +138,7 @@ Using the September matching definition and its accompanying public dictionary p
 
 Of **8,085 named pairs**, **2,608** have a qualifying own-domain citation: **32.3%**, descriptive **95% Wilson interval 31.2% to 33.3%**. Separately, **5,477/42,792 eligible pairs** are named without an own-domain citation: **12.8%**, interval **12.5% to 13.1%**. Those are deliberately different denominators. A third-party review reference does not count as the vendor’s own source. [Vendor-pair summary and reconciliation CSVs].
 
-A pair without a qualifying own-domain citation may still have a third-party source. The table supplies the narrower event, with engine and category breakdowns available.
+A pair without a qualifying own-domain citation may still have a third-party source. The table keeps the narrower event.
 
 ## Can you reproduce the tables?
 
