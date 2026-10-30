@@ -34,7 +34,7 @@ research_dataset:
 
 **Registration:** [OSF DVYFU](https://doi.org/10.17605/OSF.IO/DVYFU).
 
-Before comparing it with Lewandowski and colleagues, retain the design differences: **German Google queries collected in 2020 versus B2B software answers across five engines in September 2026; October page retrieval; static HTML, expanded signature rules and registered precedence; time to first byte instead of full page-loading time**. The earlier chart is contextual evidence, not a controlled baseline.
+Comparison differences: **German Google queries collected in 2020 versus B2B software answers across five engines in September 2026; October page retrieval; static HTML, expanded signature rules and registered precedence; time to first byte instead of full page-loading time**. The earlier chart is contextual evidence, not a controlled baseline.
 
 ## Was the plan public before this analysis?
 
@@ -42,9 +42,9 @@ The existing OSF record reports registration at **2026-10-30T01:06:12.768170Z**.
 
 All three registrations were checked public and no longer archiving at approximately **05:32Z**. The collection rules, news list, instrument and source identities were frozen at **05:36:56.935712Z**; the first resource collection started at **05:37:03.800062Z**. A further all-three public check at **07:20:32 to 07:20:35Z** preceded the first aggregate analysis at **07:20:56.107845Z**.
 
-The [provenance record](../../data/study1-provenance.json) and [freeze receipt](../../data/study1-precollection-freeze.json) preserve the chronology and fingerprints. Timestamps are not independently notarized. Answers and aggregate counts were public before registration.
+[Provenance](../../data/study1-provenance.json) and [freeze receipt](../../data/study1-precollection-freeze.json) preserve chronology and fingerprints. Timestamps are not notarized; answers and aggregate counts predate registration.
 
-Lewandowski and colleagues call pages “at least probably optimized” (2021, abstract, PDF p. 1); these inferred labels do not establish causation.
+Lewandowski and colleagues call pages “at least probably optimized” (2021, abstract, PDF p. 1); inferred labels are not causal.
 
 ## Registered protocol, unchanged
 
@@ -87,7 +87,19 @@ The next section defines eligible units.
 
 The eligible archive contains **20,190 citation occurrences** and **6,271 distinct exact URLs**, requested as **6,261 fragment-free resources**. The target scope contains **5,861 distinct URLs**. The [membership table](../../data/study1-citation-membership.csv) preserves each exact URL and its overlapping strata.
 
-Qualifying JSON-LD means a parseable nonempty object or list. A host-root sitemap marker is not full XML validation; nonempty llms.txt is presence, not conformance or consumption. Blocked or ambiguous root-file responses remain unknown. [Frozen instrument](../../data/collect_page_signals.py); [exact rules](../../data/page-signal-rules.json); [news list](../../data/study1-news-hosts.csv).
+Apply the first matching rule to captured HTML:
+
+| Order | First applicable condition | Class |
+| --- | --- | --- |
+| 1 | Wikipedia or listed sister project | definitely not optimized (stipulated) |
+| 2 | Listed plugin, qualifying structured data, frozen news host or advertising signature | definitely optimized |
+| 3 | Missing nonempty title or meta description; overrides weak signals | probably not optimized |
+| 4 | Any registered weak signal | probably optimized |
+| 5 | None of these | unclassified |
+
+Failures are outside this classification. Qualifying structured data expands the strong rule to parseable nonempty JSON-LD or microdata. Time to first byte below three seconds replaces the paper’s full page-loading measure. This is fixed precedence, rather than the paper’s fitted decision tree. [Frozen instrument](../../data/collect_page_signals.py); [exact rules](../../data/page-signal-rules.json); [news list](../../data/study1-news-hosts.csv).
+
+Presence does not prove consumption. Blocked or ambiguous root-file responses remain unknown.
 
 ## What is the target result?
 
@@ -99,7 +111,7 @@ Qualifying JSON-LD means a parseable nonempty object or list. A host-root sitema
 | definitely not optimized | 2 / 4,420 | 0.045% (0.012% to 0.165%) |
 | unclassified | 0 / 4,420 | 0.000% (0.000% to 0.087%) |
 
-Source: [class-share table](../../data/study1-class-shares.csv), target/all/all. Successful complete HTML is the base. The CSV gives every class, engine, category and joint stratum, with control and combined scopes separate; failures remain outside negative classes.
+Source: [class-share table](../../data/study1-class-shares.csv), target/all/all; successful HTML base. Full CSV retains every class, engine, category, control and joint stratum. Failures are excluded.
 
 ## How much of the target archive was observable?
 
@@ -139,7 +151,7 @@ Source: [retrieval outcomes](../../data/study1-fetch-outcomes.csv), target/all/a
 | transportation management systems | 290 / 344 | 84.3% (80.1% to 87.8%) |
 | veterinary practice management | 181 / 225 | 80.4% (74.8% to 85.1%) |
 
-[All classes](../../data/study1-class-shares.csv) and the [engine overview](../../insights/nearly-every-google-result-is-optimized/) retain successful-capture bases; category rows are not pooled.
+[All classes](../../data/study1-class-shares.csv) and [engine overview](../../insights/nearly-every-google-result-is-optimized/): successful-capture bases; overlapping categories.
 
 ## What about Wikipedia, root files and schema types?
 
@@ -153,9 +165,9 @@ For llms.txt, the unique final-origin result is:
 | llms.txt absent | 741 / 1,600 | 46.3% (43.9% to 48.8%) |
 | llms.txt unknown | 85 / 1,600 | 5.3% (4.3% to 6.5%) |
 
-The [CSV](../../data/study1-llms-presence.csv) also weights cached origins by cited URLs. Neither denominator measures web-wide adoption.
+The [CSV](../../data/study1-llms-presence.csv) also gives URL-weighted counts. Neither view estimates web-wide adoption.
 
-The leading declared schema types among captured target URLs are:
+Leading declared types:
 
 | Declared type | URLs / successful HTML base | Share (Wilson 95% interval) |
 | --- | --- | --- |
@@ -166,23 +178,23 @@ The leading declared schema types among captured target URLs are:
 | WebPage | 2,442 / 4,420 | 55.2% (53.8% to 56.7%) |
 | Person | 2,248 / 4,420 | 50.9% (49.4% to 52.3%) |
 
-Types overlap. The [full table](../../data/study1-schema-types.csv) normalizes HTTP/HTTPS Schema.org prefixes, counts each type once per URL and excludes empty declarations.
+[Full type table](../../data/study1-schema-types.csv): overlapping labels, normalized Schema.org prefixes, once per URL; empty declarations excluded.
 
 ## Can you reproduce the result?
 
-The [instructions](../../data/study1-reproduction.txt) support scalar recounts and a full rebuild; the [manifest](../../data/study1-file-manifest.csv) distinguishes public bytes from original fingerprints.
+[Instructions](../../data/study1-reproduction.txt) support recounts and rebuilds; the [manifest](../../data/study1-file-manifest.csv) distinguishes public bytes from original fingerprints.
 
-The public projection omits response bodies, redirect metadata and free-text errors, retaining a generic timeout marker. Two failed sensitive-query final destinations are blanked. Classifications and aggregate tables are unchanged; original metadata retains its fingerprint.
+The public projection omits response bodies, redirect metadata and free-text errors. One sensitive-query destination is blanked. Classifications and aggregate tables are unchanged; original metadata retains its fingerprint.
 
 The [recount](../../data/reproduce_study1.py) checks **19,290 numeric rows, 198 strata and 1,723 host-evidence rows**. A full rebuild matched **47,474 rows across ten CSV files**, cell for cell. This is not peer review or independent approval.
 
-The [order table](../../data/study1-citation-order.csv) gives occurrence and distinct-URL-at-position summaries, not vendor ranks. [Classifications](../../data/study1-url-classifications.csv) and [memberships](../../data/study1-citation-membership.csv) preserve the counted units.
+The [order table](../../data/study1-citation-order.csv) gives citation positions, not vendor ranks. [Classifications](../../data/study1-url-classifications.csv) and [memberships](../../data/study1-citation-membership.csv) preserve units.
 
 ## Deviations and interpretation limits
 
-After the first aggregation, empty schema-type declarations were removed from the type-frequency labels; their original scalar declarations remain in the data, and no URL classification changed. The provenance file records the before/after schema-table fingerprints and rerun time. No news-domain or signature dictionary was expanded after aggregation.
+Empty schema labels were removed after aggregation; scalar declarations remain and no URL class changed. Provenance preserves before/after fingerprints and rerun time; news and signature dictionaries were not expanded.
 
-Static capture misses rendered-only features. Retrieval missingness can be selective. The registered limits still apply.
+Static capture and selective missingness limit interpretation.
 
 ## What our own data shows
 

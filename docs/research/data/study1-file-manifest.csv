@@ -22,4 +22,4 @@ registration_status.json,f6ed451bb4f736c8a4dcdd402b394f36f062b27520da62c689dd7e9
 study1-page-signals.jsonl,ad24aa966b860ee4c263b0ab2a08eb9427c31c0abd73098e4699e6f0439b4c91,5569170,"Captured scalar observations; response bodies, redirect metadata and free-text errors omitted",df78595f16d99f8e44fa6bddab5cb5bc526106a4c38af452dc7fd482e6db3ac7
 study1-provenance.json,1e58e37a103760cb881993dc9ca5ccd56c089ddd4973e2eb1d866646f16d0a0d,2692,"Recorded chronology, source fingerprints and disclosed post-first-aggregation correction",
 study1-registered-plan.txt,e1672a737540888eeb6a82788fe9bca5e4d9b2d7d6abaeb8a391cae1c7c7d2aa,5678,Human-readable copy of the registered plan; OSF record controls,
-study1-reproduction.txt,8961fc067ccaeb3d29868ddddcd1a30398072959b47abc008bacb2e23f4e99ec,2997,Public reproduction instructions and interpretation limits,
+study1-reproduction.txt,1add4a2d6c0043290be55df06fdf11d773e79974e6db5d4420318d5f3b477fac,2996,Public reproduction instructions and interpretation limits,

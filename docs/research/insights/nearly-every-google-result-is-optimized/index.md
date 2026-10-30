@@ -29,7 +29,7 @@ The finding is descriptive: optimization-associated signatures are common among 
 
 Figure 1 in the original ACM article groups **256,853 result URLs** into **59.0% definitely optimized**, **29.0% probably optimized** and **12.0% (probably) not optimized**. Those are the chart’s combined result figures, with the authors’ certainty labels retained. The chart is on printed page 17, PDF page 6. [Lewandowski et al., 2021, Figure 1](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf).
 
-The paper’s classes are inferred from observable features. They are not an interview census in which each publisher confirmed its intent. Calling the combined positive groups simply “optimized” would erase the uncertainty the authors preserved.
+The paper’s classes are inferred from observable features. Publisher intent was not surveyed. Calling the combined positive groups simply “optimized” would erase the uncertainty the authors preserved.
 
 Nor should the prose’s **48.4%, 27% and 31%** be substituted for the chart. Those figures describe **news-content shares** in the Google Trends, radical-right and coronavirus datasets. They explain a difference in source composition; they are not a conflicting set of optimization-class percentages. [Original §5, same PDF page].
 
@@ -55,6 +55,8 @@ In other words, the class name abbreviates a declared rule. It should not be exp
 
 ## What are the target-page results?
 
+![Target page-signal classes with the successful HTML denominator retained](../../../assets/figures/study1-class-shares.svg)
+
 | Registered class | Count / successful HTML base | Share (Wilson 95% interval) |
 | --- | --- | --- |
 | definitely optimized | 3,913 / 4,420 | 88.5% (87.6% to 89.4%) |
@@ -62,8 +64,6 @@ In other words, the class name abbreviates a declared rule. It should not be exp
 | probably not optimized | 100 / 4,420 | 2.3% (1.9% to 2.7%) |
 | definitely not optimized | 2 / 4,420 | 0.045% (0.012% to 0.165%) |
 | unclassified | 0 / 4,420 | 0.000% (0.000% to 0.087%) |
-
-![Target page-signal classes with the successful HTML denominator retained](../../../assets/figures/study1-class-shares.svg)
 
 Source: [class-share CSV](../../data/study1-class-shares.csv), target scope, all engines and categories. The table’s denominator includes unclassified successful HTML. Its intervals are descriptive Wilson intervals conditional on this archive; URL and repeated-answer dependencies prevent a representative population interpretation.
 

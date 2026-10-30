@@ -2,8 +2,8 @@ Study 1: observed optimization signals on cited pages
 CC BY 4.0 for released data and prose. Analysis programs: MIT.
 
 The public scalar capture omits response bodies, redirect-chain/location metadata
-and free-text errors. Two failed final destinations with sensitive query-key
-names are blanked; the analysis already blanks those public URLs. No signal
+and free-text errors. One failed final destination with a sensitive query-key
+name is blanked; the analysis already blanks those public URLs. No signal
 used to assign a classification or substantive aggregate is removed. The file
 manifest distinguishes original capture/table hashes from public LF-normalized
 copies. The frozen collection instruments retain their original bytes.

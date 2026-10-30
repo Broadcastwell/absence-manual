@@ -64,13 +64,13 @@ You can distinguish an ageing document from a measured decline in citation share
 
 We have no measurement on this point: citation decay. Study 3 is a registered protocol for release-to-release absence persistence and remains unrun until its comparability conditions are met. Vendor absence persistence is also a different event from a particular URL’s citation half-life.
 
-Our repeated-question analysis observed **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups: 8.9%, Wilson 95% interval 8.4% to 9.4%**. Mixed means named in one or two of three valid repeats. These within-release groups do not measure elapsed-time decay. See [the measurement-noise finding](/research/insights/one-rank-number-is-a-fiction/) and the [Study 3 protocol](/research/studies/does-absence-persist/).
+The [September 2026 release](https://doi.org/10.5281/zenodo.22907695) supplies the answers for our repeated-question analysis. It observed **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups: 8.9%, Wilson 95% interval 8.4% to 9.4%**. Mixed means named in one or two of three valid repeats. These within-release groups do not measure elapsed-time decay. See [the measurement-noise finding](/research/insights/one-rank-number-is-a-fiction/) and the [Study 3 protocol](/research/studies/does-absence-persist/).
 
 ## Sources
 
 - Adelman, J., & Huo, M. (2026, September 29). Introducing Citation Decay in Profound. Profound. Citation-share, smoothing, half-life and eligibility definitions. https://www.tryprofound.com/blog/citation-decay Verified 30 October 2026.
 - Broadcastwell. (2026). Does absence persist from one release to the next? [Registration]. OSF. Registered 30 October 2026, 01:12:44 UTC. https://doi.org/10.17605/OSF.IO/MKJ9V Verified 30 October 2026.
-- Broadcastwell. (2026). State of GEO, volume III [Data set and report]. Zenodo. README: repeated questions and same-vendor comparisons. https://doi.org/10.5281/zenodo.21789120 Verified 30 October 2026.
+- Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Archived answers and release metadata. https://doi.org/10.5281/zenodo.22907695 ; [derived repeat-disagreement table](../../data/repeat-disagreement.csv). Verified 30 October 2026.
 
 ## Cite this page
 

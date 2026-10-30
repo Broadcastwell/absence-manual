@@ -14,7 +14,7 @@ sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T08:50:01Z'
 date_modified: '2026-10-30T08:50:01Z'
-is_based_on: https://www.researchgate.net/publication/401635314_Beyond_AEO_The_AI_Visibility_Stack_and_the_Era_of_Agent_Discovery_Optimization
+is_based_on: https://doi.org/10.5281/zenodo.18728630
 defined_term: Agent discovery optimization
 ---
 
@@ -28,11 +28,11 @@ The library distinguishes [what an assistant can learn from a website](/answers/
 
 ## The earliest dated record we verified
 
-Gabriela Marco’s Exista.io working paper carries a **February 2026** dateline and explicitly proposes Agent Discovery Optimization. The author-uploaded full text on ResearchGate records an upload on **6 March 2026**. The document date and the verified upload date should not be silently treated as the same publication event. [Marco, working paper, title page and §4].
+Gabriela Marco’s Exista.io working paper carries a **February 2026** dateline and explicitly proposes Agent Discovery Optimization. Its [Zenodo deposit](https://doi.org/10.5281/zenodo.18728630) records publication on **22 February 2026**; the author’s ResearchGate upload is dated **6 March 2026**. These are distinct dated records. The [complete deposited original](https://zenodo.org/api/records/18728630/files/SSRN_Beyond_AEO_GabrielaMarco.docx.pdf/content) supplies the title page and §4, PDF page 7.
 
 The paper offers a conceptual framework and a proposed composite score. It is evidence that the term was used, not proof of a universal agent-selection mechanism or validated performance of the score. We do not repeat its market forecasts or adopt its technical recommendations as operator requirements.
 
-Other practitioners make origin claims. Those claims do not settle priority without dated supporting artifacts. The earliest record located for this definition is therefore a bounded research finding, rather than a sole-inventor verdict.
+Practitioners make origin claims. Those claims do not settle priority without dated supporting artifacts. The earliest record located for this definition is therefore a bounded research finding, rather than a sole-inventor verdict.
 
 ## Current vendor usage varies
 
@@ -66,14 +66,15 @@ You need task-level evidence to assess autonomous discovery.
 
 We have no measurement on this point: autonomous task completion or connector-directory selection. The Absence Index observes **answers to category questions**. We publish naming and citation outcomes under that narrower description.
 
-Our crawler log also records requests, not discovery success. Its initial snapshot contained **83 observations after removing our own check, with 0 declared AI user-agent matches; Wilson 95% interval 0% to 4.4%**. The [crawler-log study](/research/studies/ai-crawler-log/) explains the short window, matching limits and later privacy correction. This is no estimate of how often an agent can find or use a product.
+Our crawler log also records requests, not discovery success. Its initial snapshot contained **83 observations after removing our own check, with 0 declared AI user-agent matches; Wilson 95% interval 0% to 4.4%**. The [operational crawler log](/research/studies/ai-crawler-log/) explains the short window, matching limits and later privacy correction. This is no estimate of how often an agent can find or use a product.
 
 ## Sources
 
-- Marco, G. (2026, February, document dateline). Beyond AEO: The AI Visibility Stack and the era of agent discovery optimization. Exista.io working paper. Author-uploaded full text on ResearchGate, upload dated 6 March 2026; abstract and §4. https://www.researchgate.net/publication/401635314_Beyond_AEO_The_AI_Visibility_Stack_and_the_Era_of_Agent_Discovery_Optimization Verified 30 October 2026.
+- Marco, G. (2026, February 22, Zenodo publication date). Beyond AEO: The AI Visibility Stack and the era of agent discovery optimization. Exista.io working paper; February document dateline, title page and §4 (PDF p. 7). Zenodo. https://doi.org/10.5281/zenodo.18728630 . [Complete deposited original](https://zenodo.org/api/records/18728630/files/SSRN_Beyond_AEO_GabrielaMarco.docx.pdf/content). Separate author upload on ResearchGate dated 6 March 2026. Verified 30 October 2026.
 - Omnia. (n.d.). Agent discovery optimization (ADO). Knowledge base. No publication date exposed in the opened article; checked 30 October 2026. https://www.useomnia.com/knowledge-base/agent-discovery-optimization Verified 30 October 2026.
 - Agent Discoverability & Level 250. (2026, November 11, advertised event date). Agent-led growth: How ChatGPT and Claude pick products. Maven event listing, speaker biography. Listing opened 30 October 2026, before the advertised event. Publication date unestablished. https://maven.com/p/a5f933 Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
+- Broadcastwell. (2026, October 30). AI crawler operational-log initial snapshot [Data set]. Collection window 05:35:44.478 to 05:38:00.771840 UTC; own check excluded. [Snapshot CSV](../../data/ai-crawler-log.csv); [published method and instrument definitions](../../studies/ai-crawler-log/). Verified 30 October 2026.
 
 ## Cite this page
 
