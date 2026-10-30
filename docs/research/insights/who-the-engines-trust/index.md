@@ -48,7 +48,7 @@ Source: [September version DOI](https://doi.org/10.5281/zenodo.22907695); [full 
 
 The large other group limits the interpretation. It includes blocked publishers, sites whose accessible descriptions do not establish the designated purpose and multifunctional sites that are difficult to place. Some are probably vendors outside the checked dictionary. The gap cuts both ways: calling every other entry a nonvendor would overstate the evidence, but so would calling the verified class a complete inventory of software vendors. Neither inference is supported.
 
-After the first aggregation, a publisher-purpose audit identified five host-role corrections. We retained the frozen primary result and published a separately dated sensitivity table. Its review-platform result is **1,706/18,893**, **9.0%**, descriptive **95% Wilson interval 8.6% to 9.4%**. This is a disclosed post-analysis correction, not a replacement made before seeing results. The correction log and ambiguity recoding accompany the full study. [Post-audit class table](../../data/citation-class-shares-post-audit.csv).
+After the first aggregation, a publisher-purpose audit identified five host-role corrections. We retained the frozen primary result and published a separately dated sensitivity table. Its review-platform result is **1,706/18,893**, **9.0%**, descriptive **95% Wilson interval 8.6% to 9.4%**. This correction followed aggregation. The correction log and ambiguity recoding accompany the full study. [Post-audit class table](../../data/citation-class-shares-post-audit.csv).
 
 ## Concentration depends on the engine’s citation base
 

@@ -31,7 +31,7 @@ The authors interviewed **four representatives from four Greek media outlets** d
 
 The respondents’ reported roles were an SEO manager, two general directors and a business owner. The inclusion rule was that a respondent had a relevant SEO role or responsibility for SEO strategy. This is not a survey of randomly selected journalists, readers or all employees at each outlet. One representative’s account stands for the organization in the reported analysis. [§4].
 
-There is a wording tension worth preserving. The methods identify one interviewee as an SEO manager, while the results say that none of the outlets had a specific SEO specialist job. The paper does not fully reconcile a respondent’s role label with that staffing finding. We report both rather than silently changing one to make the narrative smoother. [§4 and §6.2].
+There is a wording tension worth preserving. The methods identify one interviewee as an SEO manager, while the results say that none of the outlets had a specific SEO specialist job. The paper does not fully reconcile a respondent’s role label with that staffing finding. Both statements remain in our account. [§4 and §6.2].
 
 The distinction may depend on dedicated versus combined responsibilities, but that explanation is an inference. The publication does not provide enough employment detail to settle it. A later summary should not convert the interviews into a verified headcount audit.
 
