@@ -5,7 +5,7 @@ description: Counts, citations, repeat runs and the evidence needed to compare r
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-30T00:52:54+00:00'
+date_modified: '2026-10-30T03:35:42+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 6
@@ -15,7 +15,7 @@ library_order: 6
 
 Counts, citations, repeat runs and the evidence needed to compare reports.
 
-These 25 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 28 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Questions
 
@@ -158,6 +158,24 @@ Hotwire’s dated GAIO.tech and Spark names differ from its current Ignite and G
 [Does Profound provide a full SEO audit or a partial audit?](does-profound-provide-a-full-seo-audit-or-a-partial-audit.md)
 
 Profound documents answer visibility and claim checks. Our 23/148 flagged-answer study provides a concrete comparison of audit scope.
+
+## Checking a saved answer sample
+
+[How can I check AI search visibility?](how-can-i-check-ai-search-visibility.md)
+
+Check the exact question, engine and saved answer. Count names and citations separately from rankings, visits and sales.
+
+## The Index’s checked panel and units
+
+[What is an AI visibility index?](what-is-an-ai-visibility-index.md)
+
+An AI visibility index records answers against a defined set. The checked panel, question set and counting unit limit its meaning.
+
+## Checking collection freshness
+
+[How can I verify that an AI visibility tracker uses live answers?](how-can-i-verify-that-an-ai-visibility-tracker-uses-live-answers.md)
+
+Collection receipts, cache settings and failure records can test a tracker’s live-answer claim. A refreshed dashboard is insufficient.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

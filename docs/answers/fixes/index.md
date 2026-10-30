@@ -5,7 +5,7 @@ description: Source facts, readable pages and changes that can be checked after 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T00:52:54+00:00'
+date_modified: '2026-10-30T03:35:42+00:00'
 library_hub: true
 library_owner: Rohan Iyer, AI Engineer
 library_order: 9
@@ -15,7 +15,7 @@ library_order: 9
 
 Source facts, readable pages and changes that can be checked after publication.
 
-These 26 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 29 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Official company facts
 
@@ -172,6 +172,24 @@ Google Overview answers can vary, but publishers do not directly edit them. Sour
 [How can I check ChatGPT's SEO output?](how-can-i-check-chatgpt-s-seo-output.md)
 
 Check the exact facts in a ChatGPT SEO draft against primary records. Two of 30 dated site-owner answers carried misleading flags.
+
+## Publisher controls for Overview content
+
+[How can I control whether my content appears in Google AI Overviews?](how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md)
+
+Publisher preview controls differ from turning off an Overview as a reader. Google also reports a France-specific control.
+
+## Citation observations and selection claims
+
+[What evidence supports a page's selection as a source in an AI answer?](what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md)
+
+A saved citation shows what was linked. It does not reveal the engine’s reason for selecting that page.
+
+## A text-file proposal and Google Search requirements
+
+[What does Google's guidance say about llms.txt?](what-does-google-s-guidance-say-about-llms-txt.md)
+
+Google says new AI text files are not needed for Search AI features. A published llms.txt file serves a different claimed purpose.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

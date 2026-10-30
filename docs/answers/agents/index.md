@@ -5,7 +5,7 @@ description: What assistants found, understood and reached on public software we
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T00:52:54+00:00'
+date_modified: '2026-10-30T03:35:42+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 11
@@ -15,7 +15,7 @@ library_order: 11
 
 What assistants found, understood and reached on public software websites.
 
-These 20 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 22 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Connections and public browsing
 
@@ -132,6 +132,18 @@ Alvys describes beta MCP access from ChatGPT for loads, invoices and tracking. P
 [Can veterinary software integrate with ChatGPT?](can-veterinary-software-integrate-with-chatgpt.md)
 
 An ezyVet API and GPT Actions custom build is a possible route, subject to approval. That is different from a ready-made connector.
+
+## Commerce protocols and business evidence
+
+[Is agent-to-agent commerce a viable business opportunity?](is-agent-to-agent-commerce-a-viable-business-opportunity.md)
+
+A checkout protocol describes a transaction path. It does not establish buyer demand, paid orders or a viable business.
+
+## CRM permissions and writes
+
+[What are the benefits and risks of connecting HubSpot with ChatGPT?](what-are-the-benefits-and-risks-of-connecting-hubspot-with-chatgpt.md)
+
+HubSpot documents CRM reads and writes, with approval and validation limits. Our 13/15 CRM website result measures discovery.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

@@ -5,7 +5,7 @@ description: AI Overviews, AI Mode, their different answers and the bases needed
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T23:36:56+00:00'
-date_modified: '2026-10-30T00:52:54+00:00'
+date_modified: '2026-10-30T03:35:42+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 5
@@ -15,7 +15,7 @@ library_order: 5
 
 AI Overviews, AI Mode, their different answers and the bases needed to compare them.
 
-These 20 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 24 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Google surfaces
 
@@ -122,6 +122,30 @@ Generative UI adds interactive tools to some Google AI results. The September In
 [Are Google AI Overviews available in France?](are-google-ai-overviews-available-in-france.md)
 
 Google announced AI Overviews in France on 22 July 2026. Availability differs from receiving an Overview for each query.
+
+## Overview collection interfaces
+
+[Is there an API for Google AI Overviews?](is-there-an-api-for-google-ai-overviews.md)
+
+SerpApi documents an Overview collection interface. A Search-grounded generated response is a different output.
+
+## Sponsored placements and answer counts
+
+[Can ads appear in Google AI Overviews?](can-ads-appear-in-google-ai-overviews.md)
+
+Google documents Sponsored ads in and around Overviews. An organic name count does not measure paid placement.
+
+## Answer visibility and website visits
+
+[How do Google AI Overviews affect website visibility?](how-do-google-ai-overviews-affect-website-visibility.md)
+
+Overviews add answer-level names and source links. Those observations alone cannot establish a website’s traffic gain or loss.
+
+## Buyer questions and internal Search expansion
+
+[How does Google AI Mode change keyword research?](how-does-google-ai-mode-change-keyword-research.md)
+
+Keep full buyer questions and their subtopics. Google’s query fan-out is not an observed keyword-volume measure.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

@@ -5582,6 +5582,65 @@
       "unit": "answers",
       "label": "PHP2Shell: ChatGPT potentially misleading answer flags",
       "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e"
+    },
+    "figure:ce26a836bf190140c59aa209e5d8056986471f944c05804647d63b554448c669": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22|2026-09-23",
+        "subject": "all-checked-category-sets",
+        "metric": "checked_vendors"
+      },
+      "count": 286,
+      "base": null,
+      "unit": "checked-vendors",
+      "label": "September Index checked vendor panel",
+      "source_review_sha256": "7593ee40a0b0072c9918572d1e0b485814f20ac7861e8d73baa7ce33c3c4c8b1"
+    },
+    "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22|2026-09-23",
+        "engine": "Google AI Overviews",
+        "subject": "all-fourteen-categories",
+        "metric": "checked_vendor_name_appearances"
+      },
+      "count": 1352,
+      "base": 415,
+      "unit": "checked-name-appearances",
+      "label": "Google AI Overviews checked-name appearances per answer",
+      "source_review_sha256": "7593ee40a0b0072c9918572d1e0b485814f20ac7861e8d73baa7ce33c3c4c8b1"
+    },
+    "figure:98bcaddb283391c820d37de6e9a216704fb374def217f17e2066843b290c62d5": {
+      "source_url": "https://doi.org/10.5281/zenodo.21789120",
+      "record": {
+        "capture_date": "2026-08-04",
+        "engine": "chatgpt",
+        "subject": "main-question-panel",
+        "metric": "collected_answers",
+        "cohort": "main-run"
+      },
+      "count": 18,
+      "base": 280,
+      "unit": "answers",
+      "label": "VolumeIIIChatGPT main answers collected before the billing stop",
+      "source_review_sha256": "7593ee40a0b0072c9918572d1e0b485814f20ac7861e8d73baa7ce33c3c4c8b1"
+    },
+    "figure:0231d3e67eab9d2ba2040461e1264e46eae5088ef0f3ed5317154f01ce11d300": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "engine": "Claude",
+        "subject": "all-fourteen-categories",
+        "metric": "checked_vendor_name_appearances"
+      },
+      "count": 2039,
+      "base": 420,
+      "unit": "checked-name-appearances",
+      "label": "Claude checked-name appearances per answer",
+      "source_review_sha256": "7593ee40a0b0072c9918572d1e0b485814f20ac7861e8d73baa7ce33c3c4c8b1"
     }
   },
   "pages": {
@@ -10566,6 +10625,258 @@
       "opening_shape": "belief_correction",
       "classification_reason": "The first sentence corrects the equivalence of an AI visibility score and a full technical SEO audit.",
       "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/geo-basics/where-can-i-find-an-ai-search-visibility-expert-near-me.md": {
+      "bank_id": "LB-Q0074",
+      "source_sha256": "70dd15814baf0c11bc9e7ec214ddc98ed2c839b5c0db158eaea7f9cdeffca6b4",
+      "canonical_source_sha256": "70dd15814baf0c11bc9e7ec214ddc98ed2c839b5c0db158eaea7f9cdeffca6b4",
+      "opening_sha256": "b07f6881b34d190f0aaca3c20eed595bca604760908328b4b70c9396b586efbe",
+      "lead_figures": [
+        "figure:3c91e38e03983fe42adc776a834e490767a2fc997754b7f242f9d1e4ede546a2"
+      ],
+      "lead_figure_spans": {
+        "figure:3c91e38e03983fe42adc776a834e490767a2fc997754b7f242f9d1e4ede546a2": [
+          "If you need an AI search visibility expert near you, start with your actual city and verify where the work is delivered. [Omniscient Digital](https://broadcastwell.com/best-geo-agencies#omniscient) has a 3/8 public-evidence score in our dated comparison, with selected fields rechecked on 28 October 2026; that score cannot establish distance."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader needing an expert near their own location leads the opening before the Omniscient score.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/measurement/how-can-i-check-ai-search-visibility.md": {
+      "bank_id": "LB-Q0131",
+      "source_sha256": "30362ee56491ef6f7df811b482176e85bed41643aa492fa13c83159e9fc6a113",
+      "canonical_source_sha256": "30362ee56491ef6f7df811b482176e85bed41643aa492fa13c83159e9fc6a113",
+      "opening_sha256": "ade41b410c5ab0ac6e2f52a6438bc4477f60ce9ad45b01fe153d1ccf00b2ff49",
+      "lead_figures": [
+        "figure:b0a08e6f529031bf11c42203148abfc08914473576bd24710b592a74be3f590b"
+      ],
+      "lead_figure_spans": {
+        "figure:b0a08e6f529031bf11c42203148abfc08914473576bd24710b592a74be3f590b": [
+          "1,496 checked-name appearances across 420 ChatGPT answers were recorded in our [September Index](https://doi.org/10.5281/zenodo.22907695) on 22 September 2026. To check AI search visibility, start with that kind of answer record: a named engine, an exact question and a saved response, then count your brand under a stated rule."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "figure_first",
+      "classification_reason": "The 1,496 checked-name appearances is the first subject, followed by the method instruction.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/measurement/what-is-an-ai-visibility-index.md": {
+      "bank_id": "LB-Q0322",
+      "source_sha256": "36c25f09cb4cc9f0f51f890b4b65cab02ae26f95d3b08a7dc82c8598bb6c82a5",
+      "canonical_source_sha256": "36c25f09cb4cc9f0f51f890b4b65cab02ae26f95d3b08a7dc82c8598bb6c82a5",
+      "opening_sha256": "9a9f6aa87a25d49dcae38cd77fc70bb38c8fe7d6791567fc2596bb274064d2ab",
+      "lead_figures": [
+        "figure:ce26a836bf190140c59aa209e5d8056986471f944c05804647d63b554448c669"
+      ],
+      "lead_figure_spans": {
+        "figure:ce26a836bf190140c59aa209e5d8056986471f944c05804647d63b554448c669": [
+          "An AI visibility index is a defined record of what selected AI answers name or cite, rather than a universal ranking of the web. Our [September 2026 Absence Index](https://doi.org/10.5281/zenodo.22907695) contains 286 checked vendor/category records across fourteen software categories, collected on 22 and 23 September 2026."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The opening directly defines an AI visibility index before the actual checked-panel size.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/google-ai/is-there-an-api-for-google-ai-overviews.md": {
+      "bank_id": "LB-Q0384",
+      "source_sha256": "132031172d1e28c0a15376f28f8f72c5b8dcfa6d271092bd1f2078576ca5fc06",
+      "canonical_source_sha256": "132031172d1e28c0a15376f28f8f72c5b8dcfa6d271092bd1f2078576ca5fc06",
+      "opening_sha256": "425451c0f393e31b3a773dd0bb973df1a0ab0aee0d12de9dfdb0bc45c3c03c2e",
+      "lead_figures": [
+        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4"
+      ],
+      "lead_figure_spans": {
+        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4": [
+          "On 30 October 2026, SerpApi documented a third-party API that collects Google AI Overview blocks, distinct from generating a Search-grounded reply. Our [September Index](https://doi.org/10.5281/zenodo.22907695) retained 415 Overview answers against a scheduled base of 420 on 22 and 23 September 2026; collection success belongs in any such API report."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "date_first",
+      "classification_reason": "The source-read date, 30 October 2026, leads the reported third-party interface before the historical collection result.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/google-ai/can-ads-appear-in-google-ai-overviews.md": {
+      "bank_id": "LB-Q0385",
+      "source_sha256": "3eaf764df225434ef6cdf19451f1249d290f21ab83b9707ad35751614f42ca90",
+      "canonical_source_sha256": "3eaf764df225434ef6cdf19451f1249d290f21ab83b9707ad35751614f42ca90",
+      "opening_sha256": "c883495be6e188766a84143160ddb6316d629f6f6497101913278a30310786d7",
+      "lead_figures": [
+        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd"
+      ],
+      "lead_figure_spans": {
+        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd": [
+          "Yes. Google documents ads within or alongside AI Overviews, with Sponsored labeling that separates them from organic content. Our [September Index](https://doi.org/10.5281/zenodo.22907695) counted 1,352 checked-name appearances across 415 retained Overview answers on 22 and 23 September 2026; those answer-text counts are not an ad-placement or advertising-spend measure."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "yes_no",
+      "classification_reason": "Yes is a standalone direct answer to whether ads can appear, followed by the Sponsored boundary.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/measurement/how-can-i-verify-that-an-ai-visibility-tracker-uses-live-answers.md": {
+      "bank_id": "LB-Q0451",
+      "source_sha256": "8d7c0d07937329570f37ac750ff05d7b8c4409646769be23d54e17254bac7bf2",
+      "canonical_source_sha256": "8d7c0d07937329570f37ac750ff05d7b8c4409646769be23d54e17254bac7bf2",
+      "opening_sha256": "2955a02c232def20f7345ee1abe40fd598ccfd288c4a72fc7623411fca5f5788",
+      "lead_figures": [
+        "figure:98bcaddb283391c820d37de6e9a216704fb374def217f17e2066843b290c62d5"
+      ],
+      "lead_figure_spans": {
+        "figure:98bcaddb283391c820d37de6e9a216704fb374def217f17e2066843b290c62d5": [
+          "On 4 August 2026, our [Volume III study](https://doi.org/10.5281/zenodo.21789120) collected 18 of 280 scheduled ChatGPT main answers before a recorded credit stop. To verify a tracker’s live-answer claim, inspect its collection receipt, saved response and cache settings; a dashboard refresh cannot establish that a new answer was collected."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "date_first",
+      "classification_reason": "The date, 4 August 2026, leads the historical interrupted collection, followed by the tracker verification task.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-affect-website-visibility.md": {
+      "bank_id": "LB-Q0492",
+      "source_sha256": "957c99e616cbce375b2cf817a054936e99cb7e412a9d8a3c30ad353a1091e82c",
+      "canonical_source_sha256": "957c99e616cbce375b2cf817a054936e99cb7e412a9d8a3c30ad353a1091e82c",
+      "opening_sha256": "157198d473c5e36bc20befcaeca1273a7a73eb381f3b6886f200857c2e894609",
+      "lead_figures": [
+        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd"
+      ],
+      "lead_figure_spans": {
+        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd": [
+          "1,352 checked-name appearances across 415 retained Google AI Overviews answers show one form of visibility: being named inside an answer. Our [September Index](https://doi.org/10.5281/zenodo.22907695), collected on 22 and 23 September 2026, did not measure whether that exposure increased or reduced visits to the named companies’ websites."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "figure_first",
+      "classification_reason": "The 1,352 appearances are the leading subject and are explicitly separated from website visits.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md": {
+      "bank_id": "LB-Q0493",
+      "source_sha256": "a710678228f230a67e31f3320a7503deb44ab2dd6d2b2d17a819b97786f7dd40",
+      "canonical_source_sha256": "a710678228f230a67e31f3320a7503deb44ab2dd6d2b2d17a819b97786f7dd40",
+      "opening_sha256": "fe9bd18bb571dc23686c13f616b6c1bd76253b68b200a4f07d1ae2ebde20fcba",
+      "lead_figures": [
+        "figure:440f45e36a70ba8b8a06afc55622c9fc78e7afd3526cf2f28dcbdfb6dc375ec4"
+      ],
+      "lead_figure_spans": {
+        "figure:440f45e36a70ba8b8a06afc55622c9fc78e7afd3526cf2f28dcbdfb6dc375ec4": [
+          "If you publish the source page, Google documents crawl and preview controls for how its content can appear in Search, plus a France-specific participation control. Our [September Index](https://doi.org/10.5281/zenodo.22907695) recorded 2/30 residential-property Overview targets with no Overview on 22 September 2026; a missing answer alone cannot prove that a publisher used a control."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "reader_situation",
+      "classification_reason": "If you publish the source page is the opening condition; the count follows the control distinction.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/google-ai/how-does-google-ai-mode-change-keyword-research.md": {
+      "bank_id": "LB-Q0495",
+      "source_sha256": "fe7e668a8c1ce7c560e7aefbf231200dba2f2404082c2af1cb79719295be6974",
+      "canonical_source_sha256": "fe7e668a8c1ce7c560e7aefbf231200dba2f2404082c2af1cb79719295be6974",
+      "opening_sha256": "1fce32514b513f32779d22bd12c78aea800e0df1460ee47360d1d493f698abb5",
+      "lead_figures": [
+        "figure:539a927b43f5757aa088e168625aa0fd1807f9ca078a89cce6a896bf791f5525"
+      ],
+      "lead_figure_spans": {
+        "figure:539a927b43f5757aa088e168625aa0fd1807f9ca078a89cce6a896bf791f5525": [
+          "A keyword is not a record of every search Google AI Mode may use to answer it. Google describes related searches across subtopics; our [September Index](https://doi.org/10.5281/zenodo.22907695) scheduled 420 Mode targets on 22 September 2026, counting returned buyer-question observations rather than the engine’s internal searches or keyword volume."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The first sentence corrects the equivalence of a keyword and every internal search performed by Mode.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md": {
+      "bank_id": "LB-Q0498",
+      "source_sha256": "9fa0f57d22dd3837247092ec25ecc7f89d7fa4277bc07227f4691560b0ae44cc",
+      "canonical_source_sha256": "9fa0f57d22dd3837247092ec25ecc7f89d7fa4277bc07227f4691560b0ae44cc",
+      "opening_sha256": "ea79676e675d9bae37f5479dc15cc52cf1c3a011dcfb3e3337b65665ed5de257",
+      "lead_figures": [
+        "figure:e19bfcea9de0dbcd7ceee668dada6ccfaa5ba7e2a177a3a116f1ba16ea39b016"
+      ],
+      "lead_figure_spans": {
+        "figure:e19bfcea9de0dbcd7ceee668dada6ccfaa5ba7e2a177a3a116f1ba16ea39b016": [
+          "Capterra.com was a cited host in 34 of 150 construction-software answers in our [September Index](https://doi.org/10.5281/zenodo.22907695), collected on 22 September 2026 across five engines. That supports a host-level citation observation; explaining a particular page’s selection requires its returned URL and answer, and still does not reveal the engine’s internal reason."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "source_first",
+      "classification_reason": "Capterra.com is the leading cited-source host, not a product being proposed or a count-first construction.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/fixes/what-does-google-s-guidance-say-about-llms-txt.md": {
+      "bank_id": "LB-Q0500",
+      "source_sha256": "c4ca5af2ff6d13fb7f604632208e4b9b64d398a0398e6cfa704261200611ba23",
+      "canonical_source_sha256": "c4ca5af2ff6d13fb7f604632208e4b9b64d398a0398e6cfa704261200611ba23",
+      "opening_sha256": "7800d707685fdb6202b4c7b2c97f732d43a4d9962f97c9f2ae63d5d1d7a16047",
+      "lead_figures": [
+        "figure:fb26a97bd94722142a936a3e5ab5290bd8b8464e6279ed3e02aab51ca033e77b"
+      ],
+      "lead_figure_spans": {
+        "figure:fb26a97bd94722142a936a3e5ab5290bd8b8464e6279ed3e02aab51ca033e77b": [
+          "On 29 October 2026, Google’s inspected site-owner guidance said new AI text files were not needed to appear in its Search AI features. Our separate [agency publication record](https://broadcastwell.com/best-geo-agencies#minuttia) scored Minuttia 3/8, with Machine readable marked Partial; a published llms.txt file is not proof of Google Search adoption."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "date_first",
+      "classification_reason": "The 29 October 2026 source-read date frames the file requirement before the separate audit record.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/agents/is-agent-to-agent-commerce-a-viable-business-opportunity.md": {
+      "bank_id": "LB-Q0518",
+      "source_sha256": "7bb74ae567cd5a1c59d71aafc5095a192273d76c1736339994321bc89e6d9664",
+      "canonical_source_sha256": "7bb74ae567cd5a1c59d71aafc5095a192273d76c1736339994321bc89e6d9664",
+      "opening_sha256": "eefd101292e78608299deea10bf6f08cf09f48d0c84c24f79948a7a5f973058f",
+      "lead_figures": [
+        "figure:e73143fcd11d4e0803b03686db1724f288228f1724c667f89c5d48b5ae281cd0"
+      ],
+      "lead_figure_spans": {
+        "figure:e73143fcd11d4e0803b03686db1724f288228f1724c667f89c5d48b5ae281cd0": [
+          "No published protocol alone establishes that agent-to-agent commerce is a viable business opportunity. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 44 of 70 initial public demo-path tasks on 6 October 2026; reaching a handoff was not a purchase, and it supplied no evidence of willingness to pay."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "belief_correction",
+      "classification_reason": "No published protocol alone establishes viability rejects a protocol-to-market inference. It does not answer No to whether the business can be viable.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/geo-basics/which-ai-tools-for-analyzing-online-visibility-are-available-in-the-uk.md": {
+      "bank_id": "LB-Q0093",
+      "source_sha256": "0efc19dd0195cfae10a5e01b486544feb979f178cfde5bbcbc951c7134540ea3",
+      "canonical_source_sha256": "0efc19dd0195cfae10a5e01b486544feb979f178cfde5bbcbc951c7134540ea3",
+      "opening_sha256": "5dbae18d513ba957d323827ac50d80b6d685a4a416f76757d53704ef6f74f2cb",
+      "lead_figures": [
+        "figure:0231d3e67eab9d2ba2040461e1264e46eae5088ef0f3ed5317154f01ce11d300"
+      ],
+      "lead_figure_spans": {
+        "figure:0231d3e67eab9d2ba2040461e1264e46eae5088ef0f3ed5317154f01ce11d300": [
+          "Semrush documents United Kingdom coverage in its AI Visibility Toolkit, and seoClarity publishes UK AI Overview research. In our 22 September 2026 Index capture, Claude produced 2,039 checked-name appearances across 420 answers, showing why the engine and the count unit also belong in a UK tracking brief."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Semrush is the leading named provider; its documented UK scope precedes the separate Claude count.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+    },
+    "answers/agents/what-are-the-benefits-and-risks-of-connecting-hubspot-with-chatgpt.md": {
+      "bank_id": "LB-Q0523",
+      "source_sha256": "c7ac955cbb07f7e4cd834261e5250d78ca1228b303a35cdb1a766112c773afe8",
+      "canonical_source_sha256": "c7ac955cbb07f7e4cd834261e5250d78ca1228b303a35cdb1a766112c773afe8",
+      "opening_sha256": "a46eb084aabcff416d3b4d561487fd36936126834a0e693d89c89b6d50604d22",
+      "lead_figures": [
+        "figure:daf72cd4b22d82a2df7dc779c91036c6ff279cc2638adee1c4d95524bdc6397a"
+      ],
+      "lead_figure_spans": {
+        "figure:daf72cd4b22d82a2df7dc779c91036c6ff279cc2638adee1c4d95524bdc6397a": [
+          "Separate HubSpot record lookup from permission to edit it. HubSpot's guide describes CRM answers and record changes in ChatGPT, but it also says custom validation rules do not apply to those writes. Our Agent Gap capture on 6 October 2026 recorded 13 reached destinations in 15 initial CRM website tasks, a public discovery step to keep distinct from an account operation."
+        ]
+      },
+      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
+      "opening_shape": "action_first",
+      "classification_reason": "Separate HubSpot record lookup from permission to edit it is the leading imperative, before the source facts and study count.",
+      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
     }
   },
   "index_question_titles": {

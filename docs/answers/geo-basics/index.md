@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T23:17:04+00:00'
+date_modified: '2026-10-30T03:35:42+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 22 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 24 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -136,6 +136,18 @@ Size a growing GEO workload by retained answers and shared resources. Otterly do
 [How do AI visibility vendors differ for regulated industries?](how-do-ai-visibility-vendors-differ-for-regulated-industries.md)
 
 Compare each documented control and plan. Our dated OtterlyAI row names three MCP plans; its SSO guide specifies Enterprise sign-in.
+
+## Finding a provider in your own city
+
+[Where can I find an AI search visibility expert near me?](where-can-i-find-an-ai-search-visibility-expert-near-me.md)
+
+Use your actual city and the provider’s stated delivery location. A public evidence score cannot establish that a firm is nearby.
+
+## UK report coverage
+
+[Which AI tools for analyzing online visibility are available in the UK?](which-ai-tools-for-analyzing-online-visibility-are-available-in-the-uk.md)
+
+Semrush lists UK reporting; seoClarity publishes UK research. Our Claude sample has 2,039 checked-name appearances across 420 answers.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
