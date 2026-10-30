@@ -19,7 +19,7 @@ is_based_on: https://developers.google.com/search/docs/fundamentals/creating-hel
 
 # The Broadcastwell evidence standard
 
-**Google asks publishers for original information or analysis; its guidance supplies no guaranteed visibility uplift (Google Search Central, checked 30 October 2026).**
+**The same 1,974 Wikipedia results support a conditional position share, not a share of all first slots (Lewandowski et al., 2021, §5).**
 
 A precise number can still answer the wrong question. A survey about perceived search performance cannot establish a change in observed search positions, however carefully its statistical model is reported.
 
@@ -33,9 +33,9 @@ An answer, a vendor named in an answer and a link attached to that answer are di
 
 Before accepting a rate, write its numerator and denominator in ordinary language. “Among captured target answers” is a narrower population than “among all buyers.” “Among named vendor-answer pairs” differs from “among all checked vendor-answer pairs.” If the distinction changes the interpretation, it belongs beside the percentage.
 
-The same discipline applies to an external paper. Lewandowski and colleagues report where Wikipedia's own results appeared. Their first-position percentage does not describe Wikipedia's share of every first-position slot. Reversing the conditioning group produces a different statement, even when the printed percentage remains unchanged. [Lewandowski et al., 2021, §4.2](https://doi.org/10.1145/3447535.3462479).
+The same discipline applies to an external paper. Lewandowski and colleagues report where Wikipedia's own results appeared. Their first-position percentage does not describe Wikipedia's share of every first-position slot. Reversing the conditioning group produces a different statement, even when the printed percentage remains unchanged. [Lewandowski et al., 2021, §5](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf).
 
-## The grades and the permissions they carry
+## What does each grade permit?
 
 | Grade | What earns it | What we permit on a page |
 |---|---|---|
@@ -58,7 +58,7 @@ A grade attaches to a use. A practitioner interview may be valuable historical t
 
 **Consistency.** Do the method, tables, figures and discussion agree? If they differ, we preserve the disagreement and identify the version and locations. We do not average conflicting numbers, silently choose the convenient one or manufacture a count from a rounded percentage.
 
-## Counts first, uncertainty next
+## State the counts before the uncertainty
 
 For our derived proportions we show the observed count and eligible base, followed by the percentage and a descriptive Wilson interval at the stated confidence level. The interval summarizes binomial variation around that proportion. Repeated answers, related vendors and shared questions create dependence, so an interval is not a population guarantee or a significance test between engines.
 
@@ -66,7 +66,7 @@ When an outside source reports only a rounded share, its original integer numera
 
 A zero also needs context. No citation in the captured answers is an observed absence within that sample. A failed fetch is missing evidence about the page. A query for which an engine returned no usable answer is not a negative verdict about every vendor. These cases must remain distinguishable in both tables and prose.
 
-## The quiet problem of revised records
+## A revised record can describe an earlier observation
 
 An updated article may retain its publication year while changing its data definition. We identify the version used. We also distinguish a protocol, a completed analysis and a later correction. Registration records decisions made before an analysis; it does not validate the eventual conclusion.
 
@@ -87,7 +87,7 @@ We have no measurement on this point: no experiment establishes that this editor
 ## Sources
 
 - Google Search Central. (2026). Creating helpful, reliable, people-first content. https://developers.google.com/search/docs/fundamentals/creating-helpful-content Verified 30 October 2026.
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
 ## Cite this page
@@ -108,7 +108,9 @@ Broadcastwell research team. (2026, October 30). *The Broadcastwell evidence sta
 
 Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

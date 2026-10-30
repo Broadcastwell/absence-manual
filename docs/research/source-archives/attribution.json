@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Important Factors for Improving Google Search Rank",
+    "doi": "10.3390/fi11020032",
+    "filename": "ziakis-2019.pdf",
+    "source_volume": "Search Engine Optimization, edited by Andreas Veglis and Dimitrios Giomelakis, MDPI, 2021, ISBN 978-3-03936-819-8",
+    "volume_pdf_pages": "12-23",
+    "article_license": "https://creativecommons.org/licenses/by/4.0/",
+    "article_notices_retained": true,
+    "sha256": "4863c53c4ef07559678eb0655e50e793d23838aa82d4cf4c7efcee92db23d70a"
+  },
+  {
+    "title": "Academic Excellence, Website Quality, SEO Performance: Is there a Correlation?",
+    "doi": "10.3390/fi11110242",
+    "filename": "giannakoulopoulos-2019.pdf",
+    "source_volume": "Search Engine Optimization, edited by Andreas Veglis and Dimitrios Giomelakis, MDPI, 2021, ISBN 978-3-03936-819-8",
+    "volume_pdf_pages": "24-48",
+    "article_license": "https://creativecommons.org/licenses/by/4.0/",
+    "article_notices_retained": true,
+    "sha256": "e5db993d0cf8e24251900ba188b759f6955119cee1f8d8524b4d7e35b01c7f6c"
+  },
+  {
+    "title": "Ranking by Relevance and Citation Counts, a Comparative Study: Google Scholar, Microsoft Academic, WoS and Scopus",
+    "doi": "10.3390/fi11090202",
+    "filename": "rovira-2019.pdf",
+    "source_volume": "Search Engine Optimization, edited by Andreas Veglis and Dimitrios Giomelakis, MDPI, 2021, ISBN 978-3-03936-819-8",
+    "volume_pdf_pages": "50-70",
+    "article_license": "https://creativecommons.org/licenses/by/4.0/",
+    "article_notices_retained": true,
+    "sha256": "7118dc5379eba098e3a93527319c18d66e7bf14fbdb1d5e754c6d639656b7f52"
+  }
+]

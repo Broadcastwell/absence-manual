@@ -27,7 +27,7 @@ We chose the named examples below because readers may recognize their parent com
 
 That distinction matters if you are asked why a well-known product is missing. Company recognition can explain why the omission feels surprising. It cannot supply the missing observation or identify the reason for the answer.
 
-## A named list with its receipts
+## Which familiar vendors had low naming rates?
 
 | Category | Checked product or vendor | Named / valid answers | Share | Descriptive 95% Wilson interval |
 |---|---|---:|---:|---|
@@ -46,15 +46,15 @@ We also retain product names. “Oracle Construction and Engineering” and “O
 
 ## The university paper asks a different question
 
-Giannakoulopoulos and colleagues studied websites belonging to the **100 highest-ranked universities** in the Academic Ranking of World Universities. They compared academic standing with researcher-defined website-quality and SEO-performance rankings. Their Table 9 reports Spearman rho **0.35** for website quality and **−0.044** for the SEO-performance ranking. The latter's reported significance value is **0.333**. A check of the authors' deposited 100-row results gives a positive rank coefficient of **+0.04382**, rather than the printed negative sign, and a conventional two-sided approximation of **p = 0.6651**. The sign and test value do not reproduce; both versions describe a weak, nonsignificant association. [Original deposited results](https://doi.org/10.5281/zenodo.3484673), Sheet1, C3:C102 and H3:H102, checked 30 October 2026. These are reported and recomputed values, not a fresh audit of university websites. [Giannakoulopoulos et al., 2019, Table 9](https://doi.org/10.3390/fi11110242).
+Giannakoulopoulos and colleagues studied websites belonging to the **100 highest-ranked universities** in the Academic Ranking of World Universities. They compared academic standing with researcher-defined website-quality and SEO-performance rankings. Their Table 9 reports Spearman rho **0.35** for website quality and **−0.044** for the SEO-performance ranking. The latter's reported significance value is **0.333**. A check of the authors' deposited 100-row results gives a positive rank coefficient of **+0.04382**, rather than the printed negative sign, and a conventional two-sided approximation of **p = 0.6651**. The sign and test value do not reproduce; both versions describe a weak, nonsignificant association. [Original deposited results](https://doi.org/10.5281/zenodo.3484673), Sheet1, C3:C102 and H3:H102, checked 30 October 2026. These are reported and recomputed values, not a fresh audit of university websites. [Giannakoulopoulos et al., 2019, Table 9](https://docs.broadcastwell.com/research/source-archives/giannakoulopoulos-2019.pdf).
 
 The paper's nearby prose prints the first coefficient as 0.355; the table rounds it to 0.35. We identify the table value rather than silently treating the two precisions as separate findings. These are correlation coefficients, not percentages of universities. No count-based Wilson interval applies.
 
-More consequentially, the SEO measure is a composite audit score. It is not observed search position, traffic, answer inclusion or citation. The weights and constituent checks are part of the study's definition of performance. The result cannot establish that academic reputation is unrelated to every form of online discovery.
+The outcome also needs its name kept intact: this researcher-defined SEO audit score combines weighted checks, rather than observing where the university appears in search. It is not observed search position, traffic, answer inclusion or citation. The weights and constituent checks are part of the study's definition of performance. The result cannot establish that academic reputation is unrelated to every form of online discovery.
 
 That is why we grade the study B for this use. It is a useful warning against substituting institutional prestige for measured website characteristics. It cannot validate the Index, explain Microsoft's observed rate or prove that a technical audit score causes AI visibility.
 
-The authors write that “Further analysis may verify the first results of the survey.” The invitation to investigate is appropriate. The commercial retelling often drops it. [Giannakoulopoulos et al., §4, original article p. 9; reprint PDF p. 39].
+The authors write that “Further analysis may verify the first results of the survey.” That stated limit belongs beside the reported correlation. [Giannakoulopoulos et al., 2019, §4, reprint PDF p. 39, printed p. 30].
 
 ## An award may exist without being easy to find
 
@@ -72,11 +72,11 @@ That is a documentation benefit. We have no experiment showing that displaying t
 
 The corporate-responsibility example and the badge therefore meet at a modest point: a claim is easier for a reader to inspect when the evidence is published in context. Neither establishes that the evidence will be selected by an engine. Avoid turning a convenient publishing action into a promised visibility fix.
 
-## What you can investigate next
+## What can you investigate next?
 
 Begin with the actual buyer question. A broad shortlist question and a workflow-specific question can ask for different capabilities. Read whether the response names the product, describes it accurately and supplies a source that supports the description. A familiar parent brand does not settle those questions.
 
-Then inspect the public product evidence you control. Is the capability stated explicitly? Is the intended buyer clear? Does a source distinguish the product from adjacent offerings? Those are verifiable communication questions. If an edit is warranted, record the reason separately from any later visibility observation.
+Inspect the evidence next. Is the capability stated explicitly? Is the intended buyer clear? Could a reader distinguish this particular product from its parent brand, its neighboring products and an offering intended for a different buyer? Those are verifiable communication questions. If an edit is warranted, record the reason separately from any later visibility observation.
 
 There are competing priorities. A product team may reasonably prefer improving a buyer-facing explanation to pursuing a generic shortlist mention. A vendor may be correctly absent from a question outside its scope. A broad presence score cannot make that judgment without reading the use case.
 
@@ -91,7 +91,7 @@ The examples above come from [release 2026-09, DOI 10.5281/zenodo.22907695](http
 - Giannakoulopoulos et al. (2019). Results - Academic Excellence and Web Presence Correlation [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3484673 . Sheet1, rows 3 to 102. Verified 30 October 2026.
 
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
-- Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Is there a correlation? Future Internet, 11(11), 242. https://doi.org/10.3390/fi11110242 Verified 30 October 2026.
+- Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Is there a correlation? Future Internet, 11(11), 242. doi:10.3390/fi11110242 . [Accessible original](https://docs.broadcastwell.com/research/source-archives/giannakoulopoulos-2019.pdf) Verified 30 October 2026.
 - Xanthopoulou, P., Kavoura, A., Sahinidis, A., & Antoniadis, I. (2024). Communicating corporate social responsibility in an era of disruption: A study of Greek companies participating in Corporate Responsibility Index (CRI). In Strategic innovative marketing and tourism (pp. 631 to 639). Springer. Figure 4, p. 636. https://doi.org/10.1007/978-3-031-51038-0_68 Verified 30 October 2026.
 
 - Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Deposited spreadsheets [Data set]. Zenodo. Results Sheet1, C3:C102 and H3:H102. https://doi.org/10.5281/zenodo.3484673 Verified 30 October 2026.
@@ -114,7 +114,9 @@ Broadcastwell research team. (2026, October 30). *Familiar brands can have low m
 
 Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

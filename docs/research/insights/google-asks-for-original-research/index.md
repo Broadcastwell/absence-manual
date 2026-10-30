@@ -19,13 +19,13 @@ is_based_on: https://static.googleusercontent.com/media/www.google.com/en//webma
 
 # Google itself asks for original research
 
-**Google recommends original research without promising a ranking gain or an AI citation (Google Search Central, helpful-content guidance, checked 30 October 2026).**
+**Five versioned research deposits establish publication, not a visibility gain (Broadcastwell, 2026, Zenodo record metadata; Google, 2010, p. 14).**
 
 Google's **2010** SEO Starter Guide explicitly suggested that a publisher could “write an original piece of research.” The surrounding passage concerns compelling, useful content that readers may recommend. It does not attach a measured ranking gain to that action. [Google, 2010, printed p. 14](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf).
 
 The sentence has aged better than many product-specific instructions in the same guide. Current Search Central guidance still asks publishers to contribute original information and substantial value. That continuity supports a publishing choice. It does not turn the choice into a guaranteed route into an AI answer.
 
-You can produce a useful measurement that receives little attention. You can also receive a citation for a page whose method deserves criticism. Publication quality and observed discovery are related questions worth investigating; they are not interchangeable outcomes.
+You can produce a useful measurement that receives little attention. A citation can be misleading evidence of quality: a poorly supported page may still receive one, leaving you to inspect the underlying method yourself. Publication quality and observed discovery are related questions worth investigating; they are not interchangeable outcomes.
 
 ## Read the recommendation in its original setting
 
@@ -43,7 +43,7 @@ Current [people-first content guidance](https://developers.google.com/search/doc
 
 For a software company, a useful contribution might document a buyer problem, compare public specifications carefully or release observations with a stable definition. The contribution should survive a reader arriving directly, without a search engine in between. If it exists only to repeat a fashionable visibility claim, the reader still has to go elsewhere for the answer.
 
-## What our publication record establishes
+## What does the publication record establish?
 
 Our versioned records make public observations inspectable. Their existence is evidence of publication and data availability. It is not, by itself, evidence of their effect on search visibility.
 
@@ -75,11 +75,11 @@ For an AI citation claim, the relevant receipt would retain the actual answer, i
 
 For a claim about an increase, the comparison would need compatible observations before and after publication. The conditions and outcome definition must remain visible. A causal claim would need a design that addresses competing explanations, rather than simply finding a citation sometime after a report appeared.
 
-For a commercial claim, the evidence would have to connect discovery with an appropriate business outcome. A downloaded report and a signed customer agreement are different events. We have no measurement here that converts one into the other.
+For a commercial claim, the evidence would have to connect discovery with an appropriate business outcome. A downloaded report and a signed customer agreement are different events. We cannot connect them here.
 
-## A reason to publish that survives the uncertainty
+## Why publish when the visibility effect is unknown?
 
-Original research can be worth publishing because it resolves a question someone actually has. A source review that catches a denominator error gives a reader a more accurate statement. A dataset with explicit exclusions lets someone inspect what was counted. Those are concrete benefits to the reader even when a visibility effect has not been measured.
+Original research can be worth publishing because it resolves a question someone actually has. A source review that catches a denominator error gives a reader a more accurate statement. With a dataset that identifies its exclusions and preserves its eligible base, another reader can inspect the count rather than relying on the publisher’s chosen headline. Those are concrete benefits to the reader even when a visibility effect has not been measured.
 
 There is a trade-off. Maintaining a useful record takes attention, and the result can be inconvenient for the publisher. A correction may make a headline less striking. A null or unresolved finding may remove the promised story. The alternative is to publish only the observations that make the publisher look good, which leaves readers unable to evaluate the missing cases.
 
@@ -97,6 +97,9 @@ We have no measurement on this point: the public deposit history does not establ
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-08.1 [Data set]. Zenodo. Release files and README. https://doi.org/10.5281/zenodo.22721962 Verified 30 October 2026.
 - Broadcastwell. (2026). State of GEO, volume III [Data set and report]. Zenodo. README: repeated questions and same-vendor comparisons. https://doi.org/10.5281/zenodo.21789120 Verified 30 October 2026.
+
+- Broadcastwell. (2026). State of GEO, volume I [Data set and report]. Zenodo. Version publication date 24 July 2026. https://doi.org/10.5281/zenodo.21537014 . Verified 30 October 2026.
+- Broadcastwell. (2026). State of GEO, volume II [Data set and report]. Zenodo. Version publication date 26 July 2026. https://doi.org/10.5281/zenodo.21586091 . Verified 30 October 2026.
 
 ## Cite this page
 
@@ -116,7 +119,9 @@ Broadcastwell research team. (2026, October 30). *Google itself asks for origina
 
 Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

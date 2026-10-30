@@ -91,7 +91,7 @@ Our contribution here is the [dated literature record](../../data/literature-cen
 
 ## Sources
 
-- Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative engine optimization. KDD 2024. https://doi.org/10.1145/3637528.3671900 . Author manuscript v3: https://arxiv.org/html/2311.09735v3 Verified 30 October 2026.
+- Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative engine optimization. KDD 2024. doi:10.1145/3637528.3671900 . [Accessible original](https://arxiv.org/html/2311.09735v3) . Author manuscript v3: https://arxiv.org/html/2311.09735v3 Verified 30 October 2026.
 - Zhou, H., Chen, J., Chen, X., Bao, J., Chen, Z., & Liao, Y. (2026). IF-GEO: Conflict-aware instruction fusion for multi-query generative engine optimization. Findings of ACL 2026, pp. 27576 to 27590. §§5 to 6, Tables 1 to 3. https://doi.org/10.18653/v1/2026.findings-acl.1373 . Code: https://github.com/yangjizc/IF-GEO Verified 30 October 2026.
 - Kim, S., Jeong, W., Kim, S., Lee, S., & Lee, D. (2026). SAGEO Arena: A realistic environment for evaluating search-augmented generative engine optimization. KDD 2026. §§3 to 5. https://doi.org/10.1145/3770855.3818146 . Author version: https://arxiv.org/html/2602.12187v2 . Software artifact: https://doi.org/10.5281/zenodo.20423532 Verified 30 October 2026.
 - Wu, B., Mao, F., Lin, J., Yang, C., Lu, J., Guo, Y., Zhang, S., Wu, Y., Huang, Y., & Li, F. (2026). From experience to skill: Multi-agent generative engine optimization via reusable strategy learning. Findings of ACL 2026, pp. 43305 to 43315. §§4 to 5. https://aclanthology.org/2026.findings-acl.2149/ . Author code: https://github.com/Wu-beining/MAGEO Verified 30 October 2026.
@@ -120,7 +120,9 @@ Broadcastwell research team. (2026, October 30). *GEO papers ask different quest
 
 Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

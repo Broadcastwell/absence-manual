@@ -109,7 +109,7 @@ This side-by-side has a practical use even while the study waits. It lets you id
 
 ## Why discuss rich-get-richer effects at all?
 
-Lewandowski, Sünkler and Yagci discuss a possible feedback mechanism in Google search: already visible optimized material may receive interactions that reinforce visibility. Their discussion says that such behavior “may lead to a rich-get-richer effect.” It is a proposed mechanism, not proof that low-presence software vendors are trapped in AI answers. [Lewandowski et al., 2021, §6, original p. 19](https://doi.org/10.1145/3447535.3462479).
+Lewandowski, Sünkler and Yagci discuss a possible feedback mechanism in Google search: already visible optimized material may receive interactions that reinforce visibility. Their discussion says that such behavior “may lead to a rich-get-richer effect.” It is a proposed mechanism, not proof that low-presence software vendors are trapped in AI answers. [Lewandowski et al., 2021, §6, original p. 19](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf).
 
 Study 3 can describe persistence if its conditions are met. It cannot identify that mechanism from transitions alone. Persistent low presence could reflect a fixed question bank, product fit, source availability, engine behavior or other factors not isolated by this design. A stable high band would have similarly limited causal meaning.
 
@@ -130,7 +130,7 @@ The existing September archive measures 286 vendors across fourteen categories, 
 - Broadcastwell. (2026). Does absence persist from one release to the next? [Registration]. OSF. Registered 30 October 2026, 01:12:44 UTC. https://doi.org/10.17605/OSF.IO/MKJ9V Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-08.1 [Data set]. Zenodo. Release files and README. https://doi.org/10.5281/zenodo.22721962 Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
 
 ## Cite this page
 
@@ -150,7 +150,9 @@ Broadcastwell research team. (2026, October 30). *Does low presence persist? The
 
 Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

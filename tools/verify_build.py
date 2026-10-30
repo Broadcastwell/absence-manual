@@ -84,6 +84,13 @@ DIAGNOSTIC_HISTORY = [
 # Dated research with a DOI is the record of what was observed on its date, other sellers' offer
 # names included, so it is not rewritten. The theme's own scripts and styles carry no copy.
 RULING_EXEMPT = ("assets/research/", "absence-ladder-volume-ii.pdf", "assets/javascripts/", "assets/stylesheets/")
+# Exact, complete CC BY article reprints retain the original authors' language.
+# Hashes prevent edited PDFs from inheriting an archival-copy exception.
+LICENSED_SOURCE_ARCHIVES = {
+    "research/source-archives/ziakis-2019.pdf": "4863c53c4ef07559678eb0655e50e793d23838aa82d4cf4c7efcee92db23d70a",
+    "research/source-archives/giannakoulopoulos-2019.pdf": "e5db993d0cf8e24251900ba188b759f6955119cee1f8d8524b4d7e35b01c7f6c",
+    "research/source-archives/rovira-2019.pdf": "7118dc5379eba098e3a93527319c18d66e7bf14fbdb1d5e754c6d639656b7f52",
+}
 SERVED_TEXT = {".html", ".txt", ".xml", ".json", ".js", ".css", ".svg", ".vtt", ".md"}
 
 
@@ -346,21 +353,27 @@ for rel, cls in sorted(manifest.items()):
     ]:
         if needed not in head:
             fail("%s header is missing %s" % (rel, needed))
-    for column in ("Product", "Research", "Free tools", "Company", "Contact"):
-        if (">%s</h2>" % column) not in foot:
-            fail("%s footer is missing the %s column" % (rel, column))
     if "Copyright 2026 Broadcastwell LLC." not in foot:
         fail("%s footer is missing the bottom bar" % rel)
     for slug in ("privacy", "terms", "cookies"):
         if ('href="https://broadcastwell.com/%s">' % slug) not in foot:
             fail("%s footer is missing the %s link" % (rel, slug))
-    if foot.find("excluded from its own sample") > foot.find("bw-shared-columns"):
-        fail("%s footer does not keep its own disclosure note above the shared columns" % rel)
-    groups = re.findall(r'<details class="bw-shared-group"[^>]*>([\s\S]*?)</details>', foot)
-    if len(groups) != 5 or [len(re.findall(r"<li>", group)) for group in groups] != [8, 6, 6, 6, 6]:
-        fail("%s footer must contain five complete groups, preserving PHP2Shell and Change Desk links" % rel)
-    if 'href="tel:+18123457272">(812) 345 7272' not in foot or '517 E Kirkwood Ave<br>Bloomington, IN 47408' not in foot:
-        fail("%s footer is missing the public address or phone" % rel)
+    if cls == "research":
+        if 'bw-research-footer' not in foot or 'excluded from its own sample' not in foot:
+            fail("%s research footer is missing its identity or sample disclosure" % rel)
+        if re.search(r'mailto:|tel:|hello@broadcastwell|broadcastwell.com/contact', html):
+            fail("%s research page contains a contact solicitation" % rel)
+    else:
+        for column in ("Product", "Research", "Free tools", "Company", "Contact"):
+            if (">%s</h2>" % column) not in foot:
+                fail("%s footer is missing the %s column" % (rel, column))
+        if foot.find("excluded from its own sample") > foot.find("bw-shared-columns"):
+            fail("%s footer does not keep its own disclosure note above the shared columns" % rel)
+        groups = re.findall(r'<details class="bw-shared-group"[^>]*>([\s\S]*?)</details>', foot)
+        if len(groups) != 5 or [len(re.findall(r"<li>", group)) for group in groups] != [8, 6, 6, 6, 6]:
+            fail("%s footer must contain five complete groups, preserving PHP2Shell and Change Desk links" % rel)
+        if 'href="tel:+18123457272">(812) 345 7272' not in foot or '517 E Kirkwood Ave<br>Bloomington, IN 47408' not in foot:
+            fail("%s footer is missing the public address or phone" % rel)
     if not re.search(r'<time datetime="\d{4}-\d{2}-\d{2}">', foot):
         fail("%s footer is missing its publication date" % rel)
     if chr(183) in html:
@@ -475,6 +488,10 @@ for served in sorted(SITE.rglob("*")):
     if not served.is_file():
         continue
     rel = served.relative_to(SITE).as_posix()
+    if rel in LICENSED_SOURCE_ARCHIVES:
+        if __import__('hashlib').sha256(served.read_bytes()).hexdigest() != LICENSED_SOURCE_ARCHIVES[rel]:
+            fail("%s differs from its licensed article archive" % rel)
+        continue
     if rel.startswith(RULING_EXEMPT):
         continue
     suffix = served.suffix.lower()
