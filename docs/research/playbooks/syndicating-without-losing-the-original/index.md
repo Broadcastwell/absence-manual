@@ -84,7 +84,7 @@ Our distribution policy for this section is to keep the full source record on th
 
 ## What our own data shows
 
-The September Index is a versioned deposit, DOI 10.5281/zenodo.22907695. Linking that identity preserves which archive a derived statement uses. It does not show that syndicating the statement increased its reach.
+We have no measurement on this point: the causal visibility effect of syndication or a canonical preference. The September Index is a versioned deposit, DOI 10.5281/zenodo.22907695. Linking that identity preserves which archive a derived statement uses. It does not show that syndicating the statement increased its reach.
 
 We have no controlled measurement of the effect of Substack, LinkedIn or a canonical preference on Broadcastwell’s AI citations. Publication and indexing receipts should be read as receipts for those states only.
 

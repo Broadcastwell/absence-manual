@@ -90,7 +90,7 @@ Question-led content is a way to organize an answerable task. It is not a measur
 
 ## What our own data shows
 
-The new inventory counts the first tokens of the released target-question texts. It is separate from the registered citation studies and reports no search-volume estimate. The source archive and the small public calculation make that narrow count reproducible.
+The literal first token is “what” in **89/140 released target questions, 63.6% (Wilson 95% interval 55.3% to 71.1%)**. This describes the fixed question bank, not buyer search demand. The new inventory counts the first tokens of the released target-question texts. It is separate from the registered citation studies and reports no search-volume estimate. The source archive and the small public calculation make that narrow count reproducible.
 
 We have no experiment showing that changing a question’s first word increases citations, naming rate or sales. The library’s single-question format is an editorial choice whose usefulness should be evaluated against the reader’s task.
 

@@ -91,7 +91,7 @@ Later maintenance should be driven by a changed source or a genuine identity cor
 
 ## What our own data shows
 
-The Index records software vendors named and cited in dated answers. It does not measure the effect of creating a Wikidata company item. We have no controlled evidence that an item would increase Broadcastwell’s naming rate or its citations.
+We have no measurement on this point: the causal citation effect of creating a Wikidata company item. The Index records software vendors named and cited in dated answers. It does not measure the effect of creating a Wikidata company item. We have no controlled evidence that an item would increase Broadcastwell’s naming rate or its citations.
 
 Our official fact sheet and deposited research identities provide inspectable public references. They should be assessed for the specific statements they support, without turning them into an endorsement by Wikimedia or an answer engine.
 

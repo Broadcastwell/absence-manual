@@ -90,7 +90,7 @@ The defensible starting claim is narrower: some review-platform pages occur in t
 
 ## What our own data shows
 
-The registered citation analysis uses the September release, DOI 10.5281/zenodo.22907695, and preserves its repeated-link and target/control units. The selected platform rows above are a projection of that released count table, not a new customer survey.
+The exact g2.com host supplies **580/18,893 target citation occurrences, 3.1% (Wilson 95% interval 2.8% to 3.3%)**. The selected-platform table preserves that occurrence base. The registered citation analysis uses the September release, DOI 10.5281/zenodo.22907695, and preserves its repeated-link and target/control units. The selected platform rows above are a projection of that released count table, not a new customer survey.
 
 We have no controlled measurement showing that collecting more reviews, completing a profile or using incentives improves a vendor’s AI visibility. The source-class judgments describe publishers; they do not certify every review as truthful or objective.
 

@@ -90,7 +90,7 @@ Maintain llms.txt if it gives a useful, accurate route into your public material
 
 ## What our own data shows
 
-Broadcastwell serves a public llms.txt file, which was opened directly for this guide. We have no measurement showing that the file increased our citations, naming rate or buyer visits. Presence and effect remain separate questions.
+We have no measurement on this point: whether serving our llms.txt changes citation or naming. Broadcastwell serves a public llms.txt file, which was opened directly for this guide. We have no measurement showing that the file increased our citations, naming rate or buyer visits. Presence and effect remain separate questions.
 
 The initial crawler-log record covers selected public Index HTML routes. It is not a log of all requests to the documentation host or a proof of llms.txt consumption.
 

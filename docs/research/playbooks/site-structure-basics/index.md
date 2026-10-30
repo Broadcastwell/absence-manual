@@ -89,7 +89,7 @@ Run these checks on the deployed pages after a navigation change, as well as on 
 
 ## What our own data shows
 
-The Index’s archived answers can identify which URLs were visibly cited on stated dates. They do not expose every retrieval step or establish that a breadcrumb, slug or response code caused selection.
+We have no measurement on this point: the causal citation effect of these site-structure changes. The Index’s archived answers can identify which URLs were visibly cited on stated dates. They do not expose every retrieval step or establish that a breadcrumb, slug or response code caused selection.
 
 We have no controlled measurement of the citation effect of these site-structure changes. Their immediate purpose is to keep public pages reachable, understandable and accurately identified.
 

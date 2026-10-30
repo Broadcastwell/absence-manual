@@ -87,7 +87,7 @@ Finally, keep the outcome claim modest. A well-supported page is easier for peop
 
 ## What our own data shows
 
-Study 1 registers a descriptive test of observable signals on pages cited in the September Index. Its public plan distinguishes strong signals, weak signals, missing metadata and fetch failures. Those classes do not measure the causal benefit of rewriting a sentence.
+We have no measurement on this point: the causal effect of this page format on citations or sales. Study 1 registers a descriptive test of observable signals on pages cited in the September Index. Its public plan distinguishes strong signals, weak signals, missing metadata and fetch failures. Those classes do not measure the causal benefit of rewriting a sentence.
 
 We have no controlled measurement showing that this page format increases citations or sales. The released Index supplies dated naming and citation observations, which are a different outcome from an intervention effect.
 

@@ -90,7 +90,7 @@ Report the states separately: deposited, publicly accessible, metadata validated
 
 ## What our own data shows
 
-Our source review reproduces the historical academic-search calculation from the authors’ deposited workbooks, DOI 10.5281/zenodo.3381151. That reanalysis is distinct from measuring whether our own research appears in Google Scholar or Dataset Search.
+We have no measurement on this point: whether this new research section has gained inclusion because of the proposed publishing changes. Our source review reproduces the historical academic-search calculation from the authors’ deposited workbooks, DOI 10.5281/zenodo.3381151. That reanalysis is distinct from measuring whether our own research appears in Google Scholar or Dataset Search.
 
 We have no verified inclusion result for this new research section in either discovery service at the time of writing. Existing Zenodo DOI records establish deposited identities and files, not a visibility gain from those deposits.
 

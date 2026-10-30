@@ -100,7 +100,7 @@ Lewandowski’s historical classifier counted observable optimization signals. D
 
 ## What our own data shows
 
-Our registered page-signal study includes JSON-LD and microdata as observable signals. Its structured-data presence test does not certify a page’s factual content or search-feature eligibility. Invalid JSON-LD is separately recorded.
+We have no measurement on this point: the causal effect of adding a particular structured-data type on AI citation. Our registered page-signal study includes JSON-LD and microdata as observable signals. Its structured-data presence test does not certify a page’s factual content or search-feature eligibility. Invalid JSON-LD is separately recorded.
 
 The Index’s dated citation arrays do not supply a controlled test of adding markup. We have no measurement establishing that a particular type increases a software vendor’s chance of citation.
 
