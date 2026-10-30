@@ -5,7 +5,7 @@ description: AI Overviews, AI Mode, their different answers and the bases needed
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T23:36:56+00:00'
-date_modified: '2026-10-30T03:35:42+00:00'
+date_modified: '2026-10-30T05:08:26+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 5
@@ -15,7 +15,7 @@ library_order: 5
 
 AI Overviews, AI Mode, their different answers and the bases needed to compare them.
 
-These 24 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 27 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Google surfaces
 
@@ -146,6 +146,24 @@ Overviews add answer-level names and source links. Those observations alone cann
 [How does Google AI Mode change keyword research?](how-does-google-ai-mode-change-keyword-research.md)
 
 Keep full buyer questions and their subtopics. Google’s query fan-out is not an observed keyword-volume measure.
+
+## Documented AI Mode uses
+
+[How do people use Google AI Mode?](how-do-people-use-google-ai-mode.md)
+
+Google documents comparisons, follow-up questions and several input types in AI Mode. Our software-buyer sample is not a survey of its users.
+
+## Overview source observations
+
+[How do Google AI Overviews choose sources?](how-do-google-ai-overviews-choose-sources.md)
+
+Google documents supporting-page eligibility, not a guaranteed selection recipe. Our Overview records show citations without revealing selection causes.
+
+## A query with no Overview
+
+[Why don’t Google AI Overviews appear for every search?](why-does-google-ai-overviews-not-appear-for-every-search.md)
+
+Google makes Overview display conditional. One recorded hotel-software query returned no Overview, without revealing its cause.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

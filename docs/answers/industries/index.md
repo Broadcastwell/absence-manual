@@ -5,7 +5,7 @@ description: Absences and cited sources in each of the fourteen measured softwar
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T01:38:25+00:00'
-date_modified: '2026-10-29T23:17:04+00:00'
+date_modified: '2026-10-30T05:08:26+00:00'
 library_hub: true
 library_owner: Ananya Rao, AI Engineer
 library_order: 8
@@ -15,7 +15,7 @@ library_order: 8
 
 Absences and cited sources in each of the fourteen measured software categories.
 
-These 33 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 34 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Construction absence checks
 
@@ -200,6 +200,12 @@ Dentally’s UK site describes cloud practice software and regional integrations
 [Digitail vs ezyVet for AI-native veterinary practice management with telemedicine and client engagement tools, which is better?](digitail-vs-ezyvet-for-ai-native-veterinary-practice-management-with-t.md)
 
 Compare documented setups: the September Index named Digitail in 67/149 and ezyVet in 115/149 veterinary answers captured on 22 September 2026.
+
+## Free CRM terms and ChatGPT app access
+
+[Is CRM software with ChatGPT free?](crm-software-chatgpt-free.md)
+
+A free CRM and a free ChatGPT connection are separate entitlements. Compare HubSpot’s published CRM terms with the app’s account requirements.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

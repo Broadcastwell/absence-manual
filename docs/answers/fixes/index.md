@@ -5,7 +5,7 @@ description: Source facts, readable pages and changes that can be checked after 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T03:35:42+00:00'
+date_modified: '2026-10-30T05:08:26+00:00'
 library_hub: true
 library_owner: Rohan Iyer, AI Engineer
 library_order: 9
@@ -15,7 +15,7 @@ library_order: 9
 
 Source facts, readable pages and changes that can be checked after publication.
 
-These 29 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 32 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Official company facts
 
@@ -190,6 +190,24 @@ A saved citation shows what was linked. It does not reveal the engine’s reason
 [What does Google's guidance say about llms.txt?](what-does-google-s-guidance-say-about-llms-txt.md)
 
 Google says new AI text files are not needed for Search AI features. A published llms.txt file serves a different claimed purpose.
+
+## Cited local lists
+
+[How should a local business respond when ChatGPT cites ranking-list pages?](how-should-a-local-business-respond-when-chatgpt-cites-ranking-list-pa.md)
+
+Inspect the cited list's publisher, city and selection date. Our 17 September agency-list audit found publisher self-inclusion on 29/32 pages.
+
+## Page generation, domain data and crawling checks
+
+[Which AI tools can support programmatic SEO?](which-ai-tools-can-support-programmatic-seo.md)
+
+Jobber documents service-page generation and Semrush documents crawl checks. A construction-software example shows why template data needs its own evidence.
+
+## Machine requests and buyer evidence
+
+[Does a crawler request count as a buyer visit?](does-a-crawler-request-count-as-a-buyer-visit.md)
+
+A crawler request records machine access. It does not identify a buyer, a purchase or a completed customer journey.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

@@ -5,7 +5,7 @@ description: Counts, citations, repeat runs and the evidence needed to compare r
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-30T03:35:42+00:00'
+date_modified: '2026-10-30T05:08:26+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 6
@@ -15,7 +15,7 @@ library_order: 6
 
 Counts, citations, repeat runs and the evidence needed to compare reports.
 
-These 28 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 32 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Questions
 
@@ -176,6 +176,30 @@ An AI visibility index records answers against a defined set. The checked panel,
 [How can I verify that an AI visibility tracker uses live answers?](how-can-i-verify-that-an-ai-visibility-tracker-uses-live-answers.md)
 
 Collection receipts, cache settings and failure records can test a tracker’s live-answer claim. A refreshed dashboard is insufficient.
+
+## Product offers
+
+[How would you optimize an e-commerce product page for Google and AI search visibility?](how-would-you-optimize-an-e-commerce-product-page-for-google-and-ai-se.md)
+
+Explain the price and included configuration. Our construction panel found that pricing criterion in 5/149 answers; Google specifies Offer fields.
+
+## Threads access and recorded citations
+
+[Can Google, Bing and LLMs find content on Threads?](can-google-bing-and-llms-find-content-on-threads.md)
+
+Public Threads access, search indexing and an answer citation are different observations. Our recorded sources establish none of them for every post.
+
+## Lookalike domains and claim evidence
+
+[How can I defend branded search results against lookalike sites that confuse LLMs?](how-can-i-defend-branded-search-results-against-lookalike-sites-that-c.md)
+
+Keep the disputed claim, cited domain and dated company reference together before blaming a lookalike. Our Describe task does not measure clone attacks.
+
+## Claude’s answer and citation records
+
+[How can I track brand visibility in Claude?](how-can-i-track-brand-visibility-in-claude.md)
+
+Track Claude with fixed questions, saved answers and a stated name rule. Web-search citations and brand mentions remain different units.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
