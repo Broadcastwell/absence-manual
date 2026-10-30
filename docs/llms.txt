@@ -597,3 +597,14 @@ State of GEO Volume III, DOI 10.5281/zenodo.21789120: https://doi.org/10.5281/ze
 - [Does AI search replace SEO?](https://docs.broadcastwell.com/answers/geo-basics/does-ai-search-replace-seo/): Google keeps search eligibility rules for AI features. Our HubSpot citation count measures answers, with clicks and rankings kept separate.
 - [What can insurance agency software with ChatGPT do for project management?](https://docs.broadcastwell.com/answers/industries/insurance-agency-software-chatgpt-project-management/): AgencyZoom documents task assignment. A dated insurance-buyer criterion and full vendor matrix separate that handoff from full project planning.
 - [Is legal practice software with ChatGPT free?](https://docs.broadcastwell.com/answers/industries/legal-practice-software-chatgpt-free/): ChatGPT Free can research public legal-software information. A Clio task route has separate account conditions, distinct from a reached public-pricing page.
+
+## Search research and evidence
+
+- [Research hub](https://docs.broadcastwell.com/research/): Source reviews, bounded findings, definitions and registered studies on search and AI answers.
+- [Insights](https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/): Ten measured questions with source identities, dates, denominators and interpretation limits.
+- [Source reviews](https://docs.broadcastwell.com/research/sources/reading-list/): Annotated reading routes and article-level methods, findings and reproducibility discrepancies.
+- [Evidence ledgers](https://docs.broadcastwell.com/research/evidence/quotable-numbers/): Quotable findings, graded sources, unsupported claims and checks for statistical errors.
+- [Practical guides](https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/): Publishing, structured data, access, research discovery and source verification.
+- [Definitions](https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/): Attributed terminology with explicit measurement boundaries.
+- [Registered studies](https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/): Page-signal and citation analyses, a prospective persistence protocol, scalar data and reproduction files.
+- [Evidence standard](https://docs.broadcastwell.com/research/standard/): How this section preserves sources, dates, uncertainty and limits.

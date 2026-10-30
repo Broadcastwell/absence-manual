@@ -33,7 +33,7 @@ You can use these pages to find a defensible claim, inspect a familiar statistic
 
 | Question | The useful distinction |
 |---|---|
-| Where is the advantage if most Google results carry optimization signals? | A page's signals, its position and a causal benefit are separate claims. The comparison with AI-cited pages awaits its registered analysis. |
+| [Which signals appear on captured AI-cited pages?](insights/nearly-every-google-result-is-optimized/) | A later static capture describes signatures; different designs prevent a causal comparison with historical Google results. |
 | [Why is there no reliable ranking recipe?](insights/no-ranking-recipe/) | An exploratory correlation cannot reveal a universal engine formula. |
 | [What does a single rank conceal?](insights/one-rank-number-is-a-fiction/) | The same vendor can be named in some repeats and absent in others. |
 | [Does a familiar brand ensure visibility?](insights/strong-brands-weak-visibility/) | Presence in a fixed buyer-question sample is a separate observation from company stature. |
@@ -46,7 +46,7 @@ You can use these pages to find a defensible claim, inspect a familiar statistic
 
 ## What is each study’s current status?
 
-**Study 1, optimization signals on cited pages:** the existing plan is public at [OSF dvyfu](https://doi.org/10.17605/OSF.IO/DVYFU), with platform registration timestamp 30 October 2026 at 01:06:12 UTC. No result is presented here. The study concerns observable signals and citation samples; those signals cannot establish why an engine selected a page.
+**Study 1, optimization signals on cited pages:** the existing plan is public at [OSF dvyfu](https://doi.org/10.17605/OSF.IO/DVYFU), with platform registration timestamp 30 October 2026 at 01:06:12 UTC. The [completed page-signal study](studies/optimized-pages-in-ai-answers/) reports later static captures, exact URL classes, missingness and descriptive intervals. Its signals cannot establish why an engine selected a page.
 
 **Study 2, publishers cited for B2B software questions:** the plan is registered at [OSF vczkt](https://doi.org/10.17605/OSF.IO/VCZKT), 30 October 2026 at 01:32:03 UTC. Its registered secondary analysis concerns the explicit citation arrays in the September archive. The [results and reproducibility files](studies/who-ai-engines-cite/) preserve the units, repeated-link handling, control questions, uncertain publisher classes and post-analysis corrections.
 
@@ -65,6 +65,8 @@ Read the source reviews of [university website measurements](sources/giannakoulo
 The [quotable numbers](evidence/quotable-numbers/) page gives the observation, source location and wording that can travel together. Its companion, [numbers we could not verify](evidence/unverified-numbers/), retains claims whose sources are missing, whose units changed in retelling or whose original papers do not support the advertised inference.
 
 Some rejected claims have useful ancestors. A historical Google Home study measured the length of spoken answers, for example; it did not establish the length of the user's voice query. Recovering the original does not make its observation current. Both the date and the measured object still matter.
+
+The terminology entries distinguish [Share of Model](glossary/share-of-model/), [citation decay](glossary/citation-decay/), [query fan-out](glossary/query-fan-out/), [zero-click visibility](glossary/zero-click-visibility/), [entity confidence](glossary/entity-confidence/), [information gain](glossary/information-gain/), [agent discovery optimization](glossary/agent-discovery-optimization/) and [SEO/AEO/GEO](glossary/seo-aeo-geo/). Each attributes its definition and preserves what our observations can actually measure.
 
 The Absence Manual supplies the longer explanation of [measurement noise](https://docs.broadcastwell.com/measurement-noise/) and [engine divergence](https://docs.broadcastwell.com/engine-divergence/). The [answer library](https://docs.broadcastwell.com/answers/) addresses individual buyer questions. This section supplies the source reviews, definitions and evidence behind those practical decisions.
 

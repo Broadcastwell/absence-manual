@@ -1,0 +1,38 @@
+{
+  "study": "https://doi.org/10.17605/OSF.IO/DVYFU",
+  "registered_at_utc": "2026-10-30T01:06:12.768170Z",
+  "recorded_approval_action_approx_utc": "2026-10-30T05:31:00Z",
+  "all_three_public_availability_checks_before_collection_utc": [
+    "2026-10-30T05:32:08Z",
+    "2026-10-30T05:32:10Z",
+    "2026-10-30T05:32:11Z"
+  ],
+  "precollection_freeze_utc": "2026-10-30T05:36:56.935712Z",
+  "earliest_resource_collection_start_utc": "2026-10-30T05:37:03.800062+00:00",
+  "latest_resource_collection_start_utc": "2026-10-30T06:41:54.168501+00:00",
+  "all_three_public_availability_checks_before_first_aggregation_utc": [
+    "2026-10-30T07:20:32.847Z",
+    "2026-10-30T07:20:34.269Z",
+    "2026-10-30T07:20:35.669Z"
+  ],
+  "first_aggregation_utc": "2026-10-30T07:20:56.107845+00:00",
+  "original_capture_sha256": "df78595f16d99f8e44fa6bddab5cb5bc526106a4c38af452dc7fd482e6db3ac7",
+  "public_scalar_projection_sha256": "ad24aa966b860ee4c263b0ab2a08eb9427c31c0abd73098e4699e6f0439b4c91",
+  "raw_body_policy": "No fetched response body is distributed.",
+  "chronology_limit": "Recorded research chronology, not an independently notarized timestamp. The approval-action time is approximate; registration and public availability are distinct events.",
+  "post_first_aggregation_change": "Empty schema-type strings removed from type-frequency labels; no URL classification changed. Original empty declarations remain in the scalar source.",
+  "first_schema_table_sha256": "4096cf6e95f88ca8672ace340b681c59fb7e82c8109b26639dc457c9fa08e844",
+  "revised_raw_schema_table_sha256": "3653ea1da9899d054cba40ae7778eea79bc5b4f4e515d652b705c122b6663bdf",
+  "revised_aggregation_utc": "2026-10-30T07:25:29.265605+00:00",
+  "source_sha256": {
+    "answers-2026-09.jsonl": "221c94e1ebad2bc87d7cd20837fa670cc40b10dba6f68b75423dc8bee69697b3",
+    "release-2026-09.json": "e7829183f6785357787fcf85d3c27999403b0a329f349dad4c7343b11d23f142",
+    "control-questions.json": "0c7ae041a984452b10ff9074deb7f502aa2c2b72f5a28fea581fae408be816cb",
+    "page-signals.jsonl": "df78595f16d99f8e44fa6bddab5cb5bc526106a4c38af452dc7fd482e6db3ac7",
+    "page-signal-rules.json": "c5afcd6fd802c9cedd159f892c4754e795d26b366f2d514ee148bb822d4a0fcc",
+    "study1-precollection-freeze.json": "458805ef64751db13dff35d130dde3d8e816dc8efafbca03f4594299f86f0a7a"
+  },
+  "public_file_line_endings": "LF except the four explicitly frozen instruments, whose original bytes are retained.",
+  "redacted_failed_final_destination_urls": 1,
+  "projection_limit": "Two failed final destinations with sensitive query-key names are blanked, matching the existing public scalar URL policy. Classification inputs and substantive results are unchanged."
+}
