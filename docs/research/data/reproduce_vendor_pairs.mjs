@@ -1,15 +1,25 @@
-// Deterministic secondary-data analysis using the publisher's public matching function.
-// Arguments: publisher matching module, published input JSON, answer JSONL, release JSON, output directory.
+// Deterministic secondary-data analysis with the accompanying public matching module.
+// Arguments: matching dictionary CSV, deposited answer JSONL, release JSON, output directory.
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
-import {pathToFileURL} from 'node:url';
-const [moduleFile,inputFile,answerFile,releaseFile,outDir]=process.argv.slice(2);
-if(!outDir)throw Error('Five input/output paths required.');
-const {matchVendor}=await import(pathToFileURL(path.resolve(moduleFile)));
+import {matchVendor} from './vendor_matching.mjs';
+const [inputFile,answerFile,releaseFile,outDir]=process.argv.slice(2);
+if(!outDir)throw Error('Four input/output paths required.');
 const inputBytes=fs.readFileSync(inputFile);
-if(crypto.createHash('sha256').update(inputBytes).digest('hex')!=='5f94ee1c2aaa9d6d7d4e8176e781f2a78e4f4bcab15077f051b8ccc8255795ac')throw Error('Published input hash mismatch');
-const input=JSON.parse(inputBytes),release=JSON.parse(fs.readFileSync(releaseFile,'utf8'));
+if(crypto.createHash('sha256').update(inputBytes).digest('hex')!=='611d31d07e375ad44ac63cc924fb3f0c27dff08bcc2ea3240f9e749bbff8778b')throw Error('Public dictionary hash mismatch');
+// RFC-style quoted CSV cells, including escaped quotes and embedded newlines.
+function parseCsv(text){const out=[];let row=[],cell='',quoted=false;
+ for(let i=0;i<text.length;i++){const c=text[i];if(c==='"'){if(quoted&&text[i+1]==='"'){cell+='"';i++;}else quoted=!quoted;}
+ else if(c===','&&!quoted){row.push(cell);cell='';}
+ else if(c==='\n'&&!quoted){row.push(cell.replace(/\r$/,''));out.push(row);row=[];cell='';}else cell+=c;}
+ if(cell||row.length){row.push(cell);out.push(row);}return out;
+}
+const [columns,...cells]=parseCsv(inputBytes.toString('utf8'));
+const vendors=cells.filter(r=>r.length>1).map(values=>{const v=Object.fromEntries(columns.map((k,i)=>[k,values[i]]));
+ for(const key of ['alias_domains','product_hosts','name_aliases','plain_word','qualifiers'])v[key]=JSON.parse(v[key]);return v;});
+const release=JSON.parse(fs.readFileSync(releaseFile,'utf8'));
+const input={categories:release.categories.map(c=>({id:c.id,questions:c.questions,vendors:vendors.filter(v=>v.category_id===c.id)}))};
 const answers=fs.readFileSync(answerFile,'utf8').trim().split(/\r?\n/).map(JSON.parse);
 const observations=[],strata=new Map(),reconciled=[];
 function wilson(k,n){if(!n)return ['',''];const z=1.959963984540054,d=1+z*z/n,p=k/n,c=(p+z*z/(2*n))/d,h=z*Math.sqrt((p*(1-p)+z*z/(4*n))/n)/d;return [Math.max(0,c-h)*100,Math.min(1,c+h)*100].map(v=>Number(v.toFixed(4)));}

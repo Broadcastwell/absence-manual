@@ -68,7 +68,9 @@ def check_research(root):
         wc=len(re.findall(r"\b[\w]+(?:['’-][\w]+)*\b",visible))
         if group in FLOORS:
             low,high=FLOORS[group];need(low<=wc<=high,f'visible article words {wc}, expected {low} to {high}')
-        h1=re.findall(r'(?m)^# (.+)$',body);need(len(h1)==1,'one H1 required')
+        # Example Markdown inside a code fence is not an article heading.
+        heading_body=re.sub(r'(?ms)^```[^\n]*\n.*?^```\s*$','',body)
+        h1=re.findall(r'(?m)^# (.+)$',heading_body);need(len(h1)==1,'one H1 required')
         heading=re.search(r'(?m)^# .+$',body)
         after=body[heading.end():].lstrip() if heading else ''
         quote=re.match(r'\*\*(.+?)\*\*',after)

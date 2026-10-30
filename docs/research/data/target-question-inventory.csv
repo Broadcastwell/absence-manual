@@ -1,0 +1,141 @@
+category,question_id,question,first_token
+construction-project-management,q1,best construction management software for a small residential builder,best
+construction-project-management,q2,best construction project management software for a mid sized general contractor,best
+construction-project-management,q3,best construction management software for subcontractors,best
+construction-project-management,q4,what are the best alternatives to Procore,what
+construction-project-management,q5,what are the best alternatives to Buildertrend,what
+construction-project-management,q6,what are the best alternatives to Autodesk Construction Cloud,what
+construction-project-management,q7,"Procore vs Buildertrend, which is better for a small GC",procore
+construction-project-management,q8,Kahua vs e-Builder for an owner running capital projects,kahua
+construction-project-management,q9,what should I look for when choosing construction project management software,what
+construction-project-management,q10,best construction software for a small GC that needs estimating and scheduling without Procore complexity,best
+dealership-management-systems,q1,what is the best dealer management system for an independent used car dealer,what
+dealership-management-systems,q2,best DMS for a small dealership with a handful of employees,best
+dealership-management-systems,q3,best dealer management system for a powersports or motorcycle dealer,best
+dealership-management-systems,q4,what are the best alternatives to CDK Global,what
+dealership-management-systems,q5,what are the best alternatives to Reynolds and Reynolds,what
+dealership-management-systems,q6,what are the best alternatives to Dealertrack DMS,what
+dealership-management-systems,q7,"Tekion vs CDK, which DMS is better for a franchise dealer",tekion
+dealership-management-systems,q8,"DealerCenter vs Frazer for an independent lot, which should I pick",dealercenter
+dealership-management-systems,q9,what questions should I ask when choosing a dealership management system,what
+dealership-management-systems,q10,best DMS for a dealer group running a dozen rooftops,best
+dental-practice-management,q1,What is the best dental practice management software for a startup practice?,what
+dental-practice-management,q2,What is the best dental practice management software for a very small office?,what
+dental-practice-management,q3,What dental practice management software do most dentists recommend?,what
+dental-practice-management,q4,What are the best alternatives to Dentrix?,what
+dental-practice-management,q5,What are the best alternatives to Eaglesoft?,what
+dental-practice-management,q6,What are the best alternatives to Open Dental?,what
+dental-practice-management,q7,"Open Dental vs Dentrix, which is better?",open
+dental-practice-management,q8,"Dentrix vs Eaglesoft, which is better for my practice?",dentrix
+dental-practice-management,q9,What should I look for in dental practice management software?,what
+dental-practice-management,q10,What is the best dental PMS for a DSO with multiple locations?,what
+field-service-management,q1,what is the best field service software for a small HVAC company,what
+field-service-management,q2,best field service management software for a growing plumbing company with about 10 techs,best
+field-service-management,q3,best field service software for commercial mechanical and fire protection contractors,best
+field-service-management,q4,what are the best alternatives to ServiceTitan,what
+field-service-management,q5,what are the best alternatives to Housecall Pro,what
+field-service-management,q6,what are the best alternatives to Jobber for a home service business,what
+field-service-management,q7,"Jobber vs Housecall Pro for a plumbing business, which is better",jobber
+field-service-management,q8,"FieldEdge vs ServiceTitan, which one is worth the price",fieldedge
+field-service-management,q9,what should I look for when choosing field service management software,what
+field-service-management,q10,which field service software is best for a one person HVAC business,which
+hotel-property-management,q1,What is the best hotel PMS for a small independent hotel?,what
+hotel-property-management,q2,What is the best PMS for a boutique hotel?,what
+hotel-property-management,q3,What is the best hotel PMS for a mid size hotel group?,what
+hotel-property-management,q4,What are the best alternatives to Opera PMS?,what
+hotel-property-management,q5,What are the best alternatives to Cloudbeds?,what
+hotel-property-management,q6,What are the best alternatives to Maestro PMS?,what
+hotel-property-management,q7,"Mews vs Cloudbeds, which PMS is better?",mews
+hotel-property-management,q8,"Maestro PMS vs RoomKeyPMS, which is better for an independent hotel?",maestro
+hotel-property-management,q9,What should I look for in a hotel property management system?,what
+hotel-property-management,q10,What is the best PMS for a hotel group with eight properties?,what
+insurance-agency-management,q1,What is the best agency management system for a small independent P&C agency?,what
+insurance-agency-management,q2,What is the best agency management system for a growing commercial lines brokerage?,what
+insurance-agency-management,q3,What is the best agency management system for a life and health benefits agency?,what
+insurance-agency-management,q4,What are the best alternatives to EZLynx?,what
+insurance-agency-management,q5,What are the best alternatives to Applied Epic?,what
+insurance-agency-management,q6,What are the best alternatives to AgencyZoom?,what
+insurance-agency-management,q7,HawkSoft vs EZLynx: which agency management system is better?,hawksoft
+insurance-agency-management,q8,Applied Epic vs EZLynx: which one is worth the price?,applied
+insurance-agency-management,q9,What should I look for when choosing an agency management system?,what
+insurance-agency-management,q10,Which AMS should a new scratch agency with two producers start with?,which
+legal-practice-management,q1,what is the best legal practice management software for a solo attorney,what
+legal-practice-management,q2,what is the best practice management software for a small firm of 3 to 5 attorneys,what
+legal-practice-management,q3,what is the best case management software for a personal injury firm,what
+legal-practice-management,q4,what are the best alternatives to Clio for a solo attorney,what
+legal-practice-management,q5,what are the best alternatives to PracticePanther,what
+legal-practice-management,q6,what are the best alternatives to Smokeball,what
+legal-practice-management,q7,"Clio vs MyCase, which is better for a small firm",clio
+legal-practice-management,q8,CosmoLex vs Rocket Matter,cosmolex
+legal-practice-management,q9,what should I look for in law practice management software,what
+legal-practice-management,q10,best practice management platform for a mid-size litigation firm moving off on-premise software,best
+loan-origination-software,q1,What is the best loan origination software for a community bank?,what
+loan-origination-software,q2,What is the best loan origination software for a credit union?,what
+loan-origination-software,q3,What is the best mortgage LOS for a small broker shop?,what
+loan-origination-software,q4,What are the best alternatives to Encompass?,what
+loan-origination-software,q5,What are the best alternatives to MeridianLink?,what
+loan-origination-software,q6,What are the best alternatives to nCino?,what
+loan-origination-software,q7,MeridianLink vs nCino: which is better for a community bank?,meridianlink
+loan-origination-software,q8,Encompass vs Blend: which should a mortgage lender choose?,encompass
+loan-origination-software,q9,What should I look for when choosing a loan origination system?,what
+loan-origination-software,q10,Which loan origination platform fits a lender that funds commercial and specialty loans in house?,which
+radiology-medical-imaging,q1,What is the best PACS for a small imaging center?,what
+radiology-medical-imaging,q2,What is the best RIS for an outpatient imaging center?,what
+radiology-medical-imaging,q3,What is the most affordable PACS for a low volume imaging center?,what
+radiology-medical-imaging,q4,What are the best alternatives to Sectra PACS?,what
+radiology-medical-imaging,q5,What are the best alternatives to Intelerad for a teleradiology group?,what
+radiology-medical-imaging,q6,What are the best alternatives to Philips IntelliSpace PACS?,what
+radiology-medical-imaging,q7,"Sectra vs Visage Imaging, which PACS is better for a hospital system?",sectra
+radiology-medical-imaging,q8,"Visage vs Intelerad, which is better for a teleradiology firm?",visage
+radiology-medical-imaging,q9,What should I look for when choosing a new radiology PACS?,what
+radiology-medical-imaging,q10,What is the best RIS PACS for an imaging group with five locations?,what
+residential-property-management,q1,what is the best property management software for a small landlord,what
+residential-property-management,q2,best property management software for a portfolio of about 100 units,best
+residential-property-management,q3,best property management software for a growing property management company,best
+residential-property-management,q4,what are the best alternatives to AppFolio,what
+residential-property-management,q5,what are the best alternatives to Buildium,what
+residential-property-management,q6,what are the best alternatives to Azibo now that it shut down,what
+residential-property-management,q7,Buildium vs AppFolio for residential property managers,buildium
+residential-property-management,q8,Yardi Breeze vs Buildium for a small management company,yardi
+residential-property-management,q9,what should I look for in property management software,what
+residential-property-management,q10,best property management software for a landlord with 50 units,best
+transportation-management-systems,q1,What is the best TMS for a mid size freight brokerage?,what
+transportation-management-systems,q2,What is the best TMS for a small carrier with about 10 trucks?,what
+transportation-management-systems,q3,What is the best TMS for a large enterprise shipper?,what
+transportation-management-systems,q4,What are the best alternatives to MercuryGate?,what
+transportation-management-systems,q5,What are the best alternatives to AscendTMS?,what
+transportation-management-systems,q6,What are the best alternatives to McLeod for a freight broker?,what
+transportation-management-systems,q7,"AscendTMS vs Alvys, which is better for a small broker?",ascendtms
+transportation-management-systems,q8,"Truckbase vs Alvys, which TMS is better for carriers?",truckbase
+transportation-management-systems,q9,What should I look for in a transportation management system?,what
+transportation-management-systems,q10,What is the best TMS for a shipper moving about 200 loads a month?,what
+veterinary-practice-management,q1,what is the best veterinary practice management software for a new clinic,what
+veterinary-practice-management,q2,what is the best vet practice management software for a small 1 to 3 doctor practice,what
+veterinary-practice-management,q3,what is the best veterinary software for a large multi doctor hospital,what
+veterinary-practice-management,q4,what are the best alternatives to IDEXX Cornerstone,what
+veterinary-practice-management,q5,what are the best alternatives to ezyVet,what
+veterinary-practice-management,q6,what are the best alternatives to Covetrus Pulse,what
+veterinary-practice-management,q7,"ezyVet vs Cornerstone, which is better for a growing practice",ezyvet
+veterinary-practice-management,q8,Shepherd vs Digitail for a small animal clinic,shepherd
+veterinary-practice-management,q9,what should I look for in veterinary practice management software,what
+veterinary-practice-management,q10,best vet software for a multi location emergency hospital,best
+crm,1,What is the best CRM for a growing B2B sales team?,what
+crm,2,Which CRM is best for managing a complex sales pipeline?,which
+crm,3,What are the top CRM tools for a mid-market company?,what
+crm,4,What are good alternatives to a traditional CRM?,what
+crm,5,Which CRM options work well for a small sales team that is scaling?,which
+crm,6,What CRM should a revenue team consider when replacing spreadsheets?,what
+crm,7,How do the main CRM platforms compare for reporting and forecasting?,how
+crm,8,Which CRM approach is better for a team with multiple sales motions?,which
+crm,9,What should a buyer evaluate in a CRM?,what
+crm,10,How can a sales team use a CRM to improve handoffs and follow-up?,how
+project_management,1,What is the best project management software for a cross-functional team?,what
+project_management,2,Which project management platform is best for coordinating several concurrent client projects?,which
+project_management,3,What are the top project management tools for a mid-market organization?,what
+project_management,4,What are good alternatives to a spreadsheet-based project management process?,what
+project_management,5,Which project management options work well for a distributed team?,which
+project_management,6,What project management software should a services business consider when project visibility is poor?,what
+project_management,7,How do the main project management platforms compare for planning and resource coordination?,how
+project_management,8,Which project management approach is better for teams using both agile and structured planning?,which
+project_management,9,What should a buyer evaluate in project management software?,what
+project_management,10,How can a project team use project management software to improve delivery predictability?,how

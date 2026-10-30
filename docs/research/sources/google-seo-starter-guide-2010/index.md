@@ -42,7 +42,7 @@ The same care applies to the document’s examples. Its fictional baseball-card 
 | Google Website Optimizer, the standalone service | pp. 30 to 31 | 2012 | Google gave 1 August 2012 as the last day to access the standalone service and its experiment reports. The announcement introduced Analytics Content Experiments. |
 | AdWords Keyword Tool | p. 14 and its link on p. 15 | 2013 | Google’s May 2013 Keyword Planner announcement said the Keyword Tool and Traffic Estimator would be sunset in about 60 days. We do not manufacture a precise final day from that notice. |
 | Feature-phone Googlebot and related feature-phone sitemap/crawl tools | pp. 24 to 27 | 2016 | Google retired feature-phone crawling and associated tools. The announcement explicitly distinguishes smartphones. |
-| DMOZ/Open Directory Project snippet fallback and NOODP control | pp. 6 to 7 | 2017 | Google stopped using DMOZ listings for snippets after DMOZ closed; NOODP no longer had an effect. |
+| DMOZ/Open Directory Project snippet fallback and NOODP control | pp. 6 to 7 | 2017 | Google stopped using DMOZ listings for snippets after DMOZ ceased operating; NOODP no longer had an effect. |
 | HTML suggestions/content-analysis feature in old Webmaster Tools | pp. 6 and 30 | 2019 | Google’s migration announcement scheduled the old feature’s removal; it did not say clear titles and descriptions had become pointless. |
 | Preferred-domain setting in Search Console | p. 11 link and p. 30 | 2019 | Google removed this account setting and no longer used its existing configuration. Canonicalization still had other signals. |
 
@@ -52,7 +52,7 @@ The wording in the final column is deliberate. A replacement announced for a fut
 
 ## Which old names need a different label?
 
-Google Webmaster Tools was **renamed Search Console in 2015**. Calling that a product retirement would conceal continuity in the service. The present interface and available reports still need checking, but the old name alone is not evidence that the entire service closed. [Fink, 20 May 2015](https://developers.google.com/search/blog/2015/05/announcing-google-search-console-new).
+Google Webmaster Tools was **renamed Search Console in 2015**. Calling that a product retirement would conceal continuity in the service. The present interface and available reports still need checking, but the old name alone is not evidence that the entire service ended. [Fink, 20 May 2015](https://developers.google.com/search/blog/2015/05/announcing-google-search-console-new).
 
 The guide links to a Sitemap Generator hosted on Google Code. Google’s **2016** closure of that hosting service does not establish the retirement year of every individual script it hosted. We can substantiate the hosting event and identify the historical link. We cannot turn that into a verified claim about when the generator itself stopped being usable. [Google, 2010, p. 11; DiBona, 2015, Google Code closure notice](https://opensource.googleblog.com/2015/03/farewell-to-google-code.html).
 
