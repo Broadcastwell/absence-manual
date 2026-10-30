@@ -33,17 +33,47 @@ research_dataset:
 
 **Thirty-nine of 2,095 target answers had empty citation arrays: 1.9%, Wilson 95% interval 1.4% to 2.5% (Broadcastwell, 2026, Study 2).**
 
-**Thirty-nine of 2,095 valid target answers** had empty citation arrays: **1.9%**, descriptive **95% Wilson interval 1.4% to 2.5%**. The remaining answers supplied the URL occurrences used in this study. Empty arrays were retained in the answer count rather than silently omitted. [Absence Index release 2026-09; answer-bases table](https://doi.org/10.5281/zenodo.22907695).
-
-The question is descriptive: which publishers appear in the captured references, and how concentrated are those appearances? A reference does not prove that its page supports the answer, that its publisher is trustworthy or that a website feature caused selection. The study does not compare otherwise identical sources under a randomized change.
+A citation describes a source choice. It does not establish trust or causation. Rovira and colleagues call their own explanation for a historical search-order change "only an inference" (2019, §4); the same restraint belongs beside an observed distribution. [Rovira et al., 2019, §4](../../source-archives/rovira-2019.pdf).
 
 ## Registration and analysis history
 
-[OSF registration vczkt](https://doi.org/10.17605/OSF.IO/VCZKT) records the plan, with platform timestamp **30 October 2026, 01:32:03 UTC**. The published September archive existed before registration, and its aggregate release figures were already known. This is a registered secondary analysis of that archive, not a preregistered collection of previously unseen answers.
+[OSF registration vczkt](https://doi.org/10.17605/OSF.IO/VCZKT) records the plan, with platform timestamp **30 October 2026, 01:32:03 UTC**. The archive and its aggregate figures were already known; this is secondary analysis, not a preregistered collection of unseen answers.
 
 The plan originally required all three research-section registrations before analysis. A prospective timing amendment, recorded **30 October at 03:36:50 UTC**, permitted this completed registration to proceed while Study 1 awaited approval. No class rules, units or planned statistics changed in that amendment. The [deviation record](../../data/protocol-deviations.csv) preserves it. Study 1 subsequently became public; that does not retroactively erase the timing change.
 
 Host classes were frozen at **04:41:53 UTC**, before class-share aggregation. A later audit found classification errors. We preserve the frozen primary result and show the corrected sensitivity separately below. There is no directional hypothesis, no significance test and no claim of a representative sample of all software buying.
+
+## Registered protocol, unchanged
+
+This is the unchanged registered plan. Its timing clause is superseded only by the amendment above; the prior-knowledge statements describe registration time. [OSF VCZKT](https://doi.org/10.17605/OSF.IO/VCZKT).
+
+### Question and design
+
+> Which classes of sources do five AI answer engines cite for B2B software questions, and how concentrated are those citations? This is a descriptive secondary-data study, not an experiment, a test of source truth or a causal test of citation preference. There is no directional hypothesis.
+
+### Source and analysis timing
+
+> Use answers-2026-09.jsonl, release-2026-09.json and control-questions.json from the published Absence Index release 2026-09, version DOI 10.5281/zenodo.22907695. Check the published checksums. The archive was already public and its published aggregate figures are known. New host-class shares, concentration results and vendor-pair results have not been computed. Analysis begins only after all three research-section Study Plans have been registered.
+
+### Units and eligibility
+
+> A citation occurrence is an explicit URL entry in the archived cited_urls array, linked to its engine, category, question, repeat and capture date. Preserve each array entry and its order, including duplicate entries if present; flag duplicates and provide a sensitivity table with at most one exact URL per answer. Do not extract extra URLs from answer prose and silently count them as returned citations. Quarantine excluded answer rows with their recorded reasons; do not include them in the primary eligible-answer analysis. Show target and control questions separately and give a combined eligible-archive summary. Preserve valid answers with zero citations in an answer-level denominator, but they contribute zero occurrences to a citation-occurrence denominator. Retain malformed or non-HTTP URLs as unclassified audit rows rather than inventing a host.
+
+### Host classification
+
+> Lowercase the parsed hostname, remove an initial www., preserve other subdomains, and keep the original URL. Assign each host one class and publish the host-to-class table, evidence URL, rationale, verification date and any ambiguity. Freeze the table before aggregating class shares. Use these classes: vendor site; review platform; Wikipedia or sister project; news or trade media; agency, consultancy or blog; directory or listicle site; forum; video; government or standards body; other. A vendor is a domain in the release's canonical domain list or a documented software vendor in that category. The review-platform list initially includes g2.com, capterra.com, getapp.com, trustradius.com, softwareadvice.com and Gartner Peer Insights; any additions require public evidence. For a multifunction host such as Gartner, document which service the citation paths identify and apply one disclosed primary-role classification at host level, with an ambiguity flag. Wikipedia and sister-project domains form their own class. Reddit, Quora and Stack Exchange are forums; video-service hosts are video. Government and standards-body status requires an official source. News, agency/blog and directory classifications require visible publisher or site-purpose evidence; a list-format article does not automatically turn a software vendor into a directory. Unknown or conflicting cases remain other with an uncertainty flag. Do not classify a host solely from the wording of the AI answer. Never fetch restricted client domains. Any after-aggregation changes are deviations and receive a sensitivity analysis.
+
+### Statistics and finding rule
+
+> Report the numerator, citation-occurrence base, share and two-sided Wilson 95% interval for each class overall, by engine and by category. Report top twenty cited hosts overall and per engine, with counts and shares. Compute the share held by the ten highest-frequency hosts and by the highest-frequency ceiling(0.01 times H) hosts, where H is the number of distinct classified hosts with at least one eligible occurrence; use at least one host and break count ties alphabetically. State this rank-cut rule and the denominator. Publish a deduplicated-per-answer sensitivity table so repeated array entries cannot silently drive concentration. Strata and repeats are dependent; Wilson intervals are descriptive conditional on this archive and are not representative population estimates. No significance tests. A finding is any reproducible count, distribution or concentration statistic, including little concentration or no material class difference.
+
+### Vendor naming and citation
+
+> Use the release's published universe, aliases, qualifiers and matching rules. On valid target vendor-answer pairs within the vendor's category, record qualifying naming and qualifying own-domain citation separately. A citation is qualifying only when the answer names the vendor under the published matching rule and cites a canonical, alias or product host documented in the release. Report own-domain cited pairs and named-without-own-domain-citation pairs, with their bases, overall and by engine and category. Do not treat a third-party review page as a vendor's own-domain citation. Do not add private matching rules. Separately report the named-and-cited share among named pairs and the named-without-own-citation share among all eligible vendor-answer pairs; label denominators visibly.
+
+### Comparisons, limits and outputs
+
+> A comparison with Goel et al. (2010), Anatomy of the Long Tail, DOI 10.1145/1718487.1718513, is a parallel about concentration, not an equivalence between search clicks and AI citations. Verify any numerical comparator in the original before publication. Host class is a judgment and can be disputed using the published table. An engine-returned citation is not proof that its page supports the answer or caused the vendor to be selected. The Google AI Overviews and AI Mode citations are the citations returned on the archived capture dates. The question set is not representative of all software buying. Publish code, extraction and host-class CSVs, exact bases, zero-citation and exclusion audits, and all deviations. Do not claim to control or guarantee AI answers.
 
 ## Which answers enter the analysis?
 
@@ -61,23 +91,11 @@ The primary target analysis contains **18,893 explicit citation-array entries**.
 
 Source: [answer-bases CSV](../../data/answer-citation-bases.csv), target scope and all categories. The controls are separate in that file: **12/150** control answers have empty arrays, **8.0%**, descriptive **95% Wilson interval 4.6% to 13.5%**. They are not mixed into the target table.
 
-## A citation occurrence is not a unique document
+## What did the extraction audit find?
 
-Each original array entry retains its URL, engine, category, question, repeat, capture date and order. The primary count preserves occurrences. A separately computed sensitivity keeps no more than one exact URL per answer. This archive contains no within-answer exact duplicates, so that sensitivity reproduces the primary occurrence totals. No malformed or non-HTTP entries were found; the empty invalid-entry audit remains available. [Citation-occurrences and invalid-entry CSVs].
+There were no within-answer exact URL duplicates, so the registered deduplicated sensitivity gives the same occurrence totals. No malformed or non-HTTP entries were found. The empty invalid-entry audit remains available. [Citation-occurrences and invalid-entry CSVs].
 
-For host summaries, we lowercase the parsed hostname and remove a leading www. Other subdomains remain separate. Host concentration therefore differs from concentration by corporate owner. A citation to a review service’s editorial subdomain can be a different host from its product-review pages.
-
-All Wilson intervals are two-sided and descriptive, conditional on these archived observations. References share questions, repeats and answers; they are not independent draws from all future queries. We report counts and bases even when the observed proportion is zero.
-
-## How were publisher classes assigned?
-
-The registered classes are checked vendor site, review platform, Wikipedia or sister project, news or trade media, agency/consultancy/blog, directory or listicle, forum, video, government or standards body, and other. Malformed entries would receive a separate unclassified audit label while remaining in the occurrence denominator.
-
-Canonical vendor domains and documented subdomains use the release’s published record. Additional publisher-purpose evidence uses the publisher’s own accessible description. A list-shaped article does not automatically make its host a directory. A software feature for collecting reviews does not automatically make the vendor a review platform. Unknown, blocked or conflicting evidence remains other, with an ambiguity flag.
-
-Purpose descriptions are evidence of what a publisher says it does, not independent verification of every claim on the site. The public host table provides the evidence URL, rationale, verification date and ambiguity for each host. It omits copied marketing excerpts. Primary response hashes document the collected source evidence without publishing raw HTML.
-
-The vendor inventory is conservative. It includes the release’s checked vendors and documented additional category vendors; it does not establish a complete census of every vendor on the web. In particular, other is not equivalent to nonvendor.
+The public host table supplies each host's class, evidence URL, rationale, verification date and ambiguity. Copied publisher excerpts are omitted; response fingerprints retain their identity. This conservative inventory does not make other equivalent to nonvendor or claim a complete census of software publishers.
 
 ## What did the frozen primary classification produce?
 
@@ -98,7 +116,7 @@ The vendor inventory is conservative. It includes the release’s checked vendor
 | unclassified URL entry | 0 / 18,893 | 0.000% (0.000% to 0.020%) |
 
 
-Source: [primary class-share CSV](../../data/citation-class-shares.csv), all-array-entries variant, target scope, all engines and categories. The download includes **each engine, each category and their joint strata**, with counts, bases and intervals, plus separate control and combined summaries. Other is the largest class, which substantially limits any claim about the complete source mix.
+Source: [primary class-share CSV](../../data/citation-class-shares.csv), all-array-entries variant, target scope, all engines and categories. The complete download includes **engine, category and joint strata**, plus separate control and combined results, each with its count, base and interval. Other remains the largest class.
 
 ## What changed after the publisher-purpose audit?
 
@@ -106,13 +124,13 @@ The post-audit table changes five host roles: SourceForge, SoftwareReviews and C
 
 In that sensitivity, review-platform entries are **1,706/18,893**, **9.0%**, descriptive **95% Wilson interval 8.6% to 9.4%**, compared with the frozen **1,663/18,893**, **8.8%**, interval **8.4% to 9.2%**. The underlying citation entries do not change. [Post-audit shares](../../data/citation-class-shares-post-audit.csv).
 
-Both classification versions also provide an ambiguity sensitivity that assigns flagged hosts to other. The primary and corrected results answer slightly different classification questions; neither warrants a universal trust hierarchy. Corrections after aggregation are explicitly exploratory, as required by the registration.
+Both versions also recode flagged hosts to other as an ambiguity sensitivity. The after-aggregation corrections remain exploratory; neither version creates a universal trust hierarchy.
 
 ## How concentrated are the hosts?
 
 The target record contains **1,896 distinct normalized hosts**. Its leading ten supply **3,192/18,893 entries**, **16.9%**, descriptive **95% Wilson interval 16.4% to 17.4%**. The highest-frequency ceiling of one percent is **19 hosts**, supplying **4,107/18,893**, **21.7%**, interval **21.2% to 22.3%**. Host-count ties are broken alphabetically. [Concentration CSV, target/all/all rows].
 
-The [top-twenty table](../../data/top-twenty-hosts.csv) reports overall and engine-specific hosts with counts and shares. G2’s exact host is the overall leading host, with **580/18,893**, **3.1%**, interval **2.8% to 3.3%**. These are citation occurrences, not clicks, unique users or the portion of answers whose reasoning depended on that host. The [source-choice insight](../../insights/who-the-engines-trust/) discusses the engine-specific concentration table.
+The [top-twenty table](../../data/top-twenty-hosts.csv) reports overall and engine-specific hosts with counts and shares. G2’s exact host is the overall leading host, with **580/18,893**, **3.1%**, interval **2.8% to 3.3%**. The [source-choice insight](../../insights/who-the-engines-trust/) discusses the engine-specific concentration table; these counts do not measure clicks or unique users.
 
 ## Naming a vendor is different from citing its own site
 
@@ -120,7 +138,7 @@ Using the September matching definition and its accompanying public dictionary p
 
 Of **8,085 named pairs**, **2,608** have a qualifying own-domain citation: **32.3%**, descriptive **95% Wilson interval 31.2% to 33.3%**. Separately, **5,477/42,792 eligible pairs** are named without an own-domain citation: **12.8%**, interval **12.5% to 13.1%**. Those are deliberately different denominators. A third-party review reference does not count as the vendor’s own source. [Vendor-pair summary and reconciliation CSVs].
 
-You can inspect the engine and category breakdowns in the downloads. The result does not mean the remaining named pairs lacked every source, or that a missing own-domain link caused a commercial disadvantage. It records what the saved answer said and cited under the published matching definition.
+A pair without a qualifying own-domain citation may still have a third-party source. The table supplies the narrower event, with engine and category breakdowns available.
 
 ## Can another reader reproduce the tables?
 
@@ -128,7 +146,7 @@ The release deposit supplies the immutable answers and question files. The [publ
 
 The public analysis accepts explicit input paths and an expected classification-file hash. The public host CSV is a projection of the frozen table with copied publisher prose removed; class and ambiguity values are identical. Its hash differs from the original frozen evidence file, and the manifest preserves both identities. [Citation analysis](../../data/analyze_citations.py); [pair reproduction](../../data/reproduce_vendor_pairs.mjs).
 
-The main unresolved issue is classification coverage. More primary publisher evidence could resolve some other entries, while changed sites could make today’s labels less suitable for the September citation dates. The URL archive preserves the observation; a later fetch does not recover the page exactly as it existed when the answer was captured.
+Classification coverage remains unresolved. Further publisher evidence could clarify some other entries, but a later fetch cannot recover each cited page exactly as it was when the answer was captured.
 
 ## What our own data shows
 
@@ -136,6 +154,7 @@ This study reanalyses [release 2026-09](https://doi.org/10.5281/zenodo.22907695)
 
 ## Sources
 
+- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. §4, reprint PDF p. 60. doi:10.3390/fi11090202 . [Accessible original](../../source-archives/rovira-2019.pdf) Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Broadcastwell. (2026). Who do AI engines cite for B2B software questions? [Registration]. OSF. Registered 30 October 2026, 01:32:03 UTC. https://doi.org/10.17605/OSF.IO/VCZKT Verified 30 October 2026.
 - Broadcastwell. (2026). September matching definition and dictionary projection [Study instruments]. https://docs.broadcastwell.com/research/data/study2-reproduction.txt . The public package supplies the required function and dictionary fields. Verified 30 October 2026.
@@ -158,7 +177,7 @@ Broadcastwell research team. (2026, October 30). *Who appears in the sources of 
 
 Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 
