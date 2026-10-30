@@ -89,7 +89,7 @@ The eligible archive contains **20,190 citation occurrences** and **6,271 distin
 
 Apply the first matching rule to captured HTML:
 
-| Order | First applicable condition | Class |
+| # | First applicable condition | Class |
 | --- | --- | --- |
 | 1 | Wikipedia or listed sister project | definitely not optimized (stipulated) |
 | 2 | Listed plugin, qualifying structured data, frozen news host or advertising signature | definitely optimized |
