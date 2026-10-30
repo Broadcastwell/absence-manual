@@ -19,9 +19,9 @@ is_based_on: https://doi.org/10.3390/fi11090202
 
 # Search ordering needs a date and a configuration
 
-**August covered four engines; September covered five. These are dated standings, not a controlled trend (Broadcastwell, 2026, release READMEs).**
+**August’s four engines and September’s five define different pooled configurations, so these are dated standings rather than a controlled trend (Broadcastwell, 2026, release READMEs).**
 
-Web of Science produced an unexpectedly citation-like ordering during **20 to 25 May 2019**, according to Rovira and colleagues. Their explanation that the service was testing a different relevance order was an inference, not an operator-confirmed experiment. [Rovira et al., 2019, §4](https://doi.org/10.3390/fi11090202).
+Web of Science produced an unexpectedly citation-like ordering during **20 to 25 May 2019**, according to Rovira and colleagues. Their explanation that the service was testing a different relevance order was an inference, not an operator-confirmed experiment. [Rovira et al., 2019, §4](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf).
 
 Our August and September Index tables illustrate a related comparison problem. The August observation used **four engines**; September used **five**, adding Google AI Mode. Both used fixed category questions and repeated observations, but the pooled configurations differ. We state that before placing their standings side by side.
 
@@ -37,7 +37,7 @@ The authors describe their testing explanation as “only an inference.” That 
 
 The historical service comparison also contains a trap for contemporary advice. Microsoft Academic is among the systems in the paper. A result from that historical comparison should not become an instruction to optimize for a service without checking its present status. A paper's date belongs to the finding as much as its coefficient does.
 
-## Configuration before the standings
+## Which configurations produced the standings?
 
 | Observation | August release 2026-08.1 | September release 2026-09 |
 |---|---|---|
@@ -50,7 +50,7 @@ The historical service comparison also contains a trap for contemporary advice. 
 
 Sources: [August deposit](https://doi.org/10.5281/zenodo.22721962), corrected README and release JSON; [September deposit](https://doi.org/10.5281/zenodo.22907695), README and release JSON. Excluded answers reduce the eligible base. They are not vendor misses. The comparison uses vendor naming, preserving the outcome label across these displayed columns.
 
-## Selected CRM observations
+## What do the dated CRM observations contain?
 
 Each cell contains named count / valid target base, percentage and descriptive 95% Wilson interval. These are snapshots with shared questions and dependent answers, not independent market estimates.
 
@@ -64,7 +64,7 @@ Each cell contains named count / valid target base, percentage and descriptive 9
 
 The interval beside a zero is worth retaining. No naming in the captured sample is an observation, while permanent invisibility is a much broader claim. A larger eligible base can alter the interval even when the observed count stays at zero.
 
-## Selected project-management observations
+## What do the dated project-management observations contain?
 
 | Checked vendor | August 2026-08.1 | September 2026-09 |
 |---|---|---|
@@ -88,7 +88,7 @@ The Web of Science paper helps because its authors kept both the empirical obser
 
 Our registered persistence plan requires an additional eligible release and a comparable consecutive-release pair. It specifies the common vendor set and valid-answer bases before calculating transition rates. The current two-release display cannot substitute for those conditions. [OSF registration](https://doi.org/10.17605/OSF.IO/MKJ9V).
 
-Even a comparable pair would describe persistence within its chosen questions and checked vendors. It would not prove why a vendor remained absent or present. Causal attribution to an intervention would require another design and another evidentiary claim.
+Even a comparable pair would describe persistence within its chosen questions and checked vendors. The cause would remain unresolved. Causal attribution to an intervention would require another design and another evidentiary claim.
 
 For your own reporting, keep a definition table next to the chart. Identify engine set, buyer questions, repeats, exclusions, product identity and outcome. A naming measure should not quietly become a citation measure halfway through the series. If a condition changes, retain the old observation and label the new one.
 
@@ -100,7 +100,7 @@ The [complete dated-standings CSV](../../data/dated-standings.csv) places the de
 
 ## Sources
 
-- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. https://doi.org/10.3390/fi11090202 Verified 30 October 2026.
+- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. doi:10.3390/fi11090202 . [Accessible original](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf) Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-08.1 [Data set]. Zenodo. Release files and README. https://doi.org/10.5281/zenodo.22721962 Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Broadcastwell. (2026). Does absence persist from one release to the next? [Registration]. OSF. Registered 30 October 2026, 01:12:44 UTC. https://doi.org/10.17605/OSF.IO/MKJ9V Verified 30 October 2026.
@@ -123,7 +123,9 @@ Broadcastwell research team. (2026, October 30). *Search ordering needs a date a
 
 Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

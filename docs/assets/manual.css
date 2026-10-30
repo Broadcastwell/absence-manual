@@ -212,3 +212,12 @@ html{scroll-padding-top:96px}
   .md-typeset table:not([class]) td a,.md-typeset table:not([class]) td code{overflow-wrap:anywhere}
   .bw-next-step{padding:16px}
 }
+
+/* Research references and BibTeX must remain readable inside the phone column. */
+.md-content:has(.bw-research-content){min-width:0}
+.bw-research-content{min-width:0;max-width:100%;overflow-wrap:anywhere}
+.bw-research-content pre{max-width:100%;overflow-x:auto}
+.bw-research-content pre code{white-space:pre-wrap;overflow-wrap:anywhere}
+.bw-research-content .bw-own-data{margin:32px 0;padding:20px;border:1px solid #93C5FD;border-radius:12px;background:#EFF6FF;min-width:0}
+.bw-research-content .bw-own-data h2{margin-top:0}
+.bw-research-footer{padding-inline:16px}

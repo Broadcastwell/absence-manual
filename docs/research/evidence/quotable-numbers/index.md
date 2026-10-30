@@ -39,11 +39,11 @@ The usable number is often less sweeping than the familiar headline. A source ma
 
 This ledger provides wording that can travel with a figure. It does not upgrade a paper's design or convert a reported association into an intervention effect. You can follow the source location to the original and use the linked data tables to inspect our descriptive reanalyses.
 
-Rovira and colleagues called their proposed explanation for a change in scholarly search ordering “only an inference.” That short qualification belongs beside the result, not on a page the reader is unlikely to open. [Rovira et al., 2019, §4](https://doi.org/10.3390/fi11090202).
+Rovira and colleagues called their proposed explanation for a change in scholarly search ordering “only an inference.” That short qualification belongs beside the result, not on a page the reader is unlikely to open. [Rovira et al., 2019, §4](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf).
 
 [Download this ledger as CSV](../../data/quotable-numbers.csv). Its rows preserve the wording, source location, unit and unavailable uncertainty rather than inventing counts from rounded source percentages.
 
-## External findings: use the complete wording
+## Which external findings can you quote?
 
 | Finding | Wording suitable for quotation | Location and limit |
 |---|---|---|
@@ -56,7 +56,7 @@ Rovira and colleagues called their proposed explanation for a change in scholarl
 
 The last row corrects the metric rather than validating a universal marketing promise. The abstract's “up to 40%” and the table's 41% summary have different presentation precision; retain the exact table location if using the latter. Do not combine them into an invented probability.
 
-## September repeat disagreement
+## How often do repeated answers disagree?
 
 The following rates count complete vendor-question-engine groups. A group is mixed if the vendor was named in some, but not all, of its three valid target repeats. All intervals are descriptive 95% Wilson intervals; dependent observations prevent treating them as independent population trials.
 
@@ -71,7 +71,7 @@ The following rates count complete vendor-question-engine groups. A group is mix
 
 Primary: [September release DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695), engine_presence counts. Reanalysis dated 30 October 2026. [CSV with category breakdowns](../../data/repeat-disagreement.csv). The 108 incomplete Google AI Overviews groups are omitted from this complete-repeat measure. Uniform absence counts as agreement, so the statistic is not an engine-quality score.
 
-## Named examples from the vendor record
+## Which vendors illustrate low measured presence?
 
 | Observation in release 2026-09 | Count / valid target answers | Percentage and descriptive 95% Wilson interval |
 |---|---:|---|
@@ -81,13 +81,13 @@ Primary: [September release DOI 10.5281/zenodo.22907695](https://doi.org/10.5281
 
 Source: the same deposit, relevant category's vendor mention_rate fields. [Full checked-vendor CSV](../../data/vendor-presence.csv). Naming can include multiple vendors per answer. These figures describe the fixed questions and engines; they measure neither product quality nor commercial market share.
 
-## The naming and own-source distinction
+## Does being named mean the vendor’s own site was cited?
 
 The September publisher aggregates contain **8,085 named vendor-answer pairs**, of which **2,608** carry a qualifying own-domain citation: **32.3%**, descriptive **95% Wilson interval 31.2% to 33.3%**. A pair combines one checked vendor and one eligible answer. Multiple pairs can arise from the same answer. [Derived counts and category table](../../data/vendor-naming-citation.csv).
 
 These are summaries of the deposited publisher aggregates. The qualifying-name dictionary is not included in that deposit, so this table is not an independent reproduction of the individual citation verdicts. It does not mean that every remaining pair lacked a source of any kind; an answer can cite a third party.
 
-## Choosing a number for your own page
+## How should you choose a number to quote?
 
 Use the row whose outcome matches your sentence. A naming figure cannot support a statement about source ownership. A historical search-position figure cannot establish the behavior of every AI engine. A study's proposed mechanism should remain labelled as an explanation or inference unless the design tested it directly.
 
@@ -101,10 +101,10 @@ The unresolved question is which future observations will remain comparable. The
 
 ## Sources
 
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
-- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. https://doi.org/10.3390/fi11090202 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
+- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. doi:10.3390/fi11090202 . [Accessible original](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf) Verified 30 October 2026.
 - Dean, B. (2018, February 28). We analyzed 10,000 Google Home results. Here's what we learned about voice search SEO. Backlinko. https://backlinko.com/voice-search-seo-study Verified 30 October 2026.
-- Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative engine optimization. KDD 2024. https://doi.org/10.1145/3637528.3671900 . Author manuscript v3: https://arxiv.org/html/2311.09735v3 Verified 30 October 2026.
+- Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative engine optimization. KDD 2024. doi:10.1145/3637528.3671900 . [Accessible original](https://arxiv.org/html/2311.09735v3) . Author manuscript v3: https://arxiv.org/html/2311.09735v3 Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
 - Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts: Source workbooks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3381151 . Google Scholar one-term title-restricted workbook, Full1 B2:B1001 and C:AA. Verified 30 October 2026.
@@ -127,7 +127,9 @@ Broadcastwell research team. (2026, October 30). *Quotable numbers, with their o
 
 Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

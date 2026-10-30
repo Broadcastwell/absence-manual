@@ -98,10 +98,9 @@ document.addEventListener("DOMContentLoaded", function () {
   "datePublished": page.meta.get("date_published", "") | string,
   "dateModified": page.meta.get("date_modified", "") | string,
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "isBasedOn": page.meta.get("is_based_on", "") | string,
-  "proficiencyLevel": "Expert",
-  "dependencies": "None. This page requires no login, no form and no JavaScript."
+  "isBasedOn": page.meta.get("is_based_on", "") | string
 } %}
+{% if page.meta.get("schema_type") == "TechArticle" %}{% set article = dict(article, **{"proficiencyLevel": "Expert", "dependencies": "None. This page requires no login, no form and no JavaScript."}) %}{% endif %}
 {% if page.meta.get("image") %}{% set article = dict(article, **{"image": (config.site_url ~ page.meta.get("image")) | string}) %}{% endif %}
 {% if page.meta.get("learning_resource") %}{% set article = dict(article, **{"author": org, "creator": org, "dependencies": "No login required. Guides and downloads are readable without JavaScript; interactive exercises require JavaScript."}) %}{% endif %}
 <script type="application/ld+json">{{ article | tojson }}</script>
@@ -165,5 +164,15 @@ document.addEventListener("DOMContentLoaded", function () {
   {% if page.next_page %}<a href="{{ page.next_page.url | url }}" rel="next">Next: {{ page.next_page.title }}</a>{% endif %}
 </nav>
 {% endif %}
+{% if page and page.meta.get("page_class") == "research" %}
+<footer class="bw-footer bw-research-footer">
+  <div class="md-grid">
+    <p>Broadcastwell research. Broadcastwell is excluded from its own sample and every ranking.</p>
+    <p>Copyright 2026 Broadcastwell LLC. <a href="https://broadcastwell.com/privacy">Privacy</a> <a href="https://broadcastwell.com/terms">Terms</a> <a href="https://broadcastwell.com/cookies">Cookies</a></p>
+    <p>Last updated <time datetime="{{ page.meta.get('updated')[:10] }}">{{ page.meta.get('updated')[:10] }}</time>. Next review {{ page.meta.get('next_review')[:10] }}.</p>
+  </div>
+</footer>
+{% else %}
 {% include "partials/site-footer.html" %}
+{% endif %}
 {% endblock %}

@@ -68,7 +68,7 @@ Exact hostnames are the unit for concentration after lowercasing and removing a 
 
 ## Wikipedia’s older result answers a different question
 
-Lewandowski, Sünkler and Yagci found **1,974 Wikipedia results** in their Google result sample. **27% of those Wikipedia results** were at position one and **79.3%** in the top ten. The denominator is Wikipedia’s own results. It is not the set of every first-position Google result. [Lewandowski et al., 2021, §5, PDF p. 7, printed p. 18](https://doi.org/10.1145/3447535.3462479).
+Lewandowski, Sünkler and Yagci found **1,974 Wikipedia results** in their Google result sample. **27% of those Wikipedia results** were at position one and **79.3%** in the top ten. The denominator is Wikipedia’s own results. It is not the set of every first-position Google result. [Lewandowski et al., 2021, §5, PDF p. 7, printed p. 18](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf).
 
 That historical comparison concerns Google result positions for selected German-language queries. Our table concerns saved reference arrays for B2B-software answers. The small Wikipedia count in our sample cannot establish a loss of general authority, a change in Google’s behavior or a reduced role in model training. Those questions require other populations and measurements.
 
@@ -90,7 +90,7 @@ The tables above are a descriptive reanalysis of [Absence Index release 2026-09]
 
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Broadcastwell. (2026). Who do AI engines cite for B2B software questions? [Registration]. OSF. Registered 30 October 2026, 01:32:03 UTC. https://doi.org/10.17605/OSF.IO/VCZKT Verified 30 October 2026.
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
 - Goel, S., Broder, A., Gabrilovich, E., & Pang, B. (2010). Anatomy of the long tail: Ordinary people with extraordinary tastes. WSDM, pp. 201 to 210. §3.2, pageview distribution. https://doi.org/10.1145/1718487.1718513 . Author copy: https://sites.santafe.edu/~aaronc/courses/7000/readings/Goel_Broder_Gabrilovich_Pang_10_AnatomyOfTheLongTail_OrdinaryPeopleWithExtraordinaryTastes.pdf Verified 30 October 2026.
 
 ## Cite this page
@@ -111,7 +111,9 @@ Broadcastwell research team. (2026, October 30). *A citation is an observed sour
 
 Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

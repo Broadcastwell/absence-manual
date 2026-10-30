@@ -21,7 +21,7 @@ is_based_on: https://doi.org/10.1145/3447535.3462479
 
 **Among 256,853 Google result URLs, the study identified optimization signals rather than causal benefits (Lewandowski et al., 2021, Figure 1).**
 
-The paper's central result concerns what a searcher could encounter: optimization signals were common across the Google results the researchers could retrieve. It did not measure the extra traffic or ranking benefit a business would get from installing a plugin. [Lewandowski, Sünkler and Yagci, 2021, abstract and §§3 to 6](https://doi.org/10.1145/3447535.3462479).
+The paper's central result concerns what a searcher could encounter: optimization signals were common across the Google results the researchers could retrieve. It did not measure the extra traffic or ranking benefit a business would get from installing a plugin. [Lewandowski, Sünkler and Yagci, 2021, abstract and §§3 to 6](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf).
 
 That distinction matters if you are reading the paper to decide what to change on a software website. A feature can be widespread among returned pages without being sufficient to get your page returned. The study observes the selected results. It does not include a randomized comparison of otherwise identical pages with and without each feature.
 
@@ -103,7 +103,7 @@ The September 2026 release contains 2,095 valid target answers after five target
 
 ## Sources
 
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
 ## Cite this page
@@ -124,7 +124,9 @@ Broadcastwell research team. (2026, October 30). *Lewandowski, Sünkler and Yagc
 
 Prepared by the Broadcastwell research team. Lead: Arjun Mehta, management consultant.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

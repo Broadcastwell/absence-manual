@@ -39,7 +39,7 @@ We place the Index beside the literature to identify comparisons worth making, n
 | Google’s original-research guidance | Advice for publishers | Public evidence can be organized with clear units, dates and inspectable records | Guidance does not provide a guaranteed citation or commercial return |
 | The restaurant-review chapters | Selected review corpora and a designed synthesis application | The citation archive records review-platform hosts beside vendor and other sources | Restaurant source selection does not establish the objectivity of all B2B reviews |
 
-Primary locations: [Lewandowski, §5 and Figure 1](https://doi.org/10.1145/3447535.3462479); [Rovira, Table 2 and §4](https://doi.org/10.3390/fi11090202); [Ziakis, Table 2](https://doi.org/10.3390/fi11020032); [university study, Table 9](https://doi.org/10.3390/fi11110242); Whalen interview, printed pp. 447 to 449; [Google helpful-content guidance](https://developers.google.com/search/docs/fundamentals/creating-helpful-content). The restaurant distinction is documented in the [review-platform analysis](../review-platforms-as-the-objective-source/).
+Primary locations: [Lewandowski, §5 and Figure 1](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf); [Rovira, Table 2 and §4](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf); [Ziakis, Table 2](https://docs.broadcastwell.com/research/source-archives/ziakis-2019.pdf); [university study, Table 9](https://docs.broadcastwell.com/research/source-archives/giannakoulopoulos-2019.pdf); Whalen interview, printed pp. 447 to 449; [Google helpful-content guidance](https://developers.google.com/search/docs/fundamentals/creating-helpful-content). The restaurant distinction is documented in the [review-platform analysis](../review-platforms-as-the-objective-source/).
 
 ## Start with an observation, then ask what could explain it
 
@@ -95,10 +95,10 @@ The pair, repeat and named-vendor figures above come from [September version DOI
 
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-08.1 [Data set]. Zenodo. Release files and README. https://doi.org/10.5281/zenodo.22721962 Verified 30 October 2026.
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
-- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. https://doi.org/10.3390/fi11090202 Verified 30 October 2026.
-- Ziakis, C., Vlachopoulou, M., Kyrkoudis, T., & Karagkiozidou, M. (2019). Important factors for improving Google search rank. Future Internet, 11(2), 32. https://doi.org/10.3390/fi11020032 Verified 30 October 2026.
-- Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Is there a correlation? Future Internet, 11(11), 242. https://doi.org/10.3390/fi11110242 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
+- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. doi:10.3390/fi11090202 . [Accessible original](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf) Verified 30 October 2026.
+- Ziakis, C., Vlachopoulou, M., Kyrkoudis, T., & Karagkiozidou, M. (2019). Important factors for improving Google search rank. Future Internet, 11(2), 32. doi:10.3390/fi11020032 . [Accessible original](https://docs.broadcastwell.com/research/source-archives/ziakis-2019.pdf) Verified 30 October 2026.
+- Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Is there a correlation? Future Internet, 11(11), 242. doi:10.3390/fi11110242 . [Accessible original](https://docs.broadcastwell.com/research/source-archives/giannakoulopoulos-2019.pdf) Verified 30 October 2026.
 - Ledford, J. L. (2009). SEO: Search engine optimization bible (2nd ed.). Wiley. Jill Whalen interview, printed pp. 447 to 449 (PDF pp. 469 to 471). ISBN 978-0-470-45264-6. https://books.google.com/books?vid=ISBN9780470452646 Verified 30 October 2026.
 - Google Search Central. (2026). Creating helpful, reliable, people-first content. https://developers.google.com/search/docs/fundamentals/creating-helpful-content Verified 30 October 2026.
 - Broadcastwell. (2026). Who do AI engines cite for B2B software questions? [Registration]. OSF. Registered 30 October 2026, 01:32:03 UTC. https://doi.org/10.17605/OSF.IO/VCZKT Verified 30 October 2026.
@@ -122,7 +122,9 @@ Broadcastwell research team. (2026, October 30). *What the Absence Index can com
 
 Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

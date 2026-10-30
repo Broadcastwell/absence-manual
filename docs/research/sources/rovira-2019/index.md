@@ -21,7 +21,7 @@ is_based_on: https://doi.org/10.3390/fi11090202
 
 **Rovira’s two-term Google Scholar correlations are 0.721 unrestricted and 0.994 title-restricted; they compare aggregated ranks (2019, Table 2).**
 
-Restricting the search to titles changes the comparison substantially. Rovira and colleagues report Google Scholar coefficients of 0.721 for unrestricted two-term searches and 0.994 for title-restricted two-term searches. Neither coefficient is a probability that a paper will be cited. [Rovira et al., 2019, Table 2](https://doi.org/10.3390/fi11090202).
+Restricting the search to titles changes the comparison substantially. Rovira and colleagues report Google Scholar coefficients of 0.721 for unrestricted two-term searches and 0.994 for title-restricted two-term searches. Neither coefficient is a probability that a paper will be cited. [Rovira et al., 2019, Table 2](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf).
 
 The distinction is easy to lose because this is a study about citations and visibility. Its citations are academic citations already received by scholarly documents. Its visibility outcome is relevance ordering in scholarly search systems. It does not observe a software vendor's appearance in an AI-generated answer.
 
@@ -103,7 +103,7 @@ Our corrected August and September Index releases share CRM and project-manageme
 
 ## Sources
 
-- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. https://doi.org/10.3390/fi11090202 Verified 30 October 2026.
+- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. doi:10.3390/fi11090202 . [Accessible original](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf) Verified 30 October 2026.
 - Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts: Deposited search-result workbooks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3381151 . Nine original XLSX files, read without saving or recalculating. Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-08.1 [Data set]. Zenodo. Release files and README. https://doi.org/10.5281/zenodo.22721962 Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
@@ -127,7 +127,9 @@ Broadcastwell research team. (2026, October 30). *Rovira and colleagues: citatio
 
 Prepared by the Broadcastwell research team. Lead: Arjun Mehta, management consultant.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 
