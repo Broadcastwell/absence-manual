@@ -19,7 +19,7 @@ is_based_on: https://doi.org/10.3390/fi11090202
 
 # Search ordering needs a date and a configuration
 
-**Two visibility snapshots collected under different engine configurations do not establish a trend.**
+**August covered four engines; September covered five. These are dated standings, not a controlled trend (Broadcastwell, 2026, release READMEs).**
 
 Web of Science produced an unexpectedly citation-like ordering during **20 to 25 May 2019**, according to Rovira and colleagues. Their explanation that the service was testing a different relevance order was an inference, not an operator-confirmed experiment. [Rovira et al., 2019, §4](https://doi.org/10.3390/fi11090202).
 

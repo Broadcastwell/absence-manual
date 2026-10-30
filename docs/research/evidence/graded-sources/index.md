@@ -19,7 +19,7 @@ is_based_on: https://doi.org/10.1145/3447535.3462479
 
 # Twenty-one source documents, graded by what they support
 
-**A collection’s publisher does not give every chapter the same evidentiary strength.**
+**Lewandowski’s classifier labels 29.0% of 256,853 sampled Google result URLs probably optimized, retaining uncertainty (Lewandowski et al., 2021, Figure 1).**
 
 The supplied collection contains **21 physical PDF documents**, with duplicated editions and multi-article volumes. It does not contain 21 independent empirical studies. The inventory below counts files; the grading tables separate the works and uses inside them.
 
@@ -57,8 +57,8 @@ The [evidence standard](../../standard/) defines the scale. Grade A permits a sc
 
 | Article | Grade | Design boundary and permitted use |
 |---|---|---|
-| Rovira, Codina, Guerrero-Solé and Lopezosa, 2019, Ranking by Relevance and Citation Counts | A for the defined historical comparison | Scholarly relevance ordering compared with citation-based rank summaries, with accessible data. Explain the median-by-position analysis and search restrictions. It is not a study of software citations in AI answers. DOI 10.3390/fi11090202. |
-| Giannakoulopoulos, Konstantinou, Koutsompolis, Pergantis and Varlamis, 2019, Academic Excellence, Website Quality, SEO Performance | B | Composite researcher-defined quality and audit measures. Their correlation with academic standing is not a measured correlation with search positions or traffic. DOI 10.3390/fi11110242. |
+| Rovira, Codina, Guerrero-Solé and Lopezosa, 2019, Ranking by Relevance and Citation Counts | A for the defined historical comparison | Scholarly relevance ordering compared with citation-based rank summaries, with accessible data. Explain the median-by-position analysis and search restrictions. One deposited median range omits two query columns; using all 25 changes the affected rounded coefficient from 0.990 to 0.991. The other eight configurations reproduce at three decimals. It is not a study of software citations in AI answers. DOI 10.3390/fi11090202. |
+| Giannakoulopoulos, Konstantinou, Koutsompolis, Pergantis and Varlamis, 2019, Academic Excellence, Website Quality, SEO Performance | B | Composite researcher-defined quality and audit measures. Their correlation with academic standing is not a measured correlation with search positions or traffic. The printed SEO sign, two-sided significance value and one regression F value do not reproduce from the deposited results; retain those discrepancies beside any disputed figure. DOI 10.3390/fi11110242. |
 | Ziakis, Vlachopoulou, Kyrkoudis and Karagkiozidou, 2019, Important Factors for Improving Google Search Rank | C | Small exploratory search-result sample and average correlations below the paper's own stated inference threshold. Use as an evidence-reading example, not a ranking prescription. DOI 10.3390/fi11020032. |
 | Giomelakis, Karypidou and Veglis, 2019, SEO Inside Newsrooms | C for generalized effects; descriptive context only | Interviews with selected Greek newsroom practitioners describe their work. They do not identify the causal effect of SEO on traffic or represent newsrooms generally. DOI 10.3390/fi11120261. |
 | Karyotakis, Lamprou, Kiourexidou and Antonopoulos, 2019, SEO Practices: A Study about the Way News Websites Allow Users to Comment | C for SEO-effect claims | A walkthrough records commenting facilities on selected news websites. Those counts do not measure a ranking or citation benefit from comments. DOI 10.3390/fi11090188. |
@@ -86,7 +86,7 @@ We have no measurement on this point: this selected collection is not a represen
 
 ## Sources
 
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
 - Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. https://doi.org/10.3390/fi11090202 Verified 30 October 2026.
 - Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Is there a correlation? Future Internet, 11(11), 242. https://doi.org/10.3390/fi11110242 Verified 30 October 2026.
 - Ziakis, C., Vlachopoulou, M., Kyrkoudis, T., & Karagkiozidou, M. (2019). Important factors for improving Google search rank. Future Internet, 11(2), 32. https://doi.org/10.3390/fi11020032 Verified 30 October 2026.
@@ -95,6 +95,10 @@ We have no measurement on this point: this selected collection is not a represen
 - Xanthopoulou, P., Kavoura, A., Sahinidis, A., & Antoniadis, I. (2024). Communicating corporate social responsibility in an era of disruption: A study of Greek companies participating in Corporate Responsibility Index (CRI). In Strategic innovative marketing and tourism (pp. 631 to 639). Springer. Figure 4, p. 636. https://doi.org/10.1007/978-3-031-51038-0_68 Verified 30 October 2026.
 - Usmany, P., Rachmawati, R., Rembe, E., Sopacua, F., Santosa, T. A., Arifin, A. H., Fitria, A., & Suhardi. (2024). The effectiveness of search engine optimization (SEO) in marketing: A meta-anlysis study. COSTING, 7(5), 807 to 811. Supplied original PDF. Journal: https://journal.ipm2kpe.or.id/index.php/COSTING . Individual included-study identities are not recoverable from its results table. Verified 30 October 2026.
 - Ahmad, U. F., Mahdee, J., & Abu Bakar, N. (2024). Search engine optimisation (SEO) strategy as determinants to enhance the online brand positioning (version 2). F1000Research, 11, 714. https://doi.org/10.12688/f1000research.73382.2 Verified 30 October 2026.
+
+- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts: Source workbooks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3381151 . Google Scholar one-term title-restricted workbook, Full1 B2:B1001 and C:AA. Verified 30 October 2026.
+
+- Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Deposited spreadsheets [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3484673 . Results Sheet1, C3:C102 and H3:H102; Table 9 and regression check. Verified 30 October 2026.
 
 ## Cite this page
 

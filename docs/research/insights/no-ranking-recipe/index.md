@@ -19,7 +19,7 @@ is_based_on: https://doi.org/10.3390/fi11020032
 
 # Why nobody can give you a ranking recipe
 
-**A correlation between a page feature and search position does not tell you what changing that feature will do.**
+**Ziakis’s exploratory Google study used 45 URLs; its correlations do not identify causal ranking effects (Ziakis et al., 2019, §4).**
 
 The strongest average association in Ziakis and colleagues' exploratory ranking table was SSL certification, with a Spearman coefficient of **−0.3371**. Their stated threshold for making stronger assumptions was an absolute coefficient above **0.5**. No factor's average cleared that threshold. [Ziakis et al., 2019, §2 and Table 2; collected April 2018](https://doi.org/10.3390/fi11020032).
 

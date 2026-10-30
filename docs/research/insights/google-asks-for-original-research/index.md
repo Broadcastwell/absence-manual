@@ -19,7 +19,7 @@ is_based_on: https://static.googleusercontent.com/media/www.google.com/en//webma
 
 # Google itself asks for original research
 
-**Google’s recommendation to publish original research is guidance, not a measured promise that research will earn rankings or AI citations.**
+**Google recommends original research without promising a ranking gain or an AI citation (Google Search Central, helpful-content guidance, checked 30 October 2026).**
 
 Google's **2010** SEO Starter Guide explicitly suggested that a publisher could “write an original piece of research.” The surrounding passage concerns compelling, useful content that readers may recommend. It does not attach a measured ranking gain to that action. [Google, 2010, printed p. 14](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf).
 

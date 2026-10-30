@@ -19,7 +19,7 @@ is_based_on: https://arxiv.org/html/2311.09735v3
 
 # Numbers we could not verify, and claims the originals correct
 
-**A statistic can survive source checking while the sentence built around it fails.**
+**GEO’s reported 41% improvement concerns position-adjusted word-count visibility, not citation probability (Aggarwal et al., 2024, Table 1).**
 
 The **41%** GEO claim has a real ancestor, but “citation probability” is the wrong outcome. Aggarwal and colleagues' Table 1 describes improvement in a **position-adjusted word-count visibility metric**, with a separate subjective-impression measure. It is not a measured probability that a business will be cited. [Aggarwal et al., 2024, author manuscript v3, Table 1](https://arxiv.org/html/2311.09735v3).
 
@@ -52,10 +52,16 @@ Uberall's release also distinguishes its readiness score from real-world return 
 | Organic converts three to one over paid | Kuehn interview, SEO Bible, 2009 | A practitioner's recollection is not a recoverable comparative conversion study. Attribution can preserve testimony; it cannot turn the ratio into a general fact. |
 | Up to 70% of searches happen on destination sites | Hoppe interview in SEO Bible, citing IDC | The underlying IDC study and its population have not been recovered here. No current or general rate is asserted. |
 | SEO has higher long-run ROI as a measured finding | Singh and Kesarwani, IJRPR 2025 | The supplied paper discusses the comparison but does not present an auditable outcome dataset establishing that claim. The leftover phrase “next point same instructions” appears on printed p. 4132, PDF p. 4; it is an editorial defect, not proof of research fraud. |
-| Historical position click rates, including 30/16/10 and 32.5/17.6/11.4 | Secondary citations in the 2019 reprint and later reviews | The underlying studies and dates must be identified. The legacy Chitika route did not yield the original report in this check. Secondary charts are insufficient for a current first-position click-rate claim. |
-| Voice behavior percentages attributed to Microsoft's 2019 report | Anttila and related secondary accounts | The original Microsoft landing URL now redirects to a general insights page, and the legacy report-file route was unavailable. This review has not verified a report-specific figure from a recovered primary copy. |
+| A historical traffic share is the share of searchers who never leave page one | Secondary retellings of Chitika, 2013 | The recovered primary report measures Google referral traffic visible through Chitika ad impressions, not unique users or all searches. Its Figure 2 prints 91.5% for page one, while its prose rounds to 92%. Methods: May 21 to 27, 2013, US and Canada, network coverage only. The blanket user-behavior claim remains withheld. |
+| Voice survey percentages describe the share of all search queries | Anttila and related secondary accounts citing Microsoft, 2019 | A recovered primary copy reports respondents and selected activities, not query traffic. Its methods describe two surveys; the summary’s 69% digital-assistant usage and usage page’s 72% are not accompanied by a figure-specific base mapping that permits us to combine them. Those historical survey figures do not establish present query shares. |
 
-“Unavailable” describes this check, not every possible archive. If you have an original report with its method and tables, the status can change. Until then, a polished replacement citation would only disguise the missing evidence.
+We initially could not retrieve the legacy Chitika and Microsoft routes. The primary reports have since been opened in archive mirrors, so those availability objections are withdrawn. Their narrower populations and units remain essential. Chitika gives no exact study impression count from which we could reconstruct a Wilson interval; Microsoft does not map each headline to a recoverable response base. Neither report licenses a present-day population rate.
+
+## Deposited calculations that did not reproduce
+
+Rovira’s one-term title-restricted Google Scholar workbook takes medians over 23 query columns while the described design has 25. Including the omitted theory and variable columns changes 456 of 1,000 position medians and the rounded correlation from 0.990 to 0.991. The other eight reported configurations reproduce at three decimals. [Rovira data, 2019, Full1 B2:B1001 and C:AA](https://doi.org/10.5281/zenodo.3381151).
+
+The university paper prints a negative SEO-rank correlation and p = 0.333; its deposited 100 rows produce rho = +0.04382 and a conventional two-sided approximation p = 0.6651. Its website-quality regression gives F(1,98) = 7.4898 from the data, rather than the printed 7.04. These are reproducibility discrepancies, not evidence of intent; the weak SEO association remains nonsignificant. [Giannakoulopoulos data, 2019, Results Sheet1; paper Table 9 and regression section](https://doi.org/10.5281/zenodo.3484673).
 
 ## Rules that the supplied evidence does not establish
 
@@ -74,7 +80,7 @@ Uberall's release also distinguishes its readiness score from real-world return 
 | Earlier interpretation | What the original actually supports |
 |---|---|
 | The 48.4%, 27% and 31% prose shares contradict the optimization figure | They describe **news-content shares**. We withdraw the proposed contradiction; they are not alternative “probably optimized” values. Lewandowski et al., §4 and Figure 1. |
-| Wikipedia held 27% of every first-position result | The stated base is Wikipedia's **1,974 results**; 27% of those were at position 1 and 79.3% were in the top ten. The reversed denominator is unsupported. Lewandowski et al., §4.2. |
+| Wikipedia held 27% of every first-position result | The stated base is Wikipedia's **1,974 results**; 27% of those were at position 1 and 79.3% were in the top ten. The reversed denominator is unsupported. Lewandowski et al., §5. |
 | Google results were simply 88% optimized | The figure separates 59.0% definitely and 29.0% probably optimized, with 12.0% in the combined negative group. Retain the uncertainty labels, source year and sample. |
 | Wikipedia's rounded prose share and its stated result count can be combined without qualification | The prose's 0.7% does not directly reconcile with 1,974 / 256,853. We retain the explicit count for the position statement and do not invent an exact numerator from the rounded share. |
 
@@ -92,9 +98,17 @@ We have no measurement on this point: the number of unsupported claims in this s
 - Baye, M. R., De los Santos, B., & Wildenbeest, M. R. (2016). Search engine optimization: What drives organic traffic to retail sites? Journal of Economics & Management Strategy, 25(1), 6 to 31. https://doi.org/10.1111/jems.12141 Verified 30 October 2026.
 - Usmany, P., Rachmawati, R., Rembe, E., Sopacua, F., Santosa, T. A., Arifin, A. H., Fitria, A., & Suhardi. (2024). The effectiveness of search engine optimization (SEO) in marketing: A meta-anlysis study. COSTING, 7(5), 807 to 811. Supplied original PDF. Journal: https://journal.ipm2kpe.or.id/index.php/COSTING . Individual included-study identities are not recoverable from its results table. Verified 30 October 2026.
 - Ahmad, U. F., Mahdee, J., & Abu Bakar, N. (2024). Search engine optimisation (SEO) strategy as determinants to enhance the online brand positioning (version 2). F1000Research, 11, 714. https://doi.org/10.12688/f1000research.73382.2 Verified 30 October 2026.
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
 - Ziakis, C., Vlachopoulou, M., Kyrkoudis, T., & Karagkiozidou, M. (2019). Important factors for improving Google search rank. Future Internet, 11(2), 32. https://doi.org/10.3390/fi11020032 Verified 30 October 2026.
 - Ledford, J. L. (2009). SEO: Search engine optimization bible (2nd ed.). Wiley. Jill Whalen interview, printed pp. 447 to 449 (PDF pp. 469 to 471). ISBN 978-0-470-45264-6. https://books.google.com/books?vid=ISBN9780470452646 Verified 30 October 2026.
+
+- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts: Source workbooks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3381151 . Google Scholar one-term title-restricted workbook, Full1 B2:B1001 and C:AA. Verified 30 October 2026.
+
+- Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Deposited spreadsheets [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3484673 . Results Sheet1, C3:C102 and H3:H102; Table 9 and regression check. Verified 30 October 2026.
+
+- Chitika Insights. (2013, June 7). The value of Google result positioning. Methods, printed pp. 2 to 4; Figure 2, printed p. 7. Primary report recovered from an archive mirror: https://www.silesiasem.pl/wp-content/uploads/2013/07/chitikainsights-valueofgoogleresultspositioning.pdf . Verified 30 October 2026.
+
+- Microsoft. (2019). Voice report: From answers to action. Methods, printed p. 6; usage, printed p. 8. Primary report recovered from an archive mirror: https://ppc.world/uploads/article_images/2019/07/study/bingads_2019voicereport.pdf . Verified 30 October 2026.
 
 ## Cite this page
 

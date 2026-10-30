@@ -19,7 +19,7 @@ is_based_on: https://doi.org/10.5281/zenodo.22907695
 
 # One rank number was already a fiction in 2009
 
-**A vendor’s presence can differ between repeats of the same question on the same engine, even before you compare engines.**
+**Mixed naming occurred in 1,259/14,192 complete repeat groups: 8.9%, Wilson 95% interval 8.4% to 9.4% (Broadcastwell, 2026, September engine_presence counts).**
 
 The September answers disagreed about vendor naming in **1,259 of 14,192 complete vendor-question-engine groups**. Each group contains the same vendor, one fixed question and one engine, observed in three valid repeats: **8.9%**, descriptive **95% Wilson interval 8.4% to 9.4%**. [September release](https://doi.org/10.5281/zenodo.22907695), engine_presence fields; [derived table](../../data/repeat-disagreement.csv).
 

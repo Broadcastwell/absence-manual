@@ -19,7 +19,7 @@ is_based_on: https://doi.org/10.5281/zenodo.22907695
 
 # Familiar brands can have low measured presence
 
-**A familiar company name does not guarantee inclusion in the captured answers to a particular set of buyer questions.**
+**Dynamics 365 appeared in 36/150 CRM answers: 24.0%, Wilson 95% interval 17.9% to 31.4% (Broadcastwell, 2026, September CRM vendor table).**
 
 Microsoft Dynamics 365 was named in **36 of 150 valid CRM answers** in the September release: **24.0%**, descriptive **95% Wilson interval 17.9% to 31.4%**. That observation concerns the release's fixed CRM questions and engines. It is not a judgment of the product, a measure of revenue or a claim about all conversations. [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695), CRM vendor table.
 
@@ -46,7 +46,7 @@ We also retain product names. “Oracle Construction and Engineering” and “O
 
 ## The university paper asks a different question
 
-Giannakoulopoulos and colleagues studied websites belonging to the **100 highest-ranked universities** in the Academic Ranking of World Universities. They compared academic standing with researcher-defined website-quality and SEO-performance rankings. Their Table 9 reports Spearman rho **0.35** for website quality and **−0.044** for the SEO-performance ranking. The latter's reported significance value is **0.333**. [Giannakoulopoulos et al., 2019, Table 9](https://doi.org/10.3390/fi11110242).
+Giannakoulopoulos and colleagues studied websites belonging to the **100 highest-ranked universities** in the Academic Ranking of World Universities. They compared academic standing with researcher-defined website-quality and SEO-performance rankings. Their Table 9 reports Spearman rho **0.35** for website quality and **−0.044** for the SEO-performance ranking. The latter's reported significance value is **0.333**. A check of the authors' deposited 100-row results gives a positive rank coefficient of **+0.04382**, rather than the printed negative sign, and a conventional two-sided approximation of **p = 0.6651**. The sign and test value do not reproduce; both versions describe a weak, nonsignificant association. [Original deposited results](https://doi.org/10.5281/zenodo.3484673), Sheet1, C3:C102 and H3:H102, checked 30 October 2026. These are reported and recomputed values, not a fresh audit of university websites. [Giannakoulopoulos et al., 2019, Table 9](https://doi.org/10.3390/fi11110242).
 
 The paper's nearby prose prints the first coefficient as 0.355; the table rounds it to 0.35. We identify the table value rather than silently treating the two precisions as separate findings. These are correlation coefficients, not percentages of universities. No count-based Wilson interval applies.
 
@@ -87,6 +87,8 @@ The named examples can prompt investigation, but they cannot diagnose a cause. T
 The examples above come from [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695), not a new survey of brand strength. [Download all checked vendor counts, bases and Wilson intervals](../../data/vendor-presence.csv). We have no measurement on this point: the effect of displaying an Index Verified badge on later naming or citation has not been established.
 
 ## Sources
+
+- Giannakoulopoulos et al. (2019). Results - Academic Excellence and Web Presence Correlation [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3484673 . Sheet1, rows 3 to 102. Verified 30 October 2026.
 
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Is there a correlation? Future Internet, 11(11), 242. https://doi.org/10.3390/fi11110242 Verified 30 October 2026.

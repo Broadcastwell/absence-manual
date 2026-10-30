@@ -20,6 +20,9 @@ research_dataset:
   description: Source-bounded external findings and descriptive reanalyses of Absence Index release 2026-09. The
     linked CSVs specify their units, counts and bases.
   distribution:
+  - name: Quotable numbers ledger
+    contentUrl: https://docs.broadcastwell.com/research/data/quotable-numbers.csv
+    encodingFormat: text/csv
   - name: Repeat disagreement
     contentUrl: https://docs.broadcastwell.com/research/data/repeat-disagreement.csv
     encodingFormat: text/csv
@@ -30,7 +33,7 @@ research_dataset:
 
 # Quotable numbers, with their original boundaries
 
-**Keep the population, date and metric in the same sentence as the number.**
+**Of 14,192 complete September vendor-question-engine groups, 1,259 showed mixed naming: 8.9% (Wilson 95% interval 8.4% to 9.4%; Broadcastwell, 2026, release counts).**
 
 The usable number is often less sweeping than the familiar headline. A source may establish a historical answer length, an experimental visibility score or a dated vendor-naming rate. Those are useful observations when their labels remain intact.
 
@@ -38,16 +41,18 @@ This ledger provides wording that can travel with a figure. It does not upgrade 
 
 Rovira and colleagues called their proposed explanation for a change in scholarly search ordering “only an inference.” That short qualification belongs beside the result, not on a page the reader is unlikely to open. [Rovira et al., 2019, §4](https://doi.org/10.3390/fi11090202).
 
+[Download this ledger as CSV](../../data/quotable-numbers.csv). Its rows preserve the wording, source location, unit and unavailable uncertainty rather than inventing counts from rounded source percentages.
+
 ## External findings: use the complete wording
 
 | Finding | Wording suitable for quotation | Location and limit |
 |---|---|---|
 | Observable optimization signals in a Google result sample | Lewandowski et al.'s 2021 paper classified 59.0% of 256,853 Google result URLs as definitely optimized, 29.0% as probably optimized and 12.0% in its combined negative group. | Figure 1, PDF p. 6, printed p. 17. Selected German-language query sample, not all Google results; classifications do not identify a causal optimization effect. Rounded shares do not supply recoverable integer numerators or count-based intervals. |
-| Wikipedia result positions | Among the paper's 1,974 Wikipedia results, 27% appeared at position 1 and 79.3% in the top ten. | Lewandowski et al., §4.2, PDF p. 7, printed p. 18. The denominator is Wikipedia results. Do not describe this as Wikipedia's share of all first positions. Rounded shares; exact position counts and intervals are not reconstructed. |
-| Scholarly relevance ordering | Rovira et al. report Google Scholar median-rank correlations of 0.968 and 0.721 for unrestricted one-term and two-term searches, and 0.990 and 0.994 with title restriction. | 2019, Table 2, reprint PDF p. 56. Correlation across position-wise median summaries from selected scholarly searches, not AI-answer citation probability. Coefficients are not proportions. |
+| Wikipedia result positions | Among the paper's 1,974 Wikipedia results, 27% appeared at position 1 and 79.3% in the top ten. | Lewandowski et al., §5, PDF p. 7, printed p. 18. The denominator is Wikipedia results. Do not describe this as Wikipedia's share of all first positions. Rounded shares; exact position counts and intervals are not reconstructed. |
+| Scholarly relevance ordering | Rovira et al. report Google Scholar median-rank correlations of 0.968 and 0.721 for unrestricted one-term and two-term searches, and 0.990 and 0.994 with title restriction. The one-term title-restricted workbook omits two query columns: using all 25 gives 0.991 after rounding rather than the reported 0.990. | 2019, Table 2, reprint PDF p. 56. Correlation across position-wise median summaries from selected scholarly searches, not AI-answer citation probability. Coefficients are not proportions. |
 | A temporary observed Web of Science ordering | The study reports a citation-like Web of Science ordering during 20 to 25 May 2019; Table 2 gives 0.907 for that collection and −0.075 for the other collection. | Rovira et al., Table 2 and §4. Operator testing is the authors' inference. The historical observation does not establish the present system's behavior. |
 | Historical voice-answer length | Backlinko's 2018 study of 10,000 Google Home results reported an average spoken-answer length of 29 words. | Original study, answer-length section. Vendor study, historical system and selected sample. This is answer length, not query length or a universal content target; distribution-level uncertainty is unavailable. |
-| GEO experiment | Aggarwal et al.'s 2024 Table 1 reports a best improvement of 41% in position-adjusted word-count visibility and 28% in subjective impression under its experimental conditions. | Author manuscript v3, Table 1. Relative improvement in specified metrics; neither number is a business's probability of being cited, traffic uplift or conversion gain. No binomial base applies to these metric improvements. |
+| GEO experiment | Aggarwal et al.'s 2024 Table 1 reports a best improvement of 41% in position-adjusted word-count visibility and 28% in subjective impression under its experimental conditions. | Author manuscript v3, Table 1, 1,000-query test split with fixed supplied sources. The separate 200-query Perplexity experiment also constrained the source files. Relative improvement in specified metrics; neither number is a business's probability of being cited, traffic uplift or conversion gain. No binomial base applies to these metric improvements. |
 
 The last row corrects the metric rather than validating a universal marketing promise. The abstract's “up to 40%” and the table's 41% summary have different presentation precision; retain the exact table location if using the latter. Do not combine them into an invented probability.
 
@@ -96,11 +101,13 @@ The unresolved question is which future observations will remain comparable. The
 
 ## Sources
 
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
 - Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. https://doi.org/10.3390/fi11090202 Verified 30 October 2026.
 - Dean, B. (2018, February 28). We analyzed 10,000 Google Home results. Here's what we learned about voice search SEO. Backlinko. https://backlinko.com/voice-search-seo-study Verified 30 October 2026.
 - Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative engine optimization. KDD 2024. https://doi.org/10.1145/3637528.3671900 . Author manuscript v3: https://arxiv.org/html/2311.09735v3 Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
+
+- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts: Source workbooks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3381151 . Google Scholar one-term title-restricted workbook, Full1 B2:B1001 and C:AA. Verified 30 October 2026.
 
 ## Cite this page
 
