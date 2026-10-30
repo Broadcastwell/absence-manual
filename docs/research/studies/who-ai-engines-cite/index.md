@@ -140,7 +140,7 @@ Of **8,085 named pairs**, **2,608** have a qualifying own-domain citation: **32.
 
 A pair without a qualifying own-domain citation may still have a third-party source. The table supplies the narrower event, with engine and category breakdowns available.
 
-## Can another reader reproduce the tables?
+## Can you reproduce the tables?
 
 The release deposit supplies the immutable answers and question files. The [public reproduction package](../../data/study2-reproduction.txt) supplies the matching function and a field-limited dictionary CSV. [Download the extraction](../../data/citation-occurrences.csv), [answer audit](../../data/answer-citation-audit.csv), [exclusions](../../data/excluded-answers.csv), [host classes](../../data/host-classes.csv), [pair observations](../../data/vendor-pairs.csv) and [pair summaries](../../data/vendor-pair-summary.csv). The [file manifest](../../data/study2-file-manifest.csv) records hashes and roles.
 
