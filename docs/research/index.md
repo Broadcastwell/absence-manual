@@ -54,7 +54,7 @@ You can use these pages to find a defensible claim, inspect a familiar statistic
 
 Registration preserves a plan. It does not mean a result exists or that a study has passed peer review. Completed descriptive tables from an existing release are identified separately from these registered studies.
 
-Read the original-study reviews of [Lewandowski and colleagues](sources/lewandowski-2021/) and [Rovira and colleagues](sources/rovira-2019/), including the latter’s deposited calculation discrepancy. The [Index against the literature](insights/index-against-the-literature/) compares their questions without treating different outcomes as interchangeable. The [crawler log](studies/ai-crawler-log/) is a separate, bounded public-request record; it does not establish citation.
+Read the original-study reviews of [Lewandowski and colleagues](sources/lewandowski-2021/) and [Rovira and colleagues](sources/rovira-2019/), including the latter’s deposited calculation discrepancy. The [Index against the literature](insights/index-against-the-literature/) asks what these comparisons permit. The outcome still matters. The [crawler log](studies/ai-crawler-log/) is a separate, bounded public-request record; it does not establish citation.
 
 ## Take a number with its boundary
 

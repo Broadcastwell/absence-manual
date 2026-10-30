@@ -39,11 +39,13 @@ Collection was enabled on **30 October 2026 at 05:35:37 UTC**. The first stored 
 
 ## What does the log cover?
 
+This is an ongoing operational log, separate from the three registered answer studies. Its method and coverage boundaries are published here.
+
 The collection covers known public HTML routes on **index.broadcastwell.com**, for successful GET or HEAD responses only. It excludes unknown paths, form submissions, non-HTML assets and unsuccessful responses. The hostname and response rules also exclude preview deployments. The set of public routes is fixed from the published site’s HTML paths, rather than accepting arbitrary private-looking request paths.
 
 The log does not cover docs.broadcastwell.com, app.broadcastwell.com, other company surfaces or activity that never reaches the observed routes. A service can use cached information, an outside index or a different public page without producing an event here. An unanswered or blocked request falls outside the successful-response record and must not be interpreted as a confirmed absence of crawling.
 
-Only four observation fields are stored: timestamp, public path, sanitized user-agent string and a yes/no match to the declared AI-request tokens. Query strings, request bodies, cookies and addresses are not stored. The initial sanitizer removed email and IPv4 strings. A reserved-address test later showed that IPv6 strings were retained. A corrected sanitizer is supplied with the public collection instrument; the synthetic test does not establish that an actual visitor address was stored. The initial collection therefore cannot be described as guaranteeing removal of every address form. The public releases contain aggregates rather than raw visitor strings.
+Only four observation fields are stored: timestamp, public path, sanitized user-agent string and a yes/no match to the declared AI-request tokens. Query strings, request bodies, cookies and addresses are not stored. The initial sanitizer removed email and IPv4 strings. A reserved-address test later showed that IPv6 strings were retained. The corrected sanitizer is now deployed and supplied with the public collection instrument; the synthetic test does not establish that an actual visitor address was stored. The initial collection therefore cannot be described as guaranteeing removal of every address form. The public releases contain aggregates rather than raw visitor strings.
 
 There is a **4,000-observation ceiling per UTC day**. A separate daily counter records whether that ceiling was reached. A capped day is incomplete and must be labelled as such in subsequent tables. The ceiling, missing coverage and logging failures cannot be converted into zero visits for the unobserved period. [Public collection instrument](../../data/research-crawler-collection.mjs), verified 30 October 2026. Its corrected sanitizer is distinguished from the initial production version.
 
@@ -59,19 +61,19 @@ The base includes other automated requests as well as any ordinary browser traff
 
 ## Which agent strings are recognized?
 
-| Request token | Documented role | In this log’s AI-match group? |
-|---|---|---|
-| GPTBot | Training-related crawl | yes |
-| OAI-SearchBot | Search for ChatGPT | yes |
-| ChatGPT-User | User-initiated retrieval, not automatic crawl | yes |
-| ClaudeBot | Training-related crawl | yes |
-| Claude-SearchBot | Search-related crawl | yes |
-| Claude-User | User-initiated retrieval | yes |
-| PerplexityBot | Search crawl | yes |
-| Perplexity-User | User-initiated retrieval | yes |
-| Googlebot | General Google Search crawl; not specific evidence of AI use | no |
-| bingbot | General Bing crawl; not specific evidence of AI use | no |
-| Applebot | Apple search-related crawl; AI use cannot be inferred per request | no |
+| Request token or control | Documented role | In the AI-match group? | Verified |
+|---|---|---|---|
+| [GPTBot](https://developers.openai.com/api/docs/bots) | Training-related crawl | yes | 30 October 2026 |
+| [OAI-SearchBot](https://developers.openai.com/api/docs/bots) | Search for ChatGPT | yes | 30 October 2026 |
+| [ChatGPT-User](https://developers.openai.com/api/docs/bots) | User-initiated retrieval, not automatic crawl | yes | 30 October 2026 |
+| [ClaudeBot](https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler) | Training-related crawl | yes | 30 October 2026 |
+| [Claude-SearchBot](https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler) | Search-related crawl | yes | 30 October 2026 |
+| [Claude-User](https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler) | User-initiated retrieval | yes | 30 October 2026 |
+| [PerplexityBot](https://docs.perplexity.ai/docs/resources/perplexity-crawlers) | Search crawl | yes | 30 October 2026 |
+| [Perplexity-User](https://docs.perplexity.ai/docs/resources/perplexity-crawlers) | User-initiated retrieval | yes | 30 October 2026 |
+| [Googlebot](https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers) | General Google Search crawl; not specific evidence of AI use | no | 30 October 2026 |
+| [bingbot](https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0) | General Bing crawl; not specific evidence of AI use | no | 30 October 2026 |
+| [Applebot](https://support.apple.com/en-us/119829) | Apple search-related crawl; AI use cannot be inferred per request | no | 30 October 2026 |
 
 Definitions personally checked **30 October 2026** against the operator pages in Sources. [Machine-readable agent table](../../data/crawler-agent-definitions.csv). Token matching uses boundaries, rather than accepting an arbitrary longer word containing a familiar bot name. The group is a declared measurement definition, not an exhaustive list of every present or future automated agent.
 
@@ -131,7 +133,7 @@ Broadcastwell research team. (2026, October 30). *The AI crawler log begins with
 
 Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

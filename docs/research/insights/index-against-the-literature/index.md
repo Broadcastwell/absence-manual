@@ -122,7 +122,7 @@ Broadcastwell research team. (2026, October 30). *What the Absence Index can com
 
 Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 
