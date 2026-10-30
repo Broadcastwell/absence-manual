@@ -93,7 +93,7 @@ Google’s link guidance says, “Good anchor text is descriptive, reasonably co
 
 We have no measurement on this point: the causal citation effect of these site-structure changes. The Index’s archived answers can identify which URLs were visibly cited on stated dates. They do not expose every retrieval step or establish that a breadcrumb, slug or response code caused selection.
 
-We have no controlled measurement of the citation effect of these site-structure changes. Their immediate purpose is to keep public pages reachable, understandable and accurately identified.
+No causal effect was measured. Their immediate purpose is to keep public pages reachable, understandable and accurately identified.
 
 ## Sources
 

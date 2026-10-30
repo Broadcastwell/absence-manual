@@ -75,7 +75,7 @@ Keep the main answer, table labels, source list and date visible without requiri
 
 Use structured data to describe the visible content accurately. It cannot rescue a missing argument or supply a real-world result that the page does not establish. Google says the fundamentals of SEO remain relevant for its AI features and that no special additional optimization is necessary. That guidance concerns Google’s features, not every AI service. [Google Search Central, AI features and your website](https://developers.google.com/search/docs/appearance/ai-features).
 
-Before release, read the title, opening sentence and figure caption consecutively. If they describe three different outcomes, repair the wording. Then follow the source links and check that each lands on the intended original.
+Before release, read the title, opening sentence and figure caption consecutively. Repair mismatched wording. Then follow the source links and check that each lands on the intended original.
 
 ## Date the evidence and define the next check
 

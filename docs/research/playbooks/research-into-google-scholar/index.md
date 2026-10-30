@@ -39,7 +39,7 @@ Put the paper’s title prominently on its first page, with authors beneath it a
 
 Use consistent bibliographic metadata across the landing page, PDF and repository deposit. A title that differs substantially between those surfaces makes the identity harder to check. Author order and publication date should describe the same work rather than a mixture of an old manuscript and a later dataset.
 
-Review the exported PDF itself. Copy a passage to check that the text is recoverable, inspect tables for cut-off labels and follow its references. A browser preview that looks polished can still conceal a poor text layer. Avoid making the reader choose between a legible page and an inspectable source.
+Review the exported PDF itself. Copy a passage to check that the text is recoverable, inspect tables for cut-off labels and follow its references. A browser preview that looks polished can still conceal a poor text layer. Keep the source inspectable.
 
 ## Give crawlers a simple route to the work
 
