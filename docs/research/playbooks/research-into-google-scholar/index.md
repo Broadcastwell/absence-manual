@@ -72,7 +72,7 @@ When a record distinguishes a version DOI from a concept or record-family DOI, u
 
 For Broadcastwell’s worked example, the [September Index version](https://doi.org/10.5281/zenodo.22907695) contains the release and archived answers used by the research pages. The [August version](https://doi.org/10.5281/zenodo.22721962) identifies a different release and configuration. Their DOI identities do not make them interchangeable experimental conditions.
 
-## Learn the right lesson from the academic-search study
+## Keep academic-search ranking separate from inclusion
 
 Rovira’s comparison is about ordering in academic search systems, not ordinary web rankings or inclusion in Dataset Search. Its stronger title-restricted association does not mean repeating a title keyword generates citations. The query restriction changes which results are being compared. [Rovira et al., 2019, methods and Table 2].
 
@@ -87,6 +87,8 @@ After publishing, test the public URLs and metadata. Then search for the exact t
 An absent result on a single check means inclusion was not observed in that search at that time. It does not prove a permanent rejection or diagnose the cause. Recheck the relevant guidelines and technical access, preserve the observation and allow for processing rather than repeatedly changing the title without evidence.
 
 Report the states separately: deposited, publicly accessible, metadata validated, found in the relevant discovery service and cited by another work. Each requires its own evidence. That separation leaves the research record useful even while indexing remains unconfirmed.
+
+Google Scholar says, “Each paper must have its own unique URL”. That requirement concerns the discoverable paper itself; it does not turn a catalogue entry or a dataset description into a scholarly article. [Google Scholar, Inclusion guidelines, “Preparing article URLs”; verified 30 October 2026].
 
 ## What our own data shows
 
@@ -121,7 +123,7 @@ Broadcastwell research team. (2026, October 30). *How can research become discov
 
 Prepared by the Broadcastwell research team. Lead: Daniel Kim, AI engineer.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 
