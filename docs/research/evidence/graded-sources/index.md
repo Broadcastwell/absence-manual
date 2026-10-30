@@ -27,7 +27,7 @@ Our grades describe what a source can support in this section. They are not a ra
 
 The [evidence standard](../../standard/) defines the scale. Grade A permits a scoped empirical result; B requires its material limit beside the claim; C is used for a documented evidence problem or descriptive framing; D is outside this section's substantive question. Neither A nor B is permission to make a causal claim from an observational design.
 
-## The physical-document inventory
+## What are the 21 physical source documents?
 
 | Document in the supplied collection | Grade for this section | Reason and permitted use |
 |---|---|---|
@@ -49,7 +49,7 @@ The [evidence standard](../../standard/) defines the scale. Grade A permits a sc
 | Singh and Kesarwani, 2025, Study on SEO vs. Paid Advertising: Which Strategy Yields Better ROI?, IJRPR 6(4) | C | The supplied article does not provide an auditable comparative ROI outcome dataset. An editorial prompt fragment on printed p. 4132 is a specific defect, not proof of the authors' intent. |
 | Rane and Parmar, 2023, A Brief Study on Search Engine Optimization Strategies, AJEEE special issue | C | Descriptive overview and insufficiently traceable references; no primary outcome analysis establishes its general performance assertions. |
 | Ch Bala Raju, 2019, Search Engine Optimization: A Digital Marketing Giant and Need of Time, IJIRMPS 7(2) | C | Tables appear without a sufficiently documented instrument, sampling setting or chain from the stated design to the claimed conclusion. Supplied identifier IJIRMPS1902026. |
-| Naila R., 2023, Research: Introduction to SEO, supplied guide | C | Prescriptive density advice and a reference section that does not provide conventional, recoverable bibliographic entries for many claims. No experimental ranking rule is accepted from it. |
+| Naila R., undated, Research: Introduction to SEO, supplied guide | C | Prescriptive density advice and a reference section that does not provide conventional, recoverable bibliographic entries for many claims. No experimental ranking rule is accepted from it. |
 | Almukhtar, Mahmoodd and Kareem, 2021, Search Engine Optimization: A Review, Applied Computer Science 17(1) | C | Narrative discussion does not supply a measured comparative outcome analysis supporting its recommendations. Trace a claimed operator policy to that operator. DOI 10.23743/acs-2021-07. |
 | Bataineh, Qasim, Idris and Abu-AlSondos, 2025, The Evolution of SEO Strategies, Cogent Business & Management | B | A documented questionnaire and structural model, but the outcome is perceived ranking and engagement. Do not relabel perceptions as observed search positions. DOI 10.1080/23311975.2025.2491678. |
 
@@ -64,7 +64,7 @@ The [evidence standard](../../standard/) defines the scale. Grade A permits a sc
 | Karyotakis, Lamprou, Kiourexidou and Antonopoulos, 2019, SEO Practices: A Study about the Way News Websites Allow Users to Comment | C for SEO-effect claims | A walkthrough records commenting facilities on selected news websites. Those counts do not measure a ranking or citation benefit from comments. DOI 10.3390/fi11090188. |
 | Editorial and collection front matter | D as empirical evidence | Useful for identifying the collection and its scope. It contributes no independent outcome test simply by introducing the articles. |
 
-## The conference volume's narrow exceptions
+## Which conference chapters address these questions?
 
 Ziakis and Vlachopoulou's AI-and-SEO review, DOI **10.1007/978-3-031-51038-0_43**, is C for outcome claims. It organizes a topic and describes a literature-selection process. A taxonomy and a review count are not experiments establishing that a tactic improves present-day AI citation.
 
@@ -86,10 +86,10 @@ We have no measurement on this point: this selected collection is not a represen
 
 ## Sources
 
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
-- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. https://doi.org/10.3390/fi11090202 Verified 30 October 2026.
-- Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Is there a correlation? Future Internet, 11(11), 242. https://doi.org/10.3390/fi11110242 Verified 30 October 2026.
-- Ziakis, C., Vlachopoulou, M., Kyrkoudis, T., & Karagkiozidou, M. (2019). Important factors for improving Google search rank. Future Internet, 11(2), 32. https://doi.org/10.3390/fi11020032 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
+- Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. doi:10.3390/fi11090202 . [Accessible original](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf) Verified 30 October 2026.
+- Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Is there a correlation? Future Internet, 11(11), 242. doi:10.3390/fi11110242 . [Accessible original](https://docs.broadcastwell.com/research/source-archives/giannakoulopoulos-2019.pdf) Verified 30 October 2026.
+- Ziakis, C., Vlachopoulou, M., Kyrkoudis, T., & Karagkiozidou, M. (2019). Important factors for improving Google search rank. Future Internet, 11(2), 32. doi:10.3390/fi11020032 . [Accessible original](https://docs.broadcastwell.com/research/source-archives/ziakis-2019.pdf) Verified 30 October 2026.
 - Google. (2010). Search engine optimization starter guide. Google Webmaster Central. Original edition, pp. 13 to 14. https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf Verified 30 October 2026.
 - Ledford, J. L. (2009). SEO: Search engine optimization bible (2nd ed.). Wiley. Jill Whalen interview, printed pp. 447 to 449 (PDF pp. 469 to 471). ISBN 978-0-470-45264-6. https://books.google.com/books?vid=ISBN9780470452646 Verified 30 October 2026.
 - Xanthopoulou, P., Kavoura, A., Sahinidis, A., & Antoniadis, I. (2024). Communicating corporate social responsibility in an era of disruption: A study of Greek companies participating in Corporate Responsibility Index (CRI). In Strategic innovative marketing and tourism (pp. 631 to 639). Springer. Figure 4, p. 636. https://doi.org/10.1007/978-3-031-51038-0_68 Verified 30 October 2026.
@@ -99,6 +99,27 @@ We have no measurement on this point: this selected collection is not a represen
 - Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts: Source workbooks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3381151 . Google Scholar one-term title-restricted workbook, Full1 B2:B1001 and C:AA. Verified 30 October 2026.
 
 - Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Deposited spreadsheets [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3484673 . Results Sheet1, C3:C102 and H3:H102; Table 9 and regression check. Verified 30 October 2026.
+
+- Broadcastwell. (2026). Supplied search-research collection: 21-document identity inventory [Data set]. Original filenames, PDF page counts and SHA256 identities; duplicate editions retained as physical files, not independent studies. [Collection inventory](https://docs.broadcastwell.com/research/data/source-collection-inventory.csv). Verified 30 October 2026.
+
+- Veglis, A., & Giomelakis, D. (Eds.). (2021). Search engine optimization. MDPI. Supplied Future Internet article reprint, with individual 2019 article dates retained. ISBN 978-3-03936-819-8. Supplied file Search_Engine_Optimization.pdf, identified in the collection inventory. Verified 30 October 2026.
+- Kavoura, A., Borges-Tiago, T., & Tiago, F. (Eds.). (2024). Strategic innovative marketing and tourism. Springer Proceedings in Business and Economics. https://doi.org/10.1007/978-3-031-51038-0 . Supplied volume includes chapter 43, pp. 391 to 399, and chapter 68, pp. 631 to 639. Verified 30 October 2026.
+- Dogra, R. (n.d.). Search engine optimization (L. Jasrai, Ed.). Lovely Professional University. Supplied cover code DEOPR806; filename DEMKT806_SEARCH_ENGINE_OPTIMIZATION.pdf, PDF p. 146. [Publisher copy](https://ebooks.lpude.in/new-scheme/management/mba/sem_3-4/DEMKT806_SEARCH_ENGINE_OPTIMIZATION.pdf). Edition year and ISBN not established from the supplied copy. Verified 30 October 2026.
+- HubSpot. (n.d.). Introduction to search engine optimization: Getting started with SEO to achieve business goals. Supplied historical ebook introduction-to-seo-ebook.pdf, p. 5. File identity in the collection inventory; the underlying behavioral study remains unverified. Verified 30 October 2026.
+- Anttila, M. (2021). Research on search engine optimization strategy for voice search. International Journal of Economics, Business and Management Research, 5(11). Supplied IJEBMR_851.pdf, pp. 2 and 9. Publisher: https://ijebmr.com/ . Verified 30 October 2026.
+- Ranjpour, R. (2024). The significant role of SEO in effective web marketing. AMTP Proceedings 2024, article 23. https://digitalcommons.georgiasouthern.edu/amtp-proceedings_2024/23/ . Verified 30 October 2026.
+- Vidhate, A., Jadhav, N., & Gole, K. (2026). Role of artificial intelligence in improving SEO, AEO, and GEO strategies. International Journal of Novel Research and Development, 11(6), article IJNRD2606149. Supplied PDF pp. 3 to 4. https://www.ijnrd.org/papers/IJNRD2606149.pdf . Verified 30 October 2026.
+- Raju, P. T., Reddy, S. S. R., Riyaz, S., Nausheen, S., & Manasa, G. (2025). Optimizing for the artificial intelligence driven search era: An integrated framework for search engine optimization, generative engine optimization, and answer engine optimization. International Journal of Scientific Research in Engineering and Management, 9(10). https://doi.org/10.55041/IJSREM53069 . Verified 30 October 2026.
+- Ahmad, U. F., Mahdee, J., & Abu Bakar, N. (2022). Search engine optimisation (SEO) strategy as determinants to enhance the online brand positioning (version 1). F1000Research, 11, 714. https://doi.org/10.12688/f1000research.73382.1 . Two supplied version-1 files retain their distinct displayed review states; neither is a separate replication. Verified 30 October 2026.
+- Singh, S., & Kesarwani, H. (2025). Study on search engine optimization (SEO) vs. paid advertising: Which strategy yields better ROI? International Journal of Research Publication and Reviews, 6(4), 4129 to 4135. Editorial fragment at printed p. 4132, PDF p. 4. https://ijrpr.com/uploads/V6ISSUE4/IJRPR41950.pdf . Verified 30 October 2026.
+- Rane, K. S., & Parmar, G. S. (2023). A brief study on search engine optimization (SEO) strategies. Accent Journal of Economics Ecology & Engineering, 8(Special Issue 3), 125 to 129. Supplied 004_360-KiranShrikantRane_Research_Paper_Jan_2023.pdf; file identity in the collection inventory. Verified 30 October 2026.
+- Raju, C. B. (2019). Search engine optimization: A digital marketing giant and need of time. IJIRMPS, 7(2), article IJIRMPS1902026. Supplied 1267.pdf; file identity in the collection inventory. Verified 30 October 2026.
+- R., Naila. (n.d.). Research: Introduction to SEO. Supplied Research-IntroductiontoSearchEngineOptimization1.pdf. Author label and file identity retained; publisher and conventional reference trail not established. Verified 30 October 2026.
+- Almukhtar, F., Mahmoodd, N., & Kareem, S. (2021). Search engine optimization: A review. Applied Computer Science, 17(1), 69 to 79. https://doi.org/10.23743/acs-2021-07 . Verified 30 October 2026.
+- Bataineh, A. Q., Qasim, D., Idris, M., & Abu-AlSondos, I. A. (2025). The evolution of SEO strategies: From keywords to user experience in private universities of Jordan. Cogent Business & Management, 12(1), 2491678. https://doi.org/10.1080/23311975.2025.2491678 . Verified 30 October 2026.
+- Giomelakis, D., Karypidou, C., & Veglis, A. (2019). SEO inside newsrooms: Reports from the field. Future Internet, 11(12), 261. https://doi.org/10.3390/fi11120261 . Verified 30 October 2026.
+- Karyotakis, M.-A., Lamprou, E., Kiourexidou, M., & Antonopoulos, N. (2019). SEO practices: A study about the way news websites allow the users to comment on their news articles. Future Internet, 11(9), 188. https://doi.org/10.3390/fi11090188 . Verified 30 October 2026.
+- Ziakis, C., & Vlachopoulou, M. (2024). Artificial intelligence’s revolutionary role in search engine optimization. In Strategic innovative marketing and tourism (pp. 391 to 399). Springer. https://doi.org/10.1007/978-3-031-51038-0_43 . Verified 30 October 2026.
 
 ## Cite this page
 
@@ -118,7 +139,9 @@ Broadcastwell research team. (2026, October 30). *Twenty-one source documents, g
 
 Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

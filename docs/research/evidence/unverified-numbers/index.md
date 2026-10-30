@@ -27,20 +27,20 @@ This ledger preserves the claim as encountered, then states what survives checki
 
 You can use the status column to distinguish an unavailable report from a claim contradicted by an opened original. Those are different findings. A number appearing repeatedly in secondary sources has not acquired independent confirmation merely through repetition.
 
-## Recovered originals, narrower wording
+## What do the recovered originals actually measure?
 
 | Claim encountered | Where it appeared | Primary check and status |
 |---|---|---|
 | Statistics boost AI visibility by up to 40%; expert quotations increase citation probability by 41% | Vidhate, Jadhav and Gole, IJNRD 2026, PDF p. 3 | Aggarwal et al.'s abstract uses “up to 40%”; Table 1 describes a 41% best improvement in position-adjusted word count. The conditions and metrics must remain attached. A universal citation-probability uplift is unsupported. Corrected metric belongs in the quotable ledger. |
 | Voice searches average 29 words | Anttila, 2021, p. 9 | [Backlinko's original 2018 study](https://backlinko.com/voice-search-seo-study) reports the average **answer** length in its Google Home results. It is not query length. The corrected historical observation is usable with that sample and date. |
 | 96% of businesses are not voice-search ready | Anttila, 2021, p. 2 | [Uberall's 2019 primary release](https://uberall.com/en-us/company/news-press/uberall-defines-online-voice-search-readiness-vsr-with-first-of-its-kind-study-of-73-000-business-locations) concerns 73,000 business locations and its own listings-readiness definition. It reports only 3.82% with correct information on its three principal directories. That does not establish the share of all businesses technically unable to appear in voice search. |
-| Organic traffic research proves a general marketing tactic works | Secondary accounts citing Baye et al., 2016 | [The publisher's original](https://doi.org/10.1111/jems.12141) studies retail organic clicks in August 2012. Its sample, econometric design and outcome are identifiable. It does not supply a general effect on present-day AI-answer citation. |
+| Organic traffic research proves a general marketing tactic works | Secondary accounts citing Baye et al., 2016 | [The publisher's original](https://host.kelley.iu.edu/mwildenb/seo.pdf) studies retail organic clicks in August 2012. Its sample, econometric design and outcome are identifiable. It does not supply a general effect on present-day AI-answer citation. |
 
 The full Backlinko population is stated as **10,000 Google Home results**; the reported average is a historical vendor study result. Its rounded average does not provide the individual-length distribution or a reconstructable uncertainty interval. It should not become a required answer length for every page you publish.
 
 Uberall's release also distinguishes its readiness score from real-world return on investment. A vendor-defined score can identify missing listing information under its rules. It cannot, without another design, establish how often those errors caused an assistant to omit a business.
 
-## Claims still withheld
+## Which claims remain unsupported?
 
 | Claim encountered | Source location | Why the sentence remains withheld |
 |---|---|---|
@@ -57,13 +57,13 @@ Uberall's release also distinguishes its readiness score from real-world return 
 
 We initially could not retrieve the legacy Chitika and Microsoft routes. The primary reports have since been opened in archive mirrors, so those availability objections are withdrawn. Their narrower populations and units remain essential. Chitika gives no exact study impression count from which we could reconstruct a Wilson interval; Microsoft does not map each headline to a recoverable response base. Neither report licenses a present-day population rate.
 
-## Deposited calculations that did not reproduce
+## Which deposited calculations failed to reproduce?
 
 Rovira’s one-term title-restricted Google Scholar workbook takes medians over 23 query columns while the described design has 25. Including the omitted theory and variable columns changes 456 of 1,000 position medians and the rounded correlation from 0.990 to 0.991. The other eight reported configurations reproduce at three decimals. [Rovira data, 2019, Full1 B2:B1001 and C:AA](https://doi.org/10.5281/zenodo.3381151).
 
 The university paper prints a negative SEO-rank correlation and p = 0.333; its deposited 100 rows produce rho = +0.04382 and a conventional two-sided approximation p = 0.6651. Its website-quality regression gives F(1,98) = 7.4898 from the data, rather than the printed 7.04. These are reproducibility discrepancies, not evidence of intent; the weak SEO association remains nonsignificant. [Giannakoulopoulos data, 2019, Results Sheet1; paper Table 9 and regression section](https://doi.org/10.5281/zenodo.3484673).
 
-## Rules that the supplied evidence does not establish
+## Which proposed rules lack evidence?
 
 | Proposed rule | Source family | What the record permits |
 |---|---|---|
@@ -75,7 +75,7 @@ The university paper prints a negative SEO-rank correlation and p = 0.333; its d
 | Microsoft Academic is a currently available service | A present-tense retelling of Rovira's 2019 comparison | The study is a dated comparison. Its historical system names must not become an unverified present-day availability claim. |
 | Any internally inconsistent tourism or marketing figure can be selected from a conference volume | Springer proceedings | A collection's imprint does not resolve a chapter's conflicting table and prose. Each chapter needs its own source check and stated unit. |
 
-## Objections we corrected after opening the primary
+## Which initial objections did the originals disprove?
 
 | Earlier interpretation | What the original actually supports |
 |---|---|
@@ -92,14 +92,14 @@ We have no measurement on this point: the number of unsupported claims in this s
 
 ## Sources
 
-- Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative engine optimization. KDD 2024. https://doi.org/10.1145/3637528.3671900 . Author manuscript v3: https://arxiv.org/html/2311.09735v3 Verified 30 October 2026.
+- Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative engine optimization. KDD 2024. doi:10.1145/3637528.3671900 . [Accessible original](https://arxiv.org/html/2311.09735v3) . Author manuscript v3: https://arxiv.org/html/2311.09735v3 Verified 30 October 2026.
 - Dean, B. (2018, February 28). We analyzed 10,000 Google Home results. Here's what we learned about voice search SEO. Backlinko. https://backlinko.com/voice-search-seo-study Verified 30 October 2026.
 - Uberall. (2019, April 9). Uberall defines online voice search readiness with first-of-its-kind study of 73,000 business locations. https://uberall.com/en-us/company/news-press/uberall-defines-online-voice-search-readiness-vsr-with-first-of-its-kind-study-of-73-000-business-locations Verified 30 October 2026.
-- Baye, M. R., De los Santos, B., & Wildenbeest, M. R. (2016). Search engine optimization: What drives organic traffic to retail sites? Journal of Economics & Management Strategy, 25(1), 6 to 31. https://doi.org/10.1111/jems.12141 Verified 30 October 2026.
+- Baye, M. R., De los Santos, B., & Wildenbeest, M. R. (2016). Search engine optimization: What drives organic traffic to retail sites? Journal of Economics & Management Strategy, 25(1), 6 to 31. doi:10.1111/jems.12141 . [Accessible original](https://host.kelley.iu.edu/mwildenb/seo.pdf) Verified 30 October 2026.
 - Usmany, P., Rachmawati, R., Rembe, E., Sopacua, F., Santosa, T. A., Arifin, A. H., Fitria, A., & Suhardi. (2024). The effectiveness of search engine optimization (SEO) in marketing: A meta-anlysis study. COSTING, 7(5), 807 to 811. Supplied original PDF. Journal: https://journal.ipm2kpe.or.id/index.php/COSTING . Individual included-study identities are not recoverable from its results table. Verified 30 October 2026.
 - Ahmad, U. F., Mahdee, J., & Abu Bakar, N. (2024). Search engine optimisation (SEO) strategy as determinants to enhance the online brand positioning (version 2). F1000Research, 11, 714. https://doi.org/10.12688/f1000research.73382.2 Verified 30 October 2026.
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
-- Ziakis, C., Vlachopoulou, M., Kyrkoudis, T., & Karagkiozidou, M. (2019). Important factors for improving Google search rank. Future Internet, 11(2), 32. https://doi.org/10.3390/fi11020032 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
+- Ziakis, C., Vlachopoulou, M., Kyrkoudis, T., & Karagkiozidou, M. (2019). Important factors for improving Google search rank. Future Internet, 11(2), 32. doi:10.3390/fi11020032 . [Accessible original](https://docs.broadcastwell.com/research/source-archives/ziakis-2019.pdf) Verified 30 October 2026.
 - Ledford, J. L. (2009). SEO: Search engine optimization bible (2nd ed.). Wiley. Jill Whalen interview, printed pp. 447 to 449 (PDF pp. 469 to 471). ISBN 978-0-470-45264-6. https://books.google.com/books?vid=ISBN9780470452646 Verified 30 October 2026.
 
 - Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts: Source workbooks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3381151 . Google Scholar one-term title-restricted workbook, Full1 B2:B1001 and C:AA. Verified 30 October 2026.
@@ -109,6 +109,27 @@ We have no measurement on this point: the number of unsupported claims in this s
 - Chitika Insights. (2013, June 7). The value of Google result positioning. Methods, printed pp. 2 to 4; Figure 2, printed p. 7. Primary report recovered from an archive mirror: https://www.silesiasem.pl/wp-content/uploads/2013/07/chitikainsights-valueofgoogleresultspositioning.pdf . Verified 30 October 2026.
 
 - Microsoft. (2019). Voice report: From answers to action. Methods, printed p. 6; usage, printed p. 8. Primary report recovered from an archive mirror: https://ppc.world/uploads/article_images/2019/07/study/bingads_2019voicereport.pdf . Verified 30 October 2026.
+
+- Broadcastwell. (2026). Supplied search-research collection: 21-document identity inventory [Data set]. Original filenames, PDF page counts and SHA256 identities; duplicate editions retained as physical files, not independent studies. [Collection inventory](https://docs.broadcastwell.com/research/data/source-collection-inventory.csv). Verified 30 October 2026.
+
+- Veglis, A., & Giomelakis, D. (Eds.). (2021). Search engine optimization. MDPI. Supplied Future Internet article reprint, with individual 2019 article dates retained. ISBN 978-3-03936-819-8. Supplied file Search_Engine_Optimization.pdf, identified in the collection inventory. Verified 30 October 2026.
+- Kavoura, A., Borges-Tiago, T., & Tiago, F. (Eds.). (2024). Strategic innovative marketing and tourism. Springer Proceedings in Business and Economics. https://doi.org/10.1007/978-3-031-51038-0 . Supplied volume includes chapter 43, pp. 391 to 399, and chapter 68, pp. 631 to 639. Verified 30 October 2026.
+- Dogra, R. (n.d.). Search engine optimization (L. Jasrai, Ed.). Lovely Professional University. Supplied cover code DEOPR806; filename DEMKT806_SEARCH_ENGINE_OPTIMIZATION.pdf, PDF p. 146. [Publisher copy](https://ebooks.lpude.in/new-scheme/management/mba/sem_3-4/DEMKT806_SEARCH_ENGINE_OPTIMIZATION.pdf). Edition year and ISBN not established from the supplied copy. Verified 30 October 2026.
+- HubSpot. (n.d.). Introduction to search engine optimization: Getting started with SEO to achieve business goals. Supplied historical ebook introduction-to-seo-ebook.pdf, p. 5. File identity in the collection inventory; the underlying behavioral study remains unverified. Verified 30 October 2026.
+- Anttila, M. (2021). Research on search engine optimization strategy for voice search. International Journal of Economics, Business and Management Research, 5(11). Supplied IJEBMR_851.pdf, pp. 2 and 9. Publisher: https://ijebmr.com/ . Verified 30 October 2026.
+- Ranjpour, R. (2024). The significant role of SEO in effective web marketing. AMTP Proceedings 2024, article 23. https://digitalcommons.georgiasouthern.edu/amtp-proceedings_2024/23/ . Verified 30 October 2026.
+- Vidhate, A., Jadhav, N., & Gole, K. (2026). Role of artificial intelligence in improving SEO, AEO, and GEO strategies. International Journal of Novel Research and Development, 11(6), article IJNRD2606149. Supplied PDF pp. 3 to 4. https://www.ijnrd.org/papers/IJNRD2606149.pdf . Verified 30 October 2026.
+- Raju, P. T., Reddy, S. S. R., Riyaz, S., Nausheen, S., & Manasa, G. (2025). Optimizing for the artificial intelligence driven search era: An integrated framework for search engine optimization, generative engine optimization, and answer engine optimization. International Journal of Scientific Research in Engineering and Management, 9(10). https://doi.org/10.55041/IJSREM53069 . Verified 30 October 2026.
+- Ahmad, U. F., Mahdee, J., & Abu Bakar, N. (2022). Search engine optimisation (SEO) strategy as determinants to enhance the online brand positioning (version 1). F1000Research, 11, 714. https://doi.org/10.12688/f1000research.73382.1 . Two supplied version-1 files retain their distinct displayed review states; neither is a separate replication. Verified 30 October 2026.
+- Singh, S., & Kesarwani, H. (2025). Study on search engine optimization (SEO) vs. paid advertising: Which strategy yields better ROI? International Journal of Research Publication and Reviews, 6(4), 4129 to 4135. Editorial fragment at printed p. 4132, PDF p. 4. https://ijrpr.com/uploads/V6ISSUE4/IJRPR41950.pdf . Verified 30 October 2026.
+- Rane, K. S., & Parmar, G. S. (2023). A brief study on search engine optimization (SEO) strategies. Accent Journal of Economics Ecology & Engineering, 8(Special Issue 3), 125 to 129. Supplied 004_360-KiranShrikantRane_Research_Paper_Jan_2023.pdf; file identity in the collection inventory. Verified 30 October 2026.
+- Raju, C. B. (2019). Search engine optimization: A digital marketing giant and need of time. IJIRMPS, 7(2), article IJIRMPS1902026. Supplied 1267.pdf; file identity in the collection inventory. Verified 30 October 2026.
+- R., Naila. (n.d.). Research: Introduction to SEO. Supplied Research-IntroductiontoSearchEngineOptimization1.pdf. Author label and file identity retained; publisher and conventional reference trail not established. Verified 30 October 2026.
+- Almukhtar, F., Mahmoodd, N., & Kareem, S. (2021). Search engine optimization: A review. Applied Computer Science, 17(1), 69 to 79. https://doi.org/10.23743/acs-2021-07 . Verified 30 October 2026.
+- Bataineh, A. Q., Qasim, D., Idris, M., & Abu-AlSondos, I. A. (2025). The evolution of SEO strategies: From keywords to user experience in private universities of Jordan. Cogent Business & Management, 12(1), 2491678. https://doi.org/10.1080/23311975.2025.2491678 . Verified 30 October 2026.
+- Giomelakis, D., Karypidou, C., & Veglis, A. (2019). SEO inside newsrooms: Reports from the field. Future Internet, 11(12), 261. https://doi.org/10.3390/fi11120261 . Verified 30 October 2026.
+- Karyotakis, M.-A., Lamprou, E., Kiourexidou, M., & Antonopoulos, N. (2019). SEO practices: A study about the way news websites allow the users to comment on their news articles. Future Internet, 11(9), 188. https://doi.org/10.3390/fi11090188 . Verified 30 October 2026.
+- Ziakis, C., & Vlachopoulou, M. (2024). Artificial intelligence’s revolutionary role in search engine optimization. In Strategic innovative marketing and tourism (pp. 391 to 399). Springer. https://doi.org/10.1007/978-3-031-51038-0_43 . Verified 30 October 2026.
 
 ## Cite this page
 
@@ -128,7 +149,9 @@ Broadcastwell research team. (2026, October 30). *Numbers we could not verify, a
 
 Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

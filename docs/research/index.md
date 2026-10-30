@@ -21,7 +21,7 @@ is_based_on: https://doi.org/10.1145/3447535.3462479
 
 **Of 1,974 Wikipedia results, 27% appeared first; that is not Wikipedia’s share of all first positions (Lewandowski et al., 2021, §5).**
 
-The claim that Wikipedia occupied roughly a quarter of all first positions is not what the cited paper measured. Lewandowski and colleagues described the positions occupied by Wikipedia's own results. That small change in wording changes the population. [Lewandowski et al., 2021, §4.2](https://doi.org/10.1145/3447535.3462479).
+The claim that Wikipedia occupied roughly a quarter of all first positions is not what the cited paper measured. Lewandowski and colleagues described the positions occupied by Wikipedia's own results. That small change in wording changes the population. [Lewandowski et al., 2021, §5](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf).
 
 Jill Whalen's historical warning about ranking measurement, “an impossible measurement,” is a useful companion to these tables. It is attributed practitioner testimony, not a new experimental finding. [Ledford, 2009, printed p. 448].
 
@@ -29,7 +29,7 @@ We started this section by reading a supplied collection of search research, tex
 
 You can use these pages to find a defensible claim, inspect a familiar statistic or decide what to measure next. Google search positions, scholarly relevance ordering and vendors named in AI answers are different outcomes. We place their findings beside each other where they illuminate a practical question, while retaining their original units.
 
-## The questions behind the insights
+## Which questions do the insights answer?
 
 | Question | The useful distinction |
 |---|---|
@@ -44,7 +44,7 @@ You can use these pages to find a defensible claim, inspect a familiar statistic
 | [Why publish original research?](insights/google-asks-for-original-research/) | Google's advice supports useful original work without promising a citation or a commercial return. |
 | How much GEO research can a reader check? | A dated, reproducible search is more informative than a confident claim about the whole literature. |
 
-## Three studies, with their status visible
+## What is each study’s current status?
 
 **Study 1, optimization signals on cited pages:** the existing plan is public at [OSF dvyfu](https://doi.org/10.17605/OSF.IO/DVYFU), with platform registration timestamp 30 October 2026 at 01:06:12 UTC. Approval completed before the new page-signal collection began. No result is presented here. The study concerns observable signals and citation samples; those signals cannot establish why an engine selected a page.
 
@@ -70,13 +70,15 @@ The September release is a fixed set of captured answers, not a survey of every 
 
 ## Sources
 
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Broadcastwell. (2026). Who do AI engines cite for B2B software questions? [Registration]. OSF. Registered 30 October 2026, 01:32:03 UTC. https://doi.org/10.17605/OSF.IO/VCZKT Verified 30 October 2026.
 - Broadcastwell. (2026). Does absence persist from one release to the next? [Registration]. OSF. Registered 30 October 2026, 01:12:44 UTC. https://doi.org/10.17605/OSF.IO/MKJ9V Verified 30 October 2026.
 - Ledford, J. L. (2009). SEO: Search engine optimization bible (2nd ed.). Wiley. Jill Whalen interview, printed pp. 447 to 449 (PDF pp. 469 to 471). ISBN 978-0-470-45264-6. https://books.google.com/books?vid=ISBN9780470452646 Verified 30 October 2026.
 
 - Broadcastwell. (2026). Do AI engines cite optimized pages? [Registration]. OSF. Platform registration timestamp 30 October 2026, 01:06:12 UTC; public approval verified before page collection. https://doi.org/10.17605/OSF.IO/DVYFU Verified 30 October 2026.
+
+- Broadcastwell. (2026). Supplied search-research collection: 21-document identity inventory [Data set]. Original filenames, PDF page counts and SHA256 identities; duplicate editions retained as physical files, not independent studies. [Collection inventory](https://docs.broadcastwell.com/research/data/source-collection-inventory.csv). Verified 30 October 2026.
 
 ## Cite this page
 
@@ -96,7 +98,9 @@ Broadcastwell research team. (2026, October 30). *What the research says about s
 
 Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

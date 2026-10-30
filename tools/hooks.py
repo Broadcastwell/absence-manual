@@ -17,6 +17,12 @@ REPLACEMENT = '<a class="headerlink" aria-hidden="true" tabindex="-1"'
 
 def on_page_content(html, page=None, config=None, files=None):
     html = PERMALINK.sub(REPLACEMENT, html)
+    if page and page.meta.get('page_class') == 'research':
+        html = re.sub(
+            r'(<h2\b[^>]*id="what-our-own-data-shows"[^>]*>.*?)(?=<h2\b[^>]*id="sources")',
+            r'<section class="bw-own-data" aria-label="What our own data shows">\1</section>',
+            html, flags=re.S)
+        html = '<div class="bw-research-content">' + html + '</div>'
     # Material wraps tables in scroll regions after rendering. A focusable table
     # lets keyboard users scroll that region without requiring a mouse or script.
     return re.sub(r'<table(?![^>]*\btabindex=)(?=[\s>])', '<table tabindex="0"', html)

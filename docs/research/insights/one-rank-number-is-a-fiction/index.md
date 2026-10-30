@@ -27,7 +27,7 @@ That is not a share of answers, and it is not a universal error rate. It is a pr
 
 Jill Whalen had a related objection long before modern AI answers. Asked about ranking measurement in the second edition of Jerri Ledford's SEO Bible, she called it “an impossible measurement” and pointed to personalization and geography. Those words are practitioner testimony from **2009**, not an experimental estimate of today's answer variability. [Ledford, printed p. 448; PDF p. 470].
 
-## The old warning, and the new observation
+## What did the old warning anticipate?
 
 Whalen was talking about search positions presented to different users. Our table concerns repeated vendor naming in captured answers. We do not merge the two into one historical data series. The connection is conceptual: a position needs the conditions under which it was observed.
 
@@ -35,7 +35,7 @@ You can see the problem without a dashboard. A buyer asks for a shortlist. One a
 
 The reverse is just as important. A vendor missing from a single answer has not been proven undiscoverable. That observation may be a real instance of absence, yet an incomplete description of the vendor's presence across questions and repeats. Both the positive and the negative example need their base.
 
-## The engine table
+## How much do repeat-disagreement rates differ by engine?
 
 | Engine | Mixed complete groups / eligible complete groups | Mixed share | Descriptive 95% Wilson interval | Incomplete groups left out |
 |---|---:|---:|---|---:|
@@ -68,7 +68,7 @@ For a decision about a particular buyer question, retain the answer itself and t
 
 This makes repeated observation useful even when no marketing action has been taken. You need some idea of ordinary variation before interpreting a later difference as an effect. A before-and-after anecdote with no repeat baseline can mistake the answer's variability for the impact of an edit.
 
-## The cost of a more honest label
+## What does a more honest label require?
 
 “Present in this captured answer” is less satisfying than a permanent rank. It is also easier to defend. A business still needs a summary, so the practical answer is a layered record: an understandable headline linked to counts, uncertainty and examples that retain their observation conditions.
 
@@ -108,7 +108,9 @@ Broadcastwell research team. (2026, October 30). *One rank number was already a 
 
 Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+
+Last updated: 30 October 2026. Next review: 30 January 2027.
 
 ## Continue
 

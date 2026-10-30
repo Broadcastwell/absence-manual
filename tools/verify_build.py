@@ -346,21 +346,27 @@ for rel, cls in sorted(manifest.items()):
     ]:
         if needed not in head:
             fail("%s header is missing %s" % (rel, needed))
-    for column in ("Product", "Research", "Free tools", "Company", "Contact"):
-        if (">%s</h2>" % column) not in foot:
-            fail("%s footer is missing the %s column" % (rel, column))
     if "Copyright 2026 Broadcastwell LLC." not in foot:
         fail("%s footer is missing the bottom bar" % rel)
     for slug in ("privacy", "terms", "cookies"):
         if ('href="https://broadcastwell.com/%s">' % slug) not in foot:
             fail("%s footer is missing the %s link" % (rel, slug))
-    if foot.find("excluded from its own sample") > foot.find("bw-shared-columns"):
-        fail("%s footer does not keep its own disclosure note above the shared columns" % rel)
-    groups = re.findall(r'<details class="bw-shared-group"[^>]*>([\s\S]*?)</details>', foot)
-    if len(groups) != 5 or [len(re.findall(r"<li>", group)) for group in groups] != [8, 6, 6, 6, 6]:
-        fail("%s footer must contain five complete groups, preserving PHP2Shell and Change Desk links" % rel)
-    if 'href="tel:+18123457272">(812) 345 7272' not in foot or '517 E Kirkwood Ave<br>Bloomington, IN 47408' not in foot:
-        fail("%s footer is missing the public address or phone" % rel)
+    if cls == "research":
+        if 'bw-research-footer' not in foot or 'excluded from its own sample' not in foot:
+            fail("%s research footer is missing its identity or sample disclosure" % rel)
+        if re.search(r'mailto:|tel:|hello@broadcastwell|broadcastwell.com/contact', html):
+            fail("%s research page contains a contact solicitation" % rel)
+    else:
+        for column in ("Product", "Research", "Free tools", "Company", "Contact"):
+            if (">%s</h2>" % column) not in foot:
+                fail("%s footer is missing the %s column" % (rel, column))
+        if foot.find("excluded from its own sample") > foot.find("bw-shared-columns"):
+            fail("%s footer does not keep its own disclosure note above the shared columns" % rel)
+        groups = re.findall(r'<details class="bw-shared-group"[^>]*>([\s\S]*?)</details>', foot)
+        if len(groups) != 5 or [len(re.findall(r"<li>", group)) for group in groups] != [8, 6, 6, 6, 6]:
+            fail("%s footer must contain five complete groups, preserving PHP2Shell and Change Desk links" % rel)
+        if 'href="tel:+18123457272">(812) 345 7272' not in foot or '517 E Kirkwood Ave<br>Bloomington, IN 47408' not in foot:
+            fail("%s footer is missing the public address or phone" % rel)
     if not re.search(r'<time datetime="\d{4}-\d{2}-\d{2}">', foot):
         fail("%s footer is missing its publication date" % rel)
     if chr(183) in html:
