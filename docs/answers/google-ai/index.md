@@ -5,7 +5,7 @@ description: AI Overviews, AI Mode, their different answers and the bases needed
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T23:36:56+00:00'
-date_modified: '2026-10-29T23:17:04+00:00'
+date_modified: '2026-10-30T00:52:54+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 5
@@ -15,7 +15,7 @@ library_order: 5
 
 AI Overviews, AI Mode, their different answers and the bases needed to compare them.
 
-These 18 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 20 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Google surfaces
 
@@ -110,6 +110,18 @@ Read the displayed condition: Study 7 excluded one request-limit response from 4
 [What is Deep Search in Google AI Mode?](what-is-deep-search-in-google-ai-mode.md)
 
 Deep Search is Google’s cited-report research feature in AI Mode. Our September Index’s 420 Mode targets form a separate ordinary-Mode cohort.
+
+## Interactive Overview results
+
+[How do Google AI Overviews and generative UI relate?](how-do-google-ai-overviews-and-generative-ui-relate.md)
+
+Generative UI adds interactive tools to some Google AI results. The September Index counted text answers, not rendered widgets.
+
+## Overview availability in France
+
+[Are Google AI Overviews available in France?](are-google-ai-overviews-available-in-france.md)
+
+Google announced AI Overviews in France on 22 July 2026. Availability differs from receiving an Overview for each query.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

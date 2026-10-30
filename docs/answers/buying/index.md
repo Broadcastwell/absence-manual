@@ -5,7 +5,7 @@ description: Scope, acceptance evidence and questions to ask before agreeing to 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T23:17:04+00:00'
+date_modified: '2026-10-30T00:52:54+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 7
@@ -15,7 +15,7 @@ library_order: 7
 
 Scope, acceptance evidence and questions to ask before agreeing to work.
 
-These 22 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 23 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Delivery choices
 
@@ -148,6 +148,12 @@ An AI visibility audit should supply the answers, questions, engines, dates and 
 [Which GEO platforms let agencies run pre-sales AI visibility audits for prospects?](which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo.md)
 
 OtterlyAI documents proposal Workspaces. Two wrong statements among 57 Procore claims show why a prospect report also needs factual review.
+
+## 79 Development’s published offer scope
+
+[79dev.com GEO services worth it?](79dev-com-geo-services-worth-it.md)
+
+79 Development describes an audit, implementation and advisory work. Judge the written deliverables without treating citations as sales.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

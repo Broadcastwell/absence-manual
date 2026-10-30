@@ -5492,6 +5492,96 @@
       "unit": "plan-labels",
       "label": "OtterlyAI MCP access: three named plan labels in the dated review",
       "source_review_sha256": "31c4aa01572a65dbb5a4cb9f3b3e8172e30e0473ea4dae0406590c48d02bf926"
+    },
+    "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22|2026-09-23",
+        "engine": "Google AI Overviews",
+        "subject": "all-fourteen-categories",
+        "metric": "retained_answers",
+        "cohort": "scheduled-question-engine-repeats"
+      },
+      "count": 415,
+      "base": 420,
+      "unit": "answers",
+      "label": "Original September Index: retained Google AI Overviews answers",
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e"
+    },
+    "figure:12a81bc92c79d42568cc5358290b46db1333c79a0fd9eff542f3deb8012649ab": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "radiology-medical-imaging",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 11,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap radiology-medical-imaging: reached",
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e"
+    },
+    "figure:582678caf30bb8a9e527e1a8a7f6e413dd54e78d0625a789f5a7c3b816c8ca1a": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "residential-property-management",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 12,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap residential-property-management: reached",
+      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9"
+    },
+    "figure:25bf47569357bbd13c78d0fc9edc82b9324e6a83b786e4040548dce84d400904": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "transportation-management-systems",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 11,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap transportation-management-systems: reached",
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e"
+    },
+    "figure:84d870519372a108a6ccb6ba32712f32fc48e3389a1823442c1aa08645c35cfe": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "veterinary-practice-management",
+        "subject": "all-three-initial-tasks",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 12,
+      "base": 15,
+      "unit": "initial_tasks",
+      "label": "Agent Gap veterinary-practice-management: reached",
+      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9"
+    },
+    "figure:5a4d71411e2253b30de0863e40d0b9e9d4d01812896c03ba90b1657f35172ddf": {
+      "source_url": "https://doi.org/10.5281/zenodo.23586713",
+      "record": {
+        "capture_date": "2026-10-23",
+        "engine": "ChatGPT",
+        "subject": "eligible-answer-panel",
+        "metric": "potentially_misleading"
+      },
+      "count": 2,
+      "base": 30,
+      "unit": "answers",
+      "label": "PHP2Shell: ChatGPT potentially misleading answer flags",
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e"
     }
   },
   "pages": {
@@ -10242,6 +10332,240 @@
       "opening_shape": "date_first",
       "classification_reason": "On17September2026 is the actual opening frame before theOtterlyAI plan-label fact. It is a dated documentation-record opening, not vendor_first or a runtime-study result.",
       "writing_review_sha256": "2886bbde0b5654ef9e19bfdec66503f5e6f9c4afe48def2d4545a54326f0e0cd"
+    },
+    "answers/buying/79dev-com-geo-services-worth-it.md": {
+      "bank_id": "LB-Q0061",
+      "source_sha256": "65ea979a09589edb6c76a9ce1f3216018b07ade259ba0e894f4982872c9cc8f1",
+      "canonical_source_sha256": "65ea979a09589edb6c76a9ce1f3216018b07ade259ba0e894f4982872c9cc8f1",
+      "opening_sha256": "572ecf4078c9d2c2b7e52549bcd109920e50eb41d79fccb26061d77d97713725",
+      "lead_figures": [
+        "figure:40dc825f975e0ba5d3880c38c3df0c68e7fb6ad66b273d9135961290c7d4c5fd"
+      ],
+      "lead_figure_spans": {
+        "figure:40dc825f975e0ba5d3880c38c3df0c68e7fb6ad66b273d9135961290c7d4c5fd": [
+          "If you are considering 79 Development, judge its published audit and implementation scope against the evidence your business needs. Our [Volume II study](https://doi.org/10.5281/zenodo.21586091) found 25 of 85 companies were cited more often than named on 18 and 23 July 2026, so mentions and citations should remain separate in that buying decision."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader considering 79 Development is the initial condition, before the audit and study figures.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re.md": {
+      "bank_id": "LB-Q0088",
+      "source_sha256": "e6af0fa0909b0b7ad9506dcab50cfb36e05a3ae93f9b3014b3e708e70d1b2a78",
+      "canonical_source_sha256": "e6af0fa0909b0b7ad9506dcab50cfb36e05a3ae93f9b3014b3e708e70d1b2a78",
+      "opening_sha256": "8f7b888a3efaa807801e47128c5bd21c88874defdc9745a5e3c398d657cdfb92",
+      "lead_figures": [
+        "figure:a573e70eff379bd895e8510e37748ac26af57acd269de32807249188b80e479a"
+      ],
+      "lead_figure_spans": {
+        "figure:a573e70eff379bd895e8510e37748ac26af57acd269de32807249188b80e479a": [
+          "Otterly documents daily prompt monitoring and cumulative counts; Profound documents daily answer datasets and charts. For context, our [Volume III study](https://doi.org/10.5281/zenodo.21789120) found a mean vendor-set Jaccard overlap of 0.499 across 62 Google AI Overviews repeat pairs on 4 August 2026, making the underlying runs material to a trend."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Otterly leads the first clause with its documented monitoring, followed by Profound and the repeat-run context.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/measurement/what-ai-visibility-products-does-hotwire-gaio-tech-offer.md": {
+      "bank_id": "LB-Q0091",
+      "source_sha256": "dfd8f9d0f56ef9af35e1614249623dc7251fa20c037278896e002c2abd2d5431",
+      "canonical_source_sha256": "dfd8f9d0f56ef9af35e1614249623dc7251fa20c037278896e002c2abd2d5431",
+      "opening_sha256": "8f5ec2df6e0d1a45b80c4d9d8ea0a0199b9990e2e0d88a489d6ab6a14bfec387",
+      "lead_figures": [
+        "figure:40dc825f975e0ba5d3880c38c3df0c68e7fb6ad66b273d9135961290c7d4c5fd"
+      ],
+      "lead_figure_spans": {
+        "figure:40dc825f975e0ba5d3880c38c3df0c68e7fb6ad66b273d9135961290c7d4c5fd": [
+          "On 27 March 2025, Hotwire announced that Spark was the tool formerly called GAIO.tech, separate from its Ignite account-intelligence product. To distinguish visibility outputs, our [Volume II study](https://doi.org/10.5281/zenodo.21586091) found 25 of 85 companies received more own-domain citations than name appearances on 18 and 23 July 2026."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "date_first",
+      "classification_reason": "The 27 March 2025 announcement date leads the opening, before the Spark identity and separate study finding.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-and-generative-ui-relate.md": {
+      "bank_id": "LB-Q0381",
+      "source_sha256": "33b531aba6291ba019e5166687eb78beea3be2adab4e149a13f9d1b151c28125",
+      "canonical_source_sha256": "33b531aba6291ba019e5166687eb78beea3be2adab4e149a13f9d1b151c28125",
+      "opening_sha256": "7a7eb5c6f7fc8807ddac355eccf486848de7aede70eaa2099621024550f5ffbc",
+      "lead_figures": [
+        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4"
+      ],
+      "lead_figure_spans": {
+        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4": [
+          "Generative UI is a way Google can present an AI answer as an interactive visual or tool inside Search. Google described it in Overviews on 19 August 2026; our [September Index](https://doi.org/10.5281/zenodo.22907695) retained 415 Overview text-answer records from 420 targets on 22 and 23 September 2026, a different unit from counting interactive widgets."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The first clause defines generative UI as a presentation capability, before naming dates and counts.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/google-ai/are-google-ai-overviews-available-in-france.md": {
+      "bank_id": "LB-Q0383",
+      "source_sha256": "5e49aad8401b81068ab578868b8a67291fc10cc622ea3237ca7ed6bc3650b28b",
+      "canonical_source_sha256": "5e49aad8401b81068ab578868b8a67291fc10cc622ea3237ca7ed6bc3650b28b",
+      "opening_sha256": "1a5048b33b69f39d34ca554176186e3c017fb356ca76ce877d74c7ba7a50673a",
+      "lead_figures": [
+        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4"
+      ],
+      "lead_figure_spans": {
+        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4": [
+          "Yes. Google announced AI Overviews in France on 22 July 2026, while explaining that an Overview appears only when its systems find one useful. Our separate [September Index](https://doi.org/10.5281/zenodo.22907695) retained 415 Google AI Overviews answers from 420 scheduled targets on 22 and 23 September 2026."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "yes_no",
+      "classification_reason": "The opening begins Yes and directly answers French availability, then distinguishes query-level returns.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/agents/can-radiology-software-integrate-with-chatgpt.md": {
+      "bank_id": "LB-Q0429",
+      "source_sha256": "29ee632c2b129968fef0ae675d71f4549e55caf2a130f6c74f330fd0b5f94239",
+      "canonical_source_sha256": "29ee632c2b129968fef0ae675d71f4549e55caf2a130f6c74f330fd0b5f94239",
+      "opening_sha256": "0f0c1fa9b741acfab4373253c6c6a1176b32b234052a42c4cd734513adae6fc5",
+      "lead_figures": [
+        "figure:12a81bc92c79d42568cc5358290b46db1333c79a0fd9eff542f3deb8012649ab"
+      ],
+      "lead_figure_spans": {
+        "figure:12a81bc92c79d42568cc5358290b46db1333c79a0fd9eff542f3deb8012649ab": [
+          "RamSoft announced a ChatGPT-powered feature for its Blume medical-imaging patient app on 13 April 2023. That is a reported embedded example: our separate [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 11 endpoints from 15 initial radiology-software website tasks on 6 October 2026, without exercising patient-app access."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "vendor_first",
+      "classification_reason": "RamSoft leads with its dated Blume announcement; the public-path study follows as a separate scope.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/agents/can-residential-property-software-integrate-with-chatgpt.md": {
+      "bank_id": "LB-Q0435",
+      "source_sha256": "e6a899f8a7192a442d41750c6a666ba81d5cafcdfcc894b1c49f9ad8c114570d",
+      "canonical_source_sha256": "e6a899f8a7192a442d41750c6a666ba81d5cafcdfcc894b1c49f9ad8c114570d",
+      "opening_sha256": "57b4d01ace6641dbaa91e5ec254ad185486a34d5e77eaa0a39049895b4d902bf",
+      "lead_figures": [
+        "figure:582678caf30bb8a9e527e1a8a7f6e413dd54e78d0625a789f5a7c3b816c8ca1a"
+      ],
+      "lead_figure_spans": {
+        "figure:582678caf30bb8a9e527e1a8a7f6e413dd54e78d0625a789f5a7c3b816c8ca1a": [
+          "OpenAI’s GPT Actions guide describes custom API connections, and Buildium’s developer guide supplies a property-data API that could support such a build, subject to its account and authentication requirements. In our [6 October 2026 Agent Gap study](https://doi.org/10.5281/zenodo.23197560), 12 of 15 residential-property-software public-site tasks reached their destination."
+        ]
+      },
+      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9",
+      "opening_shape": "source_first",
+      "classification_reason": "The GPT Actions guide is the leading source-document subject. Buildium follows as the checked property API; this is source_first rather than a vendor-first claim about a completed connection.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/agents/can-transportation-software-integrate-with-chatgpt.md": {
+      "bank_id": "LB-Q0438",
+      "source_sha256": "7da66b0032774d3896d4e0c22488f59062eaaaa45fc0ebf352e46832f966022f",
+      "canonical_source_sha256": "7da66b0032774d3896d4e0c22488f59062eaaaa45fc0ebf352e46832f966022f",
+      "opening_sha256": "fc798fc35c5115c01b7c791a3e16449ea6957e01b79d568939e59ca0b42eb7f8",
+      "lead_figures": [
+        "figure:25bf47569357bbd13c78d0fc9edc82b9324e6a83b786e4040548dce84d400904"
+      ],
+      "lead_figure_spans": {
+        "figure:25bf47569357bbd13c78d0fc9edc82b9324e6a83b786e4040548dce84d400904": [
+          "Finding a freight-software website does not prove a ChatGPT connection. Alvys separately reports beta MCP access for ChatGPT; our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 11 of 15 initial transportation-software website tasks on 6 October 2026, measuring the public path rather than that account route."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The opening first corrects the inference from finding a public freight website to proving a ChatGPT connection.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/agents/can-veterinary-software-integrate-with-chatgpt.md": {
+      "bank_id": "LB-Q0448",
+      "source_sha256": "636cba3f91d316d4bcc57a51d603ef17c6cfbe3b5c831dd07a2d2c38ed28ae44",
+      "canonical_source_sha256": "636cba3f91d316d4bcc57a51d603ef17c6cfbe3b5c831dd07a2d2c38ed28ae44",
+      "opening_sha256": "2aa23c07e9aa6469474b27edd3177e505362e06f0a5bd6b2cc1391d29db6bab9",
+      "lead_figures": [
+        "figure:84d870519372a108a6ccb6ba32712f32fc48e3389a1823442c1aa08645c35cfe"
+      ],
+      "lead_figure_spans": {
+        "figure:84d870519372a108a6ccb6ba32712f32fc48e3389a1823442c1aa08645c35cfe": [
+          "If you need a custom ChatGPT connection for an ezyVet practice, the published API and GPT Actions documentation provide possible building blocks, subject to ezyVet approval. Our separate [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 12 endpoints from 15 initial veterinary-software website tasks on 6 October 2026; it did not connect a practice account."
+        ]
+      },
+      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The practice needing a custom ezyVet connection is the opening condition; possible API building blocks and public-path evidence follow.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/fixes/how-can-a-local-auto-glass-business-appear-in-google-ai-and-chatgpt-an.md": {
+      "bank_id": "LB-Q0487",
+      "source_sha256": "64085eb7dd8ea99752f0aed42eb4c13d27e7e191714b7df8358be06229fe39c3",
+      "canonical_source_sha256": "64085eb7dd8ea99752f0aed42eb4c13d27e7e191714b7df8358be06229fe39c3",
+      "opening_sha256": "8b1ef8984bd2f3c766d3ce17c50b9c6448df18a4ed0ba914e5ee0fbd4b547948",
+      "lead_figures": [
+        "figure:57f399169b80e955f036812055c32a4aa3ac899126e677068e903390ec44dc66"
+      ],
+      "lead_figure_spans": {
+        "figure:57f399169b80e955f036812055c32a4aa3ac899126e677068e903390ec44dc66": [
+          "If your auto-glass shop is missing from a 'near me' answer, separate a recommendation of the shop from a citation of its website. Our 18 to 23 July 2026 study found 9 of 85 B2B software companies were never named but had their own domain cited. For a local business, the practical checks are search eligibility, accurate business details and the location attached to the question."
+        ]
+      },
+      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The local auto-glass shop missing from a near-me answer leads, before the citation and naming distinction.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/fixes/can-google-ai-overview-answers-be-changed.md": {
+      "bank_id": "LB-Q0489",
+      "source_sha256": "45383144418c23727a72dd53f211da4edad3e5d641cb6899ac2f88261e648a75",
+      "canonical_source_sha256": "45383144418c23727a72dd53f211da4edad3e5d641cb6899ac2f88261e648a75",
+      "opening_sha256": "2a2a6e29dccdfeac1e736cdfb18ca1028b0fd75fe9b67397773e2cc863b29d6b",
+      "lead_figures": [
+        "figure:a573e70eff379bd895e8510e37748ac26af57acd269de32807249188b80e479a"
+      ],
+      "lead_figure_spans": {
+        "figure:a573e70eff379bd895e8510e37748ac26af57acd269de32807249188b80e479a": [
+          "Yes, Google AI Overview answers can change, but a publisher cannot directly edit the generated answer. In our [4 August 2026 repeat study](https://doi.org/10.5281/zenodo.21789120), the vendor-set overlap score averaged 0.499 across 62 Overview pairs; that observed variation was not a test of website edits or feedback."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "yes_no",
+      "classification_reason": "Yes directly answers whether an Overview can change, immediately qualifying publisher edit access.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/fixes/how-can-i-check-chatgpt-s-seo-output.md": {
+      "bank_id": "LB-Q0490",
+      "source_sha256": "487843f35f1cf4a9e15089183a8f5e9e75a04c1de421f7fc1570715a2ab9c6ab",
+      "canonical_source_sha256": "487843f35f1cf4a9e15089183a8f5e9e75a04c1de421f7fc1570715a2ab9c6ab",
+      "opening_sha256": "4f6e051d7d4b7b429e7eab079c187975a9e2e1ae1cb0af610d35e0c945935e0d",
+      "lead_figures": [
+        "figure:5a4d71411e2253b30de0863e40d0b9e9d4d01812896c03ba90b1657f35172ddf"
+      ],
+      "lead_figure_spans": {
+        "figure:5a4d71411e2253b30de0863e40d0b9e9d4d01812896c03ba90b1657f35172ddf": [
+          "Two of thirty ChatGPT answers carried a potentially-misleading flag in our [23 October 2026 PHP2Shell study](https://doi.org/10.5281/zenodo.23586713), while both retained the separate overall grade Incomplete. To check your SEO draft, isolate its factual claims and compare each with the dated primary record, rather than judging its fluency."
+        ]
+      },
+      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
+      "opening_shape": "figure_first",
+      "classification_reason": "Two of thirty flagged ChatGPT answers is the first informational subject, before the checking instruction.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
+    },
+    "answers/measurement/does-profound-provide-a-full-seo-audit-or-a-partial-audit.md": {
+      "bank_id": "LB-Q0109",
+      "source_sha256": "b8d2155dc4c845b132412f84ed4d2041909fee9eac73c2f2e27fce9895b6fe7b",
+      "canonical_source_sha256": "b8d2155dc4c845b132412f84ed4d2041909fee9eac73c2f2e27fce9895b6fe7b",
+      "opening_sha256": "5e30e0ef399aaf627eb4f096cdc995d6f84456cfeec303fa269253467b393e92",
+      "lead_figures": [
+        "figure:7ef6b66485087d6befc51e52f56635542ca89667bd5f92818d689c384006d346"
+      ],
+      "lead_figure_spans": {
+        "figure:7ef6b66485087d6befc51e52f56635542ca89667bd5f92818d689c384006d346": [
+          "An AI visibility score is not a full technical SEO audit. Profound's documented Answer Engine Insights and FactCheck cover answer presence, citations and brand-claim checks, so those are the parts of the audit question supported by the sources read on 29 October 2026. Our PHP2Shell study, captured on 23 October 2026, flagged 23 of 148 eligible answers as potentially misleading, a defined answer-review task to compare with those documented features."
+        ]
+      },
+      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The first sentence corrects the equivalence of an AI visibility score and a full technical SEO audit.",
+      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
     }
   },
   "index_question_titles": {

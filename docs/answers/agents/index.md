@@ -5,7 +5,7 @@ description: What assistants found, understood and reached on public software we
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T23:17:04+00:00'
+date_modified: '2026-10-30T00:52:54+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 11
@@ -15,7 +15,7 @@ library_order: 11
 
 What assistants found, understood and reached on public software websites.
 
-These 16 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 20 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Connections and public browsing
 
@@ -108,6 +108,30 @@ Clio lists ChatGPT-compatible actions through Zapier; Agent Gap reached 13 of 15
 [Can loan origination software integrate with ChatGPT?](can-loan-origination-software-integrate-with-chatgpt.md)
 
 LendingPad lists a loan-creation route for ChatGPT-compatible clients; Agent Gap reached 6 of 15 loan website endpoints on 6 October 2026.
+
+## Radiology patient-app connections
+
+[Can radiology software integrate with ChatGPT?](can-radiology-software-integrate-with-chatgpt.md)
+
+RamSoft announced a ChatGPT-powered imaging patient app in 2023. That embedded feature differs from connecting a consumer account.
+
+## Property-management custom API routes
+
+[Can residential property software integrate with ChatGPT?](can-residential-property-software-integrate-with-chatgpt.md)
+
+Buildium’s property-data API offers a possible custom GPT Actions route. Its account, authentication and lease scope still need a design.
+
+## Transportation account access
+
+[Can transportation software integrate with ChatGPT?](can-transportation-software-integrate-with-chatgpt.md)
+
+Alvys describes beta MCP access from ChatGPT for loads, invoices and tracking. Public-site reach is a separate observation.
+
+## Veterinary custom API connections
+
+[Can veterinary software integrate with ChatGPT?](can-veterinary-software-integrate-with-chatgpt.md)
+
+An ezyVet API and GPT Actions custom build is a possible route, subject to approval. That is different from a ready-made connector.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

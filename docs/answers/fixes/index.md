@@ -5,7 +5,7 @@ description: Source facts, readable pages and changes that can be checked after 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T23:17:04+00:00'
+date_modified: '2026-10-30T00:52:54+00:00'
 library_hub: true
 library_owner: Rohan Iyer, AI Engineer
 library_order: 9
@@ -15,7 +15,7 @@ library_order: 9
 
 Source facts, readable pages and changes that can be checked after publication.
 
-These 23 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 26 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Official company facts
 
@@ -154,6 +154,24 @@ Choose a buyer decision before a content format: Study 7 extracted 2,003 categor
 [How should teams handle SEO and GEO in day-to-day work?](how-should-teams-handle-seo-and-geo-in-day-to-day-work.md)
 
 Use dated claim records for daily SEO and GEO work. Two Procore pricing flags separate source checks, page edits and changed answers.
+
+## Local discovery and source citations
+
+[How can a local auto-glass business appear in Google AI and ChatGPT answers?](how-can-a-local-auto-glass-business-appear-in-google-ai-and-chatgpt-an.md)
+
+Check search access, business details and location. In our July study, 9/85 software companies were cited without being named.
+
+## Changing an Overview claim
+
+[Can Google AI Overview answers be changed?](can-google-ai-overview-answers-be-changed.md)
+
+Google Overview answers can vary, but publishers do not directly edit them. Source corrections, feedback and preview controls differ.
+
+## Checking an SEO draft’s factual claims
+
+[How can I check ChatGPT's SEO output?](how-can-i-check-chatgpt-s-seo-output.md)
+
+Check the exact facts in a ChatGPT SEO draft against primary records. Two of 30 dated site-owner answers carried misleading flags.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

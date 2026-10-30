@@ -5,7 +5,7 @@ description: Counts, citations, repeat runs and the evidence needed to compare r
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-29T21:08:52+00:00'
+date_modified: '2026-10-30T00:52:54+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 6
@@ -15,7 +15,7 @@ library_order: 6
 
 Counts, citations, repeat runs and the evidence needed to compare reports.
 
-These 22 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 25 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Questions
 
@@ -140,6 +140,24 @@ AthenaHQ's accuracy FAQ describes visibility metrics and client results. Read th
 [What does Hotwire GAIO.tech publish about model coverage?](what-does-hotwire-gaio-tech-publish-about-model-coverage.md)
 
 Hotwire named four chatbots in its GAIO.tech launch and a different list in the Spark announcement. Read the dated labels separately from our engine counts.
+
+## Named platform history features
+
+[Which AI visibility platforms offer historical data and time-series reporting?](which-ai-visibility-platforms-offer-historical-data-and-time-series-re.md)
+
+Otterly documents daily prompt history; Profound documents daily answer datasets and charts. Read the run identity behind each trend.
+
+## Hotwire’s product and service names
+
+[What AI visibility products does Hotwire GAIO.tech offer?](what-ai-visibility-products-does-hotwire-gaio-tech-offer.md)
+
+Hotwire’s dated GAIO.tech and Spark names differ from its current Ignite and GEO service descriptions. Keep the source dates with the catalog.
+
+## Documented audit scope
+
+[Does Profound provide a full SEO audit or a partial audit?](does-profound-provide-a-full-seo-audit-or-a-partial-audit.md)
+
+Profound documents answer visibility and claim checks. Our 23/148 flagged-answer study provides a concrete comparison of audit scope.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
