@@ -1,0 +1,287 @@
+release,category,vendor,canonical_domain,named_count,valid_target_base,named_pct,wilson_low_pct,wilson_high_pct,at_most_one_quarter,qualifying_cited_count,qualifying_cited_base,source
+2026-09,construction-project-management,Procore,procore.com,109,150,72.6667,65.0355,79.1659,False,30,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Autodesk Construction Cloud,autodesk.com,44,150,29.3333,22.6364,37.0623,False,17,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Buildertrend,buildertrend.com,83,150,55.3333,47.3431,63.0572,False,34,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Contractor Foreman,contractorforeman.com,77,150,51.3333,43.4018,59.1983,False,31,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Sage 300 CRE,sage.com,4,150,2.6667,1.0418,6.6554,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Trimble Viewpoint,viewpoint.com,11,150,7.3333,4.1439,12.6536,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,CMiC,cmicglobal.com,19,150,12.6667,8.2611,18.9366,True,2,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,InEight,ineight.com,8,150,5.3333,2.727,10.1704,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Kahua,kahua.com,22,150,14.6667,9.8894,21.2085,True,22,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Oracle Construction and Engineering,oracle.com,14,150,9.3333,5.6412,15.0564,True,5,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,RedTeam,redteam.com,8,150,5.3333,2.727,10.1704,True,7,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,eSUB,esub.com,11,150,7.3333,4.1439,12.6536,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Raken,rakenapp.com,2,150,1.3333,0.3664,4.7307,True,1,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Fieldwire,fieldwire.com,57,150,38.0,30.6237,45.9756,False,37,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Foundation Software,foundationsoft.com,11,150,7.3333,4.1439,12.6536,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Jonas Construction,jonasconstruction.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Penta Software,penta.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Buildxact,buildxact.com,22,150,14.6667,9.8894,21.2085,True,13,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,JobTread,jobtread.com,50,150,33.3333,26.2888,41.2102,False,23,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Leap,leaptodigital.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,ConstructionOnline,constructiononline.com,3,150,2.0,0.6825,5.7147,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,construction-project-management,Linarc,linarc.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,CDK Global,cdkglobal.com,90,150,60.0,52.0049,67.4957,False,13,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,Reynolds and Reynolds,reyrey.com,57,150,38.0,30.6237,45.9756,False,10,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,Dealertrack,dealertrack.com,67,150,44.6667,36.9428,52.6569,False,13,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,Tekion,tekion.com,76,150,50.6667,42.7497,58.5503,False,20,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,PBS Systems,pbssystems.com,22,150,14.6667,9.8894,21.2085,True,9,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,Quorum Information Technologies,quorumdms.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,DealerSocket,dealersocket.com,24,150,16.0,10.994,22.704,True,1,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,Auto/Mate,automate.com,15,150,10.0,6.1541,15.8435,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,DealerCenter,dealercenter.com,79,150,52.6667,44.7101,60.4901,False,23,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,Autosoft,autosoftdms.com,20,150,13.3333,8.7998,19.698,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,Frazer,frazer.com,59,150,39.3333,31.876,47.3234,False,19,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,AutoManager,automanager.com,31,150,20.6667,14.9589,27.8394,True,11,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,DealerBuilt,dealerbuilt.com,16,150,10.6667,6.673,16.6246,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,EverLogic,everlogic.com,16,150,10.6667,6.673,16.6246,True,8,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,DX1,dx1app.com,12,150,8.0,4.6354,13.4621,True,10,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,ZiiDMS,ziidms.com,3,150,2.0,0.6825,5.7147,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,Ideal Computer Systems,idealcomputersystems.com,22,150,14.6667,9.8894,21.2085,True,4,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,Lightspeed DMS,lightspeeddms.com,13,150,8.6667,5.1347,14.2628,True,11,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,Motility Software,motilitysoftware.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,BiT Dealership Software,bitdms.com,7,150,4.6667,2.2787,9.3186,True,4,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,IDS,ids-astra.com,1,150,0.6667,0.1178,3.6793,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dealership-management-systems,Dominion DMS,dominiondms.com,3,150,2.0,0.6825,5.7147,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,Dentrix,dentrix.com,120,149,80.5369,73.446,86.0929,False,13,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,Dentrix Ascend,dentrixascend.com,97,149,65.1007,57.155,72.2873,False,13,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,Dentrix Enterprise,dentrixenterprise.com,11,149,7.3826,4.172,12.7353,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,Eaglesoft,eaglesoft.net,69,149,46.3087,38.4958,54.3072,False,9,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,Open Dental,opendental.com,118,149,79.1946,71.984,84.9378,False,21,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,Curve Dental,curvedental.com,115,149,77.1812,69.8099,83.1862,False,37,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,Planet DDS (Denticon),planetdds.com,48,149,32.2148,25.2399,40.0836,False,15,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,Carestream Dental,carestreamdental.com,2,149,1.3423,0.3689,4.7616,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,DentiMax,dentimax.com,9,149,6.0403,3.21,11.0802,True,1,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,Dentally,dentally.co,0,149,0.0,0.0,2.5134,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,tab32,tab32.com,39,149,26.1745,19.7786,33.768,False,13,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,Adit,adit.com,7,149,4.698,2.2941,9.3791,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,Practice-Web,practice-web.com,21,149,14.094,9.4067,20.5861,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,XLDent,xldent.com,0,149,0.0,0.0,2.5134,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,MacPractice,macpractice.com,0,149,0.0,0.0,2.5134,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,ABELDent,abeldent.com,4,149,2.6846,1.0488,6.6987,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,DSN,dsn.com,0,149,0.0,0.0,2.5134,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,CareStack,carestack.com,63,149,42.2819,34.6417,50.3101,False,18,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,ACE Dental,ace-dental.com,3,149,2.0134,0.6871,5.7519,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,dental-practice-management,Oryx Dental,oryxdental.com,15,149,10.0671,6.1961,15.9454,True,13,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,ServiceTitan,servicetitan.com,102,150,68.0,60.1656,74.9355,False,35,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,Housecall Pro,housecallpro.com,108,150,72.0,64.3343,78.567,False,43,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,Jobber,getjobber.com,50,150,33.3333,26.2888,41.2102,False,46,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,FieldEdge,fieldedge.com,44,150,29.3333,22.6364,37.0623,False,22,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,ServiceTrade,servicetrade.com,23,150,15.3333,10.44,21.958,True,13,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,Workiz,workiz.com,58,150,38.6667,31.2491,46.6502,False,20,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,simpro,simpro.com,28,150,18.6667,13.2424,25.6557,True,6,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,Service Fusion,servicefusion.com,41,150,27.3333,20.8341,34.9645,False,12,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,Kickserv,kickserv.com,20,150,13.3333,8.7998,19.698,True,2,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,RazorSync,razorsync.com,3,150,2.0,0.6825,5.7147,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,FieldPulse,fieldpulse.com,57,150,38.0,30.6237,45.9756,False,28,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,Sera Systems,serasystems.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,BuildOps,buildops.com,22,150,14.6667,9.8894,21.2085,True,11,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,ServiceMax,servicemax.com,2,150,1.3333,0.3664,4.7307,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,Zuper,zuper.co,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,ServiceM8,servicem8.com,19,150,12.6667,8.2611,18.9366,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,WorkWave,workwave.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,ServicePower,servicepower.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,BigChange,bigchange.com,1,150,0.6667,0.1178,3.6793,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,Joblogic,joblogic.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,Commusoft,commusoft.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,field-service-management,Successware,successware.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Oracle OPERA Cloud,oracle.com,25,149,16.7785,11.6308,23.5961,True,15,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Mews,mews.com,48,149,32.2148,25.2399,40.0836,False,43,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Cloudbeds,cloudbeds.com,115,149,77.1812,69.8099,83.1862,False,38,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,RoomRaccoon,roomraccoon.com,28,149,18.7919,13.3337,25.819,True,3,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Apaleo,apaleo.com,6,149,4.0268,1.8584,8.5062,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Stayntouch,stayntouch.com,68,149,45.6376,37.8499,53.6446,False,39,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,HotelTime Solutions,hoteltime.com,5,149,3.3557,1.4417,7.6144,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Planet protel,protel.net,0,149,0.0,0.0,2.5134,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Aven Hospitality (SynXis),avenhospitality.com,1,149,0.6711,0.1186,3.7033,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Amadeus Hospitality (iHotelier),amadeus-hospitality.com,0,149,0.0,0.0,2.5134,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Guestline,guestline.com,0,149,0.0,0.0,2.5134,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,RMS Cloud,rmscloud.com,35,149,23.4899,17.4024,30.9101,True,4,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,innRoad,innroad.com,5,149,3.3557,1.4417,7.6144,True,3,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,ThinkReservations,thinkreservations.com,11,149,7.3826,4.172,12.7353,True,2,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Little Hotelier,littlehotelier.com,51,149,34.2282,27.092,42.1571,False,18,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Hotelogix,hotelogix.com,32,149,21.4765,15.6436,28.7432,True,14,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,WebRezPro,webrezpro.com,24,149,16.1074,11.0695,22.8489,True,1,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Clock PMS+,clock-software.com,0,149,0.0,0.0,2.5134,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,RoomKeyPMS,roomkeypms.com,15,149,10.0671,6.1961,15.9454,True,8,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Maestro PMS,maestropms.com,43,149,28.8591,22.1874,36.5934,False,12,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Visual Matrix,visualmatrix.com,0,149,0.0,0.0,2.5134,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,ResNexus,resnexus.com,4,149,2.6846,1.0488,6.6987,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,eviivo,eviivo.com,11,149,7.3826,4.172,12.7353,True,8,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,roommaster,roommaster.com,20,149,13.4228,8.8601,19.8242,True,19,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,hotel-property-management,Yanolja Cloud Solution (eZee),yanoljacloudsolution.com,10,149,6.7114,3.686,11.9128,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,Applied Systems,appliedsystems.com,127,150,84.6667,78.042,89.56,False,54,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,Vertafore,vertafore.com,92,150,61.3333,53.3498,68.7509,False,20,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,EZLynx,ezlynx.com,111,150,74.0,66.4436,80.3579,False,35,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,HawkSoft,hawksoft.com,97,150,64.6667,56.7381,71.8627,False,34,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,NowCerts,nowcerts.com,48,150,32.0,25.0645,39.8344,False,7,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,AgencyZoom,agencyzoom.com,31,150,20.6667,14.9589,27.8394,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,GloveBox,glovebox.io,10,150,6.6667,3.6612,11.8362,True,1,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,AgencyBloc,agencybloc.com,35,150,23.3333,17.2826,30.7158,True,15,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,SIBRO,sibro.xyz,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,Partner XE (SIS),sisware.com,6,150,4.0,1.8459,8.4513,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,InsuredMine,insuredmine.com,13,150,8.6667,5.1347,14.2628,True,8,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,NASA (Eclipse),nasasoft.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,NextAgency,nextagency.com,22,150,14.6667,9.8894,21.2085,True,14,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,Ebix (SmartOffice),ebix.com,3,150,2.0,0.6825,5.7147,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,Agency Systems (Newton),agencysystems.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,Zywave,zywave.com,10,150,6.6667,3.6612,11.8362,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,Quikfuzion,quikfuzion.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,Dyad,dyadtech.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,insurance-agency-management,BindHQ,bindhq.com,1,150,0.6667,0.1178,3.6793,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Clio,clio.com,126,150,84.0,77.296,89.006,False,53,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,8am MyCase,mycase.com,96,150,64.0,56.0574,71.2434,False,47,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,PracticePanther,practicepanther.com,76,150,50.6667,42.7497,58.5503,False,32,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Smokeball,smokeball.com,68,150,45.3333,37.5825,53.3172,False,15,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Filevine,filevine.com,74,150,49.3333,41.4497,57.2503,False,17,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Litify,litify.com,10,150,6.6667,3.6612,11.8362,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,CosmoLex,cosmolex.com,77,150,51.3333,43.4018,59.1983,False,20,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Rocket Matter,rocketmatter.com,26,150,17.3333,12.1121,24.186,True,6,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Tabs3,tabs3.com,6,150,4.0,1.8459,8.4513,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Actionstep,actionstep.com,24,150,16.0,10.994,22.704,True,9,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,CARET Legal,caretlegal.com,15,150,10.0,6.1541,15.8435,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Centerbase,centerbase.com,8,150,5.3333,2.727,10.1704,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Bill4Time,bill4time.com,1,150,0.6667,0.1178,3.6793,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,LEAP Legal Software,leap.us,2,150,1.3333,0.3664,4.7307,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,ProLaw,prolaw.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Aderant,aderant.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Assembly Neos,assemblysoftware.com,10,150,6.6667,3.6612,11.8362,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Amicus Attorney,amicusattorney.com,2,150,1.3333,0.3664,4.7307,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,MerusCase,meruscase.com,2,150,1.3333,0.3664,4.7307,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,Lawcus,lawcus.com,2,150,1.3333,0.3664,4.7307,True,1,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,legal-practice-management,RunSensible,runsensible.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,nCino,ncino.com,92,150,61.3333,53.3498,68.7509,False,29,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,MeridianLink,meridianlink.com,81,150,54.0,46.0238,61.7764,False,25,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,ICE Mortgage Technology,icemortgagetechnology.com,62,150,41.3333,33.7653,49.3341,False,4,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Blend,blend.com,22,150,14.6667,9.8894,21.2085,True,15,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Byte Software,bytesoftware.com,6,150,4.0,1.8459,8.4513,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Calyx,calyxsoftware.com,31,150,20.6667,14.9589,27.8394,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,LendingPad,lendingpad.com,36,150,24.0,17.8693,31.4291,True,6,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Floify,floify.com,2,150,1.3333,0.3664,4.7307,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Temenos,temenos.com,7,150,4.6667,2.2787,9.3186,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Finastra,finastra.com,23,150,15.3333,10.44,21.958,True,5,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Jack Henry,jackhenry.com,27,150,18.0,12.6758,24.9223,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,FICS,fics.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Abrigo,abrigo.com,50,150,33.3333,26.2888,41.2102,False,18,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Baker Hill,bakerhill.com,36,150,24.0,17.8693,31.4291,True,7,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,TurnKey Lender,turnkeylender.com,19,150,12.6667,8.2611,18.9366,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Sync1 Systems,sync1systems.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Origence,origence.com,14,150,9.3333,5.6412,15.0564,True,10,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,defi SOLUTIONS,defisolutions.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Nortridge,nortridge.com,3,150,2.0,0.6825,5.7147,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,LoanPro,loanpro.io,19,150,12.6667,8.2611,18.9366,True,15,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Vergent LMS,vergentlms.com,1,150,0.6667,0.1178,3.6793,True,1,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,The Mortgage Office,themortgageoffice.com,4,150,2.6667,1.0418,6.6554,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,LendingWise,lendingwise.com,13,150,8.6667,5.1347,14.2628,True,5,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,MortgageFlex,mortgageflex.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,loan-origination-software,Mortgage Cadence,mortgagecadence.com,11,150,7.3333,4.1439,12.6536,True,1,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Sectra,sectra.com,87,150,58.0,49.9985,65.602,False,19,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Philips (HealthSuite Imaging),philips.com,27,150,18.0,12.6758,24.9223,True,2,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,GE HealthCare,gehealthcare.com,24,150,16.0,10.994,22.704,True,6,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Fujifilm (Synapse),fujifilm.com,51,150,34.0,26.9033,41.8957,False,14,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Agfa HealthCare,agfahealthcare.com,41,150,27.3333,20.8341,34.9645,False,4,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Intelerad,intelerad.com,80,150,53.3333,45.3662,61.1339,False,31,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,RamSoft,ramsoft.com,46,150,30.6667,23.847,38.4518,False,18,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Novarad,novarad.net,17,150,11.3333,7.1974,17.4003,True,7,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Merative (Merge),merative.com,16,150,10.6667,6.673,16.6246,True,1,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Canon Medical Informatics,vitalimages.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Siemens Healthineers,siemens-healthineers.com,13,150,8.6667,5.1347,14.2628,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Hyland,hyland.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,PaxeraHealth,paxerahealth.com,4,150,2.6667,1.0418,6.6554,True,1,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Visage Imaging,visageimaging.com,65,150,43.3333,35.6676,51.332,False,18,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Mach7 Technologies,mach7t.com,3,150,2.0,0.6825,5.7147,True,1,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,PostDICOM,postdicom.com,15,150,10.0,6.1541,15.8435,True,10,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,AdvaPACS,advapacs.com,5,150,3.3333,1.432,7.5652,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,MedInformatix,medinformatix.com,6,150,4.0,1.8459,8.4513,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,AbbaDox,abbadox.com,16,150,10.6667,6.673,16.6246,True,8,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Pro Medicus,promedicus.com.au,6,150,4.0,1.8459,8.4513,True,2,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,INFINITT Healthcare,infinitt.com,17,150,11.3333,7.1974,17.4003,True,1,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,OnePACS,onepacs.com,12,150,8.0,4.6354,13.4621,True,6,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,eRAD,erad.com,12,150,8.0,4.6354,13.4621,True,7,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,radiology-medical-imaging,Carestream Health,carestream.com,10,150,6.6667,3.6612,11.8362,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,AppFolio,appfolio.com,95,148,64.1892,56.1959,71.4646,False,37,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Buildium,buildium.com,119,148,80.4054,73.2761,85.9963,False,71,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Yardi,yardi.com,71,148,47.973,40.0778,55.9707,False,31,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Rent Manager,rentmanager.com,24,148,16.2162,11.1461,22.9957,True,17,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Propertyware,propertyware.com,12,148,8.1081,4.6988,13.637,True,1,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Rentvine,rentvine.com,6,148,4.0541,1.871,8.5619,True,2,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,DoorLoop,doorloop.com,77,148,52.027,44.0293,59.9222,False,37,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,TenantCloud,tenantcloud.com,36,148,24.3243,18.1189,31.8289,True,14,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Hemlane,hemlane.com,11,148,7.4324,4.2006,12.8181,True,9,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Innago,innago.com,41,148,27.7027,21.1262,35.4074,False,9,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,TurboTenant,turbotenant.com,33,148,22.2973,16.3406,29.6557,True,16,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Avail,avail.co,4,148,2.7027,1.0559,6.7426,True,4,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Zillow Rental Manager,zillow.com,3,148,2.027,0.6917,5.7897,True,0,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,RentRedi,rentredi.com,13,148,8.7838,5.2051,14.4479,True,4,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Property Matrix,propertymatrix.com,0,148,0.0,-0.0,2.5299,True,0,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,ResMan,resman.co,5,148,3.3784,1.4515,7.6642,True,0,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Entrata,entrata.com,15,148,10.1351,6.2386,16.0487,True,3,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,SimplifyEm,simplifyem.com,2,148,1.3514,0.3714,4.7929,True,0,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Landlord Studio,landlordstudio.com,13,148,8.7838,5.2051,14.4479,True,9,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Baselane,baselane.com,18,148,12.1622,7.8333,18.4056,True,15,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,ManageCasa,managecasa.com,0,148,0.0,-0.0,2.5299,True,0,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,residential-property-management,Condo Control,condocontrol.com,0,148,0.0,-0.0,2.5299,True,0,148,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Infios (MercuryGate),infios.com,35,150,23.3333,17.2826,30.7158,True,6,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Descartes,descartes.com,32,150,21.3333,15.5362,28.5621,True,5,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Blue Yonder,blueyonder.com,23,150,15.3333,10.44,21.958,True,8,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Oracle Transportation Management,oracle.com,43,150,28.6667,22.0338,36.3649,False,9,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,SAP Transportation Management,sap.com,38,150,25.3333,19.0491,32.8494,False,7,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Trimble Transportation,trimble.com,9,150,6.0,3.1884,11.009,True,1,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,e2open,e2open.com,18,150,12.0,7.7269,18.1708,True,6,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Manhattan Active TM,manh.com,8,150,5.3333,2.727,10.1704,True,1,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Uber Freight TMS,uberfreight.com,5,150,3.3333,1.432,7.5652,True,2,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Turvo,turvo.com,28,150,18.6667,13.2424,25.6557,True,8,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Kuebix by FreightWise,kuebix.com,11,150,7.3333,4.1439,12.6536,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,FreightPOP,freightpop.com,22,150,14.6667,9.8894,21.2085,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Descartes 3G TMS,3gtms.com,24,150,16.0,10.994,22.704,True,2,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Descartes Aljex,aljex.com,23,150,15.3333,10.44,21.958,True,11,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Tai TMS,taisoftware.com,39,150,26.0,19.6421,33.5564,False,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Rose Rocket,roserocket.com,26,150,17.3333,12.1121,24.186,True,6,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Alvys,alvys.com,58,150,38.6667,31.2491,46.6502,False,29,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,AscendTMS,ascendtms.com,64,150,42.6667,35.0321,50.6675,False,9,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Revenova,revenova.com,6,150,4.0,1.8459,8.4513,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,PCS Software,pcssoft.com,5,150,3.3333,1.432,7.5652,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,McLeod Software,mcleodsoftware.com,17,150,11.3333,7.1974,17.4003,True,2,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Axon Software,axonsoftware.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,3PL Systems,3plsystems.com,1,150,0.6667,0.1178,3.6793,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,IntelliTrans,intellitrans.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,transportation-management-systems,Princeton TMX,princetontmx.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,"IDEXX (Cornerstone, Neo)",idexx.com,90,149,60.4027,52.3835,67.899,False,31,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,ezyVet,ezyvet.com,115,149,77.1812,69.8099,83.1862,False,35,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,Covetrus Pulse,covetrus.com,45,149,30.2013,23.4031,37.9948,False,8,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,AVImark,covetrus.com,33,149,22.1477,16.2275,29.4678,True,1,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,ImproMed,covetrus.com,11,149,7.3826,4.172,12.7353,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,Provet,provet.cloud,54,149,36.2416,28.9588,44.216,False,29,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,Shepherd,shepherd.vet,56,149,37.5839,30.2111,45.5808,False,34,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,Digitail,digitail.io,67,149,44.9664,37.2054,52.9805,False,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,DaySmart Vet,daysmart.com,57,149,38.255,30.8396,46.2609,False,11,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,NaVetor,navetor.com,4,149,2.6846,1.0488,6.6987,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,IntraVet,intravet.com,2,149,1.3423,0.3689,4.7616,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,Vetspire,vetspire.com,29,149,19.4631,13.9071,26.554,True,3,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,ClienTrax,clientrax.com,0,149,0.0,0.0,2.5134,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,Instinct,instinct.vet,25,149,16.7785,11.6308,23.5961,True,23,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,VetBadger,vetbadger.com,3,149,2.0134,0.6871,5.7519,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,Vetport,vetport.com,9,149,6.0403,3.21,11.0802,True,5,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,Onward Vet,onwardvet.com,0,149,0.0,0.0,2.5134,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,VetlinkPRO,vetlinkpro.com,0,149,0.0,0.0,2.5134,True,0,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,veterinary-practice-management,VIA,viainfosys.com,6,149,4.0268,1.8584,8.5062,True,3,149,Published release vendor counts; no fresh per-answer scoring
+2026-09,crm,Salesforce Sales Cloud,salesforce.com,109,150,72.6667,65.0355,79.1659,False,37,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,crm,HubSpot CRM,hubspot.com,113,150,75.3333,67.8597,81.5418,False,34,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,crm,Pipedrive,pipedrive.com,97,150,64.6667,56.7381,71.8627,False,29,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,crm,Zoho CRM,zoho.com,73,150,48.6667,40.8017,56.5982,False,23,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,crm,Nimble,nimble.com,0,150,0.0,0.0,2.497,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,crm,Microsoft Dynamics 365,microsoft.com,36,150,24.0,17.8693,31.4291,True,9,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,crm,Freshsales,freshworks.com,22,150,14.6667,9.8894,21.2085,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,crm,Copper,copper.com,4,150,2.6667,1.0418,6.6554,True,0,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,crm,Insightly,insightly.com,10,150,6.6667,3.6612,11.8362,True,4,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,crm,Close,close.com,12,150,8.0,4.6354,13.4621,True,4,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,project_management,Jira,atlassian.com,63,150,42.0,34.398,50.0015,False,24,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,project_management,Asana,asana.com,97,150,64.6667,56.7381,71.8627,False,42,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,project_management,Smartsheet,smartsheet.com,54,150,36.0,28.7566,43.9426,False,7,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,project_management,monday.com,monday.com,26,150,17.3333,12.1121,24.186,True,21,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,project_management,ClickUp,clickup.com,80,150,53.3333,45.3662,61.1339,False,13,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,project_management,Notion,notion.com,6,150,4.0,1.8459,8.4513,True,6,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,project_management,Airtable,airtable.com,13,150,8.6667,5.1347,14.2628,True,6,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,project_management,Wrike,wrike.com,54,150,36.0,28.7566,43.9426,False,34,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,project_management,Basecamp,basecamp.com,18,150,12.0,7.7269,18.1708,True,3,150,Published release vendor counts; no fresh per-answer scoring
+2026-09,project_management,Trello,trello.com,32,150,21.3333,15.5362,28.5621,True,6,150,Published release vendor counts; no fresh per-answer scoring
