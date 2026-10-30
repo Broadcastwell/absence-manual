@@ -37,7 +37,7 @@ The distinction may depend on dedicated versus combined responsibilities, but th
 
 ## How were the interviews analyzed?
 
-The researchers sent questions and a semi-structured questionnaire electronically. Most questions were open-ended; closed questions covered selected characteristics, familiarity and reported practices. Respondents could explain their choices. The authors used thematic analysis, reading and coding responses, grouping recurring patterns, refining themes and connecting them to the research questions. [§4, PDF pp. 76 to 77].
+The researchers sent questions and a semi-structured questionnaire electronically. Most questions were open-ended; fixed-response questions covered selected characteristics, familiarity and reported practices. Respondents could explain their choices. The authors used thematic analysis, reading and coding responses, grouping recurring patterns, refining themes and connecting them to the research questions. [§4, PDF pp. 76 to 77].
 
 That approach is suited to describing experiences and organizational reasoning. It does not independently verify every reported activity. It also differs from observing the newsroom over time, inspecting its complete analytics records or randomly assigning a new publishing practice.
 
@@ -86,7 +86,7 @@ We grade this use C: a small exploratory, self-reported case study that offers c
 
 A fictional company, Cedarline Software, could use the interview topics to inspect its own responsibilities. Who can correct an inaccurate product description? Who decides whether documentation needs a clearer title? Who checks whether a published claim still has a source? Who can distinguish a search visit from an AI citation?
 
-These are questions prompted by the paper, not a validated management intervention derived from it. They may reveal a gap without prescribing a new department. For a small team, giving an existing person clear responsibility may be more feasible than creating a specialist position. The trade-off is capacity and authority, which the interview study does not price or experimentally compare.
+These are questions prompted by the paper, not a validated management intervention derived from it. They may reveal a gap without prescribing a new department. For a small team, giving an existing person clear responsibility may be more feasible than creating a specialist position. The trade-off concerns available staff time and authority, which the interview study does not price or experimentally compare.
 
 The measurement has to remain separate from the remedy. If a company is rarely named in a fixed set of buyer answers, that is an observation about those answers. It does not identify whether the cause is staffing, source coverage, product fit, question selection or something else. The newsroom cases do not supply the missing causal test.
 

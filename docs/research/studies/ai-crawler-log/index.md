@@ -43,9 +43,9 @@ The collection covers known public HTML routes on **index.broadcastwell.com**, f
 
 The log does not cover docs.broadcastwell.com, app.broadcastwell.com, other company surfaces or activity that never reaches the observed routes. A service can use cached information, an outside index or a different public page without producing an event here. An unanswered or blocked request falls outside the successful-response record and must not be interpreted as a confirmed absence of crawling.
 
-Only four observation fields are stored: timestamp, public path, sanitized user-agent string and a yes/no match to the declared AI-request tokens. Query strings, request bodies, cookies and addresses are not stored. Recognizable email or address strings inside a user-agent value are removed. The public releases contain aggregates rather than raw visitor strings.
+Only four observation fields are stored: timestamp, public path, sanitized user-agent string and a yes/no match to the declared AI-request tokens. Query strings, request bodies, cookies and addresses are not stored. The initial sanitizer removed email and IPv4 strings. A reserved-address test later showed that IPv6 strings were retained. A corrected sanitizer is supplied with the public collection instrument; the synthetic test does not establish that an actual visitor address was stored. The initial collection therefore cannot be described as guaranteeing removal of every address form. The public releases contain aggregates rather than raw visitor strings.
 
-There is a **4,000-observation ceiling per UTC day**. A separate daily counter records whether that ceiling was reached. A capped day is incomplete and must be labelled as such in subsequent tables. The ceiling, missing coverage and logging failures cannot be converted into zero visits for the unobserved period. [Public collection rules, revision eca4fdc, verified 30 October 2026].
+There is a **4,000-observation ceiling per UTC day**. A separate daily counter records whether that ceiling was reached. A capped day is incomplete and must be labelled as such in subsequent tables. The ceiling, missing coverage and logging failures cannot be converted into zero visits for the unobserved period. [Public collection instrument](../../data/research-crawler-collection.mjs), verified 30 October 2026. Its corrected sanitizer is distinguished from the initial production version.
 
 ## The first table is a starting record
 
@@ -111,7 +111,7 @@ The [initial observation CSV](../../data/ai-crawler-log.csv) is a direct aggrega
 - Google Search Central. (2026). Google common crawlers. Googlebot and Google-Extended distinction. https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers Verified 30 October 2026.
 - Microsoft Bing. (2026). Which crawlers does Bing use? Bingbot identities and verification. https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0 Verified 30 October 2026.
 - Apple. (2026, September 4). About Applebot. Applebot, Applebot-Extended and verification. https://support.apple.com/en-us/119829 Verified 30 October 2026.
-- Broadcastwell. (2026). Public-request crawler study collection rules. Public source revision eca4fdcd6aaccf02c653af812e265cbeb1a69079, lib/research-crawler-log.mjs. https://github.com/Broadcastwell/bw-index-site/blob/eca4fdcd6aaccf02c653af812e265cbeb1a69079/lib/research-crawler-log.mjs Verified 30 October 2026.
+- Broadcastwell. (2026). Public-request crawler study collection instrument. https://docs.broadcastwell.com/research/data/research-crawler-collection.mjs . Initial implementation and later sanitizer correction distinguished in the page text. Verified 30 October 2026.
 
 ## Cite this page
 

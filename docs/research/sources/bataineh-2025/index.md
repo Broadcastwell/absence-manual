@@ -29,7 +29,7 @@ That outcome definition deserves to come before the path coefficients. The ranki
 
 The authors selected five private universities across geographic strata in Jordan: Jadara University, Zarqa University, Applied Science Private University, Al-Ahliyya Amman University and Al-Zaytoonah University of Jordan. Within the selected institutions, they used convenience sampling because of access and resource limitations. It would therefore be inaccurate to describe the respondents as a simple random sample of every university user in Jordan. [§3.1, PDF p. 6, printed p. 5].
 
-Collection ran from **February to April 2024**, using a structured questionnaire distributed through university social-media links and campus QR codes. Table 1 reports **791 participants**. The earlier pilot involved **30 participants**; it is a separate instrument-development step rather than another independent outcome sample to add to the reported base. [§3.3, PDF p. 7, printed p. 6].
+Collection ran from **February to April 2024**, using a structured questionnaire distributed through university social-media links and campus QR codes. Table 1 reports **791 participants**. The earlier questionnaire check involved **30 participants**; it is a separate instrument-development step rather than another independent outcome sample to add to the reported base. [§3.3, PDF p. 7, printed p. 6].
 
 | Role in the reported sample | Respondents |
 |---|---:|
