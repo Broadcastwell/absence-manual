@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T13:21:55+00:00'
+date_modified: '2026-10-30T14:13:49+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,7 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 37 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 43 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -215,17 +215,53 @@ Published Dentrix Ascend scheduling and billing functions, a multi-location cust
 
 Blue Yonder’s page lists LTL execution. Our 6/30 ChatGPT count concerns enterprise and alternative questions, without an LTL shipment test.
 
+## Combined AI visibility and social listening
+
+[Which tools combine AI visibility and social listening?](which-tools-combine-ai-visibility-and-social-listening.md)
+
+Meltwater documents GenAI Lens alongside social listening. Our dated Reddit-citation count shows why AI source links and social-conversation records differ.
+
+## Evidence for competitive-industry GEO claims
+
+[Who has the best GEO results in competitive industries?](who-has-the-best-geo-results-in-competitive-industries.md)
+
+A dated WebFX publication check and Suede’s named Koomba case show how to inspect evidence without turning different records into a universal agency winner.
+
+## AI assistance for SEO work
+
+[Can I use AI to do my SEO?](can-i-use-ai-to-do-my-seo.md)
+
+AI can assist SEO research and drafting. Our dated HubSpot claim checks show why company facts still need their own retained source and reference date.
+
 ## ChatGPT and the CRM system of record
 
 [Can I use ChatGPT as a CRM?](can-i-use-chatgpt-as-a-crm.md)
 
 ChatGPT can be an interface to HubSpot CRM. Our 1/150 system-of-record criterion separates a useful chat from the customer database and its permissions.
 
+## Perplexity for SEO source research
+
+[Is Perplexity good for SEO?](is-perplexity-good-for-seo.md)
+
+Perplexity can help research sources for SEO work. A dated Salesforce citation example shows what its answer links establish and what still needs checking.
+
 ## Three CRM naming totals
 
 [What are the top 3 CRM platforms?](what-are-the-top-3-crm-platforms.md)
 
 HubSpot CRM, Pipedrive and Salesforce had the September panel’s highest naming totals. This is dated visibility, not a product-quality verdict.
+
+## Meaning of large language model
+
+[What does LLM in AI mean?](what-does-llm-in-ai-mean.md)
+
+LLM means large language model. Read how tokens, context and Transformers relate to generated text, with a dated company-fact example.
+
+## Task-specific AI CRM comparison
+
+[Which AI-based CRM is the best?](which-ai-based-crm-is-the-best.md)
+
+A CRM’s AI label does not establish the best fit. A dated buyer-question criterion and HubSpot’s documented record controls make the comparison more specific.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 

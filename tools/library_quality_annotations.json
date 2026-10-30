@@ -6138,6 +6138,52 @@
       "unit": "answers",
       "label": "Salesforce Sales Cloud named in pooled-five-engines crm",
       "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:31d754e058f055ca9b3680af104d437f00551f2e41ae74b1f20f69298587545d": {
+      "source_url": "https://doi.org/10.5281/zenodo.23270124",
+      "record": {
+        "capture_date": "2026-09-22",
+        "event_date": "2026-10-08",
+        "subject": "HubSpot CRM",
+        "metric": "wrong",
+        "category": "crm",
+        "cohort": "all-classified-statements"
+      },
+      "count": 2,
+      "base": 47,
+      "unit": "statements",
+      "label": "HubSpot CRM wrong or stale published claim flags",
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5"
+    },
+    "figure:2de21ef73760d73e3dc9da5c4d6e1d3ef7a26073b2a9e79b1fded0c487103737": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "subject": "aiproof",
+        "metric": "criterion_stated",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 3,
+      "base": 150,
+      "unit": "answers",
+      "label": "Evaluation of AI accuracy or practical usefulness",
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5"
+    },
+    "figure:84e01f5cf10be295c9736f28a5ae267de5f125c7de2a527d044133a2d866f368": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "hotel-property-management",
+        "subject": "S2",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 4,
+      "base": 5,
+      "unit": "initial_tasks",
+      "label": "Agent Gap hotel-property-management initial pricing-page tasks reached",
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5"
     }
   },
   "pages": {
@@ -12246,6 +12292,168 @@
       "opening_shape": "source_first",
       "classification_reason": "The explicitly named dated CRMIndex source is the opening preface, before the highest-name list/count. This is reviewed as a named-source-led form, consistent with named-publication openings, rather than relabelling to fit current inventory.",
       "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/geo-basics/can-i-use-ai-to-do-my-seo.md": {
+      "source_sha256": "0bf6fd026b04b292570bafbcae36bcf787a79d7bdf71381ad1fc83db22f35587",
+      "canonical_source_sha256": "8e906db7995fecd4db7f6f30003abb5486a223da421558767698456631c7c011",
+      "opening_sha256": "a35b9d8f14d96f4e42331d3dbf79b3be5642b54700c3f6871c30ec22755b6abf",
+      "bank_id": "LB-Q0295",
+      "lead_figures": [
+        "figure:31d754e058f055ca9b3680af104d437f00551f2e41ae74b1f20f69298587545d"
+      ],
+      "lead_figure_spans": {
+        "figure:31d754e058f055ca9b3680af104d437f00551f2e41ae74b1f20f69298587545d": [
+          "Yes, AI can assist with SEO research and drafting, provided you check the factual material it supplies. Our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) labelled 2 of 47 HubSpot CRM statements wrong, using 22 September 2026 answer captures and an 8 October reference check. Those two statements concern free-tier contact limits, a concrete input that could otherwise enter a comparison page."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "yes_no",
+      "classification_reason": "The initial Yes directly answers whether AI can assist SEO research/drafting, with a stated condition.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/geo-basics/is-perplexity-good-for-seo.md": {
+      "source_sha256": "9efcd555862305edbfdaaf1150a26dd9b569f76c574af76ab813f9ba58659b1b",
+      "canonical_source_sha256": "1476de764012e7bdf2ee8821e63bcbc21a7d644954a22c3248fb350c76d5c9b2",
+      "opening_sha256": "054eaae00742fdac6c834036b82ef64acdfb9ef598f68b20b4b9b3940ed3d585",
+      "bank_id": "LB-Q0300",
+      "lead_figures": [
+        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801"
+      ],
+      "lead_figure_spans": {
+        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801": [
+          "Use Perplexity to locate and inspect sources for SEO research, rather than treating it as evidence of a ranking improvement. Our [22 September 2026 CRM Index](https://doi.org/10.5281/zenodo.22907695) recorded Salesforce-domain citations in 3 of 30 Perplexity answers. All three point to the same Salesforce small-business CRM article, making the underlying page inspectable rather than supplying three independent references."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "action_first",
+      "classification_reason": "Use Perplexity is the genuine leading imperative before the dated source-selection example.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/measurement/how-should-a-report-present-these-outcomes.md": {
+      "source_sha256": "dded420706889816386357a033b87c30df09d37e570f463e8e173a2c5aca1bec",
+      "canonical_source_sha256": "cd547660a87a5d3dbdba95553aefec4661894ad3c5cecf581ae8e8b420573c53",
+      "opening_sha256": "a186dfe6aeda2098c4f593fc5a5fe3a14c2215648056772afccf5e2597f373e1",
+      "bank_id": "LB-Q0284",
+      "lead_figures": [
+        "figure:4961c3c7635a3010c68f1ec506402d0d961eedaf03cd83d407bb42233682ee36"
+      ],
+      "lead_figure_spans": {
+        "figure:4961c3c7635a3010c68f1ec506402d0d961eedaf03cd83d407bb42233682ee36": [
+          "The [AI Source Standard](https://docs.broadcastwell.com/ai-source-standard/) calls for separate answer, visit, buyer-report and commercial-event measures. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) supplies one such row: among thirty CRM returns from Google AI Mode, three cite a HubSpot-domain URL. A report can place that count beside separately evidenced outcomes, with each row retaining its own date, definition and source."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "source_first",
+      "classification_reason": "The named AI Source Standard and its reporting rule lead before the own Mode citation row.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/geo-basics/what-does-llm-in-ai-mean.md": {
+      "source_sha256": "e3d0f0a3df16c4ba95bcbec9c7fbd75bddfaa384c1ca9766d92b359530ccb093",
+      "canonical_source_sha256": "3328abbf97f0a5ec354d5edb3df89de5c019ca1861d8459d92cc1ed5afb65ff1",
+      "opening_sha256": "5b154bc11a543a00cca3b3615489a82dd04380222ef8e8751671ee53c1865723",
+      "bank_id": "LB-Q0304",
+      "lead_figures": [
+        "figure:31d754e058f055ca9b3680af104d437f00551f2e41ae74b1f20f69298587545d"
+      ],
+      "lead_figure_spans": {
+        "figure:31d754e058f055ca9b3680af104d437f00551f2e41ae74b1f20f69298587545d": [
+          "LLM stands for large language model, a system trained on text to predict sequences of smaller language units called tokens. Generating such a sequence does not establish a product fact. For HubSpot CRM, [Wrong About You](https://doi.org/10.5281/zenodo.23270124) records 47 classified statements, including 2 marked wrong. The source answers date to 22 September 2026; their reference was checked on 8 October 2026. One retained example misstated the free tier's contact allowance."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The acronym expansion and token-generation definition lead before the bounded wrong-statement example.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/measurement/how-should-the-report-show-visits.md": {
+      "source_sha256": "c045826a7a0189d8e8c01b49f4c5c2d6d97c46bd656a2c0ba25b998999e64a6a",
+      "canonical_source_sha256": "da1af971f29b322404c6edc663731ac75e6f1dae9678deef9dbabdf06e79f0dc",
+      "opening_sha256": "c255688a837b0a4082d72fcda0a47bdf856dc1a9bf5b3a1607cf4f80e324d1da",
+      "bank_id": "LB-Q0285",
+      "lead_figures": [
+        "figure:080bf39227fa2b27b9713e47b80cbb5f6bf292199e49965cefb5a1fda3ffb49c"
+      ],
+      "lead_figure_spans": {
+        "figure:080bf39227fa2b27b9713e47b80cbb5f6bf292199e49965cefb5a1fda3ffb49c": [
+          "If you are reporting visits, state the reporting period, what counted as a visit and the source evidence received. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) recorded Procore naming alongside an own-domain citation in 30 of 150 construction-software answers. That figure belongs to an answer-observation row; it cannot supply the visit count or visit definition in a traffic report."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader condition of reporting visits leads before the explicit field instruction and Procore event contrast.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/geo-basics/which-ai-based-crm-is-the-best.md": {
+      "source_sha256": "c30a507f8f691aec7ee21d069def235845ee074533a8f2afa6e978f1a41a8bd1",
+      "canonical_source_sha256": "7143197dc3895553c2ce5985f12e0301b2451695898eda25bce8c311b34d2829",
+      "opening_sha256": "38249c27aa9c332748dbea20235853eacc60400a396acd42bbc3af6353f19b9d",
+      "bank_id": "LB-Q0307",
+      "lead_figures": [
+        "figure:2de21ef73760d73e3dc9da5c4d6e1d3ef7a26073b2a9e79b1fded0c487103737"
+      ],
+      "lead_figure_spans": {
+        "figure:2de21ef73760d73e3dc9da5c4d6e1d3ef7a26073b2a9e79b1fded0c487103737": [
+          "An AI label does not establish which CRM is best for your workflow. In [The AI written RFP](https://doi.org/10.5281/zenodo.23271935), we examined CRM returns from 22 September 2026: an explicit AI accuracy-or-usefulness criterion appeared in 3 of 150 answers. All three occur in the buyer-evaluation question, where the answers ask for task-specific evidence rather than naming one universal winner."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The opening corrects an AI label proving best fit before the actual task-usefulness criterion.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/geo-basics/who-has-the-best-geo-results-in-competitive-industries.md": {
+      "source_sha256": "cb2fb8124c016b0c51e4e4d9e75d20cb99d7b27d65288b3439ccb0a7d0681cc3",
+      "canonical_source_sha256": "cb2fb8124c016b0c51e4e4d9e75d20cb99d7b27d65288b3439ccb0a7d0681cc3",
+      "opening_sha256": "1442fc785270211bf2c62683b23b1ff02f7f2bb195aae4015fc72c04110b00f0",
+      "bank_id": "LB-Q0123",
+      "lead_figures": [
+        "figure:97091dc87d798a349a6fc6185e21322348d862671dbdc9f261fbf0ffae5d9f51"
+      ],
+      "lead_figure_spans": {
+        "figure:97091dc87d798a349a6fc6185e21322348d862671dbdc9f261fbf0ffae5d9f51": [
+          "The published records do not establish one provider with the best GEO results across competitive industries. Our [WebFX publication record](https://broadcastwell.com/best-geo-agencies#webfx), saved on 29 October 2026, marks 3 of 8 criteria Yes. That observation identifies published evidence to inspect; a named supplier case supplies a different kind of record with its own metric and comparison dates."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The first sentence rejects a universal best-results inference before the dated publication-audit result.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/industries/hotel-property-management-software-chatgpt-free.md": {
+      "source_sha256": "3855f9247e595af3ab340d106aa9706fd57296e5f7012604c5575990cc2a0af8",
+      "canonical_source_sha256": "3855f9247e595af3ab340d106aa9706fd57296e5f7012604c5575990cc2a0af8",
+      "opening_sha256": "f34c002444af1c1ce162545ce7f3868d728e38d9d36d8b201a30b33bc8c964e8",
+      "bank_id": "LB-Q0386",
+      "lead_figures": [
+        "figure:84e01f5cf10be295c9736f28a5ae267de5f125c7de2a527d044133a2d866f368"
+      ],
+      "lead_figure_spans": {
+        "figure:84e01f5cf10be295c9736f28a5ae267de5f125c7de2a527d044133a2d866f368": [
+          "Zapier's [Cloudbeds and ChatGPT listing](https://zapier.com/apps/cloudbeds/integrations/chatgpt) labels a Free tier, but that label does not establish a free Cloudbeds-and-ChatGPT stack. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 4 of 5 hotel-software pricing destinations on 6 October 2026. Reaching public terms supplies a place to investigate cost; it does not grant a hotel-software license or an OpenAI account entitlement."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "source_first",
+      "classification_reason": "The named ZapierCloudbeds/ChatGPT pair listing and its precise Free label lead before the pricing-task observation.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/geo-basics/which-tools-combine-ai-visibility-and-social-listening.md": {
+      "source_sha256": "583cd78caa2aea23aa5d3fffe7d7bd5cfb052459a0dc43947b43ef01468d7988",
+      "canonical_source_sha256": "433a7e093ff19fcab503aff0384668864340dbbd101964703d57f6736ee2a9ad",
+      "opening_sha256": "905050082a804a0562e6f6f56fa3db8dd5d8f3fcfbd20b9a7a05d16c6e7b2d9d",
+      "bank_id": "LB-Q0120",
+      "lead_figures": [
+        "figure:c4f381b620e089525007b161536048fe02d90b6c0d8cd283b681ed7e85c88477"
+      ],
+      "lead_figure_spans": {
+        "figure:c4f381b620e089525007b161536048fe02d90b6c0d8cd283b681ed7e85c88477": [
+          "Meltwater's [GenAI Lens](https://www.meltwater.com/en/capabilities/ai-visibility-tracking) is one documented example of AI visibility alongside social listening in a broader platform. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) recorded Reddit URLs in 60 of 150 radiology-software answers. That count concerns links in AI answers, a different observation from the social conversations a listening product collects."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "vendor_first",
+      "classification_reason": "MeltwaterGenAILens is the leading named product/vendor subject.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
     }
   },
   "index_question_titles": {

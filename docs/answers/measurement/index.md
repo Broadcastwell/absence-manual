@@ -5,7 +5,7 @@ description: Counts, citations, repeat runs and the evidence needed to compare r
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-30T13:21:55+00:00'
+date_modified: '2026-10-30T14:13:50+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 6
@@ -15,7 +15,7 @@ library_order: 6
 
 Counts, citations, repeat runs and the evidence needed to compare reports.
 
-These 46 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 48 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Questions
 
@@ -284,6 +284,18 @@ YouTube URLs appeared in 21 of 148 eligible PHP2Shell answers. Their engine, URL
 [How can a buyer verify the conclusion?](how-can-a-buyer-verify-the-conclusion.md)
 
 The 12/77 Open Dental finding has dated claims and vendor references. Use the statement, base, status and source pair to check the historical conclusion.
+
+## Presenting separate outcome records
+
+[How should a report present these outcomes?](how-should-a-report-present-these-outcomes.md)
+
+Show answer observations, visits, buyer reports and commercial events in separate report rows, with the evidence and date that belong to each.
+
+## Visit definitions and report windows
+
+[How should the report show visits?](how-should-the-report-show-visits.md)
+
+A visits report needs its own period, visit definition and received source evidence. An AI answer citation belongs in a separate observation row.
 
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
