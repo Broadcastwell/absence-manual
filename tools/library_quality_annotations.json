@@ -27,7 +27,8 @@
       "question_back",
       "answer_definition",
       "study_result_first",
-      "action_first"
+      "action_first",
+      "source_first"
     ],
     "chatgpt": [
       "figure_first",
@@ -5779,6 +5780,440 @@
       "unit": "initial_tasks",
       "label": "Agent Gap CRM initial Pricing-page tasks reached",
       "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26"
+    },
+    "figure:d7b6d0f73d4d048a7c4614e9eb6d41a67a794b132d8c4c15bef39e7115501d36": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "ChatGPT",
+        "question": "10",
+        "subject": "HubSpot CRM",
+        "metric": "named"
+      },
+      "count": 3,
+      "base": 3,
+      "unit": "answers",
+      "label": "HubSpot CRM named in ChatGPT handoff/follow-up answers",
+      "source_review_sha256": "6839f73e55a629bbcd934183a113efafec816e29551c016bc90fc5a7fc5e8275"
+    },
+    "figure:50989f4a24c211a0afee2fc4b50436ff285308b51bbdea016a1c825acaa52115": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "subject": "Close",
+        "metric": "named"
+      },
+      "count": 12,
+      "base": 150,
+      "unit": "answers",
+      "label": "Close named in September CRM answers",
+      "source_review_sha256": "8c0097ba7aed37307bda31a0ad05d8a8ab0faa74a264aa7f1951bd17704c5b49"
+    },
+    "figure:900e1c0e23abd4dbf4f3101a58fb1c8168de7b5429e7289b53c6e229d24cbbe5": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "Google AI Overviews",
+        "subject": "HubSpot CRM",
+        "metric": "own_domain_cited"
+      },
+      "count": 6,
+      "base": 30,
+      "unit": "answers",
+      "label": "HubSpot CRM cited in Google AI Overviews crm answers",
+      "source_review_sha256": "c4401f96b1b6d686ff8e4d1ebbaff1e93e0572d73303eaeebd690b549b9d0d67"
+    },
+    "figure:bae9e1d2f26364a37726d5d18c4e0d98e7e88acbdf21ae9882e576c9c9231873": {
+      "source_url": "https://doi.org/10.5281/zenodo.23270124",
+      "record": {
+        "capture_date": "2026-09-22",
+        "event_date": "2026-10-08",
+        "subject": "Open Dental",
+        "metric": "wrong_or_stale",
+        "cohort": "all-classified-statements"
+      },
+      "count": 12,
+      "base": 77,
+      "unit": "statements",
+      "label": "Open Dental statements labelled wrong or stale",
+      "source_review_sha256": "c4401f96b1b6d686ff8e4d1ebbaff1e93e0572d73303eaeebd690b549b9d0d67"
+    },
+    "figure:3aaa7b705ac989a381544120b71b9f3c2de2af003cee043e608e558fd900821e": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "radiology-medical-imaging",
+        "engine": "Google AI Overviews",
+        "subject": "reddit.com",
+        "metric": "cited_domain"
+      },
+      "count": 23,
+      "base": 30,
+      "unit": "answers",
+      "label": "reddit.com recorded in Google AI Overviews radiology answers",
+      "source_review_sha256": "c4401f96b1b6d686ff8e4d1ebbaff1e93e0572d73303eaeebd690b549b9d0d67"
+    },
+    "figure:1a451151c87a69bdd2d6c4b026d0ee3959d4760cdf4bf6fe9b8a0206abe3bf8f": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "radiology-medical-imaging",
+        "engine": "ChatGPT",
+        "subject": "reddit.com",
+        "metric": "cited_domain"
+      },
+      "count": 0,
+      "base": 30,
+      "unit": "answers",
+      "label": "reddit.com recorded in ChatGPT radiology answers",
+      "source_review_sha256": "c4401f96b1b6d686ff8e4d1ebbaff1e93e0572d73303eaeebd690b549b9d0d67"
+    },
+    "figure:191d9f7e1d9b2eba7dde0f33b88379d0ca805f394f2ebcc854743f0e5e1fb90c": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22|2026-09-23",
+        "subject": "llms.txt",
+        "metric": "recorded_cited_url_filename",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 0,
+      "base": 2093,
+      "unit": "answers",
+      "label": "Included answers with a recorded cited URL ending in llms.txt",
+      "source_review_sha256": "ada6563fc286c1da9cc46d049f5561a45e1c1ce99622cec917f73f620ff900d6"
+    },
+    "figure:ab6a13003ee9a1a091c7a87d52a6879e30f8263a8e91d763778c2369448e1993": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "engine": "Perplexity",
+        "subject": "all-fourteen-categories",
+        "metric": "checked_vendor_name_appearances"
+      },
+      "count": 1642,
+      "base": 420,
+      "unit": "checked-name-appearances",
+      "label": "Perplexity checked-name appearances per answer",
+      "source_review_sha256": "a0b2dcb6702fd6a624324bea88bc9b112b31e6b124a4fe4dd80cdc15ee096cff"
+    },
+    "figure:97091dc87d798a349a6fc6185e21322348d862671dbdc9f261fbf0ffae5d9f51": {
+      "source_url": "https://broadcastwell.com/best-geo-agencies",
+      "record": {
+        "event_date": "2026-09-15|2026-09-29|2026-10-28",
+        "subject": "WebFX",
+        "metric": "publication_criteria_yes"
+      },
+      "count": 3,
+      "base": 8,
+      "unit": "publication_criteria",
+      "label": "WebFX: published criteria marked Yes",
+      "source_review_sha256": "a0b2dcb6702fd6a624324bea88bc9b112b31e6b124a4fe4dd80cdc15ee096cff"
+    },
+    "figure:07b484cfa0ac3d7eca01f583887fa21a5fae3df8d01a81cf46f09d398a4857a9": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "Claude",
+        "subject": "HubSpot CRM",
+        "metric": "own_domain_cited"
+      },
+      "count": 1,
+      "base": 30,
+      "unit": "answers",
+      "label": "HubSpot CRM cited in Claude crm answers",
+      "source_review_sha256": "302c34c6e3419fc8e5e5ab00ea5db2ab63208b3e2aa833b0db4affba018d7c9a"
+    },
+    "figure:9197731e8a9b1c4091bb32a38904c4ef79e1fab90bb1365831d0792a7c5858d6": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "ChatGPT",
+        "subject": "Close",
+        "metric": "named"
+      },
+      "count": 3,
+      "base": 30,
+      "unit": "answers",
+      "label": "Close named in ChatGPT CRM answers",
+      "source_review_sha256": "302c34c6e3419fc8e5e5ab00ea5db2ab63208b3e2aa833b0db4affba018d7c9a"
+    },
+    "figure:59febd4b1677af152b9cc70e03a566e11bed7788cb89dbaaca2ae77ed4b76637": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "category": "insurance-agency-management",
+        "subject": "permissions",
+        "metric": "criterion_stated",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 10,
+      "base": 150,
+      "unit": "answers",
+      "label": "Role-based access permissions",
+      "source_review_sha256": "0368daee0bfb566e3f1ee1f72d962c4484fb65ff31cea141b1279f5aa157cdab"
+    },
+    "figure:98560693d279f8cc7286bbe106062158b04533096bea1422c3e67b0d69954381": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "Perplexity",
+        "question": "q5",
+        "subject": "all-checked-vendors",
+        "metric": "checked_vendor_name_appearances"
+      },
+      "count": 13,
+      "base": 3,
+      "unit": "checked-name-appearances",
+      "label": "Perplexity checked-name appearances for the scaling-small-sales-team CRM question",
+      "source_review_sha256": "0368daee0bfb566e3f1ee1f72d962c4484fb65ff31cea141b1279f5aa157cdab"
+    },
+    "figure:2feb61c3d4060ea8d7b35007f1803873d947aae050c46c577c776ae021b145b6": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "ChatGPT",
+        "subject": "reddit.com",
+        "metric": "cited_domain"
+      },
+      "count": 0,
+      "base": 30,
+      "unit": "answers",
+      "label": "reddit.com cited in ChatGPT crm answers",
+      "source_review_sha256": "d89d2308b50528640e16eb7c41d1aec1a9bd3b168da5d6e141844d7b86c79c49"
+    },
+    "figure:d8df77981734577a34c2b7227d4fccfe2142faf2b1c2b03d69c77318a9dc3c25": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "dental-practice-management",
+        "engine": "ChatGPT",
+        "subject": "Dentrix Ascend",
+        "metric": "named",
+        "question": "q10"
+      },
+      "count": 3,
+      "base": 3,
+      "unit": "answers",
+      "label": "Dentrix Ascend named in ChatGPT dental-practice-management q10 answers",
+      "source_review_sha256": "d89d2308b50528640e16eb7c41d1aec1a9bd3b168da5d6e141844d7b86c79c49"
+    },
+    "figure:bac5a251af7f543fef98f2610bd7f0eb493caee9dccb421cabe12e01124e3684": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "transportation-management-systems",
+        "engine": "ChatGPT",
+        "subject": "Blue Yonder",
+        "metric": "named"
+      },
+      "count": 6,
+      "base": 30,
+      "unit": "answers",
+      "label": "Blue Yonder named in ChatGPT transportation-management-systems answers",
+      "source_review_sha256": "d89d2308b50528640e16eb7c41d1aec1a9bd3b168da5d6e141844d7b86c79c49"
+    },
+    "figure:8a152a526a7f93f479301b308b3d8d91780e3dac6b51be726e96da3cd2645834": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "category": "dealership-management-systems",
+        "subject": "integrate",
+        "metric": "criterion_stated",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 6,
+      "base": 150,
+      "unit": "answers",
+      "label": "Working connections to CRM, OEM, lender and other business systems",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:4961c3c7635a3010c68f1ec506402d0d961eedaf03cd83d407bb42233682ee36": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "Google AI Mode",
+        "subject": "HubSpot CRM",
+        "metric": "own_domain_cited"
+      },
+      "count": 3,
+      "base": 30,
+      "unit": "answers",
+      "label": "hubspot.com present in recorded cited URLs, Google AI Mode crm",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "ChatGPT",
+        "subject": "Salesforce Sales Cloud",
+        "metric": "own_domain_cited"
+      },
+      "count": 19,
+      "base": 30,
+      "unit": "answers",
+      "label": "salesforce.com present in recorded cited URLs, ChatGPT crm",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "Perplexity",
+        "subject": "Salesforce Sales Cloud",
+        "metric": "own_domain_cited"
+      },
+      "count": 3,
+      "base": 30,
+      "unit": "answers",
+      "label": "salesforce.com present in recorded cited URLs, Perplexity crm",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:87f075fd10760346b6103c067eb0ba992af7ab6b77f63088d8fed12c6642ec71": {
+      "source_url": "https://doi.org/10.5281/zenodo.23586713",
+      "record": {
+        "capture_date": "2026-10-23",
+        "subject": "youtube.com",
+        "metric": "answers_citing_domain",
+        "cohort": "eligible-answer-panel"
+      },
+      "count": 21,
+      "base": 148,
+      "unit": "answers",
+      "label": "Eligible PHP2Shell answers with a recorded YouTube citation URL",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "subject": "system_of_record",
+        "metric": "criterion_stated",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 1,
+      "base": 150,
+      "unit": "answers",
+      "label": "CRM as the authoritative customer system of record",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:6f30ab822a0e68b7f1e94785637b413225266d39891e38e9b289fd43409cb5b0": {
+      "source_url": "https://doi.org/10.5281/zenodo.22907695",
+      "record": {
+        "release": "2026-09",
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "engine": "pooled-five-engines",
+        "subject": "Salesforce Sales Cloud",
+        "metric": "named"
+      },
+      "count": 109,
+      "base": 150,
+      "unit": "answers",
+      "label": "Salesforce Sales Cloud named in pooled-five-engines crm",
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e"
+    },
+    "figure:31d754e058f055ca9b3680af104d437f00551f2e41ae74b1f20f69298587545d": {
+      "source_url": "https://doi.org/10.5281/zenodo.23270124",
+      "record": {
+        "capture_date": "2026-09-22",
+        "event_date": "2026-10-08",
+        "subject": "HubSpot CRM",
+        "metric": "wrong",
+        "category": "crm",
+        "cohort": "all-classified-statements"
+      },
+      "count": 2,
+      "base": 47,
+      "unit": "statements",
+      "label": "HubSpot CRM wrong or stale published claim flags",
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5"
+    },
+    "figure:2de21ef73760d73e3dc9da5c4d6e1d3ef7a26073b2a9e79b1fded0c487103737": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "category": "crm",
+        "subject": "aiproof",
+        "metric": "criterion_stated",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 3,
+      "base": 150,
+      "unit": "answers",
+      "label": "Evaluation of AI accuracy or practical usefulness",
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5"
+    },
+    "figure:84e01f5cf10be295c9736f28a5ae267de5f125c7de2a527d044133a2d866f368": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "hotel-property-management",
+        "subject": "S2",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 4,
+      "base": 5,
+      "unit": "initial_tasks",
+      "label": "Agent Gap hotel-property-management initial pricing-page tasks reached",
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5"
+    },
+    "figure:7cc97e99427a67fc22eb82316773614decf5c09b1049a31ee365a91c848a4fb4": {
+      "source_url": "https://doi.org/10.5281/zenodo.23271935",
+      "record": {
+        "capture_date": "2026-09-22",
+        "category": "insurance-agency-management",
+        "subject": "task_assignment",
+        "metric": "criterion_stated",
+        "cohort": "study7-derived-included-records"
+      },
+      "count": 8,
+      "base": 150,
+      "unit": "answers",
+      "label": "Task assignment",
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24"
+    },
+    "figure:3fc1c342cf1ee227e594715531a9e7e9c45206cb7e1ad24115cb86579d0b7ed3": {
+      "source_url": "https://doi.org/10.5281/zenodo.23197560",
+      "record": {
+        "capture_date": "2026-10-06",
+        "category": "legal-practice-management",
+        "subject": "S2",
+        "metric": "reached",
+        "cohort": "initial-sessions"
+      },
+      "count": 5,
+      "base": 5,
+      "unit": "initial_tasks",
+      "label": "Agent Gap legal-practice-management initial pricing-path tasks reached",
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24"
     }
   },
   "pages": {
@@ -11285,6 +11720,918 @@
       "opening_shape": "figure_first",
       "classification_reason": "The 2,039 appearances lead the opening before the Claude tracking instruction.",
       "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
+    },
+    "answers/buying/what-can-an-agency-deliver-when-a-client-asks-for-geo.md": {
+      "bank_id": "LB-Q0478",
+      "source_sha256": "e080ed5310a89145246d3822297ddb74ed52d86d171a3cf81da50c2dbdedc12a",
+      "canonical_source_sha256": "e080ed5310a89145246d3822297ddb74ed52d86d171a3cf81da50c2dbdedc12a",
+      "opening_sha256": "80a94a2b8edbbbf490bd4fb7fb7ee19707c0940f1f982ccce3fa1b86502c9cd7",
+      "lead_figures": [
+        "figure:7f5abc4b2b40193eeabe8bd64cb64b2b762783b5eebd5ce9e8e1b5a3610fac6e"
+      ],
+      "lead_figure_spans": {
+        "figure:7f5abc4b2b40193eeabe8bd64cb64b2b762783b5eebd5ce9e8e1b5a3610fac6e": [
+          "One of seventy initial company-description tasks was labeled incorrect in our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560), captured on 6 October 2026. An agency can turn a broad request for GEO into a defined evidence brief: the client’s exact question, retained answer, disputed company fact, dated reference and a specific proposed change, with later observations reported separately."
+        ]
+      },
+      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
+      "opening_shape": "figure_first",
+      "classification_reason": "The one-of-seventy Describe-task count leads the opening, followed by the proposed client deliverable.",
+      "writing_review_sha256": "3b6f7e18ae34e08795e4a0b26a97b42d699ea733cef928a908bd7f42d19fccfd"
+    },
+    "answers/industries/crm-software-chatgpt-project-management.md": {
+      "source_sha256": "7bf5287806d2417a48fec106964cb01dae86f5c47937f79982b158d72787e216",
+      "canonical_source_sha256": "5c3a8642616eb4c753e151063903563704278102a179978a56fab881d6a23988",
+      "opening_sha256": "01b1abaffbf109a7cc5370a5dc87f4dcd2cef31480e1960fe2db5a9d7bb0c52a",
+      "bank_id": "LB-Q0347",
+      "lead_figures": [
+        "figure:d7b6d0f73d4d048a7c4614e9eb6d41a67a794b132d8c4c15bef39e7115501d36"
+      ],
+      "lead_figure_spans": {
+        "figure:d7b6d0f73d4d048a7c4614e9eb6d41a67a794b132d8c4c15bef39e7115501d36": [
+          "3/3 ChatGPT answers to our CRM handoff-and-follow-up question named HubSpot CRM on 22 September 2026. HubSpot's connector guide separately lists Tasks as CRM activities that ChatGPT can read, create and update. That is a documented task route to examine for a sales handoff."
+        ]
+      },
+      "source_review_sha256": "6839f73e55a629bbcd934183a113efafec816e29551c016bc90fc5a7fc5e8275",
+      "opening_shape": "figure_first",
+      "classification_reason": "The 3/3 ChatGPT handoff answer count leads the opening before the separately reported Task operations.",
+      "writing_review_sha256": "3b6f7e18ae34e08795e4a0b26a97b42d699ea733cef928a908bd7f42d19fccfd"
+    },
+    "answers/geo-basics/peec-visibility-or-aeo-or-geo-or-search-or-citation-or-seo-or-generati.md": {
+      "bank_id": "LB-Q0105",
+      "source_sha256": "517bf242b15d9c9ef372a63b0039720202568d59f9865ff97310425c36f5404e",
+      "canonical_source_sha256": "517bf242b15d9c9ef372a63b0039720202568d59f9865ff97310425c36f5404e",
+      "opening_sha256": "ff0f4a272f43bb7350fee812f25457af281b56bc826cbaf0754c21364f634a45",
+      "lead_figures": [
+        "figure:50989f4a24c211a0afee2fc4b50436ff285308b51bbdea016a1c825acaa52115"
+      ],
+      "lead_figure_spans": {
+        "figure:50989f4a24c211a0afee2fc4b50436ff285308b51bbdea016a1c825acaa52115": [
+          "On 22 September 2026, our [CRM panel](https://doi.org/10.5281/zenodo.22907695) named Close in twelve of 150 answers. Peec describes AI-search analytics through visibility, position and sentiment; its public visibility definition concerns the share of chats mentioning a brand. The Close count gives you a concrete naming example to distinguish from source citations, without representing a Peec product result."
+        ]
+      },
+      "source_review_sha256": "8c0097ba7aed37307bda31a0ad05d8a8ab0faa74a264aa7f1951bd17704c5b49",
+      "opening_shape": "date_first",
+      "classification_reason": "The actual 22 September 2026 capture date leads the first sentence before the Close naming count and Peec metric definition.",
+      "writing_review_sha256": "3b6f7e18ae34e08795e4a0b26a97b42d699ea733cef928a908bd7f42d19fccfd"
+    },
+    "answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md": {
+      "bank_id": "LB-Q0461",
+      "source_sha256": "a2beb05ba3d568c7c0405f017f5712d085525c23becee50ba35fb09742710cde",
+      "canonical_source_sha256": "a7d9316e26f03fe43d21c9140d63af5d9ccb38d06dff929c858f3c94bb96f005",
+      "opening_sha256": "25abfc1db284b796b078b23bac733168ac3880597a8d8d5050da9f0257644535",
+      "lead_figures": [
+        "figure:900e1c0e23abd4dbf4f3101a58fb1c8168de7b5429e7289b53c6e229d24cbbe5"
+      ],
+      "lead_figure_spans": {
+        "figure:900e1c0e23abd4dbf4f3101a58fb1c8168de7b5429e7289b53c6e229d24cbbe5": [
+          "The [seoClarity guide](https://www.seoclarity.net/research/ai-overviews-impact) describes AIO query filters, linked-domain details and SERP Previews. Our [September Index](https://doi.org/10.5281/zenodo.22907695) shows what a website-level count looks like: HubSpot's own site was a recorded reference in 6 of 30 CRM answer captures from Google AI Overviews on 22 September 2026."
+        ]
+      },
+      "source_review_sha256": "c4401f96b1b6d686ff8e4d1ebbaff1e93e0572d73303eaeebd690b549b9d0d67",
+      "opening_shape": "source_first",
+      "classification_reason": "The named seoClarity guide leads the opening before its reported functions and the observed HubSpot reference count.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies.md": {
+      "bank_id": "LB-Q0463",
+      "source_sha256": "e18c9ceddca2447a744af2781f309ec4e0e266554c615c259356cc0068251d18",
+      "canonical_source_sha256": "290dfc95ea255afceb67356f97fa010b10a4cd652fdf74c52df328534b1afb8e",
+      "opening_sha256": "d32842ce2e3b793dc355131c73d3f5be64b20325bb69661a9a3f63365ea38ee6",
+      "lead_figures": [
+        "figure:bae9e1d2f26364a37726d5d18c4e0d98e7e88acbdf21ae9882e576c9c9231873"
+      ],
+      "lead_figure_spans": {
+        "figure:bae9e1d2f26364a37726d5d18c4e0d98e7e88acbdf21ae9882e576c9c9231873": [
+          "Open Dental's row in our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) labels 12 of 77 classified statements wrong or stale. All twelve flagged quotes were captured on 22 September 2026, with vendor references checked on 8 October. One published example is the assertion that Open Dental required a local server, which the dated record marked wrong."
+        ]
+      },
+      "source_review_sha256": "c4401f96b1b6d686ff8e4d1ebbaff1e93e0572d73303eaeebd690b549b9d0d67",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Open Dental is the first informational subject, followed by its dated classified statement row.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/measurement/do-ai-product-answers-cite-reddit.md": {
+      "bank_id": "LB-Q0488",
+      "source_sha256": "fc1913e6cfa9e9dd4d4b376fac77191765c37d7bb06495003a1c85ebf8ace914",
+      "canonical_source_sha256": "f6a2f7e85f03a718c8d3802d2625ad82b0256524a8fa6dcd3a033736200ed5ba",
+      "opening_sha256": "ea8e27ea282728c1ed31159d52d5722b443b9b7a13547f74dfc0b92beb262a6d",
+      "lead_figures": [
+        "figure:3aaa7b705ac989a381544120b71b9f3c2de2af003cee043e608e558fd900821e",
+        "figure:1a451151c87a69bdd2d6c4b026d0ee3959d4760cdf4bf6fe9b8a0206abe3bf8f"
+      ],
+      "lead_figure_spans": {
+        "figure:3aaa7b705ac989a381544120b71b9f3c2de2af003cee043e608e558fd900821e": [
+          "23 of 30 Google AI Overviews records in our original [Index radiology category](https://doi.org/10.5281/zenodo.22907695) cited Reddit on 22 September 2026; none of the 30 ChatGPT records contained a Reddit URL. That contrast is why an answer about product citations needs to name the engine and the category being counted."
+        ],
+        "figure:1a451151c87a69bdd2d6c4b026d0ee3959d4760cdf4bf6fe9b8a0206abe3bf8f": [
+          "23 of 30 Google AI Overviews records in our original [Index radiology category](https://doi.org/10.5281/zenodo.22907695) cited Reddit on 22 September 2026; none of the 30 ChatGPT records contained a Reddit URL. That contrast is why an answer about product citations needs to name the engine and the category being counted."
+        ]
+      },
+      "source_review_sha256": "c4401f96b1b6d686ff8e4d1ebbaff1e93e0572d73303eaeebd690b549b9d0d67",
+      "opening_shape": "figure_first",
+      "classification_reason": "The23of30 Overview citation count leads before the contrasting ChatGPT zero and the interpretation.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/buying/how-does-geo-change-the-work-of-a-traditional-seo-agency.md": {
+      "source_sha256": "2d6cab78f4d879fbe5276c2dd7a4804128182853e2354625080a14821e8ba686",
+      "canonical_source_sha256": "3fb50fb4d5c683c223fb139c84557506ad28aef0f91b5cf07061d8c90f73b86c",
+      "opening_sha256": "1161f380b4ba2adb9e5f70ded1e6babc846f7abb5ae03aa056aa326c51259026",
+      "bank_id": "LB-Q0480",
+      "lead_figures": [
+        "figure:900e1c0e23abd4dbf4f3101a58fb1c8168de7b5429e7289b53c6e229d24cbbe5"
+      ],
+      "lead_figure_spans": {
+        "figure:900e1c0e23abd4dbf4f3101a58fb1c8168de7b5429e7289b53c6e229d24cbbe5": [
+          "Google's [AI-features guide](https://developers.google.com/search/docs/appearance/ai-features) keeps SEO fundamentals in place for AI Overviews and AI Mode; GEO adds work on the answers and references you report to a client. In our [September Index](https://doi.org/10.5281/zenodo.22907695), HubSpot's site appeared as a reference in 6 of 30 CRM Overview answers captured on 22 September 2026."
+        ]
+      },
+      "source_review_sha256": "99178858cd41a45a032354d3123e0a74f567774d68f7f6ecf9a9b1d6a398c0a0",
+      "opening_shape": "source_first",
+      "classification_reason": "Google’s named AI-features guide and its retained SEO-fundamentals rule lead before the agency reporting inference and own reference count.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/buying/which-aeo-tools-suit-home-service-companies-and-contractors.md": {
+      "source_sha256": "92cbe592792b5cc884890fd48d299b338185f9cb148e60797cc1cfcf1dde23dc",
+      "canonical_source_sha256": "7043561616d6f98b79cc5228960f558f8ac8f050f28a5311ef5d72860b567328",
+      "opening_sha256": "db6f19abd41970ef13de820c8578b3e134878d9842a8c0df3f4d6cfca1411170",
+      "bank_id": "LB-Q0481",
+      "lead_figures": [
+        "figure:cd0aad6e73d00ccaf619c3b44e62554dc03a84da7bb915a72af277685e89502b"
+      ],
+      "lead_figure_spans": {
+        "figure:cd0aad6e73d00ccaf619c3b44e62554dc03a84da7bb915a72af277685e89502b": [
+          "For your home-service company, compare a location-aware brand report with the questions it can track: [Semrush](https://www.semrush.com/kb/1493-ai-visibility-toolkit) documents both, and [seoClarity](https://www.seoclarity.net/research/ai-overviews-impact) describes Overview-reference checks. Our [Index](https://doi.org/10.5281/zenodo.22907695) found Jobber in 18 answers from a 30-return ChatGPT panel on 22 September 2026; those questions concern field-service software."
+        ]
+      },
+      "source_review_sha256": "99178858cd41a45a032354d3123e0a74f567774d68f7f6ecf9a9b1d6a398c0a0",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader’s home-service business and proposed location-aware report are the opening situation before the supplier examples and Jobber panel.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/geo-basics/what-platform-scores-competitors-on-generative-engine-prominence.md": {
+      "source_sha256": "c757bd532055318e31bf516713d9329f6debfb5752661f9d1e216a8316e98cf9",
+      "canonical_source_sha256": "e1b44350bd40ab78e1ffdbfc17e9b898862f4f956c8ba438b76029d77dd6ce55",
+      "opening_sha256": "2006dfd9aead7d0d3fcf6fa66a7d99c785c22a00e75d9d349c51929315da653f",
+      "bank_id": "LB-Q0096",
+      "lead_figures": [
+        "figure:0231d3e67eab9d2ba2040461e1264e46eae5088ef0f3ed5317154f01ce11d300"
+      ],
+      "lead_figure_spans": {
+        "figure:0231d3e67eab9d2ba2040461e1264e46eae5088ef0f3ed5317154f01ce11d300": [
+          "2039 checked-vendor name appearances across 420 Claude answers, captured on 22 September 2026 in our [Index](https://doi.org/10.5281/zenodo.22907695), show why prominence scores need a defined unit. [Profound](https://docs.tryprofound.com/answer-engine-insights/about) publishes Visibility, Share of Voice and Average Position; [Semrush](https://www.semrush.com/kb/1493-ai-visibility-toolkit) describes a competitor-median AI Visibility Score."
+        ]
+      },
+      "source_review_sha256": "99178858cd41a45a032354d3123e0a74f567774d68f7f6ecf9a9b1d6a398c0a0",
+      "opening_shape": "figure_first",
+      "classification_reason": "The2,039 checked-name appearances lead the opening before the two providers and their metric definitions.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/geo-basics/what-are-alternatives-to-brightedge-for-geo.md": {
+      "source_sha256": "7395a910c7d67767f4e4e54f2c952971b16572e093cb95208b9c8f6f8f33c140",
+      "canonical_source_sha256": "0110be159a35fe39cd600450902f688b5d202791da2d1721d90b8070ac0c07b4",
+      "opening_sha256": "50cf7167676cadb935c60ee5eb2b3ebf4eb19e255902272d56a67c48bafdb1b1",
+      "bank_id": "LB-Q0097",
+      "lead_figures": [
+        "figure:b0a08e6f529031bf11c42203148abfc08914473576bd24710b592a74be3f590b"
+      ],
+      "lead_figure_spans": {
+        "figure:b0a08e6f529031bf11c42203148abfc08914473576bd24710b592a74be3f590b": [
+          "Profound, Semrush and seoClarity publish functions to compare as alternatives to a BrightEdge GEO workflow: brand scoring, location-specific reports and Overview-reference inspection. Our [September Index](https://doi.org/10.5281/zenodo.22907695) recorded 1496 checked-vendor name appearances across 420 ChatGPT answers on 22 September 2026, showing why a dashboard comparison needs to identify the unit behind its totals."
+        ]
+      },
+      "source_review_sha256": "99178858cd41a45a032354d3123e0a74f567774d68f7f6ecf9a9b1d6a398c0a0",
+      "opening_shape": "vendor_first",
+      "classification_reason": "The named alternative providers lead the opening, with their reported jobs before the observed ChatGPT aggregate.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/measurement/if-llms-txt-has-no-impact-on-ai-visibility-why-did-google-add-it-into.md": {
+      "source_sha256": "006e0b71838745878d1145ffeaf0c329b52c0012d8df564fa56b644e15d08929",
+      "canonical_source_sha256": "d51d55d572ea5d6783e5e6dbd0a69bff86613385fa63e8aa43c41fa3736cbffd",
+      "opening_sha256": "c1bf5cfff2de8fbbc2a7e60234b14e1f78521df1815cf74f79313acc34016960",
+      "bank_id": "LB-Q0462",
+      "lead_figures": [
+        "figure:191d9f7e1d9b2eba7dde0f33b88379d0ca805f394f2ebcc854743f0e5e1fb90c"
+      ],
+      "lead_figure_spans": {
+        "figure:191d9f7e1d9b2eba7dde0f33b88379d0ca805f394f2ebcc854743f0e5e1fb90c": [
+          "An optional file-retrieval check is what Google documents for llms.txt under [Lighthouse’s Agentic browsing audits](https://developer.chrome.com/docs/lighthouse/agentic-browsing/llms-txt). Our [Study 7 records](https://doi.org/10.5281/zenodo.23271935) contain no recorded cited URL ending in llms.txt among 2,093 included software answers; their capture dates were 22 and 23 September 2026. That zero counts cited filenames; it does not measure whether an agent retrieved the file."
+        ]
+      },
+      "source_review_sha256": "ada6563fc286c1da9cc46d049f5561a45e1c1ce99622cec917f73f620ff900d6",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The opening defines the optional documented retrieval audit before the recorded cited-filename count.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit.md": {
+      "source_sha256": "09fdcb227ad1d63190ad9375485a2727a4c74c0c136b6d93c74d92c3c93d7253",
+      "canonical_source_sha256": "ba1ac8419209dd6a33b0e07649184b6d602b8dd5304943e880c5ccd28e00a241",
+      "opening_sha256": "0576e894d6218777c8bc18362f577497c3fcc7f2ed09e0b18c4ed2432e848607",
+      "bank_id": "LB-Q0474",
+      "lead_figures": [
+        "figure:a4e527e0901a3804381c47a595a8007eba6e615ea92b754d05c4c3123bf41177"
+      ],
+      "lead_figure_spans": {
+        "figure:a4e527e0901a3804381c47a595a8007eba6e615ea92b754d05c4c3123bf41177": [
+          "Inspect the retained answer as well as the site: an AEO or GEO audit can examine what the answer says before it names a supplier. Our study, [The AI written RFP](https://doi.org/10.5281/zenodo.23271935), coded 5 of 149 included construction-answer records for a pricing-basis and included-features criterion, using captures dated 22 September 2026."
+        ]
+      },
+      "source_review_sha256": "a0b2dcb6702fd6a624324bea88bc9b112b31e6b124a4fe4dd80cdc15ee096cff",
+      "opening_shape": "action_first",
+      "classification_reason": "The imperative to inspect the retained answer as well as the site leads the opening.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/measurement/is-geo-more-effective-than-seo.md": {
+      "source_sha256": "47ce8c3a43e8b56d0387f309d97b72129039ed8e49aa2dd9f4589755cd266547",
+      "canonical_source_sha256": "a2f059a4122527ee8344da14fa877c8eee2aa8871ebd7630bc9b745e74e5a065",
+      "opening_sha256": "204f7a0bcce7e13d755c17f4d918bedf4953db699c5f8d0dd16f1af16169e1ca",
+      "bank_id": "LB-Q0479",
+      "lead_figures": [
+        "figure:ab6a13003ee9a1a091c7a87d52a6879e30f8263a8e91d763778c2369448e1993"
+      ],
+      "lead_figure_spans": {
+        "figure:ab6a13003ee9a1a091c7a87d52a6879e30f8263a8e91d763778c2369448e1993": [
+          "Our evidence does not establish that GEO is more effective than SEO. Our [September Index](https://doi.org/10.5281/zenodo.22907695) recorded 1642 checked-vendor name appearances across 420 Perplexity answers on 22 September 2026. That count concerns named suppliers, rather than site visits or purchases."
+        ]
+      },
+      "source_review_sha256": "a0b2dcb6702fd6a624324bea88bc9b112b31e6b124a4fe4dd80cdc15ee096cff",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The opening directly corrects the unsupported inference that our evidence establishes GEO as more effective than SEO.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/measurement/how-do-ads-in-google-ai-overviews-affect-organic-traffic.md": {
+      "source_sha256": "6ba47d98ccb7d71a526e2bcfdba8c3ca9e5a90dd67ae721fb6042e17231cce4e",
+      "canonical_source_sha256": "64c16a04131e0960a6b6dac4b5e6b4448d3b8623255a90d68ddba534c23682ff",
+      "opening_sha256": "f5d23ed1a14962dec3e85aa64f3682a5123bbfbe36929bd0fab5d741127aeb51",
+      "bank_id": "LB-Q0491",
+      "lead_figures": [
+        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd"
+      ],
+      "lead_figure_spans": {
+        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd": [
+          "On 22 and 23 September 2026, our original [Index](https://doi.org/10.5281/zenodo.22907695) recorded 1352 checked-vendor name appearances across 415 valid Google AI Overviews answers. These are answer observations, not organic click records. Google's [ads documentation](https://support.google.com/google-ads/answer/18826097?hl=en) describes Sponsored placements; it does not quantify their effect on organic site traffic."
+        ]
+      },
+      "source_review_sha256": "a0b2dcb6702fd6a624324bea88bc9b112b31e6b124a4fe4dd80cdc15ee096cff",
+      "opening_shape": "date_first",
+      "classification_reason": "The actual22and23September capture dates lead before the Overview observations.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/buying/which-aeo-agencies-should-a-buyer-compare-in-the-united-states.md": {
+      "source_sha256": "dbb035011c215a89d3b9aa9bc9af78ce5e0f03d5c7d4ace619ec8143c6f3b222",
+      "canonical_source_sha256": "c900a562a8204470cd103eea1765f42db828559c04fc3632920e0c4fb8f826e6",
+      "opening_sha256": "1488f28a82842cb9c434add12add436b1e430ede42d4a1c3e8984521ba8c6a95",
+      "bank_id": "LB-Q0483",
+      "lead_figures": [
+        "figure:97091dc87d798a349a6fc6185e21322348d862671dbdc9f261fbf0ffae5d9f51"
+      ],
+      "lead_figure_spans": {
+        "figure:97091dc87d798a349a6fc6185e21322348d862671dbdc9f261fbf0ffae5d9f51": [
+          "Seer Interactive, Siege Media and WebFX are three firms to compare for a United States agency shortlist. The 29 October 2026 snapshot of our [WebFX publication record](https://broadcastwell.com/best-geo-agencies#webfx) labels 3 of 8 criteria Yes. Pair those dated publication cells with the firms' own office and service descriptions."
+        ]
+      },
+      "source_review_sha256": "a0b2dcb6702fd6a624324bea88bc9b112b31e6b124a4fe4dd80cdc15ee096cff",
+      "opening_shape": "vendor_first",
+      "classification_reason": "The three named US-comparison providers lead before the WebFX publication score.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/geo-basics/how-do-suede-and-athenahq-compare-for-tracking-citations-across-models.md": {
+      "source_sha256": "3a417147ec0e1f0c7e061a8b08818eea19e5a5f4098f8ba6618161cc24d31007",
+      "canonical_source_sha256": "cdf9359d64f9f39fe61c87fba6d7105274a9e86d495fb7cc9e2e52cb18db8822",
+      "opening_sha256": "c8ed0cd68c3dc7eb6dcdfc4f1bb3ee0ccac56367fbce7fa64bd5fdbfc8cfe843",
+      "bank_id": "LB-Q0106",
+      "lead_figures": [
+        "figure:07b484cfa0ac3d7eca01f583887fa21a5fae3df8d01a81cf46f09d398a4857a9"
+      ],
+      "lead_figure_spans": {
+        "figure:07b484cfa0ac3d7eca01f583887fa21a5fae3df8d01a81cf46f09d398a4857a9": [
+          "Suede describes response-and-source drill-down, while AthenaHQ-supported [The Answer Signal](https://theanswersignal.com/methodology) defines citation share through eligible answers and normalized root domains. Our [Index](https://doi.org/10.5281/zenodo.22907695) recorded a HubSpot-domain citation in 1 of 30 Claude CRM answers from 22 September 2026; the retained URL is on blog.hubspot.com."
+        ]
+      },
+      "source_review_sha256": "302c34c6e3419fc8e5e5ab00ea5db2ab63208b3e2aa833b0db4affba018d7c9a",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Suede is the first provider subject before the separately attributed Athena-supported research method and own domain observation.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt.md": {
+      "source_sha256": "c533fb8d57809f6070b7f1ed671aa577cce43995eaa1c9743b3df1f2bb051835",
+      "canonical_source_sha256": "73fb43ce2224acb5e454c1159287ddce0c923cfca12ea91750fac745f49c072f",
+      "opening_sha256": "5e0f0893eb0f72531a64eee92d3aab177423e48151223a989d84db2ced379efa",
+      "bank_id": "LB-Q0472",
+      "lead_figures": [
+        "figure:9197731e8a9b1c4091bb32a38904c4ef79e1fab90bb1365831d0792a7c5858d6"
+      ],
+      "lead_figure_spans": {
+        "figure:9197731e8a9b1c4091bb32a38904c4ef79e1fab90bb1365831d0792a7c5858d6": [
+          "If you need a named ChatGPT GEO case, [Suede's Koomba report](https://www.suedewebsystems.ai/case-studies/koomba) counts answers that name or cite its customer. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) supplies a naming-only example: Close appears in 3 answers out of the 30 ChatGPT CRM returns. A naming-only count and a named-or-cited rate describe different observations."
+        ]
+      },
+      "source_review_sha256": "302c34c6e3419fc8e5e5ab00ea5db2ab63208b3e2aa833b0db4affba018d7c9a",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader needing a named ChatGPT GEO case is the first condition before the case and separate own naming-only count.",
+      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
+    },
+    "answers/buying/i-m-a-public-affairs-agency-lead-for-our-regulated-industry-clients-su.md": {
+      "source_sha256": "815a676d09b711ff3af899fecefcea755ee3c6aadc10dc484b9d9a83098e6b72",
+      "canonical_source_sha256": "9670d89e76679635847034fba4f00912b5206f66f698808de75d421f10cdb0cc",
+      "opening_sha256": "14592f556e2d2c4c405ae289d20af6f01b14551ac8977debefaea010243d182f",
+      "bank_id": "LB-Q0054",
+      "lead_figures": [
+        "figure:59febd4b1677af152b9cc70e03a566e11bed7788cb89dbaaca2ae77ed4b76637"
+      ],
+      "lead_figure_spans": {
+        "figure:59febd4b1677af152b9cc70e03a566e11bed7788cb89dbaaca2ae77ed4b76637": [
+          "For your agency, Suede's documented fit is approval-gated project content; Profound's is checking claims against a client Knowledge Base. Our study, [The AI written RFP](https://doi.org/10.5281/zenodo.23271935), codes role-based access permissions in 10 of 150 insurance-software buyer answers from 22 September 2026, a distinct procurement criterion."
+        ]
+      },
+      "source_review_sha256": "d832e7dbc6f36035f08b35030950f8eb0953d1500abf6704def1e0ca1911fe84",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The agency reader and its two documented tasks lead before the insurance criterion.",
+      "writing_review_sha256": "aa7b7d5793a271d2480b528fe8f34d480c9c1bd43be9f67f39aa20bd0a51b9b6"
+    },
+    "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md": {
+      "source_sha256": "02052d8d68d31758055d08d52c89b641f87c3c3051bf84ac3e766dc71c7df5c5",
+      "canonical_source_sha256": "09b3abf93e1c5d88a78d83995f05c0a8ede63a317ea5a81e6f5d96edfa852b15",
+      "opening_sha256": "ce2fea7358c69f584517e427520ffd77d4746dd21405ffbcb8f02ebd652ed171",
+      "bank_id": "LB-Q0100",
+      "lead_figures": [
+        "figure:98560693d279f8cc7286bbe106062158b04533096bea1422c3e67b0d69954381"
+      ],
+      "lead_figure_spans": {
+        "figure:98560693d279f8cc7286bbe106062158b04533096bea1422c3e67b0d69954381": [
+          "13 checked-name appearances in three Perplexity returns show why an answer total and a mention total need different labels. That is the scaling-small-sales-team CRM row in our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695). Suede reports persona-based capture; Profound defines several denominators; AthenaHQ-supported research publishes eligible-cohort and source-counting rules."
+        ]
+      },
+      "source_review_sha256": "6319173b5ae64a8b0d7f492c975cbdb9c59e937536546390e1d515a546c1f87b",
+      "opening_shape": "figure_first",
+      "classification_reason": "Thirteen checked-name appearances in three returns lead before the provider methods.",
+      "writing_review_sha256": "589d1dd97344aa8f37fea4f13d9c6202331b5ad9e76c7869893308bb28b3bf29"
+    },
+    "answers/geo-basics/how-do-suede-and-athenahq-differ-beyond-price-for-a-pac.md": {
+      "source_sha256": "6a4b79057f881beebbab37890c9cf275eed68c3e63ebe4eda595c649f413619d",
+      "canonical_source_sha256": "2775405dac13f79c3b5b90b40410c9ff8a02684167222b0663327ff456b2ac6c",
+      "opening_sha256": "196f03530335363ce48aa71190777fac521ed5d8f91d134a80c2ec2fc311df18",
+      "bank_id": "LB-Q0079",
+      "lead_figures": [
+        "figure:07b484cfa0ac3d7eca01f583887fa21a5fae3df8d01a81cf46f09d398a4857a9"
+      ],
+      "lead_figure_spans": {
+        "figure:07b484cfa0ac3d7eca01f583887fa21a5fae3df8d01a81cf46f09d398a4857a9": [
+          "Compare Suede's issue-and-audience fields with AthenaHQ's brand metrics before reducing the choice to price. Our [Index](https://doi.org/10.5281/zenodo.22907695), dated 22 September 2026, recorded 1 answer citing a HubSpot-domain URL in the Claude CRM set of 30. Its HubSpot-domain reference illustrates a website-citation unit, which differs from the stance or sentiment fields these products describe."
+        ]
+      },
+      "source_review_sha256": "6319173b5ae64a8b0d7f492c975cbdb9c59e937536546390e1d515a546c1f87b",
+      "opening_shape": "action_first",
+      "classification_reason": "The imperative to compare issue/audience fields and brand metrics leads the opening.",
+      "writing_review_sha256": "589d1dd97344aa8f37fea4f13d9c6202331b5ad9e76c7869893308bb28b3bf29"
+    },
+    "answers/geo-basics/how-do-suede-and-profound-compare-for-permitting-and-community-narrati.md": {
+      "source_sha256": "aab55b6a6ac7d3f82f28ef2191015ef7dc81db10f842dfd8c5798c195847d9ff",
+      "canonical_source_sha256": "4324a364f2e9f7b9edf60d978cf1a54c73bf98cc2c96d58bbb4b0655d3badf67",
+      "opening_sha256": "79991a32a9bf2f5d17a4b5067f1fcac3da1b625875d164115faa027c1d4904d0",
+      "bank_id": "LB-Q0098",
+      "lead_figures": [
+        "figure:bae9e1d2f26364a37726d5d18c4e0d98e7e88acbdf21ae9882e576c9c9231873"
+      ],
+      "lead_figure_spans": {
+        "figure:bae9e1d2f26364a37726d5d18c4e0d98e7e88acbdf21ae9882e576c9c9231873": [
+          "Favorable stance is not factual accuracy. Suede documents monitoring for energy projects and their audiences; Profound documents claim verification. Our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) labels 12 of 77 Open Dental statements wrong or stale, from quotations captured on 22 September 2026 and vendor references checked on 8 October. Those are factual-status labels, not sentiment scores."
+        ]
+      },
+      "source_review_sha256": "0368daee0bfb566e3f1ee1f72d962c4484fb65ff31cea141b1279f5aa157cdab",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The opening corrects favorable stance equals factual accuracy before documenting the different jobs.",
+      "writing_review_sha256": "ed4ea457b3cbb6ada478e6f6febba8c489b7e5ac721d46b6e040a9a3be8807eb"
+    },
+    "answers/geo-basics/how-do-suede-profound-and-athenahq-compare-for-a-trade-group-in-a-regu.md": {
+      "source_sha256": "760b9e91dae78b5e414c38079fae7ba3bd6b9480bf84068810c0881314485c36",
+      "canonical_source_sha256": "ea5e90fffd28128ca9e438b68e5dae02f4e9fd282f3b0aa8fd9a300a8c49247b",
+      "opening_sha256": "4542b257a84bf33c9f318a5f1a3099889ce1346fe8e574aacb0771e78dece4a4",
+      "bank_id": "LB-Q0102",
+      "lead_figures": [
+        "figure:07b484cfa0ac3d7eca01f583887fa21a5fae3df8d01a81cf46f09d398a4857a9"
+      ],
+      "lead_figure_spans": {
+        "figure:07b484cfa0ac3d7eca01f583887fa21a5fae3df8d01a81cf46f09d398a4857a9": [
+          "If your trade group needs issue-level reporting, Suede's official page explicitly names trade associations; the comparison with Profound and AthenaHQ still needs clear report objects. In our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695), 1 of Claude's 30 CRM returns cites a HubSpot blog URL whose path names Microsoft Dynamics and Zoho: the publisher and the named products are different identities."
+        ]
+      },
+      "source_review_sha256": "6319173b5ae64a8b0d7f492c975cbdb9c59e937536546390e1d515a546c1f87b",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader trade group and issue-level reporting need lead before the provider audience and cited-publisher example.",
+      "writing_review_sha256": "589d1dd97344aa8f37fea4f13d9c6202331b5ad9e76c7869893308bb28b3bf29"
+    },
+    "answers/industries/crm-software-chatgpt-reddit.md": {
+      "source_sha256": "45b92c0740dbd4d051a1a6aa461eb45d02dbdaa218de3581fdbd05fb0b12581b",
+      "canonical_source_sha256": "c24409e9326f5fb873a74935f2c6e944afaeb39e390fa28a197569d171ff76cf",
+      "opening_sha256": "d5725395e9ee1e6d686b99e1866df7f5e7e0a56f370ac2be1509678b7d8b77ad",
+      "bank_id": "LB-Q0348",
+      "lead_figures": [
+        "figure:2feb61c3d4060ea8d7b35007f1803873d947aae050c46c577c776ae021b145b6"
+      ],
+      "lead_figure_spans": {
+        "figure:2feb61c3d4060ea8d7b35007f1803873d947aae050c46c577c776ae021b145b6": [
+          "No Reddit URL appeared in the thirty ChatGPT CRM answers retained in our [September Index](https://doi.org/10.5281/zenodo.22907695), captured on 22 September 2026. That is a result about the recorded references in this panel. It does not establish that ChatGPT never used Reddit, or that CRM discussions on Reddit have no value."
+        ]
+      },
+      "source_review_sha256": "d89d2308b50528640e16eb7c41d1aec1a9bd3b168da5d6e141844d7b86c79c49",
+      "opening_shape": "yes_no",
+      "classification_reason": "The first clause directly answers no within the dated thirty-answer CRM panel.",
+      "writing_review_sha256": "ed4ea457b3cbb6ada478e6f6febba8c489b7e5ac721d46b6e040a9a3be8807eb"
+    },
+    "answers/geo-basics/what-sizes-of-dental-practice-use-dentrix-ascend-for-scheduling-and-bi.md": {
+      "source_sha256": "78e86e04c2a31947f4eb7a652d98711875218d942d6d3ac95f0e5c9aedc4eaaf",
+      "canonical_source_sha256": "3d9a7fc4dbfc81831f94513a3bc3b9e3b81cd8b5ddec9a085d539d505535fd60",
+      "opening_sha256": "5d7388d7eac7178ccecfbfd8b80ed1645c49186d43ef0ecf224d15593bb7afc6",
+      "bank_id": "LB-Q0122",
+      "lead_figures": [
+        "figure:d8df77981734577a34c2b7227d4fccfe2142faf2b1c2b03d69c77318a9dc3c25"
+      ],
+      "lead_figure_spans": {
+        "figure:d8df77981734577a34c2b7227d4fccfe2142faf2b1c2b03d69c77318a9dc3c25": [
+          "For a practice working across locations, Dentrix Ascend publishes scheduling and billing functions for that setup; its [solutions page](https://www.dentrixascend.com/dental-solutions/) also addresses single-location practices. Our [September Index](https://doi.org/10.5281/zenodo.22907695) named Ascend in all three ChatGPT answers to the DSO and multiple-location question, captured on 22 September 2026. That measures an answer context, not the sizes of its installed customer base."
+        ]
+      },
+      "source_review_sha256": "6319173b5ae64a8b0d7f492c975cbdb9c59e937536546390e1d515a546c1f87b",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader practice working across locations is the initial condition before supplier functions and the dated DSO observation.",
+      "writing_review_sha256": "589d1dd97344aa8f37fea4f13d9c6202331b5ad9e76c7869893308bb28b3bf29"
+    },
+    "answers/geo-basics/what-does-blue-yonder-publish-about-ltl-freight-shipping.md": {
+      "source_sha256": "8dcda4e0602aa872e089b433ea1211409a9fab50c7b178cfbb32fb84957c24ce",
+      "canonical_source_sha256": "10e4917ff362d8df6423caae56bc5b4f707bcfd528417ff8a76bf7b2995b3199",
+      "opening_sha256": "4644407dd80cb992af56b6e1311ea5975f144513797bb5001bc0b6835a977dc1",
+      "bank_id": "LB-Q0128",
+      "lead_figures": [
+        "figure:bac5a251af7f543fef98f2610bd7f0eb493caee9dccb421cabe12e01124e3684"
+      ],
+      "lead_figure_spans": {
+        "figure:bac5a251af7f543fef98f2610bd7f0eb493caee9dccb421cabe12e01124e3684": [
+          "On 22 September 2026, our [transportation panel](https://doi.org/10.5281/zenodo.22907695) named Blue Yonder in six of thirty ChatGPT answers. Blue Yonder’s [Transportation Execution description](https://blueyonder.com/solutions/transportation-management/transportation-execution) includes LTL among its published modes. The particular LTL function comes from that supplier page; our six observations record software names."
+        ]
+      },
+      "source_review_sha256": "d89d2308b50528640e16eb7c41d1aec1a9bd3b168da5d6e141844d7b86c79c49",
+      "opening_shape": "date_first",
+      "classification_reason": "The actual22September2026capture date leads before the Blue Yonder naming count and supplier-reported LTL scope.",
+      "writing_review_sha256": "ed4ea457b3cbb6ada478e6f6febba8c489b7e5ac721d46b6e040a9a3be8807eb"
+    },
+    "answers/industries/dealership-software-chatgpt-project-management.md": {
+      "source_sha256": "f6be054ca0b10f1e5bc62dea510c1a36eb65b82f3c22d4d7e3c8d24dc64e974d",
+      "canonical_source_sha256": "f96b7263e1f77d0a247cbe0443ca267bdf6e4b113abdee5a6517e887c7af7e38",
+      "opening_sha256": "16913df50a4d31951b5601001c73de0c43128ff3b92db225270a4d5c55ee873d",
+      "bank_id": "LB-Q0350",
+      "lead_figures": [
+        "figure:8a152a526a7f93f479301b308b3d8d91780e3dac6b51be726e96da3cd2645834"
+      ],
+      "lead_figure_spans": {
+        "figure:8a152a526a7f93f479301b308b3d8d91780e3dac6b51be726e96da3cd2645834": [
+          "Coordinate dealership follow-up through DealerAI's documented ChatGPT connection: its permitted actions include inventory lookups, staff-facing leads and Reach sequences. [The AI written RFP](https://doi.org/10.5281/zenodo.23271935), our published study, found a working-system-connections criterion in 6 of 150 dealership buyer answers captured on 22 September 2026. The named record and permission determine what that coordination covers."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "action_first",
+      "classification_reason": "The imperative to coordinate dealership follow-up leads before the particular permitted DealerAI actions and dated procurement criterion.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/measurement/how-does-google-ai-mode-affect-site-clicks.md": {
+      "source_sha256": "a1ba112d9546531102cbc130e7054d674ff448046c7be47bc51a4b82351d6b1d",
+      "canonical_source_sha256": "ca1f54a50a2f7752c8ec10b88114663ffa7938f907ff81f59d30aad5076fe78c",
+      "opening_sha256": "b497945af4f1f68b45e11763f14d4cfdfe5cb02d5c2ec9e7fe43bf75a0d950a4",
+      "bank_id": "LB-Q0494",
+      "lead_figures": [
+        "figure:4961c3c7635a3010c68f1ec506402d0d961eedaf03cd83d407bb42233682ee36"
+      ],
+      "lead_figure_spans": {
+        "figure:4961c3c7635a3010c68f1ec506402d0d961eedaf03cd83d407bb42233682ee36": [
+          "A citation total cannot tell you whether AI Mode raised or lowered site clicks. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) recorded a HubSpot-domain URL in 3 of 30 Google AI Mode CRM answers. Those are three answer observations; estimating a traffic change requires the separate click records and their reporting scope."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The opening corrects the inference that a citation total establishes a traffic change.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple.md": {
+      "source_sha256": "34527bd49ec6301a7e0a874ff2bc68427f3cdddd512927d50fc098d0015920d1",
+      "canonical_source_sha256": "c34a4c841f1b18fd527750073bc5c71dfc6ccd90f1aec5d871510b51c740600b",
+      "opening_sha256": "90086bdd8549ba6f327330e8f0ff32784908fcc4f36ce88c8c8cd7c7e3606304",
+      "bank_id": "LB-Q0503",
+      "lead_figures": [
+        "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021",
+        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801"
+      ],
+      "lead_figure_spans": {
+        "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021": [
+          "Salesforce-domain URLs appeared in 19 of 30 ChatGPT CRM answers and 3 of 30 Perplexity CRM answers in our [Index capture of 22 September 2026](https://doi.org/10.5281/zenodo.22907695). That difference is a concrete source-selection result, not a Google rank comparison. A page's Google position does not establish that either service will select it as an answer citation."
+        ],
+        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801": [
+          "Salesforce-domain URLs appeared in 19 of 30 ChatGPT CRM answers and 3 of 30 Perplexity CRM answers in our [Index capture of 22 September 2026](https://doi.org/10.5281/zenodo.22907695). That difference is a concrete source-selection result, not a Google rank comparison. A page's Google position does not establish that either service will select it as an answer citation."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Salesforce-domain URLs are the first checked-vendor subject before the two engine counts.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/measurement/how-can-server-logs-show-whether-ai-crawlers-request-llms-txt.md": {
+      "source_sha256": "e577359f7d2e0acec77924bd246a1dd92de78c5771a031260b41a19ff213be2d",
+      "canonical_source_sha256": "51cbfd3f9c6eeb801955364e8105c1995aea22b3e575b17292e99abae3c539da",
+      "opening_sha256": "d73ca305bab01dec301083e5910f0e4285a723d5bd28ba5aac1918052c731d74",
+      "bank_id": "LB-Q0504",
+      "lead_figures": [
+        "figure:191d9f7e1d9b2eba7dde0f33b88379d0ca805f394f2ebcc854743f0e5e1fb90c"
+      ],
+      "lead_figure_spans": {
+        "figure:191d9f7e1d9b2eba7dde0f33b88379d0ca805f394f2ebcc854743f0e5e1fb90c": [
+          "Read the request path in your server or CDN log to establish a request for llms.txt; a crawler name on its own is insufficient. Our [Study 7 capture of 22 to 23 September 2026](https://doi.org/10.5281/zenodo.23271935) contains 0 recorded llms.txt citation URLs among 2,093 eligible answers. That is an answer-source result, so it cannot substitute for a request log."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "action_first",
+      "classification_reason": "The imperative to read the actual request path leads before the separate answer-citation count.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/measurement/do-youtube-transcripts-affect-llm-citations.md": {
+      "source_sha256": "01690ac992179b880786f28a6c15109cc37780d9e0d0a1b422e51b15ed9f8d50",
+      "canonical_source_sha256": "002c62725c2a112c11e78962cdab951bb739f8d819d5c63755de30eb28e4f576",
+      "opening_sha256": "54803266be2e1d9619f090b55a98ca186cdd0fb1e416bd9ebb5061b875d8b68c",
+      "bank_id": "LB-Q0506",
+      "lead_figures": [
+        "figure:87f075fd10760346b6103c067eb0ba992af7ab6b77f63088d8fed12c6642ec71"
+      ],
+      "lead_figure_spans": {
+        "figure:87f075fd10760346b6103c067eb0ba992af7ab6b77f63088d8fed12c6642ec71": [
+          "21 of 148 eligible answers cited a YouTube URL in our [23 October 2026 PHP2Shell study](https://doi.org/10.5281/zenodo.23586713), but the data does not establish whether a transcript affected those citations. The collection preserves returned answers and source URLs."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "figure_first",
+      "classification_reason": "The21of148eligible-answer count leads before the transcript-versus-URL distinction.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/geo-basics/can-i-use-chatgpt-as-a-crm.md": {
+      "source_sha256": "b0c0ad48867b3b2d708969046cd868d72c8d1c01a46b64fd39f9bd31e8f360e6",
+      "canonical_source_sha256": "2fb3a7ae7142e166204831bc4c0e6bbf9c28ac8b744999ed0f14f07109dc1b3f",
+      "opening_sha256": "00ee7b5ca8a0d9a4c8a4e64c25f64fb543a5c616c586ae455060b90e2c8ff5b3",
+      "bank_id": "LB-Q0296",
+      "lead_figures": [
+        "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1"
+      ],
+      "lead_figure_spans": {
+        "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1": [
+          "If you need a customer system of record, ChatGPT can be an interface to HubSpot's documented CRM connection; the records still live in the CRM. [The AI written RFP](https://doi.org/10.5281/zenodo.23271935), our published study, found the authoritative-system-of-record criterion in 1 answer from its CRM panel of 150. That panel was captured on 22 September 2026. That requirement is different from keeping a useful sales conversation in a chat."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader need for a customer system of record leads before the documented interface and criterion.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/measurement/how-can-a-buyer-verify-the-conclusion.md": {
+      "source_sha256": "1cc47a3a81622981828de4c29f9d2331cf6763d45e1cbdbeb1c5984ef3f01945",
+      "canonical_source_sha256": "67745ee8279b46e942a1487e7a72cbd97e328f61aaf3756c279b2a59b22cb3b4",
+      "opening_sha256": "9ad1ff60e89cb511b4d2824a9488fa0ec954ff7e1f589547861ea1dbbecbc10a",
+      "bank_id": "LB-Q0277",
+      "lead_figures": [
+        "figure:bae9e1d2f26364a37726d5d18c4e0d98e7e88acbdf21ae9882e576c9c9231873"
+      ],
+      "lead_figure_spans": {
+        "figure:bae9e1d2f26364a37726d5d18c4e0d98e7e88acbdf21ae9882e576c9c9231873": [
+          "On 8 October 2026, our Open Dental reference checks examined the claims retained from 22 September 2026 answer captures. [Wrong About You](https://doi.org/10.5281/zenodo.23270124) labels 12 of 77 statements wrong or stale. To verify that conclusion, inspect the particular retained claim and dated reference, while preserving what the 77-statement base counts."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "date_first",
+      "classification_reason": "The actual8October2026vendor-reference check date leads before the retained22Septemberanswer captures and wrong-or-stale count.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/geo-basics/what-are-the-top-3-crm-platforms.md": {
+      "source_sha256": "6f75d00603c64374fc148823f71a14e5ee5ab5ccb53d5c77bf144a69c63c9297",
+      "canonical_source_sha256": "33b7df50b27437a160a43a96ea6a6c82382983477a4585e50352989c3c76e9e1",
+      "opening_sha256": "c72ef3ffe53d9d382a7e4b792a9e9c1df227b47f984f40861a6584c29f0c62ee",
+      "bank_id": "LB-Q0302",
+      "lead_figures": [
+        "figure:6f30ab822a0e68b7f1e94785637b413225266d39891e38e9b289fd43409cb5b0"
+      ],
+      "lead_figure_spans": {
+        "figure:6f30ab822a0e68b7f1e94785637b413225266d39891e38e9b289fd43409cb5b0": [
+          "In our [22 September 2026 CRM Index](https://doi.org/10.5281/zenodo.22907695), the highest naming totals belong to HubSpot CRM, Pipedrive and Salesforce Sales Cloud. Salesforce appeared in 109 of 150 valid answers. Here, top means most often named in this dated buyer-question panel, rather than the best product for every business."
+        ]
+      },
+      "source_review_sha256": "b238ab31551e55e00c93353a6fe4cde4c8c50d18ba1fe319c3b2769db572f75e",
+      "opening_shape": "source_first",
+      "classification_reason": "The explicitly named dated CRMIndex source is the opening preface, before the highest-name list/count. This is reviewed as a named-source-led form, consistent with named-publication openings, rather than relabelling to fit current inventory.",
+      "writing_review_sha256": "2113893479b2dd77e1a8c9ced521af7e3419f94118781f8c65d079a8a8087a20"
+    },
+    "answers/geo-basics/can-i-use-ai-to-do-my-seo.md": {
+      "source_sha256": "0bf6fd026b04b292570bafbcae36bcf787a79d7bdf71381ad1fc83db22f35587",
+      "canonical_source_sha256": "8e906db7995fecd4db7f6f30003abb5486a223da421558767698456631c7c011",
+      "opening_sha256": "a35b9d8f14d96f4e42331d3dbf79b3be5642b54700c3f6871c30ec22755b6abf",
+      "bank_id": "LB-Q0295",
+      "lead_figures": [
+        "figure:31d754e058f055ca9b3680af104d437f00551f2e41ae74b1f20f69298587545d"
+      ],
+      "lead_figure_spans": {
+        "figure:31d754e058f055ca9b3680af104d437f00551f2e41ae74b1f20f69298587545d": [
+          "Yes, AI can assist with SEO research and drafting, provided you check the factual material it supplies. Our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) labelled 2 of 47 HubSpot CRM statements wrong, using 22 September 2026 answer captures and an 8 October reference check. Those two statements concern free-tier contact limits, a concrete input that could otherwise enter a comparison page."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "yes_no",
+      "classification_reason": "The initial Yes directly answers whether AI can assist SEO research/drafting, with a stated condition.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/geo-basics/is-perplexity-good-for-seo.md": {
+      "source_sha256": "9efcd555862305edbfdaaf1150a26dd9b569f76c574af76ab813f9ba58659b1b",
+      "canonical_source_sha256": "1476de764012e7bdf2ee8821e63bcbc21a7d644954a22c3248fb350c76d5c9b2",
+      "opening_sha256": "054eaae00742fdac6c834036b82ef64acdfb9ef598f68b20b4b9b3940ed3d585",
+      "bank_id": "LB-Q0300",
+      "lead_figures": [
+        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801"
+      ],
+      "lead_figure_spans": {
+        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801": [
+          "Use Perplexity to locate and inspect sources for SEO research, rather than treating it as evidence of a ranking improvement. Our [22 September 2026 CRM Index](https://doi.org/10.5281/zenodo.22907695) recorded Salesforce-domain citations in 3 of 30 Perplexity answers. All three point to the same Salesforce small-business CRM article, making the underlying page inspectable rather than supplying three independent references."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "action_first",
+      "classification_reason": "Use Perplexity is the genuine leading imperative before the dated source-selection example.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/measurement/how-should-a-report-present-these-outcomes.md": {
+      "source_sha256": "dded420706889816386357a033b87c30df09d37e570f463e8e173a2c5aca1bec",
+      "canonical_source_sha256": "cd547660a87a5d3dbdba95553aefec4661894ad3c5cecf581ae8e8b420573c53",
+      "opening_sha256": "a186dfe6aeda2098c4f593fc5a5fe3a14c2215648056772afccf5e2597f373e1",
+      "bank_id": "LB-Q0284",
+      "lead_figures": [
+        "figure:4961c3c7635a3010c68f1ec506402d0d961eedaf03cd83d407bb42233682ee36"
+      ],
+      "lead_figure_spans": {
+        "figure:4961c3c7635a3010c68f1ec506402d0d961eedaf03cd83d407bb42233682ee36": [
+          "The [AI Source Standard](https://docs.broadcastwell.com/ai-source-standard/) calls for separate answer, visit, buyer-report and commercial-event measures. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) supplies one such row: among thirty CRM returns from Google AI Mode, three cite a HubSpot-domain URL. A report can place that count beside separately evidenced outcomes, with each row retaining its own date, definition and source."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "source_first",
+      "classification_reason": "The named AI Source Standard and its reporting rule lead before the own Mode citation row.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/geo-basics/what-does-llm-in-ai-mean.md": {
+      "source_sha256": "e3d0f0a3df16c4ba95bcbec9c7fbd75bddfaa384c1ca9766d92b359530ccb093",
+      "canonical_source_sha256": "3328abbf97f0a5ec354d5edb3df89de5c019ca1861d8459d92cc1ed5afb65ff1",
+      "opening_sha256": "5b154bc11a543a00cca3b3615489a82dd04380222ef8e8751671ee53c1865723",
+      "bank_id": "LB-Q0304",
+      "lead_figures": [
+        "figure:31d754e058f055ca9b3680af104d437f00551f2e41ae74b1f20f69298587545d"
+      ],
+      "lead_figure_spans": {
+        "figure:31d754e058f055ca9b3680af104d437f00551f2e41ae74b1f20f69298587545d": [
+          "LLM stands for large language model, a system trained on text to predict sequences of smaller language units called tokens. Generating such a sequence does not establish a product fact. For HubSpot CRM, [Wrong About You](https://doi.org/10.5281/zenodo.23270124) records 47 classified statements, including 2 marked wrong. The source answers date to 22 September 2026; their reference was checked on 8 October 2026. One retained example misstated the free tier's contact allowance."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The acronym expansion and token-generation definition lead before the bounded wrong-statement example.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/measurement/how-should-the-report-show-visits.md": {
+      "source_sha256": "c045826a7a0189d8e8c01b49f4c5c2d6d97c46bd656a2c0ba25b998999e64a6a",
+      "canonical_source_sha256": "da1af971f29b322404c6edc663731ac75e6f1dae9678deef9dbabdf06e79f0dc",
+      "opening_sha256": "c255688a837b0a4082d72fcda0a47bdf856dc1a9bf5b3a1607cf4f80e324d1da",
+      "bank_id": "LB-Q0285",
+      "lead_figures": [
+        "figure:080bf39227fa2b27b9713e47b80cbb5f6bf292199e49965cefb5a1fda3ffb49c"
+      ],
+      "lead_figure_spans": {
+        "figure:080bf39227fa2b27b9713e47b80cbb5f6bf292199e49965cefb5a1fda3ffb49c": [
+          "If you are reporting visits, state the reporting period, what counted as a visit and the source evidence received. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) recorded Procore naming alongside an own-domain citation in 30 of 150 construction-software answers. That figure belongs to an answer-observation row; it cannot supply the visit count or visit definition in a traffic report."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader condition of reporting visits leads before the explicit field instruction and Procore event contrast.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/geo-basics/which-ai-based-crm-is-the-best.md": {
+      "source_sha256": "c30a507f8f691aec7ee21d069def235845ee074533a8f2afa6e978f1a41a8bd1",
+      "canonical_source_sha256": "7143197dc3895553c2ce5985f12e0301b2451695898eda25bce8c311b34d2829",
+      "opening_sha256": "38249c27aa9c332748dbea20235853eacc60400a396acd42bbc3af6353f19b9d",
+      "bank_id": "LB-Q0307",
+      "lead_figures": [
+        "figure:2de21ef73760d73e3dc9da5c4d6e1d3ef7a26073b2a9e79b1fded0c487103737"
+      ],
+      "lead_figure_spans": {
+        "figure:2de21ef73760d73e3dc9da5c4d6e1d3ef7a26073b2a9e79b1fded0c487103737": [
+          "An AI label does not establish which CRM is best for your workflow. In [The AI written RFP](https://doi.org/10.5281/zenodo.23271935), we examined CRM returns from 22 September 2026: an explicit AI accuracy-or-usefulness criterion appeared in 3 of 150 answers. All three occur in the buyer-evaluation question, where the answers ask for task-specific evidence rather than naming one universal winner."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The opening corrects an AI label proving best fit before the actual task-usefulness criterion.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/geo-basics/who-has-the-best-geo-results-in-competitive-industries.md": {
+      "source_sha256": "cb2fb8124c016b0c51e4e4d9e75d20cb99d7b27d65288b3439ccb0a7d0681cc3",
+      "canonical_source_sha256": "cb2fb8124c016b0c51e4e4d9e75d20cb99d7b27d65288b3439ccb0a7d0681cc3",
+      "opening_sha256": "1442fc785270211bf2c62683b23b1ff02f7f2bb195aae4015fc72c04110b00f0",
+      "bank_id": "LB-Q0123",
+      "lead_figures": [
+        "figure:97091dc87d798a349a6fc6185e21322348d862671dbdc9f261fbf0ffae5d9f51"
+      ],
+      "lead_figure_spans": {
+        "figure:97091dc87d798a349a6fc6185e21322348d862671dbdc9f261fbf0ffae5d9f51": [
+          "The published records do not establish one provider with the best GEO results across competitive industries. Our [WebFX publication record](https://broadcastwell.com/best-geo-agencies#webfx), saved on 29 October 2026, marks 3 of 8 criteria Yes. That observation identifies published evidence to inspect; a named supplier case supplies a different kind of record with its own metric and comparison dates."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The first sentence rejects a universal best-results inference before the dated publication-audit result.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/industries/hotel-property-management-software-chatgpt-free.md": {
+      "source_sha256": "3855f9247e595af3ab340d106aa9706fd57296e5f7012604c5575990cc2a0af8",
+      "canonical_source_sha256": "3855f9247e595af3ab340d106aa9706fd57296e5f7012604c5575990cc2a0af8",
+      "opening_sha256": "f34c002444af1c1ce162545ce7f3868d728e38d9d36d8b201a30b33bc8c964e8",
+      "bank_id": "LB-Q0386",
+      "lead_figures": [
+        "figure:84e01f5cf10be295c9736f28a5ae267de5f125c7de2a527d044133a2d866f368"
+      ],
+      "lead_figure_spans": {
+        "figure:84e01f5cf10be295c9736f28a5ae267de5f125c7de2a527d044133a2d866f368": [
+          "Zapier's [Cloudbeds and ChatGPT listing](https://zapier.com/apps/cloudbeds/integrations/chatgpt) labels a Free tier, but that label does not establish a free Cloudbeds-and-ChatGPT stack. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 4 of 5 hotel-software pricing destinations on 6 October 2026. Reaching public terms supplies a place to investigate cost; it does not grant a hotel-software license or an OpenAI account entitlement."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "source_first",
+      "classification_reason": "The named ZapierCloudbeds/ChatGPT pair listing and its precise Free label lead before the pricing-task observation.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/geo-basics/which-tools-combine-ai-visibility-and-social-listening.md": {
+      "source_sha256": "583cd78caa2aea23aa5d3fffe7d7bd5cfb052459a0dc43947b43ef01468d7988",
+      "canonical_source_sha256": "433a7e093ff19fcab503aff0384668864340dbbd101964703d57f6736ee2a9ad",
+      "opening_sha256": "905050082a804a0562e6f6f56fa3db8dd5d8f3fcfbd20b9a7a05d16c6e7b2d9d",
+      "bank_id": "LB-Q0120",
+      "lead_figures": [
+        "figure:c4f381b620e089525007b161536048fe02d90b6c0d8cd283b681ed7e85c88477"
+      ],
+      "lead_figure_spans": {
+        "figure:c4f381b620e089525007b161536048fe02d90b6c0d8cd283b681ed7e85c88477": [
+          "Meltwater's [GenAI Lens](https://www.meltwater.com/en/capabilities/ai-visibility-tracking) is one documented example of AI visibility alongside social listening in a broader platform. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) recorded Reddit URLs in 60 of 150 radiology-software answers. That count concerns links in AI answers, a different observation from the social conversations a listening product collects."
+        ]
+      },
+      "source_review_sha256": "e88d9bf5e4d26002836c476376e0f7ccb9d6091efeb2bdaf90bd4066aab948d5",
+      "opening_shape": "vendor_first",
+      "classification_reason": "MeltwaterGenAILens is the leading named product/vendor subject.",
+      "writing_review_sha256": "e877dd1b33c834549e9975174ba0054ae6376628bc35e3f7e7daa06ca21d95f4"
+    },
+    "answers/measurement/what-did-the-buyer-report.md": {
+      "source_sha256": "ef6a7d4a3c81952ae9211cca7c496f627f23cb1e138f3093beaf8009b5ee1256",
+      "canonical_source_sha256": "ef6a7d4a3c81952ae9211cca7c496f627f23cb1e138f3093beaf8009b5ee1256",
+      "opening_sha256": "345ef4604bdc072ec98f1def3f377c316bc8b637430002981749e128aa4bac6d",
+      "bank_id": "LB-Q0286",
+      "lead_figures": [
+        "figure:20a7834175b7baebc2e2eedcd6d96d0de8851797b9ce352e2bfe649f0c72f685"
+      ],
+      "lead_figure_spans": {
+        "figure:20a7834175b7baebc2e2eedcd6d96d0de8851797b9ce352e2bfe649f0c72f685": [
+          "A buyer report is the buyer’s own account of how they found or assessed you. It differs from an assistant choosing a supplier: our [Head to Head study](https://doi.org/10.5281/zenodo.23202939) recorded 75 single-vendor selections among 359 scored answers from 22 September 2026. Those selections tell you what the engines returned, not what a buyer said, clicked or bought."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The opening defines a buyer’s own account before contrasting measured supplier selection.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/measurement/what-does-the-business-record-establish.md": {
+      "source_sha256": "a980e651b6ec9eda5ab8ae102e42b0dbb594ddea65981ab5ef590b25f3ebf77e",
+      "canonical_source_sha256": "a980e651b6ec9eda5ab8ae102e42b0dbb594ddea65981ab5ef590b25f3ebf77e",
+      "opening_sha256": "fca9a645cb2e744993520d53e7a632bac820a076e4d1e66e1bce45b12e292b35",
+      "bank_id": "LB-Q0289",
+      "lead_figures": [
+        "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1"
+      ],
+      "lead_figure_spans": {
+        "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1": [
+          "If you need to count an enquiry, use the business record for that defined event, with its date and status. An assistant describing a CRM is a different source: our [22 September 2026 buyer-language study](https://doi.org/10.5281/zenodo.23271935) coded a system-of-record requirement in 1 of 150 CRM answers. That observation records words in an answer, without establishing any company’s enquiry or sale."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The need to count an enquiry is the first reader condition before the observed criterion.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/measurement/what-information-belongs-in-a-public-report.md": {
+      "source_sha256": "d9cf06abb78afcb66ee408cafd3c345641907dc0a34ad11ca11e6a6650e366df",
+      "canonical_source_sha256": "d9cf06abb78afcb66ee408cafd3c345641907dc0a34ad11ca11e6a6650e366df",
+      "opening_sha256": "6292908d09f302962fdb03e21d019d50900e73b3cd06de35c29a0143b66849d8",
+      "bank_id": "LB-Q0290",
+      "lead_figures": [
+        "figure:59febd4b1677af152b9cc70e03a566e11bed7788cb89dbaaca2ae77ed4b76637"
+      ],
+      "lead_figure_spans": {
+        "figure:59febd4b1677af152b9cc70e03a566e11bed7788cb89dbaaca2ae77ed4b76637": [
+          "Publish reviewed aggregates and authorised evidence, with the date, base and source needed to check the claim. The permissions criterion in our [insurance buyer-language study](https://doi.org/10.5281/zenodo.23271935) has a 10/150 answer count, using the 22 September 2026 capture. That public count can be reported; it does not turn private customer records, deal notes or unreviewed text into material you may publish."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "action_first",
+      "classification_reason": "Publish is the opening reporting action before the actual insurance criterion.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/geo-basics/which-ai-is-best-for-seo.md": {
+      "source_sha256": "5cd8727e1fa4839200713fda425a3b0708f1c0b26c2c825dfd17f841f54d73e2",
+      "canonical_source_sha256": "5cd8727e1fa4839200713fda425a3b0708f1c0b26c2c825dfd17f841f54d73e2",
+      "opening_sha256": "5721aeb5838e18125b49b61f6ed86f38ac1279bc0379af50466ca7de75a06b19",
+      "bank_id": "LB-Q0308",
+      "lead_figures": [
+        "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021",
+        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801"
+      ],
+      "lead_figure_spans": {
+        "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021": [
+          "Compare ChatGPT Search and Perplexity Pro Search against a factual SEO research task whose sources you can check: our [September CRM release](https://doi.org/10.5281/zenodo.22907695) recorded Salesforce-domain citations in 19 of 30 ChatGPT answers, compared with 3 of 30 Perplexity answers from 22 September 2026. Those observations compare returned sources, rather than ranking skill or improvements to a website."
+        ],
+        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801": [
+          "Compare ChatGPT Search and Perplexity Pro Search against a factual SEO research task whose sources you can check: our [September CRM release](https://doi.org/10.5281/zenodo.22907695) recorded Salesforce-domain citations in 19 of 30 ChatGPT answers, compared with 3 of 30 Perplexity answers from 22 September 2026. Those observations compare returned sources, rather than ranking skill or improvements to a website."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "action_first",
+      "classification_reason": "Compare gives the reader a bounded factual research task before the counts; two engine measures later in that paragraph do not change its initial action form.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/geo-basics/will-crm-get-replaced-by-ai.md": {
+      "source_sha256": "45840aa24539fa861f88fee3a09aef87a8f63391422e3280c5be47f05ecccccc",
+      "canonical_source_sha256": "45840aa24539fa861f88fee3a09aef87a8f63391422e3280c5be47f05ecccccc",
+      "opening_sha256": "772cecffdc8215c94a7170cab27d70469933b3c3c3b08fbc97ec72fc5352b9d6",
+      "bank_id": "LB-Q0310",
+      "lead_figures": [
+        "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1"
+      ],
+      "lead_figure_spans": {
+        "figure:a4a00c8d723188b1a3edd316e750dd8258f4d154ca4b45394970c668a245dbf1": [
+          "HubSpot’s documented ChatGPT connection uses records in a connected HubSpot account, so that workflow adds an AI interface without replacing the CRM behind it. Our [buyer-language study](https://doi.org/10.5281/zenodo.23271935) coded one CRM answer for the system-of-record criterion, from a 150-answer capture on 22 September 2026. Neither observation is a forecast that the whole CRM market will disappear or remain unchanged."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "vendor_first",
+      "classification_reason": "HubSpot’s connected account and retained CRM relationship give the first named-vendor answer before the study criterion.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/geo-basics/does-ai-search-replace-seo.md": {
+      "source_sha256": "28d37990b0e5e37f62051f060eddd28032cff3428bb8ec83e18976f50ac6360b",
+      "canonical_source_sha256": "28d37990b0e5e37f62051f060eddd28032cff3428bb8ec83e18976f50ac6360b",
+      "opening_sha256": "b0613998a0ac1488337dbc1b6d1dbf4c86af0dcffb23c6381257e2b0cd130036",
+      "bank_id": "LB-Q0311",
+      "lead_figures": [
+        "figure:900e1c0e23abd4dbf4f3101a58fb1c8168de7b5429e7289b53c6e229d24cbbe5"
+      ],
+      "lead_figure_spans": {
+        "figure:900e1c0e23abd4dbf4f3101a58fb1c8168de7b5429e7289b53c6e229d24cbbe5": [
+          "No. For Google’s AI features, the published guidance still depends on ordinary search eligibility and useful, accessible content. Our [CRM panel captured on 22 September 2026](https://doi.org/10.5281/zenodo.22907695) recorded a HubSpot-domain citation in 6 of 30 Google AI Overviews answers. That is an additional answer-source observation to examine beside SEO records, rather than evidence that a site no longer needs its search foundations."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "yes_no",
+      "classification_reason": "No answers replacement directly, immediately scoped to Google eligibility and dated HubSpot citations.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/industries/insurance-agency-software-chatgpt-project-management.md": {
+      "source_sha256": "88f45a2a1f285c3ab00fcf92197cabca992af255cd250517a07125ea1c114733",
+      "canonical_source_sha256": "88f45a2a1f285c3ab00fcf92197cabca992af255cd250517a07125ea1c114733",
+      "opening_sha256": "85e4af56ea57a5e4b4cd2b71075ec03fbe96de4754ea5e6dcab55e88857b5ade",
+      "bank_id": "LB-Q0392",
+      "lead_figures": [
+        "figure:7cc97e99427a67fc22eb82316773614decf5c09b1049a31ee365a91c848a4fb4"
+      ],
+      "lead_figure_spans": {
+        "figure:7cc97e99427a67fc22eb82316773614decf5c09b1049a31ee365a91c848a4fb4": [
+          "AgencyZoom's [ChatGPT pair listing](https://zapier.com/apps/agencyzoom-ca67272/integrations/chatgpt) documents a Create Task action, giving this project-management question a specific task-handoff answer. In [The AI written RFP](https://doi.org/10.5281/zenodo.23271935), task assignment appears as a criterion in 8 of 150 insurance-software answers captured on 22 September 2026. That criterion concerns what the answers ask buyers to evaluate, rather than a completed AgencyZoom operation."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Named AgencyZoom Create Task answers the workflow before the insurance criterion count.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
+    },
+    "answers/industries/legal-practice-software-chatgpt-free.md": {
+      "source_sha256": "1a143de2f33b3d76c6bf22e1575ef08cdbc004eda4d85afe8bd9fb791126cbff",
+      "canonical_source_sha256": "1a143de2f33b3d76c6bf22e1575ef08cdbc004eda4d85afe8bd9fb791126cbff",
+      "opening_sha256": "cd4104ec245d848f7ab25896977b1372a8257c514c539fc00f06c861ee8adbf7",
+      "bank_id": "LB-Q0397",
+      "lead_figures": [
+        "figure:3fc1c342cf1ee227e594715531a9e7e9c45206cb7e1ad24115cb86579d0b7ed3"
+      ],
+      "lead_figure_spans": {
+        "figure:3fc1c342cf1ee227e594715531a9e7e9c45206cb7e1ad24115cb86579d0b7ed3": [
+          "If you mean researching public legal-software information, ChatGPT Free has documented web-search functions; that does not establish a free Clio-and-ChatGPT workflow. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached all 5 of the 5 legal-software pricing destinations on 6 October 2026. Finding those destinations is a public-site observation, rather than a license or account entitlement."
+        ]
+      },
+      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader’s intended public research is the first condition, before separating free software/account routes.",
+      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
     }
   },
   "index_question_titles": {
