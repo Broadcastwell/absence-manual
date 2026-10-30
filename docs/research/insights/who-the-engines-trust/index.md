@@ -46,7 +46,7 @@ Before aggregating class shares, we froze a host-purpose classification table. T
 
 Source: [September version DOI](https://doi.org/10.5281/zenodo.22907695); [full class table](../../data/citation-class-shares.csv), all-array-entries variant, target scope, all engines and categories. The omitted classes remain in the denominator and in the download. These selected rows do not sum to the whole.
 
-The large other group limits the interpretation. It includes blocked publishers, sites whose accessible descriptions do not establish the designated purpose and multifunctional sites that are difficult to place. Some are probably vendors outside the checked dictionary. Treating every other entry as a nonvendor would overstate what we learned. Treating the verified vendor class as every vendor on the web would do the same.
+The large other group limits the interpretation. It includes blocked publishers, sites whose accessible descriptions do not establish the designated purpose and multifunctional sites that are difficult to place. Some are probably vendors outside the checked dictionary. The gap cuts both ways: calling every other entry a nonvendor would overstate the evidence, but so would calling the verified class a complete inventory of software vendors. Neither inference is supported.
 
 After the first aggregation, a publisher-purpose audit identified five host-role corrections. We retained the frozen primary result and published a separately dated sensitivity table. Its review-platform result is **1,706/18,893**, **9.0%**, descriptive **95% Wilson interval 8.6% to 9.4%**. This is a disclosed post-analysis correction, not a replacement made before seeing results. The correction log and ambiguity recoding accompany the full study. [Post-audit class table](../../data/citation-class-shares-post-audit.csv).
 
@@ -72,7 +72,7 @@ Lewandowski, Sünkler and Yagci found **1,974 Wikipedia results** in their Googl
 
 That historical comparison concerns Google result positions for selected German-language queries. Our table concerns saved reference arrays for B2B-software answers. The small Wikipedia count in our sample cannot establish a loss of general authority, a change in Google’s behavior or a reduced role in model training. Those questions require other populations and measurements.
 
-There is a useful older parallel in Goel and colleagues’ title, “ordinary people with extraordinary tastes.” Their long-tail research studies how popularity and diverse individual behavior coexist. But the familiar retelling about clicks should not be imported into our citation table: the relevant browsing concentration discussion measures pageviews. [Goel et al., 2010, §3.2](https://doi.org/10.1145/1718487.1718513). A pageview, a search click and a reference inside an answer are different events.
+There is a useful older parallel in Goel and colleagues’ title, “ordinary people with extraordinary tastes.” Their long-tail research studies how popularity and diverse individual behavior coexist. But the familiar retelling about clicks should not be imported into our citation table: the relevant browsing concentration discussion measures pageviews. [Goel et al., 2010, §3.2](https://sites.santafe.edu/~aaronc/courses/7000/readings/Goel_Broder_Gabrilovich_Pang_10_AnatomyOfTheLongTail_OrdinaryPeopleWithExtraordinaryTastes.pdf). A pageview, a search click and a reference inside an answer are different events.
 
 ## What can you do with a citation map?
 
@@ -111,7 +111,7 @@ Broadcastwell research team. (2026, October 30). *A citation is an observed sour
 
 Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

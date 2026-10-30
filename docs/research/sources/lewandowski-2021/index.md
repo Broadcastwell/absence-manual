@@ -31,14 +31,7 @@ The Wikipedia result makes the point unusually clear. Wikipedia was deliberately
 
 The authors assembled German Google query sets with different subject matter. The Trends collection used queries gathered during March to June and November to December 2020. The coronavirus set concerned the pandemic; the radical-right set came from work with a regional media-regulation authority. These were purposeful collections, not a probability sample of everything people asked Google. [Table 2, original p. 17].
 
-| Collection | Queries in Table 2's query column | Retrieved result URLs |
-| --- | ---: | ---: |
-| Google Trends | 1,563 | 207,522 |
-| Radical-right topics | 80 | 12,673 |
-| Coronavirus | 271 | 36,658 |
-| Total | 1,914 | 256,853 |
-
-Source: Lewandowski et al., Table 2, PDF p. 6, printed p. 17; verified 30 October 2026. The three result counts sum to the reported total. These are result records from the study, not the number of websites on the web or the number of people exposed to them.
+The study's Google Trends collection contains **1,563 queries and 207,522 result URLs**. Its radical-right collection contributes **80 queries and 12,673 result URLs**, while the coronavirus query-count column gives **271 queries and 36,658 result URLs**. The three query-column counts sum to **1,914**, and their result counts sum to **256,853**. These are selected study records, not counts of all websites or people exposed to them. [Lewandowski et al., Table 2, PDF p. 6, printed p. 17; verified 30 October 2026].
 
 There is a wording discrepancy within Table 2. Its coronavirus description says 482 queries, while its query-count column says 271. The latter reconciles with the paper's total of 1,914. We preserve that distinction rather than quietly repairing the original. The raw reason for the difference is not established in the paper. [Table 2 and abstract].
 
@@ -124,7 +117,7 @@ Broadcastwell research team. (2026, October 30). *Lewandowski, Sünkler and Yagc
 
 Prepared by the Broadcastwell research team. Lead: Arjun Mehta, management consultant.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 
