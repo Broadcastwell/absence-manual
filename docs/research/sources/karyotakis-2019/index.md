@@ -21,7 +21,7 @@ is_based_on: https://doi.org/10.3390/fi11090188
 
 **A 656-site walkthrough recorded commenting features, not ranking gains from comments (Karyotakis et al., 2019, §§3 to 4).**
 
-The **656-site** study inspected how selected news websites allowed comments. It did not measure a change in Google rank, search visits or AI citations caused by enabling comments. [Karyotakis et al., 2019, §§3 to 4, reprint PDF pp. 91 to 95, printed pp. 82 to 86](https://doi.org/10.3390/fi11090188).
+The **656-site** study inspected how selected news websites allowed comments. It did not measure a change in Google rank, search visits or AI citations caused by enabling comments. [Karyotakis et al., 2019, §§3 to 4, reprint PDF pp. 91 to 95, printed pp. 82 to 86](../../source-archives/news-comments-2019.pdf).
 
 That distinction is easy to miss because the paper repeatedly connects comments with SEO. The direct observations concern available website features. The explanations of why those features might affect visibility draw on other literature and the authors’ interpretation. They are not the same kind of result.
 
@@ -78,7 +78,7 @@ There is no measured ranking outcome in this comparison. There is no common sear
 
 These omissions matter because popular news sites were selected first. Inspecting common features among already popular sites cannot establish that the features caused their popularity. Editorial investment, topic coverage, established audience, language, ownership and technical infrastructure could all be involved.
 
-The same issue appears when a modern marketer lists common characteristics of frequently cited websites. The selected websites may share a feature, yet that feature may also be common among uncited websites. Without a suitable comparison, prevalence among selected pages is not a causal explanation.
+Modern citation claims face the same problem. The selected websites may share a feature, yet that feature may also be common among uncited websites. Without a suitable comparison, prevalence among selected pages is not a causal explanation.
 
 The paper’s discussion suggests that moderation difficulties, harmful rhetoric and low-quality contributions may explain platform choices. Those are plausible questions. They were not directly established by interviewing decision makers or by measuring moderation effort in this walkthrough. We treat them as proposed explanations, not observed reasons for every site’s choice. [§§5 to 6, PDF pp. 96 to 97].
 
@@ -108,8 +108,9 @@ A citation occurrence is not a commenting option and the classification does not
 
 ## Sources
 
-- Karyotakis, M.-A., Lamprou, E., Kiourexidou, M., & Antonopoulos, N. (2019). SEO practices: A study about the way news websites allow the users to comment on their news articles. Future Internet, 11(9), 188. https://doi.org/10.3390/fi11090188 . Methods §3; results §4 and Figures 4 to 8; limitations §6. Reprint PDF pp. 88 to 100. Verified 30 October 2026.
+- Karyotakis, M.-A., Lamprou, E., Kiourexidou, M., & Antonopoulos, N. (2019). SEO practices: A study about the way news websites allow the users to comment on their news articles. Future Internet, 11(9), 188. https://doi.org/10.3390/fi11090188 . Methods §3; results §4 and Figures 4 to 8; limitations §6. Reprint PDF pp. 88 to 100. [Accessible original](../../source-archives/news-comments-2019.pdf) Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
+
 
 ## Cite this page
 
@@ -129,7 +130,7 @@ Broadcastwell research team. (2026, October 30). *Commenting features are not ev
 
 Prepared by the Broadcastwell research team. Lead: Ethan Brooks, management consultant.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

@@ -21,7 +21,7 @@ is_based_on: https://doi.org/10.1080/23311975.2025.2491678
 
 **All variables in the 791-response Jordan study are self-reported; its ranking construct measures perceptions and preferences (Bataineh et al., 2025, §3.2, Appendix A).**
 
-The **791-response** study measures people’s perceptions of university websites, including what it calls search engine rankings. It does not independently record Google positions for the sampled institutions. [Bataineh, Qasim, Idris and Abu-AlSondos, 2025, §§3.2 to 3.3 and Appendix A](https://doi.org/10.1080/23311975.2025.2491678).
+The **791-response** study measures people’s perceptions of university websites, including what it calls search engine rankings. It does not independently record Google positions for the sampled institutions. [Bataineh, Qasim, Idris and Abu-AlSondos, 2025, §§3.2 to 3.3 and Appendix A](../../source-archives/jordan-2025.pdf).
 
 That outcome definition deserves to come before the path coefficients. The ranking questions ask about visiting first-page results, associating high rank with credibility and trusting highly ranked sites. Those are meaningful attitudes. They are not a server log, a search-results capture or a demonstrated change in rank after a website edit.
 
@@ -86,7 +86,7 @@ The paper’s prose sometimes describes the model in stronger language about inf
 
 Yes, for a bounded question about reported experience and credibility among these respondents. The detailed instrument lets you see what people were asked, and the sample table preserves their institutional and role context. It is useful to know that apparently technical construct names can contain questions about trust and preferences.
 
-For a B2B company, that can sharpen a customer-research plan. Ask users about navigability or clarity if you need perceptions. Observe successful task completion if that is the outcome you need. Capture actual answers if you need to know whether a vendor appears. Calling each result SEO performance would conceal what was measured.
+For a B2B company, that can sharpen a customer-research plan. Ask about navigability or clarity when perceptions are the outcome, observe task completion when success is the outcome, and capture actual answers when the question is whether a vendor appeared. Calling each result SEO performance would conceal what was measured.
 
 There is also a trade-off in survey design. Self-report makes it possible to collect experiences that a technical test cannot see. It leaves some technical claims dependent on what respondents can know and remember. That trade-off deserves explanation rather than an automatic dismissal of the survey or an automatic promotion of its coefficients into causal facts.
 
@@ -104,8 +104,9 @@ Microsoft Dynamics 365 is named in **36/150 valid September CRM target answers, 
 
 ## Sources
 
-- Bataineh, A. Q., Qasim, D., Idris, M., & Abu-AlSondos, I. A. (2025). The evolution of SEO strategies: From keywords to user experience in private universities of Jordan. Cogent Business & Management, 12(1), 2491678. https://doi.org/10.1080/23311975.2025.2491678 . Methods §§3.1 to 3.3, Tables 1, 6 and 7, limitations §5.2, Appendix A. Verified 30 October 2026.
+- Bataineh, A. Q., Qasim, D., Idris, M., & Abu-AlSondos, I. A. (2025). The evolution of SEO strategies: From keywords to user experience in private universities of Jordan. Cogent Business & Management, 12(1), 2491678. https://doi.org/10.1080/23311975.2025.2491678 . Methods §§3.1 to 3.3, Tables 1, 6 and 7, limitations §5.2, Appendix A. [Accessible original](../../source-archives/jordan-2025.pdf) Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
+
 
 ## Cite this page
 
@@ -125,7 +126,7 @@ Broadcastwell research team. (2026, October 30). *Bataineh and colleagues measur
 
 Prepared by the Broadcastwell research team. Lead: Arjun Mehta, management consultant.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 

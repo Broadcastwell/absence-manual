@@ -79,7 +79,7 @@ The same restraint applies to references. In the F1000Research revision, several
 
 A revision can change both the text and the review record. The supplied F1000Research files include distinct displayed versions or review states of the same study. They do not become independent replications because there is more than one PDF. Use the version identifier when quoting a table or reviewer comment. [Ahmad et al., version 2 title page and DOI; collection identity inventory].
 
-Our own reading can also be wrong. The **48.4, 27 and 31** values in Lewandowski’s surrounding discussion concern news-content shares. They are not alternative optimization-class shares contradicting Figure 1. We withdrew that proposed contradiction after opening the source. [Lewandowski et al., §4 and Figure 1].
+Our own reading can also be wrong. The **48.4, 27 and 31** values in Lewandowski’s surrounding discussion concern news-content shares. They are not alternative optimization-class shares contradicting Figure 1. We withdrew that proposed contradiction after opening the source. [Lewandowski et al., §5, PDF p. 6, printed p. 17, and Figure 1].
 
 That correction belongs in the record alongside the criticism of external claims. A checklist that only catches other people’s errors is a weak safeguard against repeating its own.
 
@@ -105,7 +105,7 @@ That wording reports the captured citation field. It does not claim that the ans
 - Ahmad, U. F., Mahdee, J., & Abu Bakar, N. (2024). Search engine optimisation (SEO) strategy as determinants to enhance the online brand positioning (version 2). F1000Research, 11, 714. https://doi.org/10.12688/f1000research.73382.2 . Table 1 and methods, PDF p. 5; reference identities, PDF p. 7. Verified 30 October 2026.
 - Singh, S., & Kesarwani, H. (2025). Study on search engine optimization (SEO) vs. paid advertising: Which strategy yields better ROI? International Journal of Research Publication and Reviews, 6(4), 4129 to 4135. Editorial fragment: printed p. 4132, PDF p. 4. https://ijrpr.com/uploads/V6ISSUE4/IJRPR41950.pdf Verified 30 October 2026.
 - Raju, P. T., Reddy, S. S. R., Riyaz, S., Nausheen, S., & Manasa, G. (2025). Optimizing for the artificial intelligence driven search era: An integrated framework for search engine optimization, generative engine optimization, and answer engine optimization. International Journal of Scientific Research in Engineering and Management, 9(10). https://doi.org/10.55041/IJSREM53069 . Selection claim p. 5; reference list pp. 9 to 10. Verified 30 October 2026.
-- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. https://doi.org/10.1145/3447535.3462479 Verified 30 October 2026.
+- Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible author original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
 ## Cite this page
@@ -126,7 +126,7 @@ Broadcastwell research team. (2026, October 30). *How can you check an SEO stati
 
 Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
 
-Sources checked 30 October 2026. Independent check: pending. This page has not been peer reviewed.
+Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
 
 Last updated: 30 October 2026. Next review: 30 January 2027.
 
