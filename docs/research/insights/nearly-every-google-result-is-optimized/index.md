@@ -31,7 +31,7 @@ Figure 1 in the original ACM article groups **256,853 result URLs** into **59.0%
 
 The paper’s classes are inferred from observable features. Publisher intent was not surveyed. Calling the combined positive groups simply “optimized” would erase the uncertainty the authors preserved.
 
-Nor should the prose’s **48.4%, 27% and 31%** be substituted for the chart. Those figures describe **news-content shares** in the Google Trends, radical-right and coronavirus datasets. They explain a difference in source composition; they are not a conflicting set of optimization-class percentages. [Original §5, same PDF page].
+Nor should the prose’s **48.4%, 27% and 31%** be substituted for the chart. Those are **news-content shares**. They refer to the Google Trends, radical-right and coronavirus datasets. They explain a difference in source composition; they are not a conflicting set of optimization-class percentages. [Original §5, same PDF page].
 
 The original article provides a historical way to ask which visible features result pages carry. It does not establish a universal recipe for appearing in every search system. Our question transfers the descriptive idea to an archived citation set while keeping the changed design explicit.
 
