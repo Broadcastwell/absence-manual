@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "frozen_before_collection_at": "2026-10-30T05:36:56.911875+00:00",
+  "plugins": {
+    "Yoast SEO": [
+      "<!--[^>]*Yoast SEO",
+      "/wp-content/plugins/wordpress-seo/"
+    ],
+    "Rank Math": [
+      "<!--[^>]*Rank Math",
+      "/wp-content/plugins/seo-by-rank-math/"
+    ],
+    "All in One SEO": [
+      "<!--[^>]*All in One SEO",
+      "/wp-content/plugins/all-in-one-seo-pack/",
+      "class=[\\\"\\']aioseo-schema"
+    ],
+    "SEOPress": [
+      "<!--[^>]*SEOPress",
+      "/wp-content/plugins/wp-seopress/"
+    ]
+  },
+  "analytics": [
+    "googletagmanager\\.com/(?:gtag/js|gtm\\.js)",
+    "google-analytics\\.com/(?:analytics|ga)\\.js"
+  ],
+  "advertising": [
+    "pagead2\\.googlesyndication\\.com/pagead/js/adsbygoogle\\.js",
+    "googleads\\.g\\.doubleclick\\.net/"
+  ],
+  "wikipedia_sisters": [
+    "wikipedia.org",
+    "wiktionary.org",
+    "wikibooks.org",
+    "wikinews.org",
+    "wikiquote.org",
+    "wikisource.org",
+    "wikiversity.org",
+    "wikivoyage.org",
+    "wikidata.org",
+    "commons.wikimedia.org",
+    "species.wikimedia.org",
+    "mediawiki.org"
+  ],
+  "limits": "Observable static HTML signatures only; no browser execution. Invalid JSON-LD separately flagged. Successful complete HTML required for page classification. Missing or blocked host files remain unknown. News list is frozen, conservative and not exhaustive."
+}

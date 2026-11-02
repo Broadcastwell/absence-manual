@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 410" role="img" aria-labelledby="title desc">
+<title id="title">Registered page-signal classes among 4420 successfully fetched target URLs</title>
+<desc id="desc">Definitely optimized 3913, probably optimized 405, probably not optimized 100, definitely not optimized 2, unclassified 0. Failures are excluded from this denominator and reported separately.</desc>
+<rect width="1000" height="410" fill="white"/>
+<g font-family="Arial,sans-serif" fill="#172554"><text x="24" y="35" font-size="23">Captured page-signal classes</text><text x="24" y="63" font-size="16">Target scope; 4,420 complete HTML URLs; 30 October 2026 fetch</text>
+<text x="24" y="122" font-size="16">definitely optimized</text>
+<rect x="250" y="105" width="480" height="25" fill="#EFF6FF"/>
+<rect x="250" y="105" width="424.9411" height="25" fill="#1D4ED8"/>
+<text x="748" y="123" font-size="16">3,913 / 4,420; 88.529%</text>
+<text x="24" y="167" font-size="16">probably optimized</text>
+<rect x="250" y="150" width="480" height="25" fill="#EFF6FF"/>
+<rect x="250" y="150" width="43.9819" height="25" fill="#1D4ED8"/>
+<text x="748" y="168" font-size="16">405 / 4,420; 9.163%</text>
+<text x="24" y="212" font-size="16">probably not optimized</text>
+<rect x="250" y="195" width="480" height="25" fill="#EFF6FF"/>
+<rect x="250" y="195" width="10.8595" height="25" fill="#1D4ED8"/>
+<text x="748" y="213" font-size="16">100 / 4,420; 2.262%</text>
+<text x="24" y="257" font-size="16">definitely not optimized</text>
+<rect x="250" y="240" width="480" height="25" fill="#EFF6FF"/>
+<rect x="250" y="240" width="0.2170" height="25" fill="#1D4ED8"/>
+<text x="748" y="258" font-size="16">2 / 4,420; 0.045%</text>
+<text x="24" y="302" font-size="16">unclassified</text>
+<rect x="250" y="285" width="480" height="25" fill="#EFF6FF"/>
+<rect x="250" y="285" width="0.0000" height="25" fill="#1D4ED8"/>
+<text x="748" y="303" font-size="16">0 / 4,420; 0.000%</text>
+<text x="24" y="360" font-size="15">1,441 of 5,861 target URLs were not complete HTML captures; no negative class assigned.</text>
+<text x="24" y="388" font-size="14">Source: Study 1 classification CSV. Descriptive intervals and failure states are in the linked tables.</text></g></svg>
