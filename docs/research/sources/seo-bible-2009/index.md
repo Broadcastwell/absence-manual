@@ -7,13 +7,13 @@ research_id: 21
 research_group: source
 lead: Ethan Brooks
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/seo-bible-2009/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://books.google.com/books?vid=ISBN9780470452646
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://books.google.com/books?vid=ISBN9780470452646
 
 **The book prescribes both 5% to 7% and 7% to 10% keyword density, without a supporting experiment (Ledford, 2009, pp. 67, 99).**
 
+
+Observed answers on stated dates, not a ranking.
 The same book describes **5% to 7%** keyword density as a strict Google range, then offers **7% to 10%** as a general guideline. Neither passage supplies an experiment establishing the prescription. [Ledford, 2009, printed pp. 67 and 99, PDF pp. 89 and 121].
 
 Its interviews have aged differently. Jessica Bowman describes people seeking answers; Rand Fishkin discusses instant answers; Matt Naeger discusses Wikipedia’s place in brand searches; Jill Whalen questions a stable ranking number. Those are useful historical voices, provided we resist turning them into empirical predictions about systems that the book did not study.
@@ -99,9 +101,13 @@ The old book does not tell us how much that revision would change citation. Nor 
 
 ## What our own data shows
 
-Across September 2026, **1,259 of 14,192 complete vendor-question-engine groups** have mixed naming across three valid repeats: **8.9%**, descriptive **95% Wilson interval 8.4% to 9.4%**. Mixed means the vendor is named in one or two repeats rather than none or all three. [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695); [complete-repeat table](../../data/repeat-disagreement.csv).
+**Supports:** Across September 2026, **1,259 of 14,192 complete vendor-question-engine groups** have mixed naming across three valid repeats: **8.9%**, descriptive **95% Wilson interval 8.4% to 9.4%**. Mixed means the vendor is named in one or two repeats rather than none or all three. [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695); [complete-repeat table](../../data/repeat-disagreement.csv).
 
 The unit is a checked vendor within a question and engine, not a unique company or a population of buyers. Groups are dependent through shared questions and answers, so the interval is descriptive. This does not reproduce a 2009 Google ranking study or establish that Whalen predicted a numerical AI-answer result. It records a present measurement boundary beside her historical warning.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -124,11 +130,11 @@ Broadcastwell research team. (2026, October 30). *Search was already an answer-s
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ethan Brooks, management consultant.
+Prepared by the Broadcastwell research team. Lead: Ethan Brooks.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

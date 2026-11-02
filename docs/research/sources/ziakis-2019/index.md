@@ -7,13 +7,13 @@ research_id: 16
 research_group: source
 lead: Ethan Brooks
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/ziakis-2019/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.3390/fi11020032
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.3390/fi11020032
 
 **The strongest average correlation was SSL at −0.3371 across three 15-result samples, not a ranking weight (Ziakis et al., 2019, Table 2).**
 
+
+Observed answers on stated dates, not a ranking.
 An average correlation of **−0.3371** for SSL certificates is the strongest reported relationship in this small observational study. That is an association within selected Google results, not an experimentally established instruction for changing a page’s rank. [Ziakis et al., 2019, Table 2, reprint PDF pp. 19 to 20, printed pp. 10 to 11](https://docs.broadcastwell.com/research/source-archives/ziakis-2019.pdf).
 
 The distinction matters when a research table becomes an agency checklist. Security is worth maintaining for your visitors. The table does not tell you how many positions installing a certificate would gain, whether the certificate itself produced the association, or whether the relationship applies to software-buying questions today.
@@ -105,9 +107,13 @@ If you quote this paper, name the year, the three-query sample and the statistic
 
 ## What our own data shows
 
-The September 2026 Absence Index contains **2,095 valid target observations** after five failed target observations are excluded from the 2,100 planned targets. Across the valid targets, **39 answers have no cited URL**, or **1.86%**, Wilson 95% interval **1.36% to 2.53%**. [Release 2026-09](https://doi.org/10.5281/zenodo.22907695); [citation answer bases](https://docs.broadcastwell.com/research/data/answer-citation-bases.csv), target/all row.
+**Supports:** The September 2026 Absence Index contains **2,095 valid target observations** after five failed target observations are excluded from the 2,100 planned targets. Across the valid targets, **39 answers have no cited URL**, or **1.86%**, Wilson 95% interval **1.36% to 2.53%**. [Release 2026-09](https://doi.org/10.5281/zenodo.22907695); [citation answer bases](https://docs.broadcastwell.com/research/data/answer-citation-bases.csv), target/all row.
 
 That observation concerns supplied citation lists. It is not evidence that any particular SEO factor produced or prevented citation, and an answer without a supplied citation is not necessarily an answer without sources. The base, the observable event and the missing information remain visible together. We have no controlled measurement of the ranking effect of changing SSL, backlinks or keyword density on this point.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -130,11 +136,11 @@ Broadcastwell research team. (2026, October 30). *A small Google study does not 
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ethan Brooks, management consultant.
+Prepared by the Broadcastwell research team. Lead: Ethan Brooks.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

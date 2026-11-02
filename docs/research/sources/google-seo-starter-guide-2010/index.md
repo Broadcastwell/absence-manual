@@ -7,13 +7,13 @@ research_id: 20
 research_group: source
 lead: Ethan Brooks
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/google-seo-starter-guide-2010/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://static.googleusercontent.com/media/www.google.com/en//webma
 
 **Six dated retirements in the 2010 guide’s advice require updated instructions, not a new ranking promise (Google operator announcements, 2012 to 2019).**
 
+
+Observed answers on stated dates, not a ranking.
 The guide’s advice to make useful material easier to find has aged better than its product instructions. We verified **six dated retirements** affecting services or features named in the supplied **2010** edition; several other old labels require separate treatment rather than an invented shutdown date. [Google, 2010, pp. 6, 14, 24 to 27 and 30; primary operator announcements in the table below].
 
 An old manual can contain both a useful principle and an instruction that no longer works. You do not have to accept or reject the whole document at once. Check the sentence’s purpose, then check whether the named service, feature or policy still exists in the form described.
@@ -88,9 +90,13 @@ The older guide cannot settle whether a particular B2B vendor will be named, whe
 
 ## What our own data shows
 
-The September 2026 release has **2,095 valid target answers** from **2,100 planned target observations**, with five failures retained as exclusions. Across those valid targets, **39 have an empty supplied citation list**, **1.86%**, descriptive **95% Wilson interval 1.36% to 2.53%**. [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695); [answer-citation bases](../../data/answer-citation-bases.csv).
+**Supports:** The September 2026 release has **2,095 valid target answers** from **2,100 planned target observations**, with five failures retained as exclusions. Across those valid targets, **39 have an empty supplied citation list**, **1.86%**, descriptive **95% Wilson interval 1.36% to 2.53%**. [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695); [answer-citation bases](../../data/answer-citation-bases.csv).
 
 Those outcomes do not test whether following Google’s guide caused a citation. We have no controlled measurement of that effect on this point. The instruction and the observed answer remain separate records, each with its own date and purpose.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -126,11 +132,11 @@ Broadcastwell research team. (2026, October 30). *Read Google’s 2010 guide for
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ethan Brooks, management consultant.
+Prepared by the Broadcastwell research team. Lead: Ethan Brooks.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

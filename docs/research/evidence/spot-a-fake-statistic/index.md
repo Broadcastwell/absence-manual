@@ -7,13 +7,13 @@ research_id: 48
 research_group: evidence
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/evidence/spot-a-fake-statistic/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://ijebmr.com/
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://ijebmr.com/
 
 **The reported 29 words describe answers, not queries; changing that noun changes the finding (Dean, 2018; Anttila, 2021, p. 9).**
 
+
+Observed answers on stated dates, not a ranking.
 **29 words** became a different statistic when a secondary account described it as voice-search length and used it to discuss longer queries. The opened primary study describes the average length of spoken answers in its Google Home sample. [Anttila, 2021, p. 9; Dean, 2018, answer-length section](https://backlinko.com/voice-search-seo-study).
 
 The number survived. The object being measured did not. Before you cite an impressive SEO or GEO figure, inspect the noun, the base, the comparison and the source identity. A real paper can be misquoted, a numerical table can support less than its discussion claims, and a missing source is different from a disproved result.
@@ -93,9 +95,13 @@ The [unverified-numbers ledger](../unverified-numbers/) keeps the unresolved cla
 
 ## What our own data shows
 
-In September 2026, **39 of 2,095 valid target answers** have no explicit cited URL, **1.86%**, descriptive **95% Wilson interval 1.36% to 2.53%**. [Release 2026-09](https://doi.org/10.5281/zenodo.22907695); [answer-citation bases](../../data/answer-citation-bases.csv).
+**Supports:** In September 2026, **39 of 2,095 valid target answers** have no explicit cited URL, **1.86%**, descriptive **95% Wilson interval 1.36% to 2.53%**. [Release 2026-09](https://doi.org/10.5281/zenodo.22907695); [answer-citation bases](../../data/answer-citation-bases.csv).
 
 That wording reports the captured citation field. It does not claim that the answer had no underlying information source, that every system always supplies citations, or that the percentage represents all buyer searches. The short sentence still needs its observable unit and its boundary.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -124,11 +130,11 @@ Broadcastwell research team. (2026, October 30). *How can you check an SEO stati
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

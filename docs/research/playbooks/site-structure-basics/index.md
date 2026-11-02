@@ -7,13 +7,13 @@ research_id: 33
 research_group: playbook
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/site-structure-basics/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://developers.google.com/crawling/docs/troubleshooting/http-status-codes
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://developers.google.com/crawling/docs/troubleshooting/http-st
 
 **A page that says “not found” while returning HTTP 200 can be treated as a soft 404 (Google Crawling Infrastructure, 2026).**
 
+
+Observed answers on stated dates, not a ranking.
 A **200 response is not proof of a useful page or indexing**. Google’s current status-code documentation explains that content suggesting an error or empty page can be classified as a soft 404 even when the server returns success. A visible apology alone does not make a missing-page response technically correct. [Google Crawling Infrastructure, HTTP status codes](https://developers.google.com/crawling/docs/troubleshooting/http-status-codes).
 
 Site structure gives a reader stable destinations and an intelligible route among them. It also gives crawlers addresses they can request. The checks below are practical ways to preserve those properties. They do not establish that a particular URL pattern causes a higher AI citation rate.
@@ -91,9 +93,11 @@ Google’s link guidance says, “Good anchor text is descriptive, reasonably co
 
 ## What our own data shows
 
-We have no measurement on this point: the causal citation effect of these site-structure changes. The Index’s archived answers can identify which URLs were visibly cited on stated dates. They do not expose every retrieval step or establish that a breadcrumb, slug or response code caused selection.
+**Does not support:** We have no measurement on this point: the causal citation effect of these site-structure changes. The Index’s archived answers can identify which URLs were visibly cited on stated dates. They do not expose every retrieval step or establish that a breadcrumb, slug or response code caused selection.
 
-No causal effect was measured. Their immediate purpose is to keep public pages reachable, understandable and accurately identified.
+**Supports:** No causal effect was measured. Their immediate purpose is to keep public pages reachable, understandable and accurately identified.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -120,11 +124,11 @@ Broadcastwell research team. (2026, October 30). *Which site-structure basics st
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

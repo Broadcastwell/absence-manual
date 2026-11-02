@@ -6,14 +6,14 @@ page_class: research
 research_id: 35
 research_group: glossary
 lead: Lauren Chen
-published: '2026-10-30T08:50:01Z'
-updated: '2026-10-30T08:50:01Z'
-next_review: '2027-01-30T08:50:01Z'
+published: '2026-11-02T20:27:14Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/share-of-model/
 sources_verified: true
 schema_type: Article
-date_published: '2026-10-30T08:50:01Z'
-date_modified: '2026-10-30T08:50:01Z'
+date_published: '2026-11-02T20:27:14Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://marketing.org.nz/resource-hub/share-of-model-a-new-metric-for-marketing-strategies
 defined_term: Share of Model
 ---
@@ -22,6 +22,8 @@ defined_term: Share of Model
 
 **Share of Model is a brand’s share of category-brand mentions in a specified set of AI answers; the question set and counting rules define the result.**
 
+
+Observed answers on stated dates, not a ranking.
 The capitalized name can refer to a product as well as a marketing measure. Ask for the calculation before comparing two dashboards. A count of answers naming a company and a share of all brand mentions answer different questions, even when both carry the same label.
 
 For practical reporting decisions, use the library’s [client AI visibility report guidance](/answers/measurement/what-should-a-client-ai-visibility-report-contain/). This definition concerns the denominator behind the term.
@@ -64,9 +66,13 @@ You need the counted event before you can interpret the share.
 
 Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
-The Absence Index calls its answer-level outcome **naming rate**, with the eligible answer base stated in the release. Study 2 separately reports vendor-answer pairs, own-domain citations and named-without-own-citation events. Those measures retain their own names; we do not relabel them Share of Model.
+**Supports:** The Absence Index calls its answer-level outcome **naming rate**, with the eligible answer base stated in the release. Study 2 separately reports vendor-answer pairs, own-domain citations and named-without-own-citation events. Those measures retain their own names; we do not relabel them Share of Model.
 
 For example, the registered citation analysis finds **2,608 own-domain citation events among 8,085 named vendor-answer pairs: 32.3%, Wilson 95% interval 31.2% to 33.3%**. This is conditional citation coverage among named pairs, not a category-mention share. The [Study 2 table and public reproduction files](/research/studies/who-ai-engines-cite/) supply the exact units and underlying counts.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -75,27 +81,29 @@ For example, the registered citation analysis finds **2,608 own-domain citation 
 - Jellyfish. (2026, June 25). Jellyfish expands Share of Model with Creator Intelligence updates to reveal which creators influence AI models & more. Product announcement. https://www.jellyfish.com/en-us/news/creator-intelligence-updates/ Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
+Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *What does Share of Model measure?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/share-of-model/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, November 2). *What does Share of Model measure?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/share-of-model/ Published November 2, 2026; updated November 2, 2026.
 
 ```bibtex
 @online{broadcastwell2026research35,
   author = {{Broadcastwell research team}},
   title = {What does Share of Model measure?},
   year = {2026},
-  date = {2026-10-30},
+  date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/glossary/share-of-model/},
-  urldate = {2026-10-30},
+  urldate = {2026-11-02},
   note = {Published 2026-10-30; updated 2026-10-30}
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Lauren Chen, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Lauren Chen.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

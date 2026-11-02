@@ -7,13 +7,13 @@ research_id: 29
 research_group: playbook
 lead: Daniel Kim
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/syndicating-without-losing-the-original/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://developers.google.com/search/docs/crawling-indexing/canonicalization
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://developers.google.com/search/docs/crawling-indexing/canonic
 
 **A canonical link expresses a preference; Google can select another representative URL for duplicate content (Google Search Central, 2026).**
 
+
+Observed answers on stated dates, not a ranking.
 A canonical link is **a preference, not a guarantee**. Google describes canonicalization as selecting a representative URL from duplicate or very similar content, using multiple signals. Your preferred copy and Google’s selected copy can differ. [Google Search Central, What is canonicalization](https://developers.google.com/search/docs/crawling-indexing/canonicalization).
 
 That matters when you publish research on your own site and discuss it elsewhere. You need a stable place for the complete evidence, a clear route back from the secondary discussion and an honest account of what each platform actually lets you control. A backlink is useful attribution. It is not the same technical instruction as a canonical element.
@@ -84,9 +86,11 @@ Our distribution policy for this section is to keep the full source record on th
 
 ## What our own data shows
 
-We have no measurement on this point: the causal visibility effect of syndication or a canonical preference. The September Index is a versioned deposit, DOI 10.5281/zenodo.22907695. Linking that identity preserves which archive a derived statement uses. It does not show that syndicating the statement increased its reach.
+**Does not support:** We have no measurement on this point: the causal visibility effect of syndication or a canonical preference. The September Index is a versioned deposit, DOI 10.5281/zenodo.22907695. Linking that identity preserves which archive a derived statement uses. It does not show that syndicating the statement increased its reach.
 
-We have no controlled measurement of the effect of Substack, LinkedIn or a canonical preference on Broadcastwell’s AI citations. Publication and indexing receipts should be read as receipts for those states only.
+**Supports:** We have no controlled measurement of the effect of Substack, LinkedIn or a canonical preference on Broadcastwell’s AI citations. Publication and indexing receipts should be read as receipts for those states only.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -113,11 +117,11 @@ Broadcastwell research team. (2026, October 30). *How do you syndicate research 
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Daniel Kim, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Daniel Kim.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

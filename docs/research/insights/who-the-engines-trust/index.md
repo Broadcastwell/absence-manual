@@ -7,13 +7,13 @@ research_id: 7
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/who-the-engines-trust/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.5281/zenodo.22907695
 
 **Ten hosts supplied 3,192/18,893 target citation entries: 16.9%, Wilson 95% interval 16.4% to 17.4% (Broadcastwell, 2026, Study 2).**
 
+
+Observed answers on stated dates, not a ranking.
 The leading ten hosts accounted for **3,192 of 18,893 target citation entries** in our September B2B-software answers: **16.9%**, descriptive **95% Wilson interval 16.4% to 17.4%**. Calling those hosts the sources the engines “trust” would add a mental state that the record does not measure. [Broadcastwell, Study 2, target concentration table; release 2026-09](https://doi.org/10.5281/zenodo.22907695).
 
 The distinction changes the question you can answer. We can identify which hosts appeared in the saved citation arrays, how often they appeared and how concentrated those entries were. We cannot see every source considered, reconstruct the engine’s internal reasoning or establish that a cited page was correct. A displayed reference is evidence of a source choice in an answer, with its own opportunity for error.
@@ -84,7 +86,11 @@ The trade-off is practical. A conservative classification leaves a conspicuous u
 
 ## What our own data shows
 
-The target archive’s leading ten hosts supply **3,192/18,893 citation occurrences, 16.9% (Wilson 95% interval 16.4% to 17.4%)**. This measures concentration under the registered host rules. The tables above are a descriptive reanalysis of [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695), under [OSF registration vczkt](https://doi.org/10.17605/OSF.IO/VCZKT). Download the [host-purpose record](../../data/host-classes.csv), [class shares](../../data/citation-class-shares.csv), [post-audit sensitivity](../../data/citation-class-shares-post-audit.csv) and [concentration tables](../../data/citation-concentration.csv). The class corrections, timing deviation and complete method are stated on the [registered study page](../../studies/who-ai-engines-cite/). No table measures trust, truth, traffic or a causal effect of publishing.
+**Supports:** The target archive’s leading ten hosts supply **3,192/18,893 citation occurrences, 16.9% (Wilson 95% interval 16.4% to 17.4%)**. This measures concentration under the registered host rules. The tables above are a descriptive reanalysis of [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695), under [OSF registration vczkt](https://doi.org/10.17605/OSF.IO/VCZKT). Download the [host-purpose record](../../data/host-classes.csv), [class shares](../../data/citation-class-shares.csv), [post-audit sensitivity](../../data/citation-class-shares-post-audit.csv) and [concentration tables](../../data/citation-concentration.csv). The class corrections, timing deviation and complete method are stated on the [registered study page](../../studies/who-ai-engines-cite/). No table measures trust, truth, traffic or a causal effect of publishing.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -109,11 +115,11 @@ Broadcastwell research team. (2026, October 30). *A citation is an observed sour
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
+Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

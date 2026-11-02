@@ -7,13 +7,13 @@ research_id: 9
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/one-channel-is-a-risk/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.5281/zenodo.22907695
 
 **CRM’s leading three vendors account for 319/476 naming occurrences: 67.0%, Wilson 95% interval 62.7% to 71.1% (Broadcastwell, 2026, September counts).**
 
+
+Observed answers on stated dates, not a ranking.
 In September’s CRM answers, the leading three checked vendors account for **319 of 476 checked-vendor naming occurrences**, **67.0%**, descriptive **95% Wilson interval 62.7% to 71.1%**. That concentration is a property of names in the captured answers, not the share of buyers reached through an acquisition channel. [Broadcastwell, release 2026-09, CRM vendor counts](https://doi.org/10.5281/zenodo.22907695).
 
 It is tempting to turn a concentrated table into a business-risk headline. Before doing so, ask what the denominator contains. Vendor names, source references, website visits and revenue can all be concentrated for different reasons. None becomes a substitute for the others merely because each can be expressed as a percentage.
@@ -86,7 +88,11 @@ The choice for a business is therefore narrower than “follow the biggest perce
 
 ## What our own data shows
 
-In CRM, the leading three vendors account for **319/476 vendor-naming occurrences, 67.0% (Wilson 95% interval 62.7% to 71.1%)**. This is a share of naming occurrences, not buyers or market share. The chart and table are computed from the published vendor naming counts in [September release 2026-09](https://doi.org/10.5281/zenodo.22907695). The [CSV](../../data/vendor-concentration.csv) retains all 14 categories and all five engines separately. This is an additional descriptive analysis, not Study 1, and it contains no traffic or revenue observations. The [public calculation](../../data/release_descriptives.py) defines the occurrence denominator; neither the leading vendors nor the category totals are market shares.
+**Supports:** In CRM, the leading three vendors account for **319/476 vendor-naming occurrences, 67.0% (Wilson 95% interval 62.7% to 71.1%)**. This is a share of naming occurrences, not buyers or market share. The chart and table are computed from the published vendor naming counts in [September release 2026-09](https://doi.org/10.5281/zenodo.22907695). The [CSV](../../data/vendor-concentration.csv) retains all 14 categories and all five engines separately. This is an additional descriptive analysis, not Study 1, and it contains no traffic or revenue observations. The [public calculation](../../data/release_descriptives.py) defines the occurrence denominator; neither the leading vendors nor the category totals are market shares.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -109,11 +115,11 @@ Broadcastwell research team. (2026, October 30). *Concentrated visibility is a r
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
+Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

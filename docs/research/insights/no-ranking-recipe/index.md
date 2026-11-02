@@ -7,13 +7,13 @@ research_id: 3
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/no-ranking-recipe/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.3390/fi11020032
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.3390/fi11020032
 
 **Ziakis’s exploratory Google study used 45 URLs; its correlations do not identify causal ranking effects (Ziakis et al., 2019, §4).**
 
+
+Observed answers on stated dates, not a ranking.
 The strongest average association in Ziakis and colleagues' exploratory ranking table was SSL certification, with a Spearman coefficient of **−0.3371**. Their stated threshold for making stronger assumptions was an absolute coefficient above **0.5**. No factor's average cleared that threshold. [Ziakis et al., 2019, §2 and Table 2; collected April 2018](https://docs.broadcastwell.com/research/source-archives/ziakis-2019.pdf).
 
 We use that table as a worked example of weak evidence, graded C. It cannot establish a set of ranking factors or the effect of implementing them. You can accept HTTPS as sensible website practice without claiming that this study measured its causal ranking benefit.
@@ -84,7 +86,11 @@ We still want explanatory research. Merely counting answers can leave mechanisms
 
 ## What our own data shows
 
-Across September’s complete vendor-question-engine groups, ChatGPT has mixed naming across three valid repeats in **159/2,860 groups, 5.6% (Wilson 95% interval 4.8% to 6.5%)**, and AI Mode in **345/2,860, 12.1% (10.9% to 13.3%)**. These are within-engine descriptive observations, not a test that one engine is causally more stable. The September repeat comparison above is reconstructed from published engine-presence counts in [release 2026-09](https://doi.org/10.5281/zenodo.22907695), with the [repeat-disagreement CSV](../../data/repeat-disagreement.csv) available. It does not replace the unresolved Volume III company cohort with a silently revised denominator. We have no causal measurement of a universal ranking or citation recipe on this point.
+**Supports:** Across September’s complete vendor-question-engine groups, ChatGPT has mixed naming across three valid repeats in **159/2,860 groups, 5.6% (Wilson 95% interval 4.8% to 6.5%)**, and AI Mode in **345/2,860, 12.1% (10.9% to 13.3%)**. These are within-engine descriptive observations, not a test that one engine is causally more stable. The September repeat comparison above is reconstructed from published engine-presence counts in [release 2026-09](https://doi.org/10.5281/zenodo.22907695), with the [repeat-disagreement CSV](../../data/repeat-disagreement.csv) available. It does not replace the unresolved Volume III company cohort with a silently revised denominator. We have no causal measurement of a universal ranking or citation recipe on this point.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -110,11 +116,11 @@ Broadcastwell research team. (2026, October 30). *Why nobody can give you a rank
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
+Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

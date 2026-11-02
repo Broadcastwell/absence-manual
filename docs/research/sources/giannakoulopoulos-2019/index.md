@@ -7,13 +7,13 @@ research_id: 14
 research_group: source
 lead: Arjun Mehta
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/giannakoulopoulos-2019/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.3390/fi11110242
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.3390/fi11110242
 
 **The 100-university study measures constructed website scores, not observed search rank; its printed SEO-rank sign does not reproduce (Giannakoulopoulos et al., 2019, Table 9).**
 
+
+Observed answers on stated dates, not a ranking.
 The study’s **100-university** comparison does not measure search results. It compares academic standing with researcher-constructed website-quality and SEO-performance rankings, and its printed SEO-rank sign fails to reproduce from the deposited data. [Giannakoulopoulos et al., 2019, abstract, §3 and Table 9](https://docs.broadcastwell.com/research/source-archives/giannakoulopoulos-2019.pdf); [original results workbook](https://doi.org/10.5281/zenodo.3484673).
 
 That is a narrower and more interesting paper than a claim that prestige does not matter online. Andreas Giannakoulopoulos and colleagues ask whether academically prominent universities also have technically strong websites. They need a definition of website strength before calculating a relationship. Much of the paper is devoted to constructing that definition.
@@ -85,7 +87,11 @@ We grade the paper B for this bounded use: a documented observational comparison
 
 ## What our own data shows
 
-GE HealthCare is named in **24/150 valid September radiology target answers, 16.0% (Wilson 95% interval 11.0% to 22.7%)**. This is the software-category observation discussed above. Our external-source check uses the authors’ [deposited 2019 results](https://doi.org/10.5281/zenodo.3484673), with the [rank comparison](../../data/university-rank-reanalysis.csv), [100-row transcription](../../data/university-source-results.csv) and [offline calculations](../../data/recompute_source_workbooks.py) available. The separate GE HealthCare observation comes from [September release 2026-09](https://doi.org/10.5281/zenodo.22907695). The archive does not measure institutional prestige, general brand awareness or the causal effect of an audit score.
+**Supports:** GE HealthCare is named in **24/150 valid September radiology target answers, 16.0% (Wilson 95% interval 11.0% to 22.7%)**. This is the software-category observation discussed above. Our external-source check uses the authors’ [deposited 2019 results](https://doi.org/10.5281/zenodo.3484673), with the [rank comparison](../../data/university-rank-reanalysis.csv), [100-row transcription](../../data/university-source-results.csv) and [offline calculations](../../data/recompute_source_workbooks.py) available. The separate GE HealthCare observation comes from [September release 2026-09](https://doi.org/10.5281/zenodo.22907695). The archive does not measure institutional prestige, general brand awareness or the causal effect of an audit score.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -109,11 +115,11 @@ Broadcastwell research team. (2026, October 30). *The university study compares 
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Arjun Mehta, management consultant.
+Prepared by the Broadcastwell research team. Lead: Arjun Mehta.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

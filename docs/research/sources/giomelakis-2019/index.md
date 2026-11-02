@@ -7,13 +7,13 @@ research_id: 17
 research_group: source
 lead: Ethan Brooks
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/giomelakis-2019/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.3390/fi11120261
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.3390/fi11120261
 
 **Four Greek newsroom interviews describe SEO responsibilities without dedicated specialist positions (Giomelakis, Karypidou and Veglis, 2019, §6.2).**
 
+
+Observed answers on stated dates, not a ranking.
 Every newsroom in this four-outlet interview study reported using SEO, yet none reported a dedicated SEO specialist position. The work fell to people with other responsibilities or an external contributor. [Giomelakis, Karypidou and Veglis, 2019, §§6.1 to 6.2, reprint PDF p. 78, printed p. 69](../../source-archives/newsrooms-2019.pdf).
 
 The interesting detail is the gap between adopting practices and giving someone clear responsibility for them. It is a useful organizational question for a software company, too. It is not a measured estimate of what hiring an SEO specialist would do to its traffic or its presence in AI answers.
@@ -94,9 +96,13 @@ The paper’s strongest use is as a record of how practitioners describe that te
 
 ## What our own data shows
 
-Oracle OPERA Cloud is named in **25 of 149 valid target answers** in the September 2026 hotel-property-management category: **16.8%**, descriptive **95% Wilson interval 11.6% to 23.6%**. [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695); the category’s vendor rows and validity flags provide the base.
+**Supports:** Oracle OPERA Cloud is named in **25 of 149 valid target answers** in the September 2026 hotel-property-management category: **16.8%**, descriptive **95% Wilson interval 11.6% to 23.6%**. [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695); the category’s vendor rows and validity flags provide the base.
 
-That result does not reveal the vendor’s staffing or explain the absence. We have no measurement of its internal responsibilities on this point. The newsroom interviews and the answer observation can sit beside one another without turning either into an unsupported explanation of the other.
+That result does not reveal the vendor’s staffing or explain the absence.
+
+**Does not support:** We have no measurement of its internal responsibilities on this point. The newsroom interviews and the answer observation can sit beside one another without turning either into an unsupported explanation of the other.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -120,11 +126,11 @@ Broadcastwell research team. (2026, October 30). *Four newsrooms used SEO withou
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ethan Brooks, management consultant.
+Prepared by the Broadcastwell research team. Lead: Ethan Brooks.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

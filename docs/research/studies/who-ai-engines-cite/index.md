@@ -7,13 +7,13 @@ research_id: 44
 research_group: study
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 research_dataset:
   name: B2B software answer citation classes and concentration
@@ -33,6 +33,8 @@ research_dataset:
 
 **Thirty-nine of 2,095 target answers had empty citation arrays: 1.9%, Wilson 95% interval 1.4% to 2.5% (Broadcastwell, 2026, Study 2).**
 
+
+Observed answers on stated dates, not a ranking.
 A citation describes a source choice. It does not establish trust or causation. Rovira and colleagues call their own explanation for a historical search-order change "only an inference" (2019, §4); the same restraint belongs beside an observed distribution. [Rovira et al., 2019, §4](../../source-archives/rovira-2019.pdf).
 
 ## Registration and analysis history
@@ -150,7 +152,11 @@ Classification coverage remains unresolved. Further publisher evidence could cla
 
 ## What our own data shows
 
-This study reanalyses [release 2026-09](https://doi.org/10.5281/zenodo.22907695), following the [registered plan](https://doi.org/10.17605/OSF.IO/VCZKT) with disclosed timing and classification deviations. It measures **20,190 eligible citation entries**, including controls, and **18,893 target entries**. Complete class, engine, category, concentration and vendor-pair outputs are linked above. The source-purpose judgments are contestable; counts do not measure trust or a causal ranking mechanism.
+**Supports:** This study reanalyses [release 2026-09](https://doi.org/10.5281/zenodo.22907695), following the [registered plan](https://doi.org/10.17605/OSF.IO/VCZKT) with disclosed timing and classification deviations. It measures **20,190 eligible citation entries**, including controls, and **18,893 target entries**. Complete class, engine, category, concentration and vendor-pair outputs are linked above. The source-purpose judgments are contestable; counts do not measure trust or a causal ranking mechanism.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Further source-purpose audits.
 
 ## Sources
 
@@ -175,11 +181,11 @@ Broadcastwell research team. (2026, October 30). *Who appears in the sources of 
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

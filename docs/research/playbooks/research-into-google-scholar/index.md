@@ -7,13 +7,13 @@ research_id: 30
 research_group: playbook
 lead: Daniel Kim
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://docs.broadcastwell.com/research/source-archives/rovira-2019
 
 **Rovira’s two-term Google Scholar correlations were 0.721 unrestricted and 0.994 title-restricted; they do not establish an inclusion tactic (2019, Table 2).**
 
+
+Observed answers on stated dates, not a ranking.
 **0.721 and 0.994** are the correlations Rovira and colleagues report for their two-term Google Scholar searches under unrestricted and title-restricted conditions. They compare search order with aggregated citation-based ranks in that historical design. They do not estimate the benefit of adding a keyword to your paper’s title, and they are not acceptance probabilities. [Rovira et al., 2019, Table 2, reprint PDF p. 56].
 
 The practical task is more basic: make the work identifiable, accessible and accurately described for the discovery system concerned. Google Scholar’s scholarly-document guidelines and Google Dataset Search’s dataset metadata address different objects. A research report can accompany a dataset without becoming the dataset itself.
@@ -92,9 +94,11 @@ Google Scholar says, “Each paper must have its own unique URL”. That require
 
 ## What our own data shows
 
-We have no measurement on this point: whether this new research section has gained inclusion because of the proposed publishing changes. Our source review reproduces the historical academic-search calculation from the authors’ deposited workbooks, DOI 10.5281/zenodo.3381151. That reanalysis is distinct from measuring whether our own research appears in Google Scholar or Dataset Search.
+**Does not support:** We have no measurement on this point: whether this new research section has gained inclusion because of the proposed publishing changes. Our source review reproduces the historical academic-search calculation from the authors’ deposited workbooks, DOI 10.5281/zenodo.3381151. That reanalysis is distinct from measuring whether our own research appears in Google Scholar or Dataset Search.
 
-We have no verified inclusion result for this new research section in either discovery service at the time of writing. Existing Zenodo DOI records establish deposited identities and files, not a visibility gain from those deposits.
+**Supports:** We have no verified inclusion result for this new research section in either discovery service at the time of writing. Existing Zenodo DOI records establish deposited identities and files, not a visibility gain from those deposits.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -121,11 +125,11 @@ Broadcastwell research team. (2026, October 30). *How can research become discov
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Daniel Kim, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Daniel Kim.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

@@ -7,13 +7,13 @@ research_id: 28
 research_group: playbook
 lead: Daniel Kim
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/which-ai-crawlers-visit-your-site/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://developers.openai.com/api/docs/bots
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://developers.openai.com/api/docs/bots
 
 **Google-Extended and Applebot-Extended are robots controls, not separate HTTP user agents to count in logs (Google and Apple operator documentation, 2026).**
 
+
+Observed answers on stated dates, not a ranking.
 **Google-Extended** and **Applebot-Extended** belong in a crawl-policy discussion, but looking for those exact names as separate HTTP requesters is the wrong log test. Their operators describe them as controls over specified uses of crawled content. Count the requester that actually appears in a request, then interpret its role using current operator documentation. [Google common crawlers; Apple, About Applebot, verified 30 October 2026].
 
 An agent name is also a claim made by a request. It can be copied. A useful report distinguishes a declared token match from an authenticated operator identity, and it distinguishes both from evidence that a page was cited in an answer.
@@ -95,7 +97,11 @@ The first Index log snapshot records zero declared AI-token matches among 83 oth
 
 ## What our own data shows
 
-We have no measurement on this point: whether a recorded crawler visit leads to a later citation or sale. The operational request counts above do not measure that relationship.
+**Supports:** Only the source-bounded findings above; no new measurement.
+
+**Does not support:** We have no measurement on this point: whether a recorded crawler visit leads to a later citation or sale. The operational request counts above do not measure that relationship.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -124,11 +130,11 @@ Broadcastwell research team. (2026, October 30). *How can you see which AI crawl
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Daniel Kim, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Daniel Kim.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

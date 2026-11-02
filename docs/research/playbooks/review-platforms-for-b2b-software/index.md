@@ -7,13 +7,13 @@ research_id: 32
 research_group: playbook
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/review-platforms-for-b2b-software/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.5281/zenodo.22907695
 
 **G2 appears in 580 of 18,893 target citation entries: 3.1%, descriptive Wilson 95% interval 2.8% to 3.3% (Broadcastwell, Study 2).**
 
+
+Observed answers on stated dates, not a ranking.
 **580 of 18,893 target citation entries** point to g2.com in the registered September reanalysis: **3.1%**, with a descriptive **95% Wilson interval of 2.8% to 3.3%**. This is a count of archived citation occurrences, not a share of buyers, a rating of review quality or an estimate of the effect of creating a G2 profile. [Broadcastwell, Study 2, top-host table](https://docs.broadcastwell.com/research/data/top-twenty-hosts.csv).
 
 The observation gives a vendor a reason to inspect the platform’s role in its category. It does not justify buying favourable opinions or treating every review page as an independent expert evaluation. Profile accuracy and review integrity remain separate tasks.
@@ -92,9 +94,13 @@ G2 describes its accuracy standard directly: “Product, vendor, and review info
 
 ## What our own data shows
 
-The exact g2.com host supplies **580/18,893 target citation occurrences, 3.1% (Wilson 95% interval 2.8% to 3.3%)**. The selected-platform table preserves that occurrence base. The registered citation analysis uses the September release, DOI 10.5281/zenodo.22907695, and preserves its repeated-link and target/control units. The selected platform rows above are a projection of that released count table, not a new customer survey.
+**Supports:** The exact g2.com host supplies **580/18,893 target citation occurrences, 3.1% (Wilson 95% interval 2.8% to 3.3%)**. The selected-platform table preserves that occurrence base. The registered citation analysis uses the September release, DOI 10.5281/zenodo.22907695, and preserves its repeated-link and target/control units. The selected platform rows above are a projection of that released count table, not a new customer survey.
 
 We have no controlled measurement showing that collecting more reviews, completing a profile or using incentives improves a vendor’s AI visibility. The source-class judgments describe publishers; they do not certify every review as truthful or objective.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -118,11 +124,11 @@ Broadcastwell research team. (2026, October 30). *How should a software vendor u
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

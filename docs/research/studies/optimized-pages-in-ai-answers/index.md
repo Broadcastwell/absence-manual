@@ -6,14 +6,14 @@ page_class: research
 research_id: 43
 research_group: study
 lead: Ananya Rao
-published: '2026-10-30T08:50:01Z'
-updated: '2026-10-30T08:50:01Z'
-next_review: '2027-01-30T08:50:01Z'
+published: '2026-11-02T20:27:14Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/
 sources_verified: true
 schema_type: TechArticle
-date_published: '2026-10-30T08:50:01Z'
-date_modified: '2026-10-30T08:50:01Z'
+date_published: '2026-11-02T20:27:14Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.17605/OSF.IO/DVYFU
 research_dataset:
   name: Observed optimization signals on archived AI-cited pages
@@ -32,6 +32,8 @@ research_dataset:
 
 **Study 1 classifies 3,913 of 4,420 captured target URLs as definitely optimized: 88.5%, Wilson 95% interval 87.6% to 89.4% (registered rules; October 2026 capture).**
 
+
+Observed answers on stated dates, not a ranking.
 **Registration:** [OSF DVYFU](https://doi.org/10.17605/OSF.IO/DVYFU).
 
 Comparison differences: **German Google queries collected in 2020 versus B2B software answers across five engines in September 2026; October page retrieval; static HTML, expanded signature rules and registered precedence; time to first byte instead of full page-loading time**. The earlier chart is contextual evidence, not a controlled baseline.
@@ -48,7 +50,7 @@ Lewandowski and colleagues call pages “at least probably optimized” (2021, a
 
 ## Registered protocol, unchanged
 
-Quoted paragraphs reproduce the registered text unchanged. Unquoted section introductions guide reading; they are not part of the registration. [OSF DVYFU](https://doi.org/10.17605/OSF.IO/DVYFU).
+The retained quoted paragraphs reproduce the registered text unchanged; the complete frozen plan is linked below. Unquoted section introductions guide reading; they are not part of the registration. [OSF DVYFU](https://doi.org/10.17605/OSF.IO/DVYFU).
 
 ### Question and design
 
@@ -63,10 +65,6 @@ Quoted paragraphs reproduce the registered text unchanged. Unquoted section intr
 The next section defines eligible units.
 
 > Include every explicit citation URL in the archived answers. Retain engine, category, question, repeat, capture date and citation order for every occurrence. Deduplicate the analysis units by exact URL, preserving scheme, path, query and fragment in the unit identifier. Preserve a separate mapping to the requested resource URL. A URL contributes once to each engine or category stratum in which it occurs. Report target and control questions separately as well as the combined archive; do not treat a missing answer or an answer without a citation as a URL with no optimization. Retain excluded answer rows in a separate audit, but omit their citation URLs from the primary eligible-answer analysis unless the same URL also appears in an eligible answer. Give any all-record sensitivity analysis a separate label. Preserve extraction exclusions and reasons. Report any archival mismatch before continuing.
-
-### Collection
-
-> Retrieve each resource once and cache the result. Observe robots.txt and a maximum of one request per second per host, including redirects and host-root files. Use BroadcastwellResearchBot/1.0 (+https://docs.broadcastwell.com/research/). Do not fetch restricted client domains. Record requested and final URL, fetch date, status, content type, redirect chain and time to first byte. Record robots exclusions, blocked responses, 4xx, 5xx, timeout, non-HTML and other failures separately. A failed fetch is never evidence that a page is not optimized. Do not evade access controls. Keep raw HTML out of the public dataset.
 
 ### Signals and classification
 
@@ -200,9 +198,13 @@ Static capture and selective missingness limit interpretation.
 
 Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
-Across target and control scopes together, **4,750/6,271 distinct URLs** produced successful complete HTML. The target class result is **3,913/4,420 definitely optimized, 88.5% (Wilson 95% interval 87.6% to 89.4%)**. Its separate target retrieval success is **4,420/5,861, 75.4% (74.3% to 76.5%)**.
+**Supports:** Across target and control scopes together, **4,750/6,271 distinct URLs** produced successful complete HTML. The target class result is **3,913/4,420 definitely optimized, 88.5% (Wilson 95% interval 87.6% to 89.4%)**. Its separate target retrieval success is **4,420/5,861, 75.4% (74.3% to 76.5%)**.
 
-These are measurements of later captured signatures on previously cited pages. We have no measurement of whether installing those signatures caused an answer engine to cite a page.
+These are measurements of later captured signatures on previously cited pages.
+
+**Does not support:** We have no measurement of whether installing those signatures caused an answer engine to cite a page.
+
+**Suggests:** Testing signatures prospectively.
 
 ## Sources
 
@@ -210,27 +212,29 @@ These are measurements of later captured signatures on previously cited pages. W
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google’s results: A multi-dimensional approach for detecting SEO. WebSci 2021 (pp. 12 to 20). ACM. Figure 1, printed p. 17 (PDF p. 6); feature and classification method, §§3 to 4. doi:10.1145/3447535.3462479 . Accessible author original: https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf Verified 30 October 2026.
 
+Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *Which optimization signals appear on AI-cited pages?*. Broadcastwell. https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, November 2). *Which optimization signals appear on AI-cited pages?*. Broadcastwell. https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/ Published November 2, 2026; updated November 2, 2026.
 
 ```bibtex
 @online{broadcastwell2026research43,
   author = {{Broadcastwell research team}},
   title = {Which optimization signals appear on AI-cited pages?},
   year = {2026},
-  date = {2026-10-30},
+  date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/},
-  urldate = {2026-10-30},
+  urldate = {2026-11-02},
   note = {Published 2026-10-30; updated 2026-10-30}
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

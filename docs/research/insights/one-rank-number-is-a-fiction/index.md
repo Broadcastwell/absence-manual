@@ -7,13 +7,13 @@ research_id: 4
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/one-rank-number-is-a-fiction/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.5281/zenodo.22907695
 
 **Mixed naming occurred in 1,259/14,192 complete repeat groups: 8.9%, Wilson 95% interval 8.4% to 9.4% (Broadcastwell, 2026, September engine_presence counts).**
 
+
+Observed answers on stated dates, not a ranking.
 The September answers disagreed about vendor naming in **1,259 of 14,192 complete vendor-question-engine groups**. Each group contains the same vendor, one fixed question and one engine, observed in three valid repeats: **8.9%**, descriptive **95% Wilson interval 8.4% to 9.4%**. [September release](https://doi.org/10.5281/zenodo.22907695), engine_presence fields; [derived table](../../data/repeat-disagreement.csv).
 
 That is not a share of answers, and it is not a universal error rate. It is a precise reason to hesitate before treating a single answer as a settled position. A group is mixed when the vendor is named in some repeats and absent in others. Uniform presence and uniform absence both count as agreement.
@@ -82,7 +84,11 @@ For the next report, the open question is how much of the same pattern persists 
 
 ## What our own data shows
 
-The combined mixed share is 1,259 / 14,192 complete vendor-question-engine groups, 8.9% (descriptive 95% Wilson interval 8.4% to 9.4%). [Download the counts and engine/category breakdown](../../data/repeat-disagreement.csv). Primary observations: [Absence Index release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695). This reanalysis uses the deposited repeat counts, not a fresh scoring of each answer; it makes no claim about factual accuracy or commercial effect.
+**Supports:** The combined mixed share is 1,259 / 14,192 complete vendor-question-engine groups, 8.9% (descriptive 95% Wilson interval 8.4% to 9.4%). [Download the counts and engine/category breakdown](../../data/repeat-disagreement.csv). Primary observations: [Absence Index release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695). This reanalysis uses the deposited repeat counts, not a fresh scoring of each answer; it makes no claim about factual accuracy or commercial effect.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -106,11 +112,11 @@ Broadcastwell research team. (2026, October 30). *One rank number was already a 
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
+Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

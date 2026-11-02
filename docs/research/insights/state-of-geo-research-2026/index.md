@@ -7,13 +7,13 @@ research_id: 11
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/state-of-geo-research-2026/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://arxiv.org/html/2311.09735v3
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://arxiv.org/html/2311.09735v3
 
 **Our bounded 30 October 2026 search verifies seven peer-reviewed empirical source-visibility studies; this is a documented minimum, not the size of the field.**
 
+
+Observed answers on stated dates, not a ranking.
 We verified **seven peer-reviewed empirical studies of source citation or source visibility** in a bounded search completed **30 October 2026**. The exact-phrase arXiv search displayed **61 unique records**. Those are different counts: a search hit is not automatically an eligible study, and our verified minimum is not a census of the whole field. [Dated search log](../../data/literature-search-log-2026-10-30.csv); [record decisions and primary links](../../data/literature-census-2026-10-30.csv).
 
 That result makes a blanket description of GEO research as empty or fake untenable. It also leaves a more useful problem. Controlled citation experiments, observational audits of deployed services, conceptual frameworks and commercial case reports answer different questions. You cannot combine their headlines as though each measured the effect of publishing a page on the same live engine.
@@ -87,7 +89,11 @@ There is a trade-off between a rapidly updated discovery list and a deeply verif
 
 ## What our own data shows
 
-Our contribution here is the [dated literature record](../../data/literature-census-2026-10-30.csv) and [query/access log](../../data/literature-search-log-2026-10-30.csv): 61 arXiv abstract-screen records, seven primary-verified empirical peer-reviewed works, and an explicit incomplete-coverage boundary. These are bibliographic tallies, not random-sample proportions, so no Wilson estimate of a field prevalence is made. Our own [September answer archive](https://doi.org/10.5281/zenodo.22907695) remains a separate measured record; it does not certify the outside papers or establish a publishing tactic’s causal effect.
+**Supports:** Our contribution here is the [dated literature record](../../data/literature-census-2026-10-30.csv) and [query/access log](../../data/literature-search-log-2026-10-30.csv): 61 arXiv abstract-screen records, seven primary-verified empirical peer-reviewed works, and an explicit incomplete-coverage boundary. These are bibliographic tallies, not random-sample proportions, so no Wilson estimate of a field prevalence is made. Our own [September answer archive](https://doi.org/10.5281/zenodo.22907695) remains a separate measured record; it does not certify the outside papers or establish a publishing tactic’s causal effect.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -121,11 +127,11 @@ Broadcastwell research team. (2026, October 30). *GEO papers ask different quest
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
+Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

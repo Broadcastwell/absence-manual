@@ -7,13 +7,13 @@ research_id: 1
 research_group: hub
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.1145/3447535.3462479
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.1145/3447535.3462479
 
 **Of 1,974 Wikipedia results, 27% appeared first; that is not Wikipedia’s share of all first positions (Lewandowski et al., 2021, §5).**
 
+
+Observed answers on stated dates, not a ranking.
 The claim that Wikipedia occupied roughly a quarter of all first positions is not what the cited paper measured. Lewandowski and colleagues described the positions occupied by Wikipedia's own results. That small change in wording changes the population. [Lewandowski et al., 2021, §5](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf).
 
 Jill Whalen's historical warning about ranking measurement, “an impossible measurement,” is a useful companion to these tables. It is attributed practitioner testimony, not a new experimental finding. [Ledford, 2009, printed p. 448].
@@ -74,7 +76,11 @@ One inconvenience remains deliberate. When a source's table and prose disagree, 
 
 ## What our own data shows
 
-The September release is a fixed set of captured answers, not a survey of every buyer or every possible question. Its [versioned primary record](https://doi.org/10.5281/zenodo.22907695) and the derived tables linked from the individual insight pages keep the observation base visible. We have no measurement on this point: publishing this research section itself has not yet been shown to improve Broadcastwell's AI citation or search traffic.
+**Supports:** The September release is a fixed set of captured answers, not a survey of every buyer or every possible question. Its [versioned primary record](https://doi.org/10.5281/zenodo.22907695) and the derived tables linked from the individual insight pages keep the observation base visible.
+
+**Does not support:** We have no measurement on this point: publishing this research section itself has not yet been shown to improve Broadcastwell's AI citation or search traffic.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -87,6 +93,8 @@ The September release is a fixed set of captured answers, not a survey of every 
 - Broadcastwell. (2026). Do AI engines cite optimized pages? [Registration]. OSF. Platform registration timestamp 30 October 2026, 01:06:12 UTC. https://doi.org/10.17605/OSF.IO/DVYFU Verified 30 October 2026.
 
 - Broadcastwell. (2026). Supplied search-research collection: 21-document identity inventory [Data set]. Original filenames, PDF page counts and SHA256 identities; duplicate editions retained as physical files, not independent studies. [Collection inventory](https://docs.broadcastwell.com/research/data/source-collection-inventory.csv). Verified 30 October 2026.
+
+See the [Claim Registry](https://docs.broadcastwell.com/research/claims/) and [academic access](https://docs.broadcastwell.com/research/academic-access/).
 
 ## Cite this page
 
@@ -104,11 +112,11 @@ Broadcastwell research team. (2026, October 30). *What the research says about s
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
+Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

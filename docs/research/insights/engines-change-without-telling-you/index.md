@@ -7,13 +7,13 @@ research_id: 6
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/engines-change-without-telling-you/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.3390/fi11090202
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.3390/fi11090202
 
 **August’s four engines and September’s five define different pooled configurations, so these are dated standings rather than a controlled trend (Broadcastwell, 2026, release READMEs).**
 
+
+Observed answers on stated dates, not a ranking.
 Web of Science produced an unexpectedly citation-like ordering during **20 to 25 May 2019**, according to Rovira and colleagues. Their explanation that the service was testing a different relevance order was an inference, not an operator-confirmed experiment. [Rovira et al., 2019, §4](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf).
 
 Our August and September Index tables illustrate a related comparison problem. The August observation used **four engines**; September used **five**, adding Google AI Mode. Both used fixed category questions and repeated observations, but the pooled configurations differ. We state that before placing their standings side by side.
@@ -96,7 +98,11 @@ This creates an inconvenience for a headline: a side-by-side table can remain in
 
 ## What our own data shows
 
-The [complete dated-standings CSV](../../data/dated-standings.csv) places the deposited August and September naming counts side by side. Primary version DOIs: [10.5281/zenodo.22721962](https://doi.org/10.5281/zenodo.22721962) and [10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695). Configurations differ. We have no measurement on this point: these observations do not establish comparable-release persistence or an effect of a particular engine update.
+**Supports:** The [complete dated-standings CSV](../../data/dated-standings.csv) places the deposited August and September naming counts side by side. Primary version DOIs: [10.5281/zenodo.22721962](https://doi.org/10.5281/zenodo.22721962) and [10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695). Configurations differ.
+
+**Does not support:** We have no measurement on this point: these observations do not establish comparable-release persistence or an effect of a particular engine update.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -121,11 +127,11 @@ Broadcastwell research team. (2026, October 30). *Search ordering needs a date a
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
+Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

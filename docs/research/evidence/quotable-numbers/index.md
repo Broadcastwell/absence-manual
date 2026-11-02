@@ -7,13 +7,13 @@ research_id: 46
 research_group: evidence
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/evidence/quotable-numbers/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.1145/3447535.3462479
 research_dataset:
   name: Quotable search and AI-answer observations
@@ -35,6 +35,8 @@ research_dataset:
 
 **Of 14,192 complete September vendor-question-engine groups, 1,259 showed mixed naming: 8.9% (Wilson 95% interval 8.4% to 9.4%; Broadcastwell, 2026, release counts).**
 
+
+Observed answers on stated dates, not a ranking.
 The usable number is often less sweeping than the familiar headline. A source may establish a historical answer length, an experimental visibility score or a dated vendor-naming rate. Those are useful observations when their labels remain intact.
 
 This ledger provides wording that can travel with a figure. It does not upgrade a paper's design or convert a reported association into an intervention effect. You can follow the source location to the original and use the linked data tables to inspect our descriptive reanalyses.
@@ -97,7 +99,11 @@ The unresolved question is which future observations will remain comparable. The
 
 ## What our own data shows
 
-The repeated-question table records **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups, 8.9% (Wilson 95% interval 8.4% to 9.4%)**. Mixed means named in one or two of three valid repeats. This is a conditional description of the September archive. [Download the complete repeat table](../../data/repeat-disagreement.csv), [vendor-presence table](../../data/vendor-presence.csv) and [naming/citation aggregate table](../../data/vendor-naming-citation.csv). All derive from [release 2026-09](https://doi.org/10.5281/zenodo.22907695). Counts and units appear above; Wilson intervals describe observed proportions without an independence claim. This ledger contains no Study 1 result.
+**Supports:** The repeated-question table records **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups, 8.9% (Wilson 95% interval 8.4% to 9.4%)**. Mixed means named in one or two of three valid repeats. This is a conditional description of the September archive. [Download the complete repeat table](../../data/repeat-disagreement.csv), [vendor-presence table](../../data/vendor-presence.csv) and [naming/citation aggregate table](../../data/vendor-naming-citation.csv). All derive from [release 2026-09](https://doi.org/10.5281/zenodo.22907695). Counts and units appear above; Wilson intervals describe observed proportions without an independence claim. This ledger contains no Study 1 result.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -125,11 +131,11 @@ Broadcastwell research team. (2026, October 30). *Quotable numbers, with their o
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

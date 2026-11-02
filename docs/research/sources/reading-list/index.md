@@ -7,13 +7,13 @@ research_id: 49
 research_group: source
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/reading-list/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://docs.broadcastwell.com/research/data/source-collection-inventory.csv
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://docs.broadcastwell.com/research/data/source-collection-inve
 
 **The 21 supplied files include repeated versions, edited volumes and practitioner guides; they are not 21 independent experiments (Broadcastwell collection inventory, 2026).**
 
+
+Observed answers on stated dates, not a ranking.
 Start with a result you need to check, rather than a book you feel obliged to finish. **21 physical files** make up this reading collection. Three are snapshots of the same F1000Research article, while two edited volumes contain chapters and articles with different designs. A file count is useful for locating the evidence; it is a poor substitute for counting independent studies. [Collection identity inventory](https://docs.broadcastwell.com/research/data/source-collection-inventory.csv).
 
 The list below is an editorial route through the supplied editions. Each row names exactly three **PDF page numbers**, counted from the first page of that file. They may differ from printed page labels. That distinction matters especially in the Springer proceedings and the Wiley book, where a short article or interview sits deep inside a much longer file.
@@ -77,9 +79,11 @@ The [graded source table](https://docs.broadcastwell.com/research/evidence/grade
 
 ## What our own data shows
 
-We have no measurement on this point: the effect of following this reading order on a reader’s outcomes. The collection inventory records the supplied files and their identities; it is not a systematic sample of everything published about search. Our literature census uses its own recorded query and screening scope. Those two counts should not be merged.
+**Does not support:** We have no measurement on this point: the effect of following this reading order on a reader’s outcomes. The collection inventory records the supplied files and their identities; it is not a systematic sample of everything published about search. Our literature census uses its own recorded query and screening scope. Those two counts should not be merged.
 
-Our September Index records dated answers to B2B software questions. It supplies a separate empirical reference point for the source reviews. A paper’s age, citation count or presence in this collection does not show that it explains those answers. Read the relevant measured unit and limitation before making that connection.
+**Supports:** Our September Index records dated answers to B2B software questions. It supplies a separate empirical reference point for the source reviews. A paper’s age, citation count or presence in this collection does not show that it explains those answers. Read the relevant measured unit and limitation before making that connection.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -106,6 +110,8 @@ Our September Index records dated answers to B2B software questions. It supplies
 - Bataineh, A. Q., Qasim, D., Idris, M., & Abu-AlSondos, I. A. (2025). [The evolution of SEO strategies: From keywords to user experience in private universities of Jordan](https://docs.broadcastwell.com/research/source-archives/jordan-2025.pdf). Cogent Business & Management, 12(1), 2491678. https://doi.org/10.1080/23311975.2025.2491678. Verified 30 October 2026.
 
 
+See the [Claim Registry](https://docs.broadcastwell.com/research/claims/) and [academic access](https://docs.broadcastwell.com/research/academic-access/).
+
 ## Cite this page
 
 Broadcastwell research team. (2026, October 30). *A reading list for B2B marketers: which pages deserve your time?*. Broadcastwell. https://docs.broadcastwell.com/research/sources/reading-list/ Published 30 October 2026; updated 30 October 2026.
@@ -122,11 +128,11 @@ Broadcastwell research team. (2026, October 30). *A reading list for B2B markete
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

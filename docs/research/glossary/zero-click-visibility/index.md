@@ -6,14 +6,14 @@ page_class: research
 research_id: 38
 research_group: glossary
 lead: Lauren Chen
-published: '2026-10-30T08:50:01Z'
-updated: '2026-10-30T08:50:01Z'
-next_review: '2027-01-30T08:50:01Z'
+published: '2026-11-02T20:27:14Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/zero-click-visibility/
 sources_verified: true
 schema_type: Article
-date_published: '2026-10-30T08:50:01Z'
-date_modified: '2026-10-30T08:50:01Z'
+date_published: '2026-11-02T20:27:14Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://sparktoro.com/blog/less-than-half-of-google-searches-now-result-in-a-click/
 defined_term: Zero-click visibility
 ---
@@ -22,6 +22,8 @@ defined_term: Zero-click visibility
 
 **Zero-click visibility is a brand or source appearing in a search or generated answer without an observed visit to its website during that interaction.**
 
+
+Observed answers on stated dates, not a ranking.
 A name can be visible even when no website visit follows. That is an exposure event. Establishing that a particular person saw it, understood it or later bought something requires different evidence. The phrase should not collapse all those outcomes into a single measure.
 
 For the practical attribution question, use [the evidence needed to connect AI visibility with pipeline](/answers/measurement/what-evidence-can-connect-ai-visibility-with-pipeline/). This entry concerns what “zero-click” can and cannot mean.
@@ -68,9 +70,13 @@ You need referral observations to count clicks.
 
 Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
-Study 2 found **5,477 named-without-own-domain-citation pairs among 42,792 eligible vendor-answer pairs: 12.8%, Wilson 95% interval 12.5% to 13.1%**. The [citation study](/research/studies/who-ai-engines-cite/) explains that denominator and exact matching rules.
+**Supports:** Study 2 found **5,477 named-without-own-domain-citation pairs among 42,792 eligible vendor-answer pairs: 12.8%, Wilson 95% interval 12.5% to 13.1%**. The [citation study](/research/studies/who-ai-engines-cite/) explains that denominator and exact matching rules.
 
 This is a naming-without-own-citation result, **not a measured zero-click rate**. Another source could still be linked, and the archive contains no linked reader-click history. Our published method therefore keeps naming, own-domain citation and visitor behavior as separate concepts.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -80,27 +86,29 @@ This is a naming-without-own-citation result, **not a measured zero-click rate**
 - Google Search Central. (2026). AI features and your website. How AI features work; eligibility and measurement sections, checked 30 October 2026. https://developers.google.com/search/docs/appearance/ai-features Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
+Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *What is zero-click visibility?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/zero-click-visibility/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, November 2). *What is zero-click visibility?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/zero-click-visibility/ Published November 2, 2026; updated November 2, 2026.
 
 ```bibtex
 @online{broadcastwell2026research38,
   author = {{Broadcastwell research team}},
   title = {What is zero-click visibility?},
   year = {2026},
-  date = {2026-10-30},
+  date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/glossary/zero-click-visibility/},
-  urldate = {2026-10-30},
+  urldate = {2026-11-02},
   note = {Published 2026-10-30; updated 2026-10-30}
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Lauren Chen, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Lauren Chen.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

@@ -7,13 +7,13 @@ research_id: 45
 research_group: study
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/does-absence-persist/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.17605/OSF.IO/MKJ9V
 research_dataset:
   name: Registered protocol for persistence of vendor presence
@@ -29,6 +29,8 @@ research_dataset:
 
 **Study 3 requires a third release and a comparable consecutive pair before estimating persistence (Broadcastwell, 2026, OSF MKJ9V).**
 
+
+Observed answers on stated dates, not a ranking.
 There is no persistence estimate yet. Study 3 is registered, and its waiting rule requires both a third Absence Index release and a consecutive pair with the same published configuration. The existing August and September observations do not meet that comparability rule. [Broadcastwell, Study 3 registration](https://doi.org/10.17605/OSF.IO/MKJ9V).
 
 Registration DOI: **10.17605/OSF.IO/MKJ9V**. OSF recorded registration on **30 October 2026 at 01:12:44 UTC**. This page publishes the protocol and historical context. It does not announce a transition finding or predict which vendors will remain absent. [OSF registration record, checked 30 October 2026].
@@ -137,7 +139,11 @@ The Study 2 timing departure remains separately recorded. It authorized that alr
 
 ## What our own data shows
 
-We have no measurement on this point: release-to-release absence persistence under the registered comparability conditions. The existing September archive measures 286 vendors across fourteen categories, with 2,095 valid target answers after five target exclusions. The table above shows only the shared historical CRM and project-management vendors and their own category bases. We have no measurement on the persistence question yet. The protocol is a commitment to a future eligible comparison, not a claim that either low or high presence already persists.
+**Supports:** Only the source-bounded findings above; no new measurement.
+
+**Does not support:** We have no measurement on this point: release-to-release absence persistence under the registered comparability conditions. The existing September archive measures 286 vendors across fourteen categories, with 2,095 valid target answers after five target exclusions. The table above shows only the shared historical CRM and project-management vendors and their own category bases. We have no measurement on the persistence question yet. The protocol is a commitment to a future eligible comparison, not a claim that either low or high presence already persists.
+
+**Suggests:** Awaiting a comparable release.
 
 ## Sources
 
@@ -162,11 +168,11 @@ Broadcastwell research team. (2026, October 30). *Does low presence persist? The
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 
