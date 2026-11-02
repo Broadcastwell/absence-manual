@@ -15,6 +15,8 @@ schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
 date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.1145/3447535.3462479
+research_report_doi: https://doi.org/10.5281/zenodo.23804758
+research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
 ---
 
 # What the research says about search and AI answers
@@ -84,6 +86,8 @@ One inconvenience remains deliberate. When a source's table and prose disagree, 
 
 ## Sources
 
+- Broadcastwell (2026). The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers. Broadcastwell LLC. https://doi.org/10.5281/zenodo.22907695. All releases: https://doi.org/10.5281/zenodo.22150321. CC BY 4.0.
+
 - Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Broadcastwell. (2026). Who do AI engines cite for B2B software questions? [Registration]. OSF. Registered 30 October 2026, 01:32:03 UTC. https://doi.org/10.17605/OSF.IO/VCZKT Verified 30 October 2026.
@@ -97,6 +101,8 @@ One inconvenience remains deliberate. When a source's table and prose disagree, 
 See the [Claim Registry](https://docs.broadcastwell.com/research/claims/) and [academic access](https://docs.broadcastwell.com/research/academic-access/).
 
 ## Cite this page
+
+Report DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). All versions: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
 Broadcastwell research team. (2026, October 30). *What the research says about search and AI answers*. Broadcastwell. https://docs.broadcastwell.com/research/ Published 30 October 2026; updated 30 October 2026.
 

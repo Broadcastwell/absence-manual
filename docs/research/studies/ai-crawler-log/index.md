@@ -27,6 +27,8 @@ research_dataset:
   - name: Agent definitions
     contentUrl: https://docs.broadcastwell.com/research/data/crawler-agent-definitions.csv
     encodingFormat: text/csv
+research_report_doi: https://doi.org/10.5281/zenodo.23804758
+research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
 ---
 
 # The AI crawler log begins with a short observation window
@@ -113,6 +115,8 @@ The initial interval remains an historical snapshot rather than being overwritte
 
 ## Sources
 
+- Broadcastwell (2026). The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers. Broadcastwell LLC. https://doi.org/10.5281/zenodo.22907695. All releases: https://doi.org/10.5281/zenodo.22150321. CC BY 4.0.
+
 - OpenAI. (2026). Overview of OpenAI crawlers. OAI-SearchBot, GPTBot and ChatGPT-User definitions. https://developers.openai.com/api/docs/bots Verified 30 October 2026.
 - Anthropic. (2026). Does Anthropic crawl data from the web, and how can site owners block the crawler? ClaudeBot, Claude-SearchBot and Claude-User definitions. https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler Verified 30 October 2026.
 - Perplexity. (2026). Perplexity crawlers. PerplexityBot and Perplexity-User definitions and verification guidance. https://docs.perplexity.ai/docs/resources/perplexity-crawlers Verified 30 October 2026.
@@ -122,6 +126,8 @@ The initial interval remains an historical snapshot rather than being overwritte
 - Broadcastwell. (2026). Public-request crawler study collection instrument. https://docs.broadcastwell.com/research/data/research-crawler-collection.mjs . Initial implementation and later sanitizer correction distinguished in the page text. Verified 30 October 2026.
 
 ## Cite this page
+
+Report DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). All versions: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
 Broadcastwell research team. (2026, October 30). *The AI crawler log begins with a short observation window*. Broadcastwell. https://docs.broadcastwell.com/research/studies/ai-crawler-log/ Published 30 October 2026; updated 30 October 2026.
 
