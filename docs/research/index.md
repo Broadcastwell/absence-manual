@@ -31,7 +31,7 @@ Jill Whalen's historical warning about ranking measurement, “an impossible mea
 
 We started this section by reading a supplied collection of search research, textbooks, operator guidance and recent writing about AI answers. The collection contains **21 PDF documents**, including an edited article collection and a large conference volume; it is not a set of independent experiments of equal quality. The [source ledger](evidence/graded-sources/) separates the articles and editions that those containers hold. The [evidence standard](standard/) explains what each grade permits.
 
-You can use these pages to find a defensible claim, inspect a familiar statistic or decide what to measure next. Google search positions, scholarly relevance ordering and vendors named in AI answers are different outcomes. We place their findings beside each other where they illuminate a practical question, while retaining their original units.
+Google search positions, scholarly relevance ordering and vendors named in AI answers are different outcomes. We place their findings beside each other where they illuminate a practical question, while retaining their original units.
 
 ## Which questions do the insights answer?
 
@@ -74,7 +74,6 @@ The terminology entries distinguish [Share of Model](glossary/share-of-model/), 
 
 The Absence Manual supplies the longer explanation of [measurement noise](https://docs.broadcastwell.com/measurement-noise/) and [engine divergence](https://docs.broadcastwell.com/engine-divergence/). The [answer library](https://docs.broadcastwell.com/answers/) addresses individual buyer questions. This section supplies the source reviews, definitions and evidence behind those practical decisions.
 
-One inconvenience remains deliberate. When a source's table and prose disagree, the uncertainty stays visible. A useful page may end with an unresolved question, particularly when the alternative would be a neat claim that the underlying record cannot carry.
 
 ## What our own data shows
 

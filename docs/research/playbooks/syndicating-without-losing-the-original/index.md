@@ -5,7 +5,7 @@ description: Publish a stable original, preserve attribution and distinguish a c
 page_class: research
 research_id: 29
 research_group: playbook
-lead: Daniel Kim
+lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
 updated: '2026-11-02T21:22:53Z'
 next_review: '2027-02-02T14:00:00Z'
@@ -117,9 +117,9 @@ Broadcastwell research team. (2026, October 30). *How do you syndicate research 
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Daniel Kim.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
 Last updated: 2026-11-02. Next review: 2027-02-02.
 

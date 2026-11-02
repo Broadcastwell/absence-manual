@@ -138,11 +138,10 @@ The [top-twenty table](../../data/top-twenty-hosts.csv) reports overall and engi
 
 ## Naming a vendor is different from citing its own site
 
-Using the September matching definition and its accompanying public dictionary projection, we reproduced all **286 vendor records** across **42,792 eligible vendor-answer pairs**. Every named count, qualifying own-domain cited count and valid base reconciles with the deposited release. Plain-word names retain the published qualifier and boundary rules rather than accepting every substring.
+Using the September matching definition and its accompanying public dictionary projection, we reproduced all **286 vendor records** across **42,792 eligible vendor-answer pairs**. Plain-word names retain the published qualifier and boundary rules rather than accepting every substring.
 
 Of **8,085 named pairs**, **2,608** have a qualifying own-domain citation: **32.3%**, descriptive **95% Wilson interval 31.2% to 33.3%**. Separately, **5,477/42,792 eligible pairs** are named without an own-domain citation: **12.8%**, interval **12.5% to 13.1%**. Those are deliberately different denominators. A third-party review reference does not count as the vendor’s own source. [Vendor-pair summary and reconciliation CSVs].
 
-A pair without a qualifying own-domain citation may still have a third-party source. The table keeps the narrower event.
 
 ## Can you reproduce the tables?
 

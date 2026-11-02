@@ -131,7 +131,7 @@ Lewandowski, Sünkler and Yagci discuss a possible feedback mechanism in Google 
 
 Study 3 can describe persistence if its conditions are met. It cannot identify that mechanism from transitions alone. Persistent low presence could reflect a fixed question bank, product fit, source availability, engine behavior or other factors not isolated by this design. A stable high band would have similarly limited causal meaning.
 
-There is a trade-off in waiting. We give up the convenience of an immediate longitudinal headline. In return, the future reader can distinguish a predeclared comparison from one chosen because the first pair happened to look persuasive. The historical releases and their published summaries were already known when the plan was registered, so this is not a claim of complete blinding.
+The historical releases and their published summaries were already known when the plan was registered, so this is not a claim of complete blinding.
 
 ## What will change on this page next?
 
