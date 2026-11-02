@@ -5,7 +5,7 @@ description: Scope, acceptance evidence and questions to ask before agreeing to 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T12:00:10+00:00'
+date_modified: '2026-11-02T22:14:54+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 7
@@ -14,6 +14,8 @@ library_order: 7
 # Buying GEO answers
 
 Scope, acceptance evidence and questions to ask before agreeing to work.
+
+Observed answers on stated dates, not a ranking.
 
 These 30 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
@@ -202,3 +204,10 @@ Compare Seer Interactive, Siege Media and WebFX using dated US-office facts and 
 Prepared by the Broadcastwell team.
 
 Page owner: Priya Nair, Management Consultant. Corrections: hello@broadcastwell.com
+
+## Related research
+
+- [Review-platform citations do not establish objective reviews](https://docs.broadcastwell.com/research/insights/review-platforms-as-the-objective-source/)
+- [Concentrated visibility is a reason to inspect the denominator](https://docs.broadcastwell.com/research/insights/one-channel-is-a-risk/)
+- [Bataineh and colleagues measure perceptions of university websites](https://docs.broadcastwell.com/research/sources/bataineh-2025/)
+- [How should a software vendor use review platforms responsibly?](https://docs.broadcastwell.com/research/playbooks/review-platforms-for-b2b-software/)

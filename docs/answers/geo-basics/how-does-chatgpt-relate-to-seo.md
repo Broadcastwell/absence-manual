@@ -5,7 +5,7 @@ description: ChatGPT can retrieve sources; SEO concerns a published site’s sea
 page_class: page
 schema_type: Article
 date_published: '2026-10-30T14:30:00+00:00'
-date_modified: '2026-10-30T15:03:17+00:00'
+date_modified: '2026-11-02T20:46:33+00:00'
 hide:
 - navigation
 library_cluster: geo-basics
@@ -22,11 +22,17 @@ is_based_on: https://doi.org/10.5281/zenodo.22907695
 
 # How does ChatGPT relate to SEO?
 
-OpenAI's [ChatGPT search help](https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt) describes retrieving web information and linking sources, which can support SEO research. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) records Salesforce-domain URLs in 19 of 30 ChatGPT CRM answers. Those are source-selection observations, separate from the Google page conditions and traffic records used to assess SEO work.
+OpenAI's [ChatGPT search help](https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt) describes retrieving web information and linking sources, which can support SEO (search engine optimization) research. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) records Salesforce-domain URLs in 19 of 30 ChatGPT CRM (customer relationship management) answers. Those are source-selection observations, separate from the Google page conditions and traffic records used to assess SEO work.
+
+Observed answers on stated dates, not a ranking.
 
 ## What we measured
 
 **Measured.** The [original CRM release](https://doi.org/10.5281/zenodo.22907695) retains ten questions and three ChatGPT returns per question. We recounted the recorded URL hosts, treating an answer with any Salesforce-owned host as one citing answer. Nineteen of the thirty answers meet that rule. This sample did not measure ranking changes, visits or the effect of using ChatGPT for SEO.
+
+One [ChatGPT answer](https://zenodo.org/records/22907695/files/answers-2026-09.jsonl?download=1) captured on 22 September 2026 includes this wording:
+
+> who owns it, what happens next, and when it’s due.
 
 **Reported.** The OpenAI help page, read on 29 October 2026, describes source-linked search answers. Google's [AI features guide](https://developers.google.com/search/docs/appearance/ai-features), read that day, says established SEO practices remain relevant and identifies indexing plus snippet eligibility for supporting links.
 
@@ -46,20 +52,21 @@ chatgpt seo?
 
 ## Related
 
-- [ChatGPT search documentation](https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt)
+
 - [Google AI page requirements](https://developers.google.com/search/docs/appearance/ai-features)
 - [Original CRM answer data](https://doi.org/10.5281/zenodo.22907695)
 - [The CRM buyer-question panel](https://index.broadcastwell.com/questions/crm/)
 - [The handoff and follow-up record](https://index.broadcastwell.com/questions/crm/how-can-a-sales-team-use-a-crm-to-improve-handoffs-and-follow/)
 - [The Manual chapter on valid measurement](https://docs.broadcastwell.com/valid-measurement/)
+- [More geo basics answers](https://docs.broadcastwell.com/answers/geo-basics/)
 
 ## Next step
 
-Use the [Free 10-question check (one engine)](https://audit.broadcastwell.com/) for a separate dated company-answer sample. No email is needed; runs are limited per network and per day, and by the site's daily allowance.
-
-For one documented company-fact error, [Fix one answer, $490](https://broadcastwell.com/answer-repair). Keep the retained answer and its supporting public source with the correction.
+[Free 10-question check (one engine)](https://audit.broadcastwell.com/). No email is needed; runs are limited per network and per day, and by the site's daily allowance.
 
 [Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)
+
+Answer Repair: [Fix one answer, $490](https://broadcastwell.com/answer-repair).
 
 Prepared by the Broadcastwell team.
 

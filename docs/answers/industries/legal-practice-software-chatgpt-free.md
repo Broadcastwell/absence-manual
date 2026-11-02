@@ -5,7 +5,7 @@ description: ChatGPT Free can research public legal-software information. A Clio
 page_class: page
 schema_type: Article
 date_published: '2026-10-30T14:10:06+00:00'
-date_modified: '2026-10-30T14:39:15+00:00'
+date_modified: '2026-11-02T22:02:56+00:00'
 hide:
 - navigation
 library_cluster: industries
@@ -73,7 +73,7 @@ legal practice software chatgpt free?
 - [Clio and ChatGPT task template](https://zapier.com/apps/chatgpt/integrations/clio/1480345/create-chatgpt-conversations-from-new-clio-activities)
 - [Agent Gap task data and method](https://doi.org/10.5281/zenodo.23197560)
 - [One-attorney buying question](https://index.broadcastwell.com/questions/legal-practice-management/what-is-the-best-legal-practice-management-software-for-a-solo-attorney/)
-- [Original legal naming data](https://doi.org/10.5281/zenodo.22907695)
+- [Legal practice management category record](https://index.broadcastwell.com/categories/legal-practice-management/)
 - [The Manual chapter on valid measurement](https://docs.broadcastwell.com/valid-measurement/)
 
 ## Next step

@@ -5,7 +5,7 @@ description: HubSpot Academy publishes a course on SEO in the age of AI. Its syl
 page_class: page
 schema_type: Article
 date_published: '2026-10-30T14:08:04+00:00'
-date_modified: '2026-10-30T14:30:05+00:00'
+date_modified: '2026-11-02T20:46:33+00:00'
 hide:
 - navigation
 library_cluster: geo-basics
@@ -22,13 +22,19 @@ is_based_on: https://doi.org/10.5281/zenodo.22907695
 
 # What courses cover answer engine optimization?
 
-If you want a named course covering answer engine optimization, HubSpot Academy publishes [SEO in the Age of AI](https://academy.hubspot.com/courses/seo-in-the-age-of-ai-en). Use a real measurement example when assessing its lessons: our [September CRM panel](https://doi.org/10.5281/zenodo.22907695) found Freshsales names in 8 of 30 Claude returns on 22 September 2026. That count can support a practice exercise, rather than prove a course improves a site’s visibility.
+If you want a named course covering answer engine optimization, HubSpot Academy publishes a course on search engine optimization (SEO), [SEO in the Age of AI](https://academy.hubspot.com/courses/seo-in-the-age-of-ai-en). Use a real measurement example when assessing its lessons: our [September customer relationship management (CRM) panel](https://doi.org/10.5281/zenodo.22907695) found Freshsales names in 8 of 30 Claude returns on 22 September 2026. That count can support a practice exercise, rather than prove a course improves a site’s visibility.
+
+Observed answers on stated dates, not a ranking.
 
 ## What we measured
 
 **Measured.** The [CRM data](https://index.broadcastwell.com/data/crm-2026-09.csv) uses ten buyer questions repeated three times on each engine. Freshsales’ Claude naming base is thirty. Its total across the five engines is 22 of 150; changing from 8/30 to 22/150 changes the population. Those are observations of returned product names, not the assessment results of course participants.
 
-**Reported.** The official [Academy course page](https://academy.hubspot.com/courses/seo-in-the-age-of-ai-en), read on 30 October 2026, labels the course free and lists six lessons, 31 videos and 1 hour 51 minutes. Its learning objectives cover an AEO strategy, engine-specific content work, video visibility and a 90-day implementation plan. Those are syllabus claims, not findings from our panel.
+One [Claude answer](https://zenodo.org/records/22907695/files/answers-2026-09.jsonl?download=1) captured on 22 September 2026 includes this wording:
+
+> for bootstrapped or cost-sensitive organizations, Zoho or Freshsales
+
+**Reported.** The official [Academy course page](https://academy.hubspot.com/courses/seo-in-the-age-of-ai-en), read on 30 October 2026, labels the course free and lists six lessons, 31 videos and 1 hour 51 minutes. Its learning objectives cover an AEO (answer engine optimization) strategy, engine-specific content work, video visibility and a 90-day implementation plan. Those are syllabus claims, not findings from our panel.
 
 **Reasoned.** Select training against the task you need to learn and examine how it handles evidence. The release did not test the course, its learners or a ranking intervention.
 
@@ -49,14 +55,15 @@ generative engine optimization course?
 - [The Academy course page](https://academy.hubspot.com/courses/seo-in-the-age-of-ai-en)
 - [The CRM measurement example](https://index.broadcastwell.com/questions/crm/)
 - [Valid measurement](https://docs.broadcastwell.com/valid-measurement/)
+- [More geo basics answers](https://docs.broadcastwell.com/answers/geo-basics/)
 
 ## Next step
 
-Use the [Free 10-question check (one engine)](https://audit.broadcastwell.com/) for a separate dated company-answer sample. No email is needed; runs are limited per network and per day, and by the site's daily allowance.
-
-For one sourced company-fact error, [Fix one answer, $490](https://broadcastwell.com/answer-repair). Keep the original answer and its supporting public document together.
+[Free 10-question check (one engine)](https://audit.broadcastwell.com/). No email is needed; runs are limited per network and per day, and by the site's daily allowance.
 
 [Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)
+
+Answer Repair: [Fix one answer, $490](https://broadcastwell.com/answer-repair).
 
 Prepared by the Broadcastwell team.
 

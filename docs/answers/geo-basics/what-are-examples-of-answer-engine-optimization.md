@@ -5,7 +5,7 @@ description: A retained Jobber price disagreement illustrates factual-answer wor
 page_class: page
 schema_type: Article
 date_published: '2026-10-30T14:30:00+00:00'
-date_modified: '2026-10-30T15:03:17+00:00'
+date_modified: '2026-11-02T20:46:33+00:00'
 hide:
 - navigation
 library_cluster: geo-basics
@@ -27,9 +27,17 @@ evidence_method_receipts:
 
 Jobber's retained plan-price disagreement is a concrete example for factual-answer work: publish a specific claim with the plan, billing basis and dated source needed to check it. Our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) labels 2 of 41 Jobber statements wrong. Its answer captures are from 22 September 2026, and the pricing-page reference was read on 8 October 2026. The example identifies a correction task, rather than a measured increase in AI visibility.
 
+Observed answers on stated dates, not a ranking.
+
 ## What we measured
 
-**Measured.** The [study's statement-review method](https://doi.org/10.5281/zenodo.23270124) records twenty-nine true Jobber statements, two wrong statements and ten unverifiable statements, with no stale entries. One wrong claim concerns the Core starting price and recurs in two Claude returns for the one-person HVAC question. The other is a pricing-range statement in an Overview return to the small-HVAC-company question. Team review: in progress. No repair or content-change experiment was conducted for these examples.
+**Measured.** The [study's statement-review method](https://doi.org/10.5281/zenodo.23270124) records twenty-nine true Jobber statements, two wrong statements and ten unverifiable statements, with no stale entries. One wrong claim concerns the Core starting price and recurs in two Claude returns for the one-person heating, ventilation and air conditioning (HVAC) question. The other is a pricing-range statement in an Overview return to the small-HVAC-company question. Team review: in progress. No repair or content-change experiment was conducted for these examples.
+
+The retained historical Claude [statement](https://index.broadcastwell.com/vendors/jobber/field-service-management/#wrong-about-you), captured on 22 September 2026 and marked wrong against the dated vendor reference, reads:
+
+> Jobber Core starts at $39/month with clean client management
+
+This is the disputed historical statement, not a current vendor price. Team review: in progress.
 
 **Reasoned.** A public fact answer can keep the exact plan and billing qualifier with the dated reference. A measurement report can separately preserve the original wrong claim and its repeated observations, so the correction's subject stays inspectable.
 
@@ -53,14 +61,18 @@ answer engine optimization examples?
 - [Published Wrong About You record](https://broadcastwell.com/research/wrong-about-you)
 - [AI Source Standard evidence definitions](https://docs.broadcastwell.com/ai-source-standard/)
 - [The Manual chapter on valid measurement](https://docs.broadcastwell.com/valid-measurement/)
+- [More geo basics answers](https://docs.broadcastwell.com/answers/geo-basics/)
+- [Relevant vendor record in the Index](https://index.broadcastwell.com/vendors/jobber/field-service-management/)
 
 ## Next step
 
-Use the [Free 10-question check (one engine)](https://audit.broadcastwell.com/) for a separate dated company-answer sample. No email is needed; runs are limited per network and per day, and by the site's daily allowance.
+[Free 10-question check (one engine)](https://audit.broadcastwell.com/). No email is needed; runs are limited per network and per day, and by the site's daily allowance.
 
-For one documented company-fact error, [Fix one answer, $490](https://broadcastwell.com/answer-repair). Keep the retained answer and its supporting public source with the correction.
+Claiming or correcting a vendor record is free and never depends on a purchase.
 
 [Our answer-study method, v1.1.](https://broadcastwell.com/methodology)
+
+Answer Repair: [Fix one answer, $490](https://broadcastwell.com/answer-repair).
 
 Prepared by the Broadcastwell team.
 

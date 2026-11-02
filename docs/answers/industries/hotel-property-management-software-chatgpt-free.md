@@ -5,7 +5,7 @@ description: ChatGPT Free research, a Zapier tier and a hotel PMS license are se
 page_class: page
 schema_type: Article
 date_published: '2026-10-30T13:35:38+00:00'
-date_modified: '2026-10-30T13:54:55+00:00'
+date_modified: '2026-11-02T22:02:56+00:00'
 hide:
 - navigation
 library_cluster: industries
@@ -79,7 +79,7 @@ hotel property management software chatgpt free?
 - [ChatGPT Free FAQ](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq)
 - [Agent Gap method and task data](https://doi.org/10.5281/zenodo.23197560)
 - [Hotel buyer-evaluation question](https://index.broadcastwell.com/questions/hotel-property-management/what-should-i-look-for-in-a-hotel-property-management-system/)
-- [Original Index data](https://doi.org/10.5281/zenodo.22907695)
+- [Hotel property management category record](https://index.broadcastwell.com/categories/hotel-property-management/)
 - [The Manual chapter on valid measurement](https://docs.broadcastwell.com/valid-measurement/)
 
 ## Next step

@@ -5,7 +5,7 @@ description: AgencyZoom documents task assignment. A dated insurance-buyer crite
 page_class: page
 schema_type: Article
 date_published: '2026-10-30T14:10:04+00:00'
-date_modified: '2026-10-30T14:10:04+00:00'
+date_modified: '2026-11-02T22:02:56+00:00'
 hide:
 - navigation
 library_cluster: industries
@@ -76,6 +76,7 @@ insurance agency software chatgpt project management?
 - [The AI written RFP method and data](https://doi.org/10.5281/zenodo.23271935)
 - [Original naming matrix](https://doi.org/10.5281/zenodo.22907695)
 - [The Manual chapter on valid measurement](https://docs.broadcastwell.com/valid-measurement/)
+- [Insurance agency management category record](https://index.broadcastwell.com/categories/insurance-agency-management/)
 
 ## Next step
 

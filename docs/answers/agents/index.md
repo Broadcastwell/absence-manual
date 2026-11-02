@@ -5,7 +5,7 @@ description: What assistants found, understood and reached on public software we
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T03:35:42+00:00'
+date_modified: '2026-11-02T22:14:54+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 11
@@ -14,6 +14,8 @@ library_order: 11
 # Agents answers
 
 What assistants found, understood and reached on public software websites.
+
+Observed answers on stated dates, not a ranking.
 
 These 22 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
@@ -150,3 +152,9 @@ HubSpot documents CRM reads and writes, with approval and validation limits. Our
 Prepared by the Broadcastwell team.
 
 Page owner: Vikram Patel, AI Architect. Corrections: hello@broadcastwell.com
+
+## Related research
+
+- [How can you see which AI crawlers visit your site?](https://docs.broadcastwell.com/research/playbooks/which-ai-crawlers-visit-your-site/)
+- [What is agent discovery optimization?](https://docs.broadcastwell.com/research/glossary/agent-discovery-optimization/)
+- [The AI crawler log begins with a short observation window](https://docs.broadcastwell.com/research/studies/ai-crawler-log/)

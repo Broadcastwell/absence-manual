@@ -5,7 +5,7 @@ description: Software names observed in Perplexity answers, read beside the cate
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T02:24:55+00:00'
-date_modified: '2026-10-29T16:21:09+00:00'
+date_modified: '2026-11-02T22:14:54+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 4
@@ -14,6 +14,8 @@ library_order: 4
 # Perplexity answers
 
 Software names observed in Perplexity answers, read beside the category records.
+
+Observed answers on stated dates, not a ranking.
 
 These 11 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
@@ -88,3 +90,7 @@ Perplexity describes web search with source-linked answers. Our construction pan
 Prepared by the Broadcastwell team.
 
 Page owner: Vikram Patel, AI Architect. Corrections: hello@broadcastwell.com
+
+## Related research
+
+- [A citation is an observed source choice, not a trust score](https://docs.broadcastwell.com/research/insights/who-the-engines-trust/)

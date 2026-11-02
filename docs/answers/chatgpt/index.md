@@ -5,7 +5,7 @@ description: Dated software naming counts, category shortlists and the limits of
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T00:22:46+00:00'
-date_modified: '2026-10-29T19:17:53+00:00'
+date_modified: '2026-11-02T22:14:54+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 2
@@ -14,6 +14,8 @@ library_order: 2
 # ChatGPT answers
 
 Dated software naming counts, category shortlists and the limits of a mention.
+
+Observed answers on stated dates, not a ranking.
 
 These 19 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
@@ -130,3 +132,7 @@ OpenAI describes several search-ranking factors. Fieldwire.com appeared in 52 of
 Prepared by the Broadcastwell team.
 
 Page owner: Vikram Patel, AI Architect. Corrections: hello@broadcastwell.com
+
+## Related research
+
+- [Who appears in the sources of B2B software answers?](https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/)

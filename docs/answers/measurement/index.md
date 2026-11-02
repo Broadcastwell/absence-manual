@@ -5,7 +5,7 @@ description: Counts, citations, repeat runs and the evidence needed to compare r
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-30T14:53:57+00:00'
+date_modified: '2026-11-02T22:14:54+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 6
@@ -14,6 +14,8 @@ library_order: 6
 # Measurement answers
 
 Counts, citations, repeat runs and the evidence needed to compare reports.
+
+Observed answers on stated dates, not a ranking.
 
 These 51 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
@@ -316,3 +318,11 @@ Publish reviewed aggregates with dates, bases and sources. Our insurance permiss
 Prepared by the Broadcastwell team.
 
 Page owner: Vikram Patel, AI Architect. Corrections: hello@broadcastwell.com
+
+## Related research
+
+- [Search ordering needs a date and a configuration](https://docs.broadcastwell.com/research/insights/engines-change-without-telling-you/)
+- [Rovira and colleagues: citations, search restrictions and a spreadsheet discrepancy](https://docs.broadcastwell.com/research/sources/rovira-2019/)
+- [The university study compares academic standing with constructed website scores](https://docs.broadcastwell.com/research/sources/giannakoulopoulos-2019/)
+- [What does Share of Model measure?](https://docs.broadcastwell.com/research/glossary/share-of-model/)
+- [What is citation decay?](https://docs.broadcastwell.com/research/glossary/citation-decay/)

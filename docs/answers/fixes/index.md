@@ -5,7 +5,7 @@ description: Source facts, readable pages and changes that can be checked after 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T05:08:26+00:00'
+date_modified: '2026-11-02T22:14:54+00:00'
 library_hub: true
 library_owner: Rohan Iyer, AI Engineer
 library_order: 9
@@ -14,6 +14,8 @@ library_order: 9
 # Fixes answers
 
 Source facts, readable pages and changes that can be checked after publication.
+
+Observed answers on stated dates, not a ranking.
 
 These 32 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
@@ -214,3 +216,17 @@ A crawler request records machine access. It does not identify a buyer, a purcha
 Prepared by the Broadcastwell team.
 
 Page owner: Rohan Iyer, AI Engineer. Corrections: hello@broadcastwell.com
+
+## Related research
+
+- [Optimization signals are common in captured AI-cited pages](https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/)
+- [Lewandowski, Sünkler and Yagci: detecting optimization in Google results](https://docs.broadcastwell.com/research/sources/lewandowski-2021/)
+- [Four newsrooms used SEO without a dedicated specialist position](https://docs.broadcastwell.com/research/sources/giomelakis-2019/)
+- [Commenting features are not evidence of a ranking gain](https://docs.broadcastwell.com/research/sources/karyotakis-2019/)
+- [How do you write a page an AI engine can quote?](https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/)
+- [Which structured data belongs on a B2B software site?](https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/)
+- [What is llms.txt, and what can it actually do?](https://docs.broadcastwell.com/research/playbooks/llms-txt/)
+- [How do you syndicate research while keeping a clear original?](https://docs.broadcastwell.com/research/playbooks/syndicating-without-losing-the-original/)
+- [What belongs in a company’s Wikidata item?](https://docs.broadcastwell.com/research/playbooks/wikidata-for-companies/)
+- [Which site-structure basics still matter?](https://docs.broadcastwell.com/research/playbooks/site-structure-basics/)
+- [Which optimization signals appear on AI-cited pages?](https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/)
