@@ -5,14 +5,14 @@ page_class: research
 research_id: 51
 research_group: evidence
 lead: Vikram Patel
-published: '2026-11-02T21:44:06Z'
-updated: '2026-11-02T21:44:06Z'
+published: '2026-11-02T21:56:24Z'
+updated: '2026-11-02T21:56:24Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/claims/
 sources_verified: true
 schema_type: Article
-date_published: '2026-11-02T21:44:06Z'
-date_modified: '2026-11-02T21:44:06Z'
+date_published: '2026-11-02T21:56:24Z'
+date_modified: '2026-11-02T21:56:24Z'
 is_based_on: https://doi.org/10.5281/zenodo.23804758
 ---
 
@@ -24,7 +24,7 @@ Observed answers on stated dates, not a ranking.
 
 GEO (generative engine optimization), AEO and AI search visibility often travel with the same headline numbers. A repeated number may lose its original denominator. We keep the circulating claim beside the original metric and the correction. An unresolved source remains unresolved.
 
-[Download claims.csv](../data/claims.csv) or [claims.json](../data/claims.json). The two files contain the same 83 entries checked on November 2, 2026. This is a bounded claim audit, not a representative survey of research quality or an estimate of how often misinformation circulates.
+[Download claims.csv](../data/claims.csv) or [claims.json](../data/claims.json). The two files contain the same 83 entries checked on November 2, 2026. This is a bounded claim audit, not a representative survey of research quality or an estimate of how often misinformation circulates. Entry headings state the claim evaluated. If no independently located republication is named, we do not imply a measured circulation history or attribute that exact wording to the original author.
 
 ## How do the verdicts work?
 
@@ -133,7 +133,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Unqualified retellings of the GEO headline.
 
-**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900; author manuscript https://arxiv.org/html/2311.09735v3. **Location:** Tables 1 and 6; sections 3.1 to 3.4.
+**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; author manuscript <https://arxiv.org/html/2311.09735v3>. **Location:** Tables 1 and 6; sections 3.1 to 3.4.
 
 **What the source establishes:** Table 1 gives position-adjusted word count 19.3 to 27.2 for quotation addition, about 40.9% relative. The five-seed Table 6 gives 19.8 to 27.1, about 36.9%. Neither is organic citation probability.
 
@@ -147,7 +147,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Aggarwal et al., GEO.
 
-**Primary source:** Aggarwal et al., GEO; retrieved arXiv versions 1 and 2, https://arxiv.org/abs/2311.09735v1 and https://arxiv.org/abs/2311.09735v2. **Location:** Abstracts; exact ICLR submission not recovered.
+**Primary source:** Aggarwal et al., GEO; retrieved arXiv versions 1 and 2, <https://arxiv.org/abs/2311.09735v1> and <https://arxiv.org/abs/2311.09735v2>. **Location:** Abstracts; exact ICLR submission not recovered.
 
 **What the source establishes:** Both retrieved arXiv abstracts print up to 40%. We have not recovered the exact ICLR submission needed to check the separate 37% headline. The versions cannot be silently substituted.
 
@@ -161,7 +161,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Unqualified marketing retelling.
 
-**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900; author manuscript https://arxiv.org/html/2311.09735v3. **Location:** Table 7; Appendix C.1.
+**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; author manuscript <https://arxiv.org/html/2311.09735v3>. **Location:** Table 7; Appendix C.1.
 
 **What the source establishes:** In the 200-example supplied-file Perplexity test, judged impression is 28.1 for stuffing versus 24.7 baseline, about 13.8% higher. Source addition is 19.0, about 23.1% lower. Position-adjusted word count is a different outcome and does decline for stuffing.
 
@@ -175,7 +175,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Abu Rayhan report and derivative GEO claims.
 
-**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900; author manuscript https://arxiv.org/html/2311.09735v3. **Location:** Tested methods in section 2.2.2 and Table 1.
+**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; author manuscript <https://arxiv.org/html/2311.09735v3>. **Location:** Tested methods in section 2.2.2 and Table 1.
 
 **What the source establishes:** The original GEO experiment does not contain a structured-data treatment. Its quotation-addition result cannot be relabeled as a schema effect.
 
@@ -189,7 +189,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900.
 
-**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900; author manuscript https://arxiv.org/html/2311.09735v3. **Location:** Table 4, PDF page 8.
+**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; author manuscript <https://arxiv.org/html/2311.09735v3>. **Location:** Table 4, PDF page 8.
 
 **What the source establishes:** The organization appears inside an experimental source rewrite. The paper does not provide an identifiable original study for the inserted chocolate claim. A later year or reference number cannot supply that missing primary report.
 
@@ -203,7 +203,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900.
 
-**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900; author manuscript https://arxiv.org/html/2311.09735v3. **Location:** Table 1, position-adjusted word-count overall column.
+**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; author manuscript <https://arxiv.org/html/2311.09735v3>. **Location:** Table 1, position-adjusted word-count overall column.
 
 **What the source establishes:** Quotation addition is 27.2, statistics addition 25.2 and source addition 24.6 against 19.3 baseline: about 40.9%, 30.6% and 27.5% relative.
 
@@ -217,7 +217,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** GEO results text.
 
-**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900; author manuscript https://arxiv.org/html/2311.09735v3. **Location:** Section 4 text; Tables 1 and 6.
+**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; author manuscript <https://arxiv.org/html/2311.09735v3>. **Location:** Section 4 text; Tables 1 and 6.
 
 **What the source establishes:** The text says there is no significant improvement. Table 1 subjective impression rises from 19.3 to 22.9, about 18.7%; Table 6 has different values. A positive point estimate is not itself a significance test.
 
@@ -231,7 +231,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Retellings that combine GEO tables.
 
-**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900; author manuscript https://arxiv.org/html/2311.09735v3. **Location:** Tables 1 and 6.
+**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; author manuscript <https://arxiv.org/html/2311.09735v3>. **Location:** Tables 1 and 6.
 
 **What the source establishes:** The printed values differ throughout the method rows. The manuscript identifies Table 6 as its five-seed results. Retain table identities rather than combining values into a new estimate.
 
@@ -245,7 +245,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** GEO representative Statistics Addition example.
 
-**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900; author manuscript https://arxiv.org/html/2311.09735v3. **Location:** Table 4, PDF page 8.
+**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; author manuscript <https://arxiv.org/html/2311.09735v3>. **Location:** Table 4, PDF page 8.
 
 **What the source establishes:** The percentage is inserted in an illustrative rewrite without a checkable primary measurement. It must not become a workforce statistic.
 
@@ -259,7 +259,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, https://arxiv.org/abs/2510.11438v1.
 
-**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, https://arxiv.org/abs/2510.11438v1. **Location:** Table 1 and sections 4 to 5.
+**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, <https://arxiv.org/abs/2510.11438v1>. **Location:** Table 1 and sections 4 to 5.
 
 **What the source establishes:** The three Overall gains over Fluency are approximately 48.1%, 47.2% and 57.7%; their mean is about 51.0%. The largest of those gains is about 57.7%, rather than 51.0%.
 
@@ -273,7 +273,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Retelling recorded in the October findings brief.
 
-**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, https://arxiv.org/abs/2510.11438v1. **Location:** Introduction and Table 1, PDF pages 2 and 7.
+**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, <https://arxiv.org/abs/2510.11438v1>. **Location:** Introduction and Table 1, PDF pages 2 and 7.
 
 **What the source establishes:** Using the Overall columns of Table 1, the larger rewrite variant gains about 50.99% on average over Fluency across three datasets; the smaller variant gains about 20.99%. The mean of those two averages is about 35.99%. All six comparisons use the single named experimental engine in that table.
 
@@ -287,7 +287,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** AutoGEO v 1 summary comparisons.
 
-**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, https://arxiv.org/abs/2510.11438v1. **Location:** Tables 1 and 2 versus Table 13, PDF page 29.
+**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, <https://arxiv.org/abs/2510.11438v1>. **Location:** Tables 1 and 2 versus Table 13, PDF page 29.
 
 **What the source establishes:** The main GEO-Bench result prints 34.92; the comparable row in Table 13 prints 34.81. A third attributed value, 35.30, was not found in the retrieved version and is not asserted here.
 
@@ -301,7 +301,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** AutoGEO v 1 section 5.2.
 
-**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, https://arxiv.org/abs/2510.11438v1. **Location:** Table 2, Researchy-GEO, Claude precision.
+**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, <https://arxiv.org/abs/2510.11438v1>. **Location:** Table 2, Researchy-GEO, Claude precision.
 
 **What the source establishes:** The displayed precision falls from 96.51 to 84.98 under the larger rewrite method, a decline of 11.53 percentage points. Other utility measures differ.
 
@@ -315,7 +315,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** AutoGEO v 1 Figure 2.
 
-**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, https://arxiv.org/abs/2510.11438v1. **Location:** Figure 2 b, section 5.3 and Tables 7 to 8, PDF pages 15 to 16.
+**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, <https://arxiv.org/abs/2510.11438v1>. **Location:** Figure 2 b, section 5.3 and Tables 7 to 8, PDF pages 15 to 16.
 
 **What the source establishes:** The printed keyword labels give 17 Researchy-GEO, 15 GEO-Bench and 14 e-commerce labels. Their first two Jaccard overlaps reproduce 88.24% and 34.78%. GEO-Bench versus e-commerce shares 7 labels in a union of 22, giving 31.82%, rather than the printed 40.00%. This is a label-set reconstruction, not a reconstruction of latent rule meaning.
 
@@ -329,7 +329,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Methodological reading of AutoGEO v 1.
 
-**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, https://arxiv.org/abs/2510.11438v1. **Location:** Sections 3 to 5 and ablations.
+**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, <https://arxiv.org/abs/2510.11438v1>. **Location:** Sections 3 to 5 and ablations.
 
 **What the source establishes:** A rewrite using the same instruction without extracted rules is not supplied as the required matched control. Its absence limits a component-specific interpretation.
 
@@ -343,7 +343,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, https://arxiv.org/abs/2510.11438v1.
 
-**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, https://arxiv.org/abs/2510.11438v1. **Location:** Section 4, PDF page 6; appendix G, PDF page 25; Table 11.
+**Primary source:** Wu, Zhong, Kim and Xiong (2025), AutoGEO, version 1 preprint, <https://arxiv.org/abs/2510.11438v1>. **Location:** Section 4, PDF page 6; appendix G, PDF page 25; Table 11.
 
 **What the source establishes:** Section 4 says the reference-dependent measures apply only to Researchy-GEO; appendix G says only GEO-Bench. Table 11 supplies them for Researchy-GEO and marks GEO-Bench and E-commerce unavailable. The appendix sentence conflicts with the methods and table.
 
@@ -357,7 +357,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Kumar 2026 abstract and discussion.
 
-**Primary source:** Kumar (2026), Generative Engine Optimization at Scale, vendor preprint, https://arxiv.org/abs/2606.20065v1. **Location:** Sections 6.4 and 6.6, mention bands and sentiment eligibility.
+**Primary source:** Kumar (2026), Generative Engine Optimization at Scale, vendor preprint, <https://arxiv.org/abs/2606.20065v1>. **Location:** Sections 6.4 and 6.6, mention bands and sentiment eligibility.
 
 **What the source establishes:** Section 6.6 divides 45.5% positive/negative sentiment flips by 6.8% mention cells within the 30%-to-70% naming band. These are different flip definitions and eligibility rules. The broader sometimes-named share is 22.5%, giving about 2.0 when divided into 45.5, but that arithmetic does not repair the eligibility difference.
 
@@ -371,7 +371,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Kumar 2026 description of Aggarwal.
 
-**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900; author manuscript https://arxiv.org/html/2311.09735v3. **Location:** Section 3.2 and 3.3.
+**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; author manuscript <https://arxiv.org/html/2311.09735v3>. **Location:** Section 3.2 and 3.3.
 
 **What the source establishes:** The complete benchmark has 10,000 queries partitioned into 8,000 training, 1,000 validation and 1,000 test. The experimental test base is 1,000.
 
@@ -385,7 +385,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Kumar 2026 discussion claims.
 
-**Primary source:** Kumar (2026), Generative Engine Optimization at Scale, vendor preprint, https://arxiv.org/abs/2606.20065v1. **Location:** Sections 3.5 and 6.7, protocols P1 to P7.
+**Primary source:** Kumar (2026), Generative Engine Optimization at Scale, vendor preprint, <https://arxiv.org/abs/2606.20065v1>. **Location:** Sections 3.5 and 6.7, protocols P1 to P7.
 
 **What the source establishes:** The paper describes technical audit dimensions and separately lists the prospective controlled protocol slate as not yet reported. Those proposed interventions are not completed causal experiments.
 
@@ -399,7 +399,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Kumar 2026 technical checklist.
 
-**Primary source:** Kumar (2026), Generative Engine Optimization at Scale, vendor preprint, https://arxiv.org/abs/2606.20065v1; Google web.dev, https://web.dev/articles/vitals. **Location:** Kumar section 3.5; current Google Core Web Vitals page, opened 2 November 2026.
+**Primary source:** Kumar (2026), Generative Engine Optimization at Scale, vendor preprint, <https://arxiv.org/abs/2606.20065v1>; Google web.dev, <https://web.dev/articles/vitals>. **Location:** Kumar section 3.5; current Google Core Web Vitals page, opened 2 November 2026.
 
 **What the source establishes:** The paper lists LCP, FID and CLS. The current operator page identifies LCP, INP and CLS as the Core Web Vitals metrics.
 
@@ -413,7 +413,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Chen and Koudas 2026 abstract and methods.
 
-**Primary source:** Chen and Koudas (2026), Location, Location, Generation, preprint, https://arxiv.org/abs/2610.24081v1. **Location:** Section 3, E2; PDF page 2.
+**Primary source:** Chen and Koudas (2026), Location, Location, Generation, preprint, <https://arxiv.org/abs/2610.24081v1>. **Location:** Section 3, E2; PDF page 2.
 
 **What the source establishes:** The declared-coordinate conclusion refers to a preliminary comparison without a reported preliminary comparison design or result table. The main network experiment is reported separately.
 
@@ -427,7 +427,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Chen and Koudas 2026 wording.
 
-**Primary source:** Chen and Koudas (2026), Location, Location, Generation, preprint, https://arxiv.org/abs/2610.24081v1. **Location:** Sections 4 and 5.
+**Primary source:** Chen and Koudas (2026), Location, Location, Generation, preprint, <https://arxiv.org/abs/2610.24081v1>. **Location:** Sections 4 and 5.
 
 **What the source establishes:** The non-local source localization index is 0.23 with a stated interval 0.20 to 0.27. This index is twin overlap minus between-setting overlap, not a fraction of sources replaced.
 
@@ -441,7 +441,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Liu et al. 2023 result reused as a current universal rate.
 
-**Primary source:** Liu, Zhang and Liang (2023), Evaluating Verifiability in Generative Search Engines, EMNLP Findings, DOI 10.18653/v 1/2023.findings-emnlp.467. **Location:** Section 4.2; Appendix G, Table 7, printed page 7023.
+**Primary source:** Liu, Zhang and Liang (2023), Evaluating Verifiability in Generative Search Engines, EMNLP Findings, DOI <https://doi.org/10.18653/v1/2023.findings-emnlp.467>. **Location:** Section 4.2; Appendix G, Table 7, printed page 7023.
 
 **What the source establishes:** The average citation-recall score across four historical engines is 51.5%. It is not a 2026 audit of every answer product.
 
@@ -455,7 +455,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Liu et al. 2023 finding.
 
-**Primary source:** Liu, Zhang and Liang (2023), Evaluating Verifiability in Generative Search Engines, EMNLP Findings, DOI 10.18653/v 1/2023.findings-emnlp.467. **Location:** Section 4.2; Appendix G, Table 8, printed page 7024.
+**Primary source:** Liu, Zhang and Liang (2023), Evaluating Verifiability in Generative Search Engines, EMNLP Findings, DOI <https://doi.org/10.18653/v1/2023.findings-emnlp.467>. **Location:** Section 4.2; Appendix G, Table 8, printed page 7024.
 
 **What the source establishes:** The paper reports 74.5% average citation precision across the four evaluated engines, a separate measure from citation recall.
 
@@ -469,7 +469,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Hudgens chapter 1, prose on page 28.
 
-**Primary source:** Hudgens (2026), Generative Engine Optimization: The Definitive Guide to AI SEO, Wiley, ISBN 9781394439805; publisher chapter excerpt https://catalogimages.wiley.com/images/db/pdf/9781394439805.excerpt.pdf. **Location:** Chapter 1 page 28 prose and page 30 Figure 1.26, both read including the rendered chart.
+**Primary source:** Hudgens (2026), Generative Engine Optimization: The Definitive Guide to AI SEO, Wiley, ISBN 9781394439805; publisher chapter excerpt <https://catalogimages.wiley.com/images/db/pdf/9781394439805.excerpt.pdf>. **Location:** Chapter 1 page 28 prose and page 30 Figure 1.26, both read including the rendered chart.
 
 **What the source establishes:** The prose puts research behind affiliate pages. Figure 1.26 prints product 45.4%, news and research 24.8%, affiliate 15.6%, blog 7.0%, user reviews 6.6%, press releases 0.6%. Thus the figure places research above affiliate.
 
@@ -483,7 +483,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Hudgens chapter 1, audience chart.
 
-**Primary source:** Hudgens (2026), Generative Engine Optimization: The Definitive Guide to AI SEO, Wiley, ISBN 9781394439805; publisher chapter excerpt https://catalogimages.wiley.com/images/db/pdf/9781394439805.excerpt.pdf. **Location:** Chapter 1 page 7, Figure 1.2, rendered chart.
+**Primary source:** Hudgens (2026), Generative Engine Optimization: The Definitive Guide to AI SEO, Wiley, ISBN 9781394439805; publisher chapter excerpt <https://catalogimages.wiley.com/images/db/pdf/9781394439805.excerpt.pdf>. **Location:** Chapter 1 page 7, Figure 1.2, rendered chart.
 
 **What the source establishes:** The chart is labeled daily active user growth and its 2025 bar is approximately 530 million. Its citation is only Reddit, 2026. No original investor metric or denominator is supplied here; this audit does not relabel it as monthly users.
 
@@ -497,7 +497,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Hudgens chapter 1, domain chart.
 
-**Primary source:** Hudgens (2026), Generative Engine Optimization: The Definitive Guide to AI SEO, Wiley, ISBN 9781394439805; publisher chapter excerpt https://catalogimages.wiley.com/images/db/pdf/9781394439805.excerpt.pdf. **Location:** Figure 1.14, publisher excerpt PDF page 19.
+**Primary source:** Hudgens (2026), Generative Engine Optimization: The Definitive Guide to AI SEO, Wiley, ISBN 9781394439805; publisher chapter excerpt <https://catalogimages.wiley.com/images/db/pdf/9781394439805.excerpt.pdf>. **Location:** Figure 1.14, publisher excerpt PDF page 19.
 
 **What the source establishes:** The rendered chart prints FSC.org as Used 124%. The excerpt does not identify a denominator or sufficiently define Used. A value above 100% cannot be repaired into a valid domain share by guessing a different metric.
 
@@ -511,7 +511,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Hudgens chapter 1, language-use chart.
 
-**Primary source:** Hudgens (2026), Generative Engine Optimization: The Definitive Guide to AI SEO, Wiley, ISBN 9781394439805; publisher chapter excerpt https://catalogimages.wiley.com/images/db/pdf/9781394439805.excerpt.pdf. **Location:** Figure 1.21, publisher excerpt PDF page 25.
+**Primary source:** Hudgens (2026), Generative Engine Optimization: The Definitive Guide to AI SEO, Wiley, ISBN 9781394439805; publisher chapter excerpt <https://catalogimages.wiley.com/images/db/pdf/9781394439805.excerpt.pdf>. **Location:** Figure 1.21, publisher excerpt PDF page 25.
 
 **What the source establishes:** The chart heading says 37.5% of ChatGPT Conversions are Generative. Its subtitle and intent categories concern prompts, not completed commercial conversions. The wording does not establish a conversion rate.
 
@@ -525,7 +525,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Hudgens chapter 1 page 39.
 
-**Primary source:** Hudgens (2026), Generative Engine Optimization: The Definitive Guide to AI SEO, Wiley, ISBN 9781394439805; publisher chapter excerpt https://catalogimages.wiley.com/images/db/pdf/9781394439805.excerpt.pdf. **Location:** Page 39 prose.
+**Primary source:** Hudgens (2026), Generative Engine Optimization: The Definitive Guide to AI SEO, Wiley, ISBN 9781394439805; publisher chapter excerpt <https://catalogimages.wiley.com/images/db/pdf/9781394439805.excerpt.pdf>. **Location:** Page 39 prose.
 
 **What the source establishes:** The supplied page uses casual where the surrounding correlation discussion requires causal. This is a wording defect, not a new empirical result.
 
@@ -539,7 +539,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Roumeliotis et al. 2026 Table 1.
 
-**Primary source:** Roumeliotis et al. (2026), The Evolution of SEO in the Era of Generative AI, Electronics 15, 3541, DOI 10.3390/electronics 15163541. **Location:** Equations 1 and 2, Table 1, pages 6 to 7; independent upper-bound arithmetic.
+**Primary source:** Roumeliotis et al. (2026), The Evolution of SEO in the Era of Generative AI, Electronics 15, 3541, DOI <https://doi.org/10.3390/electronics15163541>. **Location:** Equations 1 and 2, Table 1, pages 6 to 7; independent upper-bound arithmetic.
 
 **What the source establishes:** Under the stated six normalized weighted criteria and the visible raw maxima, the example upper bounds are approximately 0.792, 0.650 and 0.587, below printed 0.89, 0.84 and 0.61. The text also mentions a DOI bonus without showing how it enters the normalized equation. The published recipe therefore does not reproduce its worked scores.
 
@@ -553,7 +553,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Roumeliotis et al. 2026 sensitivity analysis.
 
-**Primary source:** Roumeliotis et al. (2026), The Evolution of SEO in the Era of Generative AI, Electronics 15, 3541, DOI 10.3390/electronics 15163541. **Location:** Section 2.5, page 8.
+**Primary source:** Roumeliotis et al. (2026), The Evolution of SEO in the Era of Generative AI, Electronics 15, 3541, DOI <https://doi.org/10.3390/electronics15163541>. **Location:** Section 2.5, page 8.
 
 **What the source establishes:** Multiplying every fixed weight by the same positive constant preserves every pairwise score order. The reported 54.3% to 80.0% overlaps do not give per-scenario results reconciling the uniform cases or additional manual changes.
 
@@ -567,7 +567,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Roumeliotis et al. 2026 corpus description.
 
-**Primary source:** Roumeliotis et al. (2026), The Evolution of SEO in the Era of Generative AI, Electronics 15, 3541, DOI 10.3390/electronics 15163541. **Location:** PDF page 7, venue percentage passage.
+**Primary source:** Roumeliotis et al. (2026), The Evolution of SEO in the Era of Generative AI, Electronics 15, 3541, DOI <https://doi.org/10.3390/electronics15163541>. **Location:** PDF page 7, venue percentage passage.
 
 **What the source establishes:** Several printed venue shares are compatible with integer counts out of 59 and incompatible with conventional one-decimal rounding of integer counts out of 70. The passage does not supply the venue counts. We do not replace its stated corpus size with an inferred 59-paper denominator.
 
@@ -581,7 +581,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Xu et al. 2026, 55,393 trending queries over 40 days.
 
-**Primary source:** Xu, Iqbal and Montgomery (2026), Measuring Google AI Overviews, IMC 2026, DOI 10.1145/3777912.3839818; arXiv 2605.14021 v 2. **Location:** Section 4.1, Table 3, PDF pages 6 to 7.
+**Primary source:** Xu, Iqbal and Montgomery (2026), Measuring Google AI Overviews, IMC 2026, DOI <https://doi.org/10.1145/3777912.3839818>; arXiv 2605.14021 v 2. **Location:** Section 4.1, Table 3, PDF pages 6 to 7.
 
 **What the source establishes:** 7,583 of 55,393 trending-query executions returned an AI Overview, about 13.7%, in March 13 through April 21, 2026. The executions span 32,608 unique normalized queries; a query-balanced calculation is separate.
 
@@ -595,7 +595,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Xu et al. 2026, question-form subset.
 
-**Primary source:** Xu, Iqbal and Montgomery (2026), Measuring Google AI Overviews, IMC 2026, DOI 10.1145/3777912.3839818; arXiv 2605.14021 v 2. **Location:** Section 4.1 and Table 4, PDF page 7.
+**Primary source:** Xu, Iqbal and Montgomery (2026), Measuring Google AI Overviews, IMC 2026, DOI <https://doi.org/10.1145/3777912.3839818>; arXiv 2605.14021 v 2. **Location:** Section 4.1 and Table 4, PDF page 7.
 
 **What the source establishes:** 2,716 of 4,198 question-form query executions returned an AI Overview, about 64.7%. Question form is defined by a leading interrogative from the printed list, not every conversational query.
 
@@ -609,7 +609,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Grossman et al. 2026 representative query sample.
 
-**Primary source:** Grossman et al. (2026), How Generative AI Disrupts Search, SIGIR 2026; https://arxiv.org/abs/2604.27790v1. **Location:** Table 1 and section 4.1, PDF pages 3 to 4.
+**Primary source:** Grossman et al. (2026), How Generative AI Disrupts Search, SIGIR 2026; <https://arxiv.org/abs/2604.27790v1>. **Location:** Table 1 and section 4.1, PDF pages 3 to 4.
 
 **What the source establishes:** The 51.5% activation figure is for the 5,000-query ORCAS subset. The entire mixed 11,500-query benchmark has a different 65.6% figure. Collection was December 7 to 8, 2025, under the stated mobile Newark setting.
 
@@ -651,7 +651,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Pew 2025 observed search visits.
 
-**Primary source:** Pew Research Center (2025), Google users are less likely to click on links when an AI summary appears; https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/. **Location:** How we did this and overall activation paragraph, opened 2 November 2026.
+**Primary source:** Pew Research Center (2025), Google users are less likely to click on links when an AI summary appears; <https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/>. **Location:** How we did this and overall activation paragraph, opened 2 November 2026.
 
 **What the source establishes:** 12,593 of 68,879 unique Google searches generated a summary in the study. The searches were drawn from March 2025 browsing by 900 US adults and their results were collected April 7 to 17, 2025. The page rounds the rate to 18%.
 
@@ -665,7 +665,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Sharma 2026, 112-new products preprint.
 
-**Primary source:** Amit Prakash Sharma (2026), The Discovery Gap, single-author preprint, https://arxiv.org/abs/2601.00912. **Location:** Sections 3.1 to 3.4 and Table 4.1, PDF pages 6 to 8.
+**Primary source:** Amit Prakash Sharma (2026), The Discovery Gap, single-author preprint, <https://arxiv.org/abs/2601.00912>. **Location:** Sections 3.1 to 3.4 and Table 4.1, PDF pages 6 to 8.
 
 **What the source establishes:** The paper reports ChatGPT direct-query success 334/336, 99.4%, and discovery success 26/784, 3.32%, for 112 selected Product Hunt products. Perplexity figures are 317/336 and 65/784. Collection was December 15 to 20, 2025; the two named configurations differ in search availability.
 
@@ -693,7 +693,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Circulating snippet headline.
 
-**Primary source:** Ahrefs, We Analyzed 2 Million Featured Snippets, https://ahrefs.com/blog/featured-snippets-study/. **Location:** Click-distribution comparison in the primary vendor article.
+**Primary source:** Ahrefs, We Analyzed 2 Million Featured Snippets, <https://ahrefs.com/blog/featured-snippets-study/>. **Location:** Click-distribution comparison in the primary vendor article.
 
 **What the source establishes:** The recovered Ahrefs article reports about 8.6% for the featured snippet and 19.6% for the following result in its comparison. It does not establish a universal 35% share for snippets. The exact origin and sampling base of the 35% retelling remain unrecovered.
 
@@ -707,7 +707,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Nguyen Minh Triet and Ta Van Thanh (2025), Smart Search Optimization: A Theoretical Framework Integrating SEO, AEO and GEO in the Era of Genetic AI, European Modern Studies Journal 9(6),288 to 297.
 
-**Primary source:** Nguyen Minh Triet and Ta Van Thanh (2025), Smart Search Optimization: A Theoretical Framework Integrating SEO, AEO and GEO in the Era of Genetic AI, European Modern Studies Journal 9(6),288 to 297. **Location:** PDF page 8, printed 295, results and discussion.
+**Primary source:** Nguyen Minh Triet and Ta Van Thanh (2025), Smart Search Optimization: A Theoretical Framework Integrating SEO, AEO and GEO in the Era of Genetic AI, European Modern Studies Journal 9(6),288 to 297; DOI <https://doi.org/10.59573/emsj.9(6).2025.20>. **Location:** PDF page 8, printed 295, results and discussion.
 
 **What the source establishes:** The discussion calls the figures derived from simulation, and the leads row is labeled Synthetic. The row moves from 10 to 26, a 160% arithmetic increase. This is a constructed example, not a measured field effect.
 
@@ -721,7 +721,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** GEO section 5.3 prose.
 
-**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900; author manuscript https://arxiv.org/html/2311.09735v3. **Location:** Combination discussion and Figure 4.
+**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; author manuscript <https://arxiv.org/html/2311.09735v3>. **Location:** Combination discussion and Figure 4.
 
 **What the source establishes:** The prose attributes 31.4 to source citation; Figure 4 places 31.4 on the fluency row. Keep the table labels and the prose discrepancy visible.
 
@@ -735,7 +735,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** GEO section 5.3 prose.
 
-**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900; author manuscript https://arxiv.org/html/2311.09735v3. **Location:** Figure 4.
+**Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; author manuscript <https://arxiv.org/html/2311.09735v3>. **Location:** Figure 4.
 
 **What the source establishes:** The plotted statistics row has 32.1 against 31.4 for fluency. This is a benchmark combination average, not a field citation probability.
 
@@ -749,7 +749,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Chen and Koudas 2026 release statement.
 
-**Primary source:** Chen and Koudas (2026), Location, Location, Generation, preprint, https://arxiv.org/abs/2610.24081v1. **Location:** Methods and materials statement.
+**Primary source:** Chen and Koudas (2026), Location, Location, Generation, preprint, <https://arxiv.org/abs/2610.24081v1>. **Location:** Methods and materials statement.
 
 **What the source establishes:** The paper states a 15-city US component but does not enumerate those cities in the retrieved report. That limits exact replication from the paper alone.
 
@@ -763,7 +763,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Chen and Koudas 2026 release statement.
 
-**Primary source:** Chen and Koudas (2026), Location, Location, Generation, preprint, https://arxiv.org/abs/2610.24081v1. **Location:** Materials release statement.
+**Primary source:** Chen and Koudas (2026), Location, Location, Generation, preprint, <https://arxiv.org/abs/2610.24081v1>. **Location:** Materials release statement.
 
 **What the source establishes:** The retrieved paper says materials are released but supplies no usable repository link. We have not established that the materials are publicly accessible elsewhere.
 
@@ -777,7 +777,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Roumeliotis et al. 2026 review.
 
-**Primary source:** Roumeliotis et al. (2026), The Evolution of SEO in the Era of Generative AI, Electronics 15, 3541, DOI 10.3390/electronics 15163541; Chen et al., RGB, https://arxiv.org/abs/2309.01431, sections 2 to 3. **Location:** Review PDF p. 17; RGB primary sections 2 to 3.
+**Primary source:** Roumeliotis et al. (2026), The Evolution of SEO in the Era of Generative AI, Electronics 15, 3541, DOI <https://doi.org/10.3390/electronics15163541>; Chen et al., RGB, <https://arxiv.org/abs/2309.01431>, sections 2 to 3. **Location:** Review PDF p. 17; RGB primary sections 2 to 3.
 
 **What the source establishes:** The review uses this gloss for RGB. In the primary benchmark, negative rejection is declining to answer when none of the retrieved documents contains the required knowledge. Ignoring noise when relevant evidence is present is a different ability.
 
@@ -791,7 +791,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Roumeliotis et al. 2026 review.
 
-**Primary source:** Roumeliotis et al. (2026), The Evolution of SEO in the Era of Generative AI, Electronics 15, 3541, DOI 10.3390/electronics 15163541; Chen et al., RGB, https://arxiv.org/abs/2309.01431, sections 2 to 3. **Location:** Review PDF p. 20.
+**Primary source:** Roumeliotis et al. (2026), The Evolution of SEO in the Era of Generative AI, Electronics 15, 3541, DOI <https://doi.org/10.3390/electronics15163541>; Chen et al., RGB, <https://arxiv.org/abs/2309.01431>, sections 2 to 3. **Location:** Review PDF p. 20.
 
 **What the source establishes:** The review connects a geographic-IR source to the GEO discussion. A place-oriented retrieval task does not, by its name or subject, establish an effect of rewriting pages for generated answers.
 
@@ -805,7 +805,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Hidayet Karamuk, From SEO to Answer Engine Optimization (AEO): Generative AI and the Transformation of Search Visibility, chapter 14, printed pages 278 to 295.
 
-**Primary source:** Hidayet Karamuk, From SEO to Answer Engine Optimization (AEO): Generative AI and the Transformation of Search Visibility, chapter 14, printed pages 278 to 295; Google Search Central, https://developers.google.com/search/blog/2023/08/howto-faq-changes. **Location:** Chapter measurement and answer-architecture discussions.
+**Primary source:** Hidayet Karamuk, From SEO to Answer Engine Optimization (AEO): Generative AI and the Transformation of Search Visibility, chapter 14, printed pages 278 to 295; Google Search Central, <https://developers.google.com/search/blog/2023/08/howto-faq-changes>. **Location:** Chapter measurement and answer-architecture discussions.
 
 **What the source establishes:** The chapter cites the same Pew report in several discussions. Its 8% versus 15%, and about 1% summary-link figures, occur together in the measurement passage. Repeated references do not create independent evidence. We do not repeat the unverified claim that the numerical figure appears six times.
 
@@ -819,7 +819,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Hidayet Karamuk, From SEO to Answer Engine Optimization (AEO): Generative AI and the Transformation of Search Visibility, chapter 14, printed pages 278 to 295.
 
-**Primary source:** Hidayet Karamuk, From SEO to Answer Engine Optimization (AEO): Generative AI and the Transformation of Search Visibility, chapter 14, printed pages 278 to 295; Google Search Central, https://developers.google.com/search/blog/2023/08/howto-faq-changes. **Location:** Chapter 14, printed 278 to 295.
+**Primary source:** Hidayet Karamuk, From SEO to Answer Engine Optimization (AEO): Generative AI and the Transformation of Search Visibility, chapter 14, printed pages 278 to 295; Google Search Central, <https://developers.google.com/search/blog/2023/08/howto-faq-changes>. **Location:** Chapter 14, printed 278 to 295.
 
 **What the source establishes:** No occurrences of ChatGPT, Perplexity, Claude or Aggarwal were found in the retrieved chapter text. It is a conceptual discussion centered on search answer presentation, not a comparative test of the commercial engines.
 
@@ -833,7 +833,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Hidayet Karamuk, From SEO to Answer Engine Optimization (AEO): Generative AI and the Transformation of Search Visibility, chapter 14, printed pages 278 to 295.
 
-**Primary source:** Hidayet Karamuk, From SEO to Answer Engine Optimization (AEO): Generative AI and the Transformation of Search Visibility, chapter 14, printed pages 278 to 295; Google Search Central, https://developers.google.com/search/blog/2023/08/howto-faq-changes; current Google documentation change https://developers.google.com/search/updates#removing-faq-rich-result. **Location:** Chapter structured-markup discussion; Google August 8, 2023 notice and current FAQ documentation-removal update, read November 2, 2026.
+**Primary source:** Hidayet Karamuk, From SEO to Answer Engine Optimization (AEO): Generative AI and the Transformation of Search Visibility, chapter 14, printed pages 278 to 295; Google Search Central, <https://developers.google.com/search/blog/2023/08/howto-faq-changes>; current Google documentation change <https://developers.google.com/search/updates#removing-faq-rich-result>. **Location:** Chapter structured-markup discussion; Google August 8, 2023 notice and current FAQ documentation-removal update, read November 2, 2026.
 
 **What the source establishes:** The chapter distinguishes FAQPage and QAPage vocabulary but omits the 2023 Google restrictions. The August 8, 2023 operator notice restricted FAQ rich results to authoritative government and health sites. The current operator update states that FAQ rich results are no longer shown, following the May 2026 announcement. Valid vocabulary does not establish search-result eligibility.
 
@@ -847,7 +847,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript.
 
-**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI 10.1145/3637528.3671900. **Location:** Manuscript paragraphs 195,212,250; GEO Table 1.
+**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>. **Location:** Manuscript paragraphs 195,212,250; GEO Table 1.
 
 **What the source establishes:** The manuscript attributes ratings to the GEO experiment while also identifying the ratings as practitioner synthesis rather than a validated scale. The original experiment does not empirically validate every format and strategic framework in that synthesis.
 
@@ -861,7 +861,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript.
 
-**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI 10.1145/3637528.3671900. **Location:** Manuscript domain discussion.
+**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>. **Location:** Manuscript domain discussion.
 
 **What the source establishes:** The current text names Reddit and Quora together. We have not identified an exact passage in this version that ranks Reddit first, so the stronger attributed error is not asserted. A source-specific ordering needs the original vendor table.
 
@@ -875,7 +875,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript.
 
-**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI 10.1145/3637528.3671900; linked primary release https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents. **Location:** Manuscript paragraph 389; Gartner release 2024-02-19.
+**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; linked primary release <https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents>. **Location:** Manuscript paragraph 389; Gartner release 2024-02-19.
 
 **What the source establishes:** The manuscript reference dates the forecast February 19, 2023, while the exact linked primary-release address is dated February 19, 2024. The live release body returned an access challenge on November 2, 2026, so this entry establishes a bibliographic date mismatch, not a fresh review of the forecast body or its accuracy.
 
@@ -889,7 +889,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript.
 
-**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI 10.1145/3637528.3671900. **Location:** Manuscript reference 7; DOI 10.1145/3637528.3671900.
+**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>. **Location:** Manuscript reference 7; DOI10.1145/3637528.3671900.
 
 **What the source establishes:** The manuscript prints 22 to 32. The KDD proceedings record gives 5 to 16. This is a bibliographic correction, independent of the experiment conclusions.
 
@@ -903,7 +903,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript.
 
-**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI 10.1145/3637528.3671900. **Location:** Abstract and limitations.
+**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>. **Location:** Abstract and limitations.
 
 **What the source establishes:** The abstract uses attributable language for a secondary industry figure. The manuscript does not supply a randomized or otherwise identified causal design for that attribution, and its limitations acknowledge commercially interested secondary sources.
 
@@ -917,7 +917,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript.
 
-**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI 10.1145/3637528.3671900. **Location:** Author affiliation and conflict statement, paragraphs 5 and 345.
+**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>. **Location:** Author affiliation and conflict statement, paragraphs 5 and 345.
 
 **What the source establishes:** The manuscript lists a commercial research-firm affiliation and separately declares no conflict. Both are visible disclosures. They do not by themselves establish whether a financial relationship affected a result, and we make no allegation about intent.
 
@@ -931,9 +931,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Nguyen Minh Triet and Ta Van Thanh (2025), Smart Search Optimization: A Theoretical Framework Integrating SEO, AEO and GEO in the Era of Genetic AI, European Modern Studies Journal 9(6),288 to 297.
 
-**Primary source:** Nguyen Minh Triet and Ta Van Thanh (2025), Smart Search Optimization: A Theoretical Framework Integrating SEO, AEO and GEO in the Era of Genetic AI, European Modern Studies Journal 9(6),288 to 297. **Location:** Reference list, printed 297.
+**Primary source:** Nguyen Minh Triet and Ta Van Thanh (2025), Smart Search Optimization: A Theoretical Framework Integrating SEO, AEO and GEO in the Era of Genetic AI, European Modern Studies Journal 9(6),288 to 297; DOI <https://doi.org/10.59573/emsj.9(6).2025.20>. **Location:** Reference list, printed 297.
 
-**What the source establishes:** The reference contains a literal placeholder, with a title and authors that do not identify the real GEO paper. The identifiable original is Aggarwal and colleagues, arXiv 2311.09735 and KDD 2024 DOI 10.1145/3637528.3671900.
+**What the source establishes:** The reference contains a literal placeholder, with a title and authors that do not identify the real GEO paper. The identifiable original is Aggarwal and colleagues, arXiv 2311.09735 and KDD 2024 DOI10.1145/3637528.3671900.
 
 **Base, setting and date:** Title, bibliography and diagram audit of one 2025 chapter.
 
@@ -945,7 +945,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Nguyen Minh Triet and Ta Van Thanh (2025), Smart Search Optimization: A Theoretical Framework Integrating SEO, AEO and GEO in the Era of Genetic AI, European Modern Studies Journal 9(6),288 to 297.
 
-**Primary source:** Nguyen Minh Triet and Ta Van Thanh (2025), Smart Search Optimization: A Theoretical Framework Integrating SEO, AEO and GEO in the Era of Genetic AI, European Modern Studies Journal 9(6),288 to 297. **Location:** Title, printed 288.
+**Primary source:** Nguyen Minh Triet and Ta Van Thanh (2025), Smart Search Optimization: A Theoretical Framework Integrating SEO, AEO and GEO in the Era of Genetic AI, European Modern Studies Journal 9(6),288 to 297; DOI <https://doi.org/10.59573/emsj.9(6).2025.20>. **Location:** Title, printed 288.
 
 **What the source establishes:** The retrieved title prints Genetic AI. This is an editorial wording defect, not evidence about how the document was written or about the authors’ intentions.
 
@@ -959,7 +959,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Nguyen Minh Triet and Ta Van Thanh (2025), Smart Search Optimization: A Theoretical Framework Integrating SEO, AEO and GEO in the Era of Genetic AI, European Modern Studies Journal 9(6),288 to 297.
 
-**Primary source:** Nguyen Minh Triet and Ta Van Thanh (2025), Smart Search Optimization: A Theoretical Framework Integrating SEO, AEO and GEO in the Era of Genetic AI, European Modern Studies Journal 9(6),288 to 297. **Location:** Figure 1 and prose, printed 290.
+**Primary source:** Nguyen Minh Triet and Ta Van Thanh (2025), Smart Search Optimization: A Theoretical Framework Integrating SEO, AEO and GEO in the Era of Genetic AI, European Modern Studies Journal 9(6),288 to 297; DOI <https://doi.org/10.59573/emsj.9(6).2025.20>. **Location:** Figure 1 and prose, printed 290.
 
 **What the source establishes:** The diagram runs downward from SEO through AEO to GEO. The prose calls SEO the base and GEO uppermost. The spatial descriptions are not aligned; neither is an empirical test of a necessary hierarchy.
 
@@ -973,7 +973,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Aggarwal et al., GEO, KDD 2024, DOI 10.1145/3637528.3671900, Tables 1 and 4.
 
-**Primary source:** Aggarwal et al., GEO, KDD 2024, DOI 10.1145/3637528.3671900, Tables 1 and 4; exact undated agency original not recovered. **Location:** Agency original not recovered; comparison GEO Table 1.
+**Primary source:** Aggarwal et al., GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>, Tables 1 and 4; exact undated agency original not recovered. **Location:** Agency original not recovered; comparison GEO Table 1.
 
 **What the source establishes:** The original benchmark comparison gives quotation addition about 40.9%, statistics 30.6% and source citation 27.5% on position-adjusted word count. We have not recovered the exact agency original needed to attribute an inverted ordering to it.
 
@@ -987,7 +987,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Aggarwal et al., GEO, KDD 2024, DOI 10.1145/3637528.3671900, Tables 1 and 4.
 
-**Primary source:** Aggarwal et al., GEO, KDD 2024, DOI 10.1145/3637528.3671900, Tables 1 and 4; exact undated agency original not recovered. **Location:** Agency original not recovered.
+**Primary source:** Aggarwal et al., GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>, Tables 1 and 4; exact undated agency original not recovered. **Location:** Agency original not recovered.
 
 **What the source establishes:** We cannot verify the agency formula without its exact original. The GEO primary metric must be read in its own definition rather than reconstructed from an unavailable retelling.
 
@@ -1001,7 +1001,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Aggarwal et al., GEO, KDD 2024, DOI 10.1145/3637528.3671900, Tables 1 and 4.
 
-**Primary source:** Aggarwal et al., GEO, KDD 2024, DOI 10.1145/3637528.3671900, Tables 1 and 4; exact undated agency original not recovered. **Location:** Exact agency original not recovered; Sharma and Dhiman supplied article.
+**Primary source:** Aggarwal et al., GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>, Tables 1 and 4; exact undated agency original not recovered. **Location:** Exact agency original not recovered; Sharma and Dhiman supplied article.
 
 **What the source establishes:** The agency text needed to match the three attributed claims has not been recovered. Sharma and Dhiman is not used here as evidence of tactic effectiveness.
 
@@ -1015,7 +1015,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Aggarwal et al., GEO, KDD 2024, DOI 10.1145/3637528.3671900, Tables 1 and 4.
 
-**Primary source:** Aggarwal et al., GEO, KDD 2024, DOI 10.1145/3637528.3671900, Tables 1 and 4; exact undated agency original not recovered. **Location:** Exact agency original not recovered.
+**Primary source:** Aggarwal et al., GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>, Tables 1 and 4; exact undated agency original not recovered. **Location:** Exact agency original not recovered.
 
 **What the source establishes:** The list-to-list comparison cannot be performed without the agency file. We make no copied-reference or intent finding from the supplied allegation alone.
 
@@ -1027,9 +1027,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: unsupported. Checked 2026-11-02.**
 
-**Circulation:** Sharma and Dhiman, The Impact of AI on Search Engine Optimization and Search Behavior, supplied Chandigarh University article.
+**Circulation:** Apoorav Sharma and Prabhjot Dhiman, The Impact of AI-Powered Search on SEO: The Emergence of Answer Engine Optimization, supplied Chandigarh University article.
 
-**Primary source:** Sharma and Dhiman, The Impact of AI on Search Engine Optimization and Search Behavior, supplied Chandigarh University article. **Location:** PDF p. 5 methods andp 7 to 10 tables.
+**Primary source:** Apoorav Sharma and Prabhjot Dhiman, The Impact of AI-Powered Search on SEO: The Emergence of Answer Engine Optimization, supplied Chandigarh University article; publication year and public identifier unconfirmed. **Location:** PDF p. 5 methods andp 7 to 10 tables.
 
 **What the source establishes:** The methods claim 300+ respondents. Most result totals are 244, while the displayed age counts total 234. The paper does not reconcile these bases in the retrieved passages.
 
@@ -1041,9 +1041,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: unsupported. Checked 2026-11-02.**
 
-**Circulation:** Sharma and Dhiman, The Impact of AI on Search Engine Optimization and Search Behavior, supplied Chandigarh University article.
+**Circulation:** Apoorav Sharma and Prabhjot Dhiman, The Impact of AI-Powered Search on SEO: The Emergence of Answer Engine Optimization, supplied Chandigarh University article.
 
-**Primary source:** Sharma and Dhiman, The Impact of AI on Search Engine Optimization and Search Behavior, supplied Chandigarh University article. **Location:** PDF p. 10, Tables 4 to 5.
+**Primary source:** Apoorav Sharma and Prabhjot Dhiman, The Impact of AI-Powered Search on SEO: The Emergence of Answer Engine Optimization, supplied Chandigarh University article; publication year and public identifier unconfirmed. **Location:** PDF p. 10, Tables 4 to 5.
 
 **What the source establishes:** Table 5 reports+0.12 between declining CTR and algorithm transparency. Under the single-choice indicator interpretation implied by counts 112 and 49 out of 244, their mutually exclusive indicators have correlation−0.4617. Raw records are unavailable, so the interpretation and the missing-data limit remain explicit.
 
@@ -1055,9 +1055,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: unverifiable. Checked 2026-11-02.**
 
-**Circulation:** Sharma and Dhiman, The Impact of AI on Search Engine Optimization and Search Behavior, supplied Chandigarh University article.
+**Circulation:** Apoorav Sharma and Prabhjot Dhiman, The Impact of AI-Powered Search on SEO: The Emergence of Answer Engine Optimization, supplied Chandigarh University article.
 
-**Primary source:** Sharma and Dhiman, The Impact of AI on Search Engine Optimization and Search Behavior, supplied Chandigarh University article. **Location:** Methods and results, PDF p. 5 to 12.
+**Primary source:** Apoorav Sharma and Prabhjot Dhiman, The Impact of AI-Powered Search on SEO: The Emergence of Answer Engine Optimization, supplied Chandigarh University article; publication year and public identifier unconfirmed. **Location:** Methods and results, PDF p. 5 to 12.
 
 **What the source establishes:** The methods describe a broad program including interviews, cases, comparisons and regression. The retrieved results do not separately report outputs from that full program. A method named in a plan is not itself a completed result.
 
@@ -1069,9 +1069,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: unsupported. Checked 2026-11-02.**
 
-**Circulation:** Abu Rayhan, Generative Engine Optimization Explained, supplied report.
+**Circulation:** Abu Rayhan, Generative Engine Optimization (GEO): The Mechanics, Strategy, and Economic Impact of the Post-Search Era, supplied report.
 
-**Primary source:** Abu Rayhan, Generative Engine Optimization Explained, supplied report; Aggarwal et al., GEO, KDD 2024, Table 1; Gartner newsroom releases dated 2024-02-19 and 2025-01-15. **Location:** Report section 4.3, PDF p. 10; original GEO methods and Table 1.
+**Primary source:** Abu Rayhan, Generative Engine Optimization (GEO): The Mechanics, Strategy, and Economic Impact of the Post-Search Era, supplied report; primary comparison Aggarwal et al. (2024), GEO, KDD, DOI <https://doi.org/10.1145/3637528.3671900>. **Location:** Report section 4.3, PDF p. 10; original GEO methods and Table 1.
 
 **What the source establishes:** The report bundles structured data with statistics and quotations in its up-to 40% passage. The original GEO experiment does not contain a structured-data treatment. The supplied attribution cannot establish that additional effect.
 
@@ -1083,9 +1083,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: unsupported. Checked 2026-11-02.**
 
-**Circulation:** Abu Rayhan, Generative Engine Optimization Explained, supplied report.
+**Circulation:** Abu Rayhan, Generative Engine Optimization (GEO): The Mechanics, Strategy, and Economic Impact of the Post-Search Era, supplied report.
 
-**Primary source:** Abu Rayhan, Generative Engine Optimization Explained, supplied report; Aggarwal et al., GEO, KDD 2024, Table 1; Gartner newsroom releases dated 2024-02-19 and 2025-01-15. **Location:** Reportp 2 and references 5 to 6, p 19.
+**Primary source:** Abu Rayhan, Generative Engine Optimization (GEO): The Mechanics, Strategy, and Economic Impact of the Post-Search Era, supplied report; primary comparison Aggarwal et al. (2024), GEO, KDD, DOI <https://doi.org/10.1145/3637528.3671900>. **Location:** Reportp 2 and references 5 to 6, p 19.
 
 **What the source establishes:** The search-volume claim points to reference 5, whose listed title concerns mobile-app usage by 2027. The search-volume forecast for 2026 is the separate release listed as reference 6.
 
@@ -1097,9 +1097,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: unverifiable. Checked 2026-11-02.**
 
-**Circulation:** Abu Rayhan, Generative Engine Optimization Explained, supplied report.
+**Circulation:** Abu Rayhan, Generative Engine Optimization (GEO): The Mechanics, Strategy, and Economic Impact of the Post-Search Era, supplied report.
 
-**Primary source:** Abu Rayhan, Generative Engine Optimization Explained, supplied report; Aggarwal et al., GEO, KDD 2024, Table 1; Gartner newsroom releases dated 2024-02-19 and 2025-01-15. **Location:** Retrieved report reference list and in-text numbering.
+**Primary source:** Abu Rayhan, Generative Engine Optimization (GEO): The Mechanics, Strategy, and Economic Impact of the Post-Search Era, supplied report; primary comparison Aggarwal et al. (2024), GEO, KDD, DOI <https://doi.org/10.1145/3637528.3671900>. **Location:** Retrieved report reference list and in-text numbering.
 
 **What the source establishes:** The report lists 69 references, but the asserted 23-uncited count has not been reconstructed from its in-text mapping. We do not present that count as a verified finding.
 
@@ -1113,7 +1113,7 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Kumar 2026 abstract and discussion.
 
-**Primary source:** Kumar (2026), Generative Engine Optimization at Scale, vendor preprint, https://arxiv.org/abs/2606.20065v1. **Location:** Section 6.4 drift table and interpretation.
+**Primary source:** Kumar (2026), Generative Engine Optimization at Scale, vendor preprint, <https://arxiv.org/abs/2606.20065v1>. **Location:** Section 6.4 drift table and interpretation.
 
 **What the source establishes:** The paper labels the cohort band−1.34% to+0.03% per run and discusses slow erosion. Its analysis code and customer data are not public, and the printed units do not let us safely choose between a relative percentage change and percentage points for a time forecast. Prompt-set drift is itself acknowledged. We do not convert the slope into a fixed prediction.
 
@@ -1125,9 +1125,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: supported with conditions. Checked 2026-11-02.**
 
-**Circulation:** Broadcastwell research findings and shortened retellings of those findings.
+**Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI 10.5281/zenodo.23804758; public data https://zenodo.org/records/23804758. **Location:** Study 1 class-share CSV, target/all/all.
+**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** Study 1 class-share CSV, target/all/all.
 
 **What the source establishes:** Study 1 classifies 3,913 of 4,420 successfully observed target URLs as definitely optimized:88.5%. The eligible target archive contains 5,861 URLs; failures are outside the classification base.
 
@@ -1139,9 +1139,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: overstated. Checked 2026-11-02.**
 
-**Circulation:** Broadcastwell research findings and shortened retellings of those findings.
+**Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI 10.5281/zenodo.23804758; public data https://zenodo.org/records/23804758. **Location:** Study 1 fetch-outcome CSV.
+**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** Study 1 fetch-outcome CSV.
 
 **What the source establishes:** Complete HTML retrieval succeeded for 4,420 of 5,861 target URLs,75.4%. Missing pages do not receive a negative optimization class.
 
@@ -1153,9 +1153,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: overstated. Checked 2026-11-02.**
 
-**Circulation:** Broadcastwell research findings and shortened retellings of those findings.
+**Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI 10.5281/zenodo.23804758; public data https://zenodo.org/records/23804758. **Location:** repeat-disagreement CSV.
+**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** repeat-disagreement CSV.
 
 **What the source establishes:** Naming was mixed in 1,259 of 14,192 complete vendor-question-engine groups,8.9%. Each group has three valid repeats;108 incomplete groups are omitted.
 
@@ -1167,9 +1167,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: overstated. Checked 2026-11-02.**
 
-**Circulation:** Broadcastwell research findings and shortened retellings of those findings.
+**Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI 10.5281/zenodo.23804758; public data https://zenodo.org/records/23804758. **Location:** answer-citation-bases CSV.
+**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** answer-citation-bases CSV.
 
 **What the source establishes:** 39 of 2,095 valid target answers have empty citation arrays,1.9%. Missing arrays remain in the answer denominator and contribute no citation entry.
 
@@ -1181,9 +1181,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: overstated. Checked 2026-11-02.**
 
-**Circulation:** Broadcastwell research findings and shortened retellings of those findings.
+**Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI 10.5281/zenodo.23804758; public data https://zenodo.org/records/23804758. **Location:** citation-concentration CSV.
+**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** citation-concentration CSV.
 
 **What the source establishes:** The leading ten exact hosts supply 3,192 of 18,893 target citation entries,16.9%. This records source occurrence, not a measurement of trust or source accuracy.
 
@@ -1195,9 +1195,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: overstated. Checked 2026-11-02.**
 
-**Circulation:** Broadcastwell research findings and shortened retellings of those findings.
+**Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI 10.5281/zenodo.23804758; public data https://zenodo.org/records/23804758. **Location:** vendor-pair-summary CSV.
+**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** vendor-pair-summary CSV.
 
 **What the source establishes:** Of 8,085 named vendor-answer pairs,2,608 have a qualifying own-domain citation,32.3%. A third-party reference does not count as the vendor’s own site.
 
@@ -1209,9 +1209,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: overstated. Checked 2026-11-02.**
 
-**Circulation:** Broadcastwell research findings and shortened retellings of those findings.
+**Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI 10.5281/zenodo.23804758; public data https://zenodo.org/records/23804758. **Location:** review-platform-occurrences CSV.
+**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** review-platform-occurrences CSV.
 
 **What the source establishes:** The exact host g 2.com appears in 580 of 18,893 target citation entries,3.1%. The base is citation entries, not 2,095 answers or unique readers.
 
@@ -1223,9 +1223,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: overstated. Checked 2026-11-02.**
 
-**Circulation:** Broadcastwell research findings and shortened retellings of those findings.
+**Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI 10.5281/zenodo.23804758; public data https://zenodo.org/records/23804758. **Location:** Frozen and post-audit class-share CSVs.
+**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** Frozen and post-audit class-share CSVs.
 
 **What the source establishes:** The frozen class contains 1,663 of 18,893 target entries,8.8%. The dated post-audit sensitivity has 1,706,9.0%, after five host-role corrections. The original result remains published beside the correction.
 
@@ -1237,9 +1237,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: overstated. Checked 2026-11-02.**
 
-**Circulation:** Broadcastwell research findings and shortened retellings of those findings.
+**Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI 10.5281/zenodo.23804758; public data https://zenodo.org/records/23804758. **Location:** ai-crawler-log.csv.
+**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** ai-crawler-log.csv.
 
 **What the source establishes:** The initial 30 October 2026 window has zero declared AI-token matches among 83 requests after excluding one own check; the descriptive Wilson 95% interval is 0.0% to 4.4%. It is a short partial-window request log, not an engine-use census.
 
@@ -1251,9 +1251,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: overstated. Checked 2026-11-02.**
 
-**Circulation:** Broadcastwell research findings and shortened retellings of those findings.
+**Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI 10.5281/zenodo.23804758; public data https://zenodo.org/records/23804758. **Location:** Version DOI 10.5281/zenodo.22907695; release README.
+**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** Version DOI10.5281/zenodo.22907695; release README.
 
 **What the source establishes:** The archive contains 2,100 target attempts and 150 control attempts. Five target failures leave 2,095 eligible target answers. Controls and failed outcomes cannot be silently folded into a target-answer rate.
 
@@ -1265,9 +1265,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: overstated. Checked 2026-11-02.**
 
-**Circulation:** Broadcastwell research findings and shortened retellings of those findings.
+**Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI 10.5281/zenodo.23804758; public data https://zenodo.org/records/23804758. **Location:** Index release citation and historical archive.
+**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** Index release citation and historical archive.
 
 **What the source establishes:** August supplies historical aggregate observations. No retained attempt rows are available in the new clean format; that is an availability boundary, not a zero-observation result.
 
@@ -1279,9 +1279,9 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Verdict: overstated. Checked 2026-11-02.**
 
-**Circulation:** Broadcastwell research findings and shortened retellings of those findings.
+**Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Lewandowski, Sünkler and Yagci (2021), WebSci, DOI 10.1145/3447535.3462479. **Location:** Lewandowski et al. (2021), section 5, PDF page 7, printed page 18; DOI 10.1145/3447535.3462479.
+**Primary source:** Lewandowski, Sünkler and Yagci (2021), WebSci, DOI<https://doi.org/10.1145/3447535.3462479>. **Location:** Lewandowski et al. (2021), section 5, PDF page 7, printed page 18; DOI 10.1145/3447535.3462479.
 
 **What the source establishes:** The paper reports 27% of its 1,974 Wikipedia results at the first position. The denominator is Wikipedia results, not every first-position slot.
 
@@ -1309,7 +1309,7 @@ This page belongs to [evidence](../evidence/graded-sources/). Read [unverified n
 
 The author, venue or publication record, exact location and verification limit for each source are printed beside its entry and preserved in both downloadable files. The source report is [AI search visibility: source evidence and two registered analyses](https://doi.org/10.5281/zenodo.23804758), November 2, 2026. Its underlying [September release](https://doi.org/10.5281/zenodo.22907695) remains separately versioned.
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "@id": "https://docs.broadcastwell.com/research/claims/#dataset", "name": "GEO Claim Registry", "description": "83 dated source checks, including unresolved origins; checked2026-11-02.", "url": "https://docs.broadcastwell.com/research/claims/", "dateModified": "2026-11-02", "license": "https://creativecommons.org/licenses/by/4.0/", "creator": {"@type": "Organization", "name": "Broadcastwell LLC", "url": "https://broadcastwell.com/company-facts"}, "distribution": [{"@type": "DataDownload", "contentUrl": "https://docs.broadcastwell.com/research/data/claims.csv", "encodingFormat": "text/csv"}, {"@type": "DataDownload", "contentUrl": "https://docs.broadcastwell.com/research/data/claims.json", "encodingFormat": "application/json"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "@id": "https://docs.broadcastwell.com/research/claims/#dataset", "name": "GEO Claim Registry", "description": "83 dated source checks, including unresolved origins; checked2026-11-02.", "url": "https://docs.broadcastwell.com/research/claims/", "dateModified": "2026-11-02T21:56:24Z", "license": "https://creativecommons.org/licenses/by/4.0/", "creator": {"@type": "Organization", "name": "Broadcastwell LLC", "url": "https://broadcastwell.com/company-facts"}, "distribution": [{"@type": "DataDownload", "contentUrl": "https://docs.broadcastwell.com/research/data/claims.csv", "encodingFormat": "text/csv"}, {"@type": "DataDownload", "contentUrl": "https://docs.broadcastwell.com/research/data/claims.json", "encodingFormat": "application/json"}]}</script>
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What does an unverifiable verdict mean?", "acceptedAnswer": {"@type": "Answer", "text": "The original, denominator or calculation needed for the claim is not available or resolved."}}, {"@type": "Question", "name": "Does a rejected claim prove author intent?", "acceptedAnswer": {"@type": "Answer", "text": "No. A source or inference defect does not by itself establish an author’s intent."}}]}</script>
 

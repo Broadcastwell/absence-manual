@@ -5,14 +5,14 @@ page_class: research
 research_id: 52
 research_group: evidence
 lead: Vikram Patel
-published: '2026-11-02T21:44:06Z'
-updated: '2026-11-02T21:44:06Z'
+published: '2026-11-02T21:56:24Z'
+updated: '2026-11-02T21:56:24Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/academic-access/
 sources_verified: true
 schema_type: Article
-date_published: '2026-11-02T21:44:06Z'
-date_modified: '2026-11-02T21:44:06Z'
+date_published: '2026-11-02T21:56:24Z'
+date_modified: '2026-11-02T21:56:24Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
