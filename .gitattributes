@@ -1,0 +1,2 @@
+# Research file hashes identify the released bytes, including line endings.
+docs/research/data/*.csv -text

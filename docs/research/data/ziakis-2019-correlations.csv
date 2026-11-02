@@ -1,0 +1,22 @@
+factor,hotel_athens_rho,email_marketing_rho,casual_shoes_rho,reported_average_rho
+Keyword in title tag,0.0511,0.0,0.2456,0.0989
+Keyword in H1/H2/H3 tag,-0.5404,-0.2359,0.2107,-0.1885
+Keyword density,-0.0677,0.3049,-0.2364,0.0003
+Keyword in URL,-0.589,-0.1362,-0.2443,-0.3232
+Keyword in meta description tag,-0.0323,-0.0691,0.1809,0.0265
+Alt text,0.227,-0.1745,0.1237,0.0587
+Title length,0.0631,-0.3293,0.0,-0.0887
+URL length,0.4373,0.4908,-0.2716,0.2188
+Text to code ratio,-0.0094,-0.2253,0.0619,-0.0576
+Text length,-0.4582,-0.233,-0.1727,-0.288
+Quantity of backlinks,-0.6771,-0.2914,0.0686,-0.3
+404 page,0.1745,0.0,0.2474,0.1406
+SSL certificate,-0.3928,-0.3093,-0.3093,-0.3371
+Sitemap XML,-0.126,0.227,0.0,0.0337
+Number of site pages,-0.5652,0.0229,-0.1659,-0.2361
+Domain age,-0.4779,-0.113,-0.2535,-0.2815
+Responsive layout,0.2474,0.0908,0.0,0.1127
+W3C validation,0.3712,0.0619,-0.3712,0.0206
+Bounce rate,-0.4942,-0.0092,0.1605,-0.1143
+Time on site,-0.5043,-0.0092,0.3499,-0.0545
+Loading time,-0.6444,0.4415,0.2623,0.0198

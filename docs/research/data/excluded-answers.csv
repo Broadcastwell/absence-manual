@@ -1,0 +1,6 @@
+answer_id,scope,engine,category,question_id,repeat,captured_at,reason,quarantined_array_entries
+dental-practice-management|q2|Google AI Overviews|2,target,Google AI Overviews,dental-practice-management,q2,2,2026-09-22T20:39:39.094Z,no AI Overview returned for this query,0
+hotel-property-management|q10|Google AI Overviews|1,target,Google AI Overviews,hotel-property-management,q10,1,2026-09-22T23:23:54.699Z,no AI Overview returned for this query,0
+residential-property-management|q7|Google AI Overviews|3,target,Google AI Overviews,residential-property-management,q7,3,2026-09-22T23:42:00.701Z,no AI Overview returned for this query,0
+residential-property-management|q9|Google AI Overviews|1,target,Google AI Overviews,residential-property-management,q9,1,2026-09-22T23:42:00.701Z,no AI Overview returned for this query,0
+veterinary-practice-management|q2|Google AI Overviews|2,target,Google AI Overviews,veterinary-practice-management,q2,2,2026-09-22T23:51:35.547Z,We couldn't get valid results for this search. Please try again later.,0

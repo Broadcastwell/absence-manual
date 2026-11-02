@@ -1,0 +1,5 @@
+variant,scope,engine,category,rank,host,citation_occurrences,all_array_entries_base,share_pct,wilson_low_pct,wilson_high_pct,source_class,ambiguity
+all array entries,target,all,all,1,g2.com,580,18893,3.0699,2.8333,3.3256,review platform,false
+all array entries,target,all,all,2,capterra.com,478,18893,2.53,2.3156,2.7638,review platform,false
+all array entries,target,all,all,6,softwareadvice.com,310,18893,1.6408,1.4693,1.832,review platform,false
+all array entries,target,all,all,18,getapp.com,89,18893,0.4711,0.383,0.5793,review platform,false

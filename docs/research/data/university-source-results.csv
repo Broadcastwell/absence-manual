@@ -1,0 +1,101 @@
+institution,arwu_rating,arwu_rank,quality_rating,seo_rating,overall_rating,quality_rank,seo_rank,overall_rank
+Harvard University,100,1,80.66519,88.45833,84.56176,21,14,10
+Stanford University,75.1,2,78.92483,87.70833,83.31658,35,18,17
+University of Cambridge,72.3,3,79.51402,86.4878,83.00091,30,26,20
+Massachusetts Institute of Technology (MIT),69,4,79.39055,81.95833,80.67444,31,63,36
+"University of California, Berkeley",67.9,5,80.22529,83.16667,81.69598,24,57,34
+Princeton University,60,6,79.59134,84.04651,81.81893,28,45,32
+University of Oxford,59.7,7,80.53369,84.7907,82.66219,23,36,21
+Columbia University,59.1,8,68.12208,80.2439,74.18299,71,75,72
+California Institute of Technology,58.6,9,48.26167,79.4,63.83084,97,78,95
+University of Chicago,55.1,10,79.18468,89.375,84.27984,33,8,13
+"University of California, Los Angeles",50.8,11,83.89471,85.30233,84.59852,8,32,9
+Yale University,50.8,11,84.12442,86.5,85.31221,6,25,7
+Cornell University,49.8,13,79.58102,84.70833,82.14468,29,39,27
+University of Washington,48.7,14,81.4526,83.41463,82.43362,14,53,23
+University College London,47.9,15,59.03445,84.73171,71.88308,86,38,82
+Johns Hopkins University,47.6,16,75.76418,88.75,82.25709,39,12,26
+University of Pennsylvania,47.3,17,78.92816,80.41667,79.67241,34,74,44
+"University of California, San Diego",47.1,18,66.56845,79.34146,72.95496,78,79,77
+Swiss Federal Institute of Technology Zurich,46.1,19,71.52165,78.80488,75.16326,59,83,68
+"University of California, San Francisco",42.2,20,79.77654,84.33333,82.05494,27,43,29
+University of Michigan-Ann Arbor,42.2,20,71.80143,88.5,80.15072,57,13,40
+Washington University in St. Louis,41.7,22,73.63884,83.72093,78.67989,52,51,51
+Imperial College London,41.6,23,79.87331,82.13889,81.0061,26,62,35
+University of Toronto,41.4,24,81.1659,83.375,82.27045,17,54,25
+The University of Tokyo,40.7,25,57.07874,75.25,66.16437,90,92,92
+University of Copenhagen,40.2,26,70.02909,89.125,79.57705,66,10,45
+University of Wisconsin-Madison,38.8,27,91.09037,81.72093,86.40565,1,64,3
+Duke University,38.6,28,75.35393,84.29167,79.8228,45,44,43
+Northwestern University,38.4,29,83.70532,87.83333,85.76932,10,17,5
+New York University,38.1,30,71.38671,84.04167,77.71419,60,46,60
+The University of Edinburgh,37.4,31,79.89837,79.86047,79.87942,25,77,42
+Kyoto University,37,32,68.44017,76.79167,72.61592,70,89,80
+The University of Manchester,36.9,33,84.33867,83.86047,84.09957,4,47,15
+University of North Carolina at Chapel Hill,36.9,33,71.76653,85.125,78.44577,58,34,53
+Rockefeller University,36.2,35,74.11324,81.70732,77.91028,49,65,57
+University of British Columbia,36.2,35,82.39359,83.86047,83.12703,13,47,18
+University of Paris-Sud (Paris 11),36.1,37,57.28814,85.90476,71.59645,88,29,83
+Karolinska Institute,35.8,38,73.87772,82.45833,78.16803,51,59,55
+University of Colorado at Boulder,35.8,38,74.74008,80.79167,77.76587,48,68,59
+University of Illinois at Urbana-Champaign,35.8,38,75.58805,78.86111,77.22458,41,81,63
+The University of Melbourne,35.7,41,80.56995,88,84.28497,22,16,12
+"University of Minnesota, Twin Cities",35.7,41,75.30289,89.375,82.33894,47,8,24
+Tsinghua University,35.4,43,77.77517,70.85714,74.31616,37,95,71
+Sorbonne University,35.1,44,70.52258,80.63889,75.58073,64,72,66
+The University of Texas at Austin,34.3,45,90.4197,91.70833,91.06402,2,1,1
+"University of Maryland, College Park",33.7,46,80.79778,79.20833,80.00306,19,80,41
+Heidelberg University,33.3,47,81.26868,75.78049,78.52458,16,90,52
+"University of California, Santa Barbara",33.2,48,80.98559,83.30233,82.14396,18,56,28
+UT Southwestern Medical Center,32.8,49,75.34817,82.16667,78.75742,46,60,50
+Utrecht University,32.8,49,70.88583,84.66667,77.77625,62,40,58
+King’s College London,32.4,51,73.19727,90.29167,81.74447,53,3,33
+LMU Munich,32.3,52,67.45843,67.33333,67.39588,74,97,90
+Peking University,32.2,53,40.22406,65.77143,52.99774,100,98,100
+The University of Queensland,31.8,54,80.72153,85.5,83.11077,20,31,19
+University of Southern California,31.7,55,84.23241,87.25,85.74121,5,21,6
+Vanderbilt University,31.7,55,75.47678,80.7561,78.11644,43,70,56
+Technical University of Munich,31.2,57,65.97929,80.88372,73.43151,79,67,76
+University of Geneva,31.1,58,51.5069,78.43902,64.97296,92,85,93
+University of Oslo,31,59,84.03804,87.58333,85.81068,7,19,4
+Aarhus University,30.9,60,69.05767,75.41667,72.23717,69,91,81
+University of Zurich,30.8,61,69.15267,77.95833,73.5555,68,87,75
+Uppsala University,30.5,62,84.94857,78.69767,81.82312,3,84,31
+University of Helsinki,30.3,63,69.59702,88.91667,79.25685,67,11,47
+University of Bristol,29.9,64,83.78909,83.85714,83.82312,9,49,16
+University of Groningen,29.6,65,72.66692,86.21951,79.44322,56,27,46
+Ghent University,29.3,66,81.32844,87.25,84.28922,15,21,11
+National University of Singapore,29.2,67,62.15709,77.33333,69.74521,83,88,86
+Erasmus University Rotterdam,29.1,68,70.66535,86.16667,78.41601,63,28,54
+The University of Texas M. D. Anderson Cancer Center,29.1,68,50.82006,89.54167,70.18086,95,6,84
+University of Bonn,29,70,51.094,78.36585,64.72993,94,86,94
+Zhejiang University,29,70,51.27949,56.29167,53.78558,93,100,99
+Purdue University - West Lafayette,28.5,72,79.22818,90.7619,84.99504,32,2,8
+Monash University,28.4,73,48.97912,87.36585,68.17249,96,20,88
+Nanyang Technological University,28.4,73,54.89109,82.65854,68.77481,91,58,87
+Stockholm University,28.4,73,71.16646,83.79167,77.47907,61,50,62
+Boston University,28.3,76,67.33972,80.79167,74.06569,75,68,73
+The Australian National University,28.3,76,70.44222,78.83333,74.63778,65,82,70
+Swiss Federal Institute of Technology Lausanne,28.1,78,46.86484,80.12195,63.4934,98,76,96
+Ecole Normale Superieure - Paris,28,79,61.13542,73.79167,67.46355,85,93,89
+"University of California, Irvine",27.9,80,77.26197,80.46512,78.86354,38,73,48
+University of Sydney,27.9,80,58.97018,86.79167,72.88092,87,24,78
+Leiden University,27.8,82,83.5397,89.79167,86.66568,11,5,2
+Shanghai Jiao Tong University,27.8,82,57.2365,65.33333,61.28491,89,99,98
+Brown University,27.6,84,75.36521,85.25,80.30761,44,33,38
+KU Leuven,27.4,85,73.99078,89.95833,81.97456,50,4,30
+Technion-Israel Institute of Technology,27.4,85,61.92404,83.36585,72.64495,84,55,79
+Moscow State University,27.3,87,43.09389,80.75,61.92195,99,71,97
+University of Basel,27.3,87,72.87744,81.34884,77.11314,54,66,64
+"University of Pittsburgh, Pittsburgh Campus",27.2,89,65.48906,84.4878,74.98843,80,41,69
+McGill University,27.1,90,67.58718,83.5,75.54359,73,52,67
+McMaster University,27.1,90,68.10455,71.91667,70.01061,72,94,85
+Nagoya University,27.1,90,65.35916,68.97143,67.16529,81,96,91
+"University of California, Davis",27.1,90,67.1261,86.95833,77.04222,76,23,65
+The University of New South Wales,27,94,62.94774,84.45833,73.70304,82,42,74
+Carnegie Mellon University,26.5,95,72.81054,84.75,78.78027,55,37,49
+Rice University,26.5,95,78.90153,89.41667,84.1591,36,7,14
+University of Florida,26.5,95,82.85705,82.16667,82.51186,12,60,22
+Pennsylvania State University - University Park,26.4,98,67.09294,88.25,77.67147,77,15,61
+The University of Western Australia,26.2,99,75.51617,85.56098,80.53857,42,30,37
+The Ohio State University - Columbus,26,100,75.73911,84.83333,80.28622,40,35,39

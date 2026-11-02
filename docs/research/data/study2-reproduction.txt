@@ -1,0 +1,23 @@
+Study 2 public reproduction package
+
+Download the September answer JSONL and release JSON from version DOI
+https://doi.org/10.5281/zenodo.22907695 . Keep their published checksums.
+Download vendor_matching.mjs, reproduce_vendor_pairs.mjs and
+vendor-matching-dictionary.csv into the same directory. The dictionary contains
+only the fields used by the published name/domain definition; administrative
+and intake records are omitted. It represents 286 vendor/category rows.
+
+Run: node reproduce_vendor_pairs.mjs vendor-matching-dictionary.csv
+answers-2026-09.jsonl release-2026-09.json output-directory
+(The command is one line.)
+
+The public projection must reproduce 286 reconciliation rows and 42,792 pair
+observations. All original mention/citation counts and bases must reconcile.
+These files supply the complete, limited public study instrument needed for
+this secondary analysis. Source identities are retained in the manifest.
+
+research-crawler-collection.mjs is the public request-collection instrument,
+including the corrected IPv6 sanitizer. It contains no account identifiers,
+binding configuration, raw visitor strings or private response bodies.
+The historical initial log predates that sanitizer correction. No retained
+visitor-address occurrence has been established by the synthetic counterexample.
