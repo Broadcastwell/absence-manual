@@ -26,3 +26,28 @@ def on_page_content(html, page=None, config=None, files=None):
     # Material wraps tables in scroll regions after rendering. A focusable table
     # lets keyboard users scroll that region without requiring a mouse or script.
     return re.sub(r'<table(?![^>]*\btabindex=)(?=[\s>])', '<table tabindex="0"', html)
+
+# MkDocs loads hook files by location, without guaranteeing a tools package.
+# Import the reviewed sibling directly; preserve the existing content hook above.
+from importlib.util import module_from_spec, spec_from_file_location
+from pathlib import Path
+
+_CHAPTER_MODULE_PATH = Path(__file__).with_name("library_related_chapter_links.py")
+_CHAPTER_SPEC = spec_from_file_location("_bw_finite_related_chapter_links", _CHAPTER_MODULE_PATH)
+if _CHAPTER_SPEC is None or _CHAPTER_SPEC.loader is None:
+    raise RuntimeError("Cannot load the finite Related chapter hook")
+_CHAPTER_MODULE = module_from_spec(_CHAPTER_SPEC)
+_CHAPTER_SPEC.loader.exec_module(_CHAPTER_MODULE)
+_CHAPTER_LINKS = None
+
+
+def on_pre_build(config):
+    global _CHAPTER_LINKS
+    _CHAPTER_LINKS = _CHAPTER_MODULE.FiniteChapterLinks(
+        config["docs_dir"], Path(__file__).with_name("library_related_chapters.json"))
+
+
+def on_page_markdown(markdown, page, config=None, files=None):
+    if _CHAPTER_LINKS is None:
+        raise ValueError("Finite Related map must validate before rendering pages")
+    return _CHAPTER_LINKS.transform(page.file.src_uri, markdown)
