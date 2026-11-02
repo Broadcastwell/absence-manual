@@ -62,8 +62,6 @@ Quoted paragraphs reproduce the registered text unchanged. Unquoted section intr
 
 ### Units and inclusion
 
-The next section defines eligible units.
-
 > Include every explicit citation URL in the archived answers. Retain engine, category, question, repeat, capture date and citation order for every occurrence. Deduplicate the analysis units by exact URL, preserving scheme, path, query and fragment in the unit identifier. Preserve a separate mapping to the requested resource URL. A URL contributes once to each engine or category stratum in which it occurs. Report target and control questions separately as well as the combined archive; do not treat a missing answer or an answer without a citation as a URL with no optimization. Retain excluded answer rows in a separate audit, but omit their citation URLs from the primary eligible-answer analysis unless the same URL also appears in an eligible answer. Give any all-record sensitivity analysis a separate label. Preserve extraction exclusions and reasons. Report any archival mismatch before continuing.
 
 ### Collection
