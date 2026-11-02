@@ -2,7 +2,7 @@
 page_class: page
 schema_type: Article
 date_published: '2026-10-09T20:07:00Z'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-02T19:43:53+00:00'
 title: 'Study 6: Wrong About You'
 description: What five AI engines state about 70 software vendors, classed against
   the vendors' own pages. Absence Index release 2026-09 answers, DOI 10.5281/zenodo.23270124.
@@ -191,6 +191,6 @@ Cite as: Broadcastwell (2026). Wrong About You: what five AI engines state about
 
 [Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)
 
-Broadcastwell ran this study and sells the Record Check for one company, $490. [Get the Record Check](https://broadcastwell.com/buy/record-check). The study data, classifications and code are public. [Correction Desk](https://app.broadcastwell.com/correction-desk).
+We ran this study and sell Answer Repair. [Fix one answer, $490](https://broadcastwell.com/answer-repair). The study data, classifications and code are public. [Correction Desk](https://app.broadcastwell.com/correction-desk).
 
 [Download the PDF](../assets/research/study6/Study6_Wrong_About_You_2026-10.pdf)
