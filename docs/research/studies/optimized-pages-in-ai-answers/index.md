@@ -7,13 +7,13 @@ research_id: 43
 research_group: study
 lead: Ananya Rao
 published: '2026-10-30T08:50:01Z'
-updated: '2026-10-30T08:50:01Z'
+updated: '2026-11-02T20:46:21Z'
 next_review: '2027-01-30T08:50:01Z'
 canonical: https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T08:50:01Z'
-date_modified: '2026-10-30T08:50:01Z'
+date_modified: '2026-11-02T20:46:21Z'
 is_based_on: https://doi.org/10.17605/OSF.IO/DVYFU
 research_dataset:
   name: Observed optimization signals on archived AI-cited pages
@@ -26,6 +26,8 @@ research_dataset:
   - name: Reproduction manifest
     contentUrl: https://docs.broadcastwell.com/research/data/study1-file-manifest.csv
     encodingFormat: text/csv
+research_report_doi: https://doi.org/10.5281/zenodo.23804758
+research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
 ---
 
 # Which optimization signals appear on AI-cited pages?
@@ -210,7 +212,15 @@ These are measurements of later captured signatures on previously cited pages. W
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google’s results: A multi-dimensional approach for detecting SEO. WebSci 2021 (pp. 12 to 20). ACM. Figure 1, printed p. 17 (PDF p. 6); feature and classification method, §§3 to 4. doi:10.1145/3447535.3462479 . Accessible author original: https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf Verified 30 October 2026.
 
+## Index release citation
+
+Broadcastwell (2026). *The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers.* Broadcastwell LLC. [Version DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695). [Concept DOI for all releases 10.5281/zenodo.22150321](https://doi.org/10.5281/zenodo.22150321). CC BY 4.0.
+
+The September archive contains 2,100 target attempts, including five failed outcomes, and 150 control attempts. Its eligible-answer analyses state their exclusions separately. The August archive supplies historical aggregates; retained attempt rows are unavailable. These releases do not establish a comparable transition.
+
 ## Cite this page
+
+Report version DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). Concept DOI: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
 Broadcastwell research team. (2026, October 30). *Which optimization signals appear on AI-cited pages?*. Broadcastwell. https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/ Published 30 October 2026; updated 30 October 2026.
 

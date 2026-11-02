@@ -7,13 +7,13 @@ research_id: 45
 research_group: study
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
+updated: '2026-11-02T20:46:21Z'
 next_review: '2027-01-30T03:55:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/does-absence-persist/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T20:46:21Z'
 is_based_on: https://doi.org/10.17605/OSF.IO/MKJ9V
 research_dataset:
   name: Registered protocol for persistence of vendor presence
@@ -23,6 +23,8 @@ research_dataset:
   - name: Dated historical standings
     contentUrl: https://docs.broadcastwell.com/research/data/dated-standings.csv
     encodingFormat: text/csv
+research_report_doi: https://doi.org/10.5281/zenodo.23804758
+research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
 ---
 
 # Does low presence persist? The registered study is waiting for comparable releases
@@ -146,7 +148,15 @@ We have no measurement on this point: release-to-release absence persistence und
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
 
+## Index release citation
+
+Broadcastwell (2026). *The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers.* Broadcastwell LLC. [Version DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695). [Concept DOI for all releases 10.5281/zenodo.22150321](https://doi.org/10.5281/zenodo.22150321). CC BY 4.0.
+
+The September archive contains 2,100 target attempts, including five failed outcomes, and 150 control attempts. Its eligible-answer analyses state their exclusions separately. The August archive supplies historical aggregates; retained attempt rows are unavailable. These releases do not establish a comparable transition.
+
 ## Cite this page
+
+Report version DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). Concept DOI: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
 Broadcastwell research team. (2026, October 30). *Does low presence persist? The registered study is waiting for comparable releases*. Broadcastwell. https://docs.broadcastwell.com/research/studies/does-absence-persist/ Published 30 October 2026; updated 30 October 2026.
 

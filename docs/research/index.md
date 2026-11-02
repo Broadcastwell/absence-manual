@@ -7,14 +7,16 @@ research_id: 1
 research_group: hub
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
+updated: '2026-11-02T20:46:21Z'
 next_review: '2027-01-30T03:55:00Z'
 canonical: https://docs.broadcastwell.com/research/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T20:46:21Z'
 is_based_on: https://doi.org/10.1145/3447535.3462479
+research_report_doi: https://doi.org/10.5281/zenodo.23804758
+research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
 ---
 
 # What the research says about search and AI answers
@@ -88,7 +90,15 @@ The September release is a fixed set of captured answers, not a survey of every 
 
 - Broadcastwell. (2026). Supplied search-research collection: 21-document identity inventory [Data set]. Original filenames, PDF page counts and SHA256 identities; duplicate editions retained as physical files, not independent studies. [Collection inventory](https://docs.broadcastwell.com/research/data/source-collection-inventory.csv). Verified 30 October 2026.
 
+## Index release citation
+
+Broadcastwell (2026). *The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers.* Broadcastwell LLC. [Version DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695). [Concept DOI for all releases 10.5281/zenodo.22150321](https://doi.org/10.5281/zenodo.22150321). CC BY 4.0.
+
+The September archive contains 2,100 target attempts, including five failed outcomes, and 150 control attempts. Its eligible-answer analyses state their exclusions separately. The August archive supplies historical aggregates; retained attempt rows are unavailable. These releases do not establish a comparable transition.
+
 ## Cite this page
+
+Report version DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). Concept DOI: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
 Broadcastwell research team. (2026, October 30). *What the research says about search and AI answers*. Broadcastwell. https://docs.broadcastwell.com/research/ Published 30 October 2026; updated 30 October 2026.
 
