@@ -1,0 +1,671 @@
+{
+  "version": 1,
+  "pages": {
+    "answers/agents/can-an-ai-assistant-find-a-software-pricing-page.md": {
+      "canonical_source_sha256": "b69203a601d743a1efc86e5332ea74a0ac4041014be3cdcb4e66fdbd37a5562c",
+      "related_section_sha256": "3b0b7cf6b4215d9b95d45dae772588732478676586ad3725f81d793e095389f6",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on declared task bases and exclusions",
+      "action": "append"
+    },
+    "answers/agents/can-construction-software-integrate-with-chatgpt.md": {
+      "canonical_source_sha256": "6c1a47cbce8b36465f1a46a2f9f6b57277986808df12eba3ec08dee272d356a0",
+      "related_section_sha256": "c106916af3fe822386c491c244964149ba051b436bd00cede7633c755067f50b",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on evidence scope and scoring",
+      "action": "append"
+    },
+    "answers/agents/can-crm-software-integrate-with-chatgpt.md": {
+      "canonical_source_sha256": "7cc840085390efa64535b5658ebf6b923a933d392fe316819aa8bb1e8ed8ddb8",
+      "related_section_sha256": "db74cb5699ce11eff59c5f18270926222ea9013d21c793ced0c48fc6b425c50a",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on readable measurement evidence",
+      "action": "append"
+    },
+    "answers/agents/can-dealership-software-integrate-with-chatgpt.md": {
+      "canonical_source_sha256": "0f6b2abdb2e7c81fb480e433f378ce29bd68f3c4af69b9ad14c88bc2a780fd3d",
+      "related_section_sha256": "cc48bff549852f336c6d5726f1bdb6caaba9ef4ef84eff316432791004f61894",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on a measurement's stated scope",
+      "action": "append"
+    },
+    "answers/agents/can-dental-practice-software-integrate-with-chatgpt.md": {
+      "canonical_source_sha256": "fd2bcea69e2d170cdadc0f9567925213881e5a76f8328c01b4188a6d2461b4c2",
+      "related_section_sha256": "2e4cdf1b1f604414ca0e22d07539043774c30c30cbef78d4187f9f62d7787113",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on separating evidence from a capability claim",
+      "action": "append"
+    },
+    "answers/agents/can-field-service-software-integrate-with-chatgpt.md": {
+      "canonical_source_sha256": "d6ca778759add51fbe931d4b4f8b535e957629146a44840da9074def23729f04",
+      "related_section_sha256": "4ff35469937beb384c6444ca2412c0655b98cba8ee4c14a37a8417708aecc075",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on defining the observed operation",
+      "action": "append"
+    },
+    "answers/agents/can-hotel-software-integrate-with-chatgpt.md": {
+      "canonical_source_sha256": "fe12705cce74ec98db95cc40f825a74c367f2de9cfb53ebe0dca311368c16145",
+      "related_section_sha256": "2b4ad21a382da1854364d2aff94006a2b6edae0701d7f59e2b9b20b68810d334",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on measured scope and raw records",
+      "action": "append"
+    },
+    "answers/agents/can-veterinary-software-integrate-with-chatgpt.md": {
+      "canonical_source_sha256": "636cba3f91d316d4bcc57a51d603ef17c6cfbe3b5c831dd07a2d2c38ed28ae44",
+      "related_section_sha256": "b6e52161f2dc64e345637349c3919b42192df903b14125312164b7d406e058f2",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on checking the scope of a result",
+      "action": "replace",
+      "replace_href": "https://developers.ezyvet.com/",
+      "replace_label": "ezyVet’s API documentation"
+    },
+    "answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md": {
+      "canonical_source_sha256": "a68df40d124a06e7d69946fec4e11297ff4c2796d242ba190c00344c4e1b890a",
+      "related_section_sha256": "9e9dc88e53a56b013b609a430758fcf8ec2d5696fa707b27b5dba280f720ccd3",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "Selection and purchase are different events",
+      "action": "append"
+    },
+    "answers/agents/does-finding-a-page-prove-an-ai-assistant-understood-it.md": {
+      "canonical_source_sha256": "778b2889ee7f593715b75ddf459b8ce72cdfef369a3bd05a2fd5475cc460a24d",
+      "related_section_sha256": "24d3c3a2444878b45805655984bc837c19d9e40fd6075f73f455c54b1b63d262",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on an explicit correctness rule",
+      "action": "append"
+    },
+    "answers/agents/how-can-a-software-website-make-its-public-pricing-path-clearer.md": {
+      "canonical_source_sha256": "18a8abd7a10a2b9a64050d3a833e6ca2a1359f79392358ebede4f86290d08d54",
+      "related_section_sha256": "b074c64a2413ee49b58af939a45679925921a30a07e0314c3cc4cb729593d283",
+      "chapter_path": "category-door.md",
+      "label": "The Manual on reachable public evidence",
+      "action": "append"
+    },
+    "answers/agents/how-does-an-ai-connector-differ-from-browsing-a-website.md": {
+      "canonical_source_sha256": "1889a57d1b9ac692130c62273d807868a9483e32150939429291b60db01730fc",
+      "related_section_sha256": "24989dedfbd85c57771f29bc854bbd6b429124a9b248522360b8909e0317d901",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on naming the instrument and its evidence",
+      "action": "append"
+    },
+    "answers/agents/how-far-can-an-ai-assistant-get-along-a-software-demo-path.md": {
+      "canonical_source_sha256": "4754e575464e9cdf09e5914e4f5a00eb65a79d1c491db08f915d353c7742519c",
+      "related_section_sha256": "60f4d5e7ff6206e7163c91eb60a1471a73d189e2a74b2189483df4db1384dfbd",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on counts and stopping conditions",
+      "action": "append"
+    },
+    "answers/agents/is-agent-to-agent-commerce-a-viable-business-opportunity.md": {
+      "canonical_source_sha256": "7bb74ae567cd5a1c59d71aafc5095a192273d76c1736339994321bc89e6d9664",
+      "related_section_sha256": "d69cec997687a0b8874fbd53de9c9d079e6ad59c979e5759e15758bd2a6720ec",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on selection versus buying",
+      "action": "append"
+    },
+    "answers/agents/what-can-an-ai-assistant-learn-from-a-software-website.md": {
+      "canonical_source_sha256": "6a19e07a9b7348b945726acd934b09a4f5b22fd407f4440d3e29d864c47fc850",
+      "related_section_sha256": "e0e5b6df31a285f94ac46ba2887851ba8516ad620b0764c8f0c5a2ca46cc35e7",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on a checkable scoring rule",
+      "action": "append"
+    },
+    "answers/buying/how-does-seer-interactive-compare-to-other-geo-agencies-when-it-comes.md": {
+      "canonical_source_sha256": "faa32433497cb6cdfd11296c3c9305eca31dc37a454dd8cf4cfde36195c2d12d",
+      "related_section_sha256": "fd03194b71e44eba3529e90a07d8a67424f89d752fdaa43da1c0519b658323bb",
+      "chapter_path": "how-to-buy-geo.md",
+      "label": "The Manual's questions for agency proposals",
+      "action": "append"
+    },
+    "answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence.md": {
+      "canonical_source_sha256": "1b2ec8a98d5d1b437d0d3fdd5e55c25aac1b9d2136ab13da38df374dec740413",
+      "related_section_sha256": "a410fbfc6b747adde8ba913db07a9aa7b38985f1d227ee54ae5fb67327a2e82c",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on declared evidence and exclusions",
+      "action": "append"
+    },
+    "answers/buying/is-blobic-a-good-white-label-geo-provider.md": {
+      "canonical_source_sha256": "c94ff209e97b904bb043d008571ffd3ac75f5ef4dcbce0c9842fa6d6e7a299ac",
+      "related_section_sha256": "ca8d46730c91910dc62d7a192cbc64308eb103667462e8a1e52e93c3910b962d",
+      "chapter_path": "how-to-buy-geo.md",
+      "label": "The Manual on buying a checkable service",
+      "action": "append"
+    },
+    "answers/buying/we-re-looking-for-an-ai-visibility-agency-that-can-get-our-brand-into.md": {
+      "canonical_source_sha256": "39db8ccfb19c3825b39d20e7ee43e2b73abce80fec89f4bd09f56ebafae37a3b",
+      "related_section_sha256": "e23cf8433f416511651269e54ae17a3f4c911ea9b0d6a7d49fb85706c5cbb581",
+      "chapter_path": "how-long-it-takes.md",
+      "label": "The Manual on delivery dates and time to effect",
+      "action": "replace",
+      "replace_href": "https://broadcastwell.com/best-geo-agencies-lists-audited",
+      "replace_label": "The dated publication-list audit"
+    },
+    "answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include.md": {
+      "canonical_source_sha256": "bd718a7d7cd0caf6ad252b9414f49a5c68e8589d2579e772dffdd402d70ab3b3",
+      "related_section_sha256": "b1b68bc1e036a27bd657c3fcaaee020cb132bf2fd0aebef72fa91d86f86ab079",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on a reproducible evidence record",
+      "action": "append"
+    },
+    "answers/buying/which-aeo-agencies-should-a-buyer-compare-in-the-united-states.md": {
+      "canonical_source_sha256": "c900a562a8204470cd103eea1765f42db828559c04fc3632920e0c4fb8f826e6",
+      "related_section_sha256": "1d0fef194ba0a8bf63dcbc59d5f33bd547ba8e47cdb9c44dbaecd2f1ee749730",
+      "chapter_path": "how-to-buy-geo.md",
+      "label": "The Manual on comparing agency evidence",
+      "action": "replace",
+      "replace_href": "https://broadcastwell.com/best-geo-agencies#scorecard",
+      "replace_label": "The published agency-audit criteria"
+    },
+    "answers/changes/how-should-i-verify-a-fixed-version-quoted-by-an-ai-answer.md": {
+      "canonical_source_sha256": "24926f982ac1a9c5073f08d837145096e946e1666687ece45a33133d373f28ab",
+      "related_section_sha256": "aef6a10844ea03debadc5b772a7cfbce6d21c7a2b3e5b63d1fc8d00cd6afeace",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on source scope and reproducibility",
+      "action": "append"
+    },
+    "answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes.md": {
+      "canonical_source_sha256": "4b589021a26e1b1e5b24e76ff9e83e66f7fbf98eaa829d5fee343482b729c61c",
+      "related_section_sha256": "af4b06e11a7604e7e34aa55c685dba4f59c0936ea7172b94bc4d4a1fcc28d2c0",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on a claim's recorded state",
+      "action": "append"
+    },
+    "answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain.md": {
+      "canonical_source_sha256": "f1574a26f70d64fa31abffd9d07793bdc62634e9958446455c02625acaf7f542",
+      "related_section_sha256": "d5c60d724aa1edeb5d3b84dcbb7792a33f2c6a21d68ebfc2752e1ec62c39bce2",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on visible uncertainty and source records",
+      "action": "append"
+    },
+    "answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md": {
+      "canonical_source_sha256": "88c019d27982c6869586069afb26a1c2de09e18740721dd5153b24404bd52362",
+      "related_section_sha256": "43997ed5b0d26b724cd95a68929b237a823e615992f05c6174fe2e4427e256d4",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on exact claims and scoring rules",
+      "action": "append"
+    },
+    "answers/changes/which-ai-visibility-tools-monitor-factual-accuracy.md": {
+      "canonical_source_sha256": "b8fa56a0cbf585a9318fc4fe41fb3989cd414d14d03690cd30041e19b5de18a7",
+      "related_section_sha256": "02ad036c7479d84736c03972d15fb36ea71a18414440dd171384d392180b5a2a",
+      "chapter_path": "how-to-buy-geo.md",
+      "label": "The Manual on evaluating a tool's evidence",
+      "action": "append"
+    },
+    "answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md": {
+      "canonical_source_sha256": "816247b6282a1119d911d493c62db4e66757f1e821500b3854f5639698b03018",
+      "related_section_sha256": "663c6f2bff559050ca4b9b62c30b488904e23644e035ac56f3921fb54b3f000d",
+      "chapter_path": "who-gets-cited.md",
+      "label": "The Manual on search sources and crawler scope",
+      "action": "append"
+    },
+    "answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite.md": {
+      "canonical_source_sha256": "387671513da284faae63c192bb21e60ded8427d9c635565258b36fb7570563cf",
+      "related_section_sha256": "a9647f006d34fc95c46ea2c4564c5c9fac2bf722edf7dedfb429c88db484c32e",
+      "chapter_path": "who-gets-cited.md",
+      "label": "The Manual on observed source selection",
+      "action": "append"
+    },
+    "answers/chatgpt/which-crm-software-does-chatgpt-recommend.md": {
+      "canonical_source_sha256": "ac50f4bff070f762b43ca716fca276341370635cdaa616d014461a4e8e6b39db",
+      "related_section_sha256": "36dcd83c252becc9424542493c3ae5c19ace3dbe61b8c5781a8eef2e10eed4a9",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on interpreting an observed shortlist",
+      "action": "append"
+    },
+    "answers/chatgpt/which-dental-software-does-chatgpt-recommend.md": {
+      "canonical_source_sha256": "6878473c5818031f1688d49912dddf7496cc52f08db41f76893ec920fdce686a",
+      "related_section_sha256": "1dd0c74751aecd869ef82fd47c94a55c9fde04428f24d576f6c4b7753c112db3",
+      "chapter_path": "engine-divergence.md",
+      "label": "The Manual on keeping engine results separate",
+      "action": "append"
+    },
+    "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md": {
+      "canonical_source_sha256": "a4c8a567d0185617acd1d7126818a7aa0b97dff9ab1eddbeab3852d0448b68f9",
+      "related_section_sha256": "91b5a6dae64dfb8804b649a7882e0b927007e764bc70b106bcdb76be00f0c4a8",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on the question behind a shortlist",
+      "action": "append"
+    },
+    "answers/chatgpt/which-hotel-software-does-chatgpt-recommend.md": {
+      "canonical_source_sha256": "6541dff2c7b513563ba43b865e1b5d4c56d8c643feaa88037ac60777eb7396c1",
+      "related_section_sha256": "0c02d285efb1d405c8a4a61bdb2215c069586d828ec8b5537fd1ab77d622d3db",
+      "chapter_path": "engine-divergence.md",
+      "label": "The Manual on engine-specific observations",
+      "action": "append"
+    },
+    "answers/chatgpt/which-insurance-agency-software-does-chatgpt-recommend.md": {
+      "canonical_source_sha256": "1bf448ef9834da6b7a030f4cf0bf5bdcc661befc78921fbd37ebcfffc86586fb",
+      "related_section_sha256": "29da8b1b2ce61e81e77115d8d88a02f431b257513db2fa9807f4f4f726519eff",
+      "chapter_path": "category-door.md",
+      "label": "The Manual on unambiguous company identity",
+      "action": "append"
+    },
+    "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md": {
+      "canonical_source_sha256": "4e5029b2db0f91270789faef200ce97a00ae4fd8db3f9c07a3d7f6bb36b2b9ae",
+      "related_section_sha256": "43a429c0c5ad71a26e43c74835d1066bfe421e751b54e67afe8f627002027f98",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on selection in a buyer context",
+      "action": "append"
+    },
+    "answers/chatgpt/which-veterinary-software-does-chatgpt-recommend.md": {
+      "canonical_source_sha256": "2d52f047323196c11634fbf65e11f6046ada4d73554326cf8a9cf88a822878bd",
+      "related_section_sha256": "69c3656c5e2e4d60cc99c207e7cbf6fe37af7708491ed90fff6091ff9486832f",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on names versus a product verdict",
+      "action": "append"
+    },
+    "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md": {
+      "canonical_source_sha256": "2633e93eb21db50dbfa957a8a1f58a9eb854c9a907d99340da15ca2cec4bc371",
+      "related_section_sha256": "2ed325a69f893d0f31ea73140ea253b69d9f1afd986b79e272f81a0d598d9705",
+      "chapter_path": "who-gets-cited.md",
+      "label": "The Manual on search retrieval and crawler roles",
+      "action": "append"
+    },
+    "answers/claude/which-construction-software-does-claude-recommend.md": {
+      "canonical_source_sha256": "83ecccb91ecdc1c511669fde80e1830acaf4fbfd094beda90ab98452938b77ac",
+      "related_section_sha256": "eae6f8d7fae47751b07b6ca0d7bb0890cfa764cbc8f2d900fc6871ee2555652a",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on a question-specific shortlist",
+      "action": "append"
+    },
+    "answers/claude/which-crm-software-does-claude-recommend.md": {
+      "canonical_source_sha256": "06f1c1e7b2cac05c25a5b88930a94be4692fc7f29b7cf92cbfd5c1a2edeac94e",
+      "related_section_sha256": "14b5bf505366dd8a5b14df0e481386776059fb6c2a8837db35cddb0283af2177",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on names and the task being answered",
+      "action": "append"
+    },
+    "answers/claude/which-dealership-software-does-claude-recommend.md": {
+      "canonical_source_sha256": "1a24c45e439373de7407e2990d29a0ca9d53fc040aaffcdaeda145c8b56e1ccc",
+      "related_section_sha256": "21b6f7c8cb66d324c3cb815a7d5fc9a9294474db7d6dc0f3eddf0672ad617314",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on context before software ranking",
+      "action": "append"
+    },
+    "answers/claude/which-dental-software-does-claude-recommend.md": {
+      "canonical_source_sha256": "2de66088d41a0bc2aeb1c32680a594761f13da1de2955b5674ad4ae0c4c85a10",
+      "related_section_sha256": "e8d0b27f2bdde91fd49bd3bc880cdfec478f43cbd74430a404266cd99d933c1b",
+      "chapter_path": "category-door.md",
+      "label": "The Manual on resolving the actual product identity",
+      "action": "append"
+    },
+    "answers/claude/which-field-service-software-does-claude-recommend.md": {
+      "canonical_source_sha256": "dd19b1c075f34bf67ce94cc57cbb39acc3d6a8e6a547aa3d91b28f4d257578f9",
+      "related_section_sha256": "5d07e34c6b6aebc131d0379feb4ee44c2b0b12698acaf9c6fdce2d7ce7e9af3a",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on the buyer question behind a name",
+      "action": "append"
+    },
+    "answers/claude/which-hotel-software-does-claude-recommend.md": {
+      "canonical_source_sha256": "ede4900b418184667271dc330eb31d9f33e28d96b6a2440fa436d9b09e63f73d",
+      "related_section_sha256": "9732ac9c67105c6aba78ada497c1a9f7b39c5af7acc95c04e94d136f58765f86",
+      "chapter_path": "comparison-gate.md",
+      "label": "The Manual on a named comparison and its claims",
+      "action": "append"
+    },
+    "answers/claude/which-insurance-agency-software-does-claude-recommend.md": {
+      "canonical_source_sha256": "cb8ac17402f786b0f8b625216c6deb886a94d7df9244692167c251ec362f67c4",
+      "related_section_sha256": "35a6e92a7956af4b0b584e28800448c2cc5bb231908c1ca96ea1a5f81ff1c164",
+      "chapter_path": "category-door.md",
+      "label": "The Manual on product identity and category fit",
+      "action": "append"
+    },
+    "answers/claude/which-loan-origination-software-does-claude-recommend.md": {
+      "canonical_source_sha256": "12b105311b5d28e6e9e49a2eb94a5f50f834a5b860553a41e90b26629d01cab4",
+      "related_section_sha256": "629946d01871ce0e843ead58815600299c55d207b74cbb106f59e9fae674c7d9",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on selection under a lending question",
+      "action": "append"
+    },
+    "answers/fixes/does-a-crawler-request-count-as-a-buyer-visit.md": {
+      "canonical_source_sha256": "51706ff19042e3b2580a78e8f183ff69fa751822b4f147c2c0cd5760c6d3875e",
+      "related_section_sha256": "7abf0a3a7cdb0637ae00c03ffb325ba59ffbcfe75c991bdab8aeacd2fedc51d5",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on selection versus a buying event",
+      "action": "append"
+    },
+    "answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md": {
+      "canonical_source_sha256": "a710678228f230a67e31f3320a7503deb44ab2dd6d2b2d17a819b97786f7dd40",
+      "related_section_sha256": "d459573ab8ea3ba4f61879e122744d6eac06a51bcbbe26833b06859f594328ef",
+      "chapter_path": "who-gets-cited.md",
+      "label": "The Manual on provider-specific access and sources",
+      "action": "append"
+    },
+    "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages.md": {
+      "canonical_source_sha256": "d130c94ef86ffb2b7eeb5c0bde53cbe6177acb78b67dfad6362752353b3af8ab",
+      "related_section_sha256": "6edaeb39a73958713ed43e122f5ecfd4d9436fe5723990c6eb925c2eb0804d33",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on a traceable evidence record",
+      "action": "append"
+    },
+    "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md": {
+      "canonical_source_sha256": "b9f3ed40b02414a0f44d40fe7b7b1e82a1f343ffb6b954da2f82f435afa8dcff",
+      "related_section_sha256": "8293a3fb293a844d4ed882fc65b32b304854bb702d80729baab508f49a3c744f",
+      "chapter_path": "who-gets-cited.md",
+      "label": "The Manual on search and training boundaries",
+      "action": "append"
+    },
+    "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations.md": {
+      "canonical_source_sha256": "31362c1f5bc4d6635fecd40dcf62818f90ab4ff4f034b9f66c8a4ea0a26b9f07",
+      "related_section_sha256": "601efe41360895b1eb20e7f4e4eb498659569fcc37e5c048c4fa283df2d11dd5",
+      "chapter_path": "comparison-gate.md",
+      "label": "The Manual on a self-contained scoped capability claim",
+      "action": "append"
+    },
+    "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction.md": {
+      "canonical_source_sha256": "25fdd95ee67cd079feab8541e4054b91d71a20759bb3cbe81ea55cacfaf85d64",
+      "related_section_sha256": "0b5faa3975648c4d908163d9a75451949dbffddb9a8b00c37d1aba46d785870c",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on checkable claims and unresolved evidence",
+      "action": "append"
+    },
+    "answers/fixes/how-should-i-check-an-llms-txt-file.md": {
+      "canonical_source_sha256": "bc0add69d08349c314e64897059cf43877b61610fd9cde7115921d743fceefa1",
+      "related_section_sha256": "2f0147789fd4724545c6bc627ba514087f286e03a2a82ab14e60c77dac22981a",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on separate observed states",
+      "action": "append"
+    },
+    "answers/fixes/how-should-i-structure-headings-for-ai-crawlers.md": {
+      "canonical_source_sha256": "2b25edf410e9a9c34ded920e8b87bcd9f577f0c6dcc37696fffedf9aa64e9564",
+      "related_section_sha256": "8383e88d25f8b42d1748c3361dc4df79fb19c66e097d8d5d9887067d1bbe806b",
+      "chapter_path": "comparison-gate.md",
+      "label": "The Manual on precise claims and their qualifications",
+      "action": "append"
+    },
+    "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md": {
+      "canonical_source_sha256": "e1d30e75db7b16afbfcfc8ae0a2d541b3037cbf41692d657fdb3d079d4902dd5",
+      "related_section_sha256": "fc71383b26d78cc53c844e765d31f1da6d44d9193ab32acc7a67d707f29a1b35",
+      "chapter_path": "who-gets-cited.md",
+      "label": "The Manual on retrieval access and provider boundaries",
+      "action": "append"
+    },
+    "answers/fixes/how-should-teams-handle-seo-and-geo-in-day-to-day-work.md": {
+      "canonical_source_sha256": "9e387c7d1d33f30ed8d737eb321010f29f5db9acae5f78467d934674f4a64b3f",
+      "related_section_sha256": "dbbe9d5a1fa7b5b5b9cf6e4e012d77962b3fea2a1c056f596b31869cbf9e8a8a",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on source-backed classifications and records",
+      "action": "append"
+    },
+    "answers/fixes/is-llms-txt-actually-used.md": {
+      "canonical_source_sha256": "2b7cac22bb8a249f98a1c612243d9caa40967149cc2f8b8285824b1b8dfc35d1",
+      "related_section_sha256": "21fd86e834692797795e86e858b70a210eb7da75ffe10694beb8deec0155844e",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on the event a study actually observed",
+      "action": "append"
+    },
+    "answers/fixes/is-llms-txt-required-for-ai-search-visibility.md": {
+      "canonical_source_sha256": "c3edb10ae6d090f8c89a13035328e4998ecf3429aabd3c753707dafa6bb40c56",
+      "related_section_sha256": "4d808bcc1f12acb6d361d8ec8b915c67d26d684b3940fd92a792fada16813dcb",
+      "chapter_path": "who-gets-cited.md",
+      "label": "The Manual on documented search eligibility",
+      "action": "append"
+    },
+    "answers/fixes/what-do-ai-crawlers-do-and-how-can-site-owners-control-access.md": {
+      "canonical_source_sha256": "77e3dc1d41d5db03d53284d2d7b10ff0f700eb30b3cce4de7f2be449e7975cca",
+      "related_section_sha256": "78ebb979234241c06b3b96717524264148d8da892d2eb0af5e371a83ff775cd4",
+      "chapter_path": "who-gets-cited.md",
+      "label": "The Manual on crawler purpose and retrieval",
+      "action": "append"
+    },
+    "answers/fixes/what-does-google-s-guidance-say-about-llms-txt.md": {
+      "canonical_source_sha256": "c4ca5af2ff6d13fb7f604632208e4b9b64d398a0398e6cfa704261200611ba23",
+      "related_section_sha256": "27a06b6ed588669e41eb5d79a618b3e163d18e8baf19ee5de9bcc0a50856ccd4",
+      "chapter_path": "who-gets-cited.md",
+      "label": "The Manual on provider guidance and observed sources",
+      "action": "append"
+    },
+    "answers/fixes/what-is-an-llms-txt-checker.md": {
+      "canonical_source_sha256": "fdc84351286f988e5a6601650c9ddf1fb7bdb967c260e60a8b0d38463f573bc3",
+      "related_section_sha256": "aa685a60d0f58d5929131330455f6f9eba658cf023d07c325723cbeb4355c298",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on what a check actually measures",
+      "action": "append"
+    },
+    "answers/fixes/what-is-an-llms-txt-file.md": {
+      "canonical_source_sha256": "caed7155b9eaa1760ea3872675a23a4a84d16f6339975ee480aebc4ced3a66ba",
+      "related_section_sha256": "c3b1c1f0349c13f637dc9157172b96f692fdb4bd756faf3b5744098c594e3039",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on a declared collection and result",
+      "action": "append"
+    },
+    "answers/fixes/what-should-i-include-in-an-llms-txt-file.md": {
+      "canonical_source_sha256": "a690467bf29322226734e042997fe21af2c61f8508a6a37527914d7bf9418d5c",
+      "related_section_sha256": "69a1c6065f0eafc4edea29202a14e3cee544655225b590b94e720bc38dafc683",
+      "chapter_path": "category-door.md",
+      "label": "The Manual on clear identity and reachable evidence",
+      "action": "append"
+    },
+    "answers/fixes/which-ai-tools-can-support-programmatic-seo.md": {
+      "canonical_source_sha256": "c6e8d0194451a0894c178b19311c419064f773345e64124521c9ad961581ce93",
+      "related_section_sha256": "1780b28b46442b9ef00280e2e7c4b6c131ddc165a1cff0774ade39269acbad8a",
+      "chapter_path": "comparison-gate.md",
+      "label": "The Manual on specific supported product claims",
+      "action": "append"
+    },
+    "answers/fixes/which-ai-visibility-tools-also-complete-content-changes.md": {
+      "canonical_source_sha256": "d662f81c7840d73dc8ee621223befc00efe343febcc302a261d8cab3afedbc3f",
+      "related_section_sha256": "f4f81d6a793ac64639d28d44811246eb6ed9964b623a497547d939f2b96c934f",
+      "chapter_path": "how-to-buy-geo.md",
+      "label": "The Manual on accepting the actual deliverable",
+      "action": "append"
+    },
+    "answers/fixes/which-websites-have-an-llms-txt-file.md": {
+      "canonical_source_sha256": "5dada6a55398292ecef598cc9874a1b06bd1347bc385ecab7e3a0718c6b6d2eb",
+      "related_section_sha256": "ffd14fca0d52cc0b6791fd3d7257ecc67b2ddd5b307e8105f82651550d345e9e",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on the source and scope of an observation",
+      "action": "append"
+    },
+    "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence.md": {
+      "canonical_source_sha256": "c0afcfbce3a7cdfc1f52ca34dd9bd60090f48a2d50a6b3f5986b42ee78036972",
+      "related_section_sha256": "1deb7aab3f11993f2e395a10366c430524d247dc564341c80f239908fb3c4488",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on exclusions and valid answer bases",
+      "action": "append"
+    },
+    "answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts.md": {
+      "canonical_source_sha256": "0fc1974e90ca16df11d310724628da1ebe9ce086adfd18bc40948b2f2b3de0a7",
+      "related_section_sha256": "611b98581af47fa0165fb50e2da83227fcc0bbeb3aa5b96eea4bc96b8f543bf8",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on dates and source-checkable observations",
+      "action": "append"
+    },
+    "answers/geo-basics/does-an-ai-shortlist-show-what-buyers-actually-purchase.md": {
+      "canonical_source_sha256": "42190d7f5932577c5dc377613200e8be4771539c6b3e20aabb3768f8b973e726",
+      "related_section_sha256": "503e78e8501284762edb299f26285d833ac387324db67514b1193d495ee573a6",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on selection and purchasing evidence",
+      "action": "append"
+    },
+    "answers/geo-basics/does-being-named-by-ai-prove-product-quality.md": {
+      "canonical_source_sha256": "3a90ddd0464008050ffec5a23ed54f6b98ea997b12360331987dc13ac722bb45",
+      "related_section_sha256": "a65c0454658e7775d80bd28875ad362f5fb91e141103787ca068f93a03073b52",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on naming versus product quality",
+      "action": "append"
+    },
+    "answers/geo-basics/how-do-getmint-and-otterly-compare-for-transactional-geo-in-the-united.md": {
+      "canonical_source_sha256": "7e6119d827fa9b004eb7411c26748422c8b3651f2822b5e6e5ceceea3ac904a3",
+      "related_section_sha256": "f5d5e3196fac35660c82f8be91e0da3dcd130a1b2e345c232dd0bfb64d82595b",
+      "chapter_path": "how-to-buy-geo.md",
+      "label": "The Manual on buying a clearly defined measurement",
+      "action": "append"
+    },
+    "answers/geo-basics/how-do-profound-and-seoclarity-compare.md": {
+      "canonical_source_sha256": "beaf7597b401673e8883b0d50ba360ce23d5c4ba45dbdd764a98dcc9e62d102c",
+      "related_section_sha256": "152e5caf48b97b0a12c61ced7133f3860c611144e5032d07c88d074f8322d972",
+      "chapter_path": "how-to-buy-geo.md",
+      "label": "The Manual on matching a tool to its deliverable",
+      "action": "append"
+    },
+    "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer.md": {
+      "canonical_source_sha256": "002c109422876a580c834822c20b6e06c87191a40b927de2b78830ec2e316aae",
+      "related_section_sha256": "6b617c4d51426318c67808dd620bd28772d99774ba9a760c9796b58a67deeb18",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on explicit uncertainty and scoring",
+      "action": "append"
+    },
+    "answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare.md": {
+      "canonical_source_sha256": "a6e4f3975ed70799c981d5d543a898f2558b32e95995f1b37261ba38239a5ab9",
+      "related_section_sha256": "f6db07651140d09dd70239b33d87eb7c858900e6d8ab9eb0b1837b4767e0e829",
+      "chapter_path": "how-to-buy-geo.md",
+      "label": "The Manual on supplier disclosure and proof",
+      "action": "append"
+    },
+    "answers/google-ai/are-google-ai-overviews-available-in-france.md": {
+      "canonical_source_sha256": "5e49aad8401b81068ab578868b8a67291fc10cc622ea3237ca7ed6bc3650b28b",
+      "related_section_sha256": "3746d975c34b9b97d9670baffbeb3598e0e417bae3612482a97fcffd58874bf9",
+      "chapter_path": "overview-trigger-rate.md",
+      "label": "The Manual on conditional Overview display",
+      "action": "append"
+    },
+    "answers/google-ai/can-ads-appear-in-google-ai-overviews.md": {
+      "canonical_source_sha256": "3eaf764df225434ef6cdf19451f1249d290f21ab83b9707ad35751614f42ca90",
+      "related_section_sha256": "07f43a758ce5b41f7e95410fd3628af3c7e6d13088c9bb48f56d894129273736",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on the event behind a visibility figure",
+      "action": "append"
+    },
+    "answers/google-ai/can-i-disable-google-ai-overviews.md": {
+      "canonical_source_sha256": "2d2a54329ef6aeed07a901d153817363ad926920a8f3844847821b7f3b48143b",
+      "related_section_sha256": "fa36ac26e95fe893cb0fca4c8e7a25577d5f2033011690be44bfaecb33369768",
+      "chapter_path": "overview-trigger-rate.md",
+      "label": "The Manual on a missing Overview and its denominator",
+      "action": "append"
+    },
+    "answers/google-ai/is-the-ai-overview-gone.md": {
+      "canonical_source_sha256": "386c39b38907c6a43de3613dd4c5dd09c96ea339b1fd22a5655e30e4ad0e7a62",
+      "related_section_sha256": "057b2408f83fe5da7494ffe279187d6d91064ed9b1e3375e29a2852dd5405f76",
+      "chapter_path": "overview-trigger-rate.md",
+      "label": "The Manual on when an Overview is returned",
+      "action": "append"
+    },
+    "answers/google-ai/is-there-an-api-for-google-ai-overviews.md": {
+      "canonical_source_sha256": "132031172d1e28c0a15376f28f8f72c5b8dcfa6d271092bd1f2078576ca5fc06",
+      "related_section_sha256": "0b09d0b99b78394380f38b8f4b586c3df6de244e6f03ee1756283a4fa5d69cbf",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on identifying the collection instrument",
+      "action": "append"
+    },
+    "answers/google-ai/why-does-google-ai-overviews-not-appear-for-every-search.md": {
+      "canonical_source_sha256": "6fb0d0e711fc5e50e122f954eae96da6092385963e0572a68c885626beb24852",
+      "related_section_sha256": "a13720fcb475fd0d2ec67c1671dcadd944e20d20b980cb1f36a9368b9fcc7481",
+      "chapter_path": "overview-trigger-rate.md",
+      "label": "The Manual on returned and absent Overviews",
+      "action": "append"
+    },
+    "answers/industries/crm-software-chatgpt-free.md": {
+      "canonical_source_sha256": "4b01a59446443667f78010b8c4ea0592b04e52e601e84f015fe0dda4ea0543bb",
+      "related_section_sha256": "469d81410ef4598429644301ab0cfd0b24855ed912ef6dd979d4d56d80a12d5f",
+      "chapter_path": "how-to-buy-geo.md",
+      "label": "The Manual on buying the scope you actually need",
+      "action": "replace",
+      "replace_href": "https://knowledge.hubspot.com/integrations/connect-your-hubspot-account-to-chatgpt",
+      "replace_label": "HubSpot’s app requirements"
+    },
+    "answers/industries/does-housecall-pro-provide-field-service-management-software-for-home.md": {
+      "canonical_source_sha256": "2808978884b8e216e6dec7477d2e5da22b04663faf398c78bfeefdd52e5d9d10",
+      "related_section_sha256": "3546df080edc4c0f98941d869d515da23ed43c03c39a378733748e8feae2a8be",
+      "chapter_path": "comparison-gate.md",
+      "label": "The Manual on a supported and scoped capability claim",
+      "action": "append"
+    },
+    "answers/industries/is-dentally-a-good-fit-for-uk-dentists-running-a-cloud-based-practice.md": {
+      "canonical_source_sha256": "854c637a502051344eebb629c2e564b326e6171b29abb61343fa5e10aa2472a5",
+      "related_section_sha256": "9f2984abbb56e63ce3e92f267ee7e506deb01f1ecc2319c6e8f0d6fdb61e8116",
+      "chapter_path": "named-zero-times.md",
+      "label": "The Manual on what zero naming can establish",
+      "action": "append"
+    },
+    "answers/industries/which-industrial-ai-platforms-integrate-best-with-erp-eam-fsm-and-proj.md": {
+      "canonical_source_sha256": "1a8c8d6eedea4353b0a2c591f7ee5c61b815ac8f7aa1898dc2f2c72d7cb8a832",
+      "related_section_sha256": "43c82aeee5e19965eb36892aef74863a7694ea90590bc3d7dd9664e7f56a69da",
+      "chapter_path": "how-to-buy-geo.md",
+      "label": "The Manual on evidence for a scoped buying decision",
+      "action": "append"
+    },
+    "answers/measurement/can-google-bing-and-llms-find-content-on-threads.md": {
+      "canonical_source_sha256": "0a3afa2bf6e95f0278ff5f6c9ab7b5ca0f04142e0410b5cfe6c0ef43d6a45403",
+      "related_section_sha256": "db0b91105e096a0c73e7eb13dd12f8dac7b2eb40f545575ec2fb34e7902a7718",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on missing fields and limited observations",
+      "action": "append"
+    },
+    "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data.md": {
+      "canonical_source_sha256": "af27366fe211d0b0239929fcfa67b67eb8fad7fd9cd19006167c99dd6eeb9568",
+      "related_section_sha256": "5e3d96e769fb9dc4eb922e0e0028a48a495525594fd1e190bbbc5afc361e3a61",
+      "chapter_path": "measurement-noise.md",
+      "label": "The Manual on comparing observations across time",
+      "action": "append"
+    },
+    "answers/measurement/how-can-i-check-whether-an-ai-citation-supports-its-claim.md": {
+      "canonical_source_sha256": "218d9124eba20fff67a593c7e2c163620699db3afceb42253f2f4bb21152c066",
+      "related_section_sha256": "397563e7d4f391af92d0418d8c0e3b4191be8ad491f0a9af7165b4e18aa6a1bd",
+      "chapter_path": "cited-not-recommended.md",
+      "label": "The Manual on citation and the claim being made",
+      "action": "append"
+    },
+    "answers/measurement/how-can-i-defend-branded-search-results-against-lookalike-sites-that-c.md": {
+      "canonical_source_sha256": "160c57dc74e2afd92f56a54fa7ad785947efb22e629825f925d410b3e97c3c00",
+      "related_section_sha256": "78d9d453285e424bb340a8d9c5980c2987d6f1436b412a96ca36232dbc15c590",
+      "chapter_path": "category-door.md",
+      "label": "The Manual on clear identity and corroborating sources",
+      "action": "append"
+    },
+    "answers/measurement/what-can-search-console-show-about-ai-visibility-queries.md": {
+      "canonical_source_sha256": "c925ec34a5b2f311bc42bb1767d7e62959c9767ff5708fca10c294a2fb19e1a0",
+      "related_section_sha256": "0a764a6eda4cc84a03d4db1f05e2129410ab50d80fe9d383dd4ecbd313e9d188",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on a declared method and data unit",
+      "action": "append"
+    },
+    "answers/measurement/what-does-a-recorded-ai-referral-establish.md": {
+      "canonical_source_sha256": "62c484cc46a04bf82a9e1a7038009fd35fda2850bbfe41d343226c2e45fdf7e6",
+      "related_section_sha256": "da4c13c25e97c2344de1b6a73db6a41e71b742ae15764d645a0b2d9680e96cff",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on answer selection and buyer actions",
+      "action": "append"
+    },
+    "answers/measurement/what-does-hotwire-gaio-tech-publish-about-data-accuracy.md": {
+      "canonical_source_sha256": "558123742c249706102bfa05808e566baf15768bffa428cbd6601cf2e55b74bf",
+      "related_section_sha256": "2530618aa3c18319b0eb68938acfc59059cba454795d17ffbb04165656ae4435",
+      "chapter_path": "valid-measurement.md",
+      "label": "The Manual on defining an accuracy claim",
+      "action": "append"
+    },
+    "answers/measurement/what-does-hotwire-gaio-tech-publish-about-model-coverage.md": {
+      "canonical_source_sha256": "dded5b973c3c717dcf04ea6b5d42365ae0b3b80a719267f1eb1f6dff288ae803",
+      "related_section_sha256": "82d3613efcaac18dcee6cf29a42a47db6e49cd607e5e153a7277fb1ada4b9a60",
+      "chapter_path": "engine-divergence.md",
+      "label": "The Manual on keeping engine and surface records separate",
+      "action": "append"
+    },
+    "answers/measurement/what-evidence-can-connect-ai-visibility-with-pipeline.md": {
+      "canonical_source_sha256": "019df46383c8cafe5680a9418442bbffeb891bfd0bccda23bd29c1c73f379032",
+      "related_section_sha256": "a8244d21a0faf7d8cc53b51a4b7e05e5e4f32ae2cecfa64c66dff14ec113d2d5",
+      "chapter_path": "selection-not-ranking.md",
+      "label": "The Manual on selection versus purchasing",
+      "action": "append"
+    },
+    "answers/measurement/which-ai-visibility-platforms-support-multiple-agency-clients.md": {
+      "canonical_source_sha256": "a4fcff68a0c615aa544b2a73c75e97c6cc1d9c25a981f80656ba05875660ec52",
+      "related_section_sha256": "dacf17807f8a1e14797d6d1ad6ef58b8914359822aa904375794e36c9eb0a2b9",
+      "chapter_path": "how-to-buy-geo.md",
+      "label": "The Manual on inspecting a monitoring deliverable",
+      "action": "append"
+    },
+    "answers/measurement/which-ai-visibility-signals-should-shape-an-seo-roadmap.md": {
+      "canonical_source_sha256": "645230d443686b46321f518b1ea89d4c4827b58ea479052fb3031249cfa94f2e",
+      "related_section_sha256": "5eef191ab946b80f095c87a9e2589d45ee5acbbd36a141783dad009ebbbe046f",
+      "chapter_path": "cited-not-recommended.md",
+      "label": "The Manual on a source role without a named product",
+      "action": "append"
+    },
+    "answers/measurement/which-measures-belong-beside-one-another.md": {
+      "canonical_source_sha256": "5e7785b8a1602e2b5fafb20ec255c256a3c580e73dd5eff51d498c2d03aa7082",
+      "related_section_sha256": "0861b8ce9ba513e77f7c3bd9b9bb235bc11dd03441513fcc88830492beeda9ed",
+      "chapter_path": "cited-not-recommended.md",
+      "label": "The Manual on naming and citation as separate events",
+      "action": "append"
+    }
+  }
+}
