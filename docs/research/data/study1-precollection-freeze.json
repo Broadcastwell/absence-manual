@@ -1,0 +1,13 @@
+{
+  "study": "https://doi.org/10.17605/OSF.IO/DVYFU",
+  "frozen_at": "2026-10-30T05:36:56.935712+00:00",
+  "collection_not_started": true,
+  "class_shares_not_computed": true,
+  "files": {
+    "page-signal-rules.json": "c5afcd6fd802c9cedd159f892c4754e795d26b366f2d514ee148bb822d4a0fcc",
+    "study1-news-hosts.csv": "7eaf106a09229554581b4671720f656c3904620c80acb0f226d349baa809c82d",
+    "collect_page_signals.py": "2ab1210aa992552569366a9d5cc72a5d67c5ab1f6908131e83a77c5bfb964fd4",
+    "inputs/22907695/answers-2026-09.jsonl": "221c94e1ebad2bc87d7cd20837fa670cc40b10dba6f68b75423dc8bee69697b3",
+    "inputs/22907695/release-2026-09.json": "e7829183f6785357787fcf85d3c27999403b0a329f349dad4c7343b11d23f142"
+  }
+}
