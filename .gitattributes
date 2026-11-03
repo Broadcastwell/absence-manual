@@ -5,3 +5,4 @@ docs/research/data/page-signal-rules.json -text
 docs/research/data/study1-news-hosts.csv -text
 docs/research/data/study1-precollection-freeze.json -text
 tools/library_related_chapters.json text eol=lf
+tools/library_field_freeze_navigation.json text eol=lf
