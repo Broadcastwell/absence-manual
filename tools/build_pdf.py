@@ -11,13 +11,13 @@ permanent, so the link on the landing page never changes.
 """
 
 import datetime
+import os
 import pathlib
 import re
 import sys
 
 import markdown
 import yaml
-from weasyprint import HTML
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
@@ -129,6 +129,15 @@ def strip_footer(body):
     return (body[:i].rstrip(), body[i:]) if i != -1 else (body.rstrip(), "")
 
 
+def configure_reproducible_fonts(release_date):
+    """Keep font-subset metadata stable for this Manual release."""
+    day = datetime.date.fromisoformat(str(release_date))
+    epoch = int(datetime.datetime.combine(
+        day, datetime.time(), tzinfo=datetime.timezone.utc
+    ).timestamp())
+    return os.environ.setdefault("SOURCE_DATE_EPOCH", str(epoch))
+
+
 def main():
     cfg = yaml.safe_load(
         re.sub(r"^( *)!!python[^\n]*$", r"\1null", (ROOT / "mkdocs.yml").read_text(encoding="utf-8"), flags=re.M)
@@ -139,6 +148,7 @@ def main():
     # this build, so rebuilding does not orphan the file anyone already linked to.
     # A new dated filename appears only when the version itself changes.
     release_date = str(cfg["extra"]["manual_version_date"])
+    configure_reproducible_fonts(release_date)
     build_date = datetime.date.today().isoformat()
 
     md = markdown.Markdown(
@@ -202,6 +212,7 @@ def main():
     SITE.mkdir(exist_ok=True)
     versioned = SITE / f"absence-manual-v{version}-{release_date}.pdf"
     stable = SITE / "absence-manual.pdf"
+    from weasyprint import HTML
     HTML(string=doc, base_url=str(ROOT)).write_pdf(versioned)
     stable.write_bytes(versioned.read_bytes())
     print(f"PDF written: {versioned.name} ({versioned.stat().st_size // 1024} KB) and {stable.name}")

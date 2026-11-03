@@ -6,3 +6,5 @@ docs/research/data/study1-news-hosts.csv -text
 docs/research/data/study1-precollection-freeze.json -text
 tools/library_related_chapters.json text eol=lf
 tools/library_field_freeze_navigation.json text eol=lf
+docs/research/data/field-test-protocol.pdf -text
+docs/research/data/field-test-interventions.json -text
