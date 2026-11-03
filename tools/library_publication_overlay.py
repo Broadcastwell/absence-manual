@@ -502,10 +502,30 @@ def validate_current_annotations(overlay, pages, metadata):
     require(set(metadata) <= q.METADATA_FIELDS, 'Unknown current annotation fields')
     require(set(metadata.get('pages', {})) == set(pages), 'Current annotations must cover every effective leaf')
     notes = metadata['pages']
-    qualitative = {rel for rel, note in notes.items() if not note.get('lead_figures')}
+    company_kind = getattr(q, 'COMPANY_PANEL_KIND', None)
+    company = {rel for rel, page in pages.items()
+               if company_kind is not None and page['meta'].get('evidence_kind') == company_kind}
+    for rel, page in pages.items():
+        if 'evidence_case' in page['meta']:
+            require(rel in company, rel + ': finite company-panel case requires its exact owning evidence kind')
+    qualitative = {rel for rel, note in notes.items() if rel not in company
+                   and (not note.get('lead_figures') or 'qualitative_opening' in note)}
+    pure_qualitative = {rel for rel in qualitative if not notes[rel].get('lead_figures')}
     numeric_metadata = copy.deepcopy(metadata)
-    numeric_metadata['pages'] = {rel: note for rel, note in notes.items() if rel not in qualitative}
-    q.validate_annotations({rel: page for rel, page in pages.items() if rel not in qualitative}, numeric_metadata)
+    numeric_metadata['pages'] = {rel: note for rel, note in numeric_metadata['pages'].items()
+                                 if rel not in pure_qualitative}
+    for rel in qualitative - pure_qualitative:
+        # Only this controlled current extra is removed from the copied raw
+        # numeric view. Every numeric fact/span and every other field remains.
+        numeric_metadata['pages'][rel].pop('qualitative_opening', None)
+    q.validate_annotations({rel: page for rel, page in pages.items() if rel not in pure_qualitative}, numeric_metadata)
+    for rel in company:
+        # The owning q path validates the immutable six-case body/kind/key,
+        # both lead modes, exact spans and actual review pins. Never fall back
+        # to a general qualitative allowance for a claimed finite case.
+        for kind in ['source', 'writing']:
+            require(overlay._article_receipt(notes[rel].get(kind + '_review_sha256'), pages[rel], kind),
+                    rel + ': finite company-panel full-page ' + kind + ' receipt missing')
     qualitative_keys = {}
     numeric_cuts = set()
     for figure in metadata.get('figures', {}).values():
@@ -515,7 +535,10 @@ def validate_current_annotations(overlay, pages, metadata):
     for rel in qualitative:
         note, page = notes[rel], pages[rel]
         require(set(note) <= q.PAGE_FIELDS | {'qualitative_opening'}, rel + ': unknown qualitative annotation fields')
-        require(note.get('lead_figures') == [] and note.get('lead_figure_spans') == {}, rel + ': qualitative lead cannot mint a fake numeric figure')
+        require(not note.get('lead_observations') and not note.get('lead_observation_spans'),
+                rel + ': finite company-panel observations require their exact owning evidence kind')
+        if rel in pure_qualitative:
+            require(note.get('lead_figures') == [] and note.get('lead_figure_spans') == {}, rel + ': qualitative lead cannot mint a fake numeric figure')
         bank_ids = set(re.findall(r'\bLB-Q\d{4}\b', str(page['meta'].get('demand_evidence', ''))))
         require(len(bank_ids) == 1 and note.get('bank_id') in bank_ids, rel + ': qualitative bank binding differs')
         require(bool(HEX.fullmatch(str(note.get('source_sha256')))) and note.get('canonical_source_sha256') == page['canonical_source_sha256'], rel + ': qualitative effective source binding differs')
