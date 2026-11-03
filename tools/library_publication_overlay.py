@@ -495,6 +495,37 @@ def qualitative_observation_key(binding, q):
     return 'observation:' + sha(q.canonical_json(identity).encode()), identity
 
 
+def validate_finite_current_review(overlay, page, note, kind, figures):
+    """Link a current full-file review to its immutable finite body review.
+
+    The owning validator remains the authority for case, body, source, opening,
+    exact historical review parents and numeric/qualitative observation keys.
+    This bridge changes neither the annotation nor the six-case registry.
+    """
+    q = overlay.q
+    require(kind in {'source', 'writing'} and page['meta'].get('evidence_kind') == getattr(q, 'COMPANY_PANEL_KIND', None)
+            and getattr(q, 'COMPANY_PANEL_KIND', None) is not None,
+            page['path'] + ': finite current review requires its exact owning kind')
+    q.validate_company_annotation(page, note, figures, q.figure_key)
+    digest = page.get('review_ids', {}).get(kind)
+    require(overlay._article_receipt(digest, page, kind),
+            page['path'] + ': finite company-panel full-page ' + kind + ' receipt missing')
+    receipt = overlay._load_receipt(digest)
+    require(receipt.get('effective_body_sha256') == sha(page['body'].encode()),
+            page['path'] + ': finite current review body binding differs')
+    # canonical_body removes only source-parser leading newlines and line-ending
+    # differences, exactly as the unchanged owning finite validator does.
+    from library_company_panel import canonical_body
+    expected = {'evidence_kind': q.COMPANY_PANEL_KIND,
+                'evidence_case': page['meta']['evidence_case'],
+                'review_kind': kind,
+                'original_review_sha256': note[kind + '_review_sha256'],
+                'reviewed_body_sha256': sha(canonical_body(page['body']).encode())}
+    require(receipt.get('finite_body_review_lineage') == expected,
+            page['path'] + ': finite current review exact historical lineage differs')
+    return True
+
+
 def validate_current_annotations(overlay, pages, metadata):
     """Raw validator stays intact; qualitative current leads have a separate proof."""
     q = overlay.q
@@ -502,10 +533,29 @@ def validate_current_annotations(overlay, pages, metadata):
     require(set(metadata) <= q.METADATA_FIELDS, 'Unknown current annotation fields')
     require(set(metadata.get('pages', {})) == set(pages), 'Current annotations must cover every effective leaf')
     notes = metadata['pages']
-    qualitative = {rel for rel, note in notes.items() if not note.get('lead_figures')}
+    company_kind = getattr(q, 'COMPANY_PANEL_KIND', None)
+    company = {rel for rel, page in pages.items()
+               if company_kind is not None and page['meta'].get('evidence_kind') == company_kind}
+    for rel, page in pages.items():
+        if 'evidence_case' in page['meta']:
+            require(rel in company, rel + ': finite company-panel case requires its exact owning evidence kind')
+    qualitative = {rel for rel, note in notes.items() if rel not in company
+                   and (not note.get('lead_figures') or 'qualitative_opening' in note)}
+    pure_qualitative = {rel for rel in qualitative if not notes[rel].get('lead_figures')}
     numeric_metadata = copy.deepcopy(metadata)
-    numeric_metadata['pages'] = {rel: note for rel, note in notes.items() if rel not in qualitative}
-    q.validate_annotations({rel: page for rel, page in pages.items() if rel not in qualitative}, numeric_metadata)
+    numeric_metadata['pages'] = {rel: note for rel, note in numeric_metadata['pages'].items()
+                                 if rel not in pure_qualitative}
+    for rel in qualitative - pure_qualitative:
+        # Only this controlled current extra is removed from the copied raw
+        # numeric view. Every numeric fact/span and every other field remains.
+        numeric_metadata['pages'][rel].pop('qualitative_opening', None)
+    q.validate_annotations({rel: page for rel, page in pages.items() if rel not in pure_qualitative}, numeric_metadata)
+    for rel in company:
+        # The owning q path validates the immutable six-case body/kind/key,
+        # both lead modes, exact spans and actual review pins. Never fall back
+        # to a general qualitative allowance for a claimed finite case.
+        for kind in ['source', 'writing']:
+            validate_finite_current_review(overlay, pages[rel], notes[rel], kind, metadata['figures'])
     qualitative_keys = {}
     numeric_cuts = set()
     for figure in metadata.get('figures', {}).values():
@@ -515,7 +565,10 @@ def validate_current_annotations(overlay, pages, metadata):
     for rel in qualitative:
         note, page = notes[rel], pages[rel]
         require(set(note) <= q.PAGE_FIELDS | {'qualitative_opening'}, rel + ': unknown qualitative annotation fields')
-        require(note.get('lead_figures') == [] and note.get('lead_figure_spans') == {}, rel + ': qualitative lead cannot mint a fake numeric figure')
+        require(not note.get('lead_observations') and not note.get('lead_observation_spans'),
+                rel + ': finite company-panel observations require their exact owning evidence kind')
+        if rel in pure_qualitative:
+            require(note.get('lead_figures') == [] and note.get('lead_figure_spans') == {}, rel + ': qualitative lead cannot mint a fake numeric figure')
         bank_ids = set(re.findall(r'\bLB-Q\d{4}\b', str(page['meta'].get('demand_evidence', ''))))
         require(len(bank_ids) == 1 and note.get('bank_id') in bank_ids, rel + ': qualitative bank binding differs')
         require(bool(HEX.fullmatch(str(note.get('source_sha256')))) and note.get('canonical_source_sha256') == page['canonical_source_sha256'], rel + ': qualitative effective source binding differs')
@@ -578,7 +631,10 @@ def run_current_rendered_quality(overlay, *, current_annotations, trusted_index_
         for rel, page in pages.items():
             page['quality_annotation'] = notes[rel]
             for kind in ['source', 'writing']:
-                require(notes[rel][kind + '_review_sha256'] == page['review_ids'].get(kind), rel + ': current quality receipt differs from full effective review')
+                if page['meta'].get('evidence_kind') == getattr(q, 'COMPANY_PANEL_KIND', None) and getattr(q, 'COMPANY_PANEL_KIND', None) is not None:
+                    validate_finite_current_review(overlay, page, notes[rel], kind, current_annotations['figures'])
+                else:
+                    require(notes[rel][kind + '_review_sha256'] == page['review_ids'].get(kind), rel + ': current quality receipt differs from full effective review')
         references = current_annotations.get('index_question_titles', {})
         require(sha(q.canonical_json(references).encode()) == trusted_index_references_sha256, 'Published Index title snapshot changed')
         require(len(references.get('records', [])) == 140 and len({row['url'] for row in references['records']}) == 140, 'Exactly140 unique Index title references required')

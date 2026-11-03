@@ -615,6 +615,57 @@ def validate_source_evidence(meta, body, docs):
     return errors, method_label
 
 
+def _answer_repair_footer(body):
+    """Keep legacy pages; accept the owner's one exact neutral footer line."""
+    neutral = "Answer Repair: [$490](https://broadcastwell.com/answer-repair)."
+    legacy = "Fix one answer, $490"
+    links = list(re.finditer(r"\[([^\]\n]+)\]\((https://broadcastwell\.com/answer-repair)\)", body))
+    current = (neutral in body or any(m[1] != legacy for m in links)
+               or any(line.startswith("Answer Repair:") and legacy not in line
+                      for line in body.splitlines()))
+    if not current:
+        return False, []
+    errors = []
+    exact = list(re.finditer(r"(?m)^" + re.escape(neutral) + r"$", body))
+    headings = list(re.finditer(r"(?m)^## Next step[ \t]*$", body))
+    if len(exact) != 1:
+        errors.append("neutral Answer Repair requires exactly one complete approved line")
+    start, end = None, None
+    if len(headings) != 1:
+        errors.append("neutral Answer Repair requires one actual Next step section")
+    else:
+        start = headings[0].end()
+        after = re.search(r"(?m)^#{1,2} ", body[start:])
+        end = start + after.start() if after else len(body)
+        if len(exact) == 1 and not start <= exact[0].start() < end:
+            errors.append("neutral Answer Repair line must be inside Next step")
+    prepared = list(re.finditer(r"(?m)^Prepared by the Broadcastwell team\.[ \t]*$", body))
+    if len(prepared) != 1:
+        errors.append("neutral Answer Repair requires one actual prepared-by footer boundary")
+    elif start is None or not start <= prepared[0].start() < end:
+        errors.append("prepared-by footer boundary must follow Next step before another section")
+    else:
+        end = prepared[0].start()
+        if len(exact) == 1 and not start <= exact[0].start() < end:
+            errors.append("neutral Answer Repair line must precede the prepared-by footer boundary")
+    if legacy in body:
+        errors.append("neutral and legacy Answer Repair offers must not be mixed")
+    if len(links) != 1 or body.count(BUY_ENTRY) != 1:
+        errors.append("neutral Answer Repair must be the only Answer Repair destination")
+    if start is not None:
+        for line in body[start:end].splitlines():
+            if re.search(r"\$\s*\d", line) and line != neutral:
+                errors.append("neutral Next step must not contain another paid line")
+                break
+    for line in body.splitlines():
+        own_paid_link = (re.search(r"\$\s*\d", line)
+                         and re.search(r"\]\(https://(?:broadcastwell\.com(?:/|\))|buy\.stripe\.com/)", line))
+        if line != neutral and (line.startswith("Answer Repair:") or own_paid_link):
+            errors.append("neutral Answer Repair must not add another own paid line")
+            break
+    return not errors, errors
+
+
 def validate_answer(path, docs):
     path, docs = Path(path), Path(docs)
     meta, body = split_markdown(path.read_text(encoding="utf8"))
@@ -643,6 +694,8 @@ def validate_answer(path, docs):
     for key in ("date_published", "date_modified"):
         if not re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\+\d{2}:\d{2}|Z)", str(meta.get(key, ""))):
             errors.append(key + " requires a full timestamp with timezone")
+    neutral_offer, offer_errors = _answer_repair_footer(body)
+    errors.extend(offer_errors)
     source_errors, method_label = validate_source_evidence(meta, body, docs)
     errors.extend(source_errors)
     headings = re.findall(r"(?m)^# (.+)$", body)
@@ -661,7 +714,8 @@ def validate_answer(path, docs):
         errors.append("body must contain 350 to 900 words")
     for required in ("Measured", LIMIT_SENTENCE, "Prepared by the Broadcastwell team.",
                      "Free 10-question check (one engine)",
-                     COMPANY_PANEL_NEUTRAL_OFFER if meta.get("evidence_kind") == COMPANY_PANEL_KIND else "Fix one answer, $490",
+                     COMPANY_PANEL_NEUTRAL_OFFER if meta.get("evidence_kind") == COMPANY_PANEL_KIND else
+                     ("Answer Repair: [$490](https://broadcastwell.com/answer-repair)." if neutral_offer else "Fix one answer, $490"),
                      method_label,
                      "Page owner: " + str(meta.get("library_owner", "")) + ". Corrections: hello@broadcastwell.com"):
         if required not in body:
