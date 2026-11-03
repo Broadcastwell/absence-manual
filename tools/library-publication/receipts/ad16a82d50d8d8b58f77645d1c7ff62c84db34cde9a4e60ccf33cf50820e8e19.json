@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/claude/which-crm-software-does-claude-recommend.md",
+  "before_effective_canonical_sha256": "094114b2a51e1f912479b72dc7e0578673f74cbbdde048126930794d97587769",
+  "raw_canonical_source_sha256": "06f1c1e7b2cac05c25a5b88930a94be4692fc7f29b7cf92cbfd5c1a2edeac94e",
+  "after_effective_canonical_sha256": "7aab0fdd2ee2bb6dab337f67457b56aec3a31fe74537ec1e1edabd5bc5e895e6",
+  "fact_ledger_sha256": "27da0d26afc76d7c1ccdec51498c5245332ab512a04485ee403afa405f8a76e0",
+  "effective_payload_sha256": "6d10f345df2d8b073f0666a500b25325095355de1549483864f3fb20d42fe2f1",
+  "scope": "Root read full standaloneV3generator and all12literal old/new paragraph/factledger changes, verified V1/V3payload+ledgeridentity, exactlatestRootadoption and24fullfileSourceWritingreceipts. Datedobservations/retainedhistoricalquotes/neutralfooter,primarydestinationspreserved. Existing11PerplexityPASS and314actualpriorpayloads retained with current22peerbytes. Buildinputapprovalonly; fullbothscope/<=50actualsurfaces/freeze/native/Linux/production/tenlivepairs/discoverygates remain.",
+  "reviewed_utc": "2026-11-03T12:49:12.988416+00:00"
+}

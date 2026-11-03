@@ -1,71 +1,77 @@
 {
   "schema_version": 1,
   "pages": {
-    "answers/perplexity/how-does-perplexity-work.md": {
-      "before_effective_canonical_sha256": "2e4cf4c190bae538f78fcd8416d4324bb111b60ffd08a5d06cd46c55d0831f8b",
-      "after_effective_canonical_sha256": "5be630fa5f78ecbcaf4a79122b14bb5586ed87176891c3a07f2d42482124d6af",
-      "after_body_sha256": "0768bb01bf4290d0d9b5d390806b764cdfb371ac41c3680a02e78757f5e4699e",
-      "after_metadata_sha256": "caa207ee05e444c9d6a0209e94b998f32e9f3c00a730432664baf3036dae9302"
+    "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md": {
+      "before_effective_canonical_sha256": "670e9fd294e51b03ca5c8c60451f9f10914999c0969df1f7fcf7c5bfde9dcdce",
+      "after_effective_canonical_sha256": "70b8ae7d031d7850b740cd5797cea032e828564ea53234a634f501bde462c5b3",
+      "after_body_sha256": "c59eb7636d03aef9f4e67db2e0b576bf5b9c17aa7e36cbe72b5d207014c2598d",
+      "after_metadata_sha256": "6a88bdc71ba216141a33bbbcbff76a80e1c30efc7f5776877c58bfa7cbb98a1b"
     },
-    "answers/perplexity/which-construction-software-does-perplexity-recommend.md": {
-      "before_effective_canonical_sha256": "8263dfdf4afe4003815d9fdecac12ef6e0ec380135787a3e9726a2c59b536da9",
-      "after_effective_canonical_sha256": "96d61147b5c2c412e1282d52f5d77ab17d9876b9d8fe73903069d6d10edf26b1",
-      "after_body_sha256": "10e7c8cd164e57aa0ef23352c26a98272cbf29b66679d1dbf392bfa0c630cf95",
-      "after_metadata_sha256": "5383205146c4e04bd8c044135bc2bcb75d42af6a003a3a1add045aa12f989282"
+    "answers/claude/how-does-claude-web-search-work.md": {
+      "before_effective_canonical_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407",
+      "after_effective_canonical_sha256": "d7158398f09040ad80923d7105d65ea8436423b8881812fc132105388baabc19",
+      "after_body_sha256": "a937f4e0188735da780924b219e2f2e2ea468651b9d9c60ddc9d3d2bbf8009bd",
+      "after_metadata_sha256": "cbec9ce77cbebd0d1cafc80510ce4de877ca8753ce05311c6ee2ef4024ecb725"
     },
-    "answers/perplexity/which-crm-software-does-perplexity-recommend.md": {
-      "before_effective_canonical_sha256": "6b4c8332e3fdf8a9492ed2936dd094d8d006b0ce354ab25cc92879a36091bbd2",
-      "after_effective_canonical_sha256": "a0d96573808849ca3e105d964290751e08c8cda2dd8b7bb03b5888bdb34aec14",
-      "after_body_sha256": "03d1dc981087e0abb745bffe38a05edf7d599b6cbbc20121e197d6d4e6f115ad",
-      "after_metadata_sha256": "eefe5787fb9ff91d92eba58ea6755e1d075dea17004af2b202a3c1291a367929"
+    "answers/claude/which-construction-software-does-claude-recommend.md": {
+      "before_effective_canonical_sha256": "712e1b4510a31a4aeb8ff442bd34ece2080c9aedde417d908409534ad5ac5114",
+      "after_effective_canonical_sha256": "701c91d80f1957e31766d03705822c41d49178eeb043d87a67f9365859ebe773",
+      "after_body_sha256": "1b6e1f24561c650314b161393792570738f1d5dbc5b065f98050f66290043403",
+      "after_metadata_sha256": "683fef51f2488a8a2da76197f33950165af904c32fff746e442d1a944c3b9eee"
     },
-    "answers/perplexity/which-dental-software-does-perplexity-recommend.md": {
-      "before_effective_canonical_sha256": "f0ed0715aa449cbb8501d4cc6d386f25566c7dc9e667254d59d57c3e8628646b",
-      "after_effective_canonical_sha256": "3d50940714fbc38e0d1e5c6f12b0e6919d46f3eb74fd50ec2438ed8f5c27cfc8",
-      "after_body_sha256": "7cab8872ff47b272ab333719f1239d4deffa0f3d451b6eac39961ee6ffb9c1bf",
-      "after_metadata_sha256": "9f6c21a8bd3ea8067820326313fa68522e04b29acaa176a6699e15939abc59ce"
+    "answers/claude/which-crm-software-does-claude-recommend.md": {
+      "before_effective_canonical_sha256": "094114b2a51e1f912479b72dc7e0578673f74cbbdde048126930794d97587769",
+      "after_effective_canonical_sha256": "7aab0fdd2ee2bb6dab337f67457b56aec3a31fe74537ec1e1edabd5bc5e895e6",
+      "after_body_sha256": "11b6ba381649eb7665c4e42516a5f9958974d7022e78d13d8ce9f5ef6949dcab",
+      "after_metadata_sha256": "e64a1f8e213b054e753280b939e256f5f76c9e4edbcb5641aa67721741e66b3f"
     },
-    "answers/perplexity/which-field-service-software-does-perplexity-recommend.md": {
-      "before_effective_canonical_sha256": "7c1bca69d71903ba5ad560c4c1cb79d87723a6becb7b48c60ef1264ff890a8b5",
-      "after_effective_canonical_sha256": "46b9158969cebbb0670ce98b6131fab44d07e89ad38ccfd6f0fe086468798348",
-      "after_body_sha256": "793efcf86f6b680de8300fdd396da19f801d53c2e7d55c3ba848696e1ee97271",
-      "after_metadata_sha256": "76beea741983381dd3e466170753b7591a9441bf450f6f2074efc7d2184f57e3"
+    "answers/claude/which-dealership-software-does-claude-recommend.md": {
+      "before_effective_canonical_sha256": "4d46423c59df377b38621e21a0bcb5ba083f6932c07f4299f54c9d9ea13eb6ca",
+      "after_effective_canonical_sha256": "c1ef6f7740a90397c517120708f6ce8404991fcdfa3927cd48ddf39536720c6f",
+      "after_body_sha256": "219c6039075e6537e2032ee4bead4a7506619621a1099758e91eb904160d41dc",
+      "after_metadata_sha256": "c53ad8082683d9ba287975c74701047f56525bf42cc84049e196324564d87ec3"
     },
-    "answers/perplexity/which-legal-practice-software-does-perplexity-recommend.md": {
-      "before_effective_canonical_sha256": "e65471336f177c7588755d6f2c1b44fcbbdbd064e1f9960e813d6a4efe791e60",
-      "after_effective_canonical_sha256": "fc27fdf0ed396abe4848f0fc71c9f4c1ae6774226192e5f10f77aaa9c3b3f30b",
-      "after_body_sha256": "66862837280f9a5548ad2dd858321fbcf52b10b8311c9ed13b028470994f19bf",
-      "after_metadata_sha256": "ba6dba06ff94f1385c9b2a239b2a29e2bbfea5c6ec1b57f0691303340ba06cbe"
+    "answers/claude/which-dental-software-does-claude-recommend.md": {
+      "before_effective_canonical_sha256": "6734539f8dceb0c01062777dd592ae2884db5ba941e24c36462da235c14fea7a",
+      "after_effective_canonical_sha256": "58fd92224e3a22e398c812ef1fe0b9e3fc803b752ca965866351de6b89429b98",
+      "after_body_sha256": "11445f26e833f9e42c1567112998a5d89903355f01f7929ad9f0bd0d150b7ea5",
+      "after_metadata_sha256": "6f1939fd0107c79763bf87c5531bc892d1b6b44c98945f8d5ccd8ac749438636"
     },
-    "answers/perplexity/which-project-management-software-does-perplexity-recommend.md": {
-      "before_effective_canonical_sha256": "c76307720f195bb696a59c49fbc9ccccd4985cea8798d65cc1aec89ed50a249f",
-      "after_effective_canonical_sha256": "a91721df06925597b6620ad72686d6e2e6adb0c97fdd963552fbf0f5ba1db858",
-      "after_body_sha256": "e6250838ae6998844fd9d8c9f37456eb01a1817e6af003afae307ce370d686aa",
-      "after_metadata_sha256": "ac2823985db411a7814ffde52d8b1ffbe0f242bc365cbd93e9cf449215dbe63c"
+    "answers/claude/which-field-service-software-does-claude-recommend.md": {
+      "before_effective_canonical_sha256": "5070bc219184043c5a726b7552f097a14740c0c26380c7bb7d3ce024229053e5",
+      "after_effective_canonical_sha256": "d77819038c639b31b6914b8b51659aa0bd3fdd62c52814169fa5d298c9669473",
+      "after_body_sha256": "590c61e2647120bd62f90dabc6d3eb0d014c090f66aef1f7b2bce1bd842d4f7e",
+      "after_metadata_sha256": "e2460d00c6e9394c02b197155f4fbb8f8c066765570ac9ce9cf1231693c6292a"
     },
-    "answers/perplexity/which-property-management-software-does-perplexity-recommend.md": {
-      "before_effective_canonical_sha256": "e98d9d64aec0ee7297c5934c7785861233a2db28327a63f1347e4935fcc8fe7e",
-      "after_effective_canonical_sha256": "fe0f2239bb1693c3422880f0d1258932ad01bc7531ed664bcc36cab963a6e99c",
-      "after_body_sha256": "4069b4799240f01078db6b807bfb46266e14fba13e784bfa6342f22728516bb3",
-      "after_metadata_sha256": "443e304de4c96a56f7f55ca14c78dd266b6e059767787f7dbe9f43e606d41326"
+    "answers/claude/which-hotel-software-does-claude-recommend.md": {
+      "before_effective_canonical_sha256": "9371b081068d98f734a39de77e3fdb5783bcda2808bb89fea1f21a2f8acbbcd7",
+      "after_effective_canonical_sha256": "e13b868e1f1439dbb0d87e7c9fd3681cf9e98076deb25290a74add07dfbda548",
+      "after_body_sha256": "88541a97bc029b3a2f21953302b3f493ec4092208e7f35d541d967e520a26160",
+      "after_metadata_sha256": "e618f49b0e0377ecedcc9d2869255fa50d446ca35479a870d7a72ed42cad0899"
     },
-    "answers/perplexity/which-radiology-software-does-perplexity-recommend.md": {
-      "before_effective_canonical_sha256": "fd0698eddbf12090e901e817e2d92e88153b8fb55f34af09835aef0b0b4aeee1",
-      "after_effective_canonical_sha256": "600cf1fa8fe6f104e54b568a23f81b5d095cd30d1cf6e060c84438df2748efcd",
-      "after_body_sha256": "f5f8e996939938855707a3eed5463eb2b4de0a65cc218d8126f799e708ccfafd",
-      "after_metadata_sha256": "8825ba94ab1e18b492ca4b57b8aaf73f69ff6e8feacbcd4b2c93f6b122164177"
+    "answers/claude/which-insurance-agency-software-does-claude-recommend.md": {
+      "before_effective_canonical_sha256": "95c681e75784145b8a1097fbe45487274be7fc8645e14b9220cedbdde1e60aea",
+      "after_effective_canonical_sha256": "2565d1c97011d9f10fc3c33fe96ec820eb68f6ebbe792f6b505181f24f695957",
+      "after_body_sha256": "d5df57d1cd2165e8cdfbea61b4a31521db3cb56ccdc71abf1ec5e35fd81a6183",
+      "after_metadata_sha256": "5ef48abe9b935c4ed6ff761588128b294e67044a3db6be65a859ff179169b3a0"
     },
-    "answers/perplexity/which-transportation-software-does-perplexity-recommend.md": {
-      "before_effective_canonical_sha256": "9288860f76d752453ce7bf4930b38cf0f8d24e30c56f309e233d1edee512f87c",
-      "after_effective_canonical_sha256": "b4e422ad55280379cbd6f1ff290b350812cfa4bcc7d0b80316d9f34d3e07977a",
-      "after_body_sha256": "1fb937781df58ae27950e3117e5cba92bad8e8dc413176ce946085271f1aa7a4",
-      "after_metadata_sha256": "8fd76d2db9b87f45e89a4adbd8214d9bc48bd65cc84b17717eb2f723c993fb68"
+    "answers/claude/which-legal-practice-software-does-claude-recommend.md": {
+      "before_effective_canonical_sha256": "597f8a1a1b17f02b40d5a2005b0dd43dd922661e8cf2d8c408cd9d7d093cfb24",
+      "after_effective_canonical_sha256": "560760d1fb634294eceba5a1afc87970564c9c7f00d90e13b0bbf7b14c56a9a0",
+      "after_body_sha256": "baa9e77be8d00d6c86e95d9887da2aab3b0d4c7f19378ff67f3c941f2e93b749",
+      "after_metadata_sha256": "8a75d1c72c384d43daad47ec3ab167232b91a27a41e31aedb0f3e016a60fb073"
     },
-    "answers/perplexity/which-veterinary-software-does-perplexity-recommend.md": {
-      "before_effective_canonical_sha256": "9fd9e2f0b6654f70776baae1894304796669f3e20ae916533674afe180494202",
-      "after_effective_canonical_sha256": "a4f42948e40a40e2ccffed1ccbeaaa187eda8a654ec0455b90994da171564aac",
-      "after_body_sha256": "a5baf0ebc976b6fd8afa83922446220fb197f96e9b28968ffea44021cf5923c0",
-      "after_metadata_sha256": "9db2db6be087ca9807d0002e1526814d9688a0267e9bf2cb8883501300b2b286"
+    "answers/claude/which-loan-origination-software-does-claude-recommend.md": {
+      "before_effective_canonical_sha256": "4c4f2c63c982285ea3b592ed24d8d5d1f73952db5422d3024f29d8a5e542777b",
+      "after_effective_canonical_sha256": "84bc21a2cdb6c820e7f552593093ea5aa97d576f941840900bc00d3d4ba36ee7",
+      "after_body_sha256": "275272613b2a017d2279699724a1d98ada76ed18457d1f7670fe462a4f1e2d65",
+      "after_metadata_sha256": "0055039056015ee4ac69803bde9751a1aa1addd07a301f5f3e7cb904c4212ece"
+    },
+    "answers/claude/which-project-management-software-does-claude-recommend.md": {
+      "before_effective_canonical_sha256": "76ec2ca20b8fb6f37f4413d8a4321f2ff4ac70799a0af1dac023d21a1d0ee18e",
+      "after_effective_canonical_sha256": "27b935a91f9b59eee81350ee2a4dc7e4ee00f22d6b3d49f45295969db7dfb000",
+      "after_body_sha256": "6edeee067cc080d3201ffa1a4091f367ede29f3fd2416764365b8108e57647ec",
+      "after_metadata_sha256": "e74a8920ae90900f632a3bf57346ecdb303fedeff277597e8f2085f60245b4b2"
     }
   }
 }

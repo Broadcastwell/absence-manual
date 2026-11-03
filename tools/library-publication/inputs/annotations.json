@@ -7720,12 +7720,11 @@
     },
     "answers/claude/which-construction-software-does-claude-recommend.md": {
       "bank_id": "LB-Q0599",
-      "source_sha256": "1d2a7a33c6dfbae187aa978e1842f65039af62884818e8aca1256f7b33137486",
-      "canonical_source_sha256": "712e1b4510a31a4aeb8ff442bd34ece2080c9aedde417d908409534ad5ac5114",
+      "source_sha256": "83ecccb91ecdc1c511669fde80e1830acaf4fbfd094beda90ab98452938b77ac",
+      "canonical_source_sha256": "701c91d80f1957e31766d03705822c41d49178eeb043d87a67f9365859ebe773",
       "opening_sha256": "1e5597b283bb345838b8221ea3f1038ac4d98d7a40ace1446ad46b789a693a70",
       "opening_shape": "vendor_first",
       "classification_reason": "A named checked software vendor or product identity leads the first clause. The count follows that named subject. A list of vendors still uses this one shape. The observed first sentence is: Buildertrend and Procore each appeared in 21 of 30 Claude construction-software answers captured on 22 September 2026.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
       "lead_figures": [
         "figure:188c51b4469609c869d4c2424bc705d69cf7d5fb346fe4648a5b491df1b9cfda",
         "figure:a8c37ccfdedb149aa8c6de80fcf8ec010658824556ddc7608d6a9e2c950ad1a4",
@@ -7754,16 +7753,16 @@
           "Buildertrend and Procore each appeared in 21 of 30 Claude construction-software answers captured on 22 September 2026. Their equal totals hide a useful distinction: the small-residential-builder question named Buildertrend in all three answers and Procore in none. The mid-sized-general-contractor question reversed those two counts. Read that buyer context before treating the shared total as a recommendation for your firm."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "f04a5283d9b79f3f32e3dd58a57d744b9dd1838c9e50954fd02fa2bd2f659459",
+      "writing_review_sha256": "5334745a48c52eaa29d679dc1bbfa4c3dc6b98e67804080b4bec3b682cc3a430"
     },
     "answers/claude/which-crm-software-does-claude-recommend.md": {
       "bank_id": "LB-Q0607",
-      "source_sha256": "fac0ef7c1dee3d214cde9fd5e3b01e0e2ec514cd0a622689bc706f4dbf05f261",
-      "canonical_source_sha256": "094114b2a51e1f912479b72dc7e0578673f74cbbdde048126930794d97587769",
-      "opening_sha256": "3c1d51b5d2cec070b9e5229c55211c1da5fed580c943b88038d2459b92cfb84f",
-      "opening_shape": "study_result_first",
-      "classification_reason": "The first clause frames an observed study, engine, question or source-list result, rather than starting with the number itself or a checked vendor. Engine subjects and panel preambles share this class to avoid artificial variety. The observed first sentence is: Claude named both HubSpot CRM and Salesforce Sales Cloud in 24 of 30 CRM answers captured on 22 September 2026.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "source_sha256": "06f1c1e7b2cac05c25a5b88930a94be4692fc7f29b7cf92cbfd5c1a2edeac94e",
+      "canonical_source_sha256": "7aab0fdd2ee2bb6dab337f67457b56aec3a31fe74537ec1e1edabd5bc5e895e6",
+      "opening_sha256": "0ca987388f482eb9094a12e70702eeefee45642db4f7a906b61518286f358dd9",
+      "opening_shape": "figure_first",
+      "classification_reason": "The per-vendor24/30 observations are the initial subject; the handoff exception follows without claiming the two vendors always co-occurred.",
       "lead_figures": [
         "figure:124bfc86b231b6914bbb579f878ac7f84bc63331edd8864adcea8521ef8bff97",
         "figure:1d2a12d342a7aa7361b7e5d42c71dc127b4f6a26651f9ab3995199fbc57155e9",
@@ -7773,31 +7772,31 @@
       ],
       "lead_figure_spans": {
         "figure:124bfc86b231b6914bbb579f878ac7f84bc63331edd8864adcea8521ef8bff97": [
-          "Claude named both HubSpot CRM and Salesforce Sales Cloud in 24 of 30 CRM answers captured on 22 September 2026. Pipedrive appeared in 22 and Zoho CRM in 18. Yet none of the ten checked names appeared in the three answers about improving sales handoffs and follow-up. The collection therefore answers which names occurred, while leaving you to inspect how each answer treated the sales task."
+          "24 of 30 Claude answers in our customer relationship management (CRM) panel named HubSpot CRM; Salesforce Sales Cloud also had 24 naming observations. Pipedrive had 22 and Zoho CRM 18 in the [22 September 2026 collection](https://doi.org/10.5281/zenodo.22907695). Yet the three handoff-and-follow-up answers named none of the ten checked vendors. The lists describe what occurred under those questions, not which system would improve a sales team's handoff."
         ],
         "figure:1d2a12d342a7aa7361b7e5d42c71dc127b4f6a26651f9ab3995199fbc57155e9": [
-          "Claude named both HubSpot CRM and Salesforce Sales Cloud in 24 of 30 CRM answers captured on 22 September 2026. Pipedrive appeared in 22 and Zoho CRM in 18. Yet none of the ten checked names appeared in the three answers about improving sales handoffs and follow-up. The collection therefore answers which names occurred, while leaving you to inspect how each answer treated the sales task."
+          "24 of 30 Claude answers in our customer relationship management (CRM) panel named HubSpot CRM; Salesforce Sales Cloud also had 24 naming observations. Pipedrive had 22 and Zoho CRM 18 in the [22 September 2026 collection](https://doi.org/10.5281/zenodo.22907695). Yet the three handoff-and-follow-up answers named none of the ten checked vendors. The lists describe what occurred under those questions, not which system would improve a sales team's handoff."
         ],
         "figure:3873a989f5026d0709292e89e89c2da515e98dbe06b32ddcd785ea0cf349f0d9": [
-          "Claude named both HubSpot CRM and Salesforce Sales Cloud in 24 of 30 CRM answers captured on 22 September 2026. Pipedrive appeared in 22 and Zoho CRM in 18. Yet none of the ten checked names appeared in the three answers about improving sales handoffs and follow-up. The collection therefore answers which names occurred, while leaving you to inspect how each answer treated the sales task."
+          "24 of 30 Claude answers in our customer relationship management (CRM) panel named HubSpot CRM; Salesforce Sales Cloud also had 24 naming observations. Pipedrive had 22 and Zoho CRM 18 in the [22 September 2026 collection](https://doi.org/10.5281/zenodo.22907695). Yet the three handoff-and-follow-up answers named none of the ten checked vendors. The lists describe what occurred under those questions, not which system would improve a sales team's handoff."
         ],
         "figure:b80d4e9c651dd5d3a2a4f0f9243f6e4040ef02cb342d6ab79cbe2a2faab4b977": [
-          "Claude named both HubSpot CRM and Salesforce Sales Cloud in 24 of 30 CRM answers captured on 22 September 2026. Pipedrive appeared in 22 and Zoho CRM in 18. Yet none of the ten checked names appeared in the three answers about improving sales handoffs and follow-up. The collection therefore answers which names occurred, while leaving you to inspect how each answer treated the sales task."
+          "24 of 30 Claude answers in our customer relationship management (CRM) panel named HubSpot CRM; Salesforce Sales Cloud also had 24 naming observations. Pipedrive had 22 and Zoho CRM 18 in the [22 September 2026 collection](https://doi.org/10.5281/zenodo.22907695). Yet the three handoff-and-follow-up answers named none of the ten checked vendors. The lists describe what occurred under those questions, not which system would improve a sales team's handoff."
         ],
         "figure:c364822c991411ef9fe960fac169676ade785137558a621121215bf6aad50e58": [
-          "Claude named both HubSpot CRM and Salesforce Sales Cloud in 24 of 30 CRM answers captured on 22 September 2026. Pipedrive appeared in 22 and Zoho CRM in 18. Yet none of the ten checked names appeared in the three answers about improving sales handoffs and follow-up. The collection therefore answers which names occurred, while leaving you to inspect how each answer treated the sales task."
+          "24 of 30 Claude answers in our customer relationship management (CRM) panel named HubSpot CRM; Salesforce Sales Cloud also had 24 naming observations. Pipedrive had 22 and Zoho CRM 18 in the [22 September 2026 collection](https://doi.org/10.5281/zenodo.22907695). Yet the three handoff-and-follow-up answers named none of the ten checked vendors. The lists describe what occurred under those questions, not which system would improve a sales team's handoff."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "75eb25bc7bc15ba62f88fc53968eb2bd85798c2bbb9902556298c38ffc1cb1ea",
+      "writing_review_sha256": "d7429360eaecfd2f25492d54f3528a4a0e6d8b87320224cde27761fde11654ac"
     },
     "answers/claude/which-dealership-software-does-claude-recommend.md": {
       "bank_id": "LB-Q0600",
-      "source_sha256": "f68e818e6ac7dee5814a072a89663668d7ce4108ca2ceef8aeb5cebc14a26bbe",
-      "canonical_source_sha256": "4d46423c59df377b38621e21a0bcb5ba083f6932c07f4299f54c9d9ea13eb6ca",
-      "opening_sha256": "0e104802cb6fced13210521e80c76f783fe686f69462f72ad9287a847fa06978",
+      "source_sha256": "1a24c45e439373de7407e2990d29a0ca9d53fc040aaffcdaeda145c8b56e1ccc",
+      "canonical_source_sha256": "c1ef6f7740a90397c517120708f6ce8404991fcdfa3927cd48ddf39536720c6f",
+      "opening_sha256": "c7e0b59d6938ad487e30ac8a82881f98f302053383060816f29b4dc74e906453",
       "opening_shape": "context_contrast",
-      "classification_reason": "The first clause directly contrasts two buyer contexts or question types within an engine/category. This is distinct from a contrast between engines. The observed first sentence is: An independent lot and a dealer group should not inherit the same software list by assumption. Classification note: The first sentence directly contrasts an independent lot and a dealer group. It is not a contrast between engines.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "classification_reason": "The opening directly contrasts an independent lot and a dealer group, followed by within-Claude buyer-task differences. It is not a contrast between engines.",
       "lead_figures": [
         "figure:3e4f061c106c660e04d527f9c9a83d97caae9b595d28e47b2c9df0799128f764",
         "figure:56b30132bb09809437fad8bb7bf6d22d085bca4655c1640dcda93c7ab9794839",
@@ -7807,31 +7806,31 @@
       ],
       "lead_figure_spans": {
         "figure:3e4f061c106c660e04d527f9c9a83d97caae9b595d28e47b2c9df0799128f764": [
-          "An independent lot and a dealer group should not inherit the same software list by assumption. Claude named CDK Global in 20 of 30 dealership answers captured on 22 September 2026 and DealerCenter in 16. DealerCenter appeared in all three answers about an independent used-car dealer, while the twelve-rooftop-group question named CDK Global in all three and DealerCenter in none. Those observations provide context for further checking, rather than a verdict on either system."
+          "while the question about a group with twelve dealership locations named CDK Global in all three and DealerCenter in none."
         ],
         "figure:56b30132bb09809437fad8bb7bf6d22d085bca4655c1640dcda93c7ab9794839": [
-          "An independent lot and a dealer group should not inherit the same software list by assumption. Claude named CDK Global in 20 of 30 dealership answers captured on 22 September 2026 and DealerCenter in 16. DealerCenter appeared in all three answers about an independent used-car dealer, while the twelve-rooftop-group question named CDK Global in all three and DealerCenter in none. Those observations provide context for further checking, rather than a verdict on either system."
+          "Claude named CDK Global in 20 of 30 dealership answers captured on 22 September 2026 and DealerCenter in 16."
         ],
         "figure:597b57fb916081b74fe862c652d50aba9d1b33e44433a2de5fa6a9d773dd1c6e": [
-          "An independent lot and a dealer group should not inherit the same software list by assumption. Claude named CDK Global in 20 of 30 dealership answers captured on 22 September 2026 and DealerCenter in 16. DealerCenter appeared in all three answers about an independent used-car dealer, while the twelve-rooftop-group question named CDK Global in all three and DealerCenter in none. Those observations provide context for further checking, rather than a verdict on either system."
+          "Claude named CDK Global in 20 of 30 dealership answers captured on 22 September 2026 and DealerCenter in 16."
         ],
         "figure:87882c0fac9b5cdab5cf29f8d1241b122a040c4d7f501eef00ae99d673240147": [
-          "An independent lot and a dealer group should not inherit the same software list by assumption. Claude named CDK Global in 20 of 30 dealership answers captured on 22 September 2026 and DealerCenter in 16. DealerCenter appeared in all three answers about an independent used-car dealer, while the twelve-rooftop-group question named CDK Global in all three and DealerCenter in none. Those observations provide context for further checking, rather than a verdict on either system."
+          "DealerCenter appeared in all three answers about an independent used-car dealer"
         ],
         "figure:d317c0912426e96046591d5888d80c50abf08202d5b9dc6463e4f368fe94fd41": [
-          "An independent lot and a dealer group should not inherit the same software list by assumption. Claude named CDK Global in 20 of 30 dealership answers captured on 22 September 2026 and DealerCenter in 16. DealerCenter appeared in all three answers about an independent used-car dealer, while the twelve-rooftop-group question named CDK Global in all three and DealerCenter in none. Those observations provide context for further checking, rather than a verdict on either system."
+          "while the question about a group with twelve dealership locations named CDK Global in all three and DealerCenter in none."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "55fb150231cd9172e3f4a2b7a261a093c0509ca6331c539f7c157c65ab62a3ad",
+      "writing_review_sha256": "1de106fc2fea11514641c9c52c258f0a487721b982c1c8c880b123ad9edba0c4"
     },
     "answers/claude/which-dental-software-does-claude-recommend.md": {
       "bank_id": "LB-Q0601",
-      "source_sha256": "2de4b42ff86c6892c1abe9c51c97ec0954c01f1e7b12b99279c3beb4c56d683f",
-      "canonical_source_sha256": "6734539f8dceb0c01062777dd592ae2884db5ba941e24c36462da235c14fea7a",
-      "opening_sha256": "5ed84325f807229e1a44d3d473ba3f3d4749ef0c16997f539ec0235c3d92c7cd",
-      "opening_shape": "vendor_first",
-      "classification_reason": "A named checked software vendor or product identity leads the first clause. The count follows that named subject. A list of vendors still uses this one shape. The observed first sentence is: Dentrix appeared in 26 of 30 Claude dental-software answers captured on 22 September 2026, with Curve Dental in 25 and Open Dental in 24.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "source_sha256": "2de66088d41a0bc2aeb1c32680a594761f13da1de2955b5674ad4ae0c4c85a10",
+      "canonical_source_sha256": "58fd92224e3a22e398c812ef1fe0b9e3fc803b752ca965866351de6b89429b98",
+      "opening_sha256": "4300c1d5da155feb70d0911fc6cc863a5f517dcd958fd52880095417fc6a6718",
+      "opening_shape": "figure_first",
+      "classification_reason": "The bounded acronym/spelling changes retain the same opening subject and construction. The26/30 naming observation leads before other exact product totals, curing Claude hub vendor-shape concentration outside the96-page defect union.",
       "lead_figures": [
         "figure:416e2ba20df7d32b4d8b79f7e9f9be598f2b974855d65c011190b3e80ca7aa08",
         "figure:c87705af7f88041f55c314f1cf21b9fa9ceded23c940e6d864cf245f79aaff8d",
@@ -7839,25 +7838,25 @@
       ],
       "lead_figure_spans": {
         "figure:416e2ba20df7d32b4d8b79f7e9f9be598f2b974855d65c011190b3e80ca7aa08": [
-          "Dentrix appeared in 26 of 30 Claude dental-software answers captured on 22 September 2026, with Curve Dental in 25 and Open Dental in 24. These are observed naming counts, not dentists' votes. Product identity also matters: the release tracks Dentrix, Dentrix Ascend and Dentrix Enterprise as separate rows. Keep the named product intact when deciding which claim to check."
+          "26 of 30 Claude dental-software answers named Dentrix in our [22 September 2026 collection](https://doi.org/10.5281/zenodo.22907695); Curve Dental appeared in 25 and Open Dental in 24. These are naming observations rather than votes from dental practices. Dentrix, Dentrix Ascend and Dentrix Enterprise remain separate rows in the source, so a count for one cannot establish a claim about another edition."
         ],
         "figure:c87705af7f88041f55c314f1cf21b9fa9ceded23c940e6d864cf245f79aaff8d": [
-          "Dentrix appeared in 26 of 30 Claude dental-software answers captured on 22 September 2026, with Curve Dental in 25 and Open Dental in 24. These are observed naming counts, not dentists' votes. Product identity also matters: the release tracks Dentrix, Dentrix Ascend and Dentrix Enterprise as separate rows. Keep the named product intact when deciding which claim to check."
+          "26 of 30 Claude dental-software answers named Dentrix in our [22 September 2026 collection](https://doi.org/10.5281/zenodo.22907695); Curve Dental appeared in 25 and Open Dental in 24. These are naming observations rather than votes from dental practices. Dentrix, Dentrix Ascend and Dentrix Enterprise remain separate rows in the source, so a count for one cannot establish a claim about another edition."
         ],
         "figure:d5b1fbaa23f4d8b4317abcce8232322c2c2786695ecab90a4ebcc785c4cba8e6": [
-          "Dentrix appeared in 26 of 30 Claude dental-software answers captured on 22 September 2026, with Curve Dental in 25 and Open Dental in 24. These are observed naming counts, not dentists' votes. Product identity also matters: the release tracks Dentrix, Dentrix Ascend and Dentrix Enterprise as separate rows. Keep the named product intact when deciding which claim to check."
+          "26 of 30 Claude dental-software answers named Dentrix in our [22 September 2026 collection](https://doi.org/10.5281/zenodo.22907695); Curve Dental appeared in 25 and Open Dental in 24. These are naming observations rather than votes from dental practices. Dentrix, Dentrix Ascend and Dentrix Enterprise remain separate rows in the source, so a count for one cannot establish a claim about another edition."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "e5f25d749424e13b51db9a6cc9b209a007b95859fe1ce45fdc78add412aac1f1",
+      "writing_review_sha256": "6f3547d53fe8455bdb352132713c06aac18e918fdf6f44354f65d9fee25c3ec5"
     },
     "answers/claude/which-field-service-software-does-claude-recommend.md": {
       "bank_id": "LB-Q0602",
-      "source_sha256": "da2b6b6457bb05ba416768cb94b5699efa45aa3850ca19c1b62ffee8f2e7d2b4",
-      "canonical_source_sha256": "5070bc219184043c5a726b7552f097a14740c0c26380c7bb7d3ce024229053e5",
-      "opening_sha256": "d0252ab6054455356c0921219b2e50898a59d94f6d4891103c0e20cd442a2c78",
-      "opening_shape": "study_result_first",
-      "classification_reason": "The first clause frames an observed study, engine, question or source-list result, rather than starting with the number itself or a checked vendor. Engine subjects and panel preambles share this class to avoid artificial variety. The observed first sentence is: For field service software, Claude named ServiceTitan in 24 of 30 valid answers captured on 22 September 2026; Housecall Pro appeared in 21.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "source_sha256": "dd19b1c075f34bf67ce94cc57cbb39acc3d6a8e6a547aa3d91b28f4d257578f9",
+      "canonical_source_sha256": "d77819038c639b31b6914b8b51659aa0bd3fdd62c52814169fa5d298c9669473",
+      "opening_sha256": "688437973f310836e960a5aed66d7cbba465c3be8212bfc3287221271c8110ad",
+      "opening_shape": "date_first",
+      "classification_reason": "The bounded acronym/spelling changes retain the same opening subject and construction. The dated Claude panel leads before the contrast between commercial contractors and a growing plumbing team.",
       "lead_figures": [
         "figure:054b7c9ac2cd7611c9b3fd6326313d3f5b6c4b0ba43ff99728ea41d097e55f16",
         "figure:2f265d249995c191839d4285936128d4e69acd7748d9984a0609fd18b0063a50",
@@ -7868,34 +7867,34 @@
       ],
       "lead_figure_spans": {
         "figure:054b7c9ac2cd7611c9b3fd6326313d3f5b6c4b0ba43ff99728ea41d097e55f16": [
-          "For field service software, Claude named ServiceTitan in 24 of 30 valid answers captured on 22 September 2026; Housecall Pro appeared in 21. The commercial mechanical and fire-protection question named ServiceTitan and ServiceTrade in all three answers, with no Housecall Pro match. The growing-plumbing-team question named Housecall Pro in all three. That difference belongs to the recorded questions, rather than establishing a product's current trade coverage."
+          "On 22 September 2026, Claude's [field-service panel](https://doi.org/10.5281/zenodo.22907695) named ServiceTitan in 24 of 30 answers and Housecall Pro in 21. Its three commercial mechanical and fire-protection answers all named ServiceTitan and ServiceTrade, with no Housecall Pro match. The growing-plumbing-team question instead named Housecall Pro in three of three. These are different trade questions inside one panel, not evidence of an installed product's trade coverage."
         ],
         "figure:2f265d249995c191839d4285936128d4e69acd7748d9984a0609fd18b0063a50": [
-          "For field service software, Claude named ServiceTitan in 24 of 30 valid answers captured on 22 September 2026; Housecall Pro appeared in 21. The commercial mechanical and fire-protection question named ServiceTitan and ServiceTrade in all three answers, with no Housecall Pro match. The growing-plumbing-team question named Housecall Pro in all three. That difference belongs to the recorded questions, rather than establishing a product's current trade coverage."
+          "On 22 September 2026, Claude's [field-service panel](https://doi.org/10.5281/zenodo.22907695) named ServiceTitan in 24 of 30 answers and Housecall Pro in 21. Its three commercial mechanical and fire-protection answers all named ServiceTitan and ServiceTrade, with no Housecall Pro match. The growing-plumbing-team question instead named Housecall Pro in three of three. These are different trade questions inside one panel, not evidence of an installed product's trade coverage."
         ],
         "figure:60d64920b6639a90df1fcb7c677d516e41bfae9d3c6abed501b2ac499ed08729": [
-          "For field service software, Claude named ServiceTitan in 24 of 30 valid answers captured on 22 September 2026; Housecall Pro appeared in 21. The commercial mechanical and fire-protection question named ServiceTitan and ServiceTrade in all three answers, with no Housecall Pro match. The growing-plumbing-team question named Housecall Pro in all three. That difference belongs to the recorded questions, rather than establishing a product's current trade coverage."
+          "On 22 September 2026, Claude's [field-service panel](https://doi.org/10.5281/zenodo.22907695) named ServiceTitan in 24 of 30 answers and Housecall Pro in 21. Its three commercial mechanical and fire-protection answers all named ServiceTitan and ServiceTrade, with no Housecall Pro match. The growing-plumbing-team question instead named Housecall Pro in three of three. These are different trade questions inside one panel, not evidence of an installed product's trade coverage."
         ],
         "figure:62bd67a21c53d700432ef078c7a46d83c6f725e135aa9ca50a7f9e444ab6ba1e": [
-          "For field service software, Claude named ServiceTitan in 24 of 30 valid answers captured on 22 September 2026; Housecall Pro appeared in 21. The commercial mechanical and fire-protection question named ServiceTitan and ServiceTrade in all three answers, with no Housecall Pro match. The growing-plumbing-team question named Housecall Pro in all three. That difference belongs to the recorded questions, rather than establishing a product's current trade coverage."
+          "On 22 September 2026, Claude's [field-service panel](https://doi.org/10.5281/zenodo.22907695) named ServiceTitan in 24 of 30 answers and Housecall Pro in 21. Its three commercial mechanical and fire-protection answers all named ServiceTitan and ServiceTrade, with no Housecall Pro match. The growing-plumbing-team question instead named Housecall Pro in three of three. These are different trade questions inside one panel, not evidence of an installed product's trade coverage."
         ],
         "figure:9dcf5c00dc1480a666debe1a016523830ea698c71e61c84bbd80300692b86b39": [
-          "For field service software, Claude named ServiceTitan in 24 of 30 valid answers captured on 22 September 2026; Housecall Pro appeared in 21. The commercial mechanical and fire-protection question named ServiceTitan and ServiceTrade in all three answers, with no Housecall Pro match. The growing-plumbing-team question named Housecall Pro in all three. That difference belongs to the recorded questions, rather than establishing a product's current trade coverage."
+          "On 22 September 2026, Claude's [field-service panel](https://doi.org/10.5281/zenodo.22907695) named ServiceTitan in 24 of 30 answers and Housecall Pro in 21. Its three commercial mechanical and fire-protection answers all named ServiceTitan and ServiceTrade, with no Housecall Pro match. The growing-plumbing-team question instead named Housecall Pro in three of three. These are different trade questions inside one panel, not evidence of an installed product's trade coverage."
         ],
         "figure:badd608caa3cbfbb2eeb15a75ffd6667781025169fe78551d098d2ccbd37e065": [
-          "For field service software, Claude named ServiceTitan in 24 of 30 valid answers captured on 22 September 2026; Housecall Pro appeared in 21. The commercial mechanical and fire-protection question named ServiceTitan and ServiceTrade in all three answers, with no Housecall Pro match. The growing-plumbing-team question named Housecall Pro in all three. That difference belongs to the recorded questions, rather than establishing a product's current trade coverage."
+          "On 22 September 2026, Claude's [field-service panel](https://doi.org/10.5281/zenodo.22907695) named ServiceTitan in 24 of 30 answers and Housecall Pro in 21. Its three commercial mechanical and fire-protection answers all named ServiceTitan and ServiceTrade, with no Housecall Pro match. The growing-plumbing-team question instead named Housecall Pro in three of three. These are different trade questions inside one panel, not evidence of an installed product's trade coverage."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "e6dd3a66a56ca85ff18c7872b80d83d0641a680109d283aade799e114bd75a5f",
+      "writing_review_sha256": "d5ed2b2a452a9ce0dd794810a534c758f19d4503b5b42d90588eaa1ab6198088"
     },
     "answers/claude/which-hotel-software-does-claude-recommend.md": {
       "bank_id": "LB-Q0603",
-      "source_sha256": "2a7373b19e2c1f1db9e5c2ac604b7ee9e1e8591dab4ebbd3e52d5005d29c45be",
-      "canonical_source_sha256": "9371b081068d98f734a39de77e3fdb5783bcda2808bb89fea1f21a2f8acbbcd7",
-      "opening_sha256": "bbad7911143f70055b3e13375d2744a9ed60d5bba5da28cdd91015b9e0840dc0",
-      "opening_shape": "vendor_first",
-      "classification_reason": "A named checked software vendor or product identity leads the first clause. The count follows that named subject. A list of vendors still uses this one shape. The observed first sentence is: Cloudbeds appeared in 24 of 30 Claude hotel-software answers captured on 22 September 2026, including all three answers about a small independent hotel.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "source_sha256": "ede4900b418184667271dc330eb31d9f33e28d96b6a2440fa436d9b09e63f73d",
+      "canonical_source_sha256": "e13b868e1f1439dbb0d87e7c9fd3681cf9e98076deb25290a74add07dfbda548",
+      "opening_sha256": "cd3f61d16542f13d87ad6859e9c602f38a9ff3169c7a0cf1de13065c19580401",
+      "opening_shape": "belief_correction",
+      "classification_reason": "Denies that a hotel category total can substitute for a named comparison, then retains all three scoped Cloudbeds results.",
       "lead_figures": [
         "figure:15eb2046ae70118f171daa944cfa3934fbdd4899b40fc242310dccfc0035dbff",
         "figure:64a38a4effa137d9997dd4b689318e61d5a3a59279865f81a6794b2284137ac4",
@@ -7905,31 +7904,31 @@
       ],
       "lead_figure_spans": {
         "figure:15eb2046ae70118f171daa944cfa3934fbdd4899b40fc242310dccfc0035dbff": [
-          "Cloudbeds appeared in 24 of 30 Claude hotel-software answers captured on 22 September 2026, including all three answers about a small independent hotel. It appeared in none of the three answers comparing Maestro PMS with RoomKeyPMS for an independent hotel; both named comparison products appeared in all three. A broad category count therefore needs the question beside it. It does not show which system your hotel should buy."
+          "A broad hotel total cannot replace the specific comparison you asked Claude to make. Cloudbeds appeared in 24 of 30 [hotel-software answers](https://doi.org/10.5281/zenodo.22907695), including all three small-independent-hotel answers, on 22 September 2026. In the three property management system (PMS) comparison answers for Maestro PMS and RoomKeyPMS, Cloudbeds had no match and both named comparison products appeared every time. A supplied comparison name and a product discovered without that name in the question are different observations."
         ],
         "figure:64a38a4effa137d9997dd4b689318e61d5a3a59279865f81a6794b2284137ac4": [
-          "Cloudbeds appeared in 24 of 30 Claude hotel-software answers captured on 22 September 2026, including all three answers about a small independent hotel. It appeared in none of the three answers comparing Maestro PMS with RoomKeyPMS for an independent hotel; both named comparison products appeared in all three. A broad category count therefore needs the question beside it. It does not show which system your hotel should buy."
+          "A broad hotel total cannot replace the specific comparison you asked Claude to make. Cloudbeds appeared in 24 of 30 [hotel-software answers](https://doi.org/10.5281/zenodo.22907695), including all three small-independent-hotel answers, on 22 September 2026. In the three property management system (PMS) comparison answers for Maestro PMS and RoomKeyPMS, Cloudbeds had no match and both named comparison products appeared every time. A supplied comparison name and a product discovered without that name in the question are different observations."
         ],
         "figure:9e4fefd9909e544dd9631aff03eaa0c23c215a3f4fa46f5f310eb19ff8e366d3": [
-          "Cloudbeds appeared in 24 of 30 Claude hotel-software answers captured on 22 September 2026, including all three answers about a small independent hotel. It appeared in none of the three answers comparing Maestro PMS with RoomKeyPMS for an independent hotel; both named comparison products appeared in all three. A broad category count therefore needs the question beside it. It does not show which system your hotel should buy."
+          "A broad hotel total cannot replace the specific comparison you asked Claude to make. Cloudbeds appeared in 24 of 30 [hotel-software answers](https://doi.org/10.5281/zenodo.22907695), including all three small-independent-hotel answers, on 22 September 2026. In the three property management system (PMS) comparison answers for Maestro PMS and RoomKeyPMS, Cloudbeds had no match and both named comparison products appeared every time. A supplied comparison name and a product discovered without that name in the question are different observations."
         ],
         "figure:e478a4710569be8eb15f0bb4bc71c632e6e9595d4123ffd55814b9764963222c": [
-          "Cloudbeds appeared in 24 of 30 Claude hotel-software answers captured on 22 September 2026, including all three answers about a small independent hotel. It appeared in none of the three answers comparing Maestro PMS with RoomKeyPMS for an independent hotel; both named comparison products appeared in all three. A broad category count therefore needs the question beside it. It does not show which system your hotel should buy."
+          "A broad hotel total cannot replace the specific comparison you asked Claude to make. Cloudbeds appeared in 24 of 30 [hotel-software answers](https://doi.org/10.5281/zenodo.22907695), including all three small-independent-hotel answers, on 22 September 2026. In the three property management system (PMS) comparison answers for Maestro PMS and RoomKeyPMS, Cloudbeds had no match and both named comparison products appeared every time. A supplied comparison name and a product discovered without that name in the question are different observations."
         ],
         "figure:f7881ade96f4dab050099eec582dedfc53e070c000ab2f69180870f0c6610eac": [
-          "Cloudbeds appeared in 24 of 30 Claude hotel-software answers captured on 22 September 2026, including all three answers about a small independent hotel. It appeared in none of the three answers comparing Maestro PMS with RoomKeyPMS for an independent hotel; both named comparison products appeared in all three. A broad category count therefore needs the question beside it. It does not show which system your hotel should buy."
+          "A broad hotel total cannot replace the specific comparison you asked Claude to make. Cloudbeds appeared in 24 of 30 [hotel-software answers](https://doi.org/10.5281/zenodo.22907695), including all three small-independent-hotel answers, on 22 September 2026. In the three property management system (PMS) comparison answers for Maestro PMS and RoomKeyPMS, Cloudbeds had no match and both named comparison products appeared every time. A supplied comparison name and a product discovered without that name in the question are different observations."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "dd7afbd4216c69c4814b09e1287cdb7358bebee17bcab2bb82ce4ac178b107e9",
+      "writing_review_sha256": "0325e74ad8346ba96d933e15c63430aad44591c696150d53a617a0fdce0f3863"
     },
     "answers/claude/which-insurance-agency-software-does-claude-recommend.md": {
       "bank_id": "LB-Q0604",
-      "source_sha256": "c442edc82d9bb9731b932caeac848af1ae5e7c1feb0d78fdd587eda47d0c882a",
-      "canonical_source_sha256": "95c681e75784145b8a1097fbe45487274be7fc8645e14b9220cedbdde1e60aea",
+      "source_sha256": "cb8ac17402f786b0f8b625216c6deb886a94d7df9244692167c251ec362f67c4",
+      "canonical_source_sha256": "2565d1c97011d9f10fc3c33fe96ec820eb68f6ebbe792f6b505181f24f695957",
       "opening_sha256": "0b21f85fc6ccd45b4b8045b8a4fa6127cbcdcb5c38e36f0d0ecd45e40cd65035",
       "opening_shape": "context_contrast",
       "classification_reason": "The first clause directly contrasts two buyer contexts or question types within an engine/category. This is distinct from a contrast between engines. The observed first sentence is: Claude's benefits-agency answers gave a different research list from its property-and-casualty answers. Classification note: The benefits versus property-and-casualty contrast is within Claude; not engine_contrast.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
       "lead_figures": [
         "figure:4089640545a571f0f653e46f8978fd596d20b83c4ab97ae6688f03e7256a67c8",
         "figure:8bcfcb7b92bba03e3ee6bad3f2c18bc7c09b7d287218e09394197736657ada01",
@@ -7946,16 +7945,16 @@
           "Claude's benefits-agency answers gave a different research list from its property-and-casualty answers. In answers captured on 22 September 2026, Applied Systems appeared in 25 of 30 insurance-agency answers, EZLynx in 24 and HawkSoft in 22. Those are recorded names; choosing software for your agency still requires evidence about the actual product and work."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "1f9203663fcba370907a7d3f58380bb0c2844b18bd0ad411809b5ebbf88e7f32",
+      "writing_review_sha256": "2c5ba618956313b148f7352e9f656b966b99a6a18b333e3b9273d2dfa2e60df5"
     },
     "answers/claude/which-legal-practice-software-does-claude-recommend.md": {
       "bank_id": "LB-Q0605",
-      "source_sha256": "27532df5b07da3219c9cb82bde0aa6e077c728c0a5620dfdee76137f26c724a6",
-      "canonical_source_sha256": "597f8a1a1b17f02b40d5a2005b0dd43dd922661e8cf2d8c408cd9d7d093cfb24",
-      "opening_sha256": "624825ff1aa927743fa1d2789c12eef940beefb09c113e3b0a2f93324160fa17",
-      "opening_shape": "vendor_first",
-      "classification_reason": "A named checked software vendor or product identity leads the first clause. The count follows that named subject. A list of vendors still uses this one shape. The observed first sentence is: Clio appeared in 25 of 30 Claude legal-practice answers captured on 22 September 2026; 8am MyCase appeared in 21 and Filevine in 19.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "source_sha256": "597f8a1a1b17f02b40d5a2005b0dd43dd922661e8cf2d8c408cd9d7d093cfb24",
+      "canonical_source_sha256": "560760d1fb634294eceba5a1afc87970564c9c7f00d90e13b0bbf7b14c56a9a0",
+      "opening_sha256": "910ea93c1cc85502fb268d4bfeea0243a808496f897d7c73f614b604befac12a",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The litigation firm's migration situation supplies the initial condition before the mixed-category counts.",
       "lead_figures": [
         "figure:7e041977a54b2213ede1310eba50de7201858df5a576a7ab1e0aff7d0acb3595",
         "figure:85b8689a76af056b7c54f4d88f725f6a17715d35a20a0f6c12dd55995703c086",
@@ -7963,25 +7962,25 @@
       ],
       "lead_figure_spans": {
         "figure:7e041977a54b2213ede1310eba50de7201858df5a576a7ab1e0aff7d0acb3595": [
-          "Clio appeared in 25 of 30 Claude legal-practice answers captured on 22 September 2026; 8am MyCase appeared in 21 and Filevine in 19. For a litigation firm replacing an on-premise system, the useful next step is the matching question record, not a decision from those totals. The study recorded names rather than testing a practice's migration or professional requirements."
+          "If your litigation firm is leaving an on-site system, read the matching replacement question before choosing from Claude's category totals. In our [22 September 2026 legal-practice collection](https://doi.org/10.5281/zenodo.22907695), Clio appeared in 25 of 30 answers, 8am MyCase in 21 and Filevine in 19. Those totals mix buying situations; the study did not test your migration or establish that any named system meets your professional requirements."
         ],
         "figure:85b8689a76af056b7c54f4d88f725f6a17715d35a20a0f6c12dd55995703c086": [
-          "Clio appeared in 25 of 30 Claude legal-practice answers captured on 22 September 2026; 8am MyCase appeared in 21 and Filevine in 19. For a litigation firm replacing an on-premise system, the useful next step is the matching question record, not a decision from those totals. The study recorded names rather than testing a practice's migration or professional requirements."
+          "If your litigation firm is leaving an on-site system, read the matching replacement question before choosing from Claude's category totals. In our [22 September 2026 legal-practice collection](https://doi.org/10.5281/zenodo.22907695), Clio appeared in 25 of 30 answers, 8am MyCase in 21 and Filevine in 19. Those totals mix buying situations; the study did not test your migration or establish that any named system meets your professional requirements."
         ],
         "figure:eab1f098f0f832e75623372e82254895ef9cf7c4a68bba9f0d6e7fcbcbcbd21a": [
-          "Clio appeared in 25 of 30 Claude legal-practice answers captured on 22 September 2026; 8am MyCase appeared in 21 and Filevine in 19. For a litigation firm replacing an on-premise system, the useful next step is the matching question record, not a decision from those totals. The study recorded names rather than testing a practice's migration or professional requirements."
+          "If your litigation firm is leaving an on-site system, read the matching replacement question before choosing from Claude's category totals. In our [22 September 2026 legal-practice collection](https://doi.org/10.5281/zenodo.22907695), Clio appeared in 25 of 30 answers, 8am MyCase in 21 and Filevine in 19. Those totals mix buying situations; the study did not test your migration or establish that any named system meets your professional requirements."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "ab1a6cdd9366b06bef18db9b6c684cee3713c54d4dd63c82200065554df69426",
+      "writing_review_sha256": "f569e5199e836e3c4f78606a068bf4e1feeb7e96019a449fe08f20ae3bd2cd31"
     },
     "answers/claude/which-loan-origination-software-does-claude-recommend.md": {
       "bank_id": "LB-Q0606",
-      "source_sha256": "f6378e2ca75d4b5b2666fd630754ef27f8873d2d2116a088680d7712da176bc9",
-      "canonical_source_sha256": "4c4f2c63c982285ea3b592ed24d8d5d1f73952db5422d3024f29d8a5e542777b",
-      "opening_sha256": "36628f1cc1328d9407c10a8c8618458bee8e836a37b86dae4d996d3cf1f0532f",
-      "opening_shape": "reader_situation",
-      "classification_reason": "A specific reader, operation or decision condition leads the opening, followed by the answer. A bare category label is insufficient. The observed first sentence is: For a small mortgage broker, the recorded Claude list differed sharply from the community-bank list. nCino appeared in 21 of 30 loan-origination answers captured on 22 September 2026, but in none of the three answers to the small-broker question.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "source_sha256": "12b105311b5d28e6e9e49a2eb94a5f50f834a5b860553a41e90b26629d01cab4",
+      "canonical_source_sha256": "84bc21a2cdb6c820e7f552593093ea5aa97d576f941840900bc00d3d4ba36ee7",
+      "opening_sha256": "55ca6a1d69afed7c1a5a5140bde337a6a3d7b3907862c509bb519294975ef8b7",
+      "opening_shape": "question_back",
+      "classification_reason": "A specific small-mortgage-broker question organizes the observed broker list and its difference from the category total.",
       "lead_figures": [
         "figure:3417e3b11a5a92fc65c3b58435bb9865fe9b215262df28e9002e31ad636d9085",
         "figure:3f1be33e595f16dfa49afaf9e9c7d66dc098ace14016173b6680ba5f85729770",
@@ -7991,31 +7990,31 @@
       ],
       "lead_figure_spans": {
         "figure:3417e3b11a5a92fc65c3b58435bb9865fe9b215262df28e9002e31ad636d9085": [
-          "For a small mortgage broker, the recorded Claude list differed sharply from the community-bank list. nCino appeared in 21 of 30 loan-origination answers captured on 22 September 2026, but in none of the three answers to the small-broker question. ICE Mortgage Technology, Calyx and LendingPad each appeared in all three of those broker answers. The counts describe the captured lists, without assessing suitability for a lender."
+          "Are you choosing for a small mortgage broker? Claude named ICE Mortgage Technology, Calyx and LendingPad in each of that question's three answers, while nCino appeared in none. nCino's 21 of 30 across the full [loan-origination panel](https://doi.org/10.5281/zenodo.22907695) includes other lender questions from 22 September 2026. Keep the broker record separate from those totals; recorded names are not a test of suitability for your lending operation."
         ],
         "figure:3f1be33e595f16dfa49afaf9e9c7d66dc098ace14016173b6680ba5f85729770": [
-          "For a small mortgage broker, the recorded Claude list differed sharply from the community-bank list. nCino appeared in 21 of 30 loan-origination answers captured on 22 September 2026, but in none of the three answers to the small-broker question. ICE Mortgage Technology, Calyx and LendingPad each appeared in all three of those broker answers. The counts describe the captured lists, without assessing suitability for a lender."
+          "Are you choosing for a small mortgage broker? Claude named ICE Mortgage Technology, Calyx and LendingPad in each of that question's three answers, while nCino appeared in none. nCino's 21 of 30 across the full [loan-origination panel](https://doi.org/10.5281/zenodo.22907695) includes other lender questions from 22 September 2026. Keep the broker record separate from those totals; recorded names are not a test of suitability for your lending operation."
         ],
         "figure:748c17c31b5165a429621a8aa9114194842e17f3fbf057bc7cefba6928735849": [
-          "For a small mortgage broker, the recorded Claude list differed sharply from the community-bank list. nCino appeared in 21 of 30 loan-origination answers captured on 22 September 2026, but in none of the three answers to the small-broker question. ICE Mortgage Technology, Calyx and LendingPad each appeared in all three of those broker answers. The counts describe the captured lists, without assessing suitability for a lender."
+          "Are you choosing for a small mortgage broker? Claude named ICE Mortgage Technology, Calyx and LendingPad in each of that question's three answers, while nCino appeared in none. nCino's 21 of 30 across the full [loan-origination panel](https://doi.org/10.5281/zenodo.22907695) includes other lender questions from 22 September 2026. Keep the broker record separate from those totals; recorded names are not a test of suitability for your lending operation."
         ],
         "figure:afc278c149cd792222d138ce63accc0388e3a1e38d9f682b96033949a6e94e89": [
-          "For a small mortgage broker, the recorded Claude list differed sharply from the community-bank list. nCino appeared in 21 of 30 loan-origination answers captured on 22 September 2026, but in none of the three answers to the small-broker question. ICE Mortgage Technology, Calyx and LendingPad each appeared in all three of those broker answers. The counts describe the captured lists, without assessing suitability for a lender."
+          "Are you choosing for a small mortgage broker? Claude named ICE Mortgage Technology, Calyx and LendingPad in each of that question's three answers, while nCino appeared in none. nCino's 21 of 30 across the full [loan-origination panel](https://doi.org/10.5281/zenodo.22907695) includes other lender questions from 22 September 2026. Keep the broker record separate from those totals; recorded names are not a test of suitability for your lending operation."
         ],
         "figure:c970b4eba7e9140b138b867bc5193e951c71371ad480723806670f7aa0af7c9c": [
-          "For a small mortgage broker, the recorded Claude list differed sharply from the community-bank list. nCino appeared in 21 of 30 loan-origination answers captured on 22 September 2026, but in none of the three answers to the small-broker question. ICE Mortgage Technology, Calyx and LendingPad each appeared in all three of those broker answers. The counts describe the captured lists, without assessing suitability for a lender."
+          "Are you choosing for a small mortgage broker? Claude named ICE Mortgage Technology, Calyx and LendingPad in each of that question's three answers, while nCino appeared in none. nCino's 21 of 30 across the full [loan-origination panel](https://doi.org/10.5281/zenodo.22907695) includes other lender questions from 22 September 2026. Keep the broker record separate from those totals; recorded names are not a test of suitability for your lending operation."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "0379a4dfea18017302f94aacb9e5d3445db448c1b584a9619c5f980c5edbe7af",
+      "writing_review_sha256": "81f54f005b3edd80386c04783ce49f217d2f5fa789b900520803b053ddb848b9"
     },
     "answers/claude/which-project-management-software-does-claude-recommend.md": {
       "bank_id": "LB-Q0608",
-      "source_sha256": "cebc19f97945d8c1ef478d321d5aeefe96165df81506b7685917500b50d1bc7d",
-      "canonical_source_sha256": "76ec2ca20b8fb6f37f4413d8a4321f2ff4ac70799a0af1dac023d21a1d0ee18e",
+      "source_sha256": "76ec2ca20b8fb6f37f4413d8a4321f2ff4ac70799a0af1dac023d21a1d0ee18e",
+      "canonical_source_sha256": "27b935a91f9b59eee81350ee2a4dc7e4ee00f22d6b3d49f45295969db7dfb000",
       "opening_sha256": "48103c4cd26cfcd76248ba5e1e0a3bda406c29ca18fea919d898acf0bdc2393c",
       "opening_shape": "vendor_first",
       "classification_reason": "A named checked software vendor or product identity leads the first clause. The count follows that named subject. A list of vendors still uses this one shape. The observed first sentence is: ClickUp and Wrike tied at 18 of 30 Claude project-management answers captured on 22 September 2026, while Smartsheet appeared in 16.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
       "lead_figures": [
         "figure:af6ad112331a2bce1dca3a7437237e20232d21bf7a5adcbdb97ab1467b5375c1",
         "figure:cf59a650a1ef6390e7f0da4118797c9f10b78a82c09aa4fdac645e662a41937a",
@@ -8032,7 +8031,8 @@
           "ClickUp and Wrike tied at 18 of 30 Claude project-management answers captured on 22 September 2026, while Smartsheet appeared in 16. The tie leaves your project decision open. The underlying question records distinguish concurrent client work, spreadsheet replacement and distributed teams; the count measures naming rather than product quality."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "6b4c02f134e72fcca5cb3d70550ed5d003b45a481600bfdff9e8a78a19b7fd13",
+      "writing_review_sha256": "c7f34b26024d4af6b1fadd77d2b7fe12bdba102756d6d7890f2eccd7e1091634"
     },
     "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages.md": {
       "bank_id": "LB-Q0638",
@@ -10433,8 +10433,10 @@
     "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md": {
       "bank_id": "LB-Q0275",
       "source_sha256": "2633e93eb21db50dbfa957a8a1f58a9eb854c9a907d99340da15ca2cec4bc371",
-      "canonical_source_sha256": "670e9fd294e51b03ca5c8c60451f9f10914999c0969df1f7fcf7c5bfde9dcdce",
+      "canonical_source_sha256": "70b8ae7d031d7850b740cd5797cea032e828564ea53234a634f501bde462c5b3",
       "opening_sha256": "aa47957399e947a8c6ffb5ea919279613812e1e3517833135ded7d12fcc7942f",
+      "opening_shape": "date_first",
+      "classification_reason": "The guide-read date is the initial frame before the three reported robot purposes and the measured result.",
       "lead_figures": [
         "figure:d5a000f0e571856a76ac6c396cac26de2abb6ad010c4df5af70c7d568f205423"
       ],
@@ -10443,28 +10445,26 @@
           "On 29 October 2026, Anthropic's published crawler guide describes separate robots for training collection, search and user-directed retrieval, with robots.txt controls for each. Choose the control that matches your purpose. In our construction capture dated 22 September 2026, Claude named Buildertrend in 21 of 30 valid answers."
         ]
       },
-      "source_review_sha256": "efae86d4719cd7716441b139f632338b0365a7b5d6809954028749db0901284b",
-      "opening_shape": "date_first",
-      "classification_reason": "The guide-read date is the initial frame before the three reported robot purposes and the measured result.",
-      "writing_review_sha256": "a8a94e155e8807f7ab154f2ed1faa5086f1570e8fe96042dadf5b6b462e2e6fb"
+      "source_review_sha256": "21a34f74e7eb412ef382d7aadb6a847a47ca7322d73a3ea25bc322344c10eb5e",
+      "writing_review_sha256": "a694286954c0189339248fe75366f7a1b3f7090a5019c55fbd48f51c955e12f0"
     },
     "answers/claude/how-does-claude-web-search-work.md": {
       "bank_id": "LB-Q0281",
       "source_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407",
-      "canonical_source_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407",
-      "opening_sha256": "34b6b16ccaba1ab34fd2236f37cf40869fffa6b62a1bc729df69bcfcaac1464b",
+      "canonical_source_sha256": "d7158398f09040ad80923d7105d65ea8436423b8881812fc132105388baabc19",
+      "opening_sha256": "d09a3d9d9155cc714ba54d9621cb7926e42a4fc50c57a0f2d65c1fa28641c2f2",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The first sentence defines Claudewebsearch and conditional citation behavior. The later Procore figure does not make the opening vendor-first.",
       "lead_figures": [
         "figure:a8c37ccfdedb149aa8c6de80fcf8ec010658824556ddc7608d6a9e2c950ad1a4"
       ],
       "lead_figure_spans": {
         "figure:a8c37ccfdedb149aa8c6de80fcf8ec010658824556ddc7608d6a9e2c950ad1a4": [
-          "Claude web search retrieves material from the web to inform an answer and supplies citations when that search capability is used, according to Anthropic's guide read on 29 October 2026. Read the citation beside the particular claim. Our 22 September construction panel recorded Procore in 21 of 30 Claude answers."
+          "Our 22 September 2026 construction panel recorded Procore in 21 of 30 Claude answers."
         ]
       },
-      "source_review_sha256": "bbe39e351dc6c4764e86a27ae292f1cb2fec21e5ed3d3f09cacda94864c9635d",
-      "opening_shape": "answer_definition",
-      "classification_reason": "The first clause directly defines Claude web search and its conditional citation behavior, rather than leading with a vendor count or instruction.",
-      "writing_review_sha256": "a20ee32afccf7f449ec2b7a3d697191e237e51ef1787ced6dcd6bacc4b18d9c9"
+      "source_review_sha256": "f0abc7f45c8cfa276ab53a93601a6ff78d19f86669c491ee7fa7eee09ce338c4",
+      "writing_review_sha256": "8ee310266bf1fc5256c51fd756b40da577b23a731098ceea51fe6086d7e48716"
     },
     "answers/google-ai/which-software-tracks-brand-rankings-in-google-ai-overviews-and-bing-c.md": {
       "bank_id": "LB-Q0112",

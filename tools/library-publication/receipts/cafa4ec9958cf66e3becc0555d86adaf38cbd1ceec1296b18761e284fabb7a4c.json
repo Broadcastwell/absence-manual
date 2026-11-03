@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/claude/which-project-management-software-does-claude-recommend.md",
+  "before_effective_canonical_sha256": "76ec2ca20b8fb6f37f4413d8a4321f2ff4ac70799a0af1dac023d21a1d0ee18e",
+  "raw_canonical_source_sha256": "76ec2ca20b8fb6f37f4413d8a4321f2ff4ac70799a0af1dac023d21a1d0ee18e",
+  "after_effective_canonical_sha256": "27b935a91f9b59eee81350ee2a4dc7e4ee00f22d6b3d49f45295969db7dfb000",
+  "fact_ledger_sha256": "036d66a1724171a330f4315b00ec0917620b0eb4460b6f85eb2811abb76481b5",
+  "effective_payload_sha256": "e8f3e4966856134c73358de5c0575d727febfce72824ec1567d8ce82899f78bf",
+  "scope": "Root read full standaloneV3generator and all12literal old/new paragraph/factledger changes, verified V1/V3payload+ledgeridentity, exactlatestRootadoption and24fullfileSourceWritingreceipts. Datedobservations/retainedhistoricalquotes/neutralfooter,primarydestinationspreserved. Existing11PerplexityPASS and314actualpriorpayloads retained with current22peerbytes. Buildinputapprovalonly; fullbothscope/<=50actualsurfaces/freeze/native/Linux/production/tenlivepairs/discoverygates remain.",
+  "reviewed_utc": "2026-11-03T12:49:12.988416+00:00"
+}

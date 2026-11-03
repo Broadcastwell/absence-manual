@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/claude/which-construction-software-does-claude-recommend.md",
+  "before_effective_canonical_sha256": "712e1b4510a31a4aeb8ff442bd34ece2080c9aedde417d908409534ad5ac5114",
+  "raw_canonical_source_sha256": "83ecccb91ecdc1c511669fde80e1830acaf4fbfd094beda90ab98452938b77ac",
+  "after_effective_canonical_sha256": "701c91d80f1957e31766d03705822c41d49178eeb043d87a67f9365859ebe773",
+  "fact_ledger_sha256": "2378968bc3d4dabbfb002a17fc8bdced0b06aadd80b3e74e9eab27598075421a",
+  "effective_payload_sha256": "699b7d6e5e0b8e3afb13e27edd9469e95025d6b598be4f55af6ca0e55ca22fed",
+  "scope": "Root read full standaloneV3generator and all12literal old/new paragraph/factledger changes, verified V1/V3payload+ledgeridentity, exactlatestRootadoption and24fullfileSourceWritingreceipts. Datedobservations/retainedhistoricalquotes/neutralfooter,primarydestinationspreserved. Existing11PerplexityPASS and314actualpriorpayloads retained with current22peerbytes. Buildinputapprovalonly; fullbothscope/<=50actualsurfaces/freeze/native/Linux/production/tenlivepairs/discoverygates remain.",
+  "reviewed_utc": "2026-11-03T12:49:12.988416+00:00"
+}

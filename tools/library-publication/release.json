@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "approved": true,
-  "prior_artifact_sha256": "90f2895e4a94550a9942d529e6d073df63a476e812f81e135557ae4c481489fb",
-  "scope": "Root reviewed exact11Perplexity inputs for real bounded build; production release approval requires all actual gates. No automatic current/globalPASS.",
+  "prior_artifact_sha256": "50679ec2917536b2ead8671adcb731f9e642c94cf3af23e09c6fe4bcefc0d91c",
+  "scope": "Root exact12Claude buildinputapproval; no publication permit until all actual gates.",
   "inputs": {
     "schema_version": 1,
     "published_count": 326,
     "files": {
       "prior_state": {
         "path": "inputs/prior-state.json",
-        "sha256": "94e6d56bc86c403abb47e1526df47381deae0d15d597de8ab79f74d2bb58501f"
+        "sha256": "d18d52f8b5f5c9cf6e51e296f881f790ef0929ea1eb8f23ca8f425daa24f04dd"
       },
       "prior_payload": {
         "path": "inputs/prior-payload.json",
-        "sha256": "f2353b5bbeec92a46c96c071fa8c95d339c114fae82a2ee670e1aac38f654c32"
+        "sha256": "7b5a6193996d6d8ac24eb7d05ea8e555e743c5e2f979d1763903dc7329f37b9b"
       },
       "prior_hub_payload": {
         "path": "inputs/prior-hub-payloads.json",
@@ -45,31 +45,31 @@
       },
       "production_receipt": {
         "path": "inputs/production-payload-receipt.ROOT_APPROVED.json",
-        "sha256": "66cc7b2a01e8494c3f6a14abfe9ba7aa524466dc00567ac3a298d6195a708771"
+        "sha256": "2eab450ef4061c615daaea6b70f784b4dc5cfae4957ef1ae50f51867f384a346"
       },
       "current_annotations": {
         "path": "inputs/annotations.json",
-        "sha256": "d10d8b2499adba5357c2f3929c047963691083099a234c517303456a9f4f1a7d"
+        "sha256": "081e42ee706234f16a49bb6af95ed4ce16f23f6ac61296ca5b0f3833974fbff0"
       },
       "active_revisions": {
         "path": "inputs/active-revisions.json",
-        "sha256": "7ed34da76592d38822610c94445b9c45ef3d6b45fa5df6143cb6e68bb239dc14"
+        "sha256": "3fe9a28b105ec0f43682f966e45f96ceb28e89c0437c84e91b18cac72080e611"
       },
       "merges": {
         "path": "inputs/merges.json",
-        "sha256": "75ca8d3d045022171d0c4748f284670ef21d9f32a302d714f775c1fb7996ab85"
+        "sha256": "3b507e994687a85caee66cda1d0a757934f4aa299a8e55c6be580ef5869630c5"
       },
       "hub_changes": {
         "path": "inputs/hub-changes.json",
-        "sha256": "ad651836fd38444a794e6caf3778efabf65a037f4d83ec36771e8d019f7fddbf"
+        "sha256": "85b271ecb057a3d400f7379416e051cd988170cfe81802ca7398b7cda9405688"
       },
       "authorized_changes": {
         "path": "inputs/authorized-changes.json",
-        "sha256": "0d4665a377baaef797f8c66e5654061a5b99841f7318944ad7d88858e9372f48"
+        "sha256": "fc91891b5a6ad1aa3840c3184da0b8bc296658bb549f0338f064fd26023fac95"
       },
       "prior_artifact": {
         "path": "PRIOR_ARTIFACT_DOWNLOAD_REQUIRED.zip",
-        "sha256": "90f2895e4a94550a9942d529e6d073df63a476e812f81e135557ae4c481489fb"
+        "sha256": "50679ec2917536b2ead8671adcb731f9e642c94cf3af23e09c6fe4bcefc0d91c"
       }
     },
     "receipt_files": [
@@ -78,8 +78,8 @@
         "sha256": "f85e83933ed594a8cd8ecd16470dfc35b3cfeede7a03b48d8acfb5d57ea7fbf9"
       },
       {
-        "path": "receipts/2f07c43648b77440e8b1c06ffeb0d92db798498a2b994b2d99099bcdcb020c81.json",
-        "sha256": "2f07c43648b77440e8b1c06ffeb0d92db798498a2b994b2d99099bcdcb020c81"
+        "path": "receipts/82856953131cb0ab8e8f1639c24cf51241d723a2619fec2867784baca61d49e7.json",
+        "sha256": "82856953131cb0ab8e8f1639c24cf51241d723a2619fec2867784baca61d49e7"
       },
       {
         "path": "receipts/7d0fa58ad8006b682d782217f9e7be0d5bb0a571b20cbcab76c48ebfda0dc080.json",
@@ -170,111 +170,211 @@
         "sha256": "af57eb2f59f6a4273e41ec6ccb4e77b4ffa60328382d10c9d7d0df8f317474f3"
       },
       {
-        "path": "receipts/b33044003ab94b67a566bf5d7063acc215767211b90ba45c89661ca15c8416af.json",
-        "sha256": "b33044003ab94b67a566bf5d7063acc215767211b90ba45c89661ca15c8416af"
+        "path": "receipts/21a34f74e7eb412ef382d7aadb6a847a47ca7322d73a3ea25bc322344c10eb5e.json",
+        "sha256": "21a34f74e7eb412ef382d7aadb6a847a47ca7322d73a3ea25bc322344c10eb5e"
       },
       {
-        "path": "receipts/a17b1b2da2255fb61e655b7d8d03ec470790d3deaef239a19c02b6a3a5ee4aab.json",
-        "sha256": "a17b1b2da2255fb61e655b7d8d03ec470790d3deaef239a19c02b6a3a5ee4aab"
+        "path": "receipts/a694286954c0189339248fe75366f7a1b3f7090a5019c55fbd48f51c955e12f0.json",
+        "sha256": "a694286954c0189339248fe75366f7a1b3f7090a5019c55fbd48f51c955e12f0"
       },
       {
-        "path": "receipts/37b173731cb860411b84327efd79123f0f7c52c093db746b1cd9b6afbbe11381.json",
-        "sha256": "37b173731cb860411b84327efd79123f0f7c52c093db746b1cd9b6afbbe11381"
+        "path": "receipts/f0abc7f45c8cfa276ab53a93601a6ff78d19f86669c491ee7fa7eee09ce338c4.json",
+        "sha256": "f0abc7f45c8cfa276ab53a93601a6ff78d19f86669c491ee7fa7eee09ce338c4"
       },
       {
-        "path": "receipts/3fefd1374caedbde9e689bf9b363f8f1fe4936ae8e2e24dd26c1317c9d5abe49.json",
-        "sha256": "3fefd1374caedbde9e689bf9b363f8f1fe4936ae8e2e24dd26c1317c9d5abe49"
+        "path": "receipts/8ee310266bf1fc5256c51fd756b40da577b23a731098ceea51fe6086d7e48716.json",
+        "sha256": "8ee310266bf1fc5256c51fd756b40da577b23a731098ceea51fe6086d7e48716"
       },
       {
-        "path": "receipts/fbea6570662bf7475faf9fd3583aad14780db4f89ac522d9ec67c3a7fdfc9745.json",
-        "sha256": "fbea6570662bf7475faf9fd3583aad14780db4f89ac522d9ec67c3a7fdfc9745"
+        "path": "receipts/f04a5283d9b79f3f32e3dd58a57d744b9dd1838c9e50954fd02fa2bd2f659459.json",
+        "sha256": "f04a5283d9b79f3f32e3dd58a57d744b9dd1838c9e50954fd02fa2bd2f659459"
       },
       {
-        "path": "receipts/449f7c73451c3a98431a0dda2b087046843cf4e096b67bf1607c0c15db72dc76.json",
-        "sha256": "449f7c73451c3a98431a0dda2b087046843cf4e096b67bf1607c0c15db72dc76"
+        "path": "receipts/5334745a48c52eaa29d679dc1bbfa4c3dc6b98e67804080b4bec3b682cc3a430.json",
+        "sha256": "5334745a48c52eaa29d679dc1bbfa4c3dc6b98e67804080b4bec3b682cc3a430"
       },
       {
-        "path": "receipts/68e76941f2c12d2c39001fb6503563d6dcd341154851b487e0f179a0b38d1e12.json",
-        "sha256": "68e76941f2c12d2c39001fb6503563d6dcd341154851b487e0f179a0b38d1e12"
+        "path": "receipts/75eb25bc7bc15ba62f88fc53968eb2bd85798c2bbb9902556298c38ffc1cb1ea.json",
+        "sha256": "75eb25bc7bc15ba62f88fc53968eb2bd85798c2bbb9902556298c38ffc1cb1ea"
       },
       {
-        "path": "receipts/8b3ceabf50686a4e274e61916c8c375d49d9492bafefbd1698d0eea991b88389.json",
-        "sha256": "8b3ceabf50686a4e274e61916c8c375d49d9492bafefbd1698d0eea991b88389"
+        "path": "receipts/d7429360eaecfd2f25492d54f3528a4a0e6d8b87320224cde27761fde11654ac.json",
+        "sha256": "d7429360eaecfd2f25492d54f3528a4a0e6d8b87320224cde27761fde11654ac"
       },
       {
-        "path": "receipts/682354d77f7b63eaefe2da03472ea964269800184a0a5e4862e3c5178570926b.json",
-        "sha256": "682354d77f7b63eaefe2da03472ea964269800184a0a5e4862e3c5178570926b"
+        "path": "receipts/55fb150231cd9172e3f4a2b7a261a093c0509ca6331c539f7c157c65ab62a3ad.json",
+        "sha256": "55fb150231cd9172e3f4a2b7a261a093c0509ca6331c539f7c157c65ab62a3ad"
       },
       {
-        "path": "receipts/68b593374b11bafa41ec35e525e9f8a609c5216f4c4d946f115e9854cadeca7e.json",
-        "sha256": "68b593374b11bafa41ec35e525e9f8a609c5216f4c4d946f115e9854cadeca7e"
+        "path": "receipts/1de106fc2fea11514641c9c52c258f0a487721b982c1c8c880b123ad9edba0c4.json",
+        "sha256": "1de106fc2fea11514641c9c52c258f0a487721b982c1c8c880b123ad9edba0c4"
       },
       {
-        "path": "receipts/0ee1d4837a9d96fd409023d3d2b4cecff098f41de5ec3ba32504c1df2a75bd5e.json",
-        "sha256": "0ee1d4837a9d96fd409023d3d2b4cecff098f41de5ec3ba32504c1df2a75bd5e"
+        "path": "receipts/e5f25d749424e13b51db9a6cc9b209a007b95859fe1ce45fdc78add412aac1f1.json",
+        "sha256": "e5f25d749424e13b51db9a6cc9b209a007b95859fe1ce45fdc78add412aac1f1"
+      },
+      {
+        "path": "receipts/6f3547d53fe8455bdb352132713c06aac18e918fdf6f44354f65d9fee25c3ec5.json",
+        "sha256": "6f3547d53fe8455bdb352132713c06aac18e918fdf6f44354f65d9fee25c3ec5"
+      },
+      {
+        "path": "receipts/e6dd3a66a56ca85ff18c7872b80d83d0641a680109d283aade799e114bd75a5f.json",
+        "sha256": "e6dd3a66a56ca85ff18c7872b80d83d0641a680109d283aade799e114bd75a5f"
+      },
+      {
+        "path": "receipts/d5ed2b2a452a9ce0dd794810a534c758f19d4503b5b42d90588eaa1ab6198088.json",
+        "sha256": "d5ed2b2a452a9ce0dd794810a534c758f19d4503b5b42d90588eaa1ab6198088"
+      },
+      {
+        "path": "receipts/dd7afbd4216c69c4814b09e1287cdb7358bebee17bcab2bb82ce4ac178b107e9.json",
+        "sha256": "dd7afbd4216c69c4814b09e1287cdb7358bebee17bcab2bb82ce4ac178b107e9"
+      },
+      {
+        "path": "receipts/0325e74ad8346ba96d933e15c63430aad44591c696150d53a617a0fdce0f3863.json",
+        "sha256": "0325e74ad8346ba96d933e15c63430aad44591c696150d53a617a0fdce0f3863"
+      },
+      {
+        "path": "receipts/1f9203663fcba370907a7d3f58380bb0c2844b18bd0ad411809b5ebbf88e7f32.json",
+        "sha256": "1f9203663fcba370907a7d3f58380bb0c2844b18bd0ad411809b5ebbf88e7f32"
+      },
+      {
+        "path": "receipts/2c5ba618956313b148f7352e9f656b966b99a6a18b333e3b9273d2dfa2e60df5.json",
+        "sha256": "2c5ba618956313b148f7352e9f656b966b99a6a18b333e3b9273d2dfa2e60df5"
+      },
+      {
+        "path": "receipts/ab1a6cdd9366b06bef18db9b6c684cee3713c54d4dd63c82200065554df69426.json",
+        "sha256": "ab1a6cdd9366b06bef18db9b6c684cee3713c54d4dd63c82200065554df69426"
+      },
+      {
+        "path": "receipts/f569e5199e836e3c4f78606a068bf4e1feeb7e96019a449fe08f20ae3bd2cd31.json",
+        "sha256": "f569e5199e836e3c4f78606a068bf4e1feeb7e96019a449fe08f20ae3bd2cd31"
+      },
+      {
+        "path": "receipts/0379a4dfea18017302f94aacb9e5d3445db448c1b584a9619c5f980c5edbe7af.json",
+        "sha256": "0379a4dfea18017302f94aacb9e5d3445db448c1b584a9619c5f980c5edbe7af"
+      },
+      {
+        "path": "receipts/81f54f005b3edd80386c04783ce49f217d2f5fa789b900520803b053ddb848b9.json",
+        "sha256": "81f54f005b3edd80386c04783ce49f217d2f5fa789b900520803b053ddb848b9"
+      },
+      {
+        "path": "receipts/6b4c02f134e72fcca5cb3d70550ed5d003b45a481600bfdff9e8a78a19b7fd13.json",
+        "sha256": "6b4c02f134e72fcca5cb3d70550ed5d003b45a481600bfdff9e8a78a19b7fd13"
+      },
+      {
+        "path": "receipts/c7f34b26024d4af6b1fadd77d2b7fe12bdba102756d6d7890f2eccd7e1091634.json",
+        "sha256": "c7f34b26024d4af6b1fadd77d2b7fe12bdba102756d6d7890f2eccd7e1091634"
+      },
+      {
+        "path": "receipts/40aafd5270ae5a767d134ce493638275188989d10b1d2af72768c79ceb24103e.json",
+        "sha256": "40aafd5270ae5a767d134ce493638275188989d10b1d2af72768c79ceb24103e"
+      },
+      {
+        "path": "receipts/067442d963fc702fc669d963ce4b9aeacb925aaee6a92324b59fc22fcd4caf8b.json",
+        "sha256": "067442d963fc702fc669d963ce4b9aeacb925aaee6a92324b59fc22fcd4caf8b"
+      },
+      {
+        "path": "receipts/b74d624f8163f737636c68d317d62e169f27973dd70976f8ba8976bf0fdb91b6.json",
+        "sha256": "b74d624f8163f737636c68d317d62e169f27973dd70976f8ba8976bf0fdb91b6"
+      },
+      {
+        "path": "receipts/ad16a82d50d8d8b58f77645d1c7ff62c84db34cde9a4e60ccf33cf50820e8e19.json",
+        "sha256": "ad16a82d50d8d8b58f77645d1c7ff62c84db34cde9a4e60ccf33cf50820e8e19"
+      },
+      {
+        "path": "receipts/c13a4e1e591e13db6ac5b32a565370bcdce597d3658d0a90508e1da39cf93753.json",
+        "sha256": "c13a4e1e591e13db6ac5b32a565370bcdce597d3658d0a90508e1da39cf93753"
+      },
+      {
+        "path": "receipts/b750297077fdab4568d210f2c81fb459682c58e0b7174a30e7d37e05fcee2fc6.json",
+        "sha256": "b750297077fdab4568d210f2c81fb459682c58e0b7174a30e7d37e05fcee2fc6"
+      },
+      {
+        "path": "receipts/70b3d9d48c4074419b404149dbdb3a7d93fc5d6a7f129104fc9a50e0fe9a3ba0.json",
+        "sha256": "70b3d9d48c4074419b404149dbdb3a7d93fc5d6a7f129104fc9a50e0fe9a3ba0"
+      },
+      {
+        "path": "receipts/c4e8d850dce88f2c7242c7c8d25bbb9f510578a525bbb3e3ebf9b06ab3ecb32d.json",
+        "sha256": "c4e8d850dce88f2c7242c7c8d25bbb9f510578a525bbb3e3ebf9b06ab3ecb32d"
+      },
+      {
+        "path": "receipts/e2c617980e11d3767334c0f0fd791934d378b7986702248380c59f2edc9d6593.json",
+        "sha256": "e2c617980e11d3767334c0f0fd791934d378b7986702248380c59f2edc9d6593"
+      },
+      {
+        "path": "receipts/d6de023852cda55ea3e1f51519f5303c39303eedbb11e87dc08a57add6b29389.json",
+        "sha256": "d6de023852cda55ea3e1f51519f5303c39303eedbb11e87dc08a57add6b29389"
+      },
+      {
+        "path": "receipts/924b939c491119a3635336bb5d19cabcd764ec54cc63eeb97c5eaa57528c2496.json",
+        "sha256": "924b939c491119a3635336bb5d19cabcd764ec54cc63eeb97c5eaa57528c2496"
+      },
+      {
+        "path": "receipts/cafa4ec9958cf66e3becc0555d86adaf38cbd1ceec1296b18761e284fabb7a4c.json",
+        "sha256": "cafa4ec9958cf66e3becc0555d86adaf38cbd1ceec1296b18761e284fabb7a4c"
       }
     ],
     "actual_prior_production_binding": {
-      "commit_sha": "c0a3d83953260dfdb183deeacf76eb3fcb5554d5",
-      "deployment_id": "41623692009",
-      "artifact_sha256": "90f2895e4a94550a9942d529e6d073df63a476e812f81e135557ae4c481489fb",
-      "served_receipt_sha256": "1f74bbe1b17d9c4e3aaa20b8af3e749441240cd88a1d4519e1adef1682c988c6"
+      "commit_sha": "2c6fdb75a2f1c494b56f57bf965927d7cd1c477d",
+      "deployment_id": "41634511785",
+      "artifact_sha256": "50679ec2917536b2ead8671adcb731f9e642c94cf3af23e09c6fe4bcefc0d91c",
+      "served_receipt_sha256": "faae87c07d85b092dd9ca5cb4f9ed878e78a5212dbc15b460e23a03fb4b2f929"
     },
     "quality_module_sha256": "167511781baa8552afa6824c0bae417bc4c63d47915809f76c5c0e9408964179",
     "historical_baseline_sha256": "544beae9bf01b1071034733a5134057eeab890e7303383c39984f7ea5e67faf8",
     "finite_module_sha256": "f6d5fca32d51e9d68f8fa38df2bf4607559b5eebfb6f243f976450d50119f474",
     "finite_map_sha256": "4ae10f72b10b99f7047bfebe2ad1f1eecb28e452e42ca4b6e1ef6da66c9d78f8",
-    "frozen_receipt_sha256": "2f07c43648b77440e8b1c06ffeb0d92db798498a2b994b2d99099bcdcb020c81",
+    "frozen_receipt_sha256": "82856953131cb0ab8e8f1639c24cf51241d723a2619fec2867784baca61d49e7",
     "frozen_effective_pins": {
-      "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt.md": "73fb43ce2224acb5e454c1159287ddce0c923cfca12ea91750fac745f49c072f",
-      "answers/geo-basics/do-brand-name-prompts-measure-discovery.md": "07b4670c11b5c2d27dc5620f062846097654a841eb3fac7ad3ec4a56d6eea12a",
-      "answers/measurement/what-should-a-client-ai-visibility-report-contain.md": "c02460b845fd63e678beadbb31e2e0d74d95fa18b11a48262267f37cd6963231",
-      "answers/geo-basics/does-being-named-by-ai-prove-product-quality.md": "06057b234c9c08d77b824b705ba3634586e1987153cc0e829cac0993ea65de2c",
-      "answers/geo-basics/why-does-the-buyer-question-matter-to-an-ai-shortlist.md": "3105b9a375e1404d8655f5b720c77ca794b274732ce5396514ba414ebe0c76ab",
-      "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility.md": "535f72327d0c9d85eb6a282e0f97b38e82726a9dc124df7bc004ddc846b8c26f",
-      "answers/measurement/how-many-repeated-runs-make-an-ai-visibility-rate-useful.md": "bcaf4372173e5111a26c9509a86a1fbfa90a4590f5211e51904d2293fac5fd3a",
-      "answers/fixes/what-does-google-s-guidance-say-about-llms-txt.md": "d37d17bfa105475aa5bdf81b385254c6166ba757fdb08820097c0fe6c5da1615",
-      "answers/fixes/how-should-i-request-an-ai-fact-correction-with-a-source-receipt.md": "125c50e46f1ed888e45e64f69d69d10a6118afc6e9ba1ecde2f4baeb209a2a48",
-      "answers/geo-basics/does-ai-search-replace-seo.md": "28d37990b0e5e37f62051f060eddd28032cff3428bb8ec83e18976f50ac6360b",
-      "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md": "07bd12f847d6d941466d0688cc36d49133518f48cc5edda1d1c5b0d61a348c52",
-      "answers/measurement/what-can-search-console-show-about-ai-visibility-queries.md": "e4eeb023e6b4581e9ec4b54384cd2ed26949a4a6ea7c1c7543a49cad02148b01",
-      "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re.md": "e6af0fa0909b0b7ad9506dcab50cfb36e05a3ae93f9b3014b3e708e70d1b2a78",
-      "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data.md": "2c69cd2c54d0a9d3fcc631fd4422c03e8d7f50ca7e9344991a6cb3998475ca1c",
-      "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence.md": "8a40cb26d14d1e76370811cf9ad53079129945efddd892773ff91d2efde91b34",
-      "answers/measurement/what-counts-as-an-own-domain-citation-in-an-ai-answer.md": "08e8b6a72313325c93c53eb3386b524997452fd08bb0ab7eda82608d886a0ac3",
-      "answers/fixes/is-llms-txt-actually-used.md": "9ae50fc1b371cf796252ef309039dbf71c5ca181e88cd62f09d303380ff165d3",
-      "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple.md": "c34a4c841f1b18fd527750073bc5c71dfc6ccd90f1aec5d871510b51c740600b",
-      "answers/fixes/can-google-ai-overview-answers-be-changed.md": "45383144418c23727a72dd53f211da4edad3e5d641cb6899ac2f88261e648a75",
-      "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo.md": "815dfc8e6f21bc716b0807b2c8e36cbca584b19733d9dff3f235d6291579b72b",
-      "answers/fixes/how-should-i-check-an-llms-txt-file.md": "13137858c64d80a9c883315e7014ee510222bc3376ae5975933f448cc660f495",
-      "answers/geo-basics/what-does-llm-in-ai-mean.md": "3328abbf97f0a5ec354d5edb3df89de5c019ca1861d8459d92cc1ed5afb65ff1",
-      "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features.md": "ad2953b1d9f24a9d72bf27e10f01cecb62d27ffcbf707aae539dd344d2d217ed",
       "answers/geo-basics/is-perplexity-good-for-seo.md": "1476de764012e7bdf2ee8821e63bcbc21a7d644954a22c3248fb350c76d5c9b2",
-      "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify.md": "2775308c1321ecd3fa17f6cdd0362f14430f5259fb3ca3f5cc0dbd889dc4febf",
-      "answers/geo-basics/what-does-ai-visibility-mean.md": "fc2ed968886c3c83994bda32f4db2926d15cb8f84914a8c601ebbf8f74cf6f53",
-      "answers/fixes/what-is-an-llms-txt-checker.md": "36095d1879202e5f13e438c3a8536af89b3686c425c07da3f890ef71d1033c7c",
-      "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction.md": "0327f05f7e56101056f7f3de0780013ba4a9e90ebd0ba765b8ecc6a315162a18",
-      "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations.md": "682f74a734a563fc43fb6a9ae6a195ccd4f03ce998ccba84de9984dfd40e88b4",
-      "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md": "154745882ee75a9572122f9dd7b346b807d384b8a9490d1ee5e536ee3b64b581",
-      "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies.md": "290dfc95ea255afceb67356f97fa010b10a4cd652fdf74c52df328534b1afb8e",
-      "answers/geo-basics/can-ai-search-use-information-from-the-live-web.md": "9050d995c56b8642de3777057051b03ebdb486f5e2169318f760a9bc23645842",
-      "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer.md": "669ed510393d5b9646dc6185624067dd94c3b82c7745ceabc6b0c7c1855afcb7",
+      "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md": "07bd12f847d6d941466d0688cc36d49133518f48cc5edda1d1c5b0d61a348c52",
       "answers/measurement/how-can-a-buyer-verify-the-conclusion.md": "67745ee8279b46e942a1487e7a72cbd97e328f61aaf3756c279b2a59b22cb3b4",
-      "answers/geo-basics/what-does-geo-mean-in-ai-search.md": "408fb950676fbd1acd85629bf21335249254a11caba7b5ea1225a36f06f4a2dd",
-      "answers/geo-basics/why-can-the-same-ai-question-produce-different-names.md": "18591db04b2cb29f5ed78b92810ec28d3df5034c09c10572dd91c85c49700188",
-      "answers/measurement/how-should-i-check-an-ai-baseline-before-changing-content.md": "20f5415572dd88e390d09303995d1553b7d00d6578cf88d1e662e6213ad7110b",
       "answers/fixes/what-is-an-llms-txt-file.md": "3c1ae2ffe120c7493aea05a7c0674e1c3ea3d582bd05010c318ae6989d836350",
+      "answers/geo-basics/does-ai-search-replace-seo.md": "28d37990b0e5e37f62051f060eddd28032cff3428bb8ec83e18976f50ac6360b",
+      "answers/geo-basics/does-an-ai-shortlist-show-what-buyers-actually-purchase.md": "b04e0e8f0de598da1c469cd24d3e0e7cfc11fd15fbe8c62487fdbc7bc8d8a351",
+      "answers/geo-basics/why-can-the-same-ai-question-produce-different-names.md": "18591db04b2cb29f5ed78b92810ec28d3df5034c09c10572dd91c85c49700188",
+      "answers/fixes/how-should-i-check-an-llms-txt-file.md": "13137858c64d80a9c883315e7014ee510222bc3376ae5975933f448cc660f495",
+      "answers/measurement/how-should-i-check-an-ai-baseline-before-changing-content.md": "20f5415572dd88e390d09303995d1553b7d00d6578cf88d1e662e6213ad7110b",
+      "answers/fixes/can-google-ai-overview-answers-be-changed.md": "45383144418c23727a72dd53f211da4edad3e5d641cb6899ac2f88261e648a75",
+      "answers/measurement/how-many-repeated-runs-make-an-ai-visibility-rate-useful.md": "bcaf4372173e5111a26c9509a86a1fbfa90a4590f5211e51904d2293fac5fd3a",
+      "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations.md": "682f74a734a563fc43fb6a9ae6a195ccd4f03ce998ccba84de9984dfd40e88b4",
+      "answers/measurement/what-should-a-client-ai-visibility-report-contain.md": "c02460b845fd63e678beadbb31e2e0d74d95fa18b11a48262267f37cd6963231",
+      "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple.md": "c34a4c841f1b18fd527750073bc5c71dfc6ccd90f1aec5d871510b51c740600b",
+      "answers/geo-basics/what-does-ai-visibility-mean.md": "fc2ed968886c3c83994bda32f4db2926d15cb8f84914a8c601ebbf8f74cf6f53",
       "answers/geo-basics/what-is-an-ai-software-shortlist.md": "c53fb999b9de07417818e96bedd438b76488e5ee8a21cd1329e3ba586316ebcf",
+      "answers/geo-basics/why-does-the-buyer-question-matter-to-an-ai-shortlist.md": "3105b9a375e1404d8655f5b720c77ca794b274732ce5396514ba414ebe0c76ab",
+      "answers/fixes/what-does-google-s-guidance-say-about-llms-txt.md": "d37d17bfa105475aa5bdf81b385254c6166ba757fdb08820097c0fe6c5da1615",
+      "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features.md": "ad2953b1d9f24a9d72bf27e10f01cecb62d27ffcbf707aae539dd344d2d217ed",
+      "answers/fixes/what-is-an-llms-txt-checker.md": "36095d1879202e5f13e438c3a8536af89b3686c425c07da3f890ef71d1033c7c",
+      "answers/fixes/is-llms-txt-actually-used.md": "9ae50fc1b371cf796252ef309039dbf71c5ca181e88cd62f09d303380ff165d3",
+      "answers/measurement/what-counts-as-an-own-domain-citation-in-an-ai-answer.md": "08e8b6a72313325c93c53eb3386b524997452fd08bb0ab7eda82608d886a0ac3",
       "answers/geo-basics/can-i-use-ai-to-do-my-seo.md": "8e906db7995fecd4db7f6f30003abb5486a223da421558767698456631c7c011",
-      "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit.md": "ba1ac8419209dd6a33b0e07649184b6d602b8dd5304943e880c5ccd28e00a241",
-      "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages.md": "e77fb390794b37262bbfcd31c24dd2e4c7b3a014c6f12e09b3446066e2435a54",
-      "answers/fixes/what-should-i-include-in-an-llms-txt-file.md": "81671b8c25c77e7a11faef2b621f5c263458a882b4687071a514bc5fbe3ea092",
+      "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility.md": "535f72327d0c9d85eb6a282e0f97b38e82726a9dc124df7bc004ddc846b8c26f",
+      "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify.md": "2775308c1321ecd3fa17f6cdd0362f14430f5259fb3ca3f5cc0dbd889dc4febf",
+      "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re.md": "e6af0fa0909b0b7ad9506dcab50cfb36e05a3ae93f9b3014b3e708e70d1b2a78",
+      "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo.md": "815dfc8e6f21bc716b0807b2c8e36cbca584b19733d9dff3f235d6291579b72b",
+      "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt.md": "73fb43ce2224acb5e454c1159287ddce0c923cfca12ea91750fac745f49c072f",
+      "answers/fixes/how-should-i-request-an-ai-fact-correction-with-a-source-receipt.md": "125c50e46f1ed888e45e64f69d69d10a6118afc6e9ba1ecde2f4baeb209a2a48",
+      "answers/measurement/what-can-search-console-show-about-ai-visibility-queries.md": "e4eeb023e6b4581e9ec4b54384cd2ed26949a4a6ea7c1c7543a49cad02148b01",
+      "answers/geo-basics/what-does-llm-in-ai-mean.md": "3328abbf97f0a5ec354d5edb3df89de5c019ca1861d8459d92cc1ed5afb65ff1",
+      "answers/geo-basics/does-being-named-by-ai-prove-product-quality.md": "06057b234c9c08d77b824b705ba3634586e1987153cc0e829cac0993ea65de2c",
+      "answers/geo-basics/can-ai-search-use-information-from-the-live-web.md": "9050d995c56b8642de3777057051b03ebdb486f5e2169318f760a9bc23645842",
+      "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies.md": "290dfc95ea255afceb67356f97fa010b10a4cd652fdf74c52df328534b1afb8e",
+      "answers/geo-basics/what-does-geo-mean-in-ai-search.md": "408fb950676fbd1acd85629bf21335249254a11caba7b5ea1225a36f06f4a2dd",
       "answers/measurement/how-can-i-check-ai-search-visibility.md": "30362ee56491ef6f7df811b482176e85bed41643aa492fa13c83159e9fc6a113",
-      "answers/geo-basics/does-an-ai-shortlist-show-what-buyers-actually-purchase.md": "b04e0e8f0de598da1c469cd24d3e0e7cfc11fd15fbe8c62487fdbc7bc8d8a351"
+      "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages.md": "e77fb390794b37262bbfcd31c24dd2e4c7b3a014c6f12e09b3446066e2435a54",
+      "answers/geo-basics/do-brand-name-prompts-measure-discovery.md": "07b4670c11b5c2d27dc5620f062846097654a841eb3fac7ad3ec4a56d6eea12a",
+      "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer.md": "669ed510393d5b9646dc6185624067dd94c3b82c7745ceabc6b0c7c1855afcb7",
+      "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit.md": "ba1ac8419209dd6a33b0e07649184b6d602b8dd5304943e880c5ccd28e00a241",
+      "answers/fixes/what-should-i-include-in-an-llms-txt-file.md": "81671b8c25c77e7a11faef2b621f5c263458a882b4687071a514bc5fbe3ea092",
+      "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence.md": "8a40cb26d14d1e76370811cf9ad53079129945efddd892773ff91d2efde91b34",
+      "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction.md": "0327f05f7e56101056f7f3de0780013ba4a9e90ebd0ba765b8ecc6a315162a18",
+      "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md": "154745882ee75a9572122f9dd7b346b807d384b8a9490d1ee5e536ee3b64b581",
+      "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data.md": "2c69cd2c54d0a9d3fcc631fd4422c03e8d7f50ca7e9344991a6cb3998475ca1c"
     },
     "sitemap_lastmod_policy": "UNCHANGED_EFFECTIVE_PUBLICATION_LASTMOD_V1"
   },
-  "Root_reviewed_utc": "2026-11-03T11:29:48.019436+00:00",
-  "Root_input_candidate_sha256": "1ceee860a8ed228c646e21d9780513b19726b973697e42f452155c436f3f5eb6",
-  "prior_artifact_id": 13225285699
+  "prior_artifact_id": 13228384449,
+  "Root_reviewed_utc": "2026-11-03T12:49:12.988416+00:00",
+  "Root_input_candidate_sha256": "7c0d391c99cc1027a072de80883d82e055083c5da432f589cd9846bb8f21e9f8"
 }
