@@ -61,6 +61,10 @@ Broadcastwell (2026). *The Absence Index, release 2026-09: observed naming of B2
 
 Use the version DOI when a result depends on a fixed release. The concept DOI points to the release series. For the research report, use [version DOI 10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758); its [concept DOI](https://doi.org/10.5281/zenodo.23804757) represents all report versions. Preserve the source’s own observation dates as well as the publication year.
 
+## Dated report authorship correction
+
+The corrected named-author order is Sairam Sivakumar, Ananya Rao, Vikram Patel and Priya Nair, all affiliated with Broadcastwell LLC. We retain the collective credit Broadcastwell research team. The [November 3, 2026 UTC authorship notice](../data/report-authorship-correction-2026-11-03.pdf) adds Sairam and corrects the order. It changes no scientific finding or data file. The original report remains intact and should be read with this notice; preprint copies place the notice before the original report.
+
 ## Additional academic requests
 
 Additional requests may concern an export not in the public package, a category cut or a question list. Our service standard is a response within five business days once a request reaches our research contact. Attribution is the condition; no fee, form or exclusivity is required. We do not promise that an unavailable historical record can be reconstructed. This page currently provides direct access to the public packages.
@@ -73,7 +77,7 @@ Read the [research hub](../), [Claim Registry](../claims/), [citation study](../
 
 - Broadcastwell. Absence Index, September 2026, release README and files. https://doi.org/10.5281/zenodo.22907695. Checked November 2, 2026.
 - Broadcastwell. Absence Index, historical August 2026 corrected release. https://doi.org/10.5281/zenodo.22721962. Checked November 2, 2026.
-- Broadcastwell research team, Priya Nair, Ananya Rao and Vikram Patel. AI search visibility: source evidence and two registered analyses. November 2, 2026. https://doi.org/10.5281/zenodo.23804758.
+- Sairam Sivakumar, Ananya Rao, Vikram Patel and Priya Nair, with collective credit to Broadcastwell research team. AI search visibility: source evidence and two registered analyses. November 2, 2026. https://doi.org/10.5281/zenodo.23804758.
 - The four OSF registered plans linked above; field-test acceptance and archival completion checked November 3, 2026.
 
 ## Cite this page
