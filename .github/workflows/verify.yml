@@ -35,6 +35,7 @@ jobs:
           python -m unittest discover -s tests -p 'test_answers_published_list_audit.py'
           python -m unittest discover -s tests -p 'test_answers_documentation_review.py'
           python -m unittest discover -s tests -p 'test_library_related_chapters.py'
+          python -m unittest discover -s tests -p 'test_library_field_freeze_navigation.py'
           python tools/generate_answers_llms.py --check
           python tools/verify_answers.py --check-external --receipt answer-link-check.json
       - name: Build site
@@ -46,7 +47,9 @@ jobs:
       - name: Build the ungated PDF mirror from the same source
         run: python tools/build_pdf.py
       - name: Verify the build is ungated and crawlable
-        run: python tools/verify_build.py
+        run: |
+          python tools/verify_build.py
+          python tools/verify_library_field_freeze.py --docs docs --site site --map tools/library_field_freeze_navigation.json --map-sha256 e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c
       - name: Save the complete site preview
         env:
           SOURCE_HEAD: ${{ github.event.pull_request.head.sha }}
@@ -65,3 +68,11 @@ jobs:
         with:
           name: manual-site-preview
           path: site
+
+      - name: Save the finite field-freeze verification receipt
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: library-field-freeze-review
+          path: library-field-freeze-retention.json
+          if-no-files-found: warn

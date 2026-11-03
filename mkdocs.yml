@@ -63,4 +63,5 @@ plugins:
 hooks:
   - tools/hooks.py
   - tools/performance_assets.py
+  - tools/library_field_freeze_hook.py
 
