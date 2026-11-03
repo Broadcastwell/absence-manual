@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-11-02T22:14:54+00:00'
+date_modified: '2026-11-02T22:24:59+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -17,7 +17,7 @@ Definitions, question sets and the difference between being cited and being chos
 
 Observed answers on stated dates, not a ranking.
 
-These 65 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+These 66 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -384,6 +384,12 @@ Learn to inspect pages, verify product claims and report defined answer events. 
 [Is learning SEO and GEO worthwhile in 2026?](is-learning-seo-and-geo-worthwhile-in-2026.md)
 
 Judge learning by the work you need to do. Our Housecall Pro record concerns factual review, rather than jobs, traffic or earnings.
+
+## Inspecting implementation evidence
+
+[Who has practical experience implementing GEO or AEO?](who-has-practical-experience-implementing-geo-or-aeo.md)
+
+Single Grain and Go Fish publish named implementation cases. Our buyer-criteria study shows why practical proof needs a clear scope.
 
 ## Web publishing and composed search answers
 

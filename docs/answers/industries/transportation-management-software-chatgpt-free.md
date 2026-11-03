@@ -61,7 +61,7 @@ Observed answers on stated dates, not a ranking.
 | Turvo | 7 | 6 | 5 | 5 | 5 |
 | Uber Freight TMS | 2 | 0 | 0 | 1 | 2 |
 
-**Reported.** OpenAI's [Free FAQ](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq), saved on 30 October, describes public web research subject to feature limits. Alvys's [Intelligence page](https://alvys.com/features/alvys-intelligence), read on 29 October, describes a ChatGPT connection and lists load search, invoice status, driver availability and tracking history.
+**Reported.** OpenAI's [Free-plan frequently asked questions (FAQ)](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq), saved on 30 October, describes public web research subject to feature limits. Alvys's [Intelligence page](https://alvys.com/features/alvys-intelligence), read on 29 October, describes a ChatGPT connection and lists load search, invoice status, driver availability and tracking history.
 
 **Reasoned.** A reached public price page and a permitted query against transport records are separate events. The former does not grant a transport-system account or establish that its documented connection is included in a Free chat plan.
 

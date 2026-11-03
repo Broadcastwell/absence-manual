@@ -51,7 +51,7 @@ Read the unknown category. The Housecall Pro result contains sixty-nine true cla
 
 A separate [published vendor-page record](https://doi.org/10.5281/zenodo.23271935) gives a source-reading exercise. The Housecall Pro homepage retained on 8 October has a scheduling label describing assignment and dispatch, an invoicing label, and a payment-collection label. Those are public feature-copy records with their own dated page evidence; they are not identified as particular members of the seventy-nine statement classifications.
 
-The assignment-and-dispatch wording illustrates why reading source scope is worth learning. It supports reporting what the homepage says about scheduling. It does not turn a feature label into an observed booking, a configured team schedule or a payment test. In the retained page record, scheduling and dispatch share the same quoted text and offsets, while invoicing and payments use different spans.
+The assignment-and-dispatch wording illustrates why reading source scope is worth learning. It supports reporting what the homepage says about scheduling. It does not turn a feature label into an observed booking, a configured team schedule or a payment test. The retained record quotes the same wording for scheduling and dispatch, with separate quoted passages for invoicing and payment collection.
 
 ## Also asked as
 

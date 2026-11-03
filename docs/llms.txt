@@ -285,7 +285,7 @@ State of GEO Volume III, DOI 10.5281/zenodo.21789120: https://doi.org/10.5281/ze
 
 ## Answers
 
-- [AI visibility answers](https://docs.broadcastwell.com/answers/): 325 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and source corrections.
+- [AI visibility answers](https://docs.broadcastwell.com/answers/): 326 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and source corrections.
 - [GEO basics answers](https://docs.broadcastwell.com/answers/geo-basics/): Definitions, question sets and the difference between being cited and being chosen.
 - [ChatGPT answers](https://docs.broadcastwell.com/answers/chatgpt/): Dated software naming counts, category shortlists and the limits of a mention.
 - [Claude answers](https://docs.broadcastwell.com/answers/claude/): Software category observations from Claude, with the questions and answer bases attached.
@@ -618,6 +618,7 @@ State of GEO Volume III, DOI 10.5281/zenodo.21789120: https://doi.org/10.5281/ze
 - [Is GEO a separate skill from SEO?](https://docs.broadcastwell.com/answers/geo-basics/is-geo-a-separate-skill-from-seo/): SEO and GEO share page work. Reading answers adds an evidence task; our Freshsales count needs the engine, date and naming rule.
 - [What should I learn for technical SEO, AEO and GEO?](https://docs.broadcastwell.com/answers/geo-basics/what-should-i-learn-for-technical-seo-aeo-and-geo/): Learn to inspect pages, verify product claims and report defined answer events. Our CRM security criteria offer a practice exercise.
 - [Is learning SEO and GEO worthwhile in 2026?](https://docs.broadcastwell.com/answers/geo-basics/is-learning-seo-and-geo-worthwhile-in-2026/): Judge learning by the work you need to do. Our Housecall Pro record concerns factual review, rather than jobs, traffic or earnings.
+- [Who has practical experience implementing GEO or AEO?](https://docs.broadcastwell.com/answers/geo-basics/who-has-practical-experience-implementing-geo-or-aeo/): Single Grain and Go Fish publish named implementation cases. Our buyer-criteria study shows why practical proof needs a clear scope.
 - [Is transportation management software with ChatGPT free?](https://docs.broadcastwell.com/answers/industries/transportation-management-software-chatgpt-free/): ChatGPT Free supports public research. Alvys describes separate access to transport records; public pricing-path results do not establish a free system.
 - [How might AI search engines change the web?](https://docs.broadcastwell.com/answers/geo-basics/how-might-ai-search-engines-change-the-web/): AI search can cite a page without selecting its publisher. A dated naming/citation relationship and actual search guidance put a limit on future-web forecasts.
 - [What should I compare when choosing a CRM for outbound calls?](https://docs.broadcastwell.com/answers/industries/what-should-i-compare-when-choosing-a-crm-for-outbound-calls/): Compare the call record and follow-up handoff. Our dated CRM answers state activity tracking in 18 of 150 returns, alongside every checked vendor count.

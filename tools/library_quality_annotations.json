@@ -13289,8 +13289,8 @@
       "writing_review_sha256": "fc350cf413225da0879915f473fb66a1dda54a9cc1a6ded3d2f010b2b8101bb2"
     },
     "answers/geo-basics/is-learning-seo-and-geo-worthwhile-in-2026.md": {
-      "source_sha256": "577c031d4d92baaf2180e1b67e35cd31811aeb1f03d29f3707bfb6341006cb8d",
-      "canonical_source_sha256": "ecbab79e3524cdf94090168842e8cfc8862af49f46f6d49c71d78f87ad2120c4",
+      "source_sha256": "7170add1e427f6dec5529911c21c0ec8f8283c75a2703ec19374f1c984cddf6d",
+      "canonical_source_sha256": "7170add1e427f6dec5529911c21c0ec8f8283c75a2703ec19374f1c984cddf6d",
       "opening_sha256": "cb395a5da6bfc8c707abd1b35bf84e1d96c524b029ff26e0e9ffd9b56b14e1f1",
       "bank_id": "LB-Q0476",
       "lead_figures": [
@@ -13301,10 +13301,10 @@
           "In 2026, learning SEO (search engine optimization) and GEO (generative engine optimization) is worthwhile if you need to maintain public pages and assess the answers built from them. Judge the work you can perform afterward. Our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) labeled 0 of 79 Housecall Pro statements wrong or stale in the 22 September 2026 capture, checked against vendor references on 8 October. That factual-review result is not a forecast of a learner’s earnings."
         ]
       },
-      "source_review_sha256": "7db4099d6bce3bd32107a1c59b5c0e3a02e6c4058d116818b216e5a232cba4d3",
+      "source_review_sha256": "163c77645db826bbac3db9050cc0234722e092fad71d4f876e3a0c8da0bda9a4",
       "opening_shape": "date_first",
       "classification_reason": "In2026is the initial temporal frame before the task-conditional learning answer and dated review finding.",
-      "writing_review_sha256": "fc350cf413225da0879915f473fb66a1dda54a9cc1a6ded3d2f010b2b8101bb2"
+      "writing_review_sha256": "d9f296084b4dae33363f1fdfc56b3f3099317e69d0edfec00b14373feb492e0a"
     },
     "answers/geo-basics/how-can-chatgpt-help-with-seo-content.md": {
       "source_sha256": "3e210b4a80ce7baaa8dd357da3629df323800194484d5667f4afff4ea2b778e1",
@@ -13325,8 +13325,8 @@
       "writing_review_sha256": "fc350cf413225da0879915f473fb66a1dda54a9cc1a6ded3d2f010b2b8101bb2"
     },
     "answers/industries/transportation-management-software-chatgpt-free.md": {
-      "source_sha256": "245ed9078df391a81db65959e54debf7d8c767d085feb4e22949c3b977f1d5bf",
-      "canonical_source_sha256": "fd1397ef265066786c71e6b8de4ed49077d63fdf1d601e880393d222bbd0fbab",
+      "source_sha256": "9bfb77a1e241ff33ac01e13f00f605997d40c0e604572ed98ba01a54de08cc6f",
+      "canonical_source_sha256": "9bfb77a1e241ff33ac01e13f00f605997d40c0e604572ed98ba01a54de08cc6f",
       "opening_sha256": "87853017b1d986a20cf31d71018157a268ce07dee2f66b3fbb5d15856d31e75a",
       "bank_id": "LB-Q0437",
       "lead_figures": [
@@ -13337,10 +13337,10 @@
           "Alvys documents a restricted ChatGPT connection, but its public description does not establish free access to a transportation management system. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 4 of 5 transportation pricing destinations on 6 October 2026. Those public terms are a different record from the Free chat functions used to research software."
         ]
       },
-      "source_review_sha256": "b25e4c9ca0198e4894ef48fe9425f7f6ec86c6ab1738f8bd1fd69b1b0b3b53b1",
+      "source_review_sha256": "d1730de63f66dbd46488381330a1f8eb30d635d43785fe3c07497cf0b7aee9c7",
       "opening_shape": "vendor_first",
       "classification_reason": "Alvys is the named opening subject before the separate four-of-five public-pricing observation.",
-      "writing_review_sha256": "fc350cf413225da0879915f473fb66a1dda54a9cc1a6ded3d2f010b2b8101bb2"
+      "writing_review_sha256": "67acf82c71a1accbeb6245f4e3dd0fcb03099430be34d9e2f8efd1bed0dea608"
     },
     "answers/industries/what-should-i-compare-when-choosing-a-crm-for-outbound-calls.md": {
       "source_sha256": "890d25bd50048f5933ed0a00b176d268aea6a2260aad70c8b5800d26f5e4d1e2",
@@ -13395,6 +13395,24 @@
       "opening_shape": "answer_definition",
       "classification_reason": "Defines a web page supplying a composed answer before the paired-profile correlation.",
       "writing_review_sha256": "fc350cf413225da0879915f473fb66a1dda54a9cc1a6ded3d2f010b2b8101bb2"
+    },
+    "answers/geo-basics/who-has-practical-experience-implementing-geo-or-aeo.md": {
+      "source_sha256": "8da4a6944c2c44de741f322b4409781707e40fdb5aa282727bb706e03151878c",
+      "canonical_source_sha256": "8da4a6944c2c44de741f322b4409781707e40fdb5aa282727bb706e03151878c",
+      "opening_sha256": "332b161564d9172f300810303b4356748d6a8b5da51ee5f6915835b9688f26d1",
+      "bank_id": "LB-Q0482",
+      "lead_figures": [
+        "figure:45d843d528da4d49bf0d4844b222601a0614ca9cd57a36551d675c600b3bab28"
+      ],
+      "lead_figure_spans": {
+        "figure:45d843d528da4d49bf0d4844b222601a0614ca9cd57a36551d675c600b3bab28": [
+          "Single Grain and Go Fish Digital publish named cases describing implementation work: SmartRent and MoneyGeek respectively. Those are inspectable starting points, not a supplier ranking. Our [22 September 2026 The AI written RFP study method](https://doi.org/10.5281/zenodo.23271935) (request for proposal) found demonstration or hands-on-testing criteria in 9 of 150 CRM (customer relationship management) answers. Ask for evidence of the particular work you need, rather than treating an agency label as proof."
+        ]
+      },
+      "source_review_sha256": "e76da7f3054f0c052a204da40aabd0db001e3a4430675a03dc2311681ad8b198",
+      "opening_shape": "vendor_first",
+      "classification_reason": "SingleGrain and GoFishDigital named implementations lead before the separate hands-on-demo criterion.",
+      "writing_review_sha256": "eeedbfa380db2dde15c689b75169686cf194823326fc4758abc43ed99ef4c7bf"
     }
   },
   "index_question_titles": {
