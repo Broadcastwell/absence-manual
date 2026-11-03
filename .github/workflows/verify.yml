@@ -37,6 +37,7 @@ jobs:
           python -m unittest discover -s tests -p 'test_library_related_chapters.py'
           python -m unittest discover -s tests -p 'test_library_field_freeze_navigation.py'
           python -m unittest discover -s tests -p 'test_research_study_closing.py'
+          python -m unittest discover -s tests -p 'test_pdf_reproducible_fonts.py'
           python tools/generate_answers_llms.py --check
           python tools/verify_answers.py --check-external --receipt answer-link-check.json
       - name: Build site
@@ -46,7 +47,11 @@ jobs:
           python -m unittest discover -s tests -p 'test_library_quality.py'
           python tools/library_quality.py --report library-quality-report.json
       - name: Build the ungated PDF mirror from the same source
-        run: python tools/build_pdf.py
+        run: |
+          python tools/build_pdf.py
+          cp site/absence-manual.pdf /tmp/first-manual.pdf
+          python tools/build_pdf.py
+          cmp /tmp/first-manual.pdf site/absence-manual.pdf
       - name: Verify the build is ungated and crawlable
         run: |
           python tools/verify_build.py
