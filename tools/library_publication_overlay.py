@@ -495,6 +495,37 @@ def qualitative_observation_key(binding, q):
     return 'observation:' + sha(q.canonical_json(identity).encode()), identity
 
 
+def validate_finite_current_review(overlay, page, note, kind, figures):
+    """Link a current full-file review to its immutable finite body review.
+
+    The owning validator remains the authority for case, body, source, opening,
+    exact historical review parents and numeric/qualitative observation keys.
+    This bridge changes neither the annotation nor the six-case registry.
+    """
+    q = overlay.q
+    require(kind in {'source', 'writing'} and page['meta'].get('evidence_kind') == getattr(q, 'COMPANY_PANEL_KIND', None)
+            and getattr(q, 'COMPANY_PANEL_KIND', None) is not None,
+            page['path'] + ': finite current review requires its exact owning kind')
+    q.validate_company_annotation(page, note, figures, q.figure_key)
+    digest = page.get('review_ids', {}).get(kind)
+    require(overlay._article_receipt(digest, page, kind),
+            page['path'] + ': finite company-panel full-page ' + kind + ' receipt missing')
+    receipt = overlay._load_receipt(digest)
+    require(receipt.get('effective_body_sha256') == sha(page['body'].encode()),
+            page['path'] + ': finite current review body binding differs')
+    # canonical_body removes only source-parser leading newlines and line-ending
+    # differences, exactly as the unchanged owning finite validator does.
+    from library_company_panel import canonical_body
+    expected = {'evidence_kind': q.COMPANY_PANEL_KIND,
+                'evidence_case': page['meta']['evidence_case'],
+                'review_kind': kind,
+                'original_review_sha256': note[kind + '_review_sha256'],
+                'reviewed_body_sha256': sha(canonical_body(page['body']).encode())}
+    require(receipt.get('finite_body_review_lineage') == expected,
+            page['path'] + ': finite current review exact historical lineage differs')
+    return True
+
+
 def validate_current_annotations(overlay, pages, metadata):
     """Raw validator stays intact; qualitative current leads have a separate proof."""
     q = overlay.q
@@ -524,8 +555,7 @@ def validate_current_annotations(overlay, pages, metadata):
         # both lead modes, exact spans and actual review pins. Never fall back
         # to a general qualitative allowance for a claimed finite case.
         for kind in ['source', 'writing']:
-            require(overlay._article_receipt(notes[rel].get(kind + '_review_sha256'), pages[rel], kind),
-                    rel + ': finite company-panel full-page ' + kind + ' receipt missing')
+            validate_finite_current_review(overlay, pages[rel], notes[rel], kind, metadata['figures'])
     qualitative_keys = {}
     numeric_cuts = set()
     for figure in metadata.get('figures', {}).values():
@@ -601,7 +631,10 @@ def run_current_rendered_quality(overlay, *, current_annotations, trusted_index_
         for rel, page in pages.items():
             page['quality_annotation'] = notes[rel]
             for kind in ['source', 'writing']:
-                require(notes[rel][kind + '_review_sha256'] == page['review_ids'].get(kind), rel + ': current quality receipt differs from full effective review')
+                if page['meta'].get('evidence_kind') == getattr(q, 'COMPANY_PANEL_KIND', None) and getattr(q, 'COMPANY_PANEL_KIND', None) is not None:
+                    validate_finite_current_review(overlay, page, notes[rel], kind, current_annotations['figures'])
+                else:
+                    require(notes[rel][kind + '_review_sha256'] == page['review_ids'].get(kind), rel + ': current quality receipt differs from full effective review')
         references = current_annotations.get('index_question_titles', {})
         require(sha(q.canonical_json(references).encode()) == trusted_index_references_sha256, 'Published Index title snapshot changed')
         require(len(references.get('records', [])) == 140 and len({row['url'] for row in references['records']}) == 140, 'Exactly140 unique Index title references required')

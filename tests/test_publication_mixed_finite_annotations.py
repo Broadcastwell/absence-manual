@@ -144,19 +144,21 @@ class FiniteCompanyCurrentRoutingTests(unittest.TestCase):
         overlay.receipt_store = {}
         page['raw_canonical_source_sha256'] = page['canonical_source_sha256']
         page['effective_canonical_source_sha256'] = page['canonical_source_sha256']
+        page['review_ids'] = {}
         for kind in ['source', 'writing']:
             receipt = {'approved': True, 'fixture_only': True, 'actual_full_read_complete': True,
                        'review_kind': kind, 'scope': 'full-effective-article', 'path': page['path'],
                        'canonical_source_sha256': page['raw_canonical_source_sha256'],
-                       'effective_canonical_source_sha256': page['effective_canonical_source_sha256']}
+                       'effective_canonical_source_sha256': page['effective_canonical_source_sha256'],
+                       'effective_body_sha256':sha(page['body'].encode()),
+                       'finite_body_review_lineage':{
+                           'evidence_kind':q.COMPANY_PANEL_KIND,'evidence_case':page['meta']['evidence_case'],
+                           'review_kind':kind,'original_review_sha256':note[kind+'_review_sha256'],
+                           'reviewed_body_sha256':sha(panel.canonical_body(page['body']).encode())}}
             raw = encoded(receipt)
             key = sha(raw)
             overlay.receipt_store[key] = raw
-            note[kind + '_review_sha256'] = key
-            if kind == 'source':
-                case['source_review_receipts'] = [key]
-            else:
-                case['independent_writing_review_sha256'] = key
+            page['review_ids'][kind] = key
         shapes = ['source_first'] + [f'fictional-shape-{i}' for i in range(7)]
         figures = {}
         for record in data['cases'].values():
@@ -227,13 +229,13 @@ class FiniteCompanyCurrentRoutingTests(unittest.TestCase):
 
     def test_finite_full_current_source_receipt_is_required(self):
         data, overlay, page, note, metadata = self.fixture()
-        overlay.receipt_store.pop(note['source_review_sha256'])
+        overlay.receipt_store.pop(page['review_ids']['source'])
         with self.assertRaisesRegex(ValueError, 'finite company-panel full-page source receipt missing'):
             self.validate(data, overlay, page, metadata)
 
     def test_finite_full_current_writing_receipt_is_required(self):
         data, overlay, page, note, metadata = self.fixture()
-        overlay.receipt_store.pop(note['writing_review_sha256'])
+        overlay.receipt_store.pop(page['review_ids']['writing'])
         with self.assertRaisesRegex(ValueError, 'finite company-panel full-page writing receipt missing'):
             self.validate(data, overlay, page, metadata)
 

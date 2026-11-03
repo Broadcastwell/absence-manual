@@ -371,7 +371,13 @@ def assess_current_records(overlay, *, current_annotations,trusted_index_referen
         for rel,page in pages.items():
             if rel in frozen:continue
             for kind in ['source','writing']:
-                if notes[rel].get(kind+'_review_sha256') != page['review_ids'].get(kind):
+                if page['meta'].get('evidence_kind') == getattr(q,'COMPANY_PANEL_KIND',None) and getattr(q,'COMPANY_PANEL_KIND',None) is not None:
+                    from library_publication_overlay import validate_finite_current_review
+                    try:validate_finite_current_review(overlay,page,notes[rel],kind,current_annotations['figures'])
+                    except ValueError as error:
+                        readiness[rel]['passed']=False
+                        readiness[rel]['errors'].append(str(error))
+                elif notes[rel].get(kind+'_review_sha256') != page['review_ids'].get(kind):
                     readiness[rel]['passed']=False
                     readiness[rel]['errors'].append('Current annotation '+kind+' receipt differs from the reviewed effective record')
         refs = current_annotations['index_question_titles']
