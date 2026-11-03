@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/claude/how-does-claude-web-search-work.md",
+  "before_effective_canonical_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407",
+  "raw_canonical_source_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407",
+  "after_effective_canonical_sha256": "d7158398f09040ad80923d7105d65ea8436423b8881812fc132105388baabc19",
+  "fact_ledger_sha256": "3f517aa34c6875f3c9904b6f513d12dbd6b4af5530a3f492790ce1a5c995cfec",
+  "effective_payload_sha256": "6f331b9baccd5e3538909c2dd62c4b647b68995b72655c00f5c48fcdc77b35e4",
+  "scope": "Root read full standaloneV3generator and all12literal old/new paragraph/factledger changes, verified V1/V3payload+ledgeridentity, exactlatestRootadoption and24fullfileSourceWritingreceipts. Datedobservations/retainedhistoricalquotes/neutralfooter,primarydestinationspreserved. Existing11PerplexityPASS and314actualpriorpayloads retained with current22peerbytes. Buildinputapprovalonly; fullbothscope/<=50actualsurfaces/freeze/native/Linux/production/tenlivepairs/discoverygates remain.",
+  "reviewed_utc": "2026-11-03T12:49:12.988416+00:00"
+}

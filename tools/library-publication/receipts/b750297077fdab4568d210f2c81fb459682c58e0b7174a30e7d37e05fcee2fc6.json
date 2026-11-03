@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/claude/which-dental-software-does-claude-recommend.md",
+  "before_effective_canonical_sha256": "6734539f8dceb0c01062777dd592ae2884db5ba941e24c36462da235c14fea7a",
+  "raw_canonical_source_sha256": "2de66088d41a0bc2aeb1c32680a594761f13da1de2955b5674ad4ae0c4c85a10",
+  "after_effective_canonical_sha256": "58fd92224e3a22e398c812ef1fe0b9e3fc803b752ca965866351de6b89429b98",
+  "fact_ledger_sha256": "0764378220c13a407981f8c3a61d00668f6b4db38f0df83ce6be7343468eb78b",
+  "effective_payload_sha256": "a623490eb278c09f86e184ad31475b69eed60358567a62f025b38ebb630a8f2d",
+  "scope": "Root read full standaloneV3generator and all12literal old/new paragraph/factledger changes, verified V1/V3payload+ledgeridentity, exactlatestRootadoption and24fullfileSourceWritingreceipts. Datedobservations/retainedhistoricalquotes/neutralfooter,primarydestinationspreserved. Existing11PerplexityPASS and314actualpriorpayloads retained with current22peerbytes. Buildinputapprovalonly; fullbothscope/<=50actualsurfaces/freeze/native/Linux/production/tenlivepairs/discoverygates remain.",
+  "reviewed_utc": "2026-11-03T12:49:12.988416+00:00"
+}

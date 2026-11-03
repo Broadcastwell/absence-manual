@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0281",
+  "path": "answers/claude/how-does-claude-web-search-work.md",
+  "canonical_source_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407",
+  "effective_canonical_source_sha256": "d7158398f09040ad80923d7105d65ea8436423b8881812fc132105388baabc19",
+  "effective_body_sha256": "a937f4e0188735da780924b219e2f2e2ea468651b9d9c60ddc9d3d2bbf8009bd",
+  "effective_metadata_sha256": "cbec9ce77cbebd0d1cafc80510ce4de877ca8753ce05311c6ee2ef4024ecb725",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\claude\\how-does-claude-web-search-work.md",
+    "raw_sha256": "d7158398f09040ad80923d7105d65ea8436423b8881812fc132105388baabc19",
+    "canonical_LF_sha256": "d7158398f09040ad80923d7105d65ea8436423b8881812fc132105388baabc19"
+  },
+  "review_basis": "Actual original full-page or full merged/primary-target reading plus all exact selected bounded continuations, neutral footer replay and independently verified Root metadata-date-only change.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0281.writing-coverage.json",
+    "raw_sha256": "61ee99f6c5e9a5d1f390a88d05b4f8451292e0349ae96327f4fbcfedf95564a3",
+    "canonical_LF_sha256": "61ee99f6c5e9a5d1f390a88d05b4f8451292e0349ae96327f4fbcfedf95564a3"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false
+}

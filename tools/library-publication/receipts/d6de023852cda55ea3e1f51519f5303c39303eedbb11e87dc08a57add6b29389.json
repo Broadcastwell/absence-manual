@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/claude/which-legal-practice-software-does-claude-recommend.md",
+  "before_effective_canonical_sha256": "597f8a1a1b17f02b40d5a2005b0dd43dd922661e8cf2d8c408cd9d7d093cfb24",
+  "raw_canonical_source_sha256": "597f8a1a1b17f02b40d5a2005b0dd43dd922661e8cf2d8c408cd9d7d093cfb24",
+  "after_effective_canonical_sha256": "560760d1fb634294eceba5a1afc87970564c9c7f00d90e13b0bbf7b14c56a9a0",
+  "fact_ledger_sha256": "15489f0f3a99861a202946df9dd1e9229ce2e0d56ae284eb14c491f521387d49",
+  "effective_payload_sha256": "468ae0faa43f6e06b0f90ef23013a7f7246a4739d5bdc15b3b7e41f05b44bedf",
+  "scope": "Root read full standaloneV3generator and all12literal old/new paragraph/factledger changes, verified V1/V3payload+ledgeridentity, exactlatestRootadoption and24fullfileSourceWritingreceipts. Datedobservations/retainedhistoricalquotes/neutralfooter,primarydestinationspreserved. Existing11PerplexityPASS and314actualpriorpayloads retained with current22peerbytes. Buildinputapprovalonly; fullbothscope/<=50actualsurfaces/freeze/native/Linux/production/tenlivepairs/discoverygates remain.",
+  "reviewed_utc": "2026-11-03T12:49:12.988416+00:00"
+}

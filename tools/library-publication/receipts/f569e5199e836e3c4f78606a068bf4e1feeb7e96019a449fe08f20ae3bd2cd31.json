@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0605",
+  "path": "answers/claude/which-legal-practice-software-does-claude-recommend.md",
+  "canonical_source_sha256": "597f8a1a1b17f02b40d5a2005b0dd43dd922661e8cf2d8c408cd9d7d093cfb24",
+  "effective_canonical_source_sha256": "560760d1fb634294eceba5a1afc87970564c9c7f00d90e13b0bbf7b14c56a9a0",
+  "effective_body_sha256": "baa9e77be8d00d6c86e95d9887da2aab3b0d4c7f19378ff67f3c941f2e93b749",
+  "effective_metadata_sha256": "8a75d1c72c384d43daad47ec3ab167232b91a27a41e31aedb0f3e016a60fb073",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\claude\\which-legal-practice-software-does-claude-recommend.md",
+    "raw_sha256": "560760d1fb634294eceba5a1afc87970564c9c7f00d90e13b0bbf7b14c56a9a0",
+    "canonical_LF_sha256": "560760d1fb634294eceba5a1afc87970564c9c7f00d90e13b0bbf7b14c56a9a0"
+  },
+  "review_basis": "Actual original full-page or full merged/primary-target reading plus all exact selected bounded continuations, neutral footer replay and independently verified Root metadata-date-only change.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0605.writing-coverage.json",
+    "raw_sha256": "8e3ae34afeb00667ee2a39d45ce804c1c07f340c839f0dc5ede980990e1e503e",
+    "canonical_LF_sha256": "8e3ae34afeb00667ee2a39d45ce804c1c07f340c839f0dc5ede980990e1e503e"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false
+}

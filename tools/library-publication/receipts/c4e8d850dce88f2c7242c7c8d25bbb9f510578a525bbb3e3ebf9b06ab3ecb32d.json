@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/claude/which-hotel-software-does-claude-recommend.md",
+  "before_effective_canonical_sha256": "9371b081068d98f734a39de77e3fdb5783bcda2808bb89fea1f21a2f8acbbcd7",
+  "raw_canonical_source_sha256": "ede4900b418184667271dc330eb31d9f33e28d96b6a2440fa436d9b09e63f73d",
+  "after_effective_canonical_sha256": "e13b868e1f1439dbb0d87e7c9fd3681cf9e98076deb25290a74add07dfbda548",
+  "fact_ledger_sha256": "db15703016eb730462f96ffced467ee83ad7427e76ac5f0eca6c17b6637fb2eb",
+  "effective_payload_sha256": "778268fe19063d88351ce5dfa89ccbbbea675b5e2244249e5a0c295b092513d0",
+  "scope": "Root read full standaloneV3generator and all12literal old/new paragraph/factledger changes, verified V1/V3payload+ledgeridentity, exactlatestRootadoption and24fullfileSourceWritingreceipts. Datedobservations/retainedhistoricalquotes/neutralfooter,primarydestinationspreserved. Existing11PerplexityPASS and314actualpriorpayloads retained with current22peerbytes. Buildinputapprovalonly; fullbothscope/<=50actualsurfaces/freeze/native/Linux/production/tenlivepairs/discoverygates remain.",
+  "reviewed_utc": "2026-11-03T12:49:12.988416+00:00"
+}

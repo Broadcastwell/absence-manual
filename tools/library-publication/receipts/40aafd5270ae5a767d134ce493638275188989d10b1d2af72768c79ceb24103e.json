@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md",
+  "before_effective_canonical_sha256": "670e9fd294e51b03ca5c8c60451f9f10914999c0969df1f7fcf7c5bfde9dcdce",
+  "raw_canonical_source_sha256": "2633e93eb21db50dbfa957a8a1f58a9eb854c9a907d99340da15ca2cec4bc371",
+  "after_effective_canonical_sha256": "70b8ae7d031d7850b740cd5797cea032e828564ea53234a634f501bde462c5b3",
+  "fact_ledger_sha256": "c1c3132bd86c70f63125d08cf2848f5481d37f0aee6915a7b4edb77bf185c446",
+  "effective_payload_sha256": "30204a492f4e04a8fbdbe46fc669df680e26133026a1c3dddaa6178ac565aa07",
+  "scope": "Root read full standaloneV3generator and all12literal old/new paragraph/factledger changes, verified V1/V3payload+ledgeridentity, exactlatestRootadoption and24fullfileSourceWritingreceipts. Datedobservations/retainedhistoricalquotes/neutralfooter,primarydestinationspreserved. Existing11PerplexityPASS and314actualpriorpayloads retained with current22peerbytes. Buildinputapprovalonly; fullbothscope/<=50actualsurfaces/freeze/native/Linux/production/tenlivepairs/discoverygates remain.",
+  "reviewed_utc": "2026-11-03T12:49:12.988416+00:00"
+}
