@@ -23,6 +23,15 @@ except ModuleNotFoundError:
     from library_documentation_review import (DOC_REVIEW_SOURCE, DOC_REVIEW_METHOD_URL,
         DOC_REVIEW_METHOD_LABEL, DOC_REVIEW_RECEIPT_URL, validate_documentation_review)
 
+try:
+    from tools.library_company_panel import (KIND as COMPANY_PANEL_KIND,
+        METHOD_LABEL as COMPANY_PANEL_METHOD_LABEL, METHOD_URL as COMPANY_PANEL_METHOD_URL,
+        NEUTRAL_OFFER as COMPANY_PANEL_NEUTRAL_OFFER, validate_company_panel)
+except ModuleNotFoundError:
+    from library_company_panel import (KIND as COMPANY_PANEL_KIND,
+        METHOD_LABEL as COMPANY_PANEL_METHOD_LABEL, METHOD_URL as COMPANY_PANEL_METHOD_URL,
+        NEUTRAL_OFFER as COMPANY_PANEL_NEUTRAL_OFFER, validate_company_panel)
+
 SITE_URL = "https://docs.broadcastwell.com/"
 BUY_ENTRY = "https://broadcastwell.com/answer-repair"
 LIMIT_SENTENCE = "No email is needed; runs are limited per network and per day, and by the site's daily allowance."
@@ -266,11 +275,16 @@ def _audit_unsupported_claims(body):
     """Keep this source kind confined to dated publication checks."""
     errors = []
     before_next, separator, next_step = body.partition("## Next step")
-    # Only the existing fixed Answer Repair CTA is a monetary exception.
+    # One exact current neutral offer is allowed only as its complete footer
+    # line. Keep the historical raw-source CTA valid, without stripping both
+    # formats or hiding any second price or a price in the measured prose.
     if separator:
-        next_step = next_step.replace(
-            "[Fix one answer, $490](https://broadcastwell.com/answer-repair)", "", 1,
-        )
+        legacy = "[Fix one answer, $490](https://broadcastwell.com/answer-repair)"
+        neutral = r"(?m)^Answer Repair: \[\$490\]\(https://broadcastwell\.com/answer-repair\)\.[ \t]*$"
+        if legacy in next_step:
+            next_step = next_step.replace(legacy, "", 1)
+        else:
+            next_step = re.sub(neutral, "", next_step, count=1)
     # Section names such as "What this means for you" are navigation labels,
     # not assertions about a nearby result. Keep them out of claim parsing.
     claim_text = plain_text(re.sub(r"(?m)^#{1,6}[^\n]*$", "", before_next + "\n" + next_step))
@@ -514,6 +528,10 @@ def validate_source_evidence(meta, body, docs):
     if not kind:
         if source != SEPTEMBER_INDEX_DOI:
             errors.append("non-September sources require approved published-study metadata")
+    elif kind == COMPANY_PANEL_KIND:
+        method_label = COMPANY_PANEL_METHOD_LABEL
+        method_url = COMPANY_PANEL_METHOD_URL
+        errors.extend(validate_company_panel(meta, body, docs))
     elif kind == "published-study":
         method_label = SCOPED_METHOD_LABEL
         if source not in APPROVED_STUDY_DOIS:
@@ -593,7 +611,7 @@ def validate_source_evidence(meta, body, docs):
     else:
         errors.append("unknown evidence_kind")
     if f"[{method_label}]({method_url})" not in body:
-        errors.append("method label must link to the publication-audit scorecard" if kind == "published-audit" else "method label must link to the list-audit criteria" if kind == "published-list-audit" else "method label must link to the dated documentation review" if kind == "published-documentation-review" else "method label must link to the published answer-study method")
+        errors.append("method label must link to the company-panel grades and dated records" if kind == COMPANY_PANEL_KIND else "method label must link to the publication-audit scorecard" if kind == "published-audit" else "method label must link to the list-audit criteria" if kind == "published-list-audit" else "method label must link to the dated documentation review" if kind == "published-documentation-review" else "method label must link to the published answer-study method")
     return errors, method_label
 
 
@@ -631,7 +649,7 @@ def validate_answer(path, docs):
     if headings != [str(meta.get("headline", ""))]:
         errors.append("exactly one H1 must match headline")
     paragraph = paragraph_after_heading(body)
-    if not re.search(r"\d", plain_text(paragraph)):
+    if meta.get("evidence_kind") != COMPANY_PANEL_KIND and not re.search(r"\d", plain_text(paragraph)):
         errors.append("first answer paragraph must carry a measured figure")
     sentence_count = len(re.findall(r"[.!?](?:\s|$)", plain_text(paragraph)))
     if sentence_count not in range(2, 6):
@@ -642,7 +660,8 @@ def validate_answer(path, docs):
     if len(re.findall(r"\b[\w$]+\b", plain_text(body))) not in range(350, 901):
         errors.append("body must contain 350 to 900 words")
     for required in ("Measured", LIMIT_SENTENCE, "Prepared by the Broadcastwell team.",
-                     "Free 10-question check (one engine)", "Fix one answer, $490",
+                     "Free 10-question check (one engine)",
+                     COMPANY_PANEL_NEUTRAL_OFFER if meta.get("evidence_kind") == COMPANY_PANEL_KIND else "Fix one answer, $490",
                      method_label,
                      "Page owner: " + str(meta.get("library_owner", "")) + ". Corrections: hello@broadcastwell.com"):
         if required not in body:

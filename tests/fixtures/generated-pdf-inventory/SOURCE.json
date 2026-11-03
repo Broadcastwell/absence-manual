@@ -1,0 +1,25 @@
+{
+  "scope": "Unit inventory registration slice from actual existing published PR83 files/hashes; not an actual full production compiled manifest, producer approval, or new-PDF receipt",
+  "actual_official_artifact_sha256": "d808ded453712bd6330eb0f52baf97fcb345d684abc195d5852cbe50ecddcc17",
+  "actual_CI_provenance": {
+    "source_head": "d8001249ef8e46a71644e185f26bc5cf840bd8c7",
+    "source_tree": "245df93c07b8cd4c6d77b5d2d6497a0f39446a79",
+    "repository": "Broadcastwell/absence-manual",
+    "run_id": "41554924315"
+  },
+  "actual_published_merge": "25c3c0b2b24b366ed6b41a458e66b09cdd4e15f2",
+  "actual_published_deploy_run": "41557767940",
+  "actual_PDF_payload_sha256": "e5a0db7f26329b6b18ef8bf71ac8e83ff07379be807673965d870f0f3cf8f653",
+  "approved_new_PDF_receipt_created": false,
+  "PR84_generator_or_output_baseline_claim": false,
+  "inventory_unit_rows_for_actual_existing_paths": {
+    "/absence-manual.pdf": {
+      "kind": "generated_pdf",
+      "compiled_sha256": "e5a0db7f26329b6b18ef8bf71ac8e83ff07379be807673965d870f0f3cf8f653"
+    },
+    "/absence-manual-v1.0-2026-08-18.pdf": {
+      "kind": "generated_pdf",
+      "compiled_sha256": "e5a0db7f26329b6b18ef8bf71ac8e83ff07379be807673965d870f0f3cf8f653"
+    }
+  }
+}
