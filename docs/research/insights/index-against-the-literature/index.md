@@ -7,13 +7,13 @@ research_id: 50
 research_group: insight
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/index-against-the-literature/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.5281/zenodo.22907695
 
 **Only 2,608 of 8,085 named vendor-answer pairs carry a qualifying own-domain citation (Broadcastwell, 2026, September release and registered Study 2).**
 
+
+Observed answers on stated dates, not a ranking.
 The September record contains **8,085 named vendor-answer pairs**, of which **2,608** include a qualifying citation to the vendor’s own domain: **32.3%**, descriptive **95% Wilson interval 31.2% to 33.3%**. Naming and own-source citation therefore need separate labels. [Absence Index release 2026-09; registered Study 2, vendor-pair summary](https://doi.org/10.5281/zenodo.22907695).
 
 That distinction is also where many comparisons with the SEO literature begin to fail. A Google result URL, a scholarly article’s citation count, a website audit score and a vendor name in an answer are different observations. Similar-sounding language about visibility does not make their denominators interchangeable.
@@ -89,7 +91,11 @@ The Index supplies dated answer observations and the registered analyses supply 
 
 ## What our own data shows
 
-Study 2 reproduces **8,085 named vendor-answer pairs among 42,792 eligible pairs**, with the matching dictionary and valid-answer bases preserved. These are counted archive observations, not a measure of causal effectiveness. The pair, repeat and named-vendor figures above come from [September version DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695), with the exact units stated beside each count. The [registered citation analysis](https://doi.org/10.17605/OSF.IO/VCZKT) has published reproducibility files; the [persistence plan](https://doi.org/10.17605/OSF.IO/MKJ9V) has no persistence result. The separately registered [page-signal study](https://doi.org/10.17605/OSF.IO/DVYFU) has its publication state recorded on the research hub; this comparison does not use its result. We have no causal estimate of how changing a company’s page will alter its visibility.
+**Supports:** Study 2 reproduces **8,085 named vendor-answer pairs among 42,792 eligible pairs**, with the matching dictionary and valid-answer bases preserved. These are counted archive observations, not a measure of causal effectiveness. The pair, repeat and named-vendor figures above come from [September version DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695), with the exact units stated beside each count. The [registered citation analysis](https://doi.org/10.17605/OSF.IO/VCZKT) has published reproducibility files; the [persistence plan](https://doi.org/10.17605/OSF.IO/MKJ9V) has no persistence result. The separately registered [page-signal study](https://doi.org/10.17605/OSF.IO/DVYFU) has its publication state recorded on the research hub; this comparison does not use its result. We have no causal estimate of how changing a company’s page will alter its visibility.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -120,11 +126,11 @@ Broadcastwell research team. (2026, October 30). *What the Absence Index can com
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

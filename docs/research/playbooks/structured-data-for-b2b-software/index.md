@@ -5,15 +5,15 @@ description: Choose markup by the visible entity and current consumer requiremen
 page_class: research
 research_id: 26
 research_group: playbook
-lead: Rohan Iyer
+lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://developers.google.com/search/updates
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://developers.google.com/search/updates
 
 **Google stopped showing FAQ rich results from 7 May 2026; FAQPage remains a Schema.org type (Google, 2026; Schema.org, 2026).**
 
+
+Observed answers on stated dates, not a ranking.
 Google gives **7 May 2026** for the end of FAQ rich-result display; its later documentation update explains why the former FAQ feature page was removed. A Schema.org type can remain meaningful even after a search feature stops using it in that way. [Google Search Central, May 8 and June 15 changelog entries](https://developers.google.com/search/updates); [Schema.org, FAQPage](https://schema.org/FAQPage).
 
 For a B2B software site, start with what the page actually describes. An organization, a software application, a product offer, a dataset and a navigation trail are different things. Marking all of them on every page makes the representation less useful. Choose the type and properties that match the visible material, then check the requirements of the service you hope will consume them.
@@ -102,9 +104,11 @@ Google defines structured data as “a standardized format for providing informa
 
 ## What our own data shows
 
-We have no measurement on this point: the causal effect of adding a particular structured-data type on AI citation. Our registered page-signal study includes JSON-LD and microdata as observable signals. Its structured-data presence test does not certify a page’s factual content or search-feature eligibility. Invalid JSON-LD is separately recorded.
+**Does not support:** We have no measurement on this point: the causal effect of adding a particular structured-data type on AI citation. Our registered page-signal study includes JSON-LD and microdata as observable signals. Its structured-data presence test does not certify a page’s factual content or search-feature eligibility. Invalid JSON-LD is separately recorded.
 
-The Index’s dated citation arrays do not supply a controlled test of adding markup. We have no measurement establishing that a particular type increases a software vendor’s chance of citation.
+**Supports:** The Index’s dated citation arrays do not supply a controlled test of adding markup. We have no measurement establishing that a particular type increases a software vendor’s chance of citation.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -133,11 +137,11 @@ Broadcastwell research team. (2026, October 30). *Which structured data belongs 
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Rohan Iyer, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

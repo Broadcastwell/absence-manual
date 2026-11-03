@@ -5,15 +5,15 @@ description: The 2019 comparison of scholarly search systems, all nine reported 
 page_class: research
 research_id: 13
 research_group: source
-lead: Arjun Mehta
+lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/rovira-2019/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.3390/fi11090202
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.3390/fi11090202
 
 **Rovira’s two-term Google Scholar correlations are 0.721 unrestricted and 0.994 title-restricted; they compare aggregated ranks (2019, Table 2).**
 
+
+Observed answers on stated dates, not a ranking.
 Restricting the search to titles changes the comparison substantially. Rovira and colleagues report Google Scholar coefficients of 0.721 for unrestricted two-term searches and 0.994 for title-restricted two-term searches. Neither coefficient is a probability that a paper will be cited. [Rovira et al., 2019, Table 2](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf).
 
 The distinction matters. Here, citations are references already received by scholarly documents, while the observed visibility outcome is their relevance ordering in academic search systems. Neither measure records a software vendor's appearance in an AI-generated answer.
@@ -99,7 +101,11 @@ There remains an appealing unanswered question: under a stable configuration, do
 
 ## What our own data shows
 
-Our corrected August and September Index releases share CRM and project-management vendor identities, but differ in engine coverage, control scope and valid-answer bases. For example, Microsoft Dynamics 365 is named in 23 of 117 valid August CRM answers, 19.7% (Wilson 95% interval 13.5% to 27.8%), and separately in 36 of 150 September answers, 24.0% (17.9% to 31.4%). These are dated observations under different configurations, not an estimated change or a persistence result. [August version](https://doi.org/10.5281/zenodo.22721962); [September version](https://doi.org/10.5281/zenodo.22907695); [registered waiting rule](https://doi.org/10.17605/OSF.IO/MKJ9V).
+**Supports:** Our corrected August and September Index releases share CRM and project-management vendor identities, but differ in engine coverage, control scope and valid-answer bases. For example, Microsoft Dynamics 365 is named in 23 of 117 valid August CRM answers, 19.7% (Wilson 95% interval 13.5% to 27.8%), and separately in 36 of 150 September answers, 24.0% (17.9% to 31.4%). These are dated observations under different configurations, not an estimated change or a persistence result. [August version](https://doi.org/10.5281/zenodo.22721962); [September version](https://doi.org/10.5281/zenodo.22907695); [registered waiting rule](https://doi.org/10.17605/OSF.IO/MKJ9V).
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -125,11 +131,11 @@ Broadcastwell research team. (2026, October 30). *Rovira and colleagues: citatio
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Arjun Mehta, management consultant.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

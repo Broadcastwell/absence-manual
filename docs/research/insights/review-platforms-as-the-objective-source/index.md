@@ -7,13 +7,13 @@ research_id: 8
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/review-platforms-as-the-objective-source/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.5281/zenodo.22907695
 
 **G2 appears in 580/18,893 target citation entries: 3.1%, Wilson 95% interval 2.8% to 3.3% (Broadcastwell, 2026, Study 2).**
 
+
+Observed answers on stated dates, not a ranking.
 The exact host **g2.com** appears in **580 of 18,893 target citation entries**, **3.1%**, descriptive **95% Wilson interval 2.8% to 3.3%**, in the September software answers. The record establishes that references appeared. It does not establish that the underlying reviews were objective or that the engine judged them so. [Broadcastwell, Study 2, review-platform occurrences; release 2026-09](https://doi.org/10.5281/zenodo.22907695).
 
 A useful warning comes from a restaurant-review project in Mexico City. Its researchers selected rating-platform material over social-media material and called the former “more objective.” That is the authors’ characterization of their selected corpus. It is not an independently validated property of every review site, and it should not be used as the voice of all AI answer systems. [Maldonado Castillo et al., 2024, chapter 90, §2, printed p. 841](https://doi.org/10.1007/978-3-031-51038-0_90).
@@ -90,7 +92,11 @@ The remaining question is not whether review sites deserve one universal trust l
 
 ## What our own data shows
 
-The frozen review-platform class contains **1,663/18,893 target citation occurrences, 8.8% (Wilson 95% interval 8.4% to 9.2%)**. The later host audit is reported separately. Our [September release](https://doi.org/10.5281/zenodo.22907695) contains the saved answers and explicit references underlying these counts. [OSF registration](https://doi.org/10.17605/OSF.IO/VCZKT) records the study question and analysis plan. The [CSV](../../data/review-platform-occurrences.csv) includes all engine/category scopes with bases and intervals; the [study](../../studies/who-ai-engines-cite/) discloses classification corrections and timing. We have no measurement here of whether a review was truthful, whether an engine considered it objective or whether a vendor’s listing caused inclusion.
+**Supports:** The frozen review-platform class contains **1,663/18,893 target citation occurrences, 8.8% (Wilson 95% interval 8.4% to 9.2%)**. The later host audit is reported separately. Our [September release](https://doi.org/10.5281/zenodo.22907695) contains the saved answers and explicit references underlying these counts. [OSF registration](https://doi.org/10.17605/OSF.IO/VCZKT) records the study question and analysis plan. The [CSV](../../data/review-platform-occurrences.csv) includes all engine/category scopes with bases and intervals; the [study](../../studies/who-ai-engines-cite/) discloses classification corrections and timing.
+
+**Does not support:** We have no measurement here of whether a review was truthful, whether an engine considered it objective or whether a vendor’s listing caused inclusion.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -115,11 +121,11 @@ Broadcastwell research team. (2026, October 30). *Review-platform citations do n
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
+Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

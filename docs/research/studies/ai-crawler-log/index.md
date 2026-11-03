@@ -7,13 +7,13 @@ research_id: 47
 research_group: study
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T20:46:21Z'
+updated: '2026-11-02T21:22:53Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/ai-crawler-log/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T20:46:21Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://developers.openai.com/api/docs/bots
 research_dataset:
   name: Broadcastwell public Index crawler-request observations
@@ -35,6 +35,8 @@ research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
 
 **The initial log has zero declared AI-token matches among 83 requests after our check is excluded (Broadcastwell, 30 October 2026, crawler-log snapshot).**
 
+
+Observed answers on stated dates, not a ranking.
 The first saved window contains **zero declared AI-agent token matches among 83 requests**, after excluding one named research check. Its descriptive **95% Wilson interval is 0.0% to 4.4%**. That short observation cannot establish that AI services never visit the site. [Broadcastwell public-request log, 30 October 2026, initial snapshot](../../data/ai-crawler-log.csv).
 
 Collection was enabled on **30 October 2026 at 05:35:37 UTC**. The first stored observation is **05:35:44.478 UTC**; this initial table ends at the last stored observation, **05:38:00.771 UTC**. The window is deliberately printed with the count. It is not a complete day, a monthly total or a statement about all requests to Broadcastwell.
@@ -105,9 +107,15 @@ The initial interval remains an historical snapshot rather than being overwritte
 
 ## What our own data shows
 
-After the named own check is excluded, the initial snapshot has **0 declared AI-token matches among 83 observations, 0.0% (Wilson 95% interval 0.0% to 4.4%)**. These are declared user-agent matches in that short covered window. The [initial observation CSV](../../data/ai-crawler-log.csv) is a direct aggregate from the public-request record, with one named own check excluded. The reference archive used for our answer studies is separately identified by [September release DOI](https://doi.org/10.5281/zenodo.22907695); it is not the source of crawler visits. We have no measurement here of whether any logged request caused an AI citation, a visit from a buyer or a commercial outcome.
+**Supports:** After the named own check is excluded, the initial snapshot has **0 declared AI-token matches among 83 observations, 0.0% (Wilson 95% interval 0.0% to 4.4%)**. These are declared user-agent matches in that short covered window. The [initial observation CSV](../../data/ai-crawler-log.csv) is a direct aggregate from the public-request record, with one named own check excluded. The reference archive used for our answer studies is separately identified by [September release DOI](https://doi.org/10.5281/zenodo.22907695); it is not the source of crawler visits.
+
+**Does not support:** We have no measurement here of whether any logged request caused an AI citation, a visit from a buyer or a commercial outcome.
+
+**Suggests:** A longer covered window.
 
 ## Sources
+
+- Broadcastwell (2026). The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers. Broadcastwell LLC. https://doi.org/10.5281/zenodo.22907695. All releases: https://doi.org/10.5281/zenodo.22150321. CC BY 4.0.
 
 - OpenAI. (2026). Overview of OpenAI crawlers. OAI-SearchBot, GPTBot and ChatGPT-User definitions. https://developers.openai.com/api/docs/bots Verified 30 October 2026.
 - Anthropic. (2026). Does Anthropic crawl data from the web, and how can site owners block the crawler? ClaudeBot, Claude-SearchBot and Claude-User definitions. https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler Verified 30 October 2026.
@@ -116,9 +124,6 @@ After the named own check is excluded, the initial snapshot has **0 declared AI-
 - Microsoft Bing. (2026). Which crawlers does Bing use? Bingbot identities and verification. https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0 Verified 30 October 2026.
 - Apple. (2026, September 4). About Applebot. Applebot, Applebot-Extended and verification. https://support.apple.com/en-us/119829 Verified 30 October 2026.
 - Broadcastwell. (2026). Public-request crawler study collection instrument. https://docs.broadcastwell.com/research/data/research-crawler-collection.mjs . Initial implementation and later sanitizer correction distinguished in the page text. Verified 30 October 2026.
-
-
-- Broadcastwell (2026). The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers. Broadcastwell LLC. https://doi.org/10.5281/zenodo.22907695. All releases: https://doi.org/10.5281/zenodo.22150321. CC BY 4.0.
 
 ## Cite this page
 
@@ -144,7 +149,6 @@ Sources checked 30 October 2026. This page has not been peer reviewed.
 
 Last updated: 2026-11-02. Next review: 2027-02-02.
 
-## Continue
+## Related reading
 
-- [Run a free visibility check](https://audit.broadcastwell.com/).
 - [Read the measurement chapter](https://docs.broadcastwell.com/measurement-noise/).

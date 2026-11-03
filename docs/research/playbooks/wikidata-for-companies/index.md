@@ -7,13 +7,13 @@ research_id: 31
 research_group: playbook
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/wikidata-for-companies/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://www.wikidata.org/wiki/Wikidata:Notability
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://www.wikidata.org/wiki/Wikidata:Notability
 
 **Wikidata has three notability routes; a company website alone does not automatically establish eligibility (Wikidata:Notability, checked 30 October 2026).**
 
+
+Observed answers on stated dates, not a ranking.
 Wikidata’s **three notability routes** concern a valid Wikimedia sitelink, a clearly identifiable entity describable with serious public references, or a structural need. The existence of a company website does not automatically establish any one route. When eligibility is disputed, the community decides. [Wikidata:Notability](https://www.wikidata.org/wiki/Wikidata:Notability).
 
 A useful company item identifies an entity and connects verifiable statements to sources. It is not a place to paste positioning copy, invent an endorsement or create a shortcut around an encyclopedia’s requirements. Begin with eligibility and identity, then work through the specific facts the references support.
@@ -103,9 +105,11 @@ Wikidata’s notability policy requires “serious and publicly available refere
 
 ## What our own data shows
 
-We have no measurement on this point: the causal citation effect of creating a Wikidata company item. The Index records software vendors named and cited in dated answers. It does not measure the effect of creating a Wikidata company item. We have no controlled evidence that an item would increase Broadcastwell’s naming rate or its citations.
+**Does not support:** We have no measurement on this point: the causal citation effect of creating a Wikidata company item. The Index records software vendors named and cited in dated answers. It does not measure the effect of creating a Wikidata company item. We have no controlled evidence that an item would increase Broadcastwell’s naming rate or its citations.
 
-Our official fact sheet and deposited research identities provide inspectable public references. They should be assessed for the specific statements they support, without turning them into an endorsement by Wikimedia or an answer engine.
+**Supports:** Our official fact sheet and deposited research identities provide inspectable public references. They should be assessed for the specific statements they support, without turning them into an endorsement by Wikimedia or an answer engine.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -134,11 +138,11 @@ Broadcastwell research team. (2026, October 30). *What belongs in a company’s 
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

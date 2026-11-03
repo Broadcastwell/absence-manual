@@ -5,15 +5,15 @@ description: 'A close reading of the 2021 WebSci study: its classifier, Google s
 page_class: research
 research_id: 12
 research_group: source
-lead: Arjun Mehta
+lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/lewandowski-2021/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.1145/3447535.3462479
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.1145/3447535.3462479
 
 **Among 256,853 Google result URLs, the study identified optimization signals rather than causal benefits (Lewandowski et al., 2021, Figure 1).**
 
+
+Observed answers on stated dates, not a ranking.
 The paper's central result concerns what a searcher could encounter: optimization signals were common across the Google results the researchers could retrieve. It did not measure the extra traffic or ranking benefit a business would get from installing a plugin. [Lewandowski, Sünkler and Yagci, 2021, abstract and §§3 to 6](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf).
 
 That distinction matters if you are reading the paper to decide what to change on a software website. A feature can be widespread among returned pages without being sufficient to get your page returned. The study observes the selected results. It does not include a randomized comparison of otherwise identical pages with and without each feature.
@@ -92,7 +94,11 @@ Even a future finding that most cited pages carry technical optimization signals
 
 ## What our own data shows
 
-The September 2026 release contains 2,095 valid target answers after five target exclusions, with controls kept separate. Its explicit citation arrays contain 18,893 target citation occurrences in our registered Study 2 reanalysis. Those are answer-linked URL entries, not Google ranked-result records. [Broadcastwell, release 2026-09, README and answer JSONL](https://doi.org/10.5281/zenodo.22907695); [Study 2 registration](https://doi.org/10.17605/OSF.IO/VCZKT). This review uses Study 2’s citation counts for its own-data comparison. Study 1’s separate page-signal analysis is not reported as a result on this review page.
+**Supports:** The September 2026 release contains 2,095 valid target answers after five target exclusions, with controls kept separate. Its explicit citation arrays contain 18,893 target citation occurrences in our registered Study 2 reanalysis. Those are answer-linked URL entries, not Google ranked-result records. [Broadcastwell, release 2026-09, README and answer JSONL](https://doi.org/10.5281/zenodo.22907695); [Study 2 registration](https://doi.org/10.17605/OSF.IO/VCZKT). This review uses Study 2’s citation counts for its own-data comparison. Study 1’s separate page-signal analysis is not reported as a result on this review page.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -115,11 +121,11 @@ Broadcastwell research team. (2026, October 30). *Lewandowski, Sünkler and Yagc
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Arjun Mehta, management consultant.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

@@ -7,13 +7,13 @@ research_id: 34
 research_group: playbook
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/question-led-content/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.5281/zenodo.22907695
 
 **The September Index contains 140 target questions; their first words describe a fixed research bank, not live search demand (Broadcastwell, release 2026-09).**
 
+
+Observed answers on stated dates, not a ranking.
 **140 target questions** appear in the September release: a fixed research bank, not a popularity ranking of what buyers currently type or say. The wording was chosen for a measurement design. Counting its first words tells us about that bank’s construction, rather than the prevalence of those words in the market. [Broadcastwell, release 2026-09, category question arrays](https://doi.org/10.5281/zenodo.22907695).
 
 Start a content page with the decision it can help someone make. The buyer may need to establish whether software supports a workflow, compare two products, understand a restriction or identify the evidence needed to evaluate an offer. Those needs are more useful than replacing a keyword with a question mark.
@@ -92,9 +94,13 @@ Brian Dean writes that “the average voice search answer is 29 words”. The me
 
 ## What our own data shows
 
-The literal first token is “what” in **89/140 released target questions, 63.6% (Wilson 95% interval 55.3% to 71.1%)**. This describes the fixed question bank, not buyer search demand. The new inventory counts the first tokens of the released target-question texts. It is separate from the registered citation studies and reports no search-volume estimate. The [September release, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695), and the public calculation make that narrow count reproducible.
+**Supports:** The literal first token is “what” in **89/140 released target questions, 63.6% (Wilson 95% interval 55.3% to 71.1%)**. This describes the fixed question bank, not buyer search demand. The new inventory counts the first tokens of the released target-question texts. It is separate from the registered citation studies and reports no search-volume estimate. The [September release, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695), and the public calculation make that narrow count reproducible.
 
 We have no experiment showing that changing a question’s first word increases citations, naming rate or sales. The library’s single-question format is an editorial choice whose usefulness should be evaluated against the reader’s task.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -118,11 +124,11 @@ Broadcastwell research team. (2026, October 30). *How do you choose a buyer ques
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

@@ -7,13 +7,13 @@ research_id: 11
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/state-of-geo-research-2026/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://arxiv.org/html/2311.09735v3
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://arxiv.org/html/2311.09735v3
 
 **Our bounded 30 October 2026 search verifies seven peer-reviewed empirical source-visibility studies; this is a documented minimum, not the size of the field.**
 
+
+Observed answers on stated dates, not a ranking.
 We verified **seven peer-reviewed empirical studies of source citation or source visibility** in a bounded search completed **30 October 2026**. The exact-phrase arXiv search displayed **61 unique records**. Those are different counts: a search hit is not automatically an eligible study, and our verified minimum is not a census of the whole field. [Dated search log](../../data/literature-search-log-2026-10-30.csv); [record decisions and primary links](../../data/literature-census-2026-10-30.csv).
 
 That result makes a blanket description of GEO research as empty or fake untenable. It also leaves a more useful problem. Controlled citation experiments, observational audits of deployed services, conceptual frameworks and commercial case reports answer different questions. You cannot combine their headlines as though each measured the effect of publishing a page on the same live engine.
@@ -87,7 +89,11 @@ There is a trade-off between a rapidly updated discovery list and a deeply verif
 
 ## What our own data shows
 
-Our contribution here is the [dated literature record](../../data/literature-census-2026-10-30.csv) and [query/access log](../../data/literature-search-log-2026-10-30.csv): 61 arXiv abstract-screen records, seven primary-verified empirical peer-reviewed works, and an explicit incomplete-coverage boundary. These are bibliographic tallies, not random-sample proportions, so no Wilson estimate of a field prevalence is made. Our own [September answer archive](https://doi.org/10.5281/zenodo.22907695) remains a separate measured record; it does not certify the outside papers or establish a publishing tactic’s causal effect.
+**Supports:** Our contribution here is the [dated literature record](../../data/literature-census-2026-10-30.csv) and [query/access log](../../data/literature-search-log-2026-10-30.csv): 61 arXiv abstract-screen records, seven primary-verified empirical peer-reviewed works, and an explicit incomplete-coverage boundary. These are bibliographic tallies, not random-sample proportions, so no Wilson estimate of a field prevalence is made. Our own [September answer archive](https://doi.org/10.5281/zenodo.22907695) remains a separate measured record; it does not certify the outside papers or establish a publishing tactic’s causal effect.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -98,7 +104,7 @@ Our contribution here is the [dated literature record](../../data/literature-cen
 - Zhou, H., Chen, J., Chen, X., Bao, J., Chen, Z., & Liao, Y. (2026). IF-GEO: Conflict-aware instruction fusion for multi-query generative engine optimization. Findings of ACL 2026, pp. 27576 to 27590. §§5 to 6, Tables 1 to 3. https://doi.org/10.18653/v1/2026.findings-acl.1373 . Code: https://github.com/yangjizc/IF-GEO Verified 30 October 2026.
 - Kim, S., Jeong, W., Kim, S., Lee, S., & Lee, D. (2026). SAGEO Arena: A realistic environment for evaluating search-augmented generative engine optimization. KDD 2026. §§3 to 5. https://doi.org/10.1145/3770855.3818146 . Author version: https://arxiv.org/html/2602.12187v2 . Software artifact: https://doi.org/10.5281/zenodo.20423532 Verified 30 October 2026.
 - Wu, B., Mao, F., Lin, J., Yang, C., Lu, J., Guo, Y., Zhang, S., Wu, Y., Huang, Y., & Li, F. (2026). From experience to skill: Multi-agent generative engine optimization via reusable strategy learning. Findings of ACL 2026, pp. 43305 to 43315. §§4 to 5. https://aclanthology.org/2026.findings-acl.2149/ . Author code: https://github.com/Wu-beining/MAGEO Verified 30 October 2026.
-- Grossman, R., Liu, S., Chen, M. K., Smith, M., Borcea, C., & Chen, Y. (2026). How generative AI disrupts search: An empirical study of Google Search, Gemini, and AI Overviews. SIGIR 2026, pp. 448 to 459. §§3 to 4. https://doi.org/10.1145/3805712.3809667 . Author copy: https://web.njit.edu/~borcea/papers/acm-sigir26.pdf Verified 30 October 2026.
+- Grossman, R., Liu, S., Chen, M. K., Smith, M., Borcea, C., & Chen, Y. (2026). How generative AI disrupts search [title abbreviated]. SIGIR 2026, pp. 448 to 459. §§3 to 4. https://doi.org/10.1145/3805712.3809667 . Author copy: https://web.njit.edu/~borcea/papers/acm-sigir26.pdf Verified 30 October 2026.
 - Vishwakarma, R., Kumar, S., & Jamidar, R. (2026). What gets cited: Competitive GEO in AI answer engines. SIGIR 2026. §§2 to 3. https://doi.org/10.1145/3805712.3808445 . Author copy: https://arxiv.org/pdf/2605.25517 Verified 30 October 2026.
 - Sourirajan, V., Zhang, Y., Kumar, H., Wadhwa, S., Patel, M., & Iranitalab, A. (2026). Beyond the vacuum: Combinatorial strategy selection for competitor-aware generative engine optimization. EMNLP 2026, pp. 11852 to 11871. §§5 to 6. https://aclanthology.org/2026.emnlp-main.516/ Verified 30 October 2026.
 - Ziakis, C., & Vlachopoulou, M. (2024). Artificial intelligence’s revolutionary role in search engine optimization. In Strategic innovative marketing and tourism (pp. 391 to 399). §2, printed p. 392. https://doi.org/10.1007/978-3-031-51038-0_43 Verified 30 October 2026.
@@ -121,11 +127,11 @@ Broadcastwell research team. (2026, October 30). *GEO papers ask different quest
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
+Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

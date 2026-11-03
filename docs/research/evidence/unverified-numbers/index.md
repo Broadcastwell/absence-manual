@@ -7,13 +7,13 @@ research_id: 23
 research_group: evidence
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/evidence/unverified-numbers/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://arxiv.org/html/2311.09735v3
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://arxiv.org/html/2311.09735v3
 
 **GEO’s reported 41% improvement concerns position-adjusted word-count visibility, not citation probability (Aggarwal et al., 2024, Table 1).**
 
+
+Observed answers on stated dates, not a ranking.
 The **41%** GEO claim has a real ancestor, but “citation probability” is the wrong outcome. Aggarwal and colleagues' Table 1 describes improvement in a **position-adjusted word-count visibility metric**, with a separate subjective-impression measure. It is not a measured probability that a business will be cited. [Aggarwal et al., 2024, author manuscript v3, Table 1](https://arxiv.org/html/2311.09735v3).
 
 This ledger preserves the claim as encountered, then states what survives checking. It includes missing sources, changes of unit, invalid inference and corrections to our own initial objections. A rejected sentence is not proof that its underlying topic is unimportant, or that an author acted dishonestly.
@@ -87,7 +89,11 @@ Corrections belong in the record even when the initial error came from our own r
 
 ## What our own data shows
 
-We have no measurement on this point: the number of unsupported claims in this selected reading collection does not estimate a prevalence of misinformation across SEO or GEO publishing. Our [evidence standard](../../standard/) governs individual uses. Only corrected, bounded findings are carried into the [quotable-numbers ledger](../quotable-numbers/).
+**Supports:** Only the source-bounded findings above; no new measurement.
+
+**Does not support:** We have no measurement on this point: the number of unsupported claims in this selected reading collection does not estimate a prevalence of misinformation across SEO or GEO publishing. Our [evidence standard](../../standard/) governs individual uses. Only corrected, bounded findings are carried into the [quotable-numbers ledger](../quotable-numbers/).
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -118,6 +124,8 @@ We have no measurement on this point: the number of unsupported claims in this s
 - R., Naila. (n.d.). Research: Introduction to SEO. Supplied Research-IntroductiontoSearchEngineOptimization1.pdf. Used only to document conflicting, unsupported density advice. Verified 30 October 2026.
 
 
+See the [Claim Registry](https://docs.broadcastwell.com/research/claims/) and [academic access](https://docs.broadcastwell.com/research/academic-access/).
+
 ## Cite this page
 
 Broadcastwell research team. (2026, October 30). *Numbers we could not verify, and claims the originals correct*. Broadcastwell. https://docs.broadcastwell.com/research/evidence/unverified-numbers/ Published 30 October 2026; updated 30 October 2026.
@@ -134,11 +142,11 @@ Broadcastwell research team. (2026, October 30). *Numbers we could not verify, a
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 
