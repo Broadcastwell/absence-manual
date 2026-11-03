@@ -7,13 +7,13 @@ research_id: 43
 research_group: study
 lead: Ananya Rao
 published: '2026-10-30T08:50:01Z'
-updated: '2026-10-30T08:50:01Z'
-next_review: '2027-01-30T08:50:01Z'
+updated: '2026-11-02T20:46:21Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T08:50:01Z'
-date_modified: '2026-10-30T08:50:01Z'
+date_modified: '2026-11-02T20:46:21Z'
 is_based_on: https://doi.org/10.17605/OSF.IO/DVYFU
 research_dataset:
   name: Observed optimization signals on archived AI-cited pages
@@ -26,6 +26,8 @@ research_dataset:
   - name: Reproduction manifest
     contentUrl: https://docs.broadcastwell.com/research/data/study1-file-manifest.csv
     encodingFormat: text/csv
+research_report_doi: https://doi.org/10.5281/zenodo.23804758
+research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
 ---
 
 # Which optimization signals appear on AI-cited pages?
@@ -59,8 +61,6 @@ Quoted paragraphs reproduce the registered text unchanged. Unquoted section intr
 > Use the published answers-2026-09.jsonl and release-2026-09.json attached to version DOI 10.5281/zenodo.22907695, with their published checksums. These answers were already collected and made public before this registration. Published aggregate counts and the comparison paper have been read. No new study results, host classification totals or page-signal shares have been computed. All three research-section plans must be registered before analysis begins.
 
 ### Units and inclusion
-
-The next section defines eligible units.
 
 > Include every explicit citation URL in the archived answers. Retain engine, category, question, repeat, capture date and citation order for every occurrence. Deduplicate the analysis units by exact URL, preserving scheme, path, query and fragment in the unit identifier. Preserve a separate mapping to the requested resource URL. A URL contributes once to each engine or category stratum in which it occurs. Report target and control questions separately as well as the combined archive; do not treat a missing answer or an answer without a citation as a URL with no optimization. Retain excluded answer rows in a separate audit, but omit their citation URLs from the primary eligible-answer analysis unless the same URL also appears in an eligible answer. Give any all-record sensitivity analysis a separate label. Preserve extraction exclusions and reasons. Report any archival mismatch before continuing.
 
@@ -207,10 +207,13 @@ These are measurements of later captured signatures on previously cited pages. W
 ## Sources
 
 - Broadcastwell. (2026). Study 1 plan: Do AI engines cite optimized pages? [Registration]. OSF. Registered 30 October 2026, 01:06:12 UTC; public approval completed before this study’s collection and aggregation. https://doi.org/10.17605/OSF.IO/DVYFU Verified 30 October 2026.
-- Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
+- Broadcastwell (2026). The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers. Broadcastwell LLC. https://doi.org/10.5281/zenodo.22907695. All releases: https://doi.org/10.5281/zenodo.22150321. CC BY 4.0.
 - Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google’s results: A multi-dimensional approach for detecting SEO. WebSci 2021 (pp. 12 to 20). ACM. Figure 1, printed p. 17 (PDF p. 6); feature and classification method, §§3 to 4. doi:10.1145/3447535.3462479 . Accessible author original: https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf Verified 30 October 2026.
 
+
 ## Cite this page
+
+Report DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). All versions: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
 Broadcastwell research team. (2026, October 30). *Which optimization signals appear on AI-cited pages?*. Broadcastwell. https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/ Published 30 October 2026; updated 30 October 2026.
 
@@ -226,11 +229,11 @@ Broadcastwell research team. (2026, October 30). *Which optimization signals app
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ananya Rao, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

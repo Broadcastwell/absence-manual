@@ -7,13 +7,13 @@ research_id: 47
 research_group: study
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T20:46:21Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/ai-crawler-log/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T20:46:21Z'
 is_based_on: https://developers.openai.com/api/docs/bots
 research_dataset:
   name: Broadcastwell public Index crawler-request observations
@@ -27,6 +27,8 @@ research_dataset:
   - name: Agent definitions
     contentUrl: https://docs.broadcastwell.com/research/data/crawler-agent-definitions.csv
     encodingFormat: text/csv
+research_report_doi: https://doi.org/10.5281/zenodo.23804758
+research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
 ---
 
 # The AI crawler log begins with a short observation window
@@ -115,7 +117,12 @@ After the named own check is excluded, the initial snapshot has **0 declared AI-
 - Apple. (2026, September 4). About Applebot. Applebot, Applebot-Extended and verification. https://support.apple.com/en-us/119829 Verified 30 October 2026.
 - Broadcastwell. (2026). Public-request crawler study collection instrument. https://docs.broadcastwell.com/research/data/research-crawler-collection.mjs . Initial implementation and later sanitizer correction distinguished in the page text. Verified 30 October 2026.
 
+
+- Broadcastwell (2026). The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers. Broadcastwell LLC. https://doi.org/10.5281/zenodo.22907695. All releases: https://doi.org/10.5281/zenodo.22150321. CC BY 4.0.
+
 ## Cite this page
+
+Report DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). All versions: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
 Broadcastwell research team. (2026, October 30). *The AI crawler log begins with a short observation window*. Broadcastwell. https://docs.broadcastwell.com/research/studies/ai-crawler-log/ Published 30 October 2026; updated 30 October 2026.
 
@@ -131,11 +138,11 @@ Broadcastwell research team. (2026, October 30). *The AI crawler log begins with
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 
