@@ -1,0 +1,33 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/buying/looking-for-ai-software-for-field-service-providers-in-the-united-king.md",
+  "target_path": "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "2b685b039d5069f289907040ca148e08816646cb05b2107db2a7d27546423b98",
+  "target_effective_canonical_sha256": "177528d716ffaafe909b8648bd355796eda00866e2ebfb918afe3becde4e83a2",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0111.p01.s01",
+    "LB-Q0111.p01.s02",
+    "LB-Q0111.p01.s03",
+    "LB-Q0111.p02.s01",
+    "LB-Q0111.p02.s02",
+    "LB-Q0111.p02.s03",
+    "LB-Q0111.p02.s04",
+    "LB-Q0111.p03.s01",
+    "LB-Q0111.p03.s02",
+    "LB-Q0111.p03.s03",
+    "LB-Q0111.additional.01",
+    "LB-Q0111.additional.02",
+    "LB-Q0111.additional.03"
+  ],
+  "preserved_fact_bindings_sha256": "7efd0be64838ff51b87ce4e27c10ce9c857208426c20d7dca82cf7de87e59ccf",
+  "required_aliases": [
+    "Looking for AI software for field service providers in the United Kingdom?",
+    "Looking for ai software for field service providers in the united kingdom?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "8fca1880aea9d8fac6a92a31b4cde0d0c6225f0a5cb71131fecc43ee130a0035",
+  "scope": "TEMPLATE ONLY. Root exact preservation decision required; Source old18+new47 peer scopes retained accurately."
+}

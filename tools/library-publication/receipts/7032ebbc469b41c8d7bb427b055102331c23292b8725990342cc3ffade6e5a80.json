@@ -1,0 +1,11 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/google-ai/what-is-a-google-ai-overview.md",
+  "before_effective_canonical_sha256": "c1dcf41d24dd661ece41bf5136d2cec24cc61b1174dca86991dbc1a194cead04",
+  "raw_canonical_source_sha256": "c1dcf41d24dd661ece41bf5136d2cec24cc61b1174dca86991dbc1a194cead04",
+  "after_effective_canonical_sha256": "d8acc13b070cead6c1e7165e00f77e29ec2c169bddc8370160b46e64f6b3c83f",
+  "fact_ledger_sha256": "53bc2be6a487c1cb427c3d27910d5abb8e378ba089fff397b84ca7b36c4264f4",
+  "effective_payload_sha256": "08d1c327b7028383c7f8e00d7a917e636780953a563026b9e41e284a47b295a9",
+  "scope": "TEMPLATE ONLY; Root exact finite input review/adoption required. Actual PR91 before; no publication approval."
+}

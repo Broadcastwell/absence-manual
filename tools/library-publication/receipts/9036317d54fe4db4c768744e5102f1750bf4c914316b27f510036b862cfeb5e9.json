@@ -1,0 +1,11 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+  "before_effective_canonical_sha256": "6bfd19ff2f5ab530cad46bed77233447e10e1a4e13f84004fc5b10df8c69039a",
+  "raw_canonical_source_sha256": "e1d30e75db7b16afbfcfc8ae0a2d541b3037cbf41692d657fdb3d079d4902dd5",
+  "after_effective_canonical_sha256": "4b9fc4a281fda023d82502e63b3ef3a72ba114332c7566f5eb2ca731e6ff2a3c",
+  "fact_ledger_sha256": "1620172c9c430d97bdd372ddeb63c4177fb294e2d4ed70f28219d3392a688a4e",
+  "effective_payload_sha256": "58f8868e5ba5bb5cd500596ce9542659ae3cf14393891c4900f34bf6c8e7de35",
+  "scope": "TEMPLATE ONLY; Root exact finite input review/adoption required. Actual PR91 before; no publication approval."
+}

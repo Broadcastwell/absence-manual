@@ -1,0 +1,28 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/geo-basics/how-do-getmint-and-otterly-compare-for-transactional-geo-in-the-united.md",
+  "target_path": "answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "7e6119d827fa9b004eb7411c26748422c8b3651f2822b5e6e5ceceea3ac904a3",
+  "target_effective_canonical_sha256": "03b579972a63ed275d498bb07a36884cf0fd707a71778410e340eb4356ae58d6",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0043.p01.s01",
+    "LB-Q0043.p01.s02",
+    "LB-Q0043.p01.s03",
+    "LB-Q0043.p02.s01",
+    "LB-Q0043.p02.s02",
+    "LB-Q0043.p03.s01",
+    "LB-Q0043.p03.s02",
+    "LB-Q0043.p03.s03",
+    "LB-Q0043.additional.01"
+  ],
+  "preserved_fact_bindings_sha256": "8f46134b7b6bd0003099c2a3309297b9e7edd5f0d6af8f2a2c21a7c60812188e",
+  "required_aliases": [
+    "How do GetMint and Otterly compare for transactional GEO in the United States?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "87570a1245cb854d2a7dc5e75535b4458aa8eab3763678ee3df2a349f43c659a",
+  "scope": "TEMPLATE ONLY. Root exact preservation decision required; Source old18+new47 peer scopes retained accurately."
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "current_full_file_actually_read": true,
+  "fresh_full_final_file_reread_claimed": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0561",
+  "path": "answers/industries/why-is-my-dental-software-missing-from-ai-answers.md",
+  "canonical_source_sha256": "892c12f7b2c6f1bc8fecf62cfbeb13d79ba44b94160ff7a214225eaeee5ca023",
+  "effective_canonical_source_sha256": "d14f158f783a77e30047f27ab73678e612f41f52399a0b46362310aac36dc762",
+  "effective_body_sha256": "119df40ddf752aeb5fa219d7cb5b0045e2b4763e4b1237121d136c94053858f2",
+  "effective_metadata_sha256": "80c6bf8d12fb459b44ed84fa6e57d9e0c598eb46c041636cdb3f3a50a570f38a",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\manuscripts\\answers\\industries\\why-is-my-dental-software-missing-from-ai-answers.md",
+    "raw_sha256": "78c6f33ddf26e6c8eb93723b89f45e9b9bf49ceba23cded63070b9f73f15035d",
+    "canonical_LF_sha256": "d14f158f783a77e30047f27ab73678e612f41f52399a0b46362310aac36dc762"
+  },
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\S5_1919_ROOT_THREE_FULL_WRITING_V2\\coverage\\LB-Q0561.coverage.json",
+    "raw_sha256": "5e05b0f47692fa46e3219a9a3ca875974099451f6cfbeda98d6c211ece076134",
+    "canonical_LF_sha256": "b76dc5cf3a3d28d48c612f07fac8f5092d0aee71e0e876f7b2c7002981bd033b"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\ROOT_PRIVATE_ADOPTION.json",
+      "raw_sha256": "c4838a1581ac9627db5f9b4a9bf87336a98b3cf1c8bffac466e81427da3f419d",
+      "canonical_LF_sha256": "93560800d865d9f60da541bc061a63e9cdff87eb6b74405111b739b3946318b2"
+    },
+    "date_modified": "2026-11-03T19:38:19+00:00"
+  },
+  "approval_boundary": "Exact current private Writing-peer article approval. Source, collection/reuse/code, visual, staging, public release, retirement and indexing remain separate.",
+  "publication_or_global_approved": false
+}

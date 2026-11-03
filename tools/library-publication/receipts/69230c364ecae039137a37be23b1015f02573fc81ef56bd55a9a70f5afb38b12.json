@@ -1,0 +1,11 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/google-ai/how-do-google-ai-overviews-affect-website-visibility.md",
+  "before_effective_canonical_sha256": "957c99e616cbce375b2cf817a054936e99cb7e412a9d8a3c30ad353a1091e82c",
+  "raw_canonical_source_sha256": "957c99e616cbce375b2cf817a054936e99cb7e412a9d8a3c30ad353a1091e82c",
+  "after_effective_canonical_sha256": "83ce5eb7fb81665e45bd75caf5188e81358e8a744eb23b9d8665d02b09a24cf9",
+  "fact_ledger_sha256": "247fc04461ea8a9721c63ad4f3b7db627c0c12f74c62bb6ccf8e1291a96da863",
+  "effective_payload_sha256": "ada47f1951623ed4e401ad52dfdfae3e6fb71fdc7e5b9a0c179c62d1518eebff",
+  "scope": "TEMPLATE ONLY; Root exact finite input review/adoption required. Actual PR91 before; no publication approval."
+}
