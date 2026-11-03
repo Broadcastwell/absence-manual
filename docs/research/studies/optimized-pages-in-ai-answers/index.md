@@ -242,7 +242,6 @@ Sources checked 30 October 2026. This page has not been peer reviewed.
 
 Last updated: 2026-11-02. Next review: 2027-02-02.
 
-## Continue
+## Related reading
 
-- [Run a free visibility check](https://audit.broadcastwell.com/).
 - [Check a proposed before-and-after claim](https://docs.broadcastwell.com/valid-measurement/).
