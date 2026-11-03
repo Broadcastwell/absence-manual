@@ -1,6 +1,76 @@
 {
   "schema_version": 1,
   "approved": true,
-  "pages": {},
-  "scope": "Root explicit empty change set in this12Claude group."
+  "pages": {
+    "answers/index.md": {
+      "approved": true,
+      "before_canonical_sha256": "1bd327da61fc4323f4787e022a15f172c1935200737f9020a07f4829cfddbf11",
+      "after_body_sha256": "f1402755742f018d2d88452ce2ef1b04ad2e5271e23c58824ccd47112bbba772",
+      "metadata_delta": {
+        "date_modified": {
+          "old": "2026-11-03T05:03:06+00:00",
+          "new": "2026-11-03T13:43:08+00:00"
+        },
+        "description": {
+          "old": "326 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and source corrections.",
+          "new": "308 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and source corrections."
+        }
+      }
+    },
+    "answers/buying/index.md": {
+      "approved": true,
+      "before_canonical_sha256": "308cd0081e67a72b11d95276aac74cb505db4f9ce4c349d2d01dee51d01412c5",
+      "after_body_sha256": "8a796409626f3426d1cc20a82a27266b667bc34e798132db40b5af212c545899",
+      "metadata_delta": {
+        "date_modified": {
+          "old": "2026-11-02T22:14:54+00:00",
+          "new": "2026-11-03T13:43:08+00:00"
+        }
+      }
+    },
+    "answers/fixes/index.md": {
+      "approved": true,
+      "before_canonical_sha256": "50a54703ade89cd26fa43cc1dc9a7b9bd6705ed976fe18e9da0ea925069e2ad7",
+      "after_body_sha256": "93f079e903e22d211cdea3e82cd84faf82d2ed0bed6d7f258ed9addec00adfed",
+      "metadata_delta": {
+        "date_modified": {
+          "old": "2026-11-02T22:14:54+00:00",
+          "new": "2026-11-03T13:43:08+00:00"
+        }
+      }
+    },
+    "answers/geo-basics/index.md": {
+      "approved": true,
+      "before_canonical_sha256": "a13a3af4808c6e597974a9f33e189ee21a1e88499800656419f906671556b394",
+      "after_body_sha256": "ad5f46579647ff55a8bf82e6ca05c608ef779177d6dffa8c26424edcc69d2956",
+      "metadata_delta": {
+        "date_modified": {
+          "old": "2026-11-02T22:24:59+00:00",
+          "new": "2026-11-03T13:43:08+00:00"
+        }
+      }
+    },
+    "answers/google-ai/index.md": {
+      "approved": true,
+      "before_canonical_sha256": "fff1528ac057910c5871d7fc4b7823f78f60e0ce7d838e60e902476903e5154b",
+      "after_body_sha256": "a8f7e38a6e86e1b3f58993f82a56b02795bd9e3515901328b1c467acdb5f2bc1",
+      "metadata_delta": {
+        "date_modified": {
+          "old": "2026-11-02T22:14:54+00:00",
+          "new": "2026-11-03T13:43:08+00:00"
+        }
+      }
+    },
+    "answers/measurement/index.md": {
+      "approved": true,
+      "before_canonical_sha256": "52c0020dda46f3e1440ffdfcfce9c747504e16bc33ab9f59edae768a1398af3e",
+      "after_body_sha256": "d06c80c103523d5cc5df645471548f3751480b4877d6b97dcdd536896d16dae4",
+      "metadata_delta": {
+        "date_modified": {
+          "old": "2026-11-02T22:14:54+00:00",
+          "new": "2026-11-03T13:43:08+00:00"
+        }
+      }
+    }
+  }
 }

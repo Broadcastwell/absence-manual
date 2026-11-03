@@ -300,6 +300,13 @@ if "background:transparent" not in shell_css[shell_css.find(".bw-shared-audit {"
 
 # ---------- per page checks ----------
 
+from library_publication_verify_stubs import reviewed_stub_pages
+try:
+    canonical_stub_pages = reviewed_stub_pages(ROOT, SITE)
+except (ValueError, KeyError, OSError) as exc:
+    fail("exact reviewed canonical-stub binding failed: %s" % exc)
+    canonical_stub_pages = {}
+
 for rel, cls in sorted(manifest.items()):
     out = SITE / built_path(rel)
     if not out.exists():
@@ -321,6 +328,12 @@ for rel, cls in sorted(manifest.items()):
     for hook in ("data-paywall", 'class="paywall"', 'id="paywall"', "data-gated", 'class="signup'):
         if hook in html:
             fail("%s contains the gating hook %s" % (rel, hook))
+
+    # Only the complete approved-input/decision/renderer/target proof above
+    # establishes a static canonical stub. It is not an ordinary article.
+    # Raw-source hygiene and the whole-served ruling scan remain unchanged.
+    if rel in canonical_stub_pages:
+        continue
 
     canon = re.findall(r'(?is)rel="canonical"\s+href="([^"]+)"', html)
     if len(canon) != 1:

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0556",
+  "path": "answers/agents/how-does-an-ai-connector-differ-from-browsing-a-website.md",
+  "canonical_source_sha256": "1889a57d1b9ac692130c62273d807868a9483e32150939429291b60db01730fc",
+  "effective_canonical_source_sha256": "ee8e65ed86426b7f5ad7acecb7ef08f7741278fb04e8bbb459c274fea7d36f64",
+  "effective_body_sha256": "339eaf896ac98483eb7634daf3a49f0a273e6b50528af788571f5a4f170b67c3",
+  "effective_metadata_sha256": "ecd6a12e0c39f6af2e5874b0eb045a38243d48466a7034b7f2471847558463bc",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\agents\\how-does-an-ai-connector-differ-from-browsing-a-website.md",
+    "raw_sha256": "ee8e65ed86426b7f5ad7acecb7ef08f7741278fb04e8bbb459c274fea7d36f64",
+    "canonical_LF_sha256": "ee8e65ed86426b7f5ad7acecb7ef08f7741278fb04e8bbb459c274fea7d36f64"
+  },
+  "review_basis": "Actual original full-page or full merged/primary-target reading plus all exact selected bounded continuations, neutral footer replay and independently verified Root metadata-date-only change.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0556.writing-coverage.json",
+    "raw_sha256": "ce58a74a81ac1fdf39b03cdef3c81ae1d200566ab495c842ecae7c9653d97eeb",
+    "canonical_LF_sha256": "ce58a74a81ac1fdf39b03cdef3c81ae1d200566ab495c842ecae7c9653d97eeb"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false
+}

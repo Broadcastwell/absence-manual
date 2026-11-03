@@ -5,7 +5,7 @@ description: What assistants found, understood and reached on public software we
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-11-02T22:14:54+00:00'
+date_modified: '2026-11-03T13:43:08+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 11
@@ -18,12 +18,6 @@ What assistants found, understood and reached on public software websites.
 Observed answers on stated dates, not a ranking.
 
 These 22 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
-
-## Connections and public browsing
-
-[How does an AI connector differ from browsing a website?](how-does-an-ai-connector-differ-from-browsing-a-website.md)
-
-Browsing and connectors expose different routes: the Agent Gap study found pages in 210 tasks and reached 163 handoffs.
 
 ## Reading public pages
 
@@ -40,6 +34,12 @@ In Agent Gap, 70 of 70 pricing pages were found, 67 results were correct and 52 
 [How can a software website make its public pricing path clearer?](how-can-a-software-website-make-its-public-pricing-path-clearer.md)
 
 Make the price, qualification and route explicit: Agent Gap reached 52 of 70 pricing-task endpoints on 6 October 2026.
+
+## Connections and public browsing
+
+[How does an AI connector differ from browsing a website?](how-does-an-ai-connector-differ-from-browsing-a-website.md)
+
+Browsing and connectors expose different routes: the Agent Gap study found pages in 210 tasks and reached 163 handoffs.
 
 ## Demo paths
 

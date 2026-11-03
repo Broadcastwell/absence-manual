@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md",
+  "before_effective_canonical_sha256": "c7ebda87b6e85f27baaf03e81a6169fbe3432ff65df1a02e950092e9b11df1e3",
+  "raw_canonical_source_sha256": "a68df40d124a06e7d69946fec4e11297ff4c2796d242ba190c00344c4e1b890a",
+  "after_effective_canonical_sha256": "03b579972a63ed275d498bb07a36884cf0fd707a71778410e340eb4356ae58d6",
+  "fact_ledger_sha256": "f1b74d50a89b573e413937d654e7c44e1165253fa9cbef065608e9324ea2df80",
+  "effective_payload_sha256": "2969e11453428c2623db737d4f4e224d9e01cc44c1d5e86ee2cdd6619d5fc19d",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare.md",
+  "bank_id": "LB-Q0042",
+  "canonical_source_sha256": "a6e4f3975ed70799c981d5d543a898f2558b32e95995f1b37261ba38239a5ab9",
+  "effective_canonical_source_sha256": "7bb53c14d2155e2cb3b3010286a6980375f05684c7ce050bd754677d9979227a",
+  "effective_body_sha256": "f752560fbea63c62047a3d454c00f92da453502bc19e230e57fd67d14de15881",
+  "effective_metadata_sha256": "134c71e23f64184f223d7e7a77d0892a19a3d9cf4c882986d8119da83dcb287d",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\geo-basics\\which-review-sites-for-geo-should-a-buyer-compare.md",
+    "raw_sha256": "7bb53c14d2155e2cb3b3010286a6980375f05684c7ce050bd754677d9979227a",
+    "canonical_LF_sha256": "7bb53c14d2155e2cb3b3010286a6980375f05684c7ce050bd754677d9979227a"
+  },
+  "reviewed_utc": "2026-11-03T10:38:44.186118+00:00",
+  "full_read_basis": "Actual complete source article read plus exact reviewed bounded/fullfuture continuations; current metadata is verified Rootactualdate-only replay. No new single-pass262reread claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\coverage\\LB-Q0042.source-coverage.json",
+    "raw_sha256": "10d3a053666006b4400fb1bf39b0837b11d7825634c79dd0642ae0c51c44530f",
+    "canonical_LF_sha256": "10d3a053666006b4400fb1bf39b0837b11d7825634c79dd0642ae0c51c44530f"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00",
+    "scope": "Rootprovided actualprivateadoption, not publicpublication or measuredsourcecapture date."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false
+}

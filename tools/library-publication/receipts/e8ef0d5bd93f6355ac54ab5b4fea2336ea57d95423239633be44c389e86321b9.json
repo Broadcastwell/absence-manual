@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/google-ai/how-do-google-ai-overviews-affect-website-visibility.md",
+  "bank_id": "LB-Q0492",
+  "canonical_source_sha256": "957c99e616cbce375b2cf817a054936e99cb7e412a9d8a3c30ad353a1091e82c",
+  "effective_canonical_source_sha256": "83ce5eb7fb81665e45bd75caf5188e81358e8a744eb23b9d8665d02b09a24cf9",
+  "effective_body_sha256": "19e86c7f995a015db8138d87c6100a3ef05b6ac7060e5df85a012cdf1aa2c1b4",
+  "effective_metadata_sha256": "619641ba2cf1e848589a37aaebf8b9b1bcc4f2e87a2ca1a226a1c1196f64171a",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\google-ai\\how-do-google-ai-overviews-affect-website-visibility.md",
+    "raw_sha256": "83ce5eb7fb81665e45bd75caf5188e81358e8a744eb23b9d8665d02b09a24cf9",
+    "canonical_LF_sha256": "83ce5eb7fb81665e45bd75caf5188e81358e8a744eb23b9d8665d02b09a24cf9"
+  },
+  "reviewed_utc": "2026-11-03T10:38:44.186118+00:00",
+  "full_read_basis": "Actual complete source article read plus exact reviewed bounded/fullfuture continuations; current metadata is verified Rootactualdate-only replay. No new single-pass262reread claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\coverage\\LB-Q0492.source-coverage.json",
+    "raw_sha256": "a312e35d1831109c7987f387aad615e2eb399c345ae53411dd1cf6107c3f7016",
+    "canonical_LF_sha256": "a312e35d1831109c7987f387aad615e2eb399c345ae53411dd1cf6107c3f7016"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00",
+    "scope": "Rootprovided actualprivateadoption, not publicpublication or measuredsourcecapture date."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false
+}

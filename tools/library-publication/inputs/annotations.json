@@ -6664,12 +6664,11 @@
     },
     "answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md": {
       "bank_id": "LB-Q0554",
-      "source_sha256": "9d18241cd2aef589d0cab374f0a9a56149048cfd5f6f810e695df9999b4d90ad",
-      "canonical_source_sha256": "c7ebda87b6e85f27baaf03e81a6169fbe3432ff65df1a02e950092e9b11df1e3",
+      "source_sha256": "a68df40d124a06e7d69946fec4e11297ff4c2796d242ba190c00344c4e1b890a",
+      "canonical_source_sha256": "03b579972a63ed275d498bb07a36884cf0fd707a71778410e340eb4356ae58d6",
       "opening_sha256": "5c1b3769988b24ede4cfb92781a16956911631dde48e51b228794d0d21fdda35",
       "opening_shape": "answer_definition",
       "classification_reason": "The opening directly defines an event, object, distinction or required content, without an initial imperative, explicit yes/no, named-vendor result or dominant refutation. The observed first sentence is: A handoff marks the task's endpoint, not a completed software purchase.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
       "lead_figures": [
         "figure:5b653fbbbb6fc2615621eafaae61a3d9430d0c4952738a0f82d8f8095adf9a14"
       ],
@@ -6678,7 +6677,8 @@
           "A handoff marks the task's endpoint, not a completed software purchase. Agent Gap recorded 163 reached outcomes across 210 initial website tasks on 6 October 2026. That result does not supply a count of submitted forms, booked meetings, paid orders or deployed products."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "905571bac063edabb443253e0b4fabc30c3f2c6f3301992f2f3e5e7e9bdef27b",
+      "writing_review_sha256": "0f3d7e259f6c687f03a476ecdd9512c3e799795867e20f65eddbb3461ab28965"
     },
     "answers/agents/does-finding-a-page-prove-an-ai-assistant-understood-it.md": {
       "bank_id": "LB-Q0553",
@@ -6738,25 +6738,25 @@
     },
     "answers/agents/how-does-an-ai-connector-differ-from-browsing-a-website.md": {
       "bank_id": "LB-Q0556",
-      "source_sha256": "e72108f22cfc3edd44b4f711543168816786e337fb4a000652132ebf0b7ada7b",
-      "canonical_source_sha256": "d0f0d3d21b7cf78f2e3e05ba2dd4428e4214867d70bb7d49b6c3f6f6ab907361",
-      "opening_sha256": "760fc50114565588f9d9dc0703167956dbd7785429599aa7623ca18e8378c300",
+      "source_sha256": "1889a57d1b9ac692130c62273d807868a9483e32150939429291b60db01730fc",
+      "canonical_source_sha256": "ee8e65ed86426b7f5ad7acecb7ef08f7741278fb04e8bbb459c274fea7d36f64",
+      "opening_sha256": "8ddbf0a0c6d5c05b4a15741a889b956df31372f7a4a738b4ba2f30074c6cc251",
       "opening_shape": "answer_definition",
-      "classification_reason": "The opening directly defines an event, object, distinction or required content, without an initial imperative, explicit yes/no, named-vendor result or dominant refutation. The observed first sentence is: A connector gives an AI application defined access to data or actions; browsing lets an assistant inspect and use website pages.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "classification_reason": "The actual first sentence defines connector access versus website browsing. The earlier102reader-situation proposal does not describe this final merged first sentence.",
       "lead_figures": [
         "figure:5b653fbbbb6fc2615621eafaae61a3d9430d0c4952738a0f82d8f8095adf9a14",
         "figure:8aa980be000f5c13c979ddbcc787e57ece7f566641f495150f3ecd41257e046e"
       ],
       "lead_figure_spans": {
         "figure:5b653fbbbb6fc2615621eafaae61a3d9430d0c4952738a0f82d8f8095adf9a14": [
-          "A connector gives an AI application defined access to data or actions; browsing lets an assistant inspect and use website pages. In the Agent Gap study on 6 October 2026, the assistant found the target pages in all 210 initial tasks, but 163 tasks reached the defined handoff. Those were website-browsing observations, so they cannot be read as an MCP connection or purchase success rate."
+          "In the Agent Gap study on 6 October 2026, the assistant found the target pages in all 210 initial tasks, but 163 tasks reached the defined handoff."
         ],
         "figure:8aa980be000f5c13c979ddbcc787e57ece7f566641f495150f3ecd41257e046e": [
-          "A connector gives an AI application defined access to data or actions; browsing lets an assistant inspect and use website pages. In the Agent Gap study on 6 October 2026, the assistant found the target pages in all 210 initial tasks, but 163 tasks reached the defined handoff. Those were website-browsing observations, so they cannot be read as an MCP connection or purchase success rate."
+          "In the Agent Gap study on 6 October 2026, the assistant found the target pages in all 210 initial tasks, but 163 tasks reached the defined handoff."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "955376a7a844129cb728412148659db742840c00ed0a4b0093128d282fe065ad",
+      "writing_review_sha256": "b33d48f322d47b9e09249fe2f95893483c6ac72030b9692e805c1e2fc08b452d"
     },
     "answers/agents/how-far-can-an-ai-assistant-get-along-a-software-demo-path.md": {
       "bank_id": "LB-Q0552",
@@ -7028,29 +7028,32 @@
     },
     "answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include.md": {
       "bank_id": "LB-Q0631",
-      "source_sha256": "ee336fd22978bd56db04d7a93c8e10f1fe2f113df241d10ce2d8ddf1b1a1e913",
-      "canonical_source_sha256": "928f5827f5f0a7966b283e51ac834b24106d87aabf57b5589a7f66ed94029433",
-      "opening_sha256": "caefcdb22eeda0940a63598430813d8a08b2a71bbba7d27d9d60dbb9123362e2",
-      "opening_shape": "answer_definition",
-      "classification_reason": "The opening directly defines an event, object, distinction or required content, without an initial imperative, explicit yes/no, named-vendor result or dominant refutation. The observed first sentence is: An AI factual-accuracy alert should let you locate the claim, inspect its source and understand the proposed classification.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
-      "lead_figures": [
-        "figure:2b82a714c2e26769c32500a0d4a5becfe6fdf25fc85c0965e994c4ed8ffff222",
-        "figure:4eb07cd0f3f4337b591617427b2b374aaae339f8fa5e69fadfe9ccc9fbdc6867",
-        "figure:6e8c0bb1949272d758f1d10df2ee7c463c18c1f210ecf4354ce140716c5f7a06"
-      ],
-      "lead_figure_spans": {
-        "figure:2b82a714c2e26769c32500a0d4a5becfe6fdf25fc85c0965e994c4ed8ffff222": [
-          "An AI factual-accuracy alert should let you locate the claim, inspect its source and understand the proposed classification. Out of 2,922 classified statements, Wrong About You recorded 113 wrong, five stale and 880 unverifiable statements in answers captured on 22 and 23 September 2026. Combining those states into one alarming total would lose the distinction needed to choose a useful response."
-        ],
-        "figure:4eb07cd0f3f4337b591617427b2b374aaae339f8fa5e69fadfe9ccc9fbdc6867": [
-          "An AI factual-accuracy alert should let you locate the claim, inspect its source and understand the proposed classification. Out of 2,922 classified statements, Wrong About You recorded 113 wrong, five stale and 880 unverifiable statements in answers captured on 22 and 23 September 2026. Combining those states into one alarming total would lose the distinction needed to choose a useful response."
-        ],
-        "figure:6e8c0bb1949272d758f1d10df2ee7c463c18c1f210ecf4354ce140716c5f7a06": [
-          "An AI factual-accuracy alert should let you locate the claim, inspect its source and understand the proposed classification. Out of 2,922 classified statements, Wrong About You recorded 113 wrong, five stale and 880 unverifiable statements in answers captured on 22 and 23 September 2026. Combining those states into one alarming total would lose the distinction needed to choose a useful response."
-        ]
-      },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_sha256": "bd718a7d7cd0caf6ad252b9414f49a5c68e8589d2579e772dffdd402d70ab3b3",
+      "canonical_source_sha256": "2eb211a82bedcbe81d041a77e0f21db1ffad319e55846756cf8870d4966cfd23",
+      "opening_sha256": "543a315ffe3c7dfa1ad5115522f962c1790c866ac75e937f6672a340db5629ce",
+      "opening_shape": "source_first",
+      "classification_reason": "The named publisher/record source, the Absence Index, leads the first clause before the specific Procore assertion.",
+      "lead_figures": [],
+      "lead_figure_spans": {},
+      "source_review_sha256": "61b7a71bcd280ae19f699e4429595774186b053e45a2ae210af5913271f7fea6",
+      "writing_review_sha256": "e68d7ffcdbb05389b4757724ddf61e5dced53994b3c521c69d13d1a72298ffff",
+      "qualitative_opening": {
+        "source_url": "https://doi.org/10.5281/zenodo.23270124",
+        "record": {
+          "capture_date": "2026-09-22",
+          "event_date": "2026-10-08",
+          "category": "construction-project-management",
+          "engine": "Claude",
+          "question": "q7",
+          "run": "1",
+          "subject": "Procore",
+          "metric": "retained no-pricing-page assertion and dated contradictory reference"
+        },
+        "source_quote": "there is no pricing page on their website.",
+        "opening_span": "The Absence Index’s [Procore statement record](https://index.broadcastwell.com/vendors/procore/construction-project-management/#wrong-about-you) retains Claude’s 22 September 2026 assertion: “there is no pricing page on their website.” It links the vendor’s [pricing page](https://www.procore.com/pricing), read on 8 October 2026, as contradictory evidence and keeps the question needed to inspect the flag. An accuracy alert should provide that checkable connection rather than a label alone. The record labels the assertion wrong and leaves team review in progress.",
+        "observation_key": "observation:744fecad908f9865132f9d101720dd8d0404afc691be0d1636044fcca6688dd0",
+        "independent_receipt_sha256": "e3c00842213416bd8deda86d830988294ae2d610c95ffe1ce26e5bcf1acb0307"
+      }
     },
     "answers/buying/what-evidence-should-i-keep-when-an-ai-visibility-engagement-ends.md": {
       "bank_id": "LB-Q0630",
@@ -7118,28 +7121,6 @@
         ],
         "figure:cbf26943b65612a1f45b821270c12db0dff519ee596e73044c363e8f678dc81b": [
           "Before a longer engagement, choose the decision your initial GEO project needs to support and the evidence you will accept. Housecall Pro was named in 108 of 150 answers captured on 22 September 2026, while its own domain was cited in 43 of 150. Those counts share a base but answer different questions about the delivered observation."
-        ]
-      },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
-    },
-    "answers/buying/what-should-i-ask-a-geo-provider-about-mcp-or-api-access.md": {
-      "bank_id": "LB-Q0633",
-      "source_sha256": "a763a40ec3fbe9be75811d73cc08f6f3a85b74d770192254a75f1d3f08931e1f",
-      "canonical_source_sha256": "b6d8a72b4801f1fd86b337484aeaf5430946e2748929ec39bf6afda57f0a82d4",
-      "opening_sha256": "7e62434727715d268be68bcfd2e2c5a3ebbe3b258e6d32d7b2b4ba8b51ac3de0",
-      "opening_shape": "action_first",
-      "classification_reason": "An imperative tells the reader what to do first. Different verbs, category nouns or introductory scope phrases do not create different shapes. The observed first sentence is: Ask which records you can read, which actions you can request and what permission each needs.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
-      "lead_figures": [
-        "figure:5b653fbbbb6fc2615621eafaae61a3d9430d0c4952738a0f82d8f8095adf9a14",
-        "figure:8aa980be000f5c13c979ddbcc787e57ece7f566641f495150f3ecd41257e046e"
-      ],
-      "lead_figure_spans": {
-        "figure:5b653fbbbb6fc2615621eafaae61a3d9430d0c4952738a0f82d8f8095adf9a14": [
-          "Ask which records you can read, which actions you can request and what permission each needs. In the Agent Gap collection on 6 October 2026, the assistant found a destination in all 210 initial task sessions but reached a handoff in 163. Access to a tool or page is not evidence that a whole task, integration or purchase works."
-        ],
-        "figure:8aa980be000f5c13c979ddbcc787e57ece7f566641f495150f3ecd41257e046e": [
-          "Ask which records you can read, which actions you can request and what permission each needs. In the Agent Gap collection on 6 October 2026, the assistant found a destination in all 210 initial task sessions but reached a handoff in 163. Access to a tool or page is not evidence that a whole task, integration or purchase works."
         ]
       },
       "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
@@ -7394,12 +7375,11 @@
     },
     "answers/chatgpt/which-dental-software-does-chatgpt-recommend.md": {
       "bank_id": "LB-Q0587",
-      "source_sha256": "c7175d96880dda87199c42d9053f5fd505c811eef6c13368690203d1b4de7b60",
-      "canonical_source_sha256": "a42f789baf0c60d258323d61b1f6eaf0aaf4fd3f914cac83ad993211624d36b9",
-      "opening_sha256": "e882aa8c23796480aacd1e4dbf235b4f44f22bfc2a36eb7ef6f9cbc3472a141e",
-      "opening_shape": "vendor_first",
-      "classification_reason": "A named checked software vendor or product identity leads the first clause. The count follows that named subject. A list of vendors still uses this one shape. The observed first sentence is: Dentrix and Open Dental tied at 22 of 30 valid ChatGPT dental answers captured on 22 September 2026; Dentrix Ascend appeared in 21.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "source_sha256": "6878473c5818031f1688d49912dddf7496cc52f08db41f76893ec920fdce686a",
+      "canonical_source_sha256": "5e888e6c0c906ccb7c7cfa162485af4f75d69a630dad04d2e0ae59d62e6d029d",
+      "opening_sha256": "01c8705496d4cf892f06ee24ecb755727d342ab368fea4adc4f966a2bd40be86",
+      "opening_shape": "figure_first",
+      "classification_reason": "A per-vendor22/30 result leads; the equal counts do not imply that the two names co-occurred. This additional page cures ChatGPT hub vendor-shape concentration outside the original96-page defect union.",
       "lead_figures": [
         "figure:627e10a30923439f5a10846f419534960e239da329a40990bb4bf1212e0d05ed",
         "figure:63e261f62cf5c30dbfa2b736b6087fb6c71b79ededb65b24a19a4962965f40ff",
@@ -7407,25 +7387,25 @@
       ],
       "lead_figure_spans": {
         "figure:627e10a30923439f5a10846f419534960e239da329a40990bb4bf1212e0d05ed": [
-          "Dentrix and Open Dental tied at 22 of 30 valid ChatGPT dental answers captured on 22 September 2026; Dentrix Ascend appeared in 21. This engine's base is 30, despite an exclusion elsewhere in the multi-engine dental collection. The record counts names and preserves product labels; it does not establish a clinical or software-quality recommendation."
+          "22 of 30 ChatGPT dental answers named Dentrix, and Open Dental had the same count in our [22 September 2026 panel](https://doi.org/10.5281/zenodo.22907695). Dentrix Ascend appeared in 21. All 30 answers in this engine slice were valid, despite an exclusion elsewhere in the dental collection. Keep those product labels separate: equal naming totals do not establish the same answer-by-answer pattern, clinical quality or a software recommendation."
         ],
         "figure:63e261f62cf5c30dbfa2b736b6087fb6c71b79ededb65b24a19a4962965f40ff": [
-          "Dentrix and Open Dental tied at 22 of 30 valid ChatGPT dental answers captured on 22 September 2026; Dentrix Ascend appeared in 21. This engine's base is 30, despite an exclusion elsewhere in the multi-engine dental collection. The record counts names and preserves product labels; it does not establish a clinical or software-quality recommendation."
+          "22 of 30 ChatGPT dental answers named Dentrix, and Open Dental had the same count in our [22 September 2026 panel](https://doi.org/10.5281/zenodo.22907695). Dentrix Ascend appeared in 21. All 30 answers in this engine slice were valid, despite an exclusion elsewhere in the dental collection. Keep those product labels separate: equal naming totals do not establish the same answer-by-answer pattern, clinical quality or a software recommendation."
         ],
         "figure:e492af7afa1924eec5a8ad09fb787d949bfa22d816ad3ee01a33dd178056208d": [
-          "Dentrix and Open Dental tied at 22 of 30 valid ChatGPT dental answers captured on 22 September 2026; Dentrix Ascend appeared in 21. This engine's base is 30, despite an exclusion elsewhere in the multi-engine dental collection. The record counts names and preserves product labels; it does not establish a clinical or software-quality recommendation."
+          "22 of 30 ChatGPT dental answers named Dentrix, and Open Dental had the same count in our [22 September 2026 panel](https://doi.org/10.5281/zenodo.22907695). Dentrix Ascend appeared in 21. All 30 answers in this engine slice were valid, despite an exclusion elsewhere in the dental collection. Keep those product labels separate: equal naming totals do not establish the same answer-by-answer pattern, clinical quality or a software recommendation."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "001ae6c4deff77087984626e3f1a6a89f1b8fc218d222ab243e98c186d43089b",
+      "writing_review_sha256": "fdb8bba89b5da91f02a211e77886ffbca4783e23dd3bb46f1e0ba70e626e440d"
     },
     "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md": {
       "bank_id": "LB-Q0588",
-      "source_sha256": "65d74bd2545056abe46524fbb459dfbec4a3a66c4f6af7465668a22df3a0e561",
-      "canonical_source_sha256": "a8b94d23ee327b051c433ca5c5fa7c6b84dbeb9117ae1896278bdc26dd51bdd8",
-      "opening_sha256": "e22fd8a3678285969cd2ae0783269a0493b313af1f485c4b5919ff996b268e2e",
+      "source_sha256": "a4c8a567d0185617acd1d7126818a7aa0b97dff9ab1eddbeab3852d0448b68f9",
+      "canonical_source_sha256": "177528d716ffaafe909b8648bd355796eda00866e2ebfb918afe3becde4e83a2",
+      "opening_sha256": "82442f435c51c50016286cc83c0968cf00d7181b698440ce74020c1590b46325",
       "opening_shape": "vendor_first",
       "classification_reason": "A named checked software vendor or product identity leads the first clause. The count follows that named subject. A list of vendors still uses this one shape. The observed first sentence is: Housecall Pro appeared in 21 of 30 ChatGPT field service answers captured on 22 September 2026, but in none of three answers about commercial mechanical and fire-protection contractors.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
       "lead_figures": [
         "figure:9e66833d680ff945fdc9cc2462bff43627d2bb862f2e7a232b2576d91d267214",
         "figure:ac4f45dfd953fd593a7dbde51bd8c061b9d8496b7993c02740a0a6adb84e6191",
@@ -7434,19 +7414,20 @@
       ],
       "lead_figure_spans": {
         "figure:9e66833d680ff945fdc9cc2462bff43627d2bb862f2e7a232b2576d91d267214": [
-          "Housecall Pro appeared in 21 of 30 ChatGPT field service answers captured on 22 September 2026, but in none of three answers about commercial mechanical and fire-protection contractors. ServiceTitan appeared in 19 of 30 overall and all three of those commercial answers. The distinction gives you a context for researching names, without proving that either product fits the work."
+          "Housecall Pro appeared in 21 of 30 ChatGPT answers in our 22 September 2026 field service panel, but in none of three about commercial mechanical and fire-protection contractors. ServiceTitan appeared in 19 of 30 overall and all three of those commercial answers. The distinction gives you a context for researching names, without proving that either product fits the work."
         ],
         "figure:ac4f45dfd953fd593a7dbde51bd8c061b9d8496b7993c02740a0a6adb84e6191": [
-          "Housecall Pro appeared in 21 of 30 ChatGPT field service answers captured on 22 September 2026, but in none of three answers about commercial mechanical and fire-protection contractors. ServiceTitan appeared in 19 of 30 overall and all three of those commercial answers. The distinction gives you a context for researching names, without proving that either product fits the work."
+          "Housecall Pro appeared in 21 of 30 ChatGPT answers in our 22 September 2026 field service panel, but in none of three about commercial mechanical and fire-protection contractors. ServiceTitan appeared in 19 of 30 overall and all three of those commercial answers. The distinction gives you a context for researching names, without proving that either product fits the work."
         ],
         "figure:adf22e775fd6faff199216f1281f2ef48113a749b06d43e86a33fc0ee88d8cdc": [
-          "Housecall Pro appeared in 21 of 30 ChatGPT field service answers captured on 22 September 2026, but in none of three answers about commercial mechanical and fire-protection contractors. ServiceTitan appeared in 19 of 30 overall and all three of those commercial answers. The distinction gives you a context for researching names, without proving that either product fits the work."
+          "Housecall Pro appeared in 21 of 30 ChatGPT answers in our 22 September 2026 field service panel, but in none of three about commercial mechanical and fire-protection contractors. ServiceTitan appeared in 19 of 30 overall and all three of those commercial answers. The distinction gives you a context for researching names, without proving that either product fits the work."
         ],
         "figure:cfc695c1e99b73e15a0ed5360908386714813ef672e598419849d3c9ac32917b": [
-          "Housecall Pro appeared in 21 of 30 ChatGPT field service answers captured on 22 September 2026, but in none of three answers about commercial mechanical and fire-protection contractors. ServiceTitan appeared in 19 of 30 overall and all three of those commercial answers. The distinction gives you a context for researching names, without proving that either product fits the work."
+          "Housecall Pro appeared in 21 of 30 ChatGPT answers in our 22 September 2026 field service panel, but in none of three about commercial mechanical and fire-protection contractors. ServiceTitan appeared in 19 of 30 overall and all three of those commercial answers. The distinction gives you a context for researching names, without proving that either product fits the work."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "dadb524314b90159b021589b442631fcbf92a7ad79869a1544131fbef917af42",
+      "writing_review_sha256": "abeb1d0e0cf4225df50c64ca75887b3977f0d3636bd84b35163e33687fec4e5b"
     },
     "answers/chatgpt/which-hotel-software-does-chatgpt-recommend.md": {
       "bank_id": "LB-Q0589",
@@ -7484,12 +7465,11 @@
     },
     "answers/chatgpt/which-insurance-agency-software-does-chatgpt-recommend.md": {
       "bank_id": "LB-Q0590",
-      "source_sha256": "561539b040bd5eb11f97c4eb93305e58c5802a32ed2d5f9adafe05dea6a0975a",
-      "canonical_source_sha256": "eabf089cbe9db69cde6cce107419a09666d634cc2c9b4b716037bde8d31bddd1",
-      "opening_sha256": "4a051a14ed905a3aa0a425facf4d7022aa23392f973647e64f0c99ba1e46b3fe",
-      "opening_shape": "vendor_first",
-      "classification_reason": "A named checked software vendor or product identity leads the first clause. The count follows that named subject. A list of vendors still uses this one shape. The observed first sentence is: Applied Systems is the checked vendor label in this record, and it appeared in 27 of 30 ChatGPT insurance-agency answers captured on 22 September 2026.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "source_sha256": "1bf448ef9834da6b7a030f4cf0bf5bdcc661befc78921fbd37ebcfffc86586fb",
+      "canonical_source_sha256": "4f0a70da7227fd034915b35d7e610f7bfb60529fbacc8652bb98aac794822e8d",
+      "opening_sha256": "293d0a6f21e39b387c5e7b106df9c14748c69efcf7f09a4af9489427da446bd6",
+      "opening_shape": "action_first",
+      "classification_reason": "The actual first sentence now gives a specific action: match the agency line of business to the retained buyer question before interpreting an aggregate. This promotes the page's existing evidence-use instruction, grounded in its real property-and-casualty/commercial-lines/life-and-health question distinctions. It no longer starts with the supplier identity. The repeated Reasoned instruction is removed, while all real question distinctions remain there. This is a prose-structure change, not relabeling the old opening.",
       "lead_figures": [
         "figure:318389310a0a1a16312fc257ae9a9ddba249a345f6dcf23af2319b950c0636e2",
         "figure:497d8a74c738c258dc1b791f92f9d6c8c8664c4d446fc40e0253980eb5808df5",
@@ -7497,25 +7477,25 @@
       ],
       "lead_figure_spans": {
         "figure:318389310a0a1a16312fc257ae9a9ddba249a345f6dcf23af2319b950c0636e2": [
-          "Applied Systems is the checked vendor label in this record, and it appeared in 27 of 30 ChatGPT insurance-agency answers captured on 22 September 2026. EZLynx appeared in 21 and Vertafore in 20. The broad label must stay intact: its count does not establish a recommendation for every Applied product or every type of agency."
+          "Applied Systems, the checked vendor label in this record, appeared in 27 of 30 ChatGPT insurance-agency answers captured on 22 September 2026; EZLynx appeared in 21 and Vertafore in 20."
         ],
         "figure:497d8a74c738c258dc1b791f92f9d6c8c8664c4d446fc40e0253980eb5808df5": [
-          "Applied Systems is the checked vendor label in this record, and it appeared in 27 of 30 ChatGPT insurance-agency answers captured on 22 September 2026. EZLynx appeared in 21 and Vertafore in 20. The broad label must stay intact: its count does not establish a recommendation for every Applied product or every type of agency."
+          "Applied Systems, the checked vendor label in this record, appeared in 27 of 30 ChatGPT insurance-agency answers captured on 22 September 2026; EZLynx appeared in 21 and Vertafore in 20."
         ],
         "figure:c32b1e31d6645071a90a152488a62f52332b85ac93d22cb455bbafcc379b7591": [
-          "Applied Systems is the checked vendor label in this record, and it appeared in 27 of 30 ChatGPT insurance-agency answers captured on 22 September 2026. EZLynx appeared in 21 and Vertafore in 20. The broad label must stay intact: its count does not establish a recommendation for every Applied product or every type of agency."
+          "Applied Systems, the checked vendor label in this record, appeared in 27 of 30 ChatGPT insurance-agency answers captured on 22 September 2026; EZLynx appeared in 21 and Vertafore in 20."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "aff88f6eadc8ed402730d0bcd7e14dbd201c5a774c2e5e0c4dd661a7294a3de7",
+      "writing_review_sha256": "91bfa0924dab63375d9ce63be9b71c6becdfcc3c01d3e6c559e7a3e6baf9af4b"
     },
     "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md": {
       "bank_id": "LB-Q0591",
-      "source_sha256": "36c6ed3ebed80077108417d0b93e1e53628cad4dfe168972cdebeeaa4591fdf9",
-      "canonical_source_sha256": "5fb20bce29e6555ff535ccd8ebea633e9d4f06875cf0c6d1c8f5d0aedde89f8a",
-      "opening_sha256": "26164418bdeb30d10d92485834e33dd487631d6d6a36b31a92a3451ddb6987ff",
-      "opening_shape": "vendor_first",
-      "classification_reason": "A named checked software vendor or product identity leads the first clause. The count follows that named subject. A list of vendors still uses this one shape. The observed first sentence is: Clio appeared in 25 of 30 ChatGPT legal-practice answers captured on 22 September 2026, and 8am MyCase in 18.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "source_sha256": "5fb20bce29e6555ff535ccd8ebea633e9d4f06875cf0c6d1c8f5d0aedde89f8a",
+      "canonical_source_sha256": "ea37e8f13ea6a7b3082b987de8712fe3c6f50eca8fd95a6f7f6d2be5dd1d7c57",
+      "opening_sha256": "d9b29a86d15268185f2e5c1b3f3503e6ae0ea1f586fef8e115ab79d78fab17c3",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The personal-injury firm's particular buying context leads before its scoped cell and category counts.",
       "lead_figures": [
         "figure:15763b4a79fa6726e1465d0ca4d579bf2f485a0c2dbc8664a73c5bc4d6aef1b5",
         "figure:1b6d03b19c15382880ac0650ab26fcf8084bccb33c9396078a61adf6fa1be0ec",
@@ -7524,19 +7504,20 @@
       ],
       "lead_figure_spans": {
         "figure:15763b4a79fa6726e1465d0ca4d579bf2f485a0c2dbc8664a73c5bc4d6aef1b5": [
-          "Clio appeared in 25 of 30 ChatGPT legal-practice answers captured on 22 September 2026, and 8am MyCase in 18. On the personal-injury-firm question, Clio appeared in all three answers while 8am MyCase appeared in none. That is a practice-specific naming observation, without an assessment of either product's fitness for legal work."
+          "For a personal-injury firm, the relevant ChatGPT question named Clio in three of three answers and 8am MyCase in none. Across the broader [legal-practice panel](https://doi.org/10.5281/zenodo.22907695), Clio appeared in 25 of 30 answers and 8am MyCase in 18. Both results come from 22 September 2026; the narrower question should remain visible beside the totals, which do not assess either product's fitness for legal work."
         ],
         "figure:1b6d03b19c15382880ac0650ab26fcf8084bccb33c9396078a61adf6fa1be0ec": [
-          "Clio appeared in 25 of 30 ChatGPT legal-practice answers captured on 22 September 2026, and 8am MyCase in 18. On the personal-injury-firm question, Clio appeared in all three answers while 8am MyCase appeared in none. That is a practice-specific naming observation, without an assessment of either product's fitness for legal work."
+          "For a personal-injury firm, the relevant ChatGPT question named Clio in three of three answers and 8am MyCase in none. Across the broader [legal-practice panel](https://doi.org/10.5281/zenodo.22907695), Clio appeared in 25 of 30 answers and 8am MyCase in 18. Both results come from 22 September 2026; the narrower question should remain visible beside the totals, which do not assess either product's fitness for legal work."
         ],
         "figure:9bd16ca600a12246043e72217405835f80e0894a2973d102818a94dfee3ee87d": [
-          "Clio appeared in 25 of 30 ChatGPT legal-practice answers captured on 22 September 2026, and 8am MyCase in 18. On the personal-injury-firm question, Clio appeared in all three answers while 8am MyCase appeared in none. That is a practice-specific naming observation, without an assessment of either product's fitness for legal work."
+          "For a personal-injury firm, the relevant ChatGPT question named Clio in three of three answers and 8am MyCase in none. Across the broader [legal-practice panel](https://doi.org/10.5281/zenodo.22907695), Clio appeared in 25 of 30 answers and 8am MyCase in 18. Both results come from 22 September 2026; the narrower question should remain visible beside the totals, which do not assess either product's fitness for legal work."
         ],
         "figure:f90f7d0d4044df3e13c6bce4462d542fadde4e6844387e670a9a6583d1e2e240": [
-          "Clio appeared in 25 of 30 ChatGPT legal-practice answers captured on 22 September 2026, and 8am MyCase in 18. On the personal-injury-firm question, Clio appeared in all three answers while 8am MyCase appeared in none. That is a practice-specific naming observation, without an assessment of either product's fitness for legal work."
+          "For a personal-injury firm, the relevant ChatGPT question named Clio in three of three answers and 8am MyCase in none. Across the broader [legal-practice panel](https://doi.org/10.5281/zenodo.22907695), Clio appeared in 25 of 30 answers and 8am MyCase in 18. Both results come from 22 September 2026; the narrower question should remain visible beside the totals, which do not assess either product's fitness for legal work."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "fce0ba720ea730f26d44a7fd1a76797e39468172245c42e7705a760fdaf6b9a5",
+      "writing_review_sha256": "cdbbb1abe4718cb4a3a90e6199428ca763205214fd96f07f6c2e7afb232c4bf6"
     },
     "answers/chatgpt/which-loan-origination-software-does-chatgpt-recommend.md": {
       "bank_id": "LB-Q0592",
@@ -7640,12 +7621,11 @@
     },
     "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md": {
       "bank_id": "LB-Q0595",
-      "source_sha256": "5ae04c50c5df3e0f0df82c475d7660c6700063de424ba4843a43152af6a28eb2",
-      "canonical_source_sha256": "70d55a2ab9772c7c68d575b6e086a86f22d74bfca65b4912d22c97d4d91f60a3",
-      "opening_sha256": "cdc0e1d90fa9b254ab581e54e8b20c401df3af022959f5d575980c5d57ec67ba",
-      "opening_shape": "reader_situation",
-      "classification_reason": "A specific reader, operation or decision condition leads the opening, followed by the answer. A bare category label is insufficient. The observed first sentence is: For transportation software, start with the operation in the question.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "source_sha256": "4e5029b2db0f91270789faef200ce97a00ae4fd8db3f9c07a3d7f6bb36b2b9ae",
+      "canonical_source_sha256": "73e0d137f2188be08b7fcfda63bda970e665d59c57b4ce1a859eaec68de279de",
+      "opening_sha256": "bd346f97f97567fde422df3bb2d44999603bc9f57e5ffd64523b8b2b25f8490f",
+      "opening_shape": "context_contrast",
+      "classification_reason": "Directly contrasts freight-broker and enterprise-shipper questions within ChatGPT before the aggregate count.",
       "lead_figures": [
         "figure:8e081905f9fa448f410490f45c8e6b3b20d0349107445e4865b4b2f4c59e5ea2",
         "figure:9ee148e5fa5df10ee1fd5e53c0f6f745d55106e46a4f6ef1bfd1d9141f8473b9",
@@ -7654,19 +7634,20 @@
       ],
       "lead_figure_spans": {
         "figure:8e081905f9fa448f410490f45c8e6b3b20d0349107445e4865b4b2f4c59e5ea2": [
-          "For transportation software, start with the operation in the question. ChatGPT named Descartes in 12 of 30 valid answers captured on 22 September 2026, including all three answers about a mid-sized freight brokerage. The enterprise-shipper question instead named Blue Yonder in all three answers and Descartes in none. These recorded names give you candidates to investigate, without establishing which system suits your freight business."
+          "Freight-broker and enterprise-shipper questions produced different ChatGPT names in our [transportation panel](https://doi.org/10.5281/zenodo.22907695). Descartes appeared in all three broker answers, but in no enterprise-shipper answer; Blue Yonder appeared in all three of the latter. Descartes' overall 12 of 30 belongs to that mixed question set, captured on 22 September 2026, rather than a recommendation for every freight operation."
         ],
         "figure:9ee148e5fa5df10ee1fd5e53c0f6f745d55106e46a4f6ef1bfd1d9141f8473b9": [
-          "For transportation software, start with the operation in the question. ChatGPT named Descartes in 12 of 30 valid answers captured on 22 September 2026, including all three answers about a mid-sized freight brokerage. The enterprise-shipper question instead named Blue Yonder in all three answers and Descartes in none. These recorded names give you candidates to investigate, without establishing which system suits your freight business."
+          "Freight-broker and enterprise-shipper questions produced different ChatGPT names in our [transportation panel](https://doi.org/10.5281/zenodo.22907695). Descartes appeared in all three broker answers, but in no enterprise-shipper answer; Blue Yonder appeared in all three of the latter. Descartes' overall 12 of 30 belongs to that mixed question set, captured on 22 September 2026, rather than a recommendation for every freight operation."
         ],
         "figure:a43b9ca5311d7f9b07dcabf93829a26c96e1b62e614839974c6f49d94be7c047": [
-          "For transportation software, start with the operation in the question. ChatGPT named Descartes in 12 of 30 valid answers captured on 22 September 2026, including all three answers about a mid-sized freight brokerage. The enterprise-shipper question instead named Blue Yonder in all three answers and Descartes in none. These recorded names give you candidates to investigate, without establishing which system suits your freight business."
+          "Freight-broker and enterprise-shipper questions produced different ChatGPT names in our [transportation panel](https://doi.org/10.5281/zenodo.22907695). Descartes appeared in all three broker answers, but in no enterprise-shipper answer; Blue Yonder appeared in all three of the latter. Descartes' overall 12 of 30 belongs to that mixed question set, captured on 22 September 2026, rather than a recommendation for every freight operation."
         ],
         "figure:dba9ec2293aa6a3695f94d798ebcfafc498613116b80c62c3e975f89bebe4e7f": [
-          "For transportation software, start with the operation in the question. ChatGPT named Descartes in 12 of 30 valid answers captured on 22 September 2026, including all three answers about a mid-sized freight brokerage. The enterprise-shipper question instead named Blue Yonder in all three answers and Descartes in none. These recorded names give you candidates to investigate, without establishing which system suits your freight business."
+          "Freight-broker and enterprise-shipper questions produced different ChatGPT names in our [transportation panel](https://doi.org/10.5281/zenodo.22907695). Descartes appeared in all three broker answers, but in no enterprise-shipper answer; Blue Yonder appeared in all three of the latter. Descartes' overall 12 of 30 belongs to that mixed question set, captured on 22 September 2026, rather than a recommendation for every freight operation."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "790b422dd45e124fbcbfbd31bd9d844e158930aeb68ef7c047f01c54e1895360",
+      "writing_review_sha256": "96bc2ca8019e70243e1f1906f115cf812f81258abc93ec273d8e2c0f745982be"
     },
     "answers/chatgpt/which-veterinary-software-does-chatgpt-recommend.md": {
       "bank_id": "LB-Q0596",
@@ -8230,43 +8211,55 @@
     },
     "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md": {
       "bank_id": "LB-Q0635",
-      "source_sha256": "df59e43298ee2c5d18c7dfe66b113c3084dab13fa0790950ef3cefc8c5af0616",
-      "canonical_source_sha256": "d4d456900b7d1ebb4911b32dd8b1f0529f8ebc4a0886ad40e66847a8dabdd989",
-      "opening_sha256": "ce8d9f952e1d34fcec1079b2236d5a62e27eb66c2446080b84122631dcf3531a",
-      "opening_shape": "action_first",
-      "classification_reason": "An imperative tells the reader what to do first. Different verbs, category nouns or introductory scope phrases do not create different shapes. The observed first sentence is: Turn the measured question into a page about the same buyer decision, then show what your evidence can answer.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
-      "lead_figures": [
-        "figure:22a401139a67c326019f3f8a4d2a569317b9bca559773513fc135575350dde21"
-      ],
-      "lead_figure_spans": {
-        "figure:22a401139a67c326019f3f8a4d2a569317b9bca559773513fc135575350dde21": [
-          "Turn the measured question into a page about the same buyer decision, then show what your evidence can answer. In construction answers captured on 22 September 2026, Study 7 recorded workflow fit in 17 of 149 eligible answers. That finding supplies a concrete topic to investigate, not proof that publishing a workflow page will change an AI answer."
-        ]
-      },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_sha256": "d4d456900b7d1ebb4911b32dd8b1f0529f8ebc4a0886ad40e66847a8dabdd989",
+      "canonical_source_sha256": "38ee0cca5403622df743b6f154106be4199fb435ef5da3f352b764394613786b",
+      "opening_sha256": "fe463bd4c1f31941ae305059041c43e9c544681a6895c9803f8297176ffa8549",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The first sentence rejects the mistaken inference that a stated criterion proves product fit, before the actual observed criterion.",
+      "lead_figures": [],
+      "lead_figure_spans": {},
+      "source_review_sha256": "34cfababae24ae1ddea0d5085314aa736fcf24616dca4f139134f2581ba297ac",
+      "writing_review_sha256": "2a46e6fd3a9c8cbfa43576849cd1ca3e93f84e86033fd67345841bb8c5108ecb",
+      "qualitative_opening": {
+        "source_url": "https://doi.org/10.5281/zenodo.23271935",
+        "record": {
+          "capture_date": "2026-09-22",
+          "category": "construction-project-management",
+          "engine": "ChatGPT",
+          "question": "q9",
+          "run": "1",
+          "subject": "workflow criterion before vendor names",
+          "metric": "exact retained workflow-selection phrase"
+        },
+        "source_quote": "software that fits how your projects actually run",
+        "opening_span": "A measured buyer criterion does not establish that your product meets it. Our [construction criterion record](https://doi.org/10.5281/zenodo.23271935) retains ChatGPT’s phrase “software that fits how your projects actually run” before any vendor name in a 22 September 2026 answer about choosing construction software. Turn that stated decision into the page’s question, then put product evidence beside the workflow claim you can support. This is an observed answer criterion with coding review in progress, not a verified buyer need or an experiment showing an answer-page effect.",
+        "observation_key": "observation:0f3006066057153b5d55a941f9c2123988315a9d06c5a06b3f8f919cc6dacf3b",
+        "independent_receipt_sha256": "01e1b5802d5d02c0a98de34a24ff836281aaa301329e06ed5e9922e173c33c3d"
+      }
     },
     "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md": {
       "bank_id": "LB-Q0641",
-      "source_sha256": "a7900291040b0b8f87a8b8ac75e2d20b5c404ae56f93e6e335f45000e8942ca7",
-      "canonical_source_sha256": "6bfd19ff2f5ab530cad46bed77233447e10e1a4e13f84004fc5b10df8c69039a",
-      "opening_sha256": "b7a74b675457a7644f703de06359e509b9a76a0d65e16709c26d975323c51c7e",
-      "opening_shape": "action_first",
-      "classification_reason": "An imperative tells the reader what to do first. Different verbs, category nouns or introductory scope phrases do not create different shapes. The observed first sentence is: Choose robots.txt rules for the particular crawler, purpose and URL path you intend to control.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
-      "lead_figures": [
-        "figure:5b653fbbbb6fc2615621eafaae61a3d9430d0c4952738a0f82d8f8095adf9a14",
-        "figure:8aa980be000f5c13c979ddbcc787e57ece7f566641f495150f3ecd41257e046e"
-      ],
-      "lead_figure_spans": {
-        "figure:5b653fbbbb6fc2615621eafaae61a3d9430d0c4952738a0f82d8f8095adf9a14": [
-          "Choose robots.txt rules for the particular crawler, purpose and URL path you intend to control. Agent Gap found pages in all 210 initial website tasks on 6 October 2026, but its 163 reached endpoints were task outcomes, not a test of robots.txt compliance. Access instructions and a successful assistant task need different evidence."
-        ],
-        "figure:8aa980be000f5c13c979ddbcc787e57ece7f566641f495150f3ecd41257e046e": [
-          "Choose robots.txt rules for the particular crawler, purpose and URL path you intend to control. Agent Gap found pages in all 210 initial website tasks on 6 October 2026, but its 163 reached endpoints were task outcomes, not a test of robots.txt compliance. Access instructions and a successful assistant task need different evidence."
-        ]
-      },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_sha256": "e1d30e75db7b16afbfcfc8ae0a2d541b3037cbf41692d657fdb3d079d4902dd5",
+      "canonical_source_sha256": "fd71d359f5f4a7a92a3d4b34e389630fd0cd0cef9a9b40acf7dfd80550d164dc",
+      "opening_sha256": "e036b97fa648185320149f113577e1156f3f61ce2a7f635a3c549395f9dca0ba",
+      "opening_shape": "source_first",
+      "classification_reason": "The bounded acronym/spelling changes retain the same opening subject and construction. Our dated, actually published robots.txt supplies a directly relevant declared-rule example before the choice of crawler group and path; no task-outcome analogy or compliance claim remains in the lead.",
+      "lead_figures": [],
+      "lead_figure_spans": {},
+      "source_review_sha256": "33e8a7ab3a02b1f963230866a088e3848142169dfba31bb67e4b90a76f8e7e0f",
+      "writing_review_sha256": "8f210c2a242b4c9bbb85ccd38e441e0613ad2dafa7b4c499ab351e5ef396ad9c",
+      "qualitative_opening": {
+        "source_url": "https://docs.broadcastwell.com/robots.txt",
+        "record": {
+          "capture_date": "2026-11-02",
+          "subject": "docs.broadcastwell.com robots.txt",
+          "metric": "separate Googlebot Google-Extended Allow groups"
+        },
+        "source_quote": "# The Absence Manual, docs.broadcastwell.com\n# Everything here is free, ungated and open to crawlers, including AI crawlers.\n# There is no form, no login and no paywall anywhere on this site.\n# Prose and figures are CC BY 4.0. Attribution: Broadcastwell team.\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: GPTBot\nAllow: /\n\nUser-agent: ChatGPT-User\nAllow: /\n\nUser-agent: PerplexityBot\nAllow: /\n\nUser-agent: Perplexity-User\nAllow: /\n\nUser-agent: Claude-SearchBot\nAllow: /\n\nUser-agent: ClaudeBot\nAllow: /\n\nUser-agent: Claude-User\nAllow: /\n\nUser-agent: anthropic-ai\nAllow: /\n\nUser-agent: Googlebot\nAllow: /\n\nUser-agent: Google-Extended\nAllow: /\n\nUser-agent: Googlebot-News\nAllow: /\n\nUser-agent: Applebot\nAllow: /\n\nUser-agent: Applebot-Extended\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n\nUser-agent: msnbot\nAllow: /\n\nUser-agent: DuckDuckBot\nAllow: /\n\nUser-agent: Amazonbot\nAllow: /\n\nUser-agent: meta-externalagent\nAllow: /\n\nUser-agent: Bytespider\nAllow: /\n\nUser-agent: CCBot\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: https://docs.broadcastwell.com/sitemap.xml\n",
+        "opening_span": "Broadcastwell's [robots.txt](https://docs.broadcastwell.com/robots.txt), served on 2 November 2026, has separate Googlebot and Google-Extended groups, each with `Allow: /`. Choose the group for the crawler and use you intend to control, then set the relevant path rule. Our file records a declared access policy; it does not establish a visit, crawler compliance, training use or an answer citation. The provider's documentation is needed to identify each crawler's purpose.",
+        "observation_key": "observation:e138d73f82bcef82b7944c161dd5c6f83cede225daeea4af5b3f3a5453e96921",
+        "independent_receipt_sha256": "ffd9c74d107525676efee2f3b0a80f6a92c0c599fcb455124d7072210223da93"
+      }
     },
     "answers/fixes/is-llms-txt-required-for-ai-search-visibility.md": {
       "bank_id": "LB-Q0299",
@@ -8398,21 +8391,21 @@
     },
     "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md": {
       "bank_id": "LB-Q0531",
-      "source_sha256": "837238eafaea24ad6949fb01a23d2e961ea03eb482175b4f9156c6e9b433b6fa",
-      "canonical_source_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a",
-      "opening_sha256": "a9d27dab249ed7da186b8f156b8620d6f8c05953fcb5b1c25140ebfbefb16d47",
+      "source_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a",
+      "canonical_source_sha256": "427c452e4664d04c84c6b9557c72484b9c239e34d9c77dbb2f55c537ee4fe6fc",
+      "opening_sha256": "4046a747de576f1e25945d21f659207cd31022bf208da396eee93c6b399bf195",
       "opening_shape": "yes_no",
-      "classification_reason": "The opening explicitly begins Yes or No and immediately answers the title question. The observed first sentence is: Yes, under the independent naming and citation rules used in Volume II.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "classification_reason": "The bounded acronym/spelling changes retain the same opening subject and construction. Answers Yes under the historical independent events, then states the observed nine-of85 result and time window without importing the September rule.",
       "lead_figures": [
         "figure:57f399169b80e955f036812055c32a4aa3ac899126e677068e903390ec44dc66"
       ],
       "lead_figure_spans": {
         "figure:57f399169b80e955f036812055c32a4aa3ac899126e677068e903390ec44dc66": [
-          "Yes, under the independent naming and citation rules used in Volume II. Nine of 85 companies had their own domains cited while their brands were never named in their ten answers captured 18 to 23 July 2026. A website could therefore appear as evidence without its company appearing as a product option in that collection."
+          "Yes. In [Volume II](https://doi.org/10.5281/zenodo.21586091), nine of 85 companies received at least one own-domain citation while their brands had no naming observations across their ten answers. Those answers were captured from July 18 to 23, 2026, under independent naming and citation rules. A cited publisher could therefore supply evidence without appearing as a product option. The September Index uses a different citation definition."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "0a429c4c3287a70a358176311f050934a7b67b9f6af381fff5b3a0bd247e8c9b",
+      "writing_review_sha256": "34f13351671d07dab8ed04e38bf972b10bd3afe76d9a2bb4a888ac12cdacd24d"
     },
     "answers/geo-basics/do-brand-name-prompts-measure-discovery.md": {
       "bank_id": "LB-Q0538",
@@ -8736,12 +8729,11 @@
     },
     "answers/google-ai/what-is-a-google-ai-overview.md": {
       "bank_id": "LB-Q0542",
-      "source_sha256": "f192f26b556f95a5477c5f431d6dced2e68e172123789faca0b520f8391c606a",
-      "canonical_source_sha256": "c1dcf41d24dd661ece41bf5136d2cec24cc61b1174dca86991dbc1a194cead04",
+      "source_sha256": "c1dcf41d24dd661ece41bf5136d2cec24cc61b1174dca86991dbc1a194cead04",
+      "canonical_source_sha256": "d8acc13b070cead6c1e7165e00f77e29ec2c169bddc8370160b46e64f6b3c83f",
       "opening_sha256": "378e08bca823e2f9ce94e2838bcd0a132bbe12a6509c9b71663386294c6f65fb",
       "opening_shape": "answer_definition",
       "classification_reason": "The opening directly defines an event, object, distinction or required content, without an initial imperative, explicit yes/no, named-vendor result or dominant refutation. The observed first sentence is: A Google AI Overview is an AI-generated part of Search that helps explain a topic and links to supporting web pages.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
       "lead_figures": [
         "figure:0dab0f6f6d283730bd2fef632170684456149f2dbcf87acaf7554421599c4876",
         "figure:a2f82914d1694637aa79b49ac50027a610bd294e13d89055e801046f49a33b26"
@@ -8754,25 +8746,26 @@
           "A Google AI Overview is an AI-generated part of Search that helps explain a topic and links to supporting web pages. It does not appear for every search: in our 4 August 2026 study, 258 of 280 main Google searches returned an Overview and 22 did not. That dated sample illustrates the distinction between running a search and receiving an AI answer."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "36eb58fe9161174ec9d1f230e7a8e81d62a9e6aba927ed7bf0f53ed7a3b9d09a",
+      "writing_review_sha256": "7f85f2cb61bbb2eef963a620c6270eda6a5ebe14eaa0342486b54c8e42b29ce2"
     },
     "answers/google-ai/what-is-google-ai-mode.md": {
       "bank_id": "LB-Q0371",
-      "source_sha256": "5717b95082b192d0027c942ef739a3d04eff3287a3d8d2d6e235284d4581fd88",
-      "canonical_source_sha256": "cc9ce6d634b3cec070eb778ae088567daeafc49dc5189c480dcf007af78bfbea",
-      "opening_sha256": "8f83db72a838572e70879b01dcbac954eb816ef69d0a0d4e10caf18683aa7a5f",
-      "opening_shape": "answer_definition",
-      "classification_reason": "The opening directly defines an event, object, distinction or required content, without an initial imperative, explicit yes/no, named-vendor result or dominant refutation. The observed first sentence is: Google AI Mode is a Search experience for exploring questions that call for reasoning, complex comparisons or further investigation, with links to supporting websites.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
+      "source_sha256": "cc9ce6d634b3cec070eb778ae088567daeafc49dc5189c480dcf007af78bfbea",
+      "canonical_source_sha256": "506ea6d76b0a1555b2732db9b0d47ea9cefa2f68242838315096da3420b1359f",
+      "opening_sha256": "9bbb3246abbdd4645614a6c3ea9d3e55cf6bb1c63c77d844c95b2b9635ca9573",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The need for an extended comparison frames the first clause before the provider definition and Buildertrend result. This is the proposed meaningful reader condition, not the old answer-definition opener.",
       "lead_figures": [
-        "figure:20f148f9dc94f217aeb053a9a3759e1481e6feeecaf4ad1f0f1690c23f0e468b"
+        "figure:4c5f22d60185369c228488825ba16fc8395ec3cc9997e444631e54f55558aaee"
       ],
       "lead_figure_spans": {
-        "figure:20f148f9dc94f217aeb053a9a3759e1481e6feeecaf4ad1f0f1690c23f0e468b": [
-          "Google AI Mode is a Search experience for exploring questions that call for reasoning, complex comparisons or further investigation, with links to supporting websites. A concrete observation: it named Procore in 3 of 3 answers to one small-residential-builder software question captured on 22 September 2026. That result describes a particular question and date, rather than the full range of what AI Mode can answer."
+        "figure:4c5f22d60185369c228488825ba16fc8395ec3cc9997e444631e54f55558aaee": [
+          "One [22 September 2026 construction question](https://doi.org/10.5281/zenodo.22907695), about software for a small residential builder, returned Buildertrend in all three AI Mode answers."
         ]
       },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_review_sha256": "7a1ced01a8b3204f1c029c8a9bb53554cb1df06a0a8662af39c3377b480897ff",
+      "writing_review_sha256": "5793aa67adf061a7e0e733cfceb7bc1301d90f6dd99654b4a99e553c13cd84a2"
     },
     "answers/google-ai/which-construction-software-does-google-ai-overviews-name.md": {
       "bank_id": "LB-Q0544",
@@ -9700,28 +9693,6 @@
       },
       "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
     },
-    "answers/measurement/how-accurate-are-geo-tools-across-different-industries.md": {
-      "bank_id": "LB-Q0055",
-      "source_sha256": "7b24ce816ea74d4392ea3e47223a57d53c8a8a57cdc3f69752eeeed65063f638",
-      "canonical_source_sha256": "1f11ad67bc084506e018c842c394c2affb18359e54c3bd77d91baeddc09ede10",
-      "opening_sha256": "a219c8f16bb427d9997df055a4283426dcea5bf601e90f2549f1d780d080df85",
-      "opening_shape": "belief_correction",
-      "classification_reason": "The first sentence corrects a plausible mistaken inference or denies what a measurement can establish. A limitation tacked on after a positive result does not change its shape. The observed first sentence is: There is no universal cross-industry tool-accuracy score in our published evidence.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
-      "lead_figures": [
-        "figure:2b82a714c2e26769c32500a0d4a5becfe6fdf25fc85c0965e994c4ed8ffff222",
-        "figure:4eb07cd0f3f4337b591617427b2b374aaae339f8fa5e69fadfe9ccc9fbdc6867"
-      ],
-      "lead_figure_spans": {
-        "figure:2b82a714c2e26769c32500a0d4a5becfe6fdf25fc85c0965e994c4ed8ffff222": [
-          "There is no universal cross-industry tool-accuracy score in our published evidence. Wrong About You classified 113 wrong and 5 stale statements among 2,922 statements about 70 software vendors, from answers captured on 22 and 23 September 2026. That is an assessment of what the engines said, not a benchmark showing how accurately a monitoring tool extracts or reports their answers."
-        ],
-        "figure:4eb07cd0f3f4337b591617427b2b374aaae339f8fa5e69fadfe9ccc9fbdc6867": [
-          "There is no universal cross-industry tool-accuracy score in our published evidence. Wrong About You classified 113 wrong and 5 stale statements among 2,922 statements about 70 software vendors, from answers captured on 22 and 23 September 2026. That is an assessment of what the engines said, not a benchmark showing how accurately a monitoring tool extracts or reports their answers."
-        ]
-      },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
-    },
     "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data.md": {
       "bank_id": "LB-Q0527",
       "source_sha256": "37444941a1a2cfcd7b28b65784c182316d78fd61146cbd4f5cfea979da75d303",
@@ -9906,21 +9877,27 @@
     },
     "answers/measurement/what-evidence-can-connect-ai-visibility-with-pipeline.md": {
       "bank_id": "LB-Q0029",
-      "source_sha256": "21afe15f6efa40ef08ebba1b098c87fe46ce7397d754ac9163be0063f66caa48",
-      "canonical_source_sha256": "250fa7afaff938298068a9331aae320c6c8a5765927586db48d791456bdd1ca9",
-      "opening_sha256": "6e48388548e621df4f56a3efce42849c7de04da35b6b2fed17b131f8a607f409",
-      "opening_shape": "action_first",
-      "classification_reason": "An imperative tells the reader what to do first. Different verbs, category nouns or introductory scope phrases do not create different shapes. The observed first sentence is: Connect dated answer observations to separately recorded visits, buyer accounts and opportunities, keeping the evidence for each step.",
-      "writing_review_sha256": "c062282141766bab6422c93e7aec0200fa604a96b3cf963a6a78eab56a363c49",
-      "lead_figures": [
-        "figure:35ad1cf3d66507f621e4af0f9d422e58a0b95288a2dc60e047f9c590e7c10be4"
-      ],
-      "lead_figure_spans": {
-        "figure:35ad1cf3d66507f621e4af0f9d422e58a0b95288a2dc60e047f9c590e7c10be4": [
-          "Connect dated answer observations to separately recorded visits, buyer accounts and opportunities, keeping the evidence for each step. Housecall Pro was named in 108 of 150 field service answers captured on 22 September 2026, but the count alone does not establish any visits or sales. To say more, you need records of those later events and a stated basis for connecting them."
-        ]
-      },
-      "source_review_sha256": "b6d13ad9ddba816b6c40ddf318ef6601151f830934ee99a17bec264ded8eb308"
+      "source_sha256": "019df46383c8cafe5680a9418442bbffeb891bfd0bccda23bd29c1c73f379032",
+      "canonical_source_sha256": "2a92f3040e44d79af2d582ba20de064254e1da49f75b4b2a1fa0b19e33e45b7e",
+      "opening_sha256": "858a90ac068dc0f4ffac0462371d1bbb8591a8e126f2fcec8bf88c5ee82b0693",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The bounded acronym/spelling changes retain the same opening subject and construction. A reporting connection to pipeline is the initial condition; the actual published Standard supplies separate evidence fields rather than an invented empirical join.",
+      "lead_figures": [],
+      "lead_figure_spans": {},
+      "source_review_sha256": "330e37d28df2275fe64b169b867fc420cec6108871fa8bd648c6027f54ad94de",
+      "writing_review_sha256": "bf8164205911a1a06d26b99063dee97aba01d365debdad0a66a387c516b18199",
+      "qualitative_opening": {
+        "source_url": "https://docs.broadcastwell.com/ai-source-standard/",
+        "record": {
+          "capture_date": "2026-11-02",
+          "subject": "AI Source Standard",
+          "metric": "AI-Source-Standard-published-separate-outcome-columns"
+        },
+        "source_quote": "Use separate columns for answers naming the company, answers recommending it, cited sources, observed referral visits, buyer self-reports and qualified opportunities. Each needs its own numerator, base, period and evidence. A summary can connect them as a sequence of questions without claiming that every step caused the next.",
+        "opening_span": "If you connect AI visibility with pipeline, retain the dated answer, visit, buyer account and opportunity records, with a stated rule for joining them. Our [published AI Source Standard](https://docs.broadcastwell.com/ai-source-standard/), served on 2 November 2026, puts answer observations, referral visits, buyer self-reports and qualified opportunities in separate columns. That is a reporting framework, without a measured chain from an answer to a sale. Missing connections must remain unknown.",
+        "observation_key": "observation:88c5ccdf3a7eeb35a0e3b6656e3b965018fc182eb586d4446ad7a653bc088452",
+        "independent_receipt_sha256": "843aae2df98de1a8f42d6d5981aaeb3308acd835f1b151967de595aa1195a0db"
+      }
     },
     "answers/measurement/what-is-a-good-ai-visibility-score.md": {
       "bank_id": "LB-Q0297",
@@ -10564,24 +10541,6 @@
       "classification_reason": "The conditional new-company buyer situation leads before the two agency records and their counts.",
       "writing_review_sha256": "470751a8e6bd4e74271375e7189f225d04b764d33916391769e0c0c7402f65be"
     },
-    "answers/fixes/what-do-ai-crawlers-do-and-how-can-site-owners-control-access.md": {
-      "bank_id": "LB-Q0132",
-      "source_sha256": "77e3dc1d41d5db03d53284d2d7b10ff0f700eb30b3cce4de7f2be449e7975cca",
-      "canonical_source_sha256": "a815de1251a0af112093aa5b39abcab82941ced86cd47b45884c4fd171fb1404",
-      "opening_sha256": "8e07ba3228e755396a67f3abb152756a788ce33f032de1fb3467e89705e0aea1",
-      "lead_figures": [
-        "figure:40b18c75e140d30cc475549e0e6bc6dcd76de9992553b3475459a99b2f5fe673"
-      ],
-      "lead_figure_spans": {
-        "figure:40b18c75e140d30cc475549e0e6bc6dcd76de9992553b3475459a99b2f5fe673": [
-          "On our 29 October 2026 read, OpenAI and Anthropic document different web robots for search, training and user-directed retrieval. Choose the rule for the job you mean to permit or block. Our Agent Gap study reached the endpoint in 67 of 70 initial description tasks on 6 October 2026; those website tasks did not identify a crawler or test the effect of a robots rule."
-        ]
-      },
-      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4",
-      "opening_shape": "date_first",
-      "classification_reason": "The29Octoberprimary-document read leads before robot purposes and the separately dated67/70task outcome.",
-      "writing_review_sha256": "470751a8e6bd4e74271375e7189f225d04b764d33916391769e0c0c7402f65be"
-    },
     "answers/buying/which-agencies-document-work-across-ai-answer-engines.md": {
       "bank_id": "LB-Q0010",
       "source_sha256": "58ccb34445b086f2eb0210f709caead17648417c42df00efb095e6f7e62d25b3",
@@ -10603,8 +10562,10 @@
     "answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md": {
       "bank_id": "LB-Q0467",
       "source_sha256": "88c019d27982c6869586069afb26a1c2de09e18740721dd5153b24404bd52362",
-      "canonical_source_sha256": "d74f9db72f2bd0b37bc55f021dd1787fd7f28c2da113832a2cfbe54ef7628788",
+      "canonical_source_sha256": "3e48f687cca5272e39b944cfb355b37a7f8f9b020a537e39a30970efa012278d",
       "opening_sha256": "0a7e93b2f9a3b3653b1aed3630fdee711db24546204a604fd7e61d344ae51133",
+      "opening_shape": "reader_situation",
+      "classification_reason": "The reader holding one disputed fact leads, then the actual2/57Procoreclassification and review state.",
       "lead_figures": [
         "figure:4931f9f723b247e50ecf6b2caa0871e1a7f29f58d32f2ae39ac36286e3f52304"
       ],
@@ -10613,10 +10574,8 @@
           "If you have an AI answer with a disputed fact, check the exact statement against the vendor's dated evidence before deciding what needs correction. Wrong About You classified 2 of Procore's 57 extracted statements as wrong: the underlying answers were captured on 22 September 2026 and the vendor's pages read on 8 October. Both flagged records still show team review in progress; they are evidence to inspect, not a claim that a correction has already been completed."
         ]
       },
-      "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4",
-      "opening_shape": "reader_situation",
-      "classification_reason": "The reader holding one disputed fact leads, then the actual2/57Procoreclassification and review state.",
-      "writing_review_sha256": "23fa7647eb8ba0df9f6b8ae3c9ac1978d0558628cf1207aca103e18b5958c04d"
+      "source_review_sha256": "60ffceca98c1b29a37f12f7693a20b992426e03842bf049f3e2302b0c83744f6",
+      "writing_review_sha256": "f563e2f7ee7e14396eb87b138782cf8bad348009c6a9eae36c6bcda7669137de"
     },
     "answers/geo-basics/what-are-alternatives-to-go-fish-digital-for-geo.md": {
       "bank_id": "LB-Q0039",
@@ -10940,24 +10899,6 @@
       "classification_reason": "If you use Cloudbeds sets the reader's actual hotel-system situation before the route.",
       "writing_review_sha256": "f4e5583b41c1c6a0068c708f98dd4a0408489e7a0327408a9758d70c0872c519"
     },
-    "answers/geo-basics/how-do-getmint-and-otterly-compare-for-transactional-geo-in-the-united.md": {
-      "source_sha256": "7e6119d827fa9b004eb7411c26748422c8b3651f2822b5e6e5ceceea3ac904a3",
-      "canonical_source_sha256": "2d567efc99019da29a7ee0cb3c60ff231b23c663cacd9127c283b7f5acc53709",
-      "opening_sha256": "978821f271d1a41a75a6edb5de26da7addd1fa2afbd1097a5a05e2c3479588a6",
-      "bank_id": "LB-Q0043",
-      "lead_figures": [
-        "figure:e73143fcd11d4e0803b03686db1724f288228f1724c667f89c5d48b5ae281cd0"
-      ],
-      "lead_figure_spans": {
-        "figure:e73143fcd11d4e0803b03686db1724f288228f1724c667f89c5d48b5ae281cd0": [
-          "GetMint describes product visibility, content work and agentic commerce, while OtterlyAI documents tracking products and retailers inside ChatGPT shopping answers. For a United States brief, distinguish those reported functions from completing a purchase. Our Agent Gap study on 6 October 2026 reached 44 of 70 initial public demo endpoints; it did not measure completed orders or compare transactions through these platforms."
-        ]
-      },
-      "source_review_sha256": "f488193f2524ce77640d24cb75f214bc346b69f2573ef96d221bc978c45d8518",
-      "opening_shape": "vendor_first",
-      "classification_reason": "GetMint is the opening subject, contrasted with the named OtterlyAI scope. This is a vendor comparison, not an engine contrast.",
-      "writing_review_sha256": "e9c33bc46d0eca255c4669ceecbb45addb215920509d0ef48452a102c4c1c33e"
-    },
     "answers/buying/how-does-seer-interactive-compare-to-other-geo-agencies-when-it-comes.md": {
       "source_sha256": "faa32433497cb6cdfd11296c3c9305eca31dc37a454dd8cf4cfde36195c2d12d",
       "canonical_source_sha256": "0b0aff29504141a2cc95c0f9417f0f126edb6e8ed8741a756d1b2cd6a90f1cf5",
@@ -11067,22 +11008,22 @@
       "writing_review_sha256": "c610a2d81eea4354386400d6715d3fd9d3d96cf39e56492d7c5e583b62417d59"
     },
     "answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare.md": {
-      "source_sha256": "a6e4f3975ed70799c981d5d543a898f2558b32e95995f1b37261ba38239a5ab9",
-      "canonical_source_sha256": "df76e9c996a4dfcd904745e1534deb44effb6281d4f9710cd3b66dc02b39f332",
-      "opening_sha256": "969ef4134fd9541bbfcf0470629218f856cb3071b4b4bf397d8a9f4eb5a50581",
       "bank_id": "LB-Q0042",
+      "source_sha256": "a6e4f3975ed70799c981d5d543a898f2558b32e95995f1b37261ba38239a5ab9",
+      "canonical_source_sha256": "7bb53c14d2155e2cb3b3010286a6980375f05684c7ce050bd754677d9979227a",
+      "opening_sha256": "48481ce4e67e8e66f376ab3dc2b0ab932e9dfc7d739b3b34428fc628813a3131",
+      "opening_shape": "action_first",
+      "classification_reason": "The initial imperative asks the reader to compare distinct review-source types. The29/32audit is supporting opening evidence for that action.",
       "lead_figures": [
         "figure:5f57b8280f4c3abcc95d09563d148171e37f7cef2a6a23bc2decfc5156ae75d3"
       ],
       "lead_figure_spans": {
         "figure:5f57b8280f4c3abcc95d09563d148171e37f7cef2a6a23bc2decfc5156ae75d3": [
-          "Compare Clutch's client accounts with G2's software-product reviews, and treat an agency's ranked list as a different kind of evidence. In [our audit dated 17 September 2026](https://broadcastwell.com/best-geo-agencies-lists-audited), 29 of 32 agency-list rows marked Yes for the publisher appearing on its own list. Before relying on a GEO recommendation, check who published it and whether you are reading a client's experience, a product review or an editorial selection."
+          "29 of 32 agency-list rows marked Yes for the publisher appearing on its own list."
         ]
       },
-      "source_review_sha256": "1fcab70828befda683865f9370b6dbcc297c7717d78b3fb8359d9604a3eab62a",
-      "opening_shape": "action_first",
-      "classification_reason": "Compare Clutch client accounts with G2product reviews is an imperative that leads the first sentence.",
-      "writing_review_sha256": "a7129cd8f209fcd85bb054d8ca2cded4c5ba7161290b5f799d97fc794d73d63e"
+      "source_review_sha256": "961520501f608d05a219105283612ccfaff3e50ccf4608baf05beae7bb83fb5d",
+      "writing_review_sha256": "4cef3618ebfb615a4678e640666d4f4663ba05099996003de012214ba134683e"
     },
     "answers/agents/can-insurance-agency-software-integrate-with-chatgpt.md": {
       "source_sha256": "375462ebd99eb5a8b9379277d363640afa33997403c6d8578c5c5343fb2cf9cb",
@@ -11103,22 +11044,22 @@
       "writing_review_sha256": "6c259d8b37e41a21977a28a502aa36532bc73667974ef852682a9ca3d7210b03"
     },
     "answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md": {
-      "source_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0",
-      "canonical_source_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0",
-      "opening_sha256": "52699821e634d9d288c70140ddf39ea7c5cf24d9a228d4c9cf778f513aa2c9ee",
       "bank_id": "LB-Q0041",
+      "source_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0",
+      "canonical_source_sha256": "464b904d38c6e3455ee084eed866f43ac26af0907a7d35ad427600193174d68f",
+      "opening_sha256": "65043c0933a0eac7b18266f358879d4ac43c4406e517efc7da019c8176d4a69a",
+      "opening_shape": "vendor_first",
+      "classification_reason": "The checked supplier Omniscient Digital and its publication score lead the first clause. The supplier is the subject being evaluated, not a cited publisher or a generic source.",
       "lead_figures": [
         "figure:3c91e38e03983fe42adc776a834e490767a2fc997754b7f242f9d1e4ede546a2"
       ],
       "lead_figure_spans": {
         "figure:3c91e38e03983fe42adc776a834e490767a2fc997754b7f242f9d1e4ede546a2": [
-          "[Omniscient Digital](https://broadcastwell.com/best-geo-agencies#omniscient) has a 3/8 publication score: Engines, B2B cases and Reviews are Yes. Our copy, read on 29 October 2026, retains Partial for Method and Machine readable. You can compare the public evidence using the earlier field dates shown below."
+          "has a 3/8 publication score: Engines, business-to-business (B2B) cases and Reviews are Yes."
         ]
       },
-      "source_review_sha256": "8ad8e4692ae842627e76386cd4449b9238cc86b3451dad5c29f3cca3b4b28402",
-      "opening_shape": "vendor_first",
-      "classification_reason": "Omniscient Digital, the checked agency identity, leads the first clause and its publication score. It is the reviewed supplier rather than the cited host or publisher; the earlier source_first plan does not govern the actual prose. This follows the existing supplier-name use of vendor_first.",
-      "writing_review_sha256": "8d6b5082256f1888132a3e882d4c9806757376e00b281d3e57a12e5314a599ef"
+      "source_review_sha256": "20d1607427a5ff85503cb6fb5adffdeae814515a187a3d4d26e5ef702403c1e7",
+      "writing_review_sha256": "8a279b26116055d5ccf2c6ab3ac0bb185a13a5d88631995e73e7a155f9f8fe29"
     },
     "answers/buying/what-does-an-ai-visibility-audit-include.md": {
       "source_sha256": "778eedcf727c5050690e8d3ec5814d5c392b3bd2e49e87fc7049042f59be24e2",
@@ -11448,24 +11389,6 @@
       "classification_reason": "The first clause defines generative UI as a presentation capability, before naming dates and counts.",
       "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
     },
-    "answers/google-ai/are-google-ai-overviews-available-in-france.md": {
-      "bank_id": "LB-Q0383",
-      "source_sha256": "5e49aad8401b81068ab578868b8a67291fc10cc622ea3237ca7ed6bc3650b28b",
-      "canonical_source_sha256": "e590157bfb31cc3aae931f7cc5bbfc7b44143604d9167dc92de08168318796d2",
-      "opening_sha256": "1a5048b33b69f39d34ca554176186e3c017fb356ca76ce877d74c7ba7a50673a",
-      "lead_figures": [
-        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4"
-      ],
-      "lead_figure_spans": {
-        "figure:e125644a82225c0747002efb21e2382b60877c2da7afefd0fb53300881cbfda4": [
-          "Yes. Google announced AI Overviews in France on 22 July 2026, while explaining that an Overview appears only when its systems find one useful. Our separate [September Index](https://doi.org/10.5281/zenodo.22907695) retained 415 Google AI Overviews answers from 420 scheduled targets on 22 and 23 September 2026."
-        ]
-      },
-      "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",
-      "opening_shape": "yes_no",
-      "classification_reason": "The opening begins Yes and directly answers French availability, then distinguishes query-level returns.",
-      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
-    },
     "answers/agents/can-radiology-software-integrate-with-chatgpt.md": {
       "bank_id": "LB-Q0429",
       "source_sha256": "29ee632c2b129968fef0ae675d71f4549e55caf2a130f6c74f330fd0b5f94239",
@@ -11538,24 +11461,6 @@
       "classification_reason": "The practice needing a custom ezyVet connection is the opening condition; possible API building blocks and public-path evidence follow.",
       "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
     },
-    "answers/fixes/how-can-a-local-auto-glass-business-appear-in-google-ai-and-chatgpt-an.md": {
-      "bank_id": "LB-Q0487",
-      "source_sha256": "64085eb7dd8ea99752f0aed42eb4c13d27e7e191714b7df8358be06229fe39c3",
-      "canonical_source_sha256": "64085eb7dd8ea99752f0aed42eb4c13d27e7e191714b7df8358be06229fe39c3",
-      "opening_sha256": "8b1ef8984bd2f3c766d3ce17c50b9c6448df18a4ed0ba914e5ee0fbd4b547948",
-      "lead_figures": [
-        "figure:57f399169b80e955f036812055c32a4aa3ac899126e677068e903390ec44dc66"
-      ],
-      "lead_figure_spans": {
-        "figure:57f399169b80e955f036812055c32a4aa3ac899126e677068e903390ec44dc66": [
-          "If your auto-glass shop is missing from a 'near me' answer, separate a recommendation of the shop from a citation of its website. Our 18 to 23 July 2026 study found 9 of 85 B2B software companies were never named but had their own domain cited. For a local business, the practical checks are search eligibility, accurate business details and the location attached to the question."
-        ]
-      },
-      "source_review_sha256": "9fd490129d377e3c33d94accecab465bd32bc9a82211c29810cc7d931def4ff9",
-      "opening_shape": "reader_situation",
-      "classification_reason": "The local auto-glass shop missing from a near-me answer leads, before the citation and naming distinction.",
-      "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
-    },
     "answers/fixes/can-google-ai-overview-answers-be-changed.md": {
       "bank_id": "LB-Q0489",
       "source_sha256": "45383144418c23727a72dd53f211da4edad3e5d641cb6899ac2f88261e648a75",
@@ -11609,24 +11514,6 @@
       "opening_shape": "belief_correction",
       "classification_reason": "The first sentence corrects the equivalence of an AI visibility score and a full technical SEO audit.",
       "writing_review_sha256": "437d2ca6fc43c0e1f8b298459a95fe51ed5ad83bd53cb598caef386a13fd2b3d"
-    },
-    "answers/geo-basics/where-can-i-find-an-ai-search-visibility-expert-near-me.md": {
-      "bank_id": "LB-Q0074",
-      "source_sha256": "70dd15814baf0c11bc9e7ec214ddc98ed2c839b5c0db158eaea7f9cdeffca6b4",
-      "canonical_source_sha256": "70dd15814baf0c11bc9e7ec214ddc98ed2c839b5c0db158eaea7f9cdeffca6b4",
-      "opening_sha256": "b07f6881b34d190f0aaca3c20eed595bca604760908328b4b70c9396b586efbe",
-      "lead_figures": [
-        "figure:3c91e38e03983fe42adc776a834e490767a2fc997754b7f242f9d1e4ede546a2"
-      ],
-      "lead_figure_spans": {
-        "figure:3c91e38e03983fe42adc776a834e490767a2fc997754b7f242f9d1e4ede546a2": [
-          "If you need an AI search visibility expert near you, start with your actual city and verify where the work is delivered. [Omniscient Digital](https://broadcastwell.com/best-geo-agencies#omniscient) has a 3/8 public-evidence score in our dated comparison, with selected fields rechecked on 28 October 2026; that score cannot establish distance."
-        ]
-      },
-      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
-      "opening_shape": "reader_situation",
-      "classification_reason": "The reader needing an expert near their own location leads the opening before the Omniscient score.",
-      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
     },
     "answers/measurement/how-can-i-check-ai-search-visibility.md": {
       "bank_id": "LB-Q0131",
@@ -11682,24 +11569,6 @@
       "classification_reason": "The source-read date, 30 October 2026, leads the reported third-party interface before the historical collection result.",
       "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
     },
-    "answers/google-ai/can-ads-appear-in-google-ai-overviews.md": {
-      "bank_id": "LB-Q0385",
-      "source_sha256": "3eaf764df225434ef6cdf19451f1249d290f21ab83b9707ad35751614f42ca90",
-      "canonical_source_sha256": "1944e65d4b958feae36bb1ededbbb801d7b827cfd495d93015733620ca9c4db2",
-      "opening_sha256": "c883495be6e188766a84143160ddb6316d629f6f6497101913278a30310786d7",
-      "lead_figures": [
-        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd"
-      ],
-      "lead_figure_spans": {
-        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd": [
-          "Yes. Google documents ads within or alongside AI Overviews, with Sponsored labeling that separates them from organic content. Our [September Index](https://doi.org/10.5281/zenodo.22907695) counted 1,352 checked-name appearances across 415 retained Overview answers on 22 and 23 September 2026; those answer-text counts are not an ad-placement or advertising-spend measure."
-        ]
-      },
-      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
-      "opening_shape": "yes_no",
-      "classification_reason": "Yes is a standalone direct answer to whether ads can appear, followed by the Sponsored boundary.",
-      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
-    },
     "answers/measurement/how-can-i-verify-that-an-ai-visibility-tracker-uses-live-answers.md": {
       "bank_id": "LB-Q0451",
       "source_sha256": "8d7c0d07937329570f37ac750ff05d7b8c4409646769be23d54e17254bac7bf2",
@@ -11721,8 +11590,10 @@
     "answers/google-ai/how-do-google-ai-overviews-affect-website-visibility.md": {
       "bank_id": "LB-Q0492",
       "source_sha256": "957c99e616cbce375b2cf817a054936e99cb7e412a9d8a3c30ad353a1091e82c",
-      "canonical_source_sha256": "957c99e616cbce375b2cf817a054936e99cb7e412a9d8a3c30ad353a1091e82c",
+      "canonical_source_sha256": "83ce5eb7fb81665e45bd75caf5188e81358e8a744eb23b9d8665d02b09a24cf9",
       "opening_sha256": "157198d473c5e36bc20befcaeca1273a7a73eb381f3b6886f200857c2e894609",
+      "opening_shape": "figure_first",
+      "classification_reason": "The 1,352 appearances are the leading subject and are explicitly separated from website visits.",
       "lead_figures": [
         "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd"
       ],
@@ -11731,10 +11602,8 @@
           "1,352 checked-name appearances across 415 retained Google AI Overviews answers show one form of visibility: being named inside an answer. Our [September Index](https://doi.org/10.5281/zenodo.22907695), collected on 22 and 23 September 2026, did not measure whether that exposure increased or reduced visits to the named companies’ websites."
         ]
       },
-      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
-      "opening_shape": "figure_first",
-      "classification_reason": "The 1,352 appearances are the leading subject and are explicitly separated from website visits.",
-      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
+      "source_review_sha256": "e8ef0d5bd93f6355ac54ab5b4fea2336ea57d95423239633be44c389e86321b9",
+      "writing_review_sha256": "5fdc9d4ef5609f8ce2b52b697f531ae483f8b9404622a38e6ad51c427f22fe0f"
     },
     "answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md": {
       "bank_id": "LB-Q0493",
@@ -11826,24 +11695,6 @@
       "classification_reason": "No published protocol alone establishes viability rejects a protocol-to-market inference. It does not answer No to whether the business can be viable.",
       "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
     },
-    "answers/geo-basics/which-ai-tools-for-analyzing-online-visibility-are-available-in-the-uk.md": {
-      "bank_id": "LB-Q0093",
-      "source_sha256": "0efc19dd0195cfae10a5e01b486544feb979f178cfde5bbcbc951c7134540ea3",
-      "canonical_source_sha256": "0efc19dd0195cfae10a5e01b486544feb979f178cfde5bbcbc951c7134540ea3",
-      "opening_sha256": "5dbae18d513ba957d323827ac50d80b6d685a4a416f76757d53704ef6f74f2cb",
-      "lead_figures": [
-        "figure:0231d3e67eab9d2ba2040461e1264e46eae5088ef0f3ed5317154f01ce11d300"
-      ],
-      "lead_figure_spans": {
-        "figure:0231d3e67eab9d2ba2040461e1264e46eae5088ef0f3ed5317154f01ce11d300": [
-          "Semrush documents United Kingdom coverage in its AI Visibility Toolkit, and seoClarity publishes UK AI Overview research. In our 22 September 2026 Index capture, Claude produced 2,039 checked-name appearances across 420 answers, showing why the engine and the count unit also belong in a UK tracking brief."
-        ]
-      },
-      "source_review_sha256": "9dbad7f0b7a0cbc22cbd6f47b5b5486cf44f3fc91affcc430ee02825b64f2819",
-      "opening_shape": "vendor_first",
-      "classification_reason": "Semrush is the leading named provider; its documented UK scope precedes the separate Claude count.",
-      "writing_review_sha256": "21d896b549de7fee6ede797549f94c6bd031e542b621bcd6e0235c5e242fad39"
-    },
     "answers/agents/what-are-the-benefits-and-risks-of-connecting-hubspot-with-chatgpt.md": {
       "bank_id": "LB-Q0523",
       "source_sha256": "c7ac955cbb07f7e4cd834261e5250d78ca1228b303a35cdb1a766112c773afe8",
@@ -11898,42 +11749,6 @@
       "classification_reason": "The opening rejects an agency-list position as a way to settle comparative delivery speed before presenting the disclosure audit.",
       "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
     },
-    "answers/measurement/how-would-you-optimize-an-e-commerce-product-page-for-google-and-ai-se.md": {
-      "bank_id": "LB-Q0453",
-      "source_sha256": "9f7f7dbc69b3748fdc776c691332ad8138a2a7121d913a88e6b69ce2542d4a29",
-      "canonical_source_sha256": "38c3dbccbe5e7bea753e326494656ec39dd0c00c2c1b5743ecb945881ba7e25b",
-      "opening_sha256": "1fd0f09ccf1ac827b102fbb4101e96a3ca8f382face067edf3dd3c524429cb65",
-      "lead_figures": [
-        "figure:a4e527e0901a3804381c47a595a8007eba6e615ea92b754d05c4c3123bf41177"
-      ],
-      "lead_figure_spans": {
-        "figure:a4e527e0901a3804381c47a595a8007eba6e615ea92b754d05c4c3123bf41177": [
-          "If your product page shows an amount without saying what it buys, make the offer explicit before adding search markup. In the construction category of our [Answer RFP study](https://doi.org/10.5281/zenodo.23271935), five of 149 included answers stated a clear pricing basis and included features; the capture date was 22 September 2026. Apply that distinction to the product configuration, amount and currency that your page actually offers."
-        ]
-      },
-      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
-      "opening_shape": "reader_situation",
-      "classification_reason": "The reader’s page showing an amount without the purchased configuration is the opening situation.",
-      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
-    },
-    "answers/fixes/how-should-a-local-business-respond-when-chatgpt-cites-ranking-list-pa.md": {
-      "bank_id": "LB-Q0512",
-      "source_sha256": "37f2456d9b03ca086e12433cbe5f3813a43bda949c268d95c9c84093e0cc3707",
-      "canonical_source_sha256": "ba8b5a0624c78dc7f80cf471d0b6e459c6cc509e4e6299fa460f5bf32853a37f",
-      "opening_sha256": "a7e25e2f7688a567a22630715d10bf37e9ff867071a365e3838d848ef8caff3f",
-      "lead_figures": [
-        "figure:5f57b8280f4c3abcc95d09563d148171e37f7cef2a6a23bc2decfc5156ae75d3"
-      ],
-      "lead_figure_spans": {
-        "figure:5f57b8280f4c3abcc95d09563d148171e37f7cef2a6a23bc2decfc5156ae75d3": [
-          "The [17 September 2026 agency-list audit](https://broadcastwell.com/best-geo-agencies-lists-audited) records 29/32 pages whose publisher also appeared in the list. When ChatGPT cites a local ranking list, inspect its owner, city and selection date before treating its ordering as a statement about your service. Start with the page the answer actually cites."
-        ]
-      },
-      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
-      "opening_shape": "source_first",
-      "classification_reason": "The dated named agency-list audit leads the opening before its publisher-inclusion figure and local-list advice.",
-      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
-    },
     "answers/google-ai/how-do-people-use-google-ai-mode.md": {
       "bank_id": "LB-Q0514",
       "source_sha256": "c3c91c996599f7740d36719ee587b97f26cafd45b9955ab19702e6bf822730d0",
@@ -11950,24 +11765,6 @@
       "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
       "opening_shape": "answer_definition",
       "classification_reason": "The first sentence defines documented uses of AI Mode, before the bounded 420-target research example.",
-      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
-    },
-    "answers/buying/looking-for-ai-software-for-field-service-providers-in-the-united-king.md": {
-      "source_sha256": "d3fbe0c9cbe7633420a8318aa0d02c148dee4085c4b36f04f1783bda1d6068df",
-      "canonical_source_sha256": "2b685b039d5069f289907040ca148e08816646cb05b2107db2a7d27546423b98",
-      "opening_sha256": "6f30ef2905fdeac293b2de37df58c29c4cb4e73174139357e1d4cf471b4193c5",
-      "bank_id": "LB-Q0111",
-      "lead_figures": [
-        "figure:cd0aad6e73d00ccaf619c3b44e62554dc03a84da7bb915a72af277685e89502b"
-      ],
-      "lead_figure_spans": {
-        "figure:cd0aad6e73d00ccaf619c3b44e62554dc03a84da7bb915a72af277685e89502b": [
-          "Jobber is an option to examine: its help updated on 28 October 2026 places Receptionist in the United Kingdom, with separate website-chat and phone/text conditions. We counted Jobber in 18 of 30 ChatGPT field-service software answers captured on 22 September 2026. Use the product guides to check what that observed name would mean for your UK business."
-        ]
-      },
-      "source_review_sha256": "6839f73e55a629bbcd934183a113efafec816e29551c016bc90fc5a7fc5e8275",
-      "opening_shape": "vendor_first",
-      "classification_reason": "Jobber is the leading provider subject, with its actual UK Receptionist scope before the observed naming count.",
       "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
     },
     "answers/measurement/can-google-bing-and-llms-find-content-on-threads.md": {
@@ -11988,24 +11785,6 @@
       "classification_reason": "The opening corrects the belief that a public Threads address proves engine retrieval, before the recorded-host absence.",
       "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
     },
-    "answers/fixes/which-ai-tools-can-support-programmatic-seo.md": {
-      "bank_id": "LB-Q0513",
-      "source_sha256": "c6e8d0194451a0894c178b19311c419064f773345e64124521c9ad961581ce93",
-      "canonical_source_sha256": "0905fa84c113b323c1a6fbd07ed86d18c9de644835ed0fa1bedbe227ff93b867",
-      "opening_sha256": "f298ef2ea2c74a9e7941bbf70c52454d7f425433c6f10c615970689b410c3a09",
-      "lead_figures": [
-        "figure:096f900bde1dba03f887e4a68fb4be689b2017dee6e3d35d51db17ecff334f8b"
-      ],
-      "lead_figure_spans": {
-        "figure:096f900bde1dba03f887e4a68fb4be689b2017dee6e3d35d51db17ecff334f8b": [
-          "If you are assembling pages from a template, separate content generation from the facts supplied to it and the checks after publication. Jobber documents service-page content generation, while Semrush documents crawling checks. Our [Answer RFP study](https://doi.org/10.5281/zenodo.23271935) coded RFI, submittal and field-report workflow requirements in 9 of 149 construction-software answers from the 22 September 2026 capture: those specific fields illustrate a data requirement that a generic page generator does not establish."
-        ]
-      },
-      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
-      "opening_shape": "reader_situation",
-      "classification_reason": "The opening starts with the reader assembling pages from a template, before assigning creation, factual-input and checking roles.",
-      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
-    },
     "answers/google-ai/how-do-google-ai-overviews-choose-sources.md": {
       "bank_id": "LB-Q0279",
       "source_sha256": "d1658380c01752588c1ab3e4df2afccabc05479d2242788477c6afe541f6f9a1",
@@ -12022,24 +11801,6 @@
       "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
       "opening_shape": "study_result_first",
       "classification_reason": "The Answer RFP study and its recorded Capterra result are the opening subject, before the separately reported eligibility rule.",
-      "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
-    },
-    "answers/measurement/how-can-i-defend-branded-search-results-against-lookalike-sites-that-c.md": {
-      "bank_id": "LB-Q0456",
-      "source_sha256": "160c57dc74e2afd92f56a54fa7ad785947efb22e629825f925d410b3e97c3c00",
-      "canonical_source_sha256": "435f344eb352077abcd7eb61ca14181f8cfa5b5a193f69352278207076c43b7f",
-      "opening_sha256": "ebcb22c53dc4d06b326bc7fd53a2ac0948e95e58251e65f0099c3705d6d5547c",
-      "lead_figures": [
-        "figure:7f5abc4b2b40193eeabe8bd64cb64b2b762783b5eebd5ce9e8e1b5a3610fac6e"
-      ],
-      "lead_figure_spans": {
-        "figure:7f5abc4b2b40193eeabe8bd64cb64b2b762783b5eebd5ce9e8e1b5a3610fac6e": [
-          "The [Agent Gap method](https://doi.org/10.5281/zenodo.23197560) separates finding a company’s public endpoint from describing it correctly: one of seventy initial Describe tasks was labeled incorrect on 6 October 2026. For a suspected lookalike, preserve the disputed answer, its exact cited URL and your dated company reference before attributing the error or specifying a correction."
-        ]
-      },
-      "source_review_sha256": "057a58589bf2c92cd8490ac5b0c2ce6be5a369102089c5816abcc1e52c119c26",
-      "opening_shape": "source_first",
-      "classification_reason": "The Agent Gap method is the leading source subject, before its Describe-task observation and the reader’s disputed claim.",
       "writing_review_sha256": "3fa9329996233227f9da22f2a9067ea49a02f199908163f6818896d5b47aff24"
     },
     "answers/fixes/does-a-crawler-request-count-as-a-buyer-visit.md": {
@@ -12262,24 +12023,6 @@
       "classification_reason": "Google’s named AI-features guide and its retained SEO-fundamentals rule lead before the agency reporting inference and own reference count.",
       "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
     },
-    "answers/buying/which-aeo-tools-suit-home-service-companies-and-contractors.md": {
-      "source_sha256": "92cbe592792b5cc884890fd48d299b338185f9cb148e60797cc1cfcf1dde23dc",
-      "canonical_source_sha256": "7043561616d6f98b79cc5228960f558f8ac8f050f28a5311ef5d72860b567328",
-      "opening_sha256": "db6f19abd41970ef13de820c8578b3e134878d9842a8c0df3f4d6cfca1411170",
-      "bank_id": "LB-Q0481",
-      "lead_figures": [
-        "figure:cd0aad6e73d00ccaf619c3b44e62554dc03a84da7bb915a72af277685e89502b"
-      ],
-      "lead_figure_spans": {
-        "figure:cd0aad6e73d00ccaf619c3b44e62554dc03a84da7bb915a72af277685e89502b": [
-          "For your home-service company, compare a location-aware brand report with the questions it can track: [Semrush](https://www.semrush.com/kb/1493-ai-visibility-toolkit) documents both, and [seoClarity](https://www.seoclarity.net/research/ai-overviews-impact) describes Overview-reference checks. Our [Index](https://doi.org/10.5281/zenodo.22907695) found Jobber in 18 answers from a 30-return ChatGPT panel on 22 September 2026; those questions concern field-service software."
-        ]
-      },
-      "source_review_sha256": "99178858cd41a45a032354d3123e0a74f567774d68f7f6ecf9a9b1d6a398c0a0",
-      "opening_shape": "reader_situation",
-      "classification_reason": "The reader’s home-service business and proposed location-aware report are the opening situation before the supplier examples and Jobber panel.",
-      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
-    },
     "answers/geo-basics/what-platform-scores-competitors-on-generative-engine-prominence.md": {
       "source_sha256": "c757bd532055318e31bf516713d9329f6debfb5752661f9d1e216a8316e98cf9",
       "canonical_source_sha256": "e1b44350bd40ab78e1ffdbfc17e9b898862f4f956c8ba438b76029d77dd6ce55",
@@ -12370,24 +12113,6 @@
       "classification_reason": "The opening directly corrects the unsupported inference that our evidence establishes GEO as more effective than SEO.",
       "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
     },
-    "answers/measurement/how-do-ads-in-google-ai-overviews-affect-organic-traffic.md": {
-      "source_sha256": "6ba47d98ccb7d71a526e2bcfdba8c3ca9e5a90dd67ae721fb6042e17231cce4e",
-      "canonical_source_sha256": "64c16a04131e0960a6b6dac4b5e6b4448d3b8623255a90d68ddba534c23682ff",
-      "opening_sha256": "f5d23ed1a14962dec3e85aa64f3682a5123bbfbe36929bd0fab5d741127aeb51",
-      "bank_id": "LB-Q0491",
-      "lead_figures": [
-        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd"
-      ],
-      "lead_figure_spans": {
-        "figure:672520df4e5a2c0598ed26eae48fe4b3aa0e249554caef1a1fcbce4b222cbacd": [
-          "On 22 and 23 September 2026, our original [Index](https://doi.org/10.5281/zenodo.22907695) recorded 1352 checked-vendor name appearances across 415 valid Google AI Overviews answers. These are answer observations, not organic click records. Google's [ads documentation](https://support.google.com/google-ads/answer/18826097?hl=en) describes Sponsored placements; it does not quantify their effect on organic site traffic."
-        ]
-      },
-      "source_review_sha256": "a0b2dcb6702fd6a624324bea88bc9b112b31e6b124a4fe4dd80cdc15ee096cff",
-      "opening_shape": "date_first",
-      "classification_reason": "The actual22and23September capture dates lead before the Overview observations.",
-      "writing_review_sha256": "27bcfbbe784eb9dbde8962ee0642a06e0fb9162a6cd97d5bb1ad2bb491d0e65b"
-    },
     "answers/buying/which-aeo-agencies-should-a-buyer-compare-in-the-united-states.md": {
       "source_sha256": "dbb035011c215a89d3b9aa9bc9af78ce5e0f03d5c7d4ace619ec8143c6f3b222",
       "canonical_source_sha256": "7f9f34a8411652a774e0d3cc2f1b00633725e60480748ebb13ae32e071ca54ee",
@@ -12461,22 +12186,22 @@
       "writing_review_sha256": "aa7b7d5793a271d2480b528fe8f34d480c9c1bd43be9f67f39aa20bd0a51b9b6"
     },
     "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md": {
-      "source_sha256": "02052d8d68d31758055d08d52c89b641f87c3c3051bf84ac3e766dc71c7df5c5",
-      "canonical_source_sha256": "09b3abf93e1c5d88a78d83995f05c0a8ede63a317ea5a81e6f5d96edfa852b15",
-      "opening_sha256": "ce2fea7358c69f584517e427520ffd77d4746dd21405ffbcb8f02ebd652ed171",
       "bank_id": "LB-Q0100",
+      "source_sha256": "09b3abf93e1c5d88a78d83995f05c0a8ede63a317ea5a81e6f5d96edfa852b15",
+      "canonical_source_sha256": "179615503d77ea3cd88f73377f4dd4b10054b5845da78d4bbc66dfa20528139f",
+      "opening_sha256": "85402bd5c198b21185ca98f06e7c5677b7dc148c64cb0bc09974fa124d2b6172",
+      "opening_shape": "figure_first",
+      "classification_reason": "Definitions and original-prose readability retain the base opening construction.",
       "lead_figures": [
         "figure:98560693d279f8cc7286bbe106062158b04533096bea1422c3e67b0d69954381"
       ],
       "lead_figure_spans": {
         "figure:98560693d279f8cc7286bbe106062158b04533096bea1422c3e67b0d69954381": [
-          "13 checked-name appearances in three Perplexity returns show why an answer total and a mention total need different labels. That is the scaling-small-sales-team CRM row in our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695). Suede reports persona-based capture; Profound defines several denominators; AthenaHQ-supported research publishes eligible-cohort and source-counting rules."
+          "13 checked-name appearances in three Perplexity returns show why an answer total and a mention total need different labels. That is the scaling-small-sales-team CRM (customer relationship management) row in our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695). Suede reports persona-based capture; Profound defines several denominators; AthenaHQ-supported research publishes eligible-cohort and source-counting rules."
         ]
       },
-      "source_review_sha256": "6319173b5ae64a8b0d7f492c975cbdb9c59e937536546390e1d515a546c1f87b",
-      "opening_shape": "figure_first",
-      "classification_reason": "Thirteen checked-name appearances in three returns lead before the provider methods.",
-      "writing_review_sha256": "589d1dd97344aa8f37fea4f13d9c6202331b5ad9e76c7869893308bb28b3bf29"
+      "source_review_sha256": "e4dc327c1bf7fc476e4875dfe58ca53a5ae8ad41b3abe679263283fbe95d4cf9",
+      "writing_review_sha256": "ad3d6b189ceee32ac8bb20f0ca8b2a790f529b55e708e7b4384a7c1d417f2ad0"
     },
     "answers/geo-basics/how-do-suede-and-athenahq-differ-beyond-price-for-a-pac.md": {
       "source_sha256": "6a4b79057f881beebbab37890c9cf275eed68c3e63ebe4eda595c649f413619d",
@@ -12950,28 +12675,6 @@
       "classification_reason": "Publish is the opening reporting action before the actual insurance criterion.",
       "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
     },
-    "answers/geo-basics/which-ai-is-best-for-seo.md": {
-      "source_sha256": "5cd8727e1fa4839200713fda425a3b0708f1c0b26c2c825dfd17f841f54d73e2",
-      "canonical_source_sha256": "5cd8727e1fa4839200713fda425a3b0708f1c0b26c2c825dfd17f841f54d73e2",
-      "opening_sha256": "5721aeb5838e18125b49b61f6ed86f38ac1279bc0379af50466ca7de75a06b19",
-      "bank_id": "LB-Q0308",
-      "lead_figures": [
-        "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021",
-        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801"
-      ],
-      "lead_figure_spans": {
-        "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021": [
-          "Compare ChatGPT Search and Perplexity Pro Search against a factual SEO research task whose sources you can check: our [September CRM release](https://doi.org/10.5281/zenodo.22907695) recorded Salesforce-domain citations in 19 of 30 ChatGPT answers, compared with 3 of 30 Perplexity answers from 22 September 2026. Those observations compare returned sources, rather than ranking skill or improvements to a website."
-        ],
-        "figure:b35bcd98a266f5e2650e9bbb73a6aa583ec246b950143c869f65386863517801": [
-          "Compare ChatGPT Search and Perplexity Pro Search against a factual SEO research task whose sources you can check: our [September CRM release](https://doi.org/10.5281/zenodo.22907695) recorded Salesforce-domain citations in 19 of 30 ChatGPT answers, compared with 3 of 30 Perplexity answers from 22 September 2026. Those observations compare returned sources, rather than ranking skill or improvements to a website."
-        ]
-      },
-      "source_review_sha256": "0eebff3c26de53cdbb8f27265d33aba937d2e443be15d0f534c033e2bd946a24",
-      "opening_shape": "action_first",
-      "classification_reason": "Compare gives the reader a bounded factual research task before the counts; two engine measures later in that paragraph do not change its initial action form.",
-      "writing_review_sha256": "fcebb4180587dcde584c56f31f4044ee48e29413852623c1566aacd6102584d6"
-    },
     "answers/geo-basics/will-crm-get-replaced-by-ai.md": {
       "source_sha256": "45840aa24539fa861f88fee3a09aef87a8f63391422e3280c5be47f05ecccccc",
       "canonical_source_sha256": "45840aa24539fa861f88fee3a09aef87a8f63391422e3280c5be47f05ecccccc",
@@ -13135,10 +12838,12 @@
       "writing_review_sha256": "fc350cf413225da0879915f473fb66a1dda54a9cc1a6ded3d2f010b2b8101bb2"
     },
     "answers/geo-basics/how-does-chatgpt-relate-to-seo.md": {
-      "source_sha256": "01aecc8a48475c5294d26a05ebf2b110732d99bb25ad070d0ab1b77c97e5812f",
-      "canonical_source_sha256": "f0f6470e7ba091037aac5845993b66a544879b0135c0db45bdad58dd40747d15",
-      "opening_sha256": "727b58c94a31b1f0cc51bbd115a4899f23a04eed748f6371609d0454b2fd1c55",
       "bank_id": "LB-Q0327",
+      "source_sha256": "f0f6470e7ba091037aac5845993b66a544879b0135c0db45bdad58dd40747d15",
+      "canonical_source_sha256": "217f36ffb005f3aed79a6957d47260be0e07354dc07b542c69403ff15b8fe527",
+      "opening_sha256": "727b58c94a31b1f0cc51bbd115a4899f23a04eed748f6371609d0454b2fd1c55",
+      "opening_shape": "source_first",
+      "classification_reason": "The named OpenAI search-help source and its retrieval description lead before the historical own figure.",
       "lead_figures": [
         "figure:1f9eef522434b68ec9adc56d452b177a384d7bdd292c91647f0d7e071bab4021"
       ],
@@ -13147,10 +12852,8 @@
           "OpenAI's [ChatGPT search help](https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt) describes retrieving web information and linking sources, which can support SEO (search engine optimization) research. Our [22 September 2026 Index](https://doi.org/10.5281/zenodo.22907695) records Salesforce-domain URLs in 19 of 30 ChatGPT CRM (customer relationship management) answers. Those are source-selection observations, separate from the Google page conditions and traffic records used to assess SEO work."
         ]
       },
-      "source_review_sha256": "70020b19ea588f63e6d25b574fd56e3f9e7cfc5e9a8e6da306fff28c3fb97318",
-      "opening_shape": "source_first",
-      "classification_reason": "The named OpenAI search-help source and its retrieval description lead before the historical own figure.",
-      "writing_review_sha256": "fc350cf413225da0879915f473fb66a1dda54a9cc1a6ded3d2f010b2b8101bb2"
+      "source_review_sha256": "27e9b83e38fb31856fe0130f0f5de6564189eceeed824088f1bea23fd06e76e6",
+      "writing_review_sha256": "fa3a0627a03ba4965878d67b818b0e4a9e4a041c824a23f8ca51593d3ce35c29"
     },
     "answers/geo-basics/what-seo-prompts-can-i-use-with-chatgpt.md": {
       "source_sha256": "3045f73f00f6ea5e1db4de0238cff692dbe73d4d2ec158022869c2422b4967dd",
@@ -13276,24 +12979,6 @@
       "source_review_sha256": "08138a56e78892b3086f91f1de1d93aed8fd5298e69a04793078fd756c0867d5",
       "opening_shape": "date_first",
       "classification_reason": "The13April2023RamSoftannouncement date organizes the opening before the separate2/149schedulingcriterion.",
-      "writing_review_sha256": "fc350cf413225da0879915f473fb66a1dda54a9cc1a6ded3d2f010b2b8101bb2"
-    },
-    "answers/geo-basics/chatgpt-brand-visibility-cost.md": {
-      "source_sha256": "914de0c43de8c0dca1e9950bcb4f8bef0bdeeec100878e0cf04774aa37126d03",
-      "canonical_source_sha256": "57825b1faaf60cce11eea7cbf02f03b3ee9931e8ae52f515cdfd85fa3c663599",
-      "opening_sha256": "2b8cef3ba83833c43b8678f04a8919dd61581e509afcac1039d277ef37d153d2",
-      "bank_id": "LB-Q0332",
-      "lead_figures": [
-        "figure:9197731e8a9b1c4091bb32a38904c4ef79e1fab90bb1365831d0792a7c5858d6"
-      ],
-      "lead_figure_spans": {
-        "figure:9197731e8a9b1c4091bb32a38904c4ef79e1fab90bb1365831d0792a7c5858d6": [
-          "If you need a first brand check, Broadcastwell’s Free 10-question check costs $0; ongoing monitoring has a different scope. Specify the question set before comparing prices. Our [22 September 2026 CRM release method](https://doi.org/10.5281/zenodo.22907695) (customer relationship management) counted Close in 3 of 30 ChatGPT answers. A quote for one answer would buy a different observation from that thirty-answer sample."
-        ]
-      },
-      "source_review_sha256": "fe7af176dcec2d9f1439d7f4244e4c402ba599eaef8991db85361904311fa554",
-      "opening_shape": "reader_situation",
-      "classification_reason": "The reader’s first-check need is the initial condition before the Close naming observation.",
       "writing_review_sha256": "fc350cf413225da0879915f473fb66a1dda54a9cc1a6ded3d2f010b2b8101bb2"
     },
     "answers/geo-basics/how-does-perplexity-relate-to-seo.md": {

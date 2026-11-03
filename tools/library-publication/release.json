@@ -1,19 +1,20 @@
 {
   "schema_version": 1,
   "approved": true,
-  "prior_artifact_sha256": "50679ec2917536b2ead8671adcb731f9e642c94cf3af23e09c6fe4bcefc0d91c",
-  "scope": "Root exact12Claude buildinputapproval; no publication permit until all actual gates.",
+  "prior_artifact_id": 13241535906,
+  "prior_artifact_sha256": "a28ad4251756e7da2440b4756d54baf9f350e66ef7264171593d894b2e10a99a",
+  "scope": "Root exact20 revisions18canonical-stub/sixgeneratedhubs plus separately adopted rawAgent build inputs. No production permit until actual full gates.",
   "inputs": {
     "schema_version": 1,
     "published_count": 326,
     "files": {
       "prior_state": {
         "path": "inputs/prior-state.json",
-        "sha256": "d18d52f8b5f5c9cf6e51e296f881f790ef0929ea1eb8f23ca8f425daa24f04dd"
+        "sha256": "269acd5dcf0967db50b1a3fe41d4bd51d9321e6bdfe45a71b5f57109e05f4e7a"
       },
       "prior_payload": {
         "path": "inputs/prior-payload.json",
-        "sha256": "7b5a6193996d6d8ac24eb7d05ea8e555e743c5e2f979d1763903dc7329f37b9b"
+        "sha256": "26865effa8bb056eb4f4f7741182052ab6a0f6838e77a67b5881b4fc3ed09e96"
       },
       "prior_hub_payload": {
         "path": "inputs/prior-hub-payloads.json",
@@ -29,7 +30,7 @@
       },
       "related_requirements": {
         "path": "inputs/related-requirements.json",
-        "sha256": "67935d1ba66a8ab22ba9836ecb5b0e233baba603989e549132e4663cc80544aa"
+        "sha256": "e84f4f172d763f20b7c4336938f9a5c391e77dd4c64f66baaf0bb5aee4bed4af"
       },
       "navigation_aliases": {
         "path": "inputs/navigation-aliases.json",
@@ -45,31 +46,31 @@
       },
       "production_receipt": {
         "path": "inputs/production-payload-receipt.ROOT_APPROVED.json",
-        "sha256": "2eab450ef4061c615daaea6b70f784b4dc5cfae4957ef1ae50f51867f384a346"
+        "sha256": "c9fbac87f9406207ccef50cabb1c146db64fc0508f6c880d5d0987b1938cfabb"
       },
       "current_annotations": {
         "path": "inputs/annotations.json",
-        "sha256": "081e42ee706234f16a49bb6af95ed4ce16f23f6ac61296ca5b0f3833974fbff0"
+        "sha256": "50bd67068b4484f3b04b3688a39bc9e51cbfff8cd3fff04d6b6391346aa4d0b8"
       },
       "active_revisions": {
         "path": "inputs/active-revisions.json",
-        "sha256": "3fe9a28b105ec0f43682f966e45f96ceb28e89c0437c84e91b18cac72080e611"
+        "sha256": "40724baa7bdce4a4b03df2cebcdb99c6906096c6630080210b080fa76f92b064"
       },
       "merges": {
         "path": "inputs/merges.json",
-        "sha256": "3b507e994687a85caee66cda1d0a757934f4aa299a8e55c6be580ef5869630c5"
+        "sha256": "6bde28f997bf95bc28a9899c95898e62c14738ae5d82ef40a9c3ddb87087bf90"
       },
       "hub_changes": {
         "path": "inputs/hub-changes.json",
-        "sha256": "85b271ecb057a3d400f7379416e051cd988170cfe81802ca7398b7cda9405688"
+        "sha256": "8412dce4d65d1cbc760a9be4627d31bc08cfa8cbfabdf4b3db7e9c6f772f35ea"
       },
       "authorized_changes": {
         "path": "inputs/authorized-changes.json",
-        "sha256": "fc91891b5a6ad1aa3840c3184da0b8bc296658bb549f0338f064fd26023fac95"
+        "sha256": "abcff2d58b5adc85aba2eddf3ee7842327b32eeef7fcc9a023087b54092f713e"
       },
       "prior_artifact": {
         "path": "PRIOR_ARTIFACT_DOWNLOAD_REQUIRED.zip",
-        "sha256": "50679ec2917536b2ead8671adcb731f9e642c94cf3af23e09c6fe4bcefc0d91c"
+        "sha256": "a28ad4251756e7da2440b4756d54baf9f350e66ef7264171593d894b2e10a99a"
       }
     },
     "receipt_files": [
@@ -78,96 +79,8 @@
         "sha256": "f85e83933ed594a8cd8ecd16470dfc35b3cfeede7a03b48d8acfb5d57ea7fbf9"
       },
       {
-        "path": "receipts/82856953131cb0ab8e8f1639c24cf51241d723a2619fec2867784baca61d49e7.json",
-        "sha256": "82856953131cb0ab8e8f1639c24cf51241d723a2619fec2867784baca61d49e7"
-      },
-      {
-        "path": "receipts/7d0fa58ad8006b682d782217f9e7be0d5bb0a571b20cbcab76c48ebfda0dc080.json",
-        "sha256": "7d0fa58ad8006b682d782217f9e7be0d5bb0a571b20cbcab76c48ebfda0dc080"
-      },
-      {
-        "path": "receipts/9aa4f9b2e910e233d7ac48905b9863f5e037d390c21638e5e4a365d82febe3e5.json",
-        "sha256": "9aa4f9b2e910e233d7ac48905b9863f5e037d390c21638e5e4a365d82febe3e5"
-      },
-      {
-        "path": "receipts/68d6778d53a12e28efbd483dfd9c85de947aa8dcc4fec4014b0cd19f0b189f66.json",
-        "sha256": "68d6778d53a12e28efbd483dfd9c85de947aa8dcc4fec4014b0cd19f0b189f66"
-      },
-      {
-        "path": "receipts/58ae67db981649e0552ae530d9b4a3a35b9380364f230b021e8dba1ac21e4a50.json",
-        "sha256": "58ae67db981649e0552ae530d9b4a3a35b9380364f230b021e8dba1ac21e4a50"
-      },
-      {
-        "path": "receipts/b1193b744fbcb5e09516f80506b26a9258030837baa6100426dd525d5e5c3b2f.json",
-        "sha256": "b1193b744fbcb5e09516f80506b26a9258030837baa6100426dd525d5e5c3b2f"
-      },
-      {
-        "path": "receipts/7382ca3175c2fda301405fb83c73b7a0157937880d8d29fff5f8a4ef796f9908.json",
-        "sha256": "7382ca3175c2fda301405fb83c73b7a0157937880d8d29fff5f8a4ef796f9908"
-      },
-      {
-        "path": "receipts/e7e67e3bb484c520d364d4d598d6cf498df27c02795a897926bc77d7fc3fb60b.json",
-        "sha256": "e7e67e3bb484c520d364d4d598d6cf498df27c02795a897926bc77d7fc3fb60b"
-      },
-      {
-        "path": "receipts/81ab4ad76994c7ca3aa830a9ea405828b2a92d47a66d3171b07d1be3537ea107.json",
-        "sha256": "81ab4ad76994c7ca3aa830a9ea405828b2a92d47a66d3171b07d1be3537ea107"
-      },
-      {
-        "path": "receipts/10c70131ce5cf4f0901f01c227143d112a07df03480402daa437d4924f0d3bf4.json",
-        "sha256": "10c70131ce5cf4f0901f01c227143d112a07df03480402daa437d4924f0d3bf4"
-      },
-      {
-        "path": "receipts/758691e781047f0ec140f0ea27d4c6e77cd39b3f35aafa8a7844e068051105d2.json",
-        "sha256": "758691e781047f0ec140f0ea27d4c6e77cd39b3f35aafa8a7844e068051105d2"
-      },
-      {
-        "path": "receipts/6919944c24e50527b6a437310422b9ad2759c8257e72fc56db10c5da1a268ea0.json",
-        "sha256": "6919944c24e50527b6a437310422b9ad2759c8257e72fc56db10c5da1a268ea0"
-      },
-      {
-        "path": "receipts/b3bc3ce10eb3984728c684e3b6c438c4dac2183e94bf2af1398e0a4dc16ed0e7.json",
-        "sha256": "b3bc3ce10eb3984728c684e3b6c438c4dac2183e94bf2af1398e0a4dc16ed0e7"
-      },
-      {
-        "path": "receipts/35aeba5027202ba0b1ff95feb99effdb749280220cb5503b6b6fd920aca0d303.json",
-        "sha256": "35aeba5027202ba0b1ff95feb99effdb749280220cb5503b6b6fd920aca0d303"
-      },
-      {
-        "path": "receipts/df0286d7c8ce9189a96f32c4cf028c254137acf5059655bbeb2a537c0c1588c1.json",
-        "sha256": "df0286d7c8ce9189a96f32c4cf028c254137acf5059655bbeb2a537c0c1588c1"
-      },
-      {
-        "path": "receipts/0036dd71ea881dda56d51d41c486f10b3dddd76b13c1525fd764f96584e8d53e.json",
-        "sha256": "0036dd71ea881dda56d51d41c486f10b3dddd76b13c1525fd764f96584e8d53e"
-      },
-      {
-        "path": "receipts/e78aca5157197ceb3a1bacadf7bfc93747a674996cf7fb92ff136e4080bb9d6b.json",
-        "sha256": "e78aca5157197ceb3a1bacadf7bfc93747a674996cf7fb92ff136e4080bb9d6b"
-      },
-      {
-        "path": "receipts/bb2dc9ac53e545308aba6d082039338ab142315d049fa9db84857470d00f6928.json",
-        "sha256": "bb2dc9ac53e545308aba6d082039338ab142315d049fa9db84857470d00f6928"
-      },
-      {
-        "path": "receipts/49ba8626ba9699030cc5b684786e82cf9490e6096e4056928b36f62ada7bafba.json",
-        "sha256": "49ba8626ba9699030cc5b684786e82cf9490e6096e4056928b36f62ada7bafba"
-      },
-      {
-        "path": "receipts/3e2826b339688f94de0fa2a30975278bc195bb691bf9bf8ce040ba8e66cfc3eb.json",
-        "sha256": "3e2826b339688f94de0fa2a30975278bc195bb691bf9bf8ce040ba8e66cfc3eb"
-      },
-      {
-        "path": "receipts/7921954451e3f1c840d64b99137c2e6fb44cd987fd7df465c32151c53f7a6dde.json",
-        "sha256": "7921954451e3f1c840d64b99137c2e6fb44cd987fd7df465c32151c53f7a6dde"
-      },
-      {
-        "path": "receipts/2c58168479cb043ca70bf7e6bac53bcfdebee4a3708f4eb82cf889decb80d006.json",
-        "sha256": "2c58168479cb043ca70bf7e6bac53bcfdebee4a3708f4eb82cf889decb80d006"
-      },
-      {
-        "path": "receipts/af57eb2f59f6a4273e41ec6ccb4e77b4ffa60328382d10c9d7d0df8f317474f3.json",
-        "sha256": "af57eb2f59f6a4273e41ec6ccb4e77b4ffa60328382d10c9d7d0df8f317474f3"
+        "path": "receipts/0154afb805bff1ae31569520edb5ffed83ad1461941b78fb9be6ebfa9d79c13d.json",
+        "sha256": "0154afb805bff1ae31569520edb5ffed83ad1461941b78fb9be6ebfa9d79c13d"
       },
       {
         "path": "receipts/21a34f74e7eb412ef382d7aadb6a847a47ca7322d73a3ea25bc322344c10eb5e.json",
@@ -266,115 +179,494 @@
         "sha256": "c7f34b26024d4af6b1fadd77d2b7fe12bdba102756d6d7890f2eccd7e1091634"
       },
       {
-        "path": "receipts/40aafd5270ae5a767d134ce493638275188989d10b1d2af72768c79ceb24103e.json",
-        "sha256": "40aafd5270ae5a767d134ce493638275188989d10b1d2af72768c79ceb24103e"
+        "path": "receipts/7d0fa58ad8006b682d782217f9e7be0d5bb0a571b20cbcab76c48ebfda0dc080.json",
+        "sha256": "7d0fa58ad8006b682d782217f9e7be0d5bb0a571b20cbcab76c48ebfda0dc080"
       },
       {
-        "path": "receipts/067442d963fc702fc669d963ce4b9aeacb925aaee6a92324b59fc22fcd4caf8b.json",
-        "sha256": "067442d963fc702fc669d963ce4b9aeacb925aaee6a92324b59fc22fcd4caf8b"
+        "path": "receipts/9aa4f9b2e910e233d7ac48905b9863f5e037d390c21638e5e4a365d82febe3e5.json",
+        "sha256": "9aa4f9b2e910e233d7ac48905b9863f5e037d390c21638e5e4a365d82febe3e5"
       },
       {
-        "path": "receipts/b74d624f8163f737636c68d317d62e169f27973dd70976f8ba8976bf0fdb91b6.json",
-        "sha256": "b74d624f8163f737636c68d317d62e169f27973dd70976f8ba8976bf0fdb91b6"
+        "path": "receipts/68d6778d53a12e28efbd483dfd9c85de947aa8dcc4fec4014b0cd19f0b189f66.json",
+        "sha256": "68d6778d53a12e28efbd483dfd9c85de947aa8dcc4fec4014b0cd19f0b189f66"
       },
       {
-        "path": "receipts/ad16a82d50d8d8b58f77645d1c7ff62c84db34cde9a4e60ccf33cf50820e8e19.json",
-        "sha256": "ad16a82d50d8d8b58f77645d1c7ff62c84db34cde9a4e60ccf33cf50820e8e19"
+        "path": "receipts/58ae67db981649e0552ae530d9b4a3a35b9380364f230b021e8dba1ac21e4a50.json",
+        "sha256": "58ae67db981649e0552ae530d9b4a3a35b9380364f230b021e8dba1ac21e4a50"
       },
       {
-        "path": "receipts/c13a4e1e591e13db6ac5b32a565370bcdce597d3658d0a90508e1da39cf93753.json",
-        "sha256": "c13a4e1e591e13db6ac5b32a565370bcdce597d3658d0a90508e1da39cf93753"
+        "path": "receipts/b1193b744fbcb5e09516f80506b26a9258030837baa6100426dd525d5e5c3b2f.json",
+        "sha256": "b1193b744fbcb5e09516f80506b26a9258030837baa6100426dd525d5e5c3b2f"
       },
       {
-        "path": "receipts/b750297077fdab4568d210f2c81fb459682c58e0b7174a30e7d37e05fcee2fc6.json",
-        "sha256": "b750297077fdab4568d210f2c81fb459682c58e0b7174a30e7d37e05fcee2fc6"
+        "path": "receipts/7382ca3175c2fda301405fb83c73b7a0157937880d8d29fff5f8a4ef796f9908.json",
+        "sha256": "7382ca3175c2fda301405fb83c73b7a0157937880d8d29fff5f8a4ef796f9908"
       },
       {
-        "path": "receipts/70b3d9d48c4074419b404149dbdb3a7d93fc5d6a7f129104fc9a50e0fe9a3ba0.json",
-        "sha256": "70b3d9d48c4074419b404149dbdb3a7d93fc5d6a7f129104fc9a50e0fe9a3ba0"
+        "path": "receipts/e7e67e3bb484c520d364d4d598d6cf498df27c02795a897926bc77d7fc3fb60b.json",
+        "sha256": "e7e67e3bb484c520d364d4d598d6cf498df27c02795a897926bc77d7fc3fb60b"
       },
       {
-        "path": "receipts/c4e8d850dce88f2c7242c7c8d25bbb9f510578a525bbb3e3ebf9b06ab3ecb32d.json",
-        "sha256": "c4e8d850dce88f2c7242c7c8d25bbb9f510578a525bbb3e3ebf9b06ab3ecb32d"
+        "path": "receipts/81ab4ad76994c7ca3aa830a9ea405828b2a92d47a66d3171b07d1be3537ea107.json",
+        "sha256": "81ab4ad76994c7ca3aa830a9ea405828b2a92d47a66d3171b07d1be3537ea107"
       },
       {
-        "path": "receipts/e2c617980e11d3767334c0f0fd791934d378b7986702248380c59f2edc9d6593.json",
-        "sha256": "e2c617980e11d3767334c0f0fd791934d378b7986702248380c59f2edc9d6593"
+        "path": "receipts/10c70131ce5cf4f0901f01c227143d112a07df03480402daa437d4924f0d3bf4.json",
+        "sha256": "10c70131ce5cf4f0901f01c227143d112a07df03480402daa437d4924f0d3bf4"
       },
       {
-        "path": "receipts/d6de023852cda55ea3e1f51519f5303c39303eedbb11e87dc08a57add6b29389.json",
-        "sha256": "d6de023852cda55ea3e1f51519f5303c39303eedbb11e87dc08a57add6b29389"
+        "path": "receipts/758691e781047f0ec140f0ea27d4c6e77cd39b3f35aafa8a7844e068051105d2.json",
+        "sha256": "758691e781047f0ec140f0ea27d4c6e77cd39b3f35aafa8a7844e068051105d2"
       },
       {
-        "path": "receipts/924b939c491119a3635336bb5d19cabcd764ec54cc63eeb97c5eaa57528c2496.json",
-        "sha256": "924b939c491119a3635336bb5d19cabcd764ec54cc63eeb97c5eaa57528c2496"
+        "path": "receipts/6919944c24e50527b6a437310422b9ad2759c8257e72fc56db10c5da1a268ea0.json",
+        "sha256": "6919944c24e50527b6a437310422b9ad2759c8257e72fc56db10c5da1a268ea0"
       },
       {
-        "path": "receipts/cafa4ec9958cf66e3becc0555d86adaf38cbd1ceec1296b18761e284fabb7a4c.json",
-        "sha256": "cafa4ec9958cf66e3becc0555d86adaf38cbd1ceec1296b18761e284fabb7a4c"
+        "path": "receipts/b3bc3ce10eb3984728c684e3b6c438c4dac2183e94bf2af1398e0a4dc16ed0e7.json",
+        "sha256": "b3bc3ce10eb3984728c684e3b6c438c4dac2183e94bf2af1398e0a4dc16ed0e7"
+      },
+      {
+        "path": "receipts/35aeba5027202ba0b1ff95feb99effdb749280220cb5503b6b6fd920aca0d303.json",
+        "sha256": "35aeba5027202ba0b1ff95feb99effdb749280220cb5503b6b6fd920aca0d303"
+      },
+      {
+        "path": "receipts/df0286d7c8ce9189a96f32c4cf028c254137acf5059655bbeb2a537c0c1588c1.json",
+        "sha256": "df0286d7c8ce9189a96f32c4cf028c254137acf5059655bbeb2a537c0c1588c1"
+      },
+      {
+        "path": "receipts/0036dd71ea881dda56d51d41c486f10b3dddd76b13c1525fd764f96584e8d53e.json",
+        "sha256": "0036dd71ea881dda56d51d41c486f10b3dddd76b13c1525fd764f96584e8d53e"
+      },
+      {
+        "path": "receipts/e78aca5157197ceb3a1bacadf7bfc93747a674996cf7fb92ff136e4080bb9d6b.json",
+        "sha256": "e78aca5157197ceb3a1bacadf7bfc93747a674996cf7fb92ff136e4080bb9d6b"
+      },
+      {
+        "path": "receipts/bb2dc9ac53e545308aba6d082039338ab142315d049fa9db84857470d00f6928.json",
+        "sha256": "bb2dc9ac53e545308aba6d082039338ab142315d049fa9db84857470d00f6928"
+      },
+      {
+        "path": "receipts/49ba8626ba9699030cc5b684786e82cf9490e6096e4056928b36f62ada7bafba.json",
+        "sha256": "49ba8626ba9699030cc5b684786e82cf9490e6096e4056928b36f62ada7bafba"
+      },
+      {
+        "path": "receipts/3e2826b339688f94de0fa2a30975278bc195bb691bf9bf8ce040ba8e66cfc3eb.json",
+        "sha256": "3e2826b339688f94de0fa2a30975278bc195bb691bf9bf8ce040ba8e66cfc3eb"
+      },
+      {
+        "path": "receipts/7921954451e3f1c840d64b99137c2e6fb44cd987fd7df465c32151c53f7a6dde.json",
+        "sha256": "7921954451e3f1c840d64b99137c2e6fb44cd987fd7df465c32151c53f7a6dde"
+      },
+      {
+        "path": "receipts/2c58168479cb043ca70bf7e6bac53bcfdebee4a3708f4eb82cf889decb80d006.json",
+        "sha256": "2c58168479cb043ca70bf7e6bac53bcfdebee4a3708f4eb82cf889decb80d006"
+      },
+      {
+        "path": "receipts/af57eb2f59f6a4273e41ec6ccb4e77b4ffa60328382d10c9d7d0df8f317474f3.json",
+        "sha256": "af57eb2f59f6a4273e41ec6ccb4e77b4ffa60328382d10c9d7d0df8f317474f3"
+      },
+      {
+        "path": "receipts/905571bac063edabb443253e0b4fabc30c3f2c6f3301992f2f3e5e7e9bdef27b.json",
+        "sha256": "905571bac063edabb443253e0b4fabc30c3f2c6f3301992f2f3e5e7e9bdef27b"
+      },
+      {
+        "path": "receipts/0f3d7e259f6c687f03a476ecdd9512c3e799795867e20f65eddbb3461ab28965.json",
+        "sha256": "0f3d7e259f6c687f03a476ecdd9512c3e799795867e20f65eddbb3461ab28965"
+      },
+      {
+        "path": "receipts/2461cc97d0c921b9f4e652bd7b62a0af67b358846219e17eb71a608d6680abdd.json",
+        "sha256": "2461cc97d0c921b9f4e652bd7b62a0af67b358846219e17eb71a608d6680abdd"
+      },
+      {
+        "path": "receipts/955376a7a844129cb728412148659db742840c00ed0a4b0093128d282fe065ad.json",
+        "sha256": "955376a7a844129cb728412148659db742840c00ed0a4b0093128d282fe065ad"
+      },
+      {
+        "path": "receipts/b33d48f322d47b9e09249fe2f95893483c6ac72030b9692e805c1e2fc08b452d.json",
+        "sha256": "b33d48f322d47b9e09249fe2f95893483c6ac72030b9692e805c1e2fc08b452d"
+      },
+      {
+        "path": "receipts/20d1607427a5ff85503cb6fb5adffdeae814515a187a3d4d26e5ef702403c1e7.json",
+        "sha256": "20d1607427a5ff85503cb6fb5adffdeae814515a187a3d4d26e5ef702403c1e7"
+      },
+      {
+        "path": "receipts/8a279b26116055d5ccf2c6ab3ac0bb185a13a5d88631995e73e7a155f9f8fe29.json",
+        "sha256": "8a279b26116055d5ccf2c6ab3ac0bb185a13a5d88631995e73e7a155f9f8fe29"
+      },
+      {
+        "path": "receipts/e3c00842213416bd8deda86d830988294ae2d610c95ffe1ce26e5bcf1acb0307.json",
+        "sha256": "e3c00842213416bd8deda86d830988294ae2d610c95ffe1ce26e5bcf1acb0307"
+      },
+      {
+        "path": "receipts/61b7a71bcd280ae19f699e4429595774186b053e45a2ae210af5913271f7fea6.json",
+        "sha256": "61b7a71bcd280ae19f699e4429595774186b053e45a2ae210af5913271f7fea6"
+      },
+      {
+        "path": "receipts/e68d7ffcdbb05389b4757724ddf61e5dced53994b3c521c69d13d1a72298ffff.json",
+        "sha256": "e68d7ffcdbb05389b4757724ddf61e5dced53994b3c521c69d13d1a72298ffff"
+      },
+      {
+        "path": "receipts/60ffceca98c1b29a37f12f7693a20b992426e03842bf049f3e2302b0c83744f6.json",
+        "sha256": "60ffceca98c1b29a37f12f7693a20b992426e03842bf049f3e2302b0c83744f6"
+      },
+      {
+        "path": "receipts/f563e2f7ee7e14396eb87b138782cf8bad348009c6a9eae36c6bcda7669137de.json",
+        "sha256": "f563e2f7ee7e14396eb87b138782cf8bad348009c6a9eae36c6bcda7669137de"
+      },
+      {
+        "path": "receipts/001ae6c4deff77087984626e3f1a6a89f1b8fc218d222ab243e98c186d43089b.json",
+        "sha256": "001ae6c4deff77087984626e3f1a6a89f1b8fc218d222ab243e98c186d43089b"
+      },
+      {
+        "path": "receipts/fdb8bba89b5da91f02a211e77886ffbca4783e23dd3bb46f1e0ba70e626e440d.json",
+        "sha256": "fdb8bba89b5da91f02a211e77886ffbca4783e23dd3bb46f1e0ba70e626e440d"
+      },
+      {
+        "path": "receipts/dadb524314b90159b021589b442631fcbf92a7ad79869a1544131fbef917af42.json",
+        "sha256": "dadb524314b90159b021589b442631fcbf92a7ad79869a1544131fbef917af42"
+      },
+      {
+        "path": "receipts/abeb1d0e0cf4225df50c64ca75887b3977f0d3636bd84b35163e33687fec4e5b.json",
+        "sha256": "abeb1d0e0cf4225df50c64ca75887b3977f0d3636bd84b35163e33687fec4e5b"
+      },
+      {
+        "path": "receipts/aff88f6eadc8ed402730d0bcd7e14dbd201c5a774c2e5e0c4dd661a7294a3de7.json",
+        "sha256": "aff88f6eadc8ed402730d0bcd7e14dbd201c5a774c2e5e0c4dd661a7294a3de7"
+      },
+      {
+        "path": "receipts/91bfa0924dab63375d9ce63be9b71c6becdfcc3c01d3e6c559e7a3e6baf9af4b.json",
+        "sha256": "91bfa0924dab63375d9ce63be9b71c6becdfcc3c01d3e6c559e7a3e6baf9af4b"
+      },
+      {
+        "path": "receipts/fce0ba720ea730f26d44a7fd1a76797e39468172245c42e7705a760fdaf6b9a5.json",
+        "sha256": "fce0ba720ea730f26d44a7fd1a76797e39468172245c42e7705a760fdaf6b9a5"
+      },
+      {
+        "path": "receipts/cdbbb1abe4718cb4a3a90e6199428ca763205214fd96f07f6c2e7afb232c4bf6.json",
+        "sha256": "cdbbb1abe4718cb4a3a90e6199428ca763205214fd96f07f6c2e7afb232c4bf6"
+      },
+      {
+        "path": "receipts/790b422dd45e124fbcbfbd31bd9d844e158930aeb68ef7c047f01c54e1895360.json",
+        "sha256": "790b422dd45e124fbcbfbd31bd9d844e158930aeb68ef7c047f01c54e1895360"
+      },
+      {
+        "path": "receipts/96bc2ca8019e70243e1f1906f115cf812f81258abc93ec273d8e2c0f745982be.json",
+        "sha256": "96bc2ca8019e70243e1f1906f115cf812f81258abc93ec273d8e2c0f745982be"
+      },
+      {
+        "path": "receipts/01e1b5802d5d02c0a98de34a24ff836281aaa301329e06ed5e9922e173c33c3d.json",
+        "sha256": "01e1b5802d5d02c0a98de34a24ff836281aaa301329e06ed5e9922e173c33c3d"
+      },
+      {
+        "path": "receipts/34cfababae24ae1ddea0d5085314aa736fcf24616dca4f139134f2581ba297ac.json",
+        "sha256": "34cfababae24ae1ddea0d5085314aa736fcf24616dca4f139134f2581ba297ac"
+      },
+      {
+        "path": "receipts/2a46e6fd3a9c8cbfa43576849cd1ca3e93f84e86033fd67345841bb8c5108ecb.json",
+        "sha256": "2a46e6fd3a9c8cbfa43576849cd1ca3e93f84e86033fd67345841bb8c5108ecb"
+      },
+      {
+        "path": "receipts/ffd9c74d107525676efee2f3b0a80f6a92c0c599fcb455124d7072210223da93.json",
+        "sha256": "ffd9c74d107525676efee2f3b0a80f6a92c0c599fcb455124d7072210223da93"
+      },
+      {
+        "path": "receipts/33e8a7ab3a02b1f963230866a088e3848142169dfba31bb67e4b90a76f8e7e0f.json",
+        "sha256": "33e8a7ab3a02b1f963230866a088e3848142169dfba31bb67e4b90a76f8e7e0f"
+      },
+      {
+        "path": "receipts/8f210c2a242b4c9bbb85ccd38e441e0613ad2dafa7b4c499ab351e5ef396ad9c.json",
+        "sha256": "8f210c2a242b4c9bbb85ccd38e441e0613ad2dafa7b4c499ab351e5ef396ad9c"
+      },
+      {
+        "path": "receipts/0a429c4c3287a70a358176311f050934a7b67b9f6af381fff5b3a0bd247e8c9b.json",
+        "sha256": "0a429c4c3287a70a358176311f050934a7b67b9f6af381fff5b3a0bd247e8c9b"
+      },
+      {
+        "path": "receipts/34f13351671d07dab8ed04e38bf972b10bd3afe76d9a2bb4a888ac12cdacd24d.json",
+        "sha256": "34f13351671d07dab8ed04e38bf972b10bd3afe76d9a2bb4a888ac12cdacd24d"
+      },
+      {
+        "path": "receipts/27e9b83e38fb31856fe0130f0f5de6564189eceeed824088f1bea23fd06e76e6.json",
+        "sha256": "27e9b83e38fb31856fe0130f0f5de6564189eceeed824088f1bea23fd06e76e6"
+      },
+      {
+        "path": "receipts/fa3a0627a03ba4965878d67b818b0e4a9e4a041c824a23f8ca51593d3ce35c29.json",
+        "sha256": "fa3a0627a03ba4965878d67b818b0e4a9e4a041c824a23f8ca51593d3ce35c29"
+      },
+      {
+        "path": "receipts/961520501f608d05a219105283612ccfaff3e50ccf4608baf05beae7bb83fb5d.json",
+        "sha256": "961520501f608d05a219105283612ccfaff3e50ccf4608baf05beae7bb83fb5d"
+      },
+      {
+        "path": "receipts/4cef3618ebfb615a4678e640666d4f4663ba05099996003de012214ba134683e.json",
+        "sha256": "4cef3618ebfb615a4678e640666d4f4663ba05099996003de012214ba134683e"
+      },
+      {
+        "path": "receipts/e8ef0d5bd93f6355ac54ab5b4fea2336ea57d95423239633be44c389e86321b9.json",
+        "sha256": "e8ef0d5bd93f6355ac54ab5b4fea2336ea57d95423239633be44c389e86321b9"
+      },
+      {
+        "path": "receipts/5fdc9d4ef5609f8ce2b52b697f531ae483f8b9404622a38e6ad51c427f22fe0f.json",
+        "sha256": "5fdc9d4ef5609f8ce2b52b697f531ae483f8b9404622a38e6ad51c427f22fe0f"
+      },
+      {
+        "path": "receipts/36eb58fe9161174ec9d1f230e7a8e81d62a9e6aba927ed7bf0f53ed7a3b9d09a.json",
+        "sha256": "36eb58fe9161174ec9d1f230e7a8e81d62a9e6aba927ed7bf0f53ed7a3b9d09a"
+      },
+      {
+        "path": "receipts/7f85f2cb61bbb2eef963a620c6270eda6a5ebe14eaa0342486b54c8e42b29ce2.json",
+        "sha256": "7f85f2cb61bbb2eef963a620c6270eda6a5ebe14eaa0342486b54c8e42b29ce2"
+      },
+      {
+        "path": "receipts/7a1ced01a8b3204f1c029c8a9bb53554cb1df06a0a8662af39c3377b480897ff.json",
+        "sha256": "7a1ced01a8b3204f1c029c8a9bb53554cb1df06a0a8662af39c3377b480897ff"
+      },
+      {
+        "path": "receipts/5793aa67adf061a7e0e733cfceb7bc1301d90f6dd99654b4a99e553c13cd84a2.json",
+        "sha256": "5793aa67adf061a7e0e733cfceb7bc1301d90f6dd99654b4a99e553c13cd84a2"
+      },
+      {
+        "path": "receipts/e4dc327c1bf7fc476e4875dfe58ca53a5ae8ad41b3abe679263283fbe95d4cf9.json",
+        "sha256": "e4dc327c1bf7fc476e4875dfe58ca53a5ae8ad41b3abe679263283fbe95d4cf9"
+      },
+      {
+        "path": "receipts/ad3d6b189ceee32ac8bb20f0ca8b2a790f529b55e708e7b4384a7c1d417f2ad0.json",
+        "sha256": "ad3d6b189ceee32ac8bb20f0ca8b2a790f529b55e708e7b4384a7c1d417f2ad0"
+      },
+      {
+        "path": "receipts/843aae2df98de1a8f42d6d5981aaeb3308acd835f1b151967de595aa1195a0db.json",
+        "sha256": "843aae2df98de1a8f42d6d5981aaeb3308acd835f1b151967de595aa1195a0db"
+      },
+      {
+        "path": "receipts/330e37d28df2275fe64b169b867fc420cec6108871fa8bd648c6027f54ad94de.json",
+        "sha256": "330e37d28df2275fe64b169b867fc420cec6108871fa8bd648c6027f54ad94de"
+      },
+      {
+        "path": "receipts/bf8164205911a1a06d26b99063dee97aba01d365debdad0a66a387c516b18199.json",
+        "sha256": "bf8164205911a1a06d26b99063dee97aba01d365debdad0a66a387c516b18199"
+      },
+      {
+        "path": "receipts/8a19fd41f345b7e7042237c6d7e6a3d5bf3446a2809f85ac7ba130bb8db2621c.json",
+        "sha256": "8a19fd41f345b7e7042237c6d7e6a3d5bf3446a2809f85ac7ba130bb8db2621c"
+      },
+      {
+        "path": "receipts/6e5b6346af0a01d3b45269b531f6dd47e25c1ad6a1a51f5e983332ef5c9213ea.json",
+        "sha256": "6e5b6346af0a01d3b45269b531f6dd47e25c1ad6a1a51f5e983332ef5c9213ea"
+      },
+      {
+        "path": "receipts/9d45334b92452408b02820223454f850c9715dfc7dc88eeb8d3d14dd362b5f69.json",
+        "sha256": "9d45334b92452408b02820223454f850c9715dfc7dc88eeb8d3d14dd362b5f69"
+      },
+      {
+        "path": "receipts/303c816da465cd623ac6c18e6e30e86a39b7503d26e267b0f295cd458ad203d6.json",
+        "sha256": "303c816da465cd623ac6c18e6e30e86a39b7503d26e267b0f295cd458ad203d6"
+      },
+      {
+        "path": "receipts/9d557c94437e2982248770f6455b04b0050a17024a0e9f739e40b85ec5b726b5.json",
+        "sha256": "9d557c94437e2982248770f6455b04b0050a17024a0e9f739e40b85ec5b726b5"
+      },
+      {
+        "path": "receipts/36b4303e4437b3531b3909338a6358c89fb56bd6447248ed5c34af9543e7b651.json",
+        "sha256": "36b4303e4437b3531b3909338a6358c89fb56bd6447248ed5c34af9543e7b651"
+      },
+      {
+        "path": "receipts/7d3183b90f6d733861e99e4fe944d10ad650060e9a171121c25258fba01000d4.json",
+        "sha256": "7d3183b90f6d733861e99e4fe944d10ad650060e9a171121c25258fba01000d4"
+      },
+      {
+        "path": "receipts/f85c80620fa0645e64af28d52fcdaf921d6cf31a4bbb0e844918825c2f5731c9.json",
+        "sha256": "f85c80620fa0645e64af28d52fcdaf921d6cf31a4bbb0e844918825c2f5731c9"
+      },
+      {
+        "path": "receipts/bef37b3adf126d97b81a056acec364b70861e1d4d7f6ac1a2db3433ed50ffd0a.json",
+        "sha256": "bef37b3adf126d97b81a056acec364b70861e1d4d7f6ac1a2db3433ed50ffd0a"
+      },
+      {
+        "path": "receipts/e0577131e20def3c3f368b3f5e242c8d287e3e5226bd43cff0a5ab734388e7a1.json",
+        "sha256": "e0577131e20def3c3f368b3f5e242c8d287e3e5226bd43cff0a5ab734388e7a1"
+      },
+      {
+        "path": "receipts/aa97411eb61e9e156c4cee2ac61d40668dbb6cca6d8ec0ca368e4c262e9bd7c7.json",
+        "sha256": "aa97411eb61e9e156c4cee2ac61d40668dbb6cca6d8ec0ca368e4c262e9bd7c7"
+      },
+      {
+        "path": "receipts/40721f48f067f533b0dcbedefe183da8ffe819f0d97b7449b565c4cf927a9d47.json",
+        "sha256": "40721f48f067f533b0dcbedefe183da8ffe819f0d97b7449b565c4cf927a9d47"
+      },
+      {
+        "path": "receipts/3d818556eb089167f10d8644f486f085bb48267675eaa9d6e4feca179ad4e3af.json",
+        "sha256": "3d818556eb089167f10d8644f486f085bb48267675eaa9d6e4feca179ad4e3af"
+      },
+      {
+        "path": "receipts/b4d382d2a7d3cd39bb374039506a4854516c514d2851cf5384b81e88aa20e68f.json",
+        "sha256": "b4d382d2a7d3cd39bb374039506a4854516c514d2851cf5384b81e88aa20e68f"
+      },
+      {
+        "path": "receipts/8b2c899322f374a7a8e4d9ffc3c902c078b461f74cded1105e6bee2f61c509e9.json",
+        "sha256": "8b2c899322f374a7a8e4d9ffc3c902c078b461f74cded1105e6bee2f61c509e9"
+      },
+      {
+        "path": "receipts/22c54232d7ead5edcd4f7f41e3d6a0df00a8c870de52521686a97ed6ec02c2e2.json",
+        "sha256": "22c54232d7ead5edcd4f7f41e3d6a0df00a8c870de52521686a97ed6ec02c2e2"
+      },
+      {
+        "path": "receipts/a8fca81cdc0b545062c2f3fff010f36a05d1aed755cb5a06e4c3e2135b5526a2.json",
+        "sha256": "a8fca81cdc0b545062c2f3fff010f36a05d1aed755cb5a06e4c3e2135b5526a2"
+      },
+      {
+        "path": "receipts/c253c7b369a407f477b65f41254f5dac2dafa29c58977cff393e4702c1137ad3.json",
+        "sha256": "c253c7b369a407f477b65f41254f5dac2dafa29c58977cff393e4702c1137ad3"
+      },
+      {
+        "path": "receipts/306e1ec7995bf9318b3b700c746519b7b22ee4463dca6ec2bcb66b03ef0cd833.json",
+        "sha256": "306e1ec7995bf9318b3b700c746519b7b22ee4463dca6ec2bcb66b03ef0cd833"
+      },
+      {
+        "path": "receipts/596d0f185b4e021f44e793dae674fb018357b73edb0238130c951b293448696f.json",
+        "sha256": "596d0f185b4e021f44e793dae674fb018357b73edb0238130c951b293448696f"
+      },
+      {
+        "path": "receipts/bb28475244ac2490de6b47461fd145dc9128accbe854b614d40c0d02f29dca67.json",
+        "sha256": "bb28475244ac2490de6b47461fd145dc9128accbe854b614d40c0d02f29dca67"
+      },
+      {
+        "path": "receipts/5bfd30014a20b3ebbbf63b086635ac9b2d758c8c869d4f148277029839b49e64.json",
+        "sha256": "5bfd30014a20b3ebbbf63b086635ac9b2d758c8c869d4f148277029839b49e64"
+      },
+      {
+        "path": "receipts/07c6f0a46180c71c3c600dd255a59e7b7d16278e046654d4b566a7ab0ddb8ec2.json",
+        "sha256": "07c6f0a46180c71c3c600dd255a59e7b7d16278e046654d4b566a7ab0ddb8ec2"
+      },
+      {
+        "path": "receipts/53ae154f7421ea5f99ad1149569c532db080efd1bd69be4a43234ad4205d3653.json",
+        "sha256": "53ae154f7421ea5f99ad1149569c532db080efd1bd69be4a43234ad4205d3653"
+      },
+      {
+        "path": "receipts/c85ee78d2bacbd880b347b76663d8c4edc309197c15c607b4f6c7ce761ef25a8.json",
+        "sha256": "c85ee78d2bacbd880b347b76663d8c4edc309197c15c607b4f6c7ce761ef25a8"
+      },
+      {
+        "path": "receipts/51c3c32a2029ec15169cc6faeb583bf9ef42e7ec9e3cf48e037be5d24c40217d.json",
+        "sha256": "51c3c32a2029ec15169cc6faeb583bf9ef42e7ec9e3cf48e037be5d24c40217d"
+      },
+      {
+        "path": "receipts/460ea5da0fb42d6fadc08be97e38d0ca393bfc19dae14309dacb92aec3da7d87.json",
+        "sha256": "460ea5da0fb42d6fadc08be97e38d0ca393bfc19dae14309dacb92aec3da7d87"
+      },
+      {
+        "path": "receipts/e0e2cc8da1e6d6d5fdc469a2da228bec264b802761acb7fc4b704553526bbecc.json",
+        "sha256": "e0e2cc8da1e6d6d5fdc469a2da228bec264b802761acb7fc4b704553526bbecc"
+      },
+      {
+        "path": "receipts/3fbb132cb77a7ff37282d68cc63adfc5715927751b327dcd1b1068011d887ddb.json",
+        "sha256": "3fbb132cb77a7ff37282d68cc63adfc5715927751b327dcd1b1068011d887ddb"
+      },
+      {
+        "path": "receipts/ff6fb411f9e1a20aaf881cb9508f048768b85ba6fa91560c6a0967558c501eb5.json",
+        "sha256": "ff6fb411f9e1a20aaf881cb9508f048768b85ba6fa91560c6a0967558c501eb5"
+      },
+      {
+        "path": "receipts/77aa2631ab7751dbb8ba815502ebe87ac133b01a2cc24279373a2d4a1ae5652f.json",
+        "sha256": "77aa2631ab7751dbb8ba815502ebe87ac133b01a2cc24279373a2d4a1ae5652f"
+      },
+      {
+        "path": "receipts/a81598ea836db094e72f7f9f906a896b2c74dc5eaeb70baf6c0a1d1bfd4c105e.json",
+        "sha256": "a81598ea836db094e72f7f9f906a896b2c74dc5eaeb70baf6c0a1d1bfd4c105e"
+      },
+      {
+        "path": "receipts/954e8060b556e7cee5166b1f1d1283ec978abf8e0611ec3c40d9271823b6d2a4.json",
+        "sha256": "954e8060b556e7cee5166b1f1d1283ec978abf8e0611ec3c40d9271823b6d2a4"
+      },
+      {
+        "path": "receipts/ceed3d77b5ea2e707b925e8bf0db81be6ae63a0e2e672b9b01b101e907e83fe8.json",
+        "sha256": "ceed3d77b5ea2e707b925e8bf0db81be6ae63a0e2e672b9b01b101e907e83fe8"
+      },
+      {
+        "path": "receipts/521f57b271bff5e2690d4c3f37a20bca5cf19036e86aaad6935ae22c080ef970.json",
+        "sha256": "521f57b271bff5e2690d4c3f37a20bca5cf19036e86aaad6935ae22c080ef970"
+      },
+      {
+        "path": "receipts/44159f5f2e62f3696551782464be6f418d1ee82663d33b72c0f36d7dc3f9093f.json",
+        "sha256": "44159f5f2e62f3696551782464be6f418d1ee82663d33b72c0f36d7dc3f9093f"
+      },
+      {
+        "path": "receipts/68755fb6bc7989b1cc2666d742c349c1e14d201588ed59513e24f461a64f90f6.json",
+        "sha256": "68755fb6bc7989b1cc2666d742c349c1e14d201588ed59513e24f461a64f90f6"
+      },
+      {
+        "path": "receipts/b2cd88384a0af7896178a8fdda0a552156c4c9c2ad8f633d4a06b9fb805d1dbc.json",
+        "sha256": "b2cd88384a0af7896178a8fdda0a552156c4c9c2ad8f633d4a06b9fb805d1dbc"
+      },
+      {
+        "path": "receipts/d7e2f0303f23f65adcd80c7763ffc60ed8fee228514d1b9d5e99cb53ee76a0c3.json",
+        "sha256": "d7e2f0303f23f65adcd80c7763ffc60ed8fee228514d1b9d5e99cb53ee76a0c3"
       }
     ],
     "actual_prior_production_binding": {
-      "commit_sha": "2c6fdb75a2f1c494b56f57bf965927d7cd1c477d",
-      "deployment_id": "41634511785",
-      "artifact_sha256": "50679ec2917536b2ead8671adcb731f9e642c94cf3af23e09c6fe4bcefc0d91c",
-      "served_receipt_sha256": "faae87c07d85b092dd9ca5cb4f9ed878e78a5212dbc15b460e23a03fb4b2f929"
+      "commit_sha": "df78e8e47a567b3478f3594fc052d1fd43bb0d70",
+      "deployment_id": "41662611989",
+      "artifact_sha256": "a28ad4251756e7da2440b4756d54baf9f350e66ef7264171593d894b2e10a99a",
+      "served_receipt_sha256": "08657bead039bd8783d7ef615a17540f1882dcc42dfa20875b3e2dca3005447f"
     },
     "quality_module_sha256": "167511781baa8552afa6824c0bae417bc4c63d47915809f76c5c0e9408964179",
     "historical_baseline_sha256": "544beae9bf01b1071034733a5134057eeab890e7303383c39984f7ea5e67faf8",
     "finite_module_sha256": "f6d5fca32d51e9d68f8fa38df2bf4607559b5eebfb6f243f976450d50119f474",
     "finite_map_sha256": "4ae10f72b10b99f7047bfebe2ad1f1eecb28e452e42ca4b6e1ef6da66c9d78f8",
-    "frozen_receipt_sha256": "82856953131cb0ab8e8f1639c24cf51241d723a2619fec2867784baca61d49e7",
+    "frozen_receipt_sha256": "0154afb805bff1ae31569520edb5ffed83ad1461941b78fb9be6ebfa9d79c13d",
     "frozen_effective_pins": {
-      "answers/geo-basics/is-perplexity-good-for-seo.md": "1476de764012e7bdf2ee8821e63bcbc21a7d644954a22c3248fb350c76d5c9b2",
-      "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md": "07bd12f847d6d941466d0688cc36d49133518f48cc5edda1d1c5b0d61a348c52",
+      "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt.md": "73fb43ce2224acb5e454c1159287ddce0c923cfca12ea91750fac745f49c072f",
+      "answers/fixes/how-should-i-check-an-llms-txt-file.md": "13137858c64d80a9c883315e7014ee510222bc3376ae5975933f448cc660f495",
+      "answers/geo-basics/why-does-the-buyer-question-matter-to-an-ai-shortlist.md": "3105b9a375e1404d8655f5b720c77ca794b274732ce5396514ba414ebe0c76ab",
+      "answers/geo-basics/what-is-an-ai-software-shortlist.md": "c53fb999b9de07417818e96bedd438b76488e5ee8a21cd1329e3ba586316ebcf",
+      "answers/geo-basics/can-ai-search-use-information-from-the-live-web.md": "9050d995c56b8642de3777057051b03ebdb486f5e2169318f760a9bc23645842",
+      "answers/geo-basics/what-does-geo-mean-in-ai-search.md": "408fb950676fbd1acd85629bf21335249254a11caba7b5ea1225a36f06f4a2dd",
       "answers/measurement/how-can-a-buyer-verify-the-conclusion.md": "67745ee8279b46e942a1487e7a72cbd97e328f61aaf3756c279b2a59b22cb3b4",
-      "answers/fixes/what-is-an-llms-txt-file.md": "3c1ae2ffe120c7493aea05a7c0674e1c3ea3d582bd05010c318ae6989d836350",
+      "answers/fixes/what-should-i-include-in-an-llms-txt-file.md": "81671b8c25c77e7a11faef2b621f5c263458a882b4687071a514bc5fbe3ea092",
+      "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple.md": "c34a4c841f1b18fd527750073bc5c71dfc6ccd90f1aec5d871510b51c740600b",
+      "answers/measurement/how-can-i-check-ai-search-visibility.md": "30362ee56491ef6f7df811b482176e85bed41643aa492fa13c83159e9fc6a113",
+      "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction.md": "0327f05f7e56101056f7f3de0780013ba4a9e90ebd0ba765b8ecc6a315162a18",
+      "answers/fixes/what-does-google-s-guidance-say-about-llms-txt.md": "d37d17bfa105475aa5bdf81b385254c6166ba757fdb08820097c0fe6c5da1615",
+      "answers/measurement/what-counts-as-an-own-domain-citation-in-an-ai-answer.md": "08e8b6a72313325c93c53eb3386b524997452fd08bb0ab7eda82608d886a0ac3",
+      "answers/geo-basics/is-perplexity-good-for-seo.md": "1476de764012e7bdf2ee8821e63bcbc21a7d644954a22c3248fb350c76d5c9b2",
+      "answers/geo-basics/what-does-ai-visibility-mean.md": "fc2ed968886c3c83994bda32f4db2926d15cb8f84914a8c601ebbf8f74cf6f53",
+      "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer.md": "669ed510393d5b9646dc6185624067dd94c3b82c7745ceabc6b0c7c1855afcb7",
+      "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features.md": "ad2953b1d9f24a9d72bf27e10f01cecb62d27ffcbf707aae539dd344d2d217ed",
+      "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility.md": "535f72327d0c9d85eb6a282e0f97b38e82726a9dc124df7bc004ddc846b8c26f",
+      "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data.md": "2c69cd2c54d0a9d3fcc631fd4422c03e8d7f50ca7e9344991a6cb3998475ca1c",
+      "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re.md": "e6af0fa0909b0b7ad9506dcab50cfb36e05a3ae93f9b3014b3e708e70d1b2a78",
+      "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages.md": "e77fb390794b37262bbfcd31c24dd2e4c7b3a014c6f12e09b3446066e2435a54",
+      "answers/measurement/how-should-i-check-an-ai-baseline-before-changing-content.md": "20f5415572dd88e390d09303995d1553b7d00d6578cf88d1e662e6213ad7110b",
+      "answers/measurement/what-should-a-client-ai-visibility-report-contain.md": "c02460b845fd63e678beadbb31e2e0d74d95fa18b11a48262267f37cd6963231",
+      "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit.md": "ba1ac8419209dd6a33b0e07649184b6d602b8dd5304943e880c5ccd28e00a241",
       "answers/geo-basics/does-ai-search-replace-seo.md": "28d37990b0e5e37f62051f060eddd28032cff3428bb8ec83e18976f50ac6360b",
+      "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md": "07bd12f847d6d941466d0688cc36d49133518f48cc5edda1d1c5b0d61a348c52",
+      "answers/geo-basics/can-i-use-ai-to-do-my-seo.md": "8e906db7995fecd4db7f6f30003abb5486a223da421558767698456631c7c011",
+      "answers/measurement/how-many-repeated-runs-make-an-ai-visibility-rate-useful.md": "bcaf4372173e5111a26c9509a86a1fbfa90a4590f5211e51904d2293fac5fd3a",
+      "answers/geo-basics/does-being-named-by-ai-prove-product-quality.md": "06057b234c9c08d77b824b705ba3634586e1987153cc0e829cac0993ea65de2c",
+      "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence.md": "8a40cb26d14d1e76370811cf9ad53079129945efddd892773ff91d2efde91b34",
+      "answers/fixes/what-is-an-llms-txt-file.md": "3c1ae2ffe120c7493aea05a7c0674e1c3ea3d582bd05010c318ae6989d836350",
+      "answers/fixes/what-is-an-llms-txt-checker.md": "36095d1879202e5f13e438c3a8536af89b3686c425c07da3f890ef71d1033c7c",
+      "answers/measurement/what-can-search-console-show-about-ai-visibility-queries.md": "e4eeb023e6b4581e9ec4b54384cd2ed26949a4a6ea7c1c7543a49cad02148b01",
+      "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies.md": "290dfc95ea255afceb67356f97fa010b10a4cd652fdf74c52df328534b1afb8e",
+      "answers/geo-basics/do-brand-name-prompts-measure-discovery.md": "07b4670c11b5c2d27dc5620f062846097654a841eb3fac7ad3ec4a56d6eea12a",
+      "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify.md": "2775308c1321ecd3fa17f6cdd0362f14430f5259fb3ca3f5cc0dbd889dc4febf",
       "answers/geo-basics/does-an-ai-shortlist-show-what-buyers-actually-purchase.md": "b04e0e8f0de598da1c469cd24d3e0e7cfc11fd15fbe8c62487fdbc7bc8d8a351",
       "answers/geo-basics/why-can-the-same-ai-question-produce-different-names.md": "18591db04b2cb29f5ed78b92810ec28d3df5034c09c10572dd91c85c49700188",
-      "answers/fixes/how-should-i-check-an-llms-txt-file.md": "13137858c64d80a9c883315e7014ee510222bc3376ae5975933f448cc660f495",
-      "answers/measurement/how-should-i-check-an-ai-baseline-before-changing-content.md": "20f5415572dd88e390d09303995d1553b7d00d6578cf88d1e662e6213ad7110b",
       "answers/fixes/can-google-ai-overview-answers-be-changed.md": "45383144418c23727a72dd53f211da4edad3e5d641cb6899ac2f88261e648a75",
-      "answers/measurement/how-many-repeated-runs-make-an-ai-visibility-rate-useful.md": "bcaf4372173e5111a26c9509a86a1fbfa90a4590f5211e51904d2293fac5fd3a",
-      "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations.md": "682f74a734a563fc43fb6a9ae6a195ccd4f03ce998ccba84de9984dfd40e88b4",
-      "answers/measurement/what-should-a-client-ai-visibility-report-contain.md": "c02460b845fd63e678beadbb31e2e0d74d95fa18b11a48262267f37cd6963231",
-      "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple.md": "c34a4c841f1b18fd527750073bc5c71dfc6ccd90f1aec5d871510b51c740600b",
-      "answers/geo-basics/what-does-ai-visibility-mean.md": "fc2ed968886c3c83994bda32f4db2926d15cb8f84914a8c601ebbf8f74cf6f53",
-      "answers/geo-basics/what-is-an-ai-software-shortlist.md": "c53fb999b9de07417818e96bedd438b76488e5ee8a21cd1329e3ba586316ebcf",
-      "answers/geo-basics/why-does-the-buyer-question-matter-to-an-ai-shortlist.md": "3105b9a375e1404d8655f5b720c77ca794b274732ce5396514ba414ebe0c76ab",
-      "answers/fixes/what-does-google-s-guidance-say-about-llms-txt.md": "d37d17bfa105475aa5bdf81b385254c6166ba757fdb08820097c0fe6c5da1615",
-      "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features.md": "ad2953b1d9f24a9d72bf27e10f01cecb62d27ffcbf707aae539dd344d2d217ed",
-      "answers/fixes/what-is-an-llms-txt-checker.md": "36095d1879202e5f13e438c3a8536af89b3686c425c07da3f890ef71d1033c7c",
-      "answers/fixes/is-llms-txt-actually-used.md": "9ae50fc1b371cf796252ef309039dbf71c5ca181e88cd62f09d303380ff165d3",
-      "answers/measurement/what-counts-as-an-own-domain-citation-in-an-ai-answer.md": "08e8b6a72313325c93c53eb3386b524997452fd08bb0ab7eda82608d886a0ac3",
-      "answers/geo-basics/can-i-use-ai-to-do-my-seo.md": "8e906db7995fecd4db7f6f30003abb5486a223da421558767698456631c7c011",
-      "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility.md": "535f72327d0c9d85eb6a282e0f97b38e82726a9dc124df7bc004ddc846b8c26f",
-      "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify.md": "2775308c1321ecd3fa17f6cdd0362f14430f5259fb3ca3f5cc0dbd889dc4febf",
-      "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re.md": "e6af0fa0909b0b7ad9506dcab50cfb36e05a3ae93f9b3014b3e708e70d1b2a78",
-      "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo.md": "815dfc8e6f21bc716b0807b2c8e36cbca584b19733d9dff3f235d6291579b72b",
-      "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt.md": "73fb43ce2224acb5e454c1159287ddce0c923cfca12ea91750fac745f49c072f",
       "answers/fixes/how-should-i-request-an-ai-fact-correction-with-a-source-receipt.md": "125c50e46f1ed888e45e64f69d69d10a6118afc6e9ba1ecde2f4baeb209a2a48",
-      "answers/measurement/what-can-search-console-show-about-ai-visibility-queries.md": "e4eeb023e6b4581e9ec4b54384cd2ed26949a4a6ea7c1c7543a49cad02148b01",
+      "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations.md": "682f74a734a563fc43fb6a9ae6a195ccd4f03ce998ccba84de9984dfd40e88b4",
       "answers/geo-basics/what-does-llm-in-ai-mean.md": "3328abbf97f0a5ec354d5edb3df89de5c019ca1861d8459d92cc1ed5afb65ff1",
-      "answers/geo-basics/does-being-named-by-ai-prove-product-quality.md": "06057b234c9c08d77b824b705ba3634586e1987153cc0e829cac0993ea65de2c",
-      "answers/geo-basics/can-ai-search-use-information-from-the-live-web.md": "9050d995c56b8642de3777057051b03ebdb486f5e2169318f760a9bc23645842",
-      "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies.md": "290dfc95ea255afceb67356f97fa010b10a4cd652fdf74c52df328534b1afb8e",
-      "answers/geo-basics/what-does-geo-mean-in-ai-search.md": "408fb950676fbd1acd85629bf21335249254a11caba7b5ea1225a36f06f4a2dd",
-      "answers/measurement/how-can-i-check-ai-search-visibility.md": "30362ee56491ef6f7df811b482176e85bed41643aa492fa13c83159e9fc6a113",
-      "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages.md": "e77fb390794b37262bbfcd31c24dd2e4c7b3a014c6f12e09b3446066e2435a54",
-      "answers/geo-basics/do-brand-name-prompts-measure-discovery.md": "07b4670c11b5c2d27dc5620f062846097654a841eb3fac7ad3ec4a56d6eea12a",
-      "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer.md": "669ed510393d5b9646dc6185624067dd94c3b82c7745ceabc6b0c7c1855afcb7",
-      "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit.md": "ba1ac8419209dd6a33b0e07649184b6d602b8dd5304943e880c5ccd28e00a241",
-      "answers/fixes/what-should-i-include-in-an-llms-txt-file.md": "81671b8c25c77e7a11faef2b621f5c263458a882b4687071a514bc5fbe3ea092",
-      "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence.md": "8a40cb26d14d1e76370811cf9ad53079129945efddd892773ff91d2efde91b34",
-      "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction.md": "0327f05f7e56101056f7f3de0780013ba4a9e90ebd0ba765b8ecc6a315162a18",
-      "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md": "154745882ee75a9572122f9dd7b346b807d384b8a9490d1ee5e536ee3b64b581",
-      "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data.md": "2c69cd2c54d0a9d3fcc631fd4422c03e8d7f50ca7e9344991a6cb3998475ca1c"
+      "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo.md": "815dfc8e6f21bc716b0807b2c8e36cbca584b19733d9dff3f235d6291579b72b",
+      "answers/fixes/is-llms-txt-actually-used.md": "9ae50fc1b371cf796252ef309039dbf71c5ca181e88cd62f09d303380ff165d3",
+      "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md": "154745882ee75a9572122f9dd7b346b807d384b8a9490d1ee5e536ee3b64b581"
     },
     "sitemap_lastmod_policy": "UNCHANGED_EFFECTIVE_PUBLICATION_LASTMOD_V1"
   },
-  "prior_artifact_id": 13228384449,
-  "Root_reviewed_utc": "2026-11-03T12:49:12.988416+00:00",
-  "Root_input_candidate_sha256": "7c0d391c99cc1027a072de80883d82e055083c5da432f589cd9846bb8f21e9f8"
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00",
+  "Root_input_candidate_sha256": "92316657acae5efa675b830c7a30d0f8cdc7ef561d5931aeb200e71b55c1652d",
+  "Root_authorization_map_corrected_utc": "2026-11-03T16:37:05.180422+00:00",
+  "Root_previous_approved_input_sha256": "4bbc6bc35baf41a5e485e54b5576213bb6d5771cb765b7c51534f9ee49db46b0",
+  "Root_Q0641_related_requirement_corrected_utc": "2026-11-03T16:41:49.158731+00:00",
+  "Root_previous_chapter_input_sha256": "d5615c8de9d855d373167e36c75c6da54d68cf4458b75b44a57a188b673cf46c"
 }

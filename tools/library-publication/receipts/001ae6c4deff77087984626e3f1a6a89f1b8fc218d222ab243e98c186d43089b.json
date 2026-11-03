@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/chatgpt/which-dental-software-does-chatgpt-recommend.md",
+  "bank_id": "LB-Q0587",
+  "canonical_source_sha256": "6878473c5818031f1688d49912dddf7496cc52f08db41f76893ec920fdce686a",
+  "effective_canonical_source_sha256": "5e888e6c0c906ccb7c7cfa162485af4f75d69a630dad04d2e0ae59d62e6d029d",
+  "effective_body_sha256": "d2d3c3cf27aa739246dfa2ba8280f4c5c11cf5a2412132c3e894952549fe8b89",
+  "effective_metadata_sha256": "330e8ca71cb15510dffed0c67bdad825f040fab3bc5e455004cf57b595f7a98d",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\chatgpt\\which-dental-software-does-chatgpt-recommend.md",
+    "raw_sha256": "5e888e6c0c906ccb7c7cfa162485af4f75d69a630dad04d2e0ae59d62e6d029d",
+    "canonical_LF_sha256": "5e888e6c0c906ccb7c7cfa162485af4f75d69a630dad04d2e0ae59d62e6d029d"
+  },
+  "reviewed_utc": "2026-11-03T10:38:44.186118+00:00",
+  "full_read_basis": "Actual complete source article read plus exact reviewed bounded/fullfuture continuations; current metadata is verified Rootactualdate-only replay. No new single-pass262reread claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\coverage\\LB-Q0587.source-coverage.json",
+    "raw_sha256": "b72d23ae8e0c471aa32420cc68febcec08734a51e17d1732412ec69f4239f988",
+    "canonical_LF_sha256": "b72d23ae8e0c471aa32420cc68febcec08734a51e17d1732412ec69f4239f988"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00",
+    "scope": "Rootprovided actualprivateadoption, not publicpublication or measuredsourcecapture date."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false
+}

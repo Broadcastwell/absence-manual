@@ -1,19 +1,19 @@
 {
   "approved": true,
   "review_kind": "prior-production-effective-payload",
-  "root_independent_review": "Root read complete new240line PR89 producer and narrow V2/V3 diffs; executed exact originalV3 against saved actual successfulrun/fresh787GET proof and currentmerge tree in two preserved private outputs. All874Gitblobs/338source-render/head/787publicbytes/315retained+11currentpayloads/two52975pairscopes reproduced. Current11PASS270FAIL45DEFERRED,zeroexceptions. Current-production identity only, no new Source/Writing/body/global approval.",
+  "root_independent_review": "Root read the complete original producer and the exact code-only binding diff, then executed exact f3087 twice against actual successful deployment41662611989, merge df78e8e and fresh787 HTTP200 proof08657. Both replays proved all899 Git blobs,338 source/render contexts,326 payload and12 hub identity to actual PR90, both52975 comparisons,23PASS258FAIL45DEFERRED and zero baseline exceptions. Code-only identity approval; no new content, peer, visual or global approval.",
   "actual_served_readback": true,
   "source_render_equality_passed": true,
   "hub_source_render_equality_passed": true,
   "production_binding": {
-    "commit_sha": "2c6fdb75a2f1c494b56f57bf965927d7cd1c477d",
-    "deployment_id": "41634511785",
-    "artifact_sha256": "50679ec2917536b2ead8671adcb731f9e642c94cf3af23e09c6fe4bcefc0d91c",
-    "served_receipt_sha256": "faae87c07d85b092dd9ca5cb4f9ed878e78a5212dbc15b460e23a03fb4b2f929"
+    "commit_sha": "df78e8e47a567b3478f3594fc052d1fd43bb0d70",
+    "deployment_id": "41662611989",
+    "artifact_sha256": "a28ad4251756e7da2440b4756d54baf9f350e66ef7264171593d894b2e10a99a",
+    "served_receipt_sha256": "08657bead039bd8783d7ef615a17540f1882dcc42dfa20875b3e2dca3005447f"
   },
-  "payload_bundle_sha256": "7b5a6193996d6d8ac24eb7d05ea8e555e743c5e2f979d1763903dc7329f37b9b",
+  "payload_bundle_sha256": "26865effa8bb056eb4f4f7741182052ab6a0f6838e77a67b5881b4fc3ed09e96",
   "hub_payload_bundle_sha256": "69a2f4f69c35445a12b80c41b2d765f8c51cd9d62955ac8b0428a57e951d6e13",
-  "compiled_collection_fingerprint": "9f9faa46fc004e691b5ec78b6da0de5e3ee86423c4b2e2989487dd89682dbe20",
+  "compiled_collection_fingerprint": "993f0ac4dde8f5412cbbfe6377d6fae12a5e56386d7f8182f72fd08a081d0fdd",
   "compiled_route_hashes": {
     "/absence-manual-v1.0-2026-08-18.pdf": "91cefee9c96e4005ea00806fe6a80f149b2b42aefdf02c53f9dc0c5700fe358e",
     "/absence-manual.pdf": "91cefee9c96e4005ea00806fe6a80f149b2b42aefdf02c53f9dc0c5700fe358e",
@@ -104,18 +104,18 @@
     "/answers/chatgpt/which-transportation-software-does-chatgpt-recommend/": "ab6cddb433f29a4cb9b4af899786dba0c2f09d4df2972b543ee2d03b78825006",
     "/answers/chatgpt/which-veterinary-software-does-chatgpt-recommend/": "6da673e308f22e184ad8b84093c47135f95e6458c28715bbd8fa88e237c3faad",
     "/answers/claude/": "e09daad14b21078a3c0dd0f3ac4fc67c8c90f65588f05805b67fee322a5a4afa",
-    "/answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t/": "19d591ad79bbca66744cc4179cc138f9c7167c948af154497430deb4256e1fe1",
-    "/answers/claude/how-does-claude-web-search-work/": "b11e57e5e3c80a6102260e82ea5ab2f520f0f299538a9d99f3ed1bc7ce34371f",
-    "/answers/claude/which-construction-software-does-claude-recommend/": "af949f69f1cf190d24231330c56bc53d6d38ae4163eb0e8dd0e492657f024ba6",
-    "/answers/claude/which-crm-software-does-claude-recommend/": "2ef09f818e1e3261ecdb9a8efe8b07b9157f7da1423d7605ba58b09af50bf515",
-    "/answers/claude/which-dealership-software-does-claude-recommend/": "8e243e7eaff5183dd006f13412d24db713a00fcf6bcd00fe04ec225e8f3806ca",
-    "/answers/claude/which-dental-software-does-claude-recommend/": "7b939ebef5f43c02c4f5fdf725c4445160f8e3a84740f6c43b861e58d6672edf",
-    "/answers/claude/which-field-service-software-does-claude-recommend/": "633118d629312523f1eac63398b17ff11b957e27e498c92ada5603cdc218880a",
-    "/answers/claude/which-hotel-software-does-claude-recommend/": "e609adfb430f4cf4550dcbd171763e3ecec7274c1d4b854dde3f1f9096abe974",
-    "/answers/claude/which-insurance-agency-software-does-claude-recommend/": "f216826eb11bc4a98abcf4f801f6a5e07053d32c481158889af5fd5e32a73a56",
-    "/answers/claude/which-legal-practice-software-does-claude-recommend/": "fa372a42835f9f283653c295d2c7e8c18c75fb64635d6e5d65859ab14fbf1df0",
-    "/answers/claude/which-loan-origination-software-does-claude-recommend/": "b1b5c90a8b0b1565f4cbfe0a3284103f5c671043aa2bdd412343d73259e81a46",
-    "/answers/claude/which-project-management-software-does-claude-recommend/": "3b62b5438547ac4d9717cdaf9fb88616284c644e99560faae3ad5b0e154c0c66",
+    "/answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t/": "ce59a022ebb7024ed5b62024d9f0155a339391cef9732ef4f8d8bd0f1e57f24e",
+    "/answers/claude/how-does-claude-web-search-work/": "33d34bacd73bebebb404ed6297d8f59da5da908aa5c9ab3dc79eb70d0b5c1192",
+    "/answers/claude/which-construction-software-does-claude-recommend/": "fd724a3cf63a0b950ecb4f2773415ac4c4a1844e5951f5e34520f6e07c221b22",
+    "/answers/claude/which-crm-software-does-claude-recommend/": "c165d8b7d362e0301c108a2d382c3a972047e0e9dad57e2599766372e4de87ec",
+    "/answers/claude/which-dealership-software-does-claude-recommend/": "e8cd41e8193108791f0f65214c9241149f2b4f81de41692a73dddc2a79ec9d77",
+    "/answers/claude/which-dental-software-does-claude-recommend/": "14e1fecf5b0337c6e634d4bb97f1f223ce11e704568b80953ffb9808d9d1cb55",
+    "/answers/claude/which-field-service-software-does-claude-recommend/": "43e74596aee7967cf0173357fd23011c726234047321f2da59536d9e681e7c45",
+    "/answers/claude/which-hotel-software-does-claude-recommend/": "ea057bfffcef13a756217f93fac33c4d9318a45c0563d45287ee36346b206328",
+    "/answers/claude/which-insurance-agency-software-does-claude-recommend/": "4ef02a7a5b2b3a13f77556fdd8b66612ad359d68aea1d8e088bc441c877b3f15",
+    "/answers/claude/which-legal-practice-software-does-claude-recommend/": "abcf18f545224bb1fef6ed8c04a0df019432916d7d5d00230122167ce61b03c7",
+    "/answers/claude/which-loan-origination-software-does-claude-recommend/": "f311a65fe214b289192a5263c6197e5f9594f5c09340f19bc5cc362222b5e519",
+    "/answers/claude/which-project-management-software-does-claude-recommend/": "119293e967a26989e8208798785d5bb4ca051a6086e14950c7631837f6c82b16",
     "/answers/fixes/": "4f88b19430be6bad36c7ccba83ad62ff3cee9af6c2e8e32a8fe3876050e12449",
     "/answers/fixes/can-google-ai-overview-answers-be-changed/": "7b3514ffa7a53d6e545210ed5a4c93bb6ab9fba59c86e30a8c945602e9da7998",
     "/answers/fixes/does-a-crawler-request-count-as-a-buyer-visit/": "3e1ad1174c617928cc58169c7bc78dcc9eaa491caca7682c9ffa310dbd84e76a",
@@ -356,38 +356,42 @@
     "/answers/perplexity/which-transportation-software-does-perplexity-recommend/": "54263e2d11f5502590da446e2f83a64d395a2dad281e8f178db3102616216fdb",
     "/answers/perplexity/which-veterinary-software-does-perplexity-recommend/": "a7e5ea02039b8ff77eeab716c83977647dd1d497141011dfa1f22da3239faee5",
     "/llms.txt": "35cfd635a7bd547bdf7c16fe2a62a29c453133f5c76e7bcacbbc9f54d23ec1a7",
-    "/search/search_index.json": "52a6cd56f817d60f0006d66c208ec4f0e5357b931fdc1539b829573b21adfe72",
+    "/search/search_index.json": "cd82b57f49a0dd7c48ddd5de8bc9d0caae2c495e2b39accfe817272eb297819b",
     "/sitemap.xml": "1df82f071ceb1d624443b21d89c866ff79147a5f90ad8ee1255432cdb6724736",
     "/sitemap.xml.gz": "17a0282b047a524ca60381d5a3589c187d1a1ab3b195293aec3c0dbf029f3be1"
   },
   "mechanical_proof": {
     "actual_production_receipt": {
-      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_PERPLEXITY11_RELEASE\\PR89_REVIEW\\production-file-comparison.json",
-      "sha256": "faae87c07d85b092dd9ca5cb4f9ed878e78a5212dbc15b460e23a03fb4b2f929"
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\HUB_DATE_IDENTITY_FIX\\PR91_REVIEW\\production-file-comparison.json",
+      "sha256": "08657bead039bd8783d7ef615a17540f1882dcc42dfa20875b3e2dca3005447f"
     },
     "actual_deployment_run": {
-      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_PERPLEXITY11_RELEASE\\PR89_REVIEW\\production-run.json",
-      "sha256": "4b4ccff5ab23195ca4d14faf21a384e21ccaf7e737d795d06294c796973288d6"
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\HUB_DATE_IDENTITY_FIX\\PR91_REVIEW\\production-run.json",
+      "sha256": "0dbeb667aecf4e9a3743b67778b4abc54d02e474cb87f173eeb810053ffe5c1a"
     },
     "official_preview": {
-      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_PERPLEXITY11_RELEASE\\PR89_REVIEW\\preview.zip",
-      "sha256": "50679ec2917536b2ead8671adcb731f9e642c94cf3af23e09c6fe4bcefc0d91c"
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\HUB_DATE_IDENTITY_FIX\\PR91_REVIEW\\preview.zip",
+      "sha256": "a28ad4251756e7da2440b4756d54baf9f350e66ef7264171593d894b2e10a99a"
     },
     "exact_Git_archive": {
-      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\ACTUAL326_PR89_PRIOR_PRODUCTION\\snapshot-root-approved-replay-20261103\\exact-source-27a5de5.gitLF.zip",
-      "sha256": "28a2c358eb9a21747fe14e0086690fa789c215bfa40738e5c59673111d386bf4"
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\ACTUAL326_POST_HUB_DATE_CODE_IDENTITY_PRIOR_PRODUCTION\\root-r2\\exact-source-7fde74e.gitLF.zip",
+      "sha256": "945c761c246d938c5965ba32fae3ac46ae9784f965189660ae6b1166b4459704"
     },
-    "source_head": "27a5de59a86b446e5fabf9eef312e8cca3c89fb0",
-    "source_tree": "5873c6d445e591d600febc80df8903c7940ef433",
-    "Git_blob_members": 874,
+    "source_head": "7fde74ef1193cdaee3f21335d7c59c59770038f1",
+    "source_tree": "a72e4b2fedaa5009d28c5b379d6f077478d95ccd",
+    "Git_blob_members": 899,
     "public787_proven": true,
     "source_render338_proven": true,
-    "unchanged315_payloads_exact": true,
-    "current11_payloads_exact": true,
+    "unchanged314_payloads_exact": true,
+    "current12_payloads_exact": true,
+    "all326_current_PR90_payloads_peerIDs_exact": true,
+    "all787_current_PR90_publicbytes_exact": true,
+    "code_only_identity_change": true,
+    "previous11_PASS_payloads_peerIDs_exact": true,
     "both52975_recomputed": true,
     "field45_HTML_assets5_XML45_exact": true
   },
-  "scope": "Source-owned candidate producer, approvalFALSE;11PASS270FAIL45DEFERRED, zero baseline exceptions. No new body/visual/global approval.",
-  "Root_reviewed_utc": "2026-11-03T12:36:02.457798+00:00",
-  "Root_executed_producer_sha256": "e4574268d18669425fb83e7d038f3ff815dd9e9a598eee5700e4a68d8b5fe1ef"
+  "scope": "Source-owned candidate producer, approvalFALSE;23PASS258FAIL45DEFERRED, zero baseline exceptions. No new body/visual/global approval.",
+  "Root_reviewed_utc": "2026-11-03T15:24:34.289827+00:00",
+  "Root_executed_producer_sha256": "f3087b14f44ad36462f55005a0ff682445e24eb4165e3758a4608c57b6195f65"
 }

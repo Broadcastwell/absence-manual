@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0641",
+  "path": "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+  "canonical_source_sha256": "e1d30e75db7b16afbfcfc8ae0a2d541b3037cbf41692d657fdb3d079d4902dd5",
+  "effective_canonical_source_sha256": "fd71d359f5f4a7a92a3d4b34e389630fd0cd0cef9a9b40acf7dfd80550d164dc",
+  "effective_body_sha256": "99df9d00b12f53de3e51bff20e3125c9244e1a564eb98e3d37a5bb827161d306",
+  "effective_metadata_sha256": "1919ce62504f10548546d7462c26886205fb5385b7c3e48f3088b32d4a3dc39e",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DESTINATION_TWO_ADOPTED_2026-11-03\\manuscripts\\answers\\fixes\\how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+    "raw_sha256": "fd71d359f5f4a7a92a3d4b34e389630fd0cd0cef9a9b40acf7dfd80550d164dc",
+    "canonical_LF_sha256": "fd71d359f5f4a7a92a3d4b34e389630fd0cd0cef9a9b40acf7dfd80550d164dc"
+  },
+  "review_basis": "Actual complete restored-reference proposed body read at09abf168 plus exact independently checked Rootdate-only metadata continuation; prior full/selected-delta evidence retained.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_DESTINATION_TWO_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0641.writing-destination-date-coverage.json",
+    "raw_sha256": "0637bdb4b5b391074d45d85c33854a343a981b8b78468cd5a4ff6c6c41950346",
+    "canonical_LF_sha256": "0637bdb4b5b391074d45d85c33854a343a981b8b78468cd5a4ff6c6c41950346"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DESTINATION_TWO_ADOPTED_2026-11-03\\ROOT_TWO_ADOPTION.json",
+      "raw_sha256": "89f032bd4d7fd552f181d9e0f4f9e1d4094e3b82b930ac8b7fd33161787cd0cd",
+      "canonical_LF_sha256": "e66aa1761eb9ddfc07a911841c7f64c859ed0e6ac349381b6c436d6c0ff92f4a"
+    },
+    "date_modified": "2026-11-03T13:33:57+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Source, qualitative bindings, collection/code, visuals, actual publication and indexing remain separate.",
+  "publication_or_global_approved": false
+}

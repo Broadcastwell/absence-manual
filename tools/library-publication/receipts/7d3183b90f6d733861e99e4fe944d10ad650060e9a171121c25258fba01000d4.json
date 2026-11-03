@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/chatgpt/which-dental-software-does-chatgpt-recommend.md",
+  "before_effective_canonical_sha256": "a42f789baf0c60d258323d61b1f6eaf0aaf4fd3f914cac83ad993211624d36b9",
+  "raw_canonical_source_sha256": "6878473c5818031f1688d49912dddf7496cc52f08db41f76893ec920fdce686a",
+  "after_effective_canonical_sha256": "5e888e6c0c906ccb7c7cfa162485af4f75d69a630dad04d2e0ae59d62e6d029d",
+  "fact_ledger_sha256": "5d1b2f641216a1cd67782296ae5aecb213180078725f546b28bfb88522487920",
+  "effective_payload_sha256": "c89b69bffebbdacb8dae702798e6de30d077806bb39bbcf7868b09611c60f0b6",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

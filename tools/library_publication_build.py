@@ -8,6 +8,8 @@ import argparse,copy,importlib.util,json,os,re,sys
 from pathlib import Path
 from types import SimpleNamespace
 import zipfile
+from mkdocs.structure.files import InclusionLevel
+from mkdocs.structure.pages import Page
 
 from library_publication_overlay import (read_bound_json,sha,canonical,FiniteStage,
     source_head,require,HEX)
@@ -40,6 +42,29 @@ def safe_navigation_label(label):
     return label
 
 
+class LegacyNavigationPage(Page):
+    """A historical label view; the actual document Page remains current."""
+    def __init__(self,page,label):
+        object.__setattr__(self,'_page',page)
+        object.__setattr__(self,'_label',label)
+
+    @property
+    def title(self):return self._label
+
+    def __getattribute__(self,name):
+        if name in {'_page','_label','title','__eq__','__ne__','__hash__'}:
+            return object.__getattribute__(self,name)
+        return getattr(object.__getattribute__(self,'_page'),name)
+
+    def __setattr__(self,name,value):
+        require(name!='title','Historical navigation label is fixed')
+        setattr(self._page,name,value)
+
+    def __eq__(self,other):return self._page is getattr(other,'_page',other)
+    def __ne__(self,other):return not self==other
+    __hash__=None
+
+
 def retain_legacy_navigation(nav,files,overlay,aliases):
     """Fixed historic question aliases prevent a hidden site-wide title delta.
 
@@ -48,7 +73,7 @@ def retain_legacy_navigation(nav,files,overlay,aliases):
     """
     known=set(overlay.leaf_manifest['pages']);retired=getattr(overlay,'merge_statuses',{})
     require(set(aliases)<=known,'Legacy alias map names a nonlibrary/unknown raw leaf')
-    dropped=set()
+    dropped=set();views={}
     for page in nav.pages:
         rel=page.file.src_uri
         if rel not in known:continue
@@ -59,23 +84,40 @@ def retain_legacy_navigation(nav,files,overlay,aliases):
             record=overlay.records[retired[rel]['target_path']]
         if label!=record['meta']['title']:
             require(label in record['meta'].get('also_asked_as',[]) and label in record['body'],'Legacy question label is not a visible retained alias')
-        page.title=label
+            views[id(page)]=LegacyNavigationPage(page,label)
+        else:page.title=label
     def prune(items):
         result=[]
         for item in items:
             if id(item) in dropped:continue
             if getattr(item,'children',None) is not None:item.children=prune(item.children)
-            result.append(item)
+            result.append(views.get(id(item),item))
         return result
-    if dropped:
-        nav.items=prune(nav.items);nav.pages=[p for p in nav.pages if id(p) not in dropped]
-        for i,page in enumerate(nav.pages):
-            page.previous_page=nav.pages[i-1] if i else None
-            page.next_page=nav.pages[i+1] if i+1<len(nav.pages) else None
+    if dropped or views:
+        nav.items=prune(nav.items)
+        nav.pages=[views.get(id(p),p) for p in nav.pages if id(p) not in dropped]
+        if dropped:
+            for i,page in enumerate(nav.pages):
+                page.previous_page=nav.pages[i-1] if i else None
+                page.next_page=nav.pages[i+1] if i+1<len(nav.pages) else None
+        else:
+            for page in nav.pages:
+                page.previous_page=views.get(id(page.previous_page),page.previous_page)
+                page.next_page=views.get(id(page.next_page),page.next_page)
+        if getattr(nav,'homepage',None) is not None:
+            nav.homepage=views.get(id(nav.homepage),nav.homepage)
+    if views:
+        # Omitted navigation leaves are still real compiled pages. Preserve
+        # their historical neighbor labels without adding them back to nav.
+        for file in files:
+            page=getattr(file,'page',None)
+            if page is None:continue
+            page.previous_page=views.get(id(page.previous_page),page.previous_page)
+            page.next_page=views.get(id(page.next_page),page.next_page)
     present={getattr(f,'src_uri',getattr(f,'src_path',None)):f for f in files}
     for source in retired:
         require(source in present,'Retired raw source missing from build Files')
-        files.remove(present[source])
+        present[source].inclusion=InclusionLevel.EXCLUDED
     return nav
 
 
@@ -182,10 +224,10 @@ class BuildSession:
             field=self.overlay._field_handoff
             require((field.read_bytes() if field.exists() else None)==self.overlay._field_stamp,'Field handoff changed during preview render')
             require(sha(markdown.encode())==record['post_finite94_body_sha256'],'Hook stage is not the exact finite94 output')
-            page.meta=copy.deepcopy(record['meta'])
+            page.meta=copy.deepcopy(record['meta']);page.title=page.meta['title']
             return record['body']
         if rel in self.hubs:
-            page.meta=copy.deepcopy(self.hubs[rel]['meta']);return self.hubs[rel]['body']
+            page.meta=copy.deepcopy(self.hubs[rel]['meta']);page.title=page.meta['title'];return self.hubs[rel]['body']
         require(rel not in self.overlay.merge_statuses,'Retired source reached article rendering')
         return markdown
 

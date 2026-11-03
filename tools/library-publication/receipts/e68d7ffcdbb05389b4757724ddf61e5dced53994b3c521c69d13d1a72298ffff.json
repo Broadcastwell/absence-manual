@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0631",
+  "path": "answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include.md",
+  "canonical_source_sha256": "bd718a7d7cd0caf6ad252b9414f49a5c68e8589d2579e772dffdd402d70ab3b3",
+  "effective_canonical_source_sha256": "2eb211a82bedcbe81d041a77e0f21db1ffad319e55846756cf8870d4966cfd23",
+  "effective_body_sha256": "b6220305e47f689f3821c5f7022b537c74621b625c04e434f29e2f6b2b27c04b",
+  "effective_metadata_sha256": "faaf80490d59348e5f0e1f2146bde499ca2eb3ad92bc73f476ac3675b825544d",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\buying\\what-evidence-should-an-ai-factual-accuracy-alert-include.md",
+    "raw_sha256": "2eb211a82bedcbe81d041a77e0f21db1ffad319e55846756cf8870d4966cfd23",
+    "canonical_LF_sha256": "2eb211a82bedcbe81d041a77e0f21db1ffad319e55846756cf8870d4966cfd23"
+  },
+  "review_basis": "Actual original full-page or full merged/primary-target reading plus all exact selected bounded continuations, neutral footer replay and independently verified Root metadata-date-only change.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0631.writing-coverage.json",
+    "raw_sha256": "083ecc0a7af5f2fad0dc94c092dcb63831d39efdd3a5e2357e291ae41e058b58",
+    "canonical_LF_sha256": "083ecc0a7af5f2fad0dc94c092dcb63831d39efdd3a5e2357e291ae41e058b58"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false
+}

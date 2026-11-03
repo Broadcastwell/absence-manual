@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare.md",
+  "before_effective_canonical_sha256": "df76e9c996a4dfcd904745e1534deb44effb6281d4f9710cd3b66dc02b39f332",
+  "raw_canonical_source_sha256": "a6e4f3975ed70799c981d5d543a898f2558b32e95995f1b37261ba38239a5ab9",
+  "after_effective_canonical_sha256": "7bb53c14d2155e2cb3b3010286a6980375f05684c7ce050bd754677d9979227a",
+  "fact_ledger_sha256": "593709eb866f66a53000135fcc648e091a77441a4929f6886f4cb8c19b0b0703",
+  "effective_payload_sha256": "7fd7e331006c00cd76f0a75b5f5d4c8652e267a645f60c2c7a7aa7fc32c8cb37",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}
