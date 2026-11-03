@@ -24,6 +24,11 @@ except ModuleNotFoundError:
         SCOPED_METHOD_LABEL, LIMIT_SENTENCE, leaf_answers, paragraph_after_heading,
         plain_text, resolve_local_link, split_markdown)
 
+try:
+    from tools.library_company_panel import KIND as COMPANY_PANEL_KIND, validate_annotation as validate_company_annotation
+except ModuleNotFoundError:
+    from library_company_panel import KIND as COMPANY_PANEL_KIND, validate_annotation as validate_company_annotation
+
 ROOT = Path(__file__).resolve().parents[1]
 # Filled only after the independently audited150-leaf snapshot is frozen.
 FROZEN_WAVE_ONE_SNAPSHOT_SHA256 = '1caaae45e7ee80e0ac23a84cb17754bd9c3c0a0e136f7a417d46380f2ad7f7a2'
@@ -35,7 +40,8 @@ HTML_LINK = re.compile(r'<a\b[^>]*>.*?</a>', re.I|re.S)
 HEX = re.compile(r'[0-9a-f]{64}')
 METADATA_FIELDS = {'schema_version','shape_definitions','cluster_plans','figures','pages','index_question_titles'}
 PAGE_FIELDS = {'bank_id','source_sha256','opening_sha256','opening_shape','classification_reason',
-               'canonical_source_sha256','writing_review_sha256','source_review_sha256','lead_figures','lead_figure_spans'}
+               'canonical_source_sha256','writing_review_sha256','source_review_sha256','lead_figures','lead_figure_spans',
+               'lead_observations','lead_observation_spans'}
 FIGURE_FIELDS = {'source_url','record','count','base','unit','label','source_review_sha256'}
 
 
@@ -293,10 +299,20 @@ def analyze(pages, annotations, orders, references, docs):
             row = fact('lead_figure_limit', paths, figure=figure, count=len(paths))
             row['key'] = 'lead_figure_limit:'+figure
             violations.append(row)
+    observation_pages = defaultdict(list)
+    for rel, note in annotations.items():
+        for observation in set(note.get('lead_observations', [])):
+            observation_pages[observation].append(rel)
+    for observation, paths in sorted(observation_pages.items()):
+        if len(paths) > 3:
+            row = fact('lead_observation_limit', paths, observation=observation, count=len(paths))
+            row['key'] = 'lead_observation_limit:'+observation
+            violations.append(row)
     violations.extend(uniqueness(pages,docs,references))
     return {'violations':violations, 'highest_pair_per_cluster':highest,
             'highest_within_cluster_pair':within, 'opening_distributions':shapes,
-            'lead_figure_pages':dict(sorted(figure_pages.items()))}
+            'lead_figure_pages':dict(sorted(figure_pages.items())),
+            'lead_observation_pages':dict(sorted(observation_pages.items()))}
 
 
 def validate_annotations(pages, metadata):
@@ -332,7 +348,11 @@ def validate_annotations(pages, metadata):
         require(note.get('opening_sha256')==p['opening_sha256'], rel+': opening changed after human classification')
         require(note.get('opening_shape') in plans[p['cluster']], rel+': shape is outside the actual cluster plan')
         require(note.get('classification_reason') and HEX.fullmatch(note.get('writing_review_sha256','')), rel+': independent human shape reason/receipt missing')
-        require(isinstance(note.get('lead_figures'),list) and note['lead_figures'], rel+': no independently identified lead figure')
+        if p['meta'].get('evidence_kind') == COMPANY_PANEL_KIND:
+            validate_company_annotation(p, note, figures, figure_key)
+        else:
+            require(not note.get('lead_observations') and not note.get('lead_observation_spans'), rel+': qualitative allowance is restricted to the exact six company-panel cases')
+            require(isinstance(note.get('lead_figures'),list) and note['lead_figures'], rel+': no independently identified lead figure')
         require(len(set(note['lead_figures']))==len(note['lead_figures']), rel+': duplicate lead fact on the same page')
         require(set(note['lead_figures'])<=set(figures), rel+': unknown lead figure')
         spans = note.get('lead_figure_spans')
@@ -415,7 +435,7 @@ def run(docs, metadata, baseline, trusted_snapshot_sha256=FROZEN_WAVE_ONE_SNAPSH
     result['policy'] = {'six_word_sequences':'sets; intersection divided by smaller set; strictly greater than1/5 fails',
         'opening_eight_word_sequences':'any shared normalized sequence fails',
         'opening_shapes':'independently reviewed; actual hub order; eight planned shapes separate from actual distribution',
-        'figure_limit':3,'frozen_snapshot_sha256':trusted_snapshot_sha256,'frozen_baseline_sha256':trusted_baseline_sha256,
+        'figure_limit':3,'qualitative_observation_limit':3,'frozen_snapshot_sha256':trusted_snapshot_sha256,'frozen_baseline_sha256':trusted_baseline_sha256,
         'new_page_exceptions':0}
     return result
 

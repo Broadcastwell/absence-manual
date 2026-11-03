@@ -1,0 +1,1689 @@
+{
+  "schema_version": 1,
+  "evidence_kind": "published-company-panel",
+  "source_url": "https://index.broadcastwell.com/php2shell/",
+  "method_url": "https://index.broadcastwell.com/php2shell/#faq",
+  "method_label": "Company-panel grades and dated records.",
+  "public_source_sha256": {
+    "https://index.broadcastwell.com/php2shell/data/ai-answers.json": "0026e2318308be9f6ae19a378ceb80d2a94d89a0c8f840e290665cf3bf005302",
+    "https://index.broadcastwell.com/php2shell/data/statements.json": "aa7c04950da978381e6ef57dcf8382aa28d2c262be25a4996e7ac75315cb61d9"
+  },
+  "method_snapshot_sha256": "d6bf7918f18c8aabb12b26a047c6dc9269b77f31dcbca48fa9a64733d53bbb40",
+  "scope": "Six exact historical company-panel readings of published excerpts, cited addresses and independently dated statement records. Original grades retained; no complete-transcript, general-study, current security or retrieval-success inference.",
+  "answer_records": {
+    "bluehost|ChatGPT|2026-10-23T01:44:55.495Z": {
+      "record_key": "bluehost|ChatGPT|2026-10-23T01:44:55.495Z",
+      "company_slug": "bluehost",
+      "engine": "ChatGPT",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/bluehost/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "03bd85e8dbf624a0c45a56817d75b175a70931ac528e7b7b3231c35f898f6256",
+      "excerpt": "Bluehost is treating these CVEs as affecting its hosting infrastructure and has patched the majority of its systems—but has not confirmed a complete rollout. As checked on October 23, 2026, its latest posted update is October 22 at 18:15 (labeled “EST” by Bluehost). It says patched PHP builds are still being deployed to the remaining infrastructure. Bluehost’s official “PHP",
+      "cited_urls": [
+        "https://www.bluehost.com/status/announcement/271"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "bluehost|Claude|2026-10-23T01:44:55.495Z": {
+      "record_key": "bluehost|Claude|2026-10-23T01:44:55.495Z",
+      "company_slug": "bluehost",
+      "engine": "Claude",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/bluehost/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "cbd7e2528ae38609746b7341473aa17eac26a78453a8ef967588dc91e9a17da1",
+      "excerpt": "Based on thorough searching across multiple security sources, there is no public statement, advisory, or announcement from Bluehost specifically addressing PHP2Shell (CVE-2026-109618 and CVE-2026-109619). No security researcher, vendor bulletin, or news outlet has published information confirming whether Bluehost has patched or even formally acknowledged these vulnerabilities at this time. Here is what is known about the vulnerabilities themselves, and",
+      "cited_urls": [
+        "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
+        "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/",
+        "https://sansec.io/research/php2shell",
+        "https://socradar.io/blog/php2shell-cve-2026-109618-cve-2026-109619/",
+        "https://cve.tools/blog/php2shell-cve-2026-109618-cve-2026-109619",
+        "https://www.abstract.security/blog/php2shell-critical-php-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619"
+      ],
+      "original_grade": "contradiction",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "bluehost|Perplexity|2026-10-23T01:44:55.495Z": {
+      "record_key": "bluehost|Perplexity|2026-10-23T01:44:55.495Z",
+      "company_slug": "bluehost",
+      "engine": "Perplexity",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/bluehost/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "9750c82c8e0d79c1776da874f463f1de1407c4ee59541c42ca9537b9b6c69c6d",
+      "excerpt": "Yes—Bluehost is potentially affected wherever it hosts websites running vulnerable PHP versions. PHP2Shell affects the PHP runtime itself, not a particular CMS or hosting brand; vulnerable versions include PHP 8.2.0–8.2.34, 8.3.0–8.3.35, 8.4.0–8.4.26, and 8.5.0–8.5.11. The PHP fixes were released on October 21, 2026, in PHP 8.2.35, 8.3.36, 8.4.27, and 8.5.12. However, no reliable public Bluehost statement confirming that all",
+      "cited_urls": [
+        "https://censys.com/advisory/cve-2026-109618-cve-2026-109619/",
+        "https://www.uvcyber.com/resources/threat-advisories/threat-advisory-critical-php2shell-vulnerabilities",
+        "https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-php2shell-pre-auth-rce",
+        "https://github.com/NCSC-NL/php2shell",
+        "https://www.namecheap.com/status-updates/ongoing-php-security-vulnerability-affecting-hosting-services-october-21-2026/",
+        "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+        "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
+        "https://sansec.io/research/php2shell",
+        "https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates",
+        "https://github.com/NCSC-NL/php2shell/blob/main/README.md"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "bluehost|Google AI Overviews|2026-10-23T01:44:55.495Z": {
+      "record_key": "bluehost|Google AI Overviews|2026-10-23T01:44:55.495Z",
+      "company_slug": "bluehost",
+      "engine": "Google AI Overviews",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/bluehost/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "aa4a89254c6ad7b36f8792885c0d71c61e8d99c6b1af16c67968a710739b1923",
+      "excerpt": "Bluehost was affected by the PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619), and the hosting provider has rolled out patches across the majority of its infrastructure. Status and Patching Details Impact: Bluehost platforms running unpatched PHP versions inherit the risk of the critical remote code execution (RCE) flaws (CVSS 9.2). Patch Status: Bluehost has made significant progress deploying patched PHP builds",
+      "cited_urls": [
+        "https://www.bluehost.com/status/announcement/271",
+        "https://www.sophos.com/en-us/security-advisories/sophos-sa-20261021-php2shell",
+        "https://www.clarin.com/us-news/php-vulnerability-2026-explained-what-happened-with-php2shell-how-it-affects-millions-of-sites-and-what-precautions-you-must-take_0_mIsl8QvvI4.html"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "bluehost|Google AI Mode|2026-10-23T01:44:55.495Z": {
+      "record_key": "bluehost|Google AI Mode|2026-10-23T01:44:55.495Z",
+      "company_slug": "bluehost",
+      "engine": "Google AI Mode",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/bluehost/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "42aa0ab3d8fb1f0f23d2f53c56a5b18b2e597db0f72f4d7f60cf4c738753ccf3",
+      "excerpt": "Yes, Bluehost's hosting infrastructure is affected by the PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619), which impact underlying PHP core runtimes globally. Patch Status In Progress / Partially Patched: Bluehost's teams have been actively rolling out patched PHP builds across their hosting infrastructure. As of their latest updates, the majority of their shared and managed platforms have been updated, though deployment",
+      "cited_urls": [
+        "https://www.tanium.com/blog/php2shell-responding-to-cve-2026-109618-and-cve-2026-109619",
+        "https://www.bluehost.com/status/announcement/271",
+        "https://www.zscaler.com/blogs/security-research/cve-2026-109618-and-cve-2026-109619-php-vulnerable-unauthenticated-rce",
+        "https://www.huntress.com/blog/php2shell-leaked-critical-php-vulnerabilities"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "hostgator|ChatGPT|2026-10-23T01:44:55.495Z": {
+      "record_key": "hostgator|ChatGPT|2026-10-23T01:44:55.495Z",
+      "company_slug": "hostgator",
+      "engine": "ChatGPT",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostgator/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "1a3738a09315ad51416d99b35678678667da49bc142bd305a8fb6a1073cc2495",
+      "excerpt": "Yes—HostGator has affected PHP infrastructure and has patched most, but has not confirmed that all servers are patched. As of October 23, 2026, its latest official update is October 22 at 18:15 (labeled “est” on its page): deployment continues on remaining infrastructure, with the majority up to date. Its earlier update explicitly identifies CVE-2026-109618 and CVE-2026-109619. Source: HostGator’s official",
+      "cited_urls": [
+        "https://www.hostgator.com/status/announcement/277"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "hostgator|Claude|2026-10-23T01:44:55.495Z": {
+      "record_key": "hostgator|Claude|2026-10-23T01:44:55.495Z",
+      "company_slug": "hostgator",
+      "engine": "Claude",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostgator/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "605fb691975418dff1ad556e5eedd0bc04c2ab2e10b0597d89eeb9104b6585b5",
+      "excerpt": "Based on my thorough search of available sources, I was unable to find any public statement, advisory, or announcement specifically from or about HostGator regarding PHP2Shell (CVE-2026-109618 and CVE-2026-109619). No security bulletin, blog post, or third-party report mentioning HostGator's specific response to these CVEs appeared in any search results. Here is what is known about the vulnerabilities themselves and",
+      "cited_urls": [
+        "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
+        "https://www.abstract.security/blog/php2shell-critical-php-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619",
+        "https://sansec.io/research/php2shell",
+        "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/",
+        "https://www.tanium.com/blog/php2shell-responding-to-cve-2026-109618-and-cve-2026-109619",
+        "https://hadrian.io/vulnerability-alerts/php2shell-leaked-critical-php-rce-cve-2026-109618-cve-2026-109619"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "hostgator|Perplexity|2026-10-23T01:44:55.495Z": {
+      "record_key": "hostgator|Perplexity|2026-10-23T01:44:55.495Z",
+      "company_slug": "hostgator",
+      "engine": "Perplexity",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostgator/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "0f71aaab5654ae107260af7f4a0eee463499e1a63fccc69fb84f59db450fb5d6",
+      "excerpt": "HostGator’s status is not publicly confirmed in the available sources. Since PHP2Shell affects the PHP engine itself, HostGator would be affected wherever its shared, reseller, VPS, or dedicated hosting servers run an unpatched PHP version; the vulnerabilities affect PHP installations serving web requests, including PHP-FPM and Apache/mod_php. PHP released fixes on October 21, 2026, in PHP 8.2.35, 8.3.36, 8.4.27,",
+      "cited_urls": [
+        "https://github.com/NCSC-NL/php2shell",
+        "https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-php2shell-pre-auth-rce",
+        "https://censys.com/advisory/cve-2026-109618-cve-2026-109619/",
+        "https://www.uvcyber.com/resources/threat-advisories/threat-advisory-critical-php2shell-vulnerabilities",
+        "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
+        "https://sansec.io/research/php2shell",
+        "https://en.wikipedia.org/wiki/PHP2Shell",
+        "https://github.com/NCSC-NL/php2shell/blob/main/README.md",
+        "https://www.namecheap.com/status-updates/ongoing-php-security-vulnerability-affecting-hosting-services-october-21-2026/",
+        "https://github.com/NCSC-NL/php2shell/blob/main/software/software_list_c.md"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "hostgator|Google AI Overviews|2026-10-23T01:44:55.495Z": {
+      "record_key": "hostgator|Google AI Overviews|2026-10-23T01:44:55.495Z",
+      "company_slug": "hostgator",
+      "engine": "Google AI Overviews",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostgator/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "5426ddcc9f07eb368953ec355a9ee6876969e8b9f926dbe78aca73e070017207",
+      "excerpt": "HostGator was affected by the PHP2Shell remote code execution vulnerabilities (CVE-2026-109618 and CVE-2026-109619), and HostGator has been rolling out patches across its hosting infrastructure. Status & Details Impact: HostGator's infrastructure runs on PHP environments affected by the core runtime flaws in CVE-2026-109618 and CVE-2026-109619. Patch Status: HostGator stated that its teams have made significant progress deploying patched PHP builds",
+      "cited_urls": [
+        "https://www.hostgator.com/status/announcement/277",
+        "https://www.zscaler.com/blogs/security-research/cve-2026-109618-and-cve-2026-109619-php-vulnerable-unauthenticated-rce"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "hostgator|Google AI Mode|2026-10-23T01:44:55.495Z": {
+      "record_key": "hostgator|Google AI Mode|2026-10-23T01:44:55.495Z",
+      "company_slug": "hostgator",
+      "engine": "Google AI Mode",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostgator/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "4968113696450908f7e9067a4338a4084561d5372495e4929e88c7e79fc862bc",
+      "excerpt": "Impact Status: Yes, HostGator's hosting infrastructure utilizing vulnerable PHP builds was affected by the PHP2Shell remote code execution vulnerabilities (CVE-2026-109618 and CVE-2026-109619). Patch Status: HostGator's teams have made significant progress and the majority of their shared and managed hosting platforms are now up-to-date with patched PHP builds, while rollout across remaining infrastructure continues. Source: Official updates and deployment tracking",
+      "cited_urls": [
+        "https://watchtowr.com/intelligence/php-cve-2026-109618-faq/",
+        "https://www.hostgator.com/status/announcement/277"
+      ],
+      "original_grade": "no status named",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "dreamhost|ChatGPT|2026-10-23T01:44:55.495Z": {
+      "record_key": "dreamhost|ChatGPT|2026-10-23T01:44:55.495Z",
+      "company_slug": "dreamhost",
+      "engine": "ChatGPT",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/dreamhost/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "91d8b056f47374f629b3078cf2d2f2e7e058ffd166b4993ca0ffac4d6bf452cd",
+      "excerpt": "Yes—DreamHost treated its PHP hosting infrastructure as affected, and says patching is complete. As of October 23, 2026, its latest official update reports that PHP security updates have been deployed across its entire network. The incident covers shared hosting, Managed VPS, DreamPress, and dedicated hosting. DreamHost’s timeline: October 21: Protections were in place, followed by rollout of the official",
+      "cited_urls": [
+        "https://www.dreamhoststatus.com/pages/incident/575f0f606826303142000510/6ad8c218a7031204d4ca2981"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "dreamhost|Claude|2026-10-23T01:44:55.495Z": {
+      "record_key": "dreamhost|Claude|2026-10-23T01:44:55.495Z",
+      "company_slug": "dreamhost",
+      "engine": "Claude",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/dreamhost/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "655bca07a61a231d28e29d08fb8019b051bd2ffe23ce0fe2ddb4e05c412a301c",
+      "excerpt": "Based on my thorough search of available sources, I found extensive information about PHP2Shell (CVE-2026-109618 and CVE-2026-109619), but no public statement, advisory, blog post, or announcement from DreamHost specifically addressing these vulnerabilities has appeared in any search results. Here is a full breakdown of what is known: ⚠️ DreamHost — No Public Statement Found There is no publicly available",
+      "cited_urls": [
+        "https://www.tanium.com/blog/php2shell-responding-to-cve-2026-109618-and-cve-2026-109619",
+        "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
+        "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/",
+        "https://en.wikipedia.org/wiki/PHP2Shell",
+        "https://socradar.io/blog/php2shell-cve-2026-109618-cve-2026-109619/",
+        "https://brandefense.io/blog/php2shell-php-rce-cve-2026-109618-109619/",
+        "https://watchtowr.com/intelligence/php-remote-code-execution-php2shell/"
+      ],
+      "original_grade": "contradiction",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "dreamhost|Perplexity|2026-10-23T01:44:55.495Z": {
+      "record_key": "dreamhost|Perplexity|2026-10-23T01:44:55.495Z",
+      "company_slug": "dreamhost",
+      "engine": "Perplexity",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/dreamhost/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "71eb8f0df498758373e29cac9a1289b55fa0007da6a2f50b1b43c84bec52b980",
+      "excerpt": "Yes—DreamHost was affected because its servers run PHP, and PHP2Shell affected all PHP installations serving web requests. DreamHost reportedly said it was rolling out PHP’s fix across all servers, while blocking known attack paths in the interim, as of October 21, 2026. The available report does not confirm that the rollout was fully completed; it says only that deployment",
+      "cited_urls": [
+        "https://tjrobertson.com/php-security-update-wordpress/",
+        "https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-php2shell-pre-auth-rce",
+        "https://github.com/NCSC-NL/php2shell",
+        "https://www.uvcyber.com/resources/threat-advisories/threat-advisory-critical-php2shell-vulnerabilities",
+        "https://censys.com/advisory/cve-2026-109618-cve-2026-109619/",
+        "https://sansec.io/research/php2shell",
+        "https://en.wikipedia.org/wiki/PHP2Shell",
+        "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+        "https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates",
+        "https://github.com/NCSC-NL/php2shell/blob/main/README.md"
+      ],
+      "original_grade": "match",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "dreamhost|Google AI Overviews|2026-10-23T01:44:55.495Z": {
+      "record_key": "dreamhost|Google AI Overviews|2026-10-23T01:44:55.495Z",
+      "company_slug": "dreamhost",
+      "engine": "Google AI Overviews",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/dreamhost/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "12945ffcf2bdbae5aaa0ce61477a08c1f917f9f1f67f69bf2a6d861d5493e913",
+      "excerpt": "DreamHost is affected by the PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619), and the provider is actively rolling out fixes across its network while deploying temporary firewall protections. Affected Status: DreamHost servers and shared hosting environments initially ran unpatched PHP runtimes. Patch Progress: DreamHost reported that the fixed PHP builds were rolling out to the bulk of its network, with final",
+      "cited_urls": [
+        "https://www.codeable.io/blog/php-vulnerability-cve-2026-109618/",
+        "https://meowapps.com/php2shell-wordpress/",
+        "https://www.reddit.com/r/dreamhost/comments/1xbrnzy/what_is_the_dreamhost_doing_about_the_recent_php/",
+        "https://mjtsai.com/blog/2026/10/21/php2shell/"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "dreamhost|Google AI Mode|2026-10-23T01:44:55.495Z": {
+      "record_key": "dreamhost|Google AI Mode|2026-10-23T01:44:55.495Z",
+      "company_slug": "dreamhost",
+      "engine": "Google AI Mode",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/dreamhost/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "a82ee123c5fc218bbd3973a841889a15f9f3b4431d9d16de5703f65a458e1071",
+      "excerpt": "Yes, DreamHost's hosting infrastructure was potentially exposed because the PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) affect the core PHP engine runtime itself rather than a specific web application. DreamHost's Status & Patching Mitigation & WAF Protection: DreamHost's Operations and Technical teams deployed immediate mitigations across all hosting platforms (Shared, VPS, DreamPress, and Dedicated). Their Web Application Firewall (WAF) was configured",
+      "cited_urls": [
+        "https://www.abstract.security/blog/php2shell-critical-php-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619",
+        "https://www.zscaler.com/blogs/security-research/cve-2026-109618-and-cve-2026-109619-php-vulnerable-unauthenticated-rce",
+        "https://www.reddit.com/r/dreamhost/comments/1xbrnzy/what_is_the_dreamhost_doing_about_the_recent_php/",
+        "https://www.reddit.com/r/dreamhost/comments/1xbrnzy/what_is_the_dreamhost_doing_about_the_recent_php/?tl=it",
+        "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/"
+      ],
+      "original_grade": "match",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "cloudways|ChatGPT|2026-10-23T01:44:55.495Z": {
+      "record_key": "cloudways|ChatGPT|2026-10-23T01:44:55.495Z",
+      "company_slug": "cloudways",
+      "engine": "ChatGPT",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/cloudways/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "b531be275fb98ebb47ce21b4f3c936ce505302085fcef2761aa3b7e923bb9636",
+      "excerpt": "Yes—Cloudways was affected, and it now reports that patching is complete. As of October 23, 2026, the official sources say: Affected: DigitalOcean’s advisory for CVE-2026-109618 and CVE-2026-109619 explicitly lists Cloudways as “Affected”, with remediation handled by DigitalOcean. It covers Cloudways-supported PHP versions from 5.6 onward, using extended-LTS partners for older versions. Patched: Cloudways’ official status update dated October 22,",
+      "cited_urls": [
+        "https://www.digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now",
+        "https://status.cloudways.com/"
+      ],
+      "original_grade": "match",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "cloudways|Claude|2026-10-23T01:44:55.495Z": {
+      "record_key": "cloudways|Claude|2026-10-23T01:44:55.495Z",
+      "company_slug": "cloudways",
+      "engine": "Claude",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/cloudways/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "584eedc295ab4d7b3573bb1052f541f4edd98f76ae13538b7cbc807df5217414",
+      "excerpt": "Yes — Cloudways is affected by PHP2Shell, and patching is actively in progress. Here is a full breakdown: What is PHP2Shell? PHP2Shell is a pair of high-impact vulnerabilities — CVE-2026-109618 and CVE-2026-109619 — in PHP versions 5.4–8.5 that allow remote code execution (RCE). Both are rated CVSS v4.0 9.2. Both CVEs are use-after-free bugs: a fatal error during a",
+      "cited_urls": [
+        "https://en.wikipedia.org/wiki/PHP2Shell",
+        "https://sansec.io/research/php2shell",
+        "https://www.digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now",
+        "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "cloudways|Perplexity|2026-10-23T01:44:55.495Z": {
+      "record_key": "cloudways|Perplexity|2026-10-23T01:44:55.495Z",
+      "company_slug": "cloudways",
+      "engine": "Perplexity",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/cloudways/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "95b242227aa960ae2ad9683608e69037714bc869b776412fce1f5712c4801f35",
+      "excerpt": "Yes. Cloudways was affected because the PHP2Shell vulnerabilities affect PHP installations broadly, including the PHP versions used on Cloudways. DigitalOcean states that Cloudways was actively patching supported PHP versions, including PHP 5.6 and newer, while applying temporary mitigations and targeted WAF rules during the rollout. As of October 22, Cloudways reported that patching was complete across active Autonomous and",
+      "cited_urls": [
+        "https://www.digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now",
+        "https://meowapps.com/php2shell-wordpress/",
+        "https://github.com/hkoeck/php2shell-status",
+        "https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-php2shell-pre-auth-rce",
+        "https://github.com/NCSC-NL/php2shell",
+        "https://censys.com/advisory/cve-2026-109618-cve-2026-109619/",
+        "https://github.com/NCSC-NL/php2shell/blob/main/README.md",
+        "https://sansec.io/research/php2shell",
+        "https://www.sophos.com/en-us/security-advisories/sophos-sa-20261021-php2shell",
+        "https://hadrian.io/vulnerability-alerts/php2shell-leaked-critical-php-rce-cve-2026-109618-cve-2026-109619"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "cloudways|Google AI Overviews|2026-10-23T01:44:55.495Z": {
+      "record_key": "cloudways|Google AI Overviews|2026-10-23T01:44:55.495Z",
+      "company_slug": "cloudways",
+      "engine": "Google AI Overviews",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/cloudways/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "533a58fe7941df432d045a7a0a001ccbf40c69fe47f4f1b0c7f549dd14861a13",
+      "excerpt": "Cloudways is affected by the PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619), and patching is currently in progress. Status: Affected and actively being patched. Actions Taken by Cloudways / DigitalOcean: Cloudways is actively patching supported PHP versions (5.6 and above) using extended LTS partnership support for older PHP instances without forcing customers to migrate versions. Temporary Mitigations: Cloudways has applied PHP's",
+      "cited_urls": [
+        "https://www.digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "cloudways|Google AI Mode|2026-10-23T01:44:55.495Z": {
+      "record_key": "cloudways|Google AI Mode|2026-10-23T01:44:55.495Z",
+      "company_slug": "cloudways",
+      "engine": "Google AI Mode",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/cloudways/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "c202d5fd36965fc6de05abd29a579004ccce2a9a5b6e9462116492bc00c82bfd",
+      "excerpt": "Affected Status: Cloudways itself is a managed hosting platform, but the servers and applications it hosts run PHP. Because PHP2Shell (CVE-2026-109618 and CVE-2026-109619) affects the core PHP runtime engine across virtually all unpatched versions, any Cloudways server running an unpatched version of PHP is inherently vulnerable to unauthenticated remote code execution. Patch Status: Official security patches for PHP were",
+      "cited_urls": [
+        "https://www.wiz.io/blog/php2shell-php-rce",
+        "https://www.zscaler.com/blogs/security-research/cve-2026-109618-and-cve-2026-109619-php-vulnerable-unauthenticated-rce",
+        "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php",
+        "https://watchtowr.com/intelligence/php-cve-2026-109618-faq/",
+        "https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation",
+        "https://www.digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now"
+      ],
+      "original_grade": "no status named",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "hostinger|ChatGPT|2026-10-23T01:44:55.495Z": {
+      "record_key": "hostinger|ChatGPT|2026-10-23T01:44:55.495Z",
+      "company_slug": "hostinger",
+      "engine": "ChatGPT",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostinger/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "9ff126ea2bb66cf73a906ca386288350cadef9d9c99e5108fb0156ced385010d",
+      "excerpt": "Hostinger says its managed hosting was protected against PHP2Shell and is now patched. VPS is the exception: customers must patch it themselves. As of October 23, 2026: | Hosting type | Affected? | Patch status | |---|---|---| | Managed hosting—Web, Cloud, Agency and cPanel | Hostinger says its environment tests found it was not vulnerable to the circulating exploit;",
+      "cited_urls": [
+        "https://www.hostinger.com/blog/protecting-php2shell/",
+        "https://statuspage.hostinger.com/incidents/pj2zs1lx3n9d"
+      ],
+      "original_grade": "match",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "hostinger|Claude|2026-10-23T01:44:55.495Z": {
+      "record_key": "hostinger|Claude|2026-10-23T01:44:55.495Z",
+      "company_slug": "hostinger",
+      "engine": "Claude",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostinger/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "e2197ef33ce465b2093b7f74f71d2eda360120d8f833212d6950a0033218b04c",
+      "excerpt": "Yes, Hostinger is affected by PHP2Shell — but it has responded quickly and comprehensively. Here is a full breakdown: What is PHP2Shell? On October 21, the PHP project fixed two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619, now known as PHP2Shell. Both are rated 9.2 out of 10 on the Common Vulnerability Scoring System (CVSS). CVE-2026-109618 (\"RCE via OOM corruption\"): PHP's",
+      "cited_urls": [
+        "https://www.hostinger.com/blog/protecting-php2shell/",
+        "https://www.abstract.security/blog/php2shell-critical-php-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619",
+        "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "hostinger|Perplexity|2026-10-23T01:44:55.495Z": {
+      "record_key": "hostinger|Perplexity|2026-10-23T01:44:55.495Z",
+      "company_slug": "hostinger",
+      "engine": "Perplexity",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostinger/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "429082daed16411b3fbc7a0ae24bf2b449b53f74c43fdb2b5a132a186ec5fda2",
+      "excerpt": "Yes—Hostinger’s managed hosting was not exploitable by the circulating PHP2Shell exploit according to its own testing, and Hostinger says its firewall rules blocked matching attack requests. It has also completed deployment of PHP’s fix across all managed hosting servers as of October 22, 2026 at 06:44 UTC. Web Hosting, Agency Hosting, and cPanel Hosting: patched; customers do not need",
+      "cited_urls": [
+        "https://www.hostinger.com/blog/protecting-php2shell/",
+        "https://www.hostinger.com/blog/feed/",
+        "https://php2shellcheck.com/hosting-status/",
+        "https://arvindkumar.ca/blog/php2shell-wordpress/",
+        "https://pulsetic.com/status/hostinger/incidents/151752/",
+        "https://censys.com/advisory/cve-2026-109618-cve-2026-109619/",
+        "https://mallory.ai/blog/php-rce-rapid-response",
+        "https://www.namecheap.com/status-updates/ongoing-php-security-vulnerability-affecting-hosting-services-october-21-2026/",
+        "https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-php2shell-pre-auth-rce",
+        "https://github.com/NCSC-NL/php2shell"
+      ],
+      "original_grade": "no status named",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "hostinger|Google AI Overviews|2026-10-23T01:44:55.495Z": {
+      "record_key": "hostinger|Google AI Overviews|2026-10-23T01:44:55.495Z",
+      "company_slug": "hostinger",
+      "engine": "Google AI Overviews",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostinger/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "2d21afd888122caad1482079b552346d7bff3d3375441641f254ff967bd620ab",
+      "excerpt": "Hostinger stated that its shared and managed hosting environments were not directly vulnerable to the PHP2Shell flaws (CVE-2026-109618 and CVE-2026-109619) due to platform architecture (such as LiteSpeed handling and isolated account permissions), though it has rolled out patched PHP builds across all managed hosting infrastructure . Sources & Status Details Hostinger Status Page & Updates: According to the Hostinger",
+      "cited_urls": [
+        "https://statuspage.hostinger.com/",
+        "https://www.reddit.com/r/Hostinger/comments/1xbru8x/you_werent_affected_by_the_new_php_vulnerability/",
+        "https://x.com/Hostinger/status/2112943242291343380",
+        "https://www.hostinger.com/blog/protecting-php2shell/"
+      ],
+      "original_grade": "no status named",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "hostinger|Google AI Mode|2026-10-23T01:44:55.495Z": {
+      "record_key": "hostinger|Google AI Mode|2026-10-23T01:44:55.495Z",
+      "company_slug": "hostinger",
+      "engine": "Google AI Mode",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostinger/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "e40789871fb259fc4e8a70000b0f479109a6d241d4a3bac331aa63fec06015d0",
+      "excerpt": "According to Hostinger's incident updates, their platform was not vulnerable to the PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619). Impact Status: After conducting testing in their hosting environments, Hostinger confirmed their platform was not vulnerable and implemented extra layers of protection to block potential attack vectors. Patch/Rollout Status: Although their specific platform configurations prevented exploitation, Hostinger rolled out and deployed patched",
+      "cited_urls": [
+        "https://statuspage.hostinger.com/",
+        "https://pulsetic.com/status/hostinger/incidents/151752/"
+      ],
+      "original_grade": "contradiction",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "pantheon|ChatGPT|2026-10-23T01:44:55.495Z": {
+      "record_key": "pantheon|ChatGPT|2026-10-23T01:44:55.495Z",
+      "company_slug": "pantheon",
+      "engine": "ChatGPT",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/pantheon/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "7d47fdc27ee797b9c4b15620ef1b91620626bff40667b44acceb527a62a08094",
+      "excerpt": "Yes—Pantheon treated its hosted PHP environments as affected and has deployed patches. As of October 23, 2026, its official incident is marked Resolved, with the final update posted October 22 at 9:36 a.m. PDT. Pantheon’s patching timeline: October 21, 12:49 p.m. PDT: All live production sites running PHP 8.2–8.5 patched. October 21, 5:16 p.m. PDT: Production patching completed for",
+      "cited_urls": [
+        "https://status.pantheon.io/incidents/x7h8z1yhgvml"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "pantheon|Claude|2026-10-23T01:44:55.495Z": {
+      "record_key": "pantheon|Claude|2026-10-23T01:44:55.495Z",
+      "company_slug": "pantheon",
+      "engine": "Claude",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/pantheon/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "4901b377382fbc78fbd3385f0aecb81f764e4699d71d3e0084d82b08b9066736",
+      "excerpt": "Here is a comprehensive summary of what is known about Pantheon's exposure to and response to PHP2Shell (CVE-2026-109618 & CVE-2026-109619): What Is PHP2Shell? CVE-2026-109618 and CVE-2026-109619, known together as PHP2Shell, are two Remote Code Execution vulnerabilities in PHP. Both are rated CVSS v4.0 9.2. The bugs allow unauthenticated remote code execution and Heartbleed-style memory disclosure in PHP itself, independent",
+      "cited_urls": [
+        "https://watchtowr.com/intelligence/php-cve-2026-109618-faq/",
+        "https://research.jfrog.com/post/php2shell-all-you-need-to-know-about-cve-2026-109618-and-cve-2026-109619/",
+        "https://sansec.io/research/php2shell",
+        "https://pantheon.io/blog/pantheon-response-during-critical-php-vulnerabilities",
+        "https://www.activeset.co/blog/php2shell-host-status"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "pantheon|Perplexity|2026-10-23T01:44:55.495Z": {
+      "record_key": "pantheon|Perplexity|2026-10-23T01:44:55.495Z",
+      "company_slug": "pantheon",
+      "engine": "Perplexity",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/pantheon/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "7108b97981e5067609a39ee2598ee613292a4726dad2fb202ec71f86994006d4",
+      "excerpt": "Yes. Pantheon was affected because its managed PHP runtimes used vulnerable PHP branches, but it has patched the relevant production environments. Pantheon patched live production sites running supported PHP 8.2–8.5 with PHP 8.2.35, 8.3.36, 8.4.27, and 8.5.12, the fixed upstream releases. Pantheon also completed patching LTS environments and SFTP-mode environments, and reported that most paid non-live environments were patched.",
+      "cited_urls": [
+        "https://github.com/NCSC-NL/php2shell/blob/main/software/software_list_p.md",
+        "https://github.com/worldart/NCSC-NL_php2shell/blob/main/software/software_list_p.md",
+        "https://meowapps.com/php2shell-wordpress/",
+        "https://onlineornot.com/status/pantheon/incidents/depa7G1YoXWK",
+        "https://mallory.ai/blog/php-rce-rapid-response",
+        "https://github.com/NCSC-NL/php2shell",
+        "https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-php2shell-pre-auth-rce",
+        "https://censys.com/advisory/cve-2026-109618-cve-2026-109619/",
+        "https://en.wikipedia.org/wiki/PHP2Shell",
+        "https://github.com/NCSC-NL/php2shell/blob/main/README.md"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "pantheon|Google AI Overviews|2026-10-23T01:44:55.495Z": {
+      "record_key": "pantheon|Google AI Overviews|2026-10-23T01:44:55.495Z",
+      "company_slug": "pantheon",
+      "engine": "Google AI Overviews",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/pantheon/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "4c1a60b6216da8b3e4b8d15bd25b1e0e8bf111d810ba0bd0e5c6345ed5f1f5a3",
+      "excerpt": "Yes, Pantheon environments running vulnerable PHP versions were affected by the PHP2Shell vulnerabilities ( and CVE-2026-109619), and the platform has actively rolled out patches and runtime/network mitigations. Rollout Status & Patch Details Affected Sites: Platforms running PHP versions prior to the emergency releases (PHP 8.2.35, 8.3.36, 8.4.27, and 8.5.12) or legacy/LTS branches were exposed to the critical remote code",
+      "cited_urls": [
+        "https://status.pantheon.io/",
+        "https://pantheon.io/blog/pantheon-response-during-critical-php-vulnerabilities",
+        "https://www.endorlabs.com/learn/php2shell-critical-vulnerabilities-in-php-cve-2026-109618-cve-2026-109619",
+        "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "pantheon|Google AI Mode|2026-10-23T01:44:55.495Z": {
+      "record_key": "pantheon|Google AI Mode|2026-10-23T01:44:55.495Z",
+      "company_slug": "pantheon",
+      "engine": "Google AI Mode",
+      "captured_at_utc": "2026-10-23T01:44:55.495Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/pantheon/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "e80446c07fc59f61f83780a6f77287114cc162fb01137f49a20066cefcc3b6d6",
+      "excerpt": "Yes, Pantheon was affected by the critical PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619), which are core PHP remote code execution flaws. Yes, Pantheon has patched it. Live and Pre-production Environments: Pantheon rolled out updated PHP container images across all live and pre-production customer environments (including supported LTS versions), completing the rollout by October 21, 2026. Free/Sandbox Environments: Scheduled for updates",
+      "cited_urls": [
+        "https://pantheon.io/blog/pantheon-response-during-critical-php-vulnerabilities",
+        "https://www.youtube.com/watch?v=JaAr-lEIbMk",
+        "https://www.codeable.io/blog/php-vulnerability-cve-2026-109618/",
+        "https://status.pantheon.io/"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "moodle|ChatGPT|2026-10-23T02:11:39.807Z": {
+      "record_key": "moodle|ChatGPT|2026-10-23T02:11:39.807Z",
+      "company_slug": "moodle",
+      "engine": "ChatGPT",
+      "captured_at_utc": "2026-10-23T02:11:39.807Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/moodle/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "3676e80eb59ce9b39c0be61950bfdb07ae681eefb0bc216cf7ccc16a5f2c3b5a",
+      "excerpt": "Yes—Moodle sites running vulnerable PHP are affected, and patches are available. The fix is to PHP, not simply an update to Moodle’s application code. Moodle explicitly warns that unpatched sites remain vulnerable. Patch status as of October 23, 2026: Moodle.org: Moodle HQ’s October 22 announcement confirms: “We have patched this site and brought it back online.” Other Moodle-managed sites:",
+      "cited_urls": [
+        "https://www.php.net/archive/2026.php",
+        "https://moodle.org/news/?lang=en"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "moodle|Claude|2026-10-23T02:11:39.807Z": {
+      "record_key": "moodle|Claude|2026-10-23T02:11:39.807Z",
+      "company_slug": "moodle",
+      "engine": "Claude",
+      "captured_at_utc": "2026-10-23T02:11:39.807Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/moodle/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "891c2ae9d11d8610f55ae55035dc493b142f9e85246e1549bd9bf468e00c2d8a",
+      "excerpt": "Based on the search results, here is a thorough answer about Moodle's relationship to PHP2Shell: Is Moodle Affected by PHP2Shell (CVE-2026-109618 & CVE-2026-109619)? Yes — Because the Vulnerability Is in PHP Itself, Not the Application The critical point is that PHP2Shell does not target application-level code in platforms like Moodle. PHP2Shell refers to two CRITICAL-severity PHP core vulnerabilities (CVE-2026-109618,",
+      "cited_urls": [
+        "https://research.jfrog.com/post/php2shell-all-you-need-to-know-about-cve-2026-109618-and-cve-2026-109619/",
+        "https://ellio.tech/en/blog/php2shell-what-we-observed-and-what-to-do/",
+        "https://scantitan.com/blog/php2shell-cve-2026-109618-cve-2026-109619/",
+        "https://watchtowr.com/intelligence/php-remote-code-execution-php2shell/",
+        "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/",
+        "https://sansec.io/research/php2shell",
+        "https://en.wikipedia.org/wiki/PHP2Shell",
+        "https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-php2shell-pre-auth-rce"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "moodle|Perplexity|2026-10-23T02:11:39.807Z": {
+      "record_key": "moodle|Perplexity|2026-10-23T02:11:39.807Z",
+      "company_slug": "moodle",
+      "engine": "Perplexity",
+      "captured_at_utc": "2026-10-23T02:11:39.807Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/moodle/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "d90a2466c4344f9aec0f8a89f568000ccaa3650d9b1a606ac02d09f7cf75d6ea",
+      "excerpt": "Yes. Moodle is affected indirectly because PHP2Shell vulnerabilities are in the PHP runtime, not in Moodle itself. Any Moodle site running an affected, web-facing PHP version is exposed; updating Moodle alone does not remediate it. PHP released fixes on October 21, 2026 in: PHP 8.2.35 PHP 8.3.36 PHP 8.4.27 PHP 8.5.12 Therefore, Moodle is patched only when the server’s",
+      "cited_urls": [
+        "https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-php2shell-pre-auth-rce",
+        "https://wz-it.com/en/blog/php-vulnerabilities-cve-2026-109618-109619-affected-software-measures/",
+        "https://censys.com/advisory/cve-2026-109618-cve-2026-109619/",
+        "https://github.com/NCSC-NL/php2shell",
+        "https://rimuhosting.com/maintenance.jsp?server_maint_oid=8221642932",
+        "https://github.com/0xDTC/0xPHP2SHELL-Impact-Analysis/blob/master/Readme.md",
+        "https://sansec.io/research/php2shell",
+        "https://en.wikipedia.org/wiki/PHP2Shell",
+        "https://github.com/NCSC-NL/php2shell/blob/main/README.md",
+        "https://github.com/NCSC-NL/php2shell/blob/main/software/software_list_c.md"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "moodle|Google AI Overviews|2026-10-23T02:16:33.102Z": {
+      "record_key": "moodle|Google AI Overviews|2026-10-23T02:16:33.102Z",
+      "company_slug": "moodle",
+      "engine": "Google AI Overviews",
+      "captured_at_utc": "2026-10-23T02:16:33.102Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/moodle/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "846270ed864a7f823709ff88d91e72d1bc9e610fb1473ad03e51c3ee7e74858e",
+      "excerpt": "Yes, Moodle is affected indirectly because it runs on PHP, and Moodle HQ has already applied security patches to its hosted infrastructure. Impact and Patch Status The Vulnerability: CVE-2026-109618 and CVE-2026-109619 (\"PHP2Shell\") are critical RCE flaws located inside the core PHP engine rather than Moodle's own application code. Any platform running on an unexposed or unpatched PHP version is",
+      "cited_urls": [
+        "https://moodle.org/mod/forum/discuss.php?d=482882",
+        "https://tuchsoft.com/guides-and-articles/php-critical-vulnerability-october-2026/",
+        "https://moodleus.statuspage.io/",
+        "https://www.wiz.io/blog/php2shell-php-rce",
+        "https://sansec.io/research/php2shell",
+        "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
+        "https://www.facebook.com/moodle/posts/as-a-precautionary-measure-in-response-to-the-php2shell-vulnerability-which-was-/1571864764968591/",
+        "https://www.tanium.com/blog/php2shell-responding-to-cve-2026-109618-and-cve-2026-109619"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "moodle|Google AI Mode|2026-10-23T02:11:39.807Z": {
+      "record_key": "moodle|Google AI Mode|2026-10-23T02:11:39.807Z",
+      "company_slug": "moodle",
+      "engine": "Google AI Mode",
+      "captured_at_utc": "2026-10-23T02:11:39.807Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/moodle/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "ff75d8a378a97813408eae9de7fb742b08030a7bdcf02a08049edc97a1b9609b",
+      "excerpt": "Impact: Yes, Moodle platforms run on PHP and were affected by the PHP2SHELL vulnerabilities (CVE-2026-109618 and CVE-2026-109619). As a precautionary measure, Moodle HQ temporarily took their public-facing sites offline when the vulnerability details were made public. Patch Status: Patches and updates have been released and deployed by Moodle HQ for their managed infrastructure, and they are continuing validation across",
+      "cited_urls": [
+        "https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619",
+        "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+        "https://moodle.org/mod/forum/discuss.php?d=482882"
+      ],
+      "original_grade": "no status named",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "nextcloud|ChatGPT|2026-10-23T02:11:39.807Z": {
+      "record_key": "nextcloud|ChatGPT|2026-10-23T02:11:39.807Z",
+      "company_slug": "nextcloud",
+      "engine": "ChatGPT",
+      "captured_at_utc": "2026-10-23T02:11:39.807Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/nextcloud/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "23c18526536baef097b6ac868ae4fb544facfc702bc061e5988362f77eca77b5",
+      "excerpt": "Yes—Nextcloud deployments running vulnerable PHP are affected, and a patched Nextcloud AIO release is available. As of October 23, 2026, Nextcloud’s official warning confirms that the PHP issues affect Nextcloud and could allow server compromise and access to its data. The patch status depends on how you run Nextcloud: | Deployment | Patch status / required action | |---|---|",
+      "cited_urls": [
+        "https://github.com/nextcloud/server/issues/65754?utm_source=openai",
+        "https://github.com/nextcloud/all-in-one/releases/tag/v14.4.1",
+        "https://www.php.net/archive/2026.php",
+        "https://github.com/nextcloud/all-in-one/issues/8876"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "nextcloud|Claude|2026-10-23T02:11:39.807Z": {
+      "record_key": "nextcloud|Claude|2026-10-23T02:11:39.807Z",
+      "company_slug": "nextcloud",
+      "engine": "Claude",
+      "captured_at_utc": "2026-10-23T02:11:39.807Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/nextcloud/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "5d20392acd5f48f31671efddf05dc5a1f502906a0e38ef1ce4e20f834bdb3b8e",
+      "excerpt": "Yes, Nextcloud is affected by PHP2Shell (CVE-2026-109618 and CVE-2026-109619), and a patch has been released. Here is a full breakdown: What is PHP2Shell? PHP2Shell refers to a set of memory-safety vulnerabilities in the core PHP engine, grouped under CVE-2026-109618 and CVE-2026-109619, publicly disclosed on 21 October 2026. The PHP security team rates both CVSSv4.0 9.2 and says they can",
+      "cited_urls": [
+        "https://security.truenas.com/scale/impact-statements/php2shell-2026/",
+        "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
+        "https://sansec.io/research/php2shell",
+        "https://github.com/nextcloud/all-in-one/issues/8876",
+        "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/",
+        "https://brandefense.io/blog/php2shell-php-rce-cve-2026-109618-109619/"
+      ],
+      "original_grade": "no status named",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "nextcloud|Perplexity|2026-10-23T02:11:39.807Z": {
+      "record_key": "nextcloud|Perplexity|2026-10-23T02:11:39.807Z",
+      "company_slug": "nextcloud",
+      "engine": "Perplexity",
+      "captured_at_utc": "2026-10-23T02:11:39.807Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/nextcloud/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "262a23d9daa19c3c8cc86a05474c2737ed328cc9e0def04dcde9d69bf57935a8",
+      "excerpt": "Yes. Nextcloud is affected when it runs on a vulnerable PHP runtime, because PHP2Shell is a flaw in PHP itself—not in Nextcloud code. Reports identify Nextcloud among applications exposed to pre-authentication code execution on affected PHP versions. Patch status: Self-hosted/system PHP: Nextcloud does not bundle or patch the host’s PHP runtime. Upgrade PHP to at least 8.2.35, 8.3.36, 8.4.27,",
+      "cited_urls": [
+        "https://help.nextcloud.com/t/php-vulnerability-issue/251257",
+        "https://help.nextcloud.com/t/is-nextcloud-susceptible-to-the-php2shell-attack/251255/5",
+        "https://security.truenas.com/scale/impact-statements/php2shell-2026/",
+        "https://www.cyberkendra.com/2026/10/php2shell-cve-2026-109618-cve-2026-109619.html",
+        "https://mallory.ai/blog/php-rce-rapid-response",
+        "https://wz-it.com/en/blog/php-vulnerabilities-cve-2026-109618-109619-affected-software-measures/",
+        "https://github.com/hkoeck/php2shell-status",
+        "https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-php2shell-pre-auth-rce",
+        "https://bifrostsec.com/blog/2026/php2shell-security-advisory/",
+        "https://github.com/NCSC-NL/php2shell"
+      ],
+      "original_grade": "differs",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "nextcloud|Google AI Overviews|2026-10-23T02:11:39.807Z": {
+      "record_key": "nextcloud|Google AI Overviews|2026-10-23T02:11:39.807Z",
+      "company_slug": "nextcloud",
+      "engine": "Google AI Overviews",
+      "captured_at_utc": "2026-10-23T02:11:39.807Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/nextcloud/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "7e19142bc39a1ffbc7be2ceb921537a3ba40de3baa95e5b6461de6758e1af6c8",
+      "excerpt": "Nextcloud itself is not vulnerable by its own application code, but Nextcloud servers are affected if they run on a vulnerable version of PHP. Are Nextcloud servers affected? The Flaw: PHP2Shell (CVE-2026-109618 and CVE-2026-109619 ) is a vulnerability in the PHP language engine/runtime, not Nextcloud's codebase. Impact: Any web application running on an unpatched PHP version—including Nextcloud, WordPress, and",
+      "cited_urls": [
+        "https://help.nextcloud.com/t/is-nextcloud-susceptible-to-the-php2shell-attack/251255",
+        "https://www.abstract.security/blog/php2shell-critical-php-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619",
+        "https://www.cycognito.com/blog/emerging-threat-php2shell-cve-2026-109618-109619/",
+        "https://socradar.io/blog/php2shell-cve-2026-109618-cve-2026-109619/",
+        "https://labs.beazley.security/advisories/BSL-A1233"
+      ],
+      "original_grade": "no status named",
+      "excluded": false,
+      "exclusion_reason": null
+    },
+    "nextcloud|Google AI Mode|2026-10-23T02:11:39.807Z": {
+      "record_key": "nextcloud|Google AI Mode|2026-10-23T02:11:39.807Z",
+      "company_slug": "nextcloud",
+      "engine": "Google AI Mode",
+      "captured_at_utc": "2026-10-23T02:11:39.807Z",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/nextcloud/",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+      "excerpt_sha256": "e85c2c147cd448a8d2a077b9cd03df21b8da4d0b57107db2d277d6f4b55a7fdc",
+      "excerpt": "Yes, Nextcloud is implicitly affected because Nextcloud is built on PHP and relies on the underlying PHP runtime environment. The \"PHP2Shell\" vulnerabilities (CVE-2026-109618 and CVE-2026-109619) reside in the PHP core language runtime itself, meaning any application-level software running on an unpatched PHP version is exposed to unauthenticated remote code execution (RCE). Impact and Status Vulnerability Nature: These critical core",
+      "cited_urls": [
+        "https://www.zscaler.com/blogs/security-research/cve-2026-109618-and-cve-2026-109619-php-vulnerable-unauthenticated-rce",
+        "https://help.nextcloud.com/t/is-nextcloud-susceptible-to-the-php2shell-attack/251255",
+        "https://www.huntress.com/blog/php2shell-leaked-critical-php-vulnerabilities",
+        "https://help.nextcloud.com/t/new-master-container-for-aio-to-fix-php2shell/251284",
+        "https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation"
+      ],
+      "original_grade": "no status named",
+      "excluded": false,
+      "exclusion_reason": null
+    }
+  },
+  "statement_records": {
+    "bluehost": {
+      "record_key": "bluehost",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/statements.json",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/bluehost/",
+      "primary_notice_URL": "https://www.bluehost.com/status/announcement/271",
+      "last_checked_utc": "2026-10-23T00:25:00Z",
+      "statement_date_literal": "Posted 21st October, 2026; latest update Oct 22nd 10:00est",
+      "excerpt": "successfully patched the majority of servers",
+      "excerpt_sha256": "1953f3a33f8431160a446f7ec072ad6af701ea260253dfd6052730540954c6e8",
+      "ai_answer_note": null
+    },
+    "hostgator": {
+      "record_key": "hostgator",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/statements.json",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostgator/",
+      "primary_notice_URL": "https://www.hostgator.com/status/announcement/277",
+      "last_checked_utc": "2026-10-23T00:38:00Z",
+      "statement_date_literal": "Posted 21st October, 2026; latest update Oct 22nd 11:00est",
+      "excerpt": "Our teams have successfully patched the majority of servers and are completing updates on the remaining systems.",
+      "excerpt_sha256": "72ce7cf089384106be981ee167f57b332f418d257a22bd201851d47f0c8d5b93",
+      "ai_answer_note": null
+    },
+    "dreamhost": {
+      "record_key": "dreamhost",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/statements.json",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/dreamhost/",
+      "primary_notice_URL": "https://www.dreamhoststatus.com/pages/incident/575f0f606826303142000510/6ad8c218a7031204d4ca2981",
+      "last_checked_utc": "2026-10-24T11:20:01Z",
+      "statement_date_literal": "October 23, 2026 11:26AM PDT (RESOLVED; first October 21, 2026 6:46AM PDT)",
+      "excerpt": "PHP’s security fix is now installed across all DreamHost servers, including Shared, Dedicated, VPS, and DreamPress. Sites on PHP 8.1 and older are also covered under our PHP Extended Support program.",
+      "excerpt_sha256": "266c854b39e6c7d6a4093fc3e9709ab4001c06601c7508cca7808ff7c2d71376",
+      "ai_answer_note": "AI answers retain their dated captures and original grades. This statement record was updated after those captures."
+    },
+    "cloudways": {
+      "record_key": "cloudways",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/statements.json",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/cloudways/",
+      "primary_notice_URL": "https://status.cloudways.com/incidents/xxjt802wwhpk",
+      "last_checked_utc": "2026-10-24T11:19:26Z",
+      "statement_date_literal": "Resolved Oct 23, 2026 - 12:38 UTC; rollout completion Oct 22, 2026 - 10:20 UTC",
+      "excerpt": "The PHP security patch rollout is complete, and all active servers have been successfully updated.",
+      "excerpt_sha256": "a5766f9887e824c82bdf9b86dde3ee56bac36f72a6f0f9ff8241c6ce425ab339",
+      "ai_answer_note": null
+    },
+    "hostinger": {
+      "record_key": "hostinger",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/statements.json",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostinger/",
+      "primary_notice_URL": "https://www.hostinger.com/blog/protecting-php2shell/",
+      "last_checked_utc": "2026-10-24T11:20:09Z",
+      "statement_date_literal": "Wednesday October 21, 2026; Updated October 22, 07:20 UTC",
+      "excerpt": "we rolled them out across the platform (completed October 22 at 06:44 UTC)",
+      "excerpt_sha256": "737f177f42bb9a301cbd7024739f79d8907b19e58a67c881fdb2616557e3de7d",
+      "ai_answer_note": null
+    },
+    "pantheon": {
+      "record_key": "pantheon",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/statements.json",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/pantheon/",
+      "primary_notice_URL": "https://status.pantheon.io/incidents/x7h8z1yhgvml",
+      "last_checked_utc": "2026-10-24T11:19:29Z",
+      "statement_date_literal": "Resolved Oct 22, 2026 - 09:36 PDT; earlier Monitoring Oct 21, 2026 - 19:08 PDT",
+      "excerpt": "Our rollout of updated PHP images across customer environments including LTS versions was complete as of 5pm Pacific time yesterday.",
+      "excerpt_sha256": "cb79833f450c559b2dc8537836a1975362db57258ef557ff46b39ea8b76e5bf3",
+      "ai_answer_note": null
+    },
+    "moodle": {
+      "record_key": "moodle",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/statements.json",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/moodle/",
+      "primary_notice_URL": "https://moodle.org/mod/forum/discuss.php?d=482882",
+      "last_checked_utc": "2026-10-23T00:45:00Z",
+      "statement_date_literal": "Thursday, 22 October 2026, 2:11 AM",
+      "excerpt": null,
+      "excerpt_sha256": null,
+      "ai_answer_note": null
+    },
+    "nextcloud": {
+      "record_key": "nextcloud",
+      "public_asset_URL": "https://index.broadcastwell.com/php2shell/data/statements.json",
+      "public_profile_URL": "https://index.broadcastwell.com/php2shell/nextcloud/",
+      "primary_notice_URL": "https://github.com/nextcloud/server/issues/65754",
+      "last_checked_utc": "2026-10-23T01:22:00Z",
+      "statement_date_literal": "Oct 21, 2026",
+      "excerpt": null,
+      "excerpt_sha256": null,
+      "ai_answer_note": null
+    }
+  },
+  "cases": {
+    "php2shell-notice-wording-2026-10-23": {
+      "body_sha256": "192398f6d5a34f1b48ddbebc14ad8fa4904b1144df61b7838571d48f70cf0656",
+      "opening": {
+        "literal": "Three selected Claude excerpts used different wording about PHP2Shell notices: Bluehost's said there was no statement, HostGator's reported an unsuccessful search, and DreamHost's said none appeared in search results. They belong to 15 published records, five per company, saved on 23 October 2026. The public notice records also have different check dates, with DreamHost's current row checked after the answers. The selected excerpts are not three proven contemporaneous errors or a general error rate.",
+        "sha256": "2d8fad558477e276ebfcbdeacdef8215925fa091c57b9a5c9626c6552ab50eda",
+        "start_Unicode_codepoint": 97,
+        "end_Unicode_codepoint": 601,
+        "complete_body_sha256": "192398f6d5a34f1b48ddbebc14ad8fa4904b1144df61b7838571d48f70cf0656"
+      },
+      "record_keys": [
+        "bluehost|ChatGPT|2026-10-23T01:44:55.495Z",
+        "bluehost|Claude|2026-10-23T01:44:55.495Z",
+        "bluehost|Perplexity|2026-10-23T01:44:55.495Z",
+        "bluehost|Google AI Overviews|2026-10-23T01:44:55.495Z",
+        "bluehost|Google AI Mode|2026-10-23T01:44:55.495Z",
+        "hostgator|ChatGPT|2026-10-23T01:44:55.495Z",
+        "hostgator|Claude|2026-10-23T01:44:55.495Z",
+        "hostgator|Perplexity|2026-10-23T01:44:55.495Z",
+        "hostgator|Google AI Overviews|2026-10-23T01:44:55.495Z",
+        "hostgator|Google AI Mode|2026-10-23T01:44:55.495Z",
+        "dreamhost|ChatGPT|2026-10-23T01:44:55.495Z",
+        "dreamhost|Claude|2026-10-23T01:44:55.495Z",
+        "dreamhost|Perplexity|2026-10-23T01:44:55.495Z",
+        "dreamhost|Google AI Overviews|2026-10-23T01:44:55.495Z",
+        "dreamhost|Google AI Mode|2026-10-23T01:44:55.495Z"
+      ],
+      "statement_keys": [
+        "bluehost",
+        "hostgator",
+        "dreamhost"
+      ],
+      "quotes": [
+        {
+          "literal": "there is no public statement, advisory, or announcement from Bluehost",
+          "sha256": "4bf0a79adb0e0a5298308f02dfde7218242f38df344a7bc232dba7c9ca22391f",
+          "source_matches": [
+            {
+              "record_key": "bluehost|Claude|2026-10-23T01:44:55.495Z",
+              "excerpt_start_Unicode_codepoint": 62,
+              "excerpt_end_Unicode_codepoint": 131,
+              "excerpt_sha256": "cbd7e2528ae38609746b7341473aa17eac26a78453a8ef967588dc91e9a17da1",
+              "public_profile_URL": "https://index.broadcastwell.com/php2shell/bluehost/"
+            }
+          ],
+          "page_offsets": [
+            1174
+          ]
+        },
+        {
+          "literal": "unable to find any public statement",
+          "sha256": "337cd5dcd32e1278ac6d7c7e455ab60dd735801c21ca60524da73bc913013616",
+          "source_matches": [
+            {
+              "record_key": "hostgator|Claude|2026-10-23T01:44:55.495Z",
+              "excerpt_start_Unicode_codepoint": 56,
+              "excerpt_end_Unicode_codepoint": 91,
+              "excerpt_sha256": "605fb691975418dff1ad556e5eedd0bc04c2ab2e10b0597d89eeb9104b6585b5",
+              "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostgator/"
+            }
+          ],
+          "page_offsets": [
+            1337
+          ]
+        },
+        {
+          "literal": "no public statement, advisory, blog post, or announcement from DreamHost specifically addressing these vulnerabilities has appeared in any search results.",
+          "sha256": "f21d14445723a66df724b5483eee8344373189269e2f618fe3ff4213df972820",
+          "source_matches": [
+            {
+              "record_key": "dreamhost|Claude|2026-10-23T01:44:55.495Z",
+              "excerpt_start_Unicode_codepoint": 139,
+              "excerpt_end_Unicode_codepoint": 293,
+              "excerpt_sha256": "655bca07a61a231d28e29d08fb8019b051bd2ffe23ce0fe2ddb4e05c412a301c",
+              "public_profile_URL": "https://index.broadcastwell.com/php2shell/dreamhost/"
+            }
+          ],
+          "page_offsets": [
+            1466
+          ]
+        }
+      ],
+      "numeric_leads": [],
+      "qualitative_leads": [
+        {
+          "observation_key": "php2shell-public-panel-20261023-selected-claude-notice-wording-bluehost-hostgator-dreamhost",
+          "kind": "qualitative_comparison",
+          "source_quotes_or_exact_fields": [
+            {
+              "literal": "there is no public statement, advisory, or announcement from Bluehost",
+              "sha256": "4bf0a79adb0e0a5298308f02dfde7218242f38df344a7bc232dba7c9ca22391f",
+              "source_matches": [
+                {
+                  "record_key": "bluehost|Claude|2026-10-23T01:44:55.495Z",
+                  "excerpt_start_Unicode_codepoint": 62,
+                  "excerpt_end_Unicode_codepoint": 131,
+                  "excerpt_sha256": "cbd7e2528ae38609746b7341473aa17eac26a78453a8ef967588dc91e9a17da1",
+                  "public_profile_URL": "https://index.broadcastwell.com/php2shell/bluehost/"
+                }
+              ],
+              "page_offsets": [
+                1174
+              ]
+            },
+            {
+              "literal": "unable to find any public statement",
+              "sha256": "337cd5dcd32e1278ac6d7c7e455ab60dd735801c21ca60524da73bc913013616",
+              "source_matches": [
+                {
+                  "record_key": "hostgator|Claude|2026-10-23T01:44:55.495Z",
+                  "excerpt_start_Unicode_codepoint": 56,
+                  "excerpt_end_Unicode_codepoint": 91,
+                  "excerpt_sha256": "605fb691975418dff1ad556e5eedd0bc04c2ab2e10b0597d89eeb9104b6585b5",
+                  "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostgator/"
+                }
+              ],
+              "page_offsets": [
+                1337
+              ]
+            },
+            {
+              "literal": "no public statement, advisory, blog post, or announcement from DreamHost specifically addressing these vulnerabilities has appeared in any search results.",
+              "sha256": "f21d14445723a66df724b5483eee8344373189269e2f618fe3ff4213df972820",
+              "source_matches": [
+                {
+                  "record_key": "dreamhost|Claude|2026-10-23T01:44:55.495Z",
+                  "excerpt_start_Unicode_codepoint": 139,
+                  "excerpt_end_Unicode_codepoint": 293,
+                  "excerpt_sha256": "655bca07a61a231d28e29d08fb8019b051bd2ffe23ce0fe2ddb4e05c412a301c",
+                  "public_profile_URL": "https://index.broadcastwell.com/php2shell/dreamhost/"
+                }
+              ],
+              "page_offsets": [
+                1466
+              ]
+            }
+          ]
+        },
+        {
+          "observation_key": "php2shell-public-dreamhost-answer-before-later-resolution-and-check",
+          "kind": "qualitative_chronology",
+          "source_quotes_or_exact_fields": [
+            {
+              "public_statement_fields": {
+                "statement_date_literal": "October 23, 2026 11:26AM PDT (RESOLVED; first October 21, 2026 6:46AM PDT)",
+                "last_checked_utc": "2026-10-24T11:20:01Z",
+                "ai_answer_note": "AI answers retain their dated captures and original grades. This statement record was updated after those captures."
+              },
+              "answer_capture_dates": [
+                "2026-10-23T01:44:55.495Z"
+              ],
+              "no_private_historical_version_or_preanswer_check_inference": true
+            }
+          ]
+        }
+      ],
+      "source_review_receipts": [
+        "c18039e92c35d875ae7832c2aa9b02c2233163220900b8c0fdc3020a756ecf5a",
+        "1eed053f2d5dbb3cb0f96c0b2f99d93c1d7c4ca31f18a9f92a62bccfd8ef8184",
+        "6c92277658c46d15d6b427d7d2bddf99406477682d3c861df2a1415397ba42f5"
+      ],
+      "writing_review_receipts": [
+        "59ccd436ae1d00ecb549d81cda5a5bb9248a9428f988462995aff5d7f325df01",
+        "711674a0ffd16c572dbc337157cd34729d9adb62e408b8dda309ec1ea137800a",
+        "4fa3fd1ada7f1e0005b78543f7d0fd70bb735abe2e6950e3103b85978e4a08a5"
+      ],
+      "independent_writing_review_sha256": "4210a6ad69a5a950d146373038416f7631b49173a630b6ed4ac4f124ee5d03d3",
+      "opening_shape": "study_result_first",
+      "classification_reason": "Selected dated Claude excerpt observations lead; the selected-example count is not an accuracy-rate cut."
+    },
+    "php2shell-dreamhost-later-resolution-2026-10-23": {
+      "body_sha256": "5a5896002619d24621888e45e246a394aee99c2f814d8edd87395f1cf74db02a",
+      "opening": {
+        "literal": "A later DreamHost resolution cannot retrospectively settle the five earlier AI records in our published panel. The answers were saved on 23 October 2026 at 01:44:55.495 Coordinated Universal Time (UTC). The current statement row records a resolution at 18:26 UTC that day and a source check on 24 October. Those are different events, and the published record expressly preserves the earlier answer grades.",
+        "sha256": "6285ee0fe2ee0c18dc0cdd859292886e15e4a02709b99813d051d981a706bcec",
+        "start_Unicode_codepoint": 79,
+        "end_Unicode_codepoint": 484,
+        "complete_body_sha256": "5a5896002619d24621888e45e246a394aee99c2f814d8edd87395f1cf74db02a"
+      },
+      "record_keys": [
+        "dreamhost|ChatGPT|2026-10-23T01:44:55.495Z",
+        "dreamhost|Claude|2026-10-23T01:44:55.495Z",
+        "dreamhost|Perplexity|2026-10-23T01:44:55.495Z",
+        "dreamhost|Google AI Overviews|2026-10-23T01:44:55.495Z",
+        "dreamhost|Google AI Mode|2026-10-23T01:44:55.495Z"
+      ],
+      "statement_keys": [
+        "dreamhost"
+      ],
+      "quotes": [
+        {
+          "literal": "says patching is complete",
+          "sha256": "268b168e089c4d746333fad082b175f4f20bc2a5515a5c858aad4737082389c2",
+          "source_matches": [
+            {
+              "record_key": "dreamhost|ChatGPT|2026-10-23T01:44:55.495Z",
+              "excerpt_start_Unicode_codepoint": 70,
+              "excerpt_end_Unicode_codepoint": 95,
+              "excerpt_sha256": "91d8b056f47374f629b3078cf2d2f2e7e058ffd166b4993ca0ffac4d6bf452cd",
+              "public_profile_URL": "https://index.broadcastwell.com/php2shell/dreamhost/"
+            }
+          ],
+          "page_offsets": [
+            1054
+          ]
+        },
+        {
+          "literal": "does not confirm that the rollout was fully completed",
+          "sha256": "ffdfdf0deea22aaa71eb53b33f0bfe41af49e7912c846bdd6912d97be0e330ee",
+          "source_matches": [
+            {
+              "record_key": "dreamhost|Perplexity|2026-10-23T01:44:55.495Z",
+              "excerpt_start_Unicode_codepoint": 293,
+              "excerpt_end_Unicode_codepoint": 346,
+              "excerpt_sha256": "71eb8f0df498758373e29cac9a1289b55fa0007da6a2f50b1b43c84bec52b980",
+              "public_profile_URL": "https://index.broadcastwell.com/php2shell/dreamhost/"
+            }
+          ],
+          "page_offsets": [
+            1105
+          ]
+        }
+      ],
+      "numeric_leads": [],
+      "qualitative_leads": [
+        {
+          "observation_key": "php2shell-public-dreamhost-answer-before-later-resolution-and-check",
+          "kind": "qualitative_chronology",
+          "source_quotes_or_exact_fields": [
+            {
+              "public_statement_fields": {
+                "statement_date_literal": "October 23, 2026 11:26AM PDT (RESOLVED; first October 21, 2026 6:46AM PDT)",
+                "last_checked_utc": "2026-10-24T11:20:01Z",
+                "ai_answer_note": "AI answers retain their dated captures and original grades. This statement record was updated after those captures."
+              },
+              "answer_capture_dates": [
+                "2026-10-23T01:44:55.495Z"
+              ],
+              "no_private_historical_version_or_preanswer_check_inference": true
+            }
+          ]
+        }
+      ],
+      "source_review_receipts": [
+        "c18039e92c35d875ae7832c2aa9b02c2233163220900b8c0fdc3020a756ecf5a",
+        "1eed053f2d5dbb3cb0f96c0b2f99d93c1d7c4ca31f18a9f92a62bccfd8ef8184",
+        "6c92277658c46d15d6b427d7d2bddf99406477682d3c861df2a1415397ba42f5"
+      ],
+      "writing_review_receipts": [
+        "59ccd436ae1d00ecb549d81cda5a5bb9248a9428f988462995aff5d7f325df01",
+        "711674a0ffd16c572dbc337157cd34729d9adb62e408b8dda309ec1ea137800a",
+        "4fa3fd1ada7f1e0005b78543f7d0fd70bb735abe2e6950e3103b85978e4a08a5"
+      ],
+      "independent_writing_review_sha256": "4210a6ad69a5a950d146373038416f7631b49173a630b6ed4ac4f124ee5d03d3",
+      "opening_shape": "belief_correction",
+      "classification_reason": "The first sentence denies that a later resolution can settle earlier records; it corrects a chronological inference."
+    },
+    "php2shell-cloudways-shared-source-2026-10-23": {
+      "body_sha256": "4381c82174735c84a67662d1f12c7ffaeadf6bb7a204d9dd272b467522761ddb",
+      "opening": {
+        "literal": "ChatGPT's Cloudways excerpt said “patching is complete”, while Claude's said “patching is actively in progress”. All five Cloudways records saved on 23 October 2026 printed the same DigitalOcean blog path. The shared cited destination therefore accompanied different completion wording. It does not establish that the engines obtained identical page contents or used that particular page for either quoted clause.",
+        "sha256": "163618445ec2d3daa50fa555ab32cda18200fc73db6f2ca792bf6f6972e8ab9e",
+        "start_Unicode_codepoint": 80,
+        "end_Unicode_codepoint": 493,
+        "complete_body_sha256": "4381c82174735c84a67662d1f12c7ffaeadf6bb7a204d9dd272b467522761ddb"
+      },
+      "record_keys": [
+        "cloudways|ChatGPT|2026-10-23T01:44:55.495Z",
+        "cloudways|Claude|2026-10-23T01:44:55.495Z",
+        "cloudways|Perplexity|2026-10-23T01:44:55.495Z",
+        "cloudways|Google AI Overviews|2026-10-23T01:44:55.495Z",
+        "cloudways|Google AI Mode|2026-10-23T01:44:55.495Z"
+      ],
+      "statement_keys": [
+        "cloudways"
+      ],
+      "quotes": [
+        {
+          "literal": "patching is complete",
+          "sha256": "14a6f9c9e635d43768a3b583d59459ec2562885b3af602b248121eb5c7299e0c",
+          "source_matches": [
+            {
+              "record_key": "cloudways|ChatGPT|2026-10-23T01:44:55.495Z",
+              "excerpt_start_Unicode_codepoint": 52,
+              "excerpt_end_Unicode_codepoint": 72,
+              "excerpt_sha256": "b531be275fb98ebb47ce21b4f3c936ce505302085fcef2761aa3b7e923bb9636",
+              "public_profile_URL": "https://index.broadcastwell.com/php2shell/cloudways/"
+            }
+          ],
+          "page_offsets": [
+            114
+          ]
+        },
+        {
+          "literal": "patching is actively in progress",
+          "sha256": "6bc45f8a64f5b5ff04c4486d4409ed2846de6e97b6d22d19c62fac4814a14cc3",
+          "source_matches": [
+            {
+              "record_key": "cloudways|Claude|2026-10-23T01:44:55.495Z",
+              "excerpt_start_Unicode_codepoint": 46,
+              "excerpt_end_Unicode_codepoint": 78,
+              "excerpt_sha256": "584eedc295ab4d7b3573bb1052f541f4edd98f76ae13538b7cbc807df5217414",
+              "public_profile_URL": "https://index.broadcastwell.com/php2shell/cloudways/"
+            }
+          ],
+          "page_offsets": [
+            158
+          ]
+        }
+      ],
+      "numeric_leads": [
+        {
+          "observation_key": "php2shell-public-cloudways-20261023-digitalocean-blog-path-presence",
+          "figure": {
+            "source_url": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+            "record": {
+              "capture_date": "2026-10-23",
+              "subject": "digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now",
+              "metric": "php2shell-public-cloudways-20261023-digitalocean-blog-path-presence",
+              "category": "company-panel",
+              "cohort": "cloudways",
+              "release": "2026-10-23"
+            },
+            "count": 5,
+            "base": 5,
+            "unit": "published company-panel records",
+            "label": "php2shell-public-cloudways-20261023-digitalocean-blog-path-presence",
+            "source_review_sha256": "6c92277658c46d15d6b427d7d2bddf99406477682d3c861df2a1415397ba42f5"
+          },
+          "match_unit": "path",
+          "target": "digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now",
+          "members": [
+            {
+              "engine": "ChatGPT",
+              "captured_at_utc": "2026-10-23T01:44:55.495Z",
+              "literal_matched_URLs": [
+                "https://www.digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now"
+              ]
+            },
+            {
+              "engine": "Claude",
+              "captured_at_utc": "2026-10-23T01:44:55.495Z",
+              "literal_matched_URLs": [
+                "https://www.digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now"
+              ]
+            },
+            {
+              "engine": "Perplexity",
+              "captured_at_utc": "2026-10-23T01:44:55.495Z",
+              "literal_matched_URLs": [
+                "https://www.digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now"
+              ]
+            },
+            {
+              "engine": "Google AI Overviews",
+              "captured_at_utc": "2026-10-23T01:44:55.495Z",
+              "literal_matched_URLs": [
+                "https://www.digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now"
+              ]
+            },
+            {
+              "engine": "Google AI Mode",
+              "captured_at_utc": "2026-10-23T01:44:55.495Z",
+              "literal_matched_URLs": [
+                "https://www.digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now"
+              ]
+            }
+          ]
+        }
+      ],
+      "qualitative_leads": [],
+      "source_review_receipts": [
+        "c18039e92c35d875ae7832c2aa9b02c2233163220900b8c0fdc3020a756ecf5a",
+        "1eed053f2d5dbb3cb0f96c0b2f99d93c1d7c4ca31f18a9f92a62bccfd8ef8184",
+        "6c92277658c46d15d6b427d7d2bddf99406477682d3c861df2a1415397ba42f5"
+      ],
+      "writing_review_receipts": [
+        "59ccd436ae1d00ecb549d81cda5a5bb9248a9428f988462995aff5d7f325df01",
+        "711674a0ffd16c572dbc337157cd34729d9adb62e408b8dda309ec1ea137800a",
+        "4fa3fd1ada7f1e0005b78543f7d0fd70bb735abe2e6950e3103b85978e4a08a5"
+      ],
+      "independent_writing_review_sha256": "4210a6ad69a5a950d146373038416f7631b49173a630b6ed4ac4f124ee5d03d3",
+      "opening_shape": "engine_contrast",
+      "classification_reason": "The first sentence directly contrasts named ChatGPT and Claude completion wording."
+    },
+    "php2shell-service-scope-2026-10-23": {
+      "body_sha256": "96c5174c038c8fb7779f390d6a49c58460da42cb3e1e0a3aaeace3e859598891",
+      "opening": {
+        "literal": "Hostinger's retained ChatGPT excerpt distinguishes a virtual private server (VPS) from managed hosting; Pantheon's Google AI Mode excerpt distinguishes Free/Sandbox environments from live and pre-production environments. These are two selected examples within ten published company records, five per provider, saved on 23 October 2026. They show different service units inside broad status wording, not an exception rate or a current assessment of either provider.",
+        "sha256": "84e007095e82d22b4825895c795e9ce5e53883b373f52e413fc8a6f0cc32ed06",
+        "start_Unicode_codepoint": 86,
+        "end_Unicode_codepoint": 550,
+        "complete_body_sha256": "96c5174c038c8fb7779f390d6a49c58460da42cb3e1e0a3aaeace3e859598891"
+      },
+      "record_keys": [
+        "hostinger|ChatGPT|2026-10-23T01:44:55.495Z",
+        "hostinger|Claude|2026-10-23T01:44:55.495Z",
+        "hostinger|Perplexity|2026-10-23T01:44:55.495Z",
+        "hostinger|Google AI Overviews|2026-10-23T01:44:55.495Z",
+        "hostinger|Google AI Mode|2026-10-23T01:44:55.495Z",
+        "pantheon|ChatGPT|2026-10-23T01:44:55.495Z",
+        "pantheon|Claude|2026-10-23T01:44:55.495Z",
+        "pantheon|Perplexity|2026-10-23T01:44:55.495Z",
+        "pantheon|Google AI Overviews|2026-10-23T01:44:55.495Z",
+        "pantheon|Google AI Mode|2026-10-23T01:44:55.495Z"
+      ],
+      "statement_keys": [
+        "hostinger",
+        "pantheon"
+      ],
+      "quotes": [
+        {
+          "literal": "VPS is the exception",
+          "sha256": "9ee5e23e86c6bb676c22937333c34a38c4ad98b04d5b287e75967363c0398ba3",
+          "source_matches": [
+            {
+              "record_key": "hostinger|ChatGPT|2026-10-23T01:44:55.495Z",
+              "excerpt_start_Unicode_codepoint": 87,
+              "excerpt_end_Unicode_codepoint": 107,
+              "excerpt_sha256": "9ff126ea2bb66cf73a906ca386288350cadef9d9c99e5108fb0156ced385010d",
+              "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostinger/"
+            }
+          ],
+          "page_offsets": [
+            1051
+          ]
+        },
+        {
+          "literal": "Free/Sandbox Environments: Scheduled for updates",
+          "sha256": "63ee87c5a16e067347227605ac22d651185d2baa59086bc94564f38ddbccbcc2",
+          "source_matches": [
+            {
+              "record_key": "pantheon|Google AI Mode|2026-10-23T01:44:55.495Z",
+              "excerpt_start_Unicode_codepoint": 410,
+              "excerpt_end_Unicode_codepoint": 458,
+              "excerpt_sha256": "e80446c07fc59f61f83780a6f77287114cc162fb01137f49a20066cefcc3b6d6",
+              "public_profile_URL": "https://index.broadcastwell.com/php2shell/pantheon/"
+            }
+          ],
+          "page_offsets": [
+            1331
+          ]
+        }
+      ],
+      "numeric_leads": [],
+      "qualitative_leads": [
+        {
+          "observation_key": "php2shell-public-hostinger-pantheon-20261023-selected-service-unit-qualifications",
+          "kind": "qualitative_comparison",
+          "source_quotes_or_exact_fields": [
+            {
+              "literal": "VPS is the exception",
+              "sha256": "9ee5e23e86c6bb676c22937333c34a38c4ad98b04d5b287e75967363c0398ba3",
+              "source_matches": [
+                {
+                  "record_key": "hostinger|ChatGPT|2026-10-23T01:44:55.495Z",
+                  "excerpt_start_Unicode_codepoint": 87,
+                  "excerpt_end_Unicode_codepoint": 107,
+                  "excerpt_sha256": "9ff126ea2bb66cf73a906ca386288350cadef9d9c99e5108fb0156ced385010d",
+                  "public_profile_URL": "https://index.broadcastwell.com/php2shell/hostinger/"
+                }
+              ],
+              "page_offsets": [
+                1051
+              ]
+            },
+            {
+              "literal": "Free/Sandbox Environments: Scheduled for updates",
+              "sha256": "63ee87c5a16e067347227605ac22d651185d2baa59086bc94564f38ddbccbcc2",
+              "source_matches": [
+                {
+                  "record_key": "pantheon|Google AI Mode|2026-10-23T01:44:55.495Z",
+                  "excerpt_start_Unicode_codepoint": 410,
+                  "excerpt_end_Unicode_codepoint": 458,
+                  "excerpt_sha256": "e80446c07fc59f61f83780a6f77287114cc162fb01137f49a20066cefcc3b6d6",
+                  "public_profile_URL": "https://index.broadcastwell.com/php2shell/pantheon/"
+                }
+              ],
+              "page_offsets": [
+                1331
+              ]
+            }
+          ]
+        }
+      ],
+      "source_review_receipts": [
+        "c18039e92c35d875ae7832c2aa9b02c2233163220900b8c0fdc3020a756ecf5a",
+        "1eed053f2d5dbb3cb0f96c0b2f99d93c1d7c4ca31f18a9f92a62bccfd8ef8184",
+        "6c92277658c46d15d6b427d7d2bddf99406477682d3c861df2a1415397ba42f5"
+      ],
+      "writing_review_receipts": [
+        "59ccd436ae1d00ecb549d81cda5a5bb9248a9428f988462995aff5d7f325df01",
+        "711674a0ffd16c572dbc337157cd34729d9adb62e408b8dda309ec1ea137800a",
+        "4fa3fd1ada7f1e0005b78543f7d0fd70bb735abe2e6950e3103b85978e4a08a5"
+      ],
+      "independent_writing_review_sha256": "4210a6ad69a5a950d146373038416f7631b49173a630b6ed4ac4f124ee5d03d3",
+      "opening_shape": "vendor_first",
+      "classification_reason": "Hostinger is the first named subject and its service qualification leads, followed by Pantheon’s distinct unit."
+    },
+    "php2shell-moodle-site-scope-2026-10-23": {
+      "body_sha256": "aa84723fff7e21042de35d2b840dc6b5e542946f32956403222a4bc33c6afcdd",
+      "opening": {
+        "literal": "The words “this site” refer to Moodle.org within the saved ChatGPT excerpt, rather than every Moodle installation. The 23 October 2026 record names Moodle.org before the quoted words “patched this site and brought it back online”. Its printed source list includes a Moodle.org news address. Google AI Overviews and Google AI Mode print the same forum address as each other; that address differs from ChatGPT's news address.",
+        "sha256": "a82e28d2cbb04b1148479d695a96c3e5dedc0b659daf7de9aec0008145301a96",
+        "start_Unicode_codepoint": 65,
+        "end_Unicode_codepoint": 488,
+        "complete_body_sha256": "aa84723fff7e21042de35d2b840dc6b5e542946f32956403222a4bc33c6afcdd"
+      },
+      "record_keys": [
+        "moodle|ChatGPT|2026-10-23T02:11:39.807Z",
+        "moodle|Claude|2026-10-23T02:11:39.807Z",
+        "moodle|Perplexity|2026-10-23T02:11:39.807Z",
+        "moodle|Google AI Overviews|2026-10-23T02:16:33.102Z",
+        "moodle|Google AI Mode|2026-10-23T02:11:39.807Z"
+      ],
+      "statement_keys": [
+        "moodle"
+      ],
+      "quotes": [
+        {
+          "literal": "this site",
+          "sha256": "fb625242db0defe297dba840c82ee6a70b247fa7f615ae9c21d0a59e8a17ee2c",
+          "source_matches": [
+            {
+              "record_key": "moodle|ChatGPT|2026-10-23T02:11:39.807Z",
+              "excerpt_start_Unicode_codepoint": 327,
+              "excerpt_end_Unicode_codepoint": 336,
+              "excerpt_sha256": "3676e80eb59ce9b39c0be61950bfdb07ae681eefb0bc216cf7ccc16a5f2c3b5a",
+              "public_profile_URL": "https://index.broadcastwell.com/php2shell/moodle/"
+            }
+          ],
+          "page_offsets": [
+            12,
+            76,
+            257,
+            1170,
+            3156
+          ]
+        },
+        {
+          "literal": "patched this site and brought it back online",
+          "sha256": "85f510313eb103da409335b6c0647e03aecafe315a1149365bcd0c0dee9d9a6c",
+          "source_matches": [
+            {
+              "record_key": "moodle|ChatGPT|2026-10-23T02:11:39.807Z",
+              "excerpt_start_Unicode_codepoint": 319,
+              "excerpt_end_Unicode_codepoint": 363,
+              "excerpt_sha256": "3676e80eb59ce9b39c0be61950bfdb07ae681eefb0bc216cf7ccc16a5f2c3b5a",
+              "public_profile_URL": "https://index.broadcastwell.com/php2shell/moodle/"
+            }
+          ],
+          "page_offsets": [
+            249
+          ]
+        }
+      ],
+      "numeric_leads": [],
+      "qualitative_leads": [
+        {
+          "observation_key": "php2shell-public-moodle-20261023-chatgpt-this-site-refers-moodleorg-with-separate-news-forum-addresses",
+          "kind": "qualitative_source_reading",
+          "source_quotes_or_exact_fields": [
+            {
+              "literal": "this site",
+              "sha256": "fb625242db0defe297dba840c82ee6a70b247fa7f615ae9c21d0a59e8a17ee2c",
+              "source_matches": [
+                {
+                  "record_key": "moodle|ChatGPT|2026-10-23T02:11:39.807Z",
+                  "excerpt_start_Unicode_codepoint": 327,
+                  "excerpt_end_Unicode_codepoint": 336,
+                  "excerpt_sha256": "3676e80eb59ce9b39c0be61950bfdb07ae681eefb0bc216cf7ccc16a5f2c3b5a",
+                  "public_profile_URL": "https://index.broadcastwell.com/php2shell/moodle/"
+                }
+              ],
+              "page_offsets": [
+                12,
+                76,
+                257,
+                1170,
+                3156
+              ]
+            },
+            {
+              "literal": "patched this site and brought it back online",
+              "sha256": "85f510313eb103da409335b6c0647e03aecafe315a1149365bcd0c0dee9d9a6c",
+              "source_matches": [
+                {
+                  "record_key": "moodle|ChatGPT|2026-10-23T02:11:39.807Z",
+                  "excerpt_start_Unicode_codepoint": 319,
+                  "excerpt_end_Unicode_codepoint": 363,
+                  "excerpt_sha256": "3676e80eb59ce9b39c0be61950bfdb07ae681eefb0bc216cf7ccc16a5f2c3b5a",
+                  "public_profile_URL": "https://index.broadcastwell.com/php2shell/moodle/"
+                }
+              ],
+              "page_offsets": [
+                249
+              ]
+            }
+          ]
+        }
+      ],
+      "source_review_receipts": [
+        "c18039e92c35d875ae7832c2aa9b02c2233163220900b8c0fdc3020a756ecf5a",
+        "1eed053f2d5dbb3cb0f96c0b2f99d93c1d7c4ca31f18a9f92a62bccfd8ef8184",
+        "6c92277658c46d15d6b427d7d2bddf99406477682d3c861df2a1415397ba42f5"
+      ],
+      "writing_review_receipts": [
+        "59ccd436ae1d00ecb549d81cda5a5bb9248a9428f988462995aff5d7f325df01",
+        "711674a0ffd16c572dbc337157cd34729d9adb62e408b8dda309ec1ea137800a",
+        "4fa3fd1ada7f1e0005b78543f7d0fd70bb735abe2e6950e3103b85978e4a08a5"
+      ],
+      "independent_writing_review_sha256": "4210a6ad69a5a950d146373038416f7631b49173a630b6ed4ac4f124ee5d03d3",
+      "opening_shape": "answer_definition",
+      "classification_reason": "The first sentence defines the local referent of the quoted words, with the all-installations boundary explicit."
+    },
+    "php2shell-nextcloud-source-types-2026-10-23": {
+      "body_sha256": "efdb495b37e8754946a9f8e827ccf51877d9b9353d706e6e8905fb1063a7b9c5",
+      "opening": {
+        "literal": "On 23 October 2026, the five published Nextcloud records printed a server-repository issue path in 1 of 5 records, an All-in-One issue path in 2 of 5, and a community-help address in 3 of 5. These groups overlap: ChatGPT belongs to both issue-path groups. The counts describe printed source identities, not six distinct answers, source quality or verified deployment outcomes.",
+        "sha256": "5eecada5b648a1686b2ec3a717b59f32770739f12c54d9acff385f45f928e6ab",
+        "start_Unicode_codepoint": 90,
+        "end_Unicode_codepoint": 466,
+        "complete_body_sha256": "efdb495b37e8754946a9f8e827ccf51877d9b9353d706e6e8905fb1063a7b9c5"
+      },
+      "record_keys": [
+        "nextcloud|ChatGPT|2026-10-23T02:11:39.807Z",
+        "nextcloud|Claude|2026-10-23T02:11:39.807Z",
+        "nextcloud|Perplexity|2026-10-23T02:11:39.807Z",
+        "nextcloud|Google AI Overviews|2026-10-23T02:11:39.807Z",
+        "nextcloud|Google AI Mode|2026-10-23T02:11:39.807Z"
+      ],
+      "statement_keys": [
+        "nextcloud"
+      ],
+      "quotes": [
+        {
+          "literal": "patch status depends on how you run Nextcloud",
+          "sha256": "6d44a896c30760741a27110c8d611121a31030bc41c70bf0d1933b486a08b5ff",
+          "source_matches": [
+            {
+              "record_key": "nextcloud|ChatGPT|2026-10-23T02:11:39.807Z",
+              "excerpt_start_Unicode_codepoint": 274,
+              "excerpt_end_Unicode_codepoint": 319,
+              "excerpt_sha256": "23c18526536baef097b6ac868ae4fb544facfc702bc061e5988362f77eca77b5",
+              "public_profile_URL": "https://index.broadcastwell.com/php2shell/nextcloud/"
+            }
+          ],
+          "page_offsets": [
+            1688
+          ]
+        }
+      ],
+      "numeric_leads": [
+        {
+          "observation_key": "php2shell-public-nextcloud-20261023-server-issue-path-presence",
+          "figure": {
+            "source_url": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+            "record": {
+              "capture_date": "2026-10-23",
+              "subject": "github.com/nextcloud/server/issues/65754",
+              "metric": "php2shell-public-nextcloud-20261023-server-issue-path-presence",
+              "category": "company-panel",
+              "cohort": "nextcloud",
+              "release": "2026-10-23"
+            },
+            "count": 1,
+            "base": 5,
+            "unit": "published company-panel records",
+            "label": "php2shell-public-nextcloud-20261023-server-issue-path-presence",
+            "source_review_sha256": "6c92277658c46d15d6b427d7d2bddf99406477682d3c861df2a1415397ba42f5"
+          },
+          "match_unit": "path",
+          "target": "github.com/nextcloud/server/issues/65754",
+          "members": [
+            {
+              "engine": "ChatGPT",
+              "captured_at_utc": "2026-10-23T02:11:39.807Z",
+              "literal_matched_URLs": [
+                "https://github.com/nextcloud/server/issues/65754?utm_source=openai"
+              ]
+            }
+          ]
+        },
+        {
+          "observation_key": "php2shell-public-nextcloud-20261023-aio-issue-path-presence",
+          "figure": {
+            "source_url": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+            "record": {
+              "capture_date": "2026-10-23",
+              "subject": "github.com/nextcloud/all-in-one/issues/8876",
+              "metric": "php2shell-public-nextcloud-20261023-aio-issue-path-presence",
+              "category": "company-panel",
+              "cohort": "nextcloud",
+              "release": "2026-10-23"
+            },
+            "count": 2,
+            "base": 5,
+            "unit": "published company-panel records",
+            "label": "php2shell-public-nextcloud-20261023-aio-issue-path-presence",
+            "source_review_sha256": "6c92277658c46d15d6b427d7d2bddf99406477682d3c861df2a1415397ba42f5"
+          },
+          "match_unit": "path",
+          "target": "github.com/nextcloud/all-in-one/issues/8876",
+          "members": [
+            {
+              "engine": "ChatGPT",
+              "captured_at_utc": "2026-10-23T02:11:39.807Z",
+              "literal_matched_URLs": [
+                "https://github.com/nextcloud/all-in-one/issues/8876"
+              ]
+            },
+            {
+              "engine": "Claude",
+              "captured_at_utc": "2026-10-23T02:11:39.807Z",
+              "literal_matched_URLs": [
+                "https://github.com/nextcloud/all-in-one/issues/8876"
+              ]
+            }
+          ]
+        },
+        {
+          "observation_key": "php2shell-public-nextcloud-20261023-community-host-presence",
+          "figure": {
+            "source_url": "https://index.broadcastwell.com/php2shell/data/ai-answers.json",
+            "record": {
+              "capture_date": "2026-10-23",
+              "subject": "help.nextcloud.com",
+              "metric": "php2shell-public-nextcloud-20261023-community-host-presence",
+              "category": "company-panel",
+              "cohort": "nextcloud",
+              "release": "2026-10-23"
+            },
+            "count": 3,
+            "base": 5,
+            "unit": "published company-panel records",
+            "label": "php2shell-public-nextcloud-20261023-community-host-presence",
+            "source_review_sha256": "6c92277658c46d15d6b427d7d2bddf99406477682d3c861df2a1415397ba42f5"
+          },
+          "match_unit": "host",
+          "target": "help.nextcloud.com",
+          "members": [
+            {
+              "engine": "Perplexity",
+              "captured_at_utc": "2026-10-23T02:11:39.807Z",
+              "literal_matched_URLs": [
+                "https://help.nextcloud.com/t/php-vulnerability-issue/251257",
+                "https://help.nextcloud.com/t/is-nextcloud-susceptible-to-the-php2shell-attack/251255/5"
+              ]
+            },
+            {
+              "engine": "Google AI Overviews",
+              "captured_at_utc": "2026-10-23T02:11:39.807Z",
+              "literal_matched_URLs": [
+                "https://help.nextcloud.com/t/is-nextcloud-susceptible-to-the-php2shell-attack/251255"
+              ]
+            },
+            {
+              "engine": "Google AI Mode",
+              "captured_at_utc": "2026-10-23T02:11:39.807Z",
+              "literal_matched_URLs": [
+                "https://help.nextcloud.com/t/is-nextcloud-susceptible-to-the-php2shell-attack/251255",
+                "https://help.nextcloud.com/t/new-master-container-for-aio-to-fix-php2shell/251284"
+              ]
+            }
+          ]
+        }
+      ],
+      "qualitative_leads": [],
+      "source_review_receipts": [
+        "c18039e92c35d875ae7832c2aa9b02c2233163220900b8c0fdc3020a756ecf5a",
+        "1eed053f2d5dbb3cb0f96c0b2f99d93c1d7c4ca31f18a9f92a62bccfd8ef8184",
+        "6c92277658c46d15d6b427d7d2bddf99406477682d3c861df2a1415397ba42f5"
+      ],
+      "writing_review_receipts": [
+        "59ccd436ae1d00ecb549d81cda5a5bb9248a9428f988462995aff5d7f325df01",
+        "711674a0ffd16c572dbc337157cd34729d9adb62e408b8dda309ec1ea137800a",
+        "4fa3fd1ada7f1e0005b78543f7d0fd70bb735abe2e6950e3103b85978e4a08a5"
+      ],
+      "independent_writing_review_sha256": "4210a6ad69a5a950d146373038416f7631b49173a630b6ed4ac4f124ee5d03d3",
+      "opening_shape": "date_first",
+      "classification_reason": "The capture date is the initial frame for overlapping printed-source groups."
+    }
+  }
+}
