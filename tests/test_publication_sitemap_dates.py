@@ -146,4 +146,110 @@ class SitemapDateTests(unittest.TestCase):
             with self.assertRaises(OverlayError):self.f.bind()
 
 
+    def generated_hub(self,fixture=None):
+        # A real raw source stays intact while its served hub removes/relabels
+        # membership. This is deliberately not raw/effective hash equality.
+        import yaml
+        fixture=fixture or self.f
+        previous=fixture.prior_hubs[fixture.hub]
+        raw=canonical((fixture.docs/fixture.hub).read_bytes())
+        body='# Fictional generated hub\n\n[First](first.md)\n'
+        full='---\n'+yaml.safe_dump(previous['meta'],sort_keys=False)+'---\n\n'+body
+        meta,body=fixture.finite.source_body(full)
+        previous.update(effective_full_source=full,canonical_source_sha256=sha(full.encode()),body=body)
+        fixture.hubs[fixture.hub]={'meta':meta,'body':body}
+        for path,hub in fixture.prior_hubs.items():
+            hub['raw_canonical_source_sha256']=sha(canonical((fixture.docs/path).read_bytes()).encode())
+        fixture.receipt.update(hub_raw_source_git_proof_passed=True,
+            hub_raw_source_pins={path:hub['raw_canonical_source_sha256'] for path,hub in fixture.prior_hubs.items()},
+            hub_payload_canonical_json_sha256=sha(encoded({'schema_version':1,'hubs':fixture.prior_hubs})))
+        fixture.refresh()
+        self.assertNotEqual(sha(raw.encode()),previous['canonical_source_sha256'])
+        return fixture
+
+    def test_generated_hub_raw_differs_from_effective_and_retains_actual_XML_date(self):
+        self.generated_hub()
+        binding=self.f.bind();xml,gz=self.generate(binding)
+        self.assertEqual(self.f.xml,xml)
+        self.assertEqual(xml,gzip.decompress(gz))
+        self.assertEqual('EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD',binding.audit()[self.f.hub]['policy'])
+        self.assertNotEqual(self.f.hubs[self.f.hub]['meta']['date_modified'][:10],binding.audit()[self.f.hub]['lastmod'])
+
+    def test_generated_hub_raw_SHA_must_be_valid_and_match_actual_source(self):
+        for value in ['',False,'ABCDEF'*10,'g'*64,'0'*63]:
+            with self.subTest(raw=value):
+                f=self.generated_hub(Fixture(pathlib.Path(self.temp.name)/('malformed-'+str(value))))
+                f.prior_hubs[f.hub]['raw_canonical_source_sha256']=value
+                with self.assertRaisesRegex(OverlayError,'raw source SHA'):f.bind()
+        self.generated_hub();path=self.f.docs/self.f.hub
+        path.write_bytes(path.read_bytes()+b'\nChanged raw hub.\n')
+        with self.assertRaisesRegex(OverlayError,'stale source modification'):self.f.bind()
+
+    def test_generated_hub_requires_whole_approved_bundle_and_Git_raw_receipt(self):
+        cases=[('approved',False),('hub_payload_bundle_sha256','f'*64),
+            ('hub_raw_source_git_proof_passed',False),('hub_raw_source_pins',{}),
+            ('hub_payload_canonical_json_sha256',None),('hub_payload_canonical_json_sha256','f'*64)]
+        for n,(key,value) in enumerate(cases):
+            with self.subTest(field=key):
+                f=self.generated_hub(Fixture(pathlib.Path(self.temp.name)/('proof-'+str(n))))
+                f.receipt[key]=value
+                with self.assertRaises(OverlayError):f.bind()
+
+    def test_generated_hub_coherent_payload_or_component_tampering_is_rejected(self):
+        for kind in ['full','canonical','body','meta','coherent']:
+            with self.subTest(kind=kind):
+                f=self.generated_hub(Fixture(pathlib.Path(self.temp.name)/kind))
+                previous=f.prior_hubs[f.hub]
+                if kind in ['full','coherent']:previous['effective_full_source']+='\nUnapproved generated link.\n'
+                if kind=='canonical':previous['canonical_source_sha256']='f'*64
+                if kind=='body':previous['body']+='Unapproved body.\n'
+                if kind=='meta':previous['meta']=dict(previous['meta'],title='Unapproved title')
+                if kind=='coherent':
+                    previous['canonical_source_sha256']=sha(previous['effective_full_source'].encode())
+                    previous['meta'],previous['body']=f.finite.source_body(previous['effective_full_source'])
+                    f.hubs[f.hub]={'meta':previous['meta'],'body':previous['body']};f.refresh()
+                with self.assertRaises(OverlayError):f.bind()
+
+    def test_generated_hub_current_body_change_still_needs_actual_modified_date(self):
+        self.generated_hub();self.f.hubs[self.f.hub]['body']+='New current link.\n';self.f.refresh()
+        with self.assertRaisesRegex(OverlayError,'stale source modification'):self.f.bind()
+        now=(datetime.now(timezone.utc)-timedelta(seconds=1)).replace(microsecond=0).isoformat()
+        self.f.hubs[self.f.hub]['meta']=dict(self.f.hubs[self.f.hub]['meta'],date_modified=now)
+        self.f.refresh();binding=self.f.bind();self.generate(binding)
+        self.assertEqual('ACTUAL_REVIEWED_CHANGED_OR_NEW_MODIFICATION_DATE',binding.audit()[self.f.hub]['policy'])
+        self.assertEqual(now[:10],binding.audit()[self.f.hub]['lastmod'])
+
+    def test_generated_hub_split_does_not_weaken_compiled_or_render_proof(self):
+        for kind in ['compiled','render','hub_render','legacy_without_raw']:
+            with self.subTest(kind=kind):
+                f=self.generated_hub(Fixture(pathlib.Path(self.temp.name)/kind))
+                if kind=='compiled':f.artifacts[public_route(f.hub)]+=b'unapproved'
+                if kind=='render':f.receipt['source_render_equality_passed']=False
+                if kind=='hub_render':f.receipt['hub_source_render_equality_passed']=False
+                if kind=='legacy_without_raw':
+                    for hub in f.prior_hubs.values():hub.pop('raw_canonical_source_sha256')
+                with self.assertRaises(OverlayError):f.bind()
+
+
+
+    def test_declared_raw_proof_cannot_be_downgraded_by_removing_optional_fields(self):
+        self.generated_hub()
+        trusted_receipt=copy.deepcopy(self.f.receipt)
+        trusted_artifacts=copy.deepcopy(self.f.artifacts)
+        for path,previous in self.f.prior_hubs.items():
+            previous.pop('raw_canonical_source_sha256')
+            raw=canonical((self.f.docs/path).read_bytes())
+            meta,body=self.f.finite.source_body(raw)
+            previous.update(effective_full_source=raw,canonical_source_sha256=sha(raw.encode()),meta=meta,body=body)
+            self.f.hubs[path]={'meta':meta,'body':body}
+        self.f.refresh()
+        self.assertEqual(trusted_receipt,self.f.receipt)
+        self.assertEqual(trusted_artifacts,self.f.artifacts)
+        self.assertNotEqual(self.f.receipt['hub_payload_canonical_json_sha256'],
+            sha(encoded({'schema_version':1,'hubs':self.f.prior_hubs})))
+        with self.assertRaisesRegex(OverlayError,'object differs from independently approved bundle'):
+            self.f.bind()
+
+
+
 if __name__=='__main__':unittest.main()
