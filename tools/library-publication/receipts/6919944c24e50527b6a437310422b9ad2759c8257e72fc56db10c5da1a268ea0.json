@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/perplexity/which-legal-practice-software-does-perplexity-recommend.md",
+  "bank_id": "LB-Q0612",
+  "canonical_source_sha256": "e65471336f177c7588755d6f2c1b44fcbbdbd064e1f9960e813d6a4efe791e60",
+  "effective_canonical_source_sha256": "fc27fdf0ed396abe4848f0fc71c9f4c1ae6774226192e5f10f77aaa9c3b3f30b",
+  "effective_body_sha256": "66862837280f9a5548ad2dd858321fbcf52b10b8311c9ed13b028470994f19bf",
+  "effective_metadata_sha256": "ba6dba06ff94f1385c9b2a239b2a29e2bbfea5c6ec1b57f0691303340ba06cbe",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\perplexity\\which-legal-practice-software-does-perplexity-recommend.md",
+    "raw_sha256": "fc27fdf0ed396abe4848f0fc71c9f4c1ae6774226192e5f10f77aaa9c3b3f30b",
+    "canonical_LF_sha256": "fc27fdf0ed396abe4848f0fc71c9f4c1ae6774226192e5f10f77aaa9c3b3f30b"
+  },
+  "reviewed_utc": "2026-11-03T11:17:08.859953+00:00",
+  "full_read_basis": "PriorcompleteSourcearticlecoverageplusindependentlycheckedoneactualNextstepmethodtokenrestorationandRootactualdate-onlymetadatachange;nofresh45wholebodyrereadclaimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_METHOD45_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0612.method45-source-coverage.json",
+    "raw_sha256": "850ce26db88ce7e44be771af05f4c5f9389b385c8ea38d5bfd58c815012b4ec5",
+    "canonical_LF_sha256": "850ce26db88ce7e44be771af05f4c5f9389b385c8ea38d5bfd58c815012b4ec5"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "date_modified": "2026-11-03T11:12:54+00:00",
+    "scope": "ActualRootprivatefooteradoption,notpublicpublication."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false,
+  "prior_approved_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0612.source.json",
+    "raw_sha256": "021c4ed175ff089912eef6a012804741cd3df8a6290db4c5c967bfcffcf8b51d",
+    "canonical_LF_sha256": "021c4ed175ff089912eef6a012804741cd3df8a6290db4c5c967bfcffcf8b51d"
+  }
+}

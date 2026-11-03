@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/perplexity/which-field-service-software-does-perplexity-recommend.md",
+  "before_effective_canonical_sha256": "7c1bca69d71903ba5ad560c4c1cb79d87723a6becb7b48c60ef1264ff890a8b5",
+  "raw_canonical_source_sha256": "7c1bca69d71903ba5ad560c4c1cb79d87723a6becb7b48c60ef1264ff890a8b5",
+  "after_effective_canonical_sha256": "46b9158969cebbb0670ce98b6131fab44d07e89ad38ccfd6f0fe086468798348",
+  "fact_ledger_sha256": "42df6ecd5fa265143bfeb055e1806accf85a88728b2305bca951aeddf242c2c6",
+  "effective_payload_sha256": "1cdec8b616c646301cf3e0fe635fa9540e53acf598139fa7bf59bc3ddc008d31",
+  "scope": "Root exact11candidate revision/fact-ledger review for bounded build only. Source/Writing complete-current fullarticle peer receipts independently hash-bound. Root read literal old/new changed paragraphs and all11ordinal candidates; verified exact Source facts/quotes provenance via actual peer chains, scoped measured observations/neutraloffers, no lost primary destinations, unchanged315priorpayloads and accepted45. Actual build/bothscope/50surface/native/CI/live/discovery gates still required; no wholecurrent/globalPASS.",
+  "reviewed_utc": "2026-11-03T11:29:48.019436+00:00"
+}

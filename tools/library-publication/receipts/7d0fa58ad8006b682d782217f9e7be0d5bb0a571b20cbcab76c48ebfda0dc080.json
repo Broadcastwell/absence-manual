@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/perplexity/how-does-perplexity-work.md",
+  "bank_id": "LB-Q0283",
+  "canonical_source_sha256": "2e4cf4c190bae538f78fcd8416d4324bb111b60ffd08a5d06cd46c55d0831f8b",
+  "effective_canonical_source_sha256": "5be630fa5f78ecbcaf4a79122b14bb5586ed87176891c3a07f2d42482124d6af",
+  "effective_body_sha256": "0768bb01bf4290d0d9b5d390806b764cdfb371ac41c3680a02e78757f5e4699e",
+  "effective_metadata_sha256": "caa207ee05e444c9d6a0209e94b998f32e9f3c00a730432664baf3036dae9302",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\perplexity\\how-does-perplexity-work.md",
+    "raw_sha256": "5be630fa5f78ecbcaf4a79122b14bb5586ed87176891c3a07f2d42482124d6af",
+    "canonical_LF_sha256": "5be630fa5f78ecbcaf4a79122b14bb5586ed87176891c3a07f2d42482124d6af"
+  },
+  "reviewed_utc": "2026-11-03T10:38:44.186118+00:00",
+  "full_read_basis": "Actual complete source article read plus exact reviewed bounded/fullfuture continuations; current metadata is verified Rootactualdate-only replay. No new single-pass262reread claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\coverage\\LB-Q0283.source-coverage.json",
+    "raw_sha256": "7a532a0d7be39e480df09e0bdb5ea73452dad10c1be2218d19921c08ef22587a",
+    "canonical_LF_sha256": "7a532a0d7be39e480df09e0bdb5ea73452dad10c1be2218d19921c08ef22587a"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00",
+    "scope": "Rootprovided actualprivateadoption, not publicpublication or measuredsourcecapture date."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false
+}

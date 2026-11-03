@@ -8,3 +8,5 @@ tools/library_related_chapters.json text eol=lf
 tools/library_field_freeze_navigation.json text eol=lf
 docs/research/data/field-test-protocol.pdf -text
 docs/research/data/field-test-interventions.json -text
+# Reviewed publication inputs and receipt hashes identify exact authority bytes.
+/tools/library-publication/** -text
