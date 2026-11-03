@@ -6,6 +6,7 @@ from pathlib import Path
 import json, re, html
 from html.parser import HTMLParser
 import yaml
+from urllib.parse import urlsplit
 try:
     from tools.library_quality import words, sequences, comparison_prose
 except ModuleNotFoundError:
@@ -36,6 +37,24 @@ def comparable(body):
     # Use the library's required full-page comparison, including references.
     # Only that unchanged function's explicitly excluded fixed/link text is removed.
     return comparison_prose(body)
+
+
+def check_closing_sections(body, group, need):
+    """Permit noncommercial study endings while preserving the legacy migration."""
+    if group == 'study' and '## Continue' not in body:
+        headings = re.sub(r'(?ms)^```[^\n]*\n.*?^```\s*$', '', body)
+        need(bool(re.search(r'(?m)^## Related (?:reading|studies)\s*$', headings)),
+             'noncommercial related reading missing')
+        urls = re.findall(r"(?:https?:)?//[^\s<>\[\]()'\"]+", body, re.I)
+        need(not any(urlsplit(url.rstrip('.,;')).hostname == 'audit.broadcastwell.com' for url in urls),
+             'study body must not include a promotional audit link')
+    else:
+        need('## Continue' in body, 'Continue missing')
+        closing = body.split('## Continue')[-1]
+        links = re.findall(r'\[[^\]]+\]\(([^)]+)\)', closing)
+        need(len(links) == 2 and links[0] == 'https://audit.broadcastwell.com/'
+             and links[1].startswith('https://docs.broadcastwell.com/'),
+             'closing block needs only free check and relevant manual/library links')
 
 
 def check_research(root):
@@ -72,12 +91,11 @@ def check_research(root):
         after=body[heading.end():].lstrip() if heading else ''
         quote=re.match(r'\*\*(.+?)\*\*',after)
         need(bool(quote) and len(quote[1].split())<=30,'bold opening quotation sentence must have at most 30 words')
-        for block in ('What our own data shows','Sources','Cite this page','Continue'):
+        for block in ('What our own data shows','Sources','Cite this page'):
             need('## '+block in body,block+' missing')
         need('Prepared by the Broadcastwell research team. Lead: '+meta['lead'] in body,'lead byline missing')
         need('```bibtex' in body and meta['canonical'] in body,'APA and BibTeX citation missing')
-        closing=body.split('## Continue')[-1];links=re.findall(r'\[[^\]]+\]\(([^)]+)\)',closing)
-        need(len(links)==2 and links[0]=='https://audit.broadcastwell.com/' and links[1].startswith('https://docs.broadcastwell.com/'),'closing block needs only free check and relevant manual/library links')
+        check_closing_sections(body, group, need)
         need(not re.search(r'\b(?:delve|tapestry|game.changer|unlock)\b',comparable(body),re.I),'prohibited prose wording')
         need(not re.search(r'\bour (?:workflow|pipeline)\b|\b(?:call counts|api keys|top.up)\b',comparable(body),re.I),'private production terminology requires removal')
         if group in ('insight','source','study','playbook'):need(meta.get('schema_type')=='TechArticle','TechArticle required')
