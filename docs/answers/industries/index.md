@@ -5,7 +5,7 @@ description: Absences and cited sources in each of the fourteen measured softwar
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T01:38:25+00:00'
-date_modified: '2026-11-02T22:14:54+00:00'
+date_modified: '2026-11-03T05:03:06+00:00'
 library_hub: true
 library_owner: Ananya Rao, AI Engineer
 library_order: 8
@@ -231,7 +231,7 @@ DealerAI documents inventory, leads and Reach follow-up with store permissions. 
 
 [Is hotel property management software with ChatGPT free?](hotel-property-management-software-chatgpt-free.md)
 
-ChatGPT Free research, a Zapier tier and a hotel PMS license are separate conditions. Read the named Cloudbeds route and its reported limits.
+ChatGPT Free research, a Zapier tier and a hotel software license are separate conditions. Read the named Cloudbeds route and its reported limits.
 
 ## Insurance task assignment through a reported route
 

@@ -6,7 +6,7 @@ description: 326 answers use dated Broadcastwell data to explain AI shortlists, 
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-11-02T22:24:59+00:00'
+date_modified: '2026-11-03T05:03:06+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 ---
@@ -75,3 +75,6 @@ Page owner: Vikram Patel, AI Architect. Corrections: hello@broadcastwell.com
 - [Quotable numbers, with their original boundaries](https://docs.broadcastwell.com/research/evidence/quotable-numbers/)
 - [A reading list for B2B marketers: which pages deserve your time?](https://docs.broadcastwell.com/research/sources/reading-list/)
 - [What the Absence Index can compare with the literature](https://docs.broadcastwell.com/research/insights/index-against-the-literature/)
+- [Dated claims and their supporting sources](https://docs.broadcastwell.com/research/claims/)
+- [Research downloads and academic access](https://docs.broadcastwell.com/research/academic-access/)
+- [The registered evidence-refresh field-test protocol](https://docs.broadcastwell.com/research/studies/evidence-refresh-field-test/)
