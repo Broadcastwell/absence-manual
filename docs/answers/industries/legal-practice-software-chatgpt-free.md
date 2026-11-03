@@ -5,7 +5,7 @@ description: ChatGPT Free can research public legal-software information. A Clio
 page_class: page
 schema_type: Article
 date_published: '2026-10-30T14:10:06+00:00'
-date_modified: '2026-10-30T14:39:15+00:00'
+date_modified: '2026-11-03T00:26:19+00:00'
 hide:
 - navigation
 library_cluster: industries
@@ -26,6 +26,8 @@ evidence_method_receipts:
 # Is legal practice software with ChatGPT free?
 
 If you mean researching public legal-software information, ChatGPT Free has documented web-search functions; that does not establish a free Clio-and-ChatGPT workflow. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached all 5 of the 5 legal-software pricing destinations on 6 October 2026. Finding those destinations is a public-site observation, rather than a license or account entitlement.
+
+Observed answers on stated dates, not a ranking.
 
 ## What we measured
 
@@ -55,7 +57,9 @@ If you mean researching public legal-software information, ChatGPT Free has docu
 | Smokeball | 14 | 18 | 12 | 11 | 13 |
 | Tabs3 | 0 | 4 | 0 | 1 | 1 |
 
-**Reported.** OpenAI's [Free FAQ](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq), saved on 30 October 2026, describes public web research within feature limits. The [Clio and ChatGPT template](https://zapier.com/apps/chatgpt/integrations/clio/1480345/create-chatgpt-conversations-from-new-clio-activities), read on 29 October, identifies account operations including assigning a task-template list to a Matter ID.
+In the retained [one-attorney answer](https://index.broadcastwell.com/questions/legal-practice-management/what-is-the-best-legal-practice-management-software-for-a-solo-attorney/), captured on 22 September 2026, ChatGPT wrote, “Clio likewise reserves several everyday features for Core and higher.” This historical plan-scope statement belongs to that answer; it does not verify current Clio terms or a free ChatGPT connection.
+
+**Reported.** OpenAI's [Free FAQ (frequently asked questions)](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq), saved on 30 October 2026, describes public web research within feature limits. The [Clio and ChatGPT template](https://zapier.com/apps/chatgpt/integrations/clio/1480345/create-chatgpt-conversations-from-new-clio-activities), read on 29 October 2026, identifies account operations including assigning a task-template list to a Matter ID (matter identifier).
 
 **Reasoned.** A research answer about software terms and a task assignment inside a matter record have different inputs. The public pricing-path result does not supply permission or entitlement to that account operation.
 
@@ -69,20 +73,22 @@ legal practice software chatgpt free?
 
 ## Related
 
-- [Actual ChatGPT Free FAQ](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq)
+- [ChatGPT Free-plan questions](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq)
 - [Clio and ChatGPT task template](https://zapier.com/apps/chatgpt/integrations/clio/1480345/create-chatgpt-conversations-from-new-clio-activities)
-- [Agent Gap task data and method](https://doi.org/10.5281/zenodo.23197560)
 - [One-attorney buying question](https://index.broadcastwell.com/questions/legal-practice-management/what-is-the-best-legal-practice-management-software-for-a-solo-attorney/)
-- [Original legal naming data](https://doi.org/10.5281/zenodo.22907695)
+- [Legal practice management category record](https://index.broadcastwell.com/categories/legal-practice-management/)
 - [The Manual chapter on valid measurement](https://docs.broadcastwell.com/valid-measurement/)
+- [More industries answers](https://docs.broadcastwell.com/answers/industries/)
 
 ## Next step
 
-Use the [Free 10-question check (one engine)](https://audit.broadcastwell.com/) for a separate dated company-answer sample. No email is needed; runs are limited per network and per day, and by the site's daily allowance.
+[Free 10-question check (one engine)](https://audit.broadcastwell.com/). No email is needed; runs are limited per network and per day, and by the site's daily allowance.
 
-For one documented company-fact error, [Fix one answer, $490](https://broadcastwell.com/answer-repair). Keep the retained answer and its supporting public source with the correction.
+Claiming or correcting a vendor record is free and never depends on a purchase.
 
 [Our answer-study method, v1.1.](https://broadcastwell.com/methodology)
+
+Answer Repair: [Fix one answer, $490](https://broadcastwell.com/answer-repair).
 
 Prepared by the Broadcastwell team.
 

@@ -5,7 +5,7 @@ description: Absences and cited sources in each of the fourteen measured softwar
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T01:38:25+00:00'
-date_modified: '2026-10-30T14:53:57+00:00'
+date_modified: '2026-11-02T22:14:54+00:00'
 library_hub: true
 library_owner: Ananya Rao, AI Engineer
 library_order: 8
@@ -15,7 +15,9 @@ library_order: 8
 
 Absences and cited sources in each of the fourteen measured software categories.
 
-These 40 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+Observed answers on stated dates, not a ranking.
+
+These 46 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Construction absence checks
 
@@ -243,8 +245,49 @@ AgencyZoom documents task assignment. A dated insurance-buyer criterion and full
 
 ChatGPT Free can research public legal-software information. A Clio task route has separate account conditions, distinct from a reached public-pricing page.
 
+## Loan software public research and account terms
+
+[Is loan origination software with ChatGPT free?](loan-origination-software-chatgpt-free.md)
+
+ChatGPT Free supports public research. LendingPad documents a separate account-linked route and a dated paid-Zapier condition, alongside the full vendor panel.
+
+## Project-management pooled naming shortlist
+
+[What are the top five project management software options?](what-are-the-top-five-project-management-software-options.md)
+
+Asana, ClickUp, Jira, Smartsheet and Wrike have the five highest pooled naming counts in our dated panel. Read all ten vendors and every engine count.
+
+## Radiology planning and patient-app scope
+
+[What can radiology software with ChatGPT do for project management?](radiology-software-chatgpt-project-management.md)
+
+RamSoft reported imaging-procedure explanations, not project-planning actions. A dated scheduling criterion and full vendor matrix keep those uses distinct.
+
+## Transportation research and account access
+
+[Is transportation management software with ChatGPT free?](transportation-management-software-chatgpt-free.md)
+
+ChatGPT Free supports public research. Alvys describes separate access to transport records; public pricing-path results do not establish a free system.
+
+## CRM outbound-call records and handoffs
+
+[What should I compare when choosing a CRM for outbound calls?](what-should-i-compare-when-choosing-a-crm-for-outbound-calls.md)
+
+Compare the call record and follow-up handoff. Our dated CRM answers state activity tracking in 18 of 150 returns, alongside every checked vendor count.
+
+## CRM buyer situations and comparison scope
+
+[Which CRM software should a buyer compare?](which-crm-software-should-a-buyer-compare.md)
+
+Start from the sales situation. Dated CRM answers state a fit requirement in 36 of 150 returns; the full matrix shows every checked supplier and engine.
+
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
 Prepared by the Broadcastwell team.
 
 Page owner: Ananya Rao, AI Engineer. Corrections: hello@broadcastwell.com
+
+## Related research
+
+- [Familiar brands can have low measured presence](https://docs.broadcastwell.com/research/insights/strong-brands-weak-visibility/)
+- [What is entity confidence, and is it a Google metric?](https://docs.broadcastwell.com/research/glossary/entity-confidence/)

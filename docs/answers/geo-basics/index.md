@@ -5,7 +5,7 @@ description: Definitions, question sets and the difference between being cited a
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-30T14:53:57+00:00'
+date_modified: '2026-11-02T22:24:59+00:00'
 library_hub: true
 library_owner: Priya Nair, Management Consultant
 library_order: 1
@@ -15,7 +15,9 @@ library_order: 1
 
 Definitions, question sets and the difference between being cited and being chosen.
 
-These 46 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
+Observed answers on stated dates, not a ranking.
+
+These 66 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
 ## Definitions
 
@@ -269,6 +271,10 @@ A CRM’s AI label does not establish the best fit. A dated buyer-question crite
 
 Choose the assistant for the work you need to check. Our Salesforce-domain citation counts differ between ChatGPT and Perplexity without measuring SEO lift.
 
+[How can ChatGPT help with SEO content?](how-can-chatgpt-help-with-seo-content.md)
+
+Use ChatGPT to draft and compare a page against supplied sources. Our JobTread price findings show why a fluent draft still needs a dated fact check.
+
 ## Using AI with business software
 
 [Will CRM get replaced by AI?](will-crm-get-replaced-by-ai.md)
@@ -281,8 +287,128 @@ HubSpot’s ChatGPT connection uses a HubSpot account. A chat interface and a re
 
 Google keeps search eligibility rules for AI features. Our HubSpot citation count measures answers, with clicks and rankings kept separate.
 
+## Visibility platforms
+
+[What does Searchable offer for AI search visibility?](what-does-searchable-offer-for-ai-search-visibility.md)
+
+Searchable describes answer monitoring, a brand agent, content tools and site audits. Our Zoho naming count illustrates the scope behind a visibility number.
+
+## Learning and credentials
+
+[What courses cover answer engine optimization?](what-courses-cover-answer-engine-optimization.md)
+
+HubSpot Academy publishes a course on SEO in the age of AI. Its syllabus covers AEO; our Claude naming example shows one measurement exercise to check.
+
+[What certifications cover answer engine optimization?](what-certifications-cover-answer-engine-optimization.md)
+
+HubSpot Academy lists two AEO certifications with different scopes. A credential’s title and a dated evidence-checking task answer different questions.
+
+## AEO work functions and factual review
+
+[What jobs involve answer engine optimization?](what-jobs-involve-answer-engine-optimization.md)
+
+AEO work spans editing, technical publication and measurement. A dated CosmoLex record makes those functions concrete without claiming vacancies.
+
+## Concrete factual-answer examples
+
+[What are examples of answer engine optimization?](what-are-examples-of-answer-engine-optimization.md)
+
+A retained Jobber price disagreement illustrates factual-answer work. Read its dated claim, billing qualifier and reference without assuming visibility lift.
+
+## ChatGPT source retrieval and SEO page conditions
+
+[How does ChatGPT relate to SEO?](how-does-chatgpt-relate-to-seo.md)
+
+ChatGPT can retrieve sources; SEO concerns a published site’s search conditions. A dated Salesforce citation count keeps these observations separate.
+
+## Factual search-content research tasks
+
+[What SEO prompts can I use with ChatGPT?](what-seo-prompts-can-i-use-with-chatgpt.md)
+
+Separate a product claim, billing period and dated supplier reference. The Jobber example supplies concrete fields for factual search-content research.
+
+## Human source-reading skills for ChatGPT SEO
+
+[What skills help with ChatGPT SEO work?](chatgpt-seo-skills.md)
+
+Reading qualifiers, tracing references and reporting unknowns help with ChatGPT SEO. Four dated JobTread claim flags supply concrete tasks.
+
+## Meaning and scope
+
+[What does brand visibility in ChatGPT mean?](what-does-brand-visibility-in-chatgpt-mean.md)
+
+Pipedrive appeared in 17 of 30 ChatGPT CRM answers in our September panel. Visibility needs the question set, repeat count and exact kind of appearance.
+
+[What does visibility in Claude mean?](what-does-visibility-in-claude-mean.md)
+
+Freshsales was named in 8 of 30 Claude CRM answers. The raw Freshworks URL and the concurrent product-name citation measure tell different stories.
+
+## Monitoring scope and cost
+
+[What does tracking brand visibility in ChatGPT cost?](chatgpt-brand-visibility-cost.md)
+
+Brand-visibility costs depend on questions, repeats and engines. Our Close result distinguishes a single response from a defined measurement panel.
+
+## Search pages and answer sources
+
+[How does Perplexity relate to SEO?](how-does-perplexity-relate-to-seo.md)
+
+Perplexity answers can name and cite products differently from other engines. Our Insightly counts separate that observation from a search ranking.
+
+## Tools for site review
+
+[What can Perplexity Computer do for SEO?](what-can-perplexity-computer-do-for-seo.md)
+
+Perplexity describes research and browser automation in Computer. Use those capabilities for a bounded review, then verify the page and every claimed action.
+
+## Judging strategy claims
+
+[Is GEO a legitimate strategy?](is-geo-a-legitimate-strategy.md)
+
+GEO can mean useful work on public answers, but the label proves no tactic. Our CRM criteria show a concrete buyer need to address and measure.
+
+## Skills and responsibilities
+
+[Is GEO a separate skill from SEO?](is-geo-a-separate-skill-from-seo.md)
+
+SEO and GEO share page work. Reading answers adds an evidence task; our Freshsales count needs the engine, date and naming rule.
+
+## Learning through public evidence
+
+[What should I learn for technical SEO, AEO and GEO?](what-should-i-learn-for-technical-seo-aeo-and-geo.md)
+
+Learn to inspect pages, verify product claims and report defined answer events. Our CRM security criteria offer a practice exercise.
+
+## Learning goals and limits
+
+[Is learning SEO and GEO worthwhile in 2026?](is-learning-seo-and-geo-worthwhile-in-2026.md)
+
+Judge learning by the work you need to do. Our Housecall Pro record concerns factual review, rather than jobs, traffic or earnings.
+
+## Inspecting implementation evidence
+
+[Who has practical experience implementing GEO or AEO?](who-has-practical-experience-implementing-geo-or-aeo.md)
+
+Single Grain and Go Fish publish named implementation cases. Our buyer-criteria study shows why practical proof needs a clear scope.
+
+## Web publishing and composed search answers
+
+[How might AI search engines change the web?](how-might-ai-search-engines-change-the-web.md)
+
+AI search can cite a page without selecting its publisher. A dated naming/citation relationship and actual search guidance put a limit on future-web forecasts.
+
 [Browse all answer clusters](../index.md). For the full argument and measurement rules, read the [Absence Manual](../../index.md).
 
 Prepared by the Broadcastwell team.
 
 Page owner: Priya Nair, Management Consultant. Corrections: hello@broadcastwell.com
+
+## Related research
+
+- [Why nobody can give you a ranking recipe](https://docs.broadcastwell.com/research/insights/no-ranking-recipe/)
+- [GEO papers ask different questions about visibility](https://docs.broadcastwell.com/research/insights/state-of-geo-research-2026/)
+- [A four-part SEO taxonomy is a map of topics, not a test of results](https://docs.broadcastwell.com/research/sources/ziakis-vlachopoulou-2024/)
+- [Search was already an answer-seeking habit in the 2009 SEO Bible](https://docs.broadcastwell.com/research/sources/seo-bible-2009/)
+- [How do you choose a buyer question worth answering?](https://docs.broadcastwell.com/research/playbooks/question-led-content/)
+- [What does information gain mean in SEO?](https://docs.broadcastwell.com/research/glossary/information-gain/)
+- [How do SEO, AEO and GEO differ?](https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/)

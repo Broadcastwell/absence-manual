@@ -1,19 +1,21 @@
 ---
 title: AI visibility answers
 headline: Answers to AI visibility questions
-description: 300 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and
+description: 326 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and
   source corrections.
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T17:40:48+00:00'
-date_modified: '2026-10-30T14:53:57+00:00'
+date_modified: '2026-11-02T22:24:59+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 ---
 
 # Answers to AI visibility questions
 
-Start with the question you need to answer. These 300 pages use Broadcastwell's published observations and link to the records behind their figures. The dates and bases matter: a named vendor, a cited page and a buyer's decision are different events.
+Start with the question you need to answer. These 326 pages use Broadcastwell's published observations and link to the records behind their figures. The dates and bases matter: a named vendor, a cited page and a buyer's decision are different events.
+
+Observed answers on stated dates, not a ranking.
 
 ## Browse the library
 
@@ -64,3 +66,12 @@ The [Manual](../index.md) explains the broader argument. The [Absence Index](htt
 Prepared by the Broadcastwell team.
 
 Page owner: Vikram Patel, AI Architect. Corrections: hello@broadcastwell.com
+
+## Related research
+
+- [What the research says about search and AI answers](https://docs.broadcastwell.com/research/)
+- [Twenty-one source documents, graded by what they support](https://docs.broadcastwell.com/research/evidence/graded-sources/)
+- [The Broadcastwell evidence standard](https://docs.broadcastwell.com/research/standard/)
+- [Quotable numbers, with their original boundaries](https://docs.broadcastwell.com/research/evidence/quotable-numbers/)
+- [A reading list for B2B marketers: which pages deserve your time?](https://docs.broadcastwell.com/research/sources/reading-list/)
+- [What the Absence Index can compare with the literature](https://docs.broadcastwell.com/research/insights/index-against-the-literature/)

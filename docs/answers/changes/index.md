@@ -5,7 +5,7 @@ description: Dated facts, uncertain incidents and the distinction between a plan
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T21:30:42+00:00'
-date_modified: '2026-10-29T16:21:09+00:00'
+date_modified: '2026-11-02T22:14:54+00:00'
 library_hub: true
 library_owner: Marcus Reed, AI Specialist
 library_order: 10
@@ -14,6 +14,8 @@ library_order: 10
 # Changes answers
 
 Dated facts, uncertain incidents and the distinction between a plan and a completed change.
+
+Observed answers on stated dates, not a ranking.
 
 These 10 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
@@ -82,3 +84,8 @@ Check the exact claim, dated vendor evidence and review state. Procore had two w
 Prepared by the Broadcastwell team.
 
 Page owner: Marcus Reed, AI Specialist. Corrections: hello@broadcastwell.com
+
+## Related research
+
+- [Numbers we could not verify, and claims the originals correct](https://docs.broadcastwell.com/research/evidence/unverified-numbers/)
+- [How can you check an SEO statistic before you cite it?](https://docs.broadcastwell.com/research/evidence/spot-a-fake-statistic/)

@@ -5,7 +5,7 @@ description: Software category observations from Claude, with the questions and 
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T01:38:25+00:00'
-date_modified: '2026-10-29T15:32:43+00:00'
+date_modified: '2026-11-02T22:14:54+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 3
@@ -14,6 +14,8 @@ library_order: 3
 # Claude answers
 
 Software category observations from Claude, with the questions and answer bases attached.
+
+Observed answers on stated dates, not a ranking.
 
 These 12 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
@@ -94,3 +96,7 @@ Claude web search retrieves web material and cites sources when used; Procore wa
 Prepared by the Broadcastwell team.
 
 Page owner: Vikram Patel, AI Architect. Corrections: hello@broadcastwell.com
+
+## Related research
+
+- [Does low presence persist? The registered study is waiting for comparable releases](https://docs.broadcastwell.com/research/studies/does-absence-persist/)

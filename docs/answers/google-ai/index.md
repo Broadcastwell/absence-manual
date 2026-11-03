@@ -5,7 +5,7 @@ description: AI Overviews, AI Mode, their different answers and the bases needed
 page_class: page
 schema_type: Article
 date_published: '2026-10-28T23:36:56+00:00'
-date_modified: '2026-10-30T05:08:26+00:00'
+date_modified: '2026-11-02T22:14:54+00:00'
 library_hub: true
 library_owner: Vikram Patel, AI Architect
 library_order: 5
@@ -14,6 +14,8 @@ library_order: 5
 # Google AI answers
 
 AI Overviews, AI Mode, their different answers and the bases needed to compare them.
+
+Observed answers on stated dates, not a ranking.
 
 These 27 answers use dated Broadcastwell findings. Each page identifies its question, figure and source; a count in an answer does not establish product quality or a completed sale.
 
@@ -170,3 +172,13 @@ Google makes Overview display conditional. One recorded hotel-software query ret
 Prepared by the Broadcastwell team.
 
 Page owner: Vikram Patel, AI Architect. Corrections: hello@broadcastwell.com
+
+## Related research
+
+- [One rank number was already a fiction in 2009](https://docs.broadcastwell.com/research/insights/one-rank-number-is-a-fiction/)
+- [Google itself asks for original research](https://docs.broadcastwell.com/research/insights/google-asks-for-original-research/)
+- [A small Google study does not give you a ranking recipe](https://docs.broadcastwell.com/research/sources/ziakis-2019/)
+- [Read Google’s 2010 guide for principles, then check the current instructions](https://docs.broadcastwell.com/research/sources/google-seo-starter-guide-2010/)
+- [How can research become discoverable in Scholar and Dataset Search?](https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/)
+- [What does query fan-out mean?](https://docs.broadcastwell.com/research/glossary/query-fan-out/)
+- [What is zero-click visibility?](https://docs.broadcastwell.com/research/glossary/zero-click-visibility/)
