@@ -4,7 +4,7 @@ Source date_modified is not silently substituted for an already published
 sitemap date. Changed/new records require their reviewed actual modification
 timestamp. No source, XML, receipt or approval is written here.
 """
-import copy
+import copy,re
 from datetime import date,datetime,timezone
 from library_publication_overlay import require,sha,canonical
 from library_publication_composition import bind_prior_production
@@ -26,6 +26,15 @@ def _prior_hub_paths(prior):
     import re
     return {route.removeprefix('/')+'index.md' for route,row in prior['routes'].items()
         if row['kind']=='auxiliary' and re.fullmatch(r'/answers/(?:[a-z0-9-]+/)?',route)}
+
+
+def _prior_hub_raw_source(previous):
+    # Effective full source remains independently hashed and parsed below.
+    # Legacy producers used the same bytes for raw and effective hubs.
+    raw=previous.get('raw_canonical_source_sha256',previous.get('canonical_source_sha256'))
+    require(isinstance(raw,str) and re.fullmatch(r'[0-9a-f]{64}',raw),
+        'Prior hub raw source SHA malformed')
+    return raw
 
 
 def _derive_dates(registry,*,prior_xml,prior_payloads,prior_hubs):
@@ -57,7 +66,8 @@ def _derive_dates(registry,*,prior_xml,prior_payloads,prior_hubs):
                 require(sha(previous['effective_full_source'].encode())==previous['canonical_source_sha256'],'Prior hub full source pin differs')
                 meta,body=overlay.finite.source_body(previous['effective_full_source'])
                 require(meta==previous['meta'] and body==previous['body'],'Prior hub body/metadata differ from full source')
-            unchanged=bool(previous and source==previous['canonical_source_sha256']
+            raw_source=_prior_hub_raw_source(previous) if previous else None
+            unchanged=bool(previous and source==raw_source
                 and record['body']==previous['body'] and record['meta']==previous['meta'])
         if unchanged:
             require(old is not None,'Unchanged prior record is missing its actual published sitemap row')
@@ -101,6 +111,19 @@ def bind_publication_dates(registry,*,prior_xml,prior_payload_bundle,prior_hub_b
         actual_binding=overlay.prior['production_binding'],receipt=producer_receipt,q=overlay.q,payload_file_sha256=payload_file_sha256)
     require(producer_receipt.get('hub_payload_bundle_sha256')==hub_file_sha256
         and producer_receipt.get('hub_source_render_equality_passed') is True,'Independent prior hub payload/source/render proof missing or stale')
+    raw_proof_fields=('hub_raw_source_git_proof_passed','hub_raw_source_pins','hub_payload_canonical_json_sha256')
+    if (any('raw_canonical_source_sha256' in hub for hub in hubs.values())
+            or any(field in producer_receipt for field in raw_proof_fields)):
+        # The optional raw/effective split is valid only inside the entire
+        # independently approved hub bundle and its explicit Git-source proof.
+        raw_sources={path:_prior_hub_raw_source(hub) for path,hub in hubs.items()}
+        require(producer_receipt.get('hub_raw_source_git_proof_passed') is True
+            and producer_receipt.get('hub_raw_source_pins')==raw_sources,
+            'Independent prior raw hub Git proof missing or stale')
+        bundle=producer_receipt.get('hub_payload_canonical_json_sha256')
+        require(isinstance(bundle,str) and re.fullmatch(r'[0-9a-f]{64}',bundle)
+            and bundle==sha(overlay.q.canonical_json(prior_hub_bundle).encode()),
+            'Prior hub payload object differs from independently approved bundle')
     require(overlay.prior['routes']['/sitemap.xml']['compiled_sha256']==sha(prior_xml)
         and actual_prior_artifacts.get('/sitemap.xml')==prior_xml,'Prior XML differs from actual trusted publication')
     dates,audit=_derive_dates(registry,prior_xml=prior_xml,prior_payloads=payloads,prior_hubs=hubs)
