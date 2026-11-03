@@ -29,12 +29,15 @@ You can download the public packages directly. We require no exclusive access ar
 | Resource | Primary record | What it contains |
 | --- | --- | --- |
 | Absence Index, September 2026 | [Version DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695) | The release files, archived answer text, cited URLs, questions, definitions and exclusions described in its README |
+| Long-format benchmark | [Downloads and reuse terms](https://index.broadcastwell.com/downloads#benchmark), [README](https://index.broadcastwell.com/data/benchmark/README.md), [schema](https://index.broadcastwell.com/data/benchmark/schema.json), [September attempts](https://index.broadcastwell.com/data/benchmark/release-2026-09.jsonl) and [August aggregates](https://index.broadcastwell.com/data/benchmark/release-2026-08.1-aggregates.json) | All September target attempts, including failures; unchanged August aggregates with their erratum. Missing historical dimensions remain null. |
 | Historical August 2026 release | [Corrected version DOI 10.5281/zenodo.22721962](https://doi.org/10.5281/zenodo.22721962) | Historical aggregates with their own configuration and limitations; retained attempt-level answers are unavailable |
 | Two completed registered analyses | [Report version DOI 10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758) | The November 2, 2026 report and its 53 public CSV files, including classifications, counts, failures, exclusions and dated corrections |
 | GEO Claim Registry | [claims.csv](../data/claims.csv) and [claims.json](../data/claims.json) | The dated claim, primary-source location, setting, verdict, unresolved-source limit and correction |
 | Initial crawler snapshot | [Public CSV](../data/ai-crawler-log.csv) | A short October 30, 2026 request window, with its request base and excluded own check; this is an operational log |
 
 The September archive contains 2,100 target attempts, including five failures, and 150 control attempts. The eligible target-answer base is 2,095. A failed or unavailable observation is not a vendor absence. The August aggregate record does not supply comparable retained attempt rows; the two historical configurations cannot be treated as a controlled transition.
+
+The benchmark records a fixed bank of 140 target questions in 14 categories, 286 checked vendors, five named products and three repeats, captured on September 22 and 23, 2026. Repeats may be dependent. Category and product rates keep their actual valid bases. Unknown search activation, location and historical pass dates stay null. These records do not measure buyer behavior, clicks, revenue, product quality, future answers or causal effects. The [source context](https://index.broadcastwell.com/sources/) and category records remain available. No November release or new version DOI is implied.
 
 ## What is registered on OSF?
 
