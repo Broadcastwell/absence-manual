@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/perplexity/which-project-management-software-does-perplexity-recommend.md",
+  "bank_id": "LB-Q0618",
+  "canonical_source_sha256": "c76307720f195bb696a59c49fbc9ccccd4985cea8798d65cc1aec89ed50a249f",
+  "effective_canonical_source_sha256": "a91721df06925597b6620ad72686d6e2e6adb0c97fdd963552fbf0f5ba1db858",
+  "effective_body_sha256": "e6250838ae6998844fd9d8c9f37456eb01a1817e6af003afae307ce370d686aa",
+  "effective_metadata_sha256": "ac2823985db411a7814ffde52d8b1ffbe0f242bc365cbd93e9cf449215dbe63c",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\perplexity\\which-project-management-software-does-perplexity-recommend.md",
+    "raw_sha256": "a91721df06925597b6620ad72686d6e2e6adb0c97fdd963552fbf0f5ba1db858",
+    "canonical_LF_sha256": "a91721df06925597b6620ad72686d6e2e6adb0c97fdd963552fbf0f5ba1db858"
+  },
+  "reviewed_utc": "2026-11-03T11:17:09.075315+00:00",
+  "full_read_basis": "PriorcompleteSourcearticlecoverageplusindependentlycheckedoneactualNextstepmethodtokenrestorationandRootactualdate-onlymetadatachange;nofresh45wholebodyrereadclaimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_METHOD45_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0618.method45-source-coverage.json",
+    "raw_sha256": "3a6dbf6960a941e0d87663e34cce77b5b1b5d6140edde84fe6a3d4bf4151eef4",
+    "canonical_LF_sha256": "3a6dbf6960a941e0d87663e34cce77b5b1b5d6140edde84fe6a3d4bf4151eef4"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "date_modified": "2026-11-03T11:12:54+00:00",
+    "scope": "ActualRootprivatefooteradoption,notpublicpublication."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false,
+  "prior_approved_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0618.source.json",
+    "raw_sha256": "43f28859f9a80af5f19efd86bb1407454f3a9d7021693d1107fb08c262af90f7",
+    "canonical_LF_sha256": "43f28859f9a80af5f19efd86bb1407454f3a9d7021693d1107fb08c262af90f7"
+  }
+}

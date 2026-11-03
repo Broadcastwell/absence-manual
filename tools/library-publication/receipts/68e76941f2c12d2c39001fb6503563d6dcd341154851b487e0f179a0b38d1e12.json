@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/perplexity/which-project-management-software-does-perplexity-recommend.md",
+  "before_effective_canonical_sha256": "c76307720f195bb696a59c49fbc9ccccd4985cea8798d65cc1aec89ed50a249f",
+  "raw_canonical_source_sha256": "c76307720f195bb696a59c49fbc9ccccd4985cea8798d65cc1aec89ed50a249f",
+  "after_effective_canonical_sha256": "a91721df06925597b6620ad72686d6e2e6adb0c97fdd963552fbf0f5ba1db858",
+  "fact_ledger_sha256": "cbd56bcf3ad9ee401f37ee103b9b337a40d1f8047c0df3cba7eaa2f781edbd4c",
+  "effective_payload_sha256": "17dbad9e75b5b2bbf24f0bf41cccdea13bdc7762d989a811ed1cbd50d6d66bdf",
+  "scope": "Root exact11candidate revision/fact-ledger review for bounded build only. Source/Writing complete-current fullarticle peer receipts independently hash-bound. Root read literal old/new changed paragraphs and all11ordinal candidates; verified exact Source facts/quotes provenance via actual peer chains, scoped measured observations/neutraloffers, no lost primary destinations, unchanged315priorpayloads and accepted45. Actual build/bothscope/50surface/native/CI/live/discovery gates still required; no wholecurrent/globalPASS.",
+  "reviewed_utc": "2026-11-03T11:29:48.019436+00:00"
+}

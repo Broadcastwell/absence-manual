@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/perplexity/which-legal-practice-software-does-perplexity-recommend.md",
+  "before_effective_canonical_sha256": "e65471336f177c7588755d6f2c1b44fcbbdbd064e1f9960e813d6a4efe791e60",
+  "raw_canonical_source_sha256": "e65471336f177c7588755d6f2c1b44fcbbdbd064e1f9960e813d6a4efe791e60",
+  "after_effective_canonical_sha256": "fc27fdf0ed396abe4848f0fc71c9f4c1ae6774226192e5f10f77aaa9c3b3f30b",
+  "fact_ledger_sha256": "ec44db192305c398e1ed312b5f56b5ba9bf0be38814f92bee790651a96b7c51d",
+  "effective_payload_sha256": "46f3d7101316c00164d34f90b1f1a46111ef4bc47ba1f2c9eaf684d11924f32a",
+  "scope": "Root exact11candidate revision/fact-ledger review for bounded build only. Source/Writing complete-current fullarticle peer receipts independently hash-bound. Root read literal old/new changed paragraphs and all11ordinal candidates; verified exact Source facts/quotes provenance via actual peer chains, scoped measured observations/neutraloffers, no lost primary destinations, unchanged315priorpayloads and accepted45. Actual build/bothscope/50surface/native/CI/live/discovery gates still required; no wholecurrent/globalPASS.",
+  "reviewed_utc": "2026-11-03T11:29:48.019436+00:00"
+}

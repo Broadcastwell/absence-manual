@@ -75,7 +75,7 @@ def on_post_build(config, **kwargs):
                     chunks.append(css)
                 combined = '\n'.join(chunks)
                 output = styles / ('combined-' + sha256(combined.encode()).hexdigest()[:16] + '.css')
-                output.write_text(combined, encoding='utf-8')
+                output.write_text(combined, encoding='utf-8', newline='\n')
                 css_cache[sources] = output
                 stats['stylesheet_bundles'] += 1
             for index, (match, _) in reversed(list(enumerate(links))):
@@ -119,7 +119,7 @@ def on_post_build(config, **kwargs):
                     return '<img' + ''.join(' ' + key + ('' if value is None else '="' + escape(value, quote=True) + '"') for key, value in attrs.items()) + '>'
             content = re.sub(r'<img\b[^>]*>', improve_image, article.group(2))
             text = text[:article.start(2)] + content + text[article.end(2):]
-        page.write_text(text, encoding='utf-8')
+        page.write_text(text, encoding='utf-8', newline='\n')
         stats['pages'] += 1
     import json
     print('Performance assets: ' + json.dumps(stats, sort_keys=True))

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "pages": {
+    "answers/perplexity/how-does-perplexity-work.md": {
+      "before_effective_canonical_sha256": "2e4cf4c190bae538f78fcd8416d4324bb111b60ffd08a5d06cd46c55d0831f8b",
+      "after_effective_canonical_sha256": "5be630fa5f78ecbcaf4a79122b14bb5586ed87176891c3a07f2d42482124d6af",
+      "after_body_sha256": "0768bb01bf4290d0d9b5d390806b764cdfb371ac41c3680a02e78757f5e4699e",
+      "after_metadata_sha256": "caa207ee05e444c9d6a0209e94b998f32e9f3c00a730432664baf3036dae9302"
+    },
+    "answers/perplexity/which-construction-software-does-perplexity-recommend.md": {
+      "before_effective_canonical_sha256": "8263dfdf4afe4003815d9fdecac12ef6e0ec380135787a3e9726a2c59b536da9",
+      "after_effective_canonical_sha256": "96d61147b5c2c412e1282d52f5d77ab17d9876b9d8fe73903069d6d10edf26b1",
+      "after_body_sha256": "10e7c8cd164e57aa0ef23352c26a98272cbf29b66679d1dbf392bfa0c630cf95",
+      "after_metadata_sha256": "5383205146c4e04bd8c044135bc2bcb75d42af6a003a3a1add045aa12f989282"
+    },
+    "answers/perplexity/which-crm-software-does-perplexity-recommend.md": {
+      "before_effective_canonical_sha256": "6b4c8332e3fdf8a9492ed2936dd094d8d006b0ce354ab25cc92879a36091bbd2",
+      "after_effective_canonical_sha256": "a0d96573808849ca3e105d964290751e08c8cda2dd8b7bb03b5888bdb34aec14",
+      "after_body_sha256": "03d1dc981087e0abb745bffe38a05edf7d599b6cbbc20121e197d6d4e6f115ad",
+      "after_metadata_sha256": "eefe5787fb9ff91d92eba58ea6755e1d075dea17004af2b202a3c1291a367929"
+    },
+    "answers/perplexity/which-dental-software-does-perplexity-recommend.md": {
+      "before_effective_canonical_sha256": "f0ed0715aa449cbb8501d4cc6d386f25566c7dc9e667254d59d57c3e8628646b",
+      "after_effective_canonical_sha256": "3d50940714fbc38e0d1e5c6f12b0e6919d46f3eb74fd50ec2438ed8f5c27cfc8",
+      "after_body_sha256": "7cab8872ff47b272ab333719f1239d4deffa0f3d451b6eac39961ee6ffb9c1bf",
+      "after_metadata_sha256": "9f6c21a8bd3ea8067820326313fa68522e04b29acaa176a6699e15939abc59ce"
+    },
+    "answers/perplexity/which-field-service-software-does-perplexity-recommend.md": {
+      "before_effective_canonical_sha256": "7c1bca69d71903ba5ad560c4c1cb79d87723a6becb7b48c60ef1264ff890a8b5",
+      "after_effective_canonical_sha256": "46b9158969cebbb0670ce98b6131fab44d07e89ad38ccfd6f0fe086468798348",
+      "after_body_sha256": "793efcf86f6b680de8300fdd396da19f801d53c2e7d55c3ba848696e1ee97271",
+      "after_metadata_sha256": "76beea741983381dd3e466170753b7591a9441bf450f6f2074efc7d2184f57e3"
+    },
+    "answers/perplexity/which-legal-practice-software-does-perplexity-recommend.md": {
+      "before_effective_canonical_sha256": "e65471336f177c7588755d6f2c1b44fcbbdbd064e1f9960e813d6a4efe791e60",
+      "after_effective_canonical_sha256": "fc27fdf0ed396abe4848f0fc71c9f4c1ae6774226192e5f10f77aaa9c3b3f30b",
+      "after_body_sha256": "66862837280f9a5548ad2dd858321fbcf52b10b8311c9ed13b028470994f19bf",
+      "after_metadata_sha256": "ba6dba06ff94f1385c9b2a239b2a29e2bbfea5c6ec1b57f0691303340ba06cbe"
+    },
+    "answers/perplexity/which-project-management-software-does-perplexity-recommend.md": {
+      "before_effective_canonical_sha256": "c76307720f195bb696a59c49fbc9ccccd4985cea8798d65cc1aec89ed50a249f",
+      "after_effective_canonical_sha256": "a91721df06925597b6620ad72686d6e2e6adb0c97fdd963552fbf0f5ba1db858",
+      "after_body_sha256": "e6250838ae6998844fd9d8c9f37456eb01a1817e6af003afae307ce370d686aa",
+      "after_metadata_sha256": "ac2823985db411a7814ffde52d8b1ffbe0f242bc365cbd93e9cf449215dbe63c"
+    },
+    "answers/perplexity/which-property-management-software-does-perplexity-recommend.md": {
+      "before_effective_canonical_sha256": "e98d9d64aec0ee7297c5934c7785861233a2db28327a63f1347e4935fcc8fe7e",
+      "after_effective_canonical_sha256": "fe0f2239bb1693c3422880f0d1258932ad01bc7531ed664bcc36cab963a6e99c",
+      "after_body_sha256": "4069b4799240f01078db6b807bfb46266e14fba13e784bfa6342f22728516bb3",
+      "after_metadata_sha256": "443e304de4c96a56f7f55ca14c78dd266b6e059767787f7dbe9f43e606d41326"
+    },
+    "answers/perplexity/which-radiology-software-does-perplexity-recommend.md": {
+      "before_effective_canonical_sha256": "fd0698eddbf12090e901e817e2d92e88153b8fb55f34af09835aef0b0b4aeee1",
+      "after_effective_canonical_sha256": "600cf1fa8fe6f104e54b568a23f81b5d095cd30d1cf6e060c84438df2748efcd",
+      "after_body_sha256": "f5f8e996939938855707a3eed5463eb2b4de0a65cc218d8126f799e708ccfafd",
+      "after_metadata_sha256": "8825ba94ab1e18b492ca4b57b8aaf73f69ff6e8feacbcd4b2c93f6b122164177"
+    },
+    "answers/perplexity/which-transportation-software-does-perplexity-recommend.md": {
+      "before_effective_canonical_sha256": "9288860f76d752453ce7bf4930b38cf0f8d24e30c56f309e233d1edee512f87c",
+      "after_effective_canonical_sha256": "b4e422ad55280379cbd6f1ff290b350812cfa4bcc7d0b80316d9f34d3e07977a",
+      "after_body_sha256": "1fb937781df58ae27950e3117e5cba92bad8e8dc413176ce946085271f1aa7a4",
+      "after_metadata_sha256": "8fd76d2db9b87f45e89a4adbd8214d9bc48bd65cc84b17717eb2f723c993fb68"
+    },
+    "answers/perplexity/which-veterinary-software-does-perplexity-recommend.md": {
+      "before_effective_canonical_sha256": "9fd9e2f0b6654f70776baae1894304796669f3e20ae916533674afe180494202",
+      "after_effective_canonical_sha256": "a4f42948e40a40e2ccffed1ccbeaaa187eda8a654ec0455b90994da171564aac",
+      "after_body_sha256": "a5baf0ebc976b6fd8afa83922446220fb197f96e9b28968ffea44021cf5923c0",
+      "after_metadata_sha256": "9db2db6be087ca9807d0002e1526814d9688a0267e9bf2cb8883501300b2b286"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/perplexity/how-does-perplexity-work.md",
+  "before_effective_canonical_sha256": "2e4cf4c190bae538f78fcd8416d4324bb111b60ffd08a5d06cd46c55d0831f8b",
+  "raw_canonical_source_sha256": "2e4cf4c190bae538f78fcd8416d4324bb111b60ffd08a5d06cd46c55d0831f8b",
+  "after_effective_canonical_sha256": "5be630fa5f78ecbcaf4a79122b14bb5586ed87176891c3a07f2d42482124d6af",
+  "fact_ledger_sha256": "71b27ef23e6f69a3de6d12dc0c133cb1e4176e80908f1c34013377948db3d750",
+  "effective_payload_sha256": "773ec8aae96e772adc0b954c2954509fe20bf21e13910d7d1c8ea9e4dfbc62a7",
+  "scope": "Root exact11candidate revision/fact-ledger review for bounded build only. Source/Writing complete-current fullarticle peer receipts independently hash-bound. Root read literal old/new changed paragraphs and all11ordinal candidates; verified exact Source facts/quotes provenance via actual peer chains, scoped measured observations/neutraloffers, no lost primary destinations, unchanged315priorpayloads and accepted45. Actual build/bothscope/50surface/native/CI/live/discovery gates still required; no wholecurrent/globalPASS.",
+  "reviewed_utc": "2026-11-03T11:29:48.019436+00:00"
+}

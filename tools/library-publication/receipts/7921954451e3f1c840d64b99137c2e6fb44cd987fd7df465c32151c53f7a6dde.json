@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0615",
+  "path": "answers/perplexity/which-transportation-software-does-perplexity-recommend.md",
+  "canonical_source_sha256": "9288860f76d752453ce7bf4930b38cf0f8d24e30c56f309e233d1edee512f87c",
+  "effective_canonical_source_sha256": "b4e422ad55280379cbd6f1ff290b350812cfa4bcc7d0b80316d9f34d3e07977a",
+  "effective_body_sha256": "1fb937781df58ae27950e3117e5cba92bad8e8dc413176ce946085271f1aa7a4",
+  "effective_metadata_sha256": "8fd76d2db9b87f45e89a4adbd8214d9bc48bd65cc84b17717eb2f723c993fb68",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\perplexity\\which-transportation-software-does-perplexity-recommend.md",
+    "raw_sha256": "b4e422ad55280379cbd6f1ff290b350812cfa4bcc7d0b80316d9f34d3e07977a",
+    "canonical_LF_sha256": "b4e422ad55280379cbd6f1ff290b350812cfa4bcc7d0b80316d9f34d3e07977a"
+  },
+  "review_basis": "Prior exact full-effective-article Writing approval plus actual bounded default-method footer/date continuation; all other bytes proved unchanged. No fresh full45 reread or public/global approval.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_METHOD45_FINAL\\coverage\\LB-Q0615.writing-method45-coverage.json",
+    "raw_sha256": "ada0b4cda7b3dc58b9a8b7e3e2b0717fd70982fe90f95efe7b3a26f41e3fae4f",
+    "canonical_LF_sha256": "ada0b4cda7b3dc58b9a8b7e3e2b0717fd70982fe90f95efe7b3a26f41e3fae4f"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "date_modified": "2026-11-03T11:12:54+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false,
+  "bounded_default_method_footer_continuation": {
+    "bank_id": "LB-Q0615",
+    "path": "answers/perplexity/which-transportation-software-does-perplexity-recommend.md",
+    "scope": "Bounded full-effective-file continuation after prior actual full-base and exact delta reviews. No new full45-body reread is claimed.",
+    "prior_approved_full_article_Writing_receipt": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\receipts\\LB-Q0615.writing.json",
+      "raw_sha256": "9b836c7af0b029ec6f6cb6e626c95646a15e6e837929c547e4bfe857cf6cf97e",
+      "canonical_LF_sha256": "9b836c7af0b029ec6f6cb6e626c95646a15e6e837929c547e4bfe857cf6cf97e"
+    },
+    "prior_full_delta_coverage": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0615.writing-coverage.json",
+      "raw_sha256": "c27d031cdd6e6446731eb6b07a7147fc9058a500dbbfb2b0ca8ceb142ebbb725",
+      "canonical_LF_sha256": "c27d031cdd6e6446731eb6b07a7147fc9058a500dbbfb2b0ca8ceb142ebbb725"
+    },
+    "Root_actual_footer_adoption": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "before_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\perplexity\\which-transportation-software-does-perplexity-recommend.md",
+      "raw_sha256": "aeabd7f3d491941f8cf03a505cecc921f75052ef11443fab8a2686f69c8838c4",
+      "canonical_LF_sha256": "aeabd7f3d491941f8cf03a505cecc921f75052ef11443fab8a2686f69c8838c4"
+    },
+    "after_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\perplexity\\which-transportation-software-does-perplexity-recommend.md",
+      "raw_sha256": "b4e422ad55280379cbd6f1ff290b350812cfa4bcc7d0b80316d9f34d3e07977a",
+      "canonical_LF_sha256": "b4e422ad55280379cbd6f1ff290b350812cfa4bcc7d0b80316d9f34d3e07977a"
+    },
+    "actual_source_kind": "published-index",
+    "actual_Next_step_old_token_read": "[Our answer-study method, v1.1.](https://broadcastwell.com/methodology)",
+    "actual_Next_step_new_token_read": "[Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)",
+    "same_exact_method_URL": true,
+    "canonical_default_token_already_in_body": true,
+    "only_footer_token_and_actual_date_modified_changed": true,
+    "all_other_body_opening_numbers_quotations_sources_metadata_exact": true,
+    "human_Writing_carry": "Neutral, plain canonical method label, already asserted in the reviewed body. No sales sentence, new factual reading, definition, measurement or claim is introduced. Prior five human-rule findings carry with this exact narrow continuation.",
+    "fresh_full_body_reread_claimed": false,
+    "new_Root_timestamp_invented": false
+  }
+}

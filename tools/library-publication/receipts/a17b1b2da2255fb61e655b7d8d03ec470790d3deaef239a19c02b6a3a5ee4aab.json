@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/perplexity/which-construction-software-does-perplexity-recommend.md",
+  "before_effective_canonical_sha256": "8263dfdf4afe4003815d9fdecac12ef6e0ec380135787a3e9726a2c59b536da9",
+  "raw_canonical_source_sha256": "8263dfdf4afe4003815d9fdecac12ef6e0ec380135787a3e9726a2c59b536da9",
+  "after_effective_canonical_sha256": "96d61147b5c2c412e1282d52f5d77ab17d9876b9d8fe73903069d6d10edf26b1",
+  "fact_ledger_sha256": "4c05af109b65f8233b284487b7ebb0678423345e5e2fea76d68d48b7f817e9ac",
+  "effective_payload_sha256": "dbde09e6dc71342bf30fe4debc38bb6bdad734e043b0468cb936146f65deaca1",
+  "scope": "Root exact11candidate revision/fact-ledger review for bounded build only. Source/Writing complete-current fullarticle peer receipts independently hash-bound. Root read literal old/new changed paragraphs and all11ordinal candidates; verified exact Source facts/quotes provenance via actual peer chains, scoped measured observations/neutraloffers, no lost primary destinations, unchanged315priorpayloads and accepted45. Actual build/bothscope/50surface/native/CI/live/discovery gates still required; no wholecurrent/globalPASS.",
+  "reviewed_utc": "2026-11-03T11:29:48.019436+00:00"
+}

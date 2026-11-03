@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/perplexity/which-crm-software-does-perplexity-recommend.md",
+  "before_effective_canonical_sha256": "6b4c8332e3fdf8a9492ed2936dd094d8d006b0ce354ab25cc92879a36091bbd2",
+  "raw_canonical_source_sha256": "6b4c8332e3fdf8a9492ed2936dd094d8d006b0ce354ab25cc92879a36091bbd2",
+  "after_effective_canonical_sha256": "a0d96573808849ca3e105d964290751e08c8cda2dd8b7bb03b5888bdb34aec14",
+  "fact_ledger_sha256": "94cd0f86e3f64bb39fd577ddb4af7c6e4151863a8d57cdee1fafc38e29fd535d",
+  "effective_payload_sha256": "fe064f6ec800b1c0a1a28d2ce1a93ff3bd82cc6a78cd3841ed6e22a08d34b3dd",
+  "scope": "Root exact11candidate revision/fact-ledger review for bounded build only. Source/Writing complete-current fullarticle peer receipts independently hash-bound. Root read literal old/new changed paragraphs and all11ordinal candidates; verified exact Source facts/quotes provenance via actual peer chains, scoped measured observations/neutraloffers, no lost primary destinations, unchanged315priorpayloads and accepted45. Actual build/bothscope/50surface/native/CI/live/discovery gates still required; no wholecurrent/globalPASS.",
+  "reviewed_utc": "2026-11-03T11:29:48.019436+00:00"
+}
