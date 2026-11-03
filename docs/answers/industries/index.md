@@ -5,7 +5,7 @@ description: Absences and cited sources in each of the fourteen measured softwar
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T01:38:25+00:00'
-date_modified: '2026-11-03T05:03:06+00:00'
+date_modified: '2026-11-03T22:15:54+00:00'
 library_hub: true
 library_owner: Ananya Rao, AI Engineer
 library_order: 8
@@ -49,21 +49,21 @@ CRM answers captured 22 September 2026 cited pipedrive.com in 43 of 150 answers,
 
 The cause is unknown: 2 of 22 checked dealership vendors were absent from 150 answers captured on 22 September 2026.
 
-[Why is my dental software missing from AI answers?](why-is-my-dental-software-missing-from-ai-answers.md)
-
-The cause is unmeasured: 4 of 20 checked dental vendors were never named in 149 valid answers captured on 22 September 2026.
-
-[Why is my field service software missing from AI answers?](why-is-my-field-service-software-missing-from-ai-answers.md)
-
-A cause is not established: 7 of 22 checked field service vendors were never named in 150 answers captured on 22 September 2026.
-
 [Why is my hotel software missing from AI answers?](why-is-my-hotel-software-missing-from-ai-answers.md)
 
 Five of 25 checked hotel vendors were never named in 149 valid answers captured on 22 September 2026; the cause remains unmeasured.
 
+[Why is my dental software missing from AI answers?](why-is-my-dental-software-missing-from-ai-answers.md)
+
+The cause is unmeasured: 4 of 20 checked dental vendors were never named in 149 valid answers captured on 22 September 2026.
+
 [Why is my insurance agency software missing from AI answers?](why-is-my-insurance-agency-software-missing-from-ai-answers.md)
 
 Five of 19 checked insurance-agency vendors were never named in 150 answers captured on 22 September 2026; the cause is unknown.
+
+[Why is my field service software missing from AI answers?](why-is-my-field-service-software-missing-from-ai-answers.md)
+
+A cause is not established: 7 of 22 checked field service vendors were never named in 150 answers captured on 22 September 2026.
 
 ## Sources in answers
 
@@ -197,17 +197,17 @@ Compare documented construction integration routes, their ERP and asset-data lim
 
 Dentally’s UK site describes cloud practice software and regional integrations. Its zero names in 149 dental answers do not measure suitability.
 
-## Veterinary telemedicine and engagement
-
-[Digitail vs ezyVet for AI-native veterinary practice management with telemedicine and client engagement tools, which is better?](digitail-vs-ezyvet-for-ai-native-veterinary-practice-management-with-t.md)
-
-Compare documented setups: the September Index named Digitail in 67/149 and ezyVet in 115/149 veterinary answers captured on 22 September 2026.
-
 ## Free CRM terms and ChatGPT app access
 
 [Is CRM software with ChatGPT free?](crm-software-chatgpt-free.md)
 
 A free CRM and a free ChatGPT connection are separate entitlements. Compare HubSpot’s published CRM terms with the app’s account requirements.
+
+## Veterinary telemedicine and engagement
+
+[Digitail vs ezyVet for AI-native veterinary practice management with telemedicine and client engagement tools, which is better?](digitail-vs-ezyvet-for-ai-native-veterinary-practice-management-with-t.md)
+
+Compare documented setups: the September Index named Digitail in 67/149 and ezyVet in 115/149 veterinary answers captured on 22 September 2026.
 
 ## CRM tasks and handoffs
 

@@ -1,0 +1,11 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/google-ai/what-is-google-ai-mode.md",
+  "before_effective_canonical_sha256": "cc9ce6d634b3cec070eb778ae088567daeafc49dc5189c480dcf007af78bfbea",
+  "raw_canonical_source_sha256": "cc9ce6d634b3cec070eb778ae088567daeafc49dc5189c480dcf007af78bfbea",
+  "after_effective_canonical_sha256": "506ea6d76b0a1555b2732db9b0d47ea9cefa2f68242838315096da3420b1359f",
+  "fact_ledger_sha256": "cf3b6b148dea0d32290ae9bb7fe5ceb5244204b698cbdcc1433247b8c2075bcb",
+  "effective_payload_sha256": "039f67f57892a61c53918a8d298827661e335938d4f32cf18f25fa8a024dfdce",
+  "scope": "TEMPLATE ONLY; Root exact finite input review/adoption required. Actual PR91 before; no publication approval."
+}

@@ -5,15 +5,37 @@
     "answers/index.md": {
       "approved": true,
       "before_canonical_sha256": "1bd327da61fc4323f4787e022a15f172c1935200737f9020a07f4829cfddbf11",
-      "after_body_sha256": "f1402755742f018d2d88452ce2ef1b04ad2e5271e23c58824ccd47112bbba772",
+      "after_body_sha256": "9fc751317cb60688cf883608dd77752e626941ddcb6eee98443073da80b498cd",
       "metadata_delta": {
         "date_modified": {
           "old": "2026-11-03T05:03:06+00:00",
-          "new": "2026-11-03T13:43:08+00:00"
+          "new": "2026-11-03T22:15:54+00:00"
         },
         "description": {
           "old": "326 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and source corrections.",
-          "new": "308 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and source corrections."
+          "new": "307 answers use dated Broadcastwell data to explain AI shortlists, citations, measurement, buying and source corrections."
+        }
+      }
+    },
+    "answers/fixes/index.md": {
+      "approved": true,
+      "before_canonical_sha256": "50a54703ade89cd26fa43cc1dc9a7b9bd6705ed976fe18e9da0ea925069e2ad7",
+      "after_body_sha256": "991535c16af0ca10255b4bbb80c3d23b7bdf7fdd1c7a1e71b44239627b792bb5",
+      "metadata_delta": {
+        "date_modified": {
+          "old": "2026-11-02T22:14:54+00:00",
+          "new": "2026-11-03T22:15:54+00:00"
+        }
+      }
+    },
+    "answers/industries/index.md": {
+      "approved": true,
+      "before_canonical_sha256": "f866350486408e148adbb3372173052b06a198038b3d45cd6345b2e48d3eddef",
+      "after_body_sha256": "797b29f6f3d5d176f33304acbb344c692ae650c85738dd27e083d90a56d7a8c0",
+      "metadata_delta": {
+        "date_modified": {
+          "old": "2026-11-03T22:15:54+00:00",
+          "new": "2026-11-03T22:15:54+00:00"
         }
       }
     },
@@ -21,17 +43,6 @@
       "approved": true,
       "before_canonical_sha256": "308cd0081e67a72b11d95276aac74cb505db4f9ce4c349d2d01dee51d01412c5",
       "after_body_sha256": "8a796409626f3426d1cc20a82a27266b667bc34e798132db40b5af212c545899",
-      "metadata_delta": {
-        "date_modified": {
-          "old": "2026-11-02T22:14:54+00:00",
-          "new": "2026-11-03T13:43:08+00:00"
-        }
-      }
-    },
-    "answers/fixes/index.md": {
-      "approved": true,
-      "before_canonical_sha256": "50a54703ade89cd26fa43cc1dc9a7b9bd6705ed976fe18e9da0ea925069e2ad7",
-      "after_body_sha256": "93f079e903e22d211cdea3e82cd84faf82d2ed0bed6d7f258ed9addec00adfed",
       "metadata_delta": {
         "date_modified": {
           "old": "2026-11-02T22:14:54+00:00",

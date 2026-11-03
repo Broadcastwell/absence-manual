@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+  "bank_id": "LB-Q0641",
+  "canonical_source_sha256": "e1d30e75db7b16afbfcfc8ae0a2d541b3037cbf41692d657fdb3d079d4902dd5",
+  "effective_canonical_source_sha256": "4b9fc4a281fda023d82502e63b3ef3a72ba114332c7566f5eb2ca731e6ff2a3c",
+  "effective_body_sha256": "99df9d00b12f53de3e51bff20e3125c9244e1a564eb98e3d37a5bb827161d306",
+  "effective_metadata_sha256": "058b8c283c3aeacfb73199f4349679a0fd7baeb0ee4e529d0d262d4541d51f95",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\manuscripts\\answers\\fixes\\how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+    "raw_sha256": "cd0eab4f838ed0b14fd9d146c190738a452d122f3d7d850adc56b1bcf8e661d6",
+    "canonical_LF_sha256": "4b9fc4a281fda023d82502e63b3ef3a72ba114332c7566f5eb2ca731e6ff2a3c"
+  },
+  "reviewed_utc": "2026-11-03T19:43:31.660728+00:00",
+  "full_read_basis": "The same three exact current Root-dated full articles were displayed and fully read in V1. V2 uses the owning finite.source_body definition for body hashes,with the same full scientific Source chain and bounded navigation/link-label/description/date proofs. No second full read or scientific recount is claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_S5_1919_ROOT_THREE_V2\\coverage\\LB-Q0641.source-current-coverage.json",
+    "raw_sha256": "48f83d502cbcf389601c3eedc5f071c0a1b6cb10e15a2aa263402156f4599c74",
+    "canonical_LF_sha256": "48f83d502cbcf389601c3eedc5f071c0a1b6cb10e15a2aa263402156f4599c74"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\ROOT_PRIVATE_ADOPTION.json",
+      "raw_sha256": "c4838a1581ac9627db5f9b4a9bf87336a98b3cf1c8bffac466e81427da3f419d",
+      "canonical_LF_sha256": "93560800d865d9f60da541bc061a63e9cdff87eb6b74405111b739b3946318b2"
+    },
+    "date_modified": "2026-11-03T19:38:19+00:00",
+    "scope": "Actual private adoption only;not a capture date or public-deployment assertion."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "historical_source_anchor_unchanged": true,
+  "prior_full_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_DESTINATION_TWO_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0641.source.json",
+    "raw_sha256": "33e8a7ab3a02b1f963230866a088e3848142169dfba31bb67e4b90a76f8e7e0f",
+    "canonical_LF_sha256": "33e8a7ab3a02b1f963230866a088e3848142169dfba31bb67e4b90a76f8e7e0f"
+  },
+  "new_S5_full_reads_claimed": 0,
+  "same_exact_three_full_reads_carried_from_V1": true,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false
+}

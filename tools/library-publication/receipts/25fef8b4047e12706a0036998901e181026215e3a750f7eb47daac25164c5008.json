@@ -1,0 +1,28 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/buying/which-aeo-tools-suit-home-service-companies-and-contractors.md",
+  "target_path": "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "7043561616d6f98b79cc5228960f558f8ac8f050f28a5311ef5d72860b567328",
+  "target_effective_canonical_sha256": "177528d716ffaafe909b8648bd355796eda00866e2ebfb918afe3becde4e83a2",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0481.p01.s01",
+    "LB-Q0481.p01.s02",
+    "LB-Q0481.p02.s01",
+    "LB-Q0481.p02.s02",
+    "LB-Q0481.p02.s03",
+    "LB-Q0481.p03.s01",
+    "LB-Q0481.p03.s02",
+    "LB-Q0481.p03.s03"
+  ],
+  "preserved_fact_bindings_sha256": "a3596ef7fe8bde7cb3bd28756c8c866c6fb2c31e5955f4ae434b84cfbde14090",
+  "required_aliases": [
+    "Which AEO tools suit home-service companies and contractors?",
+    "What is the best AEO tool for Home Service Companies and Contractors?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "8fca1880aea9d8fac6a92a31b4cde0d0c6225f0a5cb71131fecc43ee130a0035",
+  "scope": "TEMPLATE ONLY. Root exact preservation decision required; Source old18+new47 peer scopes retained accurately."
+}

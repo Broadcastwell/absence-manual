@@ -1,0 +1,40 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/geo-basics/where-can-i-find-an-ai-search-visibility-expert-near-me.md",
+  "target_path": "answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "70dd15814baf0c11bc9e7ec214ddc98ed2c839b5c0db158eaea7f9cdeffca6b4",
+  "target_effective_canonical_sha256": "464b904d38c6e3455ee084eed866f43ac26af0907a7d35ad427600193174d68f",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0074.p01.s01.city",
+    "LB-Q0074.p01.s01.score",
+    "LB-Q0074.p01.s01.date",
+    "LB-Q0074.p01.s01.distance",
+    "LB-Q0074.p02.s01",
+    "LB-Q0074.p02.s02",
+    "LB-Q0074.p02.s03",
+    "LB-Q0074.p03.s01",
+    "LB-Q0074.p04.s01",
+    "LB-Q0074.p04.s02",
+    "LB-Q0074.p04.s03",
+    "LB-Q0074.p04.s04",
+    "LB-Q0074.p04.s05",
+    "LB-Q0074.p04.s06",
+    "LB-Q0074.p04.s07",
+    "LB-Q0074.p06.s01",
+    "LB-Q0074.p06.s02",
+    "LB-Q0074.p06.s03",
+    "LB-Q0074.p06.s04",
+    "LB-Q0074.additional.01"
+  ],
+  "preserved_fact_bindings_sha256": "f9fb3110bd36ac8907b95d6eb043731756a0f1bf7527dc9ee90dd6760be519fa",
+  "required_aliases": [
+    "Where can I find an AI search visibility expert near me?",
+    "Ai search visibility expert near me?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "7bd8ca573f1364a4730b93ce211ceb5a3e2a6bd7f33f85b8f293fdfc45a5b3c2",
+  "scope": "TEMPLATE ONLY. Root exact preservation decision required; Source old18+new47 peer scopes retained accurately."
+}

@@ -1,0 +1,32 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/measurement/how-would-you-optimize-an-e-commerce-product-page-for-google-and-ai-se.md",
+  "target_path": "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "38c3dbccbe5e7bea753e326494656ec39dd0c00c2c1b5743ecb945881ba7e25b",
+  "target_effective_canonical_sha256": "38ee0cca5403622df743b6f154106be4199fb435ef5da3f352b764394613786b",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0453.p01.s01",
+    "LB-Q0453.p01.s02",
+    "LB-Q0453.p01.s03",
+    "LB-Q0453.p02.s01",
+    "LB-Q0453.p02.s02",
+    "LB-Q0453.p02.s03",
+    "LB-Q0453.p02.s04",
+    "LB-Q0453.p03.s01",
+    "LB-Q0453.p03.s02",
+    "LB-Q0453.p03.s03",
+    "LB-Q0453.additional.01",
+    "LB-Q0453.additional.02",
+    "LB-Q0453.preservation.billing-units"
+  ],
+  "preserved_fact_bindings_sha256": "4a0ab01182f1067e69ddece80f2b4d56c89271a26ecfc129648b70d6388489af",
+  "required_aliases": [
+    "How would you optimize an e-commerce product page for Google and AI search visibility?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "a35ea231c5a821b7e22dcc2e5c12ba77777bb1b247cfd27206f6a5feb6c8a7d8",
+  "scope": "TEMPLATE ONLY. Root exact preservation decision required; Source old18+new47 peer scopes retained accurately."
+}

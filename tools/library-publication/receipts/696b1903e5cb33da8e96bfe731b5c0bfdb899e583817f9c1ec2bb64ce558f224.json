@@ -1,0 +1,35 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/fixes/what-do-ai-crawlers-do-and-how-can-site-owners-control-access.md",
+  "target_path": "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "77e3dc1d41d5db03d53284d2d7b10ff0f700eb30b3cce4de7f2be449e7975cca",
+  "target_effective_canonical_sha256": "4b9fc4a281fda023d82502e63b3ef3a72ba114332c7566f5eb2ca731e6ff2a3c",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0132.p01.s01",
+    "LB-Q0132.p01.s02",
+    "LB-Q0132.p01.s03",
+    "LB-Q0132.p02.s01",
+    "LB-Q0132.p02.s02",
+    "LB-Q0132.p02.s03",
+    "LB-Q0132.p03.s01",
+    "LB-Q0132.p03.s02",
+    "LB-Q0132.p03.s03",
+    "LB-Q0132.p07.s01",
+    "LB-Q0132.p07.s02",
+    "LB-Q0132.p07.s03",
+    "LB-Q0132.p08.s01",
+    "LB-Q0132.p08.s02",
+    "LB-Q0132.p08.s03",
+    "LB-Q0132.additional.01"
+  ],
+  "preserved_fact_bindings_sha256": "9cc31f911897a9a7d802c759fae2e62c86b6ea6c94011d95adcc1da7aa366223",
+  "required_aliases": [
+    "What do AI crawlers do, and how can site owners control access?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "fc4bca6cee4f3687ae8a390c6c5e2efb69ca1a8cbecd89403df0de003afc6911",
+  "scope": "TEMPLATE ONLY. Root exact preservation decision required; Source old18+new47 peer scopes retained accurately."
+}

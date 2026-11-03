@@ -7,7 +7,7 @@ ROOT=Path(__file__).resolve().parents[1]
 
 
 class DormantIdentityTests(unittest.TestCase):
-    def test_configuration_is_exact_dormant_or_exact_reviewed_coherent20_18_activation(self):
+    def test_configuration_is_exact_dormant_or_exact_reviewed_small_stage2_activation(self):
         # The code-only historical phase remains a supported exact configuration.
         # The active phase requires this finite Root-reviewed release, never a
         # catch/fallback to raw rendering or an arbitrary approved input folder.
@@ -41,13 +41,13 @@ class DormantIdentityTests(unittest.TestCase):
                 if location==ROOT:break
             return path
         release=safe_local('release.json');raw=release.read_bytes()
-        self.assertEqual('6a6bf041d88eba42d94b62a3b8c25eb41d4b01365f4d0f21d8302a5dc881191f',hashlib.sha256(raw).hexdigest())
+        self.assertEqual('87ed18b5fb345535927804bdf60ac9aea4fbfbab4d2e99c3e189f1b87a4ed869',hashlib.sha256(raw).hexdigest())
         plan=json.loads(raw)
         self.assertEqual(1,plan['schema_version']);self.assertIs(plan['approved'],True)
-        self.assertEqual(13241535906,plan['prior_artifact_id'])
-        artifact_sha='a28ad4251756e7da2440b4756d54baf9f350e66ef7264171593d894b2e10a99a'
+        self.assertEqual(13269636938,plan['prior_artifact_id'])
+        artifact_sha='05ff987007321fcd80bdbd0ba27b020f8628422849e26d36e92f54e9c12f6668'
         self.assertEqual(artifact_sha,plan['prior_artifact_sha256'])
-        inputs=plan['inputs'];self.assertEqual(326,inputs['published_count'])
+        inputs=plan['inputs'];self.assertEqual(308,inputs['published_count'])
         self.assertEqual(artifact_sha,inputs['actual_prior_production_binding']['artifact_sha256'])
         bound={}
         for name,row in inputs['files'].items():
@@ -69,26 +69,9 @@ class DormantIdentityTests(unittest.TestCase):
             self.assertFalse(downloaded.is_symlink())
             self.assertEqual(artifact_sha,hashlib.sha256(downloaded.read_bytes()).hexdigest())
         expected={
-            'answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md',
-            'answers/agents/how-does-an-ai-connector-differ-from-browsing-a-website.md',
-            'answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md',
-            'answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include.md',
-            'answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md',
-            'answers/chatgpt/which-dental-software-does-chatgpt-recommend.md',
-            'answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md',
-            'answers/chatgpt/which-insurance-agency-software-does-chatgpt-recommend.md',
-            'answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md',
-            'answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md',
-            'answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md',
             'answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md',
             'answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md',
-            'answers/geo-basics/how-does-chatgpt-relate-to-seo.md',
-            'answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare.md',
-            'answers/google-ai/how-do-google-ai-overviews-affect-website-visibility.md',
-            'answers/google-ai/what-is-a-google-ai-overview.md',
-            'answers/google-ai/what-is-google-ai-mode.md',
-            'answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md',
-            'answers/measurement/what-evidence-can-connect-ai-visibility-with-pipeline.md'}
+            'answers/industries/why-is-my-dental-software-missing-from-ai-answers.md'}
         revisions=bound['active_revisions']
         self.assertIs(revisions['approved'],True)
         self.assertEqual(expected,set(revisions['pages']))
@@ -98,24 +81,7 @@ class DormantIdentityTests(unittest.TestCase):
         self.assertEqual(45,len(frozen));self.assertTrue(expected.isdisjoint(frozen))
         self.assertEqual(frozen,set(inputs['frozen_effective_pins']))
         expected_merges={
-            'answers/buying/looking-for-ai-software-for-field-service-providers-in-the-united-king.md': 'answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md',
-            'answers/buying/what-should-i-ask-a-geo-provider-about-mcp-or-api-access.md': 'answers/agents/how-does-an-ai-connector-differ-from-browsing-a-website.md',
-            'answers/buying/which-aeo-tools-suit-home-service-companies-and-contractors.md': 'answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md',
-            'answers/fixes/how-can-a-local-auto-glass-business-appear-in-google-ai-and-chatgpt-an.md': 'answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md',
-            'answers/fixes/how-should-a-local-business-respond-when-chatgpt-cites-ranking-list-pa.md': 'answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare.md',
-            'answers/fixes/what-do-ai-crawlers-do-and-how-can-site-owners-control-access.md': 'answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md',
-            'answers/fixes/which-ai-tools-can-support-programmatic-seo.md': 'answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md',
-            'answers/geo-basics/chatgpt-brand-visibility-cost.md': 'answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md',
-            'answers/geo-basics/how-do-getmint-and-otterly-compare-for-transactional-geo-in-the-united.md': 'answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md',
-            'answers/geo-basics/where-can-i-find-an-ai-search-visibility-expert-near-me.md': 'answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md',
-            'answers/geo-basics/which-ai-is-best-for-seo.md': 'answers/geo-basics/how-does-chatgpt-relate-to-seo.md',
-            'answers/geo-basics/which-ai-tools-for-analyzing-online-visibility-are-available-in-the-uk.md': 'answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md',
-            'answers/google-ai/are-google-ai-overviews-available-in-france.md': 'answers/google-ai/what-is-a-google-ai-overview.md',
-            'answers/google-ai/can-ads-appear-in-google-ai-overviews.md': 'answers/google-ai/what-is-a-google-ai-overview.md',
-            'answers/measurement/how-accurate-are-geo-tools-across-different-industries.md': 'answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include.md',
-            'answers/measurement/how-can-i-defend-branded-search-results-against-lookalike-sites-that-c.md': 'answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md',
-            'answers/measurement/how-do-ads-in-google-ai-overviews-affect-organic-traffic.md': 'answers/google-ai/how-do-google-ai-overviews-affect-website-visibility.md',
-            'answers/measurement/how-would-you-optimize-an-e-commerce-product-page-for-google-and-ai-se.md': 'answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md'}
+            'answers/industries/is-dentally-a-good-fit-for-uk-dentists-running-a-cloud-based-practice.md': 'answers/industries/why-is-my-dental-software-missing-from-ai-answers.md'}
         self.assertIs(bound['merges']['approved'],True)
         self.assertEqual(expected_merges,{p:r['target_path'] for p,r in bound['merges']['merges'].items()})
         self.assertTrue(frozen.isdisjoint(expected_merges))
