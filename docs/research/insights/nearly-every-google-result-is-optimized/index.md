@@ -6,14 +6,14 @@ page_class: research
 research_id: 2
 research_group: insight
 lead: Priya Nair
-published: '2026-10-30T08:50:01Z'
-updated: '2026-10-30T08:50:01Z'
-next_review: '2027-01-30T08:50:01Z'
+published: '2026-11-02T20:27:14Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/
 sources_verified: true
 schema_type: TechArticle
-date_published: '2026-10-30T08:50:01Z'
-date_modified: '2026-10-30T08:50:01Z'
+date_published: '2026-11-02T20:27:14Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://searchstudies.org/wp-content/uploads/2021/08/3447535.346247
 
 **Among 4,420 successfully fetched target URLs, 3,913 met the registered “definitely optimized” rule: 88.5%, Wilson 95% interval 87.6% to 89.4% (Broadcastwell, Study 1).**
 
+
+Observed answers on stated dates, not a ranking.
 The comparison starts with **different populations, dates and rules**. Lewandowski and colleagues studied German Google result sets collected in 2020. We examined URLs cited in archived B2B software answers from September 2026, then fetched their pages on 30 October. Our static-page signature rules adapt and expand the original approach. These differences precede any comparison of percentages.
 
 The finding is descriptive: optimization-associated signatures are common among the pages we could capture. It does not show that adding those signatures caused the original citations, or that the captured page was unchanged since the answer. [Registered Study 1](https://doi.org/10.17605/OSF.IO/DVYFU); [complete method and files](../../studies/optimized-pages-in-ai-answers/).
@@ -107,9 +109,13 @@ You can inspect the class rules before comparing percentages.
 
 Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
-Registered Study 1 classifies **3,913/4,420 captured target URLs as definitely optimized: 88.5%, Wilson 95% interval 87.6% to 89.4%**. Separately, complete HTML retrieval succeeded for **4,420/5,861 target URLs: 75.4% (74.3% to 76.5%)**. Missing captures remain outside the class denominator.
+**Supports:** Registered Study 1 classifies **3,913/4,420 captured target URLs as definitely optimized: 88.5%, Wilson 95% interval 87.6% to 89.4%**. Separately, complete HTML retrieval succeeded for **4,420/5,861 target URLs: 75.4% (74.3% to 76.5%)**. Missing captures remain outside the class denominator.
 
 The [complete study](../../studies/optimized-pages-in-ai-answers/) publishes the scalar observations, classification and membership tables, failures, chronology, frozen rules and reproduction programs. We have no causal measurement of the citation benefit of these signals.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Testing signatures prospectively.
 
 ## Sources
 
@@ -117,27 +123,29 @@ The [complete study](../../studies/optimized-pages-in-ai-answers/) publishes the
 - Broadcastwell. (2026). Study 1 plan: Do AI engines cite optimized pages? [Registration]. OSF. Registered 30 October 2026, 01:06:12 UTC; public approval completed before this study’s collection and aggregation. https://doi.org/10.17605/OSF.IO/DVYFU Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
+Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *Optimization signals are common in captured AI-cited pages*. Broadcastwell. https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, November 2). *Optimization signals are common in captured AI-cited pages*. Broadcastwell. https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/ Published November 2, 2026; updated November 2, 2026.
 
 ```bibtex
 @online{broadcastwell2026research2,
   author = {{Broadcastwell research team}},
   title = {Optimization signals are common in captured AI-cited pages},
   year = {2026},
-  date = {2026-10-30},
+  date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/},
-  urldate = {2026-10-30},
+  urldate = {2026-11-02},
   note = {Published 2026-10-30; updated 2026-10-30}
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
+Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

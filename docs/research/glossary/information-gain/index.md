@@ -5,15 +5,15 @@ description: Information gain in content publishing means useful additional info
 page_class: research
 research_id: 40
 research_group: glossary
-lead: Maya Thompson
-published: '2026-10-30T08:50:01Z'
-updated: '2026-10-30T08:50:01Z'
-next_review: '2027-01-30T08:50:01Z'
+lead: Vikram Patel
+published: '2026-11-02T20:27:14Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/information-gain/
 sources_verified: true
 schema_type: Article
-date_published: '2026-10-30T08:50:01Z'
-date_modified: '2026-10-30T08:50:01Z'
+date_published: '2026-11-02T20:27:14Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://patents.google.com/patent/US11354342B2/en
 defined_term: Information gain
 ---
@@ -22,6 +22,8 @@ defined_term: Information gain
 
 **Information gain in content publishing means useful additional information relative to a stated comparison; an SEO novelty assessment is not automatically a measured ranking signal.**
 
+
+Observed answers on stated dates, not a ranking.
 A new turn of phrase is not necessarily new information. A source can add value by exposing a denominator, correcting an error or documenting an observation that earlier pages did not contain. The comparison determines what is additional.
 
 The library’s [SEO, AEO and GEO content-choice guidance](/answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo/) addresses practical selection. This definition separates editorial usefulness from claims about a search-engine scoring system.
@@ -62,9 +64,11 @@ You can ask what new evidence a page supplies.
 
 ## What our own data shows
 
-We have no measurement on this point: an information-gain score or a visibility effect from publishing these research pages. Our research contributes inspectable **reanalyses and registered descriptive studies**. We call their outputs by what they measure, such as page-signal class shares and source-class citation shares. We have no measured information-gain score or demonstrated citation uplift from publishing them.
+**Does not support:** We have no measurement on this point: an information-gain score or a visibility effect from publishing these research pages. Our research contributes inspectable **reanalyses and registered descriptive studies**. We call their outputs by what they measure, such as page-signal class shares and source-class citation shares. We have no measured information-gain score or demonstrated citation uplift from publishing them.
 
-For example, [Study 2](/research/studies/who-ai-engines-cite/) distinguishes its frozen source classification from a later host audit. Publishing that difference supplies evidence about classification sensitivity. It does not establish that a search engine will reward the page for being more original.
+**Supports:** For example, [Study 2](/research/studies/who-ai-engines-cite/) distinguishes its frozen source classification from a later host audit. Publishing that difference supplies evidence about classification sensitivity. It does not establish that a search engine will reward the page for being more original.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -74,27 +78,29 @@ For example, [Study 2](/research/studies/who-ai-engines-cite/) distinguishes its
 - Google Search Central. (2026). Creating helpful, reliable, people-first content. https://developers.google.com/search/docs/fundamentals/creating-helpful-content Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
+Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *What does information gain mean in SEO?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/information-gain/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, November 2). *What does information gain mean in SEO?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/information-gain/ Published November 2, 2026; updated November 2, 2026.
 
 ```bibtex
 @online{broadcastwell2026research40,
   author = {{Broadcastwell research team}},
   title = {What does information gain mean in SEO?},
   year = {2026},
-  date = {2026-10-30},
+  date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/glossary/information-gain/},
-  urldate = {2026-10-30},
+  urldate = {2026-11-02},
   note = {Published 2026-10-30; updated 2026-10-30}
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Maya Thompson, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

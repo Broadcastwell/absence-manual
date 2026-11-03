@@ -5,15 +5,15 @@ description: A close reading of the 656-site news commenting walkthrough, includ
 page_class: research
 research_id: 18
 research_group: source
-lead: Ethan Brooks
+lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/karyotakis-2019/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.3390/fi11090188
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.3390/fi11090188
 
 **A 656-site walkthrough recorded commenting features, not ranking gains from comments (Karyotakis et al., 2019, §§3 to 4).**
 
+
+Observed answers on stated dates, not a ranking.
 The **656-site** study inspected how selected news websites allowed comments. It did not measure a change in Google rank, search visits or AI citations caused by enabling comments. [Karyotakis et al., 2019, §§3 to 4, reprint PDF pp. 91 to 95, printed pp. 82 to 86](../../source-archives/news-comments-2019.pdf).
 
 That distinction is easy to miss because the paper repeatedly connects comments with SEO. The direct observations concern available website features. The explanations of why those features might affect visibility draw on other literature and the authors’ interpretation. They are not the same kind of result.
@@ -102,9 +104,13 @@ We grade the paper C for claims about SEO effects. Its feature counts remain use
 
 ## What our own data shows
 
-The September 2026 release contains **473 forum/community citation occurrences among 18,893 target citation occurrences**: **2.50%**, descriptive **95% Wilson interval 2.29% to 2.74%**, under the frozen primary host classification. [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695); [registered citation study](https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/).
+**Supports:** The September 2026 release contains **473 forum/community citation occurrences among 18,893 target citation occurrences**: **2.50%**, descriptive **95% Wilson interval 2.29% to 2.74%**, under the frozen primary host classification. [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695); [registered citation study](https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/).
 
-A citation occurrence is not a commenting option and the classification does not identify the effect of comments on a page’s selection. We have no measurement of the causal citation benefit of enabling comments on this point. The count only establishes how often that host class appeared under the stated classification and question set.
+A citation occurrence is not a commenting option and the classification does not identify the effect of comments on a page’s selection.
+
+**Does not support:** We have no measurement of the causal citation benefit of enabling comments on this point. The count only establishes how often that host class appeared under the stated classification and question set.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -128,11 +134,11 @@ Broadcastwell research team. (2026, October 30). *Commenting features are not ev
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Ethan Brooks, management consultant.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

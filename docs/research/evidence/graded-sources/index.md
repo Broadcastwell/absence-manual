@@ -7,13 +7,13 @@ research_id: 22
 research_group: evidence
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/evidence/graded-sources/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.1145/3447535.3462479
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.1145/3447535.3462479
 
 **Lewandowski’s classifier labels 29.0% of 256,853 sampled Google result URLs probably optimized, retaining uncertainty (Lewandowski et al., 2021, Figure 1).**
 
+
+Observed answers on stated dates, not a ranking.
 The supplied collection contains **21 physical PDF documents**, with duplicated editions and multi-article volumes. It does not contain 21 independent empirical studies. The inventory below counts files; the grading tables separate the works and uses inside them.
 
 Our grades describe what a source can support in this section. They are not a ranking of authors, a declaration about an entire journal or an allegation of misconduct. You can find a useful historical quotation in a book whose unsourced traffic figures we would not repeat.
@@ -82,7 +84,11 @@ The awkward cases remain useful. A survey may reveal how respondents understand 
 
 ## What our own data shows
 
-We have no measurement on this point: this selected collection is not a representative sample of the SEO or GEO literature, and its grade distribution cannot estimate the quality of the field. The physical-document count comes from the supplied collection inventory; article and edition distinctions above prevent duplicate files from being counted as independent findings.
+**Supports:** Only the source-bounded findings above; no new measurement.
+
+**Does not support:** We have no measurement on this point: this selected collection is not a representative sample of the SEO or GEO literature, and its grade distribution cannot estimate the quality of the field. The physical-document count comes from the supplied collection inventory; article and edition distinctions above prevent duplicate files from being counted as independent findings.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -138,11 +144,11 @@ Broadcastwell research team. (2026, October 30). *Twenty-one source documents, g
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

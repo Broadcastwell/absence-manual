@@ -5,15 +5,15 @@ description: Put a supported answer first, preserve the units behind each statis
 page_class: research
 research_id: 25
 research_group: playbook
-lead: Rohan Iyer
+lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://arxiv.org/html/2311.09735v3
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://arxiv.org/html/2311.09735v3
 
 **GEO’s best tested methods improved position-adjusted word-count visibility by 41%, not citation probability (Aggarwal et al., 2024, Table 1).**
 
+
+Observed answers on stated dates, not a ranking.
 **41%** is a result about a particular visibility metric in a particular experiment. It is not the probability that an AI engine will cite your next article. Aggarwal and colleagues report that the best tested methods improved position-adjusted word-count visibility by 41% and subjective impression by 28% against their benchmark baseline. The tested changes included statistics, quotations and source citations. [Aggarwal et al., 2024, Table 1 and §4](https://arxiv.org/html/2311.09735v3).
 
 That is a useful reason to make evidence legible. It is not permission to attach an impressive number to a vague claim. The paper uses an experimental answer system and separately examines a deployed system; results depend on the metric, domain and method. Neither setting establishes a universal performance promise for a B2B product page published today.
@@ -89,9 +91,11 @@ Google Search Central states, “There are no additional technical requirements.
 
 ## What our own data shows
 
-We have no measurement on this point: the causal effect of this page format on citations or sales. Study 1 registers a descriptive test of observable signals on pages cited in the September Index. Its public plan distinguishes strong signals, weak signals, missing metadata and fetch failures. Those classes do not measure the causal benefit of rewriting a sentence.
+**Does not support:** We have no measurement on this point: the causal effect of this page format on citations or sales. Study 1 registers a descriptive test of observable signals on pages cited in the September Index. Its public plan distinguishes strong signals, weak signals, missing metadata and fetch failures. Those classes do not measure the causal benefit of rewriting a sentence.
 
-We have no controlled measurement showing that this page format increases citations or sales. The released Index supplies dated naming and citation observations, which are a different outcome from an intervention effect.
+**Supports:** We have no controlled measurement showing that this page format increases citations or sales. The released Index supplies dated naming and citation observations, which are a different outcome from an intervention effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -116,11 +120,11 @@ Broadcastwell research team. (2026, October 30). *How do you write a page an AI 
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Rohan Iyer, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

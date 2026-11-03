@@ -7,13 +7,13 @@ research_id: 45
 research_group: study
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T20:46:21Z'
+updated: '2026-11-02T21:22:53Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/does-absence-persist/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T20:46:21Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.17605/OSF.IO/MKJ9V
 research_dataset:
   name: Registered protocol for persistence of vendor presence
@@ -31,6 +31,8 @@ research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
 
 **Study 3 requires a third release and a comparable consecutive pair before estimating persistence (Broadcastwell, 2026, OSF MKJ9V).**
 
+
+Observed answers on stated dates, not a ranking.
 There is no persistence estimate yet. Study 3 is registered, and its waiting rule requires both a third Absence Index release and a consecutive pair with the same published configuration. The existing August and September observations do not meet that comparability rule. [Broadcastwell, Study 3 registration](https://doi.org/10.17605/OSF.IO/MKJ9V).
 
 Registration DOI: **10.17605/OSF.IO/MKJ9V**. OSF recorded registration on **30 October 2026 at 01:12:44 UTC**. This page publishes the protocol and historical context. It does not announce a transition finding or predict which vendors will remain absent. [OSF registration record, checked 30 October 2026].
@@ -129,7 +131,7 @@ Lewandowski, Sünkler and Yagci discuss a possible feedback mechanism in Google 
 
 Study 3 can describe persistence if its conditions are met. It cannot identify that mechanism from transitions alone. Persistent low presence could reflect a fixed question bank, product fit, source availability, engine behavior or other factors not isolated by this design. A stable high band would have similarly limited causal meaning.
 
-There is a trade-off in waiting. We give up the convenience of an immediate longitudinal headline. In return, the future reader can distinguish a predeclared comparison from one chosen because the first pair happened to look persuasive. The historical releases and their published summaries were already known when the plan was registered, so this is not a claim of complete blinding.
+The historical releases and their published summaries were already known when the plan was registered, so this is not a claim of complete blinding.
 
 ## What will change on this page next?
 
@@ -139,15 +141,20 @@ The Study 2 timing departure remains separately recorded. It authorized that alr
 
 ## What our own data shows
 
-We have no measurement on this point: release-to-release absence persistence under the registered comparability conditions. The existing September archive measures 286 vendors across fourteen categories, with 2,095 valid target answers after five target exclusions. The table above shows only the shared historical CRM and project-management vendors and their own category bases. We have no measurement on the persistence question yet. The protocol is a commitment to a future eligible comparison, not a claim that either low or high presence already persists.
+**Supports:** Only the source-bounded findings above; no new measurement.
+
+**Does not support:** We have no measurement on this point: release-to-release absence persistence under the registered comparability conditions. The existing September archive measures 286 vendors across fourteen categories, with 2,095 valid target answers after five target exclusions. The table above shows only the shared historical CRM and project-management vendors and their own category bases. We have no measurement on the persistence question yet. The protocol is a commitment to a future eligible comparison, not a claim that either low or high presence already persists.
+
+**Suggests:** Awaiting a comparable release.
 
 ## Sources
 
+- Broadcastwell (2026). The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers. Broadcastwell LLC. https://doi.org/10.5281/zenodo.22907695. All releases: https://doi.org/10.5281/zenodo.22150321. CC BY 4.0.
+
 - Broadcastwell. (2026). Does absence persist from one release to the next? [Registration]. OSF. Registered 30 October 2026, 01:12:44 UTC. https://doi.org/10.17605/OSF.IO/MKJ9V Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-08.1 [Data set]. Zenodo. Release files and README. https://doi.org/10.5281/zenodo.22721962 Verified 30 October 2026.
-- Broadcastwell (2026). The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers. Broadcastwell LLC. https://doi.org/10.5281/zenodo.22907695. All releases: https://doi.org/10.5281/zenodo.22150321. CC BY 4.0.
+- Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
-
 
 ## Cite this page
 
@@ -173,7 +180,6 @@ Sources checked 30 October 2026. This page has not been peer reviewed.
 
 Last updated: 2026-11-02. Next review: 2027-02-02.
 
-## Continue
+## Related reading
 
-- [Run a free visibility check](https://audit.broadcastwell.com/).
 - [Read the measurement chapter](https://docs.broadcastwell.com/measurement-noise/).

@@ -7,13 +7,13 @@ research_id: 46
 research_group: evidence
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T20:46:21Z'
+updated: '2026-11-02T21:22:53Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/evidence/quotable-numbers/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T20:46:21Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.1145/3447535.3462479
 research_dataset:
   name: Quotable search and AI-answer observations
@@ -37,6 +37,8 @@ research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
 
 **Of 14,192 complete September vendor-question-engine groups, 1,259 showed mixed naming: 8.9% (Wilson 95% interval 8.4% to 9.4%; Broadcastwell, 2026, release counts).**
 
+
+Observed answers on stated dates, not a ranking.
 The usable number is often less sweeping than the familiar headline. A source may establish a historical answer length, an experimental visibility score or a dated vendor-naming rate. Those are useful observations when their labels remain intact.
 
 This ledger provides wording that can travel with a figure. It does not upgrade a paper's design or convert a reported association into an intervention effect. You can follow the source location to the original and use the linked data tables to inspect our descriptive reanalyses.
@@ -99,18 +101,23 @@ The unresolved question is which future observations will remain comparable. The
 
 ## What our own data shows
 
-The repeated-question table records **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups, 8.9% (Wilson 95% interval 8.4% to 9.4%)**. Mixed means named in one or two of three valid repeats. This is a conditional description of the September archive. [Download the complete repeat table](../../data/repeat-disagreement.csv), [vendor-presence table](../../data/vendor-presence.csv) and [naming/citation aggregate table](../../data/vendor-naming-citation.csv). All derive from [release 2026-09](https://doi.org/10.5281/zenodo.22907695). Counts and units appear above; Wilson intervals describe observed proportions without an independence claim. This ledger contains no Study 1 result.
+**Supports:** The repeated-question table records **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups, 8.9% (Wilson 95% interval 8.4% to 9.4%)**. Mixed means named in one or two of three valid repeats. This is a conditional description of the September archive. [Download the complete repeat table](../../data/repeat-disagreement.csv), [vendor-presence table](../../data/vendor-presence.csv) and [naming/citation aggregate table](../../data/vendor-naming-citation.csv). All derive from [release 2026-09](https://doi.org/10.5281/zenodo.22907695). Counts and units appear above; Wilson intervals describe observed proportions without an independence claim. This ledger contains no Study 1 result.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
+
+- Broadcastwell (2026). The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers. Broadcastwell LLC. https://doi.org/10.5281/zenodo.22907695. All releases: https://doi.org/10.5281/zenodo.22150321. CC BY 4.0.
 
 - Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
 - Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts, a comparative study: Google Scholar, Microsoft Academic, WoS and Scopus. Future Internet, 11(9), 202. doi:10.3390/fi11090202 . [Accessible original](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf) Verified 30 October 2026.
 - Dean, B. (2018, February 28). We analyzed 10,000 Google Home results. Here's what we learned about voice search SEO. Backlinko. https://backlinko.com/voice-search-seo-study Verified 30 October 2026.
 - Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative engine optimization. KDD 2024. doi:10.1145/3637528.3671900 . [Accessible original](https://arxiv.org/html/2311.09735v3) . Author manuscript v3: https://arxiv.org/html/2311.09735v3 Verified 30 October 2026.
-- Broadcastwell (2026). The Absence Index, release 2026-09: observed naming of B2B software vendors in AI answers. Broadcastwell LLC. https://doi.org/10.5281/zenodo.22907695. All releases: https://doi.org/10.5281/zenodo.22150321. CC BY 4.0.
+- Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
 - Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts: Source workbooks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3381151 . Google Scholar one-term title-restricted workbook, Full1 B2:B1001 and C:AA. Verified 30 October 2026.
-
 
 ## Cite this page
 

@@ -7,13 +7,13 @@ research_id: 5
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/strong-brands-weak-visibility/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.5281/zenodo.22907695
 
 **Dynamics 365 appeared in 36/150 CRM answers: 24.0%, Wilson 95% interval 17.9% to 31.4% (Broadcastwell, 2026, September CRM vendor table).**
 
+
+Observed answers on stated dates, not a ranking.
 Microsoft Dynamics 365 was named in **36 of 150 valid CRM answers** in the September release: **24.0%**, descriptive **95% Wilson interval 17.9% to 31.4%**. That observation concerns the release's fixed CRM questions and engines. It is not a judgment of the product, a measure of revenue or a claim about all conversations. [Absence Index release 2026-09](https://doi.org/10.5281/zenodo.22907695), CRM vendor table.
 
 We chose the named examples below because readers may recognize their parent companies or products. We have not ranked these businesses by size, market share or brand strength. The measured selection rule is simply presence in no more than a quarter of the eligible target answers for the relevant category.
@@ -84,7 +86,11 @@ The named examples can prompt investigation, but they cannot diagnose a cause. T
 
 ## What our own data shows
 
-The examples above come from [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695), not a new survey of brand strength. [Download all checked vendor counts, bases and Wilson intervals](../../data/vendor-presence.csv). We have no measurement on this point: the effect of displaying an Index Verified badge on later naming or citation has not been established.
+**Supports:** The examples above come from [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695), not a new survey of brand strength. [Download all checked vendor counts, bases and Wilson intervals](../../data/vendor-presence.csv).
+
+**Does not support:** We have no measurement on this point: the effect of displaying an Index Verified badge on later naming or citation has not been established.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -112,11 +118,11 @@ Broadcastwell research team. (2026, October 30). *Familiar brands can have low m
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Priya Nair, management consultant.
+Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

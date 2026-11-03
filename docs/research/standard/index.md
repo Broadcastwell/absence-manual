@@ -7,13 +7,13 @@ research_id: 24
 research_group: evidence
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/standard/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://developers.google.com/search/docs/fundamentals/creating-helpful-content
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://developers.google.com/search/docs/fundamentals/creating-hel
 
 **The same 1,974 Wikipedia results support a conditional position share, not a share of all first slots (Lewandowski et al., 2021, §5).**
 
+
+Observed answers on stated dates, not a ranking.
 A precise number can still answer the wrong question. A survey about perceived search performance cannot establish a change in observed search positions, however carefully its statistical model is reported.
 
 This standard governs the claims in this research section. It asks what a source permits us to say, rather than whether we agree with its conclusion. You should be able to take a sentence from a page, follow its reference and find the same quantity in the original. The qualifying words belong to the claim. They are not optional material for a footnote.
@@ -82,13 +84,19 @@ There is a cost to this standard: some memorable figures disappear, and some pag
 
 ## What our own data shows
 
-We have no measurement on this point: no experiment establishes that this editorial grading system improves search ranking or AI citation. The [September Index deposit](https://doi.org/10.5281/zenodo.22907695) supplies the observations used elsewhere in this section; it is an observational release, not an evaluation of this standard.
+**Supports:** Only the source-bounded findings above; no new measurement.
+
+**Does not support:** We have no measurement on this point: no experiment establishes that this editorial grading system improves search ranking or AI citation. The [September Index deposit](https://doi.org/10.5281/zenodo.22907695) supplies the observations used elsewhere in this section; it is an observational release, not an evaluation of this standard.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
 - Google Search Central. (2026). Creating helpful, reliable, people-first content. https://developers.google.com/search/docs/fundamentals/creating-helpful-content Verified 30 October 2026.
 - Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
+
+See the [Claim Registry](https://docs.broadcastwell.com/research/claims/) and [academic access](https://docs.broadcastwell.com/research/academic-access/).
 
 ## Cite this page
 
@@ -106,11 +114,11 @@ Broadcastwell research team. (2026, October 30). *The Broadcastwell evidence sta
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Vikram Patel, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026. This page has not been peer reviewed.
+Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

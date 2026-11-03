@@ -5,15 +5,15 @@ description: The Jordan survey’s 791 respondents, self-reported constructs, st
 page_class: research
 research_id: 15
 research_group: source
-lead: Arjun Mehta
+lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/bataineh-2025/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://doi.org/10.1080/23311975.2025.2491678
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://doi.org/10.1080/23311975.2025.2491678
 
 **All variables in the 791-response Jordan study are self-reported; its ranking construct measures perceptions and preferences (Bataineh et al., 2025, §3.2, Appendix A).**
 
+
+Observed answers on stated dates, not a ranking.
 The **791-response** study measures people’s perceptions of university websites, including what it calls search engine rankings. It does not independently record Google positions for the sampled institutions. [Bataineh, Qasim, Idris and Abu-AlSondos, 2025, §§3.2 to 3.3 and Appendix A](../../source-archives/jordan-2025.pdf).
 
 That outcome definition deserves to come before the path coefficients. The ranking questions ask about visiting first-page results, associating high rank with credibility and trusting highly ranked sites. Those are meaningful attitudes. They are not a server log, a search-results capture or a demonstrated change in rank after a website edit.
@@ -100,7 +102,11 @@ We grade the Jordan study B for the observational perception evidence used here.
 
 ## What our own data shows
 
-Microsoft Dynamics 365 is named in **36/150 valid September CRM target answers, 24.0% (Wilson 95% interval 17.9% to 31.4%)**. This answer-level measure is separate from the Jordan survey. The [September release](https://doi.org/10.5281/zenodo.22907695) supplies the independently inspectable naming observation beside this survey. [Vendor-level counts and intervals](../../data/vendor-presence.csv) preserve its valid-answer base. We have no measurement here linking those answers to the Jordan respondents’ engagement scores, or estimating a causal effect of engagement on search position. The outside model is reported with its self-report and numerical-reporting limits.
+**Supports:** Microsoft Dynamics 365 is named in **36/150 valid September CRM target answers, 24.0% (Wilson 95% interval 17.9% to 31.4%)**. This answer-level measure is separate from the Jordan survey. The [September release](https://doi.org/10.5281/zenodo.22907695) supplies the independently inspectable naming observation beside this survey. [Vendor-level counts and intervals](../../data/vendor-presence.csv) preserve its valid-answer base.
+
+**Does not support:** We have no measurement here linking those answers to the Jordan respondents’ engagement scores, or estimating a causal effect of engagement on search position. The outside model is reported with its self-report and numerical-reporting limits.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -124,11 +130,11 @@ Broadcastwell research team. (2026, October 30). *Bataineh and colleagues measur
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Arjun Mehta, management consultant.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

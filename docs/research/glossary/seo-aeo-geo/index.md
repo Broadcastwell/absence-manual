@@ -5,26 +5,30 @@ description: SEO concerns search discovery, AEO concerns answer presentation, an
 page_class: research
 research_id: 42
 research_group: glossary
-lead: Maya Thompson
-published: '2026-10-30T08:50:01Z'
-updated: '2026-10-30T08:50:01Z'
-next_review: '2027-01-30T08:50:01Z'
+lead: Vikram Patel
+published: '2026-11-02T20:27:14Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/
 sources_verified: true
 schema_type: Article
-date_published: '2026-10-30T08:50:01Z'
-date_modified: '2026-10-30T08:50:01Z'
+date_published: '2026-11-02T20:27:14Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://developers.google.com/search/blog/2008/11/googles-seo-starter-guide
 defined_term: SEO, AEO and GEO
 ---
 
 # How do SEO, AEO and GEO differ?
 
-**SEO concerns search discovery, AEO concerns answer presentation, and GEO concerns generated-answer visibility; these working labels overlap and do not define separate proven ranking layers.**
+**SEO concerns search discovery, AEO concerns answer presentation, and GEO (generative engine optimization) concerns generated-answer visibility; these working labels overlap and do not define separate proven ranking layers.**
 
-These labels organize different questions about discovery. Their boundaries depend on the source using them. A page can be indexed, quoted in a direct answer and cited in a generated response; those events do not require three independent disciplines with three universal algorithms.
 
-The library already answers [what GEO means in AI search](/answers/geo-basics/what-does-geo-mean-in-ai-search/).
+Observed answers on stated dates, not a ranking.
+A page can be indexed, quoted in a direct answer and cited in a generated response; those events do not require independent algorithms.
+
+Buyers also use AEO and AI search visibility.
+
+See [what GEO means in AI search](/answers/geo-basics/what-does-geo-mean-in-ai-search/).
 
 ## Which dated uses can we substantiate?
 
@@ -60,15 +64,17 @@ Neither acronym turns mentions into visits or establishes conversions. Specify t
 
 Aggarwal and colleagues caution that “the efficacy of these strategies varies across domains” (2024, abstract, v3; verified 30 October 2026).
 
-You can keep the labels flexible while holding the outcome definition fixed.
-
 ## What our own data shows
 
 Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
-Our published framework separates **naming, absence and citation**. Study 1 classifies captured page signals; Study 2 describes source citations and matching vendor pairs; Study 3 registers a future comparability test for absence persistence. These are research questions with specified units, not a single SEO/AEO/GEO score.
+**Supports:** Our published framework separates **naming, absence and citation**. Study 1 classifies captured page signals; Study 2 describes source citations and matching vendor pairs; Study 3 registers a future comparability test for absence persistence. These are research questions with specified units, not a single SEO/AEO/GEO score.
 
 In Study 2, **39 of 2,095 eligible target answers had empty citation lists: 1.9%, Wilson 95% interval 1.4% to 2.5%**. The [complete study](/research/studies/who-ai-engines-cite/) explains why an empty citation list and an absent brand are different outcomes. That distinction survives whichever umbrella acronym a publisher prefers.
+
+**Does not support:** Future rankings or a causal publishing effect.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -82,27 +88,29 @@ In Study 2, **39 of 2,095 eligible target answers had empty citation lists: 1.9%
 - Clark, C. W. (2026). What is answer engine optimization (AEO), and how does it change SEO? HubSpot. Conflicting displayed updates: September 11 and October 26, 2026. https://blog.hubspot.com/marketing/answer-engine-optimization . Verified 30 October 2026.
 - Google Search Central. (2026). AI features and your website. https://developers.google.com/search/docs/appearance/ai-features . Verified 30 October 2026.
 
+Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *How do SEO, AEO and GEO differ?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, November 2). *How do SEO, AEO and GEO differ?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/ Published November 2, 2026; updated November 2, 2026.
 
 ```bibtex
 @online{broadcastwell2026research42,
   author = {{Broadcastwell research team}},
   title = {How do SEO, AEO and GEO differ?},
   year = {2026},
-  date = {2026-10-30},
+  date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/},
-  urldate = {2026-10-30},
+  urldate = {2026-11-02},
   note = {Published 2026-10-30; updated 2026-10-30}
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Maya Thompson, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

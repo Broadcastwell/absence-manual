@@ -5,15 +5,15 @@ description: Citation decay is a decline in a defined page’s citation measure 
 page_class: research
 research_id: 36
 research_group: glossary
-lead: Lauren Chen
-published: '2026-10-30T08:50:01Z'
-updated: '2026-10-30T08:50:01Z'
-next_review: '2027-01-30T08:50:01Z'
+lead: Vikram Patel
+published: '2026-11-02T20:27:14Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/citation-decay/
 sources_verified: true
 schema_type: Article
-date_published: '2026-10-30T08:50:01Z'
-date_modified: '2026-10-30T08:50:01Z'
+date_published: '2026-11-02T20:27:14Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://www.tryprofound.com/blog/citation-decay
 defined_term: Citation decay
 ---
@@ -22,6 +22,8 @@ defined_term: Citation decay
 
 **Citation decay is a decline in a defined page’s citation measure over comparable observations; a half-life requires an explicit baseline, threshold and time rule.**
 
+
+Observed answers on stated dates, not a ranking.
 An old page that is cited today has not necessarily decayed. A previously cited page missing from a later answer may reflect ordinary answer variation. The term becomes useful when it names a measured change through time under a stated observation design.
 
 The practical reporting question belongs in the library’s [historical data and time-series guidance](/answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re/). Here we define the event that a time series would need to establish.
@@ -62,9 +64,11 @@ You can distinguish an ageing document from a measured decline in citation share
 
 ## What our own data shows
 
-We have no measurement on this point: citation decay. Study 3 is a registered protocol for release-to-release absence persistence and remains unrun until its comparability conditions are met. Vendor absence persistence is also a different event from a particular URL’s citation half-life.
+**Does not support:** We have no measurement on this point: citation decay. Study 3 is a registered protocol for release-to-release absence persistence and remains unrun until its comparability conditions are met. Vendor absence persistence is also a different event from a particular URL’s citation half-life.
 
-The [September 2026 release](https://doi.org/10.5281/zenodo.22907695) supplies the answers for our repeated-question analysis. It observed **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups: 8.9%, Wilson 95% interval 8.4% to 9.4%**. Mixed means named in one or two of three valid repeats. These within-release groups do not measure elapsed-time decay. See [the measurement-noise finding](/research/insights/one-rank-number-is-a-fiction/) and the [Study 3 protocol](/research/studies/does-absence-persist/).
+**Supports:** The [September 2026 release](https://doi.org/10.5281/zenodo.22907695) supplies the answers for our repeated-question analysis. It observed **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups: 8.9%, Wilson 95% interval 8.4% to 9.4%**. Mixed means named in one or two of three valid repeats. These within-release groups do not measure elapsed-time decay. See [the measurement-noise finding](/research/insights/one-rank-number-is-a-fiction/) and the [Study 3 protocol](/research/studies/does-absence-persist/).
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -72,27 +76,29 @@ The [September 2026 release](https://doi.org/10.5281/zenodo.22907695) supplies t
 - Broadcastwell. (2026). Does absence persist from one release to the next? [Registration]. OSF. Registered 30 October 2026, 01:12:44 UTC. https://doi.org/10.17605/OSF.IO/MKJ9V Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Archived answers and release metadata. https://doi.org/10.5281/zenodo.22907695 ; [derived repeat-disagreement table](../../data/repeat-disagreement.csv). Verified 30 October 2026.
 
+Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *What is citation decay?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/citation-decay/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, November 2). *What is citation decay?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/citation-decay/ Published November 2, 2026; updated November 2, 2026.
 
 ```bibtex
 @online{broadcastwell2026research36,
   author = {{Broadcastwell research team}},
   title = {What is citation decay?},
   year = {2026},
-  date = {2026-10-30},
+  date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/glossary/citation-decay/},
-  urldate = {2026-10-30},
+  urldate = {2026-11-02},
   note = {Published 2026-10-30; updated 2026-10-30}
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Lauren Chen, AI architect and specialist.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 

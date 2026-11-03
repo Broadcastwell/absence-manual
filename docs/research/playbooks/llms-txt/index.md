@@ -5,15 +5,15 @@ description: A dated guide to the revised proposal, a small example and the diff
 page_class: research
 research_id: 27
 research_group: playbook
-lead: Rohan Iyer
+lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-10-30T03:55:00Z'
-next_review: '2027-01-30T03:55:00Z'
+updated: '2026-11-02T21:22:53Z'
+next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/llms-txt/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-10-30T03:55:00Z'
+date_modified: '2026-11-02T21:22:53Z'
 is_based_on: https://developers.google.com/search/updates
 ---
 
@@ -21,6 +21,8 @@ is_based_on: https://developers.google.com/search/updates
 
 **Google’s June 2026 guidance says llms.txt does not affect Search visibility or rankings; the proposal serves other possible uses (Google, 2026).**
 
+
+Observed answers on stated dates, not a ranking.
 Google’s **15 June 2026** documentation update says llms.txt files are not needed for Google Search and do not positively or negatively affect visibility or rankings. It also says maintaining them for other services is fine. That is narrower than saying that no software reads them. [Google Search Central, documentation updates](https://developers.google.com/search/updates).
 
 The proposal itself has changed. Jeremy Howard’s current **v2**, modified **10 August 2026**, describes a concise Markdown guide that helps agents find information on a website. Read that revision before repeating instructions based on the initial proposal. The file is an emerging convention, not a rule that obliges every answer engine to read or obey it. [Howard, The /llms.txt file, v2](https://llmstxt.org/).
@@ -92,9 +94,11 @@ Jeremy Howard describes the file as “A proposal to standardise”. That word m
 
 ## What our own data shows
 
-We have no measurement on this point: whether serving our llms.txt changes citation or naming. Broadcastwell serves a public llms.txt file, which was opened directly for this guide. We have no measurement showing that the file increased our citations, naming rate or buyer visits. Presence and effect remain separate questions.
+**Does not support:** We have no measurement on this point: whether serving our llms.txt changes citation or naming. Broadcastwell serves a public llms.txt file, which was opened directly for this guide. We have no measurement showing that the file increased our citations, naming rate or buyer visits. Presence and effect remain separate questions.
 
-The initial crawler-log record covers selected public Index HTML routes. It is not a log of all requests to the documentation host or a proof of llms.txt consumption.
+**Supports:** The initial crawler-log record covers selected public Index HTML routes. It is not a log of all requests to the documentation host or a proof of llms.txt consumption.
+
+**Suggests:** Follow-up within the stated setting.
 
 ## Sources
 
@@ -120,11 +124,11 @@ Broadcastwell research team. (2026, October 30). *What is llms.txt, and what can
 }
 ```
 
-Prepared by the Broadcastwell research team. Lead: Rohan Iyer, AI engineer.
+Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
-Sources checked 30 October 2026. Independent check: 30 October 2026, Broadcastwell verification desk. This page has not been peer reviewed.
+Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 30 October 2026. Next review: 30 January 2027.
+Last updated: 2026-11-02. Next review: 2027-02-02.
 
 ## Continue
 
