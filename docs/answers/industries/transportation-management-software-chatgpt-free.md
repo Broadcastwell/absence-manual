@@ -5,7 +5,7 @@ description: ChatGPT Free supports public research. Alvys describes separate acc
 page_class: page
 schema_type: Article
 date_published: '2026-10-30T15:39:32+00:00'
-date_modified: '2026-11-02T20:23:17+00:00'
+date_modified: '2026-11-03T00:26:19+00:00'
 hide:
 - navigation
 library_cluster: industries
@@ -61,7 +61,9 @@ Observed answers on stated dates, not a ranking.
 | Turvo | 7 | 6 | 5 | 5 | 5 |
 | Uber Freight TMS | 2 | 0 | 0 | 1 | 2 |
 
-**Reported.** OpenAI's [Free-plan frequently asked questions (FAQ)](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq), saved on 30 October, describes public web research subject to feature limits. Alvys's [Intelligence page](https://alvys.com/features/alvys-intelligence), read on 29 October, describes a ChatGPT connection and lists load search, invoice status, driver availability and tracking history.
+In the retained [AscendTMS and Alvys comparison](https://index.broadcastwell.com/questions/transportation-management-systems/ascendtms-vs-alvys-which-is-better-for-a-small-broker/), ChatGPT described Alvys as “Pricing based on monthly load volume” on 22 September 2026. The wording is historical answer text, not a current Alvys price check or evidence that its ChatGPT connection is free.
+
+**Reported.** OpenAI's [Free-plan frequently asked questions (FAQ)](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq), saved on 30 October 2026, describes public web research subject to feature limits. Alvys's [Intelligence page](https://alvys.com/features/alvys-intelligence), read on 29 October 2026, describes a ChatGPT connection and lists load search, invoice status, driver availability and tracking history.
 
 **Reasoned.** A reached public price page and a permitted query against transport records are separate events. The former does not grant a transport-system account or establish that its documented connection is included in a Free chat plan.
 
@@ -80,7 +82,7 @@ transportation management software chatgpt free?
 ## Related
 
 
-- [Actual ChatGPT Free FAQ](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq)
+- [ChatGPT Free-plan questions](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq)
 - [Agent Gap method and initial records](https://doi.org/10.5281/zenodo.23197560)
 - [Transportation buyer-question hub](https://index.broadcastwell.com/questions/transportation-management-systems/)
 - [The actual small-carrier question](https://index.broadcastwell.com/questions/transportation-management-systems/what-is-the-best-tms-for-a-small-carrier-with-about-10-trucks/)
@@ -90,6 +92,8 @@ transportation management software chatgpt free?
 ## Next step
 
 [Free 10-question check (one engine)](https://audit.broadcastwell.com/). No email is needed; runs are limited per network and per day, and by the site's daily allowance.
+
+Claiming or correcting a vendor record is free and never depends on a purchase.
 
 [Our answer-study method, v1.1.](https://broadcastwell.com/methodology)
 

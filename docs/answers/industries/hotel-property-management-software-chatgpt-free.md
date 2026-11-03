@@ -1,11 +1,11 @@
 ---
 title: Is hotel property management software with ChatGPT free?
 headline: Is hotel property management software with ChatGPT free?
-description: ChatGPT Free research, a Zapier tier and a hotel PMS license are separate conditions. Read the named Cloudbeds route and its reported limits.
+description: ChatGPT Free research, a Zapier tier and a hotel software license are separate conditions. Read the named Cloudbeds route and its reported limits.
 page_class: page
 schema_type: Article
 date_published: '2026-10-30T13:35:38+00:00'
-date_modified: '2026-11-02T22:02:56+00:00'
+date_modified: '2026-11-03T00:26:19+00:00'
 hide:
 - navigation
 library_cluster: industries
@@ -26,6 +26,8 @@ evidence_method_receipts:
 # Is hotel property management software with ChatGPT free?
 
 Zapier's [Cloudbeds and ChatGPT listing](https://zapier.com/apps/cloudbeds/integrations/chatgpt) labels a Free tier, but that label does not establish a free Cloudbeds-and-ChatGPT stack. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 4 of 5 hotel-software pricing destinations on 6 October 2026. Reaching public terms supplies a place to investigate cost; it does not grant a hotel-software license or an OpenAI account entitlement.
+
+Observed answers on stated dates, not a ranking.
 
 ## What we measured
 
@@ -59,9 +61,11 @@ Zapier's [Cloudbeds and ChatGPT listing](https://zapier.com/apps/cloudbeds/integ
 | WebRezPro | 0 | 11 | 8 | 5 | 0 |
 | Yanolja Cloud Solution (eZee) | 0 | 6 | 3 | 1 | 0 |
 
-**Reported.** The Cloudbeds pair listing, read on 29 October 2026, identifies New Guest, New Reservation and New Cancelled Guest triggers. Its polling cards mention a fifteen-minute Free-plan check. OpenAI's [Free FAQ](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq), saved on 30 October, describes public web research with feature limits on ChatGPT Free.
+In the retained [small-independent-hotel answer](https://index.broadcastwell.com/questions/hotel-property-management/what-is-the-best-hotel-pms-for-a-small-independent-hotel/), captured on 22 September 2026, ChatGPT wrote, “Pricing is quote-based.” That wording concerns Cloudbeds in a public software comparison. It is historical answer text, not a verified current price or a free connection entitlement.
 
-**Reasoned.** Public web research and a polling automation tier describe different uses. Neither statement establishes the license, API entitlement and account conditions of the complete named hotel connection.
+**Reported.** The Cloudbeds pair listing, read on 29 October 2026, identifies New Guest, New Reservation and New Cancelled Guest triggers. Its polling cards mention a fifteen-minute Free-plan check. OpenAI's [Free FAQ (frequently asked questions)](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq), saved on 30 October 2026, describes public web research with feature limits on ChatGPT Free.
+
+**Reasoned.** Public web research and a polling automation tier describe different uses. Neither statement establishes the license, API (application programming interface) entitlement and account conditions of the complete named hotel connection.
 
 ## What this means for you
 
@@ -76,19 +80,21 @@ hotel property management software chatgpt free?
 ## Related
 
 - [Cloudbeds and ChatGPT pair documentation](https://zapier.com/apps/cloudbeds/integrations/chatgpt)
-- [ChatGPT Free FAQ](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq)
-- [Agent Gap method and task data](https://doi.org/10.5281/zenodo.23197560)
+- [ChatGPT Free-plan questions](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq)
 - [Hotel buyer-evaluation question](https://index.broadcastwell.com/questions/hotel-property-management/what-should-i-look-for-in-a-hotel-property-management-system/)
 - [Hotel property management category record](https://index.broadcastwell.com/categories/hotel-property-management/)
 - [The Manual chapter on valid measurement](https://docs.broadcastwell.com/valid-measurement/)
+- [More industries answers](https://docs.broadcastwell.com/answers/industries/)
 
 ## Next step
 
-Use the [Free 10-question check (one engine)](https://audit.broadcastwell.com/) for a separate dated company-answer sample. No email is needed; runs are limited per network and per day, and by the site's daily allowance.
+[Free 10-question check (one engine)](https://audit.broadcastwell.com/). No email is needed; runs are limited per network and per day, and by the site's daily allowance.
 
-For one documented company-fact error, [Fix one answer, $490](https://broadcastwell.com/answer-repair). Keep the retained answer and its supporting public source with the correction.
+Claiming or correcting a vendor record is free and never depends on a purchase.
 
 [Our answer-study method, v1.1.](https://broadcastwell.com/methodology)
+
+Answer Repair: [Fix one answer, $490](https://broadcastwell.com/answer-repair).
 
 Prepared by the Broadcastwell team.
 

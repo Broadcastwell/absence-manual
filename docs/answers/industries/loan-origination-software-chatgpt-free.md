@@ -5,7 +5,7 @@ description: ChatGPT Free supports public research. LendingPad documents a separ
 page_class: page
 schema_type: Article
 date_published: '2026-10-30T15:19:04+00:00'
-date_modified: '2026-11-02T20:35:16+00:00'
+date_modified: '2026-11-03T00:26:19+00:00'
 hide:
 - navigation
 library_cluster: industries
@@ -61,9 +61,11 @@ Observed answers on stated dates, not a ranking.
 | TurnKey Lender | 2 | 12 | 0 | 2 | 3 |
 | Vergent LMS | 0 | 0 | 0 | 1 | 0 |
 
-**Reported.** OpenAI's [Free FAQ](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq), saved on 30 October 2026, describes public web research within feature limits. LendingPad's [Zapier FAQ](https://kb.lendingpad.com/zapier-integration), read on 29 October, is dated 26 June 2023 and describes a restricted test of the connection. It explicitly requires a paid Zapier account for that process.
+The retained [community-bank answer](https://index.broadcastwell.com/questions/loan-origination-software/what-is-the-best-loan-origination-software-for-a-community-bank/), captured from ChatGPT on 22 September 2026, says the comparisons are “not independent head-to-head testing or verified pricing”. That limitation belongs beside the naming table: an observed comparison does not certify product prices or a free connected system.
 
-**Reasoned.** The zero reached destinations describes the collector's public pricing search, while the dated LendingPad requirement names a particular connection's condition. Neither establishes a current free loan-origination stack.
+**Reported.** OpenAI's [Free-plan frequently asked questions (FAQ)](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq), saved on 30 October 2026, describes public web research within feature limits. LendingPad's [Zapier FAQ](https://kb.lendingpad.com/zapier-integration), read on 29 October 2026, is dated 26 June 2023 and describes a restricted test of the connection. It explicitly requires a paid Zapier account for that process.
+
+**Reasoned.** The study's zero count concerns public pricing destinations, while the dated LendingPad requirement names a particular connection's condition. Neither establishes a current free loan-origination stack.
 
 ## What this means for you
 
@@ -90,6 +92,8 @@ loan origination software chatgpt free?
 ## Next step
 
 [Free 10-question check (one engine)](https://audit.broadcastwell.com/). No email is needed; runs are limited per network and per day, and by the site's daily allowance.
+
+Claiming or correcting a vendor record is free and never depends on a purchase.
 
 [Our answer-study method, v1.1.](https://broadcastwell.com/methodology)
 

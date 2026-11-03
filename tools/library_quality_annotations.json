@@ -12760,7 +12760,7 @@
     },
     "answers/industries/hotel-property-management-software-chatgpt-free.md": {
       "source_sha256": "875a6326f6578a4248498795b4d550c4ae4d076e751546982029669e5a43f065",
-      "canonical_source_sha256": "875a6326f6578a4248498795b4d550c4ae4d076e751546982029669e5a43f065",
+      "canonical_source_sha256": "f69a4045f4ee364b4f8aedb3859e4da12e96f6df1345f994da652c3c5e2337ee",
       "opening_sha256": "f34c002444af1c1ce162545ce7f3868d728e38d9d36d8b201a30b33bc8c964e8",
       "bank_id": "LB-Q0386",
       "lead_figures": [
@@ -12771,10 +12771,10 @@
           "Zapier's [Cloudbeds and ChatGPT listing](https://zapier.com/apps/cloudbeds/integrations/chatgpt) labels a Free tier, but that label does not establish a free Cloudbeds-and-ChatGPT stack. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 4 of 5 hotel-software pricing destinations on 6 October 2026. Reaching public terms supplies a place to investigate cost; it does not grant a hotel-software license or an OpenAI account entitlement."
         ]
       },
-      "source_review_sha256": "be648ec3a7874698b1bd8078f1d541ef98eeec4a7599e6b516c44f375b47e74a",
+      "source_review_sha256": "8b42b9315177126e1f045f90c80e0b1923d0e6f59cf08bbe4e87ada1d44e988b",
       "opening_shape": "source_first",
       "classification_reason": "The named ZapierCloudbeds/ChatGPT pair listing and its precise Free label lead before the pricing-task observation.",
-      "writing_review_sha256": "f3fd91a81ad04117dd5d03f6bb0c80cd862275038426d165a72bbcc999cfe5ba"
+      "writing_review_sha256": "ac657534141f8b7c826bf6823cd5ba0a08d65ea3e5ab88f83947ff087222b020"
     },
     "answers/geo-basics/which-tools-combine-ai-visibility-and-social-listening.md": {
       "source_sha256": "583cd78caa2aea23aa5d3fffe7d7bd5cfb052459a0dc43947b43ef01468d7988",
@@ -12908,25 +12908,25 @@
     },
     "answers/industries/insurance-agency-software-chatgpt-project-management.md": {
       "source_sha256": "338c20b4cc161c07fad7af356cc2f70d29f1ceab373b761f83aa0504a06bf740",
-      "canonical_source_sha256": "338c20b4cc161c07fad7af356cc2f70d29f1ceab373b761f83aa0504a06bf740",
-      "opening_sha256": "85e4af56ea57a5e4b4cd2b71075ec03fbe96de4754ea5e6dcab55e88857b5ade",
+      "canonical_source_sha256": "35f80b534706840f9aadd01dc7eed24d7f7a41a694bcde9afa36e4ca3d2c1032",
+      "opening_sha256": "80c86ddf7b6e556f04215ec93c87966d7280a12bcb3ed55641cc6210038c2db5",
       "bank_id": "LB-Q0392",
       "lead_figures": [
         "figure:7cc97e99427a67fc22eb82316773614decf5c09b1049a31ee365a91c848a4fb4"
       ],
       "lead_figure_spans": {
         "figure:7cc97e99427a67fc22eb82316773614decf5c09b1049a31ee365a91c848a4fb4": [
-          "AgencyZoom's [ChatGPT pair listing](https://zapier.com/apps/agencyzoom-ca67272/integrations/chatgpt) documents a Create Task action, giving this project-management question a specific task-handoff answer. In [The AI written RFP](https://doi.org/10.5281/zenodo.23271935), task assignment appears as a criterion in 8 of 150 insurance-software answers captured on 22 September 2026. That criterion concerns what the answers ask buyers to evaluate, rather than a completed AgencyZoom operation."
+          "AgencyZoom's [ChatGPT pair listing](https://zapier.com/apps/agencyzoom-ca67272/integrations/chatgpt) documents a Create Task action, giving this project-management question a specific task-handoff answer. In [The AI written RFP (request for proposal)](https://doi.org/10.5281/zenodo.23271935), task assignment appears as a criterion in 8 of 150 insurance-software answers captured on 22 September 2026. That criterion concerns what the answers ask buyers to evaluate, rather than a completed AgencyZoom operation."
         ]
       },
-      "source_review_sha256": "0ecee627029b9abab791096562618591db174b36bd964190c0dc40f132aa1c1a",
+      "source_review_sha256": "7d22631675d1480a6892d4c498e122d8a1a0a0c6d78b2a22e87137a6e32438d3",
       "opening_shape": "vendor_first",
       "classification_reason": "Named AgencyZoom Create Task answers the workflow before the insurance criterion count.",
-      "writing_review_sha256": "f3fd91a81ad04117dd5d03f6bb0c80cd862275038426d165a72bbcc999cfe5ba"
+      "writing_review_sha256": "ac657534141f8b7c826bf6823cd5ba0a08d65ea3e5ab88f83947ff087222b020"
     },
     "answers/industries/legal-practice-software-chatgpt-free.md": {
       "source_sha256": "cb03d09e41e31cab5f50b419242b3ec995da089a000bedc149935a28ce4934dd",
-      "canonical_source_sha256": "cb03d09e41e31cab5f50b419242b3ec995da089a000bedc149935a28ce4934dd",
+      "canonical_source_sha256": "068f446ab586b4e95579c1f0cc011a1bb6e59db72c4905681ff4d1a72aef53bc",
       "opening_sha256": "cd4104ec245d848f7ab25896977b1372a8257c514c539fc00f06c861ee8adbf7",
       "bank_id": "LB-Q0397",
       "lead_figures": [
@@ -12937,10 +12937,10 @@
           "If you mean researching public legal-software information, ChatGPT Free has documented web-search functions; that does not establish a free Clio-and-ChatGPT workflow. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached all 5 of the 5 legal-software pricing destinations on 6 October 2026. Finding those destinations is a public-site observation, rather than a license or account entitlement."
         ]
       },
-      "source_review_sha256": "8c6b884344d0b2c67e5c1c11f49bac3a10f68684727af91b4ee527292c3e2d36",
+      "source_review_sha256": "9bf15e2da73c31e5f43469ef0dbcfbdcbb7e2462b7c48b4b09e4ef996a45ac28",
       "opening_shape": "reader_situation",
       "classification_reason": "The reader’s intended public research is the first condition, before separating free software/account routes.",
-      "writing_review_sha256": "f3fd91a81ad04117dd5d03f6bb0c80cd862275038426d165a72bbcc999cfe5ba"
+      "writing_review_sha256": "ac657534141f8b7c826bf6823cd5ba0a08d65ea3e5ab88f83947ff087222b020"
     },
     "answers/geo-basics/what-does-searchable-offer-for-ai-search-visibility.md": {
       "source_sha256": "c8edfbf8fd42273df191e4d39c48b77cf5ab6e305e54c829ec6ac217d4e724d9",
@@ -13124,7 +13124,7 @@
     },
     "answers/industries/loan-origination-software-chatgpt-free.md": {
       "source_sha256": "9e5255a5859d15593583e8df409b768f84053a86ba9b4c55b6a2dbfed9ce5c72",
-      "canonical_source_sha256": "d9917c74460e99fea8f14b22073c026b4589188cbe5f36f181da4548fdad4693",
+      "canonical_source_sha256": "e138ede58d0d38453a4de5533ae27f787af8108464a843913003f8946c0d02b6",
       "opening_sha256": "b95fa71a402add5d6fedccb0ae1231b19298fceea28662bd8138a4b8c6749b2a",
       "bank_id": "LB-Q0406",
       "lead_figures": [
@@ -13135,10 +13135,10 @@
           "ChatGPT Free can research public loan-software information; that does not make a LendingPad automation free. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 0 of 5 loan-origination pricing destinations on 6 October 2026. That public-source finding makes the terms question concrete: reading about software and acquiring a connected loan operation require different evidence."
         ]
       },
-      "source_review_sha256": "e59fda9ad3f02a95b734aaa6355a83fb6239cfad037110279d5bfc3720786c34",
+      "source_review_sha256": "802d0746051d96d8fdbf1a757080eb4cbce4d849dac2d873365f5290f71b3a2b",
       "opening_shape": "belief_correction",
       "classification_reason": "Corrects the freepublicresearch-versus-freeLendingPadconnectedoperation assumption before the observed0/5publicpricing-path result.",
-      "writing_review_sha256": "fc350cf413225da0879915f473fb66a1dda54a9cc1a6ded3d2f010b2b8101bb2"
+      "writing_review_sha256": "ac657534141f8b7c826bf6823cd5ba0a08d65ea3e5ab88f83947ff087222b020"
     },
     "answers/industries/what-are-the-top-five-project-management-software-options.md": {
       "source_sha256": "df9ff290f3bbfe5be73292b887d6d6004f544553e25f66f03d332e9b20e9a9c5",
@@ -13326,7 +13326,7 @@
     },
     "answers/industries/transportation-management-software-chatgpt-free.md": {
       "source_sha256": "9bfb77a1e241ff33ac01e13f00f605997d40c0e604572ed98ba01a54de08cc6f",
-      "canonical_source_sha256": "9bfb77a1e241ff33ac01e13f00f605997d40c0e604572ed98ba01a54de08cc6f",
+      "canonical_source_sha256": "745230d0ce60c1b768dcdfc262c080737b6e4d09546150fdbcf29137c3888943",
       "opening_sha256": "87853017b1d986a20cf31d71018157a268ce07dee2f66b3fbb5d15856d31e75a",
       "bank_id": "LB-Q0437",
       "lead_figures": [
@@ -13337,10 +13337,10 @@
           "Alvys documents a restricted ChatGPT connection, but its public description does not establish free access to a transportation management system. Our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 4 of 5 transportation pricing destinations on 6 October 2026. Those public terms are a different record from the Free chat functions used to research software."
         ]
       },
-      "source_review_sha256": "d1730de63f66dbd46488381330a1f8eb30d635d43785fe3c07497cf0b7aee9c7",
+      "source_review_sha256": "6096bf4346b2f11c5b4b95c7a683e9565434b8cbe4fc5cc1af7e6f00d90836f5",
       "opening_shape": "vendor_first",
       "classification_reason": "Alvys is the named opening subject before the separate four-of-five public-pricing observation.",
-      "writing_review_sha256": "67acf82c71a1accbeb6245f4e3dd0fcb03099430be34d9e2f8efd1bed0dea608"
+      "writing_review_sha256": "ac657534141f8b7c826bf6823cd5ba0a08d65ea3e5ab88f83947ff087222b020"
     },
     "answers/industries/what-should-i-compare-when-choosing-a-crm-for-outbound-calls.md": {
       "source_sha256": "890d25bd50048f5933ed0a00b176d268aea6a2260aad70c8b5800d26f5e4d1e2",
