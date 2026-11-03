@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md",
+  "before_effective_canonical_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0",
+  "raw_canonical_source_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0",
+  "after_effective_canonical_sha256": "464b904d38c6e3455ee084eed866f43ac26af0907a7d35ad427600193174d68f",
+  "fact_ledger_sha256": "66d19314271df19eff3bb897bdb49bd337a0d8817cdd80127ea2a9adee41e814",
+  "effective_payload_sha256": "62ec70551cb0ba985216bc718b3cbab099eb02988e9fbbbb9b27354d8e80417b",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

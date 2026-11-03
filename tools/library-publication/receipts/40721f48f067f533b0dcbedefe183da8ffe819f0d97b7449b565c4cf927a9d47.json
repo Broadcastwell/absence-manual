@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md",
+  "before_effective_canonical_sha256": "d4d456900b7d1ebb4911b32dd8b1f0529f8ebc4a0886ad40e66847a8dabdd989",
+  "raw_canonical_source_sha256": "d4d456900b7d1ebb4911b32dd8b1f0529f8ebc4a0886ad40e66847a8dabdd989",
+  "after_effective_canonical_sha256": "38ee0cca5403622df743b6f154106be4199fb435ef5da3f352b764394613786b",
+  "fact_ledger_sha256": "489d64287cbcb69f162380fabc2ff50e5d6692c83a38c991f20c1cff50d963e8",
+  "effective_payload_sha256": "9ad24aad1f17f63b6c94c1d9f3959109952e6cf1a570107d8218e0f8a33c04e7",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0327",
+  "path": "answers/geo-basics/how-does-chatgpt-relate-to-seo.md",
+  "canonical_source_sha256": "f0f6470e7ba091037aac5845993b66a544879b0135c0db45bdad58dd40747d15",
+  "effective_canonical_source_sha256": "217f36ffb005f3aed79a6957d47260be0e07354dc07b542c69403ff15b8fe527",
+  "effective_body_sha256": "a12c3ae00be8a574a61b72124c183d28b73f9c88882ea4e37d656419a880131f",
+  "effective_metadata_sha256": "0b47bd28a5c9167a7fc917d473eddcfb3d8b4fc05c2e97b01133e3a5b07de3e4",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\geo-basics\\how-does-chatgpt-relate-to-seo.md",
+    "raw_sha256": "217f36ffb005f3aed79a6957d47260be0e07354dc07b542c69403ff15b8fe527",
+    "canonical_LF_sha256": "217f36ffb005f3aed79a6957d47260be0e07354dc07b542c69403ff15b8fe527"
+  },
+  "review_basis": "Actual original full-page or full merged/primary-target reading plus all exact selected bounded continuations, neutral footer replay and independently verified Root metadata-date-only change.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0327.writing-coverage.json",
+    "raw_sha256": "7e4e397aaaca08b51643e746038307f76e279fa1b4c2b6f92f466a21ebb78af6",
+    "canonical_LF_sha256": "7e4e397aaaca08b51643e746038307f76e279fa1b4c2b6f92f466a21ebb78af6"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false
+}

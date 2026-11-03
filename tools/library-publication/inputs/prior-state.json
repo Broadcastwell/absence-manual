@@ -652,98 +652,98 @@
     "/answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t/": {
       "kind": "article",
       "path": "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md",
-      "effective_canonical_sha256": "670e9fd294e51b03ca5c8c60451f9f10914999c0969df1f7fcf7c5bfde9dcdce",
-      "body_sha256": "84cfcba0ff835226f808f994cccd3f802f4eaf1c701a755d808b66997aada0a9",
-      "metadata_sha256": "e6d6fe38f14bed8cfca287807b0cd91fcd5148e5f31741daf516d0a0420e9b84",
-      "compiled_sha256": "19d591ad79bbca66744cc4179cc138f9c7167c948af154497430deb4256e1fe1"
+      "effective_canonical_sha256": "70b8ae7d031d7850b740cd5797cea032e828564ea53234a634f501bde462c5b3",
+      "body_sha256": "c59eb7636d03aef9f4e67db2e0b576bf5b9c17aa7e36cbe72b5d207014c2598d",
+      "metadata_sha256": "6a88bdc71ba216141a33bbbcbff76a80e1c30efc7f5776877c58bfa7cbb98a1b",
+      "compiled_sha256": "ce59a022ebb7024ed5b62024d9f0155a339391cef9732ef4f8d8bd0f1e57f24e"
     },
     "/answers/claude/how-does-claude-web-search-work/": {
       "kind": "article",
       "path": "answers/claude/how-does-claude-web-search-work.md",
-      "effective_canonical_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407",
-      "body_sha256": "d07ba7d258231bfe6bb7f1c1c0ab618454a5c04bea5d7ffa183f8c79d9c3adea",
-      "metadata_sha256": "bf423a6bba889c423e1987ee56c91a79f5cfd512a81f2fbd3899bcacb162e3c6",
-      "compiled_sha256": "b11e57e5e3c80a6102260e82ea5ab2f520f0f299538a9d99f3ed1bc7ce34371f"
+      "effective_canonical_sha256": "d7158398f09040ad80923d7105d65ea8436423b8881812fc132105388baabc19",
+      "body_sha256": "a937f4e0188735da780924b219e2f2e2ea468651b9d9c60ddc9d3d2bbf8009bd",
+      "metadata_sha256": "cbec9ce77cbebd0d1cafc80510ce4de877ca8753ce05311c6ee2ef4024ecb725",
+      "compiled_sha256": "33d34bacd73bebebb404ed6297d8f59da5da908aa5c9ab3dc79eb70d0b5c1192"
     },
     "/answers/claude/which-construction-software-does-claude-recommend/": {
       "kind": "article",
       "path": "answers/claude/which-construction-software-does-claude-recommend.md",
-      "effective_canonical_sha256": "712e1b4510a31a4aeb8ff442bd34ece2080c9aedde417d908409534ad5ac5114",
-      "body_sha256": "95d92fe6d8f943f5786cbb01f23ca5b044a5486324ae73b5cd4f142520a47897",
-      "metadata_sha256": "969240316df696468e3c15b4a69060eb54cfacf124785cf490f7a7d2e2ae879b",
-      "compiled_sha256": "af949f69f1cf190d24231330c56bc53d6d38ae4163eb0e8dd0e492657f024ba6"
+      "effective_canonical_sha256": "701c91d80f1957e31766d03705822c41d49178eeb043d87a67f9365859ebe773",
+      "body_sha256": "1b6e1f24561c650314b161393792570738f1d5dbc5b065f98050f66290043403",
+      "metadata_sha256": "683fef51f2488a8a2da76197f33950165af904c32fff746e442d1a944c3b9eee",
+      "compiled_sha256": "fd724a3cf63a0b950ecb4f2773415ac4c4a1844e5951f5e34520f6e07c221b22"
     },
     "/answers/claude/which-crm-software-does-claude-recommend/": {
       "kind": "article",
       "path": "answers/claude/which-crm-software-does-claude-recommend.md",
-      "effective_canonical_sha256": "094114b2a51e1f912479b72dc7e0578673f74cbbdde048126930794d97587769",
-      "body_sha256": "e5e01b3b72fdce19f2aa757f279f7c5a7365843e6a4c95c32f69ebd777c3063b",
-      "metadata_sha256": "7bc43e210aabfd1de73ef013c796b21641d2a2dd2179497bd9ba1e263e150b7f",
-      "compiled_sha256": "2ef09f818e1e3261ecdb9a8efe8b07b9157f7da1423d7605ba58b09af50bf515"
+      "effective_canonical_sha256": "7aab0fdd2ee2bb6dab337f67457b56aec3a31fe74537ec1e1edabd5bc5e895e6",
+      "body_sha256": "11b6ba381649eb7665c4e42516a5f9958974d7022e78d13d8ce9f5ef6949dcab",
+      "metadata_sha256": "e64a1f8e213b054e753280b939e256f5f76c9e4edbcb5641aa67721741e66b3f",
+      "compiled_sha256": "c165d8b7d362e0301c108a2d382c3a972047e0e9dad57e2599766372e4de87ec"
     },
     "/answers/claude/which-dealership-software-does-claude-recommend/": {
       "kind": "article",
       "path": "answers/claude/which-dealership-software-does-claude-recommend.md",
-      "effective_canonical_sha256": "4d46423c59df377b38621e21a0bcb5ba083f6932c07f4299f54c9d9ea13eb6ca",
-      "body_sha256": "bc583af650b2b64cdd33e14030079e537e1817d30a98e68636208e6d27656766",
-      "metadata_sha256": "508fb80bdc232420f65fa5851d3bc192e2d7293b72fd111b3f38feec511217ed",
-      "compiled_sha256": "8e243e7eaff5183dd006f13412d24db713a00fcf6bcd00fe04ec225e8f3806ca"
+      "effective_canonical_sha256": "c1ef6f7740a90397c517120708f6ce8404991fcdfa3927cd48ddf39536720c6f",
+      "body_sha256": "219c6039075e6537e2032ee4bead4a7506619621a1099758e91eb904160d41dc",
+      "metadata_sha256": "c53ad8082683d9ba287975c74701047f56525bf42cc84049e196324564d87ec3",
+      "compiled_sha256": "e8cd41e8193108791f0f65214c9241149f2b4f81de41692a73dddc2a79ec9d77"
     },
     "/answers/claude/which-dental-software-does-claude-recommend/": {
       "kind": "article",
       "path": "answers/claude/which-dental-software-does-claude-recommend.md",
-      "effective_canonical_sha256": "6734539f8dceb0c01062777dd592ae2884db5ba941e24c36462da235c14fea7a",
-      "body_sha256": "78de051f5643eb6e12c3e08e44fb7c3dd009577f543d33354e48974d075672b9",
-      "metadata_sha256": "1c928d50e67ab15fa63f91400c235416d94c89d24bf8f7a62667892d171b8738",
-      "compiled_sha256": "7b939ebef5f43c02c4f5fdf725c4445160f8e3a84740f6c43b861e58d6672edf"
+      "effective_canonical_sha256": "58fd92224e3a22e398c812ef1fe0b9e3fc803b752ca965866351de6b89429b98",
+      "body_sha256": "11445f26e833f9e42c1567112998a5d89903355f01f7929ad9f0bd0d150b7ea5",
+      "metadata_sha256": "6f1939fd0107c79763bf87c5531bc892d1b6b44c98945f8d5ccd8ac749438636",
+      "compiled_sha256": "14e1fecf5b0337c6e634d4bb97f1f223ce11e704568b80953ffb9808d9d1cb55"
     },
     "/answers/claude/which-field-service-software-does-claude-recommend/": {
       "kind": "article",
       "path": "answers/claude/which-field-service-software-does-claude-recommend.md",
-      "effective_canonical_sha256": "5070bc219184043c5a726b7552f097a14740c0c26380c7bb7d3ce024229053e5",
-      "body_sha256": "169d297bbec90100cb31b5aaa2f06b6ecab34c01c96198ba6a506c867fb9ac44",
-      "metadata_sha256": "63b50e573af26449a1f97ef3db4fba6f3dfb57e78d1b8c3ace09515581a08b2c",
-      "compiled_sha256": "633118d629312523f1eac63398b17ff11b957e27e498c92ada5603cdc218880a"
+      "effective_canonical_sha256": "d77819038c639b31b6914b8b51659aa0bd3fdd62c52814169fa5d298c9669473",
+      "body_sha256": "590c61e2647120bd62f90dabc6d3eb0d014c090f66aef1f7b2bce1bd842d4f7e",
+      "metadata_sha256": "e2460d00c6e9394c02b197155f4fbb8f8c066765570ac9ce9cf1231693c6292a",
+      "compiled_sha256": "43e74596aee7967cf0173357fd23011c726234047321f2da59536d9e681e7c45"
     },
     "/answers/claude/which-hotel-software-does-claude-recommend/": {
       "kind": "article",
       "path": "answers/claude/which-hotel-software-does-claude-recommend.md",
-      "effective_canonical_sha256": "9371b081068d98f734a39de77e3fdb5783bcda2808bb89fea1f21a2f8acbbcd7",
-      "body_sha256": "78637660323f1a8350536bdcf4abc7b72dc21030a20d5c18026ad072c3bdb6be",
-      "metadata_sha256": "a3f0fb6147718687977a6151af1cd13b3c304c5eb7d95afac8da67bcedc64dd8",
-      "compiled_sha256": "e609adfb430f4cf4550dcbd171763e3ecec7274c1d4b854dde3f1f9096abe974"
+      "effective_canonical_sha256": "e13b868e1f1439dbb0d87e7c9fd3681cf9e98076deb25290a74add07dfbda548",
+      "body_sha256": "88541a97bc029b3a2f21953302b3f493ec4092208e7f35d541d967e520a26160",
+      "metadata_sha256": "e618f49b0e0377ecedcc9d2869255fa50d446ca35479a870d7a72ed42cad0899",
+      "compiled_sha256": "ea057bfffcef13a756217f93fac33c4d9318a45c0563d45287ee36346b206328"
     },
     "/answers/claude/which-insurance-agency-software-does-claude-recommend/": {
       "kind": "article",
       "path": "answers/claude/which-insurance-agency-software-does-claude-recommend.md",
-      "effective_canonical_sha256": "95c681e75784145b8a1097fbe45487274be7fc8645e14b9220cedbdde1e60aea",
-      "body_sha256": "667a2bd913cb3e2c4d60abeead72cfbd258ff92f78f889cfb4f14defb141a9b3",
-      "metadata_sha256": "7492a2c4f52852f9530dd097b9b3493563cac1580beecb2c128824bebbc7a803",
-      "compiled_sha256": "f216826eb11bc4a98abcf4f801f6a5e07053d32c481158889af5fd5e32a73a56"
+      "effective_canonical_sha256": "2565d1c97011d9f10fc3c33fe96ec820eb68f6ebbe792f6b505181f24f695957",
+      "body_sha256": "d5df57d1cd2165e8cdfbea61b4a31521db3cb56ccdc71abf1ec5e35fd81a6183",
+      "metadata_sha256": "5ef48abe9b935c4ed6ff761588128b294e67044a3db6be65a859ff179169b3a0",
+      "compiled_sha256": "4ef02a7a5b2b3a13f77556fdd8b66612ad359d68aea1d8e088bc441c877b3f15"
     },
     "/answers/claude/which-legal-practice-software-does-claude-recommend/": {
       "kind": "article",
       "path": "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-      "effective_canonical_sha256": "597f8a1a1b17f02b40d5a2005b0dd43dd922661e8cf2d8c408cd9d7d093cfb24",
-      "body_sha256": "65a6f3efd2de76cf5d121cb3027b4a90d74e5fe59c47306ded5e17fc2776a78e",
-      "metadata_sha256": "6165d412a6d54f233812d05bc2fccb02243d70ea5b266c5e0126966ada8d9718",
-      "compiled_sha256": "fa372a42835f9f283653c295d2c7e8c18c75fb64635d6e5d65859ab14fbf1df0"
+      "effective_canonical_sha256": "560760d1fb634294eceba5a1afc87970564c9c7f00d90e13b0bbf7b14c56a9a0",
+      "body_sha256": "baa9e77be8d00d6c86e95d9887da2aab3b0d4c7f19378ff67f3c941f2e93b749",
+      "metadata_sha256": "8a75d1c72c384d43daad47ec3ab167232b91a27a41e31aedb0f3e016a60fb073",
+      "compiled_sha256": "abcf18f545224bb1fef6ed8c04a0df019432916d7d5d00230122167ce61b03c7"
     },
     "/answers/claude/which-loan-origination-software-does-claude-recommend/": {
       "kind": "article",
       "path": "answers/claude/which-loan-origination-software-does-claude-recommend.md",
-      "effective_canonical_sha256": "4c4f2c63c982285ea3b592ed24d8d5d1f73952db5422d3024f29d8a5e542777b",
-      "body_sha256": "3d898e4d59561a7c5f27869a304371a3dea0b3186573aa9ff7b6eda8ef6e33a1",
-      "metadata_sha256": "42605197a8ae895c0b6673f52ed04c3bac25bd5452442b0e66f03ee8bc6d3362",
-      "compiled_sha256": "b1b5c90a8b0b1565f4cbfe0a3284103f5c671043aa2bdd412343d73259e81a46"
+      "effective_canonical_sha256": "84bc21a2cdb6c820e7f552593093ea5aa97d576f941840900bc00d3d4ba36ee7",
+      "body_sha256": "275272613b2a017d2279699724a1d98ada76ed18457d1f7670fe462a4f1e2d65",
+      "metadata_sha256": "0055039056015ee4ac69803bde9751a1aa1addd07a301f5f3e7cb904c4212ece",
+      "compiled_sha256": "f311a65fe214b289192a5263c6197e5f9594f5c09340f19bc5cc362222b5e519"
     },
     "/answers/claude/which-project-management-software-does-claude-recommend/": {
       "kind": "article",
       "path": "answers/claude/which-project-management-software-does-claude-recommend.md",
-      "effective_canonical_sha256": "76ec2ca20b8fb6f37f4413d8a4321f2ff4ac70799a0af1dac023d21a1d0ee18e",
-      "body_sha256": "09dbf358b7a28d6d78db62fbcf6b896958ecca7ebdbda44fe148a8cbed924814",
-      "metadata_sha256": "870e9aa538f4083266370ef94ca0b30f83a1ae30d818c9b2f36e9f727a948a4a",
-      "compiled_sha256": "3b62b5438547ac4d9717cdaf9fb88616284c644e99560faae3ad5b0e154c0c66"
+      "effective_canonical_sha256": "27b935a91f9b59eee81350ee2a4dc7e4ee00f22d6b3d49f45295969db7dfb000",
+      "body_sha256": "6edeee067cc080d3201ffa1a4091f367ede29f3fd2416764365b8108e57647ec",
+      "metadata_sha256": "e74a8920ae90900f632a3bf57346ecdb303fedeff277597e8f2085f60245b4b2",
+      "compiled_sha256": "119293e967a26989e8208798785d5bb4ca051a6086e14950c7631837f6c82b16"
     },
     "/answers/fixes/can-google-ai-overview-answers-be-changed/": {
       "kind": "article",
@@ -2671,7 +2671,7 @@
     },
     "/search/search_index.json": {
       "kind": "auxiliary",
-      "compiled_sha256": "52a6cd56f817d60f0006d66c208ec4f0e5357b931fdc1539b829573b21adfe72"
+      "compiled_sha256": "cd82b57f49a0dd7c48ddd5de8bc9d0caae2c495e2b39accfe817272eb297819b"
     },
     "/absence-manual.pdf": {
       "kind": "generated_pdf",
@@ -3012,13 +3012,13 @@
   },
   "merged_sources": {},
   "production_binding": {
-    "commit_sha": "2c6fdb75a2f1c494b56f57bf965927d7cd1c477d",
-    "deployment_id": "41634511785",
-    "artifact_sha256": "50679ec2917536b2ead8671adcb731f9e642c94cf3af23e09c6fe4bcefc0d91c",
-    "served_receipt_sha256": "faae87c07d85b092dd9ca5cb4f9ed878e78a5212dbc15b460e23a03fb4b2f929"
+    "commit_sha": "df78e8e47a567b3478f3594fc052d1fd43bb0d70",
+    "deployment_id": "41662611989",
+    "artifact_sha256": "a28ad4251756e7da2440b4756d54baf9f350e66ef7264171593d894b2e10a99a",
+    "served_receipt_sha256": "08657bead039bd8783d7ef615a17540f1882dcc42dfa20875b3e2dca3005447f"
   },
   "current_quality_snapshot": {
-    "compiled_collection_fingerprint": "9f9faa46fc004e691b5ec78b6da0de5e3ee86423c4b2e2989487dd89682dbe20",
+    "compiled_collection_fingerprint": "993f0ac4dde8f5412cbbfe6377d6fae12a5e56386d7f8182f72fd08a081d0fdd",
     "effective_article_paths": [
       "answers/agents/can-an-ai-assistant-find-a-software-pricing-page.md",
       "answers/agents/can-construction-software-integrate-with-chatgpt.md",
@@ -4743,19 +4743,6 @@
         "kind": "eight_word_opening",
         "pages": [
           "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
-          "answers/claude/which-loan-origination-software-does-claude-recommend.md"
-        ],
-        "key": "eight_word_opening:9a685deac373bb06695da834c395770bd5b59612740efa5d375e97481414dec0",
-        "shared_sequences": [
-          "answers captured on 22 september 2026 but in",
-          "captured on 22 september 2026 but in none",
-          "on 22 september 2026 but in none of"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
           "answers/geo-basics/what-does-ai-visibility-mean.md"
         ],
         "key": "eight_word_opening:da1722c306b7d8c618fc1465b4767d2d5542b33da14d56d8100b3bd7b9f809db",
@@ -4790,93 +4777,9 @@
         "kind": "eight_word_opening",
         "pages": [
           "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md"
-        ],
-        "key": "eight_word_opening:9f2233203d00792023fbdcf563e23f885644f8ee44313850b6f1e087ebcd618e",
-        "shared_sequences": [
-          "legal practice answers captured on 22 september 2026"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
           "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
         ],
         "key": "eight_word_opening:d5689e2b068f5081fc047f3470f02429653af74a679e50f350683ce0a1b9f66a",
-        "shared_sequences": [
-          "legal practice answers captured on 22 september 2026"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-          "answers/claude/which-field-service-software-does-claude-recommend.md"
-        ],
-        "key": "eight_word_opening:9c695acd9c50214d34895c3c651b447515450e32c22daded2a33267ec1a5b063",
-        "shared_sequences": [
-          "30 valid answers captured on 22 september 2026",
-          "of 30 valid answers captured on 22 september"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-          "answers/claude/which-hotel-software-does-claude-recommend.md"
-        ],
-        "key": "eight_word_opening:a0031173e7ae2949ab0b6a68ec6ebc1e3aac1accf11d9f67d86ec36f58db2480",
-        "shared_sequences": [
-          "22 september 2026 including all three answers about",
-          "answers captured on 22 september 2026 including all",
-          "captured on 22 september 2026 including all three",
-          "on 22 september 2026 including all three answers",
-          "september 2026 including all three answers about a"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-crm-software-does-claude-recommend.md",
-          "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md"
-        ],
-        "key": "eight_word_opening:f98f1268f2fa61026de3ea6f07809918cb518592bd00904c1a716e1861f84233",
-        "shared_sequences": [
-          "answers captured on 22 september 2026 pipedrive appeared",
-          "captured on 22 september 2026 pipedrive appeared in",
-          "crm answers captured on 22 september 2026 pipedrive"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-field-service-software-does-claude-recommend.md",
-          "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md"
-        ],
-        "key": "eight_word_opening:f1634a9ed6b7d2413017d2c88450497cbc366239017cf76702a187dc29cb9147",
-        "shared_sequences": [
-          "answers captured on 22 september 2026 housecall pro"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-hotel-software-does-claude-recommend.md",
-          "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md"
-        ],
-        "key": "eight_word_opening:592644936ec89558e0336acfea39a945602348c6d2c677dbaaced052f199534b",
-        "shared_sequences": [
-          "hotel software answers captured on 22 september 2026"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-          "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
-        ],
-        "key": "eight_word_opening:0b8fa0acc2f0fe2cae99efe6df3628ea45caf68b5a33db9aec13ad0a8ceff5f8",
         "shared_sequences": [
           "legal practice answers captured on 22 september 2026"
         ]
@@ -6230,21 +6133,6 @@
         "shape": "vendor_first",
         "count": 6,
         "total": 19
-      },
-      {
-        "kind": "opening_concentration",
-        "pages": [
-          "answers/claude/which-construction-software-does-claude-recommend.md",
-          "answers/claude/which-dental-software-does-claude-recommend.md",
-          "answers/claude/which-hotel-software-does-claude-recommend.md",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-          "answers/claude/which-project-management-software-does-claude-recommend.md"
-        ],
-        "key": "opening_concentration:claude:vendor_first",
-        "cluster": "claude",
-        "shape": "vendor_first",
-        "count": 5,
-        "total": 12
       },
       {
         "kind": "opening_adjacency",
@@ -8242,20 +8130,6 @@
         "kind": "eight_word_opening",
         "pages": [
           "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
-          "answers/claude/which-loan-origination-software-does-claude-recommend.md"
-        ],
-        "key": "literal:eight_word_opening:9a685deac373bb06695da834c395770bd5b59612740efa5d375e97481414dec0",
-        "shared_sequences": [
-          "answers captured on 22 september 2026 but in",
-          "captured on 22 september 2026 but in none",
-          "on 22 september 2026 but in none of"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
           "answers/geo-basics/what-does-ai-visibility-mean.md"
         ],
         "key": "literal:eight_word_opening:da1722c306b7d8c618fc1465b4767d2d5542b33da14d56d8100b3bd7b9f809db",
@@ -8293,100 +8167,9 @@
         "kind": "eight_word_opening",
         "pages": [
           "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md"
-        ],
-        "key": "literal:eight_word_opening:9f2233203d00792023fbdcf563e23f885644f8ee44313850b6f1e087ebcd618e",
-        "shared_sequences": [
-          "legal practice answers captured on 22 september 2026"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
           "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
         ],
         "key": "literal:eight_word_opening:d5689e2b068f5081fc047f3470f02429653af74a679e50f350683ce0a1b9f66a",
-        "shared_sequences": [
-          "legal practice answers captured on 22 september 2026"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-          "answers/claude/which-field-service-software-does-claude-recommend.md"
-        ],
-        "key": "literal:eight_word_opening:9c695acd9c50214d34895c3c651b447515450e32c22daded2a33267ec1a5b063",
-        "shared_sequences": [
-          "30 valid answers captured on 22 september 2026",
-          "of 30 valid answers captured on 22 september"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-          "answers/claude/which-hotel-software-does-claude-recommend.md"
-        ],
-        "key": "literal:eight_word_opening:a0031173e7ae2949ab0b6a68ec6ebc1e3aac1accf11d9f67d86ec36f58db2480",
-        "shared_sequences": [
-          "22 september 2026 including all three answers about",
-          "answers captured on 22 september 2026 including all",
-          "captured on 22 september 2026 including all three",
-          "on 22 september 2026 including all three answers",
-          "september 2026 including all three answers about a"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-crm-software-does-claude-recommend.md",
-          "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md"
-        ],
-        "key": "literal:eight_word_opening:f98f1268f2fa61026de3ea6f07809918cb518592bd00904c1a716e1861f84233",
-        "shared_sequences": [
-          "answers captured on 22 september 2026 pipedrive appeared",
-          "captured on 22 september 2026 pipedrive appeared in",
-          "crm answers captured on 22 september 2026 pipedrive"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-field-service-software-does-claude-recommend.md",
-          "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md"
-        ],
-        "key": "literal:eight_word_opening:f1634a9ed6b7d2413017d2c88450497cbc366239017cf76702a187dc29cb9147",
-        "shared_sequences": [
-          "answers captured on 22 september 2026 housecall pro"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-hotel-software-does-claude-recommend.md",
-          "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md"
-        ],
-        "key": "literal:eight_word_opening:592644936ec89558e0336acfea39a945602348c6d2c677dbaaced052f199534b",
-        "shared_sequences": [
-          "hotel software answers captured on 22 september 2026"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-          "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
-        ],
-        "key": "literal:eight_word_opening:0b8fa0acc2f0fe2cae99efe6df3628ea45caf68b5a33db9aec13ad0a8ceff5f8",
         "shared_sequences": [
           "legal practice answers captured on 22 september 2026"
         ],
@@ -9853,22 +9636,6 @@
         "comparison_scope": "original_literal_q"
       },
       {
-        "kind": "opening_concentration",
-        "pages": [
-          "answers/claude/which-construction-software-does-claude-recommend.md",
-          "answers/claude/which-dental-software-does-claude-recommend.md",
-          "answers/claude/which-hotel-software-does-claude-recommend.md",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-          "answers/claude/which-project-management-software-does-claude-recommend.md"
-        ],
-        "key": "literal:opening_concentration:claude:vendor_first",
-        "cluster": "claude",
-        "shape": "vendor_first",
-        "count": 5,
-        "total": 12,
-        "comparison_scope": "original_literal_q"
-      },
-      {
         "kind": "opening_adjacency",
         "pages": [
           "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features.md",
@@ -10426,20 +10193,20 @@
           "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
           "answers/claude/which-legal-practice-software-does-claude-recommend.md"
         ],
-        "shared_sequences": 48,
+        "shared_sequences": 38,
         "smaller_sequence_set": 465,
-        "score_fraction": "16/155",
-        "score_percent": 10.32258064516129
+        "score_fraction": "38/465",
+        "score_percent": 8.172043010752688
       },
       "claude": {
         "pages": [
-          "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md"
+          "answers/claude/which-construction-software-does-claude-recommend.md",
+          "answers/perplexity/which-construction-software-does-perplexity-recommend.md"
         ],
-        "shared_sequences": 48,
-        "smaller_sequence_set": 465,
-        "score_fraction": "16/155",
-        "score_percent": 10.32258064516129
+        "shared_sequences": 77,
+        "smaller_sequence_set": 547,
+        "score_fraction": "77/547",
+        "score_percent": 14.076782449725776
       },
       "fixes": {
         "pages": [
@@ -10493,13 +10260,13 @@
       },
       "perplexity": {
         "pages": [
-          "answers/perplexity/which-field-service-software-does-perplexity-recommend.md",
-          "answers/perplexity/which-veterinary-software-does-perplexity-recommend.md"
+          "answers/claude/which-construction-software-does-claude-recommend.md",
+          "answers/perplexity/which-construction-software-does-perplexity-recommend.md"
         ],
-        "shared_sequences": 43,
-        "smaller_sequence_set": 502,
-        "score_fraction": "43/502",
-        "score_percent": 8.565737051792828
+        "shared_sequences": 77,
+        "smaller_sequence_set": 547,
+        "score_fraction": "77/547",
+        "score_percent": 14.076782449725776
       }
     },
     "highest_within_cluster_pair": {
@@ -10545,13 +10312,13 @@
       },
       "claude": {
         "pages": [
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-          "answers/claude/which-project-management-software-does-claude-recommend.md"
+          "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md",
+          "answers/claude/how-does-claude-web-search-work.md"
         ],
-        "shared_sequences": 16,
-        "smaller_sequence_set": 418,
-        "score_fraction": "8/209",
-        "score_percent": 3.827751196172249
+        "shared_sequences": 34,
+        "smaller_sequence_set": 382,
+        "score_fraction": "17/191",
+        "score_percent": 8.900523560209423
       },
       "fixes": {
         "pages": [
@@ -10675,14 +10442,16 @@
       },
       "claude": {
         "total": 12,
-        "used_shapes": 6,
+        "used_shapes": 8,
         "counts": {
           "answer_definition": 1,
+          "belief_correction": 1,
           "context_contrast": 2,
-          "date_first": 1,
+          "date_first": 2,
+          "figure_first": 2,
+          "question_back": 1,
           "reader_situation": 1,
-          "study_result_first": 2,
-          "vendor_first": 5
+          "vendor_first": 2
         },
         "one_fifth_floor": 2
       },
@@ -18448,19 +18217,6 @@
             "kind": "eight_word_opening",
             "pages": [
               "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
-              "answers/claude/which-loan-origination-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:9a685deac373bb06695da834c395770bd5b59612740efa5d375e97481414dec0",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 but in",
-              "captured on 22 september 2026 but in none",
-              "on 22 september 2026 but in none of"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
               "answers/geo-basics/what-does-ai-visibility-mean.md"
             ],
             "key": "eight_word_opening:da1722c306b7d8c618fc1465b4767d2d5542b33da14d56d8100b3bd7b9f809db",
@@ -18530,20 +18286,6 @@
             "key": "literal:eight_word_opening:a8b97166ba936d318d3e66cf7c035e97dd57ae6e7398f2c2b2a3c55d02e95647",
             "shared_sequences": [
               "field service answers captured on 22 september 2026"
-            ],
-            "comparison_scope": "original_literal_q"
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
-              "answers/claude/which-loan-origination-software-does-claude-recommend.md"
-            ],
-            "key": "literal:eight_word_opening:9a685deac373bb06695da834c395770bd5b59612740efa5d375e97481414dec0",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 but in",
-              "captured on 22 september 2026 but in none",
-              "on 22 september 2026 but in none of"
             ],
             "comparison_scope": "original_literal_q"
           },
@@ -18730,17 +18472,6 @@
             "kind": "eight_word_opening",
             "pages": [
               "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:9f2233203d00792023fbdcf563e23f885644f8ee44313850b6f1e087ebcd618e",
-            "shared_sequences": [
-              "legal practice answers captured on 22 september 2026"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
               "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
             ],
             "key": "eight_word_opening:d5689e2b068f5081fc047f3470f02429653af74a679e50f350683ce0a1b9f66a",
@@ -18777,18 +18508,6 @@
             "shape": "vendor_first",
             "count": 6,
             "total": 19
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md"
-            ],
-            "key": "literal:eight_word_opening:9f2233203d00792023fbdcf563e23f885644f8ee44313850b6f1e087ebcd618e",
-            "shared_sequences": [
-              "legal practice answers captured on 22 september 2026"
-            ],
-            "comparison_scope": "original_literal_q"
           },
           {
             "kind": "eight_word_opening",
@@ -18971,63 +18690,7 @@
           "Exactly one reputation qualifier required",
           "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md: Related lacks its own exact cluster hub",
           "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing",
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-              "answers/claude/which-field-service-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:9c695acd9c50214d34895c3c651b447515450e32c22daded2a33267ec1a5b063",
-            "shared_sequences": [
-              "30 valid answers captured on 22 september 2026",
-              "of 30 valid answers captured on 22 september"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:a0031173e7ae2949ab0b6a68ec6ebc1e3aac1accf11d9f67d86ec36f58db2480",
-            "shared_sequences": [
-              "22 september 2026 including all three answers about",
-              "answers captured on 22 september 2026 including all",
-              "captured on 22 september 2026 including all three",
-              "on 22 september 2026 including all three answers",
-              "september 2026 including all three answers about a"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-              "answers/claude/which-field-service-software-does-claude-recommend.md"
-            ],
-            "key": "literal:eight_word_opening:9c695acd9c50214d34895c3c651b447515450e32c22daded2a33267ec1a5b063",
-            "shared_sequences": [
-              "30 valid answers captured on 22 september 2026",
-              "of 30 valid answers captured on 22 september"
-            ],
-            "comparison_scope": "original_literal_q"
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md"
-            ],
-            "key": "literal:eight_word_opening:a0031173e7ae2949ab0b6a68ec6ebc1e3aac1accf11d9f67d86ec36f58db2480",
-            "shared_sequences": [
-              "22 september 2026 including all three answers about",
-              "answers captured on 22 september 2026 including all",
-              "captured on 22 september 2026 including all three",
-              "on 22 september 2026 including all three answers",
-              "september 2026 including all three answers about a"
-            ],
-            "comparison_scope": "original_literal_q"
-          }
+          "Fresh complete current writing receipt missing"
         ],
         "effective_canonical_sha256": "70d55a2ab9772c7c68d575b6e086a86f22d74bfca65b4912d22c97d4d91f60a3"
       },
@@ -19081,553 +18744,76 @@
         "effective_canonical_sha256": "e9e4dc5132982f211ba3a6d320d1cad3526edaf71662b2d20f61349cb0787412"
       },
       "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md": {
-        "status": "FAIL",
-        "passed": false,
-        "errors": [
-          "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md: Fresh complete current source receipt missing",
-          "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md: Fresh complete current writing receipt missing",
-          "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md: Current footer differs from one neutral offer-line contract",
-          "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md: Exactly one reputation qualifier required",
-          "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md: answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md: Related lacks its own exact cluster hub",
-          "Exactly one reputation qualifier required",
-          "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md: Related lacks its own exact cluster hub",
-          "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing"
-        ],
-        "effective_canonical_sha256": "670e9fd294e51b03ca5c8c60451f9f10914999c0969df1f7fcf7c5bfde9dcdce"
+        "status": "PASS",
+        "passed": true,
+        "errors": [],
+        "effective_canonical_sha256": "70b8ae7d031d7850b740cd5797cea032e828564ea53234a634f501bde462c5b3"
       },
       "answers/claude/how-does-claude-web-search-work.md": {
-        "status": "FAIL",
-        "passed": false,
-        "errors": [
-          "answers/claude/how-does-claude-web-search-work.md: Fresh complete current source receipt missing",
-          "answers/claude/how-does-claude-web-search-work.md: Fresh complete current writing receipt missing",
-          "answers/claude/how-does-claude-web-search-work.md: Current footer differs from one neutral offer-line contract",
-          "answers/claude/how-does-claude-web-search-work.md: Exactly one reputation qualifier required",
-          "answers/claude/how-does-claude-web-search-work.md: answers/claude/how-does-claude-web-search-work.md: Related lacks its own exact cluster hub",
-          "Exactly one reputation qualifier required",
-          "answers/claude/how-does-claude-web-search-work.md: Related lacks its own exact cluster hub",
-          "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing"
-        ],
-        "effective_canonical_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407"
+        "status": "PASS",
+        "passed": true,
+        "errors": [],
+        "effective_canonical_sha256": "d7158398f09040ad80923d7105d65ea8436423b8881812fc132105388baabc19"
       },
       "answers/claude/which-construction-software-does-claude-recommend.md": {
-        "status": "FAIL",
-        "passed": false,
-        "errors": [
-          "answers/claude/which-construction-software-does-claude-recommend.md: Fresh complete current source receipt missing",
-          "answers/claude/which-construction-software-does-claude-recommend.md: Fresh complete current writing receipt missing",
-          "answers/claude/which-construction-software-does-claude-recommend.md: Footer method token is not an exact public reference",
-          "answers/claude/which-construction-software-does-claude-recommend.md: Exactly one reputation qualifier required",
-          "answers/claude/which-construction-software-does-claude-recommend.md: answers/claude/which-construction-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Exactly one reputation qualifier required",
-          "answers/claude/which-construction-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing",
-          {
-            "kind": "opening_concentration",
-            "pages": [
-              "answers/claude/which-construction-software-does-claude-recommend.md",
-              "answers/claude/which-dental-software-does-claude-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/claude/which-project-management-software-does-claude-recommend.md"
-            ],
-            "key": "opening_concentration:claude:vendor_first",
-            "cluster": "claude",
-            "shape": "vendor_first",
-            "count": 5,
-            "total": 12
-          },
-          {
-            "kind": "opening_concentration",
-            "pages": [
-              "answers/claude/which-construction-software-does-claude-recommend.md",
-              "answers/claude/which-dental-software-does-claude-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/claude/which-project-management-software-does-claude-recommend.md"
-            ],
-            "key": "literal:opening_concentration:claude:vendor_first",
-            "cluster": "claude",
-            "shape": "vendor_first",
-            "count": 5,
-            "total": 12,
-            "comparison_scope": "original_literal_q"
-          }
-        ],
-        "effective_canonical_sha256": "712e1b4510a31a4aeb8ff442bd34ece2080c9aedde417d908409534ad5ac5114"
+        "status": "PASS",
+        "passed": true,
+        "errors": [],
+        "effective_canonical_sha256": "701c91d80f1957e31766d03705822c41d49178eeb043d87a67f9365859ebe773"
       },
       "answers/claude/which-crm-software-does-claude-recommend.md": {
-        "status": "FAIL",
-        "passed": false,
-        "errors": [
-          "answers/claude/which-crm-software-does-claude-recommend.md: Fresh complete current source receipt missing",
-          "answers/claude/which-crm-software-does-claude-recommend.md: Fresh complete current writing receipt missing",
-          "answers/claude/which-crm-software-does-claude-recommend.md: Footer method token is not an exact public reference",
-          "answers/claude/which-crm-software-does-claude-recommend.md: Exactly one reputation qualifier required",
-          "answers/claude/which-crm-software-does-claude-recommend.md: answers/claude/which-crm-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Exactly one reputation qualifier required",
-          "answers/claude/which-crm-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing",
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-crm-software-does-claude-recommend.md",
-              "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md"
-            ],
-            "key": "eight_word_opening:f98f1268f2fa61026de3ea6f07809918cb518592bd00904c1a716e1861f84233",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 pipedrive appeared",
-              "captured on 22 september 2026 pipedrive appeared in",
-              "crm answers captured on 22 september 2026 pipedrive"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-crm-software-does-claude-recommend.md",
-              "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md"
-            ],
-            "key": "literal:eight_word_opening:f98f1268f2fa61026de3ea6f07809918cb518592bd00904c1a716e1861f84233",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 pipedrive appeared",
-              "captured on 22 september 2026 pipedrive appeared in",
-              "crm answers captured on 22 september 2026 pipedrive"
-            ],
-            "comparison_scope": "original_literal_q"
-          }
-        ],
-        "effective_canonical_sha256": "094114b2a51e1f912479b72dc7e0578673f74cbbdde048126930794d97587769"
+        "status": "PASS",
+        "passed": true,
+        "errors": [],
+        "effective_canonical_sha256": "7aab0fdd2ee2bb6dab337f67457b56aec3a31fe74537ec1e1edabd5bc5e895e6"
       },
       "answers/claude/which-dealership-software-does-claude-recommend.md": {
-        "status": "FAIL",
-        "passed": false,
-        "errors": [
-          "answers/claude/which-dealership-software-does-claude-recommend.md: Fresh complete current source receipt missing",
-          "answers/claude/which-dealership-software-does-claude-recommend.md: Fresh complete current writing receipt missing",
-          "answers/claude/which-dealership-software-does-claude-recommend.md: Footer method token is not an exact public reference",
-          "answers/claude/which-dealership-software-does-claude-recommend.md: Exactly one reputation qualifier required",
-          "answers/claude/which-dealership-software-does-claude-recommend.md: answers/claude/which-dealership-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Exactly one reputation qualifier required",
-          "answers/claude/which-dealership-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing"
-        ],
-        "effective_canonical_sha256": "4d46423c59df377b38621e21a0bcb5ba083f6932c07f4299f54c9d9ea13eb6ca"
+        "status": "PASS",
+        "passed": true,
+        "errors": [],
+        "effective_canonical_sha256": "c1ef6f7740a90397c517120708f6ce8404991fcdfa3927cd48ddf39536720c6f"
       },
       "answers/claude/which-dental-software-does-claude-recommend.md": {
-        "status": "FAIL",
-        "passed": false,
-        "errors": [
-          "answers/claude/which-dental-software-does-claude-recommend.md: Fresh complete current source receipt missing",
-          "answers/claude/which-dental-software-does-claude-recommend.md: Fresh complete current writing receipt missing",
-          "answers/claude/which-dental-software-does-claude-recommend.md: Footer method token is not an exact public reference",
-          "answers/claude/which-dental-software-does-claude-recommend.md: Exactly one reputation qualifier required",
-          "answers/claude/which-dental-software-does-claude-recommend.md: answers/claude/which-dental-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Exactly one reputation qualifier required",
-          "answers/claude/which-dental-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing",
-          {
-            "kind": "opening_concentration",
-            "pages": [
-              "answers/claude/which-construction-software-does-claude-recommend.md",
-              "answers/claude/which-dental-software-does-claude-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/claude/which-project-management-software-does-claude-recommend.md"
-            ],
-            "key": "opening_concentration:claude:vendor_first",
-            "cluster": "claude",
-            "shape": "vendor_first",
-            "count": 5,
-            "total": 12
-          },
-          {
-            "kind": "opening_concentration",
-            "pages": [
-              "answers/claude/which-construction-software-does-claude-recommend.md",
-              "answers/claude/which-dental-software-does-claude-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/claude/which-project-management-software-does-claude-recommend.md"
-            ],
-            "key": "literal:opening_concentration:claude:vendor_first",
-            "cluster": "claude",
-            "shape": "vendor_first",
-            "count": 5,
-            "total": 12,
-            "comparison_scope": "original_literal_q"
-          }
-        ],
-        "effective_canonical_sha256": "6734539f8dceb0c01062777dd592ae2884db5ba941e24c36462da235c14fea7a"
+        "status": "PASS",
+        "passed": true,
+        "errors": [],
+        "effective_canonical_sha256": "58fd92224e3a22e398c812ef1fe0b9e3fc803b752ca965866351de6b89429b98"
       },
       "answers/claude/which-field-service-software-does-claude-recommend.md": {
-        "status": "FAIL",
-        "passed": false,
-        "errors": [
-          "answers/claude/which-field-service-software-does-claude-recommend.md: Fresh complete current source receipt missing",
-          "answers/claude/which-field-service-software-does-claude-recommend.md: Fresh complete current writing receipt missing",
-          "answers/claude/which-field-service-software-does-claude-recommend.md: Footer method token is not an exact public reference",
-          "answers/claude/which-field-service-software-does-claude-recommend.md: Exactly one reputation qualifier required",
-          "answers/claude/which-field-service-software-does-claude-recommend.md: answers/claude/which-field-service-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Exactly one reputation qualifier required",
-          "answers/claude/which-field-service-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing",
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-              "answers/claude/which-field-service-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:9c695acd9c50214d34895c3c651b447515450e32c22daded2a33267ec1a5b063",
-            "shared_sequences": [
-              "30 valid answers captured on 22 september 2026",
-              "of 30 valid answers captured on 22 september"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-field-service-software-does-claude-recommend.md",
-              "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md"
-            ],
-            "key": "eight_word_opening:f1634a9ed6b7d2413017d2c88450497cbc366239017cf76702a187dc29cb9147",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 housecall pro"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-              "answers/claude/which-field-service-software-does-claude-recommend.md"
-            ],
-            "key": "literal:eight_word_opening:9c695acd9c50214d34895c3c651b447515450e32c22daded2a33267ec1a5b063",
-            "shared_sequences": [
-              "30 valid answers captured on 22 september 2026",
-              "of 30 valid answers captured on 22 september"
-            ],
-            "comparison_scope": "original_literal_q"
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-field-service-software-does-claude-recommend.md",
-              "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md"
-            ],
-            "key": "literal:eight_word_opening:f1634a9ed6b7d2413017d2c88450497cbc366239017cf76702a187dc29cb9147",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 housecall pro"
-            ],
-            "comparison_scope": "original_literal_q"
-          }
-        ],
-        "effective_canonical_sha256": "5070bc219184043c5a726b7552f097a14740c0c26380c7bb7d3ce024229053e5"
+        "status": "PASS",
+        "passed": true,
+        "errors": [],
+        "effective_canonical_sha256": "d77819038c639b31b6914b8b51659aa0bd3fdd62c52814169fa5d298c9669473"
       },
       "answers/claude/which-hotel-software-does-claude-recommend.md": {
-        "status": "FAIL",
-        "passed": false,
-        "errors": [
-          "answers/claude/which-hotel-software-does-claude-recommend.md: Fresh complete current source receipt missing",
-          "answers/claude/which-hotel-software-does-claude-recommend.md: Fresh complete current writing receipt missing",
-          "answers/claude/which-hotel-software-does-claude-recommend.md: Footer method token is not an exact public reference",
-          "answers/claude/which-hotel-software-does-claude-recommend.md: Exactly one reputation qualifier required",
-          "answers/claude/which-hotel-software-does-claude-recommend.md: answers/claude/which-hotel-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Exactly one reputation qualifier required",
-          "answers/claude/which-hotel-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing",
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:a0031173e7ae2949ab0b6a68ec6ebc1e3aac1accf11d9f67d86ec36f58db2480",
-            "shared_sequences": [
-              "22 september 2026 including all three answers about",
-              "answers captured on 22 september 2026 including all",
-              "captured on 22 september 2026 including all three",
-              "on 22 september 2026 including all three answers",
-              "september 2026 including all three answers about a"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md"
-            ],
-            "key": "eight_word_opening:592644936ec89558e0336acfea39a945602348c6d2c677dbaaced052f199534b",
-            "shared_sequences": [
-              "hotel software answers captured on 22 september 2026"
-            ]
-          },
-          {
-            "kind": "opening_concentration",
-            "pages": [
-              "answers/claude/which-construction-software-does-claude-recommend.md",
-              "answers/claude/which-dental-software-does-claude-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/claude/which-project-management-software-does-claude-recommend.md"
-            ],
-            "key": "opening_concentration:claude:vendor_first",
-            "cluster": "claude",
-            "shape": "vendor_first",
-            "count": 5,
-            "total": 12
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md"
-            ],
-            "key": "literal:eight_word_opening:a0031173e7ae2949ab0b6a68ec6ebc1e3aac1accf11d9f67d86ec36f58db2480",
-            "shared_sequences": [
-              "22 september 2026 including all three answers about",
-              "answers captured on 22 september 2026 including all",
-              "captured on 22 september 2026 including all three",
-              "on 22 september 2026 including all three answers",
-              "september 2026 including all three answers about a"
-            ],
-            "comparison_scope": "original_literal_q"
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md"
-            ],
-            "key": "literal:eight_word_opening:592644936ec89558e0336acfea39a945602348c6d2c677dbaaced052f199534b",
-            "shared_sequences": [
-              "hotel software answers captured on 22 september 2026"
-            ],
-            "comparison_scope": "original_literal_q"
-          },
-          {
-            "kind": "opening_concentration",
-            "pages": [
-              "answers/claude/which-construction-software-does-claude-recommend.md",
-              "answers/claude/which-dental-software-does-claude-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/claude/which-project-management-software-does-claude-recommend.md"
-            ],
-            "key": "literal:opening_concentration:claude:vendor_first",
-            "cluster": "claude",
-            "shape": "vendor_first",
-            "count": 5,
-            "total": 12,
-            "comparison_scope": "original_literal_q"
-          }
-        ],
-        "effective_canonical_sha256": "9371b081068d98f734a39de77e3fdb5783bcda2808bb89fea1f21a2f8acbbcd7"
+        "status": "PASS",
+        "passed": true,
+        "errors": [],
+        "effective_canonical_sha256": "e13b868e1f1439dbb0d87e7c9fd3681cf9e98076deb25290a74add07dfbda548"
       },
       "answers/claude/which-insurance-agency-software-does-claude-recommend.md": {
-        "status": "FAIL",
-        "passed": false,
-        "errors": [
-          "answers/claude/which-insurance-agency-software-does-claude-recommend.md: Fresh complete current source receipt missing",
-          "answers/claude/which-insurance-agency-software-does-claude-recommend.md: Fresh complete current writing receipt missing",
-          "answers/claude/which-insurance-agency-software-does-claude-recommend.md: Current footer differs from one neutral offer-line contract",
-          "answers/claude/which-insurance-agency-software-does-claude-recommend.md: Exactly one reputation qualifier required",
-          "answers/claude/which-insurance-agency-software-does-claude-recommend.md: answers/claude/which-insurance-agency-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Exactly one reputation qualifier required",
-          "answers/claude/which-insurance-agency-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing"
-        ],
-        "effective_canonical_sha256": "95c681e75784145b8a1097fbe45487274be7fc8645e14b9220cedbdde1e60aea"
+        "status": "PASS",
+        "passed": true,
+        "errors": [],
+        "effective_canonical_sha256": "2565d1c97011d9f10fc3c33fe96ec820eb68f6ebbe792f6b505181f24f695957"
       },
       "answers/claude/which-legal-practice-software-does-claude-recommend.md": {
-        "status": "FAIL",
-        "passed": false,
-        "errors": [
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md: Fresh complete current source receipt missing",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md: Fresh complete current writing receipt missing",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md: Current footer differs from one neutral offer-line contract",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md: Exactly one reputation qualifier required",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md: answers/claude/which-legal-practice-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Exactly one reputation qualifier required",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing",
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:9f2233203d00792023fbdcf563e23f885644f8ee44313850b6f1e087ebcd618e",
-            "shared_sequences": [
-              "legal practice answers captured on 22 september 2026"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
-            ],
-            "key": "eight_word_opening:0b8fa0acc2f0fe2cae99efe6df3628ea45caf68b5a33db9aec13ad0a8ceff5f8",
-            "shared_sequences": [
-              "legal practice answers captured on 22 september 2026"
-            ]
-          },
-          {
-            "kind": "opening_concentration",
-            "pages": [
-              "answers/claude/which-construction-software-does-claude-recommend.md",
-              "answers/claude/which-dental-software-does-claude-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/claude/which-project-management-software-does-claude-recommend.md"
-            ],
-            "key": "opening_concentration:claude:vendor_first",
-            "cluster": "claude",
-            "shape": "vendor_first",
-            "count": 5,
-            "total": 12
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md"
-            ],
-            "key": "literal:eight_word_opening:9f2233203d00792023fbdcf563e23f885644f8ee44313850b6f1e087ebcd618e",
-            "shared_sequences": [
-              "legal practice answers captured on 22 september 2026"
-            ],
-            "comparison_scope": "original_literal_q"
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
-            ],
-            "key": "literal:eight_word_opening:0b8fa0acc2f0fe2cae99efe6df3628ea45caf68b5a33db9aec13ad0a8ceff5f8",
-            "shared_sequences": [
-              "legal practice answers captured on 22 september 2026"
-            ],
-            "comparison_scope": "original_literal_q"
-          },
-          {
-            "kind": "opening_concentration",
-            "pages": [
-              "answers/claude/which-construction-software-does-claude-recommend.md",
-              "answers/claude/which-dental-software-does-claude-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/claude/which-project-management-software-does-claude-recommend.md"
-            ],
-            "key": "literal:opening_concentration:claude:vendor_first",
-            "cluster": "claude",
-            "shape": "vendor_first",
-            "count": 5,
-            "total": 12,
-            "comparison_scope": "original_literal_q"
-          }
-        ],
-        "effective_canonical_sha256": "597f8a1a1b17f02b40d5a2005b0dd43dd922661e8cf2d8c408cd9d7d093cfb24"
+        "status": "PASS",
+        "passed": true,
+        "errors": [],
+        "effective_canonical_sha256": "560760d1fb634294eceba5a1afc87970564c9c7f00d90e13b0bbf7b14c56a9a0"
       },
       "answers/claude/which-loan-origination-software-does-claude-recommend.md": {
-        "status": "FAIL",
-        "passed": false,
-        "errors": [
-          "answers/claude/which-loan-origination-software-does-claude-recommend.md: Fresh complete current source receipt missing",
-          "answers/claude/which-loan-origination-software-does-claude-recommend.md: Fresh complete current writing receipt missing",
-          "answers/claude/which-loan-origination-software-does-claude-recommend.md: Current footer differs from one neutral offer-line contract",
-          "answers/claude/which-loan-origination-software-does-claude-recommend.md: Exactly one reputation qualifier required",
-          "answers/claude/which-loan-origination-software-does-claude-recommend.md: answers/claude/which-loan-origination-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Exactly one reputation qualifier required",
-          "answers/claude/which-loan-origination-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing",
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
-              "answers/claude/which-loan-origination-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:9a685deac373bb06695da834c395770bd5b59612740efa5d375e97481414dec0",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 but in",
-              "captured on 22 september 2026 but in none",
-              "on 22 september 2026 but in none of"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
-              "answers/claude/which-loan-origination-software-does-claude-recommend.md"
-            ],
-            "key": "literal:eight_word_opening:9a685deac373bb06695da834c395770bd5b59612740efa5d375e97481414dec0",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 but in",
-              "captured on 22 september 2026 but in none",
-              "on 22 september 2026 but in none of"
-            ],
-            "comparison_scope": "original_literal_q"
-          }
-        ],
-        "effective_canonical_sha256": "4c4f2c63c982285ea3b592ed24d8d5d1f73952db5422d3024f29d8a5e542777b"
+        "status": "PASS",
+        "passed": true,
+        "errors": [],
+        "effective_canonical_sha256": "84bc21a2cdb6c820e7f552593093ea5aa97d576f941840900bc00d3d4ba36ee7"
       },
       "answers/claude/which-project-management-software-does-claude-recommend.md": {
-        "status": "FAIL",
-        "passed": false,
-        "errors": [
-          "answers/claude/which-project-management-software-does-claude-recommend.md: Fresh complete current source receipt missing",
-          "answers/claude/which-project-management-software-does-claude-recommend.md: Fresh complete current writing receipt missing",
-          "answers/claude/which-project-management-software-does-claude-recommend.md: Current footer differs from one neutral offer-line contract",
-          "answers/claude/which-project-management-software-does-claude-recommend.md: Exactly one reputation qualifier required",
-          "answers/claude/which-project-management-software-does-claude-recommend.md: answers/claude/which-project-management-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Exactly one reputation qualifier required",
-          "answers/claude/which-project-management-software-does-claude-recommend.md: Related lacks its own exact cluster hub",
-          "Fresh complete current source receipt missing",
-          "Fresh complete current writing receipt missing",
-          {
-            "kind": "opening_concentration",
-            "pages": [
-              "answers/claude/which-construction-software-does-claude-recommend.md",
-              "answers/claude/which-dental-software-does-claude-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/claude/which-project-management-software-does-claude-recommend.md"
-            ],
-            "key": "opening_concentration:claude:vendor_first",
-            "cluster": "claude",
-            "shape": "vendor_first",
-            "count": 5,
-            "total": 12
-          },
-          {
-            "kind": "opening_concentration",
-            "pages": [
-              "answers/claude/which-construction-software-does-claude-recommend.md",
-              "answers/claude/which-dental-software-does-claude-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/claude/which-project-management-software-does-claude-recommend.md"
-            ],
-            "key": "literal:opening_concentration:claude:vendor_first",
-            "cluster": "claude",
-            "shape": "vendor_first",
-            "count": 5,
-            "total": 12,
-            "comparison_scope": "original_literal_q"
-          }
-        ],
-        "effective_canonical_sha256": "76ec2ca20b8fb6f37f4413d8a4321f2ff4ac70799a0af1dac023d21a1d0ee18e"
+        "status": "PASS",
+        "passed": true,
+        "errors": [],
+        "effective_canonical_sha256": "27b935a91f9b59eee81350ee2a4dc7e4ee00f22d6b3d49f45295969db7dfb000"
       },
       "answers/fixes/can-google-ai-overview-answers-be-changed.md": {
         "status": "DEFERRED_FIELD_TEST",
@@ -27283,19 +26469,6 @@
           "Fresh complete current source receipt missing",
           "Fresh complete current writing receipt missing",
           {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-crm-software-does-claude-recommend.md",
-              "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md"
-            ],
-            "key": "eight_word_opening:f98f1268f2fa61026de3ea6f07809918cb518592bd00904c1a716e1861f84233",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 pipedrive appeared",
-              "captured on 22 september 2026 pipedrive appeared in",
-              "crm answers captured on 22 september 2026 pipedrive"
-            ]
-          },
-          {
             "kind": "opening_adjacency",
             "pages": [
               "answers/google-ai/which-construction-software-does-google-ai-overviews-name.md",
@@ -27322,20 +26495,6 @@
               "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md",
               "answers/google-ai/which-dental-practice-software-does-google-ai-overviews-name.md"
             ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-crm-software-does-claude-recommend.md",
-              "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md"
-            ],
-            "key": "literal:eight_word_opening:f98f1268f2fa61026de3ea6f07809918cb518592bd00904c1a716e1861f84233",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 pipedrive appeared",
-              "captured on 22 september 2026 pipedrive appeared in",
-              "crm answers captured on 22 september 2026 pipedrive"
-            ],
-            "comparison_scope": "original_literal_q"
           },
           {
             "kind": "opening_adjacency",
@@ -27474,17 +26633,6 @@
           "Fresh complete current source receipt missing",
           "Fresh complete current writing receipt missing",
           {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md"
-            ],
-            "key": "eight_word_opening:592644936ec89558e0336acfea39a945602348c6d2c677dbaaced052f199534b",
-            "shared_sequences": [
-              "hotel software answers captured on 22 september 2026"
-            ]
-          },
-          {
             "kind": "opening_adjacency",
             "pages": [
               "answers/google-ai/which-field-service-software-does-google-ai-mode-name.md",
@@ -27497,18 +26645,6 @@
               "answers/google-ai/which-field-service-software-does-google-ai-mode-name.md",
               "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md"
             ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md"
-            ],
-            "key": "literal:eight_word_opening:592644936ec89558e0336acfea39a945602348c6d2c677dbaaced052f199534b",
-            "shared_sequences": [
-              "hotel software answers captured on 22 september 2026"
-            ],
-            "comparison_scope": "original_literal_q"
           },
           {
             "kind": "opening_adjacency",
@@ -29563,33 +28699,10 @@
           {
             "kind": "eight_word_opening",
             "pages": [
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
-            ],
-            "key": "eight_word_opening:0b8fa0acc2f0fe2cae99efe6df3628ea45caf68b5a33db9aec13ad0a8ceff5f8",
-            "shared_sequences": [
-              "legal practice answers captured on 22 september 2026"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
               "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
               "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
             ],
             "key": "literal:eight_word_opening:d5689e2b068f5081fc047f3470f02429653af74a679e50f350683ce0a1b9f66a",
-            "shared_sequences": [
-              "legal practice answers captured on 22 september 2026"
-            ],
-            "comparison_scope": "original_literal_q"
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
-            ],
-            "key": "literal:eight_word_opening:0b8fa0acc2f0fe2cae99efe6df3628ea45caf68b5a33db9aec13ad0a8ceff5f8",
             "shared_sequences": [
               "legal practice answers captured on 22 september 2026"
             ],
@@ -31032,17 +30145,6 @@
           {
             "kind": "eight_word_opening",
             "pages": [
-              "answers/claude/which-field-service-software-does-claude-recommend.md",
-              "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md"
-            ],
-            "key": "eight_word_opening:f1634a9ed6b7d2413017d2c88450497cbc366239017cf76702a187dc29cb9147",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 housecall pro"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
               "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md",
               "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md"
             ],
@@ -31208,18 +30310,6 @@
               "own domain was cited in 43 of 150",
               "pro was named in 108 of 150 answers",
               "while its own domain was cited in 43"
-            ],
-            "comparison_scope": "original_literal_q"
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-field-service-software-does-claude-recommend.md",
-              "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md"
-            ],
-            "key": "literal:eight_word_opening:f1634a9ed6b7d2413017d2c88450497cbc366239017cf76702a187dc29cb9147",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 housecall pro"
             ],
             "comparison_scope": "original_literal_q"
           },
@@ -35479,19 +34569,6 @@
         "kind": "eight_word_opening",
         "pages": [
           "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
-          "answers/claude/which-loan-origination-software-does-claude-recommend.md"
-        ],
-        "key": "eight_word_opening:9a685deac373bb06695da834c395770bd5b59612740efa5d375e97481414dec0",
-        "shared_sequences": [
-          "answers captured on 22 september 2026 but in",
-          "captured on 22 september 2026 but in none",
-          "on 22 september 2026 but in none of"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
           "answers/geo-basics/what-does-ai-visibility-mean.md"
         ],
         "key": "eight_word_opening:da1722c306b7d8c618fc1465b4767d2d5542b33da14d56d8100b3bd7b9f809db",
@@ -35526,93 +34603,9 @@
         "kind": "eight_word_opening",
         "pages": [
           "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md"
-        ],
-        "key": "eight_word_opening:9f2233203d00792023fbdcf563e23f885644f8ee44313850b6f1e087ebcd618e",
-        "shared_sequences": [
-          "legal practice answers captured on 22 september 2026"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
           "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
         ],
         "key": "eight_word_opening:d5689e2b068f5081fc047f3470f02429653af74a679e50f350683ce0a1b9f66a",
-        "shared_sequences": [
-          "legal practice answers captured on 22 september 2026"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-          "answers/claude/which-field-service-software-does-claude-recommend.md"
-        ],
-        "key": "eight_word_opening:9c695acd9c50214d34895c3c651b447515450e32c22daded2a33267ec1a5b063",
-        "shared_sequences": [
-          "30 valid answers captured on 22 september 2026",
-          "of 30 valid answers captured on 22 september"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-          "answers/claude/which-hotel-software-does-claude-recommend.md"
-        ],
-        "key": "eight_word_opening:a0031173e7ae2949ab0b6a68ec6ebc1e3aac1accf11d9f67d86ec36f58db2480",
-        "shared_sequences": [
-          "22 september 2026 including all three answers about",
-          "answers captured on 22 september 2026 including all",
-          "captured on 22 september 2026 including all three",
-          "on 22 september 2026 including all three answers",
-          "september 2026 including all three answers about a"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-crm-software-does-claude-recommend.md",
-          "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md"
-        ],
-        "key": "eight_word_opening:f98f1268f2fa61026de3ea6f07809918cb518592bd00904c1a716e1861f84233",
-        "shared_sequences": [
-          "answers captured on 22 september 2026 pipedrive appeared",
-          "captured on 22 september 2026 pipedrive appeared in",
-          "crm answers captured on 22 september 2026 pipedrive"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-field-service-software-does-claude-recommend.md",
-          "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md"
-        ],
-        "key": "eight_word_opening:f1634a9ed6b7d2413017d2c88450497cbc366239017cf76702a187dc29cb9147",
-        "shared_sequences": [
-          "answers captured on 22 september 2026 housecall pro"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-hotel-software-does-claude-recommend.md",
-          "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md"
-        ],
-        "key": "eight_word_opening:592644936ec89558e0336acfea39a945602348c6d2c677dbaaced052f199534b",
-        "shared_sequences": [
-          "hotel software answers captured on 22 september 2026"
-        ]
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-          "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
-        ],
-        "key": "eight_word_opening:0b8fa0acc2f0fe2cae99efe6df3628ea45caf68b5a33db9aec13ad0a8ceff5f8",
         "shared_sequences": [
           "legal practice answers captured on 22 september 2026"
         ]
@@ -36723,21 +35716,6 @@
         "shape": "vendor_first",
         "count": 6,
         "total": 19
-      },
-      {
-        "kind": "opening_concentration",
-        "pages": [
-          "answers/claude/which-construction-software-does-claude-recommend.md",
-          "answers/claude/which-dental-software-does-claude-recommend.md",
-          "answers/claude/which-hotel-software-does-claude-recommend.md",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-          "answers/claude/which-project-management-software-does-claude-recommend.md"
-        ],
-        "key": "opening_concentration:claude:vendor_first",
-        "cluster": "claude",
-        "shape": "vendor_first",
-        "count": 5,
-        "total": 12
       },
       {
         "kind": "opening_adjacency",
@@ -38651,20 +37629,6 @@
         "kind": "eight_word_opening",
         "pages": [
           "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
-          "answers/claude/which-loan-origination-software-does-claude-recommend.md"
-        ],
-        "key": "literal:eight_word_opening:9a685deac373bb06695da834c395770bd5b59612740efa5d375e97481414dec0",
-        "shared_sequences": [
-          "answers captured on 22 september 2026 but in",
-          "captured on 22 september 2026 but in none",
-          "on 22 september 2026 but in none of"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
           "answers/geo-basics/what-does-ai-visibility-mean.md"
         ],
         "key": "literal:eight_word_opening:da1722c306b7d8c618fc1465b4767d2d5542b33da14d56d8100b3bd7b9f809db",
@@ -38702,100 +37666,9 @@
         "kind": "eight_word_opening",
         "pages": [
           "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md"
-        ],
-        "key": "literal:eight_word_opening:9f2233203d00792023fbdcf563e23f885644f8ee44313850b6f1e087ebcd618e",
-        "shared_sequences": [
-          "legal practice answers captured on 22 september 2026"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
           "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
         ],
         "key": "literal:eight_word_opening:d5689e2b068f5081fc047f3470f02429653af74a679e50f350683ce0a1b9f66a",
-        "shared_sequences": [
-          "legal practice answers captured on 22 september 2026"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-          "answers/claude/which-field-service-software-does-claude-recommend.md"
-        ],
-        "key": "literal:eight_word_opening:9c695acd9c50214d34895c3c651b447515450e32c22daded2a33267ec1a5b063",
-        "shared_sequences": [
-          "30 valid answers captured on 22 september 2026",
-          "of 30 valid answers captured on 22 september"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-          "answers/claude/which-hotel-software-does-claude-recommend.md"
-        ],
-        "key": "literal:eight_word_opening:a0031173e7ae2949ab0b6a68ec6ebc1e3aac1accf11d9f67d86ec36f58db2480",
-        "shared_sequences": [
-          "22 september 2026 including all three answers about",
-          "answers captured on 22 september 2026 including all",
-          "captured on 22 september 2026 including all three",
-          "on 22 september 2026 including all three answers",
-          "september 2026 including all three answers about a"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-crm-software-does-claude-recommend.md",
-          "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md"
-        ],
-        "key": "literal:eight_word_opening:f98f1268f2fa61026de3ea6f07809918cb518592bd00904c1a716e1861f84233",
-        "shared_sequences": [
-          "answers captured on 22 september 2026 pipedrive appeared",
-          "captured on 22 september 2026 pipedrive appeared in",
-          "crm answers captured on 22 september 2026 pipedrive"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-field-service-software-does-claude-recommend.md",
-          "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md"
-        ],
-        "key": "literal:eight_word_opening:f1634a9ed6b7d2413017d2c88450497cbc366239017cf76702a187dc29cb9147",
-        "shared_sequences": [
-          "answers captured on 22 september 2026 housecall pro"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-hotel-software-does-claude-recommend.md",
-          "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md"
-        ],
-        "key": "literal:eight_word_opening:592644936ec89558e0336acfea39a945602348c6d2c677dbaaced052f199534b",
-        "shared_sequences": [
-          "hotel software answers captured on 22 september 2026"
-        ],
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "eight_word_opening",
-        "pages": [
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-          "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
-        ],
-        "key": "literal:eight_word_opening:0b8fa0acc2f0fe2cae99efe6df3628ea45caf68b5a33db9aec13ad0a8ceff5f8",
         "shared_sequences": [
           "legal practice answers captured on 22 september 2026"
         ],
@@ -39996,22 +38869,6 @@
         "shape": "vendor_first",
         "count": 6,
         "total": 19,
-        "comparison_scope": "original_literal_q"
-      },
-      {
-        "kind": "opening_concentration",
-        "pages": [
-          "answers/claude/which-construction-software-does-claude-recommend.md",
-          "answers/claude/which-dental-software-does-claude-recommend.md",
-          "answers/claude/which-hotel-software-does-claude-recommend.md",
-          "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-          "answers/claude/which-project-management-software-does-claude-recommend.md"
-        ],
-        "key": "literal:opening_concentration:claude:vendor_first",
-        "cluster": "claude",
-        "shape": "vendor_first",
-        "count": 5,
-        "total": 12,
         "comparison_scope": "original_literal_q"
       },
       {
@@ -42545,19 +41402,6 @@
             "kind": "eight_word_opening",
             "pages": [
               "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
-              "answers/claude/which-loan-origination-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:9a685deac373bb06695da834c395770bd5b59612740efa5d375e97481414dec0",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 but in",
-              "captured on 22 september 2026 but in none",
-              "on 22 september 2026 but in none of"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
               "answers/geo-basics/what-does-ai-visibility-mean.md"
             ],
             "key": "eight_word_opening:da1722c306b7d8c618fc1465b4767d2d5542b33da14d56d8100b3bd7b9f809db",
@@ -42592,93 +41436,9 @@
             "kind": "eight_word_opening",
             "pages": [
               "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:9f2233203d00792023fbdcf563e23f885644f8ee44313850b6f1e087ebcd618e",
-            "shared_sequences": [
-              "legal practice answers captured on 22 september 2026"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
               "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
             ],
             "key": "eight_word_opening:d5689e2b068f5081fc047f3470f02429653af74a679e50f350683ce0a1b9f66a",
-            "shared_sequences": [
-              "legal practice answers captured on 22 september 2026"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-              "answers/claude/which-field-service-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:9c695acd9c50214d34895c3c651b447515450e32c22daded2a33267ec1a5b063",
-            "shared_sequences": [
-              "30 valid answers captured on 22 september 2026",
-              "of 30 valid answers captured on 22 september"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:a0031173e7ae2949ab0b6a68ec6ebc1e3aac1accf11d9f67d86ec36f58db2480",
-            "shared_sequences": [
-              "22 september 2026 including all three answers about",
-              "answers captured on 22 september 2026 including all",
-              "captured on 22 september 2026 including all three",
-              "on 22 september 2026 including all three answers",
-              "september 2026 including all three answers about a"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-crm-software-does-claude-recommend.md",
-              "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md"
-            ],
-            "key": "eight_word_opening:f98f1268f2fa61026de3ea6f07809918cb518592bd00904c1a716e1861f84233",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 pipedrive appeared",
-              "captured on 22 september 2026 pipedrive appeared in",
-              "crm answers captured on 22 september 2026 pipedrive"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-field-service-software-does-claude-recommend.md",
-              "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md"
-            ],
-            "key": "eight_word_opening:f1634a9ed6b7d2413017d2c88450497cbc366239017cf76702a187dc29cb9147",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 housecall pro"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md"
-            ],
-            "key": "eight_word_opening:592644936ec89558e0336acfea39a945602348c6d2c677dbaaced052f199534b",
-            "shared_sequences": [
-              "hotel software answers captured on 22 september 2026"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
-            ],
-            "key": "eight_word_opening:0b8fa0acc2f0fe2cae99efe6df3628ea45caf68b5a33db9aec13ad0a8ceff5f8",
             "shared_sequences": [
               "legal practice answers captured on 22 september 2026"
             ]
@@ -44032,21 +42792,6 @@
             "shape": "vendor_first",
             "count": 6,
             "total": 19
-          },
-          {
-            "kind": "opening_concentration",
-            "pages": [
-              "answers/claude/which-construction-software-does-claude-recommend.md",
-              "answers/claude/which-dental-software-does-claude-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/claude/which-project-management-software-does-claude-recommend.md"
-            ],
-            "key": "opening_concentration:claude:vendor_first",
-            "cluster": "claude",
-            "shape": "vendor_first",
-            "count": 5,
-            "total": 12
           },
           {
             "kind": "opening_adjacency",
@@ -45936,19 +44681,6 @@
             "kind": "eight_word_opening",
             "pages": [
               "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
-              "answers/claude/which-loan-origination-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:9a685deac373bb06695da834c395770bd5b59612740efa5d375e97481414dec0",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 but in",
-              "captured on 22 september 2026 but in none",
-              "on 22 september 2026 but in none of"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
               "answers/geo-basics/what-does-ai-visibility-mean.md"
             ],
             "key": "eight_word_opening:da1722c306b7d8c618fc1465b4767d2d5542b33da14d56d8100b3bd7b9f809db",
@@ -45983,93 +44715,9 @@
             "kind": "eight_word_opening",
             "pages": [
               "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:9f2233203d00792023fbdcf563e23f885644f8ee44313850b6f1e087ebcd618e",
-            "shared_sequences": [
-              "legal practice answers captured on 22 september 2026"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
               "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
             ],
             "key": "eight_word_opening:d5689e2b068f5081fc047f3470f02429653af74a679e50f350683ce0a1b9f66a",
-            "shared_sequences": [
-              "legal practice answers captured on 22 september 2026"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-              "answers/claude/which-field-service-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:9c695acd9c50214d34895c3c651b447515450e32c22daded2a33267ec1a5b063",
-            "shared_sequences": [
-              "30 valid answers captured on 22 september 2026",
-              "of 30 valid answers captured on 22 september"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md"
-            ],
-            "key": "eight_word_opening:a0031173e7ae2949ab0b6a68ec6ebc1e3aac1accf11d9f67d86ec36f58db2480",
-            "shared_sequences": [
-              "22 september 2026 including all three answers about",
-              "answers captured on 22 september 2026 including all",
-              "captured on 22 september 2026 including all three",
-              "on 22 september 2026 including all three answers",
-              "september 2026 including all three answers about a"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-crm-software-does-claude-recommend.md",
-              "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md"
-            ],
-            "key": "eight_word_opening:f98f1268f2fa61026de3ea6f07809918cb518592bd00904c1a716e1861f84233",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 pipedrive appeared",
-              "captured on 22 september 2026 pipedrive appeared in",
-              "crm answers captured on 22 september 2026 pipedrive"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-field-service-software-does-claude-recommend.md",
-              "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md"
-            ],
-            "key": "eight_word_opening:f1634a9ed6b7d2413017d2c88450497cbc366239017cf76702a187dc29cb9147",
-            "shared_sequences": [
-              "answers captured on 22 september 2026 housecall pro"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md"
-            ],
-            "key": "eight_word_opening:592644936ec89558e0336acfea39a945602348c6d2c677dbaaced052f199534b",
-            "shared_sequences": [
-              "hotel software answers captured on 22 september 2026"
-            ]
-          },
-          {
-            "kind": "eight_word_opening",
-            "pages": [
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md"
-            ],
-            "key": "eight_word_opening:0b8fa0acc2f0fe2cae99efe6df3628ea45caf68b5a33db9aec13ad0a8ceff5f8",
             "shared_sequences": [
               "legal practice answers captured on 22 september 2026"
             ]
@@ -47425,21 +46073,6 @@
             "total": 19
           },
           {
-            "kind": "opening_concentration",
-            "pages": [
-              "answers/claude/which-construction-software-does-claude-recommend.md",
-              "answers/claude/which-dental-software-does-claude-recommend.md",
-              "answers/claude/which-hotel-software-does-claude-recommend.md",
-              "answers/claude/which-legal-practice-software-does-claude-recommend.md",
-              "answers/claude/which-project-management-software-does-claude-recommend.md"
-            ],
-            "key": "opening_concentration:claude:vendor_first",
-            "cluster": "claude",
-            "shape": "vendor_first",
-            "count": 5,
-            "total": 12
-          },
-          {
             "kind": "opening_adjacency",
             "pages": [
               "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features.md",
@@ -48336,64 +46969,64 @@
         "literal_comparable_sha256": "1865e428e63ecb1c9bc51fb70e3966ba28f6e2174cdcebc8542eab9b8b24bd5b"
       },
       "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md": {
-        "effective_full_sha256": "670e9fd294e51b03ca5c8c60451f9f10914999c0969df1f7fcf7c5bfde9dcdce",
-        "body_sha256": "84cfcba0ff835226f808f994cccd3f802f4eaf1c701a755d808b66997aada0a9",
-        "literal_comparable_sha256": "1f51da397b106a340fa23e4647452c1d4d5d3123448b7f6a0b9413773aabdce7"
+        "effective_full_sha256": "70b8ae7d031d7850b740cd5797cea032e828564ea53234a634f501bde462c5b3",
+        "body_sha256": "c59eb7636d03aef9f4e67db2e0b576bf5b9c17aa7e36cbe72b5d207014c2598d",
+        "literal_comparable_sha256": "f716797f5e52cdd1ac88dbf9d302f1b73e41de4548d764df0058ea7cfb9adc39"
       },
       "answers/claude/how-does-claude-web-search-work.md": {
-        "effective_full_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407",
-        "body_sha256": "d07ba7d258231bfe6bb7f1c1c0ab618454a5c04bea5d7ffa183f8c79d9c3adea",
-        "literal_comparable_sha256": "83fe4908de0c837c5166ba6f974ba36f70080540624e6a1bb044caf287251e64"
+        "effective_full_sha256": "d7158398f09040ad80923d7105d65ea8436423b8881812fc132105388baabc19",
+        "body_sha256": "a937f4e0188735da780924b219e2f2e2ea468651b9d9c60ddc9d3d2bbf8009bd",
+        "literal_comparable_sha256": "f36c549380b93cc81ffc3200a503a415eeb5c2bf1ceb7a93dddda773946cbac0"
       },
       "answers/claude/which-construction-software-does-claude-recommend.md": {
-        "effective_full_sha256": "712e1b4510a31a4aeb8ff442bd34ece2080c9aedde417d908409534ad5ac5114",
-        "body_sha256": "95d92fe6d8f943f5786cbb01f23ca5b044a5486324ae73b5cd4f142520a47897",
-        "literal_comparable_sha256": "cd3d0a3fdacce1bab805f61142b832f7cf213f1a89e356ea2670ac065ebef11b"
+        "effective_full_sha256": "701c91d80f1957e31766d03705822c41d49178eeb043d87a67f9365859ebe773",
+        "body_sha256": "1b6e1f24561c650314b161393792570738f1d5dbc5b065f98050f66290043403",
+        "literal_comparable_sha256": "f018b971174e0c37e2b6d34c4eef99d2cbf30b5aa452e635e9a325d5dee423e8"
       },
       "answers/claude/which-crm-software-does-claude-recommend.md": {
-        "effective_full_sha256": "094114b2a51e1f912479b72dc7e0578673f74cbbdde048126930794d97587769",
-        "body_sha256": "e5e01b3b72fdce19f2aa757f279f7c5a7365843e6a4c95c32f69ebd777c3063b",
-        "literal_comparable_sha256": "b257f78045983370ce809d0a16173ec0ed227bcc0fbcdec47933c37f6df7f599"
+        "effective_full_sha256": "7aab0fdd2ee2bb6dab337f67457b56aec3a31fe74537ec1e1edabd5bc5e895e6",
+        "body_sha256": "11b6ba381649eb7665c4e42516a5f9958974d7022e78d13d8ce9f5ef6949dcab",
+        "literal_comparable_sha256": "5e6f37bff48daa1260658e6613c64fbbf987c1ca27f07ab8c88754462e2045b6"
       },
       "answers/claude/which-dealership-software-does-claude-recommend.md": {
-        "effective_full_sha256": "4d46423c59df377b38621e21a0bcb5ba083f6932c07f4299f54c9d9ea13eb6ca",
-        "body_sha256": "bc583af650b2b64cdd33e14030079e537e1817d30a98e68636208e6d27656766",
-        "literal_comparable_sha256": "7bdcad51518f19e6363f39b697bca27ae9f75ebaea9b09bbfc6926f6af188dbd"
+        "effective_full_sha256": "c1ef6f7740a90397c517120708f6ce8404991fcdfa3927cd48ddf39536720c6f",
+        "body_sha256": "219c6039075e6537e2032ee4bead4a7506619621a1099758e91eb904160d41dc",
+        "literal_comparable_sha256": "99a1120085aae5f5d2e39b02b474766414dd167a120cbd86c59a2b48089d3572"
       },
       "answers/claude/which-dental-software-does-claude-recommend.md": {
-        "effective_full_sha256": "6734539f8dceb0c01062777dd592ae2884db5ba941e24c36462da235c14fea7a",
-        "body_sha256": "78de051f5643eb6e12c3e08e44fb7c3dd009577f543d33354e48974d075672b9",
-        "literal_comparable_sha256": "14baa2da338e3caa4db8dfd3bb24e62c31bf3936a9c7044c245846f2bb5f2ab0"
+        "effective_full_sha256": "58fd92224e3a22e398c812ef1fe0b9e3fc803b752ca965866351de6b89429b98",
+        "body_sha256": "11445f26e833f9e42c1567112998a5d89903355f01f7929ad9f0bd0d150b7ea5",
+        "literal_comparable_sha256": "1208b62130724d6415d160f02dc77fbbe190af8822a7580e4cfcda6fa347535f"
       },
       "answers/claude/which-field-service-software-does-claude-recommend.md": {
-        "effective_full_sha256": "5070bc219184043c5a726b7552f097a14740c0c26380c7bb7d3ce024229053e5",
-        "body_sha256": "169d297bbec90100cb31b5aaa2f06b6ecab34c01c96198ba6a506c867fb9ac44",
-        "literal_comparable_sha256": "fbbddfe12593bd0112dc5a375c430caa4bd7bcb67480554e81d654588988288f"
+        "effective_full_sha256": "d77819038c639b31b6914b8b51659aa0bd3fdd62c52814169fa5d298c9669473",
+        "body_sha256": "590c61e2647120bd62f90dabc6d3eb0d014c090f66aef1f7b2bce1bd842d4f7e",
+        "literal_comparable_sha256": "41fd40184bdedf94307e63d141d6c7771a6003cc0f54b6de61fa03b11f2bd2dc"
       },
       "answers/claude/which-hotel-software-does-claude-recommend.md": {
-        "effective_full_sha256": "9371b081068d98f734a39de77e3fdb5783bcda2808bb89fea1f21a2f8acbbcd7",
-        "body_sha256": "78637660323f1a8350536bdcf4abc7b72dc21030a20d5c18026ad072c3bdb6be",
-        "literal_comparable_sha256": "0f6c4bf81e648748a11cf6640c3dbf66e34bfacbdb872769695ff07917491aae"
+        "effective_full_sha256": "e13b868e1f1439dbb0d87e7c9fd3681cf9e98076deb25290a74add07dfbda548",
+        "body_sha256": "88541a97bc029b3a2f21953302b3f493ec4092208e7f35d541d967e520a26160",
+        "literal_comparable_sha256": "d52e99ba2a4bee98be917dd3fb56ae07fd6505a3450be8646bbb54e6dc25e31e"
       },
       "answers/claude/which-insurance-agency-software-does-claude-recommend.md": {
-        "effective_full_sha256": "95c681e75784145b8a1097fbe45487274be7fc8645e14b9220cedbdde1e60aea",
-        "body_sha256": "667a2bd913cb3e2c4d60abeead72cfbd258ff92f78f889cfb4f14defb141a9b3",
-        "literal_comparable_sha256": "5c994e7dbe964c1283334f9591b38712e3ec184ca57e0a1e69bcfbefc903b614"
+        "effective_full_sha256": "2565d1c97011d9f10fc3c33fe96ec820eb68f6ebbe792f6b505181f24f695957",
+        "body_sha256": "d5df57d1cd2165e8cdfbea61b4a31521db3cb56ccdc71abf1ec5e35fd81a6183",
+        "literal_comparable_sha256": "5d74eb3f696714a4c5bcbf0c9b71dd839a4a589251261429c0bf22aac0021b5e"
       },
       "answers/claude/which-legal-practice-software-does-claude-recommend.md": {
-        "effective_full_sha256": "597f8a1a1b17f02b40d5a2005b0dd43dd922661e8cf2d8c408cd9d7d093cfb24",
-        "body_sha256": "65a6f3efd2de76cf5d121cb3027b4a90d74e5fe59c47306ded5e17fc2776a78e",
-        "literal_comparable_sha256": "d95e97e55356a122ebd17747430e60a0fd4e86ead0b93b3192555396316908c6"
+        "effective_full_sha256": "560760d1fb634294eceba5a1afc87970564c9c7f00d90e13b0bbf7b14c56a9a0",
+        "body_sha256": "baa9e77be8d00d6c86e95d9887da2aab3b0d4c7f19378ff67f3c941f2e93b749",
+        "literal_comparable_sha256": "fdbd526d5c1011dedece1b3fe79977487fd7ae4631b640a31177c2e3d9fcacb3"
       },
       "answers/claude/which-loan-origination-software-does-claude-recommend.md": {
-        "effective_full_sha256": "4c4f2c63c982285ea3b592ed24d8d5d1f73952db5422d3024f29d8a5e542777b",
-        "body_sha256": "3d898e4d59561a7c5f27869a304371a3dea0b3186573aa9ff7b6eda8ef6e33a1",
-        "literal_comparable_sha256": "28d22916029fd305aa722d1d839024d83e3aee0b0c05376d24e3406eb2a3988c"
+        "effective_full_sha256": "84bc21a2cdb6c820e7f552593093ea5aa97d576f941840900bc00d3d4ba36ee7",
+        "body_sha256": "275272613b2a017d2279699724a1d98ada76ed18457d1f7670fe462a4f1e2d65",
+        "literal_comparable_sha256": "8f4a43632b7fe949c8a9edca9c5c071d7fdd2b9d2e0d245e9fd72b61fb711ddf"
       },
       "answers/claude/which-project-management-software-does-claude-recommend.md": {
-        "effective_full_sha256": "76ec2ca20b8fb6f37f4413d8a4321f2ff4ac70799a0af1dac023d21a1d0ee18e",
-        "body_sha256": "09dbf358b7a28d6d78db62fbcf6b896958ecca7ebdbda44fe148a8cbed924814",
-        "literal_comparable_sha256": "0e49c0513fa612af4163893cce848b5ff823ecfd504cd17d67992b821cd2d6fa"
+        "effective_full_sha256": "27b935a91f9b59eee81350ee2a4dc7e4ee00f22d6b3d49f45295969db7dfb000",
+        "body_sha256": "6edeee067cc080d3201ffa1a4091f367ede29f3fd2416764365b8108e57647ec",
+        "literal_comparable_sha256": "00e344eaafa5e4ae06332bc7e6c8abeaff743c5b00b703e3b37cb8b101b1440a"
       },
       "answers/fixes/can-google-ai-overview-answers-be-changed.md": {
         "effective_full_sha256": "45383144418c23727a72dd53f211da4edad3e5d641cb6899ac2f88261e648a75",

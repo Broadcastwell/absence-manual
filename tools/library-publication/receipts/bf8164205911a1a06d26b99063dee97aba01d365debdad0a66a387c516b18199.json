@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0029",
+  "path": "answers/measurement/what-evidence-can-connect-ai-visibility-with-pipeline.md",
+  "canonical_source_sha256": "019df46383c8cafe5680a9418442bbffeb891bfd0bccda23bd29c1c73f379032",
+  "effective_canonical_source_sha256": "2a92f3040e44d79af2d582ba20de064254e1da49f75b4b2a1fa0b19e33e45b7e",
+  "effective_body_sha256": "539fbfa6129f1af854936de0c08f5af33902a43c405b22f07c2789159addde57",
+  "effective_metadata_sha256": "3bd6bc555eb61c54d1fe07a48817da08f4c5faaf8eaf1f9ca6735e36a0fa6894",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\measurement\\what-evidence-can-connect-ai-visibility-with-pipeline.md",
+    "raw_sha256": "2a92f3040e44d79af2d582ba20de064254e1da49f75b4b2a1fa0b19e33e45b7e",
+    "canonical_LF_sha256": "2a92f3040e44d79af2d582ba20de064254e1da49f75b4b2a1fa0b19e33e45b7e"
+  },
+  "review_basis": "Actual original full-page or full merged/primary-target reading plus all exact selected bounded continuations, neutral footer replay and independently verified Root metadata-date-only change.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0029.writing-coverage.json",
+    "raw_sha256": "915bb5c381eeba4c59fc3539ca0792981dd0dadcc351fcc6beea31000650daff",
+    "canonical_LF_sha256": "915bb5c381eeba4c59fc3539ca0792981dd0dadcc351fcc6beea31000650daff"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false
+}

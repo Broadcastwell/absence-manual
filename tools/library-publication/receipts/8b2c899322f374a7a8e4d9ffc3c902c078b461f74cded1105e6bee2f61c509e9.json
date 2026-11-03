@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/geo-basics/how-does-chatgpt-relate-to-seo.md",
+  "before_effective_canonical_sha256": "f0f6470e7ba091037aac5845993b66a544879b0135c0db45bdad58dd40747d15",
+  "raw_canonical_source_sha256": "f0f6470e7ba091037aac5845993b66a544879b0135c0db45bdad58dd40747d15",
+  "after_effective_canonical_sha256": "217f36ffb005f3aed79a6957d47260be0e07354dc07b542c69403ff15b8fe527",
+  "fact_ledger_sha256": "d83c7be0c531dbcf3a311bc37877a6bc5a5fbfc2dc8e72f641721e1b2410243d",
+  "effective_payload_sha256": "07a880abb693b73b05570f5ea77e2c91efac0d01a8a6f3538be35c9ddaf92cca",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/geo-basics/chatgpt-brand-visibility-cost.md",
+  "target_path": "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "57825b1faaf60cce11eea7cbf02f03b3ee9931e8ae52f515cdfd85fa3c663599",
+  "target_effective_canonical_sha256": "179615503d77ea3cd88f73377f4dd4b10054b5845da78d4bbc66dfa20528139f",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0332.p01.s02",
+    "LB-Q0332.p01.s03",
+    "LB-Q0332.p01.s04",
+    "LB-Q0332.p03.s01",
+    "LB-Q0332.p03.s02",
+    "LB-Q0332.p03.s03",
+    "LB-Q0332.p03.s04",
+    "LB-Q0332.p04.s01",
+    "LB-Q0332.p05.s01",
+    "LB-Q0332.p09.s01",
+    "LB-Q0332.p09.s02",
+    "LB-Q0332.p09.s03",
+    "LB-Q0332.p09.s04",
+    "LB-Q0332.additional.01",
+    "LB-Q0332.additional.02",
+    "LB-Q0332.additional.03.unit",
+    "LB-Q0332.additional.03.table",
+    "LB-Q0332.additional.03.billing"
+  ],
+  "preserved_fact_bindings_sha256": "9742b0a959078a967d3467f0cb5bb4d961347aa9db11aa6dc88855f4e283c1d6",
+  "required_aliases": [
+    "What does tracking brand visibility in ChatGPT cost?",
+    "chatgpt brand visibility cost?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "c7b01c3e0fb01340d2c47ac4dd302945bed7ac2e2dae66f8425ea6814c36c505",
+  "scope": "Root finite source-fit decision for this exact donor/target/234-binding map, following actual donor-preservation review, exact current target Source/Writing approval and Root literal target changes. Historical aliases, dates, samples, zero states, quotations and limitations retained. Only explicit previously Root-approved own-promotion omissions and 0093 spelling lineage apply. Static canonical HTML200 page and target link only; no301 claim or DNS/hosting change. Build-input approval; actual served stub/target proof remains required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00",
+  "Source_preservation_receipt_sha256": "21caa093de1ece57ac0e0422e46f5ef1a62bffbd44f7390cf7b929681124b793",
+  "Source_complete234_report_sha256": "8a19fd41f345b7e7042237c6d7e6a3d5bf3446a2809f85ac7ba130bb8db2621c"
+}

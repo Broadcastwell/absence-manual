@@ -3,6 +3,7 @@ from pathlib import Path
 from types import SimpleNamespace
 from unittest.mock import patch
 import os,sys,unittest,tempfile
+from mkdocs.structure.files import InclusionLevel
 HERE=Path(__file__).resolve().parents[1];sys.path.insert(0,str(HERE/'tools'))
 from library_publication_build import BuildSession,retain_legacy_navigation,safe_navigation_label,from_environment
 from library_publication_overlay import OverlayError
@@ -40,11 +41,12 @@ class BuildTests(unittest.TestCase):
         overlay=SimpleNamespace(records=records,leaf_manifest={'pages':{p:{} for p in records}},merge_statuses={})
         retain_legacy_navigation(nav,files,overlay,{a:'First question?',b:'Second question?'})
         self.assertEqual([a,b],[p.file.src_uri for p in nav.pages]);self.assertEqual(3,len(files));self.assertIs(nav.pages[1],nav.pages[0].next_page)
-    def test_retired_alias_node_remains_but_its_HTML_source_leaves_served_files(self):
+    def test_retired_alias_node_remains_but_its_source_is_excluded_from_served_documents(self):
         a,b='answers/measurement/a.md','answers/measurement/b.md';pages=[page(a),page(b)];files=[p.file for p in pages];nav=SimpleNamespace(items=pages,pages=pages)
         overlay=SimpleNamespace(records={b:{'meta':{'title':'Broader question?','also_asked_as':['Old question?']},'body':'Also asked as: Old question?'}},leaf_manifest={'pages':{a:{},b:{}}},merge_statuses={a:{'status':'MERGED_301','article_pass':False,'target_path':b}})
         retain_legacy_navigation(nav,files,overlay,{a:'Old question?',b:'Broader question?'})
-        self.assertEqual(2,len(nav.pages));self.assertEqual([b],[f.src_uri for f in files]);self.assertEqual('Old question?',nav.pages[0].title)
+        self.assertEqual(2,len(nav.pages));self.assertIs(InclusionLevel.EXCLUDED,files[0].inclusion)
+        self.assertEqual([b],[f.src_uri for f in files if getattr(f,'inclusion',InclusionLevel.INCLUDED).is_included()]);self.assertEqual('Old question?',nav.pages[0].title)
     def test_changed_legacy_label_needs_visible_alias_and_banned_labels_fail(self):
         a='answers/measurement/a.md';p=page(a);overlay=SimpleNamespace(records={a:{'meta':{'title':'New question?','also_asked_as':[]},'body':'New question?'}},leaf_manifest={'pages':{a:{}}},merge_statuses={})
         with self.assertRaisesRegex(OverlayError,'visible retained alias'):

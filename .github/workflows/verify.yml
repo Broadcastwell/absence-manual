@@ -48,7 +48,7 @@ jobs:
             const fs = require('fs');
             const crypto = require('crypto');
             const plan = JSON.parse(fs.readFileSync('tools/library-publication/release.json', 'utf8'));
-            if (plan.approved !== true || plan.prior_artifact_id !== 13228384449) throw new Error('Unreviewed prior artifact identity');
+            if (plan.approved !== true || plan.prior_artifact_id !== 13241535906) throw new Error('Unreviewed prior artifact identity');
             const {owner, repo} = context.repo;
             const meta = (await github.rest.actions.getArtifact({owner, repo, artifact_id: plan.prior_artifact_id})).data;
             if (meta.expired || meta.name !== 'manual-site-preview' || meta.digest !== 'sha256:' + plan.prior_artifact_sha256) throw new Error('Prior artifact metadata differs');
