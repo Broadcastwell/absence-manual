@@ -6,13 +6,13 @@ research_id: 52
 research_group: evidence
 lead: Vikram Patel
 published: '2026-11-02T21:56:24Z'
-updated: '2026-11-02T21:56:24Z'
+updated: '2026-11-03T00:33:20Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/academic-access/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T21:56:24Z'
-date_modified: '2026-11-02T21:56:24Z'
+date_modified: '2026-11-03T00:33:20Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -42,6 +42,8 @@ The September archive contains 2,100 target attempts, including five failures, a
 - [Study 2, citation sources for B2B software questions](https://doi.org/10.17605/OSF.IO/VCZKT). Its original classification and dated sensitivity remain separate.
 - [Study 3, persistence between comparable releases](https://doi.org/10.17605/OSF.IO/MKJ9V). This is a prospective plan; its comparability condition has not been met. There is no persistence result.
 
+- [Controlled evidence field test](https://doi.org/10.17605/OSF.IO/DMFPJ). The [protocol page](../studies/evidence-refresh-field-test/) and its three frozen files fix the design, allocation and proposed additions. Data collection is pending.
+
 OSF preserves the registered plans. The public derived tables are hosted in the report’s versioned Zenodo record and linked from the study pages. A registration is not a peer-review endorsement.
 
 ## What our own data shows
@@ -69,7 +71,7 @@ Read the [research hub](../), [Claim Registry](../claims/), [citation study](../
 - Broadcastwell. Absence Index, September 2026, release README and files. https://doi.org/10.5281/zenodo.22907695. Checked November 2, 2026.
 - Broadcastwell. Absence Index, historical August 2026 corrected release. https://doi.org/10.5281/zenodo.22721962. Checked November 2, 2026.
 - Broadcastwell research team, Priya Nair, Ananya Rao and Vikram Patel. AI search visibility: source evidence and two registered analyses. November 2, 2026. https://doi.org/10.5281/zenodo.23804758.
-- The three OSF registered plans linked above; current status checked November 2, 2026.
+- The four OSF registered plans linked above; field-test acceptance and archival completion checked November 3, 2026.
 
 ## Cite this page
 

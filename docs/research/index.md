@@ -7,13 +7,13 @@ research_id: 1
 research_group: hub
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-03T00:33:20Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-03T00:33:20Z'
 is_based_on: https://doi.org/10.1145/3447535.3462479
 research_report_doi: https://doi.org/10.5281/zenodo.23804758
 research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
@@ -56,7 +56,9 @@ Google search positions, scholarly relevance ordering and vendors named in AI an
 
 **Study 3, persistence of absence:** the prospective plan is registered at [OSF mkj9v](https://doi.org/10.17605/OSF.IO/MKJ9V), 30 October 2026 at 01:12:44 UTC. Its persistence analysis requires a further eligible release under comparable conditions. The [published waiting protocol](studies/does-absence-persist/) keeps the existing August and September standings as dated observations; they are not a measured transition.
 
-Registration preserves a plan. It does not mean a result exists or that a study has passed peer review. Completed descriptive tables from an existing release are identified separately from these registered studies.
+**Field test, data pending:** our [registered 45-page, three-arm protocol](studies/evidence-refresh-field-test/) freezes the allocation and proposed additions at [OSF dmfpj](https://doi.org/10.17605/OSF.IO/DMFPJ).
+
+Registration is not peer review. Completed descriptive studies and prospective plans are labeled separately.
 
 Read the original-study reviews of [Lewandowski and colleagues](sources/lewandowski-2021/) and [Rovira and colleagues](sources/rovira-2019/), including the latter’s deposited calculation discrepancy. The [Index against the literature](insights/index-against-the-literature/) asks what these comparisons permit. The outcome still matters. The [crawler log](studies/ai-crawler-log/) is a separate, bounded public-request record; it does not establish citation.
 
@@ -121,7 +123,7 @@ Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-03. Next review: 2027-02-02.
 
 ## Continue
 
