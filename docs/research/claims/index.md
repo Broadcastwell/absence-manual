@@ -1253,11 +1253,11 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** Version DOI10.5281/zenodo.22907695; release README.
+**Primary source:** Broadcastwell (2026), The Absence Index, release 2026-09, version DOI <https://doi.org/10.5281/zenodo.22907695>; public benchmark <https://index.broadcastwell.com/downloads#benchmark>; README <https://index.broadcastwell.com/data/benchmark/README.md>. **Location:** September long-format benchmark, release-2026-09.jsonl; README and schema; direct downloads checked November 2, 2026 Eastern.
 
-**What the source establishes:** The archive contains 2,100 target attempts and 150 control attempts. Five target failures leave 2,095 eligible target answers. Controls and failed outcomes cannot be silently folded into a target-answer rate.
+**What the source establishes:** The public benchmark has 2,100 target-attempt rows: 2,095 valid answers and five failed outcomes. The separate 150 controls are outside this file and the target-answer base. Failed outcomes cannot be silently folded into a vendor-absence rate.
 
-**Base, setting and date:** Release 2026-09; fixed target/control structure.
+**Base, setting and date:** September 22 and 23, 2026; 14 categories, 286 checked vendors, 140 fixed target questions, five products and three scheduled repeats. Repeats may be dependent; the checked set is not a probability sample..
 
 **Correction you may quote:** State whether the denominator is scheduled attempts, valid target answers or controls.
 
@@ -1267,11 +1267,11 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 **Circulation:** Potential misreading of our dated result; no independent republication history established by this audit.
 
-**Primary source:** Broadcastwell (2026), AI search visibility: source evidence and two registered analyses, version DOI<https://doi.org/10.5281/zenodo.23804758>; public data <https://zenodo.org/records/23804758>. **Location:** Index release citation and historical archive.
+**Primary source:** Broadcastwell (2026), historical August aggregate release, version DOI <https://doi.org/10.5281/zenodo.22721962>; benchmark README <https://index.broadcastwell.com/data/benchmark/README.md>; unchanged aggregate download <https://index.broadcastwell.com/data/benchmark/release-2026-08.1-aggregates.json>. **Location:** Benchmark README, Files and evidence boundary; historical aggregate file with its erratum.
 
-**What the source establishes:** August supplies historical aggregate observations. No retained attempt rows are available in the new clean format; that is an availability boundary, not a zero-observation result.
+**What the source establishes:** August supplies historical aggregate observations. Original answer text and per-engine attempt identities were not retained. Zero supplied clean-format attempt rows mean unavailable evidence, not zero observations. The aggregate file cannot be expanded into fabricated attempts.
 
-**Base, setting and date:** Historical August 2026 release; Index handoff checked 2 November 2026.
+**Base, setting and date:** Historical August 2026 release; public benchmark and aggregate downloads checked November 2, 2026 Eastern. No comparable consecutive pair or Study 3 persistence result is established..
 
 **Correction you may quote:** Unavailable historical answer rows are not zero observations.
 
