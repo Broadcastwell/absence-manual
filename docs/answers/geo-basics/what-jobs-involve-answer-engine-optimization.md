@@ -5,7 +5,7 @@ description: AEO work spans editing, technical publication and measurement. A da
 page_class: page
 schema_type: Article
 date_published: '2026-10-30T14:29:59+00:00'
-date_modified: '2026-11-02T20:46:33+00:00'
+date_modified: '2026-11-03T03:02:27+00:00'
 hide:
 - navigation
 library_cluster: geo-basics
@@ -33,11 +33,11 @@ Observed answers on stated dates, not a ranking.
 
 **Measured.** The [published statement-review method](https://doi.org/10.5281/zenodo.23270124) separates distinct claims from their repeated observations. CosmoLex has twenty-one true, fourteen wrong and three unverifiable statements, with none stale. One retained entry states a starting price without a billing basis; another attaches an annual billing basis to that amount. Both point to the vendor pricing page read on 8 October. Team review: in progress. The study did not measure employment demand or career outcomes.
 
-The retained historical Claude [statement](https://index.broadcastwell.com/vendors/cosmolex/legal-practice-management/#wrong-about-you), captured on 22 September 2026 and marked wrong against the dated vendor reference, reads:
+The retained historical Claude [statement](https://index.broadcastwell.com/vendors/cosmolex/legal-practice-management/#wrong-about-you), captured on 22 September 2026, contains this billing-basis fragment:
 
-> CosmoLex starts at $89/user/month
+> per user per month, billed annually.
 
-This is the disputed historical statement, not a current vendor price. Team review: in progress.
+The full pricing statement was marked wrong against the vendor reference read on 8 October 2026. This fragment retains its billing qualification and is not the complete price claim or a current vendor price. Team review: in progress.
 
 **Reported.** Google's [AI features guidance](https://developers.google.com/search/docs/appearance/ai-features), read on 29 October 2026, identifies indexing and snippet eligibility as requirements for supporting links. It also describes crawl access, internal links and textual page content.
 

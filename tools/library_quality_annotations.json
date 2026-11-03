@@ -12998,7 +12998,7 @@
     },
     "answers/geo-basics/what-jobs-involve-answer-engine-optimization.md": {
       "source_sha256": "fd917b22b332c116fd5533988873edaa1b6f93185843aadd5a1b19c1c6e17210",
-      "canonical_source_sha256": "b88c99cc4c9b1cfd64dc5951f9bf35c11d49f4f4e6b89a1ee026ab7177f7f046",
+      "canonical_source_sha256": "eb19d22b8df5c1542d37cefbedb1b9d84265fbb01ac6a2302b447ad8791e5620",
       "opening_sha256": "3c6537dd83e7d00241babf4cba3754e2111d1d623c84d1cff914da3e23d66fc6",
       "bank_id": "LB-Q0325",
       "lead_figures": [
@@ -13009,10 +13009,10 @@
           "Answer engine optimization involves factual editing, technical publication and measurement work. Our [Wrong About You study](https://doi.org/10.5281/zenodo.23270124) marks 14 of 38 CosmoLex statements wrong using 22 September 2026 captures and 8 October reference checks. Those records give a concrete source-review task to someone writing or measuring company answers; they are not a survey of job vacancies."
         ]
       },
-      "source_review_sha256": "5a5dd49480b8829fac2bab62f8c97eccc5cb541e6cfc22e349e5255c68ef2898",
+      "source_review_sha256": "b15f0ec455f812738b27ecfcb01bb890b3bb068a14a17c33fca55288e43763fd",
       "opening_shape": "answer_definition",
       "classification_reason": "Defines AEO factual editing/technical publication/measurement functions before the CosmoLex result.",
-      "writing_review_sha256": "fc350cf413225da0879915f473fb66a1dda54a9cc1a6ded3d2f010b2b8101bb2"
+      "writing_review_sha256": "334a14a777ee2dfadb1747e9998420a91ad0f3b2b186f1ea68d91aed72931e7e"
     },
     "answers/geo-basics/what-are-examples-of-answer-engine-optimization.md": {
       "source_sha256": "5ad8f5d57b00529d6a0cc10bcf9f216f1dd12e02e9986a03aa1def185fdcbd82",
