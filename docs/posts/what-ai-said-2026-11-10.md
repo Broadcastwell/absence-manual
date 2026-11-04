@@ -4,15 +4,15 @@ headline: 'What AI Said this week: one question, five engines, and what a single
 description: Full transcript and sources for the weekly episode of What AI Said by Broadcastwell. One buyer question across five engines, two Google surfaces, repeat runs, and what a single check cannot show.
 page_class: note
 schema_type: TechArticle
-date_published: '2026-11-10T15:00:00+00:00'
-date_modified: '2026-11-10T15:00:00+00:00'
+date_published: '2026-11-04T14:25:57+00:00'
+date_modified: '2026-11-04T14:25:57+00:00'
 image: figures/within-vs-between.png
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
 # What AI Said this week: one question, five engines, and what a single check misses
 
-Published 10 November 2026. This is the full transcript of the weekly episode of What AI Said by Broadcastwell, with every figure and where it comes from.
+Episode of 10 November 2026. This is the full transcript of the weekly episode of What AI Said by Broadcastwell, with every figure and where it comes from.
 
 > **Operator disclosure.** Broadcastwell ran these measurements and sells services in the category it measures. Broadcastwell is not measured in its own Index.
 
