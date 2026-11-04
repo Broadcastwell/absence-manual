@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md",
+  "bank_id": "LB-Q0531",
+  "canonical_source_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a",
+  "effective_canonical_source_sha256": "427c452e4664d04c84c6b9557c72484b9c239e34d9c77dbb2f55c537ee4fe6fc",
+  "effective_body_sha256": "118c05fc3211498c832f23820f0330d303d6e9e79b2b7d90d535fc68d20c0c2c",
+  "effective_metadata_sha256": "9b8027a91d33fd6f997f0a94ab4eea6829ac3c024c5bc6191bfc08d9507716e3",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_PRESERVATION_FOUR_ADOPTED_2026-11-03\\manuscripts\\answers\\geo-basics\\can-an-ai-answer-cite-a-company-without-naming-it.md",
+    "raw_sha256": "427c452e4664d04c84c6b9557c72484b9c239e34d9c77dbb2f55c537ee4fe6fc",
+    "canonical_LF_sha256": "427c452e4664d04c84c6b9557c72484b9c239e34d9c77dbb2f55c537ee4fe6fc"
+  },
+  "reviewed_utc": "2026-11-03T13:56:43.419339+00:00",
+  "full_read_basis": "Prior complete Source reads plus full exact four corrected candidate texts read in context, four narrowly reviewed donor-preservation additions, and verified actual Rootdate-only replay. No new original261/fullcollection reread claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0531.source-preservation-date-continuation.json",
+    "raw_sha256": "fdef465b10a69da81f3558f38752fc9b180e96dbc3bf737f01c5c4d70fbf1498",
+    "canonical_LF_sha256": "fdef465b10a69da81f3558f38752fc9b180e96dbc3bf737f01c5c4d70fbf1498"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_PRESERVATION_FOUR_ADOPTED_2026-11-03\\ROOT_FOUR_ADOPTION.json",
+      "raw_sha256": "98c64e057f4542537a3cfa44227a89fa971301ad2fefd154e888ed0ad8456804",
+      "canonical_LF_sha256": "14332b9957015e3a106deeaab2b2f2752555d5001ac107b97ade7cd3389b942e"
+    },
+    "date_modified": "2026-11-03T13:55:12+00:00",
+    "scope": "Actual private Root adoption time, not live publication or measurement/provider-read time."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false,
+  "prior_full_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0531.source.json",
+    "raw_sha256": "5049a8ffe81e43d8ed51d01630ffde40458569a04ed69e52fc5dfb87617c0819",
+    "canonical_LF_sha256": "5049a8ffe81e43d8ed51d01630ffde40458569a04ed69e52fc5dfb87617c0819"
+  },
+  "bounded_donor_preservation_restoration_approved": true
+}

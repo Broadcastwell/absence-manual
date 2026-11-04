@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md",
+  "bank_id": "LB-Q0100",
+  "canonical_source_sha256": "09b3abf93e1c5d88a78d83995f05c0a8ede63a317ea5a81e6f5d96edfa852b15",
+  "effective_canonical_source_sha256": "179615503d77ea3cd88f73377f4dd4b10054b5845da78d4bbc66dfa20528139f",
+  "effective_body_sha256": "51ab555c9f9580f3f1ca1d4292c96e923bc87b4fe9135e891aa9182108f41465",
+  "effective_metadata_sha256": "accd320c966a12303884711ee23fcb473c18f969f0eacef612bde255525b5961",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_Q0100_TABLE_LINK_ADOPTED_2026-11-03\\manuscripts\\answers\\measurement\\how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md",
+    "raw_sha256": "179615503d77ea3cd88f73377f4dd4b10054b5845da78d4bbc66dfa20528139f",
+    "canonical_LF_sha256": "179615503d77ea3cd88f73377f4dd4b10054b5845da78d4bbc66dfa20528139f"
+  },
+  "reviewed_utc": "2026-11-03T14:16:04.958373+00:00",
+  "full_read_basis": "Prior complete Sourcearticle/fulltarget reading, exact reviewed singular historical table-link sentence and full fragment/fee contexts, and independently verified Rootdate-only replay. No freshfullcollection read.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_Q0100_TABLE_LINK_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0100.source-table-link-date-continuation.json",
+    "raw_sha256": "803047225cf6a30e41e861df4893e04c96cd8b292b08da9b67c2b1e282b2bbec",
+    "canonical_LF_sha256": "803047225cf6a30e41e861df4893e04c96cd8b292b08da9b67c2b1e282b2bbec"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_Q0100_TABLE_LINK_ADOPTED_2026-11-03\\ROOT_Q0100_ADOPTION.json",
+      "raw_sha256": "5437a97b36f0e6d627e2d83f4020c65a52be236043269b780a7d9d69aed1a351",
+      "canonical_LF_sha256": "5208d13c72706e8abee6bb4c4549bb5011c4a99c22d90c7db631be4834a67f1c"
+    },
+    "date_modified": "2026-11-03T14:14:39+00:00",
+    "scope": "Actual private Root adoption, not live publication/sourcecapture/read time."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false,
+  "prior_full_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0100.source.json",
+    "raw_sha256": "6ac70e9af22e63f6f1b578abfcccdcf34d73ff239c9e818fcf331479d4884944",
+    "canonical_LF_sha256": "6ac70e9af22e63f6f1b578abfcccdcf34d73ff239c9e818fcf331479d4884944"
+  },
+  "bounded_donor_preservation_restoration_approved": true,
+  "bounded_table_link_restoration_approved": true
+}

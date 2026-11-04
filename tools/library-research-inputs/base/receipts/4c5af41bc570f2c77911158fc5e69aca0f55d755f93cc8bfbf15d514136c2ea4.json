@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md",
+  "bank_id": "LB-Q0531",
+  "canonical_source_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a",
+  "effective_canonical_source_sha256": "0494bfcec695858972146328fda00eba14976dd2fe227acd926e7987febb891e",
+  "effective_body_sha256": "a3741929a14f4daa2b4118a87c28425d645156660a4e9b1a137e22895dc3739f",
+  "effective_metadata_sha256": "bf63f2eac8a70230dbb91cbf25b48d8aaa6c45e51a062bcf1dc581b24baed760",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\manuscripts\\answers\\geo-basics\\can-an-ai-answer-cite-a-company-without-naming-it.md",
+    "raw_sha256": "30a6300e9e9012fee27d985d7f38dae8144edc2d7f632ef73334c21756087ff5",
+    "canonical_LF_sha256": "0494bfcec695858972146328fda00eba14976dd2fe227acd926e7987febb891e"
+  },
+  "reviewed_utc": "2026-11-03T19:43:31.660728+00:00",
+  "full_read_basis": "The same three exact current Root-dated full articles were displayed and fully read in V1. V2 uses the owning finite.source_body definition for body hashes,with the same full scientific Source chain and bounded navigation/link-label/description/date proofs. No second full read or scientific recount is claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_S5_1919_ROOT_THREE_V2\\coverage\\LB-Q0531.source-current-coverage.json",
+    "raw_sha256": "4c84f717c8206b716f1930ae5dc0198d18dcd87a6f2af51eafb7283392ebdf7d",
+    "canonical_LF_sha256": "4c84f717c8206b716f1930ae5dc0198d18dcd87a6f2af51eafb7283392ebdf7d"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\ROOT_PRIVATE_ADOPTION.json",
+      "raw_sha256": "c4838a1581ac9627db5f9b4a9bf87336a98b3cf1c8bffac466e81427da3f419d",
+      "canonical_LF_sha256": "93560800d865d9f60da541bc061a63e9cdff87eb6b74405111b739b3946318b2"
+    },
+    "date_modified": "2026-11-03T19:38:19+00:00",
+    "scope": "Actual private adoption only;not a capture date or public-deployment assertion."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "historical_source_anchor_unchanged": true,
+  "prior_full_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0531.source.json",
+    "raw_sha256": "0a429c4c3287a70a358176311f050934a7b67b9f6af381fff5b3a0bd247e8c9b",
+    "canonical_LF_sha256": "0a429c4c3287a70a358176311f050934a7b67b9f6af381fff5b3a0bd247e8c9b"
+  },
+  "new_S5_full_reads_claimed": 0,
+  "same_exact_three_full_reads_carried_from_V1": true,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false
+}

@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "dffbbbd1369e54504fa7c278e9126de38bf1268ec6dd98c5fa41c69110f38599",
+  "after_canonical_source_sha256": "aea5204a00a5c0189e039ef0500f3519b87fd7c4f0a893586fa8d631a07711dd",
+  "after_metadata_sha256": "90843defc6b017a95ce5a5a277afd7f63c77d6ccbb767ca6b42a9cd526dcda5f",
+  "approved": true,
+  "before_canonical_source_sha256": "52ad024f9c5aef6fdbe9f7ad35851d2608e4022a9390049d6244f5918443806b",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "aea5204a00a5c0189e039ef0500f3519b87fd7c4f0a893586fa8d631a07711dd",
+  "path": "docs/research/insights/one-channel-is-a-risk/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

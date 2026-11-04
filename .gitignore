@@ -11,3 +11,8 @@ library-field-freeze-retention.json
 owner-stage-result.json
 owner-candidate-observation.NOT_APPROVED.json
 owner-repair-result.json
+.library-research-work/
+.research-ci-bundle/
+.research-candidate-check/
+research-stage-result.json
+research-release-result.json

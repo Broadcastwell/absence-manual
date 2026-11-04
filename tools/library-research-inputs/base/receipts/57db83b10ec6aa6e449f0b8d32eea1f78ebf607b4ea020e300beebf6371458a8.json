@@ -1,0 +1,69 @@
+{
+  "recorded_utc": "2026-11-04T06:23:09.715442+00:00",
+  "actual_private_adoption_utc": "2026-11-04T06:23:09.715442+00:00",
+  "reviewer": "root",
+  "decision": "Actual strict build requires truthful modification dates for two changed generated hub bodies. Preserve the date guard; exactly these two virtual hub date_modified values become this actual event. This revokes the earlier preserve-hub-metadata decision, not any leaf freeze.",
+  "catalog_sha256": "e44c828358fb4c5b3ac86c8bc5280835a08e0ddb5e01d4ea2a88bc675a516607",
+  "hub_metadata": {
+    "answers/fixes/index.md": {
+      "before": {
+        "date_modified": "2026-11-04T03:23:40+00:00",
+        "date_published": "2026-10-28T21:30:42+00:00",
+        "description": "Source facts, readable pages and changes that can be checked after publication.",
+        "headline": "Fixes answers",
+        "library_hub": true,
+        "library_order": 9,
+        "library_owner": "Rohan Iyer, AI Engineer",
+        "page_class": "page",
+        "schema_type": "Article",
+        "title": "Fixes answers"
+      },
+      "after": {
+        "date_modified": "2026-11-04T06:23:09.715442+00:00",
+        "date_published": "2026-10-28T21:30:42+00:00",
+        "description": "Source facts, readable pages and changes that can be checked after publication.",
+        "headline": "Fixes answers",
+        "library_hub": true,
+        "library_order": 9,
+        "library_owner": "Rohan Iyer, AI Engineer",
+        "page_class": "page",
+        "schema_type": "Article",
+        "title": "Fixes answers"
+      },
+      "before_meta_sha256": "b5eed56e8cc18b88bf3dbd626d845679ee3ae56498eae502cc06596f688f1e2e",
+      "after_meta_sha256": "98fc47e4b03e13ad7fa5eccc8ef7e3f04f999fb60b4d349b8985b6f24325b200"
+    },
+    "answers/geo-basics/index.md": {
+      "before": {
+        "date_modified": "2026-11-03T13:43:08+00:00",
+        "date_published": "2026-10-28T21:30:42+00:00",
+        "description": "Definitions, question sets and the difference between being cited and being chosen.",
+        "headline": "GEO basics answers",
+        "library_hub": true,
+        "library_order": 1,
+        "library_owner": "Priya Nair, Management Consultant",
+        "page_class": "page",
+        "schema_type": "Article",
+        "title": "GEO basics answers"
+      },
+      "after": {
+        "date_modified": "2026-11-04T06:23:09.715442+00:00",
+        "date_published": "2026-10-28T21:30:42+00:00",
+        "description": "Definitions, question sets and the difference between being cited and being chosen.",
+        "headline": "GEO basics answers",
+        "library_hub": true,
+        "library_order": 1,
+        "library_owner": "Priya Nair, Management Consultant",
+        "page_class": "page",
+        "schema_type": "Article",
+        "title": "GEO basics answers"
+      },
+      "before_meta_sha256": "8d0aea0d0f96ef609ec8eb35a04f0cb901afe677d16d81e4096a88ba477ab4c5",
+      "after_meta_sha256": "98eef7058afef69e6a3d05eeb29306fcbe83f54f439ff830a9316c603d6774ba"
+    }
+  },
+  "source49_raw_hubs_and_all45_leaf_metadata_unchanged": true,
+  "strict_date_guard_waiver": false,
+  "actual_failure_log_sha256": "79f94940bf5099469fb555f275b12fdd07309c0054e7b3de9af3911048811e3b",
+  "new_build_artifact_or_publication_claimed": false
+}

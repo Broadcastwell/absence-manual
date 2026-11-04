@@ -1,0 +1,39 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/geo-basics/which-ai-is-best-for-seo.md",
+  "target_path": "answers/geo-basics/how-does-chatgpt-relate-to-seo.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "5cd8727e1fa4839200713fda425a3b0708f1c0b26c2c825dfd17f841f54d73e2",
+  "target_effective_canonical_sha256": "217f36ffb005f3aed79a6957d47260be0e07354dc07b542c69403ff15b8fe527",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0308.p01.s01",
+    "LB-Q0308.p01.s02",
+    "LB-Q0308.p02.s01",
+    "LB-Q0308.p02.s02",
+    "LB-Q0308.p02.s03",
+    "LB-Q0308.p04.s01",
+    "LB-Q0308.p04.s02",
+    "LB-Q0308.p06.s01",
+    "LB-Q0308.p06.s02",
+    "LB-Q0308.p06.s03",
+    "LB-Q0308.p07.s01",
+    "LB-Q0308.p07.s02",
+    "LB-Q0308.p07.s03",
+    "LB-Q0308.p08.s01",
+    "LB-Q0308.p08.s02",
+    "LB-Q0308.p08.s03",
+    "LB-Q0308.p08.s04"
+  ],
+  "preserved_fact_bindings_sha256": "381f877270b5d7d1435dc5fa52b65952cd825895d9fe4c7a76d76bd6344be75f",
+  "required_aliases": [
+    "Which AI is best for SEO?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "1c69be1e1f55ceca359c3a874060e4754d8b61787430a11bfb5634a770168d45",
+  "scope": "Root finite source-fit decision for this exact donor/target/234-binding map, following actual donor-preservation review, exact current target Source/Writing approval and Root literal target changes. Historical aliases, dates, samples, zero states, quotations and limitations retained. Only explicit previously Root-approved own-promotion omissions and 0093 spelling lineage apply. Static canonical HTML200 page and target link only; no301 claim or DNS/hosting change. Build-input approval; actual served stub/target proof remains required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00",
+  "Source_preservation_receipt_sha256": "6900075724e8619701c9a0d07ce4a698c5d8fea2fd3817bf713dda7a36036f65",
+  "Source_complete234_report_sha256": "8a19fd41f345b7e7042237c6d7e6a3d5bf3446a2809f85ac7ba130bb8db2621c"
+}

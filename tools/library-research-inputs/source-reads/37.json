@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "537019e81e41505500574c6af07d642af176f60c30575494f1b771702e758fc8",
+  "after_canonical_source_sha256": "ded34d4c8a7a674c4a8493e3dd140a881c45d85f114e20676eb6d67ed57bdcca",
+  "after_metadata_sha256": "b84792587a21f78223885184fe41b56cd46ae674c00f7db243d924032eecae79",
+  "approved": true,
+  "before_canonical_source_sha256": "8b05bc4879407c31d981b7de12a4d1f5b93721b47467b567f05893083f48d09c",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "ded34d4c8a7a674c4a8493e3dd140a881c45d85f114e20676eb6d67ed57bdcca",
+  "path": "docs/research/sources/bataineh-2025/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

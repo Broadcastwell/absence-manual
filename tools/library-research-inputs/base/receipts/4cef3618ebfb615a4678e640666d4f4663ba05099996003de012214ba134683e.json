@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0042",
+  "path": "answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare.md",
+  "canonical_source_sha256": "a6e4f3975ed70799c981d5d543a898f2558b32e95995f1b37261ba38239a5ab9",
+  "effective_canonical_source_sha256": "7bb53c14d2155e2cb3b3010286a6980375f05684c7ce050bd754677d9979227a",
+  "effective_body_sha256": "f752560fbea63c62047a3d454c00f92da453502bc19e230e57fd67d14de15881",
+  "effective_metadata_sha256": "134c71e23f64184f223d7e7a77d0892a19a3d9cf4c882986d8119da83dcb287d",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\geo-basics\\which-review-sites-for-geo-should-a-buyer-compare.md",
+    "raw_sha256": "7bb53c14d2155e2cb3b3010286a6980375f05684c7ce050bd754677d9979227a",
+    "canonical_LF_sha256": "7bb53c14d2155e2cb3b3010286a6980375f05684c7ce050bd754677d9979227a"
+  },
+  "review_basis": "Actual original full-page or full merged/primary-target reading plus all exact selected bounded continuations, neutral footer replay and independently verified Root metadata-date-only change.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0042.writing-coverage.json",
+    "raw_sha256": "a1495d907c9564819bcf3f28e6b1c0d120c5ffa5eb72a1b86d84f9a6d84afc24",
+    "canonical_LF_sha256": "a1495d907c9564819bcf3f28e6b1c0d120c5ffa5eb72a1b86d84f9a6d84afc24"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false
+}

@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "1963081ba56472dfbc38a3985af3eb4b074a18f417be215b4afb8cd1a67ac095",
+  "after_canonical_source_sha256": "b76225615753108f9328898236c4465b5310aa8565c200989eddb2ec1a449929",
+  "after_metadata_sha256": "6014a2dee1c88d2aea79ac513e2b0ad6b45c12be97634a1d7c474fed001321e3",
+  "approved": true,
+  "before_canonical_source_sha256": "44a25afa51490ce6803fca1b9c78d5f64c6e24fecba77ef897fb69713068bb39",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "b76225615753108f9328898236c4465b5310aa8565c200989eddb2ec1a449929",
+  "path": "docs/research/playbooks/structured-data-for-b2b-software/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

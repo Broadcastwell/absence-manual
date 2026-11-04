@@ -1,0 +1,14 @@
+{
+  "Root_all_pages_visually_read": true,
+  "Source_full_text_read": true,
+  "actual_original_page_image_sha256": [
+    "c586850e4e4c3fee57de8edfc0c1e827676e6d725dbcd9e2e9f26f2b5b3b1bf5"
+  ],
+  "approved": true,
+  "full_text_sha256": "e09371ea871c887ba9b57004012d914912e29816b10c9e6f68ae208198aa8387",
+  "pages": 1,
+  "path": "research/data/report-interpretation-notice-2026-11-03.pdf",
+  "reviewer": "root",
+  "scope": "Full extracted text and the single original page rendered with Poppler at 100 dpi; all text and footer visible, no clipping.",
+  "sha256": "ce346d642bbe20c4eadbc98128d5655363393cf4b95a202cdcd3b9e3869d6d3d"
+}

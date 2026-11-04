@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "cf920427e7919d18c4b173fe5a4421592c05ae4cd69b4d6365503a41f25c62b9",
+  "after_canonical_source_sha256": "b211c42ab36c943f30e3002e4409fe23da51e1af7c3a00a3c67a5a7a00292a12",
+  "after_metadata_sha256": "a97f737cb189cc400e42b119fc605539214676a2330cdc13e52ecaf2386a4708",
+  "approved": true,
+  "before_canonical_source_sha256": "463547f7b73f66b68d5e62200cd88422552e5bffcd3d99d3e5374e9dabc5c857",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "b211c42ab36c943f30e3002e4409fe23da51e1af7c3a00a3c67a5a7a00292a12",
+  "path": "docs/research/insights/strong-brands-weak-visibility/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

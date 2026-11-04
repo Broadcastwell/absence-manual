@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "d955c4300257f7aa84ab7f2dd4968c1110f2b9a57382d8b57d831a4ef0c79683",
+  "after_canonical_source_sha256": "eb1c5ea9483c7813b585263b6cb27039c4d4416f680d80442c515b938eb32bfd",
+  "after_metadata_sha256": "6061b4aba3bb0d2b76057e34a458e13ba1897a1cbf0b33b52f6299a6cc119fbe",
+  "approved": true,
+  "before_canonical_source_sha256": "d51ec316c49fb7ae720ea4c172f45b2f53e64f4f7c5bda2dfb34c94f9eaaf1ef",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "eb1c5ea9483c7813b585263b6cb27039c4d4416f680d80442c515b938eb32bfd",
+  "path": "docs/research/sources/reading-list/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

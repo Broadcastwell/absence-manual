@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "bb15c7428552d175e136899fa00c403490cf02f8e80e034a8c5692f0c54d9cc2",
+  "after_canonical_source_sha256": "27b419a827f45a1f687b978b60f2657ec4e952b6413244a93575f31dd781e7d5",
+  "after_metadata_sha256": "f7aef71ce5df049987142751a95af2519484f44767ab9e4fbb1acf36a36a7b7c",
+  "approved": true,
+  "before_canonical_source_sha256": "9ac12e9af4996532642fcb3368a079fab1b8a24505e43f4f01eedea4dda240de",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "27b419a827f45a1f687b978b60f2657ec4e952b6413244a93575f31dd781e7d5",
+  "path": "docs/research/insights/one-rank-number-is-a-fiction/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

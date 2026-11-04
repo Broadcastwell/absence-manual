@@ -1,0 +1,45 @@
+{
+  "scope": "owner-exact-repair-changes",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "approved": true,
+  "approved_exact_repair_changes": true,
+  "current_full_file_actually_read": true,
+  "path": "absence-rules.md",
+  "canonical_source_sha256": "5f8d48d62063778ad16237371c6f5771077fd244d29f0e6a713aa1b9364aab89",
+  "before_effective_canonical_source_sha256": "5f8d48d62063778ad16237371c6f5771077fd244d29f0e6a713aa1b9364aab89",
+  "effective_canonical_source_sha256": "485c34b7416e6ab4ec3420db36c749fbb392934579a232db4b6ab81eb9df6774",
+  "effective_body_sha256": "e95dcfc4d37b196c0b85782a0bdfe96088e805bfc0d0fec59af5cb7ab3a659c7",
+  "effective_meta_sha256": "aea03e413e3e6eafe7df0293df523c63801e0afd75ebf27482dbd6a6d694ae41",
+  "actual_Root_adoption_date_modified": "2026-11-03T19:44:53+00:00",
+  "preserved_facts": true,
+  "current_S5_pass": null,
+  "remaining_prior_S5_defects": [],
+  "private_source_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V6\\manuscripts\\docs\\absence-rules.md",
+  "Root_adoption_manifest": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V6\\ROOT_ADOPTION.json",
+    "sha256": "93cd28e9bdbeb7b838ded67755ca2b128555abf583ad5ebe86cd468e0f608e89"
+  },
+  "review_kind": "writing",
+  "full_article_read_complete": true,
+  "repair_change_ledger": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V6_SEO_FINAL_SCOPED_WRITING_V1\\ABSENCE_RULES_REPAIR_CHANGE_LEDGER.json",
+    "sha256": "fd0327ecb63cd6ce80d160304935ddd78f8bbacfcd74b2156441906d295430dc"
+  },
+  "repair_change_ledger_sha256": "fd0327ecb63cd6ce80d160304935ddd78f8bbacfcd74b2156441906d295430dc",
+  "independent_exact_inverse_verified": true,
+  "read_coverage": {
+    "kind": "Complete actual RootV6 after-source metadata/body/tail read, with exact before reconstruction and title/date-only inverse",
+    "tool_output_chunk": "b6f642",
+    "visual_read_claim": false
+  },
+  "judgment": "The shorter title clearly identifies the same appendix and preserves its classification scope. Existing H1/headline, description, examples, tables, source links, complete body and legacy navigation label remain unchanged. The actual date refers to this metadata change; it does not redate the study.",
+  "ordinary_full_effective_article_S5_approval": false,
+  "fresh_scientific_validation": false,
+  "Root_build_publication_live_approval": false,
+  "rendered_title_or_Bing_improvement_claimed": false,
+  "actual_parent_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\RISK_VERIFY_ROOT_V6_SEO_FINAL_SCOPED_SOURCE_V1\\ABSENCE_RULES_CURRENT_SCOPED_SOURCE_RECEIPT.json",
+    "sha256": "92e6aeed9496bc31d3cb2b149f8911e5ef7b9e2366479c4286478b8e698b793a"
+  },
+  "created_utc": "2026-11-03T19:50:38.894120+00:00"
+}

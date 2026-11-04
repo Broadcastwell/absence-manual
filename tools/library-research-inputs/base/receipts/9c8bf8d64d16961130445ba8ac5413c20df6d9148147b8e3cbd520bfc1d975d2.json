@@ -1,0 +1,32 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/fixes/how-can-a-local-auto-glass-business-appear-in-google-ai-and-chatgpt-an.md",
+  "target_path": "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "64085eb7dd8ea99752f0aed42eb4c13d27e7e191714b7df8358be06229fe39c3",
+  "target_effective_canonical_sha256": "0494bfcec695858972146328fda00eba14976dd2fe227acd926e7987febb891e",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0487.p01.s01",
+    "LB-Q0487.p01.s02",
+    "LB-Q0487.p01.s03",
+    "LB-Q0487.p02.s01",
+    "LB-Q0487.p02.s02",
+    "LB-Q0487.p02.s03",
+    "LB-Q0487.p03.s01",
+    "LB-Q0487.p03.s02",
+    "LB-Q0487.p03.s03",
+    "LB-Q0487.p04.s01",
+    "LB-Q0487.p04.s02",
+    "LB-Q0487.additional.01"
+  ],
+  "preserved_fact_bindings_sha256": "c06e9d72125b7615c4367aced3191fd00e32dc3d6ff32569408c4890aa42955b",
+  "required_aliases": [
+    "How can a local auto-glass business appear in Google AI and ChatGPT answers?",
+    "How do I get my local business to show up when people ask Google AI or ChatGPT \"Who's the best auto glass company near me?\""
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "28293799430eab7939bfed86f081da0ae4790f12bdab36ae4cc868b5183e7cba",
+  "scope": "TEMPLATE ONLY. Root exact preservation decision required; Source old18+new47 peer scopes retained accurately."
+}

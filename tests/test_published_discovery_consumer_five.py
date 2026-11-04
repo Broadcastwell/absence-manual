@@ -14,7 +14,9 @@ class Registry:
     def __init__(self,f,store):
         self.records=copy.deepcopy(f['records']);self.hubs=copy.deepcopy(f['hubs']);self.fingerprint=m.jhash(self.records)
         self.receipts={'library-hubs':{'synthetic_base_receipt':True},'llms':{'synthetic_normal_llms_receipt':True}}
-        self.overlay=SimpleNamespace(_load_receipt=lambda key:store[key],finite=SimpleNamespace(source_body=source))
+        from library_publication_overlay import PublicationOverlay
+        self.overlay=SimpleNamespace(receipt_store=store,finite=SimpleNamespace(source_body=source))
+        self.overlay._load_receipt=lambda key:PublicationOverlay._load_receipt(self.overlay,key)
     def assert_current(self):
         if self.fingerprint!=m.jhash(self.records):raise ValueError('Synthetic registry changed')
     def receipt(self,name,**kwargs):self.assert_current();self.receipts[name]=kwargs;return kwargs

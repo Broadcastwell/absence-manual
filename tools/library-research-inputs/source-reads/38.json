@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "e0dadf8afb4e2262137a632e944442cf0700239de431b367ce4c209bf6fdf3de",
+  "after_canonical_source_sha256": "ecfcc788c1c332812e7988623cf1be71a5dfc1c53b2918707637488b57f0beca",
+  "after_metadata_sha256": "db37138b38eebf03145ced97dd4a2efdfe090ef02f6a4b434dc2294f95a6ccde",
+  "approved": true,
+  "before_canonical_source_sha256": "7b54fdb05db23e0efd83e0ffbbaa6cf9ab0397c9885e85b9e8baacc4037becfc",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "ecfcc788c1c332812e7988623cf1be71a5dfc1c53b2918707637488b57f0beca",
+  "path": "docs/research/sources/giannakoulopoulos-2019/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

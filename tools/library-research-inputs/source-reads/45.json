@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "8f4a5f7fba8a7d50ff210a57f1c417116faf0dd20ffa84a6fab69c0981f467f8",
+  "after_canonical_source_sha256": "3e0e044e640942d6eb84bf728d449b377bb08f169dc3ea4e10929854db582319",
+  "after_metadata_sha256": "7a55ead86bd0a72c4ce337de26078b25eae7cb0071ab5aea321932c0e5350c8c",
+  "approved": true,
+  "before_canonical_source_sha256": "9f0bf1cc3e2e6793e418049e9b224b2d177f0e7fb2d52508f9899d87e9eb4071",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "3e0e044e640942d6eb84bf728d449b377bb08f169dc3ea4e10929854db582319",
+  "path": "docs/research/sources/seo-bible-2009/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

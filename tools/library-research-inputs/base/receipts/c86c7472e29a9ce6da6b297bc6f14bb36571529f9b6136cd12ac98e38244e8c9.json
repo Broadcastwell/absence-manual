@@ -1,0 +1,52 @@
+{
+  "review_kind": "writing",
+  "scope": "owner-exact-repair-changes",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "path": "CLAUDE.md",
+  "private_source_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V3\\manuscripts\\CLAUDE.md",
+  "canonical_source_sha256": "c40fc6d43f5d2a32594ed0b15ed297bf10ac196887131a40860fe2f2a84f86f5",
+  "before_effective_canonical_source_sha256": "c40fc6d43f5d2a32594ed0b15ed297bf10ac196887131a40860fe2f2a84f86f5",
+  "effective_canonical_source_sha256": "d5a3ff30b4286a7fa6518da71884f80f66c624b6c248b579cfdfbd722af617fc",
+  "effective_body_sha256": null,
+  "effective_meta_sha256": null,
+  "raw_after_sha256": "d5a3ff30b4286a7fa6518da71884f80f66c624b6c248b579cfdfbd722af617fc",
+  "actual_Root_adoption_date_modified": null,
+  "approved": true,
+  "approved_exact_repair_changes": true,
+  "owner_requested_literal_changes_match": true,
+  "current_full_file_actually_read": true,
+  "full_article_read_complete": false,
+  "read_coverage": {
+    "kind": "complete CLAUDE source policy",
+    "tool_output_chunk": "153b29",
+    "lines_read": 30,
+    "read_completion_recorded_utc": "2026-11-03T17:43:19.690362+00:00",
+    "visual_read_claim": false,
+    "V3_identity_carry_from_actual_V2_read": true,
+    "new_full_V3_reread_claimed": false
+  },
+  "preserved_facts": true,
+  "independent_exact_inverse_verified": true,
+  "repair_change_ledger_sha256": "005291234b146758db29b68f8b2dcea53218825e4a9dc79584bc0c3707ba0d78",
+  "repair_change_ledger": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V3_FINAL_SCOPED_WRITING_V1\\change-ledgers\\CLAUDE.md.json",
+    "sha256": "005291234b146758db29b68f8b2dcea53218825e4a9dc79584bc0c3707ba0d78"
+  },
+  "full_context_judgment": "Read the entire current CLAUDE.md as source-policy text and the exact one-paragraph replacement. Only the authorized current ladder paragraph changes; every other byte remains exact. No archival or file-contained instruction was executed.",
+  "required_current_followups": [],
+  "remaining_prior_S5_defects": [],
+  "current_S5_pass": null,
+  "ordinary_full_effective_article_S5_approval": false,
+  "Root_build_publication_live_approval": false,
+  "frozen_article_or_asset_edited": false,
+  "CSS_live_source_before_required": false,
+  "Root_adoption_manifest": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V3\\ROOT_ADOPTION.json",
+    "sha256": "e21bb88f4b7e92ea5415a57d598dd880171ab912e1e6fb1a27b8b9c183df30bd"
+  },
+  "prior_V2_actual_read_and_scope_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V2_FULL_CONTEXT_WRITING_V1\\receipts\\CLAUDE.md.json",
+    "sha256": "06fd88dcecdacdef74507f70b07924a28b827aff61f63bec7988d56b8ee165f4"
+  },
+  "review_created_utc": "2026-11-03T17:53:49.863819+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
+  "before_effective_canonical_sha256": "ea37e8f13ea6a7b3082b987de8712fe3c6f50eca8fd95a6f7f6d2be5dd1d7c57",
+  "raw_canonical_source_sha256": "5fb20bce29e6555ff535ccd8ebea633e9d4f06875cf0c6d1c8f5d0aedde89f8a",
+  "after_effective_canonical_sha256": "a3d4cd64765d0661c85a75f248a8a4fe12d88fc7aef3bdc2e684883d558062ea",
+  "fact_ledger_sha256": "57be0654e3d2e834bbc8c7f8be648a5a54fe6a3e51488af80b28ff0ac25338a0",
+  "effective_payload_sha256": "26006415c72ab80380ec3cba56654ac35814e9f40ee1043a5aaec271c5fd35a6"
+}

@@ -1,0 +1,59 @@
+{
+  "review_kind": "writing",
+  "scope": "owner-exact-repair-changes",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "path": "resources/three-rates.md",
+  "private_source_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V3\\manuscripts\\docs\\resources\\three-rates.md",
+  "canonical_source_sha256": "cc8db2e40c08ae6867a2eaf1aadefcec6bb776c990c267f909c8fd6688d5aa70",
+  "before_effective_canonical_source_sha256": "cc8db2e40c08ae6867a2eaf1aadefcec6bb776c990c267f909c8fd6688d5aa70",
+  "effective_canonical_source_sha256": "07c2c036ff52675d4d477adc614acdc4c0cfd0f014739b926a0947dad322ac7c",
+  "effective_body_sha256": "4efd75903d42164e497523876fe29b9804d1085dc373996df5d0eff72a860521",
+  "effective_meta_sha256": "f4dbfaef03e4cb4c1092a46c7f607c86705459ee4bcb62a835dd6ea4de6127bb",
+  "raw_after_sha256": "07c2c036ff52675d4d477adc614acdc4c0cfd0f014739b926a0947dad322ac7c",
+  "actual_Root_adoption_date_modified": "2026-11-03T17:32:11+00:00",
+  "approved": true,
+  "approved_exact_repair_changes": true,
+  "owner_requested_literal_changes_match": true,
+  "current_full_file_actually_read": true,
+  "full_article_read_complete": true,
+  "read_coverage": {
+    "kind": "complete after Markdown including all metadata/body/tail",
+    "tool_output_chunk": "3b9e83",
+    "lines_read": 44,
+    "read_completion_recorded_utc": "2026-11-03T17:43:19.690362+00:00",
+    "visual_read_claim": false,
+    "V3_identity_carry_from_actual_V2_read": true,
+    "new_full_V3_reread_claimed": false
+  },
+  "preserved_facts": true,
+  "independent_exact_inverse_verified": true,
+  "repair_change_ledger_sha256": "505764f8a798d86710cc49fdef0d7627f8b339c89428a3a84bfbf6165edc6980",
+  "repair_change_ledger": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V3_FINAL_SCOPED_WRITING_V1\\change-ledgers\\docs__resources__three-rates.md.json",
+    "sha256": "505764f8a798d86710cc49fdef0d7627f8b339c89428a3a84bfbf6165edc6980"
+  },
+  "full_context_judgment": "Named answers, own-domain citations and share-of-voice denominators remain distinct. The 150 planned observations retain ten questions, five named engines and three runs; exclusions and provisional classifications remain explicit. The new description and two sentences are neutral measurement descriptions.",
+  "required_current_followups": [],
+  "remaining_prior_S5_defects": [
+    {
+      "line": 34,
+      "quote": "Unreviewed rows are labelled",
+      "kind": "prior US spelling",
+      "disposition": "Existing spelling; no new claim or whole-S5 approval."
+    }
+  ],
+  "current_S5_pass": null,
+  "ordinary_full_effective_article_S5_approval": false,
+  "Root_build_publication_live_approval": false,
+  "frozen_article_or_asset_edited": false,
+  "CSS_live_source_before_required": false,
+  "Root_adoption_manifest": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V3\\ROOT_ADOPTION.json",
+    "sha256": "e21bb88f4b7e92ea5415a57d598dd880171ab912e1e6fb1a27b8b9c183df30bd"
+  },
+  "prior_V2_actual_read_and_scope_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V2_FULL_CONTEXT_WRITING_V1\\receipts\\docs__resources__three-rates.md.json",
+    "sha256": "722aa0bef01bc5a7478f9167a3d8a23949f6443f78a0474ea0a1ab5a4186f868"
+  },
+  "review_created_utc": "2026-11-03T17:53:49.863819+00:00"
+}

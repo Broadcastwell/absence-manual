@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts.md",
+  "before_effective_canonical_sha256": "f95e2200356a82110a5e4c86b2cdcfe6df1f3f3ba3450d82def56629f6b3b807",
+  "raw_canonical_source_sha256": "0fc1974e90ca16df11d310724628da1ebe9ce086adfd18bc40948b2f2b3de0a7",
+  "after_effective_canonical_sha256": "c2b36a9c6e0496f26bc0f39360eab39f74aef7a805fd1e694a56ef8675498736",
+  "fact_ledger_sha256": "a534e42f5a6e6957884048b2313342e7d727c8da94293195b7acffe1e69a4fd3",
+  "effective_payload_sha256": "5edac347a2e25905550527eaba85c19f4d911c586aa4bfed79b23fc95a1e0420"
+}

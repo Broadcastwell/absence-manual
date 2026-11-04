@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "27dc6be98792dc215c78b97c5887b98baf6d90a1f06d86e47061921379f6e257",
+  "after_canonical_source_sha256": "b517268b4c29966882b4fb6bdf7a90a541fa8a8ea47d68c4cc315f908804937f",
+  "after_metadata_sha256": "1d4579f2f6683f97734a78e6fd378887e19c4b1c518492761a5c4f71d03219ac",
+  "approved": true,
+  "before_canonical_source_sha256": "e0a1c85bd8c202b777e4e459e8b849d3defeb09da213a9b6d6dfeed01865f84a",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "b517268b4c29966882b4fb6bdf7a90a541fa8a8ea47d68c4cc315f908804937f",
+  "path": "docs/research/glossary/entity-confidence/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

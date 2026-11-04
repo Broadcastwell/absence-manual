@@ -1,0 +1,11 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/measurement/what-evidence-can-connect-ai-visibility-with-pipeline.md",
+  "before_effective_canonical_sha256": "250fa7afaff938298068a9331aae320c6c8a5765927586db48d791456bdd1ca9",
+  "raw_canonical_source_sha256": "019df46383c8cafe5680a9418442bbffeb891bfd0bccda23bd29c1c73f379032",
+  "after_effective_canonical_sha256": "2a92f3040e44d79af2d582ba20de064254e1da49f75b4b2a1fa0b19e33e45b7e",
+  "fact_ledger_sha256": "8ab890f759c66fad67863c046b8bdd348d0e53e194474db64f28c059cf59f353",
+  "effective_payload_sha256": "4d0ad8330f4226a14490225e24005b0e74b227128bd220fe549a4bea47a66227",
+  "scope": "TEMPLATE ONLY; Root exact finite input review/adoption required. Actual PR91 before; no publication approval."
+}

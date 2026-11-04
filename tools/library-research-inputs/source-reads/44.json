@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "fcb2eb54b41b851f3c3edf6aaebb6b29a864cbea9bff924d4dfe70a22d914ea4",
+  "after_canonical_source_sha256": "1099a685bb373ad7fe439c02758071698974e9bfece5eda2205465e49743c250",
+  "after_metadata_sha256": "76f40dc59b496e082f5c1f3300e938e594ad38c5c095b7e2ee496a55e3ef63f2",
+  "approved": true,
+  "before_canonical_source_sha256": "8ca9191ba702049eecee387c68c63b9c2d5139096d80ed122a6fed8f14b1d796",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "1099a685bb373ad7fe439c02758071698974e9bfece5eda2205465e49743c250",
+  "path": "docs/research/sources/rovira-2019/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

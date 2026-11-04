@@ -1,0 +1,70 @@
+{
+  "review_kind": "writing",
+  "scope": "owner-exact-repair-changes",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "path": "research/playbooks/site-structure-basics/index.md",
+  "private_source_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V3\\manuscripts\\docs\\research\\playbooks\\site-structure-basics\\index.md",
+  "canonical_source_sha256": "9bd5717c7eeb1bd24b38f98fe6c948a229aca0f54338093afbcfcaffaf4cdef6",
+  "before_effective_canonical_source_sha256": "9bd5717c7eeb1bd24b38f98fe6c948a229aca0f54338093afbcfcaffaf4cdef6",
+  "effective_canonical_source_sha256": "6726803b65c7adf0db89d76d9b7bb981e563863d410f654ce5c2b68444f6f4b8",
+  "effective_body_sha256": "42391fd00551106936d071f113465a8b7d8d3e99a030a3586fe04c79f490034b",
+  "effective_meta_sha256": "95db9c1fdd88ea9cee39e29af8bf7357cf17a708c0036cd33fc329427e3ccfe7",
+  "raw_after_sha256": "6726803b65c7adf0db89d76d9b7bb981e563863d410f654ce5c2b68444f6f4b8",
+  "actual_Root_adoption_date_modified": "2026-11-03T17:50:50+00:00",
+  "approved": true,
+  "approved_exact_repair_changes": true,
+  "owner_requested_literal_changes_match": true,
+  "current_full_file_actually_read": true,
+  "full_article_read_complete": true,
+  "read_coverage": {
+    "kind": "complete actual Root V3 after-file reread including metadata/body/tail",
+    "tool_output_chunk": "c71cc6",
+    "lines_read": 138,
+    "read_completion_recorded_utc": "2026-11-03T17:53:49.863819+00:00",
+    "visual_read_claim": false
+  },
+  "preserved_facts": true,
+  "independent_exact_inverse_verified": true,
+  "repair_change_ledger_sha256": "1d31328cae6695620b027aa9915a5fa6257efb4315e57746259b584b15803043",
+  "repair_change_ledger": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V3_FINAL_SCOPED_WRITING_V1\\change-ledgers\\docs__research__playbooks__site-structure-basics__index.md.json",
+    "sha256": "1d31328cae6695620b027aa9915a5fa6257efb4315e57746259b584b15803043"
+  },
+  "full_context_judgment": "The full actual V3 file is read. New own-data paragraph, dates, base, units and limitations remain exact; visible current-page update dates and updated/date_modified metadata now agree with Root's actual17:50:50UTC adoption. Historical source/capture/check/publication/access/lead-update dates remain distinct. The earlier current-date contradiction is resolved.",
+  "required_current_followups": [],
+  "remaining_prior_S5_defects": [],
+  "current_S5_pass": null,
+  "ordinary_full_effective_article_S5_approval": false,
+  "Root_build_publication_live_approval": false,
+  "frozen_article_or_asset_edited": false,
+  "CSS_live_source_before_required": false,
+  "Root_adoption_manifest": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V3\\ROOT_ADOPTION.json",
+    "sha256": "e21bb88f4b7e92ea5415a57d598dd880171ab912e1e6fb1a27b8b9c183df30bd"
+  },
+  "prior_V2_actual_read_and_scope_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V2_FULL_CONTEXT_WRITING_V1\\receipts\\docs__research__playbooks__site-structure-basics__index.md.json",
+    "sha256": "1deb23cb7d458d4851d8530cb9652f0e91c7c1b2adb9870be5603d8c917e408d"
+  },
+  "review_created_utc": "2026-11-03T17:53:49.863819+00:00",
+  "resolved_V2_findings": [
+    {
+      "line": 115,
+      "quote": "Published 30 October 2026; updated 30 October 2026.",
+      "kind": "visible current-page update-date mismatch",
+      "disposition": "Required finite V3 date-coherence correction; preserve source/capture/check/version dates."
+    },
+    {
+      "line": 125,
+      "quote": "note = {Published 2026-10-30; updated 2026-10-30}",
+      "kind": "visible current-page update-date mismatch",
+      "disposition": "Required finite V3 date-coherence correction; preserve source/capture/check/version dates."
+    },
+    {
+      "line": 133,
+      "quote": "Last updated: 2026-11-02. Next review: 2027-02-02.",
+      "kind": "visible current-page update-date mismatch",
+      "disposition": "Required finite V3 date-coherence correction; preserve source/capture/check/version dates."
+    }
+  ]
+}

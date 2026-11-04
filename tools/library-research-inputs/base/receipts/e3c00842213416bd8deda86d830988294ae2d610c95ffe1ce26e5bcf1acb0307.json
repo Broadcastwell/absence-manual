@@ -1,0 +1,48 @@
+{
+  "approved": true,
+  "review_kind": "qualitative-opening-observation",
+  "scope": "exact-published-observation",
+  "not_reworded_aggregate": true,
+  "path": "answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include.md",
+  "canonical_source_sha256": "bd718a7d7cd0caf6ad252b9414f49a5c68e8589d2579e772dffdd402d70ab3b3",
+  "effective_canonical_source_sha256": "2eb211a82bedcbe81d041a77e0f21db1ffad319e55846756cf8870d4966cfd23",
+  "observation_key": "observation:744fecad908f9865132f9d101720dd8d0404afc691be0d1636044fcca6688dd0",
+  "source_quote_sha256": "3dc2221ba1023483845fc6966c6b75c802158fe3463b3da6880f1de9179ef137",
+  "opening_span_sha256": "543a315ffe3c7dfa1ad5115522f962c1790c866ac75e937f6672a340db5629ce",
+  "independent_source_decision": "PASS_EXACT_PUBLISHED_OBSERVATION_AND_CONTROLLED_RECORD_BINDING",
+  "reviewed_utc": "2026-11-03T10:52:38.311605+00:00",
+  "approval_authority": "independent-source-review-only",
+  "controlled_record": {
+    "capture_date": "2026-09-22",
+    "event_date": "2026-10-08",
+    "category": "construction-project-management",
+    "engine": "Claude",
+    "question": "q7",
+    "run": "1",
+    "subject": "Procore",
+    "metric": "retained no-pricing-page assertion and dated contradictory reference"
+  },
+  "source_url": "https://doi.org/10.5281/zenodo.23270124",
+  "actual_source_quote_matches": [
+    {
+      "source": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY_2026-10-28\\index-repo\\data\\wrong-about-you-2026-10.json",
+        "raw_sha256": "404ceb228c79117321e7ffc41f848d06105dd051e665ff81ba1d2055b86f6f81"
+      },
+      "verification": "EXACT_DECODED_PUBLISHED_FIELD_OR_APPROVED_PARAGRAPH"
+    }
+  ],
+  "additional_record_proof": [],
+  "source_qualification_and_identity_judgment": "ProcoreC09Clauteq7repeat1quote records no-pricing-pageassertion;8Octdatedreferencecontradicts it, wronglabel/reviewinprogressretained. No pricingamountorcurrentofferclaim.",
+  "full_article_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0631.source.json",
+    "raw_sha256": "61b7a71bcd280ae19f699e4429595774186b053e45a2ae210af5913271f7fea6",
+    "canonical_LF_sha256": "61b7a71bcd280ae19f699e4429595774186b053e45a2ae210af5913271f7fea6"
+  },
+  "proposal": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RELATED_REVIEW\\FINAL307_DATED_QUALITATIVE22_PROPOSAL_V1\\CONTROLLED_RECORDS_QUOTES_SPANS_NOT_APPROVED.json",
+    "raw_sha256": "f99cf30801d6d186206bcb0d7d5bf5477195b4185b93a2c3e691d0eee6581737"
+  },
+  "new_measurement_or_numeric_one": 0,
+  "Root_public_or_global_approval": false
+}

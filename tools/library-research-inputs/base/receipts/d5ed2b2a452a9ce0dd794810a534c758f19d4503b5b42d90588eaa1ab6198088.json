@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0602",
+  "path": "answers/claude/which-field-service-software-does-claude-recommend.md",
+  "canonical_source_sha256": "dd19b1c075f34bf67ce94cc57cbb39acc3d6a8e6a547aa3d91b28f4d257578f9",
+  "effective_canonical_source_sha256": "d77819038c639b31b6914b8b51659aa0bd3fdd62c52814169fa5d298c9669473",
+  "effective_body_sha256": "590c61e2647120bd62f90dabc6d3eb0d014c090f66aef1f7b2bce1bd842d4f7e",
+  "effective_metadata_sha256": "e2460d00c6e9394c02b197155f4fbb8f8c066765570ac9ce9cf1231693c6292a",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\claude\\which-field-service-software-does-claude-recommend.md",
+    "raw_sha256": "d77819038c639b31b6914b8b51659aa0bd3fdd62c52814169fa5d298c9669473",
+    "canonical_LF_sha256": "d77819038c639b31b6914b8b51659aa0bd3fdd62c52814169fa5d298c9669473"
+  },
+  "review_basis": "Prior exact full-effective-article Writing approval plus actual bounded default-method footer/date continuation; all other bytes proved unchanged. No fresh full45 reread or public/global approval.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_METHOD45_FINAL\\coverage\\LB-Q0602.writing-method45-coverage.json",
+    "raw_sha256": "6495df7f9d1afba264d72c64271d93ecc6a98a3690730595b8be1001993142d7",
+    "canonical_LF_sha256": "6495df7f9d1afba264d72c64271d93ecc6a98a3690730595b8be1001993142d7"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "date_modified": "2026-11-03T11:12:54+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false,
+  "bounded_default_method_footer_continuation": {
+    "bank_id": "LB-Q0602",
+    "path": "answers/claude/which-field-service-software-does-claude-recommend.md",
+    "scope": "Bounded full-effective-file continuation after prior actual full-base and exact delta reviews. No new full45-body reread is claimed.",
+    "prior_approved_full_article_Writing_receipt": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\receipts\\LB-Q0602.writing.json",
+      "raw_sha256": "41df773e72562953701d7b63467d6066ddc2dfbc5c0c66c9f3e96c8d1ba7dcd2",
+      "canonical_LF_sha256": "41df773e72562953701d7b63467d6066ddc2dfbc5c0c66c9f3e96c8d1ba7dcd2"
+    },
+    "prior_full_delta_coverage": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0602.writing-coverage.json",
+      "raw_sha256": "14812f319bf0fed013311ffacbb6f7b4b580f222d002adca179eb3131cf2129d",
+      "canonical_LF_sha256": "14812f319bf0fed013311ffacbb6f7b4b580f222d002adca179eb3131cf2129d"
+    },
+    "Root_actual_footer_adoption": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "before_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\claude\\which-field-service-software-does-claude-recommend.md",
+      "raw_sha256": "008687fd5f44f2bb28b05602309e76319dd64c82a10e18b7de9812d37fe1ef2a",
+      "canonical_LF_sha256": "008687fd5f44f2bb28b05602309e76319dd64c82a10e18b7de9812d37fe1ef2a"
+    },
+    "after_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\claude\\which-field-service-software-does-claude-recommend.md",
+      "raw_sha256": "d77819038c639b31b6914b8b51659aa0bd3fdd62c52814169fa5d298c9669473",
+      "canonical_LF_sha256": "d77819038c639b31b6914b8b51659aa0bd3fdd62c52814169fa5d298c9669473"
+    },
+    "actual_source_kind": "published-index",
+    "actual_Next_step_old_token_read": "[Our answer-study method, v1.1.](https://broadcastwell.com/methodology)",
+    "actual_Next_step_new_token_read": "[Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)",
+    "same_exact_method_URL": true,
+    "canonical_default_token_already_in_body": true,
+    "only_footer_token_and_actual_date_modified_changed": true,
+    "all_other_body_opening_numbers_quotations_sources_metadata_exact": true,
+    "human_Writing_carry": "Neutral, plain canonical method label, already asserted in the reviewed body. No sales sentence, new factual reading, definition, measurement or claim is introduced. Prior five human-rule findings carry with this exact narrow continuation.",
+    "fresh_full_body_reread_claimed": false,
+    "new_Root_timestamp_invented": false
+  }
+}

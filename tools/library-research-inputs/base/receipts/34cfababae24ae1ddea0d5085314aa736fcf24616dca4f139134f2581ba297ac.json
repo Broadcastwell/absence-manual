@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md",
+  "bank_id": "LB-Q0635",
+  "canonical_source_sha256": "d4d456900b7d1ebb4911b32dd8b1f0529f8ebc4a0886ad40e66847a8dabdd989",
+  "effective_canonical_source_sha256": "38ee0cca5403622df743b6f154106be4199fb435ef5da3f352b764394613786b",
+  "effective_body_sha256": "2e5545020003c30173d2da6da841c621b26f7a5d5614157187e892c24e7eb34b",
+  "effective_metadata_sha256": "8d0f3e619eacb9f6ebd438aa2edaccc2e707099f012b7d5fdf26537131d33dc3",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_PRESERVATION_FOUR_ADOPTED_2026-11-03\\manuscripts\\answers\\fixes\\how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md",
+    "raw_sha256": "38ee0cca5403622df743b6f154106be4199fb435ef5da3f352b764394613786b",
+    "canonical_LF_sha256": "38ee0cca5403622df743b6f154106be4199fb435ef5da3f352b764394613786b"
+  },
+  "reviewed_utc": "2026-11-03T13:56:43.419339+00:00",
+  "full_read_basis": "Prior complete Source reads plus full exact four corrected candidate texts read in context, four narrowly reviewed donor-preservation additions, and verified actual Rootdate-only replay. No new original261/fullcollection reread claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0635.source-preservation-date-continuation.json",
+    "raw_sha256": "28742cc31186dfbdc70dbffbe3ce5653c235c7ddfae3a794ad12191c91dfb036",
+    "canonical_LF_sha256": "28742cc31186dfbdc70dbffbe3ce5653c235c7ddfae3a794ad12191c91dfb036"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_PRESERVATION_FOUR_ADOPTED_2026-11-03\\ROOT_FOUR_ADOPTION.json",
+      "raw_sha256": "98c64e057f4542537a3cfa44227a89fa971301ad2fefd154e888ed0ad8456804",
+      "canonical_LF_sha256": "14332b9957015e3a106deeaab2b2f2752555d5001ac107b97ade7cd3389b942e"
+    },
+    "date_modified": "2026-11-03T13:55:12+00:00",
+    "scope": "Actual private Root adoption time, not live publication or measurement/provider-read time."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false,
+  "prior_full_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0635.source.json",
+    "raw_sha256": "2c3077df511881cee14e8f0a02df308aee548b20caea0b9daea4b01a3c7b399c",
+    "canonical_LF_sha256": "2c3077df511881cee14e8f0a02df308aee548b20caea0b9daea4b01a3c7b399c"
+  },
+  "bounded_donor_preservation_restoration_approved": true
+}

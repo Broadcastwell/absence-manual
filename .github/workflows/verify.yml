@@ -13,6 +13,8 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -26,8 +28,15 @@ jobs:
           node-version: "24"
       - name: Verify shared chrome and responsive disclosure behavior
         run: node --test tests/site-chrome.test.mjs tests/manual-controls.test.mjs
+      - name: Select the explicit reviewed publication mode
+        id: mode
+        run: echo "mode=$(python tools/library_research_activation.py mode --repo .)" >> "$GITHUB_OUTPUT"
       - name: Verify production artifact rejection guards
         run: python -m unittest discover -s tests -p 'test_verified_preview.py'
+      - name: Verify Research activation and inherited publication guards
+        run: |
+          python -m unittest discover -s tests -p 'test_research*.py'
+          python -m unittest discover -s tests -p 'test_published_discovery_consumer_five.py'
       - name: Verify answer library rules and generated source index
         run: |
           python -m unittest discover -s tests -p 'test_answers.py'
@@ -42,6 +51,7 @@ jobs:
           python tools/generate_answers_llms.py --check
           python tools/verify_answers.py --check-external --receipt answer-link-check.json
       - name: Download the exact reviewed PR93 publication artifact
+        if: steps.mode.outputs.mode == 'owner'
         id: prior
         uses: actions/github-script@v7
         with:
@@ -75,30 +85,64 @@ jobs:
             fs.writeFileSync('reviewed-prior-publication.zip', bytes);
             core.setOutput('blueprint-sha256', approval.blueprint.sha256);
       - name: Stage only the exact Root-reviewed portable Owner inputs
+        if: steps.mode.outputs.mode == 'owner'
         run: |
           python tools/library_owner_repair_stage.py --blueprint tools/library-owner-repair/release.json --blueprint-sha256 '${{ steps.prior.outputs.blueprint-sha256 }}' --artifact reviewed-prior-publication.zip --out .owner-repair-staged --docs docs --write-github-env > owner-stage-result.json
-      - name: Build site in explicit Owner mode
-        run: mkdocs build
+      - name: Download the exact Research prior publication artifact
+        if: steps.mode.outputs.mode != 'owner'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const crypto = require('crypto');
+            const plan = JSON.parse(fs.readFileSync('tools/library-research-support.json','utf8'));
+            const id = plan.activation_delivery.prior_artifact_id;
+            const expected = plan.activation_delivery.external_files['.library-research-work/prior-public.zip'];
+            const {owner,repo} = context.repo;
+            const meta = (await github.rest.actions.getArtifact({owner,repo,artifact_id:id})).data;
+            if (meta.expired || meta.name !== 'manual-site-preview' || meta.digest !== 'sha256:'+expected) throw new Error('Research prior artifact metadata differs');
+            const bytes = Buffer.from((await github.rest.actions.downloadArtifact({owner,repo,artifact_id:id,archive_format:'zip'})).data);
+            if (crypto.createHash('sha256').update(bytes).digest('hex') !== expected) throw new Error('Research prior artifact bytes differ');
+            fs.writeFileSync('reviewed-prior-publication.zip',bytes);
+      - name: Stage the exact Research inputs through library_research_stage.py
+        if: steps.mode.outputs.mode == 'research'
+        run: python tools/library_research_activation.py prepare --repo . --artifact reviewed-prior-publication.zip --write-github-env > research-stage-result.json
+      - name: Preserve exact production bytes for the code-only activation
+        if: steps.mode.outputs.mode == 'activation'
+        run: python tools/library_research_activation.py public-identity --repo . --artifact reviewed-prior-publication.zip
+      - name: Build site in the explicit reviewed mode
+        if: steps.mode.outputs.mode != 'activation'
+        run: mkdocs build --strict
       - name: Verify whole-library similarity, openings, lead facts and uniqueness
         run: |
           python -m unittest discover -s tests -p 'test_library_quality.py'
           python tools/library_quality.py --report library-quality-report.json
       - name: Build the ungated PDF mirror twice from the same source
+        if: steps.mode.outputs.mode != 'activation'
         run: |
           python tools/build_pdf.py
           cp site/absence-manual.pdf /tmp/first-manual.pdf
           python tools/build_pdf.py
           cmp /tmp/first-manual.pdf site/absence-manual.pdf
       - name: Capture actual unapproved post-PDF candidate observations
+        if: steps.mode.outputs.mode == 'owner'
         run: |
           python tools/observe_owner_candidate.py --inputs "$BW_OWNER_REPAIR_INPUTS" --inputs-sha256 "$BW_OWNER_REPAIR_INPUTS_SHA256" --docs docs --site site --work .owner-repair-work > owner-candidate-observation.NOT_APPROVED.json
       - name: Verify the build is ungated and crawlable
+        if: steps.mode.outputs.mode != 'activation'
         run: |
           python tools/verify_build.py
           python tools/verify_library_field_freeze.py --docs docs --site site --map tools/library_field_freeze_navigation.json --map-sha256 e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c
+      - name: Verify all frozen bytes in the unchanged activation publication
+        if: steps.mode.outputs.mode == 'activation'
+        run: python tools/verify_library_field_freeze.py --docs docs --site site --map tools/library_field_freeze_navigation.json --map-sha256 e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c
       - name: Verify the complete finite Owner repair and actual artifact evidence
+        if: steps.mode.outputs.mode == 'owner'
         run: |
           python tools/library_owner_repair_build.py --inputs "$BW_OWNER_REPAIR_INPUTS" --inputs-sha256 "$BW_OWNER_REPAIR_INPUTS_SHA256" --docs docs --site site --work .owner-repair-work > owner-repair-result.json
+      - name: Verify the complete finite Research release
+        if: steps.mode.outputs.mode == 'research'
+        run: python tools/library_research_build.py --inputs "$BW_RESEARCH_RELEASE_INPUTS" --inputs-sha256 "$BW_RESEARCH_RELEASE_INPUTS_SHA256" --docs docs --site site --work .library-research-work/render > research-release-result.json
       - name: Save clearly unapproved candidate site and actual observations
         if: always()
         uses: actions/upload-artifact@v4
@@ -111,6 +155,7 @@ jobs:
             owner-stage-result.json
             owner-candidate-observation.NOT_APPROVED.json
             owner-repair-result.json
+            activation-public-identity.json
             library-quality-report.json
             library-field-freeze-retention.json
           if-no-files-found: warn
@@ -134,3 +179,80 @@ jobs:
         with:
           name: manual-site-preview
           path: site
+
+  research_candidate:
+    name: Verify the exact prepared Research publishing route
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install the existing PDF dependencies
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz0b
+          pip install -r requirements.txt
+      - name: Check whether this is the activation or Research publication
+        id: mode
+        run: echo "mode=$(python tools/library_research_activation.py mode --repo .)" >> "$GITHUB_OUTPUT"
+      - name: Download the exact verified prior publication
+        if: steps.mode.outputs.mode == 'activation'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const crypto = require('crypto');
+            const plan = JSON.parse(fs.readFileSync('tools/library-research-support.json','utf8'));
+            const id = plan.activation_delivery.prior_artifact_id;
+            const expected = plan.activation_delivery.external_files['.library-research-work/prior-public.zip'];
+            const {owner,repo} = context.repo;
+            const meta = (await github.rest.actions.getArtifact({owner,repo,artifact_id:id})).data;
+            if (meta.expired || meta.name !== 'manual-site-preview' || meta.digest !== 'sha256:'+expected) throw new Error('Research prior artifact metadata differs');
+            const bytes = Buffer.from((await github.rest.actions.downloadArtifact({owner,repo,artifact_id:id,archive_format:'zip'})).data);
+            if (crypto.createHash('sha256').update(bytes).digest('hex') !== expected) throw new Error('Research prior artifact bytes differ');
+            fs.writeFileSync('reviewed-prior-publication.zip',bytes);
+      - name: Stage the stable sixty-file candidate in an unpublished directory
+        if: steps.mode.outputs.mode == 'activation'
+        run: python tools/library_research_activation.py prepare --repo . --artifact reviewed-prior-publication.zip --candidate-check --write-github-env > research-stage-result.json
+      - name: Build and verify the prepared Research route
+        if: steps.mode.outputs.mode == 'activation'
+        working-directory: .research-candidate-check
+        run: |
+          python docs/research/data/research_release_gate.py .
+          mkdocs build --strict
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import sys
+          sys.path.insert(0,'tools')
+          from library_publication_generated_pdf import manual_inputs
+          candidate=Path.cwd()
+          inputs=manual_inputs(candidate)
+          assert inputs==manual_inputs(candidate.parent), 'Manual source differs between exercise and actual checkout'
+          Path('.library-research-work/render/manual-input-identity.json').write_text(json.dumps({'actual_inputs':inputs,'all_inputs_exact':True,'reason':'Build from the actual checkout so image resource URLs retain their original identities.'},indent=2))
+          PY
+          python ../tools/build_pdf.py
+          cp ../site/absence-manual.pdf /tmp/research-first-manual.pdf
+          python ../tools/build_pdf.py
+          cmp /tmp/research-first-manual.pdf ../site/absence-manual.pdf
+          cp ../site/absence-manual.pdf site/absence-manual.pdf
+          cp ../site/absence-manual-v1.0-2026-08-18.pdf site/absence-manual-v1.0-2026-08-18.pdf
+          python tools/verify_build.py
+          python tools/verify_library_field_freeze.py --docs docs --site site --map tools/library_field_freeze_navigation.json --map-sha256 e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c
+          python tools/library_research_build.py --inputs "$BW_RESEARCH_RELEASE_INPUTS" --inputs-sha256 "$BW_RESEARCH_RELEASE_INPUTS_SHA256" --docs docs --site site --work .library-research-work/render > research-release-result.json
+      - name: Preserve the unpublished Research route evidence
+        if: always() && steps.mode.outputs.mode == 'activation'
+        uses: actions/upload-artifact@v4
+        with:
+          name: research-route-candidate-UNPUBLISHED
+          include-hidden-files: true
+          path: |
+            research-stage-result.json
+            .research-candidate-check/site/
+            .research-candidate-check/.library-research-work/render/
+            .research-candidate-check/research-release-result.json
+          if-no-files-found: warn

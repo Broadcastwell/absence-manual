@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md",
+  "before_effective_canonical_sha256": "763454853bc9d054322ed7a581f35399a90efd3ea5db842cd1bf4fda6f95759e",
+  "raw_canonical_source_sha256": "816247b6282a1119d911d493c62db4e66757f1e821500b3854f5639698b03018",
+  "after_effective_canonical_sha256": "dc4fdd7f7a81ca552fbafc1b4c886c922bc89e0dc5904ed48402d6ce08396da2",
+  "fact_ledger_sha256": "833ff0fd5476882cb26493773edbbd98bb2b62a64b4e9f6a1bbeafeda1e16cf1",
+  "effective_payload_sha256": "8aa9b2b73ca3036b531a2f942724030a8abd220910d56c36a570b3336f6bd7b3"
+}

@@ -1,0 +1,1020 @@
+{
+  "recorded_utc": "2026-11-04T19:25:13.845541+00:00",
+  "source_plan_sha256": "ff5f7a4634a58684b9a06736a9cd53087b9636d77678f14f1e27a0a09d4bb53a",
+  "actual_current_render_validator_sha256": "8fd3ca44c658c756fece27d4f7c96239522b0fe107a3ab3a050d263001595361",
+  "actual_all53_full_rendered_bodies_equal_completely_read_sources": true,
+  "actual_all53_canonical_head_social_structured_metadata_equal_source": true,
+  "all7_data_files_exact": true,
+  "all56_scientific_registered_files_exact": true,
+  "all45_frozen_sources_HTML_XML_and5_assets_exact": true,
+  "actual_derived_sitemap_and_search_proofs": {
+    "sources": {
+      "complete_prior_GitLF_archive_producer_bound": true,
+      "complete_candidate_GitLF_inventory_Root_bound": true,
+      "only_finite60_plus_exact_Library_controls": true,
+      "all53_current_full_source_reviews_bound": true,
+      "all11_Owner_claim_sources_reconciled": true,
+      "Owner11_complete_Source_required_preservation": {
+        "policy": "SOURCE_REQUIRED_OWNER_RESEARCH11_PRESERVATION_V1",
+        "internal_catalog_sha256": "d21170b21a09eb3361cd54a8c8ced52b500070e31d1f17823d4c7f8fb0bdda53",
+        "Source_required_manifest_sha256": "2975e8403e6f0cf9e695909193328a78e4dd0a5e7b608d5e231748010f239adf",
+        "exact_required_sources": 11,
+        "exact_required_scientific_qualification_history_spans": 101,
+        "actual_prior_archive_records_match_Source_baseline": true,
+        "rows": [
+          {
+            "path": "research/glossary/citation-decay/index.md",
+            "source_id": "OWNER-RESEARCH-01",
+            "required_span_ids": [
+              "OWNER-RESEARCH-01-OWN-01",
+              "OWNER-RESEARCH-01-OWN-02",
+              "OWNER-RESEARCH-01-HISTORY-01",
+              "OWNER-RESEARCH-01-HISTORY-02",
+              "OWNER-RESEARCH-01-HISTORY-03",
+              "OWNER-RESEARCH-01-HISTORY-04",
+              "OWNER-RESEARCH-01-HISTORY-05",
+              "OWNER-RESEARCH-01-HISTORY-06"
+            ],
+            "before_body_sha256": "b17593b76d1379b3b7fb9e75c6cc07f27bd12660ce9021185a90ce18fa3e4865",
+            "after_body_sha256": "3ee112c32e477de1715e0a05b9334429d848140fed6d4bbbfcce458c912d3e82",
+            "Source_receipts_exact": true,
+            "presentation": {
+              "changed": true,
+              "finite_presentation_edit_ids": [],
+              "actual_adoption_utc": "2026-11-04T15:17:51Z",
+              "presentation_inverse_body_sha256": "3ee112c32e477de1715e0a05b9334429d848140fed6d4bbbfcce458c912d3e82"
+            }
+          },
+          {
+            "path": "research/glossary/entity-confidence/index.md",
+            "source_id": "OWNER-RESEARCH-02",
+            "required_span_ids": [
+              "OWNER-RESEARCH-02-OWN-01",
+              "OWNER-RESEARCH-02-OWN-02",
+              "OWNER-RESEARCH-02-OWN-03",
+              "OWNER-RESEARCH-02-OWN-04",
+              "OWNER-RESEARCH-02-HISTORY-01",
+              "OWNER-RESEARCH-02-HISTORY-02",
+              "OWNER-RESEARCH-02-HISTORY-03",
+              "OWNER-RESEARCH-02-HISTORY-04",
+              "OWNER-RESEARCH-02-HISTORY-05",
+              "OWNER-RESEARCH-02-HISTORY-06"
+            ],
+            "before_body_sha256": "ff2bfa5d6fc2a0d07991bb02a81bbec8ab5ce057eff694a17e84e0e1127c6bd1",
+            "after_body_sha256": "27dc6be98792dc215c78b97c5887b98baf6d90a1f06d86e47061921379f6e257",
+            "Source_receipts_exact": true,
+            "presentation": {
+              "changed": true,
+              "finite_presentation_edit_ids": [],
+              "actual_adoption_utc": "2026-11-04T15:17:51Z",
+              "presentation_inverse_body_sha256": "27dc6be98792dc215c78b97c5887b98baf6d90a1f06d86e47061921379f6e257"
+            }
+          },
+          {
+            "path": "research/glossary/information-gain/index.md",
+            "source_id": "OWNER-RESEARCH-03",
+            "required_span_ids": [
+              "OWNER-RESEARCH-03-OWN-01",
+              "OWNER-RESEARCH-03-OWN-02",
+              "OWNER-RESEARCH-03-OWN-03",
+              "OWNER-RESEARCH-03-PATENT-01",
+              "OWNER-RESEARCH-03-HISTORY-01",
+              "OWNER-RESEARCH-03-HISTORY-02",
+              "OWNER-RESEARCH-03-HISTORY-03",
+              "OWNER-RESEARCH-03-HISTORY-04",
+              "OWNER-RESEARCH-03-HISTORY-05",
+              "OWNER-RESEARCH-03-HISTORY-06"
+            ],
+            "before_body_sha256": "defa1e01d546abe8a78a777e0e908794833633f2e16d08bdd01235af60aa2ff1",
+            "after_body_sha256": "c2f6f00ecde9f6503198eaa10ddf5f6cb70ba305529164f78e9a2a091bbc7715",
+            "Source_receipts_exact": true,
+            "presentation": {
+              "changed": true,
+              "finite_presentation_edit_ids": [
+                "OWNER-RESEARCH-03-CITE-UPDATED",
+                "OWNER-RESEARCH-03-BIBTEX-UPDATED",
+                "OWNER-RESEARCH-03-LAST-UPDATED"
+              ],
+              "actual_adoption_utc": "2026-11-04T15:17:51Z",
+              "presentation_inverse_body_sha256": "7d60386290bade2d2ef44024cfa0ffa71fccb887fd4f70dcb0237886450c9be0"
+            }
+          },
+          {
+            "path": "research/glossary/query-fan-out/index.md",
+            "source_id": "OWNER-RESEARCH-04",
+            "required_span_ids": [
+              "OWNER-RESEARCH-04-OWN-01",
+              "OWNER-RESEARCH-04-OWN-02",
+              "OWNER-RESEARCH-04-OWN-03",
+              "OWNER-RESEARCH-04-OWN-04",
+              "OWNER-RESEARCH-04-HISTORY-01",
+              "OWNER-RESEARCH-04-HISTORY-02",
+              "OWNER-RESEARCH-04-HISTORY-03",
+              "OWNER-RESEARCH-04-HISTORY-04",
+              "OWNER-RESEARCH-04-HISTORY-05",
+              "OWNER-RESEARCH-04-HISTORY-06"
+            ],
+            "before_body_sha256": "581f695aeafc36bebd671797fdbf56709c9579fa7c02cd85bd1d748c7e0b0dc5",
+            "after_body_sha256": "1db9dc430daa81342b76781191b3db25a3143c675bf85851584686168ed10703",
+            "Source_receipts_exact": true,
+            "presentation": {
+              "changed": true,
+              "finite_presentation_edit_ids": [],
+              "actual_adoption_utc": "2026-11-04T15:17:51Z",
+              "presentation_inverse_body_sha256": "1db9dc430daa81342b76781191b3db25a3143c675bf85851584686168ed10703"
+            }
+          },
+          {
+            "path": "research/glossary/share-of-model/index.md",
+            "source_id": "OWNER-RESEARCH-05",
+            "required_span_ids": [
+              "OWNER-RESEARCH-05-OWN-01",
+              "OWNER-RESEARCH-05-OWN-02",
+              "OWNER-RESEARCH-05-OWN-03",
+              "OWNER-RESEARCH-05-OWN-04",
+              "OWNER-RESEARCH-05-HISTORY-01",
+              "OWNER-RESEARCH-05-HISTORY-02",
+              "OWNER-RESEARCH-05-HISTORY-03",
+              "OWNER-RESEARCH-05-HISTORY-04",
+              "OWNER-RESEARCH-05-HISTORY-05",
+              "OWNER-RESEARCH-05-HISTORY-06"
+            ],
+            "before_body_sha256": "cb7ba0faafeaa4aecb49cc8df6992b8a69dfaa878168a676448c5e9fe8e53866",
+            "after_body_sha256": "df99845547d0ee8c176d0e0237aa34c36c811f4353d82f9d6ce047603cfaf0b0",
+            "Source_receipts_exact": true,
+            "presentation": {
+              "changed": true,
+              "finite_presentation_edit_ids": [],
+              "actual_adoption_utc": "2026-11-04T15:17:51Z",
+              "presentation_inverse_body_sha256": "df99845547d0ee8c176d0e0237aa34c36c811f4353d82f9d6ce047603cfaf0b0"
+            }
+          },
+          {
+            "path": "research/glossary/zero-click-visibility/index.md",
+            "source_id": "OWNER-RESEARCH-06",
+            "required_span_ids": [
+              "OWNER-RESEARCH-06-OWN-01",
+              "OWNER-RESEARCH-06-OWN-02",
+              "OWNER-RESEARCH-06-OWN-03",
+              "OWNER-RESEARCH-06-OWN-04",
+              "OWNER-RESEARCH-06-HISTORY-01",
+              "OWNER-RESEARCH-06-HISTORY-02",
+              "OWNER-RESEARCH-06-HISTORY-03",
+              "OWNER-RESEARCH-06-HISTORY-04",
+              "OWNER-RESEARCH-06-HISTORY-05",
+              "OWNER-RESEARCH-06-HISTORY-06"
+            ],
+            "before_body_sha256": "a214a24e8caf84030b962023c70b224129daaec9b0b46350a7353c89a00f3e61",
+            "after_body_sha256": "23bacad3d527591a5b1a7d6e62aedbbe3a08b1c342316eb2c1ec9b07e489664c",
+            "Source_receipts_exact": true,
+            "presentation": {
+              "changed": true,
+              "finite_presentation_edit_ids": [],
+              "actual_adoption_utc": "2026-11-04T15:17:51Z",
+              "presentation_inverse_body_sha256": "23bacad3d527591a5b1a7d6e62aedbbe3a08b1c342316eb2c1ec9b07e489664c"
+            }
+          },
+          {
+            "path": "research/playbooks/llms-txt/index.md",
+            "source_id": "OWNER-RESEARCH-07",
+            "required_span_ids": [
+              "OWNER-RESEARCH-07-OWN-01",
+              "OWNER-RESEARCH-07-OWN-02",
+              "OWNER-RESEARCH-07-OWN-03",
+              "OWNER-RESEARCH-07-HISTORY-01",
+              "OWNER-RESEARCH-07-HISTORY-02",
+              "OWNER-RESEARCH-07-HISTORY-03",
+              "OWNER-RESEARCH-07-HISTORY-04",
+              "OWNER-RESEARCH-07-HISTORY-05"
+            ],
+            "before_body_sha256": "7ed14c4155ec94d0f5e511ce4f7be1e96d17849e6327a74d91c1992edd92bb57",
+            "after_body_sha256": "159bd0133b800d00701c9c35637f4420edaba45db681eb3e45b41063cb7f4bcd",
+            "Source_receipts_exact": true,
+            "presentation": {
+              "changed": true,
+              "finite_presentation_edit_ids": [
+                "OWNER-RESEARCH-07-CITE-UPDATED",
+                "OWNER-RESEARCH-07-BIBTEX-UPDATED",
+                "OWNER-RESEARCH-07-LAST-UPDATED"
+              ],
+              "actual_adoption_utc": "2026-11-04T15:17:51Z",
+              "presentation_inverse_body_sha256": "97967a8008c90bf68162dd3e8dbd9f08b7299a124a23c945be4214fc9c3f3cd5"
+            }
+          },
+          {
+            "path": "research/playbooks/pages-an-ai-engine-can-quote/index.md",
+            "source_id": "OWNER-RESEARCH-08",
+            "required_span_ids": [
+              "OWNER-RESEARCH-08-OWN-01",
+              "OWNER-RESEARCH-08-OWN-02",
+              "OWNER-RESEARCH-08-OWN-03",
+              "OWNER-RESEARCH-08-GEO-01",
+              "OWNER-RESEARCH-08-GEO-02",
+              "OWNER-RESEARCH-08-GEO-03",
+              "OWNER-RESEARCH-08-HISTORY-01",
+              "OWNER-RESEARCH-08-HISTORY-02",
+              "OWNER-RESEARCH-08-HISTORY-03",
+              "OWNER-RESEARCH-08-HISTORY-04",
+              "OWNER-RESEARCH-08-HISTORY-05"
+            ],
+            "before_body_sha256": "79deca992ab43f4d767819962fe1f11339b1a4cc10a95be5f99a7e9f20249ef2",
+            "after_body_sha256": "e42897f45dfbaa442dbd728a399f54e580d0f81127720424b0ca2112e84eb6b7",
+            "Source_receipts_exact": true,
+            "presentation": {
+              "changed": true,
+              "finite_presentation_edit_ids": [
+                "OWNER-RESEARCH-08-CITE-UPDATED",
+                "OWNER-RESEARCH-08-BIBTEX-UPDATED",
+                "OWNER-RESEARCH-08-LAST-UPDATED"
+              ],
+              "actual_adoption_utc": "2026-11-04T15:17:51Z",
+              "presentation_inverse_body_sha256": "805e9dedff6ff6829da2ef0015f37d9a70acdee82cd15f3382e831d6f56d1c1e"
+            }
+          },
+          {
+            "path": "research/playbooks/research-into-google-scholar/index.md",
+            "source_id": "OWNER-RESEARCH-09",
+            "required_span_ids": [
+              "OWNER-RESEARCH-09-OWN-01",
+              "OWNER-RESEARCH-09-OWN-02",
+              "OWNER-RESEARCH-09-OWN-03",
+              "OWNER-RESEARCH-09-HISTORY-01",
+              "OWNER-RESEARCH-09-HISTORY-02",
+              "OWNER-RESEARCH-09-HISTORY-03",
+              "OWNER-RESEARCH-09-HISTORY-04",
+              "OWNER-RESEARCH-09-HISTORY-05"
+            ],
+            "before_body_sha256": "e17374516eb8e3f7fc6a36e0c9d4c933c5306bfa7466c9e1060582c5a95d3f01",
+            "after_body_sha256": "1865811947dc4e9d5ec859d5b4b03f5462c808600217750ad4bd5d79403fdb2d",
+            "Source_receipts_exact": true,
+            "presentation": {
+              "changed": true,
+              "finite_presentation_edit_ids": [
+                "OWNER-RESEARCH-09-CITE-UPDATED",
+                "OWNER-RESEARCH-09-BIBTEX-UPDATED",
+                "OWNER-RESEARCH-09-LAST-UPDATED"
+              ],
+              "actual_adoption_utc": "2026-11-04T15:17:51Z",
+              "presentation_inverse_body_sha256": "a2f26e47a181a09150def41e517f215a9a8bf3c02c13853451dfcd26fda0e866"
+            }
+          },
+          {
+            "path": "research/playbooks/site-structure-basics/index.md",
+            "source_id": "OWNER-RESEARCH-10",
+            "required_span_ids": [
+              "OWNER-RESEARCH-10-OWN-01",
+              "OWNER-RESEARCH-10-OWN-02",
+              "OWNER-RESEARCH-10-OWN-03",
+              "OWNER-RESEARCH-10-HISTORY-01",
+              "OWNER-RESEARCH-10-HISTORY-02",
+              "OWNER-RESEARCH-10-HISTORY-03",
+              "OWNER-RESEARCH-10-HISTORY-04",
+              "OWNER-RESEARCH-10-HISTORY-05"
+            ],
+            "before_body_sha256": "42391fd00551106936d071f113465a8b7d8d3e99a030a3586fe04c79f490034b",
+            "after_body_sha256": "b179542f498949e75f6942d902ce62808e15de5f7bcd08bd4621e082d31c5b67",
+            "Source_receipts_exact": true,
+            "presentation": {
+              "changed": true,
+              "finite_presentation_edit_ids": [
+                "OWNER-RESEARCH-10-CITE-UPDATED",
+                "OWNER-RESEARCH-10-BIBTEX-UPDATED",
+                "OWNER-RESEARCH-10-LAST-UPDATED"
+              ],
+              "actual_adoption_utc": "2026-11-04T15:17:51Z",
+              "presentation_inverse_body_sha256": "95d7dc4a5e581436ec99c7d4bdb76383202c8f4e1d6c2c086a97f1cf30f61187"
+            }
+          },
+          {
+            "path": "research/playbooks/structured-data-for-b2b-software/index.md",
+            "source_id": "OWNER-RESEARCH-11",
+            "required_span_ids": [
+              "OWNER-RESEARCH-11-OWN-01",
+              "OWNER-RESEARCH-11-OWN-02",
+              "OWNER-RESEARCH-11-OWN-03",
+              "OWNER-RESEARCH-11-HISTORY-01",
+              "OWNER-RESEARCH-11-HISTORY-02",
+              "OWNER-RESEARCH-11-HISTORY-03",
+              "OWNER-RESEARCH-11-HISTORY-04",
+              "OWNER-RESEARCH-11-HISTORY-05"
+            ],
+            "before_body_sha256": "b1c2b6e11191c4e134516188a5e2ab8eacc571b125ac02f5b7d9b40f5475e354",
+            "after_body_sha256": "1963081ba56472dfbc38a3985af3eb4b074a18f417be215b4afb8cd1a67ac095",
+            "Source_receipts_exact": true,
+            "presentation": {
+              "changed": true,
+              "finite_presentation_edit_ids": [
+                "OWNER-RESEARCH-11-CITE-UPDATED",
+                "OWNER-RESEARCH-11-BIBTEX-UPDATED",
+                "OWNER-RESEARCH-11-LAST-UPDATED"
+              ],
+              "actual_adoption_utc": "2026-11-04T15:17:51Z",
+              "presentation_inverse_body_sha256": "c52957a84322823c0dbd2c5cfa88340b481d1732218fef09b90cc16739242502"
+            }
+          }
+        ],
+        "Research_release_or_ordinary_Source_kind_or_S5_PASS_granted": false
+      }
+    },
+    "render": {
+      "all53_full_bodies_and_current_heads_proven": true,
+      "actual_final_HTML_sha256": {
+        "research/index.md": "fdc895d60510eecfb728e893c470ff502353ee277ddf7e2a64c8717c15f3cddd",
+        "research/academic-access/index.md": "c4df73d2b72331f79e83370b1b9e4f5d5fa654e2bee41027d832967621d83bee",
+        "research/claims/index.md": "e5fcb47f88337f755127ab183f07f71c267e83504cdb264eb1f8af0cad0d0acd",
+        "research/evidence/graded-sources/index.md": "236aa102721cbe5b41df4a5db6da9370d5694abdb698d9196e0f1f5e875f4c24",
+        "research/evidence/quotable-numbers/index.md": "9e2a8d843c2ef56a23f1a2a5b842b1f73efa2be3aad8ad64465bffb137e4e73f",
+        "research/evidence/spot-a-fake-statistic/index.md": "f2d4704e1802bfdbe947742524a29118c860b6a2ecf2dd23d51bdceda4e9dfa0",
+        "research/evidence/unverified-numbers/index.md": "a02586b20998735f74fc416bd0852b85563e0cb355c0e9c0373486ef2dd73026",
+        "research/glossary/agent-discovery-optimization/index.md": "083f4fc4ac95a7a0195faad2320925fd4556da773a9f95f0e1f0d5973e7cd4e6",
+        "research/glossary/citation-decay/index.md": "afdbc03b678250dd737a26cbc493e3da3ca74ba788f4bfc619005bb416661a94",
+        "research/glossary/entity-confidence/index.md": "fa2baff1b9ea382285dab576a7b48055962b98be9795d555b5d7b5fb2b7fa284",
+        "research/glossary/information-gain/index.md": "1a2e899b69fe9d46619eb6cb8d8074b94883a6c1b8a166c2a7df299f98e4bec2",
+        "research/glossary/query-fan-out/index.md": "5d07c04d875597b5c9573e8f3c73a3e0a98290d312ea00c22e490a8f7b4d3d76",
+        "research/glossary/seo-aeo-geo/index.md": "2d58bf4ca5ecab56f7577754a532760d3cbc032eeeb7a59c36ef103e4f4ca884",
+        "research/glossary/share-of-model/index.md": "f6fd33fc5163b4ab23526eda373eb67fcde953ef6a410c4fda0ed2c7f613aa9f",
+        "research/glossary/zero-click-visibility/index.md": "8f4b29f260ced2dde9199013e7f4e317f0277de43f8c59f90cfc21ea53bc3fe9",
+        "research/insights/engines-change-without-telling-you/index.md": "9bec4785351b5eee20116c1042c410b2c66c146250f4a8b62e517a01b7d0c240",
+        "research/insights/google-asks-for-original-research/index.md": "a6db304acdc1021ba76dd764464d50714125532cca8b731d82ac2f01cd96b9cc",
+        "research/insights/index-against-the-literature/index.md": "1d2cdbd60982f24b63cc908eb1c35130d9773416434d167e7b6737bb468b45ae",
+        "research/insights/nearly-every-google-result-is-optimized/index.md": "2bbfbcdc12c6de2d4474d4f486979d759b75e74d856e8eaa2d585e419f1e211e",
+        "research/insights/no-ranking-recipe/index.md": "9124927b4c38c8a58f757e7a439f8d8922f1a1a1e69dd995aaabea181833d420",
+        "research/insights/one-channel-is-a-risk/index.md": "946e2da1de924de88610b1f4793e9cab588dc3d1395ca1b3590c276195db39e6",
+        "research/insights/one-rank-number-is-a-fiction/index.md": "eeb654c2fea3cfe37f474912a6c7f2b810137f5bc87b31568e14afff692b5012",
+        "research/insights/review-platforms-as-the-objective-source/index.md": "993e84ce299f52d185c888c1cfcabff871a34c0c10c6a59fa163006c288c1339",
+        "research/insights/state-of-geo-research-2026/index.md": "8d6a39022b89c65f64e31e5ccb2265a3c94134392215a91ee966194dc600c2f0",
+        "research/insights/strong-brands-weak-visibility/index.md": "f5fbb48a6778beeca2aaaed4bb7771aaf85bb2cbc2b8da9b18222e94989050ad",
+        "research/insights/who-the-engines-trust/index.md": "a2a5b22a2fdc05382a6ae8a05f7ba1960f5144f8fac7c09d0564576154621d40",
+        "research/playbooks/llms-txt/index.md": "a1cc5a3983fb08f217a882efdae8467cc36e2130e64908661981e78c03198aba",
+        "research/playbooks/pages-an-ai-engine-can-quote/index.md": "2058b95fdd5b136d74467e74a0e8f904d75a1ff4adea8a8b8025730afdb557d5",
+        "research/playbooks/question-led-content/index.md": "6b1f3c6ef9b4e47cfdd2705c8302c23d11ef6d4753e0b86314e243bb6bf555fd",
+        "research/playbooks/research-into-google-scholar/index.md": "9ceaad575d560bb75c434c0a21fdbc477a7b7712e89be9d6b311840c33fc8573",
+        "research/playbooks/review-platforms-for-b2b-software/index.md": "972c4409041909f7fed75a7ffe2b90ba9bab00eb0cbc99b6709028ec74e9c2dd",
+        "research/playbooks/site-structure-basics/index.md": "caca3d7dd298b33a3fcd9d980ac6b551092271e32abd6c2d6b8d537230ff5b95",
+        "research/playbooks/structured-data-for-b2b-software/index.md": "d08cca846f219459c9f72a3600402a88bca14f89212f457a80bba258486a0bfe",
+        "research/playbooks/syndicating-without-losing-the-original/index.md": "d2ef56ffcb2909276e04fca5b65b20317e21c546166fd8f3296d3b361bf66c81",
+        "research/playbooks/which-ai-crawlers-visit-your-site/index.md": "bc0c311fbf6ebcb65ae0a6201031ade8198ad4a5516c0fe4e707eab47bed233d",
+        "research/playbooks/wikidata-for-companies/index.md": "5af98c58db925dbfe09870a0c2723cbabf2a82dba239b131d2a229269ea00a98",
+        "research/sources/bataineh-2025/index.md": "e7208e5e05f62ebc0d64ae13ed3db333ead7179be86903c977ef370f7e1a1e67",
+        "research/sources/giannakoulopoulos-2019/index.md": "eed207c75c6d6678b319c6fd1042eb3f7aa7a158b0d58fd3763af3b419f1fc6d",
+        "research/sources/giomelakis-2019/index.md": "695111207b264b28d33b23e1a4bca0a3c730f8511b60fc5dbf697abd371f6b75",
+        "research/sources/google-seo-starter-guide-2010/index.md": "8d6b9e83340b17ebc177a32018b794609ceca177eaccebe589f278f35042e2ee",
+        "research/sources/karyotakis-2019/index.md": "b24528cfa29b7f4467465ed1337eb1f2f5fee206027bb7b3502e616dae5537b2",
+        "research/sources/lewandowski-2021/index.md": "a5ad03486b4bb2600a7ae667210934272f54c7cb436b87d24206c86c921104f2",
+        "research/sources/reading-list/index.md": "933d6903e321c256a25e911e5deb284ead9e81bba90ac2cc227a71eeaf94440c",
+        "research/sources/rovira-2019/index.md": "05edecef7a19cb1bc24d7e1c59d22704a863f6117e944987464f002e38dd0a8c",
+        "research/sources/seo-bible-2009/index.md": "2ab3552f2a55b08b7cc4c637e8eb62d4fbbc32b8fa1ed2d8a5ad1ba80b6ab4da",
+        "research/sources/ziakis-2019/index.md": "3babb7ee56cb6840cbdb936e9354c6bee373d7a681229ce62b3ccc4a74529322",
+        "research/sources/ziakis-vlachopoulou-2024/index.md": "de36f36d2da93d79886ad9cc4571a7b1684b8420f57301c94c25591a6ad3d685",
+        "research/standard/index.md": "1fa9e8d308aed4d0cacf9c68c91eed32bac2933f0bace5c3e46699265ba2c772",
+        "research/studies/ai-crawler-log/index.md": "173ecdd0f29fe5c2f4e80e2b4ef9f04d9863dfe2daa8114c202af3fda9e2e246",
+        "research/studies/does-absence-persist/index.md": "5f53666bb1ff189dca390c24c24cd620db64583aebf689862dce0b6e1ff21802",
+        "research/studies/evidence-refresh-field-test/index.md": "ee6adcbd081f8c550196b3603974a61f320acd347a1059c4cf148d1b10f44363",
+        "research/studies/optimized-pages-in-ai-answers/index.md": "e2f6f72c3582379d069ec5ead6bf25e77ca18dfae6317bb00fdb2c822a63350f",
+        "research/studies/who-ai-engines-cite/index.md": "e54f8e9925f2e8948459263a2fbed724f283f6c87467fb4c5bc96c150e70d1e7"
+      }
+    },
+    "sitemap": {
+      "all53_source_metadata_consumed": true,
+      "two_exact_Dataset_entries": true,
+      "all_other_XML_bytes_exact": true,
+      "xml_sha256": "3cdcf98afa2e4b7acada5c69d9457b1f050ca3a21dc343f4e781c980fe2626f5",
+      "gzip_sha256": "011fe9dab740555c2b6822e09a695be8e06a3e79f167b2ce0bed35ab6e8a6235"
+    },
+    "search": {
+      "finite53_entries_match_actual_contexts": true,
+      "all_other_rows_exact": true,
+      "actual_sha256": "b35b56bd04c8030d3f7255a7dbf677bf8373d7224129d6b2ea9b0bc8158116ed"
+    }
+  },
+  "all307_Library_leaf_and12_hub_actual_contexts_validated": true,
+  "actual63_non_Manual_artifact_delta": {
+    "research/academic-access/index.html": {
+      "before_sha256": "94f34aeeb64f90e6958747a228c8f237be1675032c1333eb05f6ca8e8b40c2ba",
+      "after_sha256": "c4df73d2b72331f79e83370b1b9e4f5d5fa654e2bee41027d832967621d83bee"
+    },
+    "research/claims/index.html": {
+      "before_sha256": "d3d6343f0139085b60d03c6758090b31fb103823f630252dd990b724dc3977dc",
+      "after_sha256": "e5fcb47f88337f755127ab183f07f71c267e83504cdb264eb1f8af0cad0d0acd"
+    },
+    "research/data/claims.csv": {
+      "before_sha256": "cc8785bf85038172816520e07f028319991b7232b191ee927b3116f4951dd60c",
+      "after_sha256": "43d16bc61825d9deae9efb1304a8434bb333465f11139794480f27a8333dc3e8"
+    },
+    "research/data/claims.json": {
+      "before_sha256": "29663bc13a24b09c333878231e2a87e55a7564a17591f71a32cef3cdd9ae1a6d",
+      "after_sha256": "0f5ca38eb5ce70fcb1c2e902947df41d08aca51c4353ed85d0b502caa5fc337d"
+    },
+    "research/data/quotable-numbers-2026-11-03.csv": {
+      "before_sha256": null,
+      "after_sha256": "81c2d04297b738c3c59bf22d086a693434c039a2171ef8379c48c5d983dccf97"
+    },
+    "research/data/report-interpretation-notice-2026-11-03.pdf": {
+      "before_sha256": null,
+      "after_sha256": "ce346d642bbe20c4eadbc98128d5655363393cf4b95a202cdcd3b9e3869d6d3d"
+    },
+    "research/data/research-errata-2026-11-03.csv": {
+      "before_sha256": null,
+      "after_sha256": "4122cb58ed8fb5a5e55d466a7c1bbefaa1208b1ad0f7357590e3836546c4b0c9"
+    },
+    "research/data/research-release-policy.json": {
+      "before_sha256": null,
+      "after_sha256": "a413acca0a52bb221c46c173ab76fad3f603c417f9069c32ef19a10ab10c9edd"
+    },
+    "research/data/research_release_gate.py": {
+      "before_sha256": null,
+      "after_sha256": "9658c9c892ba3c95c06577f57a4fb625d23240b11d77c4fa22f00887ee6a7712"
+    },
+    "research/evidence/graded-sources/index.html": {
+      "before_sha256": "4d054570284be000f1dbd7344a038bc5fbf0847d84dc473c80b968452f9d6443",
+      "after_sha256": "236aa102721cbe5b41df4a5db6da9370d5694abdb698d9196e0f1f5e875f4c24"
+    },
+    "research/evidence/quotable-numbers/index.html": {
+      "before_sha256": "bc4f12c461a4a8daa6cb086cfe457c3aaa86d4e56cff7e0640dd36ac94153da7",
+      "after_sha256": "9e2a8d843c2ef56a23f1a2a5b842b1f73efa2be3aad8ad64465bffb137e4e73f"
+    },
+    "research/evidence/spot-a-fake-statistic/index.html": {
+      "before_sha256": "352c9a5c1cccaed2fce549492f6f00a00b7333ba754eefa0d0e10cb438864d20",
+      "after_sha256": "f2d4704e1802bfdbe947742524a29118c860b6a2ecf2dd23d51bdceda4e9dfa0"
+    },
+    "research/evidence/unverified-numbers/index.html": {
+      "before_sha256": "902c8abf9da2b0979efc064f6baded344b2dc297b935eb8a1bd768c01d2fe76e",
+      "after_sha256": "a02586b20998735f74fc416bd0852b85563e0cb355c0e9c0373486ef2dd73026"
+    },
+    "research/glossary/agent-discovery-optimization/index.html": {
+      "before_sha256": "9e78bac3488f50251f1c005d1d996512db302cef72583b76ebf8966b3a10a89c",
+      "after_sha256": "083f4fc4ac95a7a0195faad2320925fd4556da773a9f95f0e1f0d5973e7cd4e6"
+    },
+    "research/glossary/citation-decay/index.html": {
+      "before_sha256": "29a71bc1a93c3e62fe6eaaaf8d682ed12591fbe62472fffa6e14c291573b0230",
+      "after_sha256": "afdbc03b678250dd737a26cbc493e3da3ca74ba788f4bfc619005bb416661a94"
+    },
+    "research/glossary/entity-confidence/index.html": {
+      "before_sha256": "d9ba5989e77e081610bf3a5ea19473545b1169fa60e4b26af08cd06341535f8e",
+      "after_sha256": "fa2baff1b9ea382285dab576a7b48055962b98be9795d555b5d7b5fb2b7fa284"
+    },
+    "research/glossary/information-gain/index.html": {
+      "before_sha256": "a0b17115620026b4a563e9ab2ed13627604aa531090646716a1a3ffe38ef02b4",
+      "after_sha256": "1a2e899b69fe9d46619eb6cb8d8074b94883a6c1b8a166c2a7df299f98e4bec2"
+    },
+    "research/glossary/query-fan-out/index.html": {
+      "before_sha256": "465770850a6843a483378cc245d528d1ebf8ca9ff2410ac3dd0d26b3b3b130c2",
+      "after_sha256": "5d07c04d875597b5c9573e8f3c73a3e0a98290d312ea00c22e490a8f7b4d3d76"
+    },
+    "research/glossary/seo-aeo-geo/index.html": {
+      "before_sha256": "adecf5c24a1280d87d5da2fe56125fff55620d9e87644359a9ec8446445b7884",
+      "after_sha256": "2d58bf4ca5ecab56f7577754a532760d3cbc032eeeb7a59c36ef103e4f4ca884"
+    },
+    "research/glossary/share-of-model/index.html": {
+      "before_sha256": "7c0c802a3875d6d50d7065b7ef8a4fa6e0efde368ae16459a74de0140d055242",
+      "after_sha256": "f6fd33fc5163b4ab23526eda373eb67fcde953ef6a410c4fda0ed2c7f613aa9f"
+    },
+    "research/glossary/zero-click-visibility/index.html": {
+      "before_sha256": "50e75f1c1c3c0b6d3339153f411baafe626236af2a781c595fc1b3da250a6542",
+      "after_sha256": "8f4b29f260ced2dde9199013e7f4e317f0277de43f8c59f90cfc21ea53bc3fe9"
+    },
+    "research/index.html": {
+      "before_sha256": "c19ba4c631ef50b0667f7c2434defa853ce3bb5aa462fa6f3aae0ee02ef1769d",
+      "after_sha256": "fdc895d60510eecfb728e893c470ff502353ee277ddf7e2a64c8717c15f3cddd"
+    },
+    "research/insights/engines-change-without-telling-you/index.html": {
+      "before_sha256": "f96950142a4d16eaa3d98c229eed62c4760832c90942ddef0c9fff145e6d2744",
+      "after_sha256": "9bec4785351b5eee20116c1042c410b2c66c146250f4a8b62e517a01b7d0c240"
+    },
+    "research/insights/google-asks-for-original-research/index.html": {
+      "before_sha256": "7b53090e2d7bd3cc814b1d3d1c9456208d55729ad61f91a1d717c8470f07e428",
+      "after_sha256": "a6db304acdc1021ba76dd764464d50714125532cca8b731d82ac2f01cd96b9cc"
+    },
+    "research/insights/index-against-the-literature/index.html": {
+      "before_sha256": "cba5a830579869603c071f745330075b4685a626789ac457ca272c7362dbc294",
+      "after_sha256": "1d2cdbd60982f24b63cc908eb1c35130d9773416434d167e7b6737bb468b45ae"
+    },
+    "research/insights/nearly-every-google-result-is-optimized/index.html": {
+      "before_sha256": "9241ae00ceb6666a007616422b860afe0425a9b10c7f35d8999a148fcb848686",
+      "after_sha256": "2bbfbcdc12c6de2d4474d4f486979d759b75e74d856e8eaa2d585e419f1e211e"
+    },
+    "research/insights/no-ranking-recipe/index.html": {
+      "before_sha256": "47752bdcf13395ac693459d46f6253597c47406b8c657f215fc9f126ab030c30",
+      "after_sha256": "9124927b4c38c8a58f757e7a439f8d8922f1a1a1e69dd995aaabea181833d420"
+    },
+    "research/insights/one-channel-is-a-risk/index.html": {
+      "before_sha256": "ee8a6a0c543bf00e82dc3140c48109560d066d473b3a13984f56e60270579e8b",
+      "after_sha256": "946e2da1de924de88610b1f4793e9cab588dc3d1395ca1b3590c276195db39e6"
+    },
+    "research/insights/one-rank-number-is-a-fiction/index.html": {
+      "before_sha256": "e51862d38f77cb6aab645eff6cea05d87d8bb7a7d13ddacf031395592ba9a2e6",
+      "after_sha256": "eeb654c2fea3cfe37f474912a6c7f2b810137f5bc87b31568e14afff692b5012"
+    },
+    "research/insights/review-platforms-as-the-objective-source/index.html": {
+      "before_sha256": "40460b23a5d8fd97dda876c80a420152cec3fb868cf94d800dbbef899a2b3e33",
+      "after_sha256": "993e84ce299f52d185c888c1cfcabff871a34c0c10c6a59fa163006c288c1339"
+    },
+    "research/insights/state-of-geo-research-2026/index.html": {
+      "before_sha256": "4c9a00c2ad59d23491dfbaaa86d89596324e0987c3189da24aab2649e6056507",
+      "after_sha256": "8d6a39022b89c65f64e31e5ccb2265a3c94134392215a91ee966194dc600c2f0"
+    },
+    "research/insights/strong-brands-weak-visibility/index.html": {
+      "before_sha256": "d449c8e4756e12d89b60a3099314d71217d29f74218f4ba820380a5218881004",
+      "after_sha256": "f5fbb48a6778beeca2aaaed4bb7771aaf85bb2cbc2b8da9b18222e94989050ad"
+    },
+    "research/insights/who-the-engines-trust/index.html": {
+      "before_sha256": "12f473a008d61d13f73e513ffdcda59d7da9dda63c142e38ad9f861ccf53d0a1",
+      "after_sha256": "a2a5b22a2fdc05382a6ae8a05f7ba1960f5144f8fac7c09d0564576154621d40"
+    },
+    "research/playbooks/llms-txt/index.html": {
+      "before_sha256": "962376b7e5dc51bd919785c1b7621a2c8b65742a26a274c5aa6fed7944f594b5",
+      "after_sha256": "a1cc5a3983fb08f217a882efdae8467cc36e2130e64908661981e78c03198aba"
+    },
+    "research/playbooks/pages-an-ai-engine-can-quote/index.html": {
+      "before_sha256": "80b9c728e494cbe2cea15b973a05684c53efd6636405734ecf184b14a775f4e0",
+      "after_sha256": "2058b95fdd5b136d74467e74a0e8f904d75a1ff4adea8a8b8025730afdb557d5"
+    },
+    "research/playbooks/question-led-content/index.html": {
+      "before_sha256": "67a63c64906a8d82ae7bcf6bbc70a76b8865d9ed73bb8a00484588f4c726c1a7",
+      "after_sha256": "6b1f3c6ef9b4e47cfdd2705c8302c23d11ef6d4753e0b86314e243bb6bf555fd"
+    },
+    "research/playbooks/research-into-google-scholar/index.html": {
+      "before_sha256": "555dabc46d1090e51e7eb1b72a1d6a175d41b666687928cc4411304ad7a8a019",
+      "after_sha256": "9ceaad575d560bb75c434c0a21fdbc477a7b7712e89be9d6b311840c33fc8573"
+    },
+    "research/playbooks/review-platforms-for-b2b-software/index.html": {
+      "before_sha256": "d22c393c43e625054cb06d8964bf907225e1ae1fd1727917d2c44f7124088795",
+      "after_sha256": "972c4409041909f7fed75a7ffe2b90ba9bab00eb0cbc99b6709028ec74e9c2dd"
+    },
+    "research/playbooks/site-structure-basics/index.html": {
+      "before_sha256": "eeaddb3a2da47c90ae6fb612c00b6552c8f7e217e3f283be8c6b106dcde088ad",
+      "after_sha256": "caca3d7dd298b33a3fcd9d980ac6b551092271e32abd6c2d6b8d537230ff5b95"
+    },
+    "research/playbooks/structured-data-for-b2b-software/index.html": {
+      "before_sha256": "a6c67fafcc51e5a6b385cf6dc235eef7e0381685086261025405d0bae9b743ea",
+      "after_sha256": "d08cca846f219459c9f72a3600402a88bca14f89212f457a80bba258486a0bfe"
+    },
+    "research/playbooks/syndicating-without-losing-the-original/index.html": {
+      "before_sha256": "35a622a73fa3b882d543a75ee66e28609b180da9919f0591d5174625e4d37611",
+      "after_sha256": "d2ef56ffcb2909276e04fca5b65b20317e21c546166fd8f3296d3b361bf66c81"
+    },
+    "research/playbooks/which-ai-crawlers-visit-your-site/index.html": {
+      "before_sha256": "123984d01325b76a8e6596576077a5c539bb86beffd02e5f40ac69a748fae249",
+      "after_sha256": "bc0c311fbf6ebcb65ae0a6201031ade8198ad4a5516c0fe4e707eab47bed233d"
+    },
+    "research/playbooks/wikidata-for-companies/index.html": {
+      "before_sha256": "f924b5a43ce3c0a2aa8fb05b1b20764a778a4c539e867bda07f788e535f7f700",
+      "after_sha256": "5af98c58db925dbfe09870a0c2723cbabf2a82dba239b131d2a229269ea00a98"
+    },
+    "research/sources/bataineh-2025/index.html": {
+      "before_sha256": "475f69eb3287dee996f512fd862c466520534be9b3cdc871a7d50b90af6990b2",
+      "after_sha256": "e7208e5e05f62ebc0d64ae13ed3db333ead7179be86903c977ef370f7e1a1e67"
+    },
+    "research/sources/giannakoulopoulos-2019/index.html": {
+      "before_sha256": "309174da085e9e70aae0cd37e4ef3806e110b31757059ed7b6fa5a732e87c12a",
+      "after_sha256": "eed207c75c6d6678b319c6fd1042eb3f7aa7a158b0d58fd3763af3b419f1fc6d"
+    },
+    "research/sources/giomelakis-2019/index.html": {
+      "before_sha256": "f58cf67e71a1b38f77980f1cec7201f914e35f5b8baed5ca1591d35fa2f12b8d",
+      "after_sha256": "695111207b264b28d33b23e1a4bca0a3c730f8511b60fc5dbf697abd371f6b75"
+    },
+    "research/sources/google-seo-starter-guide-2010/index.html": {
+      "before_sha256": "238a3c061964901d9d3fc0a53477b8f8e7084ae65f1c01b401fbc4df54fe7e5e",
+      "after_sha256": "8d6b9e83340b17ebc177a32018b794609ceca177eaccebe589f278f35042e2ee"
+    },
+    "research/sources/karyotakis-2019/index.html": {
+      "before_sha256": "ab85a968a3572a2f870274958144d530560499b7f018be81917b959452594550",
+      "after_sha256": "b24528cfa29b7f4467465ed1337eb1f2f5fee206027bb7b3502e616dae5537b2"
+    },
+    "research/sources/lewandowski-2021/index.html": {
+      "before_sha256": "b9a38dca7d72e16e3de782fa7c505bda29c944d3d00d9c352dcf1e7a1eea8a63",
+      "after_sha256": "a5ad03486b4bb2600a7ae667210934272f54c7cb436b87d24206c86c921104f2"
+    },
+    "research/sources/reading-list/index.html": {
+      "before_sha256": "94761762d6178d853d1bd4b03fb31168a1f8298c92ed86b47e169049ee2ef679",
+      "after_sha256": "933d6903e321c256a25e911e5deb284ead9e81bba90ac2cc227a71eeaf94440c"
+    },
+    "research/sources/rovira-2019/index.html": {
+      "before_sha256": "9e820d5fc2c5e25773a1bb68df1bed4c4b90d9353cbaa3d3ad00e23e6a6a23d1",
+      "after_sha256": "05edecef7a19cb1bc24d7e1c59d22704a863f6117e944987464f002e38dd0a8c"
+    },
+    "research/sources/seo-bible-2009/index.html": {
+      "before_sha256": "6d0cd8ae64d7d2d07da77e965ae823902e05b231e2be44c262b783bd796c9c42",
+      "after_sha256": "2ab3552f2a55b08b7cc4c637e8eb62d4fbbc32b8fa1ed2d8a5ad1ba80b6ab4da"
+    },
+    "research/sources/ziakis-2019/index.html": {
+      "before_sha256": "64e983335ff4a0f1a70c61ec9b59084616a93664562e5ac6d4a3ce146e2560d7",
+      "after_sha256": "3babb7ee56cb6840cbdb936e9354c6bee373d7a681229ce62b3ccc4a74529322"
+    },
+    "research/sources/ziakis-vlachopoulou-2024/index.html": {
+      "before_sha256": "287427d236c55ec3715b30ad8cb2517176b322a089402e1059239fe836aa6c7f",
+      "after_sha256": "de36f36d2da93d79886ad9cc4571a7b1684b8420f57301c94c25591a6ad3d685"
+    },
+    "research/standard/index.html": {
+      "before_sha256": "c3939fde737c7cce3a776b10ae70b8d694c95287dbd45d97831435b53eba00f1",
+      "after_sha256": "1fa9e8d308aed4d0cacf9c68c91eed32bac2933f0bace5c3e46699265ba2c772"
+    },
+    "research/studies/ai-crawler-log/index.html": {
+      "before_sha256": "333638c3d9705bc89f5b21e6c519df66cc3117958ed2367839f26f6aea4d06a8",
+      "after_sha256": "173ecdd0f29fe5c2f4e80e2b4ef9f04d9863dfe2daa8114c202af3fda9e2e246"
+    },
+    "research/studies/does-absence-persist/index.html": {
+      "before_sha256": "d22b5f3cd04394b8e541b42242f3848212a44ef773fcab8de9ebabc2cbe31691",
+      "after_sha256": "5f53666bb1ff189dca390c24c24cd620db64583aebf689862dce0b6e1ff21802"
+    },
+    "research/studies/evidence-refresh-field-test/index.html": {
+      "before_sha256": "21a6869890f413232da0dd85867c7085e8baae8007dfeb96dce9de0df7166304",
+      "after_sha256": "ee6adcbd081f8c550196b3603974a61f320acd347a1059c4cf148d1b10f44363"
+    },
+    "research/studies/optimized-pages-in-ai-answers/index.html": {
+      "before_sha256": "20bf86cc8cf1c6aed68143ba85f9cf0f9f74bafd2b89287766b0db3db7c15abd",
+      "after_sha256": "e2f6f72c3582379d069ec5ead6bf25e77ca18dfae6317bb00fdb2c822a63350f"
+    },
+    "research/studies/who-ai-engines-cite/index.html": {
+      "before_sha256": "263202dcc4174b35fa093a79fef1285cbd96df5191fd967f3e6f661dfa918b56",
+      "after_sha256": "e54f8e9925f2e8948459263a2fbed724f283f6c87467fb4c5bc96c150e70d1e7"
+    },
+    "search/search_index.json": {
+      "before_sha256": "1deed19b0a9eaf100bccf94da7da7a606c567a00cb5eb5fa8640bf8dd6fe9349",
+      "after_sha256": "b35b56bd04c8030d3f7255a7dbf677bf8373d7224129d6b2ea9b0bc8158116ed"
+    },
+    "sitemap.xml": {
+      "before_sha256": "cbc30d5499e1a02cbe20f72fabb7d291ddde7fde596221879599509ec04c0590",
+      "after_sha256": "3cdcf98afa2e4b7acada5c69d9457b1f050ca3a21dc343f4e781c980fe2626f5"
+    },
+    "sitemap.xml.gz": {
+      "before_sha256": "5eab8f1018ee6b2b96364841a0980cc7f91c8cf496393dd1ec9d98bd1b0c3d43",
+      "after_sha256": "011fe9dab740555c2b6822e09a695be8e06a3e79f167b2ce0bed35ab6e8a6235"
+    }
+  },
+  "rows": [
+    {
+      "path": "research/academic-access/index.html",
+      "title": "Free academic access to Broadcastwell research data",
+      "canonical": "https://docs.broadcastwell.com/research/academic-access/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "c4df73d2b72331f79e83370b1b9e4f5d5fa654e2bee41027d832967621d83bee"
+    },
+    {
+      "path": "research/claims/index.html",
+      "title": "GEO Claim Registry: trace the number to its source",
+      "canonical": "https://docs.broadcastwell.com/research/claims/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "e5fcb47f88337f755127ab183f07f71c267e83504cdb264eb1f8af0cad0d0acd"
+    },
+    {
+      "path": "research/evidence/graded-sources/index.html",
+      "title": "Twenty-one source documents, graded by what they support",
+      "canonical": "https://docs.broadcastwell.com/research/evidence/graded-sources/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "236aa102721cbe5b41df4a5db6da9370d5694abdb698d9196e0f1f5e875f4c24"
+    },
+    {
+      "path": "research/evidence/quotable-numbers/index.html",
+      "title": "Quotable numbers, with their original boundaries",
+      "canonical": "https://docs.broadcastwell.com/research/evidence/quotable-numbers/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "9e2a8d843c2ef56a23f1a2a5b842b1f73efa2be3aad8ad64465bffb137e4e73f"
+    },
+    {
+      "path": "research/evidence/spot-a-fake-statistic/index.html",
+      "title": "How can you check an SEO statistic before you cite it?",
+      "canonical": "https://docs.broadcastwell.com/research/evidence/spot-a-fake-statistic/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "f2d4704e1802bfdbe947742524a29118c860b6a2ecf2dd23d51bdceda4e9dfa0"
+    },
+    {
+      "path": "research/evidence/unverified-numbers/index.html",
+      "title": "Numbers we could not verify, and claims the originals correct",
+      "canonical": "https://docs.broadcastwell.com/research/evidence/unverified-numbers/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "a02586b20998735f74fc416bd0852b85563e0cb355c0e9c0373486ef2dd73026"
+    },
+    {
+      "path": "research/glossary/agent-discovery-optimization/index.html",
+      "title": "What is agent discovery optimization?",
+      "canonical": "https://docs.broadcastwell.com/research/glossary/agent-discovery-optimization/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "083f4fc4ac95a7a0195faad2320925fd4556da773a9f95f0e1f0d5973e7cd4e6"
+    },
+    {
+      "path": "research/glossary/citation-decay/index.html",
+      "title": "What is citation decay?",
+      "canonical": "https://docs.broadcastwell.com/research/glossary/citation-decay/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "afdbc03b678250dd737a26cbc493e3da3ca74ba788f4bfc619005bb416661a94"
+    },
+    {
+      "path": "research/glossary/entity-confidence/index.html",
+      "title": "What is entity confidence, and is it a Google metric?",
+      "canonical": "https://docs.broadcastwell.com/research/glossary/entity-confidence/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "fa2baff1b9ea382285dab576a7b48055962b98be9795d555b5d7b5fb2b7fa284"
+    },
+    {
+      "path": "research/glossary/information-gain/index.html",
+      "title": "What does information gain mean in SEO?",
+      "canonical": "https://docs.broadcastwell.com/research/glossary/information-gain/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "1a2e899b69fe9d46619eb6cb8d8074b94883a6c1b8a166c2a7df299f98e4bec2"
+    },
+    {
+      "path": "research/glossary/query-fan-out/index.html",
+      "title": "What does query fan-out mean?",
+      "canonical": "https://docs.broadcastwell.com/research/glossary/query-fan-out/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "5d07c04d875597b5c9573e8f3c73a3e0a98290d312ea00c22e490a8f7b4d3d76"
+    },
+    {
+      "path": "research/glossary/seo-aeo-geo/index.html",
+      "title": "How do SEO, AEO and GEO differ?",
+      "canonical": "https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "2d58bf4ca5ecab56f7577754a532760d3cbc032eeeb7a59c36ef103e4f4ca884"
+    },
+    {
+      "path": "research/glossary/share-of-model/index.html",
+      "title": "What does Share of Model measure?",
+      "canonical": "https://docs.broadcastwell.com/research/glossary/share-of-model/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "f6fd33fc5163b4ab23526eda373eb67fcde953ef6a410c4fda0ed2c7f613aa9f"
+    },
+    {
+      "path": "research/glossary/zero-click-visibility/index.html",
+      "title": "What is zero-click visibility?",
+      "canonical": "https://docs.broadcastwell.com/research/glossary/zero-click-visibility/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "8f4b29f260ced2dde9199013e7f4e317f0277de43f8c59f90cfc21ea53bc3fe9"
+    },
+    {
+      "path": "research/index.html",
+      "title": "What the research says about search and AI answers",
+      "canonical": "https://docs.broadcastwell.com/research/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "fdc895d60510eecfb728e893c470ff502353ee277ddf7e2a64c8717c15f3cddd"
+    },
+    {
+      "path": "research/insights/engines-change-without-telling-you/index.html",
+      "title": "Search ordering needs a date and a configuration",
+      "canonical": "https://docs.broadcastwell.com/research/insights/engines-change-without-telling-you/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "9bec4785351b5eee20116c1042c410b2c66c146250f4a8b62e517a01b7d0c240"
+    },
+    {
+      "path": "research/insights/google-asks-for-original-research/index.html",
+      "title": "Google itself asks for original research",
+      "canonical": "https://docs.broadcastwell.com/research/insights/google-asks-for-original-research/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "a6db304acdc1021ba76dd764464d50714125532cca8b731d82ac2f01cd96b9cc"
+    },
+    {
+      "path": "research/insights/index-against-the-literature/index.html",
+      "title": "What the Absence Index can compare with the literature",
+      "canonical": "https://docs.broadcastwell.com/research/insights/index-against-the-literature/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "1d2cdbd60982f24b63cc908eb1c35130d9773416434d167e7b6737bb468b45ae"
+    },
+    {
+      "path": "research/insights/nearly-every-google-result-is-optimized/index.html",
+      "title": "Optimization signals are common in captured AI-cited pages",
+      "canonical": "https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "2bbfbcdc12c6de2d4474d4f486979d759b75e74d856e8eaa2d585e419f1e211e"
+    },
+    {
+      "path": "research/insights/no-ranking-recipe/index.html",
+      "title": "Why nobody can give you a ranking recipe",
+      "canonical": "https://docs.broadcastwell.com/research/insights/no-ranking-recipe/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "9124927b4c38c8a58f757e7a439f8d8922f1a1a1e69dd995aaabea181833d420"
+    },
+    {
+      "path": "research/insights/one-channel-is-a-risk/index.html",
+      "title": "Concentrated visibility is a reason to inspect the denominator",
+      "canonical": "https://docs.broadcastwell.com/research/insights/one-channel-is-a-risk/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "946e2da1de924de88610b1f4793e9cab588dc3d1395ca1b3590c276195db39e6"
+    },
+    {
+      "path": "research/insights/one-rank-number-is-a-fiction/index.html",
+      "title": "One rank number was already a fiction in 2009",
+      "canonical": "https://docs.broadcastwell.com/research/insights/one-rank-number-is-a-fiction/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "eeb654c2fea3cfe37f474912a6c7f2b810137f5bc87b31568e14afff692b5012"
+    },
+    {
+      "path": "research/insights/review-platforms-as-the-objective-source/index.html",
+      "title": "Review-platform citations do not establish objective reviews",
+      "canonical": "https://docs.broadcastwell.com/research/insights/review-platforms-as-the-objective-source/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "993e84ce299f52d185c888c1cfcabff871a34c0c10c6a59fa163006c288c1339"
+    },
+    {
+      "path": "research/insights/state-of-geo-research-2026/index.html",
+      "title": "GEO papers ask different questions about visibility",
+      "canonical": "https://docs.broadcastwell.com/research/insights/state-of-geo-research-2026/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "8d6a39022b89c65f64e31e5ccb2265a3c94134392215a91ee966194dc600c2f0"
+    },
+    {
+      "path": "research/insights/strong-brands-weak-visibility/index.html",
+      "title": "Familiar brands can have low measured presence",
+      "canonical": "https://docs.broadcastwell.com/research/insights/strong-brands-weak-visibility/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "f5fbb48a6778beeca2aaaed4bb7771aaf85bb2cbc2b8da9b18222e94989050ad"
+    },
+    {
+      "path": "research/insights/who-the-engines-trust/index.html",
+      "title": "A citation is an observed source choice, not a trust score",
+      "canonical": "https://docs.broadcastwell.com/research/insights/who-the-engines-trust/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "a2a5b22a2fdc05382a6ae8a05f7ba1960f5144f8fac7c09d0564576154621d40"
+    },
+    {
+      "path": "research/playbooks/llms-txt/index.html",
+      "title": "What is llms.txt, and what can it actually do?",
+      "canonical": "https://docs.broadcastwell.com/research/playbooks/llms-txt/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "a1cc5a3983fb08f217a882efdae8467cc36e2130e64908661981e78c03198aba"
+    },
+    {
+      "path": "research/playbooks/pages-an-ai-engine-can-quote/index.html",
+      "title": "How do you write a page an AI engine can quote?",
+      "canonical": "https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "2058b95fdd5b136d74467e74a0e8f904d75a1ff4adea8a8b8025730afdb557d5"
+    },
+    {
+      "path": "research/playbooks/question-led-content/index.html",
+      "title": "How do you choose a buyer question worth answering?",
+      "canonical": "https://docs.broadcastwell.com/research/playbooks/question-led-content/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "6b1f3c6ef9b4e47cfdd2705c8302c23d11ef6d4753e0b86314e243bb6bf555fd"
+    },
+    {
+      "path": "research/playbooks/research-into-google-scholar/index.html",
+      "title": "How can research become discoverable in Scholar and Dataset Search?",
+      "canonical": "https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "9ceaad575d560bb75c434c0a21fdbc477a7b7712e89be9d6b311840c33fc8573"
+    },
+    {
+      "path": "research/playbooks/review-platforms-for-b2b-software/index.html",
+      "title": "How should a software vendor use review platforms responsibly?",
+      "canonical": "https://docs.broadcastwell.com/research/playbooks/review-platforms-for-b2b-software/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "972c4409041909f7fed75a7ffe2b90ba9bab00eb0cbc99b6709028ec74e9c2dd"
+    },
+    {
+      "path": "research/playbooks/site-structure-basics/index.html",
+      "title": "Which site-structure basics still matter?",
+      "canonical": "https://docs.broadcastwell.com/research/playbooks/site-structure-basics/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "caca3d7dd298b33a3fcd9d980ac6b551092271e32abd6c2d6b8d537230ff5b95"
+    },
+    {
+      "path": "research/playbooks/structured-data-for-b2b-software/index.html",
+      "title": "Which structured data belongs on a B2B software site?",
+      "canonical": "https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "d08cca846f219459c9f72a3600402a88bca14f89212f457a80bba258486a0bfe"
+    },
+    {
+      "path": "research/playbooks/syndicating-without-losing-the-original/index.html",
+      "title": "How do you syndicate research while keeping a clear original?",
+      "canonical": "https://docs.broadcastwell.com/research/playbooks/syndicating-without-losing-the-original/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "d2ef56ffcb2909276e04fca5b65b20317e21c546166fd8f3296d3b361bf66c81"
+    },
+    {
+      "path": "research/playbooks/which-ai-crawlers-visit-your-site/index.html",
+      "title": "How can you see which AI crawlers visit your site?",
+      "canonical": "https://docs.broadcastwell.com/research/playbooks/which-ai-crawlers-visit-your-site/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "bc0c311fbf6ebcb65ae0a6201031ade8198ad4a5516c0fe4e707eab47bed233d"
+    },
+    {
+      "path": "research/playbooks/wikidata-for-companies/index.html",
+      "title": "What belongs in a company’s Wikidata item?",
+      "canonical": "https://docs.broadcastwell.com/research/playbooks/wikidata-for-companies/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "5af98c58db925dbfe09870a0c2723cbabf2a82dba239b131d2a229269ea00a98"
+    },
+    {
+      "path": "research/sources/bataineh-2025/index.html",
+      "title": "Bataineh and colleagues measure perceptions of university websites",
+      "canonical": "https://docs.broadcastwell.com/research/sources/bataineh-2025/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "e7208e5e05f62ebc0d64ae13ed3db333ead7179be86903c977ef370f7e1a1e67"
+    },
+    {
+      "path": "research/sources/giannakoulopoulos-2019/index.html",
+      "title": "The university study compares academic standing with constructed website scores",
+      "canonical": "https://docs.broadcastwell.com/research/sources/giannakoulopoulos-2019/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "eed207c75c6d6678b319c6fd1042eb3f7aa7a158b0d58fd3763af3b419f1fc6d"
+    },
+    {
+      "path": "research/sources/giomelakis-2019/index.html",
+      "title": "Four newsrooms used SEO without a dedicated specialist position",
+      "canonical": "https://docs.broadcastwell.com/research/sources/giomelakis-2019/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "695111207b264b28d33b23e1a4bca0a3c730f8511b60fc5dbf697abd371f6b75"
+    },
+    {
+      "path": "research/sources/google-seo-starter-guide-2010/index.html",
+      "title": "Read Google’s 2010 guide for principles, then check the current instructions",
+      "canonical": "https://docs.broadcastwell.com/research/sources/google-seo-starter-guide-2010/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "8d6b9e83340b17ebc177a32018b794609ceca177eaccebe589f278f35042e2ee"
+    },
+    {
+      "path": "research/sources/karyotakis-2019/index.html",
+      "title": "Commenting features are not evidence of a ranking gain",
+      "canonical": "https://docs.broadcastwell.com/research/sources/karyotakis-2019/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "b24528cfa29b7f4467465ed1337eb1f2f5fee206027bb7b3502e616dae5537b2"
+    },
+    {
+      "path": "research/sources/lewandowski-2021/index.html",
+      "title": "Lewandowski, Sünkler and Yagci: detecting optimization in Google results",
+      "canonical": "https://docs.broadcastwell.com/research/sources/lewandowski-2021/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "a5ad03486b4bb2600a7ae667210934272f54c7cb436b87d24206c86c921104f2"
+    },
+    {
+      "path": "research/sources/reading-list/index.html",
+      "title": "A reading list for B2B marketers: which pages deserve your time?",
+      "canonical": "https://docs.broadcastwell.com/research/sources/reading-list/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "933d6903e321c256a25e911e5deb284ead9e81bba90ac2cc227a71eeaf94440c"
+    },
+    {
+      "path": "research/sources/rovira-2019/index.html",
+      "title": "Rovira and colleagues: citations, search restrictions and a spreadsheet discrepancy",
+      "canonical": "https://docs.broadcastwell.com/research/sources/rovira-2019/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "05edecef7a19cb1bc24d7e1c59d22704a863f6117e944987464f002e38dd0a8c"
+    },
+    {
+      "path": "research/sources/seo-bible-2009/index.html",
+      "title": "Search was already an answer-seeking habit in the 2009 SEO Bible",
+      "canonical": "https://docs.broadcastwell.com/research/sources/seo-bible-2009/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "2ab3552f2a55b08b7cc4c637e8eb62d4fbbc32b8fa1ed2d8a5ad1ba80b6ab4da"
+    },
+    {
+      "path": "research/sources/ziakis-2019/index.html",
+      "title": "A small Google study does not give you a ranking recipe",
+      "canonical": "https://docs.broadcastwell.com/research/sources/ziakis-2019/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "3babb7ee56cb6840cbdb936e9354c6bee373d7a681229ce62b3ccc4a74529322"
+    },
+    {
+      "path": "research/sources/ziakis-vlachopoulou-2024/index.html",
+      "title": "A four-part SEO taxonomy is a map of topics, not a test of results",
+      "canonical": "https://docs.broadcastwell.com/research/sources/ziakis-vlachopoulou-2024/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "de36f36d2da93d79886ad9cc4571a7b1684b8420f57301c94c25591a6ad3d685"
+    },
+    {
+      "path": "research/standard/index.html",
+      "title": "The Broadcastwell evidence standard",
+      "canonical": "https://docs.broadcastwell.com/research/standard/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "1fa9e8d308aed4d0cacf9c68c91eed32bac2933f0bace5c3e46699265ba2c772"
+    },
+    {
+      "path": "research/studies/ai-crawler-log/index.html",
+      "title": "The AI crawler log begins with a short observation window",
+      "canonical": "https://docs.broadcastwell.com/research/studies/ai-crawler-log/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "173ecdd0f29fe5c2f4e80e2b4ef9f04d9863dfe2daa8114c202af3fda9e2e246"
+    },
+    {
+      "path": "research/studies/does-absence-persist/index.html",
+      "title": "Does low presence persist? The registered study is waiting for comparable releases",
+      "canonical": "https://docs.broadcastwell.com/research/studies/does-absence-persist/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "5f53666bb1ff189dca390c24c24cd620db64583aebf689862dce0b6e1ff21802"
+    },
+    {
+      "path": "research/studies/evidence-refresh-field-test/index.html",
+      "title": "Evidence, editorial refresh and citations: registered field test",
+      "canonical": "https://docs.broadcastwell.com/research/studies/evidence-refresh-field-test/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "ee6adcbd081f8c550196b3603974a61f320acd347a1059c4cf148d1b10f44363"
+    },
+    {
+      "path": "research/studies/optimized-pages-in-ai-answers/index.html",
+      "title": "Which optimization signals appear on AI-cited pages?",
+      "canonical": "https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "e2f6f72c3582379d069ec5ead6bf25e77ca18dfae6317bb00fdb2c822a63350f"
+    },
+    {
+      "path": "research/studies/who-ai-engines-cite/index.html",
+      "title": "Who appears in the sources of B2B software answers?",
+      "canonical": "https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/",
+      "date_modified": "2026-11-04T15:17:51Z",
+      "sha256": "e54f8e9925f2e8948459263a2fbed724f283f6c87467fb4c5bc96c150e70d1e7"
+    }
+  ],
+  "fresh_Manual_build": "PENDING actual Linux CI, not performed in Windows; two existing Manual outputs must remain byte-exact",
+  "release_pass": false
+}

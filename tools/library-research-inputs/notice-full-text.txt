@@ -1,0 +1,28 @@
+BROADCASTWELL / RESEARCH
+Observed answers on stated dates, not a ranking.
+Dated interpretation correction | CC BY 4.0 | Not peer reviewed
+1
+Dated interpretation correction
+AI search visibility: source evidence and two registered analyses
+November 3, 2026 (UTC). This notice corrects our interpretation of the historical record. It leaves the published
+scientific archive intact.
+GEO literature correction
+We withdraw the earlier quotable-numbers row's “different presentation precision” interpretation as an adopted
+conclusion. The old row remains in the unverified-numbers ledger as a historical statement under review.
+GEO experiment: Aggarwal et al. (KDD 2024) headline a gain of up to 40% in a position-adjusted word-count
+visibility metric. Treat it as fragile: the ICLR 2024 draft reported 37%, the paper's own five-seed rerun (appendix
+Table 6) gives 36.9%, and on Perplexity adding citations cut the judged score by 23% (19.0 vs 24.7) while keyword
+stuffing raised it 14%. It is not a citation, traffic or conversion gain.
+We have not recovered the exact ICLR submission for an independent check of the reported 37% headline. That
+version comparison remains a reported historical claim, not a newly verified result. The percentages concern the
+cited paper's specified metrics and experiments; they are not new Broadcastwell measurements.
+Scope of the related association
+The nonsignificant association is limited to the 85 observed company sweeps. It does not establish that a most
+named company cannot affect a challenger. The original coefficient, p-value, base and DOI
+10.5281/zenodo.21586091 remain unchanged.
+Canonical report and contact
+Canonical report and its 53 original CSV files: 10.5281/zenodo.23804758. The original 80-page PDF, data files and
+DOI version remain unchanged. The dated authorship notice remains a separate record. We have made no new
+answer measurement.
+For academic data access or a Claim Registry correction, email research@broadcastwell.com.
+Broadcastwell research team. CC BY 4.0. Not peer reviewed.

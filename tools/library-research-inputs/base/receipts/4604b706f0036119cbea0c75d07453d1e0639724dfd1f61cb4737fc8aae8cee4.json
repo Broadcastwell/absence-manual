@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence.md",
+  "before_effective_canonical_sha256": "43b79ec64bc133d28503b1df626f9e7837647a61051e573132840170a0e8781d",
+  "raw_canonical_source_sha256": "1b2ec8a98d5d1b437d0d3fdd5e55c25aac1b9d2136ab13da38df374dec740413",
+  "after_effective_canonical_sha256": "cb0ef6ad2b75785044ad973db241e8ca6fa6980be4d370bff20b3f97ed1fc42c",
+  "fact_ledger_sha256": "3d77cb0d2df45b4728e874064d43a074cb5da1f789c4c3cd54e5b00c614d347d",
+  "effective_payload_sha256": "ac906f241d0e3f617512cbff5e0d17ce39a80de0b79cbf8ce1c99a44f3ef251d"
+}

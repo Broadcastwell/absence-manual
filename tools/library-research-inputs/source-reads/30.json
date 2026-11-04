@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "1865811947dc4e9d5ec859d5b4b03f5462c808600217750ad4bd5d79403fdb2d",
+  "after_canonical_source_sha256": "7f6709ceaae456ca62a83b1287ce4fc677cc764dd04185c55b0aacc139c436ff",
+  "after_metadata_sha256": "5ac2a4c04dc917d5ccd93b460f56f92a94c7be178b8e0db6f1a1174af68db522",
+  "approved": true,
+  "before_canonical_source_sha256": "b65aae1f9b8cb511a665279cffc457a1463d4102b5e634269127790a6650a536",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "7f6709ceaae456ca62a83b1287ce4fc677cc764dd04185c55b0aacc139c436ff",
+  "path": "docs/research/playbooks/research-into-google-scholar/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

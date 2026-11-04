@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "e250f67240e05579733d57cb696e51774ded0bad361a791f0f758519d140d609",
+  "after_canonical_source_sha256": "4e1d8a9a77ec23c9b194abe1f3135345ff22e3886fd39e7158c315ee14081d62",
+  "after_metadata_sha256": "703e69bb5f6a6ddda7e193770b8dcb7ba8846ff62b8fa7e6f23003cf72cd3646",
+  "approved": true,
+  "before_canonical_source_sha256": "1948c47971c697b877f1ad863105a824b5902a86d3f5f99443a93b4469f303c7",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "4e1d8a9a77ec23c9b194abe1f3135345ff22e3886fd39e7158c315ee14081d62",
+  "path": "docs/research/sources/karyotakis-2019/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

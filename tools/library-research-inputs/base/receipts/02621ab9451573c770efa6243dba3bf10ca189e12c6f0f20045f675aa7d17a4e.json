@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/industries/why-is-my-dental-software-missing-from-ai-answers.md",
+  "bank_id": "LB-Q0561",
+  "canonical_source_sha256": "892c12f7b2c6f1bc8fecf62cfbeb13d79ba44b94160ff7a214225eaeee5ca023",
+  "effective_canonical_source_sha256": "d14f158f783a77e30047f27ab73678e612f41f52399a0b46362310aac36dc762",
+  "effective_body_sha256": "119df40ddf752aeb5fa219d7cb5b0045e2b4763e4b1237121d136c94053858f2",
+  "effective_metadata_sha256": "80c6bf8d12fb459b44ed84fa6e57d9e0c598eb46c041636cdb3f3a50a570f38a",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\manuscripts\\answers\\industries\\why-is-my-dental-software-missing-from-ai-answers.md",
+    "raw_sha256": "78c6f33ddf26e6c8eb93723b89f45e9b9bf49ceba23cded63070b9f73f15035d",
+    "canonical_LF_sha256": "d14f158f783a77e30047f27ab73678e612f41f52399a0b46362310aac36dc762"
+  },
+  "reviewed_utc": "2026-11-03T19:43:31.660728+00:00",
+  "full_read_basis": "The same three exact current Root-dated full articles were displayed and fully read in V1. V2 uses the owning finite.source_body definition for body hashes,with the same full scientific Source chain and bounded navigation/link-label/description/date proofs. No second full read or scientific recount is claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_S5_1919_ROOT_THREE_V2\\coverage\\LB-Q0561.source-current-coverage.json",
+    "raw_sha256": "6c2897f4344a4aa964637dcb04bec61e5106499463e0f4de061ea584c8f878ee",
+    "canonical_LF_sha256": "6c2897f4344a4aa964637dcb04bec61e5106499463e0f4de061ea584c8f878ee"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\ROOT_PRIVATE_ADOPTION.json",
+      "raw_sha256": "c4838a1581ac9627db5f9b4a9bf87336a98b3cf1c8bffac466e81427da3f419d",
+      "canonical_LF_sha256": "93560800d865d9f60da541bc061a63e9cdff87eb6b74405111b739b3946318b2"
+    },
+    "date_modified": "2026-11-03T19:38:19+00:00",
+    "scope": "Actual private adoption only;not a capture date or public-deployment assertion."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "historical_source_anchor_unchanged": true,
+  "prior_full_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_DESTINATION_TWO_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0561.source.json",
+    "raw_sha256": "66ec766abdbc45cd94b587cdce56a3e9640488a23142047eda9f3a18de036da3",
+    "canonical_LF_sha256": "66ec766abdbc45cd94b587cdce56a3e9640488a23142047eda9f3a18de036da3"
+  },
+  "new_S5_full_reads_claimed": 0,
+  "same_exact_three_full_reads_carried_from_V1": true,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false
+}

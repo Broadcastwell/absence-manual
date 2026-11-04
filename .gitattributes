@@ -19,3 +19,8 @@ docs/research/data/field-test-interventions.json -text
 
 # Exact finite inherited-method fixture bytes.
 /tests/fixtures/owner-null-method/** -text
+
+# Research approval and portable input hashes identify exact reviewed bytes.
+/tools/library-research-inputs/** -text
+/tools/library-research-support.json -text
+/tools/library-research-support.sha256 -text

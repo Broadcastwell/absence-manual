@@ -1,0 +1,52 @@
+{
+  "review_kind": "writing",
+  "scope": "owner-exact-repair-changes",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "path": "assets/manual.css",
+  "private_source_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V3\\manuscripts\\docs\\assets\\manual.css",
+  "canonical_source_sha256": "7938a2ed926a002b3e47e7d62a6ba39b206e9fdf562d608aa239ee9f86d09e54",
+  "before_effective_canonical_source_sha256": "7938a2ed926a002b3e47e7d62a6ba39b206e9fdf562d608aa239ee9f86d09e54",
+  "effective_canonical_source_sha256": "5d9175553b2612640bc964a05844cb217fdfa328be23fd5c3dd4bae12aacc825",
+  "effective_body_sha256": null,
+  "effective_meta_sha256": null,
+  "raw_after_sha256": "5d9175553b2612640bc964a05844cb217fdfa328be23fd5c3dd4bae12aacc825",
+  "actual_Root_adoption_date_modified": null,
+  "approved": true,
+  "approved_exact_repair_changes": true,
+  "owner_requested_literal_changes_match": true,
+  "current_full_file_actually_read": false,
+  "full_article_read_complete": false,
+  "read_coverage": {
+    "kind": "changed CSS comment and adjacent declarations; full declaration identity checked",
+    "tool_output_chunk": "153b29",
+    "lines_read": null,
+    "read_completion_recorded_utc": "2026-11-03T17:43:19.690362+00:00",
+    "visual_read_claim": false,
+    "V3_identity_carry_from_actual_V2_read": true,
+    "new_full_V3_reread_claimed": false
+  },
+  "preserved_facts": true,
+  "independent_exact_inverse_verified": true,
+  "repair_change_ledger_sha256": "9298b24c2370a894756312e7cbde67819e8cd275e0df27481a2e59ba871fd293",
+  "repair_change_ledger": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V3_FINAL_SCOPED_WRITING_V1\\change-ledgers\\docs__assets__manual.css.json",
+    "sha256": "9298b24c2370a894756312e7cbde67819e8cd275e0df27481a2e59ba871fd293"
+  },
+  "full_context_judgment": "Read the complete changed comment and its displayed declaration context. Exact inverse and comment-stripped comparison prove no CSS declaration changes. No whole-file visual or live-before approval is claimed.",
+  "required_current_followups": [],
+  "remaining_prior_S5_defects": [],
+  "current_S5_pass": null,
+  "ordinary_full_effective_article_S5_approval": false,
+  "Root_build_publication_live_approval": false,
+  "frozen_article_or_asset_edited": false,
+  "CSS_live_source_before_required": true,
+  "Root_adoption_manifest": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V3\\ROOT_ADOPTION.json",
+    "sha256": "e21bb88f4b7e92ea5415a57d598dd880171ab912e1e6fb1a27b8b9c183df30bd"
+  },
+  "prior_V2_actual_read_and_scope_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V2_FULL_CONTEXT_WRITING_V1\\receipts\\docs__assets__manual.css.json",
+    "sha256": "5b49e9556fcda8cb4b12afdc35d30eb64ae3b8b556186aca4ebd093948a6a145"
+  },
+  "review_created_utc": "2026-11-03T17:53:49.863819+00:00"
+}

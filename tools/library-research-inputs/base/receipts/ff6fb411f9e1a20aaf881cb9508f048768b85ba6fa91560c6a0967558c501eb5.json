@@ -1,0 +1,31 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/geo-basics/how-do-getmint-and-otterly-compare-for-transactional-geo-in-the-united.md",
+  "target_path": "answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "7e6119d827fa9b004eb7411c26748422c8b3651f2822b5e6e5ceceea3ac904a3",
+  "target_effective_canonical_sha256": "03b579972a63ed275d498bb07a36884cf0fd707a71778410e340eb4356ae58d6",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0043.p01.s01",
+    "LB-Q0043.p01.s02",
+    "LB-Q0043.p01.s03",
+    "LB-Q0043.p02.s01",
+    "LB-Q0043.p02.s02",
+    "LB-Q0043.p03.s01",
+    "LB-Q0043.p03.s02",
+    "LB-Q0043.p03.s03",
+    "LB-Q0043.additional.01"
+  ],
+  "preserved_fact_bindings_sha256": "8f46134b7b6bd0003099c2a3309297b9e7edd5f0d6af8f2a2c21a7c60812188e",
+  "required_aliases": [
+    "How do GetMint and Otterly compare for transactional GEO in the United States?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "87570a1245cb854d2a7dc5e75535b4458aa8eab3763678ee3df2a349f43c659a",
+  "scope": "Root finite source-fit decision for this exact donor/target/234-binding map, following actual donor-preservation review, exact current target Source/Writing approval and Root literal target changes. Historical aliases, dates, samples, zero states, quotations and limitations retained. Only explicit previously Root-approved own-promotion omissions and 0093 spelling lineage apply. Static canonical HTML200 page and target link only; no301 claim or DNS/hosting change. Build-input approval; actual served stub/target proof remains required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00",
+  "Source_preservation_receipt_sha256": "351a6633f143126c6654caa6c9d902ad3aead85e9f5d53ba07caa35e362830a7",
+  "Source_complete234_report_sha256": "8a19fd41f345b7e7042237c6d7e6a3d5bf3446a2809f85ac7ba130bb8db2621c"
+}
