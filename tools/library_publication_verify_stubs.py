@@ -69,8 +69,18 @@ def _logical_inputs(value):
 def reviewed_stub_pages(root,site,environment=None):
     """No inputs means no exception; a partial/invalid active input fails."""
     env=os.environ if environment is None else environment
-    require(not any(k in env for k in ['BW_OWNER_REPAIR_INPUTS','BW_OWNER_REPAIR_INPUTS_SHA256']),
-            'Owner repair final-stub dispatch is not installed; unknown or mixed mode is forbidden')
+    research_keys={k for k in env if k.startswith('BW_RESEARCH_RELEASE_')}
+    if research_keys:
+        require(research_keys=={'BW_RESEARCH_RELEASE_INPUTS','BW_RESEARCH_RELEASE_INPUTS_SHA256'}
+            and not any(k.startswith(('BW_LIBRARY_PUBLICATION_','BW_OWNER_REPAIR_')) for k in env),
+            'Research final-stub dispatch: unknown, partial or mixed mode')
+        return _reviewed_research_stub_pages(root,site,env)
+    owner_keys={k for k in env if k.startswith('BW_OWNER_REPAIR_')}
+    if owner_keys:
+        require(owner_keys=={'BW_OWNER_REPAIR_INPUTS','BW_OWNER_REPAIR_INPUTS_SHA256'}
+            and not any(k in env for k in ['BW_LIBRARY_PUBLICATION_INPUTS','BW_LIBRARY_PUBLICATION_INPUTS_SHA256']),
+            'Owner repair final-stub dispatch: unknown, partial or mixed mode')
+        return _reviewed_owner_stub_pages(root,site,env)
     path=env.get('BW_LIBRARY_PUBLICATION_INPUTS');pin=env.get('BW_LIBRARY_PUBLICATION_INPUTS_SHA256')
     if not path and not pin:return {}
     require(path and re.fullmatch('[0-9a-f]{64}',str(pin)),
@@ -88,4 +98,47 @@ def reviewed_stub_pages(root,site,environment=None):
     with tempfile.TemporaryDirectory(prefix='bw-final-stub-proof-') as work:
         session=BuildSession.load(root/'docs',path,pin,work)
         try:return validate_stub_artifacts(session.overlay,site)
+        finally:session.archive.close()
+
+
+def _reviewed_owner_stub_pages(root,site,environment):
+    """Explicit Owner dispatch; every ordinary article still runs normal checks."""
+    root=Path(root);path=environment['BW_OWNER_REPAIR_INPUTS'];pin=environment['BW_OWNER_REPAIR_INPUTS_SHA256']
+    require(path and re.fullmatch('[0-9a-f]{64}',str(pin)),'Exact Owner inputs missing')
+    from library_owner_repair import POLICY as OWNER_POLICY
+    from library_owner_repair_build import OwnerRepairBuildSession,bound_file
+    blue_path=root/'tools/library-owner-repair/release.json'
+    blue=json.loads(blue_path.read_text(encoding='utf-8'))
+    require(blue.get('schema_version')==1 and blue.get('policy')==OWNER_POLICY
+        and blue.get('approved') is True and blue.get('review_kind')=='root-exact-owner-repair-inputs',
+        'Committed Root Owner blueprint missing')
+    ref=blue.get('owner_inputs',{})
+    require(ref.get('sha256')==pin and blue.get('files',{}).get(ref.get('path'))==pin,
+        'Owner staged/committed input hash differs')
+    committed=bound_file(blue_path.parent,ref)[1]
+    require(Path(path).is_file() and Path(path).read_bytes()==committed,'Staged Owner input bytes differ')
+    for rel,file_pin in blue['files'].items():bound_file(blue_path.parent,{'path':rel,'sha256':file_pin})
+    with tempfile.TemporaryDirectory(prefix='bw-owner-final-stub-proof-') as work:
+        session=OwnerRepairBuildSession.load(root/'docs',path,pin,work)
+        try:
+            session.check_repair()
+            from library_owner_repair_post_s5 import validate_inherited_closure
+            files={p.relative_to(Path(site)).as_posix():p.read_bytes() for p in Path(site).rglob('*') if p.is_file()}
+            validate_inherited_closure(session.overlay,session.post_s5_binding,files)
+            return validate_stub_artifacts(session.overlay,site)
+        finally:session.archive.close()
+
+
+def _reviewed_research_stub_pages(root,site,environment):
+    """Actual approved Research source plan; original19 decisions stay owning."""
+    from library_research_build import ResearchBuildSession
+    path=environment['BW_RESEARCH_RELEASE_INPUTS'];pin=environment['BW_RESEARCH_RELEASE_INPUTS_SHA256']
+    require(path and re.fullmatch('[0-9a-f]{64}',str(pin)),'Exact Research staged inputs missing')
+    with tempfile.TemporaryDirectory(prefix='bw-Research-final-stub-proof-') as work:
+        session=ResearchBuildSession.load(Path(root)/'docs',path,pin,work)
+        try:
+            proof=validate_stub_artifacts(session.overlay,site)
+            require(len(proof)==19 and set(proof)==set(session.base.prior['merged_sources']),
+                'Research final guard lost exact19 inherited decisions')
+            return proof
         finally:session.archive.close()

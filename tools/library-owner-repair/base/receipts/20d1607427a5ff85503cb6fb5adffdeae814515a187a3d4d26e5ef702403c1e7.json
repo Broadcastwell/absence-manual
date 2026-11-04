@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md",
+  "bank_id": "LB-Q0041",
+  "canonical_source_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0",
+  "effective_canonical_source_sha256": "464b904d38c6e3455ee084eed866f43ac26af0907a7d35ad427600193174d68f",
+  "effective_body_sha256": "1ac113a4c1e01ed78410fb9711e60be38f96df171264bbacb2c0da7c19d8682c",
+  "effective_metadata_sha256": "0c8611a78b3c61713c3294dceb5f929b9d5829ad56bbd6ae14f7b9ee73a5e646",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\buying\\how-does-omniscient-digital-compare-as-a-geo-agency.md",
+    "raw_sha256": "464b904d38c6e3455ee084eed866f43ac26af0907a7d35ad427600193174d68f",
+    "canonical_LF_sha256": "464b904d38c6e3455ee084eed866f43ac26af0907a7d35ad427600193174d68f"
+  },
+  "reviewed_utc": "2026-11-03T10:38:44.186118+00:00",
+  "full_read_basis": "Actual complete source article read plus exact reviewed bounded/fullfuture continuations; current metadata is verified Rootactualdate-only replay. No new single-pass262reread claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\coverage\\LB-Q0041.source-coverage.json",
+    "raw_sha256": "e2157e89b6158e2c41e3c562dbc31db73e82a0e5a426192b6b4b5e8aa06c1098",
+    "canonical_LF_sha256": "e2157e89b6158e2c41e3c562dbc31db73e82a0e5a426192b6b4b5e8aa06c1098"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00",
+    "scope": "Rootprovided actualprivateadoption, not publicpublication or measuredsourcecapture date."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false
+}

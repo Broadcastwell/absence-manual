@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include.md",
+  "before_effective_canonical_sha256": "928f5827f5f0a7966b283e51ac834b24106d87aabf57b5589a7f66ed94029433",
+  "raw_canonical_source_sha256": "bd718a7d7cd0caf6ad252b9414f49a5c68e8589d2579e772dffdd402d70ab3b3",
+  "after_effective_canonical_sha256": "2eb211a82bedcbe81d041a77e0f21db1ffad319e55846756cf8870d4966cfd23",
+  "fact_ledger_sha256": "342930d87381c31786afb83be80225f724cf88c413ac320746edc5a11d5920eb",
+  "effective_payload_sha256": "c19f11e20fba46efa766c9dc99792352ed7b0c7a96c0109b0cb74ae4282044b5",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

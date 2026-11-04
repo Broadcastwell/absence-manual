@@ -259,7 +259,7 @@ def generate_effective_llms(registry,*,original,hub_metadata,source_generator):
     return result
 
 
-def _sitemap_rows(raw):
+def _sitemap_rows(raw,research_support=None):
     require(b'<!DOCTYPE' not in raw and b'<!ENTITY' not in raw,'Sitemap must not contain a DTD/entity declaration')
     root=ET.fromstring(raw);require(root.tag=='{'+SITEMAP_NS+'}urlset','Unexpected sitemap root/namespace')
     fragments=list(URL_FRAGMENT.finditer(raw));children=list(root)
@@ -270,12 +270,15 @@ def _sitemap_rows(raw):
         loc=child.find('{'+SITEMAP_NS+'}loc');lastmod=child.find('{'+SITEMAP_NS+'}lastmod')
         require(loc is not None and loc.text and loc.text not in seen,'Missing/duplicate sitemap location')
         require(urlsplit(loc.text).netloc=='docs.broadcastwell.com','Unexpected sitemap host')
-        require(lastmod is not None and lastmod.text,'Sitemap lastmod is missing')
-        seen.add(loc.text);result.append({'url':loc.text,'lastmod':lastmod.text,'raw':m.group(),'start':m.start(),'end':m.end()})
+        if lastmod is None:
+            from library_research_support import allow_no_lastmod
+            allow_no_lastmod(research_support,loc.text,m.group())
+        else:require(lastmod.text,'Sitemap lastmod is missing')
+        seen.add(loc.text);result.append({'url':loc.text,'lastmod':lastmod.text if lastmod is not None else None,'raw':m.group(),'start':m.start(),'end':m.end()})
     return result
 
 
-def generate_effective_sitemaps(registry,*,prior_xml,hub_metadata,merged_sources=(),field_freeze=None,publication_dates=None):
+def generate_effective_sitemaps(registry,*,prior_xml,hub_metadata,merged_sources=(),field_freeze=None,publication_dates=None,research_support=None):
     """Keep every nonlibrary URL element byte exact; use approved effective dates."""
     registry.assert_current()
     require(hub_metadata=={p:r['meta'] for p,r in registry.hubs.items()} and hub_metadata,'Sitemap did not consume the actual effective hub metadata')
@@ -283,8 +286,10 @@ def generate_effective_sitemaps(registry,*,prior_xml,hub_metadata,merged_sources
     for path,meta in hub_metadata.items():
         require(LIBRARY_HUB.fullmatch(path),'Unexpected sitemap hub')
         desired[SITE+'/'+path.removesuffix('index.md')]=meta['date_modified']
+    from library_publication_sitemap_dates import _stamp
     for url,stamp in list(desired.items()):
-        require(isinstance(stamp,str) and re.fullmatch(r'\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:Z|[+-]\d{2}:\d{2})',stamp),'Sitemap requires exact approved ISO date_modified')
+        require(isinstance(stamp,str) and re.fullmatch(r'\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})',stamp),'Sitemap requires exact approved ISO date_modified')
+        _stamp(stamp)
         desired[url]=stamp[:10]
     if publication_dates is not None:
         from library_publication_sitemap_dates import BoundPublicationDates
@@ -294,7 +299,7 @@ def generate_effective_sitemaps(registry,*,prior_xml,hub_metadata,merged_sources
         field_freeze.check_sitemap(prior_xml)
         require(set(field_freeze.sitemap_dates())<=set(desired),'A frozen sitemap leaf was removed')
         desired.update(field_freeze.sitemap_dates())
-    rows=_sitemap_rows(prior_xml);result=prior_xml;seen=set();merged={SITE+route_for(path) for path in merged_sources}
+    rows=_sitemap_rows(prior_xml,research_support);result=prior_xml;seen=set();merged={SITE+route_for(path) for path in merged_sources}
     for row in reversed(rows):
         if not urlsplit(row['url']).path.startswith('/answers/'):continue
         if row['url'] in merged:
@@ -307,7 +312,7 @@ def generate_effective_sitemaps(registry,*,prior_xml,hub_metadata,merged_sources
         additions.append(('    <url>\n         <loc>'+escape(url,quote=False)+'</loc>\n         <lastmod>'+desired[url]+'</lastmod>\n    </url>\n').encode())
     require(result.count(b'</urlset>')==1,'Sitemap closing boundary differs')
     if additions:result=result.replace(b'</urlset>',b''.join(additions)+b'</urlset>',1)
-    validate_effective_sitemap(registry,prior_xml=prior_xml,candidate_xml=result,hub_metadata=hub_metadata,merged_sources=merged_sources,field_freeze=field_freeze,publication_dates=publication_dates)
+    validate_effective_sitemap(registry,prior_xml=prior_xml,candidate_xml=result,hub_metadata=hub_metadata,merged_sources=merged_sources,field_freeze=field_freeze,publication_dates=publication_dates,research_support=research_support)
     buffer=io.BytesIO()
     with gzip.GzipFile(fileobj=buffer,filename='',mode='wb',compresslevel=9,mtime=0) as stream:
         stream.write(result)
@@ -316,8 +321,8 @@ def generate_effective_sitemaps(registry,*,prior_xml,hub_metadata,merged_sources
     return result,compressed
 
 
-def validate_effective_sitemap(registry,*,prior_xml,candidate_xml,hub_metadata,merged_sources=(),field_freeze=None,publication_dates=None):
-    old=_sitemap_rows(prior_xml);new=_sitemap_rows(candidate_xml)
+def validate_effective_sitemap(registry,*,prior_xml,candidate_xml,hub_metadata,merged_sources=(),field_freeze=None,publication_dates=None,research_support=None):
+    old=_sitemap_rows(prior_xml,research_support);new=_sitemap_rows(candidate_xml,research_support)
     old_non={r['url']:r['raw'] for r in old if not urlsplit(r['url']).path.startswith('/answers/')}
     new_non={r['url']:r['raw'] for r in new if not urlsplit(r['url']).path.startswith('/answers/')}
     require(old_non==new_non,'A nonlibrary sitemap URL element changed')
@@ -336,11 +341,18 @@ def validate_effective_sitemap(registry,*,prior_xml,candidate_xml,hub_metadata,m
     require(not {SITE+route_for(path) for path in merged_sources}&set(actual),'Merged301 source remains in sitemap')
 
 
-def validate_effective_search(registry,*,prior_bytes,candidate_bytes,actual_page_contexts,merged_sources=()):
+def validate_effective_search(registry,*,prior_bytes,candidate_bytes,actual_page_contexts,merged_sources=(),research_permit=None,research_contexts=None):
     registry.assert_current();old=json.loads(prior_bytes);new=json.loads(candidate_bytes)
     require(set(old)==set(new) and {k:v for k,v in old.items() if k!='docs'}=={k:v for k,v in new.items() if k!='docs'},'Search configuration/non-document fields changed')
     def library(row):return row.get('location','').lstrip('/').startswith('answers/')
-    require([r for r in old['docs'] if not library(r)]==[r for r in new['docs'] if not library(r)],'Nonlibrary search rows changed')
+    if research_permit is None:
+        require(research_contexts is None,'Unbound Research search context forbidden')
+        require([r for r in old['docs'] if not library(r)]==[r for r in new['docs'] if not library(r)],'Nonlibrary search rows changed')
+    else:
+        from library_research_release import ResearchReleasePermit
+        from library_research_consumers import validate_research_search
+        require(isinstance(research_permit,ResearchReleasePermit),'Uncontrolled Research search waiver forbidden')
+        validate_research_search(prior_bytes,candidate_bytes,permit=research_permit,contexts=research_contexts)
     expected_contexts=set(registry.records)|set(registry.hubs)
     require(set(actual_page_contexts)==expected_contexts,'Search actual page-context coverage differs')
     # The installed pinned Material producer consumes these verified contexts;

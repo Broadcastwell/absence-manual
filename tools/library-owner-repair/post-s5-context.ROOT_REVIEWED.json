@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "review_kind": "root-exact-post-small-S5-owner-context",
+  "reviewer": "root",
+  "approved": true,
+  "article_count": 307,
+  "raw_article_count": 326,
+  "inherited_stub_count": 19,
+  "production_receipt_sha256": "8fff391f1079dec39c58930d7e06a14fb354d57f09828fd9590e0a74665396ce",
+  "production_binding": {
+    "commit_sha": "90f4a5dab5b8ad9883526d75426e45019f8f3547",
+    "deployment_id": "41742865044",
+    "artifact_sha256": "04b35fe2e233e95266c359094c6c242bfc58c4c1a7657d22da09dd827ba71d01",
+    "served_receipt_sha256": "a5704131c98ef9a203319798bb58c7a0cb3fdebb6650be839c1e0fa89ff91c61"
+  },
+  "input_sha256": {
+    "prior_state": "80c38d76fa84cd4a6fe0011fed6b2ef99dd711531dfc6c4a24a1e3c41664bdb1",
+    "prior_payload": "7b1add9cfe10ec2ecfddb4bc5f327b64cdb99233db8f1f4952385407a56c15d8",
+    "prior_hub_payload": "4ac491bc0e9890bf3e8f6966bfb73572d249198b95204be9d21116fad5fbe909",
+    "current_leaf_manifest": "e0ba4efdfd2806963283c6b55f29f15cb1944f5cd2fd83a523064e15ee556bdf",
+    "merges": "824561c43e79229b0b267d9ae1028fa081d6489f281411ea5488682909deeb3b"
+  },
+  "input_object_sha256": {
+    "prior_state": "7ef4d52549bfa092a4e3a64297fbd4124522f52a64b4b4637c360dcbe53af373",
+    "prior_payload": "1f9f15a03685263c34023d837a9cf1ae2fe5af60bac7723cfa5fa3b5e78e21aa",
+    "current_leaf_manifest": "b2cdace70ee85e1b8101447349f85daefbc04b738aa5257bd849163c2608149a",
+    "merges": "4288229476e69a8e8f0fe126c70bb79e6f1c9c38d0075361dd8766d4d1887e05"
+  },
+  "inherited_dispositions_sha256": "6fbea351df4c7c0f85f28377ea8be17254941c572d78099017a6e53cb6706859"
+}

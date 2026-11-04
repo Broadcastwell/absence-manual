@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0606",
+  "path": "answers/claude/which-loan-origination-software-does-claude-recommend.md",
+  "canonical_source_sha256": "12b105311b5d28e6e9e49a2eb94a5f50f834a5b860553a41e90b26629d01cab4",
+  "effective_canonical_source_sha256": "84bc21a2cdb6c820e7f552593093ea5aa97d576f941840900bc00d3d4ba36ee7",
+  "effective_body_sha256": "275272613b2a017d2279699724a1d98ada76ed18457d1f7670fe462a4f1e2d65",
+  "effective_metadata_sha256": "0055039056015ee4ac69803bde9751a1aa1addd07a301f5f3e7cb904c4212ece",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\claude\\which-loan-origination-software-does-claude-recommend.md",
+    "raw_sha256": "84bc21a2cdb6c820e7f552593093ea5aa97d576f941840900bc00d3d4ba36ee7",
+    "canonical_LF_sha256": "84bc21a2cdb6c820e7f552593093ea5aa97d576f941840900bc00d3d4ba36ee7"
+  },
+  "review_basis": "Actual original full-page or full merged/primary-target reading plus all exact selected bounded continuations, neutral footer replay and independently verified Root metadata-date-only change.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0606.writing-coverage.json",
+    "raw_sha256": "bdda9ce268ae5c2a0192a6c20647f823adb03696ad7c9e6f1ef1fe0784b294c7",
+    "canonical_LF_sha256": "bdda9ce268ae5c2a0192a6c20647f823adb03696ad7c9e6f1ef1fe0784b294c7"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false
+}

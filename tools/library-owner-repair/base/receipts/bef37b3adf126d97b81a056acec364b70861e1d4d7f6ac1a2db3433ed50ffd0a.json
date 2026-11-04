@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/chatgpt/which-insurance-agency-software-does-chatgpt-recommend.md",
+  "before_effective_canonical_sha256": "eabf089cbe9db69cde6cce107419a09666d634cc2c9b4b716037bde8d31bddd1",
+  "raw_canonical_source_sha256": "1bf448ef9834da6b7a030f4cf0bf5bdcc661befc78921fbd37ebcfffc86586fb",
+  "after_effective_canonical_sha256": "4f0a70da7227fd034915b35d7e610f7bfb60529fbacc8652bb98aac794822e8d",
+  "fact_ledger_sha256": "9af42b0ed3b0977d56cb86a4e529f82369a9ee437432322a56106408ca289510",
+  "effective_payload_sha256": "fa21f96e43106ac6f7a9f53315b2d4ef8c842e1741e146295fdbde33050c64e6",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

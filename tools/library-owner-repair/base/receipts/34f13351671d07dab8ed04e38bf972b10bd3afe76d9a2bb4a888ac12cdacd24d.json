@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0531",
+  "path": "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md",
+  "canonical_source_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a",
+  "effective_canonical_source_sha256": "427c452e4664d04c84c6b9557c72484b9c239e34d9c77dbb2f55c537ee4fe6fc",
+  "effective_body_sha256": "118c05fc3211498c832f23820f0330d303d6e9e79b2b7d90d535fc68d20c0c2c",
+  "effective_metadata_sha256": "9b8027a91d33fd6f997f0a94ab4eea6829ac3c024c5bc6191bfc08d9507716e3",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_PRESERVATION_FOUR_ADOPTED_2026-11-03\\manuscripts\\answers\\geo-basics\\can-an-ai-answer-cite-a-company-without-naming-it.md",
+    "raw_sha256": "427c452e4664d04c84c6b9557c72484b9c239e34d9c77dbb2f55c537ee4fe6fc",
+    "canonical_LF_sha256": "427c452e4664d04c84c6b9557c72484b9c239e34d9c77dbb2f55c537ee4fe6fc"
+  },
+  "review_basis": "Actual complete current Root-dated restored article reading plus exact independently replayed restoration/date deltas, with prior full and selected-delta evidence retained.",
+  "fresh_full_final_file_reread_claimed": true,
+  "fresh_full_262_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0531.writing-preservation-date-coverage.json",
+    "raw_sha256": "1b8dd83c2c9357dd72c736be6ec8127b508c92dabd93b22170a1a31e4b8808a1",
+    "canonical_LF_sha256": "1b8dd83c2c9357dd72c736be6ec8127b508c92dabd93b22170a1a31e4b8808a1"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_PRESERVATION_FOUR_ADOPTED_2026-11-03\\ROOT_FOUR_ADOPTION.json",
+      "raw_sha256": "98c64e057f4542537a3cfa44227a89fa971301ad2fefd154e888ed0ad8456804",
+      "canonical_LF_sha256": "14332b9957015e3a106deeaab2b2f2752555d5001ac107b97ade7cd3389b942e"
+    },
+    "date_modified": "2026-11-03T13:55:12+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Source, qualitative bindings, collection/code, visuals, actual publication, retirement and indexing remain separate.",
+  "publication_or_global_approved": false
+}

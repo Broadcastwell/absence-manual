@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0041",
+  "path": "answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md",
+  "canonical_source_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0",
+  "effective_canonical_source_sha256": "464b904d38c6e3455ee084eed866f43ac26af0907a7d35ad427600193174d68f",
+  "effective_body_sha256": "1ac113a4c1e01ed78410fb9711e60be38f96df171264bbacb2c0da7c19d8682c",
+  "effective_metadata_sha256": "0c8611a78b3c61713c3294dceb5f929b9d5829ad56bbd6ae14f7b9ee73a5e646",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\buying\\how-does-omniscient-digital-compare-as-a-geo-agency.md",
+    "raw_sha256": "464b904d38c6e3455ee084eed866f43ac26af0907a7d35ad427600193174d68f",
+    "canonical_LF_sha256": "464b904d38c6e3455ee084eed866f43ac26af0907a7d35ad427600193174d68f"
+  },
+  "review_basis": "Actual original full-page or full merged/primary-target reading plus all exact selected bounded continuations, neutral footer replay and independently verified Root metadata-date-only change.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0041.writing-coverage.json",
+    "raw_sha256": "f0362e4cd6b8fd48759945d4d80747d5bd7d8b755b0d7ad1bcb2b748bec08317",
+    "canonical_LF_sha256": "f0362e4cd6b8fd48759945d4d80747d5bd7d8b755b0d7ad1bcb2b748bec08317"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false
+}

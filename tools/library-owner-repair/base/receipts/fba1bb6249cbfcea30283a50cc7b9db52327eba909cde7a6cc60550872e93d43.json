@@ -1,0 +1,506 @@
+{
+  "approved_source_preservation": true,
+  "Root_stub_decision_approved": false,
+  "publication_approved": false,
+  "scope": "Exact47Q0047assertions plus effective-donor navigation preserved in actual Root-dated Q0561;Source scientific preservation only,Root stub/release decision separate.",
+  "source_path": "answers/industries/is-dentally-a-good-fit-for-uk-dentists-running-a-cloud-based-practice.md",
+  "source_raw": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\ACTUAL326_POST_HUB_DATE_CODE_IDENTITY_PRIOR_PRODUCTION\\root-r2\\workspace\\docs\\answers\\industries\\is-dentally-a-good-fit-for-uk-dentists-running-a-cloud-based-practice.md",
+    "sha256": "854c637a502051344eebb629c2e564b326e6171b29abb61343fa5e10aa2472a5"
+  },
+  "source_effective_PR91_sha256": "b95f3b4bb4b7332434150ad741ca9cb812a2c2db3a21db8c98ca65535a3c3f1a",
+  "target_path": "answers/industries/why-is-my-dental-software-missing-from-ai-answers.md",
+  "target_historical_raw_sha256": "892c12f7b2c6f1bc8fecf62cfbeb13d79ba44b94160ff7a214225eaeee5ca023",
+  "target_proposed_full": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\manuscripts\\answers\\industries\\why-is-my-dental-software-missing-from-ai-answers.md",
+    "raw_sha256": "78c6f33ddf26e6c8eb93723b89f45e9b9bf49ceba23cded63070b9f73f15035d",
+    "canonical_LF_sha256": "d14f158f783a77e30047f27ab73678e612f41f52399a0b46362310aac36dc762"
+  },
+  "target_proposed_body_sha256": "119df40ddf752aeb5fa219d7cb5b0045e2b4763e4b1237121d136c94053858f2",
+  "target_proposed_meta_sha256": "80c6bf8d12fb459b44ed84fa6e57d9e0c598eb46c041636cdb3f3a50a570f38a",
+  "word_count_owning": 899,
+  "required_fact_ids": [
+    "LB-Q0047.capture_date",
+    "LB-Q0047.Dentally_count",
+    "LB-Q0047.absence_not_suitability",
+    "LB-Q0047.UK_page_read",
+    "LB-Q0047.cloud_regional_scope",
+    "LB-Q0047.partner_categories",
+    "LB-Q0047.not_function_test",
+    "LB-Q0047.question_run_design",
+    "LB-Q0047.valid_base_exclusion",
+    "LB-Q0047.roster_unit",
+    "LB-Q0047.engine_bases",
+    "LB-Q0047.matrix_row_01",
+    "LB-Q0047.matrix_row_02",
+    "LB-Q0047.matrix_row_03",
+    "LB-Q0047.matrix_row_04",
+    "LB-Q0047.matrix_row_05",
+    "LB-Q0047.matrix_row_06",
+    "LB-Q0047.matrix_row_07",
+    "LB-Q0047.matrix_row_08",
+    "LB-Q0047.matrix_row_09",
+    "LB-Q0047.matrix_row_10",
+    "LB-Q0047.matrix_row_11",
+    "LB-Q0047.matrix_row_12",
+    "LB-Q0047.matrix_row_13",
+    "LB-Q0047.matrix_row_14",
+    "LB-Q0047.matrix_row_15",
+    "LB-Q0047.matrix_row_16",
+    "LB-Q0047.matrix_row_17",
+    "LB-Q0047.matrix_row_18",
+    "LB-Q0047.matrix_row_19",
+    "LB-Q0047.matrix_row_20",
+    "LB-Q0047.clinical_reliability_limit",
+    "LB-Q0047.buyer_question_scope",
+    "LB-Q0047.not_UK_sample",
+    "LB-Q0047.NHS_HSC_separate",
+    "LB-Q0047.location_submission",
+    "LB-Q0047.platform_vs_connections",
+    "LB-Q0047.Xero",
+    "LB-Q0047.imaging_bridge",
+    "LB-Q0047.check_setup",
+    "LB-Q0047.partner_setup",
+    "LB-Q0047.plan_migration",
+    "LB-Q0047.source_URL_study",
+    "LB-Q0047.source_URL_UK_product",
+    "LB-Q0047.source_URL_questions",
+    "LB-Q0047.source_URL_purchase_question",
+    "LB-Q0047.source_URL_vendor_record"
+  ],
+  "preserved_fact_bindings": [
+    {
+      "id": "LB-Q0047.capture_date",
+      "source_span": "In our dental capture on 22 September 2026",
+      "target_span": "In the 22 September 2026 captures",
+      "source_span_sha256": "24b6dd318907493b435aa80f56b307d0d088f2340f5bc217fdd9b848aa74255a",
+      "target_span_sha256": "d5d00b04f54b15e1432570363bb79501e503d317bb80c8fecb417a193ffbe6d5",
+      "semantic_basis": "The dental collection date is retained,not a later vendor-page read."
+    },
+    {
+      "id": "LB-Q0047.Dentally_count",
+      "source_span": "Dentally was named in 0 of 149 valid answers.",
+      "target_span": "| Dentally | 0 of 149 |",
+      "source_span_sha256": "0b8908a8b04b25e8bd30fbf787dce800ae73355171daf13523b42a47704a24b4",
+      "target_span_sha256": "ebee47d9a563a8dc1d14d6604690325766bfe1191d3b3a1e3d2eeaca9d128ee9",
+      "semantic_basis": "Same checked vendor,zero naming observations and149valid-answer base."
+    },
+    {
+      "id": "LB-Q0047.absence_not_suitability",
+      "source_span": "That observed absence does not establish whether the product suits your practice or whether its advertised connections work.",
+      "target_span": "[Dentally's measured record](https://index.broadcastwell.com/vendors/dentally/dental-practice-management/) is an absence observation, not a verdict about UK clinical workflows, compliance, reliability, cloud suitability or whether advertised integrations work.",
+      "source_span_sha256": "e8c6737e64b2f86360ab4c7252d612d98b0a893a694d5c99d02e26021393a8fe",
+      "target_span_sha256": "522fb93cfbd1935e56220d4841c8493e8bc9016781707bb27c8028acc35503c0",
+      "semantic_basis": "Naming absence is not a tested UK/cloud/product-fit or connection result."
+    },
+    {
+      "id": "LB-Q0047.UK_page_read",
+      "source_span": "Dentally's [UK partner page](https://www.dentally.com/en-gb/partners), read on 29 October 2026",
+      "target_span": "Dentally's [UK partner page](https://www.dentally.com/en-gb/partners), read on 29 October 2026",
+      "source_span_sha256": "ed90dd7661f8af89ac3fd96cd6402fb84d66b5f975260ab1cbea9c8118c06b39",
+      "target_span_sha256": "ed90dd7661f8af89ac3fd96cd6402fb84d66b5f975260ab1cbea9c8118c06b39",
+      "semantic_basis": "Exact provider source and actual read date retained."
+    },
+    {
+      "id": "LB-Q0047.cloud_regional_scope",
+      "source_span": "describes cloud practice software and advertises NHS integration in England, Wales and Scotland and HSC integration in Northern Ireland.",
+      "target_span": "describes cloud practice software and advertises National Health Service (NHS) integration in England, Wales and Scotland and Health and Social Care (HSC) integration in Northern Ireland.",
+      "source_span_sha256": "1cbdac0754b3697048ec1e24c4c60b09d5db4bef184c23350ededcdf147ce1e5",
+      "target_span_sha256": "9b1d57aeda47fdec4ece41ad61028fe252abce9d6b558aa3f3c8b82c94216328",
+      "semantic_basis": "Same claimed cloud scope and four regional integration boundaries;expanded abbreviations do not add a functionality test."
+    },
+    {
+      "id": "LB-Q0047.partner_categories",
+      "source_span": "Its marketplace names imaging, communication, payment and reporting partners.",
+      "target_span": "Its marketplace names imaging, communication, payment and reporting partners.",
+      "source_span_sha256": "e6a4962d5f3c6d48b91db7db5b9db28a467a2daa739ff49a5a5c1972856f9cff",
+      "target_span_sha256": "e6a4962d5f3c6d48b91db7db5b9db28a467a2daa739ff49a5a5c1972856f9cff",
+      "semantic_basis": "All four marketplace categories retained as provider statements."
+    },
+    {
+      "id": "LB-Q0047.not_function_test",
+      "source_span": "These are published product statements, without a functionality test here.",
+      "target_span": "These are published product statements, without a functionality test here.",
+      "source_span_sha256": "bc21efe015e5581290a0ceb3e148aa632183dfc7726411eaf0af7f7d2798f597",
+      "target_span_sha256": "bc21efe015e5581290a0ceb3e148aa632183dfc7726411eaf0af7f7d2798f597",
+      "semantic_basis": "Original verification boundary retained."
+    },
+    {
+      "id": "LB-Q0047.question_run_design",
+      "source_span": "used ten dental buyer questions repeated three times on each engine.",
+      "target_span": "used ten fixed questions and three runs on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode.",
+      "source_span_sha256": "0da6e4fe97e288a7e42c0952748df583fe1c6cc61e01dad7a7b5b73ff6c74e9a",
+      "target_span_sha256": "b37991094f30a9a9ef4a46039591532962f6f4c457c326b7f3079b95db7be799",
+      "semantic_basis": "Ten questions,three runs,each of five engines,explicitly named in target."
+    },
+    {
+      "id": "LB-Q0047.valid_base_exclusion",
+      "source_span": "One Overview target was excluded, leaving 149 valid answers.",
+      "target_span": "Of 150 scheduled observations, 149 were valid; one Google AI Overviews observation returned no Overview.",
+      "source_span_sha256": "0957582290916bdbb489ad76f44d15a92e646397d77839fdda11c079071b08ba",
+      "target_span_sha256": "707aaaa2ca4a35018d4882dc03ccb0bd08cb1b1341e0003d1e8693b13eb56922",
+      "semantic_basis": "Excluded Overview is not an additional brand absence;valid149base retained."
+    },
+    {
+      "id": "LB-Q0047.roster_unit",
+      "source_span": "Each cell counts answers naming the vendor; every heading gives that engine's valid base.",
+      "target_span": "Cells count named answers against each engine's stated base, not a new sample.",
+      "source_span_sha256": "e659decbf0c93b519c6098ceea11418714c859a6c408ec4156e9b530eb0a146f",
+      "target_span_sha256": "2a4fb1d8761a8d7e07e297c461c81a29edb381e094c0c0ac6c26deefe98eb044",
+      "semantic_basis": "Vendor-name event and per-engine denominator retained."
+    },
+    {
+      "id": "LB-Q0047.engine_bases",
+      "source_span": "| Vendor | ChatGPT (base 30) | Claude (base 30) | Perplexity (base 30) | Google AI Overviews (base 29) | Google AI Mode (base 30) |",
+      "target_span": "| Vendor | ChatGPT (base 30) | Claude (base 30) | Perplexity (base 30) | Google AI Overviews (base 29) | Google AI Mode (base 30) |",
+      "source_span_sha256": "4a7441854387fb0501c50490f1eea3c027cda9edc4b167745496b50e53ba1f1f",
+      "target_span_sha256": "4a7441854387fb0501c50490f1eea3c027cda9edc4b167745496b50e53ba1f1f",
+      "semantic_basis": "ChatGPT30,Claude30,Perplexity30,Overview29,Mode30 are identical."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_01",
+      "source_span": "| ABELDent | 0 | 1 | 3 | 0 | 0 |",
+      "target_span": "| ABELDent | 0 | 1 | 3 | 0 | 0 |",
+      "source_span_sha256": "a5353f0b43b07968dde5950c135555d2ea82ba7cb3d796816d5c0c567cafb04a",
+      "target_span_sha256": "a5353f0b43b07968dde5950c135555d2ea82ba7cb3d796816d5c0c567cafb04a",
+      "semantic_basis": "All five engine counts for checked vendor ABELDent retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_02",
+      "source_span": "| ACE Dental | 0 | 0 | 1 | 1 | 1 |",
+      "target_span": "| ACE Dental | 0 | 0 | 1 | 1 | 1 |",
+      "source_span_sha256": "32f00f23e76f9d2fe2b5f36a26b2dc1c281915069471abebbb3b92e2b889568a",
+      "target_span_sha256": "32f00f23e76f9d2fe2b5f36a26b2dc1c281915069471abebbb3b92e2b889568a",
+      "semantic_basis": "All five engine counts for checked vendor ACE Dental retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_03",
+      "source_span": "| Adit | 0 | 3 | 4 | 0 | 0 |",
+      "target_span": "| Adit | 0 | 3 | 4 | 0 | 0 |",
+      "source_span_sha256": "39dbdb5c8ea527546f978dfe4165f12789e90f98bbc7acd635acb58993b2830d",
+      "target_span_sha256": "39dbdb5c8ea527546f978dfe4165f12789e90f98bbc7acd635acb58993b2830d",
+      "semantic_basis": "All five engine counts for checked vendor Adit retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_04",
+      "source_span": "| CareStack | 14 | 11 | 12 | 12 | 14 |",
+      "target_span": "| CareStack | 14 | 11 | 12 | 12 | 14 |",
+      "source_span_sha256": "328b7015b08f85d93c71ebc7abda971e743b1b667700ade521addc8903ba92ee",
+      "target_span_sha256": "328b7015b08f85d93c71ebc7abda971e743b1b667700ade521addc8903ba92ee",
+      "semantic_basis": "All five engine counts for checked vendor CareStack retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_05",
+      "source_span": "| Carestream Dental | 0 | 1 | 1 | 0 | 0 |",
+      "target_span": "| Carestream Dental | 0 | 1 | 1 | 0 | 0 |",
+      "source_span_sha256": "9947ea34dccf4266d9af68c2d57d8bd96d301770dcf7434c75a85478ad460e3b",
+      "target_span_sha256": "9947ea34dccf4266d9af68c2d57d8bd96d301770dcf7434c75a85478ad460e3b",
+      "semantic_basis": "All five engine counts for checked vendor Carestream Dental retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_06",
+      "source_span": "| Curve Dental | 19 | 25 | 21 | 23 | 27 |",
+      "target_span": "| Curve Dental | 19 | 25 | 21 | 23 | 27 |",
+      "source_span_sha256": "e9a3d3b48ee7528267feb3f3a39f19f5232fd67843c69344ca47ae90f0269d49",
+      "target_span_sha256": "e9a3d3b48ee7528267feb3f3a39f19f5232fd67843c69344ca47ae90f0269d49",
+      "semantic_basis": "All five engine counts for checked vendor Curve Dental retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_07",
+      "source_span": "| Dentally | 0 | 0 | 0 | 0 | 0 |",
+      "target_span": "| Dentally | 0 | 0 | 0 | 0 | 0 |",
+      "source_span_sha256": "206cd15862da8ddd3d3f1578e6d7736f2502e618214edf1af92153ccfb688e30",
+      "target_span_sha256": "206cd15862da8ddd3d3f1578e6d7736f2502e618214edf1af92153ccfb688e30",
+      "semantic_basis": "All five engine counts for checked vendor Dentally retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_08",
+      "source_span": "| DentiMax | 0 | 6 | 0 | 1 | 2 |",
+      "target_span": "| DentiMax | 0 | 6 | 0 | 1 | 2 |",
+      "source_span_sha256": "a4c2f16061de6dab63ed25b1fdb4e39cac31425d6b56c2e754c3b69db27c66ab",
+      "target_span_sha256": "a4c2f16061de6dab63ed25b1fdb4e39cac31425d6b56c2e754c3b69db27c66ab",
+      "semantic_basis": "All five engine counts for checked vendor DentiMax retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_09",
+      "source_span": "| Dentrix | 22 | 26 | 21 | 24 | 27 |",
+      "target_span": "| Dentrix | 22 | 26 | 21 | 24 | 27 |",
+      "source_span_sha256": "3b0763565d3345bd18d7c7ae7edf11f9d0d370b1a581d660001562e64d735876",
+      "target_span_sha256": "3b0763565d3345bd18d7c7ae7edf11f9d0d370b1a581d660001562e64d735876",
+      "semantic_basis": "All five engine counts for checked vendor Dentrix retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_10",
+      "source_span": "| Dentrix Ascend | 21 | 22 | 15 | 18 | 21 |",
+      "target_span": "| Dentrix Ascend | 21 | 22 | 15 | 18 | 21 |",
+      "source_span_sha256": "36b53f93f67c100cf1fc248f3becbd0da01976ba0ba2b96523ae83d26e01defa",
+      "target_span_sha256": "36b53f93f67c100cf1fc248f3becbd0da01976ba0ba2b96523ae83d26e01defa",
+      "semantic_basis": "All five engine counts for checked vendor Dentrix Ascend retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_11",
+      "source_span": "| Dentrix Enterprise | 1 | 5 | 3 | 0 | 2 |",
+      "target_span": "| Dentrix Enterprise | 1 | 5 | 3 | 0 | 2 |",
+      "source_span_sha256": "5df36ce7f46b3d75e269fe4d6f1df1bed68d23b160994a64083ade78a18f0852",
+      "target_span_sha256": "5df36ce7f46b3d75e269fe4d6f1df1bed68d23b160994a64083ade78a18f0852",
+      "semantic_basis": "All five engine counts for checked vendor Dentrix Enterprise retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_12",
+      "source_span": "| DSN | 0 | 0 | 0 | 0 | 0 |",
+      "target_span": "| DSN | 0 | 0 | 0 | 0 | 0 |",
+      "source_span_sha256": "c8bca0035f5013f1c31dfa5c874ca6853c1e7512b8edc8fc2d91ad373b722621",
+      "target_span_sha256": "c8bca0035f5013f1c31dfa5c874ca6853c1e7512b8edc8fc2d91ad373b722621",
+      "semantic_basis": "All five engine counts for checked vendor DSN retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_13",
+      "source_span": "| Eaglesoft | 14 | 18 | 12 | 12 | 13 |",
+      "target_span": "| Eaglesoft | 14 | 18 | 12 | 12 | 13 |",
+      "source_span_sha256": "c76b46ff8d6592b902d85d135f25b958da580111854415c2b805d64f20a5dffe",
+      "target_span_sha256": "c76b46ff8d6592b902d85d135f25b958da580111854415c2b805d64f20a5dffe",
+      "semantic_basis": "All five engine counts for checked vendor Eaglesoft retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_14",
+      "source_span": "| MacPractice | 0 | 0 | 0 | 0 | 0 |",
+      "target_span": "| MacPractice | 0 | 0 | 0 | 0 | 0 |",
+      "source_span_sha256": "02dfba7b122998358f65a55fd934ab1e8716c0cba564b9957a9053c65ed357c7",
+      "target_span_sha256": "02dfba7b122998358f65a55fd934ab1e8716c0cba564b9957a9053c65ed357c7",
+      "semantic_basis": "All five engine counts for checked vendor MacPractice retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_15",
+      "source_span": "| Open Dental | 22 | 24 | 23 | 24 | 25 |",
+      "target_span": "| Open Dental | 22 | 24 | 23 | 24 | 25 |",
+      "source_span_sha256": "12bea8209b7f5d570ebdd48a8a8785a5183859b5551489d76ff417ecc2b78cdf",
+      "target_span_sha256": "12bea8209b7f5d570ebdd48a8a8785a5183859b5551489d76ff417ecc2b78cdf",
+      "semantic_basis": "All five engine counts for checked vendor Open Dental retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_16",
+      "source_span": "| Oryx Dental | 1 | 4 | 3 | 4 | 3 |",
+      "target_span": "| Oryx Dental | 1 | 4 | 3 | 4 | 3 |",
+      "source_span_sha256": "87c9214a209427622b3499664126d909310f3453e09a165dfbf5c614a959b5d2",
+      "target_span_sha256": "87c9214a209427622b3499664126d909310f3453e09a165dfbf5c614a959b5d2",
+      "semantic_basis": "All five engine counts for checked vendor Oryx Dental retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_17",
+      "source_span": "| Planet DDS (Denticon) | 12 | 12 | 11 | 4 | 9 |",
+      "target_span": "| Planet DDS (Denticon) | 12 | 12 | 11 | 4 | 9 |",
+      "source_span_sha256": "775cf247a83e299d77b61f02fdde539992dceeaf4964c180da290179ffe1c6a9",
+      "target_span_sha256": "775cf247a83e299d77b61f02fdde539992dceeaf4964c180da290179ffe1c6a9",
+      "semantic_basis": "All five engine counts for checked vendor Planet DDS (Denticon) retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_18",
+      "source_span": "| Practice-Web | 0 | 3 | 3 | 5 | 10 |",
+      "target_span": "| Practice-Web | 0 | 3 | 3 | 5 | 10 |",
+      "source_span_sha256": "2b169832532647bfb4901127ad38fa00561ca56fbcaa50f35bc0c39d0bfd22f2",
+      "target_span_sha256": "2b169832532647bfb4901127ad38fa00561ca56fbcaa50f35bc0c39d0bfd22f2",
+      "semantic_basis": "All five engine counts for checked vendor Practice-Web retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_19",
+      "source_span": "| tab32 | 5 | 14 | 13 | 5 | 2 |",
+      "target_span": "| tab32 | 5 | 14 | 13 | 5 | 2 |",
+      "source_span_sha256": "b45823442ee4261ac13f20a3899f91aec4da972aca54007955f513159fb13f62",
+      "target_span_sha256": "b45823442ee4261ac13f20a3899f91aec4da972aca54007955f513159fb13f62",
+      "semantic_basis": "All five engine counts for checked vendor tab32 retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.matrix_row_20",
+      "source_span": "| XLDent | 0 | 0 | 0 | 0 | 0 |",
+      "target_span": "| XLDent | 0 | 0 | 0 | 0 | 0 |",
+      "source_span_sha256": "f37265840517b6f8c00d5cf72ebfb7ac7f1701d459484d336ac73475f6e9a519",
+      "target_span_sha256": "f37265840517b6f8c00d5cf72ebfb7ac7f1701d459484d336ac73475f6e9a519",
+      "semantic_basis": "All five engine counts for checked vendor XLDent retained byte-exact;no zero dropped."
+    },
+    {
+      "id": "LB-Q0047.clinical_reliability_limit",
+      "source_span": "The counts do not test UK clinical workflows, product reliability or compliance.",
+      "target_span": "These naming observations do not test UK clinical workflows, product reliability or compliance.",
+      "source_span_sha256": "d8a79e8ceec5aadf5d6cee29383536051ff91b0a49813068424a1761df4473d2",
+      "target_span_sha256": "e246bf0dc82cb1261f0c20a7c93c32074e38d1bdbfe5043099e5ccbb5b3e28c3",
+      "semantic_basis": "The same three excluded interpretations remain explicit."
+    },
+    {
+      "id": "LB-Q0047.buyer_question_scope",
+      "source_span": "The Index's dental panel asks about small offices, alternatives, product comparisons and purchase criteria.",
+      "target_span": "concern small offices, alternatives, product comparisons and purchase criteria.",
+      "source_span_sha256": "75a655ff0867d3b09f2ce3b0b01a746129567e52642335d0f4b7a5064e8047c8",
+      "target_span_sha256": "14efa9a94c67f976af0d012ba408a0a184be1042f338aba9cbd78a741e0272c9",
+      "semantic_basis": "Original question types retained;not a UK-only practice sample."
+    },
+    {
+      "id": "LB-Q0047.not_UK_sample",
+      "source_span": "It does not select a UK-only practice sample",
+      "target_span": "They do not form a UK-only practice sample.",
+      "source_span_sha256": "60e6f1d712d76f6e8f9ab53a172a9b014cc348d681edae53b8ec9e52cf1d164d",
+      "target_span_sha256": "401324e2f74c9c38c38a1b25124ad196c8e2d814f43045106fe90463b9adf2f4",
+      "semantic_basis": "No geographic-fit inference from the worldwide dental question collection."
+    },
+    {
+      "id": "LB-Q0047.NHS_HSC_separate",
+      "source_span": "NHS in England, Wales and Scotland and HSC in Northern Ireland are named separately.",
+      "target_span": "National Health Service (NHS) integration in England, Wales and Scotland and Health and Social Care (HSC) integration in Northern Ireland.",
+      "source_span_sha256": "67fe5ef97d07326170892fee04765ea01aa5e7979a5ed535dbea4b5e4e38fe59",
+      "target_span_sha256": "4bb9634f2fc4b50ee500979a520df46f210fdea1b22f93b70daa994e7ace3276",
+      "semantic_basis": "Same regional distinction retained as reported provider scope."
+    },
+    {
+      "id": "LB-Q0047.location_submission",
+      "source_span": "Put your practice's location and intended submission operation beside that claim in the evaluation scope rather than accepting a general UK-compatible label.",
+      "target_span": "Check the region, submission operation, connection, plan and migration scope separately.",
+      "source_span_sha256": "bad2b66225291683ddfa3d9b8a5cf3bbf82899073e992d8eb2e3846efdf546f9",
+      "target_span_sha256": "67d6bcfa56c6c95a6ffd4363177655181efb61984cc44d891ba48d1fc3e34669",
+      "semantic_basis": "Same requested region and submission-operation checks retained without a UK-wide test claim."
+    },
+    {
+      "id": "LB-Q0047.platform_vs_connections",
+      "source_span": "Its partner list also distinguishes connected tools from the practice platform.",
+      "target_span": "The page distinguishes the platform from Xero's accounting connection and Dentally Imaging Bridge's connection to compatible imaging software.",
+      "source_span_sha256": "807707d48458057b6926c281571d557ef96c3e7f622aae18331a1bee38f4095d",
+      "target_span_sha256": "7cc63bfe31583c67b55dfe1961067407f3cc6840436cd10c5f1e47f4ce1303a4",
+      "semantic_basis": "Connected products remain distinct from native platform scope."
+    },
+    {
+      "id": "LB-Q0047.Xero",
+      "source_span": "Xero appears as an accounting connection",
+      "target_span": "Xero's accounting connection",
+      "source_span_sha256": "5fb6f08ed15cda8a13703ee07fb3da29c4d7dc5296809008204f4bbfedb317ac",
+      "target_span_sha256": "6a2e44c638218898ca627d8ff1afba697f46bb1adacaaeb5cd7fc9a971b66d71",
+      "semantic_basis": "Accounting connection retained;no native-feature or entitlement inference."
+    },
+    {
+      "id": "LB-Q0047.imaging_bridge",
+      "source_span": "Dentally Imaging Bridge appears for compatible imaging software.",
+      "target_span": "Dentally Imaging Bridge's connection to compatible imaging software.",
+      "source_span_sha256": "cff7d5cf4092819df4939fca003161f8afa9f15af089d48b3ab23938ad8a759d",
+      "target_span_sha256": "47fae9a8a34656561c379de2c50a4f1197a1b1aab5e874531c1293b8b7042e75",
+      "semantic_basis": "Same named imaging connector and compatible-software boundary."
+    },
+    {
+      "id": "LB-Q0047.check_setup",
+      "source_span": "If either matters to your move, inspect the named connection and required setup instead of assuming cloud-based means every existing system is included.",
+      "target_span": "The page distinguishes the platform from Xero's accounting connection and Dentally Imaging Bridge's connection to compatible imaging software. Setup varies by partner and may require enabling the integration in Dentally or completing partner setup. Check the region, submission operation, connection, plan and migration scope separately.",
+      "source_span_sha256": "ae371033b78c6ce878df6a482bb1fb127373fc7ff5547541a2c35d893e1a9a60",
+      "target_span_sha256": "54b3062a87db5111f90b57e135e6511101a6ba3403a85e833114f086afdacb1f",
+      "semantic_basis": "Same setup-and-connection inspection instruction;no inference that cloud includes every system."
+    },
+    {
+      "id": "LB-Q0047.partner_setup",
+      "source_span": "integration setup varies by partner and may require enabling it within Dentally or completing setup with that partner.",
+      "target_span": "Setup varies by partner and may require enabling the integration in Dentally or completing partner setup.",
+      "source_span_sha256": "02963faec59c57c2bb4e549168875b3cf5229d8bf658ad7eee572107467ff4a6",
+      "target_span_sha256": "e49e8284f0005c5dc6eb90cb10f4d7000f44a1c991457da8ca853bbe2759b60b",
+      "semantic_basis": "Both possible setup locations and partner-dependent condition retained."
+    },
+    {
+      "id": "LB-Q0047.plan_migration",
+      "source_span": "with the current plan and data-migration scope stated in the proposal.",
+      "target_span": "Check the region, submission operation, connection, plan and migration scope separately.",
+      "source_span_sha256": "f66bba9c5f9b5b860443022c2a5d5d1937d286e27e450ffbd9478bcb8a1d4fd6",
+      "target_span_sha256": "67d6bcfa56c6c95a6ffd4363177655181efb61984cc44d891ba48d1fc3e34669",
+      "semantic_basis": "Plan and migration scope remain requested checks,not verified capabilities."
+    },
+    {
+      "id": "LB-Q0047.source_URL_study",
+      "source_span": "https://doi.org/10.5281/zenodo.22907695",
+      "target_span": "https://doi.org/10.5281/zenodo.22907695",
+      "source_span_sha256": "3a60f1d83582f2b1f583ec3e6dae1d4f3df3de89080e693fcc70d30e683341d7",
+      "target_span_sha256": "3a60f1d83582f2b1f583ec3e6dae1d4f3df3de89080e693fcc70d30e683341d7",
+      "semantic_basis": "Donor scientific or provider source destination retained."
+    },
+    {
+      "id": "LB-Q0047.source_URL_UK_product",
+      "source_span": "https://www.dentally.com/en-gb/partners",
+      "target_span": "https://www.dentally.com/en-gb/partners",
+      "source_span_sha256": "29fa9841bba12f956757dc2565b8f13f74074e0ce4181a947593622a0a73117d",
+      "target_span_sha256": "29fa9841bba12f956757dc2565b8f13f74074e0ce4181a947593622a0a73117d",
+      "semantic_basis": "Donor scientific or provider source destination retained."
+    },
+    {
+      "id": "LB-Q0047.source_URL_questions",
+      "source_span": "https://index.broadcastwell.com/questions/dental-practice-management/",
+      "target_span": "https://index.broadcastwell.com/questions/dental-practice-management/",
+      "source_span_sha256": "e8ef1d5737e41ff21003609a02416c8fb08191b852df7e656f64a10a42cb6e1c",
+      "target_span_sha256": "e8ef1d5737e41ff21003609a02416c8fb08191b852df7e656f64a10a42cb6e1c",
+      "semantic_basis": "Donor scientific or provider source destination retained."
+    },
+    {
+      "id": "LB-Q0047.source_URL_purchase_question",
+      "source_span": "https://index.broadcastwell.com/questions/dental-practice-management/what-should-i-look-for-in-dental-practice-management-software/",
+      "target_span": "https://index.broadcastwell.com/questions/dental-practice-management/what-should-i-look-for-in-dental-practice-management-software/",
+      "source_span_sha256": "edd88cfe842990cab65de9b46cb2cc4a69369df598e7571364363b404987658e",
+      "target_span_sha256": "edd88cfe842990cab65de9b46cb2cc4a69369df598e7571364363b404987658e",
+      "semantic_basis": "Donor scientific or provider source destination retained."
+    },
+    {
+      "id": "LB-Q0047.source_URL_vendor_record",
+      "source_span": "https://index.broadcastwell.com/vendors/dentally/dental-practice-management/",
+      "target_span": "https://index.broadcastwell.com/vendors/dentally/dental-practice-management/",
+      "source_span_sha256": "082f772efb1cf4da2a46c02e79b485627ebc6555d5465bfaede6aefe35fbbe7c",
+      "target_span_sha256": "082f772efb1cf4da2a46c02e79b485627ebc6555d5465bfaede6aefe35fbbe7c",
+      "semantic_basis": "Donor scientific or provider source destination retained."
+    }
+  ],
+  "required_aliases": [
+    "Is Dentally a good fit for UK dentists running a cloud based practice?"
+  ],
+  "alias_metadata_and_visible_exact": true,
+  "matrix_rows": 20,
+  "matrix_cells": 100,
+  "full_matrix_and_all_zeros_exact": true,
+  "related_requirement": {
+    "chapter_path": "absence-ladder.md",
+    "own_cluster_hub_path": "answers/industries/index.md",
+    "index_applicable": true,
+    "required_index_href": "https://index.broadcastwell.com/categories/dental-practice-management/",
+    "unchanged_from_parked_related_requirements": true,
+    "donor_named_zero_navigation_is_an_additional_preserved_inline_destination": true
+  },
+  "effective_donor_navigation": {
+    "source_effective_full": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\RISK_VERIFY_RULE4_NINETEEN_RELEVANCE_V1\\LB-Q0047.current-PR91.md",
+      "sha256": "b95f3b4bb4b7332434150ad741ca9cb812a2c2db3a21db8c98ca65535a3c3f1a"
+    },
+    "source_span": "../../named-zero-times.md",
+    "target_span": "../../named-zero-times.md",
+    "protected_raw_donor_contains_link": false,
+    "note": "Actual PR91 prior-effective navigation retained independently of raw scientific fact locators."
+  },
+  "named_zero_chapter": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\ACTUAL326_POST_HUB_DATE_CODE_IDENTITY_PRIOR_PRODUCTION\\root-r2\\workspace\\docs\\named-zero-times.md",
+    "sha256": "954690786c5f1e7b1eb64560f0ebae14faf5ac7ea3cb58769e8ff079fd412ff3"
+  },
+  "exact_literal_delta": {
+    "old": "An absence establishes neither a missing feature nor a reason to reject the product; a correction needs specific factual evidence.",
+    "new": "An [absence](../../named-zero-times.md) establishes neither a missing feature nor a reason to reject the product; a correction needs specific factual evidence.",
+    "all_other_body_bytes_exact": true,
+    "metadata_exact_historical_proposal": true,
+    "visible_words_exact": true
+  },
+  "body_semantics": "The target addresses observed dental-name absence and its interpretation,not UK clinical suitability. It retains dated UK product claims as separately reported context and explicitly states no clinical/functionality/compliance test.",
+  "omitted_donor_material": {
+    "scientific_facts": [],
+    "scientific_source_URLs": [],
+    "standard_legacy_commercial_tail": "Target already carries neutral fixed standard footer;no commercial rate is adopted as a scientific result.",
+    "current_source_title": "Retained both visibly and in aliases;the old URL would be served only by a canonical HTML200 stub if Root approves."
+  },
+  "actual_root_adoption_date_pending": false,
+  "formal_full_effective_Source_wrapper_pending_actual_Root_date": false,
+  "target_current_effective_canonical_source_sha256": "d14f158f783a77e30047f27ab73678e612f41f52399a0b46362310aac36dc762",
+  "actual_Root_adoption": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\ROOT_PRIVATE_ADOPTION.json",
+    "raw_sha256": "c4838a1581ac9627db5f9b4a9bf87336a98b3cf1c8bffac466e81427da3f419d",
+    "canonical_LF_sha256": "93560800d865d9f60da541bc061a63e9cdff87eb6b74405111b739b3946318b2"
+  },
+  "full_current_target_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_S5_1919_ROOT_THREE_V2\\receipts\\LB-Q0561.source.json",
+    "raw_sha256": "02621ab9451573c770efa6243dba3bf10ca189e12c6f0f20045f675aa7d17a4e",
+    "canonical_LF_sha256": "02621ab9451573c770efa6243dba3bf10ca189e12c6f0f20045f675aa7d17a4e"
+  },
+  "all_47_bindings_exact_after_date": true
+}

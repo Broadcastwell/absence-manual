@@ -7,13 +7,13 @@ research_id: 39
 research_group: glossary
 lead: Vikram Patel
 published: '2026-11-02T20:27:14Z'
-updated: '2026-11-02T21:22:53Z'
+updated: "2026-11-04T01:03:17.612597+00:00"
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/entity-confidence/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T20:27:14Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: "2026-11-04T01:03:17.612597+00:00"
 is_based_on: https://fireflyweblabs.com/ai-visibility-framework/entity-confidence-why-ai-trusts-some-businesses-and-not-others/
 defined_term: Entity confidence
 ---
@@ -64,7 +64,7 @@ Asked whether Entity Confidence is a real score inside AI systems, Firefly Web L
 
 Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
-**Supports:** Our published method uses explicit **name and domain matching rules**. These produce observed matching events; they are not confidence scores inside an engine. Study 2’s **8,085 named pairs among 42,792 eligible vendor-answer pairs** are counted under those rules, not graded on a hidden certainty scale.
+**Supports:** Our published method uses explicit **name and domain matching rules**. These produce observed matching events; they are not confidence scores inside an engine. Study 2’s **8,085 named pairs among 42,792 eligible vendor-answer pairs** came from answers captured on **22 and 23 September 2026**. They are counted under those rules, not graded on a hidden certainty scale.
 
 The [public matching dictionary and method](/research/studies/who-ai-engines-cite/) let a reader inspect what qualified as a naming or own-domain-citation event. We have not measured Entity Confidence or validated a vendor’s composite confidence score.
 
@@ -82,7 +82,7 @@ Publication correction, November 2, 2026: October 30 was the draft date; this pa
 
 ## Cite this page
 
-Broadcastwell research team. (2026, November 2). *What is entity confidence, and is it a Google metric?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/entity-confidence/ Published November 2, 2026; updated November 2, 2026.
+Broadcastwell research team. (2026, November 2). *What is entity confidence, and is it a Google metric?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/entity-confidence/ Published November 2, 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research39,
@@ -91,8 +91,8 @@ Broadcastwell research team. (2026, November 2). *What is entity confidence, and
   year = {2026},
   date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/glossary/entity-confidence/},
-  urldate = {2026-11-02},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  urldate = {2026-11-03},
+  note = {Published 2026-11-02; updated 2026-11-04}
 }
 ```
 
@@ -100,7 +100,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

@@ -7,13 +7,13 @@ research_id: 26
 research_group: playbook
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-03T18:40:50+00:00'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-03T18:40:50+00:00'
 is_based_on: https://developers.google.com/search/updates
 ---
 
@@ -108,6 +108,8 @@ Google defines structured data as “a standardized format for providing informa
 
 **Supports:** The Index’s dated citation arrays do not supply a controlled test of adding markup. We have no measurement establishing that a particular type increases a software vendor’s chance of citation.
 
+Our 30 October 2026 [page-signal study](/research/studies/optimized-pages-in-ai-answers/) recorded parseable, nonempty JSON-LD in 3,616 of 4,420 successfully captured target URL records: 81.8%, with a descriptive 95% Wilson interval of 80.6% to 82.9%. These were later page observations for citations in answers captured on 22 and 23 September. The [published signal rows](/research/data/study1-url-classifications.csv) establish that presence, not vocabulary validity, eligibility for a search feature or a citation effect.
+
 **Suggests:** Follow-up within the stated setting.
 
 ## Sources
@@ -123,7 +125,7 @@ Google defines structured data as “a standardized format for providing informa
 
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *Which structured data belongs on a B2B software site?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *Which structured data belongs on a B2B software site?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/ Published 30 October 2026; updated November 3, 2026.
 
 ```bibtex
 @online{broadcastwell2026research26,
@@ -133,7 +135,7 @@ Broadcastwell research team. (2026, October 30). *Which structured data belongs 
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-03}
 }
 ```
 
@@ -141,7 +143,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-03. Next review: 2027-02-02.
 
 ## Continue
 

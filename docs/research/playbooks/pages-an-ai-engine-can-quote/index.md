@@ -7,25 +7,25 @@ research_id: 25
 research_group: playbook
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-03T18:40:50+00:00'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-03T18:40:50+00:00'
 is_based_on: https://arxiv.org/html/2311.09735v3
 ---
 
 # How do you write a page an AI engine can quote?
 
-**GEO’s best tested methods improved position-adjusted word-count visibility by 41%, not citation probability (Aggarwal et al., 2024, Table 1).**
+**Write a supported answer whose evidence, date and counted unit remain clear when the passage is read alone.**
 
 
 Observed answers on stated dates, not a ranking.
-**41%** is a result about a particular visibility metric in a particular experiment. It is not the probability that an AI engine will cite your next article. Aggarwal and colleagues report that the best tested methods improved position-adjusted word-count visibility by 41% and subjective impression by 28% against their benchmark baseline. The tested changes included statistics, quotations and source citations. [Aggarwal et al., 2024, Table 1 and §4](https://arxiv.org/html/2311.09735v3).
+Aggarwal and colleagues tested statistics, quotations and source citations in an experimental answer system using position-adjusted word-count visibility and subjective impressions. Those measures are not the probability that an AI engine will cite a newly published B2B page. [Aggarwal et al., 2024, Table 1 and §4](https://arxiv.org/html/2311.09735v3).
 
-That is a useful reason to make evidence legible. It is not permission to attach an impressive number to a vague claim. The paper uses an experimental answer system and separately examines a deployed system; results depend on the metric, domain and method. Neither setting establishes a universal performance promise for a B2B product page published today.
+The paper’s main result and five-seed appendix do not report the same estimates. We treat that headline as fragile rather than adopting it as a publishing effect. The paper also examines a deployed system, where results vary by method. Neither setting establishes a universal performance promise for a B2B page.
 
 The steps below are our editorial recommendations. They help a person check and quote a page. Their specific order, sentence length and layout have not been established as an optimal formula by that paper.
 
@@ -95,6 +95,8 @@ Google Search Central states, “There are no additional technical requirements.
 
 **Supports:** We have no controlled measurement showing that this page format increases citations or sales. The released Index supplies dated naming and citation observations, which are a different outcome from an intervention effect.
 
+A worked example from our [published citation study](/research/studies/who-ai-engines-cite/) is: 39 of 2,095 eligible target answers captured on 22 and 23 September 2026 had empty supplied citation lists, 1.9%, with a descriptive 95% Wilson interval of 1.4% to 2.5%. The [answer-base table](/research/data/answer-citation-bases.csv) makes the unit and denominator recoverable. This sentence illustrates how to report our own count; it does not show that this writing format earns a citation, or that those answers used no underlying sources.
+
 **Suggests:** Follow-up within the stated setting.
 
 ## Sources
@@ -106,7 +108,7 @@ Google Search Central states, “There are no additional technical requirements.
 
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *How do you write a page an AI engine can quote?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *How do you write a page an AI engine can quote?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/ Published 30 October 2026; updated November 3, 2026.
 
 ```bibtex
 @online{broadcastwell2026research25,
@@ -116,7 +118,7 @@ Broadcastwell research team. (2026, October 30). *How do you write a page an AI 
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-03}
 }
 ```
 
@@ -124,7 +126,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-03. Next review: 2027-02-02.
 
 ## Continue
 

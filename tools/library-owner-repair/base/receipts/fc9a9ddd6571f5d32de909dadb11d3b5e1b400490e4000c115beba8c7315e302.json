@@ -1,0 +1,18 @@
+{
+  "approved": true,
+  "review_kind": "Root-actual-current-price-evidence",
+  "read_utc": "2026-11-04T00:14:52.773840+00:00",
+  "price_receipt_sha256": "9194ec8b73f048f826f1d7d5f4f56bdbd1e65c78c7fb997bc7d0d05aaa78dddf",
+  "price_receipt_path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_SMALL_STAGE2_RELEASE\\PR93_REVIEW\\FRESH_PRICE_RESPONSE_ONCE_2026-11-04\\9194ec8b73f048f826f1d7d5f4f56bdbd1e65c78c7fb997bc7d0d05aaa78dddf.json",
+  "original_price_receipt_preserved": "f85e83933ed594a8cd8ecd16470dfc35b3cfeede7a03b48d8acfb5d57ea7fbf9",
+  "actual_response_sha256": "49b65b54670ce12ffbaebc6a7338f1b2654949210bb3e999f22dd28fdad51e65",
+  "actual_source_text_sha256": "fb7503c422d1908814b25029baaf98008bf3dfe7cf876797d14bf3dd8f5b811e",
+  "unchanged_offer_tuple": [
+    "Answer Repair",
+    "$490",
+    "https://broadcastwell.com/answer-repair"
+  ],
+  "producer_approved": false,
+  "publication_approved": false,
+  "scope": "Actual current-day price authority only. A separate finite producer continuation must be reviewed before any use."
+}

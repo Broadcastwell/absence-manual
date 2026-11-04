@@ -1,0 +1,83 @@
+{
+  "review_kind": "writing",
+  "scope": "owner-exact-repair-changes",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "path": "research/glossary/information-gain/index.md",
+  "private_source_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V7\\manuscripts\\docs\\research\\glossary\\information-gain\\index.md",
+  "canonical_source_sha256": "026a16a4cf6836a5b650723ce2e13ebf5afc46f6932501e3daa1ce1d644cf19f",
+  "before_effective_canonical_source_sha256": "026a16a4cf6836a5b650723ce2e13ebf5afc46f6932501e3daa1ce1d644cf19f",
+  "effective_canonical_source_sha256": "41d0de6497383c72858a32ee310bd1b23636efb639398605fe5206c07590419f",
+  "effective_body_sha256": "defa1e01d546abe8a78a777e0e908794833633f2e16d08bdd01235af60aa2ff1",
+  "effective_meta_sha256": "7a9b39c926b1c2e2054b76654ad73a3e8e9f1ff3eca17f1a9c2e976a0cc29b71",
+  "raw_after_sha256": "41d0de6497383c72858a32ee310bd1b23636efb639398605fe5206c07590419f",
+  "actual_Root_adoption_date_modified": "2026-11-03T21:07:36+00:00",
+  "approved": true,
+  "approved_exact_repair_changes": true,
+  "owner_requested_literal_changes_match": true,
+  "current_full_file_actually_read": true,
+  "full_article_read_complete": true,
+  "read_coverage": {
+    "kind": "Complete actual V6 before and V7 after metadata/body/tail reread",
+    "tool_output_chunk": "101115",
+    "visual_read_claim": false
+  },
+  "preserved_facts": true,
+  "independent_exact_inverse_verified": true,
+  "repair_change_ledger_sha256": "d2474b7a10aacc6fd398d04af6d73626a972e01ddbba1c3ab0954b25631994dc",
+  "repair_change_ledger": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V7_INFO_TRIM_FINAL_SCOPED_WRITING_V1\\CUMULATIVE_PR91_TO_V7_REPAIR_CHANGE_LEDGER.json",
+    "sha256": "d2474b7a10aacc6fd398d04af6d73626a972e01ddbba1c3ab0954b25631994dc"
+  },
+  "full_context_judgment": "The four trims remove repetition while preserving the distinction between editorial usefulness, patented context and a measured search effect. The correction still concerns classification sensitivity. The complete1706/18893 versus1663/18893 own-data paragraph, source history, dates, intervals, quotations, URLs, byline and citation records remain exact. The shorter quality-check paragraph remains clear. No unsupported novelty score, production deployment or ranking effect is introduced.",
+  "required_current_followups": [
+    "The owning owner-exact source class must consume this exact reviewed additional trim ledger/inverse before its build gate can pass. No validator relaxation or publication approval is supplied by this receipt."
+  ],
+  "remaining_prior_S5_defects": [],
+  "current_S5_pass": null,
+  "ordinary_full_effective_article_S5_approval": false,
+  "Root_build_publication_live_approval": false,
+  "frozen_article_or_asset_edited": false,
+  "CSS_live_source_before_required": false,
+  "Root_adoption_manifest": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V7\\ROOT_ADOPTION.json",
+    "sha256": "1309f3e9e2ca53e13b201d1c378f089e119b6ffd583b03a4afd75548300aa4d0"
+  },
+  "prior_V2_actual_read_and_scope_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V2_FULL_CONTEXT_WRITING_V1\\receipts\\docs__research__glossary__information-gain__index.md.json",
+    "sha256": "11742f08876022db74e37dc406f0c2069cb06539ad2dff9249ce814fa416773f"
+  },
+  "review_created_utc": "2026-11-03T21:24:12.045771+00:00",
+  "resolved_V2_findings": [
+    {
+      "line": 87,
+      "quote": "Published November 2, 2026; updated November 2, 2026.",
+      "kind": "visible current-page update-date mismatch",
+      "disposition": "Required finite V3 date-coherence correction; preserve source/capture/check/version dates."
+    },
+    {
+      "line": 97,
+      "quote": "note = {Published 2026-10-30; updated 2026-10-30}",
+      "kind": "visible current-page update-date mismatch",
+      "disposition": "Required finite V3 date-coherence correction; preserve source/capture/check/version dates."
+    },
+    {
+      "line": 105,
+      "quote": "Last updated: 2026-11-02. Next review: 2027-02-02.",
+      "kind": "visible current-page update-date mismatch",
+      "disposition": "Required finite V3 date-coherence correction; preserve source/capture/check/version dates."
+    }
+  ],
+  "additional_exact_trim_ledger": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V7_INFO_TRIM_FINAL_SCOPED_WRITING_V1\\V6_TO_V7_EXACT_FOUR_TRIM_LEDGER.json",
+    "sha256": "6ee84ad5db688ee2664b27d724d8d8e58cb26b5e379fa7bfeb08a620dd160db9"
+  },
+  "additional_exact_trim_ledger_sha256": "6ee84ad5db688ee2664b27d724d8d8e58cb26b5e379fa7bfeb08a620dd160db9",
+  "prior_V6_current_scoped_Writing_peer": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V3_FINAL_SCOPED_WRITING_V1\\receipts\\docs__research__glossary__information-gain__index.md.json",
+    "sha256": "72e0a37f066d24603a807e37c919cd26c7f69f037b013eba2d288c866a1c153c"
+  },
+  "exact_inverse_count_carry_proof": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V7_INFO_TRIM_FINAL_SCOPED_WRITING_V1\\EXACT_INVERSE_COUNT_AND_CARRY_PROOF.json",
+    "sha256": "71e1cb959000f66d5ae02a4ead332b783767d3715c8f44aab6bed5029fe9db43"
+  }
+}

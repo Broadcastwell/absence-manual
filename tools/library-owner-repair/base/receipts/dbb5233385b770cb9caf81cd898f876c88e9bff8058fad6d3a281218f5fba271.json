@@ -1,0 +1,1742 @@
+{
+  "approved": true,
+  "recorded_utc": "2026-11-03T22:07:21.828942+00:00",
+  "review_kind": "Root-actual-PR92-prior-production-identity",
+  "producer_sha256": "9875f6d3e1388f211266fbda319843187e4149ca6982af6cd2c1cb45b576aa9c",
+  "head": "53f0d07d6fbd8a740a21a9895e56e4d5cb574ccc",
+  "tree": "c5db66acddd851e97d01814333120a4f375d28e2",
+  "actual_current_production_binding": {
+    "commit_sha": "a95280950e5e2b55efe93ef341ff468a2206b9ca",
+    "deployment_id": "41726446851",
+    "artifact_sha256": "05ff987007321fcd80bdbd0ba27b020f8628422849e26d36e92f54e9c12f6668",
+    "served_receipt_sha256": "3c69589c59df675e8df1438f203741bdd0368659768893bef7fe1b4607fa43c1"
+  },
+  "JSON_value_replay_comparisons": [
+    {
+      "file": "active-revisions.json",
+      "JSON_values_exact": true,
+      "first_sha256": "d42e4b747394e9837b777c788886750433b8e41c4e96abeebd6fa23c700a1686",
+      "second_sha256": "d42e4b747394e9837b777c788886750433b8e41c4e96abeebd6fa23c700a1686"
+    },
+    {
+      "file": "annotations.json",
+      "JSON_values_exact": true,
+      "first_sha256": "50bd67068b4484f3b04b3688a39bc9e51cbfff8cd3fff04d6b6391346aa4d0b8",
+      "second_sha256": "50bd67068b4484f3b04b3688a39bc9e51cbfff8cd3fff04d6b6391346aa4d0b8"
+    },
+    {
+      "file": "authorized-changes.json",
+      "JSON_values_exact": true,
+      "first_sha256": "d8f57cd181aa6a45d2048f16f0454b20a3e66af3fc7be46197a43815d8110be9",
+      "second_sha256": "d8f57cd181aa6a45d2048f16f0454b20a3e66af3fc7be46197a43815d8110be9"
+    },
+    {
+      "file": "CONSUMER_PROOF.json",
+      "JSON_values_exact": true,
+      "first_sha256": "2286e9039ebfdbed96c48d4bf907be55e46b1db6c4dc8876063ea9b11f407f4a",
+      "second_sha256": "2286e9039ebfdbed96c48d4bf907be55e46b1db6c4dc8876063ea9b11f407f4a"
+    },
+    {
+      "file": "current-leaves.json",
+      "JSON_values_exact": true,
+      "first_sha256": "e0ba4efdfd2806963283c6b55f29f15cb1944f5cd2fd83a523064e15ee556bdf",
+      "second_sha256": "e0ba4efdfd2806963283c6b55f29f15cb1944f5cd2fd83a523064e15ee556bdf"
+    },
+    {
+      "file": "current-pins.json",
+      "JSON_values_exact": true,
+      "first_sha256": "b9f81132ce335383c1c7645b430457edf251f34a21a9b46481cbbb12b6ddf32f",
+      "second_sha256": "b9f81132ce335383c1c7645b430457edf251f34a21a9b46481cbbb12b6ddf32f"
+    },
+    {
+      "file": "field-effective-receipt.CANDIDATE.json",
+      "JSON_values_exact": true,
+      "first_sha256": "ae37dfb902f2faceb77abc5ba748948e16f8086605ddb379bd3201d238876195",
+      "second_sha256": "6f23ff2b96b3d15008c384eb8b6fd63fb1029701dad2de7c626947d9680d40ea"
+    },
+    {
+      "file": "field-registry.json",
+      "JSON_values_exact": true,
+      "first_sha256": "c346b0f6a7997449f4eccbaf662b53f7ae25ba21a57341f786dc7d673db1798c",
+      "second_sha256": "c346b0f6a7997449f4eccbaf662b53f7ae25ba21a57341f786dc7d673db1798c"
+    },
+    {
+      "file": "FULL_CURRENT_BOTH_SCOPES_FAIL.json",
+      "JSON_values_exact": true,
+      "first_sha256": "8318fcd46419cf956e91f3bddad3695aa3a8e49fcd4773ced812dd24402143d3",
+      "second_sha256": "4ecb4bdb3f9fd4536e0b2c9fee041cfd97374dc1471c66904dd654638ceada24"
+    },
+    {
+      "file": "hub-changes.json",
+      "JSON_values_exact": true,
+      "first_sha256": "d42e4b747394e9837b777c788886750433b8e41c4e96abeebd6fa23c700a1686",
+      "second_sha256": "d42e4b747394e9837b777c788886750433b8e41c4e96abeebd6fa23c700a1686"
+    },
+    {
+      "file": "merges.json",
+      "JSON_values_exact": true,
+      "first_sha256": "824561c43e79229b0b267d9ae1028fa081d6489f281411ea5488682909deeb3b",
+      "second_sha256": "824561c43e79229b0b267d9ae1028fa081d6489f281411ea5488682909deeb3b"
+    },
+    {
+      "file": "navigation-aliases.json",
+      "JSON_values_exact": true,
+      "first_sha256": "244cbec34c4a30b62f905c38dc7de7d97b7188a95cc4f0520947b66f795c2ffb",
+      "second_sha256": "244cbec34c4a30b62f905c38dc7de7d97b7188a95cc4f0520947b66f795c2ffb"
+    },
+    {
+      "file": "prior-hub-payloads.json",
+      "JSON_values_exact": true,
+      "first_sha256": "5a3a2394f30bdd650d91a1778cee5fc9b67d9dc1a3d1fe8cb17874a2bf607209",
+      "second_sha256": "5a3a2394f30bdd650d91a1778cee5fc9b67d9dc1a3d1fe8cb17874a2bf607209"
+    },
+    {
+      "file": "prior-payload.json",
+      "JSON_values_exact": true,
+      "first_sha256": "baa656e746314c7b90390d549e062ca134f75e733238310055de6ac4865cdff8",
+      "second_sha256": "baa656e746314c7b90390d549e062ca134f75e733238310055de6ac4865cdff8"
+    },
+    {
+      "file": "prior-state.json",
+      "JSON_values_exact": true,
+      "first_sha256": "2ebf0a1c0d072063f2a2ede51ae36cea1f41769cc6c64a995cdb6ee90bd6f835",
+      "second_sha256": "4cde00420db675455a60fc1d33e5f6bdf1f9f87c276af964fe34858f979720cf"
+    },
+    {
+      "file": "related-requirements.json",
+      "JSON_values_exact": true,
+      "first_sha256": "e84f4f172d763f20b7c4336938f9a5c391e77dd4c64f66baaf0bb5aee4bed4af",
+      "second_sha256": "e84f4f172d763f20b7c4336938f9a5c391e77dd4c64f66baaf0bb5aee4bed4af"
+    }
+  ],
+  "Git_source_blobs": 975,
+  "source_hub_contexts": 320,
+  "actual_public787": true,
+  "active_articles": 308,
+  "raw_leaf_history": 326,
+  "retired_canonical200_pages": 18,
+  "retained_payloads_exact": 288,
+  "published_revisions_exact": 20,
+  "all23_previous_PASS_payloads_peerIDs_exact": true,
+  "all18_original_retirement_decision_bytes_retained": true,
+  "prior_producer_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\ACTUAL308_POST_COHERENT20_18_PRIOR_PRODUCTION\\root-approved-second-replay-v4\\inputs\\production-payload-receipt.ROOT_APPROVED.json",
+    "sha256": "47cc09c4aa8d3109bf1367e50c9bbaebf3d6cfea967f410f5ebae28c1c33bb65"
+  },
+  "field_effective_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\ACTUAL308_POST_COHERENT20_18_PRIOR_PRODUCTION\\root-approved-second-replay-v4\\inputs\\field-effective-receipt.ROOT_APPROVED.json",
+    "sha256": "12d303bea779378fb45f1b7eba95a4270c8d14a2bc534843cab7a895140a35d4"
+  },
+  "actual_unchanged_publication_lastmods_bound": 320,
+  "lastmod_audit": {
+    "answers/agents/can-an-ai-assistant-find-a-software-pricing-page.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/agents/can-construction-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T16:21:51+00:00"
+    },
+    "answers/agents/can-crm-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T16:21:51+00:00"
+    },
+    "answers/agents/can-dealership-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:27:16+00:00"
+    },
+    "answers/agents/can-dental-practice-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T19:13:03+00:00"
+    },
+    "answers/agents/can-field-service-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:27:51+00:00"
+    },
+    "answers/agents/can-hotel-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:28:32+00:00"
+    },
+    "answers/agents/can-insurance-agency-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T20:34:23+00:00"
+    },
+    "answers/agents/can-legal-practice-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T20:34:23+00:00"
+    },
+    "answers/agents/can-loan-origination-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T20:38:26+00:00"
+    },
+    "answers/agents/can-radiology-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T00:26:11+00:00"
+    },
+    "answers/agents/can-residential-property-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T00:38:53+00:00"
+    },
+    "answers/agents/can-transportation-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T00:26:11+00:00"
+    },
+    "answers/agents/can-veterinary-software-integrate-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T00:33:32+00:00"
+    },
+    "answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/agents/does-finding-a-page-prove-an-ai-assistant-understood-it.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/agents/how-can-a-software-website-make-its-public-pricing-path-clearer.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/agents/how-does-an-ai-connector-differ-from-browsing-a-website.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/agents/how-far-can-an-ai-assistant-get-along-a-software-demo-path.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/agents/is-agent-to-agent-commerce-a-viable-business-opportunity.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T01:50:02+00:00"
+    },
+    "answers/agents/what-are-the-benefits-and-risks-of-connecting-hubspot-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T01:51:26+00:00"
+    },
+    "answers/agents/what-can-an-ai-assistant-learn-from-a-software-website.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/buying/79dev-com-geo-services-worth-it.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T00:26:11+00:00"
+    },
+    "answers/buying/can-a-geo-agency-guarantee-ai-recommendations.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/buying/how-can-i-check-a-geo-vendor-s-published-measurement-method.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:01:27+00:00"
+    },
+    "answers/buying/how-can-i-check-whether-a-geo-tool-covers-the-engines-i-need.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/buying/how-does-geo-change-the-work-of-a-traditional-seo-agency.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T06:34:44+00:00"
+    },
+    "answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/buying/how-does-seer-interactive-compare-to-other-geo-agencies-when-it-comes.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:40:49+00:00"
+    },
+    "answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:01:27+00:00"
+    },
+    "answers/buying/how-should-an-agency-report-ai-visibility-for-multiple-clients.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/buying/how-should-i-evaluate-a-geo-case-study.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/buying/i-m-a-public-affairs-agency-lead-for-our-regulated-industry-clients-su.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T12:49:04+00:00"
+    },
+    "answers/buying/is-blobic-a-good-white-label-geo-provider.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:40:49+00:00"
+    },
+    "answers/buying/should-i-buy-ai-visibility-monitoring-or-a-completed-page-fix.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/buying/should-i-compare-geo-prices-per-prompt-or-per-valid-answer.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/buying/we-re-looking-for-an-ai-visibility-agency-that-can-get-our-brand-into.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T04:52:45+00:00"
+    },
+    "answers/buying/what-belongs-in-a-white-label-geo-delivery-scope.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/buying/what-can-an-agency-deliver-when-a-client-asks-for-geo.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T04:46:30+00:00"
+    },
+    "answers/buying/what-does-an-ai-visibility-audit-include.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T20:44:04+00:00"
+    },
+    "answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/buying/what-evidence-should-i-keep-when-an-ai-visibility-engagement-ends.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/buying/what-should-a-geo-content-and-implementation-scope-include.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:01:27+00:00"
+    },
+    "answers/buying/what-should-an-initial-geo-project-measure.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:01:27+00:00"
+    },
+    "answers/buying/which-aeo-agencies-should-a-buyer-compare-in-the-united-states.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T06:49:29+00:00"
+    },
+    "answers/buying/which-agencies-document-work-across-ai-answer-engines.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T16:14:21+00:00"
+    },
+    "answers/buying/which-geo-agencies-serve-new-companies.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T16:14:21+00:00"
+    },
+    "answers/buying/which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T21:59:18+00:00"
+    },
+    "answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/changes/how-should-i-check-a-reported-vulnerability-s-product-impact.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/changes/how-should-i-verify-a-fixed-version-quoted-by-an-ai-answer.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:01:27+00:00"
+    },
+    "answers/changes/how-should-we-date-an-ai-facing-incident-statement.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:01:27+00:00"
+    },
+    "answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:01:27+00:00"
+    },
+    "answers/changes/how-should-we-preserve-conflicting-ai-incident-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/changes/which-ai-visibility-tools-monitor-factual-accuracy.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T14:45:58+00:00"
+    },
+    "answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:27:16+00:00"
+    },
+    "answers/chatgpt/how-can-a-business-be-recommended-by-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T16:05:30+00:00"
+    },
+    "answers/chatgpt/how-can-a-page-get-cited-by-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T16:05:30+00:00"
+    },
+    "answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:27:51+00:00"
+    },
+    "answers/chatgpt/how-many-software-vendors-does-chatgpt-name-in-an-answer.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:06:10+00:00"
+    },
+    "answers/chatgpt/which-construction-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:04:51+00:00"
+    },
+    "answers/chatgpt/which-crm-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:04:51+00:00"
+    },
+    "answers/chatgpt/which-dealership-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:04:51+00:00"
+    },
+    "answers/chatgpt/which-dental-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/chatgpt/which-hotel-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:04:51+00:00"
+    },
+    "answers/chatgpt/which-insurance-agency-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/chatgpt/which-loan-origination-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:06:10+00:00"
+    },
+    "answers/chatgpt/which-project-management-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:06:10+00:00"
+    },
+    "answers/chatgpt/which-property-management-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:06:10+00:00"
+    },
+    "answers/chatgpt/which-radiology-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:06:10+00:00"
+    },
+    "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/chatgpt/which-veterinary-software-does-chatgpt-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:20:01+00:00"
+    },
+    "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/claude/how-does-claude-web-search-work.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/claude/which-construction-software-does-claude-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/claude/which-crm-software-does-claude-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/claude/which-dealership-software-does-claude-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/claude/which-dental-software-does-claude-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/claude/which-field-service-software-does-claude-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/claude/which-hotel-software-does-claude-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/claude/which-insurance-agency-software-does-claude-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/claude/which-legal-practice-software-does-claude-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/claude/which-loan-origination-software-does-claude-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/claude/which-project-management-software-does-claude-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/fixes/can-google-ai-overview-answers-be-changed.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T00:26:11+00:00"
+    },
+    "answers/fixes/does-a-crawler-request-count-as-a-buyer-visit.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T04:24:00+00:00"
+    },
+    "answers/fixes/how-can-i-check-chatgpt-s-seo-output.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T00:26:11+00:00"
+    },
+    "answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T01:50:02+00:00"
+    },
+    "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:31:03+00:00"
+    },
+    "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:07:16+00:00"
+    },
+    "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:01:27+00:00"
+    },
+    "answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:07:16+00:00"
+    },
+    "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:07:16+00:00"
+    },
+    "answers/fixes/how-should-i-check-an-llms-txt-file.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:31:03+00:00"
+    },
+    "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T20:53:21+00:00"
+    },
+    "answers/fixes/how-should-i-request-an-ai-fact-correction-with-a-source-receipt.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/fixes/how-should-i-structure-headings-for-ai-crawlers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:07:16+00:00"
+    },
+    "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T13:55:12+00:00"
+    },
+    "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T13:33:57+00:00"
+    },
+    "answers/fixes/how-should-teams-handle-seo-and-geo-in-day-to-day-work.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T20:44:45+00:00"
+    },
+    "answers/fixes/is-llms-txt-actually-used.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:25:59+00:00"
+    },
+    "answers/fixes/is-llms-txt-required-for-ai-search-visibility.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:31:03+00:00"
+    },
+    "answers/fixes/what-does-google-s-guidance-say-about-llms-txt.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T01:52:43+00:00"
+    },
+    "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:34:42+00:00"
+    },
+    "answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T01:50:02+00:00"
+    },
+    "answers/fixes/what-is-an-llms-txt-checker.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T20:50:39+00:00"
+    },
+    "answers/fixes/what-is-an-llms-txt-file.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:27:16+00:00"
+    },
+    "answers/fixes/what-should-an-ai-information-page-say-about-our-company.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:28:42+00:00"
+    },
+    "answers/fixes/what-should-i-include-in-an-llms-txt-file.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:31:03+00:00"
+    },
+    "answers/fixes/which-ai-visibility-tools-also-complete-content-changes.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T14:45:58+00:00"
+    },
+    "answers/fixes/which-websites-have-an-llms-txt-file.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:27:51+00:00"
+    },
+    "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/geo-basics/can-ai-search-use-information-from-the-live-web.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T13:55:12+00:00"
+    },
+    "answers/geo-basics/can-i-use-ai-to-do-my-seo.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T13:54:55+00:00"
+    },
+    "answers/geo-basics/can-i-use-chatgpt-as-a-crm.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T12:51:00+00:00"
+    },
+    "answers/geo-basics/chatgpt-seo-skills.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/do-brand-name-prompts-measure-discovery.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:21:51+00:00"
+    },
+    "answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:21:51+00:00"
+    },
+    "answers/geo-basics/does-ai-search-replace-seo.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T14:27:52+00:00"
+    },
+    "answers/geo-basics/does-an-ai-brand-mention-mean-the-product-was-recommended.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/geo-basics/does-an-ai-shortlist-show-what-buyers-actually-purchase.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/geo-basics/does-being-named-by-ai-prove-product-quality.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/geo-basics/how-can-chatgpt-help-with-seo-content.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/how-do-ai-visibility-vendors-differ-for-regulated-industries.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T22:51:12+00:00"
+    },
+    "answers/geo-basics/how-do-profound-and-seo-clarity-compare-for-tracking-brand-coverage-in.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T15:01:13+00:00"
+    },
+    "answers/geo-basics/how-do-profound-and-seoclarity-compare.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T04:50:55+00:00"
+    },
+    "answers/geo-basics/how-do-suede-and-athenahq-compare-for-tracking-citations-across-models.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T07:01:07+00:00"
+    },
+    "answers/geo-basics/how-do-suede-and-athenahq-differ-beyond-price-for-a-pac.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T12:23:30+00:00"
+    },
+    "answers/geo-basics/how-do-suede-and-profound-compare-for-permitting-and-community-narrati.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T11:25:37+00:00"
+    },
+    "answers/geo-basics/how-do-suede-profound-and-athenahq-compare-for-a-trade-group-in-a-regu.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T12:23:30+00:00"
+    },
+    "answers/geo-basics/how-does-chatgpt-relate-to-seo.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/geo-basics/how-does-perplexity-relate-to-seo.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/how-does-profound-track-brand-coverage-across-ai-answer-engines.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T14:45:58+00:00"
+    },
+    "answers/geo-basics/how-might-ai-search-engines-change-the-web.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:35:16+00:00"
+    },
+    "answers/geo-basics/how-well-can-entry-level-geo-solutions-scale-with-a-growing-business.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T20:47:14+00:00"
+    },
+    "answers/geo-basics/is-geo-a-legitimate-strategy.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/is-geo-a-separate-skill-from-seo.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/is-learning-seo-and-geo-worthwhile-in-2026.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/is-perplexity-good-for-seo.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T13:54:55+00:00"
+    },
+    "answers/geo-basics/origence.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T04:24:00+00:00"
+    },
+    "answers/geo-basics/peec-visibility-or-aeo-or-geo-or-search-or-citation-or-seo-or-generati.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T05:20:29+00:00"
+    },
+    "answers/geo-basics/what-are-alternatives-to-brightedge-for-geo.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T06:34:44+00:00"
+    },
+    "answers/geo-basics/what-are-alternatives-to-go-fish-digital-for-geo.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T16:14:21+00:00"
+    },
+    "answers/geo-basics/what-are-examples-of-answer-engine-optimization.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/what-are-the-top-3-crm-platforms.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T12:51:00+00:00"
+    },
+    "answers/geo-basics/what-can-a-cited-domain-tell-me-about-an-ai-source.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:21:51+00:00"
+    },
+    "answers/geo-basics/what-can-perplexity-computer-do-for-seo.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:31:27+00:00"
+    },
+    "answers/geo-basics/what-certifications-cover-answer-engine-optimization.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/what-courses-cover-answer-engine-optimization.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/what-does-ai-visibility-mean.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:22:04+00:00"
+    },
+    "answers/geo-basics/what-does-blue-yonder-publish-about-ltl-freight-shipping.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T11:16:39+00:00"
+    },
+    "answers/geo-basics/what-does-brand-visibility-in-chatgpt-mean.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/what-does-geo-mean-in-ai-search.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/geo-basics/what-does-llm-in-ai-mean.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T14:00:17+00:00"
+    },
+    "answers/geo-basics/what-does-searchable-offer-for-ai-search-visibility.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:21:51+00:00"
+    },
+    "answers/geo-basics/what-does-visibility-in-claude-mean.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/what-is-an-ai-software-shortlist.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/geo-basics/what-jobs-involve-answer-engine-optimization.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T03:02:27+00:00"
+    },
+    "answers/geo-basics/what-platform-scores-competitors-on-generative-engine-prominence.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T06:34:44+00:00"
+    },
+    "answers/geo-basics/what-seo-prompts-can-i-use-with-chatgpt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/what-should-i-learn-for-technical-seo-aeo-and-geo.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/what-sizes-of-dental-practice-use-dentrix-ascend-for-scheduling-and-bi.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T12:23:30+00:00"
+    },
+    "answers/geo-basics/which-ai-based-crm-is-the-best.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T13:54:55+00:00"
+    },
+    "answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/geo-basics/which-tools-combine-ai-visibility-and-social-listening.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T13:56:14+00:00"
+    },
+    "answers/geo-basics/who-has-practical-experience-implementing-geo-or-aeo.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/geo-basics/who-has-the-best-geo-results-in-competitive-industries.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T13:54:55+00:00"
+    },
+    "answers/geo-basics/why-can-the-same-ai-question-produce-different-names.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/geo-basics/why-does-the-buyer-question-matter-to-an-ai-shortlist.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:21:51+00:00"
+    },
+    "answers/geo-basics/will-crm-get-replaced-by-ai.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T14:48:50+00:00"
+    },
+    "answers/google-ai/can-i-disable-google-ai-overviews.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T19:04:28+00:00"
+    },
+    "answers/google-ai/does-google-extended-control-ai-overview-or-ai-mode-visibility.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:21:51+00:00"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-affect-website-visibility.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-and-ai-mode-compare.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:21:51+00:00"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-and-generative-ui-relate.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T00:26:11+00:00"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-choose-sources.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T04:46:30+00:00"
+    },
+    "answers/google-ai/how-do-i-get-a-google-ai-overview.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T16:17:32+00:00"
+    },
+    "answers/google-ai/how-do-people-use-google-ai-mode.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T04:46:30+00:00"
+    },
+    "answers/google-ai/how-does-google-ai-mode-change-keyword-research.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T01:50:02+00:00"
+    },
+    "answers/google-ai/how-does-google-ai-mode-choose-cited-sources.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:21:51+00:00"
+    },
+    "answers/google-ai/is-the-ai-overview-gone.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T19:04:28+00:00"
+    },
+    "answers/google-ai/is-there-an-api-for-google-ai-overviews.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T01:50:02+00:00"
+    },
+    "answers/google-ai/should-ai-overview-rates-include-searches-without-an-overview.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:21:51+00:00"
+    },
+    "answers/google-ai/what-is-a-google-ai-overview.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T13:55:12+00:00"
+    },
+    "answers/google-ai/what-is-deep-search-in-google-ai-mode.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T22:52:52+00:00"
+    },
+    "answers/google-ai/what-is-google-ai-mode.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/google-ai/which-construction-software-does-google-ai-overviews-name.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:19:10+00:00"
+    },
+    "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:19:10+00:00"
+    },
+    "answers/google-ai/which-dental-practice-software-does-google-ai-overviews-name.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:19:10+00:00"
+    },
+    "answers/google-ai/which-field-service-software-does-google-ai-mode-name.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:19:10+00:00"
+    },
+    "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:19:10+00:00"
+    },
+    "answers/google-ai/which-software-tracks-brand-rankings-in-google-ai-overviews-and-bing-c.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T16:05:30+00:00"
+    },
+    "answers/google-ai/which-veterinary-software-does-google-ai-mode-name.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:19:10+00:00"
+    },
+    "answers/google-ai/why-does-google-ai-overviews-not-appear-for-every-search.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T04:24:00+00:00"
+    },
+    "answers/google-ai/why-is-google-ai-mode-not-working.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T21:25:47+00:00"
+    },
+    "answers/industries/crm-software-chatgpt-free.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T04:50:55+00:00"
+    },
+    "answers/industries/crm-software-chatgpt-project-management.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T04:14:25+00:00"
+    },
+    "answers/industries/crm-software-chatgpt-reddit.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T11:43:13+00:00"
+    },
+    "answers/industries/dealership-software-chatgpt-project-management.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T12:28:58+00:00"
+    },
+    "answers/industries/digitail-vs-ezyvet-for-ai-native-veterinary-practice-management-with-t.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T21:59:18+00:00"
+    },
+    "answers/industries/does-housecall-pro-provide-field-service-management-software-for-home.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T16:21:51+00:00"
+    },
+    "answers/industries/hotel-property-management-software-chatgpt-free.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T00:26:19+00:00"
+    },
+    "answers/industries/insurance-agency-software-chatgpt-project-management.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T00:26:19+00:00"
+    },
+    "answers/industries/is-dentally-a-good-fit-for-uk-dentists-running-a-cloud-based-practice.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:55:40+00:00"
+    },
+    "answers/industries/legal-practice-software-chatgpt-free.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T00:26:19+00:00"
+    },
+    "answers/industries/loan-origination-software-chatgpt-free.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T00:26:19+00:00"
+    },
+    "answers/industries/radiology-software-chatgpt-project-management.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/industries/transportation-management-software-chatgpt-free.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T00:26:19+00:00"
+    },
+    "answers/industries/what-are-the-top-five-project-management-software-options.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/industries/what-do-ai-answers-say-about-property-management-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T14:45:58+00:00"
+    },
+    "answers/industries/what-should-i-compare-when-choosing-a-crm-for-outbound-calls.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/industries/which-crm-software-should-a-buyer-compare.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T20:46:33+00:00"
+    },
+    "answers/industries/which-industrial-ai-platforms-integrate-best-with-erp-eam-fsm-and-proj.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T19:40:45+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-construction-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:25:55+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-crm-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:25:55+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-dealership-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:22:41+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-dental-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:22:41+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-field-service-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:22:41+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-hotel-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:22:41+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-insurance-agency-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:12:00+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-legal-practice-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:12:00+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-loan-origination-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:12:00+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-project-management-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:12:00+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-radiology-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:10:36+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-transportation-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:10:36+00:00"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-veterinary-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:10:36+00:00"
+    },
+    "answers/industries/which-sources-does-ai-cite-for-property-management-software.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:10:36+00:00"
+    },
+    "answers/industries/why-is-my-construction-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:25:55+00:00"
+    },
+    "answers/industries/why-is-my-crm-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:25:55+00:00"
+    },
+    "answers/industries/why-is-my-dealership-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:22:41+00:00"
+    },
+    "answers/industries/why-is-my-dental-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:22:41+00:00"
+    },
+    "answers/industries/why-is-my-field-service-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:22:41+00:00"
+    },
+    "answers/industries/why-is-my-hotel-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:22:41+00:00"
+    },
+    "answers/industries/why-is-my-insurance-agency-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T01:22:41+00:00"
+    },
+    "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:12:00+00:00"
+    },
+    "answers/industries/why-is-my-loan-origination-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:12:00+00:00"
+    },
+    "answers/industries/why-is-my-project-management-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:12:00+00:00"
+    },
+    "answers/industries/why-is-my-property-management-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:10:36+00:00"
+    },
+    "answers/industries/why-is-my-radiology-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:12:00+00:00"
+    },
+    "answers/industries/why-is-my-transportation-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:10:36+00:00"
+    },
+    "answers/industries/why-is-my-veterinary-software-missing-from-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T02:10:36+00:00"
+    },
+    "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T06:06:23+00:00"
+    },
+    "answers/measurement/can-google-bing-and-llms-find-content-on-threads.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T04:50:55+00:00"
+    },
+    "answers/measurement/do-ai-product-answers-cite-reddit.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T06:06:23+00:00"
+    },
+    "answers/measurement/do-youtube-transcripts-affect-llm-citations.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T13:00:05+00:00"
+    },
+    "answers/measurement/does-medium-get-cited-in-ai-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:06:10+00:00"
+    },
+    "answers/measurement/does-profound-provide-a-full-seo-audit-or-a-partial-audit.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T00:30:17+00:00"
+    },
+    "answers/measurement/how-can-a-buyer-verify-the-conclusion.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T12:51:00+00:00"
+    },
+    "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T22:18:06+00:00"
+    },
+    "answers/measurement/how-can-i-check-ai-search-visibility.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T01:50:02+00:00"
+    },
+    "answers/measurement/how-can-i-check-whether-an-ai-citation-supports-its-claim.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:06:10+00:00"
+    },
+    "answers/measurement/how-can-i-evaluate-hotwire-gaio-tech-as-an-ai-visibility-product.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T15:01:13+00:00"
+    },
+    "answers/measurement/how-can-i-track-brand-visibility-in-claude.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T04:24:00+00:00"
+    },
+    "answers/measurement/how-can-i-verify-that-an-ai-visibility-tracker-uses-live-answers.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T01:50:02+00:00"
+    },
+    "answers/measurement/how-can-server-logs-show-whether-ai-crawlers-request-llms-txt.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T12:51:00+00:00"
+    },
+    "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T14:14:39+00:00"
+    },
+    "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T17:48:28+00:00"
+    },
+    "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T07:07:56+00:00"
+    },
+    "answers/measurement/how-does-google-ai-mode-affect-site-clicks.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T12:51:00+00:00"
+    },
+    "answers/measurement/how-many-repeated-runs-make-an-ai-visibility-rate-useful.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:06:10+00:00"
+    },
+    "answers/measurement/how-should-a-report-present-these-outcomes.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T13:54:55+00:00"
+    },
+    "answers/measurement/how-should-i-check-an-ai-baseline-before-changing-content.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:06:10+00:00"
+    },
+    "answers/measurement/how-should-the-report-show-visits.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T13:54:55+00:00"
+    },
+    "answers/measurement/if-llms-txt-has-no-impact-on-ai-visibility-why-did-google-add-it-into.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T06:43:02+00:00"
+    },
+    "answers/measurement/is-geo-more-effective-than-seo.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T07:07:57+00:00"
+    },
+    "answers/measurement/what-ai-visibility-products-does-hotwire-gaio-tech-offer.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T00:26:11+00:00"
+    },
+    "answers/measurement/what-can-search-console-show-about-ai-visibility-queries.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:06:10+00:00"
+    },
+    "answers/measurement/what-counts-as-a-brand-mention-in-an-ai-answer.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:21:51+00:00"
+    },
+    "answers/measurement/what-counts-as-an-own-domain-citation-in-an-ai-answer.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T23:21:51+00:00"
+    },
+    "answers/measurement/what-did-the-buyer-report.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T14:48:50+00:00"
+    },
+    "answers/measurement/what-does-a-recorded-ai-referral-establish.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:06:10+00:00"
+    },
+    "answers/measurement/what-does-athena-publish-about-data-accuracy.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T20:59:59+00:00"
+    },
+    "answers/measurement/what-does-hotwire-gaio-tech-publish-about-data-accuracy.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T16:17:32+00:00"
+    },
+    "answers/measurement/what-does-hotwire-gaio-tech-publish-about-model-coverage.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T20:47:14+00:00"
+    },
+    "answers/measurement/what-does-the-business-record-establish.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T14:48:50+00:00"
+    },
+    "answers/measurement/what-evidence-can-connect-ai-visibility-with-pipeline.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/measurement/what-information-belongs-in-a-public-report.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T14:27:52+00:00"
+    },
+    "answers/measurement/what-is-a-good-ai-visibility-score.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T17:40:48+00:00"
+    },
+    "answers/measurement/what-is-an-ai-visibility-index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T01:50:02+00:00"
+    },
+    "answers/measurement/what-should-a-client-ai-visibility-report-contain.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-28T21:22:04+00:00"
+    },
+    "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T00:26:11+00:00"
+    },
+    "answers/measurement/which-ai-visibility-platforms-support-multiple-agency-clients.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:27:16+00:00"
+    },
+    "answers/measurement/which-ai-visibility-signals-should-shape-an-seo-roadmap.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T00:06:10+00:00"
+    },
+    "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T14:45:58+00:00"
+    },
+    "answers/measurement/which-measures-belong-beside-one-another.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-29T18:27:51+00:00"
+    },
+    "answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T06:06:23+00:00"
+    },
+    "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T07:05:04+00:00"
+    },
+    "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple.md": {
+      "lastmod": "2026-11-02",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-10-30T12:15:58+00:00"
+    },
+    "answers/perplexity/how-does-perplexity-work.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/perplexity/which-construction-software-does-perplexity-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T10:33:18+00:00"
+    },
+    "answers/perplexity/which-crm-software-does-perplexity-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/perplexity/which-dental-software-does-perplexity-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/perplexity/which-field-service-software-does-perplexity-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/perplexity/which-legal-practice-software-does-perplexity-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/perplexity/which-project-management-software-does-perplexity-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/perplexity/which-property-management-software-does-perplexity-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/perplexity/which-radiology-software-does-perplexity-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/perplexity/which-transportation-software-does-perplexity-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/perplexity/which-veterinary-software-does-perplexity-recommend.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T11:12:54+00:00"
+    },
+    "answers/agents/index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T13:43:08+00:00"
+    },
+    "answers/buying/index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T13:43:08+00:00"
+    },
+    "answers/changes/index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T22:14:54+00:00"
+    },
+    "answers/chatgpt/index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T22:14:54+00:00"
+    },
+    "answers/claude/index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T22:14:54+00:00"
+    },
+    "answers/fixes/index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T13:43:08+00:00"
+    },
+    "answers/geo-basics/index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T13:43:08+00:00"
+    },
+    "answers/google-ai/index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T13:43:08+00:00"
+    },
+    "answers/index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T13:43:08+00:00"
+    },
+    "answers/industries/index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T05:03:06+00:00"
+    },
+    "answers/measurement/index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-03T13:43:08+00:00"
+    },
+    "answers/perplexity/index.md": {
+      "lastmod": "2026-11-03",
+      "policy": "EXACT_UNCHANGED_PRIOR_PUBLICATION_LASTMOD",
+      "source_date_modified": "2026-11-02T22:14:54+00:00"
+    }
+  },
+  "readiness_counts": {
+    "PASS": 43,
+    "FAIL": 220,
+    "DEFERRED_FIELD_TEST": 45
+  },
+  "baseline_exceptions": 0,
+  "current_S5_complete": false,
+  "next_active_changes": 0,
+  "money_spent": 0
+}

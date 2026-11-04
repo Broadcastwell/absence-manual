@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/perplexity/which-radiology-software-does-perplexity-recommend.md",
+  "bank_id": "LB-Q0613",
+  "canonical_source_sha256": "fd0698eddbf12090e901e817e2d92e88153b8fb55f34af09835aef0b0b4aeee1",
+  "effective_canonical_source_sha256": "600cf1fa8fe6f104e54b568a23f81b5d095cd30d1cf6e060c84438df2748efcd",
+  "effective_body_sha256": "f5f8e996939938855707a3eed5463eb2b4de0a65cc218d8126f799e708ccfafd",
+  "effective_metadata_sha256": "8825ba94ab1e18b492ca4b57b8aaf73f69ff6e8feacbcd4b2c93f6b122164177",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\perplexity\\which-radiology-software-does-perplexity-recommend.md",
+    "raw_sha256": "600cf1fa8fe6f104e54b568a23f81b5d095cd30d1cf6e060c84438df2748efcd",
+    "canonical_LF_sha256": "600cf1fa8fe6f104e54b568a23f81b5d095cd30d1cf6e060c84438df2748efcd"
+  },
+  "reviewed_utc": "2026-11-03T11:17:08.896121+00:00",
+  "full_read_basis": "PriorcompleteSourcearticlecoverageplusindependentlycheckedoneactualNextstepmethodtokenrestorationandRootactualdate-onlymetadatachange;nofresh45wholebodyrereadclaimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_METHOD45_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0613.method45-source-coverage.json",
+    "raw_sha256": "aa729a49f094061cb59126257a12c2e1cd126eff572aac5bf04e7f5770357977",
+    "canonical_LF_sha256": "aa729a49f094061cb59126257a12c2e1cd126eff572aac5bf04e7f5770357977"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "date_modified": "2026-11-03T11:12:54+00:00",
+    "scope": "ActualRootprivatefooteradoption,notpublicpublication."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false,
+  "prior_approved_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0613.source.json",
+    "raw_sha256": "a557acbd5ad56f3a9fd3234a384d22adc046a1efc23dadb2cba01c88a5c2eb78",
+    "canonical_LF_sha256": "a557acbd5ad56f3a9fd3234a384d22adc046a1efc23dadb2cba01c88a5c2eb78"
+  }
+}

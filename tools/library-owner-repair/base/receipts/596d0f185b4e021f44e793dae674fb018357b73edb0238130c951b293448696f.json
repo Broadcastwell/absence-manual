@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md",
+  "before_effective_canonical_sha256": "09b3abf93e1c5d88a78d83995f05c0a8ede63a317ea5a81e6f5d96edfa852b15",
+  "raw_canonical_source_sha256": "09b3abf93e1c5d88a78d83995f05c0a8ede63a317ea5a81e6f5d96edfa852b15",
+  "after_effective_canonical_sha256": "179615503d77ea3cd88f73377f4dd4b10054b5845da78d4bbc66dfa20528139f",
+  "fact_ledger_sha256": "8444de417cd130799b67a9d5c19310f5da9205796ffec682f75fc9ab492ed6ab",
+  "effective_payload_sha256": "4c27549008efc89b9637289230864b7da4e47c1dee1a278c536342742e0c010f",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

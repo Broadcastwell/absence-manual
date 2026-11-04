@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/fixes/what-should-an-ai-information-page-say-about-our-company.md",
+  "before_effective_canonical_sha256": "70316d13ed2a3350339f174cb59d043f9c59d1d71aa7a6055811360285ed08d4",
+  "raw_canonical_source_sha256": "70316d13ed2a3350339f174cb59d043f9c59d1d71aa7a6055811360285ed08d4",
+  "after_effective_canonical_sha256": "b0b85b1df746dedc349301a4c56ca864382b28324f6337ca58fb53ccd5c12cd0",
+  "fact_ledger_sha256": "0e4f9f62768d28a1fb415d5b1ae3bf821efd6c836b27e7ef3d983f041644c25c",
+  "effective_payload_sha256": "6f126e8b62452fc1722379212f4d2c2f8e2f8500ec5d698874221f9f87f816d5"
+}

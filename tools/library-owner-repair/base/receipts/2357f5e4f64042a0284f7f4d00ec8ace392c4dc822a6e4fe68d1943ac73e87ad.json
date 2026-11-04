@@ -1,0 +1,11 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md",
+  "before_effective_canonical_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0",
+  "raw_canonical_source_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0",
+  "after_effective_canonical_sha256": "464b904d38c6e3455ee084eed866f43ac26af0907a7d35ad427600193174d68f",
+  "fact_ledger_sha256": "66d19314271df19eff3bb897bdb49bd337a0d8817cdd80127ea2a9adee41e814",
+  "effective_payload_sha256": "62ec70551cb0ba985216bc718b3cbab099eb02988e9fbbbb9b27354d8e80417b",
+  "scope": "TEMPLATE ONLY; Root exact finite input review/adoption required. Actual PR91 before; no publication approval."
+}

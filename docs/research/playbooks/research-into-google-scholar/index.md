@@ -7,13 +7,13 @@ research_id: 30
 research_group: playbook
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-03T17:50:50+00:00'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-03T17:50:50+00:00'
 is_based_on: https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf
 ---
 
@@ -98,6 +98,8 @@ Google Scholar says, “Each paper must have its own unique URL”. That require
 
 **Supports:** We have no verified inclusion result for this new research section in either discovery service at the time of writing. Existing Zenodo DOI records establish deposited identities and files, not a visibility gain from those deposits.
 
+Our [published workbook reanalysis](/research/data/rovira-workbook-reanalysis.csv), checked on 30 October 2026, found that using all 25 query columns changed 456 of 1,000 stored median result-position summaries in the authors’ one-term, title-restricted Google Scholar workbook. The original observations were collected in May 2019. This is a finite calculation check, with no sampling interval; the 456 changed summaries are not 456 searches, papers accepted into Scholar or a measured inclusion tactic.
+
 **Suggests:** Follow-up within the stated setting.
 
 ## Sources
@@ -111,7 +113,7 @@ Google Scholar says, “Each paper must have its own unique URL”. That require
 
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *How can research become discoverable in Scholar and Dataset Search?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *How can research become discoverable in Scholar and Dataset Search?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/ Published 30 October 2026; updated November 3, 2026.
 
 ```bibtex
 @online{broadcastwell2026research30,
@@ -121,7 +123,7 @@ Broadcastwell research team. (2026, October 30). *How can research become discov
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-03}
 }
 ```
 
@@ -129,7 +131,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-03. Next review: 2027-02-02.
 
 ## Continue
 

@@ -1,0 +1,33 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/google-ai/can-ads-appear-in-google-ai-overviews.md",
+  "target_path": "answers/google-ai/what-is-a-google-ai-overview.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "3eaf764df225434ef6cdf19451f1249d290f21ab83b9707ad35751614f42ca90",
+  "target_effective_canonical_sha256": "d8acc13b070cead6c1e7165e00f77e29ec2c169bddc8370160b46e64f6b3c83f",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0385.p01.s01",
+    "LB-Q0385.p01.s02",
+    "LB-Q0385.p01.s03",
+    "LB-Q0385.p02.s01",
+    "LB-Q0385.p02.s02",
+    "LB-Q0385.p04.s01",
+    "LB-Q0385.p04.s02",
+    "LB-Q0385.p04.s03",
+    "LB-Q0385.additional.01",
+    "LB-Q0385.additional.02"
+  ],
+  "preserved_fact_bindings_sha256": "6ac2765520d964eabe7d5025fa51073c0e2886c714cb71bea6b148597527e975",
+  "required_aliases": [
+    "Can ads appear in Google AI Overviews?",
+    "google ai overviews ads?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "f9e1e03e37bd6f6e708bf4e2169399a6c72c680f671d92cec2c7097ae3d6e1f5",
+  "scope": "Root finite source-fit decision for this exact donor/target/234-binding map, following actual donor-preservation review, exact current target Source/Writing approval and Root literal target changes. Historical aliases, dates, samples, zero states, quotations and limitations retained. Only explicit previously Root-approved own-promotion omissions and 0093 spelling lineage apply. Static canonical HTML200 page and target link only; no301 claim or DNS/hosting change. Build-input approval; actual served stub/target proof remains required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00",
+  "Source_preservation_receipt_sha256": "1a6f6edac27958eb6b7778dbfbbea31db6e296d74276f9972892f18b4495fd9a",
+  "Source_complete234_report_sha256": "8a19fd41f345b7e7042237c6d7e6a3d5bf3446a2809f85ac7ba130bb8db2621c"
+}

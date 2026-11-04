@@ -1,0 +1,30 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/fixes/which-ai-tools-can-support-programmatic-seo.md",
+  "target_path": "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "c6e8d0194451a0894c178b19311c419064f773345e64124521c9ad961581ce93",
+  "target_effective_canonical_sha256": "38ee0cca5403622df743b6f154106be4199fb435ef5da3f352b764394613786b",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0513.p01.s01",
+    "LB-Q0513.p01.s02",
+    "LB-Q0513.p01.s03",
+    "LB-Q0513.p02.s01",
+    "LB-Q0513.p02.s02",
+    "LB-Q0513.p02.s03",
+    "LB-Q0513.p03.s01",
+    "LB-Q0513.p03.s02",
+    "LB-Q0513.additional.01",
+    "LB-Q0513.additional.02"
+  ],
+  "preserved_fact_bindings_sha256": "15201c00daacff4be674b97c8b2b37e6bd8adc9c1447ec759c5dbc41bdc78927",
+  "required_aliases": [
+    "Which AI tools can support programmatic SEO?",
+    "Combination of AI tools for programmatic SEO?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "a35ea231c5a821b7e22dcc2e5c12ba77777bb1b247cfd27206f6a5feb6c8a7d8",
+  "scope": "TEMPLATE ONLY. Root exact preservation decision required; Source old18+new47 peer scopes retained accurately."
+}

@@ -555,6 +555,10 @@ if llms.exists():
 from research_quality import check_research
 problems.extend(check_research(ROOT))
 
+from library_research_support import check_optional_sources
+try:problems.extend(check_optional_sources(ROOT))
+except (ValueError,KeyError,TypeError,OSError) as error:problems.append('Finite Research support: '+str(error))
+
 if problems:
     print("Build verification failed:")
     for p in problems:

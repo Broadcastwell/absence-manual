@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "actual_full_read_complete": true,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0100",
+  "path": "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md",
+  "canonical_source_sha256": "09b3abf93e1c5d88a78d83995f05c0a8ede63a317ea5a81e6f5d96edfa852b15",
+  "effective_canonical_source_sha256": "179615503d77ea3cd88f73377f4dd4b10054b5845da78d4bbc66dfa20528139f",
+  "effective_body_sha256": "51ab555c9f9580f3f1ca1d4292c96e923bc87b4fe9135e891aa9182108f41465",
+  "effective_metadata_sha256": "accd320c966a12303884711ee23fcb473c18f969f0eacef612bde255525b5961",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_Q0100_TABLE_LINK_ADOPTED_2026-11-03\\manuscripts\\answers\\measurement\\how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md",
+    "raw_sha256": "179615503d77ea3cd88f73377f4dd4b10054b5845da78d4bbc66dfa20528139f",
+    "canonical_LF_sha256": "179615503d77ea3cd88f73377f4dd4b10054b5845da78d4bbc66dfa20528139f"
+  },
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_Q0100_TABLE_LINK_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0100.writing-table-link-date-coverage.json",
+    "raw_sha256": "267f8c89a3cfdd385fd3f25856537bf8e2c5881830c7a7114ddf309febb3b58e",
+    "canonical_LF_sha256": "267f8c89a3cfdd385fd3f25856537bf8e2c5881830c7a7114ddf309febb3b58e"
+  },
+  "review_basis": "Actual full899 proposed article reading4c0ca plus independently replayed actual Root14:14:39 date-only continuation. Earlier full article and source-preservation reading lineages remain linked.",
+  "fresh_full_final_file_reread_claimed": false,
+  "fresh_full_262_reread_claimed": false,
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_Q0100_TABLE_LINK_ADOPTED_2026-11-03\\ROOT_Q0100_ADOPTION.json",
+      "raw_sha256": "5437a97b36f0e6d627e2d83f4020c65a52be236043269b780a7d9d69aed1a351",
+      "canonical_LF_sha256": "5208d13c72706e8abee6bb4c4549bb5011c4a99c22d90c7db631be4834a67f1c"
+    },
+    "date_modified": "2026-11-03T14:14:39+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer current article only; Source, whole collection/code, visuals, actual publication, stubs and indexing remain separate.",
+  "publication_or_global_approved": false
+}

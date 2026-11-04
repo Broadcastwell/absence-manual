@@ -41,55 +41,81 @@ jobs:
           python -m unittest discover -s tests -p 'test_pdf_reproducible_fonts.py'
           python tools/generate_answers_llms.py --check
           python tools/verify_answers.py --check-external --receipt answer-link-check.json
-      - name: Download the exact reviewed prior publication artifact
+      - name: Download the exact reviewed PR93 publication artifact
+        id: prior
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
             const crypto = require('crypto');
-            const plan = JSON.parse(fs.readFileSync('tools/library-publication/release.json', 'utf8'));
-            if (plan.approved !== true || plan.prior_artifact_id !== 13269636938) throw new Error('Unreviewed prior artifact identity');
+            const approval = JSON.parse(fs.readFileSync('tools/library-owner-repair/ROOT_BLUEPRINT_APPROVAL.json', 'utf8'));
+            const blueprintPath = 'tools/library-owner-repair/release.json';
+            const expectedId = 13277324668;
+            const expectedSha = '04b35fe2e233e95266c359094c6c242bfc58c4c1a7657d22da09dd827ba71d01';
+            if (approval.schema_version !== 1 || approval.approved !== true || approval.reviewer !== 'root' ||
+                approval.review_kind !== 'root-reviewed-portable-owner-blueprint' ||
+                approval.blueprint?.path !== blueprintPath || !/^[0-9a-f]{64}$/.test(approval.blueprint?.sha256 ?? '') ||
+                !/^[0-9a-f]{64}$/.test(approval.actual_Root_read_record_sha256 ?? '') ||
+                approval.prior_artifact?.id !== expectedId || approval.prior_artifact?.sha256 !== expectedSha) {
+              throw new Error('Actual Root-reviewed portable Owner blueprint/proof is missing or different');
+            }
+            const blueprintBytes = fs.readFileSync(blueprintPath);
+            const blueprint = JSON.parse(blueprintBytes);
+            if (crypto.createHash('sha256').update(blueprintBytes).digest('hex') !== approval.blueprint.sha256 ||
+                blueprint.approved !== true || blueprint.review_kind !== 'root-exact-owner-repair-inputs' ||
+                blueprint.prior_artifact?.sha256 !== expectedSha) throw new Error('Portable Owner blueprint bytes/scope differ');
             const {owner, repo} = context.repo;
-            const meta = (await github.rest.actions.getArtifact({owner, repo, artifact_id: plan.prior_artifact_id})).data;
-            if (meta.expired || meta.name !== 'manual-site-preview' || meta.digest !== 'sha256:' + plan.prior_artifact_sha256) throw new Error('Prior artifact metadata differs');
-            const zip = (await github.rest.actions.downloadArtifact({owner, repo, artifact_id: plan.prior_artifact_id, archive_format: 'zip'})).data;
+            const meta = (await github.rest.actions.getArtifact({owner, repo, artifact_id: expectedId})).data;
+            if (meta.expired || meta.name !== 'manual-site-preview' || meta.digest !== 'sha256:' + expectedSha) {
+              throw new Error('Actual PR93 prior artifact metadata differs');
+            }
+            const zip = (await github.rest.actions.downloadArtifact({owner, repo, artifact_id: expectedId, archive_format: 'zip'})).data;
             const bytes = Buffer.from(zip);
-            if (crypto.createHash('sha256').update(bytes).digest('hex') !== plan.prior_artifact_sha256) throw new Error('Prior artifact bytes differ');
+            if (crypto.createHash('sha256').update(bytes).digest('hex') !== expectedSha) throw new Error('Actual PR93 prior artifact bytes differ');
             fs.writeFileSync('reviewed-prior-publication.zip', bytes);
-      - name: Stage only the exact Root-reviewed library inputs
-        run: python tools/library_publication_stage.py --blueprint tools/library-publication/release.json --artifact reviewed-prior-publication.zip --out .library-publication-staged --docs docs --write-github-env
-      - name: Build site
+            core.setOutput('blueprint-sha256', approval.blueprint.sha256);
+      - name: Stage only the exact Root-reviewed portable Owner inputs
+        run: |
+          python tools/library_owner_repair_stage.py --blueprint tools/library-owner-repair/release.json --blueprint-sha256 '${{ steps.prior.outputs.blueprint-sha256 }}' --artifact reviewed-prior-publication.zip --out .owner-repair-staged --docs docs --write-github-env > owner-stage-result.json
+      - name: Build site in explicit Owner mode
         run: mkdocs build
       - name: Verify whole-library similarity, openings, lead facts and uniqueness
         run: |
           python -m unittest discover -s tests -p 'test_library_quality.py'
           python tools/library_quality.py --report library-quality-report.json
-      - name: Build the ungated PDF mirror from the same source
+      - name: Build the ungated PDF mirror twice from the same source
         run: |
           python tools/build_pdf.py
           cp site/absence-manual.pdf /tmp/first-manual.pdf
           python tools/build_pdf.py
           cmp /tmp/first-manual.pdf site/absence-manual.pdf
-      - name: Verify the complete effective collection and bounded public artifact changes
-        run: python tools/library_publication_build.py --inputs "$BW_LIBRARY_PUBLICATION_INPUTS" --inputs-sha256 "$BW_LIBRARY_PUBLICATION_INPUTS_SHA256" --docs docs --site site --work .library-publication-work > library-bounded-release-result.json
-      - name: Save the actual whole-collection and bounded-release evidence
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: library-bounded-release-review
-          include-hidden-files: true
-          path: |
-            library-bounded-release-result.json
-            .library-publication-work/whole-current-report.json
-            .library-publication-work/complete-artifact-comparison.json
-            .library-publication-work/bounded-release-result.json
-            .library-publication-work/compiled-state.json
-          if-no-files-found: warn
+      - name: Capture actual unapproved post-PDF candidate observations
+        run: |
+          python tools/observe_owner_candidate.py --inputs "$BW_OWNER_REPAIR_INPUTS" --inputs-sha256 "$BW_OWNER_REPAIR_INPUTS_SHA256" --docs docs --site site --work .owner-repair-work > owner-candidate-observation.NOT_APPROVED.json
       - name: Verify the build is ungated and crawlable
         run: |
           python tools/verify_build.py
           python tools/verify_library_field_freeze.py --docs docs --site site --map tools/library_field_freeze_navigation.json --map-sha256 e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c
-      - name: Save the complete site preview
+      - name: Verify the complete finite Owner repair and actual artifact evidence
+        run: |
+          python tools/library_owner_repair_build.py --inputs "$BW_OWNER_REPAIR_INPUTS" --inputs-sha256 "$BW_OWNER_REPAIR_INPUTS_SHA256" --docs docs --site site --work .owner-repair-work > owner-repair-result.json
+      - name: Save clearly unapproved candidate site and actual observations
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: owner-repair-candidate-UNAPPROVED
+          include-hidden-files: true
+          path: |
+            site/
+            .owner-repair-work/
+            owner-stage-result.json
+            owner-candidate-observation.NOT_APPROVED.json
+            owner-repair-result.json
+            library-quality-report.json
+            library-field-freeze-retention.json
+          if-no-files-found: warn
+      - name: Save the complete verified site provenance
+        if: success()
         env:
           SOURCE_HEAD: ${{ github.event.pull_request.head.sha }}
         run: |
@@ -103,15 +129,8 @@ jobs:
           }))
           PY
       - name: Upload the complete verified site
+        if: success()
         uses: actions/upload-artifact@v4
         with:
           name: manual-site-preview
           path: site
-
-      - name: Save the finite field-freeze verification receipt
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: library-field-freeze-review
-          path: library-field-freeze-retention.json
-          if-no-files-found: warn

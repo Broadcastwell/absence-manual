@@ -1,0 +1,10 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md",
+  "before_effective_canonical_sha256": "a785e4ca34b81d1897c2eaab3f6fe541d131ef0313421b915bfc35eaf0aaecd7",
+  "raw_canonical_source_sha256": "a785e4ca34b81d1897c2eaab3f6fe541d131ef0313421b915bfc35eaf0aaecd7",
+  "after_effective_canonical_sha256": "833b4dfe529d2a2f1fdcc4d68ea70336bb38c81e50746fe1e5cfef966fb2ae87",
+  "fact_ledger_sha256": "0edd4f96b90329963850a2a3ddb062b87f44c36f8f623fb90515a249aa8a1d14",
+  "effective_payload_sha256": "b4756db7b76981e22462e6399bbca3c7d604f119b2df207b223975bf1b80948f"
+}

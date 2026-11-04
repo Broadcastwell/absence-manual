@@ -7,13 +7,13 @@ research_id: 35
 research_group: glossary
 lead: Vikram Patel
 published: '2026-11-02T20:27:14Z'
-updated: '2026-11-02T21:22:53Z'
+updated: "2026-11-04T01:03:17.612597+00:00"
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/share-of-model/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T20:27:14Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: "2026-11-04T01:03:17.612597+00:00"
 is_based_on: https://marketing.org.nz/resource-hub/share-of-model-a-new-metric-for-marketing-strategies
 defined_term: Share of Model
 ---
@@ -68,7 +68,7 @@ Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/1
 
 **Supports:** The Absence Index calls its answer-level outcome **naming rate**, with the eligible answer base stated in the release. Study 2 separately reports vendor-answer pairs, own-domain citations and named-without-own-citation events. Those measures retain their own names; we do not relabel them Share of Model.
 
-For example, the registered citation analysis finds **2,608 own-domain citation events among 8,085 named vendor-answer pairs: 32.3%, Wilson 95% interval 31.2% to 33.3%**. This is conditional citation coverage among named pairs, not a category-mention share. The [Study 2 table and public reproduction files](/research/studies/who-ai-engines-cite/) supply the exact units and underlying counts.
+For example, the registered citation analysis of answers captured on **22 and 23 September 2026** finds **2,608 own-domain citation events among 8,085 named vendor-answer pairs: 32.3%, Wilson 95% interval 31.2% to 33.3%**. This is conditional citation coverage among named pairs, not a category-mention share. The [Study 2 table and public reproduction files](/research/studies/who-ai-engines-cite/) supply the exact units and underlying counts.
 
 **Does not support:** Future rankings or a causal publishing effect.
 
@@ -85,7 +85,7 @@ Publication correction, November 2, 2026: October 30 was the draft date; this pa
 
 ## Cite this page
 
-Broadcastwell research team. (2026, November 2). *What does Share of Model measure?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/share-of-model/ Published November 2, 2026; updated November 2, 2026.
+Broadcastwell research team. (2026, November 2). *What does Share of Model measure?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/share-of-model/ Published November 2, 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research35,
@@ -94,8 +94,8 @@ Broadcastwell research team. (2026, November 2). *What does Share of Model measu
   year = {2026},
   date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/glossary/share-of-model/},
-  urldate = {2026-11-02},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  urldate = {2026-11-03},
+  note = {Published 2026-11-02; updated 2026-11-04}
 }
 ```
 
@@ -103,7 +103,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

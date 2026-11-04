@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md",
+  "bank_id": "LB-Q0275",
+  "canonical_source_sha256": "2633e93eb21db50dbfa957a8a1f58a9eb854c9a907d99340da15ca2cec4bc371",
+  "effective_canonical_source_sha256": "70b8ae7d031d7850b740cd5797cea032e828564ea53234a634f501bde462c5b3",
+  "effective_body_sha256": "c59eb7636d03aef9f4e67db2e0b576bf5b9c17aa7e36cbe72b5d207014c2598d",
+  "effective_metadata_sha256": "6a88bdc71ba216141a33bbbcbff76a80e1c30efc7f5776877c58bfa7cbb98a1b",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\claude\\does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md",
+    "raw_sha256": "70b8ae7d031d7850b740cd5797cea032e828564ea53234a634f501bde462c5b3",
+    "canonical_LF_sha256": "70b8ae7d031d7850b740cd5797cea032e828564ea53234a634f501bde462c5b3"
+  },
+  "reviewed_utc": "2026-11-03T10:38:44.186118+00:00",
+  "full_read_basis": "Actual complete source article read plus exact reviewed bounded/fullfuture continuations; current metadata is verified Rootactualdate-only replay. No new single-pass262reread claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\coverage\\LB-Q0275.source-coverage.json",
+    "raw_sha256": "b964ecf19f648c9096332895ee6a4a450ca402fe95a7d57ac0b59e0ef1eb23ca",
+    "canonical_LF_sha256": "b964ecf19f648c9096332895ee6a4a450ca402fe95a7d57ac0b59e0ef1eb23ca"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00",
+    "scope": "Rootprovided actualprivateadoption, not publicpublication or measuredsourcecapture date."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0618",
+  "path": "answers/perplexity/which-project-management-software-does-perplexity-recommend.md",
+  "canonical_source_sha256": "c76307720f195bb696a59c49fbc9ccccd4985cea8798d65cc1aec89ed50a249f",
+  "effective_canonical_source_sha256": "a91721df06925597b6620ad72686d6e2e6adb0c97fdd963552fbf0f5ba1db858",
+  "effective_body_sha256": "e6250838ae6998844fd9d8c9f37456eb01a1817e6af003afae307ce370d686aa",
+  "effective_metadata_sha256": "ac2823985db411a7814ffde52d8b1ffbe0f242bc365cbd93e9cf449215dbe63c",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\perplexity\\which-project-management-software-does-perplexity-recommend.md",
+    "raw_sha256": "a91721df06925597b6620ad72686d6e2e6adb0c97fdd963552fbf0f5ba1db858",
+    "canonical_LF_sha256": "a91721df06925597b6620ad72686d6e2e6adb0c97fdd963552fbf0f5ba1db858"
+  },
+  "review_basis": "Prior exact full-effective-article Writing approval plus actual bounded default-method footer/date continuation; all other bytes proved unchanged. No fresh full45 reread or public/global approval.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_METHOD45_FINAL\\coverage\\LB-Q0618.writing-method45-coverage.json",
+    "raw_sha256": "f23ecd899cf40dc33a81a6693de1bffcea1a57e39c162c1606c90e2376ca2a62",
+    "canonical_LF_sha256": "f23ecd899cf40dc33a81a6693de1bffcea1a57e39c162c1606c90e2376ca2a62"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "date_modified": "2026-11-03T11:12:54+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false,
+  "bounded_default_method_footer_continuation": {
+    "bank_id": "LB-Q0618",
+    "path": "answers/perplexity/which-project-management-software-does-perplexity-recommend.md",
+    "scope": "Bounded full-effective-file continuation after prior actual full-base and exact delta reviews. No new full45-body reread is claimed.",
+    "prior_approved_full_article_Writing_receipt": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\receipts\\LB-Q0618.writing.json",
+      "raw_sha256": "a8e721d4957bb1d22b018f8a48425427c55b703e4aae8a2c0a390caf3d984bdf",
+      "canonical_LF_sha256": "a8e721d4957bb1d22b018f8a48425427c55b703e4aae8a2c0a390caf3d984bdf"
+    },
+    "prior_full_delta_coverage": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0618.writing-coverage.json",
+      "raw_sha256": "074c29b2cf0b4d79f114c41f24f0f033c2679ce084ff741d3c2af477f89e7677",
+      "canonical_LF_sha256": "074c29b2cf0b4d79f114c41f24f0f033c2679ce084ff741d3c2af477f89e7677"
+    },
+    "Root_actual_footer_adoption": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "before_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\perplexity\\which-project-management-software-does-perplexity-recommend.md",
+      "raw_sha256": "7a415e100a5b7daa99ee480538d1b0407ca1390a65016c58be23b2acbc1c0dff",
+      "canonical_LF_sha256": "7a415e100a5b7daa99ee480538d1b0407ca1390a65016c58be23b2acbc1c0dff"
+    },
+    "after_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\perplexity\\which-project-management-software-does-perplexity-recommend.md",
+      "raw_sha256": "a91721df06925597b6620ad72686d6e2e6adb0c97fdd963552fbf0f5ba1db858",
+      "canonical_LF_sha256": "a91721df06925597b6620ad72686d6e2e6adb0c97fdd963552fbf0f5ba1db858"
+    },
+    "actual_source_kind": "published-index",
+    "actual_Next_step_old_token_read": "[Our answer-study method, v1.1.](https://broadcastwell.com/methodology)",
+    "actual_Next_step_new_token_read": "[Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)",
+    "same_exact_method_URL": true,
+    "canonical_default_token_already_in_body": true,
+    "only_footer_token_and_actual_date_modified_changed": true,
+    "all_other_body_opening_numbers_quotations_sources_metadata_exact": true,
+    "human_Writing_carry": "Neutral, plain canonical method label, already asserted in the reviewed body. No sales sentence, new factual reading, definition, measurement or claim is introduced. Prior five human-rule findings carry with this exact narrow continuation.",
+    "fresh_full_body_reread_claimed": false,
+    "new_Root_timestamp_invented": false
+  }
+}

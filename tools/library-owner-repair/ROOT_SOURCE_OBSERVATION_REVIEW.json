@@ -1,0 +1,248 @@
+{
+  "recorded_utc": "2026-11-04T03:18:12.349807+00:00",
+  "Root_source_observation_inputs_reviewed": true,
+  "source_changes": 49,
+  "nonPDF_sources": 43,
+  "answer_effective_revisions": 24,
+  "raw_answer_source_changes": 0,
+  "inherited_retirements": 19,
+  "frozen45_excluded": true,
+  "current307_producer_review_sha256": "35ca9252c34c5c285bb35204a50dc0d8baa9657c54ec2daafae5451c3386d193",
+  "Root_actual43_private_adoption_sha256": "f6b829f2b422aecde88d744181488f881b50c33d351b256e0a3b5db2cb18aa9f",
+  "Root_actual48_before_read_adjudication": true,
+  "coverage_sha256": "0b17a509a6e6c6ab5fc99e6767643bb750994f8ef0972f57f9cd52448804490f",
+  "actual_local_evidence_files_rehashed": 179,
+  "Source317_complete_private_after_question_fit_inventory_only": true,
+  "public23_fit_gaps_NOT_closed_until_actual_publication": true,
+  "Q0493_same_reader_situation_existing_figure440f45_2of30_22Sep2026_span_rebound_explicitly": true,
+  "reviewed_code_pins": {
+    ".gitattributes": {
+      "before_sha256": "f8fbc65f07ea0194eba980b8521e4a9b5d94d08f54cd969906c29893c671e987",
+      "after_sha256": "f7cd2a08e2ed0629af293046a2e2db896e7a7fa05f22a87599a65ed2a5d5fec7"
+    },
+    ".github/workflows/library-code-checks.yml": {
+      "before_sha256": "fd760d8fdb118d7409ce8269cc1cd6cb8d596773def72f323689fca6edaf2f41",
+      "after_sha256": "a1479c2d4c76516f8fce77aae8abe07a5d68c5518f2b54bc29c7b3e8fb2560d9"
+    },
+    ".github/workflows/verify.yml": {
+      "before_sha256": "d1d5b94786f445ee39cabf85cb33f04b70ad94c90e0f3821d9618a517de2837d",
+      "after_sha256": "7c150b76a8a996e1cbad84eaf52d0b2eadcbf648cb7c113eb66087486805297a"
+    },
+    ".gitignore": {
+      "before_sha256": "5a6081db473fcce499ef1cf9c6725ebaee758589a5caad1435712dfd54dc5646",
+      "after_sha256": "7b1e72f8a4dbdaf312e24402f73d174f0333166b58d4bd1d160d579148b3d623"
+    },
+    "mkdocs.yml": {
+      "before_sha256": "2c8213d91a74bba59ad5ab1fc42e474b526ec01642236b6916480582a585e8c5",
+      "after_sha256": "2117b8e6ff2638eb01cf9f39912ba89f2a557dcf5afcc0ae0f78ba31a265201a"
+    },
+    "tools/library_build_dispatch.py": {
+      "before_sha256": null,
+      "after_sha256": "5aba9c9cd68edfde0c074de78d5f90a567f3dac5c34319fe77d8f5c3e5182f6f"
+    },
+    "tools/library_inherited_presentation.py": {
+      "before_sha256": null,
+      "after_sha256": "fd907592fb841dbad166d31b938bb44920418f0e0beecbe23dd1d6be60c936a8"
+    },
+    "tools/library_owner_composition.py": {
+      "before_sha256": null,
+      "after_sha256": "d8b03552e79f3a0ad276053210737ab5d2fe2f6b6b4a5882990f8003e0a09e3b"
+    },
+    "tools/library_owner_composition_cases.json": {
+      "before_sha256": null,
+      "after_sha256": "a3ded5ba7e8b21da2dacecd35f70b89ae62cbaa8f32307b0958e4c67bfa52d94"
+    },
+    "tools/library_owner_repair.py": {
+      "before_sha256": null,
+      "after_sha256": "018e21ab24fe90b960983a45ad09cade446bda934337bb02f95912173b823c84"
+    },
+    "tools/library_owner_repair_absence_seo.py": {
+      "before_sha256": null,
+      "after_sha256": "c682a203ced3356a880d49c7c15b3ec6c6e3ebf7710d27989b5c687dfbb6c54d"
+    },
+    "tools/library_owner_repair_build.py": {
+      "before_sha256": null,
+      "after_sha256": "fe6df652d51948e8e4c7a27eea911ef758a39922292a6e4a75fa4f1bce4f6244"
+    },
+    "tools/library_owner_repair_consumers.py": {
+      "before_sha256": null,
+      "after_sha256": "944a37b1722a08cefa068d4a344072cba463c43fe816ff033e7761ec279aec56"
+    },
+    "tools/library_owner_repair_four_facts.py": {
+      "before_sha256": null,
+      "after_sha256": "93ebfc20b7b8bb6567af885697d9e2630ad01f9a4235b09d03ba8acfa3f72780"
+    },
+    "tools/library_owner_repair_freeze_styles_hook.py": {
+      "before_sha256": null,
+      "after_sha256": "e26fe61227d79e75241c9188f5bce5b132655cd3bf0aae3afb6e8d61eb328f9f"
+    },
+    "tools/library_owner_repair_hooks_candidate.py": {
+      "before_sha256": null,
+      "after_sha256": "7c532690726c6b7e84d713142a74ae20cae73513aebb7cb3c5bf14caba0cf326"
+    },
+    "tools/library_owner_repair_legal_video.py": {
+      "before_sha256": null,
+      "after_sha256": "28f7da1e717d5229750b4e945522b948bb55a5ddd356b592c18ac0243805b7ff"
+    },
+    "tools/library_owner_repair_pdf.py": {
+      "before_sha256": null,
+      "after_sha256": "2dcdd14ba88d971e2b5d1f65aba839bbcc6dd9f4b82c494b415674167bedac6b"
+    },
+    "tools/library_owner_repair_post_s5.py": {
+      "before_sha256": null,
+      "after_sha256": "dc74bfe67db9b8187279ac93f8c86a5daad29cf8af0f6ba105323b43aad4a839"
+    },
+    "tools/library_owner_repair_required28.json": {
+      "before_sha256": null,
+      "after_sha256": "d7ac7a36caab1eb4277c010fd6527127101b75cc5f819faec9bd2778df525bfa"
+    },
+    "tools/library_owner_repair_required28.py": {
+      "before_sha256": null,
+      "after_sha256": "96fe2d21ffea3c7ea17547d2695ae5e90dade5f388af44375822821b469c4820"
+    },
+    "tools/library_owner_repair_six_facts.py": {
+      "before_sha256": null,
+      "after_sha256": "c309b03c8790a1d8b59c0f3e4f29c2013bf4db59f7a69a54a74166b9451f2df7"
+    },
+    "tools/library_owner_repair_stage.py": {
+      "before_sha256": null,
+      "after_sha256": "592a59baffe497ccebcfb0be03413af63f94f27ad647bce5d17cac578bf6fbb1"
+    },
+    "tools/library_publication_build.py": {
+      "before_sha256": "ce8ef3f3eea5fa6c22fa8062116c44d25d17c77b0fbd5c09c187faf38e1112e7",
+      "after_sha256": "cba2ef4f3cc28491733e9dea95e753280558662e0ba8b66db7cdd636109e14bf"
+    },
+    "tools/library_publication_composition.py": {
+      "before_sha256": "e74daa4f06f63a75ec0706b711a026101c51f2a7fe8ee1ca7bfc1d04b509b9ed",
+      "after_sha256": "631bc46394f5fa449b60c3742119d508f3644196797f7bb589d4c54b64f987c5"
+    },
+    "tools/library_publication_consumers.py": {
+      "before_sha256": "0f93e7bad23ff24e52dff8f92f9a0da8d7ac44e419d862ca54458526148baf04",
+      "after_sha256": "e437f973a089616a90854b2d86a7b909e6015845ba4537dd4d6902833dcab94c"
+    },
+    "tools/library_publication_sitemap_dates.py": {
+      "before_sha256": "328dfd57d74b212f93705270640179acffd5eecd502795683369919af0ab06a9",
+      "after_sha256": "9440da1ef472ff8b8f0602f47eac6a4303886b43659376b51d71f3a667d65aae"
+    },
+    "tools/library_publication_verify_stubs.py": {
+      "before_sha256": "34511e739288d941589937fc0925c616da04e7080892d18f20b7acdc1e77ae5c",
+      "after_sha256": "a46b5c132969134e8384cb46b8db8e503f1c1eb425350b3f000962221959bbdd"
+    },
+    "tools/library_research_build.py": {
+      "before_sha256": null,
+      "after_sha256": "df15d58cdd5612af7309af767a2f078062bbbbff819cc86bed809f5fea71b068"
+    },
+    "tools/library_research_consumers.py": {
+      "before_sha256": null,
+      "after_sha256": "be286fbcc72f006b1431517ed197331c52014cd4df07db266eb9bedf10fce96f"
+    },
+    "tools/library_research_freeze_styles_hook.py": {
+      "before_sha256": null,
+      "after_sha256": "aae0b42f7e1aa8a878fce83c6d15cc1a4e836bfe5efe8f33192868404fb17a04"
+    },
+    "tools/library_research_hooks_candidate.py": {
+      "before_sha256": null,
+      "after_sha256": "a3d82baca450059955618690292f075fea2d48d6909ae411880d280ef3ab4528"
+    },
+    "tools/library_research_owner_preservation.py": {
+      "before_sha256": null,
+      "after_sha256": "70fbd645af4f5e6e8403dc317cbfc8a3df2b714ab8271ea1febddc38b18e7b4c"
+    },
+    "tools/library_research_owner_required_spans.json": {
+      "before_sha256": null,
+      "after_sha256": "d21170b21a09eb3361cd54a8c8ced52b500070e31d1f17823d4c7f8fb0bdda53"
+    },
+    "tools/library_research_release.py": {
+      "before_sha256": null,
+      "after_sha256": "11782c36b55eeea6742127bdb23569ce8f2055b277e5e3e9aa7d1ed6bb1aeb4e"
+    },
+    "tools/library_research_release_paths.json": {
+      "before_sha256": null,
+      "after_sha256": "da6a14368425acaacae6e857e8b13f74fb4a67ccb38694114cb16366f7ae58d9"
+    },
+    "tools/library_research_render.py": {
+      "before_sha256": null,
+      "after_sha256": "896dae420d07d35cbfabeaba939b27160999253ef8ae5fcdfb8899473a7d118a"
+    },
+    "tools/library_research_source_archive.py": {
+      "before_sha256": null,
+      "after_sha256": "19af288f323294edb03c323dadd2fa81311b0832bcaba8f6a146e7fb20229508"
+    },
+    "tools/library_research_stage.py": {
+      "before_sha256": null,
+      "after_sha256": "981d65fae01116ca7bee4840fad6316a28a70cbe39efb994097cadfe3e9538b9"
+    },
+    "tools/library_research_support.py": {
+      "before_sha256": null,
+      "after_sha256": "0e111844a266862fe0cc211f9581a67917032ef7a71f02712a46d26df6ef452d"
+    },
+    "tools/observe_owner_candidate.py": {
+      "before_sha256": null,
+      "after_sha256": "3c286ce1f127afbd92cc982ba92e11147f89ff11adf32967ead3cda98b868e92"
+    },
+    "tools/verify_build.py": {
+      "before_sha256": "58c90fdebdb4fae84fc6fab0c02d9b27de9f7faf034045526d5485648ce11276",
+      "after_sha256": "c5295fb46dc17b39b76523256877a89c73003c3ce7fb49ea87aa26c3c679dbe5"
+    }
+  },
+  "resource_llms_literal_decisions": [
+    {
+      "old": "- [Category Audit , executive delivery template | The Absence Manual](https://docs.broadcastwell.com/resources/audit/executive-template/): Classification: Template only; incomplete fields block client delivery. Version: bw-content-2026-09-24-v1.",
+      "new": "- [Executive delivery template (retired Category Audit format, kept for reference) | The Absence Manual](https://docs.broadcastwell.com/resources/audit/executive-template/): Kept for reference. Classification: template only. Version: bw-content-2026-09-24-v1.",
+      "old_sha256": "01b5c19c5ae0f44ecee06b37b1660c19d5a36e5fa97b7d779e6538a46ebdedcd",
+      "new_sha256": "b23522c0c8eaf4c9f23b07bd2447531ad029e8ed93df5508c1777cf9d4b5d79a",
+      "change_title": true
+    },
+    {
+      "old": "- [Synthetic Category Audit , Northstar Lab | The Absence Manual](https://docs.broadcastwell.com/resources/audit/sample/): Synthetic learning example , not a client result or live AI measurement. Prepared 2026-09-24; version bw-content-2026-09-24-v1. No client, live engine, payment or delivered engagement is represented.",
+      "new": "- [Synthetic audit example, Northstar Lab (retired Category Audit format) | The Absence Manual](https://docs.broadcastwell.com/resources/audit/sample/): Synthetic learning example in the retired Category Audit format, not a client result or live AI measurement. Prepared 2026-09-24; version bw-content-2026-09-24-v1.",
+      "old_sha256": "2625729ad9761b13bb7c97bd46714c47eae9fb5816a9bbbf89f387cc3a006e86",
+      "new_sha256": "646e63b5099ba65fd89966543ca5b830facdf229f5d06af2afb5df2a42f95391",
+      "change_title": true
+    },
+    {
+      "old": "- [The three measured rates | The Absence Manual](https://docs.broadcastwell.com/resources/three-rates/): How a Category Audit reports named answers, source citations and share of voice separately, with exclusions and classification limits.",
+      "new": "- [The three measured rates | The Absence Manual](https://docs.broadcastwell.com/resources/three-rates/): How our measurements report named answers, source citations and share of voice separately, with exclusions and classification limits.",
+      "old_sha256": "2dee89d6459eda0eb160e24cda7eb68d5f7f1c9a52be1e41c2818d32ebd23c42",
+      "new_sha256": "e1236ebf0024c3c0e9e07aa207e9d9e522222165baa1c96bdca3f3f0d30aa5a0",
+      "change_title": false
+    }
+  ],
+  "final_artifact_PDF_or_publication_approval": false,
+  "ordinary_whole_S5_PASS": false,
+  "Root_exact_generated_hub_review": {
+    "recorded_utc": "2026-11-04T03:24:48.857272+00:00",
+    "actual_changed_hubs": 2,
+    "changed_excerpts": 3,
+    "diff_sha256": "165ec9eea7372f7c6d306e4e48c62f03a8758f289722c29807ed00d9e975ff3d",
+    "generated_hubs": {
+      "docs/answers/buying/index.md": {
+        "effective_body_sha256": "0f8191dbe5a246004c382c62626d7ce3b260cba4de4e24418f248dbeb739034f",
+        "effective_meta_sha256": "f0b3d0f05086c24b1172d6ab887e79f0d223bb22f2e77aaa86956528d872f4b2"
+      },
+      "docs/answers/fixes/index.md": {
+        "effective_body_sha256": "905b0fa635b055d2a9d022d5d1a789cd6eab918495f4b82547de19e68502b3d8",
+        "effective_meta_sha256": "b5eed56e8cc18b88bf3dbd626d845679ee3ae56498eae502cc06596f688f1e2e"
+      }
+    },
+    "other_hub_bindings_unchanged": true
+  },
+  "Root_appendix_actual_MkDocs_unread_page_review": {
+    "path": "tools/library_owner_repair_absence_seo.py",
+    "before_sha256": "f4b3f4e9030863d4cd096bbabb260db00a1f41612130d325e96be17972842d25",
+    "after_sha256": "c682a203ced3356a880d49c7c15b3ec6c6e3ebf7710d27989b5c687dfbb6c54d",
+    "Root_read_exact_branch_and_three_tests": true,
+    "targeted_tests": 13,
+    "PASS": 13,
+    "skip": 0
+  },
+  "Root_sitemap_actual_ISO_fractional_timestamp_review": {
+    "path": "tools/library_publication_consumers.py",
+    "before_sha256": "157529352016872b73d276b11e2d9d7787cfde000cf051082e3482475c71d5e6",
+    "after_sha256": "e437f973a089616a90854b2d86a7b909e6015845ba4537dd4d6902833dcab94c",
+    "Root_read_exact_fractional_validation_and_two_tests": true,
+    "targeted_tests": 27,
+    "PASS": 27,
+    "skip": 0
+  }
+}

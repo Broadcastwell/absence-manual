@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0542",
+  "path": "answers/google-ai/what-is-a-google-ai-overview.md",
+  "canonical_source_sha256": "c1dcf41d24dd661ece41bf5136d2cec24cc61b1174dca86991dbc1a194cead04",
+  "effective_canonical_source_sha256": "d8acc13b070cead6c1e7165e00f77e29ec2c169bddc8370160b46e64f6b3c83f",
+  "effective_body_sha256": "e0e507683914b3a02d43bb29eee1dcfcfc1d3b914e1886683648c6ef54f260e4",
+  "effective_metadata_sha256": "e668a398023577963125dba7cc7a76bd133b59df5c914e1c1ef1de16d730ffd5",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_PRESERVATION_FOUR_ADOPTED_2026-11-03\\manuscripts\\answers\\google-ai\\what-is-a-google-ai-overview.md",
+    "raw_sha256": "d8acc13b070cead6c1e7165e00f77e29ec2c169bddc8370160b46e64f6b3c83f",
+    "canonical_LF_sha256": "d8acc13b070cead6c1e7165e00f77e29ec2c169bddc8370160b46e64f6b3c83f"
+  },
+  "review_basis": "Actual complete current Root-dated restored article reading plus exact independently replayed restoration/date deltas, with prior full and selected-delta evidence retained.",
+  "fresh_full_final_file_reread_claimed": true,
+  "fresh_full_262_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0542.writing-preservation-date-coverage.json",
+    "raw_sha256": "7c14f222eda1ecbede1339a24f06f85b0d798518dca2d45488900b08f1a0f479",
+    "canonical_LF_sha256": "7c14f222eda1ecbede1339a24f06f85b0d798518dca2d45488900b08f1a0f479"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_PRESERVATION_FOUR_ADOPTED_2026-11-03\\ROOT_FOUR_ADOPTION.json",
+      "raw_sha256": "98c64e057f4542537a3cfa44227a89fa971301ad2fefd154e888ed0ad8456804",
+      "canonical_LF_sha256": "14332b9957015e3a106deeaab2b2f2752555d5001ac107b97ade7cd3389b942e"
+    },
+    "date_modified": "2026-11-03T13:55:12+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Source, qualitative bindings, collection/code, visuals, actual publication, retirement and indexing remain separate.",
+  "publication_or_global_approved": false
+}

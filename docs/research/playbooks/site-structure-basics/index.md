@@ -7,13 +7,13 @@ research_id: 33
 research_group: playbook
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-03T17:50:50+00:00'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/site-structure-basics/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-03T17:50:50+00:00'
 is_based_on: https://developers.google.com/crawling/docs/troubleshooting/http-status-codes
 ---
 
@@ -97,6 +97,8 @@ Google’s link guidance says, “Good anchor text is descriptive, reasonably co
 
 **Supports:** No causal effect was measured. Their immediate purpose is to keep public pages reachable, understandable and accurately identified.
 
+In our 30 October 2026 [static-page study](/research/studies/optimized-pages-in-ai-answers/), 4,179 of 4,420 successfully captured target URL records contained a canonical link: 94.5%, with a descriptive 95% Wilson interval of 93.8% to 95.2%. These URL records came from citations in answers captured on 22 and 23 September. The [published signal rows](/research/data/study1-url-classifications.csv) record the link’s presence, without establishing Google’s selected canonical or a citation benefit. Failed captures are outside this base.
+
 **Suggests:** Follow-up within the stated setting.
 
 ## Sources
@@ -110,7 +112,7 @@ Google’s link guidance says, “Good anchor text is descriptive, reasonably co
 
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *Which site-structure basics still matter?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/site-structure-basics/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *Which site-structure basics still matter?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/site-structure-basics/ Published 30 October 2026; updated November 3, 2026.
 
 ```bibtex
 @online{broadcastwell2026research33,
@@ -120,7 +122,7 @@ Broadcastwell research team. (2026, October 30). *Which site-structure basics st
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/playbooks/site-structure-basics/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-03}
 }
 ```
 
@@ -128,7 +130,7 @@ Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-03. Next review: 2027-02-02.
 
 ## Continue
 

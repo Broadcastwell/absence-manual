@@ -1,0 +1,1640 @@
+{
+  "schema_version": 1,
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "base_inputs": {
+    "path": "base/inputs.ROOT_SOURCE_REVIEWED.json",
+    "sha256": "1c0415ec8800307a8f0663bfdd12ff6c2ebc2f2222397359f699607d10b44ddc"
+  },
+  "post_s5_context": {
+    "path": "post-s5-context.ROOT_REVIEWED.json",
+    "sha256": "cf2e734516486a37e4c8dea804f39412642921a5d75ef22662078cc80abc25d2"
+  },
+  "owner_source_plan": {
+    "path": "owner-source-plan.ROOT_SOURCE_REVIEWED.json",
+    "sha256": "f256c6b0b5bf953fce1cbe248b4bad947d58249b4b02533b5fdb372e941cdfbe"
+  },
+  "owner_source_plan_sha256": "f256c6b0b5bf953fce1cbe248b4bad947d58249b4b02533b5fdb372e941cdfbe",
+  "root_current_before_read_receipt": {
+    "path": "before-read.ROOT_REVIEWED.json",
+    "sha256": "b42dfd7184e550f16d3b404b9d9c6d51ad8ed1b03141c0803ee9374231402108"
+  },
+  "source_inputs": {
+    "CLAUDE.md": {
+      "before_source": {
+        "path": "before/CLAUDE.md",
+        "sha256": "c40fc6d43f5d2a32594ed0b15ed297bf10ac196887131a40860fe2f2a84f86f5"
+      },
+      "after_source": {
+        "path": "after/CLAUDE.md",
+        "sha256": "d5a3ff30b4286a7fa6518da71884f80f66c624b6c248b579cfdfbd722af617fc"
+      },
+      "change_ledger": {
+        "path": "ledgers/CLAUDE.md.json",
+        "sha256": "005291234b146758db29b68f8b2dcea53218825e4a9dc79584bc0c3707ba0d78"
+      },
+      "review_ids": {
+        "source": "93d2a658ca0d775b110b76d95a09dee8449fc15fb2b7cd23228b157de54152f0",
+        "writing": "c86c7472e29a9ce6da6b297bc6f14bb36571529f9b6136cd12ac98e38244e8c9"
+      }
+    },
+    "docs/absence-rules.md": {
+      "before_source": {
+        "path": "before/docs/absence-rules.md",
+        "sha256": "5f8d48d62063778ad16237371c6f5771077fd244d29f0e6a713aa1b9364aab89"
+      },
+      "after_source": {
+        "path": "after/docs/absence-rules.md",
+        "sha256": "485c34b7416e6ab4ec3420db36c749fbb392934579a232db4b6ab81eb9df6774"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__absence-rules.md.json",
+        "sha256": "fd0327ecb63cd6ce80d160304935ddd78f8bbacfcd74b2156441906d295430dc"
+      },
+      "before_actual_physical_source": {
+        "path": "before-physical/docs/absence-rules.md",
+        "sha256": "cc1f97ee6271e64fa74bd8beee2ff522c2bde422dd2a118935c177843fb6d27d"
+      },
+      "review_ids": {
+        "source": "92e6aeed9496bc31d3cb2b149f8911e5ef7b9e2366479c4286478b8e698b793a",
+        "writing": "e5f6c921e89795b1b7d0f34a93c759d6fee0f8ed503464c58a211554d6ccf729"
+      }
+    },
+    "docs/answers/buying/can-a-geo-agency-guarantee-ai-recommendations.md": {
+      "before_source": {
+        "path": "before/docs/answers/buying/can-a-geo-agency-guarantee-ai-recommendations.md",
+        "sha256": "7d0a24b9e56babaa7bb5c0aca5a1eb7f002888eda2d368caa188d2c7dd571315"
+      },
+      "after_source": {
+        "path": "after/docs/answers/buying/can-a-geo-agency-guarantee-ai-recommendations.md",
+        "sha256": "fcae6bd0fe8980878dbe87360ac4c37bfc1c17d43f63ec2d8629f7a705e844b6"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__buying__can-a-geo-agency-guarantee-ai-recommendations.md.json",
+        "sha256": "e2998faf498de8a1575b6f7aba6200c7e52ba9dd26c0296f971ed3b515016eee"
+      },
+      "review_ids": {
+        "source": "5bd230060c93138035a4881a7401962d1b09322d598fbf36db239398416a39c9",
+        "writing": "e1cec668e9f3894eef309c38aecd1f5fca01a5a1528db02a4ac4db7d9026f44b"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/dde71e9b38da1f187c7c1d348ea6995d51aca6966d4e431c23c7dd05fe4748ef.json",
+        "sha256": "dde71e9b38da1f187c7c1d348ea6995d51aca6966d4e431c23c7dd05fe4748ef"
+      }
+    },
+    "docs/answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence.md": {
+      "before_source": {
+        "path": "before/docs/answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence.md",
+        "sha256": "43b79ec64bc133d28503b1df626f9e7837647a61051e573132840170a0e8781d"
+      },
+      "after_source": {
+        "path": "after/docs/answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence.md",
+        "sha256": "cb0ef6ad2b75785044ad973db241e8ca6fa6980be4d370bff20b3f97ed1fc42c"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__buying__how-should-a-regulated-business-assess-ai-visibility-evidence.md.json",
+        "sha256": "843f58e331f129727291caf2d91e16ffcb1bd97de352a90a9bb301cf3e5bbb10"
+      },
+      "review_ids": {
+        "source": "57befe525ece344c5b47225efff1058a113175df2305e870addb5856420f5cc5",
+        "writing": "4bdf35eb36b392b4f42e6dc799e662cfc607f51e322b9aa9901469fafaaa9d55"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/5404ba47ff8bbd23c6473a45b181593cad281f4072f9c945de188c90dbcf5ba9.json",
+        "sha256": "5404ba47ff8bbd23c6473a45b181593cad281f4072f9c945de188c90dbcf5ba9"
+      }
+    },
+    "docs/answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets.md": {
+      "before_source": {
+        "path": "before/docs/answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets.md",
+        "sha256": "5852c19e01df692c386d757c73b0008878e986735eeffa1f5da30634a84c944d"
+      },
+      "after_source": {
+        "path": "after/docs/answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets.md",
+        "sha256": "4ed4993430baab46c8f66ec8f6ff3cc6812964d433264dda123d067cef3af421"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__buying__how-should-i-compare-geo-quotes-with-different-question-sets.md.json",
+        "sha256": "425524893a19eda33c3622f5e450f189abf1b3d79f41ff39b855cf306f3357ef"
+      },
+      "review_ids": {
+        "source": "8c01da3114ebb06ab0e2857ee3f42193d95b8d932db331cc0ccd85a1310505ef",
+        "writing": "59950508495b70b2e293a9f551aa4592e71de3deef02e5ef6fc03907f6205591"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/14248e7ceebcf01abf6933f04063fd508f4663492b995a403a4f089cb7a58a0f.json",
+        "sha256": "14248e7ceebcf01abf6933f04063fd508f4663492b995a403a4f089cb7a58a0f"
+      }
+    },
+    "docs/answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md": {
+      "before_source": {
+        "path": "before/docs/answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md",
+        "sha256": "a785e4ca34b81d1897c2eaab3f6fe541d131ef0313421b915bfc35eaf0aaecd7"
+      },
+      "after_source": {
+        "path": "after/docs/answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md",
+        "sha256": "833b4dfe529d2a2f1fdcc4d68ea70336bb38c81e50746fe1e5cfef966fb2ae87"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__changes__how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md.json",
+        "sha256": "d4240be86f25e92a8cea8f529ba73c3663607b1eef9b97b5fabd0bd2ff20867d"
+      },
+      "review_ids": {
+        "source": "b4c6a0cd44d823da3d83055be318877b4132e8f40fcc548afe502883843c5524",
+        "writing": "e1aa7c553559157b063d38d67d37659d8c08de2c32b02418e3dde2a5840ce27b"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/4fbfd53368666e6e5c6cec02d009abac6955a682900a7a7777b4365ab8cadeb0.json",
+        "sha256": "4fbfd53368666e6e5c6cec02d009abac6955a682900a7a7777b4365ab8cadeb0"
+      }
+    },
+    "docs/answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change.md": {
+      "before_source": {
+        "path": "before/docs/answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change.md",
+        "sha256": "4e4669b66369dfda5e79c136abff93c9d2eafd3211d244e8a2d5dded09db4b6c"
+      },
+      "after_source": {
+        "path": "after/docs/answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change.md",
+        "sha256": "e764180ac92386514ec91327f67a83130ee2f9acbef19f889a950543ef73bdf8"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__changes__how-should-a-vendor-correct-outdated-facts-after-a-public-change.md.json",
+        "sha256": "f95d31a5289609aa9fa8c1e802f308838a7fd957356a1acf9c22feed621b73ff"
+      },
+      "review_ids": {
+        "source": "623f4d3fd566b00a47903369b04804c12be607cdb95979fa4cd324ee5b384ee6",
+        "writing": "f49c84418801085d3e43b9b329285a603accaed13426db87b4ab16413880bceb"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/9e082bb2f845d4f5845a195d98f7740eb206e2584b3448997efe21f9d4386930.json",
+        "sha256": "9e082bb2f845d4f5845a195d98f7740eb206e2584b3448997efe21f9d4386930"
+      }
+    },
+    "docs/answers/changes/how-should-i-check-a-reported-vulnerability-s-product-impact.md": {
+      "before_source": {
+        "path": "before/docs/answers/changes/how-should-i-check-a-reported-vulnerability-s-product-impact.md",
+        "sha256": "94c16142698118147b597b609e349e0c078a556139dee4837b508284ddc60dd4"
+      },
+      "after_source": {
+        "path": "after/docs/answers/changes/how-should-i-check-a-reported-vulnerability-s-product-impact.md",
+        "sha256": "345c8f41b4bbde134420bbff29f5201e28f07fec578d5578255cca62339ab5c7"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__changes__how-should-i-check-a-reported-vulnerability-s-product-impact.md.json",
+        "sha256": "40ebe76f7d94fc6176744758a0737ca098cfaf93c3107baf9158e987800f45d3"
+      },
+      "review_ids": {
+        "source": "69b67536eb16b4c4831f9652e80cfa1028a0763daf53c00ec3a550d0ff1c6b1b",
+        "writing": "c1d845f4135b87259902112ef9e884492c3649b512745a27c165528b533d55f6"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/f9831def46bd4625a0a5a928bdb158b804a3a4d0ea132ac2fbe9ffc2e1d41f2a.json",
+        "sha256": "f9831def46bd4625a0a5a928bdb158b804a3a4d0ea132ac2fbe9ffc2e1d41f2a"
+      }
+    },
+    "docs/answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes.md": {
+      "before_source": {
+        "path": "before/docs/answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes.md",
+        "sha256": "ead9f5ac00ccbc88eb21e1fdc87f171fb80f547117b7efe858bc77f3de73eeb3"
+      },
+      "after_source": {
+        "path": "after/docs/answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes.md",
+        "sha256": "b5ef36271c10fbf641e5b032f860663087fcfb69757786b860acdb2b05c94173"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__changes__how-should-we-distinguish-planned-fixes-from-completed-fixes.md.json",
+        "sha256": "5c0d709fc9b1c0c9e26a9e4b3575f5193a9075f6c0ef4e465d05ef67dad77081"
+      },
+      "review_ids": {
+        "source": "43a383f3ae81bf49a4429658e9921ce201ef70d210c4e4d95b72e26aaa17721d",
+        "writing": "1b0c05bd412c6d9c56e172c1ee4a12224b15643e8f744b58d597bd1fd79f5c43"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/2c231c782208935cdd8ed74b9a92b86c1e1e2b096844e03f64ad293c80355f47.json",
+        "sha256": "2c231c782208935cdd8ed74b9a92b86c1e1e2b096844e03f64ad293c80355f47"
+      }
+    },
+    "docs/answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain.md": {
+      "before_source": {
+        "path": "before/docs/answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain.md",
+        "sha256": "cb64c6e8aa5253da3bb8bb0709089f4a0ed94056931c0bd7b566fa61a97d4fa0"
+      },
+      "after_source": {
+        "path": "after/docs/answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain.md",
+        "sha256": "d1a36fa1d1923c13304cd3c9ef3dfd84fa6e0d82c4a4ab906d77d7e4d6935d54"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__changes__what-should-a-vendor-say-while-an-incident-is-uncertain.md.json",
+        "sha256": "699b59f90bd282f7467fd344de33484207995703bba73b3d7e740494448f0109"
+      },
+      "review_ids": {
+        "source": "42a7d1cfeac8dd679a5a3bef142b05660ee9e4411eece523be14205c6254f3ee",
+        "writing": "8cb65e542ae3a1fde358868401f9effda9a43c0a72cc9691d9882be7894853a7"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/89e6d0c90214d27ffe70c5e971299fc33f22f53e6d1ad6df1fc0d81748c481fb.json",
+        "sha256": "89e6d0c90214d27ffe70c5e971299fc33f22f53e6d1ad6df1fc0d81748c481fb"
+      }
+    },
+    "docs/answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md": {
+      "before_source": {
+        "path": "before/docs/answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md",
+        "sha256": "763454853bc9d054322ed7a581f35399a90efd3ea5db842cd1bf4fda6f95759e"
+      },
+      "after_source": {
+        "path": "after/docs/answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md",
+        "sha256": "dc4fdd7f7a81ca552fbafc1b4c886c922bc89e0dc5904ed48402d6ce08396da2"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__chatgpt__does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md.json",
+        "sha256": "f14382fa980ba3a6b813431d582b13fb9024e5d57a1e1a04f638dc97b80014a3"
+      },
+      "review_ids": {
+        "source": "0762fa97f9dee33b45b0081798775bb4b67014a38dbfdfe2989e603fff0c7173",
+        "writing": "660b242bc1cbbe1cf0b8c05d69fef6d826c2dfaad0cabdae6954ffa86030d932"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/e350e9a1208c139e477c378bbdc83d6d0f0527763fff4872d3797231064c0237.json",
+        "sha256": "e350e9a1208c139e477c378bbdc83d6d0f0527763fff4872d3797231064c0237"
+      }
+    },
+    "docs/answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite.md": {
+      "before_source": {
+        "path": "before/docs/answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite.md",
+        "sha256": "064bbc47c68ace1ead1a6d10d39e02fc3e178f65d3f906cbdb7e3eeb7ea20c61"
+      },
+      "after_source": {
+        "path": "after/docs/answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite.md",
+        "sha256": "5c0e66bfa417c56ca372cc4f855eda5c4381f8c2bf722f777b36609c2d313113"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__chatgpt__how-does-chatgpt-choose-which-sources-to-cite.md.json",
+        "sha256": "af44586c1f0c1e835167d588de5f94d4b8b3607c7ad114af859da7b6e66b8538"
+      },
+      "review_ids": {
+        "source": "63fa39d69d6f3344ea723bed816297466798b79d49c6cb9b84ab488a01baea7a",
+        "writing": "fe833f55507b4206e4a4b34482cc428f0c0440170b56e13b5520e7239285c2f5"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/3d4589bef0968bfdadcb46d011263972cc81d521ed4697d0e53fa06b991bc1ee.json",
+        "sha256": "3d4589bef0968bfdadcb46d011263972cc81d521ed4697d0e53fa06b991bc1ee"
+      }
+    },
+    "docs/answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md": {
+      "before_source": {
+        "path": "before/docs/answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
+        "sha256": "ea37e8f13ea6a7b3082b987de8712fe3c6f50eca8fd95a6f7f6d2be5dd1d7c57"
+      },
+      "after_source": {
+        "path": "after/docs/answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
+        "sha256": "a3d4cd64765d0661c85a75f248a8a4fe12d88fc7aef3bdc2e684883d558062ea"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__chatgpt__which-legal-practice-software-does-chatgpt-recommend.md.json",
+        "sha256": "955add30f248498b678bdd56f7dcecd622f79d8fcf2dc81aa43701790e86df12"
+      },
+      "review_ids": {
+        "source": "eb338e3bf44ad145375771df96514e70c413b380a0a655b625df2dd856c69c9e",
+        "writing": "c679845e5a450089a279834bdefe1ac74326074d9704da2bfb9cc7b0af765b55"
+      },
+      "ordinary_review_ids": {
+        "source": "fad8e9e27f16b06f3c607d45a8d503efeb2e405d335a2651b9ea134084eff7b7",
+        "writing": "7e1c2c914e5a3a53241043220531e601ea5d2f5589c9a1173bddf19f866ffbfb"
+      },
+      "source_media_receipt": {
+        "path": "media/603e01ba8f83d1283839762787a111796dc23965deeb3f32e80a523df9af06af.json",
+        "sha256": "603e01ba8f83d1283839762787a111796dc23965deeb3f32e80a523df9af06af"
+      },
+      "Root_playback_receipt": {
+        "path": "media/c88e92665eccc3a07753e0d4b6839725f62ce1c256475537c17b7962c180f818.json",
+        "sha256": "c88e92665eccc3a07753e0d4b6839725f62ce1c256475537c17b7962c180f818"
+      },
+      "Root_playback_frame_sha256": {
+        "LEGAL_PUBLIC_FRAME_A.jpg": "d5728740f5caa6420cdf016ac25eb9786eacab048f6cc20bc7107edee3503401",
+        "LEGAL_PUBLIC_FRAME_B.jpg": "19bb3e791a12b14262bb6c2bf71a1da41b739304ac292ad6385a3621f136edce"
+      }
+    },
+    "docs/answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md": {
+      "before_source": {
+        "path": "before/docs/answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md",
+        "sha256": "70b8ae7d031d7850b740cd5797cea032e828564ea53234a634f501bde462c5b3"
+      },
+      "after_source": {
+        "path": "after/docs/answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md",
+        "sha256": "20f253a462041469eab2e5e5564fe4e036725d057712f8ad7fe87039dd44918e"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__claude__does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md.json",
+        "sha256": "ab37f440496b897ef76efd4ba948f2d005c995182bb71f207831f8d2b7a923af"
+      },
+      "review_ids": {
+        "source": "f9b857e9334f3facb9d287a11c6c57e2d31d8b9ec618b7b349b707902f3d94b8",
+        "writing": "dedbb92e341cc35ca7a2e8661712bfdf2c97e9b8dc67fa918261ce26be739dfd"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/befb7967344e0eb5e60ded394c6d89db67f982d466ce62373afe37fea5deb737.json",
+        "sha256": "befb7967344e0eb5e60ded394c6d89db67f982d466ce62373afe37fea5deb737"
+      },
+      "ordinary_review_ids": {
+        "source": "75a0f7f524a7d1a2b68725fe0efea2bc21f7aa54e6aacac392e6e77b94ae62e3",
+        "writing": "62296de2f3a02edb3a51f5fa62ed4c7f4836bebb49dc27d5aa9d8605bc463413"
+      }
+    },
+    "docs/answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md": {
+      "before_source": {
+        "path": "before/docs/answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md",
+        "sha256": "7518a02bf66afc0f2ed0d49ef868f666ca8a1d7d6188b647c54e1c8e5ec98fa6"
+      },
+      "after_source": {
+        "path": "after/docs/answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md",
+        "sha256": "bbefa431fe14fb4309abc8c4e6577ab3335fe8220f289580578419fc735d7c01"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__fixes__how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md.json",
+        "sha256": "384995594ed2b55e60e34a67746804c2a9226892b46622a40784aacb895e21f6"
+      },
+      "review_ids": {
+        "source": "8267f760e4cfa588f816246237e156762d1335d8bd7d281e2675f2789a0c9518",
+        "writing": "b1b7200d2cfd0c5a80dced5b231a4e144bebe802899a19e9e1644abd4de6c368"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/0d50470a2f46188167e6a9670971768282716cfe4dbb41d93c0e4d7265062ad0.json",
+        "sha256": "0d50470a2f46188167e6a9670971768282716cfe4dbb41d93c0e4d7265062ad0"
+      }
+    },
+    "docs/answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence.md": {
+      "before_source": {
+        "path": "before/docs/answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence.md",
+        "sha256": "0a9e93503bf40eb830db1d79cfe229b7cbf9222329c756ed207108a43f235579"
+      },
+      "after_source": {
+        "path": "after/docs/answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence.md",
+        "sha256": "310f9f518ec99180450e9028f9a8354fea9f7454bbcec437ce14abef6da2b6d0"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__fixes__how-should-an-answer-page-link-each-claim-to-evidence.md.json",
+        "sha256": "11111e8896bb9d39c0bc22969b1980ce51503aee4901725d8b10a3d73bafc3db"
+      },
+      "review_ids": {
+        "source": "0ae23fdb91cf39ee991713dd837184ac3728e7d6bad7409cc7d6396f4d97c798",
+        "writing": "9a70c460e697bcbddcfe90ab2f79edc512861a427e51e0a5ed20dc93f7d1204d"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/54e24d93367b06dcfba7cfdf42d42ead1c6a20f21475ff6acddbeff0c9881b4c.json",
+        "sha256": "54e24d93367b06dcfba7cfdf42d42ead1c6a20f21475ff6acddbeff0c9881b4c"
+      }
+    },
+    "docs/answers/fixes/how-should-i-structure-headings-for-ai-crawlers.md": {
+      "before_source": {
+        "path": "before/docs/answers/fixes/how-should-i-structure-headings-for-ai-crawlers.md",
+        "sha256": "6ee1046370ebfff224db5ade5a15b2537d80b831c9c3f94a7990a0e19b7d9af7"
+      },
+      "after_source": {
+        "path": "after/docs/answers/fixes/how-should-i-structure-headings-for-ai-crawlers.md",
+        "sha256": "5a649c271f30adceacf0d62162cec089a7f8be32f78257960b6e023279d2ba10"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__fixes__how-should-i-structure-headings-for-ai-crawlers.md.json",
+        "sha256": "307a95d11c9efff55e1221ca6a47ffe8ed7e8c9ac8a1a334019d449ccb6ef4d9"
+      },
+      "review_ids": {
+        "source": "cf3ee506c5bdf2eb8eb7ec6e8ffd0a0e268babd473ad2bce9dac401a5fca625e",
+        "writing": "1a966f7d8095a056c8016776da3b0b0a4acb95ed8505945f17863dda2dfeac2a"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/c89d1735296b5cdadc1bc8ae7d172e4b301939c7eb8be6a07f784a786551e276.json",
+        "sha256": "c89d1735296b5cdadc1bc8ae7d172e4b301939c7eb8be6a07f784a786551e276"
+      }
+    },
+    "docs/answers/fixes/is-llms-txt-required-for-ai-search-visibility.md": {
+      "before_source": {
+        "path": "before/docs/answers/fixes/is-llms-txt-required-for-ai-search-visibility.md",
+        "sha256": "01833030671198c2d9dc22a2ae640a736a16a78fb4a9ba351405a7c889a41747"
+      },
+      "after_source": {
+        "path": "after/docs/answers/fixes/is-llms-txt-required-for-ai-search-visibility.md",
+        "sha256": "510cb153f457d6c99b997a4c9973f0ae95856e22900ed7bd1bfe70b0adf3aabb"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__fixes__is-llms-txt-required-for-ai-search-visibility.md.json",
+        "sha256": "23a2940e26bca9efc83d3a737ab2480c718e24aa3530663342061eaa6fffba10"
+      },
+      "review_ids": {
+        "source": "b8ae7101c780e7f1bef9e2cbb0d4a095ed911353615dc091fd37bb9c67868118",
+        "writing": "84b2b6dbb80902ba7031fd2abaaf424d6b01f96a5983759e98a528ce036efaab"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/d8c11baacb7bca1afd796226bc9ac9d6cf6137c38122b88e0b15bc81dd24ba7d.json",
+        "sha256": "d8c11baacb7bca1afd796226bc9ac9d6cf6137c38122b88e0b15bc81dd24ba7d"
+      }
+    },
+    "docs/answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md": {
+      "before_source": {
+        "path": "before/docs/answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md",
+        "sha256": "9fa0f57d22dd3837247092ec25ecc7f89d7fa4277bc07227f4691560b0ae44cc"
+      },
+      "after_source": {
+        "path": "after/docs/answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md",
+        "sha256": "ae2b3f7738a6fff296b9f191428baf08eef8efd86ff0cde30dd4854f1e31f51c"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__fixes__what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md.json",
+        "sha256": "c53ebefac8d7c9999a37b8706d8da6789599d94727becfe8525fecfe8c9fcc1f"
+      },
+      "review_ids": {
+        "source": "f0c5c9f96cac5a300dd7368e3b44f8b840580c9a59d02535c3d7c629065fac2c",
+        "writing": "b56597148f99df691b9e0cf81c79c381b7237d63a1e96e03726883ee73ef08f7"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/05ddba006e46bdd22a70784d0dc5eda42985e2c22827160f53b59a7dfc8f86c9.json",
+        "sha256": "05ddba006e46bdd22a70784d0dc5eda42985e2c22827160f53b59a7dfc8f86c9"
+      }
+    },
+    "docs/answers/fixes/what-should-an-ai-information-page-say-about-our-company.md": {
+      "before_source": {
+        "path": "before/docs/answers/fixes/what-should-an-ai-information-page-say-about-our-company.md",
+        "sha256": "70316d13ed2a3350339f174cb59d043f9c59d1d71aa7a6055811360285ed08d4"
+      },
+      "after_source": {
+        "path": "after/docs/answers/fixes/what-should-an-ai-information-page-say-about-our-company.md",
+        "sha256": "b0b85b1df746dedc349301a4c56ca864382b28324f6337ca58fb53ccd5c12cd0"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__fixes__what-should-an-ai-information-page-say-about-our-company.md.json",
+        "sha256": "5f413aa23760bc53ad66ed8c12f5e03e3df6717ece0ce17560cb0642fd71922b"
+      },
+      "review_ids": {
+        "source": "4dabf65c5d5f3547ffe6d06e9d02e817d549fd62dd73552677d19788aa91b4d3",
+        "writing": "3cad0fee2df19e0c160d09db1c4f1cd307d527ecaab48e665aa2b58ab6b20ef0"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/d70149fcd2e26aa96fd7c7bb43422bf097720c90958a5876d98c90f39434cf36.json",
+        "sha256": "d70149fcd2e26aa96fd7c7bb43422bf097720c90958a5876d98c90f39434cf36"
+      }
+    },
+    "docs/answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts.md": {
+      "before_source": {
+        "path": "before/docs/answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts.md",
+        "sha256": "f95e2200356a82110a5e4c86b2cdcfe6df1f3f3ba3450d82def56629f6b3b807"
+      },
+      "after_source": {
+        "path": "after/docs/answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts.md",
+        "sha256": "c2b36a9c6e0496f26bc0f39360eab39f74aef7a805fd1e694a56ef8675498736"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__geo-basics__does-a-recent-ai-answer-contain-only-current-product-facts.md.json",
+        "sha256": "13bec0fb79c1e87f5bbc70167661e1912fea4d9ff0b5cf150d16170afdb3d980"
+      },
+      "review_ids": {
+        "source": "a3250b4ac37644202b9a15d8fa5acbadec84ca144c6f79d6615ae44bc29005a0",
+        "writing": "f343d1d140a41a7c961c2d24a77cadde7633aebfd93b83308089680c4cc2b309"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/636c5566d4a671c3c85651aaf7ae5bc3ad03771c58883e7009f77f0c7cc19161.json",
+        "sha256": "636c5566d4a671c3c85651aaf7ae5bc3ad03771c58883e7009f77f0c7cc19161"
+      }
+    },
+    "docs/answers/geo-basics/what-are-alternatives-to-brightedge-for-geo.md": {
+      "before_source": {
+        "path": "before/docs/answers/geo-basics/what-are-alternatives-to-brightedge-for-geo.md",
+        "sha256": "0110be159a35fe39cd600450902f688b5d202791da2d1721d90b8070ac0c07b4"
+      },
+      "after_source": {
+        "path": "after/docs/answers/geo-basics/what-are-alternatives-to-brightedge-for-geo.md",
+        "sha256": "f4c3559ffb1722c67b9fe9d37e017ad07a74a6fe35617c04ce76a6159ac31a2e"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__geo-basics__what-are-alternatives-to-brightedge-for-geo.md.json",
+        "sha256": "e90f0dcd24c870692673c319207752a447da6e1adb1713e54962b24085bf8a7c"
+      },
+      "review_ids": {
+        "source": "e2d133ee4172d41bc7f1ceaa7c5e9ec718a18483dd9231eee4c6210b8a579a73",
+        "writing": "7703c5e8bdb9ad4894aeb198690497d5b8f381f58356d4dae2ba80e8f1bf8b55"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/919e1af6a4b8126c3bc0f8625db0f36e77924cc32c55b3a00a4934fbb9b95541.json",
+        "sha256": "919e1af6a4b8126c3bc0f8625db0f36e77924cc32c55b3a00a4934fbb9b95541"
+      }
+    },
+    "docs/answers/google-ai/does-google-extended-control-ai-overview-or-ai-mode-visibility.md": {
+      "before_source": {
+        "path": "before/docs/answers/google-ai/does-google-extended-control-ai-overview-or-ai-mode-visibility.md",
+        "sha256": "ecbf0ed954a5b86a9c6e1343e6727ada939fb897f8949f4b3260200886f849f0"
+      },
+      "after_source": {
+        "path": "after/docs/answers/google-ai/does-google-extended-control-ai-overview-or-ai-mode-visibility.md",
+        "sha256": "7cab4fb947c98fce1d9534a8d972e91bca97abe5f3b281a3a8faeabfc6f60c05"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__google-ai__does-google-extended-control-ai-overview-or-ai-mode-visibility.md.json",
+        "sha256": "7ee53b44616b24e174868a975843e149d83fd6df559592ae854e4bb8ffb11634"
+      },
+      "review_ids": {
+        "source": "48c024700a03abf529466b7e88a6543120934e2c71ed4f001745a2fe18653142",
+        "writing": "bb066bb3849ac1ebf9e6591a839fd13f9914332fb0f77aefd8701086944c56da"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/76e2cf1d6ee7615e3ace15069ffd5a674f78d4b2107033880d75e96228181d28.json",
+        "sha256": "76e2cf1d6ee7615e3ace15069ffd5a674f78d4b2107033880d75e96228181d28"
+      }
+    },
+    "docs/answers/google-ai/how-does-google-ai-mode-choose-cited-sources.md": {
+      "before_source": {
+        "path": "before/docs/answers/google-ai/how-does-google-ai-mode-choose-cited-sources.md",
+        "sha256": "826cba2b7a82d40676e80d1b5386e7af7cab654dcce7fd5f9f46e820bb380001"
+      },
+      "after_source": {
+        "path": "after/docs/answers/google-ai/how-does-google-ai-mode-choose-cited-sources.md",
+        "sha256": "c1d4cd175e03f6e18d28cf94f80aab6736fb75ba737c1741553174d4f23aa263"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__google-ai__how-does-google-ai-mode-choose-cited-sources.md.json",
+        "sha256": "38c9160118fc3022e36e5fafafbdd4d79b539fdc39d86d001ff4d91c5aafd1e7"
+      },
+      "review_ids": {
+        "source": "c0ba15224f0f1b62bae4615334be05047ed9c4432a75e268b9d5d3787e602768",
+        "writing": "79d4b7560bbc584defdc7f88c06ed2c8dfd5687df7637918c20f651d7343a377"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/19290994a26df1431386c45a0ac8a956a54e82ca11d35a9bf34996e7990d9680.json",
+        "sha256": "19290994a26df1431386c45a0ac8a956a54e82ca11d35a9bf34996e7990d9680"
+      }
+    },
+    "docs/answers/measurement/do-youtube-transcripts-affect-llm-citations.md": {
+      "before_source": {
+        "path": "before/docs/answers/measurement/do-youtube-transcripts-affect-llm-citations.md",
+        "sha256": "002c62725c2a112c11e78962cdab951bb739f8d819d5c63755de30eb28e4f576"
+      },
+      "after_source": {
+        "path": "after/docs/answers/measurement/do-youtube-transcripts-affect-llm-citations.md",
+        "sha256": "8edb5b8988eed5086c71f8113cebeea05fd49143e7a1fdd4bb37b5aeb93974d5"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__measurement__do-youtube-transcripts-affect-llm-citations.md.json",
+        "sha256": "f6f732bc511abf1ec06461d89045e7537d271dfe0505f41ac28d4d892e911538"
+      },
+      "review_ids": {
+        "source": "b1cc16b8723b7324239fd8967970cb397dff7c9b19a1923ea359c31059b5d530",
+        "writing": "c153d4cd7c98641d0eefb816b7d75139c4ffe073e44fca35bac3adaa94f5c748"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/36de5c3964c9e2df4a5553068399bed693546e35ff26258e133f714ed1b3b058.json",
+        "sha256": "36de5c3964c9e2df4a5553068399bed693546e35ff26258e133f714ed1b3b058"
+      }
+    },
+    "docs/answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md": {
+      "before_source": {
+        "path": "before/docs/answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md",
+        "sha256": "a7d9316e26f03fe43d21c9140d63af5d9ccb38d06dff929c858f3c94bb96f005"
+      },
+      "after_source": {
+        "path": "after/docs/answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md",
+        "sha256": "6e3a5df38d3b729b169ce149e082bf50b8d06f43c386217c1e1b372a85b712d4"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__answers__measurement__which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md.json",
+        "sha256": "ab8c1b694e97863b97be85ee13bcd64df53e3351abd694e0bae928c1a0759758"
+      },
+      "review_ids": {
+        "source": "a94e51f7c4626730af8bfd201a3bbeb22114eafa6490de3bb5bc07d05810ea88",
+        "writing": "225fe2f96945d94021b65f67c4ab2e3c55c3caf458ba4b1a38e4a40dab382142"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/db5a212c745be0c4a65871dd1e36525da4b7785b7401ccb76386610f2c958c01.json",
+        "sha256": "db5a212c745be0c4a65871dd1e36525da4b7785b7401ccb76386610f2c958c01"
+      }
+    },
+    "docs/assets/learning.css": {
+      "before_source": {
+        "path": "before/docs/assets/learning.css",
+        "sha256": "c2871d469b576caa626f62b55ba94ed229e7abe4db93738786e73e7c4e20ebcf"
+      },
+      "after_source": {
+        "path": "after/docs/assets/learning.css",
+        "sha256": "b13eece29be89770d7cd398e1290c98c739d1059d87ffb4d7a4133caa08eb207"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__assets__learning.css.json",
+        "sha256": "e5e54f2b5d819230aece7dc36a2c995dd3bb69f11b4c7d143a2cf2502f5c2faa"
+      },
+      "review_ids": {
+        "source": "5a43b22b56cede9f280ec29bf83389c8714067a8fdb7c876b2f1909c168078fb",
+        "writing": "48519afc91bf2a3bbd9036384ac1f8876df6e3e69a91ff28f86d09755aa4d622"
+      }
+    },
+    "docs/assets/manual.css": {
+      "before_source": {
+        "path": "before/docs/assets/manual.css",
+        "sha256": "7938a2ed926a002b3e47e7d62a6ba39b206e9fdf562d608aa239ee9f86d09e54"
+      },
+      "after_source": {
+        "path": "after/docs/assets/manual.css",
+        "sha256": "5d9175553b2612640bc964a05844cb217fdfa328be23fd5c3dd4bae12aacc825"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__assets__manual.css.json",
+        "sha256": "9298b24c2370a894756312e7cbde67819e8cd275e0df27481a2e59ba871fd293"
+      },
+      "review_ids": {
+        "source": "eb9e898b116e3967832d620c4ef48f980f62eaa85eec636934faf1b968f75671",
+        "writing": "95d58f75fcfd40cc4c774d89a69550a71bcb64ec651fa105e5141346355f90f6"
+      }
+    },
+    "docs/research/glossary/citation-decay/index.md": {
+      "before_source": {
+        "path": "before/docs/research/glossary/citation-decay/index.md",
+        "sha256": "a4ea1b8130d07cac585b123fbc66fb2325141b90c2ede6e5b5afdd9c56fadfa9"
+      },
+      "after_source": {
+        "path": "after/docs/research/glossary/citation-decay/index.md",
+        "sha256": "4e73d4e23e5bd4f92839f4f358ea928d30608fb71cb39ae27abab7746064f482"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__research__glossary__citation-decay__index.md.json",
+        "sha256": "8d9f2619f96b099b475eb3a03b61591c8f146c838b4b5d9dacc86bde62702a74"
+      },
+      "review_ids": {
+        "source": "11722a3455a4c82146c3b6e0a018f2b719b4b0988a8659879029eaa61e728b19",
+        "writing": "7bd80ce5ccf88efb6789315a389e96cbf758a7a583538b9e513238837ad7768d"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/137b2d75b7a3932777f92bece0529478bd55f26eb952deee2690d6e1cf1d5758.json",
+        "sha256": "137b2d75b7a3932777f92bece0529478bd55f26eb952deee2690d6e1cf1d5758"
+      }
+    },
+    "docs/research/glossary/entity-confidence/index.md": {
+      "before_source": {
+        "path": "before/docs/research/glossary/entity-confidence/index.md",
+        "sha256": "bf82edf396ff323d7207c1ad4642ce07d3741ae34bcd606773ab01388aaafb62"
+      },
+      "after_source": {
+        "path": "after/docs/research/glossary/entity-confidence/index.md",
+        "sha256": "e0a1c85bd8c202b777e4e459e8b849d3defeb09da213a9b6d6dfeed01865f84a"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__research__glossary__entity-confidence__index.md.json",
+        "sha256": "d5f843963efcf88d3d0044d21e673a1e2534352a5a88a8f9dcc886b85f341784"
+      },
+      "review_ids": {
+        "source": "4dd877aad472e46481a880943222340dbd30c2abb68d43683e1dfc1fecc2217b",
+        "writing": "e294ca7ca7818ef2f4c272a334bc72776bc6d75e2f9fe2a7f0518870238fe352"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/feb2c25d9cda2e28fa64d6c81e538a40af07fb25c5e52cfc866ff8a6fe7d3ada.json",
+        "sha256": "feb2c25d9cda2e28fa64d6c81e538a40af07fb25c5e52cfc866ff8a6fe7d3ada"
+      }
+    },
+    "docs/research/glossary/information-gain/index.md": {
+      "before_source": {
+        "path": "before/docs/research/glossary/information-gain/index.md",
+        "sha256": "026a16a4cf6836a5b650723ce2e13ebf5afc46f6932501e3daa1ce1d644cf19f"
+      },
+      "after_source": {
+        "path": "after/docs/research/glossary/information-gain/index.md",
+        "sha256": "41d0de6497383c72858a32ee310bd1b23636efb639398605fe5206c07590419f"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__research__glossary__information-gain__index.md.json",
+        "sha256": "d2474b7a10aacc6fd398d04af6d73626a972e01ddbba1c3ab0954b25631994dc"
+      },
+      "review_ids": {
+        "source": "1595013eafb0558182bdd0a57403f49e8fc1bda81c6bae6915ea88a4d2ade34a",
+        "writing": "f7cf9e69083015b94428ca3efc95b2a90be327ffe8b00185fbb7247ba05697e2"
+      },
+      "published_facts": {
+        "path": "facts/finite-six-facts.json",
+        "sha256": "78da0a731ea0fbb070fa6eb1b3b7c40d10811a6f09ee1c68b2442ba5449e1625"
+      },
+      "published_facts_source_receipt": {
+        "path": "facts/049bb1e668837f2fa03955abb3cc2f92f556bc3c71b26407ba4657c8b9c265ec.json",
+        "sha256": "049bb1e668837f2fa03955abb3cc2f92f556bc3c71b26407ba4657c8b9c265ec"
+      },
+      "fact_bindings": [
+        {
+          "base": 18893,
+          "body_span": "Our 30 October 2026 host audit changed the review-platform classification from 1,663 of 18,893 target citation entries, 8.8% with a descriptive 95% Wilson interval of 8.4% to 9.2%, to 1,706 of the same 18,893 entries, 9.0% with an interval of 8.6% to 9.4%. The answers were captured on 22 and 23 September 2026. The [frozen and post-audit tables](/research/studies/who-ai-engines-cite/#what-changed-after-the-publisher-purpose-audit) preserve both readings. This is additional evidence about a classification, with no measured information-gain score or ranking effect.",
+          "count": 1706,
+          "observation_id": "classification-sensitivity",
+          "observed_at": "2026-10-30",
+          "published_record_sha256": "2f0d11ff48b417d9647b1e10cfa52aec8f967a01540ba95c12b39defa2235cc5",
+          "quote": "all array entries,target,all,all,review platform,1706,18893,9.0298,8.6294,9.4469",
+          "source_url": "https://docs.broadcastwell.com/research/data/citation-class-shares-post-audit.csv",
+          "unit": "target citation occurrences, fixed underlying entries"
+        }
+      ],
+      "V7_four_trim_ledger": {
+        "path": "information-gain/V7_four_trim_ledger.json",
+        "sha256": "6ee84ad5db688ee2664b27d724d8d8e58cb26b5e379fa7bfeb08a620dd160db9"
+      },
+      "V7_cumulative_ledger": {
+        "path": "information-gain/V7_cumulative_ledger.json",
+        "sha256": "d2474b7a10aacc6fd398d04af6d73626a972e01ddbba1c3ab0954b25631994dc"
+      },
+      "V6_intermediate_source": {
+        "path": "information-gain/V6_intermediate_source.md",
+        "sha256": "150e0ba25480643ed8ad971202ea8c9aea76c107cca8088361b2026991cc9be6"
+      }
+    },
+    "docs/research/glossary/query-fan-out/index.md": {
+      "before_source": {
+        "path": "before/docs/research/glossary/query-fan-out/index.md",
+        "sha256": "bd7ae7387f9d005295441e4c126d4db1f7cf433b5c66362ecb556495be1041a3"
+      },
+      "after_source": {
+        "path": "after/docs/research/glossary/query-fan-out/index.md",
+        "sha256": "00ada4cbc2db1e3435c05dc55ce07e547ab07104d201ea5c8f6daebc5e5c8d5a"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__research__glossary__query-fan-out__index.md.json",
+        "sha256": "fbd8c50cf5624f99673a1f7b7932cb25dd089e9ffd97cd8f70ac6eda1e4686a5"
+      },
+      "review_ids": {
+        "source": "ba70b1dd18deace7b44016b7282527036eb2f60601f5640ba6413ff888238e19",
+        "writing": "0805e8b2142911393feafdffcce2a2127bc81a40f393b32d53ea4dc3f30e08a1"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/7df2a9cf6a7a362fed4a078be04a2c35888e98ea41f79a15142a8bd4b46561f5.json",
+        "sha256": "7df2a9cf6a7a362fed4a078be04a2c35888e98ea41f79a15142a8bd4b46561f5"
+      }
+    },
+    "docs/research/glossary/share-of-model/index.md": {
+      "before_source": {
+        "path": "before/docs/research/glossary/share-of-model/index.md",
+        "sha256": "3513c16d7025a0e52a47c252d0f7d0fc03157f98b814e0587d172501f24cb161"
+      },
+      "after_source": {
+        "path": "after/docs/research/glossary/share-of-model/index.md",
+        "sha256": "5020369261141f633da17da8fef090f21c3a6bbbcf0e8bf39223596926436f3e"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__research__glossary__share-of-model__index.md.json",
+        "sha256": "be7dd200d4b606e43a52799a012c30531df5cef0a67f53cffe7cd50c5fd03e99"
+      },
+      "review_ids": {
+        "source": "c26536d52c2b7a1cb18b713f4e151531637d8d6cc90944e4faa0ba6bf2cf6900",
+        "writing": "8187cf595ac4ae1d620fa45654ffeab58f7b9a45f83f613cd49efcdbc982407d"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/09e8cad4fcebdf43b0e673e166eb02230c01aaee675981034436ed8153668bb4.json",
+        "sha256": "09e8cad4fcebdf43b0e673e166eb02230c01aaee675981034436ed8153668bb4"
+      }
+    },
+    "docs/research/glossary/zero-click-visibility/index.md": {
+      "before_source": {
+        "path": "before/docs/research/glossary/zero-click-visibility/index.md",
+        "sha256": "366fe2ea62e004ddfa4f6bb9cc15b5b90ffe990a4f7ae32ad63de5e22b88aa0d"
+      },
+      "after_source": {
+        "path": "after/docs/research/glossary/zero-click-visibility/index.md",
+        "sha256": "455dfe0e669e6f6c797fedc1a6a2b69fffa4d312944e2cc9c283df02f6170ffc"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__research__glossary__zero-click-visibility__index.md.json",
+        "sha256": "16372b17f91bb650a4b2f352483db325c06328564d5a6239547a7d4f014075b5"
+      },
+      "review_ids": {
+        "source": "679610ded425dd496bca35bc588fa898cf454dceec0719ae3fcbb59de5b4318d",
+        "writing": "eb808649287bc546771bf32ab8e9f0ac9c8c8dc15f8fc2200dc1a05ff5d0ef05"
+      },
+      "specific_Source_evidence_receipt": {
+        "path": "specific-source-evidence/c92b83fa97db8cd5c838123acd8b356d5f8002b91f0fa3b38bcfa5983934c3c0.json",
+        "sha256": "c92b83fa97db8cd5c838123acd8b356d5f8002b91f0fa3b38bcfa5983934c3c0"
+      }
+    },
+    "docs/research/playbooks/llms-txt/index.md": {
+      "before_source": {
+        "path": "before/docs/research/playbooks/llms-txt/index.md",
+        "sha256": "42867d9e800d31809c58d6321250ea51a049cb93ea53175e6d1ebad6ae15bc63"
+      },
+      "after_source": {
+        "path": "after/docs/research/playbooks/llms-txt/index.md",
+        "sha256": "722e6a2a8c085daa5ee5a9773b41d4235467f650364893da44a2f14023515d14"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__research__playbooks__llms-txt__index.md.json",
+        "sha256": "5451a9e5d39c61d429b11e1ea8c744125ee4c5c61f0fc4e1a79545c2cfb5e7b9"
+      },
+      "review_ids": {
+        "source": "d0c12278f195ce5ffb33b2b4af63602e0def5b9085e96935f27128e2b51614dd",
+        "writing": "3c1281ec29333704e39e35ae1d22b93c191fbcaefe2a6d67a6d87c026d61b156"
+      },
+      "published_facts": {
+        "path": "facts/finite-six-facts.json",
+        "sha256": "78da0a731ea0fbb070fa6eb1b3b7c40d10811a6f09ee1c68b2442ba5449e1625"
+      },
+      "published_facts_source_receipt": {
+        "path": "facts/c71f254d99f01c559910c130e0bf045e531e17b368c1c743bdbfce47ee299ae8.json",
+        "sha256": "c71f254d99f01c559910c130e0bf045e531e17b368c1c743bdbfce47ee299ae8"
+      },
+      "fact_bindings": [
+        {
+          "base": 1600,
+          "body_span": "Our [page-signal study](/research/studies/optimized-pages-in-ai-answers/) found llms.txt on 774 of 1,600 distinct final website origins hosting successfully captured target pages on 30 October 2026: 48.4%, with a descriptive 95% Wilson interval of 45.9% to 50.8%. An origin is the scheme, host and any port. Eighty-five of the 1,600 origin results were unknown. These were later file checks on the sources of answers captured on 22 and 23 September, not observations of an engine consuming the file or a test of a visibility effect.",
+          "count": 774,
+          "observation_id": "llms-presence-origins",
+          "observed_at": "2026-10-30",
+          "published_record_sha256": "3e6da1e895376d2f8a462c75c93c2ccabeae9dd13b39b96522734eb873af9772",
+          "quote": "target,all,all,llms.txt present,774,1600,48.375,45.9332,50.8246,distinct final origin,origins of successful complete HTML URLs",
+          "source_url": "https://docs.broadcastwell.com/research/data/study1-llms-presence.csv",
+          "unit": "distinct final origins of successfully captured target URLs"
+        }
+      ]
+    },
+    "docs/research/playbooks/pages-an-ai-engine-can-quote/index.md": {
+      "before_source": {
+        "path": "before/docs/research/playbooks/pages-an-ai-engine-can-quote/index.md",
+        "sha256": "dffe32e241200443646f5e3ecc37006b4509bdf61b33e3394c86ce000e8a6eb4"
+      },
+      "after_source": {
+        "path": "after/docs/research/playbooks/pages-an-ai-engine-can-quote/index.md",
+        "sha256": "0049afd7b4888d9586ca7a3f5baebcf08a4bcfa9a1a23b9bd26eba0ee13c5b41"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__research__playbooks__pages-an-ai-engine-can-quote__index.md.json",
+        "sha256": "946c8d2e0c9da84e001072ff66c36dc0aeb01b489aedd892bfec74fd1c7e1b18"
+      },
+      "review_ids": {
+        "source": "e444e8c09907f407ae1e3cfd1e8626309ad8f17b614665c5f95701acf7518424",
+        "writing": "4537e66351cbe2a7f36470ae52fae7c8d63fb3e18f290fe01848437fbccf1b4a"
+      },
+      "published_facts": {
+        "path": "facts/finite-six-facts.json",
+        "sha256": "78da0a731ea0fbb070fa6eb1b3b7c40d10811a6f09ee1c68b2442ba5449e1625"
+      },
+      "published_facts_source_receipt": {
+        "path": "facts/581a40c75cdd24a5c662636252ff4c63fd188995df703b7b91dbf89e4cc94550.json",
+        "sha256": "581a40c75cdd24a5c662636252ff4c63fd188995df703b7b91dbf89e4cc94550"
+      },
+      "fact_bindings": [
+        {
+          "base": 2095,
+          "body_span": "A worked example from our [published citation study](/research/studies/who-ai-engines-cite/) is: 39 of 2,095 eligible target answers captured on 22 and 23 September 2026 had empty supplied citation lists, 1.9%, with a descriptive 95% Wilson interval of 1.4% to 2.5%. The [answer-base table](/research/data/answer-citation-bases.csv) makes the unit and denominator recoverable. This sentence illustrates how to report our own count; it does not show that this writing format earns a citation, or that those answers used no underlying sources.",
+          "count": 39,
+          "observation_id": "empty-citation-lists-target-answers",
+          "observed_at": "2026-09-22 through2026-09-23",
+          "published_record_sha256": "3a5fa87559debe59bd4e7e7f84000fed480519680bbd4a44dcdcce380931e627",
+          "quote": "target,all,all,2095,39,1.8616,1.3648,2.5346,18893",
+          "source_url": "https://docs.broadcastwell.com/research/data/answer-citation-bases.csv",
+          "unit": "eligible target answers with an empty supplied citation list"
+        }
+      ]
+    },
+    "docs/research/playbooks/research-into-google-scholar/index.md": {
+      "before_source": {
+        "path": "before/docs/research/playbooks/research-into-google-scholar/index.md",
+        "sha256": "1455e7c59ae0f0a4eb40c24df716e2ed0ca54e5729c98d0e4fcc0c14ecaa7727"
+      },
+      "after_source": {
+        "path": "after/docs/research/playbooks/research-into-google-scholar/index.md",
+        "sha256": "b65aae1f9b8cb511a665279cffc457a1463d4102b5e634269127790a6650a536"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__research__playbooks__research-into-google-scholar__index.md.json",
+        "sha256": "835284f2dd91981538eb580f6ec3de6eb902cfe4838d70106dcff2c4f44cf63e"
+      },
+      "review_ids": {
+        "source": "52216ebad6d54ef8b61fa6b152cdbcd6e6966f76ff87b2249487aa83410ee150",
+        "writing": "4e09e19715dfc2fdb5146bbfd75d4b20d56f025c1a0937079a42f3ce91380034"
+      },
+      "published_facts": {
+        "path": "facts/finite-six-facts.json",
+        "sha256": "78da0a731ea0fbb070fa6eb1b3b7c40d10811a6f09ee1c68b2442ba5449e1625"
+      },
+      "published_facts_source_receipt": {
+        "path": "facts/867eeb6e8a393ddc4a2aabfaa77b192929507e1b2509744ccf8725522939d516.json",
+        "sha256": "867eeb6e8a393ddc4a2aabfaa77b192929507e1b2509744ccf8725522939d516"
+      },
+      "fact_bindings": [
+        {
+          "base": 1000,
+          "body_span": "Our [published workbook reanalysis](/research/data/rovira-workbook-reanalysis.csv), checked on 30 October 2026, found that using all 25 query columns changed 456 of 1,000 stored median result-position summaries in the authors’ one-term, title-restricted Google Scholar workbook. The original observations were collected in May 2019. This is a finite calculation check, with no sampling interval; the 456 changed summaries are not 456 searches, papers accepted into Scholar or a measured inclusion tactic.",
+          "count": 456,
+          "observation_id": "rovira-own-reanalysis",
+          "observed_at": "2026-10-30",
+          "published_record_sha256": "8addec98b967e568ab0e485e5128185b20e1a8775460c3a2263abc7ab7e732ff",
+          "quote": "GS-1-word-title-restriction.xlsx,Full 1,eb7f22eda9a20b25f87265adff9de2c66a986274c61748264cf1b2205d54fad2,25,1000,115,9,=MEDIAN(C2:Y2),0.9903496177988199,0.9910214633931869,456",
+          "source_url": "https://docs.broadcastwell.com/research/data/rovira-workbook-reanalysis.csv",
+          "unit": "stored median result-position summaries, not queries or papers"
+        }
+      ]
+    },
+    "docs/research/playbooks/site-structure-basics/index.md": {
+      "before_source": {
+        "path": "before/docs/research/playbooks/site-structure-basics/index.md",
+        "sha256": "9bd5717c7eeb1bd24b38f98fe6c948a229aca0f54338093afbcfcaffaf4cdef6"
+      },
+      "after_source": {
+        "path": "after/docs/research/playbooks/site-structure-basics/index.md",
+        "sha256": "6726803b65c7adf0db89d76d9b7bb981e563863d410f654ce5c2b68444f6f4b8"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__research__playbooks__site-structure-basics__index.md.json",
+        "sha256": "1d31328cae6695620b027aa9915a5fa6257efb4315e57746259b584b15803043"
+      },
+      "review_ids": {
+        "source": "a6635ad6ff59fe1984bbb63aa0bb724508fce3b51a393668aa838537a5702e04",
+        "writing": "4a1fa5d5b3b6ff34fb673f5d5773499e4e26c932d1d519298d33b3a729a06e29"
+      },
+      "published_facts": {
+        "path": "facts/finite-six-facts.json",
+        "sha256": "78da0a731ea0fbb070fa6eb1b3b7c40d10811a6f09ee1c68b2442ba5449e1625"
+      },
+      "published_facts_source_receipt": {
+        "path": "facts/f40ff923cff68b7def6c34e330eb3d2efc0e2f57f5d63548c9e0548161aec7c9.json",
+        "sha256": "f40ff923cff68b7def6c34e330eb3d2efc0e2f57f5d63548c9e0548161aec7c9"
+      },
+      "fact_bindings": [
+        {
+          "base": 4420,
+          "body_span": "In our 30 October 2026 [static-page study](/research/studies/optimized-pages-in-ai-answers/), 4,179 of 4,420 successfully captured target URL records contained a canonical link: 94.5%, with a descriptive 95% Wilson interval of 93.8% to 95.2%. These URL records came from citations in answers captured on 22 and 23 September. The [published signal rows](/research/data/study1-url-classifications.csv) record the link’s presence, without establishing Google’s selected canonical or a citation benefit. Failed captures are outside this base.",
+          "count": 4179,
+          "observation_id": "canonical-presence-target-urls",
+          "observed_at": "2026-10-30",
+          "published_record_sha256": "96880a85457fe07b591cb78a9fd2a8594332735dc1cbeeefd9e500d8a7ccf114",
+          "quote": "url_id,original_url,requested_resource,final_url,public_url_withheld,fetched_html,classification,fetch_outcome,http_status,fetch_started_utc,fetched_utc,content_type,ttfb_seconds,wikipedia_family,robots_txt,sitemap_xml,llms_txt,seo_plugins,schema_types,title_nonempty,description_nonempty,canonical,open_graph,viewport,json_ld,json_ld_parse_failure,microdata,analytics,ads,https,news_domain,robots_seo_hint",
+          "source_url": "https://docs.broadcastwell.com/research/data/study1-url-classifications.csv",
+          "unit": "distinct exact target URL records with successful complete HTML"
+        }
+      ]
+    },
+    "docs/research/playbooks/structured-data-for-b2b-software/index.md": {
+      "before_source": {
+        "path": "before/docs/research/playbooks/structured-data-for-b2b-software/index.md",
+        "sha256": "2a4ae9571fc5374cbdc41ce9a017083b80de49f5b1779ac937c6802f60d5ff58"
+      },
+      "after_source": {
+        "path": "after/docs/research/playbooks/structured-data-for-b2b-software/index.md",
+        "sha256": "44a25afa51490ce6803fca1b9c78d5f64c6e24fecba77ef897fb69713068bb39"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__research__playbooks__structured-data-for-b2b-software__index.md.json",
+        "sha256": "1e2d4c6f6196d35b5f50baf4c4b943c2a22ae505021456da5d881c432ed6b5cb"
+      },
+      "review_ids": {
+        "source": "708918e296579a9e4b4d6cbd2378d3b281ebecbb893980e80b729ae1282a17f6",
+        "writing": "4e97d8a6b6ab6509a6ba2c49c451b683c83218b868c3cd7f12803b1fdfcf5af4"
+      },
+      "published_facts": {
+        "path": "facts/finite-six-facts.json",
+        "sha256": "78da0a731ea0fbb070fa6eb1b3b7c40d10811a6f09ee1c68b2442ba5449e1625"
+      },
+      "published_facts_source_receipt": {
+        "path": "facts/60321ae0d763974dd664d81d4a7d7b2e2c42c914019fdfcb160d96ef06327137.json",
+        "sha256": "60321ae0d763974dd664d81d4a7d7b2e2c42c914019fdfcb160d96ef06327137"
+      },
+      "fact_bindings": [
+        {
+          "base": 4420,
+          "body_span": "Our 30 October 2026 [page-signal study](/research/studies/optimized-pages-in-ai-answers/) recorded parseable, nonempty JSON-LD in 3,616 of 4,420 successfully captured target URL records: 81.8%, with a descriptive 95% Wilson interval of 80.6% to 82.9%. These were later page observations for citations in answers captured on 22 and 23 September. The [published signal rows](/research/data/study1-url-classifications.csv) establish that presence, not vocabulary validity, eligibility for a search feature or a citation effect.",
+          "count": 3616,
+          "observation_id": "json-ld-presence-target-urls",
+          "observed_at": "2026-10-30",
+          "published_record_sha256": "2b30b60f4672baba7fb37c3b01756ab198eab2348db03458d823c946c50366a2",
+          "quote": "url_id,original_url,requested_resource,final_url,public_url_withheld,fetched_html,classification,fetch_outcome,http_status,fetch_started_utc,fetched_utc,content_type,ttfb_seconds,wikipedia_family,robots_txt,sitemap_xml,llms_txt,seo_plugins,schema_types,title_nonempty,description_nonempty,canonical,open_graph,viewport,json_ld,json_ld_parse_failure,microdata,analytics,ads,https,news_domain,robots_seo_hint",
+          "source_url": "https://docs.broadcastwell.com/research/data/study1-url-classifications.csv",
+          "unit": "distinct exact target URL records with successful complete HTML and parseable nonempty JSON-LD"
+        }
+      ]
+    },
+    "docs/resources/audit/executive-template.md": {
+      "before_source": {
+        "path": "before/docs/resources/audit/executive-template.md",
+        "sha256": "c4fa3335ba9ce2ae9c86b6611431e4962fcab80c0d77bfbb305529a885b8dfa2"
+      },
+      "after_source": {
+        "path": "after/docs/resources/audit/executive-template.md",
+        "sha256": "2023490726a2135c65094e9966747c1ec8303300a70741687812324647ef8243"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__resources__audit__executive-template.md.json",
+        "sha256": "d638d97f42d576ce2843c6e4e2dc8a6d44b8312682edbdb3d41a3189afbe699f"
+      },
+      "review_ids": {
+        "source": "4147e255f8e69ac02b4e02797e9eb861f483e342d84794ae5d8f1122a283c7a2",
+        "writing": "ddd0995e36b39786f43669912526ac93b83336f5ab0cbfcabf8764bc9b91d8a9"
+      }
+    },
+    "docs/resources/audit/sample.md": {
+      "before_source": {
+        "path": "before/docs/resources/audit/sample.md",
+        "sha256": "1b9efdf9cdbf5c2f390d299e5cd876fdb71863aace4105e7b1160878668935d0"
+      },
+      "after_source": {
+        "path": "after/docs/resources/audit/sample.md",
+        "sha256": "6453a6fe788803a60c4dd239cce2c0b90a6e2f0d7fd6309fd3ccfd339fc873a7"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__resources__audit__sample.md.json",
+        "sha256": "6ee633d62ff76d8d1ecf233b16b3bd48b633f65f5ee8e518a67988148036dffc"
+      },
+      "review_ids": {
+        "source": "2faa9662ebc18dcbaa8f67a8e1d28d794f916279f8a97abe7c67b0d069d6a228",
+        "writing": "6bcdb86bdddf1c6edbf64fe94d59624855234a215daaa2375e37d0b9f832ff35"
+      }
+    },
+    "docs/resources/three-rates.md": {
+      "before_source": {
+        "path": "before/docs/resources/three-rates.md",
+        "sha256": "cc8db2e40c08ae6867a2eaf1aadefcec6bb776c990c267f909c8fd6688d5aa70"
+      },
+      "after_source": {
+        "path": "after/docs/resources/three-rates.md",
+        "sha256": "07c2c036ff52675d4d477adc614acdc4c0cfd0f014739b926a0947dad322ac7c"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__resources__three-rates.md.json",
+        "sha256": "505764f8a798d86710cc49fdef0d7627f8b339c89428a3a84bfbf6165edc6980"
+      },
+      "review_ids": {
+        "source": "ce8ed3c448b5e7a4853245fe19f2fe2922baea15a873843b8bd1ae43a7b72afc",
+        "writing": "17d00814d5e2275a777cbe2826331df463e1e18ac38449e2cd5b70e5789a72f9"
+      }
+    },
+    "docs/why-does-chatgpt-not-mention-us.md": {
+      "before_source": {
+        "path": "before/docs/why-does-chatgpt-not-mention-us.md",
+        "sha256": "e6af3924980c06df42f740117cd46fc16b3b40c8bfc6f3035f747e2f88b89c16"
+      },
+      "after_source": {
+        "path": "after/docs/why-does-chatgpt-not-mention-us.md",
+        "sha256": "d9ad7bd5b3411c03ce1d08edf3968200179f7d20ddec87563973228714018a14"
+      },
+      "change_ledger": {
+        "path": "ledgers/docs__why-does-chatgpt-not-mention-us.md.json",
+        "sha256": "22db6f7e323c98ee7de27014a747483573faac8e0443b7d85af8e82741be2d0e"
+      },
+      "review_ids": {
+        "source": "f76f54d42e0dc5b8a694187683e84f6a288b0428d9b3d0abb9f4b1be0dba6c20",
+        "writing": "25cba0f7ff210b0a32f1a62ed5481293189aa67439425b21a45192b29b4cbdca"
+      }
+    },
+    "docs/assets/samples/Kalvenor_Sample_Category_Audit.pdf": {
+      "before_source": {
+        "path": "before/docs/assets/samples/Kalvenor_Sample_Category_Audit.pdf",
+        "sha256": "b62e9a2eaf769d9e453a8668656713b2d173aeecb72ec8cdb12c7381ab39eea0"
+      },
+      "after_source": {
+        "path": "after/docs/assets/samples/Kalvenor_Sample_Category_Audit.pdf",
+        "sha256": "d8355a804f9e26c0fd3670419d647ea5998d79c88804e2e8b1bad368c7487384"
+      }
+    },
+    "docs/assets/samples/Category_Audit_sample_Kalvenor_fictional.pdf": {
+      "before_source": {
+        "path": "before/docs/assets/samples/Category_Audit_sample_Kalvenor_fictional.pdf",
+        "sha256": "b62e9a2eaf769d9e453a8668656713b2d173aeecb72ec8cdb12c7381ab39eea0"
+      },
+      "after_source": {
+        "path": "after/docs/assets/samples/Category_Audit_sample_Kalvenor_fictional.pdf",
+        "sha256": "d8355a804f9e26c0fd3670419d647ea5998d79c88804e2e8b1bad368c7487384"
+      }
+    },
+    "docs/assets/samples/FieldEdge_Category_Audit_v2.pdf": {
+      "before_source": {
+        "path": "before/docs/assets/samples/FieldEdge_Category_Audit_v2.pdf",
+        "sha256": "8e82b8d81f569ea29337258e29b5230373003c6fcb2e6f63982471a7b8e1206a"
+      },
+      "after_source": {
+        "path": "after/docs/assets/samples/FieldEdge_Category_Audit_v2.pdf",
+        "sha256": "80e57511aa5f25a5e58ab4d7f7cdc99e37eed09a012e4bd8e6884617cf4e5fc0"
+      }
+    },
+    "docs/assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf": {
+      "before_source": {
+        "path": "before/docs/assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf",
+        "sha256": "8e82b8d81f569ea29337258e29b5230373003c6fcb2e6f63982471a7b8e1206a"
+      },
+      "after_source": {
+        "path": "after/docs/assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf",
+        "sha256": "80e57511aa5f25a5e58ab4d7f7cdc99e37eed09a012e4bd8e6884617cf4e5fc0"
+      }
+    },
+    "docs/assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf": {
+      "before_source": {
+        "path": "before/docs/assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf",
+        "sha256": "404db56c98b6c03604f99a851ef8acc2f1dc793d4286bcedaba880b852d79a9a"
+      },
+      "after_source": {
+        "path": "after/docs/assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf",
+        "sha256": "9179775f9f06522834c47112912d3b3fa255e40bcb9fff8cc86b94c4afb641c2"
+      }
+    },
+    "docs/assets/samples/White_label_Category_Audit_sample.pdf": {
+      "before_source": {
+        "path": "before/docs/assets/samples/White_label_Category_Audit_sample.pdf",
+        "sha256": "404db56c98b6c03604f99a851ef8acc2f1dc793d4286bcedaba880b852d79a9a"
+      },
+      "after_source": {
+        "path": "after/docs/assets/samples/White_label_Category_Audit_sample.pdf",
+        "sha256": "9179775f9f06522834c47112912d3b3fa255e40bcb9fff8cc86b94c4afb641c2"
+      }
+    }
+  },
+  "receipt_files": [
+    {
+      "path": "receipts/93d2a658ca0d775b110b76d95a09dee8449fc15fb2b7cd23228b157de54152f0.json",
+      "sha256": "93d2a658ca0d775b110b76d95a09dee8449fc15fb2b7cd23228b157de54152f0"
+    },
+    {
+      "path": "receipts/c86c7472e29a9ce6da6b297bc6f14bb36571529f9b6136cd12ac98e38244e8c9.json",
+      "sha256": "c86c7472e29a9ce6da6b297bc6f14bb36571529f9b6136cd12ac98e38244e8c9"
+    },
+    {
+      "path": "receipts/92e6aeed9496bc31d3cb2b149f8911e5ef7b9e2366479c4286478b8e698b793a.json",
+      "sha256": "92e6aeed9496bc31d3cb2b149f8911e5ef7b9e2366479c4286478b8e698b793a"
+    },
+    {
+      "path": "receipts/e5f6c921e89795b1b7d0f34a93c759d6fee0f8ed503464c58a211554d6ccf729.json",
+      "sha256": "e5f6c921e89795b1b7d0f34a93c759d6fee0f8ed503464c58a211554d6ccf729"
+    },
+    {
+      "path": "receipts/5bd230060c93138035a4881a7401962d1b09322d598fbf36db239398416a39c9.json",
+      "sha256": "5bd230060c93138035a4881a7401962d1b09322d598fbf36db239398416a39c9"
+    },
+    {
+      "path": "receipts/e1cec668e9f3894eef309c38aecd1f5fca01a5a1528db02a4ac4db7d9026f44b.json",
+      "sha256": "e1cec668e9f3894eef309c38aecd1f5fca01a5a1528db02a4ac4db7d9026f44b"
+    },
+    {
+      "path": "receipts/57befe525ece344c5b47225efff1058a113175df2305e870addb5856420f5cc5.json",
+      "sha256": "57befe525ece344c5b47225efff1058a113175df2305e870addb5856420f5cc5"
+    },
+    {
+      "path": "receipts/4bdf35eb36b392b4f42e6dc799e662cfc607f51e322b9aa9901469fafaaa9d55.json",
+      "sha256": "4bdf35eb36b392b4f42e6dc799e662cfc607f51e322b9aa9901469fafaaa9d55"
+    },
+    {
+      "path": "receipts/8c01da3114ebb06ab0e2857ee3f42193d95b8d932db331cc0ccd85a1310505ef.json",
+      "sha256": "8c01da3114ebb06ab0e2857ee3f42193d95b8d932db331cc0ccd85a1310505ef"
+    },
+    {
+      "path": "receipts/59950508495b70b2e293a9f551aa4592e71de3deef02e5ef6fc03907f6205591.json",
+      "sha256": "59950508495b70b2e293a9f551aa4592e71de3deef02e5ef6fc03907f6205591"
+    },
+    {
+      "path": "receipts/b4c6a0cd44d823da3d83055be318877b4132e8f40fcc548afe502883843c5524.json",
+      "sha256": "b4c6a0cd44d823da3d83055be318877b4132e8f40fcc548afe502883843c5524"
+    },
+    {
+      "path": "receipts/e1aa7c553559157b063d38d67d37659d8c08de2c32b02418e3dde2a5840ce27b.json",
+      "sha256": "e1aa7c553559157b063d38d67d37659d8c08de2c32b02418e3dde2a5840ce27b"
+    },
+    {
+      "path": "receipts/623f4d3fd566b00a47903369b04804c12be607cdb95979fa4cd324ee5b384ee6.json",
+      "sha256": "623f4d3fd566b00a47903369b04804c12be607cdb95979fa4cd324ee5b384ee6"
+    },
+    {
+      "path": "receipts/f49c84418801085d3e43b9b329285a603accaed13426db87b4ab16413880bceb.json",
+      "sha256": "f49c84418801085d3e43b9b329285a603accaed13426db87b4ab16413880bceb"
+    },
+    {
+      "path": "receipts/69b67536eb16b4c4831f9652e80cfa1028a0763daf53c00ec3a550d0ff1c6b1b.json",
+      "sha256": "69b67536eb16b4c4831f9652e80cfa1028a0763daf53c00ec3a550d0ff1c6b1b"
+    },
+    {
+      "path": "receipts/c1d845f4135b87259902112ef9e884492c3649b512745a27c165528b533d55f6.json",
+      "sha256": "c1d845f4135b87259902112ef9e884492c3649b512745a27c165528b533d55f6"
+    },
+    {
+      "path": "receipts/43a383f3ae81bf49a4429658e9921ce201ef70d210c4e4d95b72e26aaa17721d.json",
+      "sha256": "43a383f3ae81bf49a4429658e9921ce201ef70d210c4e4d95b72e26aaa17721d"
+    },
+    {
+      "path": "receipts/1b0c05bd412c6d9c56e172c1ee4a12224b15643e8f744b58d597bd1fd79f5c43.json",
+      "sha256": "1b0c05bd412c6d9c56e172c1ee4a12224b15643e8f744b58d597bd1fd79f5c43"
+    },
+    {
+      "path": "receipts/42a7d1cfeac8dd679a5a3bef142b05660ee9e4411eece523be14205c6254f3ee.json",
+      "sha256": "42a7d1cfeac8dd679a5a3bef142b05660ee9e4411eece523be14205c6254f3ee"
+    },
+    {
+      "path": "receipts/8cb65e542ae3a1fde358868401f9effda9a43c0a72cc9691d9882be7894853a7.json",
+      "sha256": "8cb65e542ae3a1fde358868401f9effda9a43c0a72cc9691d9882be7894853a7"
+    },
+    {
+      "path": "receipts/0762fa97f9dee33b45b0081798775bb4b67014a38dbfdfe2989e603fff0c7173.json",
+      "sha256": "0762fa97f9dee33b45b0081798775bb4b67014a38dbfdfe2989e603fff0c7173"
+    },
+    {
+      "path": "receipts/660b242bc1cbbe1cf0b8c05d69fef6d826c2dfaad0cabdae6954ffa86030d932.json",
+      "sha256": "660b242bc1cbbe1cf0b8c05d69fef6d826c2dfaad0cabdae6954ffa86030d932"
+    },
+    {
+      "path": "receipts/63fa39d69d6f3344ea723bed816297466798b79d49c6cb9b84ab488a01baea7a.json",
+      "sha256": "63fa39d69d6f3344ea723bed816297466798b79d49c6cb9b84ab488a01baea7a"
+    },
+    {
+      "path": "receipts/fe833f55507b4206e4a4b34482cc428f0c0440170b56e13b5520e7239285c2f5.json",
+      "sha256": "fe833f55507b4206e4a4b34482cc428f0c0440170b56e13b5520e7239285c2f5"
+    },
+    {
+      "path": "receipts/eb338e3bf44ad145375771df96514e70c413b380a0a655b625df2dd856c69c9e.json",
+      "sha256": "eb338e3bf44ad145375771df96514e70c413b380a0a655b625df2dd856c69c9e"
+    },
+    {
+      "path": "receipts/c679845e5a450089a279834bdefe1ac74326074d9704da2bfb9cc7b0af765b55.json",
+      "sha256": "c679845e5a450089a279834bdefe1ac74326074d9704da2bfb9cc7b0af765b55"
+    },
+    {
+      "path": "receipts/f9b857e9334f3facb9d287a11c6c57e2d31d8b9ec618b7b349b707902f3d94b8.json",
+      "sha256": "f9b857e9334f3facb9d287a11c6c57e2d31d8b9ec618b7b349b707902f3d94b8"
+    },
+    {
+      "path": "receipts/dedbb92e341cc35ca7a2e8661712bfdf2c97e9b8dc67fa918261ce26be739dfd.json",
+      "sha256": "dedbb92e341cc35ca7a2e8661712bfdf2c97e9b8dc67fa918261ce26be739dfd"
+    },
+    {
+      "path": "receipts/8267f760e4cfa588f816246237e156762d1335d8bd7d281e2675f2789a0c9518.json",
+      "sha256": "8267f760e4cfa588f816246237e156762d1335d8bd7d281e2675f2789a0c9518"
+    },
+    {
+      "path": "receipts/b1b7200d2cfd0c5a80dced5b231a4e144bebe802899a19e9e1644abd4de6c368.json",
+      "sha256": "b1b7200d2cfd0c5a80dced5b231a4e144bebe802899a19e9e1644abd4de6c368"
+    },
+    {
+      "path": "receipts/0ae23fdb91cf39ee991713dd837184ac3728e7d6bad7409cc7d6396f4d97c798.json",
+      "sha256": "0ae23fdb91cf39ee991713dd837184ac3728e7d6bad7409cc7d6396f4d97c798"
+    },
+    {
+      "path": "receipts/9a70c460e697bcbddcfe90ab2f79edc512861a427e51e0a5ed20dc93f7d1204d.json",
+      "sha256": "9a70c460e697bcbddcfe90ab2f79edc512861a427e51e0a5ed20dc93f7d1204d"
+    },
+    {
+      "path": "receipts/cf3ee506c5bdf2eb8eb7ec6e8ffd0a0e268babd473ad2bce9dac401a5fca625e.json",
+      "sha256": "cf3ee506c5bdf2eb8eb7ec6e8ffd0a0e268babd473ad2bce9dac401a5fca625e"
+    },
+    {
+      "path": "receipts/1a966f7d8095a056c8016776da3b0b0a4acb95ed8505945f17863dda2dfeac2a.json",
+      "sha256": "1a966f7d8095a056c8016776da3b0b0a4acb95ed8505945f17863dda2dfeac2a"
+    },
+    {
+      "path": "receipts/b8ae7101c780e7f1bef9e2cbb0d4a095ed911353615dc091fd37bb9c67868118.json",
+      "sha256": "b8ae7101c780e7f1bef9e2cbb0d4a095ed911353615dc091fd37bb9c67868118"
+    },
+    {
+      "path": "receipts/84b2b6dbb80902ba7031fd2abaaf424d6b01f96a5983759e98a528ce036efaab.json",
+      "sha256": "84b2b6dbb80902ba7031fd2abaaf424d6b01f96a5983759e98a528ce036efaab"
+    },
+    {
+      "path": "receipts/f0c5c9f96cac5a300dd7368e3b44f8b840580c9a59d02535c3d7c629065fac2c.json",
+      "sha256": "f0c5c9f96cac5a300dd7368e3b44f8b840580c9a59d02535c3d7c629065fac2c"
+    },
+    {
+      "path": "receipts/b56597148f99df691b9e0cf81c79c381b7237d63a1e96e03726883ee73ef08f7.json",
+      "sha256": "b56597148f99df691b9e0cf81c79c381b7237d63a1e96e03726883ee73ef08f7"
+    },
+    {
+      "path": "receipts/4dabf65c5d5f3547ffe6d06e9d02e817d549fd62dd73552677d19788aa91b4d3.json",
+      "sha256": "4dabf65c5d5f3547ffe6d06e9d02e817d549fd62dd73552677d19788aa91b4d3"
+    },
+    {
+      "path": "receipts/3cad0fee2df19e0c160d09db1c4f1cd307d527ecaab48e665aa2b58ab6b20ef0.json",
+      "sha256": "3cad0fee2df19e0c160d09db1c4f1cd307d527ecaab48e665aa2b58ab6b20ef0"
+    },
+    {
+      "path": "receipts/a3250b4ac37644202b9a15d8fa5acbadec84ca144c6f79d6615ae44bc29005a0.json",
+      "sha256": "a3250b4ac37644202b9a15d8fa5acbadec84ca144c6f79d6615ae44bc29005a0"
+    },
+    {
+      "path": "receipts/f343d1d140a41a7c961c2d24a77cadde7633aebfd93b83308089680c4cc2b309.json",
+      "sha256": "f343d1d140a41a7c961c2d24a77cadde7633aebfd93b83308089680c4cc2b309"
+    },
+    {
+      "path": "receipts/e2d133ee4172d41bc7f1ceaa7c5e9ec718a18483dd9231eee4c6210b8a579a73.json",
+      "sha256": "e2d133ee4172d41bc7f1ceaa7c5e9ec718a18483dd9231eee4c6210b8a579a73"
+    },
+    {
+      "path": "receipts/7703c5e8bdb9ad4894aeb198690497d5b8f381f58356d4dae2ba80e8f1bf8b55.json",
+      "sha256": "7703c5e8bdb9ad4894aeb198690497d5b8f381f58356d4dae2ba80e8f1bf8b55"
+    },
+    {
+      "path": "receipts/48c024700a03abf529466b7e88a6543120934e2c71ed4f001745a2fe18653142.json",
+      "sha256": "48c024700a03abf529466b7e88a6543120934e2c71ed4f001745a2fe18653142"
+    },
+    {
+      "path": "receipts/bb066bb3849ac1ebf9e6591a839fd13f9914332fb0f77aefd8701086944c56da.json",
+      "sha256": "bb066bb3849ac1ebf9e6591a839fd13f9914332fb0f77aefd8701086944c56da"
+    },
+    {
+      "path": "receipts/c0ba15224f0f1b62bae4615334be05047ed9c4432a75e268b9d5d3787e602768.json",
+      "sha256": "c0ba15224f0f1b62bae4615334be05047ed9c4432a75e268b9d5d3787e602768"
+    },
+    {
+      "path": "receipts/79d4b7560bbc584defdc7f88c06ed2c8dfd5687df7637918c20f651d7343a377.json",
+      "sha256": "79d4b7560bbc584defdc7f88c06ed2c8dfd5687df7637918c20f651d7343a377"
+    },
+    {
+      "path": "receipts/b1cc16b8723b7324239fd8967970cb397dff7c9b19a1923ea359c31059b5d530.json",
+      "sha256": "b1cc16b8723b7324239fd8967970cb397dff7c9b19a1923ea359c31059b5d530"
+    },
+    {
+      "path": "receipts/c153d4cd7c98641d0eefb816b7d75139c4ffe073e44fca35bac3adaa94f5c748.json",
+      "sha256": "c153d4cd7c98641d0eefb816b7d75139c4ffe073e44fca35bac3adaa94f5c748"
+    },
+    {
+      "path": "receipts/a94e51f7c4626730af8bfd201a3bbeb22114eafa6490de3bb5bc07d05810ea88.json",
+      "sha256": "a94e51f7c4626730af8bfd201a3bbeb22114eafa6490de3bb5bc07d05810ea88"
+    },
+    {
+      "path": "receipts/225fe2f96945d94021b65f67c4ab2e3c55c3caf458ba4b1a38e4a40dab382142.json",
+      "sha256": "225fe2f96945d94021b65f67c4ab2e3c55c3caf458ba4b1a38e4a40dab382142"
+    },
+    {
+      "path": "receipts/5a43b22b56cede9f280ec29bf83389c8714067a8fdb7c876b2f1909c168078fb.json",
+      "sha256": "5a43b22b56cede9f280ec29bf83389c8714067a8fdb7c876b2f1909c168078fb"
+    },
+    {
+      "path": "receipts/48519afc91bf2a3bbd9036384ac1f8876df6e3e69a91ff28f86d09755aa4d622.json",
+      "sha256": "48519afc91bf2a3bbd9036384ac1f8876df6e3e69a91ff28f86d09755aa4d622"
+    },
+    {
+      "path": "receipts/eb9e898b116e3967832d620c4ef48f980f62eaa85eec636934faf1b968f75671.json",
+      "sha256": "eb9e898b116e3967832d620c4ef48f980f62eaa85eec636934faf1b968f75671"
+    },
+    {
+      "path": "receipts/95d58f75fcfd40cc4c774d89a69550a71bcb64ec651fa105e5141346355f90f6.json",
+      "sha256": "95d58f75fcfd40cc4c774d89a69550a71bcb64ec651fa105e5141346355f90f6"
+    },
+    {
+      "path": "receipts/11722a3455a4c82146c3b6e0a018f2b719b4b0988a8659879029eaa61e728b19.json",
+      "sha256": "11722a3455a4c82146c3b6e0a018f2b719b4b0988a8659879029eaa61e728b19"
+    },
+    {
+      "path": "receipts/7bd80ce5ccf88efb6789315a389e96cbf758a7a583538b9e513238837ad7768d.json",
+      "sha256": "7bd80ce5ccf88efb6789315a389e96cbf758a7a583538b9e513238837ad7768d"
+    },
+    {
+      "path": "receipts/4dd877aad472e46481a880943222340dbd30c2abb68d43683e1dfc1fecc2217b.json",
+      "sha256": "4dd877aad472e46481a880943222340dbd30c2abb68d43683e1dfc1fecc2217b"
+    },
+    {
+      "path": "receipts/e294ca7ca7818ef2f4c272a334bc72776bc6d75e2f9fe2a7f0518870238fe352.json",
+      "sha256": "e294ca7ca7818ef2f4c272a334bc72776bc6d75e2f9fe2a7f0518870238fe352"
+    },
+    {
+      "path": "receipts/1595013eafb0558182bdd0a57403f49e8fc1bda81c6bae6915ea88a4d2ade34a.json",
+      "sha256": "1595013eafb0558182bdd0a57403f49e8fc1bda81c6bae6915ea88a4d2ade34a"
+    },
+    {
+      "path": "receipts/f7cf9e69083015b94428ca3efc95b2a90be327ffe8b00185fbb7247ba05697e2.json",
+      "sha256": "f7cf9e69083015b94428ca3efc95b2a90be327ffe8b00185fbb7247ba05697e2"
+    },
+    {
+      "path": "receipts/ba70b1dd18deace7b44016b7282527036eb2f60601f5640ba6413ff888238e19.json",
+      "sha256": "ba70b1dd18deace7b44016b7282527036eb2f60601f5640ba6413ff888238e19"
+    },
+    {
+      "path": "receipts/0805e8b2142911393feafdffcce2a2127bc81a40f393b32d53ea4dc3f30e08a1.json",
+      "sha256": "0805e8b2142911393feafdffcce2a2127bc81a40f393b32d53ea4dc3f30e08a1"
+    },
+    {
+      "path": "receipts/c26536d52c2b7a1cb18b713f4e151531637d8d6cc90944e4faa0ba6bf2cf6900.json",
+      "sha256": "c26536d52c2b7a1cb18b713f4e151531637d8d6cc90944e4faa0ba6bf2cf6900"
+    },
+    {
+      "path": "receipts/8187cf595ac4ae1d620fa45654ffeab58f7b9a45f83f613cd49efcdbc982407d.json",
+      "sha256": "8187cf595ac4ae1d620fa45654ffeab58f7b9a45f83f613cd49efcdbc982407d"
+    },
+    {
+      "path": "receipts/679610ded425dd496bca35bc588fa898cf454dceec0719ae3fcbb59de5b4318d.json",
+      "sha256": "679610ded425dd496bca35bc588fa898cf454dceec0719ae3fcbb59de5b4318d"
+    },
+    {
+      "path": "receipts/eb808649287bc546771bf32ab8e9f0ac9c8c8dc15f8fc2200dc1a05ff5d0ef05.json",
+      "sha256": "eb808649287bc546771bf32ab8e9f0ac9c8c8dc15f8fc2200dc1a05ff5d0ef05"
+    },
+    {
+      "path": "receipts/d0c12278f195ce5ffb33b2b4af63602e0def5b9085e96935f27128e2b51614dd.json",
+      "sha256": "d0c12278f195ce5ffb33b2b4af63602e0def5b9085e96935f27128e2b51614dd"
+    },
+    {
+      "path": "receipts/3c1281ec29333704e39e35ae1d22b93c191fbcaefe2a6d67a6d87c026d61b156.json",
+      "sha256": "3c1281ec29333704e39e35ae1d22b93c191fbcaefe2a6d67a6d87c026d61b156"
+    },
+    {
+      "path": "receipts/e444e8c09907f407ae1e3cfd1e8626309ad8f17b614665c5f95701acf7518424.json",
+      "sha256": "e444e8c09907f407ae1e3cfd1e8626309ad8f17b614665c5f95701acf7518424"
+    },
+    {
+      "path": "receipts/4537e66351cbe2a7f36470ae52fae7c8d63fb3e18f290fe01848437fbccf1b4a.json",
+      "sha256": "4537e66351cbe2a7f36470ae52fae7c8d63fb3e18f290fe01848437fbccf1b4a"
+    },
+    {
+      "path": "receipts/52216ebad6d54ef8b61fa6b152cdbcd6e6966f76ff87b2249487aa83410ee150.json",
+      "sha256": "52216ebad6d54ef8b61fa6b152cdbcd6e6966f76ff87b2249487aa83410ee150"
+    },
+    {
+      "path": "receipts/4e09e19715dfc2fdb5146bbfd75d4b20d56f025c1a0937079a42f3ce91380034.json",
+      "sha256": "4e09e19715dfc2fdb5146bbfd75d4b20d56f025c1a0937079a42f3ce91380034"
+    },
+    {
+      "path": "receipts/a6635ad6ff59fe1984bbb63aa0bb724508fce3b51a393668aa838537a5702e04.json",
+      "sha256": "a6635ad6ff59fe1984bbb63aa0bb724508fce3b51a393668aa838537a5702e04"
+    },
+    {
+      "path": "receipts/4a1fa5d5b3b6ff34fb673f5d5773499e4e26c932d1d519298d33b3a729a06e29.json",
+      "sha256": "4a1fa5d5b3b6ff34fb673f5d5773499e4e26c932d1d519298d33b3a729a06e29"
+    },
+    {
+      "path": "receipts/708918e296579a9e4b4d6cbd2378d3b281ebecbb893980e80b729ae1282a17f6.json",
+      "sha256": "708918e296579a9e4b4d6cbd2378d3b281ebecbb893980e80b729ae1282a17f6"
+    },
+    {
+      "path": "receipts/4e97d8a6b6ab6509a6ba2c49c451b683c83218b868c3cd7f12803b1fdfcf5af4.json",
+      "sha256": "4e97d8a6b6ab6509a6ba2c49c451b683c83218b868c3cd7f12803b1fdfcf5af4"
+    },
+    {
+      "path": "receipts/4147e255f8e69ac02b4e02797e9eb861f483e342d84794ae5d8f1122a283c7a2.json",
+      "sha256": "4147e255f8e69ac02b4e02797e9eb861f483e342d84794ae5d8f1122a283c7a2"
+    },
+    {
+      "path": "receipts/ddd0995e36b39786f43669912526ac93b83336f5ab0cbfcabf8764bc9b91d8a9.json",
+      "sha256": "ddd0995e36b39786f43669912526ac93b83336f5ab0cbfcabf8764bc9b91d8a9"
+    },
+    {
+      "path": "receipts/2faa9662ebc18dcbaa8f67a8e1d28d794f916279f8a97abe7c67b0d069d6a228.json",
+      "sha256": "2faa9662ebc18dcbaa8f67a8e1d28d794f916279f8a97abe7c67b0d069d6a228"
+    },
+    {
+      "path": "receipts/6bcdb86bdddf1c6edbf64fe94d59624855234a215daaa2375e37d0b9f832ff35.json",
+      "sha256": "6bcdb86bdddf1c6edbf64fe94d59624855234a215daaa2375e37d0b9f832ff35"
+    },
+    {
+      "path": "receipts/ce8ed3c448b5e7a4853245fe19f2fe2922baea15a873843b8bd1ae43a7b72afc.json",
+      "sha256": "ce8ed3c448b5e7a4853245fe19f2fe2922baea15a873843b8bd1ae43a7b72afc"
+    },
+    {
+      "path": "receipts/17d00814d5e2275a777cbe2826331df463e1e18ac38449e2cd5b70e5789a72f9.json",
+      "sha256": "17d00814d5e2275a777cbe2826331df463e1e18ac38449e2cd5b70e5789a72f9"
+    },
+    {
+      "path": "receipts/f76f54d42e0dc5b8a694187683e84f6a288b0428d9b3d0abb9f4b1be0dba6c20.json",
+      "sha256": "f76f54d42e0dc5b8a694187683e84f6a288b0428d9b3d0abb9f4b1be0dba6c20"
+    },
+    {
+      "path": "receipts/25cba0f7ff210b0a32f1a62ed5481293189aa67439425b21a45192b29b4cbdca.json",
+      "sha256": "25cba0f7ff210b0a32f1a62ed5481293189aa67439425b21a45192b29b4cbdca"
+    }
+  ],
+  "pdf_reviews": {},
+  "pdf_before_input_maps": {
+    "absence-manual.pdf": {
+      "docs/.pages": "cccfe0088df57fdfd39876d5e8a1fcc68f6f1aff701993f8b6efb6ac1213eb19",
+      "docs/absence-ladder.md": "d4111898adaab105e6d5bc16b4eeed226945c79fe47529c30c889af902fb0a91",
+      "docs/absence-rules.md": "cc1f97ee6271e64fa74bd8beee2ff522c2bde422dd2a118935c177843fb6d27d",
+      "docs/ai-source-standard.md": "8420fb064397c4a860d22b94dabbb8523a45e1070e259ed2cb58931feba82f8c",
+      "docs/assets/fonts/inter-bold-italic.ttf": "c1811d32ac0f6eed1bbf57529f2ecdfc6c717d48a969dd864942436315a1b198",
+      "docs/assets/fonts/inter-bold.ttf": "b37284b5701b6b168dfc770aa1a4ac492106422fd3ba76bc7641e37434e8019c",
+      "docs/assets/fonts/inter-italic.ttf": "ef8f755d933b9310804cc9152f1f18cb2ac460d6b05054ec913d889c9f11f79e",
+      "docs/assets/fonts/inter-latin-ext-var.woff2": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+      "docs/assets/fonts/inter-latin-var.woff2": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "docs/assets/fonts/inter-regular.ttf": "1b08e7fc267a5c7e1d614100f604b83e7e8a0be241f0f288faa2b3ac93a683ba",
+      "docs/assets/fonts/LICENSE.txt": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "docs/category-door.md": "358184a0cf35973b44fd290850a51650206cffa200afc6cf68ff839efe040893",
+      "docs/cited-not-recommended.md": "e1cc8fef26ed204c34643530801f10f0d293f30d90d427a762e428d270b7ba75",
+      "docs/comparison-gate.md": "873b035d8e194930c9d75699ef6e2ab849e05e765eca5b5b5d2928fd24251fde",
+      "docs/engine-divergence.md": "649fe6877cdf34b36a5aa41abbfe5a01e21cd3be4660a4e1b84098a8152cdc2b",
+      "docs/figures/absence-ladder.png": "7d2d0741328fcafbc06723bef20e340cdcf728aa78ef94a922f4607000eec130",
+      "docs/figures/answer-rate.png": "48be4f2fb831fb6e3a714acf08793376404818d4c26c824b039804b0c997f742",
+      "docs/figures/citation-mix-by-engine.png": "5015ffbe5db0782317628dc7fde815f053ea9d774f920544ad2ace94a6458a7e",
+      "docs/figures/jaccard-matrix.png": "2c8f3efb75572db6a29f343a12d010e4a2cc710a8606cbd84cd78f2006677d46",
+      "docs/figures/leader-null.png": "17280a1c224f67d7c6ab2d6c335782b929542de158b2c79b1dd433a4c7914772",
+      "docs/figures/named-vs-cited.png": "4a8c034e254a6f777f000f23aca623ec652fd7f8db6529606aa4bd188d84665f",
+      "docs/figures/shape-mix-by-tier.png": "96da4df391587663cf8a70fd6fdf86a4df3383f047085d881ca86a87075b2bc2",
+      "docs/figures/within-vs-between.png": "4fa43e328014783e5349580fe554e018116a4b5bc837a6c4e03a75202d70bec0",
+      "docs/for-buyers.md": "8b2fc160f03aefba9595984d411267153021127cecfa2e83283600b8a056f971",
+      "docs/glossary.md": "154228cae7d4469e6ab957beaeef97090f678104ec81c8c3682063ca3655ec93",
+      "docs/how-long-it-takes.md": "9e242a46fa904b0fae13f22f863aa1edfaaf5644d4a20f36b0bc144bb98cbdbf",
+      "docs/how-to-buy-geo.md": "8013baabd2be51250b1536cce0ea85a4e68135e435f57c136d0a8ad65bca6f71",
+      "docs/index.md": "bdb3344ca6bb13585ad1086e12d78f08713bd03c0748dc6741757f01af4f7047",
+      "docs/launchpad.md": "b9654cd26b37e41cb12732f1398e87631dcb38a38006226e59c17219017303f2",
+      "docs/measurement-noise.md": "e4d3f18afb52fa69a736532fa3bf7e976f1791953750fe3810da71923f486001",
+      "docs/named-zero-times.md": "954690786c5f1e7b1eb64560f0ebae14faf5ac7ea3cb58769e8ff079fd412ff3",
+      "docs/overview-trigger-rate.md": "bb063b19cfb07afc593521867e857cdebda3988f97cb33e2b446963407989685",
+      "docs/posts/half-its-own-shortlist.md": "22eca1b1db09e529645d07a5ab2700a5a56dc5d83af6cc0bc13e0b92c55eeb13",
+      "docs/posts/same-score-different-problem.md": "fada60f8c04b0a5a0401bb25fcf382dcd06ee6c493b3b4ba5f278c049995cae6",
+      "docs/question-bank.md": "74e9441125931903ab26cac9ef4a90e3908b1ba0bb70ef66b8d50537bf677d85",
+      "docs/references.md": "bc22c6efa43158f6411fab66006553bc2284af0b74eecad2536499f36922be48",
+      "docs/scoring-spec.md": "5bdff074d66a1005d177a55f81f1b3f00dd11f3920d177ac2b9f44ae2f0b6ac6",
+      "docs/selection-not-ranking.md": "77d47682aba03b8b9c142310b0069d76ee9d58a06b00a483baef27f7475170cd",
+      "docs/valid-measurement.md": "8636e5ffd04223436d041aaf15754f1d82c4b62f3bf3e66b22ae64d4e9ea3f46",
+      "docs/vendor-facts.md": "772dd212887ae17c35f336d2f4c1c95bd56531061679165fab591f46adc623e7",
+      "docs/who-gets-cited.md": "604cf6ed340cc02e682cc752b518fac869658856fbe6c28f883e32c447d28146",
+      "docs/why-does-chatgpt-not-mention-us.md": "e6af3924980c06df42f740117cd46fc16b3b40c8bfc6f3035f747e2f88b89c16",
+      "mkdocs.yml": "2c8213d91a74bba59ad5ab1fc42e474b526ec01642236b6916480582a585e8c5",
+      "requirements.txt": "c54032bcc4d5615e468ab1f72b4a6b54bf5b5264a0f35110cf68e0f3c084a21f",
+      "tools/build_pdf.py": "bfe0c58a34e918e5f96bad4d34e5dcc153ceab40e5086c24844f62b31a25b317"
+    },
+    "assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf": {
+      "docs/assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf": "8e82b8d81f569ea29337258e29b5230373003c6fcb2e6f63982471a7b8e1206a"
+    },
+    "assets/samples/FieldEdge_Category_Audit_v2.pdf": {
+      "docs/assets/samples/FieldEdge_Category_Audit_v2.pdf": "8e82b8d81f569ea29337258e29b5230373003c6fcb2e6f63982471a7b8e1206a"
+    },
+    "assets/samples/Category_Audit_sample_Kalvenor_fictional.pdf": {
+      "docs/assets/samples/Category_Audit_sample_Kalvenor_fictional.pdf": "b62e9a2eaf769d9e453a8668656713b2d173aeecb72ec8cdb12c7381ab39eea0"
+    },
+    "assets/samples/White_label_Category_Audit_sample.pdf": {
+      "docs/assets/samples/White_label_Category_Audit_sample.pdf": "404db56c98b6c03604f99a851ef8acc2f1dc793d4286bcedaba880b852d79a9a"
+    },
+    "assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf": {
+      "docs/assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf": "404db56c98b6c03604f99a851ef8acc2f1dc793d4286bcedaba880b852d79a9a"
+    },
+    "assets/samples/Kalvenor_Sample_Category_Audit.pdf": {
+      "docs/assets/samples/Kalvenor_Sample_Category_Audit.pdf": "b62e9a2eaf769d9e453a8668656713b2d173aeecb72ec8cdb12c7381ab39eea0"
+    },
+    "absence-manual-v1.0-2026-08-18.pdf": {
+      "docs/.pages": "cccfe0088df57fdfd39876d5e8a1fcc68f6f1aff701993f8b6efb6ac1213eb19",
+      "docs/absence-ladder.md": "d4111898adaab105e6d5bc16b4eeed226945c79fe47529c30c889af902fb0a91",
+      "docs/absence-rules.md": "cc1f97ee6271e64fa74bd8beee2ff522c2bde422dd2a118935c177843fb6d27d",
+      "docs/ai-source-standard.md": "8420fb064397c4a860d22b94dabbb8523a45e1070e259ed2cb58931feba82f8c",
+      "docs/assets/fonts/inter-bold-italic.ttf": "c1811d32ac0f6eed1bbf57529f2ecdfc6c717d48a969dd864942436315a1b198",
+      "docs/assets/fonts/inter-bold.ttf": "b37284b5701b6b168dfc770aa1a4ac492106422fd3ba76bc7641e37434e8019c",
+      "docs/assets/fonts/inter-italic.ttf": "ef8f755d933b9310804cc9152f1f18cb2ac460d6b05054ec913d889c9f11f79e",
+      "docs/assets/fonts/inter-latin-ext-var.woff2": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+      "docs/assets/fonts/inter-latin-var.woff2": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "docs/assets/fonts/inter-regular.ttf": "1b08e7fc267a5c7e1d614100f604b83e7e8a0be241f0f288faa2b3ac93a683ba",
+      "docs/assets/fonts/LICENSE.txt": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "docs/category-door.md": "358184a0cf35973b44fd290850a51650206cffa200afc6cf68ff839efe040893",
+      "docs/cited-not-recommended.md": "e1cc8fef26ed204c34643530801f10f0d293f30d90d427a762e428d270b7ba75",
+      "docs/comparison-gate.md": "873b035d8e194930c9d75699ef6e2ab849e05e765eca5b5b5d2928fd24251fde",
+      "docs/engine-divergence.md": "649fe6877cdf34b36a5aa41abbfe5a01e21cd3be4660a4e1b84098a8152cdc2b",
+      "docs/figures/absence-ladder.png": "7d2d0741328fcafbc06723bef20e340cdcf728aa78ef94a922f4607000eec130",
+      "docs/figures/answer-rate.png": "48be4f2fb831fb6e3a714acf08793376404818d4c26c824b039804b0c997f742",
+      "docs/figures/citation-mix-by-engine.png": "5015ffbe5db0782317628dc7fde815f053ea9d774f920544ad2ace94a6458a7e",
+      "docs/figures/jaccard-matrix.png": "2c8f3efb75572db6a29f343a12d010e4a2cc710a8606cbd84cd78f2006677d46",
+      "docs/figures/leader-null.png": "17280a1c224f67d7c6ab2d6c335782b929542de158b2c79b1dd433a4c7914772",
+      "docs/figures/named-vs-cited.png": "4a8c034e254a6f777f000f23aca623ec652fd7f8db6529606aa4bd188d84665f",
+      "docs/figures/shape-mix-by-tier.png": "96da4df391587663cf8a70fd6fdf86a4df3383f047085d881ca86a87075b2bc2",
+      "docs/figures/within-vs-between.png": "4fa43e328014783e5349580fe554e018116a4b5bc837a6c4e03a75202d70bec0",
+      "docs/for-buyers.md": "8b2fc160f03aefba9595984d411267153021127cecfa2e83283600b8a056f971",
+      "docs/glossary.md": "154228cae7d4469e6ab957beaeef97090f678104ec81c8c3682063ca3655ec93",
+      "docs/how-long-it-takes.md": "9e242a46fa904b0fae13f22f863aa1edfaaf5644d4a20f36b0bc144bb98cbdbf",
+      "docs/how-to-buy-geo.md": "8013baabd2be51250b1536cce0ea85a4e68135e435f57c136d0a8ad65bca6f71",
+      "docs/index.md": "bdb3344ca6bb13585ad1086e12d78f08713bd03c0748dc6741757f01af4f7047",
+      "docs/launchpad.md": "b9654cd26b37e41cb12732f1398e87631dcb38a38006226e59c17219017303f2",
+      "docs/measurement-noise.md": "e4d3f18afb52fa69a736532fa3bf7e976f1791953750fe3810da71923f486001",
+      "docs/named-zero-times.md": "954690786c5f1e7b1eb64560f0ebae14faf5ac7ea3cb58769e8ff079fd412ff3",
+      "docs/overview-trigger-rate.md": "bb063b19cfb07afc593521867e857cdebda3988f97cb33e2b446963407989685",
+      "docs/posts/half-its-own-shortlist.md": "22eca1b1db09e529645d07a5ab2700a5a56dc5d83af6cc0bc13e0b92c55eeb13",
+      "docs/posts/same-score-different-problem.md": "fada60f8c04b0a5a0401bb25fcf382dcd06ee6c493b3b4ba5f278c049995cae6",
+      "docs/question-bank.md": "74e9441125931903ab26cac9ef4a90e3908b1ba0bb70ef66b8d50537bf677d85",
+      "docs/references.md": "bc22c6efa43158f6411fab66006553bc2284af0b74eecad2536499f36922be48",
+      "docs/scoring-spec.md": "5bdff074d66a1005d177a55f81f1b3f00dd11f3920d177ac2b9f44ae2f0b6ac6",
+      "docs/selection-not-ranking.md": "77d47682aba03b8b9c142310b0069d76ee9d58a06b00a483baef27f7475170cd",
+      "docs/valid-measurement.md": "8636e5ffd04223436d041aaf15754f1d82c4b62f3bf3e66b22ae64d4e9ea3f46",
+      "docs/vendor-facts.md": "772dd212887ae17c35f336d2f4c1c95bd56531061679165fab591f46adc623e7",
+      "docs/who-gets-cited.md": "604cf6ed340cc02e682cc752b518fac869658856fbe6c28f883e32c447d28146",
+      "docs/why-does-chatgpt-not-mention-us.md": "e6af3924980c06df42f740117cd46fc16b3b40c8bfc6f3035f747e2f88b89c16",
+      "mkdocs.yml": "2c8213d91a74bba59ad5ab1fc42e474b526ec01642236b6916480582a585e8c5",
+      "requirements.txt": "c54032bcc4d5615e468ab1f72b4a6b54bf5b5264a0f35110cf68e0f3c084a21f",
+      "tools/build_pdf.py": "bfe0c58a34e918e5f96bad4d34e5dcc153ceab40e5086c24844f62b31a25b317"
+    }
+  },
+  "llms_line_edits": [
+    {
+      "old": "- [Category Audit , executive delivery template | The Absence Manual](https://docs.broadcastwell.com/resources/audit/executive-template/): Classification: Template only; incomplete fields block client delivery. Version: bw-content-2026-09-24-v1.",
+      "new": "- [Executive delivery template (retired Category Audit format, kept for reference) | The Absence Manual](https://docs.broadcastwell.com/resources/audit/executive-template/): Kept for reference. Classification: template only. Version: bw-content-2026-09-24-v1.",
+      "old_sha256": "01b5c19c5ae0f44ecee06b37b1660c19d5a36e5fa97b7d779e6538a46ebdedcd",
+      "new_sha256": "b23522c0c8eaf4c9f23b07bd2447531ad029e8ed93df5508c1777cf9d4b5d79a",
+      "change_title": true
+    },
+    {
+      "old": "- [Synthetic Category Audit , Northstar Lab | The Absence Manual](https://docs.broadcastwell.com/resources/audit/sample/): Synthetic learning example , not a client result or live AI measurement. Prepared 2026-09-24; version bw-content-2026-09-24-v1. No client, live engine, payment or delivered engagement is represented.",
+      "new": "- [Synthetic audit example, Northstar Lab (retired Category Audit format) | The Absence Manual](https://docs.broadcastwell.com/resources/audit/sample/): Synthetic learning example in the retired Category Audit format, not a client result or live AI measurement. Prepared 2026-09-24; version bw-content-2026-09-24-v1.",
+      "old_sha256": "2625729ad9761b13bb7c97bd46714c47eae9fb5816a9bbbf89f387cc3a006e86",
+      "new_sha256": "646e63b5099ba65fd89966543ca5b830facdf229f5d06af2afb5df2a42f95391",
+      "change_title": true
+    },
+    {
+      "old": "- [The three measured rates | The Absence Manual](https://docs.broadcastwell.com/resources/three-rates/): How a Category Audit reports named answers, source citations and share of voice separately, with exclusions and classification limits.",
+      "new": "- [The three measured rates | The Absence Manual](https://docs.broadcastwell.com/resources/three-rates/): How our measurements report named answers, source citations and share of voice separately, with exclusions and classification limits.",
+      "old_sha256": "2dee89d6459eda0eb160e24cda7eb68d5f7f1c9a52be1e41c2818d32ebd23c42",
+      "new_sha256": "e1236ebf0024c3c0e9e07aa207e9d9e522222165baa1c96bdca3f3f0d30aa5a0",
+      "change_title": false
+    }
+  ],
+  "freeze_registry": {
+    "path": "base/files/field_freeze_registry.json",
+    "sha256": "c346b0f6a7997449f4eccbaf662b53f7ae25ba21a57341f786dc7d673db1798c"
+  },
+  "freeze_handoff": {
+    "path": "base/files/field_freeze_handoff.md",
+    "sha256": "3f09732e9a23c36ea0852fa6dcec96c0c1c9f0c1cb55d2f4af722072ac17eb1b"
+  },
+  "freeze_nav_map": {
+    "path": "freeze-nav-map.json",
+    "sha256": "e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c"
+  },
+  "authority_read_receipt": {
+    "path": "authority-read.ROOT_RECORDED.json",
+    "sha256": "d8d499d00479d89606b9a34f8a6e671092d67213203489ea3e176595dd625b64"
+  },
+  "root_artifact_review": {
+    "path": "ROOT_ARTIFACT_REVIEW.NOT_APPROVED.json",
+    "sha256": "b64f059496ce3dfe3f51830353049b0722e95c259c1a6a70058dea3b7c48affc"
+  },
+  "approval_scope": "Source-approved candidate observation; final artifact/PDF gates still pending.",
+  "owner_composition_review": {
+    "path": "ROOT_INHERITED_NULL5_COMPOSITION_REVIEW.json",
+    "sha256": "2e474b8352340a13aa797fd24051d40ae1af20a18b290bd3be50e93904fea054"
+  }
+}

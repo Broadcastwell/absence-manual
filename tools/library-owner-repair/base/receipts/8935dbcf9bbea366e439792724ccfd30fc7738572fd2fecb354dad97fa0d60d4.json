@@ -1,0 +1,11 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
+  "before_effective_canonical_sha256": "a8b94d23ee327b051c433ca5c5fa7c6b84dbeb9117ae1896278bdc26dd51bdd8",
+  "raw_canonical_source_sha256": "a4c8a567d0185617acd1d7126818a7aa0b97dff9ab1eddbeab3852d0448b68f9",
+  "after_effective_canonical_sha256": "177528d716ffaafe909b8648bd355796eda00866e2ebfb918afe3becde4e83a2",
+  "fact_ledger_sha256": "6dbe3ccbdfd24d9c257503ccaa03acbdd67d21cd3a2263c013f0b14b97fc266c",
+  "effective_payload_sha256": "ae975bddb9a2f8f802e897dd65989e45e014c594ec249e84ddb34a29617bd0ec",
+  "scope": "TEMPLATE ONLY; Root exact finite input review/adoption required. Actual PR91 before; no publication approval."
+}

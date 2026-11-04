@@ -1,0 +1,33 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/measurement/how-can-i-defend-branded-search-results-against-lookalike-sites-that-c.md",
+  "target_path": "answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "160c57dc74e2afd92f56a54fa7ad785947efb22e629825f925d410b3e97c3c00",
+  "target_effective_canonical_sha256": "3e48f687cca5272e39b944cfb355b37a7f8f9b020a537e39a30970efa012278d",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0456.p01.s01",
+    "LB-Q0456.p01.s02",
+    "LB-Q0456.p02.s01",
+    "LB-Q0456.p02.s02",
+    "LB-Q0456.p02.s03",
+    "LB-Q0456.p03.s01",
+    "LB-Q0456.p03.s02",
+    "LB-Q0456.p03.s03",
+    "LB-Q0456.p06.s01",
+    "LB-Q0456.p06.s02",
+    "LB-Q0456.p06.s03",
+    "LB-Q0456.additional.01",
+    "LB-Q0456.additional.02"
+  ],
+  "preserved_fact_bindings_sha256": "1dc17566a71eb1188b947575513068c8bca175b83c82ad95704ffa7c26b2718f",
+  "required_aliases": [
+    "How can I defend branded search results against lookalike sites that confuse LLMs?",
+    "Lookalike clones are confusing LLMs and stealing my branded SEO. How do you defend against this?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "11ee7ee5438cb77c89c3d2824527833e92e827c8b054e32bb3f3b70e1e031bd5",
+  "scope": "TEMPLATE ONLY. Root exact preservation decision required; Source old18+new47 peer scopes retained accurately."
+}

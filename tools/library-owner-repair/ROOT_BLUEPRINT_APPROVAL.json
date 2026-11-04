@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "reviewer": "root",
+  "review_kind": "root-reviewed-portable-owner-blueprint",
+  "blueprint": {
+    "path": "tools/library-owner-repair/release.json",
+    "sha256": "d9d7bae265cd1d51e804e50db208f30f111a7431cdaecfa65f452713d02f50ec"
+  },
+  "actual_Root_read_record_sha256": "76f4443516dfdad1a1bca8c8addc9bfcc691163bccf68b98418e30bdd2807777",
+  "prior_artifact": {
+    "id": 13277324668,
+    "sha256": "04b35fe2e233e95266c359094c6c242bfc58c4c1a7657d22da09dd827ba71d01"
+  },
+  "approval_scope": "Source-approved candidate observation; final artifact/PDF/publication pending."
+}

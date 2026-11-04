@@ -1,0 +1,2262 @@
+{
+  "schema_version": 1,
+  "pages": {
+    "answers/agents/can-an-ai-assistant-find-a-software-pricing-page.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-construction-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-crm-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-dealership-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dealership-management-systems/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-dental-practice-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-field-service-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-hotel-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/hotel-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-insurance-agency-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/insurance-agency-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-legal-practice-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/legal-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-loan-origination-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/loan-origination-software/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-radiology-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/radiology-medical-imaging/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-residential-property-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/residential-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-transportation-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/transportation-management-systems/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/can-veterinary-software-integrate-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/veterinary-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/does-finding-a-page-prove-an-ai-assistant-understood-it.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/how-can-a-software-website-make-its-public-pricing-path-clearer.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/how-does-an-ai-connector-differ-from-browsing-a-website.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/how-far-can-an-ai-assistant-get-along-a-software-demo-path.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/is-agent-to-agent-commerce-a-viable-business-opportunity.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/what-are-the-benefits-and-risks-of-connecting-hubspot-with-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/agents/what-can-an-ai-assistant-learn-from-a-software-website.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/agents/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/79dev-com-geo-services-worth-it.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/can-a-geo-agency-guarantee-ai-recommendations.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/how-can-i-check-a-geo-vendor-s-published-measurement-method.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/dentrix/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/how-can-i-check-whether-a-geo-tool-covers-the-engines-i-need.md": {
+      "chapter_path": "engine-divergence.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/construction-project-management/best-construction-management-software-for-a-small-residential-builder/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/how-does-geo-change-the-work-of-a-traditional-seo-agency.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/how-does-seer-interactive-compare-to-other-geo-agencies-when-it-comes.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/how-should-an-agency-report-ai-visibility-for-multiple-clients.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/dentrix/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/how-should-i-evaluate-a-geo-case-study.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/i-m-a-public-affairs-agency-lead-for-our-regulated-industry-clients-su.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/insurance-agency-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/is-blobic-a-good-white-label-geo-provider.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/looking-for-ai-software-for-field-service-providers-in-the-united-king.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/should-i-buy-ai-visibility-monitoring-or-a-completed-page-fix.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/should-i-compare-geo-prices-per-prompt-or-per-valid-answer.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/dentrix/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/we-re-looking-for-an-ai-visibility-agency-that-can-get-our-brand-into.md": {
+      "chapter_path": "how-long-it-takes.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/what-belongs-in-a-white-label-geo-delivery-scope.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/what-can-an-agency-deliver-when-a-client-asks-for-geo.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/what-does-an-ai-visibility-audit-include.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/what-evidence-should-i-keep-when-an-ai-visibility-engagement-ends.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/hubspot-crm/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/what-should-a-geo-content-and-implementation-scope-include.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/what-should-an-initial-geo-project-measure.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/what-should-i-ask-a-geo-provider-about-mcp-or-api-access.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/which-aeo-agencies-should-a-buyer-compare-in-the-united-states.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/which-aeo-tools-suit-home-service-companies-and-contractors.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/which-agencies-document-work-across-ai-answer-engines.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/which-geo-agencies-serve-new-companies.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/buying/which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/buying/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md": {
+      "chapter_path": "comparison-gate.md",
+      "own_cluster_hub_path": "answers/changes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change.md": {
+      "chapter_path": "how-long-it-takes.md",
+      "own_cluster_hub_path": "answers/changes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/changes/how-should-i-check-a-reported-vulnerability-s-product-impact.md": {
+      "chapter_path": "how-long-it-takes.md",
+      "own_cluster_hub_path": "answers/changes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/changes/how-should-i-verify-a-fixed-version-quoted-by-an-ai-answer.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/changes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/changes/how-should-we-date-an-ai-facing-incident-statement.md": {
+      "chapter_path": "how-long-it-takes.md",
+      "own_cluster_hub_path": "answers/changes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/changes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/changes/how-should-we-preserve-conflicting-ai-incident-answers.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/changes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/changes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/changes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/changes/which-ai-visibility-tools-monitor-factual-accuracy.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/changes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/how-can-a-business-be-recommended-by-chatgpt.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/hubspot-crm/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/how-can-a-page-get-cited-by-chatgpt.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/hubspot-crm/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/how-many-software-vendors-does-chatgpt-name-in-an-answer.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-construction-software-does-chatgpt-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-crm-software-does-chatgpt-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-dealership-software-does-chatgpt-recommend.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dealership-management-systems/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-dental-software-does-chatgpt-recommend.md": {
+      "chapter_path": "engine-divergence.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-hotel-software-does-chatgpt-recommend.md": {
+      "chapter_path": "engine-divergence.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/hotel-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-insurance-agency-software-does-chatgpt-recommend.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/insurance-agency-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/legal-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-loan-origination-software-does-chatgpt-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/loan-origination-software/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-project-management-software-does-chatgpt-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-property-management-software-does-chatgpt-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/residential-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-radiology-software-does-chatgpt-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/radiology-medical-imaging/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/transportation-management-systems/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/chatgpt/which-veterinary-software-does-chatgpt-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/chatgpt/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/veterinary-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/claude/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/claude/how-does-claude-web-search-work.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/claude/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/claude/which-construction-software-does-claude-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/claude/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/claude/which-crm-software-does-claude-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/claude/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/claude/which-dealership-software-does-claude-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/claude/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dealership-management-systems/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/claude/which-dental-software-does-claude-recommend.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/claude/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/claude/which-field-service-software-does-claude-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/claude/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/claude/which-hotel-software-does-claude-recommend.md": {
+      "chapter_path": "comparison-gate.md",
+      "own_cluster_hub_path": "answers/claude/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/hotel-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/claude/which-insurance-agency-software-does-claude-recommend.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/claude/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/insurance-agency-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/claude/which-legal-practice-software-does-claude-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/claude/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/legal-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/claude/which-loan-origination-software-does-claude-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/claude/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/loan-origination-software/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/claude/which-project-management-software-does-claude-recommend.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/claude/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/can-google-ai-overview-answers-be-changed.md": {
+      "chapter_path": "measurement-noise.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/does-a-crawler-request-count-as-a-buyer-visit.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-can-a-local-auto-glass-business-appear-in-google-ai-and-chatgpt-an.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-can-i-check-chatgpt-s-seo-output.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/residential-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features.md": {
+      "chapter_path": "comparison-gate.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-should-a-local-business-respond-when-chatgpt-cites-ranking-list-pa.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations.md": {
+      "chapter_path": "comparison-gate.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-should-i-check-an-llms-txt-file.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-should-i-request-an-ai-fact-correction-with-a-source-receipt.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-should-i-structure-headings-for-ai-crawlers.md": {
+      "chapter_path": "comparison-gate.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Root current exact Q0641 fd71d359 full/99df9d00 body and13:33:57 required-reference restoration reviewed. Chapter8 in Related supplies declared event/scoring/denominator/date/exclusion limits for distinguishing policy, observed requests, reached task endpoints and answer citations. Citation chapter remains deliberately inline; original300 map was stale. Exact current full-file Source/Writing approvals and body unchanged."
+    },
+    "answers/fixes/how-should-teams-handle-seo-and-geo-in-day-to-day-work.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/is-llms-txt-actually-used.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/is-llms-txt-required-for-ai-search-visibility.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/what-do-ai-crawlers-do-and-how-can-site-owners-control-access.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/what-does-google-s-guidance-say-about-llms-txt.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/what-is-an-llms-txt-checker.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/what-is-an-llms-txt-file.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/what-should-an-ai-information-page-say-about-our-company.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/what-should-i-include-in-an-llms-txt-file.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/which-ai-tools-can-support-programmatic-seo.md": {
+      "chapter_path": "comparison-gate.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/#criterion-workflow",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/which-ai-visibility-tools-also-complete-content-changes.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/fixes/which-websites-have-an-llms-txt-file.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/fixes/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/releases/2026-09/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/can-ai-search-use-information-from-the-live-web.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/can-i-use-ai-to-do-my-seo.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/can-i-use-chatgpt-as-a-crm.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/chatgpt-brand-visibility-cost.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/chatgpt-seo-skills.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/jobtread/construction-project-management/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/do-brand-name-prompts-measure-discovery.md": {
+      "chapter_path": "comparison-gate.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/does-ai-search-replace-seo.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/does-an-ai-brand-mention-mean-the-product-was-recommended.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/does-an-ai-shortlist-show-what-buyers-actually-purchase.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/releases/2026-09/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/does-being-named-by-ai-prove-product-quality.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/how-can-chatgpt-help-with-seo-content.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/jobtread/construction-project-management/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/how-do-ai-visibility-vendors-differ-for-regulated-industries.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/how-do-getmint-and-otterly-compare-for-transactional-geo-in-the-united.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/how-do-profound-and-seo-clarity-compare-for-tracking-brand-coverage-in.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/how-do-profound-and-seoclarity-compare.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/how-do-suede-and-athenahq-compare-for-tracking-citations-across-models.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/how-do-suede-and-athenahq-differ-beyond-price-for-a-pac.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/how-do-suede-and-profound-compare-for-permitting-and-community-narrati.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/how-do-suede-profound-and-athenahq-compare-for-a-trade-group-in-a-regu.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/how-does-chatgpt-relate-to-seo.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/how-does-perplexity-relate-to-seo.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/how-does-profound-track-brand-coverage-across-ai-answer-engines.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/how-might-ai-search-engines-change-the-web.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/how-well-can-entry-level-geo-solutions-scale-with-a-growing-business.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/is-geo-a-legitimate-strategy.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/is-geo-a-separate-skill-from-seo.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/is-learning-seo-and-geo-worthwhile-in-2026.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/is-perplexity-good-for-seo.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/which-crm-options-work-well-for-a-small-sales-team-that-is-scaling/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/origence.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/origence/loan-origination-software/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/peec-visibility-or-aeo-or-geo-or-search-or-citation-or-seo-or-generati.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/method.html",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/what-are-alternatives-to-brightedge-for-geo.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/what-are-alternatives-to-go-fish-digital-for-geo.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/what-are-examples-of-answer-engine-optimization.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/jobber/field-service-management/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/what-are-the-top-3-crm-platforms.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/what-can-a-cited-domain-tell-me-about-an-ai-source.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/what-can-perplexity-computer-do-for-seo.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/loan-origination-software/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/what-certifications-cover-answer-engine-optimization.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/contractor-foreman/construction-project-management/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/what-courses-cover-answer-engine-optimization.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/what-does-ai-visibility-mean.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/what-does-blue-yonder-publish-about-ltl-freight-shipping.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/transportation-management-systems/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/what-does-brand-visibility-in-chatgpt-mean.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/what-does-geo-mean-in-ai-search.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/what-does-llm-in-ai-mean.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/what-does-searchable-offer-for-ai-search-visibility.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/what-does-visibility-in-claude-mean.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/what-is-an-ai-software-shortlist.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/what-jobs-involve-answer-engine-optimization.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/cosmolex/legal-practice-management/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/what-platform-scores-competitors-on-generative-engine-prominence.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/what-seo-prompts-can-i-use-with-chatgpt.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/jobber/field-service-management/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/what-should-i-learn-for-technical-seo-aeo-and-geo.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/geo-basics/what-sizes-of-dental-practice-use-dentrix-ascend-for-scheduling-and-bi.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/dental-practice-management/what-is-the-best-dental-pms-for-a-dso-with-multiple-locations/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/where-can-i-find-an-ai-search-visibility-expert-near-me.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/which-ai-based-crm-is-the-best.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/which-ai-is-best-for-seo.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/which-ai-tools-for-analyzing-online-visibility-are-available-in-the-uk.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/which-tools-combine-ai-visibility-and-social-listening.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/radiology-medical-imaging/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/who-has-practical-experience-implementing-geo-or-aeo.md": {
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Exact retained published supplier-case reading; unrelated CRM Index destination removed in adopted Source continuation. No Index data supplies this finding.",
+      "bounded_case_reading_receipt_sha256": "ab1a4b1bb1ea12d91df970bb0067fe775f29b288117cc5dd1cda3aab6bac28db"
+    },
+    "answers/geo-basics/who-has-the-best-geo-results-in-competitive-industries.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/why-can-the-same-ai-question-produce-different-names.md": {
+      "chapter_path": "measurement-noise.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/why-does-the-buyer-question-matter-to-an-ai-shortlist.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/geo-basics/will-crm-get-replaced-by-ai.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/geo-basics/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/are-google-ai-overviews-available-in-france.md": {
+      "chapter_path": "overview-trigger-rate.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/can-ads-appear-in-google-ai-overviews.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/can-i-disable-google-ai-overviews.md": {
+      "chapter_path": "overview-trigger-rate.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/residential-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/does-google-extended-control-ai-overview-or-ai-mode-visibility.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/how-do-google-ai-overviews-affect-website-visibility.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/how-do-google-ai-overviews-and-ai-mode-compare.md": {
+      "chapter_path": "engine-divergence.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/how-do-google-ai-overviews-and-generative-ui-relate.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/how-do-google-ai-overviews-choose-sources.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/how-do-i-get-a-google-ai-overview.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/how-do-people-use-google-ai-mode.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/how-does-google-ai-mode-change-keyword-research.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/how-does-google-ai-mode-choose-cited-sources.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/is-the-ai-overview-gone.md": {
+      "chapter_path": "overview-trigger-rate.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/residential-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/is-there-an-api-for-google-ai-overviews.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/should-ai-overview-rates-include-searches-without-an-overview.md": {
+      "chapter_path": "overview-trigger-rate.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/what-is-a-google-ai-overview.md": {
+      "chapter_path": "overview-trigger-rate.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/what-is-deep-search-in-google-ai-mode.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/what-is-google-ai-mode.md": {
+      "chapter_path": "engine-divergence.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/which-construction-software-does-google-ai-overviews-name.md": {
+      "chapter_path": "engine-divergence.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md": {
+      "chapter_path": "engine-divergence.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/which-dental-practice-software-does-google-ai-overviews-name.md": {
+      "chapter_path": "engine-divergence.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/which-field-service-software-does-google-ai-mode-name.md": {
+      "chapter_path": "engine-divergence.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md": {
+      "chapter_path": "engine-divergence.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/hotel-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/which-software-tracks-brand-rankings-in-google-ai-overviews-and-bing-c.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/which-veterinary-software-does-google-ai-mode-name.md": {
+      "chapter_path": "engine-divergence.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/veterinary-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/why-does-google-ai-overviews-not-appear-for-every-search.md": {
+      "chapter_path": "overview-trigger-rate.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/hotel-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/google-ai/why-is-google-ai-mode-not-working.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/google-ai/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/crm-software-chatgpt-free.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/crm-software-chatgpt-project-management.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/crm-software-chatgpt-reddit.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/dealership-software-chatgpt-project-management.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/dealership-management-systems/what-questions-should-i-ask-when-choosing-a-dealership-management-system/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/digitail-vs-ezyvet-for-ai-native-veterinary-practice-management-with-t.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/veterinary-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/does-housecall-pro-provide-field-service-management-software-for-home.md": {
+      "chapter_path": "comparison-gate.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/hotel-property-management-software-chatgpt-free.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/hotel-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/insurance-agency-software-chatgpt-project-management.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/insurance-agency-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/is-dentally-a-good-fit-for-uk-dentists-running-a-cloud-based-practice.md": {
+      "chapter_path": "named-zero-times.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/legal-practice-software-chatgpt-free.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/legal-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/loan-origination-software-chatgpt-free.md": {
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/loan-origination-software/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/industries/radiology-software-chatgpt-project-management.md": {
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/radiology-medical-imaging/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/industries/transportation-management-software-chatgpt-free.md": {
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/transportation-management-systems/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/industries/what-are-the-top-five-project-management-software-options.md": {
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/project-management/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/industries/what-do-ai-answers-say-about-property-management-software.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/residential-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/what-should-i-compare-when-choosing-a-crm-for-outbound-calls.md": {
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/how-can-a-sales-team-use-a-crm-to-improve-handoffs-and-follow/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/industries/which-crm-software-should-a-buyer-compare.md": {
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/what-is-the-best-crm-for-a-growing-b2b-sales-team/",
+      "semantic_basis": "Existing independently inspectedS2Related27 choices; final PR86 source/render equality separately recomputed."
+    },
+    "answers/industries/which-industrial-ai-platforms-integrate-best-with-erp-eam-fsm-and-proj.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-construction-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-crm-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-dealership-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dealership-management-systems/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-dental-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-field-service-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-hotel-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/hotel-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-insurance-agency-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/insurance-agency-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-legal-practice-software.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/legal-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-loan-origination-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/loan-origination-software/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-project-management-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-radiology-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/radiology-medical-imaging/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-transportation-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/transportation-management-systems/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-veterinary-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/veterinary-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/which-sources-does-ai-cite-for-property-management-software.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/residential-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-construction-software-missing-from-ai-answers.md": {
+      "chapter_path": "named-zero-times.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-crm-software-missing-from-ai-answers.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-dealership-software-missing-from-ai-answers.md": {
+      "chapter_path": "absence-ladder.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dealership-management-systems/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-dental-software-missing-from-ai-answers.md": {
+      "chapter_path": "absence-ladder.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-field-service-software-missing-from-ai-answers.md": {
+      "chapter_path": "absence-ladder.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-hotel-software-missing-from-ai-answers.md": {
+      "chapter_path": "absence-ladder.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/hotel-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-insurance-agency-software-missing-from-ai-answers.md": {
+      "chapter_path": "absence-ladder.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/insurance-agency-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md": {
+      "chapter_path": "absence-ladder.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/legal-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-loan-origination-software-missing-from-ai-answers.md": {
+      "chapter_path": "named-zero-times.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/loan-origination-software/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-project-management-software-missing-from-ai-answers.md": {
+      "chapter_path": "absence-ladder.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-property-management-software-missing-from-ai-answers.md": {
+      "chapter_path": "named-zero-times.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/residential-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-radiology-software-missing-from-ai-answers.md": {
+      "chapter_path": "named-zero-times.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/radiology-medical-imaging/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-transportation-software-missing-from-ai-answers.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/transportation-management-systems/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/industries/why-is-my-veterinary-software-missing-from-ai-answers.md": {
+      "chapter_path": "named-zero-times.md",
+      "own_cluster_hub_path": "answers/industries/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/veterinary-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/can-google-bing-and-llms-find-content-on-threads.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/do-ai-product-answers-cite-reddit.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/radiology-medical-imaging/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/do-youtube-transcripts-affect-llm-citations.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/does-medium-get-cited-in-ai-answers.md": {
+      "chapter_path": "who-gets-cited.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/does-profound-provide-a-full-seo-audit-or-a-partial-audit.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-accurate-are-geo-tools-across-different-industries.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-can-a-buyer-verify-the-conclusion.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data.md": {
+      "chapter_path": "measurement-noise.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/releases/2026-08/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-can-i-check-ai-search-visibility.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-can-i-check-whether-an-ai-citation-supports-its-claim.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-can-i-defend-branded-search-results-against-lookalike-sites-that-c.md": {
+      "chapter_path": "category-door.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-can-i-evaluate-hotwire-gaio-tech-as-an-ai-visibility-product.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/jobber/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-can-i-track-brand-visibility-in-claude.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-can-i-verify-that-an-ai-visibility-tracker-uses-live-answers.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-can-server-logs-show-whether-ai-crawlers-request-llms-txt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-do-ads-in-google-ai-overviews-affect-organic-traffic.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-does-google-ai-mode-affect-site-clicks.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-many-repeated-runs-make-an-ai-visibility-rate-useful.md": {
+      "chapter_path": "measurement-noise.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-should-a-report-present-these-outcomes.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-should-i-check-an-ai-baseline-before-changing-content.md": {
+      "chapter_path": "measurement-noise.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-should-the-report-show-visits.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/how-would-you-optimize-an-e-commerce-product-page-for-google-and-ai-se.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/if-llms-txt-has-no-impact-on-ai-visibility-why-did-google-add-it-into.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/is-geo-more-effective-than-seo.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-ai-visibility-products-does-hotwire-gaio-tech-offer.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-can-search-console-show-about-ai-visibility-queries.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-counts-as-a-brand-mention-in-an-ai-answer.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-counts-as-an-own-domain-citation-in-an-ai-answer.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-did-the-buyer-report.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-does-a-recorded-ai-referral-establish.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-does-athena-publish-about-data-accuracy.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-does-hotwire-gaio-tech-publish-about-data-accuracy.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-does-hotwire-gaio-tech-publish-about-model-coverage.md": {
+      "chapter_path": "engine-divergence.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-does-the-business-record-establish.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-evidence-can-connect-ai-visibility-with-pipeline.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-information-belongs-in-a-public-report.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/insurance-agency-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-is-a-good-ai-visibility-score.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/dentrix/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-is-an-ai-visibility-index.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/what-should-a-client-ai-visibility-report-contain.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/housecall-pro/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re.md": {
+      "chapter_path": "measurement-noise.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/which-ai-visibility-platforms-support-multiple-agency-clients.md": {
+      "chapter_path": "how-to-buy-geo.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/jobber/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/which-ai-visibility-signals-should-shape-an-seo-roadmap.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": false,
+      "required_index_href": null,
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/jobber/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/which-measures-belong-beside-one-another.md": {
+      "chapter_path": "cited-not-recommended.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/measurement/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/questions/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/perplexity/how-does-perplexity-work.md": {
+      "chapter_path": "valid-measurement.md",
+      "own_cluster_hub_path": "answers/perplexity/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/vendors/procore/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/perplexity/which-construction-software-does-perplexity-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/perplexity/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/construction-project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/perplexity/which-crm-software-does-perplexity-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/perplexity/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/crm/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/perplexity/which-dental-software-does-perplexity-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/perplexity/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/dental-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/perplexity/which-field-service-software-does-perplexity-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/perplexity/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/field-service-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/perplexity/which-legal-practice-software-does-perplexity-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/perplexity/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/legal-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/perplexity/which-project-management-software-does-perplexity-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/perplexity/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/project-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/perplexity/which-property-management-software-does-perplexity-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/perplexity/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/residential-property-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/perplexity/which-radiology-software-does-perplexity-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/perplexity/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/radiology-medical-imaging/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/perplexity/which-transportation-software-does-perplexity-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/perplexity/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/transportation-management-systems/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    },
+    "answers/perplexity/which-veterinary-software-does-perplexity-recommend.md": {
+      "chapter_path": "selection-not-ranking.md",
+      "own_cluster_hub_path": "answers/perplexity/index.md",
+      "index_applicable": true,
+      "required_index_href": "https://index.broadcastwell.com/categories/veterinary-practice-management/",
+      "semantic_basis": "Independently reviewed300map semantic choices; current body is not assumed compliant."
+    }
+  }
+}

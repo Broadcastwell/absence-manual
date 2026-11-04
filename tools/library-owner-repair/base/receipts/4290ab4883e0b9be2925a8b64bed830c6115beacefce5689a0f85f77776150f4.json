@@ -1,0 +1,11 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md",
+  "before_effective_canonical_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a",
+  "raw_canonical_source_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a",
+  "after_effective_canonical_sha256": "0494bfcec695858972146328fda00eba14976dd2fe227acd926e7987febb891e",
+  "fact_ledger_sha256": "7854fccb9dbce940ca72a194cc125dbac80fa0a17d2d31577ad7b4eb888ee1d1",
+  "effective_payload_sha256": "dce17b74c9105567a3eb3d7c190b379cf6171d94fcab23aa6520512ac8f29b73",
+  "scope": "TEMPLATE ONLY; Root exact finite input review/adoption required. Actual PR91 before; no publication approval."
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0601",
+  "path": "answers/claude/which-dental-software-does-claude-recommend.md",
+  "canonical_source_sha256": "2de66088d41a0bc2aeb1c32680a594761f13da1de2955b5674ad4ae0c4c85a10",
+  "effective_canonical_source_sha256": "58fd92224e3a22e398c812ef1fe0b9e3fc803b752ca965866351de6b89429b98",
+  "effective_body_sha256": "11445f26e833f9e42c1567112998a5d89903355f01f7929ad9f0bd0d150b7ea5",
+  "effective_metadata_sha256": "6f1939fd0107c79763bf87c5531bc892d1b6b44c98945f8d5ccd8ac749438636",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\claude\\which-dental-software-does-claude-recommend.md",
+    "raw_sha256": "58fd92224e3a22e398c812ef1fe0b9e3fc803b752ca965866351de6b89429b98",
+    "canonical_LF_sha256": "58fd92224e3a22e398c812ef1fe0b9e3fc803b752ca965866351de6b89429b98"
+  },
+  "review_basis": "Prior exact full-effective-article Writing approval plus actual bounded default-method footer/date continuation; all other bytes proved unchanged. No fresh full45 reread or public/global approval.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_METHOD45_FINAL\\coverage\\LB-Q0601.writing-method45-coverage.json",
+    "raw_sha256": "5d565ac7471df5444f49c71661a757c529374fee5a712c0062d0df47d6c57dbd",
+    "canonical_LF_sha256": "5d565ac7471df5444f49c71661a757c529374fee5a712c0062d0df47d6c57dbd"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "date_modified": "2026-11-03T11:12:54+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false,
+  "bounded_default_method_footer_continuation": {
+    "bank_id": "LB-Q0601",
+    "path": "answers/claude/which-dental-software-does-claude-recommend.md",
+    "scope": "Bounded full-effective-file continuation after prior actual full-base and exact delta reviews. No new full45-body reread is claimed.",
+    "prior_approved_full_article_Writing_receipt": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\receipts\\LB-Q0601.writing.json",
+      "raw_sha256": "492a0280773c43a8aef9f7a36beaa4d2f4632713c6945be10cf66a00b8875978",
+      "canonical_LF_sha256": "492a0280773c43a8aef9f7a36beaa4d2f4632713c6945be10cf66a00b8875978"
+    },
+    "prior_full_delta_coverage": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0601.writing-coverage.json",
+      "raw_sha256": "c7442deab5e776b7cb0e30ee93bf414d6c2f313d55882f162466e898a5775583",
+      "canonical_LF_sha256": "c7442deab5e776b7cb0e30ee93bf414d6c2f313d55882f162466e898a5775583"
+    },
+    "Root_actual_footer_adoption": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "before_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\claude\\which-dental-software-does-claude-recommend.md",
+      "raw_sha256": "0abf32257cd7085b0d8ac874e73182386fb5217243f205fa59ec6ce27995f7b2",
+      "canonical_LF_sha256": "0abf32257cd7085b0d8ac874e73182386fb5217243f205fa59ec6ce27995f7b2"
+    },
+    "after_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\claude\\which-dental-software-does-claude-recommend.md",
+      "raw_sha256": "58fd92224e3a22e398c812ef1fe0b9e3fc803b752ca965866351de6b89429b98",
+      "canonical_LF_sha256": "58fd92224e3a22e398c812ef1fe0b9e3fc803b752ca965866351de6b89429b98"
+    },
+    "actual_source_kind": "published-index",
+    "actual_Next_step_old_token_read": "[Our answer-study method, v1.1.](https://broadcastwell.com/methodology)",
+    "actual_Next_step_new_token_read": "[Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)",
+    "same_exact_method_URL": true,
+    "canonical_default_token_already_in_body": true,
+    "only_footer_token_and_actual_date_modified_changed": true,
+    "all_other_body_opening_numbers_quotations_sources_metadata_exact": true,
+    "human_Writing_carry": "Neutral, plain canonical method label, already asserted in the reviewed body. No sales sentence, new factual reading, definition, measurement or claim is introduced. Prior five human-rule findings carry with this exact narrow continuation.",
+    "fresh_full_body_reread_claimed": false,
+    "new_Root_timestamp_invented": false
+  }
+}

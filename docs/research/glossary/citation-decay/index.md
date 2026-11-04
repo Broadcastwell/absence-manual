@@ -7,13 +7,13 @@ research_id: 36
 research_group: glossary
 lead: Vikram Patel
 published: '2026-11-02T20:27:14Z'
-updated: '2026-11-02T21:22:53Z'
+updated: "2026-11-04T01:03:17.612597+00:00"
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/citation-decay/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T20:27:14Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: "2026-11-04T01:03:17.612597+00:00"
 is_based_on: https://www.tryprofound.com/blog/citation-decay
 defined_term: Citation decay
 ---
@@ -66,7 +66,7 @@ You can distinguish an ageing document from a measured decline in citation share
 
 **Does not support:** We have no measurement on this point: citation decay. Study 3 is a registered protocol for release-to-release absence persistence and remains unrun until its comparability conditions are met. Vendor absence persistence is also a different event from a particular URL’s citation half-life.
 
-**Supports:** The [September 2026 release](https://doi.org/10.5281/zenodo.22907695) supplies the answers for our repeated-question analysis. It observed **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups: 8.9%, Wilson 95% interval 8.4% to 9.4%**. Mixed means named in one or two of three valid repeats. These within-release groups do not measure elapsed-time decay. See [the measurement-noise finding](/research/insights/one-rank-number-is-a-fiction/) and the [Study 3 protocol](/research/studies/does-absence-persist/).
+**Supports:** The [September 2026 release](https://doi.org/10.5281/zenodo.22907695) supplies the answers for our repeated-question analysis. In answers captured on **22 and 23 September 2026**, it observed **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups: 8.9%, Wilson 95% interval 8.4% to 9.4%**. Mixed means named in one or two of three valid repeats. These within-release groups do not measure elapsed-time decay. See [the measurement-noise finding](/research/insights/one-rank-number-is-a-fiction/) and the [Study 3 protocol](/research/studies/does-absence-persist/).
 
 **Suggests:** Follow-up within the stated setting.
 
@@ -80,7 +80,7 @@ Publication correction, November 2, 2026: October 30 was the draft date; this pa
 
 ## Cite this page
 
-Broadcastwell research team. (2026, November 2). *What is citation decay?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/citation-decay/ Published November 2, 2026; updated November 2, 2026.
+Broadcastwell research team. (2026, November 2). *What is citation decay?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/citation-decay/ Published November 2, 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research36,
@@ -89,8 +89,8 @@ Broadcastwell research team. (2026, November 2). *What is citation decay?*. Broa
   year = {2026},
   date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/glossary/citation-decay/},
-  urldate = {2026-11-02},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  urldate = {2026-11-03},
+  note = {Published 2026-11-02; updated 2026-11-04}
 }
 ```
 
@@ -98,7 +98,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

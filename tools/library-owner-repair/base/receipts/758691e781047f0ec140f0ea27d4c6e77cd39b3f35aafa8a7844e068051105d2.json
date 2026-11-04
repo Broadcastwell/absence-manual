@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0611",
+  "path": "answers/perplexity/which-field-service-software-does-perplexity-recommend.md",
+  "canonical_source_sha256": "7c1bca69d71903ba5ad560c4c1cb79d87723a6becb7b48c60ef1264ff890a8b5",
+  "effective_canonical_source_sha256": "46b9158969cebbb0670ce98b6131fab44d07e89ad38ccfd6f0fe086468798348",
+  "effective_body_sha256": "793efcf86f6b680de8300fdd396da19f801d53c2e7d55c3ba848696e1ee97271",
+  "effective_metadata_sha256": "76beea741983381dd3e466170753b7591a9441bf450f6f2074efc7d2184f57e3",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\perplexity\\which-field-service-software-does-perplexity-recommend.md",
+    "raw_sha256": "46b9158969cebbb0670ce98b6131fab44d07e89ad38ccfd6f0fe086468798348",
+    "canonical_LF_sha256": "46b9158969cebbb0670ce98b6131fab44d07e89ad38ccfd6f0fe086468798348"
+  },
+  "review_basis": "Prior exact full-effective-article Writing approval plus actual bounded default-method footer/date continuation; all other bytes proved unchanged. No fresh full45 reread or public/global approval.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_METHOD45_FINAL\\coverage\\LB-Q0611.writing-method45-coverage.json",
+    "raw_sha256": "e0bdecc37e37b3098972c240588939a76522f8998aefa7527f2b6073f06cc288",
+    "canonical_LF_sha256": "e0bdecc37e37b3098972c240588939a76522f8998aefa7527f2b6073f06cc288"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "date_modified": "2026-11-03T11:12:54+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false,
+  "bounded_default_method_footer_continuation": {
+    "bank_id": "LB-Q0611",
+    "path": "answers/perplexity/which-field-service-software-does-perplexity-recommend.md",
+    "scope": "Bounded full-effective-file continuation after prior actual full-base and exact delta reviews. No new full45-body reread is claimed.",
+    "prior_approved_full_article_Writing_receipt": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\receipts\\LB-Q0611.writing.json",
+      "raw_sha256": "b66eff9837b6f0eef0d92f2eee272c55d856dba81706f99c9a4b01ddd93e91e1",
+      "canonical_LF_sha256": "b66eff9837b6f0eef0d92f2eee272c55d856dba81706f99c9a4b01ddd93e91e1"
+    },
+    "prior_full_delta_coverage": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0611.writing-coverage.json",
+      "raw_sha256": "4891775776d7404ecf410507de070a74d65b03d52e0af43aa7b3a0c2292cc968",
+      "canonical_LF_sha256": "4891775776d7404ecf410507de070a74d65b03d52e0af43aa7b3a0c2292cc968"
+    },
+    "Root_actual_footer_adoption": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "before_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\perplexity\\which-field-service-software-does-perplexity-recommend.md",
+      "raw_sha256": "e3206d1b645bfe1e69ff2408529eb8e0fba791ffc2734d34648fe4d6991af08d",
+      "canonical_LF_sha256": "e3206d1b645bfe1e69ff2408529eb8e0fba791ffc2734d34648fe4d6991af08d"
+    },
+    "after_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\perplexity\\which-field-service-software-does-perplexity-recommend.md",
+      "raw_sha256": "46b9158969cebbb0670ce98b6131fab44d07e89ad38ccfd6f0fe086468798348",
+      "canonical_LF_sha256": "46b9158969cebbb0670ce98b6131fab44d07e89ad38ccfd6f0fe086468798348"
+    },
+    "actual_source_kind": "published-index",
+    "actual_Next_step_old_token_read": "[Our answer-study method, v1.1.](https://broadcastwell.com/methodology)",
+    "actual_Next_step_new_token_read": "[Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)",
+    "same_exact_method_URL": true,
+    "canonical_default_token_already_in_body": true,
+    "only_footer_token_and_actual_date_modified_changed": true,
+    "all_other_body_opening_numbers_quotations_sources_metadata_exact": true,
+    "human_Writing_carry": "Neutral, plain canonical method label, already asserted in the reviewed body. No sales sentence, new factual reading, definition, measurement or claim is introduced. Prior five human-rule findings carry with this exact narrow continuation.",
+    "fresh_full_body_reread_claimed": false,
+    "new_Root_timestamp_invented": false
+  }
+}

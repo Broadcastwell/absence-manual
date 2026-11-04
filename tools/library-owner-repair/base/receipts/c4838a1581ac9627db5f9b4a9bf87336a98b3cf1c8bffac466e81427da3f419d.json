@@ -1,0 +1,39 @@
+{
+  "recorded_utc": "2026-11-03T19:38:19+00:00",
+  "private_only": true,
+  "approved_for_build_or_publication": false,
+  "owning_edits": 0,
+  "planned_group": {
+    "revisions": 19,
+    "canonical_HTML200_stubs": 19,
+    "active_after_estimate": 307,
+    "surface_limit_unchanged": 50,
+    "actual_surface_count": null
+  },
+  "Root_read_complete899_word_Q0561_and_complete_current_Q0047_and_all47literal_bindings": true,
+  "source_manifest_sha256": "61a16b0777ae1c7a8886b4735171c2539824c4c6ea76bd57ebfeca212fb47581",
+  "rows": [
+    {
+      "path": "answers/industries/why-is-my-dental-software-missing-from-ai-answers.md",
+      "file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\manuscripts\\answers\\industries\\why-is-my-dental-software-missing-from-ai-answers.md",
+      "sha256": "78c6f33ddf26e6c8eb93723b89f45e9b9bf49ceba23cded63070b9f73f15035d",
+      "actual_adoption_date_modified": "2026-11-03T19:38:19+00:00",
+      "scope": "Existing Source/Writing-reviewed899-word target plus one required absence chapter link and actual date; all47 donor bindings retained."
+    },
+    {
+      "path": "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md",
+      "file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\manuscripts\\answers\\geo-basics\\can-an-ai-answer-cite-a-company-without-naming-it.md",
+      "sha256": "30a6300e9e9012fee27d985d7f38dae8144edc2d7f632ef73334c21756087ff5",
+      "actual_adoption_date_modified": "2026-11-03T19:38:19+00:00",
+      "scope": "Exact owner link label plus actual date; other body and metadata unchanged."
+    },
+    {
+      "path": "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+      "file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\manuscripts\\answers\\fixes\\how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+      "sha256": "cd0eab4f838ed0b14fd9d146c190738a452d122f3d7d850adc56b1bcf8e661d6",
+      "actual_adoption_date_modified": "2026-11-03T19:38:19+00:00",
+      "scope": "Exact owner description plus actual date; body and all other metadata unchanged."
+    }
+  ],
+  "formal_Source_Writing_exact_after_peers_pending": true
+}
