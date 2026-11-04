@@ -6,7 +6,12 @@
       ".library-research-work/prior-source.gitLF.zip": "79894a23307df419b3d6c2c9c51e5769a97f4e1192b2584b4d0a004904032fc2"
     },
     "prior_artifact_id": 13303057282,
-    "prior_source_commit": "8d85da2964db68e01d9e4ea82ffdde5b72137c83"
+    "prior_source_commit": "8d85da2964db68e01d9e4ea82ffdde5b72137c83",
+    "source_archive_parts": [
+      ".library-research-work/source-archive/part-01.bin",
+      ".library-research-work/source-archive/part-02.bin",
+      ".library-research-work/source-archive/part-03.bin"
+    ]
   },
   "approved": true,
   "dataset_HTML_sha256": {
@@ -18,7 +23,7 @@
   "policy_sha256": "a413acca0a52bb221c46c173ab76fad3f603c417f9069c32ef19a10ab10c9edd",
   "release_inputs": {
     "path": ".library-research-work/inputs.json",
-    "sha256": "1837b6b04c02f62a94aee5d56d2efc536619e0e078f899b5f7010081537b346a"
+    "sha256": "aced78d4e352665537281b594fdc8ca8780db06395a774e567fce7064c2a29c0"
   },
   "review_kind": "library-root-reviewed-finite-research-support",
   "schema_version": 1,
@@ -380,7 +385,7 @@
     ".library-research-work/base/receipts/fe833f55507b4206e4a4b34482cc428f0c0440170b56e13b5520e7239285c2f5.json": "fe833f55507b4206e4a4b34482cc428f0c0440170b56e13b5520e7239285c2f5",
     ".library-research-work/base/receipts/ff6fb411f9e1a20aaf881cb9508f048768b85ba6fa91560c6a0967558c501eb5.json": "ff6fb411f9e1a20aaf881cb9508f048768b85ba6fa91560c6a0967558c501eb5",
     ".library-research-work/base/receipts/ffd9c74d107525676efee2f3b0a80f6a92c0c599fcb455124d7072210223da93.json": "ffd9c74d107525676efee2f3b0a80f6a92c0c599fcb455124d7072210223da93",
-    ".library-research-work/inputs.json": "1837b6b04c02f62a94aee5d56d2efc536619e0e078f899b5f7010081537b346a",
+    ".library-research-work/inputs.json": "aced78d4e352665537281b594fdc8ca8780db06395a774e567fce7064c2a29c0",
     ".library-research-work/notice-full-text.txt": "e09371ea871c887ba9b57004012d914912e29816b10c9e6f68ae208198aa8387",
     ".library-research-work/notice-page-1.png": "c586850e4e4c3fee57de8edfc0c1e827676e6d725dbcd9e2e9f26f2b5b3b1bf5",
     ".library-research-work/notice-review.json": "8b8ec29f214eb132215cef5702224105c40f5799c67b963a62845a1dabb00342",
@@ -421,6 +426,9 @@
     ".library-research-work/prior-source.gitLF.zip": "79894a23307df419b3d6c2c9c51e5769a97f4e1192b2584b4d0a004904032fc2",
     ".library-research-work/research60.zip": "d2652801401d10c72969fb1c02119df4f9786cda0e270b1bff092669eaa10a08",
     ".library-research-work/root-artifact-review-evidence.json": "1bd092d4ea4d62f9340dd0f5dcdf55ea02783f94c0c27bb1331d60cdc8ad6473",
+    ".library-research-work/source-archive/part-01.bin": "778e973e0d00b340358233cb48df2ead15a8a5b87ba139741f39d34c079dc27b",
+    ".library-research-work/source-archive/part-02.bin": "dcb395cd196a2054500bf56abcf24d6942d555fd175907a315ef980c89546000",
+    ".library-research-work/source-archive/part-03.bin": "68e585b48369cdeb18b46061128e10943b75f68b589c1276e10f0229e9f5f5be",
     ".library-research-work/source-reads/01.json": "c0c2aaa82f597520a1524d36d3647ca9a25ebd17a79772bdbaf6990a94aea739",
     ".library-research-work/source-reads/02.json": "8b05f0e193999057e5d8518dc622afe2f7e887a677b8c00865b6334a2a9e1d5a",
     ".library-research-work/source-reads/03.json": "4184962eba9a66c5b76fb649632278dae3342f3ee217ba836b7062a5a424957f",

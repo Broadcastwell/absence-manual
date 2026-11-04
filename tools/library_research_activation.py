@@ -60,7 +60,7 @@ def public_identity(root, artifact, source_ref=None):
     require(inputs.get('artifact_review',{}).get('approved') is True,
             'Research candidate artifact review remains pending')
     ref=source_ref or subprocess.check_output(['git','rev-parse','HEAD'],cwd=root,text=True).strip()
-    prior_raw=git_archive(root,plan['activation_delivery']['prior_source_commit'])
+    prior_raw=prior_source_bytes(root,root,plan)
     artifact_raw=artifact.read_bytes()
     external=plan['activation_delivery']['external_files']
     require(sha(prior_raw)==external['.library-research-work/prior-source.gitLF.zip']
@@ -90,6 +90,21 @@ def git_archive(root, ref):
                                    '--format=zip', ref], cwd=root)
 
 
+def prior_source_bytes(root,repository,plan):
+    delivery=plan['activation_delivery']
+    actual_git=git_archive(repository,delivery['prior_source_commit'])
+    parts=delivery.get('source_archive_parts')
+    raw=b''.join(_file(root,bundle_file(p)).read_bytes() for p in parts) if parts else actual_git
+    require(sha(raw)==delivery['external_files']['.library-research-work/prior-source.gitLF.zip'],
+            'Exact approved source archive transport differs')
+    # ZIP container bytes depend on the Git/zlib implementation. Preserve the
+    # approved container and independently compare every file to the exact Git
+    # commit, rather than changing any historical source/archive pin.
+    require(archive_files(raw)==archive_files(actual_git),
+            'Approved source archive files differ from the actual Git commit')
+    return raw
+
+
 def write_checked(root, rel, data):
     target = root / rel
     require(not Path(rel).is_absolute() and '..' not in Path(rel).parts and ':' not in rel,
@@ -107,7 +122,7 @@ def write_checked(root, rel, data):
 def stage_bundle(root, repository, artifact, candidate_archive):
     plan, inputs = blueprint(root)
     delivery = plan['activation_delivery']
-    source = git_archive(repository, delivery['prior_source_commit'])
+    source = prior_source_bytes(root,repository,plan)
     public = artifact.read_bytes()
     external = {'.library-research-work/prior-public.zip': public,
                 '.library-research-work/prior-source.gitLF.zip': source}

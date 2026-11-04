@@ -1120,7 +1120,7 @@
     "reviewer": "root"
   },
   "candidate_archive_path": ".library-research-work/candidate.gitLF.zip",
-  "candidate_source_inventory_sha256": "374373676fdf9353e253895d562cb91d0712e02ea2f18d80e8b2e1d782184acd",
+  "candidate_source_inventory_sha256": "58635dc61946cc04f3e06d0477a9a586147e61f4a46eabe536ae40dd80618760",
   "current_payload_object_sha256": "09e49761c6c878931fbb61d69db919df16d582f9a8399d6490a47f65949864eb",
   "full_source_reviews": {
     "docs/research/academic-access/index.md": {
@@ -2236,7 +2236,7 @@
       "before_sha256": "7b3862b8a4829ef24ef19a7e2ad7a2e4b59fa0df17361a3e3f937057ec278eca"
     },
     "tests/test_research_activation.py": {
-      "after_sha256": "2c98cbad38cec74eccb89c26c52bd3d4e6e3cc7fc5c3e6ee89e7032dd2d2c074",
+      "after_sha256": "d5142cbdcf516c40c0a5e5514287ed6ab2b96560c733aad7ae306ae2ae30729c",
       "before_sha256": null
     },
     "tests/test_research_support.py": {
@@ -2252,11 +2252,11 @@
       "before_sha256": "74a0606569e3a04b61be0b989189fda0270ba79a69f9f68c7f4f4b4ee3401911"
     },
     "tools/library_research_activation.py": {
-      "after_sha256": "bdb0aa7c6488aafb1f3bd85111fcfe002b7564fbdc9a49f58a9a62212fa845d8",
+      "after_sha256": "c41e08a6cfc1c392b30cf63a106650e43c076e9864242a1b85afd1a77d31cc3c",
       "before_sha256": null
     },
     "tools/library_research_activation_controls.py": {
-      "after_sha256": "bef1f7975991c0f1b52badf9eee6c33bef44c0b2c8557d32005342bebf90c5f0",
+      "after_sha256": "4bc278213ca0d15ba365055a85f515aae7cc6e12c43501424288a35e9066046e",
       "before_sha256": null
     },
     "tools/library_research_release.py": {

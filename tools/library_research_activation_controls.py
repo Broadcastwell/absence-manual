@@ -39,8 +39,15 @@ def validate_bundle(root, plan):
     delivery = plan.get('activation_delivery')
     if delivery is None:
         return set()
-    require(set(delivery) == {'external_files', 'prior_source_commit', 'prior_artifact_id'},
+    fields={'external_files', 'prior_source_commit', 'prior_artifact_id'}
+    require(set(delivery) in [fields,fields|{'source_archive_parts'}],
             'Research activation delivery schema differs')
+    if 'source_archive_parts' in delivery:
+        require(delivery['source_archive_parts']==[
+            '.library-research-work/source-archive/part-%02d.bin'%i for i in range(1,4)],
+            'Approved source archive needs exactly three ordered pinned parts')
+        require(all(p in plan['staged_file_sha256'] for p in delivery['source_archive_parts']),
+            'An approved source archive part is not pinned')
     external = delivery['external_files']
     require(set(external) == {'.library-research-work/prior-public.zip',
                              '.library-research-work/prior-source.gitLF.zip'},

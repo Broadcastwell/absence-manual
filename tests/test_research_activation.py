@@ -111,6 +111,28 @@ class ResearchActivationTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'escapes'):
             activation.write_checked(self.root,'../outside',b'bad')
 
+    def test_prior_archive_retains_container_and_requires_exact_git_files(self):
+        import io,zipfile
+        def zipped(data,compression):
+            stream=io.BytesIO()
+            with zipfile.ZipFile(stream,'w',compression=compression) as z:z.writestr('source.txt',data)
+            return stream.getvalue()
+        approved=zipped(b'original',zipfile.ZIP_STORED)
+        regenerated=zipped(b'original',zipfile.ZIP_DEFLATED)
+        ref='.library-research-work/source-archive/part-01.bin'
+        p=self.root/controls.bundle_file(ref);p.parent.mkdir(parents=True);p.write_bytes(approved)
+        plan={'activation_delivery':{'source_archive_parts':[ref],'prior_source_commit':'c'*40,
+              'external_files':{'.library-research-work/prior-source.gitLF.zip':sha(approved)}}}
+        with patch.object(activation,'git_archive',return_value=regenerated):
+            self.assertEqual(approved,activation.prior_source_bytes(self.root,self.root,plan))
+        with patch.object(activation,'git_archive',return_value=zipped(b'changed',zipfile.ZIP_DEFLATED)):
+            with self.assertRaisesRegex(ValueError,'actual Git commit'):
+                activation.prior_source_bytes(self.root,self.root,plan)
+        p.write_bytes(b'changed container')
+        with patch.object(activation,'git_archive',return_value=regenerated):
+            with self.assertRaisesRegex(ValueError,'transport differs'):
+                activation.prior_source_bytes(self.root,self.root,plan)
+
 
 if __name__ == '__main__':
     unittest.main()
