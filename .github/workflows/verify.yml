@@ -224,10 +224,23 @@ jobs:
         run: |
           python docs/research/data/research_release_gate.py .
           mkdocs build --strict
-          python tools/build_pdf.py
-          cp site/absence-manual.pdf /tmp/research-first-manual.pdf
-          python tools/build_pdf.py
-          cmp /tmp/research-first-manual.pdf site/absence-manual.pdf
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import sys
+          sys.path.insert(0,'tools')
+          from library_publication_generated_pdf import manual_inputs
+          candidate=Path.cwd()
+          inputs=manual_inputs(candidate)
+          assert inputs==manual_inputs(candidate.parent), 'Manual source differs between exercise and actual checkout'
+          Path('.library-research-work/render/manual-input-identity.json').write_text(json.dumps({'actual_inputs':inputs,'all_inputs_exact':True,'reason':'Build from the actual checkout so image resource URLs retain their original identities.'},indent=2))
+          PY
+          python ../tools/build_pdf.py
+          cp ../site/absence-manual.pdf /tmp/research-first-manual.pdf
+          python ../tools/build_pdf.py
+          cmp /tmp/research-first-manual.pdf ../site/absence-manual.pdf
+          cp ../site/absence-manual.pdf site/absence-manual.pdf
+          cp ../site/absence-manual-v1.0-2026-08-18.pdf site/absence-manual-v1.0-2026-08-18.pdf
           python tools/verify_build.py
           python tools/verify_library_field_freeze.py --docs docs --site site --map tools/library_field_freeze_navigation.json --map-sha256 e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c
           python tools/library_research_build.py --inputs "$BW_RESEARCH_RELEASE_INPUTS" --inputs-sha256 "$BW_RESEARCH_RELEASE_INPUTS_SHA256" --docs docs --site site --work .library-research-work/render > research-release-result.json

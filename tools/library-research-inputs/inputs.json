@@ -1120,7 +1120,7 @@
     "reviewer": "root"
   },
   "candidate_archive_path": ".library-research-work/candidate.gitLF.zip",
-  "candidate_source_inventory_sha256": "58635dc61946cc04f3e06d0477a9a586147e61f4a46eabe536ae40dd80618760",
+  "candidate_source_inventory_sha256": "12a0bbfa0847821395a3e73f94edbb34edaf17103c4606b590b93ac4fda4c1f5",
   "current_payload_object_sha256": "09e49761c6c878931fbb61d69db919df16d582f9a8399d6490a47f65949864eb",
   "full_source_reviews": {
     "docs/research/academic-access/index.md": {
@@ -2224,7 +2224,7 @@
       "before_sha256": "f7cd2a08e2ed0629af293046a2e2db896e7a7fa05f22a87599a65ed2a5d5fec7"
     },
     ".github/workflows/verify.yml": {
-      "after_sha256": "c1ccb68193f5dd05d00b47e1ab11066620d86aa9e9dbba33754468a9f2d3f096",
+      "after_sha256": "1b7279d4e87f5d8275a95bc496c27531fdf8bfc5009980febf98273139636ff4",
       "before_sha256": "7c150b76a8a996e1cbad84eaf52d0b2eadcbf648cb7c113eb66087486805297a"
     },
     ".gitignore": {
