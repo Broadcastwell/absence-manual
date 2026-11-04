@@ -1,0 +1,46 @@
+{
+  "review_kind": "writing",
+  "scope": "owner-exact-repair-changes",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "approved": true,
+  "approved_exact_repair_changes": true,
+  "current_full_file_actually_read": true,
+  "full_article_read_complete": true,
+  "path": "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
+  "bank_id": "LB-Q0591",
+  "private_source_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V8\\manuscripts\\docs\\answers\\chatgpt\\which-legal-practice-software-does-chatgpt-recommend.md",
+  "canonical_source_sha256": "5fb20bce29e6555ff535ccd8ebea633e9d4f06875cf0c6d1c8f5d0aedde89f8a",
+  "before_effective_canonical_source_sha256": "ea37e8f13ea6a7b3082b987de8712fe3c6f50eca8fd95a6f7f6d2be5dd1d7c57",
+  "effective_canonical_source_sha256": "a3d4cd64765d0661c85a75f248a8a4fe12d88fc7aef3bdc2e684883d558062ea",
+  "effective_body_sha256": "0eabf6382e24a8b758de4cd0f91b158d5ca109d26ceb355b3beec489473d1eb8",
+  "effective_meta_sha256": "790ca67bdfbc02defdbce0930c3eb209e80dde337c59be4ded59b5296255d6a4",
+  "actual_Root_adoption_date_modified": "2026-11-03T22:18:08+00:00",
+  "repair_change_ledger": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V8_LEGAL_CURRENT_PR92_WRITING_V1\\LEGAL_MEDIA_REPAIR_CHANGE_LEDGER.json",
+    "sha256": "955add30f248498b678bdd56f7dcecd622f79d8fcf2dc81aa43701790e86df12"
+  },
+  "repair_change_ledger_sha256": "955add30f248498b678bdd56f7dcecd622f79d8fcf2dc81aa43701790e86df12",
+  "preserved_facts": true,
+  "independent_exact_inverse_verified": true,
+  "current_before_S5_status": "PASS",
+  "remaining_prior_S5_defects": [],
+  "current_S5_pass": null,
+  "ordinary_article_approval": false,
+  "distinct_ordinary_writing_peer": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V8_LEGAL_CURRENT_PR92_WRITING_V1\\LB-Q0591.ordinary-writing.json",
+    "sha256": "7e1c2c914e5a3a53241043220531e601ea5d2f5589c9a1173bddf19f866ffbfb"
+  },
+  "judgment": "The only body delta inserts one clearly identified legal-software summary video before Also asked as. Iframe and visiblefallback use the same public videoID/title. Inverse proves every prior article character remains; onlyactualdate_modified changes in metadata. No current Source truth or media playback/layout was newly checked by this desk.",
+  "Root_public_playback_authority": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\LEGAL_PUBLIC_PLAYBACK_VERIFIED.json",
+    "sha256": "c88e92665eccc3a07753e0d4b6839725f62ce1c256475537c17b7962c180f818"
+  },
+  "Root_adoption_manifest": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V8\\ROOT_ADOPTION.json",
+    "sha256": "65085f6e5191baa5eb5d0ebe5cf0d84e4d8fb5a59bf83ee826c378d9a7fac0d7"
+  },
+  "old_V5_failed_body_receipt_is_historical_only": true,
+  "Root_build_publication_live_approval": false,
+  "created_utc": "2026-11-03T22:25:00.778856+00:00",
+  "ordinary_full_article_approval": false
+}

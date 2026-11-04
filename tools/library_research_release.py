@@ -153,7 +153,9 @@ def bind_release(root,raw,expected_sha256,*,support,actual_prior_binding,
     code=d.get('Library_owned_activation_before_pins',{})
     require(set(code)=={PLAN,PIN},
         'Unlisted shared Research activation source')
-    require(source_delta<=set(catalog['source_paths'])|set(code),'Unrelated source/config/Library edit in Research release')
+    from library_research_activation_controls import validate_activation_delta
+    activation=validate_activation_delta(root,support,d,prior_source_files,candidate_source_files)
+    require(source_delta<=set(catalog['source_paths'])|set(code)|activation,'Unrelated source/config/Library edit in Research release')
     for path,row in d['source_files'].items():
         _safe(path)
         require(row.get('before_sha256')==(sha(prior_source_files[path]) if path in prior_source_files else None)

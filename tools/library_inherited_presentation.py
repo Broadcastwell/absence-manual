@@ -12,6 +12,8 @@ from library_publication_overlay import require,sha,canonical
 PATH='absence-rules.md'
 OLD='Appendix B. Absence classification rules and precedence'
 NEW='Appendix B. Absence classification rules'
+HEADLINE=('Absence classification rules and precedence: the six question shapes, their '
+          'regular-expression rules and the fixed order in which they are applied')
 
 
 class AppendixNavLabel(HTMLParser):
@@ -21,7 +23,8 @@ class AppendixNavLabel(HTMLParser):
         if tag=='nav':
             if self.depth:self.depth+=1
             elif 'md-nav--primary' in a.get('class','').split():self.depth=1
-        if self.depth and tag=='a' and urlsplit(urljoin('https://docs.broadcastwell.com/absence-rules/',a.get('href',''))).path=='/absence-rules/':
+        link=urlsplit(urljoin('https://docs.broadcastwell.com/absence-rules/',a.get('href','')))
+        if self.depth and tag=='a' and link.path=='/absence-rules/' and not link.fragment:
             require(not self.active,'Nested Appendix nav link');self.active=True;self.parts=[]
     def handle_endtag(self,tag):
         if tag=='a' and self.active:self.labels.append(' '.join(''.join(self.parts).split()));self.active=False
@@ -35,7 +38,7 @@ def retain_appendix_from_actual_prior(nav,files,session):
     from library_publication_consumers import _HeadAndArticle
     full=canonical((session.docs/PATH).read_bytes());meta,body=session.overlay.finite.source_body(full)
     if meta.get('title')==OLD:return nav,None
-    require(meta.get('title')==NEW and meta.get('headline')==OLD and body.startswith('# '+OLD+'\n'),
+    require(meta.get('title')==NEW and meta.get('headline')==HEADLINE and body.startswith('# '+OLD+'\n'),
         'Inherited Appendix source no longer has its exact reviewed title/H1')
     prior=session.archive.read('absence-rules/index.html');head=_HeadAndArticle();head.feed(prior.decode())
     require(head.title==NEW+' | The Absence Manual' and head.canonical==['https://docs.broadcastwell.com/absence-rules/'],
@@ -44,7 +47,12 @@ def retain_appendix_from_actual_prior(nav,files,session):
     require(reader.labels==[OLD],'Actual prior primary-nav Appendix label differs')
     actual=[f.page for f in files if f.src_uri==PATH and getattr(f,'page',None) is not None]
     require(len(actual)==1 and sum(p is actual[0] for p in nav.pages)==1,'Inherited Appendix original Page missing/repeated')
-    page=actual[0];require(page.title in {OLD,NEW},'Unexpected inherited Appendix Page label')
+    page=actual[0]
+    if page.title is None:
+        require(page.markdown is None and page.meta=={}
+            and canonical(page.file.content_string.encode())==full,
+            'Unread inherited Appendix Page differs from its checked source')
+    else:require(page.title in {OLD,NEW},'Unexpected inherited Appendix Page label')
     page.title=NEW;view=LegacyNavigationPage(page,OLD)
     def replace(items):
         out=[]

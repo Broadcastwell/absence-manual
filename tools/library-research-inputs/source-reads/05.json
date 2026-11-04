@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "76fbdce18521d0cec446a8cf2edf31ad6017130dddd8b1cf46a25907f9ba02cc",
+  "after_canonical_source_sha256": "f3a7f8224c564093379e13075a9e2ad472ca62a04eef2312bc76369a78e7429d",
+  "after_metadata_sha256": "67ed23f5f9035523dccaa3bc1d1123e17eb425cf695f754747640679321e5085",
+  "approved": true,
+  "before_canonical_source_sha256": "852dbd475d20fc1fd4beeba2fe082e40c29027ea45dce74886631feef6700d0c",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "f3a7f8224c564093379e13075a9e2ad472ca62a04eef2312bc76369a78e7429d",
+  "path": "docs/research/evidence/spot-a-fake-statistic/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

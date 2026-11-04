@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change.md",
+  "before_effective_canonical_sha256": "4e4669b66369dfda5e79c136abff93c9d2eafd3211d244e8a2d5dded09db4b6c",
+  "raw_canonical_source_sha256": "4e4669b66369dfda5e79c136abff93c9d2eafd3211d244e8a2d5dded09db4b6c",
+  "after_effective_canonical_sha256": "e764180ac92386514ec91327f67a83130ee2f9acbef19f889a950543ef73bdf8",
+  "fact_ledger_sha256": "5904ff32afb870ec4d1822eee0fbb0f25b89a14d63b53a56ad3d8900d99cca98",
+  "effective_payload_sha256": "aa9077991560a3b7e4ab59cc50bee37eb6bec8a25c5ec37098135e328d6ad5ed"
+}

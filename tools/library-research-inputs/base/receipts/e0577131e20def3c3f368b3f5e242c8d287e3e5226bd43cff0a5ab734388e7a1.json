@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
+  "before_effective_canonical_sha256": "5fb20bce29e6555ff535ccd8ebea633e9d4f06875cf0c6d1c8f5d0aedde89f8a",
+  "raw_canonical_source_sha256": "5fb20bce29e6555ff535ccd8ebea633e9d4f06875cf0c6d1c8f5d0aedde89f8a",
+  "after_effective_canonical_sha256": "ea37e8f13ea6a7b3082b987de8712fe3c6f50eca8fd95a6f7f6d2be5dd1d7c57",
+  "fact_ledger_sha256": "14af01562d85a7402f43027c0f614e86c9e6cb3ef2099d54d889c6f3a3e58c67",
+  "effective_payload_sha256": "cb8a99bdbd1fea3fd8ee696b4c4f40961a137a49a41a8964cee0594470fc7144",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

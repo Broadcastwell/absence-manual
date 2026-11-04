@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "15ebb4864a993f6434e76ccb1c01d08d0cf289cb0f4ca669985d92b40760e8b5",
+  "after_canonical_source_sha256": "699e077d7bfadfe1789247aa06b4125f1cbfa41b95e0c2131fe925562bcd8e17",
+  "after_metadata_sha256": "596caabeef634e7084d7bee5914294e58b536590ecc8e324f211aa100a97f25c",
+  "approved": true,
+  "before_canonical_source_sha256": "59dd3ca2d19ea88f0ac603adf211c2edccf16d4e468dcb7a536c55aa7fcb9be2",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "699e077d7bfadfe1789247aa06b4125f1cbfa41b95e0c2131fe925562bcd8e17",
+  "path": "docs/research/glossary/agent-discovery-optimization/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

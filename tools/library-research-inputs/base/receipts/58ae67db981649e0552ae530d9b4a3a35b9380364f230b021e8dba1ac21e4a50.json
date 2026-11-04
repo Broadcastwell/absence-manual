@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0609",
+  "path": "answers/perplexity/which-construction-software-does-perplexity-recommend.md",
+  "canonical_source_sha256": "8263dfdf4afe4003815d9fdecac12ef6e0ec380135787a3e9726a2c59b536da9",
+  "effective_canonical_source_sha256": "96d61147b5c2c412e1282d52f5d77ab17d9876b9d8fe73903069d6d10edf26b1",
+  "effective_body_sha256": "10e7c8cd164e57aa0ef23352c26a98272cbf29b66679d1dbf392bfa0c630cf95",
+  "effective_metadata_sha256": "5383205146c4e04bd8c044135bc2bcb75d42af6a003a3a1add045aa12f989282",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\perplexity\\which-construction-software-does-perplexity-recommend.md",
+    "raw_sha256": "96d61147b5c2c412e1282d52f5d77ab17d9876b9d8fe73903069d6d10edf26b1",
+    "canonical_LF_sha256": "96d61147b5c2c412e1282d52f5d77ab17d9876b9d8fe73903069d6d10edf26b1"
+  },
+  "review_basis": "Actual original full-page or full merged/primary-target reading plus all exact selected bounded continuations, neutral footer replay and independently verified Root metadata-date-only change.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0609.writing-coverage.json",
+    "raw_sha256": "763dc236f3e195b6e2ca2b1d1e5c1271fcf98cfd26f22a95144b94b28d1df8fd",
+    "canonical_LF_sha256": "763dc236f3e195b6e2ca2b1d1e5c1271fcf98cfd26f22a95144b94b28d1df8fd"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false
+}

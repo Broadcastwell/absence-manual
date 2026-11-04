@@ -1,0 +1,32 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/measurement/how-do-ads-in-google-ai-overviews-affect-organic-traffic.md",
+  "target_path": "answers/google-ai/how-do-google-ai-overviews-affect-website-visibility.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "64c16a04131e0960a6b6dac4b5e6b4448d3b8623255a90d68ddba534c23682ff",
+  "target_effective_canonical_sha256": "83ce5eb7fb81665e45bd75caf5188e81358e8a744eb23b9d8665d02b09a24cf9",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0491.p01.s01",
+    "LB-Q0491.p01.s02",
+    "LB-Q0491.p01.s03",
+    "LB-Q0491.p02.s01",
+    "LB-Q0491.p02.s02",
+    "LB-Q0491.p02.s03",
+    "LB-Q0491.p02.s04",
+    "LB-Q0491.p03.s01",
+    "LB-Q0491.p03.s02",
+    "LB-Q0491.p03.s03",
+    "LB-Q0491.additional.01",
+    "LB-Q0491.additional.02"
+  ],
+  "preserved_fact_bindings_sha256": "d0e0dcce1549a1dd65522c53135d8fc036ebcfe61aa826a5b87ba446d4cb6975",
+  "required_aliases": [
+    "How do ads in Google AI Overviews affect organic traffic?",
+    "Do you think the new ads inside Google's AI Overviews will impact organic traffic?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "ada0a2b9fd43db37f413c6a47fb317fd6daca35f9cf063c66e6dc85a9312f24f",
+  "scope": "TEMPLATE ONLY. Root exact preservation decision required; Source old18+new47 peer scopes retained accurately."
+}

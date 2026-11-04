@@ -59,7 +59,8 @@ def optional_support(root):
     d=json.loads(raw)
     base={'schema_version','policy','approved','review_kind','Root_actual_module_and_policy_read',
         'module_sha256','policy_sha256','dataset_HTML_sha256'}
-    require(set(d) in [base,base|{'release_inputs','staged_file_sha256'}],'Research support plan schema differs')
+    require(set(d) in [base,base|{'release_inputs','staged_file_sha256'},
+        base|{'release_inputs','staged_file_sha256','activation_delivery'}],'Research support plan schema differs')
     require(d['schema_version']==1 and d['policy']==POLICY and d['approved'] is True
         and d['review_kind']=='library-root-reviewed-finite-research-support'
         and d['Root_actual_module_and_policy_read'] is True,'Actual Library module/policy review is missing')
@@ -78,6 +79,9 @@ def optional_support(root):
                 and p!='.library-research-work/candidate.gitLF.zip'
                 and re.fullmatch('[0-9a-f]{64}',str(v)) for p,v in files.items()),
             'Research staged file namespace/pins differ')
+    if 'activation_delivery' in d:
+        from library_research_activation_controls import validate_bundle
+        validate_bundle(root,d)
     result=ResearchSupport(root,d,_TOKEN);result.assert_current();return result
 
 def check_optional_sources(root):

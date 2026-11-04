@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+  "before_effective_canonical_sha256": "6bfd19ff2f5ab530cad46bed77233447e10e1a4e13f84004fc5b10df8c69039a",
+  "raw_canonical_source_sha256": "e1d30e75db7b16afbfcfc8ae0a2d541b3037cbf41692d657fdb3d079d4902dd5",
+  "after_effective_canonical_sha256": "fd71d359f5f4a7a92a3d4b34e389630fd0cd0cef9a9b40acf7dfd80550d164dc",
+  "fact_ledger_sha256": "1620172c9c430d97bdd372ddeb63c4177fb294e2d4ed70f28219d3392a688a4e",
+  "effective_payload_sha256": "522ceed0232e0c022d73b9f118fc7e46b4269376f33a4d0ca7eac78f7b5f64d7",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

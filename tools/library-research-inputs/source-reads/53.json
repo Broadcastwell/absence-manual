@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "a23b3248ef4af8d084f7c6c41604c2578a9fa9490707743b42c413a1ca10dd6b",
+  "after_canonical_source_sha256": "52ffde72d0af4dda31885e979509993208c7b0f202a6e8d9bc1b1ca2f0917e74",
+  "after_metadata_sha256": "777820e6ce146cd37d68f1ae1e01411898e563b0e1e11dc12bd7a99b32245b9d",
+  "approved": true,
+  "before_canonical_source_sha256": "96eb76315c4996aa3eb141a06581c82498e16ec4e7b26b9a219ebdc5c8801909",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "52ffde72d0af4dda31885e979509993208c7b0f202a6e8d9bc1b1ca2f0917e74",
+  "path": "docs/research/studies/who-ai-engines-cite/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

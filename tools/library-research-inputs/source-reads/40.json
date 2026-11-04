@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "343ea2a4a8305aac0bad3eddabf5a1fa1313b15a6fba8efe0214c5e63dae9893",
+  "after_canonical_source_sha256": "69178ef70454d47f1490ec536e64899016e483fa59372bed04ba1bd55587497b",
+  "after_metadata_sha256": "02986c26d7f03dcaefbeb17f20d1dc722eb8513dba088e6bbc4a08aeb3859be0",
+  "approved": true,
+  "before_canonical_source_sha256": "a7c5f395d6b5cf0196ac5caee6587930906813fc0d7aca47df2e16682e411d66",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "69178ef70454d47f1490ec536e64899016e483fa59372bed04ba1bd55587497b",
+  "path": "docs/research/sources/google-seo-starter-guide-2010/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

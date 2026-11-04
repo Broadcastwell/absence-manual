@@ -29,7 +29,8 @@ def bind_source_archives(*,producer,prior_archive_raw,candidate_archive_raw,
     require(producer.get('approved') is True and sha(prior_archive_raw)==proof.get('sha256'),
         'Prior GitLF archive is not the actual Root-approved producer archive')
     before=archive_files(prior_archive_raw);after=archive_files(candidate_archive_raw)
-    require(qsha({p:sha(raw) for p,raw in sorted(after.items()) if p not in CONTROLS})==approved_candidate_inventory_sha256,
+    from library_research_activation_controls import is_control
+    require(qsha({p:sha(raw) for p,raw in sorted(after.items()) if not is_control(p)})==approved_candidate_inventory_sha256,
         'Candidate complete GitLF source inventory differs from actual Root review')
     root=root.resolve()
     require(not root.is_symlink(),'Research checkout root symlink forbidden')

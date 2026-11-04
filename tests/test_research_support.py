@@ -41,7 +41,7 @@ class Fixture:
    if p.endswith('.md'):
     meta={'title':'Synthetic Research fixture','headline':'Synthetic Research fixture','description':'Synthetic fixture only.',
       'page_class':'research','schema_type':'Article','date_published':'2026-11-01T12:00:00+00:00','date_modified':'2026-11-02T12:00:00+00:00'}
-    body='# Synthetic Research fixture\n\nExact fixture evidence.\n\n## What our own data shows\n\nFour of ten fixture records.\n\n## Sources\n\n[Fixture source](https://example.org/source).\n'
+    body='# Synthetic Research fixture\n\nExact fixture evidence.\n\n## What our own data shows\n\nFour of ten fixture records.\n\n## Sources\n\n[Fixture source](https://example.org/source).\n\n```bibtex\n@online{synthetic_fixture, title={Synthetic fixture only}}\n```\n'
     import yaml
     def full(m):return ('---\n'+yaml.safe_dump(m,sort_keys=False)+'---\n\n'+body).encode()
     path=p.removeprefix('docs/')
@@ -144,13 +144,13 @@ class Fixture:
   from mkdocs.structure.toc import get_toc
   result={}
   for path,r in self.records.items():
-   md=markdown.Markdown(extensions=['toc','tables','attr_list','md_in_html','def_list','footnotes','admonition'],extension_configs={'toc':{'permalink':True,'toc_depth':3}})
+   md=markdown.Markdown(extensions=['toc','tables','fenced_code','attr_list','md_in_html','def_list','footnotes','admonition'],extension_configs={'toc':{'permalink':True,'toc_depth':3}})
    actual=namespace['on_page_content'](md.convert(r['body']),SimpleNamespace(meta=r['meta']))
    meta=r['meta'];url=research_url('docs/'+path)
    head='<title>'+escape(meta['title'])+' | The Absence Manual</title><link rel="canonical" href="'+url+'">'
    for key,val in {'description':meta['description'],'og:title':meta['title'],'og:description':meta['description'],'og:url':url,'twitter:title':meta['title'],'twitter:description':meta['description']}.items():
     head+='<meta name="'+key+'" content="'+escape(val,quote=True)+'">'
-   head+='<script type="application/ld+json">'+json.dumps({'@type':'Article','headline':meta.get('headline',meta['title']),'name':meta.get('headline',meta['title']),
+   head+='<script type="application/ld+json">'+json.dumps({'@type':meta['schema_type'],'headline':meta.get('headline',meta['title']),'name':meta.get('headline',meta['title']),
     'description':meta['description'],'datePublished':meta['date_published'],'dateModified':meta['date_modified'],'url':url})+'</script>'
    footer='<hr><p class="manual-footer-version">Broadcastwell research. Sources and dates are stated on each page. Prose and derived tables CC BY 4.0, site code MIT. External sources retain their own licenses. Not peer reviewed. <a href="/research/standard/">Evidence standard</a>.</p>'
    result[path]={'markdown':r['body'],'meta':meta,'html':actual,'toc':get_toc(md.toc_tokens),
@@ -276,7 +276,8 @@ class ResearchSupportTests(unittest.TestCase):
  def test_actual_Markdown_and_existing_hook_full53render_and_head_controls(self):
   f=self.fixture();p=f.bind();contexts=f.rendered_contexts()
   self.assertTrue(validate_research_contexts(p,contexts));first=next(path for path in contexts if path not in f.owner_index)
-  for mode in ['number','missing','title','JSONLD','footer']:
+  self.assertIn('<pre><code class="language-bibtex">',contexts[first]['html'])
+  for mode in ['number','missing','title','JSONLD','schema-type','citation-code','footer']:
    bad=copy.deepcopy(contexts)
    if mode=='missing':bad.pop(first)
    elif mode=='number':
@@ -284,6 +285,10 @@ class ResearchSupportTests(unittest.TestCase):
     bad[first]['rendered_html']=bad[first]['rendered_html'].replace(b'Four of ten',b'Nine of ten')
    elif mode=='title':bad[first]['rendered_html']=bad[first]['rendered_html'].replace(b'<title>Synthetic',b'<title>Wrong')
    elif mode=='JSONLD':bad[first]['rendered_html']=bad[first]['rendered_html'].replace(('"dateModified": "'+f.day).encode(),b'"dateModified": "2026-11-02')
+   elif mode=='schema-type':bad[first]['rendered_html']=bad[first]['rendered_html'].replace(b'"@type": "Article"',b'"@type": "TechArticle"')
+   elif mode=='citation-code':
+    bad[first]['html']=bad[first]['html'].replace('synthetic_fixture','wrong_citation')
+    bad[first]['rendered_html']=bad[first]['rendered_html'].replace(b'synthetic_fixture',b'wrong_citation')
    else:bad[first]['rendered_html']=bad[first]['rendered_html'].replace(b'Not peer reviewed.',b'Peer reviewed.')
    with self.subTest(mode=mode),self.assertRaises(ValueError):validate_research_contexts(p,bad)
  def test_actual_Material_search_exact53_and_every_unselected_row_preserved(self):
@@ -396,12 +401,12 @@ class ResearchSupportTests(unittest.TestCase):
   from mkdocs.structure.pages import Page
   from mkdocs.config.defaults import MkDocsConfig
   from types import SimpleNamespace
-  docs=self.root/'docs';docs.mkdir();source='---\ntitle: '+NEW+'\nheadline: '+OLD+'\n---\n\n# '+OLD+'\n\nUnchanged classification text.\n'
+  docs=self.root/'docs';docs.mkdir();source=(H/'docs/absence-rules.md').read_text(encoding='utf-8')
   (docs/'absence-rules.md').write_text(source,encoding='utf-8')
-  html=('<title>'+NEW+' | The Absence Manual</title><link rel="canonical" href="https://docs.broadcastwell.com/absence-rules/"><nav class="md-nav--primary"><a href="/absence-rules/">'+OLD+'</a></nav>').encode()
+  html=('<title>'+NEW+' | The Absence Manual</title><link rel="canonical" href="https://docs.broadcastwell.com/absence-rules/"><nav class="md-nav--primary"><a href="/absence-rules/">'+OLD+'</a><nav><a href="/absence-rules/#sources">Sources</a></nav></nav>').encode()
   archive=zipfile.ZipFile(io.BytesIO(zipped({'absence-rules/index.html':html})))
   config=MkDocsConfig();config.load_dict({'site_name':'The Absence Manual','docs_dir':str(docs),'site_dir':str(self.root/'site')})
-  file=File('absence-rules.md',str(docs),str(self.root/'site'),True);page=Page(OLD,file,config);file.page=page
+  file=File('absence-rules.md',str(docs),str(self.root/'site'),True);page=Page(None,file,config);file.page=page
   otherfile=File('other.md',str(docs),str(self.root/'site'),True);other=Page('Other',otherfile,config);otherfile.page=other;other.next_page=page
   nav=SimpleNamespace(items=[page],pages=[page],homepage=page)
   s=SimpleNamespace(docs=docs,archive=archive,overlay=SimpleNamespace(finite=finite))
@@ -413,7 +418,7 @@ class ResearchSupportTests(unittest.TestCase):
  def test_inherited_Appendix_wrong_actual_prior_label_or_title_rejects(self):
   from library_inherited_presentation import retain_appendix_from_actual_prior,OLD,NEW
   from types import SimpleNamespace
-  docs=self.root/'docs';docs.mkdir();(docs/'absence-rules.md').write_text('---\ntitle: '+NEW+'\nheadline: '+OLD+'\n---\n\n# '+OLD+'\n',encoding='utf-8')
+  docs=self.root/'docs';docs.mkdir();(docs/'absence-rules.md').write_bytes((H/'docs/absence-rules.md').read_bytes())
   for label in ['Unreviewed title',NEW]:
    raw=('<title>'+NEW+' | The Absence Manual</title><link rel="canonical" href="https://docs.broadcastwell.com/absence-rules/"><nav class="md-nav--primary"><a href="/absence-rules/">'+label+'</a></nav>').encode()
    with zipfile.ZipFile(io.BytesIO(zipped({'absence-rules/index.html':raw}))) as z:

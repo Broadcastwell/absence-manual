@@ -1,0 +1,11 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/agents/how-does-an-ai-connector-differ-from-browsing-a-website.md",
+  "before_effective_canonical_sha256": "d0f0d3d21b7cf78f2e3e05ba2dd4428e4214867d70bb7d49b6c3f6f6ab907361",
+  "raw_canonical_source_sha256": "1889a57d1b9ac692130c62273d807868a9483e32150939429291b60db01730fc",
+  "after_effective_canonical_sha256": "ee8e65ed86426b7f5ad7acecb7ef08f7741278fb04e8bbb459c274fea7d36f64",
+  "fact_ledger_sha256": "945224b4050597240ac99fc7bb686116eedbb11d8b836f54b02617dffd872c63",
+  "effective_payload_sha256": "c2eb125eca0124149382e67426cbfdc35f08ec106f6f03a89fdeabafa0a611bb",
+  "scope": "TEMPLATE ONLY; Root exact finite input review/adoption required. Actual PR91 before; no publication approval."
+}

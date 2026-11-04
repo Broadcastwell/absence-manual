@@ -1,0 +1,55 @@
+{
+  "approved": true,
+  "review_kind": "qualitative-opening-observation",
+  "scope": "exact-published-observation",
+  "not_reworded_aggregate": true,
+  "path": "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+  "canonical_source_sha256": "e1d30e75db7b16afbfcfc8ae0a2d541b3037cbf41692d657fdb3d079d4902dd5",
+  "effective_canonical_source_sha256": "4b9fc4a281fda023d82502e63b3ef3a72ba114332c7566f5eb2ca731e6ff2a3c",
+  "observation_key": "observation:e138d73f82bcef82b7944c161dd5c6f83cede225daeea4af5b3f3a5453e96921",
+  "source_quote_sha256": "ef45ab052003491abbbca6625fe955890ff4523e8ea2d2d5e6edea792f1aaa69",
+  "opening_span_sha256": "e036b97fa648185320149f113577e1156f3f61ce2a7f635a3c549395f9dca0ba",
+  "independent_source_decision": "PASS_EXACT_PUBLISHED_OBSERVATION_AND_CONTROLLED_RECORD_BINDING",
+  "reviewed_utc": "2026-11-03T19:43:31.660728+00:00",
+  "approval_authority": "independent-source-review-only",
+  "controlled_record": {
+    "capture_date": "2026-11-02",
+    "subject": "docs.broadcastwell.com robots.txt",
+    "metric": "separate Googlebot Google-Extended Allow groups"
+  },
+  "source_url": "https://docs.broadcastwell.com/robots.txt",
+  "actual_source_quote_matches": [
+    {
+      "source": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\STUDY6\\preview\\robots.txt",
+        "raw_sha256": "ef45ab052003491abbbca6625fe955890ff4523e8ea2d2d5e6edea792f1aaa69"
+      },
+      "verification": "EXACT_SAVED_PUBLIC_TEXT"
+    }
+  ],
+  "additional_record_proof": [],
+  "source_qualification_and_identity_judgment": "ExactactualservedrobotsbyteswithseparateGooglebotandGoogle-ExtendedAllow:/groups. Declaredpolicyonly,notrequest/compliance/training/citationevidence.",
+  "full_article_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_S5_1919_ROOT_THREE_V2\\receipts\\LB-Q0641.source.json",
+    "raw_sha256": "f1a6c5942dfb019bc6472144a46aadabff8893d3503cdef0d276616ecdcbdeaa",
+    "canonical_LF_sha256": "f1a6c5942dfb019bc6472144a46aadabff8893d3503cdef0d276616ecdcbdeaa"
+  },
+  "proposal": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RELATED_REVIEW\\FINAL307_DATED_QUALITATIVE22_PROPOSAL_V1\\CONTROLLED_RECORDS_QUOTES_SPANS_NOT_APPROVED.json",
+    "raw_sha256": "f99cf30801d6d186206bcb0d7d5bf5477195b4185b93a2c3e691d0eee6581737"
+  },
+  "new_measurement_or_numeric_one": 0,
+  "Root_public_or_global_approval": false,
+  "prior_qualitative_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_DESTINATION_TWO_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0641.qualitative-source.json",
+    "raw_sha256": "ffd9c74d107525676efee2f3b0a80f6a92c0c599fcb455124d7072210223da93",
+    "canonical_LF_sha256": "ffd9c74d107525676efee2f3b0a80f6a92c0c599fcb455124d7072210223da93"
+  },
+  "Root_actual_private_adoption": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\ROOT_PRIVATE_ADOPTION.json",
+    "raw_sha256": "c4838a1581ac9627db5f9b4a9bf87336a98b3cf1c8bffac466e81427da3f419d",
+    "canonical_LF_sha256": "93560800d865d9f60da541bc061a63e9cdff87eb6b74405111b739b3946318b2"
+  },
+  "bounded_fullfile_rebind_only": true,
+  "controlled_record_quote_opening_key_exact_unchanged": true
+}

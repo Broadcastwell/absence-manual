@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "4797737bcc218728d71ac84e532fd6a2d3172ebf5e8b44207db8487d97b0d245",
+  "after_canonical_source_sha256": "73cfe4220338d31a7715af996a668810902843e942802f0e33232bce5af0acdb",
+  "after_metadata_sha256": "749226f740c1b1c7c1827d43e9cbd6502f5ed1765d9e0a3be413c4b4a06e5f6c",
+  "approved": true,
+  "before_canonical_source_sha256": "6649e490180c0b34d6699e7f9da326d9cbc0fb8fd0be4bbbc9434c25f4e85b42",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "73cfe4220338d31a7715af996a668810902843e942802f0e33232bce5af0acdb",
+  "path": "docs/research/insights/engines-change-without-telling-you/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

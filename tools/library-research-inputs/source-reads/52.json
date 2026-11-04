@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "3674aaf9d6b9de1776161f4f569bbabd647e1c223bbc89cfe56b418ae620df6a",
+  "after_canonical_source_sha256": "0bcce856fe8ccd6b14208956835bb0c64556e9983972d6b5f46f0bff2d9a131b",
+  "after_metadata_sha256": "ec030b887445aafbd0894c238c8522d021ea2325cfbbd77feb60248bb6706698",
+  "approved": true,
+  "before_canonical_source_sha256": "b874299a39d854d6db09f0af1ec40656e4dc68e6aa8161a2140be0b4cae47dd7",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "0bcce856fe8ccd6b14208956835bb0c64556e9983972d6b5f46f0bff2d9a131b",
+  "path": "docs/research/studies/optimized-pages-in-ai-answers/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

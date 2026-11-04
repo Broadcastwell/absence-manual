@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain.md",
+  "before_effective_canonical_sha256": "cb64c6e8aa5253da3bb8bb0709089f4a0ed94056931c0bd7b566fa61a97d4fa0",
+  "raw_canonical_source_sha256": "f1574a26f70d64fa31abffd9d07793bdc62634e9958446455c02625acaf7f542",
+  "after_effective_canonical_sha256": "d1a36fa1d1923c13304cd3c9ef3dfd84fa6e0d82c4a4ab906d77d7e4d6935d54",
+  "fact_ledger_sha256": "2ddc4801ba55109ae701cf960f51e802c7e8789deefbe99ec228af39068485fb",
+  "effective_payload_sha256": "d36e00b5cf92675c51d8d46333f40c7fe3abcafddc6d8219910d49667f000e8c"
+}

@@ -1,0 +1,49 @@
+{
+  "review_kind": "writing",
+  "scope": "owner-exact-repair-changes",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "approved": true,
+  "approved_exact_repair_changes": true,
+  "current_full_file_actually_read": true,
+  "full_article_read_complete": true,
+  "path": "research/playbooks/pages-an-ai-engine-can-quote/index.md",
+  "private_source_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V4\\manuscripts\\docs\\research\\playbooks\\pages-an-ai-engine-can-quote\\index.md",
+  "canonical_source_sha256": "dffe32e241200443646f5e3ecc37006b4509bdf61b33e3394c86ce000e8a6eb4",
+  "before_effective_canonical_source_sha256": "dffe32e241200443646f5e3ecc37006b4509bdf61b33e3394c86ce000e8a6eb4",
+  "effective_canonical_source_sha256": "0049afd7b4888d9586ca7a3f5baebcf08a4bcfa9a1a23b9bd26eba0ee13c5b41",
+  "effective_body_sha256": "79deca992ab43f4d767819962fe1f11339b1a4cc10a95be5f99a7e9f20249ef2",
+  "effective_meta_sha256": "31e1cc4b2d5ae69c54025dca27c37366f4ce3b4291954edb943942c4fdcf6745",
+  "raw_after_sha256": "0049afd7b4888d9586ca7a3f5baebcf08a4bcfa9a1a23b9bd26eba0ee13c5b41",
+  "actual_Root_adoption_date_modified": "2026-11-03T18:40:50+00:00",
+  "repair_change_ledger": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V4_TWO_FINAL_SCOPED_WRITING_V1\\change-ledgers\\research__playbooks__pages-an-ai-engine-can-quote__index.md.json",
+    "sha256": "946c8d2e0c9da84e001072ff66c36dc0aeb01b489aedd892bfec74fd1c7e1b18"
+  },
+  "repair_change_ledger_sha256": "946c8d2e0c9da84e001072ff66c36dc0aeb01b489aedd892bfec74fd1c7e1b18",
+  "preserved_facts": true,
+  "independent_exact_inverse_verified": true,
+  "read_coverage": {
+    "kind": "complete actual final Root V4 after-file read including metadata/body/tail",
+    "tool_output_chunk": "69d07f",
+    "lines_read": 134,
+    "original_full_before_after_chunks": [
+      "fdba2c",
+      "297fc0"
+    ],
+    "visual_read_claim": false
+  },
+  "judgment": "The full actual dated article was read. The new own-data observation remains exact and directly relevant in its stated role. Count/base/date/interval and the no-effect boundary remain clear; visible update dates agree with actual metadata. The inherited adopted outside gain percentages have been removed; the main/five-seed discrepancy is explicit, and the own empty-list count is an illustrative writing example rather than a measured format effect.",
+  "remaining_prior_S5_defects": [],
+  "current_S5_pass": null,
+  "ordinary_full_effective_article_S5_approval": false,
+  "Root_build_publication_live_approval": false,
+  "Root_adoption_manifest": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V4\\ROOT_ADOPTION.json",
+    "sha256": "e37c576e9a18892d035ea964075ccaa85df9ccafc38336334dc0d526b43f98a4"
+  },
+  "prior_actual_full_context_review": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ADDITIONAL_TWO_AND_PDF_TEXT_V1\\RESEARCH_TWO_WRITING_REVIEW.json",
+    "sha256": "20b7cec88f89f646de1d6ca206cd81c329af6df2d5ad3409bb1af65c061cb73f"
+  },
+  "created_utc": "2026-11-03T18:42:51.445493+00:00"
+}

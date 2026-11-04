@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "current_full_file_actually_read": true,
+  "reviewer": "LIBRARY2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0591",
+  "path": "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
+  "canonical_source_sha256": "5fb20bce29e6555ff535ccd8ebea633e9d4f06875cf0c6d1c8f5d0aedde89f8a",
+  "effective_canonical_source_sha256": "a3d4cd64765d0661c85a75f248a8a4fe12d88fc7aef3bdc2e684883d558062ea",
+  "effective_body_sha256": "0eabf6382e24a8b758de4cd0f91b158d5ca109d26ceb355b3beec489473d1eb8",
+  "effective_meta_sha256": "790ca67bdfbc02defdbce0930c3eb209e80dde337c59be4ded59b5296255d6a4",
+  "effective_metadata_sha256": "790ca67bdfbc02defdbce0930c3eb209e80dde337c59be4ded59b5296255d6a4",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V8\\manuscripts\\docs\\answers\\chatgpt\\which-legal-practice-software-does-chatgpt-recommend.md",
+    "sha256": "a3d4cd64765d0661c85a75f248a8a4fe12d88fc7aef3bdc2e684883d558062ea"
+  },
+  "before_effective_canonical_source_sha256": "ea37e8f13ea6a7b3082b987de8712fe3c6f50eca8fd95a6f7f6d2be5dd1d7c57",
+  "actual_Root_adoption_date_modified": "2026-11-03T22:18:08+00:00",
+  "Root_adoption": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V8\\ROOT_ADOPTION.json",
+    "sha256": "65085f6e5191baa5eb5d0ebe5cf0d84e4d8fb5a59bf83ee826c378d9a7fac0d7"
+  },
+  "prior_ordinary_full_article_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\receipts\\LB-Q0591.writing.json",
+    "sha256": "cdbbb1abe4718cb4a3a90e6199428ca763205214fd96f07f6c2e7afb232c4bf6"
+  },
+  "coverage": {
+    "fresh_full_before_and_after_source_read": true,
+    "before_source_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V8\\LEGAL_ACTUAL_PR92_BEFORE.md",
+      "sha256": "ea37e8f13ea6a7b3082b987de8712fe3c6f50eca8fd95a6f7f6d2be5dd1d7c57"
+    },
+    "after_source_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V8\\manuscripts\\docs\\answers\\chatgpt\\which-legal-practice-software-does-chatgpt-recommend.md",
+      "sha256": "a3d4cd64765d0661c85a75f248a8a4fe12d88fc7aef3bdc2e684883d558062ea"
+    },
+    "coverage_description": "Complete metadata, answer-first opening, all21vendorrows/zeros, uncertainty/base/date, actual quote context, reasoning, neutral summary section, Related, free limits/freecorrection/method/paidline/byline.",
+    "new_native_visual_or_live_read_claimed": false
+  },
+  "individual_writing_judgment": {
+    "answer_first": "The opening gives the personal-injury question result before the broader25/30 and18/30 totals and preserves the no-product-fitness limit.",
+    "own_fact_fit": "Actual dated ChatGPT legal names and distinct practice contexts answer the observed-name interpretation; no legal work, professional obligations or product quality is inferred.",
+    "source_and_quote_scope": "Historical Clio fragment remains attributed and explicitly not feature verification. No count, interval, date or source URL changed.",
+    "human_readability": "Short sections retain distinct jobs. Statistical range has a plain gloss. Tone is factual and balanced; no ranking or cause is fabricated.",
+    "promotion": "Body adds a neutral factual summary video, not a paid offer. One neutral Answer Repair490 closing line remains, with required free-tool label/limits/correction and method.",
+    "Related": "Five genuine links retain the ownChatGPT hub and Manual/context links.",
+    "metadata": "Title/description/byline/source labels remain exact; only actualRootdate_modified changes.",
+    "media": "Heading, accessibleiframe title and visible fallback identify the same verified publicvideo. The section adds no scientific claim or result."
+  },
+  "opening_shape_carry": "reader_situation; opening bytes and leadfactspans unchanged from currentPR92 ordinarypeer.",
+  "repair_change_ledger": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V8_LEGAL_CURRENT_PR92_WRITING_V1\\LEGAL_MEDIA_REPAIR_CHANGE_LEDGER.json",
+    "sha256": "955add30f248498b678bdd56f7dcecd622f79d8fcf2dc81aa43701790e86df12"
+  },
+  "no_text_corrections_required": true,
+  "approval_boundary": "Exact private ordinary full-article Writing peer only. Does not approve Source truth, code, global reuse/caps/readiness, layout, build, adoption, live release or indexing.",
+  "publication_or_global_approved": false,
+  "created_utc": "2026-11-03T22:25:00.778856+00:00"
+}

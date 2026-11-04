@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md",
+  "before_effective_canonical_sha256": "d74f9db72f2bd0b37bc55f021dd1787fd7f28c2da113832a2cfbe54ef7628788",
+  "raw_canonical_source_sha256": "88c019d27982c6869586069afb26a1c2de09e18740721dd5153b24404bd52362",
+  "after_effective_canonical_sha256": "3e48f687cca5272e39b944cfb355b37a7f8f9b020a537e39a30970efa012278d",
+  "fact_ledger_sha256": "495f83a052cfe11e83d472f56748d0b77a2292ab54334ccb0cebd4bd0a14384f",
+  "effective_payload_sha256": "3f3974e5f592ec0cdba1a9ccb4d402e20399755e1e2dce287af687ca1dbaaabb",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

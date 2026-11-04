@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "1e09076a63ba7d41e6839cc797542e530a011f4ecc1d885b1f65d2ea217318e6",
+  "after_canonical_source_sha256": "8feb998691f8045572706aeceac2b696f69907e3f92480274678a1f53f086a53",
+  "after_metadata_sha256": "209c261aa4fcf91d7611e0fc7e12fdd8ca6200b0f348b9c97fd8def81eb114d5",
+  "approved": true,
+  "before_canonical_source_sha256": "6cc4160a4cd5a7ea8149791b8366c13efe354eb5adfff008c38554c1b25e471a",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "8feb998691f8045572706aeceac2b696f69907e3f92480274678a1f53f086a53",
+  "path": "docs/research/studies/does-absence-persist/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

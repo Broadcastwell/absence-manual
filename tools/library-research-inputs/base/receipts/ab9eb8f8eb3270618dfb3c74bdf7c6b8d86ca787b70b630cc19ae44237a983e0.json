@@ -1,0 +1,10 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes.md",
+  "before_effective_canonical_sha256": "ead9f5ac00ccbc88eb21e1fdc87f171fb80f547117b7efe858bc77f3de73eeb3",
+  "raw_canonical_source_sha256": "4b589021a26e1b1e5b24e76ff9e83e66f7fbf98eaa829d5fee343482b729c61c",
+  "after_effective_canonical_sha256": "b5ef36271c10fbf641e5b032f860663087fcfb69757786b860acdb2b05c94173",
+  "fact_ledger_sha256": "ba64855ce014802ff993f6ebf58780b2eb6aaf1d07384967e0812896ee7f3135",
+  "effective_payload_sha256": "f09c0deda5a4424c981c6f18785b8eaf9ca98a12643faf698d3b762bdaaa538a"
+}

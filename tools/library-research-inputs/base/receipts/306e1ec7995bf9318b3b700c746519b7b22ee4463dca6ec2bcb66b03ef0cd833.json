@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/google-ai/what-is-google-ai-mode.md",
+  "before_effective_canonical_sha256": "cc9ce6d634b3cec070eb778ae088567daeafc49dc5189c480dcf007af78bfbea",
+  "raw_canonical_source_sha256": "cc9ce6d634b3cec070eb778ae088567daeafc49dc5189c480dcf007af78bfbea",
+  "after_effective_canonical_sha256": "506ea6d76b0a1555b2732db9b0d47ea9cefa2f68242838315096da3420b1359f",
+  "fact_ledger_sha256": "cf3b6b148dea0d32290ae9bb7fe5ceb5244204b698cbdcc1433247b8c2075bcb",
+  "effective_payload_sha256": "039f67f57892a61c53918a8d298827661e335938d4f32cf18f25fa8a024dfdce",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

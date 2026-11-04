@@ -1,0 +1,16 @@
+{
+  "review_kind": "live-offer-price",
+  "checked_on": "2026-11-03",
+  "checked_utc": "2026-11-03T00:09:20.383842+00:00",
+  "url": "https://broadcastwell.com/pricing",
+  "status": 200,
+  "response_sha256": "06f85d1a8d581a00002df6b808472396488c527bbd31288ccc6ddf7e79761d57",
+  "name": "Answer Repair",
+  "price": "$490",
+  "href": "https://broadcastwell.com/answer-repair",
+  "approved": true,
+  "root_visible_read_pending": false,
+  "root_text_read_utc": "2026-11-03T00:26:19+00:00",
+  "root_read_excerpt": "For software companies Answer Repair $490 One buyer question. One source-backed page or fix.",
+  "correction_note": "Original unapproved draft price was empty because of shell variable interpolation. No empty-price receipt was used. Exact retained public HTML/card text reviewed; HTTP response is the same original00:09:20UTC capture, no second fetch."
+}

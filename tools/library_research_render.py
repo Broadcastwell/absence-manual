@@ -11,7 +11,9 @@ def validate_research_contexts(permit,contexts):
     for path,record in permit.research_records.items():
         c=contexts[path];meta=record['meta'];url=research_url('docs/'+path)
         require(c['markdown']==record['body'] and c['meta']==meta,'Research actual render inputs differ')
-        expected=markdown.markdown(record['body'],extensions=['toc','tables','attr_list','md_in_html','def_list','footnotes','admonition'],extension_configs={'toc':{'permalink':True,'toc_depth':3}})
+        # MkDocs includes fenced_code by default, including the BibTeX blocks
+        # in the real Research sources. Compare their actual code structure.
+        expected=markdown.markdown(record['body'],extensions=['toc','tables','fenced_code','attr_list','md_in_html','def_list','footnotes','admonition'],extension_configs={'toc':{'permalink':True,'toc_depth':3}})
         # These are exactly the existing shared on_page_content transformations,
         # not an arbitrary text/structure exclusion. Every token remains checked.
         expected=re.sub(r'<a class="headerlink"(?![^>]*aria-hidden)',
@@ -31,8 +33,10 @@ def validate_research_contexts(permit,contexts):
         for key,value in {'description':meta['description'],'og:title':meta['title'],'og:description':meta['description'],
                 'og:url':url,'twitter:title':meta['title'],'twitter:description':meta['description']}.items():
             require(head.meta.get(key)==[value],'Research social/description differs: '+key)
-        articles=[a for a in head.scripts if a.get('@type')=='Article']
-        require(len(articles)==1,'Research actual Article JSON-LD missing/repeated')
+        articles=[a for a in head.scripts if a.get('@type') in {'Article','TechArticle'}]
+        require(meta.get('schema_type') in {'Article','TechArticle'} and len(articles)==1
+            and articles[0].get('@type')==meta['schema_type'],
+            'Research actual article JSON-LD type is missing, repeated or different from source: '+path)
         for key,value in {'headline':meta.get('headline',meta['title']),'name':meta.get('headline',meta['title']),'description':meta['description'],
             'datePublished':meta['date_published'],'dateModified':meta['date_modified'],'url':url}.items():
             require(articles[0].get(key)==value,'Research structured metadata is stale: '+key)

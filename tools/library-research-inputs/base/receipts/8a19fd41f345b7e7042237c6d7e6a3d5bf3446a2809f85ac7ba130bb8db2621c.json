@@ -1,0 +1,401 @@
+{
+  "created_utc": "2026-11-03T14:19:49.561708+00:00",
+  "Source_preservation_approved": true,
+  "approval_authority": "independent-source-review-only",
+  "review_kind": "complete-finite18-source-preservation",
+  "scope": "ExactV5 map234assertions,18unfrozen donors/14existingunfrozen targets. Sourcepreservation/fit only; noRootstub/routing/build/visual/publication/globalapproval.",
+  "exact_input_map": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RELATED_REVIEW\\FINAL262_CURRENT_Q0100_ONE_AND_MAP_V5\\CORRECTED_BINDINGS_V5.NOT_APPROVED.json",
+    "raw_sha256": "2b0a918a65938aef6981d7f402a2596607a90736e42666ec4d0f88006f18285f",
+    "canonical_LF_sha256": "2b0a918a65938aef6981d7f402a2596607a90736e42666ec4d0f88006f18285f"
+  },
+  "prior232actualsemanticreview": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_CORRECTED232_V4_SEMANTIC_RECHECK\\REPORT.json",
+    "raw_sha256": "8887075569f975b14ed387e4380a76e31900c10be3a2d9b1254067fff34941d4",
+    "canonical_LF_sha256": "8887075569f975b14ed387e4380a76e31900c10be3a2d9b1254067fff34941d4"
+  },
+  "actual_0100content_review": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_Q0100_PRICING_LINK_BOUNDED_CONTENT\\REVIEW.json",
+    "raw_sha256": "77fc87d907e881afd2ebbb9e766b1f9e1410fa291dc4a9b4734e6049817f65d5",
+    "canonical_LF_sha256": "77fc87d907e881afd2ebbb9e766b1f9e1410fa291dc4a9b4734e6049817f65d5"
+  },
+  "actual_0100Rootdate": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_Q0100_TABLE_LINK_ADOPTED_2026-11-03\\ROOT_Q0100_ADOPTION.json",
+    "raw_sha256": "5437a97b36f0e6d627e2d83f4020c65a52be236043269b780a7d9d69aed1a351",
+    "canonical_LF_sha256": "5208d13c72706e8abee6bb4c4549bb5011c4a99c22d90c7db631be4834a67f1c"
+  },
+  "current262Source_map": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_Q0100_TABLE_LINK_ROOT_ADOPTION_2026-11-03\\FINAL262_SOURCE_RECEIPT_MAP.json",
+    "raw_sha256": "9871391aa68cd6cffaa7672d0b12052335bbbefe594d1bdb2fa123732e50134f",
+    "canonical_LF_sha256": "9871391aa68cd6cffaa7672d0b12052335bbbefe594d1bdb2fa123732e50134f"
+  },
+  "field_handoff": {
+    "path": "C:\\Users\\saira\\Downloads\\LIVE\\FIELD_TEST_TO_LIBRARY.md",
+    "raw_sha256": "3f09732e9a23c36ea0852fa6dcec96c0c1c9f0c1cb55d2f4af722072ac17eb1b",
+    "canonical_LF_sha256": "57b5d0dae38b654fb5cd1eba43776bc3f91eb9825482c2b19f31c827a48103bc"
+  },
+  "freeze_registry": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\FIELD_TEST_FREEZE\\FREEZE_REGISTRY.json",
+    "raw_sha256": "c346b0f6a7997449f4eccbaf662b53f7ae25ba21a57341f786dc7d673db1798c",
+    "canonical_LF_sha256": "4a280e14f9a3b5933952db9941da91389d85178d16bac5143dae591b1f0b8c07"
+  },
+  "Rootfinite_alias_and_promo_decisions": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\NEXT18_FINITE_ALIAS_AND_OWN_PROMO_V2.ROOT_APPROVED.json",
+    "raw_sha256": "1e86b77f88542c0a522321af6e6cf3f629df91b52d01881b5bc38a1ccbc18969",
+    "canonical_LF_sha256": "fa6a8017f693a9f449a9c116d01dc0142ef12c8602000aee15dfc61eb2c1e693"
+  },
+  "counts": {
+    "donors_Source_preservation_approved": 18,
+    "unique_existing_targets": 14,
+    "assertions": 234,
+    "exactV4semanticpair_carries": 229,
+    "actualV5changed_new_pairs_read": 5,
+    "missing_scientific_facts_dates_bases_quotes_limits": 0,
+    "frozen_source_or_target_intersection": 0,
+    "actual_stubs_adopted_published_or_HTTP301claims": 0
+  },
+  "all234_decisions": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\ALL234_SOURCE_ASSERTION_DECISIONS.json",
+    "raw_sha256": "385e7912b4e832a564043f02369fe500c4fdec395de475b5da07124c77a76ea5",
+    "canonical_LF_sha256": "385e7912b4e832a564043f02369fe500c4fdec395de475b5da07124c77a76ea5"
+  },
+  "Source_approved_exact_map_Root_pending": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\SOURCE_APPROVED_PRESERVATION_18_MAP.ROOT_PENDING.json",
+    "raw_sha256": "e5b5af0119346ef993e94bfb6405bd4fb99f3f5a5b719371787b55f28a60edac",
+    "canonical_LF_sha256": "e5b5af0119346ef993e94bfb6405bd4fb99f3f5a5b719371787b55f28a60edac"
+  },
+  "per_donor_Source_preservation_receipts": [
+    {
+      "source_id": "LB-Q0111",
+      "target_id": "LB-Q0588",
+      "source_path": "answers/buying/looking-for-ai-software-for-field-service-providers-in-the-united-king.md",
+      "target_path": "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0111.source-preservation.json",
+        "raw_sha256": "ae9a1a8da696148a68aae63b94b75ca4131d1cb3b7746cc54c9596fc743ad9d1",
+        "canonical_LF_sha256": "ae9a1a8da696148a68aae63b94b75ca4131d1cb3b7746cc54c9596fc743ad9d1"
+      },
+      "required_binding_count": 13,
+      "preserved_fact_bindings_sha256": "7efd0be64838ff51b87ce4e27c10ce9c857208426c20d7dca82cf7de87e59ccf",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0588.source.json",
+        "raw_sha256": "dadb524314b90159b021589b442631fcbf92a7ad79869a1544131fbef917af42",
+        "canonical_LF_sha256": "dadb524314b90159b021589b442631fcbf92a7ad79869a1544131fbef917af42"
+      }
+    },
+    {
+      "source_id": "LB-Q0633",
+      "target_id": "LB-Q0556",
+      "source_path": "answers/buying/what-should-i-ask-a-geo-provider-about-mcp-or-api-access.md",
+      "target_path": "answers/agents/how-does-an-ai-connector-differ-from-browsing-a-website.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0633.source-preservation.json",
+        "raw_sha256": "8b23b360b8793448e7e570b653fcb198dea7cb65ee4c76e5bc184547296b0a61",
+        "canonical_LF_sha256": "8b23b360b8793448e7e570b653fcb198dea7cb65ee4c76e5bc184547296b0a61"
+      },
+      "required_binding_count": 11,
+      "preserved_fact_bindings_sha256": "9d4f55deb89fa41aff81c9776fb26a5ea9fdb62d0bc85c1086177e08a80f505b",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0556.source.json",
+        "raw_sha256": "955376a7a844129cb728412148659db742840c00ed0a4b0093128d282fe065ad",
+        "canonical_LF_sha256": "955376a7a844129cb728412148659db742840c00ed0a4b0093128d282fe065ad"
+      }
+    },
+    {
+      "source_id": "LB-Q0481",
+      "target_id": "LB-Q0588",
+      "source_path": "answers/buying/which-aeo-tools-suit-home-service-companies-and-contractors.md",
+      "target_path": "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0481.source-preservation.json",
+        "raw_sha256": "c8d7a61f95cb34d4f7a8644766dca05070bbc830237c5b1f070b4fec7e3cf8e2",
+        "canonical_LF_sha256": "c8d7a61f95cb34d4f7a8644766dca05070bbc830237c5b1f070b4fec7e3cf8e2"
+      },
+      "required_binding_count": 8,
+      "preserved_fact_bindings_sha256": "a3596ef7fe8bde7cb3bd28756c8c866c6fb2c31e5955f4ae434b84cfbde14090",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0588.source.json",
+        "raw_sha256": "dadb524314b90159b021589b442631fcbf92a7ad79869a1544131fbef917af42",
+        "canonical_LF_sha256": "dadb524314b90159b021589b442631fcbf92a7ad79869a1544131fbef917af42"
+      }
+    },
+    {
+      "source_id": "LB-Q0487",
+      "target_id": "LB-Q0531",
+      "source_path": "answers/fixes/how-can-a-local-auto-glass-business-appear-in-google-ai-and-chatgpt-an.md",
+      "target_path": "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0487.source-preservation.json",
+        "raw_sha256": "57be023365a9cf3f0598810a3c8f552e0930a7fb8cc89566327472b3509b03dc",
+        "canonical_LF_sha256": "57be023365a9cf3f0598810a3c8f552e0930a7fb8cc89566327472b3509b03dc"
+      },
+      "required_binding_count": 12,
+      "preserved_fact_bindings_sha256": "c06e9d72125b7615c4367aced3191fd00e32dc3d6ff32569408c4890aa42955b",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0531.source.json",
+        "raw_sha256": "0a429c4c3287a70a358176311f050934a7b67b9f6af381fff5b3a0bd247e8c9b",
+        "canonical_LF_sha256": "0a429c4c3287a70a358176311f050934a7b67b9f6af381fff5b3a0bd247e8c9b"
+      }
+    },
+    {
+      "source_id": "LB-Q0512",
+      "target_id": "LB-Q0042",
+      "source_path": "answers/fixes/how-should-a-local-business-respond-when-chatgpt-cites-ranking-list-pa.md",
+      "target_path": "answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0512.source-preservation.json",
+        "raw_sha256": "3e89232bee212b72d6be4ee79f10c43a80b1a2938853d4200b11995cebc82f89",
+        "canonical_LF_sha256": "3e89232bee212b72d6be4ee79f10c43a80b1a2938853d4200b11995cebc82f89"
+      },
+      "required_binding_count": 10,
+      "preserved_fact_bindings_sha256": "b11e041385722d6ea73c8ae93aa3658377a0577b30ee92d9484f51e88540413d",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0042.source.json",
+        "raw_sha256": "961520501f608d05a219105283612ccfaff3e50ccf4608baf05beae7bb83fb5d",
+        "canonical_LF_sha256": "961520501f608d05a219105283612ccfaff3e50ccf4608baf05beae7bb83fb5d"
+      }
+    },
+    {
+      "source_id": "LB-Q0132",
+      "target_id": "LB-Q0641",
+      "source_path": "answers/fixes/what-do-ai-crawlers-do-and-how-can-site-owners-control-access.md",
+      "target_path": "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0132.source-preservation.json",
+        "raw_sha256": "5ad6cf21c6acbedd39fe4641f88e9f12512a74f4a5731a233bac3652afcdc8a7",
+        "canonical_LF_sha256": "5ad6cf21c6acbedd39fe4641f88e9f12512a74f4a5731a233bac3652afcdc8a7"
+      },
+      "required_binding_count": 16,
+      "preserved_fact_bindings_sha256": "9cc31f911897a9a7d802c759fae2e62c86b6ea6c94011d95adcc1da7aa366223",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_DESTINATION_TWO_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0641.source.json",
+        "raw_sha256": "33e8a7ab3a02b1f963230866a088e3848142169dfba31bb67e4b90a76f8e7e0f",
+        "canonical_LF_sha256": "33e8a7ab3a02b1f963230866a088e3848142169dfba31bb67e4b90a76f8e7e0f"
+      }
+    },
+    {
+      "source_id": "LB-Q0513",
+      "target_id": "LB-Q0635",
+      "source_path": "answers/fixes/which-ai-tools-can-support-programmatic-seo.md",
+      "target_path": "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0513.source-preservation.json",
+        "raw_sha256": "c8d3d51735ef80f8b68ad4c08343af8f1d9b48762c6878bf58ea6920de283427",
+        "canonical_LF_sha256": "c8d3d51735ef80f8b68ad4c08343af8f1d9b48762c6878bf58ea6920de283427"
+      },
+      "required_binding_count": 10,
+      "preserved_fact_bindings_sha256": "15201c00daacff4be674b97c8b2b37e6bd8adc9c1447ec759c5dbc41bdc78927",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0635.source.json",
+        "raw_sha256": "34cfababae24ae1ddea0d5085314aa736fcf24616dca4f139134f2581ba297ac",
+        "canonical_LF_sha256": "34cfababae24ae1ddea0d5085314aa736fcf24616dca4f139134f2581ba297ac"
+      }
+    },
+    {
+      "source_id": "LB-Q0332",
+      "target_id": "LB-Q0100",
+      "source_path": "answers/geo-basics/chatgpt-brand-visibility-cost.md",
+      "target_path": "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0332.source-preservation.json",
+        "raw_sha256": "21caa093de1ece57ac0e0422e46f5ef1a62bffbd44f7390cf7b929681124b793",
+        "canonical_LF_sha256": "21caa093de1ece57ac0e0422e46f5ef1a62bffbd44f7390cf7b929681124b793"
+      },
+      "required_binding_count": 18,
+      "preserved_fact_bindings_sha256": "9742b0a959078a967d3467f0cb5bb4d961347aa9db11aa6dc88855f4e283c1d6",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_Q0100_TABLE_LINK_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0100.source.json",
+        "raw_sha256": "e4dc327c1bf7fc476e4875dfe58ca53a5ae8ad41b3abe679263283fbe95d4cf9",
+        "canonical_LF_sha256": "e4dc327c1bf7fc476e4875dfe58ca53a5ae8ad41b3abe679263283fbe95d4cf9"
+      }
+    },
+    {
+      "source_id": "LB-Q0043",
+      "target_id": "LB-Q0554",
+      "source_path": "answers/geo-basics/how-do-getmint-and-otterly-compare-for-transactional-geo-in-the-united.md",
+      "target_path": "answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0043.source-preservation.json",
+        "raw_sha256": "351a6633f143126c6654caa6c9d902ad3aead85e9f5d53ba07caa35e362830a7",
+        "canonical_LF_sha256": "351a6633f143126c6654caa6c9d902ad3aead85e9f5d53ba07caa35e362830a7"
+      },
+      "required_binding_count": 9,
+      "preserved_fact_bindings_sha256": "8f46134b7b6bd0003099c2a3309297b9e7edd5f0d6af8f2a2c21a7c60812188e",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0554.source.json",
+        "raw_sha256": "905571bac063edabb443253e0b4fabc30c3f2c6f3301992f2f3e5e7e9bdef27b",
+        "canonical_LF_sha256": "905571bac063edabb443253e0b4fabc30c3f2c6f3301992f2f3e5e7e9bdef27b"
+      }
+    },
+    {
+      "source_id": "LB-Q0074",
+      "target_id": "LB-Q0041",
+      "source_path": "answers/geo-basics/where-can-i-find-an-ai-search-visibility-expert-near-me.md",
+      "target_path": "answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0074.source-preservation.json",
+        "raw_sha256": "3e2c41f1972a5e6ad8cbcbdf19f83d030133e711a6e3b87335319d31da8d8c77",
+        "canonical_LF_sha256": "3e2c41f1972a5e6ad8cbcbdf19f83d030133e711a6e3b87335319d31da8d8c77"
+      },
+      "required_binding_count": 20,
+      "preserved_fact_bindings_sha256": "f9fb3110bd36ac8907b95d6eb043731756a0f1bf7527dc9ee90dd6760be519fa",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0041.source.json",
+        "raw_sha256": "20d1607427a5ff85503cb6fb5adffdeae814515a187a3d4d26e5ef702403c1e7",
+        "canonical_LF_sha256": "20d1607427a5ff85503cb6fb5adffdeae814515a187a3d4d26e5ef702403c1e7"
+      }
+    },
+    {
+      "source_id": "LB-Q0308",
+      "target_id": "LB-Q0327",
+      "source_path": "answers/geo-basics/which-ai-is-best-for-seo.md",
+      "target_path": "answers/geo-basics/how-does-chatgpt-relate-to-seo.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0308.source-preservation.json",
+        "raw_sha256": "6900075724e8619701c9a0d07ce4a698c5d8fea2fd3817bf713dda7a36036f65",
+        "canonical_LF_sha256": "6900075724e8619701c9a0d07ce4a698c5d8fea2fd3817bf713dda7a36036f65"
+      },
+      "required_binding_count": 17,
+      "preserved_fact_bindings_sha256": "381f877270b5d7d1435dc5fa52b65952cd825895d9fe4c7a76d76bd6344be75f",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0327.source.json",
+        "raw_sha256": "27e9b83e38fb31856fe0130f0f5de6564189eceeed824088f1bea23fd06e76e6",
+        "canonical_LF_sha256": "27e9b83e38fb31856fe0130f0f5de6564189eceeed824088f1bea23fd06e76e6"
+      }
+    },
+    {
+      "source_id": "LB-Q0093",
+      "target_id": "LB-Q0100",
+      "source_path": "answers/geo-basics/which-ai-tools-for-analyzing-online-visibility-are-available-in-the-uk.md",
+      "target_path": "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0093.source-preservation.json",
+        "raw_sha256": "d7a1342d060382020ff97630eb2fd00a74970aadfbd76629786ee870c206db43",
+        "canonical_LF_sha256": "d7a1342d060382020ff97630eb2fd00a74970aadfbd76629786ee870c206db43"
+      },
+      "required_binding_count": 14,
+      "preserved_fact_bindings_sha256": "51f767226bb2bc4c356d7c4dc38604c404e23a00d74f33375ede4052d2349f6a",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_Q0100_TABLE_LINK_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0100.source.json",
+        "raw_sha256": "e4dc327c1bf7fc476e4875dfe58ca53a5ae8ad41b3abe679263283fbe95d4cf9",
+        "canonical_LF_sha256": "e4dc327c1bf7fc476e4875dfe58ca53a5ae8ad41b3abe679263283fbe95d4cf9"
+      }
+    },
+    {
+      "source_id": "LB-Q0383",
+      "target_id": "LB-Q0542",
+      "source_path": "answers/google-ai/are-google-ai-overviews-available-in-france.md",
+      "target_path": "answers/google-ai/what-is-a-google-ai-overview.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0383.source-preservation.json",
+        "raw_sha256": "7af25865af376a70c36d85d448c8a43354bbc3521c49f404c96f7c84cef6d9a7",
+        "canonical_LF_sha256": "7af25865af376a70c36d85d448c8a43354bbc3521c49f404c96f7c84cef6d9a7"
+      },
+      "required_binding_count": 12,
+      "preserved_fact_bindings_sha256": "3476b448a5286d63cf91c08248a892f6efb0255a60a7556d4f5f47b6eeb9d47b",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0542.source.json",
+        "raw_sha256": "36eb58fe9161174ec9d1f230e7a8e81d62a9e6aba927ed7bf0f53ed7a3b9d09a",
+        "canonical_LF_sha256": "36eb58fe9161174ec9d1f230e7a8e81d62a9e6aba927ed7bf0f53ed7a3b9d09a"
+      }
+    },
+    {
+      "source_id": "LB-Q0385",
+      "target_id": "LB-Q0542",
+      "source_path": "answers/google-ai/can-ads-appear-in-google-ai-overviews.md",
+      "target_path": "answers/google-ai/what-is-a-google-ai-overview.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0385.source-preservation.json",
+        "raw_sha256": "1a6f6edac27958eb6b7778dbfbbea31db6e296d74276f9972892f18b4495fd9a",
+        "canonical_LF_sha256": "1a6f6edac27958eb6b7778dbfbbea31db6e296d74276f9972892f18b4495fd9a"
+      },
+      "required_binding_count": 10,
+      "preserved_fact_bindings_sha256": "6ac2765520d964eabe7d5025fa51073c0e2886c714cb71bea6b148597527e975",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0542.source.json",
+        "raw_sha256": "36eb58fe9161174ec9d1f230e7a8e81d62a9e6aba927ed7bf0f53ed7a3b9d09a",
+        "canonical_LF_sha256": "36eb58fe9161174ec9d1f230e7a8e81d62a9e6aba927ed7bf0f53ed7a3b9d09a"
+      }
+    },
+    {
+      "source_id": "LB-Q0055",
+      "target_id": "LB-Q0631",
+      "source_path": "answers/measurement/how-accurate-are-geo-tools-across-different-industries.md",
+      "target_path": "answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0055.source-preservation.json",
+        "raw_sha256": "ae84576341b97176b27815ae999d8642c657043f40db5ff1f030095b0dad4e29",
+        "canonical_LF_sha256": "ae84576341b97176b27815ae999d8642c657043f40db5ff1f030095b0dad4e29"
+      },
+      "required_binding_count": 16,
+      "preserved_fact_bindings_sha256": "cb89d3de5e3814080b76c0eec1ad333899d32d8f3737f0d4e13591880fd5c497",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0631.source.json",
+        "raw_sha256": "61b7a71bcd280ae19f699e4429595774186b053e45a2ae210af5913271f7fea6",
+        "canonical_LF_sha256": "61b7a71bcd280ae19f699e4429595774186b053e45a2ae210af5913271f7fea6"
+      }
+    },
+    {
+      "source_id": "LB-Q0456",
+      "target_id": "LB-Q0467",
+      "source_path": "answers/measurement/how-can-i-defend-branded-search-results-against-lookalike-sites-that-c.md",
+      "target_path": "answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0456.source-preservation.json",
+        "raw_sha256": "1f7fb886b4b35a7044fea600544dfadfafea651016cd1bb8137050f2d621cbca",
+        "canonical_LF_sha256": "1f7fb886b4b35a7044fea600544dfadfafea651016cd1bb8137050f2d621cbca"
+      },
+      "required_binding_count": 13,
+      "preserved_fact_bindings_sha256": "1dc17566a71eb1188b947575513068c8bca175b83c82ad95704ffa7c26b2718f",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0467.source.json",
+        "raw_sha256": "60ffceca98c1b29a37f12f7693a20b992426e03842bf049f3e2302b0c83744f6",
+        "canonical_LF_sha256": "60ffceca98c1b29a37f12f7693a20b992426e03842bf049f3e2302b0c83744f6"
+      }
+    },
+    {
+      "source_id": "LB-Q0491",
+      "target_id": "LB-Q0492",
+      "source_path": "answers/measurement/how-do-ads-in-google-ai-overviews-affect-organic-traffic.md",
+      "target_path": "answers/google-ai/how-do-google-ai-overviews-affect-website-visibility.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0491.source-preservation.json",
+        "raw_sha256": "3fbfdb5040fba20d5266270e226649f267080f43b6f92633165b187e1ff879d3",
+        "canonical_LF_sha256": "3fbfdb5040fba20d5266270e226649f267080f43b6f92633165b187e1ff879d3"
+      },
+      "required_binding_count": 12,
+      "preserved_fact_bindings_sha256": "d0e0dcce1549a1dd65522c53135d8fc036ebcfe61aa826a5b87ba446d4cb6975",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0492.source.json",
+        "raw_sha256": "e8ef0d5bd93f6355ac54ab5b4fea2336ea57d95423239633be44c389e86321b9",
+        "canonical_LF_sha256": "e8ef0d5bd93f6355ac54ab5b4fea2336ea57d95423239633be44c389e86321b9"
+      }
+    },
+    {
+      "source_id": "LB-Q0453",
+      "target_id": "LB-Q0635",
+      "source_path": "answers/measurement/how-would-you-optimize-an-e-commerce-product-page-for-google-and-ai-se.md",
+      "target_path": "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md",
+      "Source_preservation_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\NEXT18_FINAL234_V5_SOURCE_PRESERVATION_APPROVAL\\receipts\\LB-Q0453.source-preservation.json",
+        "raw_sha256": "878e70880c19a4d9d74b4c022653c270243d29620145fe2f8ca9626051774734",
+        "canonical_LF_sha256": "878e70880c19a4d9d74b4c022653c270243d29620145fe2f8ca9626051774734"
+      },
+      "required_binding_count": 13,
+      "preserved_fact_bindings_sha256": "4a0ab01182f1067e69ddece80f2b4d56c89271a26ecfc129648b70d6388489af",
+      "target_full_Source_receipt": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0635.source.json",
+        "raw_sha256": "34cfababae24ae1ddea0d5085314aa736fcf24616dca4f139134f2581ba297ac",
+        "canonical_LF_sha256": "34cfababae24ae1ddea0d5085314aa736fcf24616dca4f139134f2581ba297ac"
+      }
+    }
+  ],
+  "alias_semantics": "0093onlyanalysing→analyzing, samequestion,Rootexplicitnonliteralspellinglineage;sourceunchanged.",
+  "policy_omission_semantics": "Onlyactual0332p07s02maprowremovedunderRootwholeexactownpromo paragraphdecision;no scientific factwaiver. Existing0633owncaptureidentityomissionretainspublictask/base evidence.",
+  "no_generic_truth_substituted_for_missing_observation": true,
+  "all_current_target_full_Source_receipts_exact": true,
+  "remaining_Source_preservation_blockers": [],
+  "Root_stub_decision_approved": false,
+  "Root_compiler_plan_publication_global_PASS": false,
+  "active_repo_LIVE_original_edits": 0
+}

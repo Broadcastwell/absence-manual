@@ -1,0 +1,58 @@
+{
+  "approved": true,
+  "review_kind": "qualitative-opening-observation",
+  "scope": "exact-published-observation",
+  "not_reworded_aggregate": true,
+  "path": "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md",
+  "canonical_source_sha256": "d4d456900b7d1ebb4911b32dd8b1f0529f8ebc4a0886ad40e66847a8dabdd989",
+  "effective_canonical_source_sha256": "38ee0cca5403622df743b6f154106be4199fb435ef5da3f352b764394613786b",
+  "observation_key": "observation:0f3006066057153b5d55a941f9c2123988315a9d06c5a06b3f8f919cc6dacf3b",
+  "source_quote_sha256": "442c36cf1e548f4b38b165b65aa5218b15c50fabcd538cceeed731dec44f05a8",
+  "opening_span_sha256": "fe463bd4c1f31941ae305059041c43e9c544681a6895c9803f8297176ffa8549",
+  "independent_source_decision": "PASS_EXACT_PUBLISHED_OBSERVATION_AND_CONTROLLED_RECORD_BINDING",
+  "reviewed_utc": "2026-11-03T13:56:43.419339+00:00",
+  "approval_authority": "independent-source-review-only",
+  "controlled_record": {
+    "capture_date": "2026-09-22",
+    "category": "construction-project-management",
+    "engine": "ChatGPT",
+    "question": "q9",
+    "run": "1",
+    "subject": "workflow criterion before vendor names",
+    "metric": "exact retained workflow-selection phrase"
+  },
+  "source_url": "https://doi.org/10.5281/zenodo.23271935",
+  "actual_source_quote_matches": [
+    {
+      "source": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY_2026-10-28\\index-repo\\data\\study7\\categories\\construction-project-management.json",
+        "raw_sha256": "b143680377fd6472d32fd820cbfa25458cc368894382bbc2715949f26d4d8225"
+      },
+      "verification": "EXACT_DECODED_PUBLISHED_FIELD_OR_APPROVED_PARAGRAPH"
+    }
+  ],
+  "additional_record_proof": [],
+  "source_qualification_and_identity_judgment": "ExactStudy7evidenceandcorrespondingpublishedChatGPTconstructionq9repeat1phrase beforevendors. Statedcriterion, notverifiedbuyerneed orpageeffect.",
+  "full_article_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\receipts\\LB-Q0635.source.json",
+    "raw_sha256": "34cfababae24ae1ddea0d5085314aa736fcf24616dca4f139134f2581ba297ac",
+    "canonical_LF_sha256": "34cfababae24ae1ddea0d5085314aa736fcf24616dca4f139134f2581ba297ac"
+  },
+  "proposal": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RELATED_REVIEW\\FINAL307_DATED_QUALITATIVE22_PROPOSAL_V1\\CONTROLLED_RECORDS_QUOTES_SPANS_NOT_APPROVED.json",
+    "raw_sha256": "f99cf30801d6d186206bcb0d7d5bf5477195b4185b93a2c3e691d0eee6581737"
+  },
+  "new_measurement_or_numeric_one": 0,
+  "Root_public_or_global_approval": false,
+  "prior_qualitative_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_QUALITATIVE22_SOURCE_ROOT_DATED_V2\\receipts\\LB-Q0635.qualitative-source.json",
+    "raw_sha256": "5ccacb37a04d541b4ffc786ae7989f062d63fb94a9b8fe6cfae19d61f1e8c478"
+  },
+  "Root_actual_private_adoption": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_PRESERVATION_FOUR_ADOPTED_2026-11-03\\ROOT_FOUR_ADOPTION.json",
+    "raw_sha256": "98c64e057f4542537a3cfa44227a89fa971301ad2fefd154e888ed0ad8456804",
+    "canonical_LF_sha256": "14332b9957015e3a106deeaab2b2f2752555d5001ac107b97ade7cd3389b942e"
+  },
+  "bounded_fullfile_rebind_only": true,
+  "controlled_record_quote_opening_key_exact_unchanged": true
+}

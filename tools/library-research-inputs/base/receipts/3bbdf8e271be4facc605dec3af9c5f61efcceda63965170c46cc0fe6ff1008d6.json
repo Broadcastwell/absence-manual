@@ -1,0 +1,10 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/google-ai/how-does-google-ai-mode-choose-cited-sources.md",
+  "before_effective_canonical_sha256": "826cba2b7a82d40676e80d1b5386e7af7cab654dcce7fd5f9f46e820bb380001",
+  "raw_canonical_source_sha256": "826cba2b7a82d40676e80d1b5386e7af7cab654dcce7fd5f9f46e820bb380001",
+  "after_effective_canonical_sha256": "c1d4cd175e03f6e18d28cf94f80aab6736fb75ba737c1741553174d4f23aa263",
+  "fact_ledger_sha256": "a87c535323e2c3d106b06f0f0db08011241cfa128b14ba29a04afb22ea1e3bb1",
+  "effective_payload_sha256": "7ac80b810b55dc8e0204c91d284ec6a84e94e0628226707ffa9ab53a94b8a2c6"
+}

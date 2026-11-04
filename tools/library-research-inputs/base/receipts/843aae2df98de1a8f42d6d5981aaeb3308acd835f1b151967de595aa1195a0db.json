@@ -1,0 +1,57 @@
+{
+  "approved": true,
+  "review_kind": "qualitative-opening-observation",
+  "scope": "exact-published-observation",
+  "not_reworded_aggregate": true,
+  "path": "answers/measurement/what-evidence-can-connect-ai-visibility-with-pipeline.md",
+  "canonical_source_sha256": "019df46383c8cafe5680a9418442bbffeb891bfd0bccda23bd29c1c73f379032",
+  "effective_canonical_source_sha256": "2a92f3040e44d79af2d582ba20de064254e1da49f75b4b2a1fa0b19e33e45b7e",
+  "observation_key": "observation:88c5ccdf3a7eeb35a0e3b6656e3b965018fc182eb586d4446ad7a653bc088452",
+  "source_quote_sha256": "03a06e581effa103d530d7cfb6a7d5d08fe8bc2fce252d3033b304564402b021",
+  "opening_span_sha256": "858a90ac068dc0f4ffac0462371d1bbb8591a8e126f2fcec8bf88c5ee82b0693",
+  "independent_source_decision": "PASS_EXACT_PUBLISHED_OBSERVATION_AND_CONTROLLED_RECORD_BINDING",
+  "reviewed_utc": "2026-11-03T10:52:37.883371+00:00",
+  "approval_authority": "independent-source-review-only",
+  "controlled_record": {
+    "capture_date": "2026-11-02",
+    "subject": "AI Source Standard",
+    "metric": "AI-Source-Standard-published-separate-outcome-columns"
+  },
+  "source_url": "https://docs.broadcastwell.com/ai-source-standard/",
+  "actual_source_quote_matches": [
+    {
+      "source": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\S5_CURRENT_V2_FULL\\STANDARD_FAMILY6_CANONICAL_SEMANTIC_RECONCILIATION.json",
+        "raw_sha256": "c9b0997a2a13c19067e165f49db384931e869fc066597aecc7a5a099a8562763"
+      },
+      "verification": "EXACT_DECODED_PUBLISHED_FIELD_OR_APPROVED_PARAGRAPH"
+    },
+    {
+      "source": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\STUDY6\\preview\\ai-source-standard\\index.html",
+        "raw_sha256": "37b2471748da2efbaba4377c8559407eea78791605b687276205f4629f8b326b"
+      },
+      "verification": "EXACT_VISIBLE_PUBLISHED_HTML_TEXT"
+    },
+    {
+      "source": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\S5_CURRENT_V2_FULL\\STANDARD_ACTUAL_ARTICLE_PARAGRAPHS_REVIEWED.json",
+        "raw_sha256": "9075ef643d6ff197c6da1a55f6d4a4f243a7ca133a24db7022c668173590cdd9"
+      },
+      "verification": "EXACT_DECODED_PUBLISHED_FIELD_OR_APPROVED_PARAGRAPH"
+    }
+  ],
+  "additional_record_proof": [],
+  "source_qualification_and_identity_judgment": "Same publishedStandard paragraph/heading and date as actual prior Source semantic review. No buyer/visit/business measurement invented; originalsupportingnumericfacts remainseparate.0029/0284sharetheexistingtaxonomyidentity;otherfourStandard assertions retaintheir independentlyread field-definitionboundaries.",
+  "full_article_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0029.source.json",
+    "raw_sha256": "330e37d28df2275fe64b169b867fc420cec6108871fa8bd648c6027f54ad94de",
+    "canonical_LF_sha256": "330e37d28df2275fe64b169b867fc420cec6108871fa8bd648c6027f54ad94de"
+  },
+  "proposal": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RELATED_REVIEW\\FINAL307_DATED_QUALITATIVE22_PROPOSAL_V1\\CONTROLLED_RECORDS_QUOTES_SPANS_NOT_APPROVED.json",
+    "raw_sha256": "f99cf30801d6d186206bcb0d7d5bf5477195b4185b93a2c3e691d0eee6581737"
+  },
+  "new_measurement_or_numeric_one": 0,
+  "Root_public_or_global_approval": false
+}

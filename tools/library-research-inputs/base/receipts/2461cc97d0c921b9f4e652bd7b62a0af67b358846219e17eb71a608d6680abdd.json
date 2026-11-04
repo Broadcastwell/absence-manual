@@ -1,0 +1,92 @@
+{
+  "approved": true,
+  "source_contexts": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RELATED_REVIEW\\SIX_OPTIONAL_DESTINATION_CONTEXTS_ROOT_REVIEW_V1\\CONTEXTS_AND_FALSE_DECISIONS.json",
+  "source_contexts_sha256": "286364a8a254f23b1672832f4c6e41a9bfa2f36a03abade5bb09d50774ebd259",
+  "decisions": [
+    {
+      "approved": true,
+      "review_kind": "finite-optional-answer-navigation-omission",
+      "path": "answers/buying/which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo.md",
+      "omitted_exact_href": "https://docs.broadcastwell.com/answers/buying/what-belongs-in-a-white-label-geo-delivery-scope/",
+      "before_source_canonical_sha256": "5a0d985ea4fb7f6ef72143db6504d338ee0d877c69124986238961fc4a315ccc",
+      "after_effective_canonical_sha256": "eac212d07b5c9e147628e57989cedf03dd1b1edab91f5ecd4faa4153a17c95f3",
+      "scope": "Root must read full prior/final Related and confirm this is optional answer navigation, not a factual source destination. No source/body/helper waiver.",
+      "Root_read_utc": "2026-11-03T13:29:00.161687+00:00",
+      "Root_literal_review": "Optional white-label-scope sibling navigation only; Otterlyprimaryguide,ownWrongAboutYourecords,measurementManual andmulti-clientreportinglinkretained.",
+      "Root_read_scope": "Complete exact actual-prior/raw-finite and proposed-final Related sections actually read; finite onehref omission approval only, no factual-source omission, no body/meta/runtime/guard waiver.",
+      "actual_target_title": "What belongs in a white-label GEO delivery scope?",
+      "actual_target_canonical_sha256": "f60254fb6a164d181569f88e1f20acf92e43f30c330274764b5b2a0432c0544b"
+    },
+    {
+      "approved": true,
+      "review_kind": "finite-optional-answer-navigation-omission",
+      "path": "answers/measurement/what-is-a-good-ai-visibility-score.md",
+      "omitted_exact_href": "how-do-we-compare-citation-metrics-when-changing-ai-tools.md",
+      "before_source_canonical_sha256": "a1b13ca6787c00a6ba26ca9e40cd6d9bcc5118e0f08e885ff38e42b307be2cbe",
+      "after_effective_canonical_sha256": "abee6ef71de313b90e27498a369b57413c90230d38400d1e53b07f19f2857310",
+      "scope": "Root must read full prior/final Related and confirm this is optional answer navigation, not a factual source destination. No source/body/helper waiver.",
+      "Root_read_utc": "2026-11-03T13:29:00.161687+00:00",
+      "Root_literal_review": "Optional tool-metric-comparison sibling only; exactDentrix/Ascendrecords plusvalidmeasurement/noise/threerates factualreferencesretained.",
+      "Root_read_scope": "Complete exact actual-prior/raw-finite and proposed-final Related sections actually read; finite onehref omission approval only, no factual-source omission, no body/meta/runtime/guard waiver.",
+      "actual_target_title": "How do we compare citation metrics when changing AI tools?",
+      "actual_target_canonical_sha256": "07bd12f847d6d941466d0688cc36d49133518f48cc5edda1d1c5b0d61a348c52"
+    },
+    {
+      "approved": true,
+      "review_kind": "finite-optional-answer-navigation-omission",
+      "path": "answers/measurement/which-ai-visibility-signals-should-shape-an-seo-roadmap.md",
+      "omitted_exact_href": "https://docs.broadcastwell.com/answers/geo-basics/does-an-ai-brand-mention-mean-the-product-was-recommended/",
+      "before_source_canonical_sha256": "645230d443686b46321f518b1ea89d4c4827b58ea479052fb3031249cfa94f2e",
+      "after_effective_canonical_sha256": "9355751c08a13c6c504922113db0a25c35f30d42a74cc5fcc44e9b517182a785",
+      "scope": "Root must read full prior/final Related and confirm this is optional answer navigation, not a factual source destination. No source/body/helper waiver.",
+      "Root_read_utc": "2026-11-03T13:29:00.161687+00:00",
+      "Root_literal_review": "Optional naming-vs-recommendation sibling navigation; VolumeIIevidence,source-standard,baseline,citation-support andcited-not-recommendedManualretained.",
+      "Root_read_scope": "Complete exact actual-prior/raw-finite and proposed-final Related sections actually read; finite onehref omission approval only, no factual-source omission, no body/meta/runtime/guard waiver.",
+      "actual_target_title": "Does an AI brand mention mean the product was recommended?",
+      "actual_target_canonical_sha256": "46da8c20c5a27cda881a662513c121e5009568c1486b87984bde2a30265261bb"
+    },
+    {
+      "approved": true,
+      "review_kind": "finite-optional-answer-navigation-omission",
+      "path": "answers/fixes/how-should-i-structure-headings-for-ai-crawlers.md",
+      "omitted_exact_href": "how-should-an-answer-page-link-each-claim-to-evidence.md",
+      "before_source_canonical_sha256": "2b25edf410e9a9c34ded920e8b87bcd9f577f0c6dcc37696fffedf9aa64e9564",
+      "after_effective_canonical_sha256": "f708fbeba480c673c999d9d8ab0a4e2ed7705d5a70df7fe9befb903fd4bfa139",
+      "scope": "Root must read full prior/final Related and confirm this is optional answer navigation, not a factual source destination. No source/body/helper waiver.",
+      "Root_read_utc": "2026-11-03T13:29:00.161687+00:00",
+      "Root_literal_review": "Optional claim-to-evidence sibling navigation; Study7primary,AI-source-standard,measuredquestion andcomparison-gateManual retained.",
+      "Root_read_scope": "Complete exact actual-prior/raw-finite and proposed-final Related sections actually read; finite onehref omission approval only, no factual-source omission, no body/meta/runtime/guard waiver.",
+      "actual_target_title": "How should an answer page link each claim to evidence?",
+      "actual_target_canonical_sha256": "0a9e93503bf40eb830db1d79cfe229b7cbf9222329c756ed207108a43f235579"
+    },
+    {
+      "approved": true,
+      "review_kind": "finite-optional-answer-navigation-omission",
+      "path": "answers/measurement/what-counts-as-a-brand-mention-in-an-ai-answer.md",
+      "omitted_exact_href": "https://docs.broadcastwell.com/answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools/",
+      "before_source_canonical_sha256": "77fc5f6cc8ae4f47412048536cbbcaac0773bc6ce1f4b2a0477369b9705311ba",
+      "after_effective_canonical_sha256": "2b25fe00b058d1f4901aeea93af1e93b39bb7699acf99bda887e61f6161188ad",
+      "scope": "Root must read full prior/final Related and confirm this is optional answer navigation, not a factual source destination. No source/body/helper waiver.",
+      "Root_read_utc": "2026-11-03T13:29:00.161687+00:00",
+      "Root_literal_review": "Optional between-tools comparison sibling only; HousecallProrecord,validmeasurement,naming/recommendation andown-domaincitationreferencesretained.",
+      "Root_read_scope": "Complete exact actual-prior/raw-finite and proposed-final Related sections actually read; finite onehref omission approval only, no factual-source omission, no body/meta/runtime/guard waiver.",
+      "actual_target_title": "How do we compare citation metrics when changing AI tools?",
+      "actual_target_canonical_sha256": "07bd12f847d6d941466d0688cc36d49133518f48cc5edda1d1c5b0d61a348c52"
+    },
+    {
+      "approved": true,
+      "review_kind": "finite-optional-answer-navigation-omission",
+      "path": "answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md",
+      "omitted_exact_href": "../measurement/what-evidence-can-connect-ai-visibility-with-pipeline.md",
+      "before_source_canonical_sha256": "a68df40d124a06e7d69946fec4e11297ff4c2796d242ba190c00344c4e1b890a",
+      "after_effective_canonical_sha256": "03b579972a63ed275d498bb07a36884cf0fd707a71778410e340eb4356ae58d6",
+      "scope": "Root must read full prior/final Related and confirm this is optional answer navigation, not a factual source destination. No source/body/helper waiver.",
+      "Root_read_utc": "2026-11-03T13:29:00.161687+00:00",
+      "Root_literal_review": "Optional pipeline-evidence sibling only; AgentGapprimary,demo/pricingresults andselection-versus-purchaseManualretained.",
+      "Root_read_scope": "Complete exact actual-prior/raw-finite and proposed-final Related sections actually read; finite onehref omission approval only, no factual-source omission, no body/meta/runtime/guard waiver.",
+      "actual_target_title": "What evidence can connect AI visibility with pipeline?",
+      "actual_target_canonical_sha256": "019df46383c8cafe5680a9418442bbffeb891bfd0bccda23bd29c1c73f379032"
+    }
+  ],
+  "scope": "Six exact finite optional answer-navigation omissions only; adoption of revised bodies/build still separate."
+}

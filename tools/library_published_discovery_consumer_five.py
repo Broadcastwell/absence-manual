@@ -15,6 +15,13 @@ PLAN='d67d3d912436efc72c31ef73d163878726dc2df7059cd98edfed18112afb5fb5'
 KEY='published_discovery_consumer_five'
 _TOKEN=object()
 
+def authority_bytes(overlay,digest):
+    # The owning loader returns a checked JSON object, not its original bytes.
+    require(overlay._load_receipt(digest) is not None,'Published consumer5 authority is missing or invalid')
+    raw=overlay.receipt_store.get(digest)
+    require(isinstance(raw,bytes) and sha(raw)==digest,'Published consumer5 authority bytes differ')
+    return raw
+
 def expected_tuples(c,date_event):
     return {p:{'body_sha256':r['after_body_sha256'],'metadata_sha256':date_event['hub_metadata'][p]['after_meta_sha256']}for p,r in c['hubs'].items()}
 
@@ -60,7 +67,7 @@ def recipe(*,producer_raw,inputs,registry,hubs,prior_hub_bundle,prior_hub_file_s
         'Published consumer5 actual prior discovery scope differs')
     refs={k:declared[k]for k in ['Root_review_sha256','Source_review_sha256','Writing_review_sha256',
         'historical_public_before_sha256','owner_source_plan_sha256','consumer_plan_sha256','hub_date_event_sha256']}
-    raw={k:registry.overlay._load_receipt(v)for k,v in refs.items()}
+    raw={k:authority_bytes(registry.overlay,v)for k,v in refs.items()}
     require(all(sha(raw[k])==v for k,v in refs.items()),'Published consumer5 authority store bytes differ')
     values={k:json.loads(v)for k,v in raw.items()};plan=values['consumer_plan_sha256']
     date_event=checked_hub_date_event(raw['hub_date_event_sha256'],c)
@@ -131,7 +138,7 @@ class PublishedConsumerFive:
             'Published consumer5 bound inputs or frozen leaf records changed')
         require(self.registry.hubs==self.checked['after_hubs'],'Published consumer5 hubs changed after checked replay')
         for key in self.checked['authority_refs'].values():
-            require(sha(self.registry.overlay._load_receipt(key))==key,'Published consumer5 original authority changed')
+            require(sha(authority_bytes(self.registry.overlay,key))==key,'Published consumer5 original authority changed')
     def llms(self,raw):
         self.check();after=project_llms(raw,catalog())
         proof={'after_sha256':sha(after),'exact_inverse_or_actual_contexts':True,

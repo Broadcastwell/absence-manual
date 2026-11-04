@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence.md",
+  "before_effective_canonical_sha256": "0a9e93503bf40eb830db1d79cfe229b7cbf9222329c756ed207108a43f235579",
+  "raw_canonical_source_sha256": "0a9e93503bf40eb830db1d79cfe229b7cbf9222329c756ed207108a43f235579",
+  "after_effective_canonical_sha256": "310f9f518ec99180450e9028f9a8354fea9f7454bbcec437ce14abef6da2b6d0",
+  "fact_ledger_sha256": "08df96a8d291d5a41c0254f2661cd4048e1ac1e0737c58af5c4ba376a2ca4da7",
+  "effective_payload_sha256": "c22fc64a6278f1746de47aa7120496acaeb9feae8140ab1d72415d2da9034b4e"
+}

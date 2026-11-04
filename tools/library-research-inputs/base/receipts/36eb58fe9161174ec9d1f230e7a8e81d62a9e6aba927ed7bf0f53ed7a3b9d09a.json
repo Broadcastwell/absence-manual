@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/google-ai/what-is-a-google-ai-overview.md",
+  "bank_id": "LB-Q0542",
+  "canonical_source_sha256": "c1dcf41d24dd661ece41bf5136d2cec24cc61b1174dca86991dbc1a194cead04",
+  "effective_canonical_source_sha256": "d8acc13b070cead6c1e7165e00f77e29ec2c169bddc8370160b46e64f6b3c83f",
+  "effective_body_sha256": "e0e507683914b3a02d43bb29eee1dcfcfc1d3b914e1886683648c6ef54f260e4",
+  "effective_metadata_sha256": "e668a398023577963125dba7cc7a76bd133b59df5c914e1c1ef1de16d730ffd5",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_PRESERVATION_FOUR_ADOPTED_2026-11-03\\manuscripts\\answers\\google-ai\\what-is-a-google-ai-overview.md",
+    "raw_sha256": "d8acc13b070cead6c1e7165e00f77e29ec2c169bddc8370160b46e64f6b3c83f",
+    "canonical_LF_sha256": "d8acc13b070cead6c1e7165e00f77e29ec2c169bddc8370160b46e64f6b3c83f"
+  },
+  "reviewed_utc": "2026-11-03T13:56:43.419339+00:00",
+  "full_read_basis": "Prior complete Source reads plus full exact four corrected candidate texts read in context, four narrowly reviewed donor-preservation additions, and verified actual Rootdate-only replay. No new original261/fullcollection reread claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_PRESERVATION_FOUR_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0542.source-preservation-date-continuation.json",
+    "raw_sha256": "737b4315d3b95c41bcc073055493d4d7c1e35246779ab75f6f1e9280a66a947f",
+    "canonical_LF_sha256": "737b4315d3b95c41bcc073055493d4d7c1e35246779ab75f6f1e9280a66a947f"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_PRESERVATION_FOUR_ADOPTED_2026-11-03\\ROOT_FOUR_ADOPTION.json",
+      "raw_sha256": "98c64e057f4542537a3cfa44227a89fa971301ad2fefd154e888ed0ad8456804",
+      "canonical_LF_sha256": "14332b9957015e3a106deeaab2b2f2752555d5001ac107b97ade7cd3389b942e"
+    },
+    "date_modified": "2026-11-03T13:55:12+00:00",
+    "scope": "Actual private Root adoption time, not live publication or measurement/provider-read time."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false,
+  "prior_full_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0542.source.json",
+    "raw_sha256": "087784a262a714f96b65b1d71744f16133eeb5e4736f00b91a19a5bc7d10def2",
+    "canonical_LF_sha256": "087784a262a714f96b65b1d71744f16133eeb5e4736f00b91a19a5bc7d10def2"
+  },
+  "bounded_donor_preservation_restoration_approved": true
+}

@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "68f750ffbe6a19cc27a6ac0f0899cc0845fa9a3999e470d2ba5f92ca88ecf6fe",
+  "after_canonical_source_sha256": "0dbadc35ae748113252398b811641eddb5202fa39634800e34ea2ed15259e5f0",
+  "after_metadata_sha256": "9ac59ad233da23800038bc8b6289ba5eb33fe382d3dd0255cc9e053dab71bf4b",
+  "approved": true,
+  "before_canonical_source_sha256": "db088fa080753deabe1475ada9211f134b2828cab35aa4ec48cb4bf6a5f96fc0",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "0dbadc35ae748113252398b811641eddb5202fa39634800e34ea2ed15259e5f0",
+  "path": "docs/research/sources/lewandowski-2021/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

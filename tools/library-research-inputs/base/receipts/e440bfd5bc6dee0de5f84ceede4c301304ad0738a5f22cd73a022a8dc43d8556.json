@@ -1,0 +1,36 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-source-fit-canonical-stub",
+  "source_path": "answers/geo-basics/which-ai-is-best-for-seo.md",
+  "target_path": "answers/geo-basics/how-does-chatgpt-relate-to-seo.md",
+  "source_fit_status": "MERGED_CANONICAL_STUB",
+  "source_canonical_sha256": "5cd8727e1fa4839200713fda425a3b0708f1c0b26c2c825dfd17f841f54d73e2",
+  "target_effective_canonical_sha256": "217f36ffb005f3aed79a6957d47260be0e07354dc07b542c69403ff15b8fe527",
+  "owner_quote_sha256": "947bc3507c07e21512abe5e5d69bc90340d8f04b84131bffe5aa11c7ce2f4b7f",
+  "required_fact_ids": [
+    "LB-Q0308.p01.s01",
+    "LB-Q0308.p01.s02",
+    "LB-Q0308.p02.s01",
+    "LB-Q0308.p02.s02",
+    "LB-Q0308.p02.s03",
+    "LB-Q0308.p04.s01",
+    "LB-Q0308.p04.s02",
+    "LB-Q0308.p06.s01",
+    "LB-Q0308.p06.s02",
+    "LB-Q0308.p06.s03",
+    "LB-Q0308.p07.s01",
+    "LB-Q0308.p07.s02",
+    "LB-Q0308.p07.s03",
+    "LB-Q0308.p08.s01",
+    "LB-Q0308.p08.s02",
+    "LB-Q0308.p08.s03",
+    "LB-Q0308.p08.s04"
+  ],
+  "preserved_fact_bindings_sha256": "381f877270b5d7d1435dc5fa52b65952cd825895d9fe4c7a76d76bd6344be75f",
+  "required_aliases": [
+    "Which AI is best for SEO?"
+  ],
+  "meta_refresh_seconds": null,
+  "stub_html_sha256": "1c69be1e1f55ceca359c3a874060e4754d8b61787430a11bfb5634a770168d45",
+  "scope": "TEMPLATE ONLY. Root exact preservation decision required; Source old18+new47 peer scopes retained accurately."
+}

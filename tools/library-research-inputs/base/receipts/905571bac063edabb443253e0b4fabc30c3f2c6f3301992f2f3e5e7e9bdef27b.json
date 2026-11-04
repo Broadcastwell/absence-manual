@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md",
+  "bank_id": "LB-Q0554",
+  "canonical_source_sha256": "a68df40d124a06e7d69946fec4e11297ff4c2796d242ba190c00344c4e1b890a",
+  "effective_canonical_source_sha256": "03b579972a63ed275d498bb07a36884cf0fd707a71778410e340eb4356ae58d6",
+  "effective_body_sha256": "bdd6c57671558dcc3faaec7264ddea6ca45ca5e5b3396f5d6d5e6785a5b44ad2",
+  "effective_metadata_sha256": "1c9db55d0c42e131f31a654af1954aa3919da05a27821b86bada2c51521f22e1",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\agents\\does-an-ai-handoff-mean-a-software-purchase-was-completed.md",
+    "raw_sha256": "03b579972a63ed275d498bb07a36884cf0fd707a71778410e340eb4356ae58d6",
+    "canonical_LF_sha256": "03b579972a63ed275d498bb07a36884cf0fd707a71778410e340eb4356ae58d6"
+  },
+  "reviewed_utc": "2026-11-03T10:38:44.186118+00:00",
+  "full_read_basis": "Actual complete source article read plus exact reviewed bounded/fullfuture continuations; current metadata is verified Rootactualdate-only replay. No new single-pass262reread claimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\coverage\\LB-Q0554.source-coverage.json",
+    "raw_sha256": "bd2240d4dcb7b33d49c9a6cde2c5e7b9de757f5a52327ce5b0500fe375cee8e7",
+    "canonical_LF_sha256": "bd2240d4dcb7b33d49c9a6cde2c5e7b9de757f5a52327ce5b0500fe375cee8e7"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00",
+    "scope": "Rootprovided actualprivateadoption, not publicpublication or measuredsourcecapture date."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false
+}

@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "f372172d032526e9147d586493de08faed66fa9747bfd695732c649c55884642",
+  "after_canonical_source_sha256": "bdc5fa1ca4f3664dc55210869f47733063d0a6dba57819e2e361b9e5ca57cf78",
+  "after_metadata_sha256": "6beadbb9df03c444d19e04dcb81628d2728bb70d3ea690a94237408ae9714260",
+  "approved": true,
+  "before_canonical_source_sha256": "ac1c1c2c659975a96d5e555357c2bcacebbbf5920a5468531e38763da2844859",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "bdc5fa1ca4f3664dc55210869f47733063d0a6dba57819e2e361b9e5ca57cf78",
+  "path": "docs/research/insights/who-the-engines-trust/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}

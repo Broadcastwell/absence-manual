@@ -1,0 +1,2523 @@
+{
+  "Library_owned_activation_before_pins": {
+    "tools/library-research-support.json": null,
+    "tools/library-research-support.sha256": null
+  },
+  "Owner11_Source_lineage": {
+    "research/glossary/citation-decay/index.md": {
+      "Source_evidence": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-01/Source_evidence.json",
+        "sha256": "137b2d75b7a3932777f92bece0529478bd55f26eb952deee2690d6e1cf1d5758"
+      },
+      "repair_ledger": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-01/repair_ledger.json",
+        "sha256": "8d9f2619f96b099b475eb3a03b61591c8f146c838b4b5d9dacc86bde62702a74"
+      },
+      "scoped_Source": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-01/scoped_Source.json",
+        "sha256": "11722a3455a4c82146c3b6e0a018f2b719b4b0988a8659879029eaa61e728b19"
+      },
+      "source_id": "OWNER-RESEARCH-01"
+    },
+    "research/glossary/entity-confidence/index.md": {
+      "Source_evidence": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-02/Source_evidence.json",
+        "sha256": "feb2c25d9cda2e28fa64d6c81e538a40af07fb25c5e52cfc866ff8a6fe7d3ada"
+      },
+      "repair_ledger": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-02/repair_ledger.json",
+        "sha256": "d5f843963efcf88d3d0044d21e673a1e2534352a5a88a8f9dcc886b85f341784"
+      },
+      "scoped_Source": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-02/scoped_Source.json",
+        "sha256": "4dd877aad472e46481a880943222340dbd30c2abb68d43683e1dfc1fecc2217b"
+      },
+      "source_id": "OWNER-RESEARCH-02"
+    },
+    "research/glossary/information-gain/index.md": {
+      "Source_evidence": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-03/Source_evidence.json",
+        "sha256": "049bb1e668837f2fa03955abb3cc2f92f556bc3c71b26407ba4657c8b9c265ec"
+      },
+      "repair_ledger": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-03/repair_ledger.json",
+        "sha256": "d2474b7a10aacc6fd398d04af6d73626a972e01ddbba1c3ab0954b25631994dc"
+      },
+      "scoped_Source": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-03/scoped_Source.json",
+        "sha256": "1595013eafb0558182bdd0a57403f49e8fc1bda81c6bae6915ea88a4d2ade34a"
+      },
+      "source_id": "OWNER-RESEARCH-03"
+    },
+    "research/glossary/query-fan-out/index.md": {
+      "Source_evidence": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-04/Source_evidence.json",
+        "sha256": "7df2a9cf6a7a362fed4a078be04a2c35888e98ea41f79a15142a8bd4b46561f5"
+      },
+      "repair_ledger": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-04/repair_ledger.json",
+        "sha256": "fbd8c50cf5624f99673a1f7b7932cb25dd089e9ffd97cd8f70ac6eda1e4686a5"
+      },
+      "scoped_Source": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-04/scoped_Source.json",
+        "sha256": "ba70b1dd18deace7b44016b7282527036eb2f60601f5640ba6413ff888238e19"
+      },
+      "source_id": "OWNER-RESEARCH-04"
+    },
+    "research/glossary/share-of-model/index.md": {
+      "Source_evidence": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-05/Source_evidence.json",
+        "sha256": "09e8cad4fcebdf43b0e673e166eb02230c01aaee675981034436ed8153668bb4"
+      },
+      "repair_ledger": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-05/repair_ledger.json",
+        "sha256": "be7dd200d4b606e43a52799a012c30531df5cef0a67f53cffe7cd50c5fd03e99"
+      },
+      "scoped_Source": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-05/scoped_Source.json",
+        "sha256": "c26536d52c2b7a1cb18b713f4e151531637d8d6cc90944e4faa0ba6bf2cf6900"
+      },
+      "source_id": "OWNER-RESEARCH-05"
+    },
+    "research/glossary/zero-click-visibility/index.md": {
+      "Source_evidence": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-06/Source_evidence.json",
+        "sha256": "c92b83fa97db8cd5c838123acd8b356d5f8002b91f0fa3b38bcfa5983934c3c0"
+      },
+      "repair_ledger": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-06/repair_ledger.json",
+        "sha256": "16372b17f91bb650a4b2f352483db325c06328564d5a6239547a7d4f014075b5"
+      },
+      "scoped_Source": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-06/scoped_Source.json",
+        "sha256": "679610ded425dd496bca35bc588fa898cf454dceec0719ae3fcbb59de5b4318d"
+      },
+      "source_id": "OWNER-RESEARCH-06"
+    },
+    "research/playbooks/llms-txt/index.md": {
+      "Source_evidence": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-07/Source_evidence.json",
+        "sha256": "c71f254d99f01c559910c130e0bf045e531e17b368c1c743bdbfce47ee299ae8"
+      },
+      "repair_ledger": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-07/repair_ledger.json",
+        "sha256": "5451a9e5d39c61d429b11e1ea8c744125ee4c5c61f0fc4e1a79545c2cfb5e7b9"
+      },
+      "scoped_Source": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-07/scoped_Source.json",
+        "sha256": "d0c12278f195ce5ffb33b2b4af63602e0def5b9085e96935f27128e2b51614dd"
+      },
+      "source_id": "OWNER-RESEARCH-07"
+    },
+    "research/playbooks/pages-an-ai-engine-can-quote/index.md": {
+      "Source_evidence": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-08/Source_evidence.json",
+        "sha256": "581a40c75cdd24a5c662636252ff4c63fd188995df703b7b91dbf89e4cc94550"
+      },
+      "repair_ledger": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-08/repair_ledger.json",
+        "sha256": "946c8d2e0c9da84e001072ff66c36dc0aeb01b489aedd892bfec74fd1c7e1b18"
+      },
+      "scoped_Source": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-08/scoped_Source.json",
+        "sha256": "e444e8c09907f407ae1e3cfd1e8626309ad8f17b614665c5f95701acf7518424"
+      },
+      "source_id": "OWNER-RESEARCH-08"
+    },
+    "research/playbooks/research-into-google-scholar/index.md": {
+      "Source_evidence": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-09/Source_evidence.json",
+        "sha256": "867eeb6e8a393ddc4a2aabfaa77b192929507e1b2509744ccf8725522939d516"
+      },
+      "repair_ledger": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-09/repair_ledger.json",
+        "sha256": "835284f2dd91981538eb580f6ec3de6eb902cfe4838d70106dcff2c4f44cf63e"
+      },
+      "scoped_Source": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-09/scoped_Source.json",
+        "sha256": "52216ebad6d54ef8b61fa6b152cdbcd6e6966f76ff87b2249487aa83410ee150"
+      },
+      "source_id": "OWNER-RESEARCH-09"
+    },
+    "research/playbooks/site-structure-basics/index.md": {
+      "Source_evidence": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-10/Source_evidence.json",
+        "sha256": "f40ff923cff68b7def6c34e330eb3d2efc0e2f57f5d63548c9e0548161aec7c9"
+      },
+      "repair_ledger": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-10/repair_ledger.json",
+        "sha256": "1d31328cae6695620b027aa9915a5fa6257efb4315e57746259b584b15803043"
+      },
+      "scoped_Source": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-10/scoped_Source.json",
+        "sha256": "a6635ad6ff59fe1984bbb63aa0bb724508fce3b51a393668aa838537a5702e04"
+      },
+      "source_id": "OWNER-RESEARCH-10"
+    },
+    "research/playbooks/structured-data-for-b2b-software/index.md": {
+      "Source_evidence": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-11/Source_evidence.json",
+        "sha256": "60321ae0d763974dd664d81d4a7d7b2e2c42c914019fdfcb160d96ef06327137"
+      },
+      "repair_ledger": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-11/repair_ledger.json",
+        "sha256": "1e2d4c6f6196d35b5f50baf4c4b943c2a22ae505021456da5d881c432ed6b5cb"
+      },
+      "scoped_Source": {
+        "path": ".library-research-work/owner11/evidence/OWNER-RESEARCH-11/scoped_Source.json",
+        "sha256": "708918e296579a9e4b4d6cbd2378d3b281ebecbb893980e80b729ae1282a17f6"
+      },
+      "source_id": "OWNER-RESEARCH-11"
+    }
+  },
+  "Owner11_actual_Research_adoption_utc": "2026-11-04T15:17:51Z",
+  "Owner11_presentation_date_edits": {
+    "research/glossary/citation-decay/index.md": [],
+    "research/glossary/entity-confidence/index.md": [],
+    "research/glossary/information-gain/index.md": [
+      {
+        "id": "OWNER-RESEARCH-03-CITE-UPDATED",
+        "new": "updated November 4, 2026.",
+        "new_sha256": "ee47f50781075ca1b2dd13e3086cbe3086e0de5e7ad9b056ba5787b2ff88917e",
+        "old": "updated November 3, 2026.",
+        "old_sha256": "774d92271c2b97e85152da13c5a5c75bf6831ede94ee63b2d013efe5cd2f9061"
+      },
+      {
+        "id": "OWNER-RESEARCH-03-BIBTEX-UPDATED",
+        "new": "updated 2026-11-04",
+        "new_sha256": "1922fce283ff944866a8aa23873c3ba2bb6584ec0773cb504fa9cda053abe1cf",
+        "old": "updated 2026-11-03",
+        "old_sha256": "7661b9003658fb158ad2b45a379a9ed53f03b694d7691d4e5936c250acdc23c0"
+      },
+      {
+        "id": "OWNER-RESEARCH-03-LAST-UPDATED",
+        "new": "Last updated: 2026-11-04.",
+        "new_sha256": "8e1f45c94b30b12d8cc737e806484f2c8f7d67e76855441cb4abf223d25eff5c",
+        "old": "Last updated: 2026-11-03.",
+        "old_sha256": "5a0d88a701ba6819452dc01148237fe3599f31a6fe4f93b351b1121c635d47e7"
+      }
+    ],
+    "research/glossary/query-fan-out/index.md": [],
+    "research/glossary/share-of-model/index.md": [],
+    "research/glossary/zero-click-visibility/index.md": [],
+    "research/playbooks/llms-txt/index.md": [
+      {
+        "id": "OWNER-RESEARCH-07-CITE-UPDATED",
+        "new": "updated November 4, 2026.",
+        "new_sha256": "ee47f50781075ca1b2dd13e3086cbe3086e0de5e7ad9b056ba5787b2ff88917e",
+        "old": "updated November 3, 2026.",
+        "old_sha256": "774d92271c2b97e85152da13c5a5c75bf6831ede94ee63b2d013efe5cd2f9061"
+      },
+      {
+        "id": "OWNER-RESEARCH-07-BIBTEX-UPDATED",
+        "new": "updated 2026-11-04",
+        "new_sha256": "1922fce283ff944866a8aa23873c3ba2bb6584ec0773cb504fa9cda053abe1cf",
+        "old": "updated 2026-11-03",
+        "old_sha256": "7661b9003658fb158ad2b45a379a9ed53f03b694d7691d4e5936c250acdc23c0"
+      },
+      {
+        "id": "OWNER-RESEARCH-07-LAST-UPDATED",
+        "new": "Last updated: 2026-11-04.",
+        "new_sha256": "8e1f45c94b30b12d8cc737e806484f2c8f7d67e76855441cb4abf223d25eff5c",
+        "old": "Last updated: 2026-11-03.",
+        "old_sha256": "5a0d88a701ba6819452dc01148237fe3599f31a6fe4f93b351b1121c635d47e7"
+      }
+    ],
+    "research/playbooks/pages-an-ai-engine-can-quote/index.md": [
+      {
+        "id": "OWNER-RESEARCH-08-CITE-UPDATED",
+        "new": "updated November 4, 2026.",
+        "new_sha256": "ee47f50781075ca1b2dd13e3086cbe3086e0de5e7ad9b056ba5787b2ff88917e",
+        "old": "updated November 3, 2026.",
+        "old_sha256": "774d92271c2b97e85152da13c5a5c75bf6831ede94ee63b2d013efe5cd2f9061"
+      },
+      {
+        "id": "OWNER-RESEARCH-08-BIBTEX-UPDATED",
+        "new": "updated 2026-11-04",
+        "new_sha256": "1922fce283ff944866a8aa23873c3ba2bb6584ec0773cb504fa9cda053abe1cf",
+        "old": "updated 2026-11-03",
+        "old_sha256": "7661b9003658fb158ad2b45a379a9ed53f03b694d7691d4e5936c250acdc23c0"
+      },
+      {
+        "id": "OWNER-RESEARCH-08-LAST-UPDATED",
+        "new": "Last updated: 2026-11-04.",
+        "new_sha256": "8e1f45c94b30b12d8cc737e806484f2c8f7d67e76855441cb4abf223d25eff5c",
+        "old": "Last updated: 2026-11-03.",
+        "old_sha256": "5a0d88a701ba6819452dc01148237fe3599f31a6fe4f93b351b1121c635d47e7"
+      }
+    ],
+    "research/playbooks/research-into-google-scholar/index.md": [
+      {
+        "id": "OWNER-RESEARCH-09-CITE-UPDATED",
+        "new": "updated November 4, 2026.",
+        "new_sha256": "ee47f50781075ca1b2dd13e3086cbe3086e0de5e7ad9b056ba5787b2ff88917e",
+        "old": "updated November 3, 2026.",
+        "old_sha256": "774d92271c2b97e85152da13c5a5c75bf6831ede94ee63b2d013efe5cd2f9061"
+      },
+      {
+        "id": "OWNER-RESEARCH-09-BIBTEX-UPDATED",
+        "new": "updated 2026-11-04",
+        "new_sha256": "1922fce283ff944866a8aa23873c3ba2bb6584ec0773cb504fa9cda053abe1cf",
+        "old": "updated 2026-11-03",
+        "old_sha256": "7661b9003658fb158ad2b45a379a9ed53f03b694d7691d4e5936c250acdc23c0"
+      },
+      {
+        "id": "OWNER-RESEARCH-09-LAST-UPDATED",
+        "new": "Last updated: 2026-11-04.",
+        "new_sha256": "8e1f45c94b30b12d8cc737e806484f2c8f7d67e76855441cb4abf223d25eff5c",
+        "old": "Last updated: 2026-11-03.",
+        "old_sha256": "5a0d88a701ba6819452dc01148237fe3599f31a6fe4f93b351b1121c635d47e7"
+      }
+    ],
+    "research/playbooks/site-structure-basics/index.md": [
+      {
+        "id": "OWNER-RESEARCH-10-CITE-UPDATED",
+        "new": "updated November 4, 2026.",
+        "new_sha256": "ee47f50781075ca1b2dd13e3086cbe3086e0de5e7ad9b056ba5787b2ff88917e",
+        "old": "updated November 3, 2026.",
+        "old_sha256": "774d92271c2b97e85152da13c5a5c75bf6831ede94ee63b2d013efe5cd2f9061"
+      },
+      {
+        "id": "OWNER-RESEARCH-10-BIBTEX-UPDATED",
+        "new": "updated 2026-11-04",
+        "new_sha256": "1922fce283ff944866a8aa23873c3ba2bb6584ec0773cb504fa9cda053abe1cf",
+        "old": "updated 2026-11-03",
+        "old_sha256": "7661b9003658fb158ad2b45a379a9ed53f03b694d7691d4e5936c250acdc23c0"
+      },
+      {
+        "id": "OWNER-RESEARCH-10-LAST-UPDATED",
+        "new": "Last updated: 2026-11-04.",
+        "new_sha256": "8e1f45c94b30b12d8cc737e806484f2c8f7d67e76855441cb4abf223d25eff5c",
+        "old": "Last updated: 2026-11-03.",
+        "old_sha256": "5a0d88a701ba6819452dc01148237fe3599f31a6fe4f93b351b1121c635d47e7"
+      }
+    ],
+    "research/playbooks/structured-data-for-b2b-software/index.md": [
+      {
+        "id": "OWNER-RESEARCH-11-CITE-UPDATED",
+        "new": "updated November 4, 2026.",
+        "new_sha256": "ee47f50781075ca1b2dd13e3086cbe3086e0de5e7ad9b056ba5787b2ff88917e",
+        "old": "updated November 3, 2026.",
+        "old_sha256": "774d92271c2b97e85152da13c5a5c75bf6831ede94ee63b2d013efe5cd2f9061"
+      },
+      {
+        "id": "OWNER-RESEARCH-11-BIBTEX-UPDATED",
+        "new": "updated 2026-11-04",
+        "new_sha256": "1922fce283ff944866a8aa23873c3ba2bb6584ec0773cb504fa9cda053abe1cf",
+        "old": "updated 2026-11-03",
+        "old_sha256": "7661b9003658fb158ad2b45a379a9ed53f03b694d7691d4e5936c250acdc23c0"
+      },
+      {
+        "id": "OWNER-RESEARCH-11-LAST-UPDATED",
+        "new": "Last updated: 2026-11-04.",
+        "new_sha256": "8e1f45c94b30b12d8cc737e806484f2c8f7d67e76855441cb4abf223d25eff5c",
+        "old": "Last updated: 2026-11-03.",
+        "old_sha256": "5a0d88a701ba6819452dc01148237fe3599f31a6fe4f93b351b1121c635d47e7"
+      }
+    ]
+  },
+  "Owner11_preserved_claim_spans": {
+    "research/glossary/citation-decay/index.md": [
+      {
+        "id": "OWNER-RESEARCH-01-OWN-01",
+        "sha256": "74385076dc07bf0535809b757664f1b3102be7745c6b46fd5f7e277ee942105a",
+        "text": "**Does not support:** We have no measurement on this point: citation decay. Study 3 is a registered protocol for release-to-release absence persistence and remains unrun until its comparability conditions are met. Vendor absence persistence is also a different event from a particular URL’s citation half-life."
+      },
+      {
+        "id": "OWNER-RESEARCH-01-OWN-02",
+        "sha256": "de3832f22288a4e8297a2a91c5d867997d6c79082b8c5ded94ed167918909328",
+        "text": "**Supports:** The [September 2026 release](https://doi.org/10.5281/zenodo.22907695) supplies the answers for our repeated-question analysis. In answers captured on **22 and 23 September 2026**, it observed **1,259 mixed-naming groups among 14,192 complete vendor-question-engine groups: 8.9%, Wilson 95% interval 8.4% to 9.4%**. Mixed means named in one or two of three valid repeats. These within-release groups do not measure elapsed-time decay. See [the measurement-noise finding](/research/insights/one-rank-number-is-a-fiction/) and the [Study 3 protocol](/research/studies/does-absence-persist/)."
+      },
+      {
+        "id": "OWNER-RESEARCH-01-HISTORY-01",
+        "sha256": "2a45317a95e8ff5dd8a080fb223d38fb01f2e9df1eb0d2ca854d2e206c58ca77",
+        "text": "Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2."
+      },
+      {
+        "id": "OWNER-RESEARCH-01-HISTORY-02",
+        "sha256": "6b7f078b283163d8f6c19c6319d9590a06c293999b622a8cbcb4e65d53bc7249",
+        "text": "Published November 2, 2026"
+      },
+      {
+        "id": "OWNER-RESEARCH-01-HISTORY-03",
+        "sha256": "1778c7e0b148b2bd000cbb50dc02eeb2aa56fe908f471d112e99ed78c8b91937",
+        "text": "year = {2026},\n  date = {2026-11-02}"
+      },
+      {
+        "id": "OWNER-RESEARCH-01-HISTORY-04",
+        "sha256": "89f6412b03a8995b393383af55884ee6922b8a9027b6e46d2b83a2874bea9f77",
+        "text": "note = {Published 2026-11-02"
+      },
+      {
+        "id": "OWNER-RESEARCH-01-HISTORY-05",
+        "sha256": "069e38170418c09cb7671a5795f06ab0cda44b1007cf6d702f3fec8cd82bde43",
+        "text": "urldate = {2026-11-03}"
+      },
+      {
+        "id": "OWNER-RESEARCH-01-HISTORY-06",
+        "sha256": "cc7aff2f92288e1e286f4b069903cc83659f53f3ec76d22ebc71e64bc8f5b4f6",
+        "text": "Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026."
+      }
+    ],
+    "research/glossary/entity-confidence/index.md": [
+      {
+        "id": "OWNER-RESEARCH-02-OWN-01",
+        "sha256": "f46a83abe85e9cb011b0aed81f271ad57928358ba91c1de1f81f40d88be9657a",
+        "text": "Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695)."
+      },
+      {
+        "id": "OWNER-RESEARCH-02-OWN-02",
+        "sha256": "cf7fd62982601d5f18b28e4f915b6a843d23b10f657a88f1ba680e2b7f8e4cbf",
+        "text": "**Supports:** Our published method uses explicit **name and domain matching rules**. These produce observed matching events; they are not confidence scores inside an engine. Study 2’s **8,085 named pairs among 42,792 eligible vendor-answer pairs** came from answers captured on **22 and 23 September 2026**. They are counted under those rules, not graded on a hidden certainty scale."
+      },
+      {
+        "id": "OWNER-RESEARCH-02-OWN-03",
+        "sha256": "96885aff5607570f28fbff0f005817f19dce5d29dcb6549b0fe1565a9b75735d",
+        "text": "The [public matching dictionary and method](/research/studies/who-ai-engines-cite/) let a reader inspect what qualified as a naming or own-domain-citation event. We have not measured Entity Confidence or validated a vendor’s composite confidence score."
+      },
+      {
+        "id": "OWNER-RESEARCH-02-OWN-04",
+        "sha256": "19f1831f6ae3c64d228fd3ff4c73a76cfb533477a5c3fa8071f39ae6a59dbfeb",
+        "text": "**Does not support:** Future rankings or a causal publishing effect."
+      },
+      {
+        "id": "OWNER-RESEARCH-02-HISTORY-01",
+        "sha256": "2a45317a95e8ff5dd8a080fb223d38fb01f2e9df1eb0d2ca854d2e206c58ca77",
+        "text": "Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2."
+      },
+      {
+        "id": "OWNER-RESEARCH-02-HISTORY-02",
+        "sha256": "6b7f078b283163d8f6c19c6319d9590a06c293999b622a8cbcb4e65d53bc7249",
+        "text": "Published November 2, 2026"
+      },
+      {
+        "id": "OWNER-RESEARCH-02-HISTORY-03",
+        "sha256": "1778c7e0b148b2bd000cbb50dc02eeb2aa56fe908f471d112e99ed78c8b91937",
+        "text": "year = {2026},\n  date = {2026-11-02}"
+      },
+      {
+        "id": "OWNER-RESEARCH-02-HISTORY-04",
+        "sha256": "89f6412b03a8995b393383af55884ee6922b8a9027b6e46d2b83a2874bea9f77",
+        "text": "note = {Published 2026-11-02"
+      },
+      {
+        "id": "OWNER-RESEARCH-02-HISTORY-05",
+        "sha256": "069e38170418c09cb7671a5795f06ab0cda44b1007cf6d702f3fec8cd82bde43",
+        "text": "urldate = {2026-11-03}"
+      },
+      {
+        "id": "OWNER-RESEARCH-02-HISTORY-06",
+        "sha256": "cc7aff2f92288e1e286f4b069903cc83659f53f3ec76d22ebc71e64bc8f5b4f6",
+        "text": "Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026."
+      }
+    ],
+    "research/glossary/information-gain/index.md": [
+      {
+        "id": "OWNER-RESEARCH-03-OWN-01",
+        "sha256": "0e8199f35c5bf50574459313cc15705bfc08f868d4ef7e405317ad068b4fe770",
+        "text": "**Does not support:** We have no measured information-gain score or visibility effect from publishing these pages. Our reanalyses and registered descriptive studies describe page signals and source-class citation shares."
+      },
+      {
+        "id": "OWNER-RESEARCH-03-OWN-02",
+        "sha256": "af254953b9fcb65dc4e02adf8cdf3358d04a29ba96fc685d9586c67fe58eeebf",
+        "text": "**Supports:** [Study 2](/research/studies/who-ai-engines-cite/) distinguishes its frozen classification from a later host audit. The correction documents classification sensitivity; it does not show an engine rewarding originality."
+      },
+      {
+        "id": "OWNER-RESEARCH-03-OWN-03",
+        "sha256": "b16f29670d5a582e5ef3cda4c58f54a3bfcf23b456204462ab0af7ae402957f3",
+        "text": "Our 30 October 2026 host audit changed the review-platform classification from 1,663 of 18,893 target citation entries, 8.8% with a descriptive 95% Wilson interval of 8.4% to 9.2%, to 1,706 of the same 18,893 entries, 9.0% with an interval of 8.6% to 9.4%. The answers were captured on 22 and 23 September 2026. The [frozen and post-audit tables](/research/studies/who-ai-engines-cite/#what-changed-after-the-publisher-purpose-audit) preserve both readings. This is additional evidence about a classification, with no measured information-gain score or ranking effect."
+      },
+      {
+        "id": "OWNER-RESEARCH-03-PATENT-01",
+        "sha256": "0bbafa1b1a2ce86260b2c2475e8d9b47cd177b36db20dd2b187c144f639f624b",
+        "text": "Carbune and Anders’s patent abstract refers to “documents that were previously viewed by the user”. The comparison depends on that user’s previous information; the patent does not prove a universal production ranking score. [US11354342B2, abstract; verified 30 October 2026]."
+      },
+      {
+        "id": "OWNER-RESEARCH-03-HISTORY-01",
+        "sha256": "2a45317a95e8ff5dd8a080fb223d38fb01f2e9df1eb0d2ca854d2e206c58ca77",
+        "text": "Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2."
+      },
+      {
+        "id": "OWNER-RESEARCH-03-HISTORY-02",
+        "sha256": "6b7f078b283163d8f6c19c6319d9590a06c293999b622a8cbcb4e65d53bc7249",
+        "text": "Published November 2, 2026"
+      },
+      {
+        "id": "OWNER-RESEARCH-03-HISTORY-03",
+        "sha256": "1778c7e0b148b2bd000cbb50dc02eeb2aa56fe908f471d112e99ed78c8b91937",
+        "text": "year = {2026},\n  date = {2026-11-02}"
+      },
+      {
+        "id": "OWNER-RESEARCH-03-HISTORY-04",
+        "sha256": "89f6412b03a8995b393383af55884ee6922b8a9027b6e46d2b83a2874bea9f77",
+        "text": "note = {Published 2026-11-02"
+      },
+      {
+        "id": "OWNER-RESEARCH-03-HISTORY-05",
+        "sha256": "74e6ee8d037db52028574ce42f4ddae189a2a5de646affd42a7b275a640220f0",
+        "text": "urldate = {2026-11-02}"
+      },
+      {
+        "id": "OWNER-RESEARCH-03-HISTORY-06",
+        "sha256": "cc7aff2f92288e1e286f4b069903cc83659f53f3ec76d22ebc71e64bc8f5b4f6",
+        "text": "Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026."
+      }
+    ],
+    "research/glossary/query-fan-out/index.md": [
+      {
+        "id": "OWNER-RESEARCH-04-OWN-01",
+        "sha256": "f46a83abe85e9cb011b0aed81f271ad57928358ba91c1de1f81f40d88be9657a",
+        "text": "Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695)."
+      },
+      {
+        "id": "OWNER-RESEARCH-04-OWN-02",
+        "sha256": "c8f29d951821e269082d0985e0d4aa16141c8e9b9df1d81eeb87da384c61270f",
+        "text": "**Supports:** Our released answer archive supports citation and naming analysis, **not a complete fan-out trace**. Study 2 counted **18,893 citation occurrences in 2,095 eligible target answers**, separately from **1,297 occurrences in 150 control answers**. The answers were captured on **22 and 23 September 2026**. These counts describe the saved citation lists, not how many searches generated them."
+      },
+      {
+        "id": "OWNER-RESEARCH-04-OWN-03",
+        "sha256": "beb8feefe27949b563c8a36fec2885d1c0b7b943c3cc90f0fa7a53472c460b63",
+        "text": "The [registered citation study](/research/studies/who-ai-engines-cite/) publishes its inclusion rules and source-class tables. Those are the published outcome labels. No result there establishes which unobserved subquery caused a source to be chosen."
+      },
+      {
+        "id": "OWNER-RESEARCH-04-OWN-04",
+        "sha256": "19f1831f6ae3c64d228fd3ff4c73a76cfb533477a5c3fa8071f39ae6a59dbfeb",
+        "text": "**Does not support:** Future rankings or a causal publishing effect."
+      },
+      {
+        "id": "OWNER-RESEARCH-04-HISTORY-01",
+        "sha256": "2a45317a95e8ff5dd8a080fb223d38fb01f2e9df1eb0d2ca854d2e206c58ca77",
+        "text": "Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2."
+      },
+      {
+        "id": "OWNER-RESEARCH-04-HISTORY-02",
+        "sha256": "6b7f078b283163d8f6c19c6319d9590a06c293999b622a8cbcb4e65d53bc7249",
+        "text": "Published November 2, 2026"
+      },
+      {
+        "id": "OWNER-RESEARCH-04-HISTORY-03",
+        "sha256": "1778c7e0b148b2bd000cbb50dc02eeb2aa56fe908f471d112e99ed78c8b91937",
+        "text": "year = {2026},\n  date = {2026-11-02}"
+      },
+      {
+        "id": "OWNER-RESEARCH-04-HISTORY-04",
+        "sha256": "89f6412b03a8995b393383af55884ee6922b8a9027b6e46d2b83a2874bea9f77",
+        "text": "note = {Published 2026-11-02"
+      },
+      {
+        "id": "OWNER-RESEARCH-04-HISTORY-05",
+        "sha256": "069e38170418c09cb7671a5795f06ab0cda44b1007cf6d702f3fec8cd82bde43",
+        "text": "urldate = {2026-11-03}"
+      },
+      {
+        "id": "OWNER-RESEARCH-04-HISTORY-06",
+        "sha256": "cc7aff2f92288e1e286f4b069903cc83659f53f3ec76d22ebc71e64bc8f5b4f6",
+        "text": "Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026."
+      }
+    ],
+    "research/glossary/share-of-model/index.md": [
+      {
+        "id": "OWNER-RESEARCH-05-OWN-01",
+        "sha256": "f46a83abe85e9cb011b0aed81f271ad57928358ba91c1de1f81f40d88be9657a",
+        "text": "Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695)."
+      },
+      {
+        "id": "OWNER-RESEARCH-05-OWN-02",
+        "sha256": "0393e660323157d0f44f04c933b5b1662a584a9504c0144290f60ba1c9f9ee9d",
+        "text": "**Supports:** The Absence Index calls its answer-level outcome **naming rate**, with the eligible answer base stated in the release. Study 2 separately reports vendor-answer pairs, own-domain citations and named-without-own-citation events. Those measures retain their own names; we do not relabel them Share of Model."
+      },
+      {
+        "id": "OWNER-RESEARCH-05-OWN-03",
+        "sha256": "d400d28414c6c7f808cb4a8343d3126b42d485bcb92d29be6ceb661db6c19b22",
+        "text": "For example, the registered citation analysis of answers captured on **22 and 23 September 2026** finds **2,608 own-domain citation events among 8,085 named vendor-answer pairs: 32.3%, Wilson 95% interval 31.2% to 33.3%**. This is conditional citation coverage among named pairs, not a category-mention share. The [Study 2 table and public reproduction files](/research/studies/who-ai-engines-cite/) supply the exact units and underlying counts."
+      },
+      {
+        "id": "OWNER-RESEARCH-05-OWN-04",
+        "sha256": "19f1831f6ae3c64d228fd3ff4c73a76cfb533477a5c3fa8071f39ae6a59dbfeb",
+        "text": "**Does not support:** Future rankings or a causal publishing effect."
+      },
+      {
+        "id": "OWNER-RESEARCH-05-HISTORY-01",
+        "sha256": "2a45317a95e8ff5dd8a080fb223d38fb01f2e9df1eb0d2ca854d2e206c58ca77",
+        "text": "Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2."
+      },
+      {
+        "id": "OWNER-RESEARCH-05-HISTORY-02",
+        "sha256": "6b7f078b283163d8f6c19c6319d9590a06c293999b622a8cbcb4e65d53bc7249",
+        "text": "Published November 2, 2026"
+      },
+      {
+        "id": "OWNER-RESEARCH-05-HISTORY-03",
+        "sha256": "1778c7e0b148b2bd000cbb50dc02eeb2aa56fe908f471d112e99ed78c8b91937",
+        "text": "year = {2026},\n  date = {2026-11-02}"
+      },
+      {
+        "id": "OWNER-RESEARCH-05-HISTORY-04",
+        "sha256": "89f6412b03a8995b393383af55884ee6922b8a9027b6e46d2b83a2874bea9f77",
+        "text": "note = {Published 2026-11-02"
+      },
+      {
+        "id": "OWNER-RESEARCH-05-HISTORY-05",
+        "sha256": "069e38170418c09cb7671a5795f06ab0cda44b1007cf6d702f3fec8cd82bde43",
+        "text": "urldate = {2026-11-03}"
+      },
+      {
+        "id": "OWNER-RESEARCH-05-HISTORY-06",
+        "sha256": "cc7aff2f92288e1e286f4b069903cc83659f53f3ec76d22ebc71e64bc8f5b4f6",
+        "text": "Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026."
+      }
+    ],
+    "research/glossary/zero-click-visibility/index.md": [
+      {
+        "id": "OWNER-RESEARCH-06-OWN-01",
+        "sha256": "f46a83abe85e9cb011b0aed81f271ad57928358ba91c1de1f81f40d88be9657a",
+        "text": "Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695)."
+      },
+      {
+        "id": "OWNER-RESEARCH-06-OWN-02",
+        "sha256": "e996990e80d6ebdd46e5382e0370e6813287116937eea9db2187cccbaa954ab0",
+        "text": "**Supports:** In answers captured on **22 and 23 September 2026**, Study 2 found **5,477 named-without-own-domain-citation pairs among 42,792 eligible vendor-answer pairs: 12.8%, Wilson 95% interval 12.5% to 13.1%**. The [citation study](/research/studies/who-ai-engines-cite/) explains that denominator and exact matching rules."
+      },
+      {
+        "id": "OWNER-RESEARCH-06-OWN-03",
+        "sha256": "8611df934e435b38f191102d13834106e6e8cf3f197b78f5b03bb6ac2deeeeec",
+        "text": "This is a naming-without-own-citation result, **not a measured zero-click rate**. Another source could still be linked, and the archive contains no linked reader-click history. Our published method therefore keeps naming, own-domain citation and visitor behavior as separate concepts."
+      },
+      {
+        "id": "OWNER-RESEARCH-06-OWN-04",
+        "sha256": "19f1831f6ae3c64d228fd3ff4c73a76cfb533477a5c3fa8071f39ae6a59dbfeb",
+        "text": "**Does not support:** Future rankings or a causal publishing effect."
+      },
+      {
+        "id": "OWNER-RESEARCH-06-HISTORY-01",
+        "sha256": "2a45317a95e8ff5dd8a080fb223d38fb01f2e9df1eb0d2ca854d2e206c58ca77",
+        "text": "Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2."
+      },
+      {
+        "id": "OWNER-RESEARCH-06-HISTORY-02",
+        "sha256": "6b7f078b283163d8f6c19c6319d9590a06c293999b622a8cbcb4e65d53bc7249",
+        "text": "Published November 2, 2026"
+      },
+      {
+        "id": "OWNER-RESEARCH-06-HISTORY-03",
+        "sha256": "1778c7e0b148b2bd000cbb50dc02eeb2aa56fe908f471d112e99ed78c8b91937",
+        "text": "year = {2026},\n  date = {2026-11-02}"
+      },
+      {
+        "id": "OWNER-RESEARCH-06-HISTORY-04",
+        "sha256": "89f6412b03a8995b393383af55884ee6922b8a9027b6e46d2b83a2874bea9f77",
+        "text": "note = {Published 2026-11-02"
+      },
+      {
+        "id": "OWNER-RESEARCH-06-HISTORY-05",
+        "sha256": "069e38170418c09cb7671a5795f06ab0cda44b1007cf6d702f3fec8cd82bde43",
+        "text": "urldate = {2026-11-03}"
+      },
+      {
+        "id": "OWNER-RESEARCH-06-HISTORY-06",
+        "sha256": "cc7aff2f92288e1e286f4b069903cc83659f53f3ec76d22ebc71e64bc8f5b4f6",
+        "text": "Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026."
+      }
+    ],
+    "research/playbooks/llms-txt/index.md": [
+      {
+        "id": "OWNER-RESEARCH-07-OWN-01",
+        "sha256": "06c0002aca4786c8da6c530a78ff11ead09222e868384da4a273ca4f5511092b",
+        "text": "**Does not support:** We have no measurement on this point: whether serving our llms.txt changes citation or naming. Broadcastwell serves a public llms.txt file, which was opened directly for this guide. We have no measurement showing that the file increased our citations, naming rate or buyer visits. Presence and effect remain separate questions."
+      },
+      {
+        "id": "OWNER-RESEARCH-07-OWN-02",
+        "sha256": "d7037f592102c698a3ed3046fcbf2210a17b1e221d81a03120b3eb68c1c06e46",
+        "text": "**Supports:** The initial crawler-log record covers selected public Index HTML routes. It is not a log of all requests to the documentation host or a proof of llms.txt consumption."
+      },
+      {
+        "id": "OWNER-RESEARCH-07-OWN-03",
+        "sha256": "1424bdacc8dd579f6da3c370c514ce78afc8c07df5f9e39dfbadf828682aa1c1",
+        "text": "Our [page-signal study](/research/studies/optimized-pages-in-ai-answers/) found llms.txt on 774 of 1,600 distinct final website origins hosting successfully captured target pages on 30 October 2026: 48.4%, with a descriptive 95% Wilson interval of 45.9% to 50.8%. An origin is the scheme, host and any port. Eighty-five of the 1,600 origin results were unknown. These were later file checks on the sources of answers captured on 22 and 23 September, not observations of an engine consuming the file or a test of a visibility effect."
+      },
+      {
+        "id": "OWNER-RESEARCH-07-HISTORY-01",
+        "sha256": "88caa7a9e0c6b6d56b0c1cc51899ff833488ccf0aed48a47373c2f3cd0ce6dbb",
+        "text": "Published 30 October 2026"
+      },
+      {
+        "id": "OWNER-RESEARCH-07-HISTORY-02",
+        "sha256": "4546b0e20fc323d5c0e865176fc0895f11989c3b7389850b980631a7d8ae2bf9",
+        "text": "year = {2026},\n  date = {2026-10-30}"
+      },
+      {
+        "id": "OWNER-RESEARCH-07-HISTORY-03",
+        "sha256": "20b2644ba899015675bf6797f9cb93f57af4775d8ec5bee66e2616f90a173f9f",
+        "text": "note = {Published 2026-10-30"
+      },
+      {
+        "id": "OWNER-RESEARCH-07-HISTORY-04",
+        "sha256": "7578e784c71bd8f628fa1d50cffeac6073cbc8b7337d4bd516dc2a79a220b79a",
+        "text": "urldate = {2026-10-30}"
+      },
+      {
+        "id": "OWNER-RESEARCH-07-HISTORY-05",
+        "sha256": "cc7aff2f92288e1e286f4b069903cc83659f53f3ec76d22ebc71e64bc8f5b4f6",
+        "text": "Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026."
+      }
+    ],
+    "research/playbooks/pages-an-ai-engine-can-quote/index.md": [
+      {
+        "id": "OWNER-RESEARCH-08-OWN-01",
+        "sha256": "d60933e63a5e17130ebbca0922a9cc62a47a1243cc2b41220c9adff9e22ba5b4",
+        "text": "**Does not support:** We have no measurement on this point: the causal effect of this page format on citations or sales. Study 1 registers a descriptive test of observable signals on pages cited in the September Index. Its public plan distinguishes strong signals, weak signals, missing metadata and fetch failures. Those classes do not measure the causal benefit of rewriting a sentence."
+      },
+      {
+        "id": "OWNER-RESEARCH-08-OWN-02",
+        "sha256": "2b6d78822f63a0da3991b7f55c78c9831e4f212113e5fc2defc423b1156df8c2",
+        "text": "**Supports:** We have no controlled measurement showing that this page format increases citations or sales. The released Index supplies dated naming and citation observations, which are a different outcome from an intervention effect."
+      },
+      {
+        "id": "OWNER-RESEARCH-08-OWN-03",
+        "sha256": "016554e69adac61c7651bcdafa15913f2ecd1bcff0437a2d3018faee35b92bc1",
+        "text": "A worked example from our [published citation study](/research/studies/who-ai-engines-cite/) is: 39 of 2,095 eligible target answers captured on 22 and 23 September 2026 had empty supplied citation lists, 1.9%, with a descriptive 95% Wilson interval of 1.4% to 2.5%. The [answer-base table](/research/data/answer-citation-bases.csv) makes the unit and denominator recoverable. This sentence illustrates how to report our own count; it does not show that this writing format earns a citation, or that those answers used no underlying sources."
+      },
+      {
+        "id": "OWNER-RESEARCH-08-GEO-01",
+        "sha256": "69f6f7868494e3e965147428c8344454092611e6d5797821d8945d0d98764d18",
+        "text": "**Write a supported answer whose evidence, date and counted unit remain clear when the passage is read alone.**"
+      },
+      {
+        "id": "OWNER-RESEARCH-08-GEO-02",
+        "sha256": "3578cc491e276f16109747b8f3a8d80a3546b0412758aaadee76faee25771b65",
+        "text": "Aggarwal and colleagues tested statistics, quotations and source citations in an experimental answer system using position-adjusted word-count visibility and subjective impressions. Those measures are not the probability that an AI engine will cite a newly published B2B page. [Aggarwal et al., 2024, Table 1 and §4](https://arxiv.org/html/2311.09735v3)."
+      },
+      {
+        "id": "OWNER-RESEARCH-08-GEO-03",
+        "sha256": "de51f69848985570ab4f0ff659588e5086002101cdb7f767e371173943f7b851",
+        "text": "The paper’s main result and five-seed appendix do not report the same estimates. We treat that headline as fragile rather than adopting it as a publishing effect. The paper also examines a deployed system, where results vary by method. Neither setting establishes a universal performance promise for a B2B page."
+      },
+      {
+        "id": "OWNER-RESEARCH-08-HISTORY-01",
+        "sha256": "88caa7a9e0c6b6d56b0c1cc51899ff833488ccf0aed48a47373c2f3cd0ce6dbb",
+        "text": "Published 30 October 2026"
+      },
+      {
+        "id": "OWNER-RESEARCH-08-HISTORY-02",
+        "sha256": "4546b0e20fc323d5c0e865176fc0895f11989c3b7389850b980631a7d8ae2bf9",
+        "text": "year = {2026},\n  date = {2026-10-30}"
+      },
+      {
+        "id": "OWNER-RESEARCH-08-HISTORY-03",
+        "sha256": "20b2644ba899015675bf6797f9cb93f57af4775d8ec5bee66e2616f90a173f9f",
+        "text": "note = {Published 2026-10-30"
+      },
+      {
+        "id": "OWNER-RESEARCH-08-HISTORY-04",
+        "sha256": "7578e784c71bd8f628fa1d50cffeac6073cbc8b7337d4bd516dc2a79a220b79a",
+        "text": "urldate = {2026-10-30}"
+      },
+      {
+        "id": "OWNER-RESEARCH-08-HISTORY-05",
+        "sha256": "cc7aff2f92288e1e286f4b069903cc83659f53f3ec76d22ebc71e64bc8f5b4f6",
+        "text": "Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026."
+      }
+    ],
+    "research/playbooks/research-into-google-scholar/index.md": [
+      {
+        "id": "OWNER-RESEARCH-09-OWN-01",
+        "sha256": "f3ca65c4f14d3d681c7d0f2cc4aecae1b4368182d3e0911abfb9203dcc775d89",
+        "text": "**Does not support:** We have no measurement on this point: whether this new research section has gained inclusion because of the proposed publishing changes. Our source review reproduces the historical academic-search calculation from the authors’ deposited workbooks, DOI 10.5281/zenodo.3381151. That reanalysis is distinct from measuring whether our own research appears in Google Scholar or Dataset Search."
+      },
+      {
+        "id": "OWNER-RESEARCH-09-OWN-02",
+        "sha256": "8b00c319933086064460051cecee8ffb8fee15942b1f386e15a06ef1e7694ef6",
+        "text": "**Supports:** We have no verified inclusion result for this new research section in either discovery service at the time of writing. Existing Zenodo DOI records establish deposited identities and files, not a visibility gain from those deposits."
+      },
+      {
+        "id": "OWNER-RESEARCH-09-OWN-03",
+        "sha256": "e11c001c6ed38414550d384f100799c3dcab3e2c54bb9638f07df62dfd5ea823",
+        "text": "Our [published workbook reanalysis](/research/data/rovira-workbook-reanalysis.csv), checked on 30 October 2026, found that using all 25 query columns changed 456 of 1,000 stored median result-position summaries in the authors’ one-term, title-restricted Google Scholar workbook. The original observations were collected in May 2019. This is a finite calculation check, with no sampling interval; the 456 changed summaries are not 456 searches, papers accepted into Scholar or a measured inclusion tactic."
+      },
+      {
+        "id": "OWNER-RESEARCH-09-HISTORY-01",
+        "sha256": "88caa7a9e0c6b6d56b0c1cc51899ff833488ccf0aed48a47373c2f3cd0ce6dbb",
+        "text": "Published 30 October 2026"
+      },
+      {
+        "id": "OWNER-RESEARCH-09-HISTORY-02",
+        "sha256": "4546b0e20fc323d5c0e865176fc0895f11989c3b7389850b980631a7d8ae2bf9",
+        "text": "year = {2026},\n  date = {2026-10-30}"
+      },
+      {
+        "id": "OWNER-RESEARCH-09-HISTORY-03",
+        "sha256": "20b2644ba899015675bf6797f9cb93f57af4775d8ec5bee66e2616f90a173f9f",
+        "text": "note = {Published 2026-10-30"
+      },
+      {
+        "id": "OWNER-RESEARCH-09-HISTORY-04",
+        "sha256": "7578e784c71bd8f628fa1d50cffeac6073cbc8b7337d4bd516dc2a79a220b79a",
+        "text": "urldate = {2026-10-30}"
+      },
+      {
+        "id": "OWNER-RESEARCH-09-HISTORY-05",
+        "sha256": "cc7aff2f92288e1e286f4b069903cc83659f53f3ec76d22ebc71e64bc8f5b4f6",
+        "text": "Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026."
+      }
+    ],
+    "research/playbooks/site-structure-basics/index.md": [
+      {
+        "id": "OWNER-RESEARCH-10-OWN-01",
+        "sha256": "fed00311001a8478b37a8adbc04e0aaa633ddb93565fa306ec344199229514d0",
+        "text": "**Does not support:** We have no measurement on this point: the causal citation effect of these site-structure changes. The Index’s archived answers can identify which URLs were visibly cited on stated dates. They do not expose every retrieval step or establish that a breadcrumb, slug or response code caused selection."
+      },
+      {
+        "id": "OWNER-RESEARCH-10-OWN-02",
+        "sha256": "14a2eef60835b4d289642d22589a70dba9ac0522fd9bdaff7697309bf5c98170",
+        "text": "**Supports:** No causal effect was measured. Their immediate purpose is to keep public pages reachable, understandable and accurately identified."
+      },
+      {
+        "id": "OWNER-RESEARCH-10-OWN-03",
+        "sha256": "495ed239df0951682b5a7d5d7ab5a93efe4511a0826669d4470df0516a842546",
+        "text": "In our 30 October 2026 [static-page study](/research/studies/optimized-pages-in-ai-answers/), 4,179 of 4,420 successfully captured target URL records contained a canonical link: 94.5%, with a descriptive 95% Wilson interval of 93.8% to 95.2%. These URL records came from citations in answers captured on 22 and 23 September. The [published signal rows](/research/data/study1-url-classifications.csv) record the link’s presence, without establishing Google’s selected canonical or a citation benefit. Failed captures are outside this base."
+      },
+      {
+        "id": "OWNER-RESEARCH-10-HISTORY-01",
+        "sha256": "88caa7a9e0c6b6d56b0c1cc51899ff833488ccf0aed48a47373c2f3cd0ce6dbb",
+        "text": "Published 30 October 2026"
+      },
+      {
+        "id": "OWNER-RESEARCH-10-HISTORY-02",
+        "sha256": "4546b0e20fc323d5c0e865176fc0895f11989c3b7389850b980631a7d8ae2bf9",
+        "text": "year = {2026},\n  date = {2026-10-30}"
+      },
+      {
+        "id": "OWNER-RESEARCH-10-HISTORY-03",
+        "sha256": "20b2644ba899015675bf6797f9cb93f57af4775d8ec5bee66e2616f90a173f9f",
+        "text": "note = {Published 2026-10-30"
+      },
+      {
+        "id": "OWNER-RESEARCH-10-HISTORY-04",
+        "sha256": "7578e784c71bd8f628fa1d50cffeac6073cbc8b7337d4bd516dc2a79a220b79a",
+        "text": "urldate = {2026-10-30}"
+      },
+      {
+        "id": "OWNER-RESEARCH-10-HISTORY-05",
+        "sha256": "ba6e3b84655be27366250c425b3a1409e9ef960f5e7546706a9e331eec6e2555",
+        "text": "Sources checked 30 October 2026. This page has not been peer reviewed."
+      }
+    ],
+    "research/playbooks/structured-data-for-b2b-software/index.md": [
+      {
+        "id": "OWNER-RESEARCH-11-OWN-01",
+        "sha256": "ad26b8a8e2ba6fb19d345242e7454616ac8e83751bb046aec1bb3cee4710f8ea",
+        "text": "**Does not support:** We have no measurement on this point: the causal effect of adding a particular structured-data type on AI citation. Our registered page-signal study includes JSON-LD and microdata as observable signals. Its structured-data presence test does not certify a page’s factual content or search-feature eligibility. Invalid JSON-LD is separately recorded."
+      },
+      {
+        "id": "OWNER-RESEARCH-11-OWN-02",
+        "sha256": "45833c11907ef81c39a4b8315426efdc616083dd64dcae1001481bead0f8e839",
+        "text": "**Supports:** The Index’s dated citation arrays do not supply a controlled test of adding markup. We have no measurement establishing that a particular type increases a software vendor’s chance of citation."
+      },
+      {
+        "id": "OWNER-RESEARCH-11-OWN-03",
+        "sha256": "7c8376f927440f393e9ee3e818fa593584093facf289b36864e6322383d5eef3",
+        "text": "Our 30 October 2026 [page-signal study](/research/studies/optimized-pages-in-ai-answers/) recorded parseable, nonempty JSON-LD in 3,616 of 4,420 successfully captured target URL records: 81.8%, with a descriptive 95% Wilson interval of 80.6% to 82.9%. These were later page observations for citations in answers captured on 22 and 23 September. The [published signal rows](/research/data/study1-url-classifications.csv) establish that presence, not vocabulary validity, eligibility for a search feature or a citation effect."
+      },
+      {
+        "id": "OWNER-RESEARCH-11-HISTORY-01",
+        "sha256": "88caa7a9e0c6b6d56b0c1cc51899ff833488ccf0aed48a47373c2f3cd0ce6dbb",
+        "text": "Published 30 October 2026"
+      },
+      {
+        "id": "OWNER-RESEARCH-11-HISTORY-02",
+        "sha256": "4546b0e20fc323d5c0e865176fc0895f11989c3b7389850b980631a7d8ae2bf9",
+        "text": "year = {2026},\n  date = {2026-10-30}"
+      },
+      {
+        "id": "OWNER-RESEARCH-11-HISTORY-03",
+        "sha256": "20b2644ba899015675bf6797f9cb93f57af4775d8ec5bee66e2616f90a173f9f",
+        "text": "note = {Published 2026-10-30"
+      },
+      {
+        "id": "OWNER-RESEARCH-11-HISTORY-04",
+        "sha256": "7578e784c71bd8f628fa1d50cffeac6073cbc8b7337d4bd516dc2a79a220b79a",
+        "text": "urldate = {2026-10-30}"
+      },
+      {
+        "id": "OWNER-RESEARCH-11-HISTORY-05",
+        "sha256": "cc7aff2f92288e1e286f4b069903cc83659f53f3ec76d22ebc71e64bc8f5b4f6",
+        "text": "Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026."
+      }
+    ]
+  },
+  "Owner11_required_Source_manifest_sha256": "2975e8403e6f0cf9e695909193328a78e4dd0a5e7b608d5e231748010f239adf",
+  "Root_actual_source_review_complete": true,
+  "approved": true,
+  "artifact_changes": {
+    "research/academic-access/index.html": {
+      "after_sha256": "c4df73d2b72331f79e83370b1b9e4f5d5fa654e2bee41027d832967621d83bee",
+      "before_sha256": "94f34aeeb64f90e6958747a228c8f237be1675032c1333eb05f6ca8e8b40c2ba"
+    },
+    "research/claims/index.html": {
+      "after_sha256": "e5fcb47f88337f755127ab183f07f71c267e83504cdb264eb1f8af0cad0d0acd",
+      "before_sha256": "d3d6343f0139085b60d03c6758090b31fb103823f630252dd990b724dc3977dc"
+    },
+    "research/data/claims.csv": {
+      "after_sha256": "43d16bc61825d9deae9efb1304a8434bb333465f11139794480f27a8333dc3e8",
+      "before_sha256": "cc8785bf85038172816520e07f028319991b7232b191ee927b3116f4951dd60c"
+    },
+    "research/data/claims.json": {
+      "after_sha256": "0f5ca38eb5ce70fcb1c2e902947df41d08aca51c4353ed85d0b502caa5fc337d",
+      "before_sha256": "29663bc13a24b09c333878231e2a87e55a7564a17591f71a32cef3cdd9ae1a6d"
+    },
+    "research/data/quotable-numbers-2026-11-03.csv": {
+      "after_sha256": "81c2d04297b738c3c59bf22d086a693434c039a2171ef8379c48c5d983dccf97",
+      "before_sha256": null
+    },
+    "research/data/report-interpretation-notice-2026-11-03.pdf": {
+      "after_sha256": "ce346d642bbe20c4eadbc98128d5655363393cf4b95a202cdcd3b9e3869d6d3d",
+      "before_sha256": null
+    },
+    "research/data/research-errata-2026-11-03.csv": {
+      "after_sha256": "4122cb58ed8fb5a5e55d466a7c1bbefaa1208b1ad0f7357590e3836546c4b0c9",
+      "before_sha256": null
+    },
+    "research/data/research-release-policy.json": {
+      "after_sha256": "a413acca0a52bb221c46c173ab76fad3f603c417f9069c32ef19a10ab10c9edd",
+      "before_sha256": null
+    },
+    "research/data/research_release_gate.py": {
+      "after_sha256": "9658c9c892ba3c95c06577f57a4fb625d23240b11d77c4fa22f00887ee6a7712",
+      "before_sha256": null
+    },
+    "research/evidence/graded-sources/index.html": {
+      "after_sha256": "236aa102721cbe5b41df4a5db6da9370d5694abdb698d9196e0f1f5e875f4c24",
+      "before_sha256": "4d054570284be000f1dbd7344a038bc5fbf0847d84dc473c80b968452f9d6443"
+    },
+    "research/evidence/quotable-numbers/index.html": {
+      "after_sha256": "9e2a8d843c2ef56a23f1a2a5b842b1f73efa2be3aad8ad64465bffb137e4e73f",
+      "before_sha256": "bc4f12c461a4a8daa6cb086cfe457c3aaa86d4e56cff7e0640dd36ac94153da7"
+    },
+    "research/evidence/spot-a-fake-statistic/index.html": {
+      "after_sha256": "f2d4704e1802bfdbe947742524a29118c860b6a2ecf2dd23d51bdceda4e9dfa0",
+      "before_sha256": "352c9a5c1cccaed2fce549492f6f00a00b7333ba754eefa0d0e10cb438864d20"
+    },
+    "research/evidence/unverified-numbers/index.html": {
+      "after_sha256": "a02586b20998735f74fc416bd0852b85563e0cb355c0e9c0373486ef2dd73026",
+      "before_sha256": "902c8abf9da2b0979efc064f6baded344b2dc297b935eb8a1bd768c01d2fe76e"
+    },
+    "research/glossary/agent-discovery-optimization/index.html": {
+      "after_sha256": "083f4fc4ac95a7a0195faad2320925fd4556da773a9f95f0e1f0d5973e7cd4e6",
+      "before_sha256": "9e78bac3488f50251f1c005d1d996512db302cef72583b76ebf8966b3a10a89c"
+    },
+    "research/glossary/citation-decay/index.html": {
+      "after_sha256": "afdbc03b678250dd737a26cbc493e3da3ca74ba788f4bfc619005bb416661a94",
+      "before_sha256": "29a71bc1a93c3e62fe6eaaaf8d682ed12591fbe62472fffa6e14c291573b0230"
+    },
+    "research/glossary/entity-confidence/index.html": {
+      "after_sha256": "fa2baff1b9ea382285dab576a7b48055962b98be9795d555b5d7b5fb2b7fa284",
+      "before_sha256": "d9ba5989e77e081610bf3a5ea19473545b1169fa60e4b26af08cd06341535f8e"
+    },
+    "research/glossary/information-gain/index.html": {
+      "after_sha256": "1a2e899b69fe9d46619eb6cb8d8074b94883a6c1b8a166c2a7df299f98e4bec2",
+      "before_sha256": "a0b17115620026b4a563e9ab2ed13627604aa531090646716a1a3ffe38ef02b4"
+    },
+    "research/glossary/query-fan-out/index.html": {
+      "after_sha256": "5d07c04d875597b5c9573e8f3c73a3e0a98290d312ea00c22e490a8f7b4d3d76",
+      "before_sha256": "465770850a6843a483378cc245d528d1ebf8ca9ff2410ac3dd0d26b3b3b130c2"
+    },
+    "research/glossary/seo-aeo-geo/index.html": {
+      "after_sha256": "2d58bf4ca5ecab56f7577754a532760d3cbc032eeeb7a59c36ef103e4f4ca884",
+      "before_sha256": "adecf5c24a1280d87d5da2fe56125fff55620d9e87644359a9ec8446445b7884"
+    },
+    "research/glossary/share-of-model/index.html": {
+      "after_sha256": "f6fd33fc5163b4ab23526eda373eb67fcde953ef6a410c4fda0ed2c7f613aa9f",
+      "before_sha256": "7c0c802a3875d6d50d7065b7ef8a4fa6e0efde368ae16459a74de0140d055242"
+    },
+    "research/glossary/zero-click-visibility/index.html": {
+      "after_sha256": "8f4b29f260ced2dde9199013e7f4e317f0277de43f8c59f90cfc21ea53bc3fe9",
+      "before_sha256": "50e75f1c1c3c0b6d3339153f411baafe626236af2a781c595fc1b3da250a6542"
+    },
+    "research/index.html": {
+      "after_sha256": "fdc895d60510eecfb728e893c470ff502353ee277ddf7e2a64c8717c15f3cddd",
+      "before_sha256": "c19ba4c631ef50b0667f7c2434defa853ce3bb5aa462fa6f3aae0ee02ef1769d"
+    },
+    "research/insights/engines-change-without-telling-you/index.html": {
+      "after_sha256": "9bec4785351b5eee20116c1042c410b2c66c146250f4a8b62e517a01b7d0c240",
+      "before_sha256": "f96950142a4d16eaa3d98c229eed62c4760832c90942ddef0c9fff145e6d2744"
+    },
+    "research/insights/google-asks-for-original-research/index.html": {
+      "after_sha256": "a6db304acdc1021ba76dd764464d50714125532cca8b731d82ac2f01cd96b9cc",
+      "before_sha256": "7b53090e2d7bd3cc814b1d3d1c9456208d55729ad61f91a1d717c8470f07e428"
+    },
+    "research/insights/index-against-the-literature/index.html": {
+      "after_sha256": "1d2cdbd60982f24b63cc908eb1c35130d9773416434d167e7b6737bb468b45ae",
+      "before_sha256": "cba5a830579869603c071f745330075b4685a626789ac457ca272c7362dbc294"
+    },
+    "research/insights/nearly-every-google-result-is-optimized/index.html": {
+      "after_sha256": "2bbfbcdc12c6de2d4474d4f486979d759b75e74d856e8eaa2d585e419f1e211e",
+      "before_sha256": "9241ae00ceb6666a007616422b860afe0425a9b10c7f35d8999a148fcb848686"
+    },
+    "research/insights/no-ranking-recipe/index.html": {
+      "after_sha256": "9124927b4c38c8a58f757e7a439f8d8922f1a1a1e69dd995aaabea181833d420",
+      "before_sha256": "47752bdcf13395ac693459d46f6253597c47406b8c657f215fc9f126ab030c30"
+    },
+    "research/insights/one-channel-is-a-risk/index.html": {
+      "after_sha256": "946e2da1de924de88610b1f4793e9cab588dc3d1395ca1b3590c276195db39e6",
+      "before_sha256": "ee8a6a0c543bf00e82dc3140c48109560d066d473b3a13984f56e60270579e8b"
+    },
+    "research/insights/one-rank-number-is-a-fiction/index.html": {
+      "after_sha256": "eeb654c2fea3cfe37f474912a6c7f2b810137f5bc87b31568e14afff692b5012",
+      "before_sha256": "e51862d38f77cb6aab645eff6cea05d87d8bb7a7d13ddacf031395592ba9a2e6"
+    },
+    "research/insights/review-platforms-as-the-objective-source/index.html": {
+      "after_sha256": "993e84ce299f52d185c888c1cfcabff871a34c0c10c6a59fa163006c288c1339",
+      "before_sha256": "40460b23a5d8fd97dda876c80a420152cec3fb868cf94d800dbbef899a2b3e33"
+    },
+    "research/insights/state-of-geo-research-2026/index.html": {
+      "after_sha256": "8d6a39022b89c65f64e31e5ccb2265a3c94134392215a91ee966194dc600c2f0",
+      "before_sha256": "4c9a00c2ad59d23491dfbaaa86d89596324e0987c3189da24aab2649e6056507"
+    },
+    "research/insights/strong-brands-weak-visibility/index.html": {
+      "after_sha256": "f5fbb48a6778beeca2aaaed4bb7771aaf85bb2cbc2b8da9b18222e94989050ad",
+      "before_sha256": "d449c8e4756e12d89b60a3099314d71217d29f74218f4ba820380a5218881004"
+    },
+    "research/insights/who-the-engines-trust/index.html": {
+      "after_sha256": "a2a5b22a2fdc05382a6ae8a05f7ba1960f5144f8fac7c09d0564576154621d40",
+      "before_sha256": "12f473a008d61d13f73e513ffdcda59d7da9dda63c142e38ad9f861ccf53d0a1"
+    },
+    "research/playbooks/llms-txt/index.html": {
+      "after_sha256": "a1cc5a3983fb08f217a882efdae8467cc36e2130e64908661981e78c03198aba",
+      "before_sha256": "962376b7e5dc51bd919785c1b7621a2c8b65742a26a274c5aa6fed7944f594b5"
+    },
+    "research/playbooks/pages-an-ai-engine-can-quote/index.html": {
+      "after_sha256": "2058b95fdd5b136d74467e74a0e8f904d75a1ff4adea8a8b8025730afdb557d5",
+      "before_sha256": "80b9c728e494cbe2cea15b973a05684c53efd6636405734ecf184b14a775f4e0"
+    },
+    "research/playbooks/question-led-content/index.html": {
+      "after_sha256": "6b1f3c6ef9b4e47cfdd2705c8302c23d11ef6d4753e0b86314e243bb6bf555fd",
+      "before_sha256": "67a63c64906a8d82ae7bcf6bbc70a76b8865d9ed73bb8a00484588f4c726c1a7"
+    },
+    "research/playbooks/research-into-google-scholar/index.html": {
+      "after_sha256": "9ceaad575d560bb75c434c0a21fdbc477a7b7712e89be9d6b311840c33fc8573",
+      "before_sha256": "555dabc46d1090e51e7eb1b72a1d6a175d41b666687928cc4411304ad7a8a019"
+    },
+    "research/playbooks/review-platforms-for-b2b-software/index.html": {
+      "after_sha256": "972c4409041909f7fed75a7ffe2b90ba9bab00eb0cbc99b6709028ec74e9c2dd",
+      "before_sha256": "d22c393c43e625054cb06d8964bf907225e1ae1fd1727917d2c44f7124088795"
+    },
+    "research/playbooks/site-structure-basics/index.html": {
+      "after_sha256": "caca3d7dd298b33a3fcd9d980ac6b551092271e32abd6c2d6b8d537230ff5b95",
+      "before_sha256": "eeaddb3a2da47c90ae6fb612c00b6552c8f7e217e3f283be8c6b106dcde088ad"
+    },
+    "research/playbooks/structured-data-for-b2b-software/index.html": {
+      "after_sha256": "d08cca846f219459c9f72a3600402a88bca14f89212f457a80bba258486a0bfe",
+      "before_sha256": "a6c67fafcc51e5a6b385cf6dc235eef7e0381685086261025405d0bae9b743ea"
+    },
+    "research/playbooks/syndicating-without-losing-the-original/index.html": {
+      "after_sha256": "d2ef56ffcb2909276e04fca5b65b20317e21c546166fd8f3296d3b361bf66c81",
+      "before_sha256": "35a622a73fa3b882d543a75ee66e28609b180da9919f0591d5174625e4d37611"
+    },
+    "research/playbooks/which-ai-crawlers-visit-your-site/index.html": {
+      "after_sha256": "bc0c311fbf6ebcb65ae0a6201031ade8198ad4a5516c0fe4e707eab47bed233d",
+      "before_sha256": "123984d01325b76a8e6596576077a5c539bb86beffd02e5f40ac69a748fae249"
+    },
+    "research/playbooks/wikidata-for-companies/index.html": {
+      "after_sha256": "5af98c58db925dbfe09870a0c2723cbabf2a82dba239b131d2a229269ea00a98",
+      "before_sha256": "f924b5a43ce3c0a2aa8fb05b1b20764a778a4c539e867bda07f788e535f7f700"
+    },
+    "research/sources/bataineh-2025/index.html": {
+      "after_sha256": "e7208e5e05f62ebc0d64ae13ed3db333ead7179be86903c977ef370f7e1a1e67",
+      "before_sha256": "475f69eb3287dee996f512fd862c466520534be9b3cdc871a7d50b90af6990b2"
+    },
+    "research/sources/giannakoulopoulos-2019/index.html": {
+      "after_sha256": "eed207c75c6d6678b319c6fd1042eb3f7aa7a158b0d58fd3763af3b419f1fc6d",
+      "before_sha256": "309174da085e9e70aae0cd37e4ef3806e110b31757059ed7b6fa5a732e87c12a"
+    },
+    "research/sources/giomelakis-2019/index.html": {
+      "after_sha256": "695111207b264b28d33b23e1a4bca0a3c730f8511b60fc5dbf697abd371f6b75",
+      "before_sha256": "f58cf67e71a1b38f77980f1cec7201f914e35f5b8baed5ca1591d35fa2f12b8d"
+    },
+    "research/sources/google-seo-starter-guide-2010/index.html": {
+      "after_sha256": "8d6b9e83340b17ebc177a32018b794609ceca177eaccebe589f278f35042e2ee",
+      "before_sha256": "238a3c061964901d9d3fc0a53477b8f8e7084ae65f1c01b401fbc4df54fe7e5e"
+    },
+    "research/sources/karyotakis-2019/index.html": {
+      "after_sha256": "b24528cfa29b7f4467465ed1337eb1f2f5fee206027bb7b3502e616dae5537b2",
+      "before_sha256": "ab85a968a3572a2f870274958144d530560499b7f018be81917b959452594550"
+    },
+    "research/sources/lewandowski-2021/index.html": {
+      "after_sha256": "a5ad03486b4bb2600a7ae667210934272f54c7cb436b87d24206c86c921104f2",
+      "before_sha256": "b9a38dca7d72e16e3de782fa7c505bda29c944d3d00d9c352dcf1e7a1eea8a63"
+    },
+    "research/sources/reading-list/index.html": {
+      "after_sha256": "933d6903e321c256a25e911e5deb284ead9e81bba90ac2cc227a71eeaf94440c",
+      "before_sha256": "94761762d6178d853d1bd4b03fb31168a1f8298c92ed86b47e169049ee2ef679"
+    },
+    "research/sources/rovira-2019/index.html": {
+      "after_sha256": "05edecef7a19cb1bc24d7e1c59d22704a863f6117e944987464f002e38dd0a8c",
+      "before_sha256": "9e820d5fc2c5e25773a1bb68df1bed4c4b90d9353cbaa3d3ad00e23e6a6a23d1"
+    },
+    "research/sources/seo-bible-2009/index.html": {
+      "after_sha256": "2ab3552f2a55b08b7cc4c637e8eb62d4fbbc32b8fa1ed2d8a5ad1ba80b6ab4da",
+      "before_sha256": "6d0cd8ae64d7d2d07da77e965ae823902e05b231e2be44c262b783bd796c9c42"
+    },
+    "research/sources/ziakis-2019/index.html": {
+      "after_sha256": "3babb7ee56cb6840cbdb936e9354c6bee373d7a681229ce62b3ccc4a74529322",
+      "before_sha256": "64e983335ff4a0f1a70c61ec9b59084616a93664562e5ac6d4a3ce146e2560d7"
+    },
+    "research/sources/ziakis-vlachopoulou-2024/index.html": {
+      "after_sha256": "de36f36d2da93d79886ad9cc4571a7b1684b8420f57301c94c25591a6ad3d685",
+      "before_sha256": "287427d236c55ec3715b30ad8cb2517176b322a089402e1059239fe836aa6c7f"
+    },
+    "research/standard/index.html": {
+      "after_sha256": "1fa9e8d308aed4d0cacf9c68c91eed32bac2933f0bace5c3e46699265ba2c772",
+      "before_sha256": "c3939fde737c7cce3a776b10ae70b8d694c95287dbd45d97831435b53eba00f1"
+    },
+    "research/studies/ai-crawler-log/index.html": {
+      "after_sha256": "173ecdd0f29fe5c2f4e80e2b4ef9f04d9863dfe2daa8114c202af3fda9e2e246",
+      "before_sha256": "333638c3d9705bc89f5b21e6c519df66cc3117958ed2367839f26f6aea4d06a8"
+    },
+    "research/studies/does-absence-persist/index.html": {
+      "after_sha256": "5f53666bb1ff189dca390c24c24cd620db64583aebf689862dce0b6e1ff21802",
+      "before_sha256": "d22b5f3cd04394b8e541b42242f3848212a44ef773fcab8de9ebabc2cbe31691"
+    },
+    "research/studies/evidence-refresh-field-test/index.html": {
+      "after_sha256": "ee6adcbd081f8c550196b3603974a61f320acd347a1059c4cf148d1b10f44363",
+      "before_sha256": "21a6869890f413232da0dd85867c7085e8baae8007dfeb96dce9de0df7166304"
+    },
+    "research/studies/optimized-pages-in-ai-answers/index.html": {
+      "after_sha256": "e2f6f72c3582379d069ec5ead6bf25e77ca18dfae6317bb00fdb2c822a63350f",
+      "before_sha256": "20bf86cc8cf1c6aed68143ba85f9cf0f9f74bafd2b89287766b0db3db7c15abd"
+    },
+    "research/studies/who-ai-engines-cite/index.html": {
+      "after_sha256": "e54f8e9925f2e8948459263a2fbed724f283f6c87467fb4c5bc96c150e70d1e7",
+      "before_sha256": "263202dcc4174b35fa093a79fef1285cbd96df5191fd967f3e6f661dfa918b56"
+    },
+    "search/search_index.json": {
+      "after_sha256": "b35b56bd04c8030d3f7255a7dbf677bf8373d7224129d6b2ea9b0bc8158116ed",
+      "before_sha256": "1deed19b0a9eaf100bccf94da7da7a606c567a00cb5eb5fa8640bf8dd6fe9349"
+    },
+    "sitemap.xml": {
+      "after_sha256": "3cdcf98afa2e4b7acada5c69d9457b1f050ca3a21dc343f4e781c980fe2626f5",
+      "before_sha256": "cbc30d5499e1a02cbe20f72fabb7d291ddde7fde596221879599509ec04c0590"
+    },
+    "sitemap.xml.gz": {
+      "after_sha256": "011fe9dab740555c2b6822e09a695be8e06a3e79f167b2ce0bed35ab6e8a6235",
+      "before_sha256": "5eab8f1018ee6b2b96364841a0980cc7f91c8cf496393dd1ec9d98bd1b0c3d43"
+    }
+  },
+  "artifact_review": {
+    "Root_actual_full_candidate_read": true,
+    "actual_review_scope": "All 53 complete sources were read with a lossless file-line reconstruction. All 53 rendered bodies, full heads, canonical URLs and structured metadata were checked against those sources and all 53 metadata rows read. All 7 data outputs, 56 registered scientific files, 45 frozen HTML/source/XML rows and five presentation assets were compared. All 307 Library leaf and 12 hub contexts were validated. The search and XML inverse checks preserve every unrelated entry. The one-page notice PDF was read in full text and original rendered pixels.",
+    "approved": true,
+    "artifact_changes_object_sha256": "9e00d7678bd56626671bc58c8ed61c283644a6e7085f09a3764f2bcde438b0d1",
+    "evidence_receipt": {
+      "path": ".library-research-work/root-artifact-review-evidence.json",
+      "sha256": "1bd092d4ea4d62f9340dd0f5dcdf55ea02783f94c0c27bb1331d60cdc8ad6473"
+    },
+    "fresh_Manual_and_full_release_gate": "Mandatory pending actual Linux CI. This review does not claim Windows built a Manual or that the final release gate has passed. Both freshly built Manual aliases must equal their prior hashes and the complete delta must equal these exact 63 reviewed artifacts before merge.",
+    "new_interpretation_PDF_Source_text_and_Root_visual_read": true,
+    "no_Research_publication_in_activation": true,
+    "recorded_utc": "2026-11-04T19:25:27.474465+00:00",
+    "review_evidence_sha256": "1bd092d4ea4d62f9340dd0f5dcdf55ea02783f94c0c27bb1331d60cdc8ad6473",
+    "review_kind": "root-exact-research-candidate-artifacts",
+    "reviewer": "root"
+  },
+  "candidate_archive_path": ".library-research-work/candidate.gitLF.zip",
+  "candidate_source_inventory_sha256": "374373676fdf9353e253895d562cb91d0712e02ea2f18d80e8b2e1d782184acd",
+  "current_payload_object_sha256": "09e49761c6c878931fbb61d69db919df16d582f9a8399d6490a47f65949864eb",
+  "full_source_reviews": {
+    "docs/research/academic-access/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "aa2ae89019aa73c116583f54e51f0415e7e18105e8d525dd0f855152e19bf5e0",
+      "after_canonical_source_sha256": "44556b2b9796f950c71f05612d6be99d890e7527fd339807bcc14ce6c0f25f24",
+      "after_metadata_sha256": "620f0b1d3d466c7080765c0a0e69a3fcc730606e56eec5bf52889218b9e52dde",
+      "approved": true,
+      "before_canonical_source_sha256": "c25dc086e1d7c059d812a702a8c6c60e20e688c52b67d945e3ed5d9616eec314",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/01.json",
+        "sha256": "c0c2aaa82f597520a1524d36d3647ca9a25ebd17a79772bdbaf6990a94aea739"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "44556b2b9796f950c71f05612d6be99d890e7527fd339807bcc14ce6c0f25f24",
+      "path": "docs/research/academic-access/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/claims/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "951743918d323f883907f531f4ff1e7d64e781534cad2f6926ad64b87abbd2b9",
+      "after_canonical_source_sha256": "efde2cc7dcfec1a3c51062c181d91289ac5a49f658740e6ad958cae3d76d420a",
+      "after_metadata_sha256": "36cd635cc9122613c3294df9c01efcab58a606e67ab0210d2f3140ea84753c2c",
+      "approved": true,
+      "before_canonical_source_sha256": "e36f7166a5db2182fef8e97afa6414db8cf976a1298f283cf5414de19ea6e151",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/02.json",
+        "sha256": "8b05f0e193999057e5d8518dc622afe2f7e887a677b8c00865b6334a2a9e1d5a"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "efde2cc7dcfec1a3c51062c181d91289ac5a49f658740e6ad958cae3d76d420a",
+      "path": "docs/research/claims/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/evidence/graded-sources/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "087216a166841c81ab79eb54e2738426142e7ae1bb1136c67eb1218d0334b9f5",
+      "after_canonical_source_sha256": "c7f632c8137c47ddeb7145c3c23cff2c336e4502274ffa16bd8ba205d9d8ff86",
+      "after_metadata_sha256": "2a77e2ae3eef5fd5c9bfab4acf32f7a8be4e1bc73e172289e1ac9882fb8fa1a9",
+      "approved": true,
+      "before_canonical_source_sha256": "7cb91989fca599667a0c104a4f1286a20d82a3b91ae432f16ebadedd900b69b2",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/03.json",
+        "sha256": "4184962eba9a66c5b76fb649632278dae3342f3ee217ba836b7062a5a424957f"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "c7f632c8137c47ddeb7145c3c23cff2c336e4502274ffa16bd8ba205d9d8ff86",
+      "path": "docs/research/evidence/graded-sources/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/evidence/quotable-numbers/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "b02e79ee41c6ea0bab857866293a962e284d36e2d1b184893315cc81a444eb81",
+      "after_canonical_source_sha256": "b328de3d8eb760874c96abc7ac08f57ff5325744489509c3d77116afea49f5cc",
+      "after_metadata_sha256": "9fe2c44edafcb561f36c3902e9354136b8a5921e74e7eb0e9deea81c2a23b926",
+      "approved": true,
+      "before_canonical_source_sha256": "2178eec5db1f2e5040d1b80a06fd0a7eadab0ae29fe8b4556791de075b8cdff1",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/04.json",
+        "sha256": "a6d5462011ce7b042ecfd9de65e3e376836e1313a36fbc95c8106d4f74c32cb3"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "b328de3d8eb760874c96abc7ac08f57ff5325744489509c3d77116afea49f5cc",
+      "path": "docs/research/evidence/quotable-numbers/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/evidence/spot-a-fake-statistic/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "76fbdce18521d0cec446a8cf2edf31ad6017130dddd8b1cf46a25907f9ba02cc",
+      "after_canonical_source_sha256": "f3a7f8224c564093379e13075a9e2ad472ca62a04eef2312bc76369a78e7429d",
+      "after_metadata_sha256": "67ed23f5f9035523dccaa3bc1d1123e17eb425cf695f754747640679321e5085",
+      "approved": true,
+      "before_canonical_source_sha256": "852dbd475d20fc1fd4beeba2fe082e40c29027ea45dce74886631feef6700d0c",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/05.json",
+        "sha256": "b118e3b7dfa44117254f7b4fb371362dc7ea4271e00e13e2fdb51d247570df82"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "f3a7f8224c564093379e13075a9e2ad472ca62a04eef2312bc76369a78e7429d",
+      "path": "docs/research/evidence/spot-a-fake-statistic/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/evidence/unverified-numbers/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "eceab2c24e5847384fcd791c9efebbfeda07ceef036384687ac787e0f0d33db2",
+      "after_canonical_source_sha256": "9a122c6a7de74d33d5bdb7ba86eca537ea2645780762b223d85be838a5c8a10d",
+      "after_metadata_sha256": "bf125a50ecb33b62f227b92f127464bd82535ea308ac6a22692b2c3a27fa5540",
+      "approved": true,
+      "before_canonical_source_sha256": "3d44827756434b178115ebb478825dbce86d2c77c0abe92d9b3c52959efc2399",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/06.json",
+        "sha256": "85ef4bf71b5bbaba11a2dd0fea8426e4e22d4ab32127f6d37806342318dd3d8b"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "9a122c6a7de74d33d5bdb7ba86eca537ea2645780762b223d85be838a5c8a10d",
+      "path": "docs/research/evidence/unverified-numbers/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/glossary/agent-discovery-optimization/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "15ebb4864a993f6434e76ccb1c01d08d0cf289cb0f4ca669985d92b40760e8b5",
+      "after_canonical_source_sha256": "699e077d7bfadfe1789247aa06b4125f1cbfa41b95e0c2131fe925562bcd8e17",
+      "after_metadata_sha256": "596caabeef634e7084d7bee5914294e58b536590ecc8e324f211aa100a97f25c",
+      "approved": true,
+      "before_canonical_source_sha256": "59dd3ca2d19ea88f0ac603adf211c2edccf16d4e468dcb7a536c55aa7fcb9be2",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/07.json",
+        "sha256": "88f85ab56700c8c68dccd22ac8dd066ce9ad32f2640f5dd0949983087decbef1"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "699e077d7bfadfe1789247aa06b4125f1cbfa41b95e0c2131fe925562bcd8e17",
+      "path": "docs/research/glossary/agent-discovery-optimization/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/glossary/citation-decay/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "3ee112c32e477de1715e0a05b9334429d848140fed6d4bbbfcce458c912d3e82",
+      "after_canonical_source_sha256": "91056fbc20e00fc7fba40745eda6e16db8bd32e30808e37cc08efd7895abe3b3",
+      "after_metadata_sha256": "e506229b8da08ac2a322bf65dfc5de92d1e8541aedd90f4a13e505edb6f5e8a7",
+      "approved": true,
+      "before_canonical_source_sha256": "4e73d4e23e5bd4f92839f4f358ea928d30608fb71cb39ae27abab7746064f482",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/08.json",
+        "sha256": "899f730b718918cf9778cdfe9b366b5d99b86dd8296d8270bd43a5e018cff987"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "91056fbc20e00fc7fba40745eda6e16db8bd32e30808e37cc08efd7895abe3b3",
+      "path": "docs/research/glossary/citation-decay/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/glossary/entity-confidence/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "27dc6be98792dc215c78b97c5887b98baf6d90a1f06d86e47061921379f6e257",
+      "after_canonical_source_sha256": "b517268b4c29966882b4fb6bdf7a90a541fa8a8ea47d68c4cc315f908804937f",
+      "after_metadata_sha256": "1d4579f2f6683f97734a78e6fd378887e19c4b1c518492761a5c4f71d03219ac",
+      "approved": true,
+      "before_canonical_source_sha256": "e0a1c85bd8c202b777e4e459e8b849d3defeb09da213a9b6d6dfeed01865f84a",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/09.json",
+        "sha256": "ee358370dacde1f5c90c76e24f159e24734257fd32ba189b1ff5770c75137a50"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "b517268b4c29966882b4fb6bdf7a90a541fa8a8ea47d68c4cc315f908804937f",
+      "path": "docs/research/glossary/entity-confidence/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/glossary/information-gain/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "c2f6f00ecde9f6503198eaa10ddf5f6cb70ba305529164f78e9a2a091bbc7715",
+      "after_canonical_source_sha256": "f5b4cca831bb54427d94bdfa59c6886835c3a3f032fc765fcd5186cab0505fc0",
+      "after_metadata_sha256": "ff27d24b1239ed0c700955019b54ac08722969a4c1ed5e96f27a882d2ff37a19",
+      "approved": true,
+      "before_canonical_source_sha256": "41d0de6497383c72858a32ee310bd1b23636efb639398605fe5206c07590419f",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/10.json",
+        "sha256": "263b3bc756f181f9122d979347f9151e4a26ab755093acda022ecd7dad8ec0ef"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "f5b4cca831bb54427d94bdfa59c6886835c3a3f032fc765fcd5186cab0505fc0",
+      "path": "docs/research/glossary/information-gain/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/glossary/query-fan-out/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "1db9dc430daa81342b76781191b3db25a3143c675bf85851584686168ed10703",
+      "after_canonical_source_sha256": "62dac4c7447bf58f9824d0ba2e2ae593f6eb015c22699e850dab8b2cc4395011",
+      "after_metadata_sha256": "7d2c1b66522741c5a06f2e95b30e55f4b3a8783c792bff5ada153079eb9e2a6d",
+      "approved": true,
+      "before_canonical_source_sha256": "00ada4cbc2db1e3435c05dc55ce07e547ab07104d201ea5c8f6daebc5e5c8d5a",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/11.json",
+        "sha256": "2435f1cdce2e784c10dc1b981fecd154e6b01e48610e3bb653887d0070bca3d4"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "62dac4c7447bf58f9824d0ba2e2ae593f6eb015c22699e850dab8b2cc4395011",
+      "path": "docs/research/glossary/query-fan-out/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/glossary/seo-aeo-geo/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "aebc1984c6d8a78fcefacd39677ada96d3236cfdbf50f14087d99e7d89f8ce1a",
+      "after_canonical_source_sha256": "43d2f7776cc7d46dad35793580d915f94c392a21c3869810c471fa5b850c8442",
+      "after_metadata_sha256": "804df7f806656d77f25831168e4a9134f969f82bf05aaccbdd9fdf1e43289f5e",
+      "approved": true,
+      "before_canonical_source_sha256": "4703b7f935f16487e52179886c5838a714cf2149039b7b9ab38aaeaea95d604b",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/12.json",
+        "sha256": "2224599213a9086f9dbddfa85920ecfea3266c61e387e642d208967345cecf4b"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "43d2f7776cc7d46dad35793580d915f94c392a21c3869810c471fa5b850c8442",
+      "path": "docs/research/glossary/seo-aeo-geo/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/glossary/share-of-model/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "df99845547d0ee8c176d0e0237aa34c36c811f4353d82f9d6ce047603cfaf0b0",
+      "after_canonical_source_sha256": "4e06e5c02f1dd9bb55ba18b5819dc4f8380262bf101bdbd47dde3ed1c265e308",
+      "after_metadata_sha256": "a732ceb0fa2169e343971d2114ebfe67484fb7985569480183c58ea76b36de8e",
+      "approved": true,
+      "before_canonical_source_sha256": "5020369261141f633da17da8fef090f21c3a6bbbcf0e8bf39223596926436f3e",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/13.json",
+        "sha256": "0d5c9a53834affd7ae568a488648c11839dbf98e1ab7ef1598720572156f168b"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "4e06e5c02f1dd9bb55ba18b5819dc4f8380262bf101bdbd47dde3ed1c265e308",
+      "path": "docs/research/glossary/share-of-model/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/glossary/zero-click-visibility/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "23bacad3d527591a5b1a7d6e62aedbbe3a08b1c342316eb2c1ec9b07e489664c",
+      "after_canonical_source_sha256": "1d662ae602a379ae4b33ac24b14148c86dd34a1fe931c2b7f4e96675eabeb126",
+      "after_metadata_sha256": "ef8fa59c74189c54a939aa9b8d8c84ebc2b8fedd63b0326227a293865af27a9e",
+      "approved": true,
+      "before_canonical_source_sha256": "455dfe0e669e6f6c797fedc1a6a2b69fffa4d312944e2cc9c283df02f6170ffc",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/14.json",
+        "sha256": "23e848fe3a287894270b6710d41c1f9874294f1bbaec87421ad99dadb389fb6f"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "1d662ae602a379ae4b33ac24b14148c86dd34a1fe931c2b7f4e96675eabeb126",
+      "path": "docs/research/glossary/zero-click-visibility/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "dce5996973073081636527f87840ccd9aa4b87bc2dec9b43854b1d8abb6b739f",
+      "after_canonical_source_sha256": "b3fa649f6f1e7a61e80c8bc0372ba8fdd350726563d1648efa486721b5afad8c",
+      "after_metadata_sha256": "f1a70842dcbd6f2121c295ee52b261e2455560f6faf08b949a8330ad327c2621",
+      "approved": true,
+      "before_canonical_source_sha256": "3521b7eb33aa3b80639551299801a538c5914a9ab121be346ee69843cc9b53c3",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/15.json",
+        "sha256": "1bf841ac5045cebc080a48aa4d7d5e9be34b0a4813b37ddc399b426bc712597e"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "b3fa649f6f1e7a61e80c8bc0372ba8fdd350726563d1648efa486721b5afad8c",
+      "path": "docs/research/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/insights/engines-change-without-telling-you/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "4797737bcc218728d71ac84e532fd6a2d3172ebf5e8b44207db8487d97b0d245",
+      "after_canonical_source_sha256": "73cfe4220338d31a7715af996a668810902843e942802f0e33232bce5af0acdb",
+      "after_metadata_sha256": "749226f740c1b1c7c1827d43e9cbd6502f5ed1765d9e0a3be413c4b4a06e5f6c",
+      "approved": true,
+      "before_canonical_source_sha256": "6649e490180c0b34d6699e7f9da326d9cbc0fb8fd0be4bbbc9434c25f4e85b42",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/16.json",
+        "sha256": "39243fa85499844269444d1ad15a4f0812be9a6193bac76aa5ae4f2c34f9d60b"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "73cfe4220338d31a7715af996a668810902843e942802f0e33232bce5af0acdb",
+      "path": "docs/research/insights/engines-change-without-telling-you/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/insights/google-asks-for-original-research/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "aa0fdc1dd676adea50b0c62eb7dda870cdc6eb121521874ba067b4d045253e47",
+      "after_canonical_source_sha256": "04b03a889ec57723db9da25facbe94504428c4c594681658a6a4ebb15586dd0e",
+      "after_metadata_sha256": "509342fb0d01efba40cab3622f73f27ef196274a86e067cb13a582a5a23a81f6",
+      "approved": true,
+      "before_canonical_source_sha256": "886d189940217764c0d42ebadf9086e4d689ca32e21520ea462cae4eacc37873",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/17.json",
+        "sha256": "674099242dd7ae58962ea5cd9f35f538207b901c77b6e7405ae239648695d793"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "04b03a889ec57723db9da25facbe94504428c4c594681658a6a4ebb15586dd0e",
+      "path": "docs/research/insights/google-asks-for-original-research/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/insights/index-against-the-literature/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "436f10b8431e3852b5043b07b920ad53cab6f947648b4556905a383736698434",
+      "after_canonical_source_sha256": "402f6b5c565e97f399c923c8daf3e786302b1e3b35f27a01d0ca5bd394644796",
+      "after_metadata_sha256": "2b9869d2eeeff6c984769476a6b747dda444af20ce573ddf246ae81fe7c7b668",
+      "approved": true,
+      "before_canonical_source_sha256": "f6b745579015c5876e682e9f8f6c4e9cb39bb41f15582b366b3181c79ffe3623",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/18.json",
+        "sha256": "46e11af2644b0a195cf8f7fbcdb9532c03b17d131c065be6e9af6b6c3e6d2ab7"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "402f6b5c565e97f399c923c8daf3e786302b1e3b35f27a01d0ca5bd394644796",
+      "path": "docs/research/insights/index-against-the-literature/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/insights/nearly-every-google-result-is-optimized/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "fba8a3edbf05147d9594190e98f987c817c8c2ac566ab8895c77f9d9498ff154",
+      "after_canonical_source_sha256": "c46fe38c73687e7a124653bd8fa42b88ad94b2492764610d370806ab2b505cb7",
+      "after_metadata_sha256": "b8f1441401820ab2151fbb3c7eb4cccbfcf452649dcc9c5860eafdf9f3600c08",
+      "approved": true,
+      "before_canonical_source_sha256": "68eeb1bf41f11c3befc95a0d5eb57bfaafd329d29ddde130a4cef76c989ea2ba",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/19.json",
+        "sha256": "fe989303dc18174fed0f2eb2b795d9b3c9ceedcdca2391996f1f93bb162a7cab"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "c46fe38c73687e7a124653bd8fa42b88ad94b2492764610d370806ab2b505cb7",
+      "path": "docs/research/insights/nearly-every-google-result-is-optimized/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/insights/no-ranking-recipe/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "f25f659eb747cb53a717072629e9e8f7ef4782537d724bd27989712475b8ba90",
+      "after_canonical_source_sha256": "397f0255d9a3625246896e0b66b96b104ee72e9db5ae973292a22392c7ae77f2",
+      "after_metadata_sha256": "d63abfde45cd0e81ff34fb96c1e1a32e341e60b72e9f54bc13a7ffd09ac40fd4",
+      "approved": true,
+      "before_canonical_source_sha256": "3756c161909ce82e47db813052d42aed6616c0d9a00d148f3551eeecd94db23b",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/20.json",
+        "sha256": "6de738081b5889e43b5d03e9c442d3b35d2c47a0dd2012017fd571f2d32ddd0f"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "397f0255d9a3625246896e0b66b96b104ee72e9db5ae973292a22392c7ae77f2",
+      "path": "docs/research/insights/no-ranking-recipe/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/insights/one-channel-is-a-risk/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "dffbbbd1369e54504fa7c278e9126de38bf1268ec6dd98c5fa41c69110f38599",
+      "after_canonical_source_sha256": "aea5204a00a5c0189e039ef0500f3519b87fd7c4f0a893586fa8d631a07711dd",
+      "after_metadata_sha256": "90843defc6b017a95ce5a5a277afd7f63c77d6ccbb767ca6b42a9cd526dcda5f",
+      "approved": true,
+      "before_canonical_source_sha256": "52ad024f9c5aef6fdbe9f7ad35851d2608e4022a9390049d6244f5918443806b",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/21.json",
+        "sha256": "a44813068ee7f1e97a7d10d9ec94f29826823b59c54d3dd552da0beb8dcf5bfd"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "aea5204a00a5c0189e039ef0500f3519b87fd7c4f0a893586fa8d631a07711dd",
+      "path": "docs/research/insights/one-channel-is-a-risk/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/insights/one-rank-number-is-a-fiction/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "bb15c7428552d175e136899fa00c403490cf02f8e80e034a8c5692f0c54d9cc2",
+      "after_canonical_source_sha256": "27b419a827f45a1f687b978b60f2657ec4e952b6413244a93575f31dd781e7d5",
+      "after_metadata_sha256": "f7aef71ce5df049987142751a95af2519484f44767ab9e4fbb1acf36a36a7b7c",
+      "approved": true,
+      "before_canonical_source_sha256": "9ac12e9af4996532642fcb3368a079fab1b8a24505e43f4f01eedea4dda240de",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/22.json",
+        "sha256": "f0fb94d60514f8422c6c60d6a1d143acb17d54073b40f8b435660b0bafdc3127"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "27b419a827f45a1f687b978b60f2657ec4e952b6413244a93575f31dd781e7d5",
+      "path": "docs/research/insights/one-rank-number-is-a-fiction/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/insights/review-platforms-as-the-objective-source/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "0158dc1e5a2687df1150e1ca6d3c5fb0ef27465fa904041fcb18693e39405e13",
+      "after_canonical_source_sha256": "fb45d3339d75f03b4632195f82fa64303a005ded8657c8f00b735bf641b9006c",
+      "after_metadata_sha256": "bbf0b9bb25d991afe26d7bcb51518971ff51fd58a6c78d36eb757b72167b7588",
+      "approved": true,
+      "before_canonical_source_sha256": "0fac9fad538c2f13768cce1461f6e792073bd148f3710c168be7c626febafd87",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/23.json",
+        "sha256": "abba03884c14e83e542880f381322dad6997407f74b2fddb0512df0d9bd9a515"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "fb45d3339d75f03b4632195f82fa64303a005ded8657c8f00b735bf641b9006c",
+      "path": "docs/research/insights/review-platforms-as-the-objective-source/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/insights/state-of-geo-research-2026/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "0d068ab48ae6088483eb437d8db57d63ea38e47beb59348e98d2a7176812c403",
+      "after_canonical_source_sha256": "d07905405c0c1745e8960e7381903803391196f9363151fdb0d0a79681d92653",
+      "after_metadata_sha256": "97679d5e3b1f7395cfc1e75e5bb8805d8a694d08a5de2bb592f43c495c208bca",
+      "approved": true,
+      "before_canonical_source_sha256": "aa0afcad28e0343a21a9ffbb4eb45870dfbf4f4586eb6f7c755ac629215b3c99",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/24.json",
+        "sha256": "e285c841b5188fe904ac6bf384aa1c4c97a440933644e25a30808d1d2211d223"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "d07905405c0c1745e8960e7381903803391196f9363151fdb0d0a79681d92653",
+      "path": "docs/research/insights/state-of-geo-research-2026/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/insights/strong-brands-weak-visibility/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "cf920427e7919d18c4b173fe5a4421592c05ae4cd69b4d6365503a41f25c62b9",
+      "after_canonical_source_sha256": "b211c42ab36c943f30e3002e4409fe23da51e1af7c3a00a3c67a5a7a00292a12",
+      "after_metadata_sha256": "a97f737cb189cc400e42b119fc605539214676a2330cdc13e52ecaf2386a4708",
+      "approved": true,
+      "before_canonical_source_sha256": "463547f7b73f66b68d5e62200cd88422552e5bffcd3d99d3e5374e9dabc5c857",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/25.json",
+        "sha256": "514ebd227f103cf395e704703684cb631252ca14505782342044bf2ff195b7e2"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "b211c42ab36c943f30e3002e4409fe23da51e1af7c3a00a3c67a5a7a00292a12",
+      "path": "docs/research/insights/strong-brands-weak-visibility/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/insights/who-the-engines-trust/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "f372172d032526e9147d586493de08faed66fa9747bfd695732c649c55884642",
+      "after_canonical_source_sha256": "bdc5fa1ca4f3664dc55210869f47733063d0a6dba57819e2e361b9e5ca57cf78",
+      "after_metadata_sha256": "6beadbb9df03c444d19e04dcb81628d2728bb70d3ea690a94237408ae9714260",
+      "approved": true,
+      "before_canonical_source_sha256": "ac1c1c2c659975a96d5e555357c2bcacebbbf5920a5468531e38763da2844859",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/26.json",
+        "sha256": "38b9449ec5f946fb3f47e413ed8b243a44f866fd992279bb6b10e8cad0bd7c44"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "bdc5fa1ca4f3664dc55210869f47733063d0a6dba57819e2e361b9e5ca57cf78",
+      "path": "docs/research/insights/who-the-engines-trust/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/playbooks/llms-txt/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "159bd0133b800d00701c9c35637f4420edaba45db681eb3e45b41063cb7f4bcd",
+      "after_canonical_source_sha256": "0fa6da72b4b190736eff3b80a2fa69f116d7731a6dcfe171d89f1e97f9d7baa7",
+      "after_metadata_sha256": "e2e4af9c842b1abd794cad001963d7c6a4233e635821b35d852f7ad3df90f9d0",
+      "approved": true,
+      "before_canonical_source_sha256": "722e6a2a8c085daa5ee5a9773b41d4235467f650364893da44a2f14023515d14",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/27.json",
+        "sha256": "e1ca557ea59099ccb5a4501f41a84ba625a53bf88acc88b95e5d065ad4b07a51"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "0fa6da72b4b190736eff3b80a2fa69f116d7731a6dcfe171d89f1e97f9d7baa7",
+      "path": "docs/research/playbooks/llms-txt/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/playbooks/pages-an-ai-engine-can-quote/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "e42897f45dfbaa442dbd728a399f54e580d0f81127720424b0ca2112e84eb6b7",
+      "after_canonical_source_sha256": "303fb1016017f955ff5442a284fe54f4a100b4a510343d6a06f65e96101ecd5b",
+      "after_metadata_sha256": "5699fbc45357615f3a67d5dc0d9f880c7ddced2badc300c650cf2a40c59b2fca",
+      "approved": true,
+      "before_canonical_source_sha256": "0049afd7b4888d9586ca7a3f5baebcf08a4bcfa9a1a23b9bd26eba0ee13c5b41",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/28.json",
+        "sha256": "0e95667535c131dff3fe86a627b818e42433d5ced82b5c3861a54e959b98f286"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "303fb1016017f955ff5442a284fe54f4a100b4a510343d6a06f65e96101ecd5b",
+      "path": "docs/research/playbooks/pages-an-ai-engine-can-quote/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/playbooks/question-led-content/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "312a246b7dd25e09ca74d7c9cda3e4a1393e971519854d9ef333eea76dcbcd2c",
+      "after_canonical_source_sha256": "4078948dfcb2c10e8cca0f23de5d39669e727d2aaac62a0c131beaf2a4ebc150",
+      "after_metadata_sha256": "081217a4608b672ad28240978e545363584ef52b9539041f76451bb506e016a2",
+      "approved": true,
+      "before_canonical_source_sha256": "f15c2ac11cc4828213f76bdf1d5ce18ccc2d3a356d1758910270dbbfbf9bfd3f",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/29.json",
+        "sha256": "4ad9c7c6cf1b2276bc37aa3ecd914e1787af998bbd4a2eeb439d97f1a5deb181"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "4078948dfcb2c10e8cca0f23de5d39669e727d2aaac62a0c131beaf2a4ebc150",
+      "path": "docs/research/playbooks/question-led-content/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/playbooks/research-into-google-scholar/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "1865811947dc4e9d5ec859d5b4b03f5462c808600217750ad4bd5d79403fdb2d",
+      "after_canonical_source_sha256": "7f6709ceaae456ca62a83b1287ce4fc677cc764dd04185c55b0aacc139c436ff",
+      "after_metadata_sha256": "5ac2a4c04dc917d5ccd93b460f56f92a94c7be178b8e0db6f1a1174af68db522",
+      "approved": true,
+      "before_canonical_source_sha256": "b65aae1f9b8cb511a665279cffc457a1463d4102b5e634269127790a6650a536",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/30.json",
+        "sha256": "f96bb89689c3031b46a58de678f1731f7e8e53805839a8b13568fa0d1804abae"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "7f6709ceaae456ca62a83b1287ce4fc677cc764dd04185c55b0aacc139c436ff",
+      "path": "docs/research/playbooks/research-into-google-scholar/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/playbooks/review-platforms-for-b2b-software/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "6f5b48369b129a9e29881c4a256751cfae709d7873a27af832077033a59d7efe",
+      "after_canonical_source_sha256": "014eaf7de2249b2703023888dd11d36df9de00a0f901d58e2aa1c5c4cb641c59",
+      "after_metadata_sha256": "0e084002738f43611841d0126ee02d099b920053cc44e26203f7bd7985b77500",
+      "approved": true,
+      "before_canonical_source_sha256": "49e37b43a5291afc334a31c62c846575ef9b392aa7f3b1ac71b9b09ae66cf25e",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/31.json",
+        "sha256": "e610bc43c4762673a08da8eafa4656e0135f3f963e588884fbe28c9fc922a76c"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "014eaf7de2249b2703023888dd11d36df9de00a0f901d58e2aa1c5c4cb641c59",
+      "path": "docs/research/playbooks/review-platforms-for-b2b-software/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/playbooks/site-structure-basics/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "b179542f498949e75f6942d902ce62808e15de5f7bcd08bd4621e082d31c5b67",
+      "after_canonical_source_sha256": "11437527bb34af82f5d65459ab0da1590cfa0f7032d1532ee55f2cda09536b6a",
+      "after_metadata_sha256": "4cb1689241b8f3719248c4c510f0e9c7ef90124613456b274e1c64562e9845a6",
+      "approved": true,
+      "before_canonical_source_sha256": "6726803b65c7adf0db89d76d9b7bb981e563863d410f654ce5c2b68444f6f4b8",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/32.json",
+        "sha256": "35159fc6322d94eb085c75a760291ca185013d4501ccac49afcc059f6a0c358b"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "11437527bb34af82f5d65459ab0da1590cfa0f7032d1532ee55f2cda09536b6a",
+      "path": "docs/research/playbooks/site-structure-basics/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/playbooks/structured-data-for-b2b-software/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "1963081ba56472dfbc38a3985af3eb4b074a18f417be215b4afb8cd1a67ac095",
+      "after_canonical_source_sha256": "b76225615753108f9328898236c4465b5310aa8565c200989eddb2ec1a449929",
+      "after_metadata_sha256": "6014a2dee1c88d2aea79ac513e2b0ad6b45c12be97634a1d7c474fed001321e3",
+      "approved": true,
+      "before_canonical_source_sha256": "44a25afa51490ce6803fca1b9c78d5f64c6e24fecba77ef897fb69713068bb39",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/33.json",
+        "sha256": "08b75b0e2b9363f007e9b5a5f9310f394c94feeed4d9f765edc41a4dda412864"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "b76225615753108f9328898236c4465b5310aa8565c200989eddb2ec1a449929",
+      "path": "docs/research/playbooks/structured-data-for-b2b-software/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/playbooks/syndicating-without-losing-the-original/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "439d9d44926f538586633e13f5bccff19c3fdc5cebc3606353b31c637a6ed0ec",
+      "after_canonical_source_sha256": "dfd29d0a1a83e26c714ed2406716e67394d5a8533b89122a9b802f2ef062c30a",
+      "after_metadata_sha256": "d00cd171e3cfaf064a26548aba33d05b5cca16b079c564f958ecf5e4f8bbcdbd",
+      "approved": true,
+      "before_canonical_source_sha256": "2ac6b444f9997b7ae893a74e632567927136ab23b7fe13bf2ba2d091c0ebe9f2",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/34.json",
+        "sha256": "4d51793422df8fbbcc5038696360ecab83022868d1905180dfaaa32b28ef7153"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "dfd29d0a1a83e26c714ed2406716e67394d5a8533b89122a9b802f2ef062c30a",
+      "path": "docs/research/playbooks/syndicating-without-losing-the-original/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/playbooks/which-ai-crawlers-visit-your-site/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "4cd93f098983a2f18a46cdb7e2cf4e781d6c3ef8bc3001c8ec8421ba43df5e71",
+      "after_canonical_source_sha256": "9fad90144b32b7d0c9d04205a1040b170621e4a816aea905d00586dad0d66502",
+      "after_metadata_sha256": "cc0e7f2cb430ac1334f07d2e5c4a39890a48bea06f631efadb915d63d38d3f0e",
+      "approved": true,
+      "before_canonical_source_sha256": "40e08a4a1f6fd316e223b303f973d7abf418167c80d06086f61349617b7f1ee8",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/35.json",
+        "sha256": "bdd2611bd9c101a8ab57f2d2240ab7cdec2e06271ad126deafb1117f81bd498e"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "9fad90144b32b7d0c9d04205a1040b170621e4a816aea905d00586dad0d66502",
+      "path": "docs/research/playbooks/which-ai-crawlers-visit-your-site/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/playbooks/wikidata-for-companies/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "ae048a80dd356d6915757bd927f67e5d2c9cef6a423e39ca20c780dc60eb8a81",
+      "after_canonical_source_sha256": "aca333d615296bb42a3393984d89436f258dbe89e95b40123f0b74cdfb7cbf60",
+      "after_metadata_sha256": "8106fc21d7c02a812f2b72815070e1abd59301077b74f088384d7fd6298c0fcc",
+      "approved": true,
+      "before_canonical_source_sha256": "102ca7e599c662362c81cee62b3f9bfba800e5a29ca1d593279450ba311d3fac",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/36.json",
+        "sha256": "a7b8b562b69221d279d474853c36765b4e625a368b7703ae49bbd1f7ff87ad8a"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "aca333d615296bb42a3393984d89436f258dbe89e95b40123f0b74cdfb7cbf60",
+      "path": "docs/research/playbooks/wikidata-for-companies/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/sources/bataineh-2025/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "537019e81e41505500574c6af07d642af176f60c30575494f1b771702e758fc8",
+      "after_canonical_source_sha256": "ded34d4c8a7a674c4a8493e3dd140a881c45d85f114e20676eb6d67ed57bdcca",
+      "after_metadata_sha256": "b84792587a21f78223885184fe41b56cd46ae674c00f7db243d924032eecae79",
+      "approved": true,
+      "before_canonical_source_sha256": "8b05bc4879407c31d981b7de12a4d1f5b93721b47467b567f05893083f48d09c",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/37.json",
+        "sha256": "02ebe7b497a4436b2e03c86f1153c437b0bd74b022f9d1f916dcefc4db8aa38b"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "ded34d4c8a7a674c4a8493e3dd140a881c45d85f114e20676eb6d67ed57bdcca",
+      "path": "docs/research/sources/bataineh-2025/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/sources/giannakoulopoulos-2019/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "e0dadf8afb4e2262137a632e944442cf0700239de431b367ce4c209bf6fdf3de",
+      "after_canonical_source_sha256": "ecfcc788c1c332812e7988623cf1be71a5dfc1c53b2918707637488b57f0beca",
+      "after_metadata_sha256": "db37138b38eebf03145ced97dd4a2efdfe090ef02f6a4b434dc2294f95a6ccde",
+      "approved": true,
+      "before_canonical_source_sha256": "7b54fdb05db23e0efd83e0ffbbaa6cf9ab0397c9885e85b9e8baacc4037becfc",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/38.json",
+        "sha256": "e6b16c8be5f1fa9b0f783889df919bf242441aef068cca2066890fafe9de26b4"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "ecfcc788c1c332812e7988623cf1be71a5dfc1c53b2918707637488b57f0beca",
+      "path": "docs/research/sources/giannakoulopoulos-2019/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/sources/giomelakis-2019/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "5606159948c8072e35c91a79eac00ac02929a3f3eca5a3ed1e01a6471ff6bde7",
+      "after_canonical_source_sha256": "d19b8aea3fe6a445824b84b15c3dbc65a2b3fec1ab6dfd0b9562b297b3bf332c",
+      "after_metadata_sha256": "85c2162d7649390404b1ffaaafe0db30d658dafb47fb5e40ac5199ab617547b9",
+      "approved": true,
+      "before_canonical_source_sha256": "404a07c285af59132bd2db704bd4ca7306983924a05a673240e5cd5e1aa17df4",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/39.json",
+        "sha256": "a5ea99a789477951a12d425d646ce02962f43de697ce5ad5333ead6c89e9e7f2"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "d19b8aea3fe6a445824b84b15c3dbc65a2b3fec1ab6dfd0b9562b297b3bf332c",
+      "path": "docs/research/sources/giomelakis-2019/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/sources/google-seo-starter-guide-2010/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "343ea2a4a8305aac0bad3eddabf5a1fa1313b15a6fba8efe0214c5e63dae9893",
+      "after_canonical_source_sha256": "69178ef70454d47f1490ec536e64899016e483fa59372bed04ba1bd55587497b",
+      "after_metadata_sha256": "02986c26d7f03dcaefbeb17f20d1dc722eb8513dba088e6bbc4a08aeb3859be0",
+      "approved": true,
+      "before_canonical_source_sha256": "a7c5f395d6b5cf0196ac5caee6587930906813fc0d7aca47df2e16682e411d66",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/40.json",
+        "sha256": "23936b7d0509680def64b8773c32d610589982f62478787aecc043f08f35881a"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "69178ef70454d47f1490ec536e64899016e483fa59372bed04ba1bd55587497b",
+      "path": "docs/research/sources/google-seo-starter-guide-2010/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/sources/karyotakis-2019/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "e250f67240e05579733d57cb696e51774ded0bad361a791f0f758519d140d609",
+      "after_canonical_source_sha256": "4e1d8a9a77ec23c9b194abe1f3135345ff22e3886fd39e7158c315ee14081d62",
+      "after_metadata_sha256": "703e69bb5f6a6ddda7e193770b8dcb7ba8846ff62b8fa7e6f23003cf72cd3646",
+      "approved": true,
+      "before_canonical_source_sha256": "1948c47971c697b877f1ad863105a824b5902a86d3f5f99443a93b4469f303c7",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/41.json",
+        "sha256": "4b4344c501a3c2547bd04fdecca326dc6c735eeda737bb89419da6b524cbe6f9"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "4e1d8a9a77ec23c9b194abe1f3135345ff22e3886fd39e7158c315ee14081d62",
+      "path": "docs/research/sources/karyotakis-2019/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/sources/lewandowski-2021/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "68f750ffbe6a19cc27a6ac0f0899cc0845fa9a3999e470d2ba5f92ca88ecf6fe",
+      "after_canonical_source_sha256": "0dbadc35ae748113252398b811641eddb5202fa39634800e34ea2ed15259e5f0",
+      "after_metadata_sha256": "9ac59ad233da23800038bc8b6289ba5eb33fe382d3dd0255cc9e053dab71bf4b",
+      "approved": true,
+      "before_canonical_source_sha256": "db088fa080753deabe1475ada9211f134b2828cab35aa4ec48cb4bf6a5f96fc0",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/42.json",
+        "sha256": "f3b5dabf7e4bac9c8212affb4eabd809816688e565532102d84f95fb4b1f8aae"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "0dbadc35ae748113252398b811641eddb5202fa39634800e34ea2ed15259e5f0",
+      "path": "docs/research/sources/lewandowski-2021/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/sources/reading-list/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "d955c4300257f7aa84ab7f2dd4968c1110f2b9a57382d8b57d831a4ef0c79683",
+      "after_canonical_source_sha256": "eb1c5ea9483c7813b585263b6cb27039c4d4416f680d80442c515b938eb32bfd",
+      "after_metadata_sha256": "6061b4aba3bb0d2b76057e34a458e13ba1897a1cbf0b33b52f6299a6cc119fbe",
+      "approved": true,
+      "before_canonical_source_sha256": "d51ec316c49fb7ae720ea4c172f45b2f53e64f4f7c5bda2dfb34c94f9eaaf1ef",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/43.json",
+        "sha256": "d64e08e587d417e359f2934af4e446469e085f906d8ca64df92af8aad9c24ba6"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "eb1c5ea9483c7813b585263b6cb27039c4d4416f680d80442c515b938eb32bfd",
+      "path": "docs/research/sources/reading-list/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/sources/rovira-2019/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "fcb2eb54b41b851f3c3edf6aaebb6b29a864cbea9bff924d4dfe70a22d914ea4",
+      "after_canonical_source_sha256": "1099a685bb373ad7fe439c02758071698974e9bfece5eda2205465e49743c250",
+      "after_metadata_sha256": "76f40dc59b496e082f5c1f3300e938e594ad38c5c095b7e2ee496a55e3ef63f2",
+      "approved": true,
+      "before_canonical_source_sha256": "8ca9191ba702049eecee387c68c63b9c2d5139096d80ed122a6fed8f14b1d796",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/44.json",
+        "sha256": "c8816c11d78079c979d1527199fa782fbb34dc548cdfe9d4895c96e45986bccd"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "1099a685bb373ad7fe439c02758071698974e9bfece5eda2205465e49743c250",
+      "path": "docs/research/sources/rovira-2019/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/sources/seo-bible-2009/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "8f4a5f7fba8a7d50ff210a57f1c417116faf0dd20ffa84a6fab69c0981f467f8",
+      "after_canonical_source_sha256": "3e0e044e640942d6eb84bf728d449b377bb08f169dc3ea4e10929854db582319",
+      "after_metadata_sha256": "7a55ead86bd0a72c4ce337de26078b25eae7cb0071ab5aea321932c0e5350c8c",
+      "approved": true,
+      "before_canonical_source_sha256": "9f0bf1cc3e2e6793e418049e9b224b2d177f0e7fb2d52508f9899d87e9eb4071",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/45.json",
+        "sha256": "c93383a8c46e5a3c7cf7a4f7fbadc9c1c86ac91a44ecc6740a032bb2eefa1b8b"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "3e0e044e640942d6eb84bf728d449b377bb08f169dc3ea4e10929854db582319",
+      "path": "docs/research/sources/seo-bible-2009/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/sources/ziakis-2019/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "1a8bf03a59110eb0072a79828bf4b8470747f73072ced039d62d5e7f75fd2a9c",
+      "after_canonical_source_sha256": "67fec6744e1924da0f37b39b6f44d3509dff5ab381a602758744626ef5654e3d",
+      "after_metadata_sha256": "11d96a5b0cc52ab1f8eb2580f2aa7357581568f4793fd0c11e641aca464cdadf",
+      "approved": true,
+      "before_canonical_source_sha256": "d50f89685e69a15eb91a8fbd978a902815295c20dfa585095dc41b0542f8a64e",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/46.json",
+        "sha256": "8bb054ab9339ed30765e3062d9ac8c486f47a11ab46c3c8c807ea2d8474358c8"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "67fec6744e1924da0f37b39b6f44d3509dff5ab381a602758744626ef5654e3d",
+      "path": "docs/research/sources/ziakis-2019/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/sources/ziakis-vlachopoulou-2024/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "87a0b7658e810eddc74f6b1c48c627b0bf89cfaed214b1d3a74179c257926097",
+      "after_canonical_source_sha256": "89f29e3b8180fbce47d94612373f00570472693f78a00ead615c63e1c35a77ea",
+      "after_metadata_sha256": "f42c082eba2084ab7fe8bbeb96ae241ff34e46962f327ce6950ee8b2d8e89d24",
+      "approved": true,
+      "before_canonical_source_sha256": "3af021ba799fd2ba578684d919e79915b16b7b570af127aa61b0d0f69b3ce1c6",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/47.json",
+        "sha256": "3b179be5f0489379652b4bd029fe78c1cc50954d5aed58df45c1c4e68f6d81fc"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "89f29e3b8180fbce47d94612373f00570472693f78a00ead615c63e1c35a77ea",
+      "path": "docs/research/sources/ziakis-vlachopoulou-2024/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/standard/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "c67f227e554add630204001d873ab1f9b984a500819337be5997ddef8e5d3ff0",
+      "after_canonical_source_sha256": "dbfc45a967ea8aecdbad40da87bc326d566030236b5df50d04210f7837fc23ac",
+      "after_metadata_sha256": "c01418f8e80a202a697be5c6e9672368521809b64a63da7d9ca6a72dba8f23ea",
+      "approved": true,
+      "before_canonical_source_sha256": "8fe37148d73a7ed95b9bb217a1da6d0ca0bb8f28db8beca8fcebdd9618579c2e",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/48.json",
+        "sha256": "fc08a1a20250c413bb0d1f3676a20eca5b6a1728c3ec4e9238fbeec73070111e"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "dbfc45a967ea8aecdbad40da87bc326d566030236b5df50d04210f7837fc23ac",
+      "path": "docs/research/standard/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/studies/ai-crawler-log/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "9d76b128a6b2b39c4eb108018d66665f24bb0c3547398436df491dc1a03dfaaa",
+      "after_canonical_source_sha256": "097a75dde25d051403bcd4a9608aa624e7b49fbffd809b3a163c3f8f0cb66934",
+      "after_metadata_sha256": "f5cf77d841f1c0ba6d8d29957c8fab55ee3a3f25b731d1ac5b61f659a86b89d4",
+      "approved": true,
+      "before_canonical_source_sha256": "3ce323da50923ea31a5fd85a455b7db627ee5a1a11971b586407904c69e050dd",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/49.json",
+        "sha256": "0ee5523478cff83fd1acd997fc8c99aac5d799b73f872c2b5cbb9f05dbf42773"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "097a75dde25d051403bcd4a9608aa624e7b49fbffd809b3a163c3f8f0cb66934",
+      "path": "docs/research/studies/ai-crawler-log/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/studies/does-absence-persist/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "1e09076a63ba7d41e6839cc797542e530a011f4ecc1d885b1f65d2ea217318e6",
+      "after_canonical_source_sha256": "8feb998691f8045572706aeceac2b696f69907e3f92480274678a1f53f086a53",
+      "after_metadata_sha256": "209c261aa4fcf91d7611e0fc7e12fdd8ca6200b0f348b9c97fd8def81eb114d5",
+      "approved": true,
+      "before_canonical_source_sha256": "6cc4160a4cd5a7ea8149791b8366c13efe354eb5adfff008c38554c1b25e471a",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/50.json",
+        "sha256": "ace4cb3aeadfdf3dbc4a80fd0708f84b7524b9f32306cebe4100c80d413d2813"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "8feb998691f8045572706aeceac2b696f69907e3f92480274678a1f53f086a53",
+      "path": "docs/research/studies/does-absence-persist/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/studies/evidence-refresh-field-test/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "512d47c6bede97b52f1396a1c11106cede693f77d1b3073748020000f48e7dc5",
+      "after_canonical_source_sha256": "379479dd32ad41c411d35f513b775c5a0594876cdf3640013c9914fae85b304d",
+      "after_metadata_sha256": "1ea0bf59be7b074fcfae06f0e7708cbfada71261e6b68f65a77e8045948ff728",
+      "approved": true,
+      "before_canonical_source_sha256": "67ae8fda9223888064657cfe3995a7b50114dd237529352b71828c54a8d81304",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/51.json",
+        "sha256": "a6636e08c3a25c67b94481d0ff8b1e17e2342f5e8330d49b9ac5932616bb12a0"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "379479dd32ad41c411d35f513b775c5a0594876cdf3640013c9914fae85b304d",
+      "path": "docs/research/studies/evidence-refresh-field-test/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/studies/optimized-pages-in-ai-answers/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "3674aaf9d6b9de1776161f4f569bbabd647e1c223bbc89cfe56b418ae620df6a",
+      "after_canonical_source_sha256": "0bcce856fe8ccd6b14208956835bb0c64556e9983972d6b5f46f0bff2d9a131b",
+      "after_metadata_sha256": "ec030b887445aafbd0894c238c8522d021ea2325cfbbd77feb60248bb6706698",
+      "approved": true,
+      "before_canonical_source_sha256": "b874299a39d854d6db09f0af1ec40656e4dc68e6aa8161a2140be0b4cae47dd7",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/52.json",
+        "sha256": "1994afc5597e312b13152f7ded7b1e698dcd2c18a78558db74307b8d90617e0a"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "0bcce856fe8ccd6b14208956835bb0c64556e9983972d6b5f46f0bff2d9a131b",
+      "path": "docs/research/studies/optimized-pages-in-ai-answers/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    },
+    "docs/research/studies/who-ai-engines-cite/index.md": {
+      "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+      "after_body_sha256": "a23b3248ef4af8d084f7c6c41604c2578a9fa9490707743b42c413a1ca10dd6b",
+      "after_canonical_source_sha256": "52ffde72d0af4dda31885e979509993208c7b0f202a6e8d9bc1b1ca2f0917e74",
+      "after_metadata_sha256": "777820e6ce146cd37d68f1ae1e01411898e563b0e1e11dc12bd7a99b32245b9d",
+      "approved": true,
+      "before_canonical_source_sha256": "96eb76315c4996aa3eb141a06581c82498e16ec4e7b26b9a219ebdc5c8801909",
+      "current_full_file_actually_read": true,
+      "evidence_receipt": {
+        "path": ".library-research-work/source-reads/53.json",
+        "sha256": "58ca53ca82be795d543c4cc7d427d8cf749d5cc3fe555d57bb7a1bbecd37b328"
+      },
+      "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+      "full_file_raw_sha256": "52ffde72d0af4dda31885e979509993208c7b0f202a6e8d9bc1b1ca2f0917e74",
+      "path": "docs/research/studies/who-ai-engines-cite/index.md",
+      "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+      "review_kind": "reviewed-current-research-source",
+      "reviewer": "root",
+      "scope": "Research-release-current-source-reading"
+    }
+  },
+  "inherited_dispositions_sha256": "6fbea351df4c7c0f85f28377ea8be17254941c572d78099017a6e53cb6706859",
+  "notice_PDF_review": {
+    "Root_all_pages_visually_read": true,
+    "Source_full_text_read": true,
+    "actual_original_page_image_sha256": [
+      "c586850e4e4c3fee57de8edfc0c1e827676e6d725dbcd9e2e9f26f2b5b3b1bf5"
+    ],
+    "approved": true,
+    "full_text_sha256": "e09371ea871c887ba9b57004012d914912e29816b10c9e6f68ae208198aa8387",
+    "pages": 1,
+    "path": "research/data/report-interpretation-notice-2026-11-03.pdf",
+    "reviewer": "root",
+    "scope": "Full extracted text and the single original page rendered with Poppler at 100 dpi; all text and footer visible, no clipping.",
+    "sha256": "ce346d642bbe20c4eadbc98128d5655363393cf4b95a202cdcd3b9e3869d6d3d"
+  },
+  "policy": "LIBRARY_FINITE_RESEARCH_RELEASE_53_60_V1",
+  "portable_files": {
+    "base_inputs": {
+      "path": "base-inputs.json",
+      "sha256": "113470a3011debee4c36e633c62023e92fe9871de027564dc34c8022d42ca82f"
+    },
+    "prior_source_archive": {
+      "path": "prior-source.gitLF.zip",
+      "sha256": "79894a23307df419b3d6c2c9c51e5769a97f4e1192b2584b4d0a004904032fc2"
+    }
+  },
+  "production_binding": {
+    "artifact_sha256": "7e761b8f7b60a0f73100a3b1c103c160b189e70a4010dca3a1bdf6e5ddbfc7f0",
+    "commit_sha": "d64ab68e576770c459e798ae0ad21b801253cdcb",
+    "deployment_id": "41845718240",
+    "served_receipt_sha256": "9ced141b44a140394e4d217654daea7812eaf5367c087b74302a5fe15964e668"
+  },
+  "production_receipt_sha256": "70f07cf5380d04d79c863bb9edf72d7e33e18e415cfff6a04d3be2c3818cb651",
+  "review_kind": "library-root-reviewed-finite-research-release",
+  "reviewed_activation_source_changes": {
+    ".gitattributes": {
+      "after_sha256": "56455ec5f79c44ed93492119b8cd0e0ed6ef065faaddd411b0bf58709e8cf995",
+      "before_sha256": "f7cd2a08e2ed0629af293046a2e2db896e7a7fa05f22a87599a65ed2a5d5fec7"
+    },
+    ".github/workflows/verify.yml": {
+      "after_sha256": "c1ccb68193f5dd05d00b47e1ab11066620d86aa9e9dbba33754468a9f2d3f096",
+      "before_sha256": "7c150b76a8a996e1cbad84eaf52d0b2eadcbf648cb7c113eb66087486805297a"
+    },
+    ".gitignore": {
+      "after_sha256": "a76b4a567ae455e7c8c46a475b939094438c53e27fbeb58c61827c7959213c7d",
+      "before_sha256": "7b1e72f8a4dbdaf312e24402f73d174f0333166b58d4bd1d160d579148b3d623"
+    },
+    "tests/test_published_discovery_consumer_five.py": {
+      "after_sha256": "19ec7a0ead32f4086a0da6783deb4cf59967dbb25c79fd4599a41445ae8785d4",
+      "before_sha256": "7b3862b8a4829ef24ef19a7e2ad7a2e4b59fa0df17361a3e3f937057ec278eca"
+    },
+    "tests/test_research_activation.py": {
+      "after_sha256": "2c98cbad38cec74eccb89c26c52bd3d4e6e3cc7fc5c3e6ee89e7032dd2d2c074",
+      "before_sha256": null
+    },
+    "tests/test_research_support.py": {
+      "after_sha256": "e4727726e94d6dcaf51b24730c2c2654cf104f927fab4c99a6c929832836ad5a",
+      "before_sha256": "892f890019e29e86e235995cd3d014f4adb50a486dbcb3b6cf82f52af274376a"
+    },
+    "tools/library_inherited_presentation.py": {
+      "after_sha256": "4911ce5a7e1b95862ec8117379b882dc2c8409a3f22b5dc706c6453159f82d11",
+      "before_sha256": "fd907592fb841dbad166d31b938bb44920418f0e0beecbe23dd1d6be60c936a8"
+    },
+    "tools/library_published_discovery_consumer_five.py": {
+      "after_sha256": "e0f4ae0ef8db37c2a36f15c9f644fa65b9ce5408302a258e7f7516ba28531107",
+      "before_sha256": "74a0606569e3a04b61be0b989189fda0270ba79a69f9f68c7f4f4b4ee3401911"
+    },
+    "tools/library_research_activation.py": {
+      "after_sha256": "bdb0aa7c6488aafb1f3bd85111fcfe002b7564fbdc9a49f58a9a62212fa845d8",
+      "before_sha256": null
+    },
+    "tools/library_research_activation_controls.py": {
+      "after_sha256": "bef1f7975991c0f1b52badf9eee6c33bef44c0b2c8557d32005342bebf90c5f0",
+      "before_sha256": null
+    },
+    "tools/library_research_release.py": {
+      "after_sha256": "2798034278d8e00ae18033c36b10e067ac7638f1970d433057e107003004b648",
+      "before_sha256": "11782c36b55eeea6742127bdb23569ce8f2055b277e5e3e9aa7d1ed6bb1aeb4e"
+    },
+    "tools/library_research_render.py": {
+      "after_sha256": "8fd3ca44c658c756fece27d4f7c96239522b0fe107a3ab3a050d263001595361",
+      "before_sha256": "896dae420d07d35cbfabeaba939b27160999253ef8ae5fcdfb8899473a7d118a"
+    },
+    "tools/library_research_source_archive.py": {
+      "after_sha256": "aa796fa83f70c7205972713c616858033fb52494cafc8fe73e60d17918f8ceba",
+      "before_sha256": "19af288f323294edb03c323dadd2fa81311b0832bcaba8f6a146e7fb20229508"
+    },
+    "tools/library_research_support.py": {
+      "after_sha256": "a4a72e47de61c4979207c09c1c3f92cb5f3d2bfc4cd6dfdc4c2c42605f8153fe",
+      "before_sha256": "0e111844a266862fe0cc211f9581a67917032ef7a71f02712a46d26df6ef452d"
+    }
+  },
+  "schema_version": 1,
+  "source_files": {
+    "docs/research/academic-access/index.md": {
+      "after_sha256": "44556b2b9796f950c71f05612d6be99d890e7527fd339807bcc14ce6c0f25f24",
+      "before_sha256": "c25dc086e1d7c059d812a702a8c6c60e20e688c52b67d945e3ed5d9616eec314"
+    },
+    "docs/research/claims/index.md": {
+      "after_sha256": "efde2cc7dcfec1a3c51062c181d91289ac5a49f658740e6ad958cae3d76d420a",
+      "before_sha256": "e36f7166a5db2182fef8e97afa6414db8cf976a1298f283cf5414de19ea6e151"
+    },
+    "docs/research/data/claims.csv": {
+      "after_sha256": "43d16bc61825d9deae9efb1304a8434bb333465f11139794480f27a8333dc3e8",
+      "before_sha256": "cc8785bf85038172816520e07f028319991b7232b191ee927b3116f4951dd60c"
+    },
+    "docs/research/data/claims.json": {
+      "after_sha256": "0f5ca38eb5ce70fcb1c2e902947df41d08aca51c4353ed85d0b502caa5fc337d",
+      "before_sha256": "29663bc13a24b09c333878231e2a87e55a7564a17591f71a32cef3cdd9ae1a6d"
+    },
+    "docs/research/data/quotable-numbers-2026-11-03.csv": {
+      "after_sha256": "81c2d04297b738c3c59bf22d086a693434c039a2171ef8379c48c5d983dccf97",
+      "before_sha256": null
+    },
+    "docs/research/data/report-interpretation-notice-2026-11-03.pdf": {
+      "after_sha256": "ce346d642bbe20c4eadbc98128d5655363393cf4b95a202cdcd3b9e3869d6d3d",
+      "before_sha256": null
+    },
+    "docs/research/data/research-errata-2026-11-03.csv": {
+      "after_sha256": "4122cb58ed8fb5a5e55d466a7c1bbefaa1208b1ad0f7357590e3836546c4b0c9",
+      "before_sha256": null
+    },
+    "docs/research/data/research-release-policy.json": {
+      "after_sha256": "a413acca0a52bb221c46c173ab76fad3f603c417f9069c32ef19a10ab10c9edd",
+      "before_sha256": null
+    },
+    "docs/research/data/research_release_gate.py": {
+      "after_sha256": "9658c9c892ba3c95c06577f57a4fb625d23240b11d77c4fa22f00887ee6a7712",
+      "before_sha256": null
+    },
+    "docs/research/evidence/graded-sources/index.md": {
+      "after_sha256": "c7f632c8137c47ddeb7145c3c23cff2c336e4502274ffa16bd8ba205d9d8ff86",
+      "before_sha256": "7cb91989fca599667a0c104a4f1286a20d82a3b91ae432f16ebadedd900b69b2"
+    },
+    "docs/research/evidence/quotable-numbers/index.md": {
+      "after_sha256": "b328de3d8eb760874c96abc7ac08f57ff5325744489509c3d77116afea49f5cc",
+      "before_sha256": "2178eec5db1f2e5040d1b80a06fd0a7eadab0ae29fe8b4556791de075b8cdff1"
+    },
+    "docs/research/evidence/spot-a-fake-statistic/index.md": {
+      "after_sha256": "f3a7f8224c564093379e13075a9e2ad472ca62a04eef2312bc76369a78e7429d",
+      "before_sha256": "852dbd475d20fc1fd4beeba2fe082e40c29027ea45dce74886631feef6700d0c"
+    },
+    "docs/research/evidence/unverified-numbers/index.md": {
+      "after_sha256": "9a122c6a7de74d33d5bdb7ba86eca537ea2645780762b223d85be838a5c8a10d",
+      "before_sha256": "3d44827756434b178115ebb478825dbce86d2c77c0abe92d9b3c52959efc2399"
+    },
+    "docs/research/glossary/agent-discovery-optimization/index.md": {
+      "after_sha256": "699e077d7bfadfe1789247aa06b4125f1cbfa41b95e0c2131fe925562bcd8e17",
+      "before_sha256": "59dd3ca2d19ea88f0ac603adf211c2edccf16d4e468dcb7a536c55aa7fcb9be2"
+    },
+    "docs/research/glossary/citation-decay/index.md": {
+      "after_sha256": "91056fbc20e00fc7fba40745eda6e16db8bd32e30808e37cc08efd7895abe3b3",
+      "before_sha256": "4e73d4e23e5bd4f92839f4f358ea928d30608fb71cb39ae27abab7746064f482"
+    },
+    "docs/research/glossary/entity-confidence/index.md": {
+      "after_sha256": "b517268b4c29966882b4fb6bdf7a90a541fa8a8ea47d68c4cc315f908804937f",
+      "before_sha256": "e0a1c85bd8c202b777e4e459e8b849d3defeb09da213a9b6d6dfeed01865f84a"
+    },
+    "docs/research/glossary/information-gain/index.md": {
+      "after_sha256": "f5b4cca831bb54427d94bdfa59c6886835c3a3f032fc765fcd5186cab0505fc0",
+      "before_sha256": "41d0de6497383c72858a32ee310bd1b23636efb639398605fe5206c07590419f"
+    },
+    "docs/research/glossary/query-fan-out/index.md": {
+      "after_sha256": "62dac4c7447bf58f9824d0ba2e2ae593f6eb015c22699e850dab8b2cc4395011",
+      "before_sha256": "00ada4cbc2db1e3435c05dc55ce07e547ab07104d201ea5c8f6daebc5e5c8d5a"
+    },
+    "docs/research/glossary/seo-aeo-geo/index.md": {
+      "after_sha256": "43d2f7776cc7d46dad35793580d915f94c392a21c3869810c471fa5b850c8442",
+      "before_sha256": "4703b7f935f16487e52179886c5838a714cf2149039b7b9ab38aaeaea95d604b"
+    },
+    "docs/research/glossary/share-of-model/index.md": {
+      "after_sha256": "4e06e5c02f1dd9bb55ba18b5819dc4f8380262bf101bdbd47dde3ed1c265e308",
+      "before_sha256": "5020369261141f633da17da8fef090f21c3a6bbbcf0e8bf39223596926436f3e"
+    },
+    "docs/research/glossary/zero-click-visibility/index.md": {
+      "after_sha256": "1d662ae602a379ae4b33ac24b14148c86dd34a1fe931c2b7f4e96675eabeb126",
+      "before_sha256": "455dfe0e669e6f6c797fedc1a6a2b69fffa4d312944e2cc9c283df02f6170ffc"
+    },
+    "docs/research/index.md": {
+      "after_sha256": "b3fa649f6f1e7a61e80c8bc0372ba8fdd350726563d1648efa486721b5afad8c",
+      "before_sha256": "3521b7eb33aa3b80639551299801a538c5914a9ab121be346ee69843cc9b53c3"
+    },
+    "docs/research/insights/engines-change-without-telling-you/index.md": {
+      "after_sha256": "73cfe4220338d31a7715af996a668810902843e942802f0e33232bce5af0acdb",
+      "before_sha256": "6649e490180c0b34d6699e7f9da326d9cbc0fb8fd0be4bbbc9434c25f4e85b42"
+    },
+    "docs/research/insights/google-asks-for-original-research/index.md": {
+      "after_sha256": "04b03a889ec57723db9da25facbe94504428c4c594681658a6a4ebb15586dd0e",
+      "before_sha256": "886d189940217764c0d42ebadf9086e4d689ca32e21520ea462cae4eacc37873"
+    },
+    "docs/research/insights/index-against-the-literature/index.md": {
+      "after_sha256": "402f6b5c565e97f399c923c8daf3e786302b1e3b35f27a01d0ca5bd394644796",
+      "before_sha256": "f6b745579015c5876e682e9f8f6c4e9cb39bb41f15582b366b3181c79ffe3623"
+    },
+    "docs/research/insights/nearly-every-google-result-is-optimized/index.md": {
+      "after_sha256": "c46fe38c73687e7a124653bd8fa42b88ad94b2492764610d370806ab2b505cb7",
+      "before_sha256": "68eeb1bf41f11c3befc95a0d5eb57bfaafd329d29ddde130a4cef76c989ea2ba"
+    },
+    "docs/research/insights/no-ranking-recipe/index.md": {
+      "after_sha256": "397f0255d9a3625246896e0b66b96b104ee72e9db5ae973292a22392c7ae77f2",
+      "before_sha256": "3756c161909ce82e47db813052d42aed6616c0d9a00d148f3551eeecd94db23b"
+    },
+    "docs/research/insights/one-channel-is-a-risk/index.md": {
+      "after_sha256": "aea5204a00a5c0189e039ef0500f3519b87fd7c4f0a893586fa8d631a07711dd",
+      "before_sha256": "52ad024f9c5aef6fdbe9f7ad35851d2608e4022a9390049d6244f5918443806b"
+    },
+    "docs/research/insights/one-rank-number-is-a-fiction/index.md": {
+      "after_sha256": "27b419a827f45a1f687b978b60f2657ec4e952b6413244a93575f31dd781e7d5",
+      "before_sha256": "9ac12e9af4996532642fcb3368a079fab1b8a24505e43f4f01eedea4dda240de"
+    },
+    "docs/research/insights/review-platforms-as-the-objective-source/index.md": {
+      "after_sha256": "fb45d3339d75f03b4632195f82fa64303a005ded8657c8f00b735bf641b9006c",
+      "before_sha256": "0fac9fad538c2f13768cce1461f6e792073bd148f3710c168be7c626febafd87"
+    },
+    "docs/research/insights/state-of-geo-research-2026/index.md": {
+      "after_sha256": "d07905405c0c1745e8960e7381903803391196f9363151fdb0d0a79681d92653",
+      "before_sha256": "aa0afcad28e0343a21a9ffbb4eb45870dfbf4f4586eb6f7c755ac629215b3c99"
+    },
+    "docs/research/insights/strong-brands-weak-visibility/index.md": {
+      "after_sha256": "b211c42ab36c943f30e3002e4409fe23da51e1af7c3a00a3c67a5a7a00292a12",
+      "before_sha256": "463547f7b73f66b68d5e62200cd88422552e5bffcd3d99d3e5374e9dabc5c857"
+    },
+    "docs/research/insights/who-the-engines-trust/index.md": {
+      "after_sha256": "bdc5fa1ca4f3664dc55210869f47733063d0a6dba57819e2e361b9e5ca57cf78",
+      "before_sha256": "ac1c1c2c659975a96d5e555357c2bcacebbbf5920a5468531e38763da2844859"
+    },
+    "docs/research/playbooks/llms-txt/index.md": {
+      "after_sha256": "0fa6da72b4b190736eff3b80a2fa69f116d7731a6dcfe171d89f1e97f9d7baa7",
+      "before_sha256": "722e6a2a8c085daa5ee5a9773b41d4235467f650364893da44a2f14023515d14"
+    },
+    "docs/research/playbooks/pages-an-ai-engine-can-quote/index.md": {
+      "after_sha256": "303fb1016017f955ff5442a284fe54f4a100b4a510343d6a06f65e96101ecd5b",
+      "before_sha256": "0049afd7b4888d9586ca7a3f5baebcf08a4bcfa9a1a23b9bd26eba0ee13c5b41"
+    },
+    "docs/research/playbooks/question-led-content/index.md": {
+      "after_sha256": "4078948dfcb2c10e8cca0f23de5d39669e727d2aaac62a0c131beaf2a4ebc150",
+      "before_sha256": "f15c2ac11cc4828213f76bdf1d5ce18ccc2d3a356d1758910270dbbfbf9bfd3f"
+    },
+    "docs/research/playbooks/research-into-google-scholar/index.md": {
+      "after_sha256": "7f6709ceaae456ca62a83b1287ce4fc677cc764dd04185c55b0aacc139c436ff",
+      "before_sha256": "b65aae1f9b8cb511a665279cffc457a1463d4102b5e634269127790a6650a536"
+    },
+    "docs/research/playbooks/review-platforms-for-b2b-software/index.md": {
+      "after_sha256": "014eaf7de2249b2703023888dd11d36df9de00a0f901d58e2aa1c5c4cb641c59",
+      "before_sha256": "49e37b43a5291afc334a31c62c846575ef9b392aa7f3b1ac71b9b09ae66cf25e"
+    },
+    "docs/research/playbooks/site-structure-basics/index.md": {
+      "after_sha256": "11437527bb34af82f5d65459ab0da1590cfa0f7032d1532ee55f2cda09536b6a",
+      "before_sha256": "6726803b65c7adf0db89d76d9b7bb981e563863d410f654ce5c2b68444f6f4b8"
+    },
+    "docs/research/playbooks/structured-data-for-b2b-software/index.md": {
+      "after_sha256": "b76225615753108f9328898236c4465b5310aa8565c200989eddb2ec1a449929",
+      "before_sha256": "44a25afa51490ce6803fca1b9c78d5f64c6e24fecba77ef897fb69713068bb39"
+    },
+    "docs/research/playbooks/syndicating-without-losing-the-original/index.md": {
+      "after_sha256": "dfd29d0a1a83e26c714ed2406716e67394d5a8533b89122a9b802f2ef062c30a",
+      "before_sha256": "2ac6b444f9997b7ae893a74e632567927136ab23b7fe13bf2ba2d091c0ebe9f2"
+    },
+    "docs/research/playbooks/which-ai-crawlers-visit-your-site/index.md": {
+      "after_sha256": "9fad90144b32b7d0c9d04205a1040b170621e4a816aea905d00586dad0d66502",
+      "before_sha256": "40e08a4a1f6fd316e223b303f973d7abf418167c80d06086f61349617b7f1ee8"
+    },
+    "docs/research/playbooks/wikidata-for-companies/index.md": {
+      "after_sha256": "aca333d615296bb42a3393984d89436f258dbe89e95b40123f0b74cdfb7cbf60",
+      "before_sha256": "102ca7e599c662362c81cee62b3f9bfba800e5a29ca1d593279450ba311d3fac"
+    },
+    "docs/research/sources/bataineh-2025/index.md": {
+      "after_sha256": "ded34d4c8a7a674c4a8493e3dd140a881c45d85f114e20676eb6d67ed57bdcca",
+      "before_sha256": "8b05bc4879407c31d981b7de12a4d1f5b93721b47467b567f05893083f48d09c"
+    },
+    "docs/research/sources/giannakoulopoulos-2019/index.md": {
+      "after_sha256": "ecfcc788c1c332812e7988623cf1be71a5dfc1c53b2918707637488b57f0beca",
+      "before_sha256": "7b54fdb05db23e0efd83e0ffbbaa6cf9ab0397c9885e85b9e8baacc4037becfc"
+    },
+    "docs/research/sources/giomelakis-2019/index.md": {
+      "after_sha256": "d19b8aea3fe6a445824b84b15c3dbc65a2b3fec1ab6dfd0b9562b297b3bf332c",
+      "before_sha256": "404a07c285af59132bd2db704bd4ca7306983924a05a673240e5cd5e1aa17df4"
+    },
+    "docs/research/sources/google-seo-starter-guide-2010/index.md": {
+      "after_sha256": "69178ef70454d47f1490ec536e64899016e483fa59372bed04ba1bd55587497b",
+      "before_sha256": "a7c5f395d6b5cf0196ac5caee6587930906813fc0d7aca47df2e16682e411d66"
+    },
+    "docs/research/sources/karyotakis-2019/index.md": {
+      "after_sha256": "4e1d8a9a77ec23c9b194abe1f3135345ff22e3886fd39e7158c315ee14081d62",
+      "before_sha256": "1948c47971c697b877f1ad863105a824b5902a86d3f5f99443a93b4469f303c7"
+    },
+    "docs/research/sources/lewandowski-2021/index.md": {
+      "after_sha256": "0dbadc35ae748113252398b811641eddb5202fa39634800e34ea2ed15259e5f0",
+      "before_sha256": "db088fa080753deabe1475ada9211f134b2828cab35aa4ec48cb4bf6a5f96fc0"
+    },
+    "docs/research/sources/reading-list/index.md": {
+      "after_sha256": "eb1c5ea9483c7813b585263b6cb27039c4d4416f680d80442c515b938eb32bfd",
+      "before_sha256": "d51ec316c49fb7ae720ea4c172f45b2f53e64f4f7c5bda2dfb34c94f9eaaf1ef"
+    },
+    "docs/research/sources/rovira-2019/index.md": {
+      "after_sha256": "1099a685bb373ad7fe439c02758071698974e9bfece5eda2205465e49743c250",
+      "before_sha256": "8ca9191ba702049eecee387c68c63b9c2d5139096d80ed122a6fed8f14b1d796"
+    },
+    "docs/research/sources/seo-bible-2009/index.md": {
+      "after_sha256": "3e0e044e640942d6eb84bf728d449b377bb08f169dc3ea4e10929854db582319",
+      "before_sha256": "9f0bf1cc3e2e6793e418049e9b224b2d177f0e7fb2d52508f9899d87e9eb4071"
+    },
+    "docs/research/sources/ziakis-2019/index.md": {
+      "after_sha256": "67fec6744e1924da0f37b39b6f44d3509dff5ab381a602758744626ef5654e3d",
+      "before_sha256": "d50f89685e69a15eb91a8fbd978a902815295c20dfa585095dc41b0542f8a64e"
+    },
+    "docs/research/sources/ziakis-vlachopoulou-2024/index.md": {
+      "after_sha256": "89f29e3b8180fbce47d94612373f00570472693f78a00ead615c63e1c35a77ea",
+      "before_sha256": "3af021ba799fd2ba578684d919e79915b16b7b570af127aa61b0d0f69b3ce1c6"
+    },
+    "docs/research/standard/index.md": {
+      "after_sha256": "dbfc45a967ea8aecdbad40da87bc326d566030236b5df50d04210f7837fc23ac",
+      "before_sha256": "8fe37148d73a7ed95b9bb217a1da6d0ca0bb8f28db8beca8fcebdd9618579c2e"
+    },
+    "docs/research/studies/ai-crawler-log/index.md": {
+      "after_sha256": "097a75dde25d051403bcd4a9608aa624e7b49fbffd809b3a163c3f8f0cb66934",
+      "before_sha256": "3ce323da50923ea31a5fd85a455b7db627ee5a1a11971b586407904c69e050dd"
+    },
+    "docs/research/studies/does-absence-persist/index.md": {
+      "after_sha256": "8feb998691f8045572706aeceac2b696f69907e3f92480274678a1f53f086a53",
+      "before_sha256": "6cc4160a4cd5a7ea8149791b8366c13efe354eb5adfff008c38554c1b25e471a"
+    },
+    "docs/research/studies/evidence-refresh-field-test/index.md": {
+      "after_sha256": "379479dd32ad41c411d35f513b775c5a0594876cdf3640013c9914fae85b304d",
+      "before_sha256": "67ae8fda9223888064657cfe3995a7b50114dd237529352b71828c54a8d81304"
+    },
+    "docs/research/studies/optimized-pages-in-ai-answers/index.md": {
+      "after_sha256": "0bcce856fe8ccd6b14208956835bb0c64556e9983972d6b5f46f0bff2d9a131b",
+      "before_sha256": "b874299a39d854d6db09f0af1ec40656e4dc68e6aa8161a2140be0b4cae47dd7"
+    },
+    "docs/research/studies/who-ai-engines-cite/index.md": {
+      "after_sha256": "52ffde72d0af4dda31885e979509993208c7b0f202a6e8d9bc1b1ca2f0917e74",
+      "before_sha256": "96eb76315c4996aa3eb141a06581c82498e16ec4e7b26b9a219ebdc5c8801909"
+    }
+  },
+  "source_read_evidence_map_sha256": "b0ea082be227aa287dce17c2b72a4b70efe9c45e1036fd1805a7c4a87c06d4ef"
+}

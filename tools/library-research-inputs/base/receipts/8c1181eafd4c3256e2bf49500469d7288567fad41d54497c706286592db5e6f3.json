@@ -1,0 +1,25 @@
+{
+  "recorded_utc": "2026-11-03T22:15:54+00:00",
+  "Root_approved_finite_source_move": true,
+  "source_path": "answers/industries/index.md",
+  "actual_current_main": "a95280950e5e2b55efe93ef341ff468a2206b9ca",
+  "actual_current_producer_review_sha256": "dbb5233385b770cb9caf81cd898f876c88e9bff8058fad6d3a281218f5fba271",
+  "raw_before_sha256": "49cd813dd7f7ccac351f8a568c406fd80015dd2ab1092c0b120236e2d1e9e30c",
+  "canonical_before_sha256": "6e8c400231888e5cda0f392036536bda87362964ee948877a26348e507602e8b",
+  "actual_after_sha256": "f866350486408e148adbb3372173052b06a198038b3d45cd6345b2e48d3eddef",
+  "actual_adoption_date_modified": "2026-11-03T22:15:54+00:00",
+  "pure_moves_semantic_review_sha256": "641fa9c64a06e1b955ac3139840912700aecaf2577d6b888c71d8f7f25fe7391",
+  "inverse_exact": true,
+  "before_live_receipt": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_COHERENT_RELEASE\\PR92_REVIEW\\NEXT_STAGE_BEFORE\\ACTUAL_SCRIPTS_OFF_BEFORE_READS.json",
+  "source_edits": [
+    "Move five complete absence blocks within their existing heading",
+    "Move complete CRM entitlement H2 before complete veterinary H2",
+    "Set actual date_modified"
+  ],
+  "prose_facts_URLs_unchanged": true,
+  "build_or_publication_approved": false,
+  "serialization_corrected_utc": "2026-11-03T22:23:34.980014+00:00",
+  "timestamp_quoted_for_owning_string_metadata": true,
+  "unquoted_intermediate_not_committed_or_published": true,
+  "prior_adoption_receipt_sha256": "3a4ab2c40df492f2ac6bf2f74e5f8ea8588d581ad13fe4bd63d9c6d48b2ace87"
+}

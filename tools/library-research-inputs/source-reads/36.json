@@ -1,0 +1,16 @@
+{
+  "actual_read_scope": "Full current file, including metadata, body, tables, references and qualifications. Root read all 3558 distinct lines across 18 complete text chunks and checked the lossless file-to-line reconstruction for all 53 manuscripts. Historical external-source checks are retained as dated evidence, not claimed freshly repeated. Research adoption remains 2026-11-04T15:17:51Z.",
+  "after_body_sha256": "ae048a80dd356d6915757bd927f67e5d2c9cef6a423e39ca20c780dc60eb8a81",
+  "after_canonical_source_sha256": "aca333d615296bb42a3393984d89436f258dbe89e95b40123f0b74cdfb7cbf60",
+  "after_metadata_sha256": "8106fc21d7c02a812f2b72815070e1abd59301077b74f088384d7fd6298c0fcc",
+  "approved": true,
+  "before_canonical_source_sha256": "102ca7e599c662362c81cee62b3f9bfba800e5a29ca1d593279450ba311d3fac",
+  "current_full_file_actually_read": true,
+  "file_line_map_sha256": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
+  "full_file_raw_sha256": "aca333d615296bb42a3393984d89436f258dbe89e95b40123f0b74cdfb7cbf60",
+  "path": "docs/research/playbooks/wikidata-for-companies/index.md",
+  "recorded_utc": "2026-11-04T18:57:49.337660+00:00",
+  "review_kind": "reviewed-current-research-source",
+  "reviewer": "root",
+  "scope": "Research-release-current-source-reading"
+}
