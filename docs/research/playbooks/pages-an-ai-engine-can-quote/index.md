@@ -7,13 +7,13 @@ research_id: 25
 research_group: playbook
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-03T18:40:50+00:00'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-03T18:40:50+00:00'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://arxiv.org/html/2311.09735v3
 ---
 
@@ -26,6 +26,10 @@ Observed answers on stated dates, not a ranking.
 Aggarwal and colleagues tested statistics, quotations and source citations in an experimental answer system using position-adjusted word-count visibility and subjective impressions. Those measures are not the probability that an AI engine will cite a newly published B2B page. [Aggarwal et al., 2024, Table 1 and §4](https://arxiv.org/html/2311.09735v3).
 
 The paper’s main result and five-seed appendix do not report the same estimates. We treat that headline as fragile rather than adopting it as a publishing effect. The paper also examines a deployed system, where results vary by method. Neither setting establishes a universal performance promise for a B2B page.
+
+GEO experiment: Aggarwal et al. (KDD 2024) headline a gain of up to 40% in a position-adjusted word-count visibility metric. Treat it as fragile: the ICLR 2024 draft reported 37%, the paper's own five-seed rerun (appendix Table 6) gives 36.9%, and on Perplexity adding citations cut the judged score by 23% (19.0 vs 24.7) while keyword stuffing raised it 14%. It is not a citation, traffic or conversion gain.
+
+We have not recovered the exact ICLR submission for an independent check of the reported 37% headline. That version comparison remains a reported historical claim, not a newly verified result. The KDD paper uses a 1,000-query supplied-source test split and a separate 200-example Perplexity experiment. These are metric comparisons, not count-based citation probabilities.
 
 The steps below are our editorial recommendations. They help a person check and quote a page. Their specific order, sentence length and layout have not been established as an optimal formula by that paper.
 
@@ -106,9 +110,15 @@ A worked example from our [published citation study](/research/studies/who-ai-en
 - Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. WebSci 2021, 12 to 20. doi:10.1145/3447535.3462479 . Accessible author original: https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf Verified 30 October 2026.
 - Broadcastwell. (2026). Do AI engines cite optimized pages? [Registered study plan]. OSF. Platform registration timestamp 30 October 2026, 01:06:12 UTC. https://doi.org/10.17605/OSF.IO/DVYFU Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *How do you write a page an AI engine can quote?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/ Published 30 October 2026; updated November 3, 2026.
+Broadcastwell research team. (2026, October 30). *How do you write a page an AI engine can quote?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research25,
@@ -118,7 +128,7 @@ Broadcastwell research team. (2026, October 30). *How do you write a page an AI 
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-11-03}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -126,7 +136,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-03. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

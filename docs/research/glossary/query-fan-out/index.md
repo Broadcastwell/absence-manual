@@ -7,13 +7,13 @@ research_id: 37
 research_group: glossary
 lead: Vikram Patel
 published: '2026-11-02T20:27:14Z'
-updated: "2026-11-04T01:03:17.612597+00:00"
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/query-fan-out/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T20:27:14Z'
-date_modified: "2026-11-04T01:03:17.612597+00:00"
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://blog.google/products-and-platforms/products/search/ai-mode-search/
 defined_term: Query fan-out
 ---
@@ -82,6 +82,12 @@ The [registered citation study](/research/studies/who-ai-engines-cite/) publishe
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
 Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
+
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
 
 ## Cite this page
 

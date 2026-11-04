@@ -7,13 +7,13 @@ research_id: 30
 research_group: playbook
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-03T17:50:50+00:00'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-03T17:50:50+00:00'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf
 ---
 
@@ -111,9 +111,15 @@ Our [published workbook reanalysis](/research/data/rovira-workbook-reanalysis.cs
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-08.1 [Data set]. Zenodo. Release files and README. https://doi.org/10.5281/zenodo.22721962 Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *How can research become discoverable in Scholar and Dataset Search?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/ Published 30 October 2026; updated November 3, 2026.
+Broadcastwell research team. (2026, October 30). *How can research become discoverable in Scholar and Dataset Search?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research30,
@@ -123,7 +129,7 @@ Broadcastwell research team. (2026, October 30). *How can research become discov
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-11-03}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -131,7 +137,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-03. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

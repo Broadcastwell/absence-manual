@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "reviewed_date": "2026-11-04",
+  "fragile_framing": "GEO experiment: Aggarwal et al. (KDD 2024) headline a gain of up to 40% in a position-adjusted word-count visibility metric. Treat it as fragile: the ICLR 2024 draft reported 37%, the paper's own five-seed rerun (appendix Table 6) gives 36.9%, and on Perplexity adding citations cut the judged score by 23% (19.0 vs 24.7) while keyword stuffing raised it 14%. It is not a citation, traffic or conversion gain.",
+  "fragile_framing_pages": [
+    "docs/research/evidence/quotable-numbers/index.md",
+    "docs/research/evidence/unverified-numbers/index.md",
+    "docs/research/playbooks/pages-an-ai-engine-can-quote/index.md",
+    "docs/research/claims/index.md"
+  ],
+  "reviewed_headline_files": {
+    "docs/research/study7-ai-written-rfp.md": {
+      "sha256": "3460f07196433baf418e26515abdacca38e0a4fa6a4664cccdf70a8a4e5654a8",
+      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+    },
+    "docs/research/claims/index.md": {
+      "sha256": "efde2cc7dcfec1a3c51062c181d91289ac5a49f658740e6ad958cae3d76d420a",
+      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+    },
+    "docs/research/data/claims.csv": {
+      "sha256": "43d16bc61825d9deae9efb1304a8434bb333465f11139794480f27a8333dc3e8",
+      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+    },
+    "docs/research/data/claims.json": {
+      "sha256": "0f5ca38eb5ce70fcb1c2e902947df41d08aca51c4353ed85d0b502caa5fc337d",
+      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+    },
+    "docs/research/data/quotable-numbers.csv": {
+      "sha256": "f3bb29e0473413f1422ea9d47414fe93a0a3f0c163fae0fe52f4b32f3d5039f7",
+      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+    },
+    "docs/research/data/research-errata-2026-11-03.csv": {
+      "sha256": "4122cb58ed8fb5a5e55d466a7c1bbefaa1208b1ad0f7357590e3836546c4b0c9",
+      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+    },
+    "docs/research/evidence/quotable-numbers/index.md": {
+      "sha256": "b328de3d8eb760874c96abc7ac08f57ff5325744489509c3d77116afea49f5cc",
+      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+    },
+    "docs/research/evidence/unverified-numbers/index.md": {
+      "sha256": "9a122c6a7de74d33d5bdb7ba86eca537ea2645780762b223d85be838a5c8a10d",
+      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+    },
+    "docs/research/insights/one-channel-is-a-risk/index.md": {
+      "sha256": "aea5204a00a5c0189e039ef0500f3519b87fd7c4f0a893586fa8d631a07711dd",
+      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+    },
+    "docs/research/playbooks/pages-an-ai-engine-can-quote/index.md": {
+      "sha256": "303fb1016017f955ff5442a284fe54f4a100b4a510343d6a06f65e96101ecd5b",
+      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+    },
+    "docs/research/sources/giomelakis-2019/index.md": {
+      "sha256": "d19b8aea3fe6a445824b84b15c3dbc65a2b3fec1ab6dfd0b9562b297b3bf332c",
+      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+    }
+  },
+  "immutable_historical_files": {
+    "docs/research/data/quotable-numbers.csv": {
+      "sha256": "f3bb29e0473413f1422ea9d47414fe93a0a3f0c163fae0fe52f4b32f3d5039f7",
+      "reason": "Original October30 historical CSV in the immutable canonical report package; GEO row explicitly withdrawn in the current page and dated errata."
+    },
+    "docs/research/data/ai-crawler-log.csv": {
+      "sha256": "def944aa2c3085b70d303c9411b10ecab1c3e91b86cb5cac064117d62fc06f12",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/answer-citation-audit.csv": {
+      "sha256": "870a01d49d90b3d146bf487b48171ff69663cfea3548e863cc7641db7fffded5",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/answer-citation-bases.csv": {
+      "sha256": "1908c8c14af91eb0d1d6bb2ac811ac075eacc62f71e550c7822277fe56a4b863",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/citation-class-shares-post-audit.csv": {
+      "sha256": "416363686d1733c2bcbe9f4469286c397fc83e2601dc9bc76fc1264e8a61dd65",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/citation-class-shares.csv": {
+      "sha256": "a516e444d93f486e03b62a809822ccf2db196df4dd1b7234578b23170853ffc5",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/citation-concentration.csv": {
+      "sha256": "e9d6b88dec45393202d508a7d7f312048856a629e2ee1319bafe2912e7f1b40a",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/citation-invalid.csv": {
+      "sha256": "e9228d3f431c9d134516e02eaf9e1ef24eed0eff4c9f684781363093fbf6a26a",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/citation-occurrences.csv": {
+      "sha256": "fbf0dda06220b5c414542cfc2f71a89471e3d84af9dffa0fc1d56ef0398921ac",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/cited-hosts.csv": {
+      "sha256": "65e2468d2edd34d10012622e16d9f74b0f6c75740a16576dbffcc6d3c80b7aee",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/crawler-agent-definitions.csv": {
+      "sha256": "680d333ec7bcb7b3eb6a84a10670384e8f0885677e2b388def0ae5f74e2388d6",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/dated-standings.csv": {
+      "sha256": "addef6611bf9c92f2b5156d563ddabb3c28e22f78e2d68b8db5e50f92c84b756",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/excluded-answers.csv": {
+      "sha256": "9c3100824dcec90b651ce9574c1ba7f973d05ac3e93039794b89587d4dab4518",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/host-class-post-audit-changes.csv": {
+      "sha256": "adf32c8f3ae85e7a559fb13144498d1380eeb296b89032d00c6f579dec8214eb",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/host-classes-post-audit.csv": {
+      "sha256": "3f53f95938ea3b45f24373ba7e73436fd8d0af7c5a9d83bb4091c6daf136154a",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/host-classes.csv": {
+      "sha256": "1c72328bbb09377f56a95884deef05b2d74b07ddfcbc0e623d38d15e072c6dfb",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/literature-census-2026-10-30.csv": {
+      "sha256": "9f508814db8ebcc112f85da15a451016eed648db4297d708099d574cd17e9887",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/literature-search-log-2026-10-30.csv": {
+      "sha256": "04d2b89694b63857a1bd29ec1768e8a6bdebc59686123e7efeccec392212d190",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/news-commenting-2019.csv": {
+      "sha256": "eb066b5c5550e423d868a69ebdcfa877c462f6c5ec51c9d8362ddae52ab1d337",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/protocol-deviations.csv": {
+      "sha256": "3ee652424046d10d3eb0c633e6a7b6a5f373f5d982d901bd5bdd554feee840e2",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/reading-list.csv": {
+      "sha256": "65e81dd4102e9f3c2343913e23705fefd5d441c931f93bd2adc65327cc9adcbb",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/repeat-disagreement.csv": {
+      "sha256": "4baa3768bda1130a47fbaaa33c2abed0814bff0bf4f8d28db86b9fb8d20c0d7d",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/review-platform-occurrences.csv": {
+      "sha256": "4355674e5b387757a9b8e3f8b453b741b99af39b76e108ac14ddcfd5d484e0c0",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/review-platform-snapshot.csv": {
+      "sha256": "2288c6c20642d94fdf6f8fbcf0757be975acef8b3d82159439d92218c6dfc715",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/rovira-median-differences.csv": {
+      "sha256": "05dd0e35affaaed1a3cdd9389354eddc52eebf9425be49d8dac130ef049016ad",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/rovira-workbook-reanalysis.csv": {
+      "sha256": "e5e84410035f5f1823a16df2ba6dc07b66debf6f2b1f9335b48f2fbbfb0ee473",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/source-collection-inventory.csv": {
+      "sha256": "278c5262896a0d72893ea427eb2e2a6581b72e2fc0d33b41117d3a6990342df2",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study1-citation-membership.csv": {
+      "sha256": "7e813c5f0aa5072705fd224d1a050b3e839b8af86c41276f72bd600b7132c7d6",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study1-citation-order.csv": {
+      "sha256": "4311ebf0ce82ec81352ffc1dc815fd0a8c8865571e43eebd0b3e8bf0dcddc68a",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study1-class-shares.csv": {
+      "sha256": "0f58daa31f775c686f9596e09122bce451454711e594e0a9aa8cff87eaebf9df",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study1-excluded-citations.csv": {
+      "sha256": "8912bf78b9779fe6d8c0f1b3d70b41653fba46b2e8c5a7e79c95a76be2434152",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study1-fetch-outcomes.csv": {
+      "sha256": "9341ff3266845f21f17528964cf16bc36b9251b53421d313797ac210d6efb8be",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study1-file-manifest.csv": {
+      "sha256": "9a6ceb1f6fb83f84a4b053f42d58950d1b61786393670770244ae3a161ab7e9a",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study1-host-evidence.csv": {
+      "sha256": "78d5da71ad4f4853d86603c436a74dc039f9b95217afe27a40d58c9a032ed578",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study1-llms-presence.csv": {
+      "sha256": "53de0d17256d0cb74397c0556c75ff41ec5a3cc4bbdb5360fe360cac9e3bcffb",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study1-news-hosts.csv": {
+      "sha256": "7eaf106a09229554581b4671720f656c3904620c80acb0f226d349baa809c82d",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study1-schema-types.csv": {
+      "sha256": "3653ea1da9899d054cba40ae7778eea79bc5b4f4e515d652b705c122b6663bdf",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study1-url-classifications.csv": {
+      "sha256": "2d9afc3cf8f55ad0f481c7718f8dffa923ba8cc49de0b7452e73057c8b523633",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study1-wikipedia-shares.csv": {
+      "sha256": "ded8738061947acfb40125a3059d57b2ee220e118cdf97899a701fb4ed9b8196",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/study2-file-manifest.csv": {
+      "sha256": "c70d4a381b3fa298774cfebdf95b6b89a397e9fe31e9ac04fd57224a11f6504c",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/target-question-first-words.csv": {
+      "sha256": "6b4b1ee8bb3a4723819f7d796f91a47bbb5787101f7ed82e69d45013fcac4d1c",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/target-question-inventory.csv": {
+      "sha256": "c8c15e992a3d32d0b875b16c2d9c4a53fea1b1248f44f744273b7b9505ff6ad4",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/top-twenty-hosts.csv": {
+      "sha256": "716b3421d7771f9ed232dbb713c2072e6ab618e84a1f23c4f0d1b42b9812b023",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/university-rank-reanalysis.csv": {
+      "sha256": "d1a7edd22751ea27455bce3cb576706b91d19b2ac1fb8d2d5378061045f9a940",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/university-source-results.csv": {
+      "sha256": "c929d70c15d09896cc8c269949c11d1578e39c0ffb80827ea6753bb14fbb7172",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/vendor-concentration.csv": {
+      "sha256": "797dbd058ce01200a4f5d96e4dff16f3e398b0e5403fc1c99146677e97d25f8a",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/vendor-matching-dictionary.csv": {
+      "sha256": "611d31d07e375ad44ac63cc924fb3f0c27dff08bcc2ea3240f9e749bbff8778b",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/vendor-naming-citation.csv": {
+      "sha256": "fed91f5317b7c4cc07dcd39469140231597b6246e9301fd690c2d1a965cb0cf1",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/vendor-pair-reconciliation.csv": {
+      "sha256": "691e85d27ba1d3a2fbf7607672b5113aca76318ddde8dfba2ee420f164d9988c",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/vendor-pair-summary.csv": {
+      "sha256": "f62cd7130797b6b9ac711576d024b769f961a2fa99beab0e1ef85e7e5d67be93",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/vendor-pairs.csv": {
+      "sha256": "69b45b4ea2c2aa2ad62f5d5ac6f79316ca34b584f4adc7728ef770966c52aab8",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/vendor-presence.csv": {
+      "sha256": "f10ca6f1800471604fa7b8ea65b110b1cd94ea4af09054962e4e512fc2de7074",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/ziakis-2019-correlations.csv": {
+      "sha256": "08827d58e729d4c9df3b347341bb2bd583a558a5eedbc7832fb58c0ad75f4ba1",
+      "reason": "Original scientific CSV in canonical Zenodo record23804758; corrections are separate dated records."
+    },
+    "docs/research/data/field-test-interventions.json": {
+      "sha256": "62df4cb97e732307719e3f2fd46e4652955e421e77b2113cd08bbc868e70cfac",
+      "reason": "Frozen download in accepted OSF registrationDMFPJ; no design or file change is authorized."
+    },
+    "docs/research/data/field-test-protocol.pdf": {
+      "sha256": "6a7f15cd39fe8aa9829ce1cae8d5729e53a53ffd2461abf4b8459e8c2d3b36f2",
+      "reason": "Frozen download in accepted OSF registrationDMFPJ; no design or file change is authorized."
+    },
+    "docs/research/data/field-test-assignment.csv": {
+      "sha256": "38611a5a0cbeeb971db889305c6215c643a5a60411a511b62481492fe03450a4",
+      "reason": "Frozen download in accepted OSF registrationDMFPJ; no design or file change is authorized."
+    }
+  },
+  "dataset_sitemap_urls": [
+    "https://docs.broadcastwell.com/assets/research/change-desk/2026-10-26/connectwise-statements-ai/",
+    "https://docs.broadcastwell.com/assets/research/change-desk/2026-10-26/software-transaction-state/"
+  ]
+}

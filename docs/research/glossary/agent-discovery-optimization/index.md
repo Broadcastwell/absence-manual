@@ -7,13 +7,13 @@ research_id: 41
 research_group: glossary
 lead: Vikram Patel
 published: '2026-11-02T20:27:14Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/agent-discovery-optimization/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T20:27:14Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.5281/zenodo.18728630
 defined_term: Agent discovery optimization
 ---
@@ -60,7 +60,7 @@ Test the actual task after a change. Discovery alone does not demonstrate prefer
 
 Omnia’s definition concerns agents “when they autonomously research, compare, and take actions”. That expands the proposed objective beyond appearing in a displayed answer, while leaving the actual mechanism and outcome to be measured. [Omnia, Agent Discovery Optimization, opening definition; verified 30 October 2026].
 
-You need task-level evidence to assess autonomous discovery.
+Assess autonomous discovery through recorded tasks.
 
 ## What our own data shows
 
@@ -80,9 +80,15 @@ You need task-level evidence to assess autonomous discovery.
 
 Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, November 2). *What is agent discovery optimization?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/agent-discovery-optimization/ Published November 2, 2026; updated November 2, 2026.
+Broadcastwell research team. (2026, November 2). *What is agent discovery optimization?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/agent-discovery-optimization/ Published November 2, 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research41,
@@ -92,7 +98,7 @@ Broadcastwell research team. (2026, November 2). *What is agent discovery optimi
   date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/glossary/agent-discovery-optimization/},
   urldate = {2026-11-02},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -100,7 +106,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

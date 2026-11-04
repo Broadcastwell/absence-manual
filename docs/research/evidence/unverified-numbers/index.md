@@ -7,23 +7,25 @@ research_id: 23
 research_group: evidence
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/evidence/unverified-numbers/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://arxiv.org/html/2311.09735v3
 ---
 
 # Numbers we could not verify, and claims the originals correct
 
-**GEO’s reported 41% improvement concerns position-adjusted word-count visibility, not citation probability (Aggarwal et al., 2024, Table 1).**
+**The GEO headline is fragile evidence about an experimental visibility metric, not a citation, traffic or conversion gain.**
 
 
 Observed answers on stated dates, not a ranking.
-The **41%** GEO claim has a real ancestor, but “citation probability” is the wrong outcome. Aggarwal and colleagues' Table 1 describes improvement in a **position-adjusted word-count visibility metric**, with a separate subjective-impression measure. It is not a measured probability that a business will be cited. [Aggarwal et al., 2024, author manuscript v3, Table 1](https://arxiv.org/html/2311.09735v3).
+GEO experiment: Aggarwal et al. (KDD 2024) headline a gain of up to 40% in a position-adjusted word-count visibility metric. Treat it as fragile: the ICLR 2024 draft reported 37%, the paper's own five-seed rerun (appendix Table 6) gives 36.9%, and on Perplexity adding citations cut the judged score by 23% (19.0 vs 24.7) while keyword stuffing raised it 14%. It is not a citation, traffic or conversion gain.
+
+We have not recovered the exact ICLR submission for an independent check of the reported 37% headline. That version comparison remains a reported historical claim, not a newly verified result. The KDD paper uses a 1,000-query supplied-source test split and a separate 200-example Perplexity experiment. These are metric comparisons, not count-based citation probabilities. [KDD author manuscript, Tables 1, 6 and 7](https://arxiv.org/html/2311.09735v3).
 
 This ledger preserves the claim as encountered, then states what survives checking. It includes missing sources, changes of unit, invalid inference and corrections to our own initial objections. A rejected sentence is not proof that its underlying topic is unimportant, or that an author acted dishonestly.
 
@@ -33,7 +35,7 @@ You can use the status column to distinguish an unavailable report from a claim 
 
 | Claim encountered | Where it appeared | Primary check and status |
 |---|---|---|
-| Statistics boost AI visibility by up to 40%; expert quotations increase citation probability by 41% | Vidhate, Jadhav and Gole, IJNRD 2026, PDF p. 3 | Aggarwal et al.'s abstract uses “up to 40%”; Table 1 describes a 41% best improvement in position-adjusted word count. The conditions and metrics must remain attached. A universal citation-probability uplift is unsupported. Corrected metric belongs in the quotable ledger. |
+| Statistics boost AI visibility by up to 40%; expert quotations increase citation probability by 41% | Vidhate, Jadhav and Gole, IJNRD 2026, PDF p. 3 | GEO experiment: Aggarwal et al. (KDD 2024) headline a gain of up to 40% in a position-adjusted word-count visibility metric. Treat it as fragile: the ICLR 2024 draft reported 37%, the paper's own five-seed rerun (appendix Table 6) gives 36.9%, and on Perplexity adding citations cut the judged score by 23% (19.0 vs 24.7) while keyword stuffing raised it 14%. It is not a citation, traffic or conversion gain. The citation-probability interpretation is unsupported; it does not belong in the quotable-effectiveness ledger. |
 | Voice searches average 29 words | Anttila, 2021, p. 9 | [Backlinko's original 2018 study](https://backlinko.com/voice-search-seo-study) reports the average **answer** length in its Google Home results. It is not query length. The corrected historical observation is usable with that sample and date. |
 | 96% of businesses are not voice-search ready | Anttila, 2021, p. 2 | [Uberall's 2019 primary release](https://uberall.com/en-us/company/news-press/uberall-defines-online-voice-search-readiness-vsr-with-first-of-its-kind-study-of-73-000-business-locations) concerns 73,000 business locations and its own listings-readiness definition. It reports only 3.82% with correct information on its three principal directories. That does not establish the share of all businesses technically unable to appear in voice search. |
 | Organic traffic research proves a general marketing tactic works | Secondary accounts citing Baye et al., 2016 | [The publisher's original](https://host.kelley.iu.edu/mwildenb/seo.pdf) studies retail organic clicks in August 2012. Its sample, econometric design and outcome are identifiable. It does not supply a general effect on present-day AI-answer citation. |
@@ -41,6 +43,16 @@ You can use the status column to distinguish an unavailable report from a claim 
 The full Backlinko population is stated as **10,000 Google Home results**; the reported average is a historical vendor study result. Its rounded average does not provide the individual-length distribution or a reconstructable uncertainty interval. It should not become a required answer length for every page you publish.
 
 Uberall's release also distinguishes its readiness score from real-world return on investment. A vendor-defined score can identify missing listing information under its rules. It cannot, without another design, establish how often those errors caused an assistant to omit a business.
+
+## Which earlier row did we withdraw on November 3, 2026?
+
+The following is the exact earlier quotable-numbers row, retained as a historical statement under review. We withdraw its “different presentation precision” interpretation. This is not an adopted effectiveness claim.
+
+| GEO experiment | Aggarwal et al.'s 2024 Table 1 reports a best improvement of 41% in position-adjusted word-count visibility and 28% in subjective impression under its experimental conditions. | Author manuscript v3, Table 1, 1,000-query test split with fixed supplied sources. The separate 200-query Perplexity experiment also constrained the source files. Relative improvement in specified metrics; neither number is a business's probability of being cited, traffic uplift or conversion gain. No binomial base applies to these metric improvements. |
+
+GEO experiment: Aggarwal et al. (KDD 2024) headline a gain of up to 40% in a position-adjusted word-count visibility metric. Treat it as fragile: the ICLR 2024 draft reported 37%, the paper's own five-seed rerun (appendix Table 6) gives 36.9%, and on Perplexity adding citations cut the judged score by 23% (19.0 vs 24.7) while keyword stuffing raised it 14%. It is not a citation, traffic or conversion gain.
+
+The dated correction replaces that reading, while the original report and original CSV remain historical records. [Download the before-and-after correction ledger](../../data/research-errata-2026-11-03.csv).
 
 ## Which claims remain unsupported?
 
@@ -126,9 +138,15 @@ Corrections belong in the record even when the initial error came from our own r
 
 See the [Claim Registry](https://docs.broadcastwell.com/research/claims/) and [academic access](https://docs.broadcastwell.com/research/academic-access/).
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *Numbers we could not verify, and claims the originals correct*. Broadcastwell. https://docs.broadcastwell.com/research/evidence/unverified-numbers/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *Numbers we could not verify, and claims the originals correct*. Broadcastwell. https://docs.broadcastwell.com/research/evidence/unverified-numbers/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research23,
@@ -138,7 +156,7 @@ Broadcastwell research team. (2026, October 30). *Numbers we could not verify, a
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/evidence/unverified-numbers/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -146,7 +164,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

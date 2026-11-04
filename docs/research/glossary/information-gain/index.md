@@ -7,13 +7,13 @@ research_id: 40
 research_group: glossary
 lead: Vikram Patel
 published: '2026-11-02T20:27:14Z'
-updated: '2026-11-03T21:07:36+00:00'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/information-gain/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T20:27:14Z'
-date_modified: '2026-11-03T21:07:36+00:00'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://patents.google.com/patent/US11354342B2/en
 defined_term: Information gain
 ---
@@ -80,9 +80,15 @@ Our 30 October 2026 host audit changed the review-platform classification from 1
 
 Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, November 2). *What does information gain mean in SEO?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/information-gain/ Published November 2, 2026; updated November 3, 2026.
+Broadcastwell research team. (2026, November 2). *What does information gain mean in SEO?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/information-gain/ Published November 2, 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research40,
@@ -92,7 +98,7 @@ Broadcastwell research team. (2026, November 2). *What does information gain mea
   date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/glossary/information-gain/},
   urldate = {2026-11-02},
-  note = {Published 2026-11-02; updated 2026-11-03}
+  note = {Published 2026-11-02; updated 2026-11-04}
 }
 ```
 
@@ -100,7 +106,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-03. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

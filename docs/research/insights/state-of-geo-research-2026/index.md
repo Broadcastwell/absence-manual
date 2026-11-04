@@ -7,13 +7,13 @@ research_id: 11
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/state-of-geo-research-2026/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://arxiv.org/html/2311.09735v3
 ---
 
@@ -111,9 +111,15 @@ There is a trade-off between a rapidly updated discovery list and a deeply verif
 - Dogra, R. (n.d.). Search engine optimization (L. Jasrai, Ed.; cover course code DEOPR806). Lovely Professional University. Supplied file DEMKT806_SEARCH_ENGINE_OPTIMIZATION.pdf. Unit 11.5, PDF p. 146, cutoff wording; cover editor and publication-page credits differ. https://ebooks.lpude.in/new-scheme/management/mba/sem_3-4/DEMKT806_SEARCH_ENGINE_OPTIMIZATION.pdf Verified 30 October 2026.
 - Singh, S., & Kesarwani, H. (2025). Study on search engine optimization (SEO) vs. paid advertising: Which strategy yields better ROI? International Journal of Research Publication and Reviews, 6(4), 4129 to 4135. Supplied IJRPR41950.pdf, printed p. 4132, PDF p. 4. https://ijrpr.com/uploads/V6ISSUE4/IJRPR41950.pdf Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *GEO papers ask different questions about visibility*. Broadcastwell. https://docs.broadcastwell.com/research/insights/state-of-geo-research-2026/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *GEO papers ask different questions about visibility*. Broadcastwell. https://docs.broadcastwell.com/research/insights/state-of-geo-research-2026/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research11,
@@ -123,7 +129,7 @@ Broadcastwell research team. (2026, October 30). *GEO papers ask different quest
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/insights/state-of-geo-research-2026/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -131,7 +137,7 @@ Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

@@ -7,13 +7,13 @@ research_id: 43
 research_group: study
 lead: Ananya Rao
 published: '2026-11-02T20:27:14Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-11-02T20:27:14Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.17605/OSF.IO/DVYFU
 research_dataset:
   name: Observed optimization signals on archived AI-cited pages
@@ -218,11 +218,17 @@ These are measurements of later captured signatures on previously cited pages.
 
 Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
 Report DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). All versions: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
-Broadcastwell research team. (2026, November 2). *Which optimization signals appear on AI-cited pages?*. Broadcastwell. https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/ Published November 2, 2026; updated November 2, 2026.
+Broadcastwell research team. (2026, November 2). *Which optimization signals appear on AI-cited pages?*. Broadcastwell. https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/ Published November 2, 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research43,
@@ -232,7 +238,7 @@ Broadcastwell research team. (2026, November 2). *Which optimization signals app
   date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/},
   urldate = {2026-11-02},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -240,7 +246,7 @@ Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Related reading
 

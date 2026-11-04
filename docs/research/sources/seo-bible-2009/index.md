@@ -7,13 +7,13 @@ research_id: 21
 research_group: source
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/seo-bible-2009/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://books.google.com/books?vid=ISBN9780470452646
 ---
 
@@ -114,9 +114,15 @@ The unit is a checked vendor within a question and engine, not a unique company 
 - Ledford, J. L. (2009). SEO: Search engine optimization bible (2nd ed.). Wiley. ISBN 978-0-470-45264-6. Density advice: printed pp. 67, 94 and 99 (PDF pp. 89, 116 and 121). Appendix B: Bowman p. 397, Fishkin p. 416, Naeger p. 437, Whalen p. 448 (PDF pp. 419, 438, 459 and 470). Rank worksheet p. 481 (PDF p. 503). https://books.google.com/books?vid=ISBN9780470452646 Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *Search was already an answer-seeking habit in the 2009 SEO Bible*. Broadcastwell. https://docs.broadcastwell.com/research/sources/seo-bible-2009/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *Search was already an answer-seeking habit in the 2009 SEO Bible*. Broadcastwell. https://docs.broadcastwell.com/research/sources/seo-bible-2009/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research21,
@@ -126,7 +132,7 @@ Broadcastwell research team. (2026, October 30). *Search was already an answer-s
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/sources/seo-bible-2009/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -134,7 +140,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

@@ -7,13 +7,13 @@ research_id: 20
 research_group: source
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/google-seo-starter-guide-2010/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf
 ---
 
@@ -116,9 +116,15 @@ Those outcomes do not test whether following Google’s guide caused a citation.
 - Google Search Central. (n.d.). Mobile site and mobile-first indexing best practices. https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *Read Google’s 2010 guide for principles, then check the current instructions*. Broadcastwell. https://docs.broadcastwell.com/research/sources/google-seo-starter-guide-2010/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *Read Google’s 2010 guide for principles, then check the current instructions*. Broadcastwell. https://docs.broadcastwell.com/research/sources/google-seo-starter-guide-2010/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research20,
@@ -128,7 +134,7 @@ Broadcastwell research team. (2026, October 30). *Read Google’s 2010 guide for
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/sources/google-seo-starter-guide-2010/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -136,7 +142,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

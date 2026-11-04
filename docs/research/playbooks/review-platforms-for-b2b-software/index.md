@@ -7,13 +7,13 @@ research_id: 32
 research_group: playbook
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/review-platforms-for-b2b-software/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -108,9 +108,15 @@ We have no controlled measurement showing that collecting more reviews, completi
 - Broadcastwell. (2026). Who do AI engines cite for B2B software questions? [Registration]. OSF. Registered 30 October 2026, 01:32:03 UTC. https://doi.org/10.17605/OSF.IO/VCZKT Verified 30 October 2026.
 - G2. (2026). Community guidelines. Authenticity, first-hand experience, biased review collection and incentive disclosure. https://legal.g2.com/community-guidelines Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *How should a software vendor use review platforms responsibly?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/review-platforms-for-b2b-software/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *How should a software vendor use review platforms responsibly?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/review-platforms-for-b2b-software/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research32,
@@ -120,7 +126,7 @@ Broadcastwell research team. (2026, October 30). *How should a software vendor u
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/playbooks/review-platforms-for-b2b-software/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -128,7 +134,7 @@ Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

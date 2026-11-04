@@ -7,13 +7,13 @@ research_id: 7
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/who-the-engines-trust/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -99,9 +99,15 @@ The trade-off is practical. A conservative classification leaves a conspicuous u
 - Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
 - Goel, S., Broder, A., Gabrilovich, E., & Pang, B. (2010). Anatomy of the long tail: Ordinary people with extraordinary tastes. WSDM, pp. 201 to 210. §3.2, pageview distribution. https://doi.org/10.1145/1718487.1718513 . Author copy: https://sites.santafe.edu/~aaronc/courses/7000/readings/Goel_Broder_Gabrilovich_Pang_10_AnatomyOfTheLongTail_OrdinaryPeopleWithExtraordinaryTastes.pdf Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *A citation is an observed source choice, not a trust score*. Broadcastwell. https://docs.broadcastwell.com/research/insights/who-the-engines-trust/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *A citation is an observed source choice, not a trust score*. Broadcastwell. https://docs.broadcastwell.com/research/insights/who-the-engines-trust/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research7,
@@ -111,7 +117,7 @@ Broadcastwell research team. (2026, October 30). *A citation is an observed sour
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/insights/who-the-engines-trust/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -119,7 +125,7 @@ Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

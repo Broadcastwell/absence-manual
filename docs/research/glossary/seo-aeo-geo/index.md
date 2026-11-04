@@ -7,13 +7,13 @@ research_id: 42
 research_group: glossary
 lead: Vikram Patel
 published: '2026-11-02T20:27:14Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T20:27:14Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://developers.google.com/search/blog/2008/11/googles-seo-starter-guide
 defined_term: SEO, AEO and GEO
 ---
@@ -25,8 +25,6 @@ defined_term: SEO, AEO and GEO
 
 Observed answers on stated dates, not a ranking.
 A page can be indexed, quoted in a direct answer and cited in a generated response; those events do not require independent algorithms.
-
-Buyers also use AEO and AI search visibility.
 
 See [what GEO means in AI search](/answers/geo-basics/what-does-geo-mean-in-ai-search/).
 
@@ -70,7 +68,7 @@ Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/1
 
 **Supports:** Our published framework separates **naming, absence and citation**. Study 1 classifies captured page signals; Study 2 describes source citations and matching vendor pairs; Study 3 registers a future comparability test for absence persistence. These are research questions with specified units, not a single SEO/AEO/GEO score.
 
-In Study 2, **39 of 2,095 eligible target answers had empty citation lists: 1.9%, Wilson 95% interval 1.4% to 2.5%**. The [complete study](/research/studies/who-ai-engines-cite/) explains why an empty citation list and an absent brand are different outcomes. That distinction survives whichever umbrella acronym a publisher prefers.
+In Study 2, **39 of 2,095 eligible target answers had empty citation lists: 1.9%, Wilson 95% interval 1.4% to 2.5%**. The [complete study](/research/studies/who-ai-engines-cite/) explains why an empty citation list and an absent brand are different outcomes.
 
 **Does not support:** Future rankings or a causal publishing effect.
 
@@ -90,9 +88,15 @@ In Study 2, **39 of 2,095 eligible target answers had empty citation lists: 1.9%
 
 Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, November 2). *How do SEO, AEO and GEO differ?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/ Published November 2, 2026; updated November 2, 2026.
+Broadcastwell research team. (2026, November 2). *How do SEO, AEO and GEO differ?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/ Published November 2, 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research42,
@@ -102,7 +106,7 @@ Broadcastwell research team. (2026, November 2). *How do SEO, AEO and GEO differ
   date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/},
   urldate = {2026-11-02},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -110,7 +114,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

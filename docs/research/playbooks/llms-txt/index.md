@@ -7,13 +7,13 @@ research_id: 27
 research_group: playbook
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-03T17:50:50+00:00'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/llms-txt/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-03T17:50:50+00:00'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://developers.google.com/search/updates
 ---
 
@@ -110,9 +110,15 @@ Our [page-signal study](/research/studies/optimized-pages-in-ai-answers/) found 
 - FastHTML. (2026). Documentation llms.txt [Live text file]. https://www.fastht.ml/docs/llms.txt Verified 30 October 2026.
 - Broadcastwell. (2026). llms.txt [Live text file]. Direct response opened 30 October 2026; search-cache copy differed. https://docs.broadcastwell.com/llms.txt Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *What is llms.txt, and what can it actually do?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/llms-txt/ Published 30 October 2026; updated November 3, 2026.
+Broadcastwell research team. (2026, October 30). *What is llms.txt, and what can it actually do?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/llms-txt/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research27,
@@ -122,7 +128,7 @@ Broadcastwell research team. (2026, October 30). *What is llms.txt, and what can
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/playbooks/llms-txt/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-11-03}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -130,7 +136,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-03. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

@@ -7,13 +7,13 @@ research_id: 46
 research_group: evidence
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/evidence/quotable-numbers/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.1145/3447535.3462479
 research_dataset:
   name: Quotable search and AI-answer observations
@@ -45,7 +45,7 @@ This ledger provides wording that can travel with a figure. It does not upgrade 
 
 Rovira and colleagues called their proposed explanation for a change in scholarly search ordering “only an inference.” That short qualification belongs beside the result, not on a page the reader is unlikely to open. [Rovira et al., 2019, §4](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf).
 
-[Download this ledger as CSV](../../data/quotable-numbers.csv). Its rows preserve the wording, source location, unit and unavailable uncertainty rather than inventing counts from rounded source percentages.
+[Download this ledger as CSV](../../data/quotable-numbers-2026-11-03.csv). Its rows preserve the wording, source location, unit and unavailable uncertainty rather than inventing counts from rounded source percentages. The [October 30 original CSV](../../data/quotable-numbers.csv) is retained as a historical file; its GEO row was withdrawn on November 3, 2026. Use the dated current ledger above.
 
 ## Which external findings can you quote?
 
@@ -56,9 +56,9 @@ Rovira and colleagues called their proposed explanation for a change in scholarl
 | Scholarly relevance ordering | Rovira et al. report Google Scholar median-rank correlations of 0.968 and 0.721 for unrestricted one-term and two-term searches, and 0.990 and 0.994 with title restriction. The one-term title-restricted workbook omits two query columns: using all 25 gives 0.991 after rounding rather than the reported 0.990. | 2019, Table 2, reprint PDF p. 56. Correlation across position-wise median summaries from selected scholarly searches, not AI-answer citation probability. Coefficients are not proportions. |
 | A temporary observed Web of Science ordering | The study reports a citation-like Web of Science ordering during 20 to 25 May 2019; Table 2 gives 0.907 for that collection and −0.075 for the other collection. | Rovira et al., Table 2 and §4. Operator testing is the authors' inference. The historical observation does not establish the present system's behavior. |
 | Historical voice-answer length | Backlinko's 2018 study of 10,000 Google Home results reported an average spoken-answer length of 29 words. | Original study, answer-length section. Vendor study, historical system and selected sample. This is answer length, not query length or a universal content target; distribution-level uncertainty is unavailable. |
-| GEO experiment | Aggarwal et al.'s 2024 Table 1 reports a best improvement of 41% in position-adjusted word-count visibility and 28% in subjective impression under its experimental conditions. | Author manuscript v3, Table 1, 1,000-query test split with fixed supplied sources. The separate 200-query Perplexity experiment also constrained the source files. Relative improvement in specified metrics; neither number is a business's probability of being cited, traffic uplift or conversion gain. No binomial base applies to these metric improvements. |
+| GEO experiment, fragile evidence | GEO experiment: Aggarwal et al. (KDD 2024) headline a gain of up to 40% in a position-adjusted word-count visibility metric. Treat it as fragile: the ICLR 2024 draft reported 37%, the paper's own five-seed rerun (appendix Table 6) gives 36.9%, and on Perplexity adding citations cut the judged score by 23% (19.0 vs 24.7) while keyword stuffing raised it 14%. It is not a citation, traffic or conversion gain. | KDD 2024, Tables 1, 6 and 7; the 1,000-query supplied-source test split and separate 200-example Perplexity experiment use different outcomes. See the [unverified-numbers ledger](../unverified-numbers/) for the withdrawn row and version limit. |
 
-The last row corrects the metric rather than validating a universal marketing promise. The abstract's “up to 40%” and the table's 41% summary have different presentation precision; retain the exact table location if using the latter. Do not combine them into an invented probability.
+We have not recovered the exact ICLR submission for an independent check of the reported 37% headline. That version comparison remains a reported historical claim, not a newly verified result. The KDD paper uses a 1,000-query supplied-source test split and a separate 200-example Perplexity experiment. These are metric comparisons, not count-based citation probabilities. The former 41% and 28% row is preserved in the unverified-numbers ledger as a withdrawn interpretation. It is no longer an approved effectiveness quotation.
 
 ## How often do repeated answers disagree?
 
@@ -119,11 +119,17 @@ The unresolved question is which future observations will remain comparable. The
 
 - Rovira, C., Codina, L., Guerrero-Solé, F., & Lopezosa, C. (2019). Ranking by relevance and citation counts: Source workbooks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3381151 . Google Scholar one-term title-restricted workbook, Full1 B2:B1001 and C:AA. Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
 Report DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). All versions: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
-Broadcastwell research team. (2026, October 30). *Quotable numbers, with their original boundaries*. Broadcastwell. https://docs.broadcastwell.com/research/evidence/quotable-numbers/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *Quotable numbers, with their original boundaries*. Broadcastwell. https://docs.broadcastwell.com/research/evidence/quotable-numbers/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research46,
@@ -133,7 +139,7 @@ Broadcastwell research team. (2026, October 30). *Quotable numbers, with their o
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/evidence/quotable-numbers/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -141,7 +147,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

@@ -7,13 +7,13 @@ research_id: 22
 research_group: evidence
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/evidence/graded-sources/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.1145/3447535.3462479
 ---
 
@@ -128,9 +128,15 @@ The awkward cases remain useful. A survey may reveal how respondents understand 
 - Ziakis, C., & Vlachopoulou, M. (2024). [Artificial intelligence’s revolutionary role in search engine optimization](https://doi.org/10.1007/978-3-031-51038-0_43). In Strategic innovative marketing and tourism (pp. 391 to 399). Springer. https://doi.org/10.1007/978-3-031-51038-0_43 . Verified 30 October 2026.
 
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *Twenty-one source documents, graded by what they support*. Broadcastwell. https://docs.broadcastwell.com/research/evidence/graded-sources/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *Twenty-one source documents, graded by what they support*. Broadcastwell. https://docs.broadcastwell.com/research/evidence/graded-sources/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research22,
@@ -140,7 +146,7 @@ Broadcastwell research team. (2026, October 30). *Twenty-one source documents, g
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/evidence/graded-sources/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -148,7 +154,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 
