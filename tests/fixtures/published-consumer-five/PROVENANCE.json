@@ -1,0 +1,7 @@
+{
+  "fixture_only": true,
+  "new_producer_approval_created": false,
+  "original_actual_PR93_hub_payload_sha256": "4ac491bc0e9890bf3e8f6966bfb73572d249198b95204be9d21116fad5fbe909",
+  "original_actual_PR93_producer_sha256": "8fff391f1079dec39c58930d7e06a14fb354d57f09828fd9590e0a74665396ce",
+  "projection": "Exact selected public producer fields only; not an independently usable producer receipt."
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0467",
+  "path": "answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md",
+  "canonical_source_sha256": "88c019d27982c6869586069afb26a1c2de09e18740721dd5153b24404bd52362",
+  "effective_canonical_source_sha256": "3e48f687cca5272e39b944cfb355b37a7f8f9b020a537e39a30970efa012278d",
+  "effective_body_sha256": "55eb3a2c93d4aa5597bda1229b19713eef0ea370a5c94486fe4b66c3b62092f0",
+  "effective_metadata_sha256": "7494fe276153c04358df06ec072bcd628eb89437fa25c132cde19c0ebb16c766",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\changes\\what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md",
+    "raw_sha256": "3e48f687cca5272e39b944cfb355b37a7f8f9b020a537e39a30970efa012278d",
+    "canonical_LF_sha256": "3e48f687cca5272e39b944cfb355b37a7f8f9b020a537e39a30970efa012278d"
+  },
+  "review_basis": "Actual original full-page or full merged/primary-target reading plus all exact selected bounded continuations, neutral footer replay and independently verified Root metadata-date-only change.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0467.writing-coverage.json",
+    "raw_sha256": "9bc2b64fa811bffdf4cc29ece62363f0812c802b8320e7cd286e1438f13cb733",
+    "canonical_LF_sha256": "9bc2b64fa811bffdf4cc29ece62363f0812c802b8320e7cd286e1438f13cb733"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false
+}

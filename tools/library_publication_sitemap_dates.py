@@ -37,11 +37,11 @@ def _prior_hub_raw_source(previous):
     return raw
 
 
-def _derive_dates(registry,*,prior_xml,prior_payloads,prior_hubs):
+def _derive_dates(registry,*,prior_xml,prior_payloads,prior_hubs,research_support=None):
     """Pure diagnostic calculation; it does not confer publication authority."""
     from library_publication_consumers import _sitemap_rows,SITE,public_route
     registry.assert_current();overlay=registry.overlay;prior=overlay.prior;q=overlay.q
-    old_rows={row['url']:row for row in _sitemap_rows(prior_xml)}
+    old_rows={row['url']:row for row in _sitemap_rows(prior_xml,research_support)}
     require(set(prior_hubs)==_prior_hub_paths(prior),'Prior hub payload/source pins hide or invent a hub')
     active=set(getattr(overlay,'active_revision_paths',[]))
     frozen=getattr(getattr(overlay,'s5_scope',None),'frozen',frozenset())
@@ -95,7 +95,7 @@ class BoundPublicationDates:
     def expected(self,registry,prior_xml):
         registry.assert_current()
         require(registry.fingerprint==self._registry and sha(prior_xml)==self._xml,'Publication-lastmod proof belongs to another registry/XML')
-        dates,audit=_derive_dates(registry,prior_xml=prior_xml,prior_payloads=self._payloads,prior_hubs=self._hubs)
+        dates,audit=_derive_dates(registry,prior_xml=prior_xml,prior_payloads=self._payloads,prior_hubs=self._hubs,research_support=self._research_support)
         require(dates==self._dates and audit==self._audit,'Publication-lastmod inputs changed after exact binding')
         return copy.deepcopy(dates)
 
@@ -103,7 +103,7 @@ class BoundPublicationDates:
 
 
 def bind_publication_dates(registry,*,prior_xml,prior_payload_bundle,prior_hub_bundle,
-    actual_prior_artifacts,producer_receipt,payload_file_sha256,hub_file_sha256):
+    actual_prior_artifacts,producer_receipt,payload_file_sha256,hub_file_sha256,research_support=None):
     overlay=registry.overlay
     require(prior_payload_bundle.get('schema_version')==prior_hub_bundle.get('schema_version')==1,'Publication-lastmod payload schema differs')
     payloads=prior_payload_bundle.get('pages',{});hubs=prior_hub_bundle.get('hubs',{})
@@ -126,9 +126,9 @@ def bind_publication_dates(registry,*,prior_xml,prior_payload_bundle,prior_hub_b
             'Prior hub payload object differs from independently approved bundle')
     require(overlay.prior['routes']['/sitemap.xml']['compiled_sha256']==sha(prior_xml)
         and actual_prior_artifacts.get('/sitemap.xml')==prior_xml,'Prior XML differs from actual trusted publication')
-    dates,audit=_derive_dates(registry,prior_xml=prior_xml,prior_payloads=payloads,prior_hubs=hubs)
+    dates,audit=_derive_dates(registry,prior_xml=prior_xml,prior_payloads=payloads,prior_hubs=hubs,research_support=research_support)
     result=object.__new__(BoundPublicationDates)
     result._registry=registry.fingerprint;result._xml=sha(prior_xml)
     result._payloads=copy.deepcopy(payloads);result._hubs=copy.deepcopy(hubs)
-    result._dates=dates;result._audit=audit
+    result._dates=dates;result._audit=audit;result._research_support=research_support
     return result

@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/fixes/how-should-i-structure-headings-for-ai-crawlers.md",
+  "before_effective_canonical_sha256": "6ee1046370ebfff224db5ade5a15b2537d80b831c9c3f94a7990a0e19b7d9af7",
+  "raw_canonical_source_sha256": "2b25edf410e9a9c34ded920e8b87bcd9f577f0c6dcc37696fffedf9aa64e9564",
+  "after_effective_canonical_sha256": "5a649c271f30adceacf0d62162cec089a7f8be32f78257960b6e023279d2ba10",
+  "fact_ledger_sha256": "0960e52af45de94171efea8856ce7893cbc25328d5ed4e899c018d7ec34c2097",
+  "effective_payload_sha256": "587d411f755de369741140803b627a8782c8548c4e4e94e42f26ef2ff5eeb2df"
+}

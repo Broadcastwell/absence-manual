@@ -1,0 +1,8 @@
+{
+  "approved": false,
+  "reviewer": "root",
+  "review_kind": "root-exact-owner-repair-artifacts",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "source_plan_sha256": "93cad909368249d8c5538b5f43bb34f5a274e7908ca6778265c9e949d6fca91d",
+  "actual_delta": null
+}

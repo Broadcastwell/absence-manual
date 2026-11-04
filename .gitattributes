@@ -10,3 +10,12 @@ docs/research/data/field-test-protocol.pdf -text
 docs/research/data/field-test-interventions.json -text
 # Reviewed publication inputs and receipt hashes identify exact authority bytes.
 /tools/library-publication/** -text
+
+# Exact test evidence and published-before fixture bytes, not product assets.
+/tests/fixtures/owner_required28/** -text
+/tests/fixtures/research_owner11/** -text
+# Portable Owner inputs identify exact reviewed bytes, including receipt line endings.
+/tools/library-owner-repair/** -text
+
+# Exact finite inherited-method fixture bytes.
+/tests/fixtures/owner-null-method/** -text

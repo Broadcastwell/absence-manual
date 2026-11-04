@@ -1,0 +1,32 @@
+{
+  "approved": true,
+  "reviewer": "root",
+  "review_kind": "root-owner-repair-pdf",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "path": "assets/samples/FieldEdge_Category_Audit_v2.pdf",
+  "before_sha256": "8e82b8d81f569ea29337258e29b5230373003c6fcb2e6f63982471a7b8e1206a",
+  "after_sha256": "80e57511aa5f25a5e58ab4d7f7cdc99e37eed09a012e4bd8e6884617cf4e5fc0",
+  "prior_artifact_sha256": "04b35fe2e233e95266c359094c6c242bfc58c4c1a7657d22da09dd827ba71d01",
+  "observation_sha256": "7fa7c8f1850f57867a37200373dccf3df2bb5c3842e28a2bba1dd4c156ee660b",
+  "after_consumed_inputs_sha256": "befdeb1606ff26d299edf4f0b333631e71745e49910e7b8b1665873a7f629e82",
+  "before_consumed_inputs_sha256": "7001afd525c1fb4835df377092e396b0dd8299365719559ec858e0ec996aaf54",
+  "full_text_and_geometry_sha256": "9053c2c2d6eec20a90bb9eb0c9df35a52a529952883f4a0760115cac90470327",
+  "all_text_changes_source_reviewed": true,
+  "source_review_receipt_sha256": "67aac60cf03ec070c8a44d89f8e8fae30f7ac03c3427507810390951b96c0e62",
+  "visual_receipt_sha256": "c46cab11397c861ceacb5191038728bd30188d3f495f734d6645f669cd4b01da",
+  "first_linux_artifact_id": 13293184906,
+  "first_linux_artifact_sha256": "bd5a845b3c54094faae6d87352044b4a841fcc849e0180309acd97f33c7f12c1",
+  "target_text_style_preserved": false,
+  "descriptor_single_run_style_PASS_claimed": false,
+  "physical_font_evidence_method": "Actual embedded OS/2 plus explicit25WHITE-before outline/hmtx reference evidence; physical133 mapped sizes/colors/flags/opacity/origins match the approved plan. This is separate from the unsuitable single-run descriptor predicate.",
+  "physical_font_provenance": {
+    "path": "pdf-proof/records/973c6b93d7b1ebd3d43f5be08eb7ab485005de665995982e71581340a35cf3f2.json",
+    "sha256": "973c6b93d7b1ebd3d43f5be08eb7ab485005de665995982e71581340a35cf3f2"
+  },
+  "physical_font_before_direct_OS2_targets": 108,
+  "physical_font_before_outline_reference_targets": 25,
+  "physical_font_after_direct_OS2_targets": 133,
+  "actual_approved_regular400_targets": 118,
+  "actual_approved_semibold600_targets": 15,
+  "publication_or_ordinary_S5_approval": false
+}

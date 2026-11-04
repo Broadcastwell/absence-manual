@@ -1,0 +1,25 @@
+{
+  "actual_review_scope": "All four complete proposed before/after hub body versions and five exact requested standalone discovery descriptions; strict literal forward/inverse and unchanged outside text. No current Source49, frozen leaf or ordinary S5 approval.",
+  "approved": true,
+  "catalog_sha256": "e44c828358fb4c5b3ac86c8bc5280835a08e0ddb5e01d4ea2a88bc675a516607",
+  "complete_hub_before_after_read": true,
+  "consumer_plan_sha256": "d67d3d912436efc72c31ef73d163878726dc2df7059cd98edfed18112afb5fb5",
+  "five_exact_descriptions_reviewed": true,
+  "hub_body_files": {
+    "proposed-hubs/answers/fixes/index.after.body.md": "8e4ba7c94a625b1d13d82eb932d7c165ebbbae8df7ed3abc1f47010ed4498397",
+    "proposed-hubs/answers/fixes/index.before.body.md": "905b0fa635b055d2a9d022d5d1a789cd6eab918495f4b82547de19e68502b3d8",
+    "proposed-hubs/answers/geo-basics/index.after.body.md": "e6f293ff02f2a2e9808f729f2379fde31974d1263143578033503856e97afcff",
+    "proposed-hubs/answers/geo-basics/index.before.body.md": "ad5f46579647ff55a8bf82e6ca05c608ef779177d6dffa8c26424edcc69d2956"
+  },
+  "input_extraction_sha256": "153f9eb9d7ab4490c79b6f9df9a38c265d573d5d015c2f6c6a7e31e87fd3649d",
+  "leaf_source_metadata_or_ordinary_S5_approval": false,
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "qualification": "Descriptions summarize existing published distinctions; no new measurement, causal effect, field treatment, upstream fresh read, CI, native preview, publication or global S5 approval.",
+  "review_kind": "source",
+  "scope": "owner-exact-discovery-consumer-five",
+  "supporting_public_local_source": {
+    "actual_physical_source_sha256": "88c4e0a7c08d5d0d308d3a2ec40fa1804178537f9fa42ef14a3fc5e95f0fd5da",
+    "path": "resources/bot-access.md",
+    "scope": "Existing OpenAI crawler purposes and independent permissions; complete local public source read. No new upstream retrieval."
+  }
+}

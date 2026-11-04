@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "current_full_file_actually_read": true,
+  "fresh_full_final_file_reread_claimed": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0531",
+  "path": "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md",
+  "canonical_source_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a",
+  "effective_canonical_source_sha256": "0494bfcec695858972146328fda00eba14976dd2fe227acd926e7987febb891e",
+  "effective_body_sha256": "a3741929a14f4daa2b4118a87c28425d645156660a4e9b1a137e22895dc3739f",
+  "effective_metadata_sha256": "bf63f2eac8a70230dbb91cbf25b48d8aaa6c45e51a062bcf1dc581b24baed760",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\manuscripts\\answers\\geo-basics\\can-an-ai-answer-cite-a-company-without-naming-it.md",
+    "raw_sha256": "30a6300e9e9012fee27d985d7f38dae8144edc2d7f632ef73334c21756087ff5",
+    "canonical_LF_sha256": "0494bfcec695858972146328fda00eba14976dd2fe227acd926e7987febb891e"
+  },
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\S5_1919_ROOT_THREE_FULL_WRITING_V2\\coverage\\LB-Q0531.coverage.json",
+    "raw_sha256": "00a36a1559c8941364ee36d95cda10f9fe4c1dd61176ff43c7af87b1fa189ded",
+    "canonical_LF_sha256": "0bf0a3aec77dd5ff6d29da3f1411cdaab154814b8ea672ccfa9c6bef71c839fe"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_1919_RELEASE\\ROOT_PRIVATE_THREE_CHANGES_V1\\ROOT_PRIVATE_ADOPTION.json",
+      "raw_sha256": "c4838a1581ac9627db5f9b4a9bf87336a98b3cf1c8bffac466e81427da3f419d",
+      "canonical_LF_sha256": "93560800d865d9f60da541bc061a63e9cdff87eb6b74405111b739b3946318b2"
+    },
+    "date_modified": "2026-11-03T19:38:19+00:00"
+  },
+  "approval_boundary": "Exact current private Writing-peer article approval. Source, collection/reuse/code, visual, staging, public release, retirement and indexing remain separate.",
+  "publication_or_global_approved": false
+}

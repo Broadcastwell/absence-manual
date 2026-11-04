@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets.md",
+  "before_effective_canonical_sha256": "5852c19e01df692c386d757c73b0008878e986735eeffa1f5da30634a84c944d",
+  "raw_canonical_source_sha256": "5852c19e01df692c386d757c73b0008878e986735eeffa1f5da30634a84c944d",
+  "after_effective_canonical_sha256": "4ed4993430baab46c8f66ec8f6ff3cc6812964d433264dda123d067cef3af421",
+  "fact_ledger_sha256": "ce5b592ddcded69e5da1c9a0f435d40dbbf9bf7f6d8c2fad914e73ed8e2e1eb3",
+  "effective_payload_sha256": "52d8ddf6c493fba4f6cc32e37e47c98c5e2aee54b2b983f81157aef3e76d1028"
+}

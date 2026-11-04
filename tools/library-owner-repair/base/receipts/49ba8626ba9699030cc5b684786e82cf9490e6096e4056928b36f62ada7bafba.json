@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0613",
+  "path": "answers/perplexity/which-radiology-software-does-perplexity-recommend.md",
+  "canonical_source_sha256": "fd0698eddbf12090e901e817e2d92e88153b8fb55f34af09835aef0b0b4aeee1",
+  "effective_canonical_source_sha256": "600cf1fa8fe6f104e54b568a23f81b5d095cd30d1cf6e060c84438df2748efcd",
+  "effective_body_sha256": "f5f8e996939938855707a3eed5463eb2b4de0a65cc218d8126f799e708ccfafd",
+  "effective_metadata_sha256": "8825ba94ab1e18b492ca4b57b8aaf73f69ff6e8feacbcd4b2c93f6b122164177",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\perplexity\\which-radiology-software-does-perplexity-recommend.md",
+    "raw_sha256": "600cf1fa8fe6f104e54b568a23f81b5d095cd30d1cf6e060c84438df2748efcd",
+    "canonical_LF_sha256": "600cf1fa8fe6f104e54b568a23f81b5d095cd30d1cf6e060c84438df2748efcd"
+  },
+  "review_basis": "Prior exact full-effective-article Writing approval plus actual bounded default-method footer/date continuation; all other bytes proved unchanged. No fresh full45 reread or public/global approval.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_METHOD45_FINAL\\coverage\\LB-Q0613.writing-method45-coverage.json",
+    "raw_sha256": "4203bed4c2b22062f0a6533a19e844689f47411b120bf2a071e88e9a58586268",
+    "canonical_LF_sha256": "4203bed4c2b22062f0a6533a19e844689f47411b120bf2a071e88e9a58586268"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "date_modified": "2026-11-03T11:12:54+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false,
+  "bounded_default_method_footer_continuation": {
+    "bank_id": "LB-Q0613",
+    "path": "answers/perplexity/which-radiology-software-does-perplexity-recommend.md",
+    "scope": "Bounded full-effective-file continuation after prior actual full-base and exact delta reviews. No new full45-body reread is claimed.",
+    "prior_approved_full_article_Writing_receipt": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\receipts\\LB-Q0613.writing.json",
+      "raw_sha256": "5f7afafc6ec3bd625421b75a8733d022e24ae8f7733c6eb68a5a8ebbd8b26b2d",
+      "canonical_LF_sha256": "5f7afafc6ec3bd625421b75a8733d022e24ae8f7733c6eb68a5a8ebbd8b26b2d"
+    },
+    "prior_full_delta_coverage": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0613.writing-coverage.json",
+      "raw_sha256": "a4f846eda440709686b700fbacf8dbf1e50b00b01078ee4ea0cc16ca6b6ae18c",
+      "canonical_LF_sha256": "a4f846eda440709686b700fbacf8dbf1e50b00b01078ee4ea0cc16ca6b6ae18c"
+    },
+    "Root_actual_footer_adoption": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "before_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\perplexity\\which-radiology-software-does-perplexity-recommend.md",
+      "raw_sha256": "76d9549ab8e4e3b1da3c5c43bc900e330eadd939c3cf072973740bbf9bb6851a",
+      "canonical_LF_sha256": "76d9549ab8e4e3b1da3c5c43bc900e330eadd939c3cf072973740bbf9bb6851a"
+    },
+    "after_file": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\perplexity\\which-radiology-software-does-perplexity-recommend.md",
+      "raw_sha256": "600cf1fa8fe6f104e54b568a23f81b5d095cd30d1cf6e060c84438df2748efcd",
+      "canonical_LF_sha256": "600cf1fa8fe6f104e54b568a23f81b5d095cd30d1cf6e060c84438df2748efcd"
+    },
+    "actual_source_kind": "published-index",
+    "actual_Next_step_old_token_read": "[Our answer-study method, v1.1.](https://broadcastwell.com/methodology)",
+    "actual_Next_step_new_token_read": "[Every figure comes from the published method, v1.1.](https://broadcastwell.com/methodology)",
+    "same_exact_method_URL": true,
+    "canonical_default_token_already_in_body": true,
+    "only_footer_token_and_actual_date_modified_changed": true,
+    "all_other_body_opening_numbers_quotations_sources_metadata_exact": true,
+    "human_Writing_carry": "Neutral, plain canonical method label, already asserted in the reviewed body. No sales sentence, new factual reading, definition, measurement or claim is introduced. Prior five human-rule findings carry with this exact narrow continuation.",
+    "fresh_full_body_reread_claimed": false,
+    "new_Root_timestamp_invented": false
+  }
+}

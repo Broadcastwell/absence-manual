@@ -1,0 +1,30 @@
+{
+  "actual_served_readback": true,
+  "approved": true,
+  "hub_payload_bundle_sha256": "4ac491bc0e9890bf3e8f6966bfb73572d249198b95204be9d21116fad5fbe909",
+  "hub_payload_canonical_json_sha256": "10b0a0b77eb5853c81fe9582bd876810641ed9d9c85db9ed288d650bc58526bb",
+  "hub_raw_source_git_proof_passed": true,
+  "hub_raw_source_pins": {
+    "answers/agents/index.md": "c6112f1eaa60e5e481c97ac3eafe4f3fd48993da049e347eebe9aba1767eab65",
+    "answers/buying/index.md": "308cd0081e67a72b11d95276aac74cb505db4f9ce4c349d2d01dee51d01412c5",
+    "answers/changes/index.md": "cd73fd17b0c654729b011669510463a3af0d7444be90f1840c71cba9412a733c",
+    "answers/chatgpt/index.md": "6c5d6f14924b8bc3b3e5a5a03ade850131a6588499a2b8e7c48e56be2170d730",
+    "answers/claude/index.md": "87ed5d89d3e61970916b8aeb8faf4a29ba3300fe9310a2fb5e6c611459d220ed",
+    "answers/fixes/index.md": "50a54703ade89cd26fa43cc1dc9a7b9bd6705ed976fe18e9da0ea925069e2ad7",
+    "answers/geo-basics/index.md": "a13a3af4808c6e597974a9f33e189ee21a1e88499800656419f906671556b394",
+    "answers/google-ai/index.md": "fff1528ac057910c5871d7fc4b7823f78f60e0ce7d838e60e902476903e5154b",
+    "answers/index.md": "1bd327da61fc4323f4787e022a15f172c1935200737f9020a07f4829cfddbf11",
+    "answers/industries/index.md": "f866350486408e148adbb3372173052b06a198038b3d45cd6345b2e48d3eddef",
+    "answers/measurement/index.md": "52c0020dda46f3e1440ffdfcfce9c747504e16bc33ab9f59edae768a1398af3e",
+    "answers/perplexity/index.md": "514d6e95c061a6e19be9363bb6b0aba77b207fdaec182d3f8f82f5f2bafe9f28"
+  },
+  "hub_source_render_equality_passed": true,
+  "production_binding": {
+    "artifact_sha256": "04b35fe2e233e95266c359094c6c242bfc58c4c1a7657d22da09dd827ba71d01",
+    "commit_sha": "90f4a5dab5b8ad9883526d75426e45019f8f3547",
+    "deployment_id": "41742865044",
+    "served_receipt_sha256": "a5704131c98ef9a203319798bb58c7a0cb3fdebb6650be839c1e0fa89ff91c61"
+  },
+  "review_kind": "prior-production-effective-payload",
+  "source_render_equality_passed": true
+}

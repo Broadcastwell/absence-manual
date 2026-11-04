@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/buying/can-a-geo-agency-guarantee-ai-recommendations.md",
+  "before_effective_canonical_sha256": "7d0a24b9e56babaa7bb5c0aca5a1eb7f002888eda2d368caa188d2c7dd571315",
+  "raw_canonical_source_sha256": "7d0a24b9e56babaa7bb5c0aca5a1eb7f002888eda2d368caa188d2c7dd571315",
+  "after_effective_canonical_sha256": "fcae6bd0fe8980878dbe87360ac4c37bfc1c17d43f63ec2d8629f7a705e844b6",
+  "fact_ledger_sha256": "4c9e8651686142e0fb263ed8f28c1ba1bf49f990f7fb9022fc93bc421d749d56",
+  "effective_payload_sha256": "dc53f340b43d6b1a7e5c9977aa5a449a270bf2cf30e36655e61e1e25df45aab5"
+}

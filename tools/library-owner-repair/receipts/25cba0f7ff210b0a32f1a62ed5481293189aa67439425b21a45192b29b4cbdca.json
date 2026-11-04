@@ -1,0 +1,82 @@
+{
+  "review_kind": "writing",
+  "scope": "owner-exact-repair-changes",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "path": "why-does-chatgpt-not-mention-us.md",
+  "private_source_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V3\\manuscripts\\docs\\why-does-chatgpt-not-mention-us.md",
+  "canonical_source_sha256": "e6af3924980c06df42f740117cd46fc16b3b40c8bfc6f3035f747e2f88b89c16",
+  "before_effective_canonical_source_sha256": "e6af3924980c06df42f740117cd46fc16b3b40c8bfc6f3035f747e2f88b89c16",
+  "effective_canonical_source_sha256": "d9ad7bd5b3411c03ce1d08edf3968200179f7d20ddec87563973228714018a14",
+  "effective_body_sha256": "d6103a9d75dd678d22319a43018692fbdcebc94370f05b7697c87293104a052c",
+  "effective_meta_sha256": "ab610868771ecf9c294b3d668ccfe566155c6ef756fce87b758e4f0f4f431429",
+  "raw_after_sha256": "d9ad7bd5b3411c03ce1d08edf3968200179f7d20ddec87563973228714018a14",
+  "actual_Root_adoption_date_modified": "2026-11-03T17:50:50+00:00",
+  "approved": true,
+  "approved_exact_repair_changes": true,
+  "owner_requested_literal_changes_match": true,
+  "current_full_file_actually_read": true,
+  "full_article_read_complete": true,
+  "read_coverage": {
+    "kind": "complete actual Root V3 after-file reread including metadata/body/tail",
+    "tool_output_chunk": "d6cb49",
+    "lines_read": 47,
+    "read_completion_recorded_utc": "2026-11-03T17:53:49.863819+00:00",
+    "visual_read_claim": false
+  },
+  "preserved_facts": true,
+  "independent_exact_inverse_verified": true,
+  "repair_change_ledger_sha256": "22db6f7e323c98ee7de27014a747483573faac8e0443b7d85af8e82741be2d0e",
+  "repair_change_ledger": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V3_FINAL_SCOPED_WRITING_V1\\change-ledgers\\docs__why-does-chatgpt-not-mention-us.md.json",
+    "sha256": "22db6f7e323c98ee7de27014a747483573faac8e0443b7d85af8e82741be2d0e"
+  },
+  "full_context_judgment": "The full actual V3 file is read. All required causal/frequency/confidence qualifications, narrowed headline/description, complete replacement sentences and US spelling are present; the exact owner-mandated commercial sentence and its offer href remain unchanged. No scientific outcome or causal effect was invented.",
+  "required_current_followups": [],
+  "remaining_prior_S5_defects": [],
+  "current_S5_pass": null,
+  "ordinary_full_effective_article_S5_approval": false,
+  "Root_build_publication_live_approval": false,
+  "frozen_article_or_asset_edited": false,
+  "CSS_live_source_before_required": false,
+  "Root_adoption_manifest": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V3\\ROOT_ADOPTION.json",
+    "sha256": "e21bb88f4b7e92ea5415a57d598dd880171ab912e1e6fb1a27b8b9c183df30bd"
+  },
+  "prior_V2_actual_read_and_scope_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V2_FULL_CONTEXT_WRITING_V1\\receipts\\docs__why-does-chatgpt-not-mention-us.md.json",
+    "sha256": "a6510815bf7160e12a16586d58553363c517ea1b161ce1c4efe857375bcbce9b"
+  },
+  "review_created_utc": "2026-11-03T17:53:49.863819+00:00",
+  "resolved_V2_findings": [
+    {
+      "line": 17,
+      "quote": "which most buyers call Gemini",
+      "kind": "unsupported buyer-frequency assertion",
+      "disposition": "Source-led minimal qualification required; do not retain as an independently established fact."
+    },
+    {
+      "line": 19,
+      "quote": "Four causes account for almost every case we measure.",
+      "kind": "unsupported measured frequency",
+      "disposition": "Replace with bounded possibilities; no measured frequency invented."
+    },
+    {
+      "line": 23,
+      "quote": "the engine has nothing to name you with",
+      "kind": "unsupported necessary-cause assertion",
+      "disposition": "Qualify the relation between a cited source, absence and a possible next check."
+    },
+    {
+      "line": 29,
+      "quote": "a low-confidence vendor is left out of a short answer",
+      "kind": "unobserved internal confidence and causal claim",
+      "disposition": "Keep a factual consistency check without claiming an observed internal confidence mechanism."
+    },
+    {
+      "line": 41,
+      "quote": "the most common shape we find",
+      "kind": "unsupported frequency and pipeline implication",
+      "disposition": "Preserve the question-type distinction without claiming a measured prevalence or revenue effect."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "verified_utc": "2026-11-03T18:23:16.303981+00:00",
+  "public_watch_url": "https://www.youtube.com/watch?v=VzeAMK38r8Q",
+  "anonymous_oembed_HTTP_status": 200,
+  "anonymous_oembed_sha256": "b0a022b2d9e93ca2e4589b73aaf3b65aefff55b8237f1cd6d8f04eadb80863f2",
+  "title": "Which legal software gets named? Absence Index, September 2026",
+  "channel": "Broadcastwell",
+  "native_frames_actually_viewed_by_Root": [
+    {
+      "file": "LEGAL_PUBLIC_FRAME_A.jpg",
+      "captured_utc": "2026-11-03T18:17:05.642Z",
+      "observed": "Actual video title card, Pause control,0:02/1:20"
+    },
+    {
+      "file": "LEGAL_PUBLIC_FRAME_B.jpg",
+      "captured_utc": "2026-11-03T18:17:20.249Z",
+      "observed": "Actual later engine-by-engine count chart on same exactwatch URL; controls hidden"
+    }
+  ],
+  "frame_sha256": {
+    "LEGAL_PUBLIC_FRAME_A.jpg": "d5728740f5caa6420cdf016ac25eb9786eacab048f6cc20bc7107edee3503401",
+    "LEGAL_PUBLIC_FRAME_B.jpg": "19bb3e791a12b14262bb6c2bf71a1da41b739304ac292ad6385a3621f136edce"
+  },
+  "actual_frame_progress_verified": true,
+  "earlier_failed_turn_superseded_only_for_playback_verification": true,
+  "embed_not_yet_authored": true,
+  "request_retries": 0
+}

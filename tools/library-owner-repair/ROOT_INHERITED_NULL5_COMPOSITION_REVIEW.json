@@ -1,0 +1,62 @@
+{
+  "approved": true,
+  "reviewer": "root",
+  "review_kind": "root-exact-owner-inherited-null5-composition",
+  "policy": "OWNER_EXACT_INHERITED_NULL_METHOD5_V1",
+  "composition_evidence_sha256": "8b49d6514d6a2bd88af74a1c616e098ae5a750f7f5787091009244b449d678ba",
+  "ordinary_S5_or_footer_validity_approval": false,
+  "recorded_utc": "2026-11-04T06:53:13.582660+00:00",
+  "Root_actual_evidence24_rows_read": true,
+  "review_scope": "Exact inherited five NULL methods only, unchanged complete footer objects and spans, source kinds and method bases. All19 string method checks remain ordinary; two prior PASS pages retain separate ordinary Source/Writing peers.",
+  "source49_after_bytes_and_whole_catalog_checked": true,
+  "Root_before48_review_bound": true,
+  "full_literal_forward_and_inverse_preflight_executed": true,
+  "frozen45_excluded": true,
+  "final_artifact_PDF_publication_approval": false,
+  "exact_hub_binding_continuation": "Root read full31-line actual PR93→Risk diff and both metadata objects: precisely three reviewed excerpts on two hubs; surrounding bodies and other hub bindings exact.",
+  "exact_appendix_unread_page_code_continuation": {
+    "path": "tools/library_owner_repair_absence_seo.py",
+    "before_sha256": "f4b3f4e9030863d4cd096bbabb260db00a1f41612130d325e96be17972842d25",
+    "after_sha256": "c682a203ced3356a880d49c7c15b3ec6c6e3ebf7710d27989b5c687dfbb6c54d",
+    "Root_read_exact_branch_and_three_tests": true,
+    "targeted_tests": 13,
+    "PASS": 13,
+    "skip": 0
+  },
+  "exact_sitemap_fractional_timestamp_continuation": {
+    "path": "tools/library_publication_consumers.py",
+    "before_sha256": "157529352016872b73d276b11e2d9d7787cfde000cf051082e3482475c71d5e6",
+    "after_sha256": "e437f973a089616a90854b2d86a7b909e6015845ba4537dd4d6902833dcab94c",
+    "Root_read_exact_fractional_validation_and_two_tests": true,
+    "targeted_tests": 27,
+    "PASS": 27,
+    "skip": 0
+  },
+  "exact_first_actual_Linux_artifact_PDF_and_surface_continuation": {
+    "actual_files": 788,
+    "changed_files": 409,
+    "named_PDFs": 8,
+    "finite_surface_records": 394,
+    "source_changes": 49,
+    "source_manuscript_changes_since_V8": 0,
+    "full_future_Linux_gate_still_required": true
+  },
+  "finite_five_consumer_continuation": {
+    "catalog_sha256": "e44c828358fb4c5b3ac86c8bc5280835a08e0ddb5e01d4ea2a88bc675a516607",
+    "Root_review": {
+      "path": "discovery-five/ROOT_CONSUMER_REVIEW.json",
+      "sha256": "6c31cb8ea4baf933a3bde56c2e4849e45f1a4659411236046d8d81b2165af0d4"
+    },
+    "Source49_unchanged": true,
+    "PDF8_unchanged": true,
+    "all45_leaf_metadata_and_leaf_search_unchanged_required": true,
+    "observation_only_pending_actual6_artifacts": true
+  },
+  "final_six_output_reproduction_scope": {
+    "actual_local_review_sha256": "b74b86e6f4dc5b8b5848af00b04646bea625be82fb1e1fca478a4e3a8538a424",
+    "local786": true,
+    "exact780_prior_Linux_carries": true,
+    "Manual2_inputs_exact_prior_Linux_carry": true,
+    "new_full_Linux_required": true
+  }
+}

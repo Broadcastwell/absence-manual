@@ -1,0 +1,40 @@
+{
+  "recorded_utc": "2026-11-03T20:42:25.201846+00:00",
+  "unique_PDFs": 3,
+  "aliases": 6,
+  "individual_pages_actually_read": 93,
+  "sample_page_bases": {
+    "KAL": 26,
+    "FIELD": 41,
+    "WHITE": 26
+  },
+  "review_method": "Root viewed and read each individual original 120dpi Poppler PNG through view_image.",
+  "completed_view_log_sha256": "37be81f8c0a388de245a237da7c8e8794c9c74f249b0b424f312722e680904b8",
+  "render_manifest_sha256": "add0b9fb2a16007b8dd04bb194add7757cb5abe3c2f2c3c17c2cb052e4feeb84",
+  "reproduction_receipt_sha256": "4a320f0fcdd8a1f181946c073f7d8b09689608aa5b6d0caf2924ce74742d6003",
+  "Source_preservation_manifest_sha256": "0cf3e20f90b2dce21f2336d66ecf82041a5f72ae58dc0130c11d005568595f13",
+  "PDF_sha256": {
+    "KAL": "d8355a804f9e26c0fd3670419d647ea5998d79c88804e2e8b1bad368c7487384",
+    "FIELD": "80e57511aa5f25a5e58ab4d7f7cdc99e37eed09a012e4bd8e6884617cf4e5fc0",
+    "WHITE": "9179775f9f06522834c47112912d3b3fa255e40bcb9fff8cc86b94c4afb641c2"
+  },
+  "approved_relabelling_layout": "All 133 finite replacements are readable and retain the intended physical weight; no new clipping, overlap or missing content observed. Covers, 90 footers, three finance blocks and editorial terms were read in context.",
+  "preexisting_layout_limitations": [
+    {
+      "sample": "KAL",
+      "page": 6,
+      "finding": "Two original long source-domain labels touch the adjacent numeric column, unchanged outside approved masks."
+    },
+    {
+      "sample": "WHITE",
+      "page": 6,
+      "finding": "Two original long source-domain labels touch the adjacent numeric column, unchanged outside approved masks."
+    }
+  ],
+  "preexisting_content_limitations": "Historical fictional table/prose denominator discrepancies and the mostly blank final receipt page remain unchanged. This review does not certify the original scientific claims as new measurements.",
+  "whole_original_layout_flawless": false,
+  "finite_relabelling_visual_review_complete": true,
+  "owning_repository_adoption": false,
+  "Linux_eight_named_PDF_artifact_and_live_checks_pending": true,
+  "publication_approved": false
+}

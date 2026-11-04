@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "review_kind": "writing",
+  "scope": "full-effective-article",
+  "approved": true,
+  "actual_full_read_complete": true,
+  "reviewer": "LIBRARY 2 private Writing desk /root/writing_review",
+  "bank_id": "LB-Q0588",
+  "path": "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md",
+  "canonical_source_sha256": "a4c8a567d0185617acd1d7126818a7aa0b97dff9ab1eddbeab3852d0448b68f9",
+  "effective_canonical_source_sha256": "177528d716ffaafe909b8648bd355796eda00866e2ebfb918afe3becde4e83a2",
+  "effective_body_sha256": "f1f24c23a7dba0f70b09821751e2ffd270ac4a437ba6543834861804df21280a",
+  "effective_metadata_sha256": "39f212726b4f1e2a85fca4051a70c5e3eacde46640f90662b77e17afa4e17f09",
+  "effective_article_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\manuscripts\\answers\\chatgpt\\which-field-service-software-does-chatgpt-recommend.md",
+    "raw_sha256": "177528d716ffaafe909b8648bd355796eda00866e2ebfb918afe3becde4e83a2",
+    "canonical_LF_sha256": "177528d716ffaafe909b8648bd355796eda00866e2ebfb918afe3becde4e83a2"
+  },
+  "review_basis": "Actual original full-page or full merged/primary-target reading plus all exact selected bounded continuations, neutral footer replay and independently verified Root metadata-date-only change.",
+  "fresh_full_final_file_reread_claimed": false,
+  "cumulative_review_coverage_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\FORMAL_WRITING_S5_ROOT_DATED_V2\\coverage\\LB-Q0588.writing-coverage.json",
+    "raw_sha256": "c2c9feeb4a7aecec8cd34e7d313390b76f1af4b311e52dbce4816b6c25ff9a50",
+    "canonical_LF_sha256": "c2c9feeb4a7aecec8cd34e7d313390b76f1af4b311e52dbce4816b6c25ff9a50"
+  },
+  "actual_Root_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DATED_ADOPTION_2026-11-03_V2\\ADOPTION_MANIFEST.json",
+      "raw_sha256": "94ed1a6afff0bccbb4077fede7c04e49d370b0c1e4408ce514bd223fef2ff114",
+      "canonical_LF_sha256": "112044b15708dd9fdc3e8fe64fd2c052640512ec502c4a10f92ec56ca98699e2"
+    },
+    "date_modified": "2026-11-03T10:33:18+00:00"
+  },
+  "approval_boundary": "Exact private Writing-peer article approval only. Does not approve Source truth, collection/code gates, global similarity/caps, public adoption, build, visuals, publication or indexing.",
+  "publication_or_global_approved": false
+}

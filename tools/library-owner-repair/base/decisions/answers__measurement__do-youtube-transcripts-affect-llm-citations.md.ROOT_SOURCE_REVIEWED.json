@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/measurement/do-youtube-transcripts-affect-llm-citations.md",
+  "before_effective_canonical_sha256": "002c62725c2a112c11e78962cdab951bb739f8d819d5c63755de30eb28e4f576",
+  "raw_canonical_source_sha256": "002c62725c2a112c11e78962cdab951bb739f8d819d5c63755de30eb28e4f576",
+  "after_effective_canonical_sha256": "8edb5b8988eed5086c71f8113cebeea05fd49143e7a1fdd4bb37b5aeb93974d5",
+  "fact_ledger_sha256": "830c493249ac218f770e67614e78724dad14ab6bc876d2831b2a97e659eadb2f",
+  "effective_payload_sha256": "3db7e0c1dedeaba16070f181bbb04810218c66fe405be50da746e4139ec66ccc"
+}

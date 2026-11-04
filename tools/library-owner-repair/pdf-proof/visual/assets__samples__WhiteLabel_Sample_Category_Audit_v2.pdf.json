@@ -1,0 +1,558 @@
+{
+  "approved": true,
+  "reviewer": "root",
+  "review_kind": "actual-owner-repair-full-pdf-visual-read",
+  "path": "assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf",
+  "exact_alias_paths": [
+    "assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf",
+    "assets/samples/White_label_Category_Audit_sample.pdf"
+  ],
+  "before_pdf_sha256": "404db56c98b6c03604f99a851ef8acc2f1dc793d4286bcedaba880b852d79a9a",
+  "after_pdf_sha256": "9179775f9f06522834c47112912d3b3fa255e40bcb9fff8cc86b94c4afb641c2",
+  "frames": [
+    {
+      "version": "before",
+      "page": 1,
+      "render_sha256": "ee659d74354f0da5fa4f2c5cac830749b356185999b4b925504281336fabe72b",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 2,
+      "render_sha256": "e99848f85e45ac33f9633ec621be91407c3e7115c3951c2b84fd252756d6b06a",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 3,
+      "render_sha256": "ed2a68cd376bacbe9877567839cfd10639bcf3942b1ebe45df6cbd60a2faa06a",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 4,
+      "render_sha256": "2bc8c4ba04e1866f181557010ea6d2d76121847442108fd25be90d301fb1a67c",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 5,
+      "render_sha256": "5fb491805f7d9d00992df13631f996bb12cfb0bfc53ecc05cb3f18f4c33529ec",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 6,
+      "render_sha256": "d3f3f8946f8267483570d4762304b98db3b4f1a3a9d471b00bbacffddcb220cd",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": false,
+      "actually_viewed": true,
+      "read_mode": "fresh-actual-view",
+      "actual_reader": "root",
+      "actual_read_utc": "2026-11-04T04:30:36.661727+00:00",
+      "actual_separate_file_display": true,
+      "same_renderer_original_read_receipt_sha256": "61afede9dba3d09b78cf0c044ee6e3f5ee0723c010d994c0e37724079c797254",
+      "preexisting_defects": [
+        {
+          "id": "WHITE-P6-ORIGINAL-DOMAIN-COLUMN-TOUCH",
+          "description": "Two original long source-domain labels touch the adjacent numeric column; both labels and counts remain readable.",
+          "rectangle": [
+            270,
+            565,
+            330,
+            622
+          ]
+        }
+      ]
+    },
+    {
+      "version": "before",
+      "page": 7,
+      "render_sha256": "61124b55653e317d9298922b27635da45101b55c1d6a76a10bbbd5184ef43abe",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 8,
+      "render_sha256": "fa7b1fd28d14fa70a513f2bb47da0e75a3030435afda75340795d61370c3ffed",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 9,
+      "render_sha256": "4799a9b63f7bf8bef28ae6b423ea685504a1493768b8ea4c1dd733625837d766",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 10,
+      "render_sha256": "94fc132b1ac6be8f561bec6216c0b5e880bb14997ea15d09c40ddd4cb3c76af6",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 11,
+      "render_sha256": "a3c5a026087299fd3ff4452af031b3f7700da41ca384f10ac24ae06c0e8180f8",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 12,
+      "render_sha256": "4fc98c1f03181b4e8a836e6ca483f9d03ffff9e19775b51bd0373ac10def1ae1",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 13,
+      "render_sha256": "cf7b0889f1efaaed05453b2ce0c36f439edc486cb1c4d92981f2e64e7b825a9b",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 14,
+      "render_sha256": "931967a8bf3bd8ff7477a11cea9ac4e48050155b33a8d5f87a7b0f715ee5f04b",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 15,
+      "render_sha256": "fc75be4a7b5cf8d172ee0e4afd9d0216623fce3b32f56ce0e8daf754ed857eb8",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 16,
+      "render_sha256": "99ac4cd7eca42e3414e357b904677e0c3215abb3d3452955c1198d8ac54ab067",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 17,
+      "render_sha256": "82d0fc5b55462232bc0e926dd0a6dfbfb42c51f7b4ab73afdd0998ad21c9eb0f",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 18,
+      "render_sha256": "4aad091c0b2871db38f7ba61bb2a303444dde9a3190f8727501cfa2ff6bacd59",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 19,
+      "render_sha256": "541a431ba330258824be095d3c083c3236c352996028ceb2a51c60b4acaa03c5",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 20,
+      "render_sha256": "4427ab12df6557ef128569cd759ee83cd98b6e4af5d942757f443dfc90a88bf6",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 21,
+      "render_sha256": "04b4ab8dcdb7cffefc401ccf17e616dfe87d42ecbdea80b414633801067aa872",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 22,
+      "render_sha256": "1f31c5c20c2c5f879ca76f6a06c578ad0272794d64005934db7c4371311915ae",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 23,
+      "render_sha256": "ac885aab348493c29052bf0a16584acdd591e143dc43a8359383b3636162ce23",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 24,
+      "render_sha256": "cac5e2adda20c6f9957bd67878bcd82a76c0c0b675d1df1e19145bf3b003ffc2",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 25,
+      "render_sha256": "f96f457001711362569f6ccb28c3237729af61adabfeae29981b60b9a0343d24",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "before",
+      "page": 26,
+      "render_sha256": "1118897931f75f82f2f00dae95f99e68d3ebc8a8109abdabc1e2068a97443eaf",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "cca9d00155b4af932671de523a3858a5a912fa8224a21400015352792f2ed5d1"
+    },
+    {
+      "version": "after",
+      "page": 1,
+      "render_sha256": "6da34f280b533cf52a1322dbc985872710dc78179bc4b911c8eff1cccea717c6",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 2,
+      "render_sha256": "babac4da18b11bf59b151fd8861fce5a62a2e2057e43af01ef8bb1233ce96de6",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 3,
+      "render_sha256": "3bf0d65c43e12e3c3852f858eb0ef01310de4e2883cdc7df512278bf54e9111f",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 4,
+      "render_sha256": "88d27d3857a74f576786e634546dfac7b7b13083a36e87c793f01888827a81cc",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 5,
+      "render_sha256": "d435b49a49f71419b15c537902d2847e5e1d58ce5e1ba5b5edaf566ac53fc604",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 6,
+      "render_sha256": "d3efa1858c3da77e4aa86d77921b8f142861a1fcdfa7f69f54fa59412456c516",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": false,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f",
+      "no_new_layout_defects": true,
+      "inherited_defect_ids": [
+        "WHITE-P6-ORIGINAL-DOMAIN-COLUMN-TOUCH"
+      ]
+    },
+    {
+      "version": "after",
+      "page": 7,
+      "render_sha256": "fb5bb17344fed3991c476477f7dc452768c6d113f3b085cc51dae4eb87ba44a1",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 8,
+      "render_sha256": "3c8da25b46bb125d97557964cf653d35f8c43a0381a04fd1c594ed9a575feb62",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 9,
+      "render_sha256": "df2c94e11b769d783dd040647835a72e1a5df294fc5b7300628339c93ac0a685",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 10,
+      "render_sha256": "6ec39c96ef8ea26247664a2404c81e8bd6adad90d050bc0e25db01a4d9ad1705",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 11,
+      "render_sha256": "86ff1b53c839b66401156e4f8b180de7bf474a7f96dceaaf16f8ac0af874d67f",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 12,
+      "render_sha256": "efd4c4cbb3e5946decbacbf2110547cb017bd5a1e769b9cc583124bf7720ddfb",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 13,
+      "render_sha256": "7bff699b88a1861348356574357001bc57324657780ec09a58015de32ed28e91",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 14,
+      "render_sha256": "a446207c0ced0ec856d3c835653a3a899424bb4061ac3fdf08737e8ab1d06cf6",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 15,
+      "render_sha256": "66d5a318c3cca4a27d2edca4d63b592404acbec20d6c909bd84cff56ba3f11b2",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 16,
+      "render_sha256": "c4baa9d2370c77f4e47ea288604a3b10604a45f11de0036d340605317a0f6959",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 17,
+      "render_sha256": "a071078b8268ae363c6dcc883764aabcf0eeae68d06f78f0a6c30684f3d39710",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 18,
+      "render_sha256": "4a6d8ecd1b31de5d68d5437bedae8bfac38ca8ba2681636fb57028028364695e",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 19,
+      "render_sha256": "1456193e0548fb70df4d204f15c575d24d2ef1eb9120542fb98a60183176cc4b",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 20,
+      "render_sha256": "917b900882f9fa72f904a71517702025e858d2b090ed0693e323f07272dc451a",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 21,
+      "render_sha256": "2696aa5092fa8916c58fbb864bbb5a920c8e99b6b1832d4b01bba405e59e0351",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 22,
+      "render_sha256": "24fdfcab0951629bcc02ea4e8c43823c8d388029a0959341262b96a8e4a69987",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 23,
+      "render_sha256": "1fa777fbcf21249589c908d9cc2870edab21baaa595acdef735a7b7afae3d163",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 24,
+      "render_sha256": "6f9db9cb474b882df9e42c69381a6dd206a45762e7157ed41f215744fa56ac5f",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 25,
+      "render_sha256": "7912a9b8c0b31045efb772b851a5a0d98c5b5e60606a87f910d48d485e6401e9",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    },
+    {
+      "version": "after",
+      "page": 26,
+      "render_sha256": "7fbb40be6b834af5de18962b0d6cb51a6be989f4c594b8f60d9a1e1abe94da1f",
+      "layout_readable": true,
+      "no_clipping_overlap_missing_glyphs": true,
+      "actually_viewed": false,
+      "read_mode": "exact-prior-reading-carry",
+      "prior_reading_receipt_sha256": "efa1600e7e647e615d6e4601e18ecc2bc848d1c02e66c0ba564f10a84925c39f"
+    }
+  ],
+  "all_original_figures_quotes_dates_preserved_or_exact_source_approved": true,
+  "Root_personal_all_current_Manual_views_claimed": false,
+  "actual_current_Manual_original_displays": 0,
+  "individual_identified_readers_or_exact_prior_PDF_raster_read_carries": true,
+  "sample_inherited_geometry_and_scientific_limitations_retained": true
+}

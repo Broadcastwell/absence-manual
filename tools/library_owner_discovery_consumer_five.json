@@ -1,0 +1,95 @@
+{
+  "hubs": {
+    "answers/fixes/index.md": {
+      "after_body_sha256": "8e4ba7c94a625b1d13d82eb932d7c165ebbbae8df7ed3abc1f47010ed4498397",
+      "before_body_sha256": "905b0fa635b055d2a9d022d5d1a789cd6eab918495f4b82547de19e68502b3d8",
+      "metadata_sha256": "b5eed56e8cc18b88bf3dbd626d845679ee3ae56498eae502cc06596f688f1e2e"
+    },
+    "answers/geo-basics/index.md": {
+      "after_body_sha256": "e6f293ff02f2a2e9808f729f2379fde31974d1263143578033503856e97afcff",
+      "before_body_sha256": "ad5f46579647ff55a8bf82e6ca05c608ef779177d6dffa8c26424edcc69d2956",
+      "metadata_sha256": "8d0aea0d0f96ef609ec8eb35a04f0cb901afe677d16d81e4096a88ba477ab4c5"
+    }
+  },
+  "llms_after_sha256": "a62e1f13cfe04421bf784f784e4017ff05ff8d66853dedd9d2de655a6631cc6c",
+  "llms_before_sha256": "fd715918622f9b5102f7c6d7d36c740f19ce3b0901c792be568635157978c86a",
+  "policy": "OWNER_EXACT_DISCOVERY_CONSUMER_FIVE_V1",
+  "rows": [
+    {
+      "bank_id": "LB-Q0534",
+      "hub_path": "answers/geo-basics/index.md",
+      "leaf_body_sha256": "6702974d6010238cc9cfb24e21cfbc53c91c22cd3278e6faf3e010e7371d683a",
+      "leaf_effective_canonical_sha256": "9050d995c56b8642de3777057051b03ebdb486f5e2169318f760a9bc23645842",
+      "leaf_metadata_sha256": "702fe1947a9c34c0149439b9cfff514fe48b974e854f9efa67c8be381d18aa96",
+      "leaf_path": "answers/geo-basics/can-ai-search-use-information-from-the-live-web.md",
+      "new_card_markdown": "[Can AI search use information from the live web?](can-ai-search-use-information-from-the-live-web.md)\n\nYes, when web search is on. On 22 September 2026 Procore was named in 0 of 3 Google AI Overviews answers and 3 of 3 AI Mode answers to the same question.\n",
+      "new_description": "Yes, when web search is on. On 22 September 2026 Procore was named in 0 of 3 Google AI Overviews answers and 3 of 3 AI Mode answers to the same question.",
+      "new_llms_line": "- [Can AI search use information from the live web?](https://docs.broadcastwell.com/answers/geo-basics/can-ai-search-use-information-from-the-live-web/): Yes, when web search is on. On 22 September 2026 Procore was named in 0 of 3 Google AI Overviews answers and 3 of 3 AI Mode answers to the same question.",
+      "old_card_markdown": "[Can AI search use information from the live web?](can-ai-search-use-information-from-the-live-web.md)\n\nSearch-enabled AI can use web information; Procore 0/3 AIO versus 3/3 Mode records naming, not a guaranteed fresh page fetch.\n",
+      "old_description": "Search-enabled AI can use web information; Procore 0/3 AIO versus 3/3 Mode records naming, not a guaranteed fresh page fetch.",
+      "old_llms_line": "- [Can AI search use information from the live web?](https://docs.broadcastwell.com/answers/geo-basics/can-ai-search-use-information-from-the-live-web/): Search-enabled AI can use web information; Procore 0/3 AIO versus 3/3 Mode records naming, not a guaranteed fresh page fetch.",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/can-ai-search-use-information-from-the-live-web/"
+    },
+    {
+      "bank_id": "LB-Q0637",
+      "hub_path": "answers/fixes/index.md",
+      "leaf_body_sha256": "b48af2fc41e0153ccfdcd2552f99d99f9d6d62d6f010dbf0ac8beb855c21faec",
+      "leaf_effective_canonical_sha256": "81671b8c25c77e7a11faef2b621f5c263458a882b4687071a514bc5fbe3ea092",
+      "leaf_metadata_sha256": "f6b13c7ceea6a4e1b1587201b17399ed8a1c48bcf8569ecb5096002460ce2ccd",
+      "leaf_path": "answers/fixes/what-should-i-include-in-an-llms-txt-file.md",
+      "new_card_markdown": "[What should I include in an llms.txt file?](what-should-i-include-in-an-llms-txt-file.md)\n\nA short index of the pages you want read, each with a one-line description. The file is a map, not a visibility promise.\n",
+      "new_description": "A short index of the pages you want read, each with a one-line description. The file is a map, not a visibility promise.",
+      "new_llms_line": "- [What should I include in an llms.txt file?](https://docs.broadcastwell.com/answers/fixes/what-should-i-include-in-an-llms-txt-file/): A short index of the pages you want read, each with a one-line description. The file is a map, not a visibility promise.",
+      "old_card_markdown": "[What should I include in an llms.txt file?](what-should-i-include-in-an-llms-txt-file.md)\n\nInclude a concise source index, not a visibility promise: Agent Gap found pages in 210 tasks but reached 163 endpoints.\n",
+      "old_description": "Include a concise source index, not a visibility promise: Agent Gap found pages in 210 tasks but reached 163 endpoints.",
+      "old_llms_line": "- [What should I include in an llms.txt file?](https://docs.broadcastwell.com/answers/fixes/what-should-i-include-in-an-llms-txt-file/): Include a concise source index, not a visibility promise: Agent Gap found pages in 210 tasks but reached 163 endpoints.",
+      "url": "https://docs.broadcastwell.com/answers/fixes/what-should-i-include-in-an-llms-txt-file/"
+    },
+    {
+      "bank_id": "LB-Q0638",
+      "hub_path": "answers/fixes/index.md",
+      "leaf_body_sha256": "968dab885bda883d7b9e038bc66acd3c7567162de34328e3deca4439d5e7c6f3",
+      "leaf_effective_canonical_sha256": "e77fb390794b37262bbfcd31c24dd2e4c7b3a014c6f12e09b3446066e2435a54",
+      "leaf_metadata_sha256": "707064f6c16fcc5d92aa8203aed22321c9f99a7b821de0b734026b24d0237d4a",
+      "leaf_path": "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages.md",
+      "new_card_markdown": "[How can I generate llms.txt from existing pages?](how-can-i-generate-llms-txt-from-existing-pages.md)\n\nBuild the file from pages you have already approved, and keep each page's source and date with its entry.\n",
+      "new_description": "Build the file from pages you have already approved, and keep each page's source and date with its entry.",
+      "new_llms_line": "- [How can I generate llms.txt from existing pages?](https://docs.broadcastwell.com/answers/fixes/how-can-i-generate-llms-txt-from-existing-pages/): Build the file from pages you have already approved, and keep each page's source and date with its entry.",
+      "old_card_markdown": "[How can I generate llms.txt from existing pages?](how-can-i-generate-llms-txt-from-existing-pages.md)\n\nGenerate from approved page records and preserve their evidence: Study 7 traced 2,003 criteria across 2,093 eligible answers.\n",
+      "old_description": "Generate from approved page records and preserve their evidence: Study 7 traced 2,003 criteria across 2,093 eligible answers.",
+      "old_llms_line": "- [How can I generate llms.txt from existing pages?](https://docs.broadcastwell.com/answers/fixes/how-can-i-generate-llms-txt-from-existing-pages/): Generate from approved page records and preserve their evidence: Study 7 traced 2,003 criteria across 2,093 eligible answers.",
+      "url": "https://docs.broadcastwell.com/answers/fixes/how-can-i-generate-llms-txt-from-existing-pages/"
+    },
+    {
+      "bank_id": "LB-Q0640",
+      "hub_path": "answers/fixes/index.md",
+      "leaf_body_sha256": "20536b4c7d6fdd9b6f30b5f019e062ea405847cf2d93b248aac469d51adeb152",
+      "leaf_effective_canonical_sha256": "535f72327d0c9d85eb6a282e0f97b38e82726a9dc124df7bc004ddc846b8c26f",
+      "leaf_metadata_sha256": "417eda64daa9d37f30768a6de2d72bf0622c8cde0029f4fcf345c873dc4bcc66",
+      "leaf_path": "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility.md",
+      "new_card_markdown": "[What does publishing llms.txt prove about AI visibility?](what-does-publishing-llms-txt-prove-about-ai-visibility.md)\n\nPublishing proves only that the file is served. It does not show that any engine read it or cited a page because of it.\n",
+      "new_description": "Publishing proves only that the file is served. It does not show that any engine read it or cited a page because of it.",
+      "new_llms_line": "- [What does publishing llms.txt prove about AI visibility?](https://docs.broadcastwell.com/answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility/): Publishing proves only that the file is served. It does not show that any engine read it or cited a page because of it.",
+      "old_card_markdown": "[What does publishing llms.txt prove about AI visibility?](what-does-publishing-llms-txt-prove-about-ai-visibility.md)\n\nPublishing proves the file is served, not a citation gain: Housecall Pro was named 108/150 times and own-domain cited 43/150.\n",
+      "old_description": "Publishing proves the file is served, not a citation gain: Housecall Pro was named 108/150 times and own-domain cited 43/150.",
+      "old_llms_line": "- [What does publishing llms.txt prove about AI visibility?](https://docs.broadcastwell.com/answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility/): Publishing proves the file is served, not a citation gain: Housecall Pro was named 108/150 times and own-domain cited 43/150.",
+      "url": "https://docs.broadcastwell.com/answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility/"
+    },
+    {
+      "bank_id": "LB-Q0642",
+      "hub_path": "answers/fixes/index.md",
+      "leaf_body_sha256": "6e30d05ae0a91680d48aa0f6a82f8becb4062964a2341e25fb37fcd066b4a075",
+      "leaf_effective_canonical_sha256": "154745882ee75a9572122f9dd7b346b807d384b8a9490d1ee5e536ee3b64b581",
+      "leaf_metadata_sha256": "17efd295c21168c0443e00303103ae49ff984ac5c81b206ec48fe82e6b32e0d6",
+      "leaf_path": "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md",
+      "new_card_markdown": "[How do AI search crawlers differ from AI training crawlers?](how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md)\n\nSearch crawlers such as OAI-SearchBot fetch pages for answers; training crawlers such as GPTBot collect data for model training. Each has its own robots.txt token, so you can allow one and block the other.\n",
+      "new_description": "Search crawlers such as OAI-SearchBot fetch pages for answers; training crawlers such as GPTBot collect data for model training. Each has its own robots.txt token, so you can allow one and block the other.",
+      "new_llms_line": "- [How do AI search crawlers differ from AI training crawlers?](https://docs.broadcastwell.com/answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers/): Search crawlers such as OAI-SearchBot fetch pages for answers; training crawlers such as GPTBot collect data for model training. Each has its own robots.txt token, so you can allow one and block the other.",
+      "old_card_markdown": "[How do AI search crawlers differ from AI training crawlers?](how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md)\n\nChoose crawler access by purpose. Housecall Pro had 43 own-domain citations in 150 answers; those outputs do not reveal training access.\n",
+      "old_description": "Choose crawler access by purpose. Housecall Pro had 43 own-domain citations in 150 answers; those outputs do not reveal training access.",
+      "old_llms_line": "- [How do AI search crawlers differ from AI training crawlers?](https://docs.broadcastwell.com/answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers/): Choose crawler access by purpose. Housecall Pro had 43 own-domain citations in 150 answers; those outputs do not reveal training access.",
+      "url": "https://docs.broadcastwell.com/answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers/"
+    }
+  ],
+  "schema_version": 1
+}

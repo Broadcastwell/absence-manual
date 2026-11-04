@@ -1,0 +1,76 @@
+{
+  "approved": false,
+  "artifact_scope_complete": false,
+  "new_css_bundle_path": null,
+  "actual_candidate_public_delta": null,
+  "generated_hub_reviews": null,
+  "llms_summary_exact_line_decisions": null,
+  "approved_code_and_hook_changes": null,
+  "PDFs": {
+    "absence-manual-v1.0-2026-08-18.pdf": {
+      "actual_Linux_observation": null,
+      "first_artifact_id": null,
+      "first_artifact_sha256": null,
+      "actual_before_after_fulltext_geometry_fontweight_Source_review": null,
+      "actual_before_after_allpage_Root_visual_review": null,
+      "exact_head_rerun": null
+    },
+    "absence-manual.pdf": {
+      "actual_Linux_observation": null,
+      "first_artifact_id": null,
+      "first_artifact_sha256": null,
+      "actual_before_after_fulltext_geometry_fontweight_Source_review": null,
+      "actual_before_after_allpage_Root_visual_review": null,
+      "exact_head_rerun": null
+    },
+    "assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf": {
+      "actual_Linux_observation": null,
+      "first_artifact_id": null,
+      "first_artifact_sha256": null,
+      "actual_before_after_fulltext_geometry_fontweight_Source_review": null,
+      "actual_before_after_allpage_Root_visual_review": null,
+      "exact_head_rerun": null
+    },
+    "assets/samples/Category_Audit_sample_Kalvenor_fictional.pdf": {
+      "actual_Linux_observation": null,
+      "first_artifact_id": null,
+      "first_artifact_sha256": null,
+      "actual_before_after_fulltext_geometry_fontweight_Source_review": null,
+      "actual_before_after_allpage_Root_visual_review": null,
+      "exact_head_rerun": null
+    },
+    "assets/samples/FieldEdge_Category_Audit_v2.pdf": {
+      "actual_Linux_observation": null,
+      "first_artifact_id": null,
+      "first_artifact_sha256": null,
+      "actual_before_after_fulltext_geometry_fontweight_Source_review": null,
+      "actual_before_after_allpage_Root_visual_review": null,
+      "exact_head_rerun": null
+    },
+    "assets/samples/Kalvenor_Sample_Category_Audit.pdf": {
+      "actual_Linux_observation": null,
+      "first_artifact_id": null,
+      "first_artifact_sha256": null,
+      "actual_before_after_fulltext_geometry_fontweight_Source_review": null,
+      "actual_before_after_allpage_Root_visual_review": null,
+      "exact_head_rerun": null
+    },
+    "assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf": {
+      "actual_Linux_observation": null,
+      "first_artifact_id": null,
+      "first_artifact_sha256": null,
+      "actual_before_after_fulltext_geometry_fontweight_Source_review": null,
+      "actual_before_after_allpage_Root_visual_review": null,
+      "exact_head_rerun": null
+    },
+    "assets/samples/White_label_Category_Audit_sample.pdf": {
+      "actual_Linux_observation": null,
+      "first_artifact_id": null,
+      "first_artifact_sha256": null,
+      "actual_before_after_fulltext_geometry_fontweight_Source_review": null,
+      "actual_before_after_allpage_Root_visual_review": null,
+      "exact_head_rerun": null
+    }
+  },
+  "no_current_or_future_release_PASS": true
+}

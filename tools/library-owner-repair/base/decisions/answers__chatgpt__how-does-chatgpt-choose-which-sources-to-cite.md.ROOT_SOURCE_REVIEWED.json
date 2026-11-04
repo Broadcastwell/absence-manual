@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite.md",
+  "before_effective_canonical_sha256": "064bbc47c68ace1ead1a6d10d39e02fc3e178f65d3f906cbdb7e3eeb7ea20c61",
+  "raw_canonical_source_sha256": "387671513da284faae63c192bb21e60ded8427d9c635565258b36fb7570563cf",
+  "after_effective_canonical_sha256": "5c0e66bfa417c56ca372cc4f855eda5c4381f8c2bf722f777b36609c2d313113",
+  "fact_ledger_sha256": "1ea9e7669e0f0deeb0297016eca23b4e24b16f974a70ffbf2d32df55221adbb4",
+  "effective_payload_sha256": "1eeedb7f7c45165c8d1fc41fa7c413cfceb59b4dafa2c13c7ca10d3220223925"
+}

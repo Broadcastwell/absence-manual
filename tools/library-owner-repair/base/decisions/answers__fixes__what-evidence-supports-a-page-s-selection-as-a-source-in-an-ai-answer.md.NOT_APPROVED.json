@@ -1,0 +1,10 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md",
+  "before_effective_canonical_sha256": "9fa0f57d22dd3837247092ec25ecc7f89d7fa4277bc07227f4691560b0ae44cc",
+  "raw_canonical_source_sha256": "9fa0f57d22dd3837247092ec25ecc7f89d7fa4277bc07227f4691560b0ae44cc",
+  "after_effective_canonical_sha256": "ae2b3f7738a6fff296b9f191428baf08eef8efd86ff0cde30dd4854f1e31f51c",
+  "fact_ledger_sha256": "4ce4bf0d874170af60c6bee74a8dc722ad9fcca106ed35b9e64666b6b436be73",
+  "effective_payload_sha256": "424b4aae9b97323591e73d76328e6adaaf1c00d9c466130f8996e4e24fb44862"
+}

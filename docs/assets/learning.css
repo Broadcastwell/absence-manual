@@ -1,5 +1,5 @@
 /* Learning exercises inherit the existing manual's typography and brand. */
-/* The shared header pill is the $490 Category Audit through the /buy switch; its short
+/* The shared header pill links to the current Answer Repair offer; its short
    label at phone widths is set in manual.css. */
 .bw-learning{font:inherit;min-width:0;overflow-wrap:anywhere}
 .md-content__inner:has(.bw-learning){max-width:1040px;box-sizing:border-box;padding-left:24px;padding-right:24px}

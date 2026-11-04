@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "scope": "Exact previously published canonical public-before fixtures; not approvals.",
+  "rows": {
+    "answers/buying/can-a-geo-agency-guarantee-ai-recommendations.md": {
+      "before": {
+        "path": "before/answers/buying/can-a-geo-agency-guarantee-ai-recommendations.md",
+        "sha256": "7d0a24b9e56babaa7bb5c0aca5a1eb7f002888eda2d368caa188d2c7dd571315",
+        "body_sha256": "f6820dad5611df6fbec11d7c0eb8f665a59e907308f52b30b746aa1517cc5f96",
+        "metadata_sha256": "8ee9d9ce810dc96bf0be77bf7e52fdb47171dc3bfddb28aee09d1b3f62f25457"
+      }
+    },
+    "answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence.md": {
+      "before": {
+        "path": "before/answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence.md",
+        "sha256": "43b79ec64bc133d28503b1df626f9e7837647a61051e573132840170a0e8781d",
+        "body_sha256": "896519b5537bd4991b56de650ab84198893d8a6006a33a0a15c7f36c0e14513f",
+        "metadata_sha256": "17a0675a1473aa7da57502801a6a1d073ac9f9374fc8e79749a823a0967eb393"
+      }
+    },
+    "answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets.md": {
+      "before": {
+        "path": "before/answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets.md",
+        "sha256": "5852c19e01df692c386d757c73b0008878e986735eeffa1f5da30634a84c944d",
+        "body_sha256": "e8b92e6e538edfd66adfc76de2c2a489e4666d00f7c82ec62f591a3ba7070f06",
+        "metadata_sha256": "5b1a7e0cc46cb74a2399ea99dc6212df768c4955baf54433aef2655f85fecf97"
+      }
+    },
+    "answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md": {
+      "before": {
+        "path": "before/answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md",
+        "sha256": "a785e4ca34b81d1897c2eaab3f6fe541d131ef0313421b915bfc35eaf0aaecd7",
+        "body_sha256": "dd398820a8b880c43387599eb66983a2a7e9b7bc0678b586074a194bfdb869e6",
+        "metadata_sha256": "e66238a95ce01bce54e68d220b4d7c55c1c49f900e65f6cc01d8988f45bd8341"
+      }
+    },
+    "answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change.md": {
+      "before": {
+        "path": "before/answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change.md",
+        "sha256": "4e4669b66369dfda5e79c136abff93c9d2eafd3211d244e8a2d5dded09db4b6c",
+        "body_sha256": "4f9d664511d04eb5fad51c5ebe687e179ee0cd1f9db7f14b7dee6b8b1ae6d0f2",
+        "metadata_sha256": "ccc3ad63c7b0e0ee0b6cb9ab3c667a9ddf1f324478ce1524d5e806c9dc963159"
+      }
+    },
+    "answers/changes/how-should-i-check-a-reported-vulnerability-s-product-impact.md": {
+      "before": {
+        "path": "before/answers/changes/how-should-i-check-a-reported-vulnerability-s-product-impact.md",
+        "sha256": "94c16142698118147b597b609e349e0c078a556139dee4837b508284ddc60dd4",
+        "body_sha256": "d9fd7d0a3870f8eeb410568395f01fd034fdba6bb1b4cbbea997ee2c0276f05b",
+        "metadata_sha256": "c0046ff40ae7e4a5832499037e8eb8df649d01b168acc44d5cbafddff09b1172"
+      }
+    },
+    "answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes.md": {
+      "before": {
+        "path": "before/answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes.md",
+        "sha256": "ead9f5ac00ccbc88eb21e1fdc87f171fb80f547117b7efe858bc77f3de73eeb3",
+        "body_sha256": "220119f12a30b2f9f037108074e8a648153f3069c9f7d1c51abdeae196fe8cf1",
+        "metadata_sha256": "4ba1d849865db63a8862920a5939c7f65fba7e60a683f6b214f49cc750acb27f"
+      }
+    },
+    "answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain.md": {
+      "before": {
+        "path": "before/answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain.md",
+        "sha256": "cb64c6e8aa5253da3bb8bb0709089f4a0ed94056931c0bd7b566fa61a97d4fa0",
+        "body_sha256": "9f5215312be4d80802e7c86f04605dca5ab303fd9c29640e5728c444674faef2",
+        "metadata_sha256": "c4349fb35716e7b60a2ddbe0fb10faad28fd55eec46ae858b39c145d18612ae6"
+      }
+    },
+    "answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md": {
+      "before": {
+        "path": "before/answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md",
+        "sha256": "763454853bc9d054322ed7a581f35399a90efd3ea5db842cd1bf4fda6f95759e",
+        "body_sha256": "21ee33284940d31afdec8bd08e24937460f6c5ee50f854622b3a4e2d05ab65fd",
+        "metadata_sha256": "4c7f5087ddb0484615aed7b777299c0fc8dc5356ae8e3ee48a373636df814142"
+      }
+    },
+    "answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite.md": {
+      "before": {
+        "path": "before/answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite.md",
+        "sha256": "064bbc47c68ace1ead1a6d10d39e02fc3e178f65d3f906cbdb7e3eeb7ea20c61",
+        "body_sha256": "767e6a81ff311475fe5e1e3e5e8d81167af123ca3e66792473e642d5ee90fd0e",
+        "metadata_sha256": "19833c686b7b83a7cd701d99efd75733b1b0111ba13228d1e8743df5776c21bd"
+      }
+    },
+    "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md": {
+      "before": {
+        "path": "before/answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md",
+        "sha256": "70b8ae7d031d7850b740cd5797cea032e828564ea53234a634f501bde462c5b3",
+        "body_sha256": "c59eb7636d03aef9f4e67db2e0b576bf5b9c17aa7e36cbe72b5d207014c2598d",
+        "metadata_sha256": "6a88bdc71ba216141a33bbbcbff76a80e1c30efc7f5776877c58bfa7cbb98a1b"
+      }
+    },
+    "answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md": {
+      "before": {
+        "path": "before/answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md",
+        "sha256": "7518a02bf66afc0f2ed0d49ef868f666ca8a1d7d6188b647c54e1c8e5ec98fa6",
+        "body_sha256": "188894dee4a501e120522889c812ed9b0ec519a80e129fe01e65134e6bd088d4",
+        "metadata_sha256": "d088ee24d9d2fa80c692a954915599f63d07cb393074cb9f9c9e3c2ad786442f"
+      }
+    },
+    "answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence.md": {
+      "before": {
+        "path": "before/answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence.md",
+        "sha256": "0a9e93503bf40eb830db1d79cfe229b7cbf9222329c756ed207108a43f235579",
+        "body_sha256": "b9d896b18bcaf46352fc3b4536b0c9b35734fab07e03c83a9a3f7411b5b397e0",
+        "metadata_sha256": "0bcef09623b40b79be16b6114e473fd3be7c783f7bfc67dc2867059384104a82"
+      }
+    },
+    "answers/fixes/how-should-i-structure-headings-for-ai-crawlers.md": {
+      "before": {
+        "path": "before/answers/fixes/how-should-i-structure-headings-for-ai-crawlers.md",
+        "sha256": "6ee1046370ebfff224db5ade5a15b2537d80b831c9c3f94a7990a0e19b7d9af7",
+        "body_sha256": "f31c1165e008cc7c1a1534825062c9a8905ae485da06febf4cd21a643d91d43b",
+        "metadata_sha256": "b5a47af6e10038ba9931ad3a4b42a80ef7a3ea768cb5a6cd78ea311ea22089c4"
+      }
+    },
+    "answers/fixes/is-llms-txt-required-for-ai-search-visibility.md": {
+      "before": {
+        "path": "before/answers/fixes/is-llms-txt-required-for-ai-search-visibility.md",
+        "sha256": "01833030671198c2d9dc22a2ae640a736a16a78fb4a9ba351405a7c889a41747",
+        "body_sha256": "54ee4c6251c3df1bd848dc9490003bd2393d6c750b654b71620ff95c6c1e5924",
+        "metadata_sha256": "326ccf50aac604ca1167a42e76dc628e2b5e08c0901196a558b1acd2b4bf028b"
+      }
+    },
+    "answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md": {
+      "before": {
+        "path": "before/answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md",
+        "sha256": "9fa0f57d22dd3837247092ec25ecc7f89d7fa4277bc07227f4691560b0ae44cc",
+        "body_sha256": "82c84865a07ebfdea3076d2d85429984f3138ee7c545edb1c484095890c7e52d",
+        "metadata_sha256": "01bec38be5bd9d98e7f0bcb7aa680e63287a552baeac94db7cc21bf1ffabe098"
+      }
+    },
+    "answers/fixes/what-should-an-ai-information-page-say-about-our-company.md": {
+      "before": {
+        "path": "before/answers/fixes/what-should-an-ai-information-page-say-about-our-company.md",
+        "sha256": "70316d13ed2a3350339f174cb59d043f9c59d1d71aa7a6055811360285ed08d4",
+        "body_sha256": "cc640d43a27c55c7b27980aaa89f6cbff5e92263441e312c7c68878b42ac6f90",
+        "metadata_sha256": "203f996d9298cc1c22817c98d5c9aca025e53f1cf16b266d9bc1f07af3948ea8"
+      }
+    },
+    "answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts.md": {
+      "before": {
+        "path": "before/answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts.md",
+        "sha256": "f95e2200356a82110a5e4c86b2cdcfe6df1f3f3ba3450d82def56629f6b3b807",
+        "body_sha256": "a348d20087d6779addb4eedc488457e1e28bfe7f7f3c0f48e266363bccc45cf6",
+        "metadata_sha256": "e7e3ad6006776977991d0450adb844196ef2b5d2a8ef767b774f9858caed4847"
+      }
+    },
+    "answers/geo-basics/what-are-alternatives-to-brightedge-for-geo.md": {
+      "before": {
+        "path": "before/answers/geo-basics/what-are-alternatives-to-brightedge-for-geo.md",
+        "sha256": "0110be159a35fe39cd600450902f688b5d202791da2d1721d90b8070ac0c07b4",
+        "body_sha256": "b821c3ccfafef8b53e335031ab68ded7bba2d7f41b9c169ddfb5691c73f98202",
+        "metadata_sha256": "b04a542574a3e6d2dec7f369f56a41ce77248c1289c8b8199d66ab83a72444b7"
+      }
+    },
+    "answers/google-ai/does-google-extended-control-ai-overview-or-ai-mode-visibility.md": {
+      "before": {
+        "path": "before/answers/google-ai/does-google-extended-control-ai-overview-or-ai-mode-visibility.md",
+        "sha256": "ecbf0ed954a5b86a9c6e1343e6727ada939fb897f8949f4b3260200886f849f0",
+        "body_sha256": "8b9fd9f824e18d2070f3b8ebccc19db1ddc5ef9396e5a8671a19c81b92d59840",
+        "metadata_sha256": "342ef3c2a94c7662ad86f00fdf968561982b3b3d89ffb606c82aef17db151bfb"
+      }
+    },
+    "answers/google-ai/how-does-google-ai-mode-choose-cited-sources.md": {
+      "before": {
+        "path": "before/answers/google-ai/how-does-google-ai-mode-choose-cited-sources.md",
+        "sha256": "826cba2b7a82d40676e80d1b5386e7af7cab654dcce7fd5f9f46e820bb380001",
+        "body_sha256": "64c4f4196f4e61113d249be492c66fa31968c7d372f16863e5c19e06c14b8480",
+        "metadata_sha256": "e5337084aea5961299fa0a768726eacd5e0d273c5aeea30eb6f3e854ab0b4d60"
+      }
+    },
+    "answers/measurement/do-youtube-transcripts-affect-llm-citations.md": {
+      "before": {
+        "path": "before/answers/measurement/do-youtube-transcripts-affect-llm-citations.md",
+        "sha256": "002c62725c2a112c11e78962cdab951bb739f8d819d5c63755de30eb28e4f576",
+        "body_sha256": "3f0ff263f9b05bbba2b2fc63a604ff924a5359ada832d2ccfda40cb8924e316f",
+        "metadata_sha256": "f7bd91494f976a1d96ae8b761d42234cda8a101049369a47d0076e78e1f9e1a1"
+      }
+    },
+    "answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md": {
+      "before": {
+        "path": "before/answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md",
+        "sha256": "a7d9316e26f03fe43d21c9140d63af5d9ccb38d06dff929c858f3c94bb96f005",
+        "body_sha256": "00aba68a5f17bbaccea3184dc8c605116522fc8e19aea3660abb101ff220d88b",
+        "metadata_sha256": "fb40bf400507e9f03a63a29e967c45626ff818ff7df63165ec15a09f8a7e8d38"
+      }
+    },
+    "research/glossary/citation-decay/index.md": {
+      "before": {
+        "path": "before/research/glossary/citation-decay/index.md",
+        "sha256": "a4ea1b8130d07cac585b123fbc66fb2325141b90c2ede6e5b5afdd9c56fadfa9",
+        "body_sha256": "dfaeb649e261e4d457ac49795d92d79fbb6a2e9b3caad1b03bddfe28b561b25f",
+        "metadata_sha256": "6e7020bc49250f74aebd8cd539f447b2b4f55f8e67106a4d3a3d228b8d386fbd"
+      }
+    },
+    "research/glossary/entity-confidence/index.md": {
+      "before": {
+        "path": "before/research/glossary/entity-confidence/index.md",
+        "sha256": "bf82edf396ff323d7207c1ad4642ce07d3741ae34bcd606773ab01388aaafb62",
+        "body_sha256": "d1c55af9ba3db3d35694b9f337aebc818110d29a2675949d56d924b1489219d6",
+        "metadata_sha256": "41b195a01158e00f4f879cc42a107cb8266003b1ebaf03645198ed5c350f9999"
+      }
+    },
+    "research/glossary/query-fan-out/index.md": {
+      "before": {
+        "path": "before/research/glossary/query-fan-out/index.md",
+        "sha256": "bd7ae7387f9d005295441e4c126d4db1f7cf433b5c66362ecb556495be1041a3",
+        "body_sha256": "8adc263f6b9a298ef3f7e90176ee4028f554e52f3d4394241783d044615b057a",
+        "metadata_sha256": "1f33e95788d82877f8121f315e06fc001bdf6a53e8c068f507c3a2a9d31fb0e0"
+      }
+    },
+    "research/glossary/share-of-model/index.md": {
+      "before": {
+        "path": "before/research/glossary/share-of-model/index.md",
+        "sha256": "3513c16d7025a0e52a47c252d0f7d0fc03157f98b814e0587d172501f24cb161",
+        "body_sha256": "1a58e2331429626985627032d1c30813df077e3cb32b7a0bccbe4e003b937d2f",
+        "metadata_sha256": "ec727734f81b21bb2e080b1c2513dbb30f6cc5e579ad3929f179de3dbec40286"
+      }
+    },
+    "research/glossary/zero-click-visibility/index.md": {
+      "before": {
+        "path": "before/research/glossary/zero-click-visibility/index.md",
+        "sha256": "366fe2ea62e004ddfa4f6bb9cc15b5b90ffe990a4f7ae32ad63de5e22b88aa0d",
+        "body_sha256": "c80de602297dcdcfad67e85a3f8cb86edbd1273b9422fdf8344af7bdef8d8722",
+        "metadata_sha256": "4455f699e16827486012e12e61ddbd7bfeef562fb744c74af472a99356a85eb2"
+      }
+    }
+  }
+}

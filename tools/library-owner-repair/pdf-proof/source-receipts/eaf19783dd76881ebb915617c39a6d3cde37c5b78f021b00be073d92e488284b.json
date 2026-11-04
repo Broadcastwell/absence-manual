@@ -1,0 +1,55 @@
+{
+  "PDF_descriptor_weight_preservation_PASS": false,
+  "Root_visual_or_release_approval": false,
+  "actual_full_extracted_text_font_geometry_comparison_complete": true,
+  "actual_page_count": 41,
+  "after_consumed_inputs_sha256": "c5b0aa3e026915dd9e0fb5379049a14e223dcb3db6066d2b7cce8c8e7d67b7a1",
+  "after_pdf_sha256": "80e57511aa5f25a5e58ab4d7f7cdc99e37eed09a012e4bd8e6884617cf4e5fc0",
+  "all_existing_science_truth_newly_certified": false,
+  "all_original_figures_quotes_dates_preserved_or_exact_source_approved": true,
+  "approved": true,
+  "before_consumed_inputs_sha256": "cb5a6a2a1f459e5317d7b5ac407b746b9441bd029236897cbc6f7f2dfd409f64",
+  "before_pdf_sha256": "8e82b8d81f569ea29337258e29b5230373003c6fcb2e6f63982471a7b8e1206a",
+  "comparison_proof": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PR94_LINUX_EIGHT_PDF_SOURCE_REVIEW_V1\\EIGHT_ACTUAL_PDF_OBSERVATION_AND_INPUT_PROOF.json",
+    "sha256": "8397408daeac9007fad0684f3e600e857de57936f16a67bf2b20709cca60ea89"
+  },
+  "exact_alias_paths": [
+    "assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf",
+    "assets/samples/FieldEdge_Category_Audit_v2.pdf"
+  ],
+  "full_text_and_geometry_sha256": "9053c2c2d6eec20a90bb9eb0c9df35a52a529952883f4a0760115cac90470327",
+  "http301_verified": false,
+  "independent_Linux_observation_exact": true,
+  "ordinary_S5_approval": false,
+  "path": "assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf",
+  "physical_font_provenance_facts": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PR94_LINUX_EIGHT_PDF_SOURCE_REVIEW_V1\\ACTUAL133_PHYSICAL_FONT_PROVENANCE.NOT_STYLE_APPROVAL.json",
+    "sha256": "973c6b93d7b1ebd3d43f5be08eb7ab485005de665995982e71581340a35cf3f2"
+  },
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "prior_Source_preservation_review": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PDF_ROOT_V2_R1_SOURCE_PRESERVATION\\SOURCE_TEXT_PRESERVATION_APPROVAL.json",
+    "sha256": "68aa10d52a6936c8356c1383d03effa881e26bd5db7b6076d15a9540d106299a"
+  },
+  "read_scope": {
+    "exact_all133_prior_Source_wording_carry": true,
+    "fresh_Manual_changed_full_page_reads": [],
+    "fresh_whole_document_semantic_reread_claimed": false,
+    "new_native_visual_reads": 0,
+    "unchanged_complete_Manual_page_records": null
+  },
+  "review_kind": "source-exact-owner-repair-pdf-text",
+  "reviewer": "source",
+  "scope": "exact-finite-text-source-and-geometry-preservation",
+  "source_observation": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RVLNX1\\.owner-repair-work\\pdf-observations\\assets__samples__Category_Audit_sample_FieldEdge_rehearsal.pdf.NOT_APPROVED.json",
+    "sha256": "160ab0106e050ab1e088517fe7fed404044ac6be55ef59f8365e0c513be4983e"
+  },
+  "target_text_style_preserved": false,
+  "text_changes_source_reviewed": true,
+  "text_preservation_decisions": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PR94_LINUX_EIGHT_PDF_SOURCE_REVIEW_V1\\SOURCE_FULL_TEXT_PRESERVATION_DECISIONS.json",
+    "sha256": "6ca8f82d1c9952ab95459c356e9714c5b59985cf27c0d49ff18e5ed06a257026"
+  }
+}

@@ -61,7 +61,8 @@ plugins:
   - awesome-pages
 
 hooks:
-  - tools/library_publication_hooks_candidate.py
+  - tools/library_research_hooks_candidate.py
   - tools/performance_assets.py
+  - tools/library_research_freeze_styles_hook.py
   - tools/library_field_freeze_hook.py
 

@@ -1,0 +1,16 @@
+{
+  "review_kind": "live-offer-price",
+  "checked_on": "2026-11-04",
+  "checked_utc": "2026-11-04T00:14:22.174375+00:00",
+  "url": "https://broadcastwell.com/pricing",
+  "status": 200,
+  "response_sha256": "49b65b54670ce12ffbaebc6a7338f1b2654949210bb3e999f22dd28fdad51e65",
+  "name": "Answer Repair",
+  "price": "$490",
+  "href": "https://broadcastwell.com/answer-repair",
+  "approved": true,
+  "root_visible_read_pending": false,
+  "root_text_read_utc": "2026-11-04T00:14:52.773840+00:00",
+  "root_read_excerpt": "For software companies Answer Repair $490 One buyer question. One source-backed page or fix.",
+  "evidence_note": "Root read current signed-in Chrome primary DOM and this separately saved current HTTP200 source text. Only the unchanged Answer Repair tuple is renewed. No old receipt is overwritten; source and writing approvals are not renewed by this receipt."
+}

@@ -1,6 +1,6 @@
 ---
-title: Synthetic Category Audit ,  Northstar Lab
-headline: Synthetic Category Audit ,  Northstar Lab
+title: Synthetic audit example, Northstar Lab (retired Category Audit format)
+headline: Synthetic audit example, Northstar Lab (retired Category Audit format)
 description: 'Synthetic learning example ,  not a client result or live AI measurement.
   Prepared 2026-09-24; version bw-content-2026-09-24-v1. No client, live engine, payment
   or delivered engagement is represented. '
@@ -11,10 +11,12 @@ hide:
 - navigation
 - toc
 date_published: '2026-09-24T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-03T17:32:11+00:00'
 ---
 
-# Synthetic Category Audit ,  Northstar Lab
+# Synthetic audit example, Northstar Lab (retired Category Audit format)
+
+This synthetic example uses the retired Category Audit format for orders before 26 October 2026.
 
 <div class="bw-learning">
 <nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><p><strong>Synthetic learning example ,  not a client result or live AI measurement.</strong> Prepared 2026-09-24; version bw-content-2026-09-24-v1. No client, live engine, payment or delivered engagement is represented. Scenario timestamps are authored fixture metadata.</p>

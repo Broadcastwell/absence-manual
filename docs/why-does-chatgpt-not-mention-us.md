@@ -1,51 +1,47 @@
 ---
 title: Why does ChatGPT not mention us?
-headline: Why does ChatGPT not mention us? The four usual causes, and what changes
-  each one
-description: 'The four reasons an AI engine names someone else in your category: the
-  sources it reads do not name you, your entity facts are thin or inconsistent, the
-  engine cannot reach your site, or you are present on how-to questions and absent
-  on shortlist questions.'
+headline: Why does ChatGPT not mention us? Four checks for an omitted company name
+description: 'Check the dated answer, its visible sources, your public company facts and page access. These checks do not establish why an engine omitted a name.'
 page_class: page
 schema_type: Article
 date_published: '2026-09-11T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-03T17:50:50+00:00'
 ---
 
 # Why does ChatGPT not mention us?
 
-Usually because the sources the engine reads in your category name someone else. The engine is not weighing your product against theirs. It is assembling an answer out of pages it can reach and treats as reliable, and if those pages name three vendors and you are not one of them, you are not in the answer. The same holds for Claude, Perplexity, and Google AI Overviews and Google AI Mode, which most buyers call Gemini.
+Start with the dated answer and its context to investigate an omission. Our records retain named products and explicit source links; they do not expose every source an engine considered or establish why it omitted a company. The September Index keeps ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode separate, so an observation from one surface should not stand in for them all.
 
-Four causes account for almost every case we measure. They are not mutually exclusive, and the fix for one does nothing for the others.
+The four checks below organize possible explanations. Our answer records do not establish how common each explanation is or whether a particular change will affect the next answer. More than one check may be relevant to the same page.
 
-## 1. The sources the engines read in your category do not name you
+## 1. Check the visible sources for your company name
 
-When an engine answers a buyer question, it leans on a small and surprisingly stable set of pages: comparison articles, category roundups, review sites, a handful of publications. Those pages are where the vendor names come from. If the three or four sources an engine reads for your category list your competitors and not you, the engine has nothing to name you with.
+Open the sources explicitly cited in the retained answer, whether they are comparison articles, category roundups, review sites or other publications. Check whether they name the intended company and support the statements at issue. The visible list does not reveal every source considered, and a missing name on those pages does not explain the omission by itself.
 
-What changes it: being named on those specific sources. Not on every surface a company could be mentioned, but on the ones the engines are actually reading in your category, which is a measurement question before it is a placement question.
+We can check a specific inaccurate or incomplete public statement and the evidence needed to correct it. A later naming or citation result needs its own dated observation; a source change alone does not establish that result.
 
-## 2. Your entity facts are thin or inconsistent across the web
+## 2. Compare your public company facts
 
-An engine has to be confident it knows who you are before it will put you in front of a buyer. When your own site, your directory listings and your social profiles disagree about what you do, who you serve or even what you are called, that confidence is low, and a low-confidence vendor is left out of a short answer.
+Compare the company and product names, category and official website across the public records concerned. Conflicting statements can be documented and checked against dated evidence. An omitted name does not reveal an engine’s internal confidence or prove that identity confusion caused the omission.
 
-What changes it: one consistent account of the company across everything you own, with ordinary structured data of the kind the engines already read. Nothing AI-specific is required for this.
+We can correct supported company facts on pages we control, following the relevant provider’s documented requirements. Keep the source and date with each correction. We have no measured confidence increase or assured naming result from making those statements consistent.
 
-## 3. The engines cannot reach your site at all
+## 3. Check access for the relevant page and requester
 
-Hosting rules, security settings and bot filters block AI crawlers silently. The site is up, visitors can read it, analytics look healthy, and most visibility tools will report nothing wrong, because they are not the crawler being blocked. This is the cheapest cause to rule out and the one most often missed.
+A failed request and a page opening in a human browser are different observations. Check the intended URL, the requesting service’s documented identity, the response and any applicable access rule. A user-agent label alone does not authenticate the service. Our answer records do not establish how often access failures cause omissions or how often other tools miss them.
 
-What changes it: a pass or fail check of crawler access, then a change to the hosting or security rule that is refusing the request.
+We can check the response to a specific verified request against the intended access policy. Where that evidence supports an authorized rule change, read the result back and report access separately from later naming or citation outcomes.
 
-## 4. You are present on how-to questions and absent on shortlist questions
+## 4. Compare the question types in your retained answers
 
-Not every question is the same question. A buyer asking how to solve a problem gets a different answer from a buyer asking who to buy from. Being cited on the first kind and absent from the second is the most common shape we find, and it is why a company can watch its mentions rise and see nothing change in its pipeline.
+Count naming and citation under the stated rule for each retained question. An explanatory question and a supplier-shortlist question can return different products and sources. Compare their actual answers before describing that pattern. Those records do not establish what happened to a buyer’s pipeline or sales.
 
-What changes it: knowing which questions you lose, by type, rather than a single visibility number that averages the two together.
+We can check which questions produced answers naming or omitting your company, with the engine, valid answer base and collection date recorded.
 
-## How to find out which one applies to you
+## How to record what you find
 
-The four causes look identical from the outside. The only way to tell them apart is to put the same buyer questions to every engine, more than once, and record what comes back: who is named instead of you, how often, and which pages the engines read to name them. That is what the [$490 Category Audit](https://broadcastwell.com/pricing) does, on one category and ten buyer questions across five engines with three measured runs each, and it checks crawler access first.
+Start with fixed buyer questions and repeated, dated answers, retaining the named vendors and explicit source links. Those records describe the outputs to inspect. Access checks and source-fact checks need their own evidence; repeated answers alone do not identify a cause. That is what the [Absence Index](https://index.broadcastwell.com/) records for its 14 categories, and what the [Fix Sprint](https://broadcastwell.com/answer-repair) ($3,900) measures in its first phase for your own category: ten buyer questions across five engines with three measured runs each, with crawler access checked first.
 
-## What nobody can promise you
+## What our observations cannot promise
 
-No one can guarantee that an engine will name you, or place you first, or send you a given number of leads. Any supplier who offers that is selling something they cannot deliver. What can be done is honest and narrow: measure where you stand on a fixed question set, name the specific sources and pages responsible, change them, and measure the same set again.
+Our dated observations do not promise future naming, first placement or leads. We can define a question set, retain answers and visible sources, and identify supported page corrections. A later matched observation can describe a difference; it does not, by itself, prove that the correction caused it. Assess any separate commercial promise against its written terms and evidence.

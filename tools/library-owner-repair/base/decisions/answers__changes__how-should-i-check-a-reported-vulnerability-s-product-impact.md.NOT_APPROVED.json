@@ -1,0 +1,10 @@
+{
+  "approved": false,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/changes/how-should-i-check-a-reported-vulnerability-s-product-impact.md",
+  "before_effective_canonical_sha256": "94c16142698118147b597b609e349e0c078a556139dee4837b508284ddc60dd4",
+  "raw_canonical_source_sha256": "94c16142698118147b597b609e349e0c078a556139dee4837b508284ddc60dd4",
+  "after_effective_canonical_sha256": "345c8f41b4bbde134420bbff29f5201e28f07fec578d5578255cca62339ab5c7",
+  "fact_ledger_sha256": "45ab6a50accc337315e6e15350a8f8f887f03ebc1f2ffc392cec79e27c31f580",
+  "effective_payload_sha256": "d426c22b015fdfc993778e5894f6958dc5dd0151823225e6b0ce6e7122dad5da"
+}

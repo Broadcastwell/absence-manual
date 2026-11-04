@@ -1,0 +1,48 @@
+{
+  "review_kind": "writing",
+  "scope": "owner-exact-repair-changes",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "approved": true,
+  "approved_exact_repair_changes": true,
+  "current_full_file_actually_read": true,
+  "full_article_read_complete": true,
+  "path": "research/playbooks/structured-data-for-b2b-software/index.md",
+  "private_source_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V4\\manuscripts\\docs\\research\\playbooks\\structured-data-for-b2b-software\\index.md",
+  "canonical_source_sha256": "2a4ae9571fc5374cbdc41ce9a017083b80de49f5b1779ac937c6802f60d5ff58",
+  "before_effective_canonical_source_sha256": "2a4ae9571fc5374cbdc41ce9a017083b80de49f5b1779ac937c6802f60d5ff58",
+  "effective_canonical_source_sha256": "44a25afa51490ce6803fca1b9c78d5f64c6e24fecba77ef897fb69713068bb39",
+  "effective_body_sha256": "b1c2b6e11191c4e134516188a5e2ab8eacc571b125ac02f5b7d9b40f5475e354",
+  "effective_meta_sha256": "68a83f3d8e66f60150ab61485609bdd7a1e365083fbc73ddd1e587a0560436fa",
+  "raw_after_sha256": "44a25afa51490ce6803fca1b9c78d5f64c6e24fecba77ef897fb69713068bb39",
+  "actual_Root_adoption_date_modified": "2026-11-03T18:40:50+00:00",
+  "repair_change_ledger": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ROOT_V4_TWO_FINAL_SCOPED_WRITING_V1\\change-ledgers\\research__playbooks__structured-data-for-b2b-software__index.md.json",
+    "sha256": "1e2d4c6f6196d35b5f50baf4c4b943c2a22ae505021456da5d881c432ed6b5cb"
+  },
+  "repair_change_ledger_sha256": "1e2d4c6f6196d35b5f50baf4c4b943c2a22ae505021456da5d881c432ed6b5cb",
+  "preserved_facts": true,
+  "independent_exact_inverse_verified": true,
+  "read_coverage": {
+    "kind": "complete actual final Root V4 after-file read including metadata/body/tail",
+    "tool_output_chunk": "69d07f",
+    "lines_read": 151,
+    "original_full_before_after_chunks": [
+      "1f5786"
+    ],
+    "visual_read_claim": false
+  },
+  "judgment": "The full actual dated article was read. The new own-data observation remains exact and directly relevant in its stated role. Count/base/date/interval and the no-effect boundary remain clear; visible update dates agree with actual metadata. No schema validity, eligibility or ranking benefit is inferred.",
+  "remaining_prior_S5_defects": [],
+  "current_S5_pass": null,
+  "ordinary_full_effective_article_S5_approval": false,
+  "Root_build_publication_live_approval": false,
+  "Root_adoption_manifest": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\ROOT_PRIVATE_MANUSCRIPTS_V4\\ROOT_ADOPTION.json",
+    "sha256": "e37c576e9a18892d035ea964075ccaa85df9ccafc38336334dc0d526b43f98a4"
+  },
+  "prior_actual_full_context_review": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\WRITING_REVIEW\\RISK_VERIFY_ADDITIONAL_TWO_AND_PDF_TEXT_V1\\RESEARCH_TWO_WRITING_REVIEW.json",
+    "sha256": "20b7cec88f89f646de1d6ca206cd81c329af6df2d5ad3409bb1af65c061cb73f"
+  },
+  "created_utc": "2026-11-03T18:42:51.417733+00:00"
+}

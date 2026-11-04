@@ -1,0 +1,62 @@
+[
+  {
+    "sample": "KAL",
+    "version": "before",
+    "page": 6,
+    "file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\P6_SAME_POPPLER_BEFORE\\KAL-06.png",
+    "sha256": "f6a7ea5f35f37b6dab0a2a1b9985814fe275916222c56d28df3d4fda57b929da",
+    "reviewer": "root",
+    "actually_individually_displayed_original_and_read": true,
+    "read_recorded_no_later_than_utc": "2026-11-04T04:30:36.657887+00:00",
+    "layout_readable": true,
+    "preexisting_domain_column_touch_retained": true,
+    "new_visible_layout_defect_observed": false,
+    "same_Poppler120dpi_images": true,
+    "whole_page_pixel_identity_claimed": false
+  },
+  {
+    "sample": "KAL",
+    "version": "after",
+    "page": 6,
+    "file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\FIRST_LINUX_PDF_RASTERS\\KAL-after\\page-06.png",
+    "sha256": "376d3776cc5f42e15f8b661167a9236970d2d6a4dbff92e3ee72c7d092b87991",
+    "reviewer": "root",
+    "actually_individually_displayed_original_and_read": true,
+    "read_recorded_no_later_than_utc": "2026-11-04T04:30:36.659716+00:00",
+    "layout_readable": true,
+    "preexisting_domain_column_touch_retained": true,
+    "new_visible_layout_defect_observed": false,
+    "same_Poppler120dpi_images": true,
+    "whole_page_pixel_identity_claimed": false
+  },
+  {
+    "sample": "WHITE",
+    "version": "before",
+    "page": 6,
+    "file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\P6_SAME_POPPLER_BEFORE\\WHITE-06.png",
+    "sha256": "d3f3f8946f8267483570d4762304b98db3b4f1a3a9d471b00bbacffddcb220cd",
+    "reviewer": "root",
+    "actually_individually_displayed_original_and_read": true,
+    "read_recorded_no_later_than_utc": "2026-11-04T04:30:36.661727+00:00",
+    "layout_readable": true,
+    "preexisting_domain_column_touch_retained": true,
+    "new_visible_layout_defect_observed": false,
+    "same_Poppler120dpi_images": true,
+    "whole_page_pixel_identity_claimed": false
+  },
+  {
+    "sample": "WHITE",
+    "version": "after",
+    "page": 6,
+    "file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\FIRST_LINUX_PDF_RASTERS\\WHITE-after\\page-06.png",
+    "sha256": "d3efa1858c3da77e4aa86d77921b8f142861a1fcdfa7f69f54fa59412456c516",
+    "reviewer": "root",
+    "actually_individually_displayed_original_and_read": true,
+    "read_recorded_no_later_than_utc": "2026-11-04T04:30:36.665127+00:00",
+    "layout_readable": true,
+    "preexisting_domain_column_touch_retained": true,
+    "new_visible_layout_defect_observed": false,
+    "same_Poppler120dpi_images": true,
+    "whole_page_pixel_identity_claimed": false
+  }
+]

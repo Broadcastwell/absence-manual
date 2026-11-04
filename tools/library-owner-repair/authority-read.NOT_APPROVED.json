@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "reviewer": "root",
+  "review_kind": "owner-brief-local-full-read",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "authority_pdf_sha256": "e9e33b6921d4eb0b78550f556b314cab937509c6c120f74261d59c9073cf2e88",
+  "pages_actually_read": null,
+  "actual_full_read_complete": false,
+  "local_hash_verified": false,
+  "recorded_utc": null
+}

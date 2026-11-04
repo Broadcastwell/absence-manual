@@ -7,13 +7,13 @@ research_id: 27
 research_group: playbook
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-03T17:50:50+00:00'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/llms-txt/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-03T17:50:50+00:00'
 is_based_on: https://developers.google.com/search/updates
 ---
 
@@ -98,6 +98,8 @@ Jeremy Howard describes the file as “A proposal to standardise”. That word m
 
 **Supports:** The initial crawler-log record covers selected public Index HTML routes. It is not a log of all requests to the documentation host or a proof of llms.txt consumption.
 
+Our [page-signal study](/research/studies/optimized-pages-in-ai-answers/) found llms.txt on 774 of 1,600 distinct final website origins hosting successfully captured target pages on 30 October 2026: 48.4%, with a descriptive 95% Wilson interval of 45.9% to 50.8%. An origin is the scheme, host and any port. Eighty-five of the 1,600 origin results were unknown. These were later file checks on the sources of answers captured on 22 and 23 September, not observations of an engine consuming the file or a test of a visibility effect.
+
 **Suggests:** Follow-up within the stated setting.
 
 ## Sources
@@ -110,7 +112,7 @@ Jeremy Howard describes the file as “A proposal to standardise”. That word m
 
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *What is llms.txt, and what can it actually do?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/llms-txt/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *What is llms.txt, and what can it actually do?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/llms-txt/ Published 30 October 2026; updated November 3, 2026.
 
 ```bibtex
 @online{broadcastwell2026research27,
@@ -120,7 +122,7 @@ Broadcastwell research team. (2026, October 30). *What is llms.txt, and what can
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/playbooks/llms-txt/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-03}
 }
 ```
 
@@ -128,7 +130,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-03. Next review: 2027-02-02.
 
 ## Continue
 

@@ -1,0 +1,418 @@
+{
+  "recorded_utc": "2026-11-04T04:33:45.224727+00:00",
+  "exact_first_actual_Linux_candidate_PDFs_checked": 8,
+  "all_actual_full_visual_and_Source_bindings_pass": true,
+  "four_alias_p6_inherited_defects_explicit": 4,
+  "same_first_observation_CI_reused_for_readonly_candidate_check": true,
+  "new_Linux_rerun_or_website_release_approval": false,
+  "pdf_reviews": {
+    "absence-manual-v1.0-2026-08-18.pdf": {
+      "path": "absence-manual-v1.0-2026-08-18.pdf",
+      "before_sha256": "91cefee9c96e4005ea00806fe6a80f149b2b42aefdf02c53f9dc0c5700fe358e",
+      "after_sha256": "03dae21791d7909faef8f183b9d3dd767d9c6aef7f111519d9695e3e25b2dadd",
+      "actual_Root_visual_review_complete": true,
+      "root_review_sha256": "2070c6455370e8336031850061c7c8d895705f367adcd3248a998f95a20229cf",
+      "visual_receipt_sha256": "975b199f259b4094e3122e24c274af560ab39bf1a96c20900d4f8a300f214098",
+      "first_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "actual_rerun_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "same_consumed_source_inputs": true,
+      "observed_http_status": null,
+      "http301_verified": false,
+      "target_style_review": {
+        "target_text_style_preserved": false,
+        "style_preservation_PASS_claimed": false
+      },
+      "before_layout_defect_inventory": [],
+      "all_after_pages_layout_clear": true,
+      "explicit_inherited_layout_defects": [],
+      "global_layout_PASS_inferred_from_preservation": false
+    },
+    "absence-manual.pdf": {
+      "path": "absence-manual.pdf",
+      "before_sha256": "91cefee9c96e4005ea00806fe6a80f149b2b42aefdf02c53f9dc0c5700fe358e",
+      "after_sha256": "03dae21791d7909faef8f183b9d3dd767d9c6aef7f111519d9695e3e25b2dadd",
+      "actual_Root_visual_review_complete": true,
+      "root_review_sha256": "0256debae1ffa1f889f354dc8408f2b1f9d46331768c30756dbabf2fe415d514",
+      "visual_receipt_sha256": "216a16b0e8d66221dc892e0c35c822a3a0a9ae93dcadacbce43ed57acf6adcd1",
+      "first_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "actual_rerun_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "same_consumed_source_inputs": true,
+      "observed_http_status": null,
+      "http301_verified": false,
+      "target_style_review": {
+        "target_text_style_preserved": false,
+        "style_preservation_PASS_claimed": false
+      },
+      "before_layout_defect_inventory": [],
+      "all_after_pages_layout_clear": true,
+      "explicit_inherited_layout_defects": [],
+      "global_layout_PASS_inferred_from_preservation": false
+    },
+    "assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf": {
+      "path": "assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf",
+      "before_sha256": "8e82b8d81f569ea29337258e29b5230373003c6fcb2e6f63982471a7b8e1206a",
+      "after_sha256": "80e57511aa5f25a5e58ab4d7f7cdc99e37eed09a012e4bd8e6884617cf4e5fc0",
+      "actual_Root_visual_review_complete": true,
+      "root_review_sha256": "5f4dc0cb8d88885dc8fb98d7095cb2f784d8c479bde670ae5866c02d52892ab8",
+      "visual_receipt_sha256": "6b524eb8faa19a22ae8600c906e02c98be83edb11f5e950b8063bd6dddc5b21a",
+      "first_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "actual_rerun_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "same_consumed_source_inputs": true,
+      "observed_http_status": null,
+      "http301_verified": false,
+      "target_style_review": {
+        "target_text_style_preserved": false,
+        "style_preservation_PASS_claimed": false
+      },
+      "before_layout_defect_inventory": [],
+      "all_after_pages_layout_clear": true,
+      "explicit_inherited_layout_defects": [],
+      "global_layout_PASS_inferred_from_preservation": false
+    },
+    "assets/samples/Category_Audit_sample_Kalvenor_fictional.pdf": {
+      "path": "assets/samples/Category_Audit_sample_Kalvenor_fictional.pdf",
+      "before_sha256": "b62e9a2eaf769d9e453a8668656713b2d173aeecb72ec8cdb12c7381ab39eea0",
+      "after_sha256": "d8355a804f9e26c0fd3670419d647ea5998d79c88804e2e8b1bad368c7487384",
+      "actual_Root_visual_review_complete": true,
+      "root_review_sha256": "7288000a712cc2067288d50b4385c6d4c9e996c7ef496f046d8675d644102e60",
+      "visual_receipt_sha256": "f92d64dc22688ecf47104bf3aef2d870a966ffed5962c4870faf573003894dc3",
+      "first_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "actual_rerun_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "same_consumed_source_inputs": true,
+      "observed_http_status": null,
+      "http301_verified": false,
+      "target_style_review": {
+        "target_text_style_preserved": false,
+        "style_preservation_PASS_claimed": false
+      },
+      "before_layout_defect_inventory": [
+        {
+          "page": 6,
+          "defects": [
+            {
+              "id": "KAL-P6-ORIGINAL-DOMAIN-COLUMN-TOUCH",
+              "description": "Two original long source-domain labels touch the adjacent numeric column; both labels and counts remain readable.",
+              "rectangle": [
+                270,
+                565,
+                330,
+                622
+              ]
+            }
+          ]
+        }
+      ],
+      "all_after_pages_layout_clear": false,
+      "explicit_inherited_layout_defects": [
+        {
+          "page": 6,
+          "defect_ids": [
+            "KAL-P6-ORIGINAL-DOMAIN-COLUMN-TOUCH"
+          ],
+          "no_new_defect_pixel_proof": true
+        }
+      ],
+      "global_layout_PASS_inferred_from_preservation": false
+    },
+    "assets/samples/FieldEdge_Category_Audit_v2.pdf": {
+      "path": "assets/samples/FieldEdge_Category_Audit_v2.pdf",
+      "before_sha256": "8e82b8d81f569ea29337258e29b5230373003c6fcb2e6f63982471a7b8e1206a",
+      "after_sha256": "80e57511aa5f25a5e58ab4d7f7cdc99e37eed09a012e4bd8e6884617cf4e5fc0",
+      "actual_Root_visual_review_complete": true,
+      "root_review_sha256": "eaadce3c2da54bfce82ba8383828b827f92d0f2db96baa5c7fed2552bd482126",
+      "visual_receipt_sha256": "c46cab11397c861ceacb5191038728bd30188d3f495f734d6645f669cd4b01da",
+      "first_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "actual_rerun_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "same_consumed_source_inputs": true,
+      "observed_http_status": null,
+      "http301_verified": false,
+      "target_style_review": {
+        "target_text_style_preserved": false,
+        "style_preservation_PASS_claimed": false
+      },
+      "before_layout_defect_inventory": [],
+      "all_after_pages_layout_clear": true,
+      "explicit_inherited_layout_defects": [],
+      "global_layout_PASS_inferred_from_preservation": false
+    },
+    "assets/samples/Kalvenor_Sample_Category_Audit.pdf": {
+      "path": "assets/samples/Kalvenor_Sample_Category_Audit.pdf",
+      "before_sha256": "b62e9a2eaf769d9e453a8668656713b2d173aeecb72ec8cdb12c7381ab39eea0",
+      "after_sha256": "d8355a804f9e26c0fd3670419d647ea5998d79c88804e2e8b1bad368c7487384",
+      "actual_Root_visual_review_complete": true,
+      "root_review_sha256": "2b885442793354532820158e0add25d8fa309c032397ffc1e2412b3f050bf9c5",
+      "visual_receipt_sha256": "ce913e8740e074631d60e40d2cbb1dec6305e2e14910daa3941125d19e1db608",
+      "first_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "actual_rerun_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "same_consumed_source_inputs": true,
+      "observed_http_status": null,
+      "http301_verified": false,
+      "target_style_review": {
+        "target_text_style_preserved": false,
+        "style_preservation_PASS_claimed": false
+      },
+      "before_layout_defect_inventory": [
+        {
+          "page": 6,
+          "defects": [
+            {
+              "id": "KAL-P6-ORIGINAL-DOMAIN-COLUMN-TOUCH",
+              "description": "Two original long source-domain labels touch the adjacent numeric column; both labels and counts remain readable.",
+              "rectangle": [
+                270,
+                565,
+                330,
+                622
+              ]
+            }
+          ]
+        }
+      ],
+      "all_after_pages_layout_clear": false,
+      "explicit_inherited_layout_defects": [
+        {
+          "page": 6,
+          "defect_ids": [
+            "KAL-P6-ORIGINAL-DOMAIN-COLUMN-TOUCH"
+          ],
+          "no_new_defect_pixel_proof": true
+        }
+      ],
+      "global_layout_PASS_inferred_from_preservation": false
+    },
+    "assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf": {
+      "path": "assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf",
+      "before_sha256": "404db56c98b6c03604f99a851ef8acc2f1dc793d4286bcedaba880b852d79a9a",
+      "after_sha256": "9179775f9f06522834c47112912d3b3fa255e40bcb9fff8cc86b94c4afb641c2",
+      "actual_Root_visual_review_complete": true,
+      "root_review_sha256": "39bec342a6a2560d4af4435e06e3853bb61c800987dd09ca6c2546ba791557dc",
+      "visual_receipt_sha256": "31d9b237fe1b5a065ada6d54b7571dcf23a4e17f4931735d1f041448ee4687b8",
+      "first_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "actual_rerun_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "same_consumed_source_inputs": true,
+      "observed_http_status": null,
+      "http301_verified": false,
+      "target_style_review": {
+        "target_text_style_preserved": false,
+        "style_preservation_PASS_claimed": false
+      },
+      "before_layout_defect_inventory": [
+        {
+          "page": 6,
+          "defects": [
+            {
+              "id": "WHITE-P6-ORIGINAL-DOMAIN-COLUMN-TOUCH",
+              "description": "Two original long source-domain labels touch the adjacent numeric column; both labels and counts remain readable.",
+              "rectangle": [
+                270,
+                565,
+                330,
+                622
+              ]
+            }
+          ]
+        }
+      ],
+      "all_after_pages_layout_clear": false,
+      "explicit_inherited_layout_defects": [
+        {
+          "page": 6,
+          "defect_ids": [
+            "WHITE-P6-ORIGINAL-DOMAIN-COLUMN-TOUCH"
+          ],
+          "no_new_defect_pixel_proof": true
+        }
+      ],
+      "global_layout_PASS_inferred_from_preservation": false
+    },
+    "assets/samples/White_label_Category_Audit_sample.pdf": {
+      "path": "assets/samples/White_label_Category_Audit_sample.pdf",
+      "before_sha256": "404db56c98b6c03604f99a851ef8acc2f1dc793d4286bcedaba880b852d79a9a",
+      "after_sha256": "9179775f9f06522834c47112912d3b3fa255e40bcb9fff8cc86b94c4afb641c2",
+      "actual_Root_visual_review_complete": true,
+      "root_review_sha256": "90b05be648eacac6a69755fb5446e443732db04d913d6e9c9ef9832a6c33ff3f",
+      "visual_receipt_sha256": "81d4d7fcad55ca02a6d5c839d5edd944c1572d745ca694e3e67273e81d859f15",
+      "first_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "actual_rerun_ci": {
+        "runner_os": "Linux",
+        "source_head": "892fad19d729b9131bc833e7d0ed65d8532bfb9e",
+        "checkout_commit": "d4297c3952a0903f66927b8bda086364d1278351",
+        "source_tree": "8fc0b912f568440cb34a53c1e82fcf93ca3a59c8",
+        "repository": "Broadcastwell/absence-manual",
+        "workflow_ref": "Broadcastwell/absence-manual/.github/workflows/verify.yml@refs/pull/94/merge",
+        "run_id": "41768481181",
+        "run_attempt": "1"
+      },
+      "same_consumed_source_inputs": true,
+      "observed_http_status": null,
+      "http301_verified": false,
+      "target_style_review": {
+        "target_text_style_preserved": false,
+        "style_preservation_PASS_claimed": false
+      },
+      "before_layout_defect_inventory": [
+        {
+          "page": 6,
+          "defects": [
+            {
+              "id": "WHITE-P6-ORIGINAL-DOMAIN-COLUMN-TOUCH",
+              "description": "Two original long source-domain labels touch the adjacent numeric column; both labels and counts remain readable.",
+              "rectangle": [
+                270,
+                565,
+                330,
+                622
+              ]
+            }
+          ]
+        }
+      ],
+      "all_after_pages_layout_clear": false,
+      "explicit_inherited_layout_defects": [
+        {
+          "page": 6,
+          "defect_ids": [
+            "WHITE-P6-ORIGINAL-DOMAIN-COLUMN-TOUCH"
+          ],
+          "no_new_defect_pixel_proof": true
+        }
+      ],
+      "global_layout_PASS_inferred_from_preservation": false
+    }
+  }
+}

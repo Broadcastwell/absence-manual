@@ -126,9 +126,11 @@ from library_publication_sitemap_dates import bind_publication_dates,POLICY as P
 
 class BuildSession:
     @classmethod
-    def load(cls,docs_dir,inputs_path,expected_sha256,work_dir):
+    def load(cls,docs_dir,inputs_path,expected_sha256,work_dir,*,owner_composition_permit=None):
         self=cls();self.docs=Path(docs_dir).resolve();self.inputs_path=Path(inputs_path).resolve()
         self.inputs=read_bound_json(self.inputs_path,expected_sha256);require(self.inputs.get('schema_version')==1,'Build input schema differs')
+        from library_research_support import optional_support
+        self.research_support=optional_support(self.docs.parent)
         self.work=Path(work_dir).resolve();self.work.mkdir(parents=True,exist_ok=True)
         def file(name):
             row=self.inputs['files'][name];path=(self.inputs_path.parent/row['path']).resolve()
@@ -176,7 +178,7 @@ class BuildSession:
                 pins['pages'][rel]['raw_source_sha256']=sha(raw)
         buildpins=self.work/'checkout-pins.json';buildleaf=self.work/'checkout-leaves.json';buildpins.write_bytes(json_bytes(pins));buildleaf.write_bytes(json_bytes(leaves))
         trust=CompositionTrust(self.inputs['files']['prior_state']['sha256'],self.inputs['files']['prior_payload']['sha256'],sha(buildleaf.read_bytes()),self.inputs['files']['active_revisions']['sha256'],self.inputs['files']['related_requirements']['sha256'],sha(buildpins.read_bytes()),production_receipt_sha256=sha(producer.read_bytes()),frozen_receipt_sha256=self.inputs.get('frozen_receipt_sha256'),published_count=validated_published_article_count(self.inputs.get('published_count'),self.prior))
-        overlay=ComposedPublicationOverlay.compose(self.docs,prior_state=file('prior_state'),prior_payload_bundle=file('prior_payload'),current_leaf_manifest=buildleaf,active_revision_plan=file('active_revisions'),related_requirements=file('related_requirements'),current_pins=buildpins,trust=trust,finite_links=self.stage,quality_module=q,actual_prior_artifacts=self.prior_artifacts,actual_prior_binding=self.inputs['actual_prior_production_binding'],receipt_store=store,field_handoff_path=self.docs.parents[2]/'LIVE/FIELD_TEST_TO_LIBRARY.md',frozen_effective_pins=self.inputs.get('frozen_effective_pins'),s5_scope=self.s5_scope)
+        overlay=ComposedPublicationOverlay.compose(self.docs,prior_state=file('prior_state'),prior_payload_bundle=file('prior_payload'),current_leaf_manifest=buildleaf,active_revision_plan=file('active_revisions'),related_requirements=file('related_requirements'),current_pins=buildpins,trust=trust,finite_links=self.stage,quality_module=q,actual_prior_artifacts=self.prior_artifacts,actual_prior_binding=self.inputs['actual_prior_production_binding'],receipt_store=store,field_handoff_path=self.docs.parents[2]/'LIVE/FIELD_TEST_TO_LIBRARY.md',frozen_effective_pins=self.inputs.get('frozen_effective_pins'),s5_scope=self.s5_scope,owner_composition_permit=owner_composition_permit)
         raw_metas={};hub_sources={}
         for rel in leaves['pages']:
             raw_metas[rel]=finite.source_body(canonical((self.docs/rel).read_bytes()))[0]
@@ -198,6 +200,14 @@ class BuildSession:
         self.overlay=overlay;self.registry=EffectiveRegistry(overlay)
         changes=read_bound_json(file('hub_changes'),self.inputs['files']['hub_changes']['sha256'])
         self.hubs=generate_effective_hubs(self.registry,hub_sources=hub_sources,raw_leaf_metadata=raw_metas,approved_hub_changes=changes.get('pages',{}),merged_sources=overlay.merge_statuses)
+        from library_published_discovery_consumer_five import bind_published_discovery_five,seal_published_binding
+        prior_hub_ref=self.inputs['files'].get('prior_hub_payload')
+        self.published_consumer5,self.hubs=bind_published_discovery_five(
+            inputs=self.inputs,registry=self.registry,hubs=self.hubs,producer_raw=producer.read_bytes(),
+            prior_hub_bundle=read_bound_json(file('prior_hub_payload'),prior_hub_ref['sha256']) if prior_hub_ref else None,
+            prior_hub_file_sha256=prior_hub_ref['sha256'] if prior_hub_ref else None,
+            actual_prior_archive=self.archive,frozen_paths=set(self.s5_scope.frozen))
+        seal_published_binding(self,producer.read_bytes())
         self.publication_dates=None
         if self.inputs.get('sitemap_lastmod_policy') is not None:
             require(self.inputs['sitemap_lastmod_policy']==PUBLICATION_LASTMOD_POLICY,'Unknown sitemap publication-lastmod policy')
@@ -206,7 +216,7 @@ class BuildSession:
                 prior_payload_bundle=read_bound_json(file('prior_payload'),self.inputs['files']['prior_payload']['sha256']),
                 prior_hub_bundle=read_bound_json(hubs_file,self.inputs['files']['prior_hub_payload']['sha256']),
                 actual_prior_artifacts=self.prior_artifacts,producer_receipt=overlay._load_receipt(sha(producer.read_bytes())),
-                payload_file_sha256=self.inputs['files']['prior_payload']['sha256'],hub_file_sha256=self.inputs['files']['prior_hub_payload']['sha256'])
+                payload_file_sha256=self.inputs['files']['prior_payload']['sha256'],hub_file_sha256=self.inputs['files']['prior_hub_payload']['sha256'],research_support=self.research_support)
         self.aliases=read_bound_json(file('navigation_aliases'),self.inputs['files']['navigation_aliases']['sha256'])['pages']
         self.contexts={};self.site=None
         return self
@@ -249,12 +259,16 @@ class BuildSession:
             context['rendered_html']=output.read_bytes().decode('utf-8')
 
     def prepare_outputs(self,site_dir):
+        from library_published_discovery_consumer_five import checked_published_binding
+        published5=checked_published_binding(self)
         self.site=Path(site_dir).resolve();require(self.site!=self.docs and not self.docs.is_relative_to(self.site),'Invalid build output location')
         require(not (self.site/'llms-full.txt').exists(),'An llms-full output needs an explicit effective consumer before adoption')
         spec=importlib.util.spec_from_file_location('_bw_llms_source_generator',self.docs.parent/'tools/generate_answers_llms.py');source=importlib.util.module_from_spec(spec);spec.loader.exec_module(source)
         hubmeta={p:r['meta'] for p,r in self.hubs.items()}
-        llms=generate_effective_llms(self.registry,original=self.archive.read('llms.txt'),hub_metadata=hubmeta,source_generator=source);(self.site/'llms.txt').write_bytes(llms)
-        xml,gz=generate_effective_sitemaps(self.registry,prior_xml=self.archive.read('sitemap.xml'),hub_metadata=hubmeta,merged_sources=self.overlay.merge_statuses,field_freeze=self.freeze,publication_dates=getattr(self,'publication_dates',None))
+        llms=generate_effective_llms(self.registry,original=self.archive.read('llms.txt'),hub_metadata=hubmeta,source_generator=source)
+        if published5 is not None:llms,_=published5.llms(llms)
+        (self.site/'llms.txt').write_bytes(llms)
+        xml,gz=generate_effective_sitemaps(self.registry,prior_xml=self.archive.read('sitemap.xml'),hub_metadata=hubmeta,merged_sources=self.overlay.merge_statuses,field_freeze=self.freeze,publication_dates=getattr(self,'publication_dates',None),research_support=self.research_support)
         (self.site/'sitemap.xml').write_bytes(xml);(self.site/'sitemap.xml.gz').write_bytes(gz)
         old=self.archive.read('_redirects') if '_redirects' in self.archive.namelist() else b''
         if getattr(self.overlay,'_canonical_stub_policy',None):
@@ -272,6 +286,8 @@ class BuildSession:
         (self.work/'actual-render-contexts.json').write_bytes(json_bytes({'registry_sha256':self.registry.fingerprint,'contexts':self.contexts,'bridge_sha256':sha(Path(__file__).read_bytes())}))
 
     def verify_release(self,site_dir):
+        from library_published_discovery_consumer_five import checked_published_binding
+        published5=checked_published_binding(self)
         self.site=Path(site_dir).resolve();self.overlay._check_unchanged()
         cache=json.loads((self.work/'actual-render-contexts.json').read_text(encoding='utf-8'))
         require(cache['registry_sha256']==self.registry.fingerprint and cache['bridge_sha256']==sha(Path(__file__).read_bytes()),'Actual render context cache is stale')
@@ -282,10 +298,12 @@ class BuildSession:
         spec=importlib.util.spec_from_file_location('_bw_verified_llms_generator',self.docs.parent/'tools/generate_answers_llms.py');source=importlib.util.module_from_spec(spec);spec.loader.exec_module(source)
         hubmeta={p:r['meta'] for p,r in self.hubs.items()}
         expected_llms=generate_effective_llms(self.registry,original=self.archive.read('llms.txt'),hub_metadata=hubmeta,source_generator=source)
+        if published5 is not None:expected_llms,_=published5.llms(expected_llms)
         require((self.site/'llms.txt').read_bytes()==expected_llms,'Final llms bytes differ from the actual effective consumer')
-        expected_xml,expected_gz=generate_effective_sitemaps(self.registry,prior_xml=self.archive.read('sitemap.xml'),hub_metadata=hubmeta,merged_sources=self.overlay.merge_statuses,field_freeze=self.freeze,publication_dates=getattr(self,'publication_dates',None))
+        expected_xml,expected_gz=generate_effective_sitemaps(self.registry,prior_xml=self.archive.read('sitemap.xml'),hub_metadata=hubmeta,merged_sources=self.overlay.merge_statuses,field_freeze=self.freeze,publication_dates=getattr(self,'publication_dates',None),research_support=self.research_support)
         require((self.site/'sitemap.xml').read_bytes()==expected_xml and (self.site/'sitemap.xml.gz').read_bytes()==expected_gz,'Final sitemap/gzip differ from the actual effective consumer')
         validate_effective_search(self.registry,prior_bytes=self.archive.read('search/search_index.json'),candidate_bytes=(self.site/'search/search_index.json').read_bytes(),actual_page_contexts=contexts,merged_sources=self.overlay.merge_statuses)
+        if published5 is not None:published5.search(self.archive.read('search/search_index.json'),(self.site/'search/search_index.json').read_bytes())
         # Register only after actual generators/output validators have consumed it.
         for name in ['page-head-and-structured-data','library-hubs','llms']:
             require(name in self.registry.receipts,'Actual effective consumer proof missing')

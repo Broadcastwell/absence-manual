@@ -114,7 +114,7 @@ TECHARTICLE_CLASSES = {"chapter", "appendix"}
 ARTICLE_TYPES = {"TechArticle", "Article"}
 WORD_FLOOR_CLASSES = {"chapter"}
 
-ISO_STAMP = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\+\d{2}:\d{2}|Z)$")
+ISO_STAMP = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(\+\d{2}:\d{2}|Z)$")
 FRONT_MATTER = re.compile(r"(?s)\A\s*\n?-{3}\n(.*?)\n-{3}\n")
 TABLE_RULE = re.compile(r"(?m)^\|[-|\s:]+$")
 
@@ -554,6 +554,10 @@ if llms.exists():
 
 from research_quality import check_research
 problems.extend(check_research(ROOT))
+
+from library_research_support import check_optional_sources
+try:problems.extend(check_optional_sources(ROOT))
+except (ValueError,KeyError,TypeError,OSError) as error:problems.append('Finite Research support: '+str(error))
 
 if problems:
     print("Build verification failed:")

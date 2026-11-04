@@ -1,0 +1,106 @@
+{
+  "recorded_utc": "2026-11-04T06:38:34.075252+00:00",
+  "reviewer": "root",
+  "Root_full_code_and_data_read": true,
+  "independent_review_complete": true,
+  "core_independent_review_sha256": "8467303024c6138274e8e00daa8464dc96f43900e30d3ab0bb8e757dd295573e",
+  "carry_independent_review_sha256": "6b1fc6f94390ad451930da21da67ca6d870efb81e143fb81cd6158ebac141d52",
+  "files": [
+    {
+      "path": "tests/fixtures/discovery-consumer-five/actual-public-baseline.json",
+      "before_sha256": "3a135c9a89cf8b75f56ebba054d38162751f0ba66ba1d50c0f0a51ded979ed40",
+      "after_sha256": "3a135c9a89cf8b75f56ebba054d38162751f0ba66ba1d50c0f0a51ded979ed40"
+    },
+    {
+      "path": "tests/fixtures/discovery-consumer-five/actual-root-hub-date-event.json",
+      "before_sha256": null,
+      "after_sha256": "57db83b10ec6aa6e449f0b8d32eea1f78ebf607b4ea020e300beebf6371458a8"
+    },
+    {
+      "path": "tests/fixtures/published-consumer-five/PROVENANCE.json",
+      "before_sha256": null,
+      "after_sha256": "e58abcacc46a554541cb9d0fd0cbdd699f85ab28f4b9cf5342148072d0ab2235"
+    },
+    {
+      "path": "tests/fixtures/published-consumer-five/actual-PR93-prior-hub-payload.json",
+      "before_sha256": null,
+      "after_sha256": "4ac491bc0e9890bf3e8f6966bfb73572d249198b95204be9d21116fad5fbe909"
+    },
+    {
+      "path": "tests/fixtures/published-consumer-five/actual-PR93-producer-public-projection.json",
+      "before_sha256": null,
+      "after_sha256": "78e4c489f92c9ac093b512dfa9f2ade109bb226f333bcf11c9213b0dd1ee8bae"
+    },
+    {
+      "path": "tests/fixtures/published-consumer-five/plan.json",
+      "before_sha256": null,
+      "after_sha256": "d67d3d912436efc72c31ef73d163878726dc2df7059cd98edfed18112afb5fb5"
+    },
+    {
+      "path": "tests/fixtures/published-consumer-five/source-peer.json",
+      "before_sha256": null,
+      "after_sha256": "a3e37e7aed2c25a954545894ee87fdc30386320287cb4ae020eddc108b5f784c"
+    },
+    {
+      "path": "tests/fixtures/published-consumer-five/writing-peer.json",
+      "before_sha256": null,
+      "after_sha256": "0fd33e3708bfd686ed81b83c84e3356d42b6c17f3d3b788450afe0ffa1befe21"
+    },
+    {
+      "path": "tests/test_discovery_consumer_five.py",
+      "before_sha256": "d08e9c294a8891f87762bf91ca975e6c76ae1f39107b5d3c1fb8c0ce280a66d0",
+      "after_sha256": "e725ad9bf46e0299f62037ffa956ad5a69b1574748ec14d53eb56368d08eb4cf"
+    },
+    {
+      "path": "tests/test_published_discovery_consumer_five.py",
+      "before_sha256": null,
+      "after_sha256": "7b3862b8a4829ef24ef19a7e2ad7a2e4b59fa0df17361a3e3f937057ec278eca"
+    },
+    {
+      "path": "tools/library_owner_discovery_consumer_five.json",
+      "before_sha256": "e44c828358fb4c5b3ac86c8bc5280835a08e0ddb5e01d4ea2a88bc675a516607",
+      "after_sha256": "e44c828358fb4c5b3ac86c8bc5280835a08e0ddb5e01d4ea2a88bc675a516607"
+    },
+    {
+      "path": "tools/library_owner_discovery_consumer_five.py",
+      "before_sha256": "12dc6f8987fd44409524e8ae44303b6867b4985167163aa6deb42f896be4f3f1",
+      "after_sha256": "4fbd5b47f9119100bb1dc7147b7486586d40b498ef038cceba9a7eb730f22890"
+    },
+    {
+      "path": "tools/library_owner_repair_build.py",
+      "before_sha256": "6e7976eb36c452c17a9de6c66b063286fd2c0f9f974e9af40e4f4afd4b8d4a88",
+      "after_sha256": "16dc6765ddc241d37c5a58cec5c60bf5919d791d3d769756194da38bac9dde3f"
+    },
+    {
+      "path": "tools/library_publication_build.py",
+      "before_sha256": "cba2ef4f3cc28491733e9dea95e753280558662e0ba8b66db7cdd636109e14bf",
+      "after_sha256": "2a2568c97c44ac9d1fd17b961b8fd69fe71ca02b5671f76f46d4e3f6748bc2c9"
+    },
+    {
+      "path": "tools/library_published_discovery_consumer_five.py",
+      "before_sha256": null,
+      "after_sha256": "74a0606569e3a04b61be0b989189fda0270ba79a69f9f68c7f4f4b4ee3401911"
+    },
+    {
+      "path": "tools/library_research_build.py",
+      "before_sha256": "df15d58cdd5612af7309af767a2f078062bbbbff819cc86bed809f5fea71b068",
+      "after_sha256": "105d32b184bd2928189bf2c8f4fbbfe520d89aea0c4c7c3b0f600d783a0ef136"
+    }
+  ],
+  "Source_manifests": {
+    "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\OWNER_DISCOVERY_CONSUMER_FIVE_PRIVATE_V2": "72e08ecd0fb5720cb2d61027409d259d1f6ba8cf87affe7cc4bf109f4d5b3b75",
+    "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PUBLISHED_DISCOVERY_CONSUMER_FIVE_PRIVATE_V2": "17f18999056eda9c3f4480620b1bd3a872f4bd15e11991b2a69ef5a769bc521a",
+    "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\CONSUMER5_BEHAVIORAL_TESTS_ONLY_V3": "30b039077d4442f8f20cbe2403a4cb92e10a381d2572b604a1b00527c1ea8fb5"
+  },
+  "Source_actual_behavioral_tests": {
+    "core": 23,
+    "carry": 29,
+    "Root_rerun_claimed": false
+  },
+  "Root_actual_hub_date_event_sha256": "57db83b10ec6aa6e449f0b8d32eea1f78ebf607b4ea020e300beebf6371458a8",
+  "scope": "Exact five descriptions and two actual virtual hub modification dates. Unchanged strict date binding is rebuilt with the same actual prior proofs. Future published layer requires the actual Root-approved production producer and original authority store; it is dormant on this PR93 baseline.",
+  "Source49_PDF8_active24_all45_leaf_metadata_unchanged": true,
+  "stale_date_policy_waiver": false,
+  "old_preserve_hub_metadata_ruling_revoked": true,
+  "future_artifact_native_merge_live_producer_or_global_S5_approval": false
+}

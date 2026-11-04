@@ -1,0 +1,1309 @@
+{
+  "schema_version": 1,
+  "pages": {
+    "answers/agents/can-an-ai-assistant-find-a-software-pricing-page.md": {
+      "raw_source_sha256": "b69203a601d743a1efc86e5332ea74a0ac4041014be3cdcb4e66fdbd37a5562c",
+      "canonical_source_sha256": "b69203a601d743a1efc86e5332ea74a0ac4041014be3cdcb4e66fdbd37a5562c"
+    },
+    "answers/agents/can-construction-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "6c1a47cbce8b36465f1a46a2f9f6b57277986808df12eba3ec08dee272d356a0",
+      "canonical_source_sha256": "6c1a47cbce8b36465f1a46a2f9f6b57277986808df12eba3ec08dee272d356a0"
+    },
+    "answers/agents/can-crm-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "7cc840085390efa64535b5658ebf6b923a933d392fe316819aa8bb1e8ed8ddb8",
+      "canonical_source_sha256": "7cc840085390efa64535b5658ebf6b923a933d392fe316819aa8bb1e8ed8ddb8"
+    },
+    "answers/agents/can-dealership-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "0f6b2abdb2e7c81fb480e433f378ce29bd68f3c4af69b9ad14c88bc2a780fd3d",
+      "canonical_source_sha256": "0f6b2abdb2e7c81fb480e433f378ce29bd68f3c4af69b9ad14c88bc2a780fd3d"
+    },
+    "answers/agents/can-dental-practice-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "fd2bcea69e2d170cdadc0f9567925213881e5a76f8328c01b4188a6d2461b4c2",
+      "canonical_source_sha256": "fd2bcea69e2d170cdadc0f9567925213881e5a76f8328c01b4188a6d2461b4c2"
+    },
+    "answers/agents/can-field-service-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "d6ca778759add51fbe931d4b4f8b535e957629146a44840da9074def23729f04",
+      "canonical_source_sha256": "d6ca778759add51fbe931d4b4f8b535e957629146a44840da9074def23729f04"
+    },
+    "answers/agents/can-hotel-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "fe12705cce74ec98db95cc40f825a74c367f2de9cfb53ebe0dca311368c16145",
+      "canonical_source_sha256": "fe12705cce74ec98db95cc40f825a74c367f2de9cfb53ebe0dca311368c16145"
+    },
+    "answers/agents/can-insurance-agency-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "375462ebd99eb5a8b9379277d363640afa33997403c6d8578c5c5343fb2cf9cb",
+      "canonical_source_sha256": "375462ebd99eb5a8b9379277d363640afa33997403c6d8578c5c5343fb2cf9cb"
+    },
+    "answers/agents/can-legal-practice-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "995e75a5f6d071ffad8fbcb23b73fea3f14a19a474c154319ba5409051adecef",
+      "canonical_source_sha256": "995e75a5f6d071ffad8fbcb23b73fea3f14a19a474c154319ba5409051adecef"
+    },
+    "answers/agents/can-loan-origination-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "6bf2e73bfc5394587bd83a8c25df3ad883b1284c6e8f9f6db0b124c86005d171",
+      "canonical_source_sha256": "6bf2e73bfc5394587bd83a8c25df3ad883b1284c6e8f9f6db0b124c86005d171"
+    },
+    "answers/agents/can-radiology-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "29ee632c2b129968fef0ae675d71f4549e55caf2a130f6c74f330fd0b5f94239",
+      "canonical_source_sha256": "29ee632c2b129968fef0ae675d71f4549e55caf2a130f6c74f330fd0b5f94239"
+    },
+    "answers/agents/can-residential-property-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "e6a899f8a7192a442d41750c6a666ba81d5cafcdfcc894b1c49f9ad8c114570d",
+      "canonical_source_sha256": "e6a899f8a7192a442d41750c6a666ba81d5cafcdfcc894b1c49f9ad8c114570d"
+    },
+    "answers/agents/can-transportation-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "7da66b0032774d3896d4e0c22488f59062eaaaa45fc0ebf352e46832f966022f",
+      "canonical_source_sha256": "7da66b0032774d3896d4e0c22488f59062eaaaa45fc0ebf352e46832f966022f"
+    },
+    "answers/agents/can-veterinary-software-integrate-with-chatgpt.md": {
+      "raw_source_sha256": "636cba3f91d316d4bcc57a51d603ef17c6cfbe3b5c831dd07a2d2c38ed28ae44",
+      "canonical_source_sha256": "636cba3f91d316d4bcc57a51d603ef17c6cfbe3b5c831dd07a2d2c38ed28ae44"
+    },
+    "answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed.md": {
+      "raw_source_sha256": "a68df40d124a06e7d69946fec4e11297ff4c2796d242ba190c00344c4e1b890a",
+      "canonical_source_sha256": "a68df40d124a06e7d69946fec4e11297ff4c2796d242ba190c00344c4e1b890a"
+    },
+    "answers/agents/does-finding-a-page-prove-an-ai-assistant-understood-it.md": {
+      "raw_source_sha256": "778b2889ee7f593715b75ddf459b8ce72cdfef369a3bd05a2fd5475cc460a24d",
+      "canonical_source_sha256": "778b2889ee7f593715b75ddf459b8ce72cdfef369a3bd05a2fd5475cc460a24d"
+    },
+    "answers/agents/how-can-a-software-website-make-its-public-pricing-path-clearer.md": {
+      "raw_source_sha256": "18a8abd7a10a2b9a64050d3a833e6ca2a1359f79392358ebede4f86290d08d54",
+      "canonical_source_sha256": "18a8abd7a10a2b9a64050d3a833e6ca2a1359f79392358ebede4f86290d08d54"
+    },
+    "answers/agents/how-does-an-ai-connector-differ-from-browsing-a-website.md": {
+      "raw_source_sha256": "1889a57d1b9ac692130c62273d807868a9483e32150939429291b60db01730fc",
+      "canonical_source_sha256": "1889a57d1b9ac692130c62273d807868a9483e32150939429291b60db01730fc"
+    },
+    "answers/agents/how-far-can-an-ai-assistant-get-along-a-software-demo-path.md": {
+      "raw_source_sha256": "4754e575464e9cdf09e5914e4f5a00eb65a79d1c491db08f915d353c7742519c",
+      "canonical_source_sha256": "4754e575464e9cdf09e5914e4f5a00eb65a79d1c491db08f915d353c7742519c"
+    },
+    "answers/agents/is-agent-to-agent-commerce-a-viable-business-opportunity.md": {
+      "raw_source_sha256": "7bb74ae567cd5a1c59d71aafc5095a192273d76c1736339994321bc89e6d9664",
+      "canonical_source_sha256": "7bb74ae567cd5a1c59d71aafc5095a192273d76c1736339994321bc89e6d9664"
+    },
+    "answers/agents/what-are-the-benefits-and-risks-of-connecting-hubspot-with-chatgpt.md": {
+      "raw_source_sha256": "c7ac955cbb07f7e4cd834261e5250d78ca1228b303a35cdb1a766112c773afe8",
+      "canonical_source_sha256": "c7ac955cbb07f7e4cd834261e5250d78ca1228b303a35cdb1a766112c773afe8"
+    },
+    "answers/agents/what-can-an-ai-assistant-learn-from-a-software-website.md": {
+      "raw_source_sha256": "6a19e07a9b7348b945726acd934b09a4f5b22fd407f4440d3e29d864c47fc850",
+      "canonical_source_sha256": "6a19e07a9b7348b945726acd934b09a4f5b22fd407f4440d3e29d864c47fc850"
+    },
+    "answers/buying/79dev-com-geo-services-worth-it.md": {
+      "raw_source_sha256": "65ea979a09589edb6c76a9ce1f3216018b07ade259ba0e894f4982872c9cc8f1",
+      "canonical_source_sha256": "65ea979a09589edb6c76a9ce1f3216018b07ade259ba0e894f4982872c9cc8f1"
+    },
+    "answers/buying/can-a-geo-agency-guarantee-ai-recommendations.md": {
+      "raw_source_sha256": "7d0a24b9e56babaa7bb5c0aca5a1eb7f002888eda2d368caa188d2c7dd571315",
+      "canonical_source_sha256": "7d0a24b9e56babaa7bb5c0aca5a1eb7f002888eda2d368caa188d2c7dd571315"
+    },
+    "answers/buying/how-can-i-check-a-geo-vendor-s-published-measurement-method.md": {
+      "raw_source_sha256": "d7ca1a412e30b2e751fa752c19bd895b54c71b6cce44c01d39de64f08a9b92a1",
+      "canonical_source_sha256": "d7ca1a412e30b2e751fa752c19bd895b54c71b6cce44c01d39de64f08a9b92a1"
+    },
+    "answers/buying/how-can-i-check-whether-a-geo-tool-covers-the-engines-i-need.md": {
+      "raw_source_sha256": "344409bad9fa738600f133033f7d8d0e992429b7a5c412d5d2b8d02643276491",
+      "canonical_source_sha256": "344409bad9fa738600f133033f7d8d0e992429b7a5c412d5d2b8d02643276491"
+    },
+    "answers/buying/how-does-geo-change-the-work-of-a-traditional-seo-agency.md": {
+      "raw_source_sha256": "3fb50fb4d5c683c223fb139c84557506ad28aef0f91b5cf07061d8c90f73b86c",
+      "canonical_source_sha256": "3fb50fb4d5c683c223fb139c84557506ad28aef0f91b5cf07061d8c90f73b86c"
+    },
+    "answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency.md": {
+      "raw_source_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0",
+      "canonical_source_sha256": "5fb25381be0a73d6d4a63bf33073d9f3505af53cef79b2378b586eeda53a97d0"
+    },
+    "answers/buying/how-does-seer-interactive-compare-to-other-geo-agencies-when-it-comes.md": {
+      "raw_source_sha256": "faa32433497cb6cdfd11296c3c9305eca31dc37a454dd8cf4cfde36195c2d12d",
+      "canonical_source_sha256": "faa32433497cb6cdfd11296c3c9305eca31dc37a454dd8cf4cfde36195c2d12d"
+    },
+    "answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence.md": {
+      "raw_source_sha256": "1b2ec8a98d5d1b437d0d3fdd5e55c25aac1b9d2136ab13da38df374dec740413",
+      "canonical_source_sha256": "1b2ec8a98d5d1b437d0d3fdd5e55c25aac1b9d2136ab13da38df374dec740413"
+    },
+    "answers/buying/how-should-an-agency-report-ai-visibility-for-multiple-clients.md": {
+      "raw_source_sha256": "113a3b8b043871012fc03cb484b0a34e6a3f02f730953f1105ebbbbc36fe224d",
+      "canonical_source_sha256": "113a3b8b043871012fc03cb484b0a34e6a3f02f730953f1105ebbbbc36fe224d"
+    },
+    "answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets.md": {
+      "raw_source_sha256": "5852c19e01df692c386d757c73b0008878e986735eeffa1f5da30634a84c944d",
+      "canonical_source_sha256": "5852c19e01df692c386d757c73b0008878e986735eeffa1f5da30634a84c944d"
+    },
+    "answers/buying/how-should-i-evaluate-a-geo-case-study.md": {
+      "raw_source_sha256": "12dd87975d628a2104e1f92d614a1a90b3be225dd2f63cae2847016b7024453e",
+      "canonical_source_sha256": "12dd87975d628a2104e1f92d614a1a90b3be225dd2f63cae2847016b7024453e"
+    },
+    "answers/buying/i-m-a-public-affairs-agency-lead-for-our-regulated-industry-clients-su.md": {
+      "raw_source_sha256": "9670d89e76679635847034fba4f00912b5206f66f698808de75d421f10cdb0cc",
+      "canonical_source_sha256": "9670d89e76679635847034fba4f00912b5206f66f698808de75d421f10cdb0cc"
+    },
+    "answers/buying/is-blobic-a-good-white-label-geo-provider.md": {
+      "raw_source_sha256": "c94ff209e97b904bb043d008571ffd3ac75f5ef4dcbce0c9842fa6d6e7a299ac",
+      "canonical_source_sha256": "c94ff209e97b904bb043d008571ffd3ac75f5ef4dcbce0c9842fa6d6e7a299ac"
+    },
+    "answers/buying/looking-for-ai-software-for-field-service-providers-in-the-united-king.md": {
+      "raw_source_sha256": "2b685b039d5069f289907040ca148e08816646cb05b2107db2a7d27546423b98",
+      "canonical_source_sha256": "2b685b039d5069f289907040ca148e08816646cb05b2107db2a7d27546423b98"
+    },
+    "answers/buying/should-i-buy-ai-visibility-monitoring-or-a-completed-page-fix.md": {
+      "raw_source_sha256": "1f2b8355d22865a2a42dc5a336e9256fd4e4ce010a6037bf5c1e3ac9285b963d",
+      "canonical_source_sha256": "1f2b8355d22865a2a42dc5a336e9256fd4e4ce010a6037bf5c1e3ac9285b963d"
+    },
+    "answers/buying/should-i-compare-geo-prices-per-prompt-or-per-valid-answer.md": {
+      "raw_source_sha256": "65309b87930c0e397a76ce14921d0752547f1838e9bf946e4afca2aae07d6d7c",
+      "canonical_source_sha256": "65309b87930c0e397a76ce14921d0752547f1838e9bf946e4afca2aae07d6d7c"
+    },
+    "answers/buying/we-re-looking-for-an-ai-visibility-agency-that-can-get-our-brand-into.md": {
+      "raw_source_sha256": "39db8ccfb19c3825b39d20e7ee43e2b73abce80fec89f4bd09f56ebafae37a3b",
+      "canonical_source_sha256": "39db8ccfb19c3825b39d20e7ee43e2b73abce80fec89f4bd09f56ebafae37a3b"
+    },
+    "answers/buying/what-belongs-in-a-white-label-geo-delivery-scope.md": {
+      "raw_source_sha256": "f60254fb6a164d181569f88e1f20acf92e43f30c330274764b5b2a0432c0544b",
+      "canonical_source_sha256": "f60254fb6a164d181569f88e1f20acf92e43f30c330274764b5b2a0432c0544b"
+    },
+    "answers/buying/what-can-an-agency-deliver-when-a-client-asks-for-geo.md": {
+      "raw_source_sha256": "e080ed5310a89145246d3822297ddb74ed52d86d171a3cf81da50c2dbdedc12a",
+      "canonical_source_sha256": "e080ed5310a89145246d3822297ddb74ed52d86d171a3cf81da50c2dbdedc12a"
+    },
+    "answers/buying/what-does-an-ai-visibility-audit-include.md": {
+      "raw_source_sha256": "778eedcf727c5050690e8d3ec5814d5c392b3bd2e49e87fc7049042f59be24e2",
+      "canonical_source_sha256": "778eedcf727c5050690e8d3ec5814d5c392b3bd2e49e87fc7049042f59be24e2"
+    },
+    "answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include.md": {
+      "raw_source_sha256": "bd718a7d7cd0caf6ad252b9414f49a5c68e8589d2579e772dffdd402d70ab3b3",
+      "canonical_source_sha256": "bd718a7d7cd0caf6ad252b9414f49a5c68e8589d2579e772dffdd402d70ab3b3"
+    },
+    "answers/buying/what-evidence-should-i-keep-when-an-ai-visibility-engagement-ends.md": {
+      "raw_source_sha256": "049bf525895b475bf69f327c3b43f4a1cc70b53a9449e69d430c8394c732a169",
+      "canonical_source_sha256": "049bf525895b475bf69f327c3b43f4a1cc70b53a9449e69d430c8394c732a169"
+    },
+    "answers/buying/what-should-a-geo-content-and-implementation-scope-include.md": {
+      "raw_source_sha256": "ae331c0e41a97200a4e848b7e4866c29dca46e3a28f46c9668b886417689d795",
+      "canonical_source_sha256": "ae331c0e41a97200a4e848b7e4866c29dca46e3a28f46c9668b886417689d795"
+    },
+    "answers/buying/what-should-an-initial-geo-project-measure.md": {
+      "raw_source_sha256": "9c7b430cd90ed6614d3a6aa3c364e29641cfe6b2c8e6ae5bd231d1f386e0f64f",
+      "canonical_source_sha256": "9c7b430cd90ed6614d3a6aa3c364e29641cfe6b2c8e6ae5bd231d1f386e0f64f"
+    },
+    "answers/buying/what-should-i-ask-a-geo-provider-about-mcp-or-api-access.md": {
+      "raw_source_sha256": "b6d8a72b4801f1fd86b337484aeaf5430946e2748929ec39bf6afda57f0a82d4",
+      "canonical_source_sha256": "b6d8a72b4801f1fd86b337484aeaf5430946e2748929ec39bf6afda57f0a82d4"
+    },
+    "answers/buying/which-aeo-agencies-should-a-buyer-compare-in-the-united-states.md": {
+      "raw_source_sha256": "c900a562a8204470cd103eea1765f42db828559c04fc3632920e0c4fb8f826e6",
+      "canonical_source_sha256": "c900a562a8204470cd103eea1765f42db828559c04fc3632920e0c4fb8f826e6"
+    },
+    "answers/buying/which-aeo-tools-suit-home-service-companies-and-contractors.md": {
+      "raw_source_sha256": "7043561616d6f98b79cc5228960f558f8ac8f050f28a5311ef5d72860b567328",
+      "canonical_source_sha256": "7043561616d6f98b79cc5228960f558f8ac8f050f28a5311ef5d72860b567328"
+    },
+    "answers/buying/which-agencies-document-work-across-ai-answer-engines.md": {
+      "raw_source_sha256": "58ccb34445b086f2eb0210f709caead17648417c42df00efb095e6f7e62d25b3",
+      "canonical_source_sha256": "58ccb34445b086f2eb0210f709caead17648417c42df00efb095e6f7e62d25b3"
+    },
+    "answers/buying/which-geo-agencies-serve-new-companies.md": {
+      "raw_source_sha256": "e3d95df1ea8f820ebd1c1c0efb0667873b374caf6877e135082d5cedaef556ff",
+      "canonical_source_sha256": "e3d95df1ea8f820ebd1c1c0efb0667873b374caf6877e135082d5cedaef556ff"
+    },
+    "answers/buying/which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo.md": {
+      "raw_source_sha256": "5a0d985ea4fb7f6ef72143db6504d338ee0d877c69124986238961fc4a315ccc",
+      "canonical_source_sha256": "5a0d985ea4fb7f6ef72143db6504d338ee0d877c69124986238961fc4a315ccc"
+    },
+    "answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md": {
+      "raw_source_sha256": "a785e4ca34b81d1897c2eaab3f6fe541d131ef0313421b915bfc35eaf0aaecd7",
+      "canonical_source_sha256": "a785e4ca34b81d1897c2eaab3f6fe541d131ef0313421b915bfc35eaf0aaecd7"
+    },
+    "answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change.md": {
+      "raw_source_sha256": "4e4669b66369dfda5e79c136abff93c9d2eafd3211d244e8a2d5dded09db4b6c",
+      "canonical_source_sha256": "4e4669b66369dfda5e79c136abff93c9d2eafd3211d244e8a2d5dded09db4b6c"
+    },
+    "answers/changes/how-should-i-check-a-reported-vulnerability-s-product-impact.md": {
+      "raw_source_sha256": "94c16142698118147b597b609e349e0c078a556139dee4837b508284ddc60dd4",
+      "canonical_source_sha256": "94c16142698118147b597b609e349e0c078a556139dee4837b508284ddc60dd4"
+    },
+    "answers/changes/how-should-i-verify-a-fixed-version-quoted-by-an-ai-answer.md": {
+      "raw_source_sha256": "24926f982ac1a9c5073f08d837145096e946e1666687ece45a33133d373f28ab",
+      "canonical_source_sha256": "24926f982ac1a9c5073f08d837145096e946e1666687ece45a33133d373f28ab"
+    },
+    "answers/changes/how-should-we-date-an-ai-facing-incident-statement.md": {
+      "raw_source_sha256": "0b4de64189a35e40a58e8a8159996e105f979ca6b557486891a08c7897cf5f2f",
+      "canonical_source_sha256": "0b4de64189a35e40a58e8a8159996e105f979ca6b557486891a08c7897cf5f2f"
+    },
+    "answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes.md": {
+      "raw_source_sha256": "4b589021a26e1b1e5b24e76ff9e83e66f7fbf98eaa829d5fee343482b729c61c",
+      "canonical_source_sha256": "4b589021a26e1b1e5b24e76ff9e83e66f7fbf98eaa829d5fee343482b729c61c"
+    },
+    "answers/changes/how-should-we-preserve-conflicting-ai-incident-answers.md": {
+      "raw_source_sha256": "3c3aff76e17fc8b2adb5e03a398f276e26cbcfeee825903154aa210747a4e9e1",
+      "canonical_source_sha256": "3c3aff76e17fc8b2adb5e03a398f276e26cbcfeee825903154aa210747a4e9e1"
+    },
+    "answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain.md": {
+      "raw_source_sha256": "f1574a26f70d64fa31abffd9d07793bdc62634e9958446455c02625acaf7f542",
+      "canonical_source_sha256": "f1574a26f70d64fa31abffd9d07793bdc62634e9958446455c02625acaf7f542"
+    },
+    "answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong.md": {
+      "raw_source_sha256": "88c019d27982c6869586069afb26a1c2de09e18740721dd5153b24404bd52362",
+      "canonical_source_sha256": "88c019d27982c6869586069afb26a1c2de09e18740721dd5153b24404bd52362"
+    },
+    "answers/changes/which-ai-visibility-tools-monitor-factual-accuracy.md": {
+      "raw_source_sha256": "b8fa56a0cbf585a9318fc4fe41fb3989cd414d14d03690cd30041e19b5de18a7",
+      "canonical_source_sha256": "b8fa56a0cbf585a9318fc4fe41fb3989cd414d14d03690cd30041e19b5de18a7"
+    },
+    "answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md": {
+      "raw_source_sha256": "816247b6282a1119d911d493c62db4e66757f1e821500b3854f5639698b03018",
+      "canonical_source_sha256": "816247b6282a1119d911d493c62db4e66757f1e821500b3854f5639698b03018"
+    },
+    "answers/chatgpt/how-can-a-business-be-recommended-by-chatgpt.md": {
+      "raw_source_sha256": "7c2edf6a9ddfc9295107c57a0b61517d3bba1de9689870510c5af32a1d3dcb1f",
+      "canonical_source_sha256": "7c2edf6a9ddfc9295107c57a0b61517d3bba1de9689870510c5af32a1d3dcb1f"
+    },
+    "answers/chatgpt/how-can-a-page-get-cited-by-chatgpt.md": {
+      "raw_source_sha256": "7dbca8f389bdaca9c1df5bcd410de6a737efa46b602b0d156dae86ab4ec6cd71",
+      "canonical_source_sha256": "7dbca8f389bdaca9c1df5bcd410de6a737efa46b602b0d156dae86ab4ec6cd71"
+    },
+    "answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite.md": {
+      "raw_source_sha256": "387671513da284faae63c192bb21e60ded8427d9c635565258b36fb7570563cf",
+      "canonical_source_sha256": "387671513da284faae63c192bb21e60ded8427d9c635565258b36fb7570563cf"
+    },
+    "answers/chatgpt/how-many-software-vendors-does-chatgpt-name-in-an-answer.md": {
+      "raw_source_sha256": "dc4b44b2da6229b10f442cb64ebfe77af27a0671e2b5ce9ba5ab41aff8aafd6c",
+      "canonical_source_sha256": "dc4b44b2da6229b10f442cb64ebfe77af27a0671e2b5ce9ba5ab41aff8aafd6c"
+    },
+    "answers/chatgpt/which-construction-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "c3848da8e0e312d0862872ed2ec14681725018c3a9cd12a480b238dc92b0ac29",
+      "canonical_source_sha256": "c3848da8e0e312d0862872ed2ec14681725018c3a9cd12a480b238dc92b0ac29"
+    },
+    "answers/chatgpt/which-crm-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "ac50f4bff070f762b43ca716fca276341370635cdaa616d014461a4e8e6b39db",
+      "canonical_source_sha256": "ac50f4bff070f762b43ca716fca276341370635cdaa616d014461a4e8e6b39db"
+    },
+    "answers/chatgpt/which-dealership-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "b7396ac6fe44d9a9c5655b0db68eb7e81fb75f7da413b0e5db5ff52a4c23aae2",
+      "canonical_source_sha256": "b7396ac6fe44d9a9c5655b0db68eb7e81fb75f7da413b0e5db5ff52a4c23aae2"
+    },
+    "answers/chatgpt/which-dental-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "6878473c5818031f1688d49912dddf7496cc52f08db41f76893ec920fdce686a",
+      "canonical_source_sha256": "6878473c5818031f1688d49912dddf7496cc52f08db41f76893ec920fdce686a"
+    },
+    "answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "a4c8a567d0185617acd1d7126818a7aa0b97dff9ab1eddbeab3852d0448b68f9",
+      "canonical_source_sha256": "a4c8a567d0185617acd1d7126818a7aa0b97dff9ab1eddbeab3852d0448b68f9"
+    },
+    "answers/chatgpt/which-hotel-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "6541dff2c7b513563ba43b865e1b5d4c56d8c643feaa88037ac60777eb7396c1",
+      "canonical_source_sha256": "6541dff2c7b513563ba43b865e1b5d4c56d8c643feaa88037ac60777eb7396c1"
+    },
+    "answers/chatgpt/which-insurance-agency-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "1bf448ef9834da6b7a030f4cf0bf5bdcc661befc78921fbd37ebcfffc86586fb",
+      "canonical_source_sha256": "1bf448ef9834da6b7a030f4cf0bf5bdcc661befc78921fbd37ebcfffc86586fb"
+    },
+    "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "5fb20bce29e6555ff535ccd8ebea633e9d4f06875cf0c6d1c8f5d0aedde89f8a",
+      "canonical_source_sha256": "5fb20bce29e6555ff535ccd8ebea633e9d4f06875cf0c6d1c8f5d0aedde89f8a"
+    },
+    "answers/chatgpt/which-loan-origination-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "cecd7a5deb3f4f00bddd57f54b1e046e65fb410857a81ffbd1c1324d42c8ba40",
+      "canonical_source_sha256": "cecd7a5deb3f4f00bddd57f54b1e046e65fb410857a81ffbd1c1324d42c8ba40"
+    },
+    "answers/chatgpt/which-project-management-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "654bb7004fcd787c705e028b1aa1fbab4fd4a745850b68a9a8eec03424270d2b",
+      "canonical_source_sha256": "654bb7004fcd787c705e028b1aa1fbab4fd4a745850b68a9a8eec03424270d2b"
+    },
+    "answers/chatgpt/which-property-management-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "8c001d22c0313d5b2f4f357d675cd130d3eadeaffad8fc6cb242551ce699c8aa",
+      "canonical_source_sha256": "8c001d22c0313d5b2f4f357d675cd130d3eadeaffad8fc6cb242551ce699c8aa"
+    },
+    "answers/chatgpt/which-radiology-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "73eae2c2f688256ebee3760140d8a1a269dcba0ab6da2d6245ed534fbea4fdb1",
+      "canonical_source_sha256": "73eae2c2f688256ebee3760140d8a1a269dcba0ab6da2d6245ed534fbea4fdb1"
+    },
+    "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "4e5029b2db0f91270789faef200ce97a00ae4fd8db3f9c07a3d7f6bb36b2b9ae",
+      "canonical_source_sha256": "4e5029b2db0f91270789faef200ce97a00ae4fd8db3f9c07a3d7f6bb36b2b9ae"
+    },
+    "answers/chatgpt/which-veterinary-software-does-chatgpt-recommend.md": {
+      "raw_source_sha256": "2d52f047323196c11634fbf65e11f6046ada4d73554326cf8a9cf88a822878bd",
+      "canonical_source_sha256": "2d52f047323196c11634fbf65e11f6046ada4d73554326cf8a9cf88a822878bd"
+    },
+    "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md": {
+      "raw_source_sha256": "2633e93eb21db50dbfa957a8a1f58a9eb854c9a907d99340da15ca2cec4bc371",
+      "canonical_source_sha256": "2633e93eb21db50dbfa957a8a1f58a9eb854c9a907d99340da15ca2cec4bc371"
+    },
+    "answers/claude/how-does-claude-web-search-work.md": {
+      "raw_source_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407",
+      "canonical_source_sha256": "3e683ac5987bb45c5e043e35b9ab20450a94498830d24ffbf4df3edbc1020407"
+    },
+    "answers/claude/which-construction-software-does-claude-recommend.md": {
+      "raw_source_sha256": "83ecccb91ecdc1c511669fde80e1830acaf4fbfd094beda90ab98452938b77ac",
+      "canonical_source_sha256": "83ecccb91ecdc1c511669fde80e1830acaf4fbfd094beda90ab98452938b77ac"
+    },
+    "answers/claude/which-crm-software-does-claude-recommend.md": {
+      "raw_source_sha256": "06f1c1e7b2cac05c25a5b88930a94be4692fc7f29b7cf92cbfd5c1a2edeac94e",
+      "canonical_source_sha256": "06f1c1e7b2cac05c25a5b88930a94be4692fc7f29b7cf92cbfd5c1a2edeac94e"
+    },
+    "answers/claude/which-dealership-software-does-claude-recommend.md": {
+      "raw_source_sha256": "1a24c45e439373de7407e2990d29a0ca9d53fc040aaffcdaeda145c8b56e1ccc",
+      "canonical_source_sha256": "1a24c45e439373de7407e2990d29a0ca9d53fc040aaffcdaeda145c8b56e1ccc"
+    },
+    "answers/claude/which-dental-software-does-claude-recommend.md": {
+      "raw_source_sha256": "2de66088d41a0bc2aeb1c32680a594761f13da1de2955b5674ad4ae0c4c85a10",
+      "canonical_source_sha256": "2de66088d41a0bc2aeb1c32680a594761f13da1de2955b5674ad4ae0c4c85a10"
+    },
+    "answers/claude/which-field-service-software-does-claude-recommend.md": {
+      "raw_source_sha256": "dd19b1c075f34bf67ce94cc57cbb39acc3d6a8e6a547aa3d91b28f4d257578f9",
+      "canonical_source_sha256": "dd19b1c075f34bf67ce94cc57cbb39acc3d6a8e6a547aa3d91b28f4d257578f9"
+    },
+    "answers/claude/which-hotel-software-does-claude-recommend.md": {
+      "raw_source_sha256": "ede4900b418184667271dc330eb31d9f33e28d96b6a2440fa436d9b09e63f73d",
+      "canonical_source_sha256": "ede4900b418184667271dc330eb31d9f33e28d96b6a2440fa436d9b09e63f73d"
+    },
+    "answers/claude/which-insurance-agency-software-does-claude-recommend.md": {
+      "raw_source_sha256": "cb8ac17402f786b0f8b625216c6deb886a94d7df9244692167c251ec362f67c4",
+      "canonical_source_sha256": "cb8ac17402f786b0f8b625216c6deb886a94d7df9244692167c251ec362f67c4"
+    },
+    "answers/claude/which-legal-practice-software-does-claude-recommend.md": {
+      "raw_source_sha256": "597f8a1a1b17f02b40d5a2005b0dd43dd922661e8cf2d8c408cd9d7d093cfb24",
+      "canonical_source_sha256": "597f8a1a1b17f02b40d5a2005b0dd43dd922661e8cf2d8c408cd9d7d093cfb24"
+    },
+    "answers/claude/which-loan-origination-software-does-claude-recommend.md": {
+      "raw_source_sha256": "12b105311b5d28e6e9e49a2eb94a5f50f834a5b860553a41e90b26629d01cab4",
+      "canonical_source_sha256": "12b105311b5d28e6e9e49a2eb94a5f50f834a5b860553a41e90b26629d01cab4"
+    },
+    "answers/claude/which-project-management-software-does-claude-recommend.md": {
+      "raw_source_sha256": "76ec2ca20b8fb6f37f4413d8a4321f2ff4ac70799a0af1dac023d21a1d0ee18e",
+      "canonical_source_sha256": "76ec2ca20b8fb6f37f4413d8a4321f2ff4ac70799a0af1dac023d21a1d0ee18e"
+    },
+    "answers/fixes/can-google-ai-overview-answers-be-changed.md": {
+      "raw_source_sha256": "45383144418c23727a72dd53f211da4edad3e5d641cb6899ac2f88261e648a75",
+      "canonical_source_sha256": "45383144418c23727a72dd53f211da4edad3e5d641cb6899ac2f88261e648a75"
+    },
+    "answers/fixes/does-a-crawler-request-count-as-a-buyer-visit.md": {
+      "raw_source_sha256": "51706ff19042e3b2580a78e8f183ff69fa751822b4f147c2c0cd5760c6d3875e",
+      "canonical_source_sha256": "51706ff19042e3b2580a78e8f183ff69fa751822b4f147c2c0cd5760c6d3875e"
+    },
+    "answers/fixes/how-can-a-local-auto-glass-business-appear-in-google-ai-and-chatgpt-an.md": {
+      "raw_source_sha256": "64085eb7dd8ea99752f0aed42eb4c13d27e7e191714b7df8358be06229fe39c3",
+      "canonical_source_sha256": "64085eb7dd8ea99752f0aed42eb4c13d27e7e191714b7df8358be06229fe39c3"
+    },
+    "answers/fixes/how-can-i-check-chatgpt-s-seo-output.md": {
+      "raw_source_sha256": "487843f35f1cf4a9e15089183a8f5e9e75a04c1de421f7fc1570715a2ab9c6ab",
+      "canonical_source_sha256": "487843f35f1cf4a9e15089183a8f5e9e75a04c1de421f7fc1570715a2ab9c6ab"
+    },
+    "answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md": {
+      "raw_source_sha256": "a710678228f230a67e31f3320a7503deb44ab2dd6d2b2d17a819b97786f7dd40",
+      "canonical_source_sha256": "a710678228f230a67e31f3320a7503deb44ab2dd6d2b2d17a819b97786f7dd40"
+    },
+    "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages.md": {
+      "raw_source_sha256": "d130c94ef86ffb2b7eeb5c0bde53cbe6177acb78b67dfad6362752353b3af8ab",
+      "canonical_source_sha256": "d130c94ef86ffb2b7eeb5c0bde53cbe6177acb78b67dfad6362752353b3af8ab"
+    },
+    "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md": {
+      "raw_source_sha256": "b9f3ed40b02414a0f44d40fe7b7b1e82a1f343ffb6b954da2f82f435afa8dcff",
+      "canonical_source_sha256": "b9f3ed40b02414a0f44d40fe7b7b1e82a1f343ffb6b954da2f82f435afa8dcff"
+    },
+    "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features.md": {
+      "raw_source_sha256": "ad2953b1d9f24a9d72bf27e10f01cecb62d27ffcbf707aae539dd344d2d217ed",
+      "canonical_source_sha256": "ad2953b1d9f24a9d72bf27e10f01cecb62d27ffcbf707aae539dd344d2d217ed"
+    },
+    "answers/fixes/how-should-a-local-business-respond-when-chatgpt-cites-ranking-list-pa.md": {
+      "raw_source_sha256": "ba8b5a0624c78dc7f80cf471d0b6e459c6cc509e4e6299fa460f5bf32853a37f",
+      "canonical_source_sha256": "ba8b5a0624c78dc7f80cf471d0b6e459c6cc509e4e6299fa460f5bf32853a37f"
+    },
+    "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations.md": {
+      "raw_source_sha256": "31362c1f5bc4d6635fecd40dcf62818f90ab4ff4f034b9f66c8a4ea0a26b9f07",
+      "canonical_source_sha256": "31362c1f5bc4d6635fecd40dcf62818f90ab4ff4f034b9f66c8a4ea0a26b9f07"
+    },
+    "answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence.md": {
+      "raw_source_sha256": "0a9e93503bf40eb830db1d79cfe229b7cbf9222329c756ed207108a43f235579",
+      "canonical_source_sha256": "0a9e93503bf40eb830db1d79cfe229b7cbf9222329c756ed207108a43f235579"
+    },
+    "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction.md": {
+      "raw_source_sha256": "25fdd95ee67cd079feab8541e4054b91d71a20759bb3cbe81ea55cacfaf85d64",
+      "canonical_source_sha256": "25fdd95ee67cd079feab8541e4054b91d71a20759bb3cbe81ea55cacfaf85d64"
+    },
+    "answers/fixes/how-should-i-check-an-llms-txt-file.md": {
+      "raw_source_sha256": "bc0add69d08349c314e64897059cf43877b61610fd9cde7115921d743fceefa1",
+      "canonical_source_sha256": "bc0add69d08349c314e64897059cf43877b61610fd9cde7115921d743fceefa1"
+    },
+    "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo.md": {
+      "raw_source_sha256": "815dfc8e6f21bc716b0807b2c8e36cbca584b19733d9dff3f235d6291579b72b",
+      "canonical_source_sha256": "815dfc8e6f21bc716b0807b2c8e36cbca584b19733d9dff3f235d6291579b72b"
+    },
+    "answers/fixes/how-should-i-request-an-ai-fact-correction-with-a-source-receipt.md": {
+      "raw_source_sha256": "125c50e46f1ed888e45e64f69d69d10a6118afc6e9ba1ecde2f4baeb209a2a48",
+      "canonical_source_sha256": "125c50e46f1ed888e45e64f69d69d10a6118afc6e9ba1ecde2f4baeb209a2a48"
+    },
+    "answers/fixes/how-should-i-structure-headings-for-ai-crawlers.md": {
+      "raw_source_sha256": "2b25edf410e9a9c34ded920e8b87bcd9f577f0c6dcc37696fffedf9aa64e9564",
+      "canonical_source_sha256": "2b25edf410e9a9c34ded920e8b87bcd9f577f0c6dcc37696fffedf9aa64e9564"
+    },
+    "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page.md": {
+      "raw_source_sha256": "d4d456900b7d1ebb4911b32dd8b1f0529f8ebc4a0886ad40e66847a8dabdd989",
+      "canonical_source_sha256": "d4d456900b7d1ebb4911b32dd8b1f0529f8ebc4a0886ad40e66847a8dabdd989"
+    },
+    "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md": {
+      "raw_source_sha256": "e1d30e75db7b16afbfcfc8ae0a2d541b3037cbf41692d657fdb3d079d4902dd5",
+      "canonical_source_sha256": "e1d30e75db7b16afbfcfc8ae0a2d541b3037cbf41692d657fdb3d079d4902dd5"
+    },
+    "answers/fixes/how-should-teams-handle-seo-and-geo-in-day-to-day-work.md": {
+      "raw_source_sha256": "9e387c7d1d33f30ed8d737eb321010f29f5db9acae5f78467d934674f4a64b3f",
+      "canonical_source_sha256": "9e387c7d1d33f30ed8d737eb321010f29f5db9acae5f78467d934674f4a64b3f"
+    },
+    "answers/fixes/is-llms-txt-actually-used.md": {
+      "raw_source_sha256": "2b7cac22bb8a249f98a1c612243d9caa40967149cc2f8b8285824b1b8dfc35d1",
+      "canonical_source_sha256": "2b7cac22bb8a249f98a1c612243d9caa40967149cc2f8b8285824b1b8dfc35d1"
+    },
+    "answers/fixes/is-llms-txt-required-for-ai-search-visibility.md": {
+      "raw_source_sha256": "c3edb10ae6d090f8c89a13035328e4998ecf3429aabd3c753707dafa6bb40c56",
+      "canonical_source_sha256": "c3edb10ae6d090f8c89a13035328e4998ecf3429aabd3c753707dafa6bb40c56"
+    },
+    "answers/fixes/what-do-ai-crawlers-do-and-how-can-site-owners-control-access.md": {
+      "raw_source_sha256": "77e3dc1d41d5db03d53284d2d7b10ff0f700eb30b3cce4de7f2be449e7975cca",
+      "canonical_source_sha256": "77e3dc1d41d5db03d53284d2d7b10ff0f700eb30b3cce4de7f2be449e7975cca"
+    },
+    "answers/fixes/what-does-google-s-guidance-say-about-llms-txt.md": {
+      "raw_source_sha256": "c4ca5af2ff6d13fb7f604632208e4b9b64d398a0398e6cfa704261200611ba23",
+      "canonical_source_sha256": "c4ca5af2ff6d13fb7f604632208e4b9b64d398a0398e6cfa704261200611ba23"
+    },
+    "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility.md": {
+      "raw_source_sha256": "535f72327d0c9d85eb6a282e0f97b38e82726a9dc124df7bc004ddc846b8c26f",
+      "canonical_source_sha256": "535f72327d0c9d85eb6a282e0f97b38e82726a9dc124df7bc004ddc846b8c26f"
+    },
+    "answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md": {
+      "raw_source_sha256": "9fa0f57d22dd3837247092ec25ecc7f89d7fa4277bc07227f4691560b0ae44cc",
+      "canonical_source_sha256": "9fa0f57d22dd3837247092ec25ecc7f89d7fa4277bc07227f4691560b0ae44cc"
+    },
+    "answers/fixes/what-is-an-llms-txt-checker.md": {
+      "raw_source_sha256": "fdc84351286f988e5a6601650c9ddf1fb7bdb967c260e60a8b0d38463f573bc3",
+      "canonical_source_sha256": "fdc84351286f988e5a6601650c9ddf1fb7bdb967c260e60a8b0d38463f573bc3"
+    },
+    "answers/fixes/what-is-an-llms-txt-file.md": {
+      "raw_source_sha256": "caed7155b9eaa1760ea3872675a23a4a84d16f6339975ee480aebc4ced3a66ba",
+      "canonical_source_sha256": "caed7155b9eaa1760ea3872675a23a4a84d16f6339975ee480aebc4ced3a66ba"
+    },
+    "answers/fixes/what-should-an-ai-information-page-say-about-our-company.md": {
+      "raw_source_sha256": "70316d13ed2a3350339f174cb59d043f9c59d1d71aa7a6055811360285ed08d4",
+      "canonical_source_sha256": "70316d13ed2a3350339f174cb59d043f9c59d1d71aa7a6055811360285ed08d4"
+    },
+    "answers/fixes/what-should-i-include-in-an-llms-txt-file.md": {
+      "raw_source_sha256": "a690467bf29322226734e042997fe21af2c61f8508a6a37527914d7bf9418d5c",
+      "canonical_source_sha256": "a690467bf29322226734e042997fe21af2c61f8508a6a37527914d7bf9418d5c"
+    },
+    "answers/fixes/which-ai-tools-can-support-programmatic-seo.md": {
+      "raw_source_sha256": "c6e8d0194451a0894c178b19311c419064f773345e64124521c9ad961581ce93",
+      "canonical_source_sha256": "c6e8d0194451a0894c178b19311c419064f773345e64124521c9ad961581ce93"
+    },
+    "answers/fixes/which-ai-visibility-tools-also-complete-content-changes.md": {
+      "raw_source_sha256": "d662f81c7840d73dc8ee621223befc00efe343febcc302a261d8cab3afedbc3f",
+      "canonical_source_sha256": "d662f81c7840d73dc8ee621223befc00efe343febcc302a261d8cab3afedbc3f"
+    },
+    "answers/fixes/which-websites-have-an-llms-txt-file.md": {
+      "raw_source_sha256": "5dada6a55398292ecef598cc9874a1b06bd1347bc385ecab7e3a0718c6b6d2eb",
+      "canonical_source_sha256": "5dada6a55398292ecef598cc9874a1b06bd1347bc385ecab7e3a0718c6b6d2eb"
+    },
+    "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence.md": {
+      "raw_source_sha256": "c0afcfbce3a7cdfc1f52ca34dd9bd60090f48a2d50a6b3f5986b42ee78036972",
+      "canonical_source_sha256": "c0afcfbce3a7cdfc1f52ca34dd9bd60090f48a2d50a6b3f5986b42ee78036972"
+    },
+    "answers/geo-basics/can-ai-search-use-information-from-the-live-web.md": {
+      "raw_source_sha256": "9050d995c56b8642de3777057051b03ebdb486f5e2169318f760a9bc23645842",
+      "canonical_source_sha256": "9050d995c56b8642de3777057051b03ebdb486f5e2169318f760a9bc23645842"
+    },
+    "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md": {
+      "raw_source_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a",
+      "canonical_source_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a"
+    },
+    "answers/geo-basics/can-i-use-ai-to-do-my-seo.md": {
+      "raw_source_sha256": "8e906db7995fecd4db7f6f30003abb5486a223da421558767698456631c7c011",
+      "canonical_source_sha256": "8e906db7995fecd4db7f6f30003abb5486a223da421558767698456631c7c011"
+    },
+    "answers/geo-basics/can-i-use-chatgpt-as-a-crm.md": {
+      "raw_source_sha256": "2fb3a7ae7142e166204831bc4c0e6bbf9c28ac8b744999ed0f14f07109dc1b3f",
+      "canonical_source_sha256": "2fb3a7ae7142e166204831bc4c0e6bbf9c28ac8b744999ed0f14f07109dc1b3f"
+    },
+    "answers/geo-basics/chatgpt-brand-visibility-cost.md": {
+      "raw_source_sha256": "57825b1faaf60cce11eea7cbf02f03b3ee9931e8ae52f515cdfd85fa3c663599",
+      "canonical_source_sha256": "57825b1faaf60cce11eea7cbf02f03b3ee9931e8ae52f515cdfd85fa3c663599"
+    },
+    "answers/geo-basics/chatgpt-seo-skills.md": {
+      "raw_source_sha256": "da94655f69e1f4143a14cdefde91152212294bde7e09638e1bff9b97c0f29c01",
+      "canonical_source_sha256": "da94655f69e1f4143a14cdefde91152212294bde7e09638e1bff9b97c0f29c01"
+    },
+    "answers/geo-basics/do-brand-name-prompts-measure-discovery.md": {
+      "raw_source_sha256": "07b4670c11b5c2d27dc5620f062846097654a841eb3fac7ad3ec4a56d6eea12a",
+      "canonical_source_sha256": "07b4670c11b5c2d27dc5620f062846097654a841eb3fac7ad3ec4a56d6eea12a"
+    },
+    "answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts.md": {
+      "raw_source_sha256": "0fc1974e90ca16df11d310724628da1ebe9ce086adfd18bc40948b2f2b3de0a7",
+      "canonical_source_sha256": "0fc1974e90ca16df11d310724628da1ebe9ce086adfd18bc40948b2f2b3de0a7"
+    },
+    "answers/geo-basics/does-ai-search-replace-seo.md": {
+      "raw_source_sha256": "28d37990b0e5e37f62051f060eddd28032cff3428bb8ec83e18976f50ac6360b",
+      "canonical_source_sha256": "28d37990b0e5e37f62051f060eddd28032cff3428bb8ec83e18976f50ac6360b"
+    },
+    "answers/geo-basics/does-an-ai-brand-mention-mean-the-product-was-recommended.md": {
+      "raw_source_sha256": "46da8c20c5a27cda881a662513c121e5009568c1486b87984bde2a30265261bb",
+      "canonical_source_sha256": "46da8c20c5a27cda881a662513c121e5009568c1486b87984bde2a30265261bb"
+    },
+    "answers/geo-basics/does-an-ai-shortlist-show-what-buyers-actually-purchase.md": {
+      "raw_source_sha256": "42190d7f5932577c5dc377613200e8be4771539c6b3e20aabb3768f8b973e726",
+      "canonical_source_sha256": "42190d7f5932577c5dc377613200e8be4771539c6b3e20aabb3768f8b973e726"
+    },
+    "answers/geo-basics/does-being-named-by-ai-prove-product-quality.md": {
+      "raw_source_sha256": "3a90ddd0464008050ffec5a23ed54f6b98ea997b12360331987dc13ac722bb45",
+      "canonical_source_sha256": "3a90ddd0464008050ffec5a23ed54f6b98ea997b12360331987dc13ac722bb45"
+    },
+    "answers/geo-basics/how-can-chatgpt-help-with-seo-content.md": {
+      "raw_source_sha256": "0f175adc09e0a545a10b4a615958984e8d5b2c79430495d3c4b1005dd818adc5",
+      "canonical_source_sha256": "0f175adc09e0a545a10b4a615958984e8d5b2c79430495d3c4b1005dd818adc5"
+    },
+    "answers/geo-basics/how-do-ai-visibility-vendors-differ-for-regulated-industries.md": {
+      "raw_source_sha256": "e5c94b7ed858a02ed3ec33cb1cd6fe8b4d5ef5f1467adfc0b098b876b3092d73",
+      "canonical_source_sha256": "e5c94b7ed858a02ed3ec33cb1cd6fe8b4d5ef5f1467adfc0b098b876b3092d73"
+    },
+    "answers/geo-basics/how-do-getmint-and-otterly-compare-for-transactional-geo-in-the-united.md": {
+      "raw_source_sha256": "7e6119d827fa9b004eb7411c26748422c8b3651f2822b5e6e5ceceea3ac904a3",
+      "canonical_source_sha256": "7e6119d827fa9b004eb7411c26748422c8b3651f2822b5e6e5ceceea3ac904a3"
+    },
+    "answers/geo-basics/how-do-profound-and-seo-clarity-compare-for-tracking-brand-coverage-in.md": {
+      "raw_source_sha256": "af1eb538dcffd7c036b4fb492fbd3d60d49c87d388e3ff95b6203f03e105fa19",
+      "canonical_source_sha256": "af1eb538dcffd7c036b4fb492fbd3d60d49c87d388e3ff95b6203f03e105fa19"
+    },
+    "answers/geo-basics/how-do-profound-and-seoclarity-compare.md": {
+      "raw_source_sha256": "beaf7597b401673e8883b0d50ba360ce23d5c4ba45dbdd764a98dcc9e62d102c",
+      "canonical_source_sha256": "beaf7597b401673e8883b0d50ba360ce23d5c4ba45dbdd764a98dcc9e62d102c"
+    },
+    "answers/geo-basics/how-do-suede-and-athenahq-compare-for-tracking-citations-across-models.md": {
+      "raw_source_sha256": "cdf9359d64f9f39fe61c87fba6d7105274a9e86d495fb7cc9e2e52cb18db8822",
+      "canonical_source_sha256": "cdf9359d64f9f39fe61c87fba6d7105274a9e86d495fb7cc9e2e52cb18db8822"
+    },
+    "answers/geo-basics/how-do-suede-and-athenahq-differ-beyond-price-for-a-pac.md": {
+      "raw_source_sha256": "2775405dac13f79c3b5b90b40410c9ff8a02684167222b0663327ff456b2ac6c",
+      "canonical_source_sha256": "2775405dac13f79c3b5b90b40410c9ff8a02684167222b0663327ff456b2ac6c"
+    },
+    "answers/geo-basics/how-do-suede-and-profound-compare-for-permitting-and-community-narrati.md": {
+      "raw_source_sha256": "4324a364f2e9f7b9edf60d978cf1a54c73bf98cc2c96d58bbb4b0655d3badf67",
+      "canonical_source_sha256": "4324a364f2e9f7b9edf60d978cf1a54c73bf98cc2c96d58bbb4b0655d3badf67"
+    },
+    "answers/geo-basics/how-do-suede-profound-and-athenahq-compare-for-a-trade-group-in-a-regu.md": {
+      "raw_source_sha256": "ea5e90fffd28128ca9e438b68e5dae02f4e9fd282f3b0aa8fd9a300a8c49247b",
+      "canonical_source_sha256": "ea5e90fffd28128ca9e438b68e5dae02f4e9fd282f3b0aa8fd9a300a8c49247b"
+    },
+    "answers/geo-basics/how-does-chatgpt-relate-to-seo.md": {
+      "raw_source_sha256": "f0f6470e7ba091037aac5845993b66a544879b0135c0db45bdad58dd40747d15",
+      "canonical_source_sha256": "f0f6470e7ba091037aac5845993b66a544879b0135c0db45bdad58dd40747d15"
+    },
+    "answers/geo-basics/how-does-perplexity-relate-to-seo.md": {
+      "raw_source_sha256": "7739c832b25509f02e9da3660d270e46f3110442481f63544339598cf0d4f940",
+      "canonical_source_sha256": "7739c832b25509f02e9da3660d270e46f3110442481f63544339598cf0d4f940"
+    },
+    "answers/geo-basics/how-does-profound-track-brand-coverage-across-ai-answer-engines.md": {
+      "raw_source_sha256": "bd642f2532186037eea0b23228c1f0fbd9e511123a995945c6e243ba7fd4ae2f",
+      "canonical_source_sha256": "bd642f2532186037eea0b23228c1f0fbd9e511123a995945c6e243ba7fd4ae2f"
+    },
+    "answers/geo-basics/how-might-ai-search-engines-change-the-web.md": {
+      "raw_source_sha256": "069fb9ee805ed31d39520854cbf76e909c337484fdcb207cd22f6093175b6faa",
+      "canonical_source_sha256": "069fb9ee805ed31d39520854cbf76e909c337484fdcb207cd22f6093175b6faa"
+    },
+    "answers/geo-basics/how-well-can-entry-level-geo-solutions-scale-with-a-growing-business.md": {
+      "raw_source_sha256": "1f4ca6e44e16685f3cec86cf0fc8da71e2462c40c0928db19f7bfccc94435b1b",
+      "canonical_source_sha256": "1f4ca6e44e16685f3cec86cf0fc8da71e2462c40c0928db19f7bfccc94435b1b"
+    },
+    "answers/geo-basics/is-geo-a-legitimate-strategy.md": {
+      "raw_source_sha256": "6a7af8f4ea442d77a6c854cf3b43510582488a0c857ed163841d567f9b745a4a",
+      "canonical_source_sha256": "6a7af8f4ea442d77a6c854cf3b43510582488a0c857ed163841d567f9b745a4a"
+    },
+    "answers/geo-basics/is-geo-a-separate-skill-from-seo.md": {
+      "raw_source_sha256": "c61a330216273bf9936b96eabe4ecdb3195a937462cb9fbd80bdf69025216acb",
+      "canonical_source_sha256": "c61a330216273bf9936b96eabe4ecdb3195a937462cb9fbd80bdf69025216acb"
+    },
+    "answers/geo-basics/is-learning-seo-and-geo-worthwhile-in-2026.md": {
+      "raw_source_sha256": "7170add1e427f6dec5529911c21c0ec8f8283c75a2703ec19374f1c984cddf6d",
+      "canonical_source_sha256": "7170add1e427f6dec5529911c21c0ec8f8283c75a2703ec19374f1c984cddf6d"
+    },
+    "answers/geo-basics/is-perplexity-good-for-seo.md": {
+      "raw_source_sha256": "1476de764012e7bdf2ee8821e63bcbc21a7d644954a22c3248fb350c76d5c9b2",
+      "canonical_source_sha256": "1476de764012e7bdf2ee8821e63bcbc21a7d644954a22c3248fb350c76d5c9b2"
+    },
+    "answers/geo-basics/origence.md": {
+      "raw_source_sha256": "ebb6c7442b9444e62d024126452738dfcf8eca88374275f0caa17c51e7738d34",
+      "canonical_source_sha256": "ebb6c7442b9444e62d024126452738dfcf8eca88374275f0caa17c51e7738d34"
+    },
+    "answers/geo-basics/peec-visibility-or-aeo-or-geo-or-search-or-citation-or-seo-or-generati.md": {
+      "raw_source_sha256": "517bf242b15d9c9ef372a63b0039720202568d59f9865ff97310425c36f5404e",
+      "canonical_source_sha256": "517bf242b15d9c9ef372a63b0039720202568d59f9865ff97310425c36f5404e"
+    },
+    "answers/geo-basics/what-are-alternatives-to-brightedge-for-geo.md": {
+      "raw_source_sha256": "0110be159a35fe39cd600450902f688b5d202791da2d1721d90b8070ac0c07b4",
+      "canonical_source_sha256": "0110be159a35fe39cd600450902f688b5d202791da2d1721d90b8070ac0c07b4"
+    },
+    "answers/geo-basics/what-are-alternatives-to-go-fish-digital-for-geo.md": {
+      "raw_source_sha256": "c08eb9b9119e92b6b4fe5af008711a2ddde345521dbee9c0f40671db0c95be81",
+      "canonical_source_sha256": "c08eb9b9119e92b6b4fe5af008711a2ddde345521dbee9c0f40671db0c95be81"
+    },
+    "answers/geo-basics/what-are-examples-of-answer-engine-optimization.md": {
+      "raw_source_sha256": "7c1bd0b821f291857a1fb15ac2cccf9ade04093e9cd957764c2b156a2c578ef5",
+      "canonical_source_sha256": "7c1bd0b821f291857a1fb15ac2cccf9ade04093e9cd957764c2b156a2c578ef5"
+    },
+    "answers/geo-basics/what-are-the-top-3-crm-platforms.md": {
+      "raw_source_sha256": "33b7df50b27437a160a43a96ea6a6c82382983477a4585e50352989c3c76e9e1",
+      "canonical_source_sha256": "33b7df50b27437a160a43a96ea6a6c82382983477a4585e50352989c3c76e9e1"
+    },
+    "answers/geo-basics/what-can-a-cited-domain-tell-me-about-an-ai-source.md": {
+      "raw_source_sha256": "84ebc5bcc9223f9e37e02a08ddd848db1cbb277e5967132ec5076fed3d991fe8",
+      "canonical_source_sha256": "84ebc5bcc9223f9e37e02a08ddd848db1cbb277e5967132ec5076fed3d991fe8"
+    },
+    "answers/geo-basics/what-can-perplexity-computer-do-for-seo.md": {
+      "raw_source_sha256": "7afb35ffaf25b4642ff5d0bdcb3b673ec7c47a80e8f3d7ca203ef7663c44c3ec",
+      "canonical_source_sha256": "7afb35ffaf25b4642ff5d0bdcb3b673ec7c47a80e8f3d7ca203ef7663c44c3ec"
+    },
+    "answers/geo-basics/what-certifications-cover-answer-engine-optimization.md": {
+      "raw_source_sha256": "955581afab181b1d4df5f7de0ad3d22c5d0d11ba2c4be252d169211fda82febd",
+      "canonical_source_sha256": "955581afab181b1d4df5f7de0ad3d22c5d0d11ba2c4be252d169211fda82febd"
+    },
+    "answers/geo-basics/what-courses-cover-answer-engine-optimization.md": {
+      "raw_source_sha256": "3892082864ba3e350e6cf171b6cbb8a1f74899df4b42d7b9084e2e95794df380",
+      "canonical_source_sha256": "3892082864ba3e350e6cf171b6cbb8a1f74899df4b42d7b9084e2e95794df380"
+    },
+    "answers/geo-basics/what-does-ai-visibility-mean.md": {
+      "raw_source_sha256": "fc2ed968886c3c83994bda32f4db2926d15cb8f84914a8c601ebbf8f74cf6f53",
+      "canonical_source_sha256": "fc2ed968886c3c83994bda32f4db2926d15cb8f84914a8c601ebbf8f74cf6f53"
+    },
+    "answers/geo-basics/what-does-blue-yonder-publish-about-ltl-freight-shipping.md": {
+      "raw_source_sha256": "10e4917ff362d8df6423caae56bc5b4f707bcfd528417ff8a76bf7b2995b3199",
+      "canonical_source_sha256": "10e4917ff362d8df6423caae56bc5b4f707bcfd528417ff8a76bf7b2995b3199"
+    },
+    "answers/geo-basics/what-does-brand-visibility-in-chatgpt-mean.md": {
+      "raw_source_sha256": "33553a7a5b077ff886b45a8d9ecc8902820c61ba1ce12b82940fb07b825432dd",
+      "canonical_source_sha256": "33553a7a5b077ff886b45a8d9ecc8902820c61ba1ce12b82940fb07b825432dd"
+    },
+    "answers/geo-basics/what-does-geo-mean-in-ai-search.md": {
+      "raw_source_sha256": "408fb950676fbd1acd85629bf21335249254a11caba7b5ea1225a36f06f4a2dd",
+      "canonical_source_sha256": "408fb950676fbd1acd85629bf21335249254a11caba7b5ea1225a36f06f4a2dd"
+    },
+    "answers/geo-basics/what-does-llm-in-ai-mean.md": {
+      "raw_source_sha256": "3328abbf97f0a5ec354d5edb3df89de5c019ca1861d8459d92cc1ed5afb65ff1",
+      "canonical_source_sha256": "3328abbf97f0a5ec354d5edb3df89de5c019ca1861d8459d92cc1ed5afb65ff1"
+    },
+    "answers/geo-basics/what-does-searchable-offer-for-ai-search-visibility.md": {
+      "raw_source_sha256": "cc988ef560a86fe7c853c1fae82fb134c3ae62302477921d94e36421023035d2",
+      "canonical_source_sha256": "cc988ef560a86fe7c853c1fae82fb134c3ae62302477921d94e36421023035d2"
+    },
+    "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer.md": {
+      "raw_source_sha256": "002c109422876a580c834822c20b6e06c87191a40b927de2b78830ec2e316aae",
+      "canonical_source_sha256": "002c109422876a580c834822c20b6e06c87191a40b927de2b78830ec2e316aae"
+    },
+    "answers/geo-basics/what-does-visibility-in-claude-mean.md": {
+      "raw_source_sha256": "729e6ad15ac45cef494bbc3ac43d710ef1c2ce6d619be002a6162fe9a086f018",
+      "canonical_source_sha256": "729e6ad15ac45cef494bbc3ac43d710ef1c2ce6d619be002a6162fe9a086f018"
+    },
+    "answers/geo-basics/what-is-an-ai-software-shortlist.md": {
+      "raw_source_sha256": "c53fb999b9de07417818e96bedd438b76488e5ee8a21cd1329e3ba586316ebcf",
+      "canonical_source_sha256": "c53fb999b9de07417818e96bedd438b76488e5ee8a21cd1329e3ba586316ebcf"
+    },
+    "answers/geo-basics/what-jobs-involve-answer-engine-optimization.md": {
+      "raw_source_sha256": "eb19d22b8df5c1542d37cefbedb1b9d84265fbb01ac6a2302b447ad8791e5620",
+      "canonical_source_sha256": "eb19d22b8df5c1542d37cefbedb1b9d84265fbb01ac6a2302b447ad8791e5620"
+    },
+    "answers/geo-basics/what-platform-scores-competitors-on-generative-engine-prominence.md": {
+      "raw_source_sha256": "e1b44350bd40ab78e1ffdbfc17e9b898862f4f956c8ba438b76029d77dd6ce55",
+      "canonical_source_sha256": "e1b44350bd40ab78e1ffdbfc17e9b898862f4f956c8ba438b76029d77dd6ce55"
+    },
+    "answers/geo-basics/what-seo-prompts-can-i-use-with-chatgpt.md": {
+      "raw_source_sha256": "6b94a10bd57466d05d382f7c7af09c96a9a4a8ca933deb3fb3974e37f5199ca5",
+      "canonical_source_sha256": "6b94a10bd57466d05d382f7c7af09c96a9a4a8ca933deb3fb3974e37f5199ca5"
+    },
+    "answers/geo-basics/what-should-i-learn-for-technical-seo-aeo-and-geo.md": {
+      "raw_source_sha256": "d4a7e11947ba11b329acd03c401069dc20bb6e6ee020873d49e31796a00099ba",
+      "canonical_source_sha256": "d4a7e11947ba11b329acd03c401069dc20bb6e6ee020873d49e31796a00099ba"
+    },
+    "answers/geo-basics/what-sizes-of-dental-practice-use-dentrix-ascend-for-scheduling-and-bi.md": {
+      "raw_source_sha256": "3d9a7fc4dbfc81831f94513a3bc3b9e3b81cd8b5ddec9a085d539d505535fd60",
+      "canonical_source_sha256": "3d9a7fc4dbfc81831f94513a3bc3b9e3b81cd8b5ddec9a085d539d505535fd60"
+    },
+    "answers/geo-basics/where-can-i-find-an-ai-search-visibility-expert-near-me.md": {
+      "raw_source_sha256": "70dd15814baf0c11bc9e7ec214ddc98ed2c839b5c0db158eaea7f9cdeffca6b4",
+      "canonical_source_sha256": "70dd15814baf0c11bc9e7ec214ddc98ed2c839b5c0db158eaea7f9cdeffca6b4"
+    },
+    "answers/geo-basics/which-ai-based-crm-is-the-best.md": {
+      "raw_source_sha256": "7143197dc3895553c2ce5985f12e0301b2451695898eda25bce8c311b34d2829",
+      "canonical_source_sha256": "7143197dc3895553c2ce5985f12e0301b2451695898eda25bce8c311b34d2829"
+    },
+    "answers/geo-basics/which-ai-is-best-for-seo.md": {
+      "raw_source_sha256": "5cd8727e1fa4839200713fda425a3b0708f1c0b26c2c825dfd17f841f54d73e2",
+      "canonical_source_sha256": "5cd8727e1fa4839200713fda425a3b0708f1c0b26c2c825dfd17f841f54d73e2"
+    },
+    "answers/geo-basics/which-ai-tools-for-analyzing-online-visibility-are-available-in-the-uk.md": {
+      "raw_source_sha256": "0efc19dd0195cfae10a5e01b486544feb979f178cfde5bbcbc951c7134540ea3",
+      "canonical_source_sha256": "0efc19dd0195cfae10a5e01b486544feb979f178cfde5bbcbc951c7134540ea3"
+    },
+    "answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare.md": {
+      "raw_source_sha256": "a6e4f3975ed70799c981d5d543a898f2558b32e95995f1b37261ba38239a5ab9",
+      "canonical_source_sha256": "a6e4f3975ed70799c981d5d543a898f2558b32e95995f1b37261ba38239a5ab9"
+    },
+    "answers/geo-basics/which-tools-combine-ai-visibility-and-social-listening.md": {
+      "raw_source_sha256": "433a7e093ff19fcab503aff0384668864340dbbd101964703d57f6736ee2a9ad",
+      "canonical_source_sha256": "433a7e093ff19fcab503aff0384668864340dbbd101964703d57f6736ee2a9ad"
+    },
+    "answers/geo-basics/who-has-practical-experience-implementing-geo-or-aeo.md": {
+      "raw_source_sha256": "8da4a6944c2c44de741f322b4409781707e40fdb5aa282727bb706e03151878c",
+      "canonical_source_sha256": "8da4a6944c2c44de741f322b4409781707e40fdb5aa282727bb706e03151878c"
+    },
+    "answers/geo-basics/who-has-the-best-geo-results-in-competitive-industries.md": {
+      "raw_source_sha256": "cb2fb8124c016b0c51e4e4d9e75d20cb99d7b27d65288b3439ccb0a7d0681cc3",
+      "canonical_source_sha256": "cb2fb8124c016b0c51e4e4d9e75d20cb99d7b27d65288b3439ccb0a7d0681cc3"
+    },
+    "answers/geo-basics/why-can-the-same-ai-question-produce-different-names.md": {
+      "raw_source_sha256": "18591db04b2cb29f5ed78b92810ec28d3df5034c09c10572dd91c85c49700188",
+      "canonical_source_sha256": "18591db04b2cb29f5ed78b92810ec28d3df5034c09c10572dd91c85c49700188"
+    },
+    "answers/geo-basics/why-does-the-buyer-question-matter-to-an-ai-shortlist.md": {
+      "raw_source_sha256": "3105b9a375e1404d8655f5b720c77ca794b274732ce5396514ba414ebe0c76ab",
+      "canonical_source_sha256": "3105b9a375e1404d8655f5b720c77ca794b274732ce5396514ba414ebe0c76ab"
+    },
+    "answers/geo-basics/will-crm-get-replaced-by-ai.md": {
+      "raw_source_sha256": "45840aa24539fa861f88fee3a09aef87a8f63391422e3280c5be47f05ecccccc",
+      "canonical_source_sha256": "45840aa24539fa861f88fee3a09aef87a8f63391422e3280c5be47f05ecccccc"
+    },
+    "answers/google-ai/are-google-ai-overviews-available-in-france.md": {
+      "raw_source_sha256": "5e49aad8401b81068ab578868b8a67291fc10cc622ea3237ca7ed6bc3650b28b",
+      "canonical_source_sha256": "5e49aad8401b81068ab578868b8a67291fc10cc622ea3237ca7ed6bc3650b28b"
+    },
+    "answers/google-ai/can-ads-appear-in-google-ai-overviews.md": {
+      "raw_source_sha256": "3eaf764df225434ef6cdf19451f1249d290f21ab83b9707ad35751614f42ca90",
+      "canonical_source_sha256": "3eaf764df225434ef6cdf19451f1249d290f21ab83b9707ad35751614f42ca90"
+    },
+    "answers/google-ai/can-i-disable-google-ai-overviews.md": {
+      "raw_source_sha256": "2d2a54329ef6aeed07a901d153817363ad926920a8f3844847821b7f3b48143b",
+      "canonical_source_sha256": "2d2a54329ef6aeed07a901d153817363ad926920a8f3844847821b7f3b48143b"
+    },
+    "answers/google-ai/does-google-extended-control-ai-overview-or-ai-mode-visibility.md": {
+      "raw_source_sha256": "ecbf0ed954a5b86a9c6e1343e6727ada939fb897f8949f4b3260200886f849f0",
+      "canonical_source_sha256": "ecbf0ed954a5b86a9c6e1343e6727ada939fb897f8949f4b3260200886f849f0"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-affect-website-visibility.md": {
+      "raw_source_sha256": "957c99e616cbce375b2cf817a054936e99cb7e412a9d8a3c30ad353a1091e82c",
+      "canonical_source_sha256": "957c99e616cbce375b2cf817a054936e99cb7e412a9d8a3c30ad353a1091e82c"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-and-ai-mode-compare.md": {
+      "raw_source_sha256": "962ec307b56dde559ce0920dacb73538111e689ccd92f4f53bee50790fd2363b",
+      "canonical_source_sha256": "962ec307b56dde559ce0920dacb73538111e689ccd92f4f53bee50790fd2363b"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-and-generative-ui-relate.md": {
+      "raw_source_sha256": "33b531aba6291ba019e5166687eb78beea3be2adab4e149a13f9d1b151c28125",
+      "canonical_source_sha256": "33b531aba6291ba019e5166687eb78beea3be2adab4e149a13f9d1b151c28125"
+    },
+    "answers/google-ai/how-do-google-ai-overviews-choose-sources.md": {
+      "raw_source_sha256": "d1658380c01752588c1ab3e4df2afccabc05479d2242788477c6afe541f6f9a1",
+      "canonical_source_sha256": "d1658380c01752588c1ab3e4df2afccabc05479d2242788477c6afe541f6f9a1"
+    },
+    "answers/google-ai/how-do-i-get-a-google-ai-overview.md": {
+      "raw_source_sha256": "40407cf03e7e66c0c4993d6807ae267b3c6c9363aed984d9f0464b2b4a80505a",
+      "canonical_source_sha256": "40407cf03e7e66c0c4993d6807ae267b3c6c9363aed984d9f0464b2b4a80505a"
+    },
+    "answers/google-ai/how-do-people-use-google-ai-mode.md": {
+      "raw_source_sha256": "c3c91c996599f7740d36719ee587b97f26cafd45b9955ab19702e6bf822730d0",
+      "canonical_source_sha256": "c3c91c996599f7740d36719ee587b97f26cafd45b9955ab19702e6bf822730d0"
+    },
+    "answers/google-ai/how-does-google-ai-mode-change-keyword-research.md": {
+      "raw_source_sha256": "fe7e668a8c1ce7c560e7aefbf231200dba2f2404082c2af1cb79719295be6974",
+      "canonical_source_sha256": "fe7e668a8c1ce7c560e7aefbf231200dba2f2404082c2af1cb79719295be6974"
+    },
+    "answers/google-ai/how-does-google-ai-mode-choose-cited-sources.md": {
+      "raw_source_sha256": "826cba2b7a82d40676e80d1b5386e7af7cab654dcce7fd5f9f46e820bb380001",
+      "canonical_source_sha256": "826cba2b7a82d40676e80d1b5386e7af7cab654dcce7fd5f9f46e820bb380001"
+    },
+    "answers/google-ai/is-the-ai-overview-gone.md": {
+      "raw_source_sha256": "386c39b38907c6a43de3613dd4c5dd09c96ea339b1fd22a5655e30e4ad0e7a62",
+      "canonical_source_sha256": "386c39b38907c6a43de3613dd4c5dd09c96ea339b1fd22a5655e30e4ad0e7a62"
+    },
+    "answers/google-ai/is-there-an-api-for-google-ai-overviews.md": {
+      "raw_source_sha256": "132031172d1e28c0a15376f28f8f72c5b8dcfa6d271092bd1f2078576ca5fc06",
+      "canonical_source_sha256": "132031172d1e28c0a15376f28f8f72c5b8dcfa6d271092bd1f2078576ca5fc06"
+    },
+    "answers/google-ai/should-ai-overview-rates-include-searches-without-an-overview.md": {
+      "raw_source_sha256": "1f06c410834a2a06aeb0f0aa57e93df9b3bb864c882db211a5d851d4ac6c053e",
+      "canonical_source_sha256": "1f06c410834a2a06aeb0f0aa57e93df9b3bb864c882db211a5d851d4ac6c053e"
+    },
+    "answers/google-ai/what-is-a-google-ai-overview.md": {
+      "raw_source_sha256": "c1dcf41d24dd661ece41bf5136d2cec24cc61b1174dca86991dbc1a194cead04",
+      "canonical_source_sha256": "c1dcf41d24dd661ece41bf5136d2cec24cc61b1174dca86991dbc1a194cead04"
+    },
+    "answers/google-ai/what-is-deep-search-in-google-ai-mode.md": {
+      "raw_source_sha256": "c99f3c7cf1897ba456a47ab3d6b268d52d44307d3c30195499959257467380b3",
+      "canonical_source_sha256": "c99f3c7cf1897ba456a47ab3d6b268d52d44307d3c30195499959257467380b3"
+    },
+    "answers/google-ai/what-is-google-ai-mode.md": {
+      "raw_source_sha256": "cc9ce6d634b3cec070eb778ae088567daeafc49dc5189c480dcf007af78bfbea",
+      "canonical_source_sha256": "cc9ce6d634b3cec070eb778ae088567daeafc49dc5189c480dcf007af78bfbea"
+    },
+    "answers/google-ai/which-construction-software-does-google-ai-overviews-name.md": {
+      "raw_source_sha256": "85002e645ab5132716fa5164f904afe7ef327e261ed35952227e1625cb55e997",
+      "canonical_source_sha256": "85002e645ab5132716fa5164f904afe7ef327e261ed35952227e1625cb55e997"
+    },
+    "answers/google-ai/which-crm-software-does-google-ai-overviews-name.md": {
+      "raw_source_sha256": "a67e68715f1846748aaab87e090970f0d512d494a6070592096a00623de1e9e4",
+      "canonical_source_sha256": "a67e68715f1846748aaab87e090970f0d512d494a6070592096a00623de1e9e4"
+    },
+    "answers/google-ai/which-dental-practice-software-does-google-ai-overviews-name.md": {
+      "raw_source_sha256": "b7233ea74760d829e90f2973c051b9a5dcac728577514209c2bf25643798bc3f",
+      "canonical_source_sha256": "b7233ea74760d829e90f2973c051b9a5dcac728577514209c2bf25643798bc3f"
+    },
+    "answers/google-ai/which-field-service-software-does-google-ai-mode-name.md": {
+      "raw_source_sha256": "cc95ec8c0f18f053f4d56cb2f167350ed90b7412197f34e7fd54275f49a94877",
+      "canonical_source_sha256": "cc95ec8c0f18f053f4d56cb2f167350ed90b7412197f34e7fd54275f49a94877"
+    },
+    "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name.md": {
+      "raw_source_sha256": "e5dbe52f136b414cce0ecbf90e18856ac66211e4a8475eb1c659ae03f1679f70",
+      "canonical_source_sha256": "e5dbe52f136b414cce0ecbf90e18856ac66211e4a8475eb1c659ae03f1679f70"
+    },
+    "answers/google-ai/which-software-tracks-brand-rankings-in-google-ai-overviews-and-bing-c.md": {
+      "raw_source_sha256": "519aa292984cdea9de299ac0bcf1e0a0498e366cf0379af7ce35710b8997b24c",
+      "canonical_source_sha256": "519aa292984cdea9de299ac0bcf1e0a0498e366cf0379af7ce35710b8997b24c"
+    },
+    "answers/google-ai/which-veterinary-software-does-google-ai-mode-name.md": {
+      "raw_source_sha256": "b084133b990b506dfdcd2b7694d38dd246d2aca2dd4b8fb1c546619149138d16",
+      "canonical_source_sha256": "b084133b990b506dfdcd2b7694d38dd246d2aca2dd4b8fb1c546619149138d16"
+    },
+    "answers/google-ai/why-does-google-ai-overviews-not-appear-for-every-search.md": {
+      "raw_source_sha256": "6fb0d0e711fc5e50e122f954eae96da6092385963e0572a68c885626beb24852",
+      "canonical_source_sha256": "6fb0d0e711fc5e50e122f954eae96da6092385963e0572a68c885626beb24852"
+    },
+    "answers/google-ai/why-is-google-ai-mode-not-working.md": {
+      "raw_source_sha256": "dbff5486a8698e2977ea873528b11419b494570a7cba29f4741108dd96ec7b03",
+      "canonical_source_sha256": "dbff5486a8698e2977ea873528b11419b494570a7cba29f4741108dd96ec7b03"
+    },
+    "answers/industries/crm-software-chatgpt-free.md": {
+      "raw_source_sha256": "4b01a59446443667f78010b8c4ea0592b04e52e601e84f015fe0dda4ea0543bb",
+      "canonical_source_sha256": "4b01a59446443667f78010b8c4ea0592b04e52e601e84f015fe0dda4ea0543bb"
+    },
+    "answers/industries/crm-software-chatgpt-project-management.md": {
+      "raw_source_sha256": "5c3a8642616eb4c753e151063903563704278102a179978a56fab881d6a23988",
+      "canonical_source_sha256": "5c3a8642616eb4c753e151063903563704278102a179978a56fab881d6a23988"
+    },
+    "answers/industries/crm-software-chatgpt-reddit.md": {
+      "raw_source_sha256": "c24409e9326f5fb873a74935f2c6e944afaeb39e390fa28a197569d171ff76cf",
+      "canonical_source_sha256": "c24409e9326f5fb873a74935f2c6e944afaeb39e390fa28a197569d171ff76cf"
+    },
+    "answers/industries/dealership-software-chatgpt-project-management.md": {
+      "raw_source_sha256": "f96b7263e1f77d0a247cbe0443ca267bdf6e4b113abdee5a6517e887c7af7e38",
+      "canonical_source_sha256": "f96b7263e1f77d0a247cbe0443ca267bdf6e4b113abdee5a6517e887c7af7e38"
+    },
+    "answers/industries/digitail-vs-ezyvet-for-ai-native-veterinary-practice-management-with-t.md": {
+      "raw_source_sha256": "017e5e2610016d099bbe9b21050621f5b4c39da37002fd89daaa5bc909fc9c3d",
+      "canonical_source_sha256": "017e5e2610016d099bbe9b21050621f5b4c39da37002fd89daaa5bc909fc9c3d"
+    },
+    "answers/industries/does-housecall-pro-provide-field-service-management-software-for-home.md": {
+      "raw_source_sha256": "2808978884b8e216e6dec7477d2e5da22b04663faf398c78bfeefdd52e5d9d10",
+      "canonical_source_sha256": "2808978884b8e216e6dec7477d2e5da22b04663faf398c78bfeefdd52e5d9d10"
+    },
+    "answers/industries/hotel-property-management-software-chatgpt-free.md": {
+      "raw_source_sha256": "f69a4045f4ee364b4f8aedb3859e4da12e96f6df1345f994da652c3c5e2337ee",
+      "canonical_source_sha256": "f69a4045f4ee364b4f8aedb3859e4da12e96f6df1345f994da652c3c5e2337ee"
+    },
+    "answers/industries/insurance-agency-software-chatgpt-project-management.md": {
+      "raw_source_sha256": "35f80b534706840f9aadd01dc7eed24d7f7a41a694bcde9afa36e4ca3d2c1032",
+      "canonical_source_sha256": "35f80b534706840f9aadd01dc7eed24d7f7a41a694bcde9afa36e4ca3d2c1032"
+    },
+    "answers/industries/is-dentally-a-good-fit-for-uk-dentists-running-a-cloud-based-practice.md": {
+      "raw_source_sha256": "854c637a502051344eebb629c2e564b326e6171b29abb61343fa5e10aa2472a5",
+      "canonical_source_sha256": "854c637a502051344eebb629c2e564b326e6171b29abb61343fa5e10aa2472a5"
+    },
+    "answers/industries/legal-practice-software-chatgpt-free.md": {
+      "raw_source_sha256": "068f446ab586b4e95579c1f0cc011a1bb6e59db72c4905681ff4d1a72aef53bc",
+      "canonical_source_sha256": "068f446ab586b4e95579c1f0cc011a1bb6e59db72c4905681ff4d1a72aef53bc"
+    },
+    "answers/industries/loan-origination-software-chatgpt-free.md": {
+      "raw_source_sha256": "e138ede58d0d38453a4de5533ae27f787af8108464a843913003f8946c0d02b6",
+      "canonical_source_sha256": "e138ede58d0d38453a4de5533ae27f787af8108464a843913003f8946c0d02b6"
+    },
+    "answers/industries/radiology-software-chatgpt-project-management.md": {
+      "raw_source_sha256": "8557f9667b69c5213aaa71c3e9dc59eb09c7c7e8961946a418547c3e295536d9",
+      "canonical_source_sha256": "8557f9667b69c5213aaa71c3e9dc59eb09c7c7e8961946a418547c3e295536d9"
+    },
+    "answers/industries/transportation-management-software-chatgpt-free.md": {
+      "raw_source_sha256": "745230d0ce60c1b768dcdfc262c080737b6e4d09546150fdbcf29137c3888943",
+      "canonical_source_sha256": "745230d0ce60c1b768dcdfc262c080737b6e4d09546150fdbcf29137c3888943"
+    },
+    "answers/industries/what-are-the-top-five-project-management-software-options.md": {
+      "raw_source_sha256": "2f0ef2fa2878d859ca5903b4a4a72599fe503e3824dd66ed4cfc6050002971f6",
+      "canonical_source_sha256": "2f0ef2fa2878d859ca5903b4a4a72599fe503e3824dd66ed4cfc6050002971f6"
+    },
+    "answers/industries/what-do-ai-answers-say-about-property-management-software.md": {
+      "raw_source_sha256": "0e4be590012c4c0907ea762b1de6f980221c903151464a8390b01e0685ec090b",
+      "canonical_source_sha256": "0e4be590012c4c0907ea762b1de6f980221c903151464a8390b01e0685ec090b"
+    },
+    "answers/industries/what-should-i-compare-when-choosing-a-crm-for-outbound-calls.md": {
+      "raw_source_sha256": "c9121a656d3f72b47fd976e093daca8c8ed87e8ae075f8f5c5956443facac64f",
+      "canonical_source_sha256": "c9121a656d3f72b47fd976e093daca8c8ed87e8ae075f8f5c5956443facac64f"
+    },
+    "answers/industries/which-crm-software-should-a-buyer-compare.md": {
+      "raw_source_sha256": "f7c64605f510773086e81a02f23b3ae9dc86751ca1c0da80ce542ea0273fb0d6",
+      "canonical_source_sha256": "f7c64605f510773086e81a02f23b3ae9dc86751ca1c0da80ce542ea0273fb0d6"
+    },
+    "answers/industries/which-industrial-ai-platforms-integrate-best-with-erp-eam-fsm-and-proj.md": {
+      "raw_source_sha256": "1a8c8d6eedea4353b0a2c591f7ee5c61b815ac8f7aa1898dc2f2c72d7cb8a832",
+      "canonical_source_sha256": "1a8c8d6eedea4353b0a2c591f7ee5c61b815ac8f7aa1898dc2f2c72d7cb8a832"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-construction-software.md": {
+      "raw_source_sha256": "2abd81bcc8b8461f6b1a57c9c44c0f0a91dc857a2f20fedfc1e44f799b6b780e",
+      "canonical_source_sha256": "2abd81bcc8b8461f6b1a57c9c44c0f0a91dc857a2f20fedfc1e44f799b6b780e"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-crm-software.md": {
+      "raw_source_sha256": "2a5a3d24baf5493f3e4b97d19198d1a517fe196dcb8049d2587572485fd62a49",
+      "canonical_source_sha256": "2a5a3d24baf5493f3e4b97d19198d1a517fe196dcb8049d2587572485fd62a49"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-dealership-software.md": {
+      "raw_source_sha256": "c6d90f43753bd5a1e9b6dfeb75abf8ab3ffb27e270a0b1735a127b109d9cdd30",
+      "canonical_source_sha256": "c6d90f43753bd5a1e9b6dfeb75abf8ab3ffb27e270a0b1735a127b109d9cdd30"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-dental-software.md": {
+      "raw_source_sha256": "c72ba88edbd0aab1b0b83281f1e915705ee745fe0f3569ea6b7870b02e37501d",
+      "canonical_source_sha256": "c72ba88edbd0aab1b0b83281f1e915705ee745fe0f3569ea6b7870b02e37501d"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-field-service-software.md": {
+      "raw_source_sha256": "baf4911e627204c792cdb3fde81df2ca36bf6ffd3df8118068ddbb7493e348f3",
+      "canonical_source_sha256": "baf4911e627204c792cdb3fde81df2ca36bf6ffd3df8118068ddbb7493e348f3"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-hotel-software.md": {
+      "raw_source_sha256": "fa802b6494a67fdea47b8710ce41d4f1fb1587c88a63c5ddb4b33f09100d5bc3",
+      "canonical_source_sha256": "fa802b6494a67fdea47b8710ce41d4f1fb1587c88a63c5ddb4b33f09100d5bc3"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-insurance-agency-software.md": {
+      "raw_source_sha256": "c2cf3496f5812671865deeec8c36b13fb6a1b2e96f9f33839a898645fc40c655",
+      "canonical_source_sha256": "c2cf3496f5812671865deeec8c36b13fb6a1b2e96f9f33839a898645fc40c655"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-legal-practice-software.md": {
+      "raw_source_sha256": "7d2a30a5683dd784972d26cbc08e4daa6e8cd201fea790d7db302680e2e9cfad",
+      "canonical_source_sha256": "7d2a30a5683dd784972d26cbc08e4daa6e8cd201fea790d7db302680e2e9cfad"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-loan-origination-software.md": {
+      "raw_source_sha256": "314babdd09a1a03283f1bf427fd72b7946ad14417ac9c5b3d5a582b1b5d7d601",
+      "canonical_source_sha256": "314babdd09a1a03283f1bf427fd72b7946ad14417ac9c5b3d5a582b1b5d7d601"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-project-management-software.md": {
+      "raw_source_sha256": "76ebe8cf5ce7b9175a10cfce4f85e6e6b4c62ffa5ddc03c9975f3dced2955516",
+      "canonical_source_sha256": "76ebe8cf5ce7b9175a10cfce4f85e6e6b4c62ffa5ddc03c9975f3dced2955516"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-radiology-software.md": {
+      "raw_source_sha256": "548acbc2376b8bf63549246ea8caaa42d5c831e7d3a0a7a4a8402912bc15b4f1",
+      "canonical_source_sha256": "548acbc2376b8bf63549246ea8caaa42d5c831e7d3a0a7a4a8402912bc15b4f1"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-transportation-software.md": {
+      "raw_source_sha256": "7112683b148bc8f49c3e30d11e71f8ed92fc9712614b99c3b8eba7e19b6621a1",
+      "canonical_source_sha256": "7112683b148bc8f49c3e30d11e71f8ed92fc9712614b99c3b8eba7e19b6621a1"
+    },
+    "answers/industries/which-sources-do-ai-answers-cite-for-veterinary-software.md": {
+      "raw_source_sha256": "ebf1e67b27c034b73aa40e72ad691c8ce8fe406c0eb4c20201ea5b6181720b42",
+      "canonical_source_sha256": "ebf1e67b27c034b73aa40e72ad691c8ce8fe406c0eb4c20201ea5b6181720b42"
+    },
+    "answers/industries/which-sources-does-ai-cite-for-property-management-software.md": {
+      "raw_source_sha256": "7da1e733e46d3432849956a6e67f5220d687b6db5dc7a77029662cbb82003cf0",
+      "canonical_source_sha256": "7da1e733e46d3432849956a6e67f5220d687b6db5dc7a77029662cbb82003cf0"
+    },
+    "answers/industries/why-is-my-construction-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "9472f834e55865158b5ecbc0ab9a4d2033cc25f934ddc656cbd004ad64918aa7",
+      "canonical_source_sha256": "9472f834e55865158b5ecbc0ab9a4d2033cc25f934ddc656cbd004ad64918aa7"
+    },
+    "answers/industries/why-is-my-crm-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "cb81d443a317f573d31aa1b74b619656258656fa6c71530e68a68dd139f0d907",
+      "canonical_source_sha256": "cb81d443a317f573d31aa1b74b619656258656fa6c71530e68a68dd139f0d907"
+    },
+    "answers/industries/why-is-my-dealership-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "e31da0be1a15ce5480d29bc0549a55c11c8db8ce204ae90fb7c9e632c9f5c77d",
+      "canonical_source_sha256": "e31da0be1a15ce5480d29bc0549a55c11c8db8ce204ae90fb7c9e632c9f5c77d"
+    },
+    "answers/industries/why-is-my-dental-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "892c12f7b2c6f1bc8fecf62cfbeb13d79ba44b94160ff7a214225eaeee5ca023",
+      "canonical_source_sha256": "892c12f7b2c6f1bc8fecf62cfbeb13d79ba44b94160ff7a214225eaeee5ca023"
+    },
+    "answers/industries/why-is-my-field-service-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "685eda3cc35685a7d3e17465c543bf495a0dcf3af2825cdb4cacd7579929b61a",
+      "canonical_source_sha256": "685eda3cc35685a7d3e17465c543bf495a0dcf3af2825cdb4cacd7579929b61a"
+    },
+    "answers/industries/why-is-my-hotel-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "1b13d02a8505180a76f8b07d7ee9b00062601686b323da032a8105d9878d1a63",
+      "canonical_source_sha256": "1b13d02a8505180a76f8b07d7ee9b00062601686b323da032a8105d9878d1a63"
+    },
+    "answers/industries/why-is-my-insurance-agency-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "5429b971aae4803173daf49b52199f0d5ccb707d393bb5323e1113a5dc7a749d",
+      "canonical_source_sha256": "5429b971aae4803173daf49b52199f0d5ccb707d393bb5323e1113a5dc7a749d"
+    },
+    "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "34e70807331cdfe7778903147ccfbbf126bd0170142c63d212ea24214ea9f2e1",
+      "canonical_source_sha256": "34e70807331cdfe7778903147ccfbbf126bd0170142c63d212ea24214ea9f2e1"
+    },
+    "answers/industries/why-is-my-loan-origination-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "14ff08a95a38926d00ad38f5dd0155bb438799ac0867b804a2b055cc68bfc5cd",
+      "canonical_source_sha256": "14ff08a95a38926d00ad38f5dd0155bb438799ac0867b804a2b055cc68bfc5cd"
+    },
+    "answers/industries/why-is-my-project-management-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "68ca9f77998a4ac2610d57afaa7fba65af722bd929589b226292a45ebf9f72b0",
+      "canonical_source_sha256": "68ca9f77998a4ac2610d57afaa7fba65af722bd929589b226292a45ebf9f72b0"
+    },
+    "answers/industries/why-is-my-property-management-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "a9f28f3d5cd65bc91b4d63df15631e5d02508ae8b757ec15dc357180d1be7843",
+      "canonical_source_sha256": "a9f28f3d5cd65bc91b4d63df15631e5d02508ae8b757ec15dc357180d1be7843"
+    },
+    "answers/industries/why-is-my-radiology-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "ae35f3a45a4356ed0a6625b20df0b5ed3e307576ea4c57309b49df1fc896f578",
+      "canonical_source_sha256": "ae35f3a45a4356ed0a6625b20df0b5ed3e307576ea4c57309b49df1fc896f578"
+    },
+    "answers/industries/why-is-my-transportation-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "33b4965ac217d6845d73d4033bf794d1344e3be30989fdac5b8ccf880bfff675",
+      "canonical_source_sha256": "33b4965ac217d6845d73d4033bf794d1344e3be30989fdac5b8ccf880bfff675"
+    },
+    "answers/industries/why-is-my-veterinary-software-missing-from-ai-answers.md": {
+      "raw_source_sha256": "ef52e572c5e50e66187f55211de23256e5b54ebff9faa898bb2c043b53252bb1",
+      "canonical_source_sha256": "ef52e572c5e50e66187f55211de23256e5b54ebff9faa898bb2c043b53252bb1"
+    },
+    "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies.md": {
+      "raw_source_sha256": "290dfc95ea255afceb67356f97fa010b10a4cd652fdf74c52df328534b1afb8e",
+      "canonical_source_sha256": "290dfc95ea255afceb67356f97fa010b10a4cd652fdf74c52df328534b1afb8e"
+    },
+    "answers/measurement/can-google-bing-and-llms-find-content-on-threads.md": {
+      "raw_source_sha256": "0a3afa2bf6e95f0278ff5f6c9ab7b5ca0f04142e0410b5cfe6c0ef43d6a45403",
+      "canonical_source_sha256": "0a3afa2bf6e95f0278ff5f6c9ab7b5ca0f04142e0410b5cfe6c0ef43d6a45403"
+    },
+    "answers/measurement/do-ai-product-answers-cite-reddit.md": {
+      "raw_source_sha256": "f6a2f7e85f03a718c8d3802d2625ad82b0256524a8fa6dcd3a033736200ed5ba",
+      "canonical_source_sha256": "f6a2f7e85f03a718c8d3802d2625ad82b0256524a8fa6dcd3a033736200ed5ba"
+    },
+    "answers/measurement/do-youtube-transcripts-affect-llm-citations.md": {
+      "raw_source_sha256": "002c62725c2a112c11e78962cdab951bb739f8d819d5c63755de30eb28e4f576",
+      "canonical_source_sha256": "002c62725c2a112c11e78962cdab951bb739f8d819d5c63755de30eb28e4f576"
+    },
+    "answers/measurement/does-medium-get-cited-in-ai-answers.md": {
+      "raw_source_sha256": "e220ab6bb28b422a9aa816bf66e46fbbb538a60e38b235360aac166d48ef7075",
+      "canonical_source_sha256": "e220ab6bb28b422a9aa816bf66e46fbbb538a60e38b235360aac166d48ef7075"
+    },
+    "answers/measurement/does-profound-provide-a-full-seo-audit-or-a-partial-audit.md": {
+      "raw_source_sha256": "b8d2155dc4c845b132412f84ed4d2041909fee9eac73c2f2e27fce9895b6fe7b",
+      "canonical_source_sha256": "b8d2155dc4c845b132412f84ed4d2041909fee9eac73c2f2e27fce9895b6fe7b"
+    },
+    "answers/measurement/how-accurate-are-geo-tools-across-different-industries.md": {
+      "raw_source_sha256": "1f11ad67bc084506e018c842c394c2affb18359e54c3bd77d91baeddc09ede10",
+      "canonical_source_sha256": "1f11ad67bc084506e018c842c394c2affb18359e54c3bd77d91baeddc09ede10"
+    },
+    "answers/measurement/how-can-a-buyer-verify-the-conclusion.md": {
+      "raw_source_sha256": "67745ee8279b46e942a1487e7a72cbd97e328f61aaf3756c279b2a59b22cb3b4",
+      "canonical_source_sha256": "67745ee8279b46e942a1487e7a72cbd97e328f61aaf3756c279b2a59b22cb3b4"
+    },
+    "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data.md": {
+      "raw_source_sha256": "af27366fe211d0b0239929fcfa67b67eb8fad7fd9cd19006167c99dd6eeb9568",
+      "canonical_source_sha256": "af27366fe211d0b0239929fcfa67b67eb8fad7fd9cd19006167c99dd6eeb9568"
+    },
+    "answers/measurement/how-can-i-check-ai-search-visibility.md": {
+      "raw_source_sha256": "30362ee56491ef6f7df811b482176e85bed41643aa492fa13c83159e9fc6a113",
+      "canonical_source_sha256": "30362ee56491ef6f7df811b482176e85bed41643aa492fa13c83159e9fc6a113"
+    },
+    "answers/measurement/how-can-i-check-whether-an-ai-citation-supports-its-claim.md": {
+      "raw_source_sha256": "218d9124eba20fff67a593c7e2c163620699db3afceb42253f2f4bb21152c066",
+      "canonical_source_sha256": "218d9124eba20fff67a593c7e2c163620699db3afceb42253f2f4bb21152c066"
+    },
+    "answers/measurement/how-can-i-defend-branded-search-results-against-lookalike-sites-that-c.md": {
+      "raw_source_sha256": "160c57dc74e2afd92f56a54fa7ad785947efb22e629825f925d410b3e97c3c00",
+      "canonical_source_sha256": "160c57dc74e2afd92f56a54fa7ad785947efb22e629825f925d410b3e97c3c00"
+    },
+    "answers/measurement/how-can-i-evaluate-hotwire-gaio-tech-as-an-ai-visibility-product.md": {
+      "raw_source_sha256": "b49b0e91fcc67731337aaf22ccbedcd80f34b7aa9890423274632016c44a1202",
+      "canonical_source_sha256": "b49b0e91fcc67731337aaf22ccbedcd80f34b7aa9890423274632016c44a1202"
+    },
+    "answers/measurement/how-can-i-track-brand-visibility-in-claude.md": {
+      "raw_source_sha256": "d0f97ed1c547aa7ee9ef5a04f07da3251cda2756c903e31cb99bee9031afe198",
+      "canonical_source_sha256": "d0f97ed1c547aa7ee9ef5a04f07da3251cda2756c903e31cb99bee9031afe198"
+    },
+    "answers/measurement/how-can-i-verify-that-an-ai-visibility-tracker-uses-live-answers.md": {
+      "raw_source_sha256": "8d7c0d07937329570f37ac750ff05d7b8c4409646769be23d54e17254bac7bf2",
+      "canonical_source_sha256": "8d7c0d07937329570f37ac750ff05d7b8c4409646769be23d54e17254bac7bf2"
+    },
+    "answers/measurement/how-can-server-logs-show-whether-ai-crawlers-request-llms-txt.md": {
+      "raw_source_sha256": "51cbfd3f9c6eeb801955364e8105c1995aea22b3e575b17292e99abae3c539da",
+      "canonical_source_sha256": "51cbfd3f9c6eeb801955364e8105c1995aea22b3e575b17292e99abae3c539da"
+    },
+    "answers/measurement/how-do-ads-in-google-ai-overviews-affect-organic-traffic.md": {
+      "raw_source_sha256": "64c16a04131e0960a6b6dac4b5e6b4448d3b8623255a90d68ddba534c23682ff",
+      "canonical_source_sha256": "64c16a04131e0960a6b6dac4b5e6b4448d3b8623255a90d68ddba534c23682ff"
+    },
+    "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m.md": {
+      "raw_source_sha256": "09b3abf93e1c5d88a78d83995f05c0a8ede63a317ea5a81e6f5d96edfa852b15",
+      "canonical_source_sha256": "09b3abf93e1c5d88a78d83995f05c0a8ede63a317ea5a81e6f5d96edfa852b15"
+    },
+    "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md": {
+      "raw_source_sha256": "07bd12f847d6d941466d0688cc36d49133518f48cc5edda1d1c5b0d61a348c52",
+      "canonical_source_sha256": "07bd12f847d6d941466d0688cc36d49133518f48cc5edda1d1c5b0d61a348c52"
+    },
+    "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit.md": {
+      "raw_source_sha256": "ba1ac8419209dd6a33b0e07649184b6d602b8dd5304943e880c5ccd28e00a241",
+      "canonical_source_sha256": "ba1ac8419209dd6a33b0e07649184b6d602b8dd5304943e880c5ccd28e00a241"
+    },
+    "answers/measurement/how-does-google-ai-mode-affect-site-clicks.md": {
+      "raw_source_sha256": "ca1f54a50a2f7752c8ec10b88114663ffa7938f907ff81f59d30aad5076fe78c",
+      "canonical_source_sha256": "ca1f54a50a2f7752c8ec10b88114663ffa7938f907ff81f59d30aad5076fe78c"
+    },
+    "answers/measurement/how-many-repeated-runs-make-an-ai-visibility-rate-useful.md": {
+      "raw_source_sha256": "bcaf4372173e5111a26c9509a86a1fbfa90a4590f5211e51904d2293fac5fd3a",
+      "canonical_source_sha256": "bcaf4372173e5111a26c9509a86a1fbfa90a4590f5211e51904d2293fac5fd3a"
+    },
+    "answers/measurement/how-should-a-report-present-these-outcomes.md": {
+      "raw_source_sha256": "cd547660a87a5d3dbdba95553aefec4661894ad3c5cecf581ae8e8b420573c53",
+      "canonical_source_sha256": "cd547660a87a5d3dbdba95553aefec4661894ad3c5cecf581ae8e8b420573c53"
+    },
+    "answers/measurement/how-should-i-check-an-ai-baseline-before-changing-content.md": {
+      "raw_source_sha256": "20f5415572dd88e390d09303995d1553b7d00d6578cf88d1e662e6213ad7110b",
+      "canonical_source_sha256": "20f5415572dd88e390d09303995d1553b7d00d6578cf88d1e662e6213ad7110b"
+    },
+    "answers/measurement/how-should-the-report-show-visits.md": {
+      "raw_source_sha256": "da1af971f29b322404c6edc663731ac75e6f1dae9678deef9dbabdf06e79f0dc",
+      "canonical_source_sha256": "da1af971f29b322404c6edc663731ac75e6f1dae9678deef9dbabdf06e79f0dc"
+    },
+    "answers/measurement/how-would-you-optimize-an-e-commerce-product-page-for-google-and-ai-se.md": {
+      "raw_source_sha256": "38c3dbccbe5e7bea753e326494656ec39dd0c00c2c1b5743ecb945881ba7e25b",
+      "canonical_source_sha256": "38c3dbccbe5e7bea753e326494656ec39dd0c00c2c1b5743ecb945881ba7e25b"
+    },
+    "answers/measurement/if-llms-txt-has-no-impact-on-ai-visibility-why-did-google-add-it-into.md": {
+      "raw_source_sha256": "d51d55d572ea5d6783e5e6dbd0a69bff86613385fa63e8aa43c41fa3736cbffd",
+      "canonical_source_sha256": "d51d55d572ea5d6783e5e6dbd0a69bff86613385fa63e8aa43c41fa3736cbffd"
+    },
+    "answers/measurement/is-geo-more-effective-than-seo.md": {
+      "raw_source_sha256": "a2f059a4122527ee8344da14fa877c8eee2aa8871ebd7630bc9b745e74e5a065",
+      "canonical_source_sha256": "a2f059a4122527ee8344da14fa877c8eee2aa8871ebd7630bc9b745e74e5a065"
+    },
+    "answers/measurement/what-ai-visibility-products-does-hotwire-gaio-tech-offer.md": {
+      "raw_source_sha256": "dfd8f9d0f56ef9af35e1614249623dc7251fa20c037278896e002c2abd2d5431",
+      "canonical_source_sha256": "dfd8f9d0f56ef9af35e1614249623dc7251fa20c037278896e002c2abd2d5431"
+    },
+    "answers/measurement/what-can-search-console-show-about-ai-visibility-queries.md": {
+      "raw_source_sha256": "c925ec34a5b2f311bc42bb1767d7e62959c9767ff5708fca10c294a2fb19e1a0",
+      "canonical_source_sha256": "c925ec34a5b2f311bc42bb1767d7e62959c9767ff5708fca10c294a2fb19e1a0"
+    },
+    "answers/measurement/what-counts-as-a-brand-mention-in-an-ai-answer.md": {
+      "raw_source_sha256": "77fc5f6cc8ae4f47412048536cbbcaac0773bc6ce1f4b2a0477369b9705311ba",
+      "canonical_source_sha256": "77fc5f6cc8ae4f47412048536cbbcaac0773bc6ce1f4b2a0477369b9705311ba"
+    },
+    "answers/measurement/what-counts-as-an-own-domain-citation-in-an-ai-answer.md": {
+      "raw_source_sha256": "08e8b6a72313325c93c53eb3386b524997452fd08bb0ab7eda82608d886a0ac3",
+      "canonical_source_sha256": "08e8b6a72313325c93c53eb3386b524997452fd08bb0ab7eda82608d886a0ac3"
+    },
+    "answers/measurement/what-did-the-buyer-report.md": {
+      "raw_source_sha256": "ef6a7d4a3c81952ae9211cca7c496f627f23cb1e138f3093beaf8009b5ee1256",
+      "canonical_source_sha256": "ef6a7d4a3c81952ae9211cca7c496f627f23cb1e138f3093beaf8009b5ee1256"
+    },
+    "answers/measurement/what-does-a-recorded-ai-referral-establish.md": {
+      "raw_source_sha256": "62c484cc46a04bf82a9e1a7038009fd35fda2850bbfe41d343226c2e45fdf7e6",
+      "canonical_source_sha256": "62c484cc46a04bf82a9e1a7038009fd35fda2850bbfe41d343226c2e45fdf7e6"
+    },
+    "answers/measurement/what-does-athena-publish-about-data-accuracy.md": {
+      "raw_source_sha256": "82febd7337410ee28dd73fcbbe4e253493e4b6e1c454c8d39f8389139d2e7e32",
+      "canonical_source_sha256": "82febd7337410ee28dd73fcbbe4e253493e4b6e1c454c8d39f8389139d2e7e32"
+    },
+    "answers/measurement/what-does-hotwire-gaio-tech-publish-about-data-accuracy.md": {
+      "raw_source_sha256": "558123742c249706102bfa05808e566baf15768bffa428cbd6601cf2e55b74bf",
+      "canonical_source_sha256": "558123742c249706102bfa05808e566baf15768bffa428cbd6601cf2e55b74bf"
+    },
+    "answers/measurement/what-does-hotwire-gaio-tech-publish-about-model-coverage.md": {
+      "raw_source_sha256": "dded5b973c3c717dcf04ea6b5d42365ae0b3b80a719267f1eb1f6dff288ae803",
+      "canonical_source_sha256": "dded5b973c3c717dcf04ea6b5d42365ae0b3b80a719267f1eb1f6dff288ae803"
+    },
+    "answers/measurement/what-does-the-business-record-establish.md": {
+      "raw_source_sha256": "a980e651b6ec9eda5ab8ae102e42b0dbb594ddea65981ab5ef590b25f3ebf77e",
+      "canonical_source_sha256": "a980e651b6ec9eda5ab8ae102e42b0dbb594ddea65981ab5ef590b25f3ebf77e"
+    },
+    "answers/measurement/what-evidence-can-connect-ai-visibility-with-pipeline.md": {
+      "raw_source_sha256": "019df46383c8cafe5680a9418442bbffeb891bfd0bccda23bd29c1c73f379032",
+      "canonical_source_sha256": "019df46383c8cafe5680a9418442bbffeb891bfd0bccda23bd29c1c73f379032"
+    },
+    "answers/measurement/what-information-belongs-in-a-public-report.md": {
+      "raw_source_sha256": "d9cf06abb78afcb66ee408cafd3c345641907dc0a34ad11ca11e6a6650e366df",
+      "canonical_source_sha256": "d9cf06abb78afcb66ee408cafd3c345641907dc0a34ad11ca11e6a6650e366df"
+    },
+    "answers/measurement/what-is-a-good-ai-visibility-score.md": {
+      "raw_source_sha256": "a1b13ca6787c00a6ba26ca9e40cd6d9bcc5118e0f08e885ff38e42b307be2cbe",
+      "canonical_source_sha256": "a1b13ca6787c00a6ba26ca9e40cd6d9bcc5118e0f08e885ff38e42b307be2cbe"
+    },
+    "answers/measurement/what-is-an-ai-visibility-index.md": {
+      "raw_source_sha256": "36c25f09cb4cc9f0f51f890b4b65cab02ae26f95d3b08a7dc82c8598bb6c82a5",
+      "canonical_source_sha256": "36c25f09cb4cc9f0f51f890b4b65cab02ae26f95d3b08a7dc82c8598bb6c82a5"
+    },
+    "answers/measurement/what-should-a-client-ai-visibility-report-contain.md": {
+      "raw_source_sha256": "c02460b845fd63e678beadbb31e2e0d74d95fa18b11a48262267f37cd6963231",
+      "canonical_source_sha256": "c02460b845fd63e678beadbb31e2e0d74d95fa18b11a48262267f37cd6963231"
+    },
+    "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re.md": {
+      "raw_source_sha256": "e6af0fa0909b0b7ad9506dcab50cfb36e05a3ae93f9b3014b3e708e70d1b2a78",
+      "canonical_source_sha256": "e6af0fa0909b0b7ad9506dcab50cfb36e05a3ae93f9b3014b3e708e70d1b2a78"
+    },
+    "answers/measurement/which-ai-visibility-platforms-support-multiple-agency-clients.md": {
+      "raw_source_sha256": "a4fcff68a0c615aa544b2a73c75e97c6cc1d9c25a981f80656ba05875660ec52",
+      "canonical_source_sha256": "a4fcff68a0c615aa544b2a73c75e97c6cc1d9c25a981f80656ba05875660ec52"
+    },
+    "answers/measurement/which-ai-visibility-signals-should-shape-an-seo-roadmap.md": {
+      "raw_source_sha256": "645230d443686b46321f518b1ea89d4c4827b58ea479052fb3031249cfa94f2e",
+      "canonical_source_sha256": "645230d443686b46321f518b1ea89d4c4827b58ea479052fb3031249cfa94f2e"
+    },
+    "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify.md": {
+      "raw_source_sha256": "2775308c1321ecd3fa17f6cdd0362f14430f5259fb3ca3f5cc0dbd889dc4febf",
+      "canonical_source_sha256": "2775308c1321ecd3fa17f6cdd0362f14430f5259fb3ca3f5cc0dbd889dc4febf"
+    },
+    "answers/measurement/which-measures-belong-beside-one-another.md": {
+      "raw_source_sha256": "5e7785b8a1602e2b5fafb20ec255c256a3c580e73dd5eff51d498c2d03aa7082",
+      "canonical_source_sha256": "5e7785b8a1602e2b5fafb20ec255c256a3c580e73dd5eff51d498c2d03aa7082"
+    },
+    "answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md": {
+      "raw_source_sha256": "a7d9316e26f03fe43d21c9140d63af5d9ccb38d06dff929c858f3c94bb96f005",
+      "canonical_source_sha256": "a7d9316e26f03fe43d21c9140d63af5d9ccb38d06dff929c858f3c94bb96f005"
+    },
+    "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt.md": {
+      "raw_source_sha256": "73fb43ce2224acb5e454c1159287ddce0c923cfca12ea91750fac745f49c072f",
+      "canonical_source_sha256": "73fb43ce2224acb5e454c1159287ddce0c923cfca12ea91750fac745f49c072f"
+    },
+    "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple.md": {
+      "raw_source_sha256": "c34a4c841f1b18fd527750073bc5c71dfc6ccd90f1aec5d871510b51c740600b",
+      "canonical_source_sha256": "c34a4c841f1b18fd527750073bc5c71dfc6ccd90f1aec5d871510b51c740600b"
+    },
+    "answers/perplexity/how-does-perplexity-work.md": {
+      "raw_source_sha256": "2e4cf4c190bae538f78fcd8416d4324bb111b60ffd08a5d06cd46c55d0831f8b",
+      "canonical_source_sha256": "2e4cf4c190bae538f78fcd8416d4324bb111b60ffd08a5d06cd46c55d0831f8b"
+    },
+    "answers/perplexity/which-construction-software-does-perplexity-recommend.md": {
+      "raw_source_sha256": "8263dfdf4afe4003815d9fdecac12ef6e0ec380135787a3e9726a2c59b536da9",
+      "canonical_source_sha256": "8263dfdf4afe4003815d9fdecac12ef6e0ec380135787a3e9726a2c59b536da9"
+    },
+    "answers/perplexity/which-crm-software-does-perplexity-recommend.md": {
+      "raw_source_sha256": "6b4c8332e3fdf8a9492ed2936dd094d8d006b0ce354ab25cc92879a36091bbd2",
+      "canonical_source_sha256": "6b4c8332e3fdf8a9492ed2936dd094d8d006b0ce354ab25cc92879a36091bbd2"
+    },
+    "answers/perplexity/which-dental-software-does-perplexity-recommend.md": {
+      "raw_source_sha256": "f0ed0715aa449cbb8501d4cc6d386f25566c7dc9e667254d59d57c3e8628646b",
+      "canonical_source_sha256": "f0ed0715aa449cbb8501d4cc6d386f25566c7dc9e667254d59d57c3e8628646b"
+    },
+    "answers/perplexity/which-field-service-software-does-perplexity-recommend.md": {
+      "raw_source_sha256": "7c1bca69d71903ba5ad560c4c1cb79d87723a6becb7b48c60ef1264ff890a8b5",
+      "canonical_source_sha256": "7c1bca69d71903ba5ad560c4c1cb79d87723a6becb7b48c60ef1264ff890a8b5"
+    },
+    "answers/perplexity/which-legal-practice-software-does-perplexity-recommend.md": {
+      "raw_source_sha256": "e65471336f177c7588755d6f2c1b44fcbbdbd064e1f9960e813d6a4efe791e60",
+      "canonical_source_sha256": "e65471336f177c7588755d6f2c1b44fcbbdbd064e1f9960e813d6a4efe791e60"
+    },
+    "answers/perplexity/which-project-management-software-does-perplexity-recommend.md": {
+      "raw_source_sha256": "c76307720f195bb696a59c49fbc9ccccd4985cea8798d65cc1aec89ed50a249f",
+      "canonical_source_sha256": "c76307720f195bb696a59c49fbc9ccccd4985cea8798d65cc1aec89ed50a249f"
+    },
+    "answers/perplexity/which-property-management-software-does-perplexity-recommend.md": {
+      "raw_source_sha256": "e98d9d64aec0ee7297c5934c7785861233a2db28327a63f1347e4935fcc8fe7e",
+      "canonical_source_sha256": "e98d9d64aec0ee7297c5934c7785861233a2db28327a63f1347e4935fcc8fe7e"
+    },
+    "answers/perplexity/which-radiology-software-does-perplexity-recommend.md": {
+      "raw_source_sha256": "fd0698eddbf12090e901e817e2d92e88153b8fb55f34af09835aef0b0b4aeee1",
+      "canonical_source_sha256": "fd0698eddbf12090e901e817e2d92e88153b8fb55f34af09835aef0b0b4aeee1"
+    },
+    "answers/perplexity/which-transportation-software-does-perplexity-recommend.md": {
+      "raw_source_sha256": "9288860f76d752453ce7bf4930b38cf0f8d24e30c56f309e233d1edee512f87c",
+      "canonical_source_sha256": "9288860f76d752453ce7bf4930b38cf0f8d24e30c56f309e233d1edee512f87c"
+    },
+    "answers/perplexity/which-veterinary-software-does-perplexity-recommend.md": {
+      "raw_source_sha256": "9fd9e2f0b6654f70776baae1894304796669f3e20ae916533674afe180494202",
+      "canonical_source_sha256": "9fd9e2f0b6654f70776baae1894304796669f3e20ae916533674afe180494202"
+    }
+  }
+}

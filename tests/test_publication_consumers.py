@@ -91,6 +91,23 @@ class ConsumerTests(unittest.TestCase):
         bad=xml.replace(b'<loc>https://docs.broadcastwell.com/research/record/</loc><lastmod>2026-11-02',b'<loc>https://docs.broadcastwell.com/research/record/</loc><lastmod>2026-11-03')
         with self.assertRaisesRegex(OverlayError,'nonlibrary sitemap'):
             validate_effective_sitemap(self.f.registry,prior_xml=self.f.xml,candidate_xml=bad,hub_metadata=self.f.hubmeta)
+    def test_actual_iso_fractional_precision_keeps_exact_source_timestamp(self):
+        for stamp in ['2026-10-29T02:00:00.123456+00:00','2026-10-29T02:00:00.1Z']:
+            with self.subTest(stamp=stamp):
+                self.f.overlay.records[self.f.paths[0]]['meta']['date_modified']=stamp
+                registry=EffectiveRegistry(self.f.overlay)
+                generate_effective_hubs(registry,hub_sources=self.f.hubs,raw_leaf_metadata=self.f.raw,approved_hub_changes={})
+                xml,gz=generate_effective_sitemaps(registry,prior_xml=self.f.xml,hub_metadata=self.f.hubmeta)
+                self.assertIn(b'<loc>https://docs.broadcastwell.com/answers/measurement/first/</loc><lastmod>2026-10-29</lastmod>',xml)
+                self.assertEqual(stamp,registry.records[self.f.paths[0]]['meta']['date_modified'])
+                self.assertEqual(xml,gzip.decompress(gz))
+    def test_invalid_calendar_missing_timezone_or_future_timestamp_rejects(self):
+        for stamp in ['2026-02-30T02:00:00.123+00:00','2026-10-29T02:00:00.123','2026-10-29T02:00:00.+00:00','2099-10-29T02:00:00.123+00:00']:
+            with self.subTest(stamp=stamp):
+                self.f.overlay.records[self.f.paths[0]]['meta']['date_modified']=stamp
+                registry=EffectiveRegistry(self.f.overlay)
+                generate_effective_hubs(registry,hub_sources=self.f.hubs,raw_leaf_metadata=self.f.raw,approved_hub_changes={})
+                with self.assertRaises(ValueError):generate_effective_sitemaps(registry,prior_xml=self.f.xml,hub_metadata=self.f.hubmeta)
     def test_stale_leaf_sitemap_date_rejected(self):
         with self.assertRaisesRegex(OverlayError,'stale metadata dates'):
             validate_effective_sitemap(self.f.registry,prior_xml=self.f.xml,candidate_xml=self.f.xml,hub_metadata=self.f.hubmeta)

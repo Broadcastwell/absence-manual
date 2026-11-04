@@ -1,21 +1,21 @@
 ---
 title: The three measured rates
 headline: Three measured rates, with their counts and denominators
-description: How a Category Audit reports named answers, source citations and share
+description: How our measurements report named answers, source citations and share
   of voice separately, with exclusions and classification limits.
 page_class: note
 schema_type: Article
 date_published: '2026-10-13T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-03T17:32:11+00:00'
 ---
 
 # The three measured rates
 
-These definitions describe the Category Audit's three reported measures. Named and cited as a source use the valid captured answers. Share of voice uses the brand mentions recorded in those answers. Each has its own count and denominator. We never add or weight the measures into a composite score.
+These definitions describe the three measures we report. Named and cited as a source use the valid captured answers. Share of voice uses the brand mentions recorded in those answers. Each has its own count and denominator. We never add or weight the measures into a composite score.
 
 ## Named
 
-An answer counts once when it names the company. The denominator is the valid answer base for the total, engine or question group being reported. A full Category Audit schedules 150 observations: ten questions on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, with three runs of each question. Failed or empty observations are excluded from the answer base and reported separately.
+An answer counts once when it names the company. The denominator is the valid answer base for the total, engine or question group being reported. A full five-engine measurement schedules 150 observations: ten questions on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, with three runs of each question. Failed or empty observations are excluded from the answer base and reported separately.
 
 ## Cited as a source
 

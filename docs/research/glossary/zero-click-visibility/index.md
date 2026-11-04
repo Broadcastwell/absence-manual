@@ -7,13 +7,13 @@ research_id: 38
 research_group: glossary
 lead: Vikram Patel
 published: '2026-11-02T20:27:14Z'
-updated: '2026-11-02T21:22:53Z'
+updated: "2026-11-04T01:03:17.612597+00:00"
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/zero-click-visibility/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T20:27:14Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: "2026-11-04T01:03:17.612597+00:00"
 is_based_on: https://sparktoro.com/blog/less-than-half-of-google-searches-now-result-in-a-click/
 defined_term: Zero-click visibility
 ---
@@ -70,7 +70,7 @@ You need referral observations to count clicks.
 
 Source archive: [release 2026-09, DOI 10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695).
 
-**Supports:** Study 2 found **5,477 named-without-own-domain-citation pairs among 42,792 eligible vendor-answer pairs: 12.8%, Wilson 95% interval 12.5% to 13.1%**. The [citation study](/research/studies/who-ai-engines-cite/) explains that denominator and exact matching rules.
+**Supports:** In answers captured on **22 and 23 September 2026**, Study 2 found **5,477 named-without-own-domain-citation pairs among 42,792 eligible vendor-answer pairs: 12.8%, Wilson 95% interval 12.5% to 13.1%**. The [citation study](/research/studies/who-ai-engines-cite/) explains that denominator and exact matching rules.
 
 This is a naming-without-own-citation result, **not a measured zero-click rate**. Another source could still be linked, and the archive contains no linked reader-click history. Our published method therefore keeps naming, own-domain citation and visitor behavior as separate concepts.
 
@@ -90,7 +90,7 @@ Publication correction, November 2, 2026: October 30 was the draft date; this pa
 
 ## Cite this page
 
-Broadcastwell research team. (2026, November 2). *What is zero-click visibility?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/zero-click-visibility/ Published November 2, 2026; updated November 2, 2026.
+Broadcastwell research team. (2026, November 2). *What is zero-click visibility?*. Broadcastwell. https://docs.broadcastwell.com/research/glossary/zero-click-visibility/ Published November 2, 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research38,
@@ -99,8 +99,8 @@ Broadcastwell research team. (2026, November 2). *What is zero-click visibility?
   year = {2026},
   date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/glossary/zero-click-visibility/},
-  urldate = {2026-11-02},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  urldate = {2026-11-03},
+  note = {Published 2026-11-02; updated 2026-11-04}
 }
 ```
 
@@ -108,7 +108,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

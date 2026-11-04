@@ -1,0 +1,984 @@
+{
+  "recorded_utc": "2026-11-04T04:32:37.914717+00:00",
+  "actual_reader_credits": {
+    "writing_review": 62,
+    "related_review": 58
+  },
+  "actual_original_files_displayed": 120,
+  "Root_personal_120_views_claimed": false,
+  "both_named_PDF_versions_page_count": 116,
+  "actual_readings": [
+    {
+      "version": "after",
+      "page": 1,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:57:08.577416+00:00",
+      "image_sha256": "911b69d4c07a223e0add9faa785445f11e042bbc78bb83e41578542eb00bbd3d",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 2,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:57:08.577416+00:00",
+      "image_sha256": "ccb98647d59772fc33da478bf7236387939a2977fca952eed50c05bf23a39174",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 3,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:57:20.633247+00:00",
+      "image_sha256": "d244e8cfbca5dc17def6235f2987fd1b96398a16f046f66c4bdcdbc615e2758c",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 4,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:57:20.633247+00:00",
+      "image_sha256": "24afc6a214eb3723b6495aa54b5556d360c1d684d8e23eef33c9de68a5a1c248",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 5,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:57:35.608307+00:00",
+      "image_sha256": "ef54731bfc73e3ccb3c8d18f61ef50d5913992f611ffe4ae2f3d4885fd2d4cd3",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 6,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:57:35.608307+00:00",
+      "image_sha256": "147857161c31fe1b01bc611d88ef9ca153704a7442075b32e47b556a1547adfb",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 7,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:57:48.719979+00:00",
+      "image_sha256": "fadf9d1df153142293d8380f04c55580f2c66c12d8d5f43cf7ecda6624107d9e",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 8,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:57:48.719979+00:00",
+      "image_sha256": "a2d780f5a785962184c35721b23d760e857239468256836d008a5f399c61997a",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 9,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:58:05.820839+00:00",
+      "image_sha256": "25e36daf16d3a4cf5cb018b7a6301a4eb241b1ca8af5ebc36157daa981226751",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 10,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:58:05.820839+00:00",
+      "image_sha256": "915e62fb991dbd17f16ac382ea3269cf75916ffd86edd21dda12598d18ea39ae",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 11,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:58:18.504598+00:00",
+      "image_sha256": "a1c5a27512eee7ed384cecbbe543973bd61a6459140ac00259726081164ebc77",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 12,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:58:18.504598+00:00",
+      "image_sha256": "7b6d2610564f0034dd4b69f5a21ef301641a20a8d9abd98c739c915bc68263bc",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 13,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:58:47.956419+00:00",
+      "image_sha256": "257671916c5089748ff61df3fe75ac8ec26effc86f04615a7307af029efdc270",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 14,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:58:47.956419+00:00",
+      "image_sha256": "4f77044b51b10903b825774ef4879eefcbde5c773058c2c05609fed1f3875bcc",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 15,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:59:02.870063+00:00",
+      "image_sha256": "5f3ec52740d99932497a411aba0d43f8cf7228464b20c8c070b0d432fb36f1e8",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 16,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:59:02.870063+00:00",
+      "image_sha256": "c4ec040c190ed98305f41279103d596dd78aa5e48d43084648dff3e5b809ae72",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 17,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:59:15.908386+00:00",
+      "image_sha256": "8e7a0338275ca4ebacbc0c77badeb284492b786b7438f7b73386e8f245f11622",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 18,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:59:15.908386+00:00",
+      "image_sha256": "c77d600522147cb9a7c5318718c9776903b7068457bccc14966fe072cbb85e63",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 19,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:59:32.539772+00:00",
+      "image_sha256": "011cb93dd2d097bc487464d5e06c270f542f469b366333ab917ee2c5761436f6",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 20,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:59:32.539772+00:00",
+      "image_sha256": "f9a9aaac746c7e8609722b0d884c3d6a47f9be784633e5561df012ae7dde1932",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 21,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:00:48.996797+00:00",
+      "image_sha256": "acd7ff98d3877fad1c49f8f22ed96b2cab5ae4b297091076c036cb5fd62b9fc6",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 22,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:00:48.996797+00:00",
+      "image_sha256": "713ae3af7eb5ea294cd6c690a2dd8b35618421a8002632184f92b7cbf7e62e94",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 23,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:01:05.617347+00:00",
+      "image_sha256": "da709aa83db06b416c3f2441c84aec9bf63abef9d8a0288d1e4ffbbdfe05c34b",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 24,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:01:05.617347+00:00",
+      "image_sha256": "3fd90dc00b6efa93ccc562b70b2f638e278b53acb069983adb1585e2ed8eff24",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 25,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:01:25.798644+00:00",
+      "image_sha256": "9eeb040a57d9800c9d15dc1d672a72d88fc6a4becc23260a907694ffc00754f0",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 26,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:01:25.798644+00:00",
+      "image_sha256": "489fa2ae27ccfb58d2cc7999419309a63806c0466e5c71aca9855110900784cb",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 27,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:01:43.005807+00:00",
+      "image_sha256": "bc6549c153299bf202c87c1cf9f4595b6079f60999d65f33afe308089bf3bd24",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 28,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:01:43.005807+00:00",
+      "image_sha256": "740f335d80b9461223967081150e5829d2d43b722136802ff7c6ad656dd2ed33",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 29,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:01:57.671646+00:00",
+      "image_sha256": "6797efd96221c0fcd68a3630fdebe7e01dffc57d58e77a74768cf8e3b28130dc",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 30,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:01:57.671646+00:00",
+      "image_sha256": "7e29ef7c90b8e20dcadb83d9c1676070a84afd91ff3187e13bd697a558b6e0ba",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 31,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:02:19.739149+00:00",
+      "image_sha256": "bf84a991051179d4795bd9d1a107e8bc887d0cb51f42f9cbc1d51b1b5b8de668",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 32,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:02:19.739149+00:00",
+      "image_sha256": "fcee7e38d247336e2b07d413beda4fdc1b52e20330cefe0ea2ff37b6f84527a0",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 33,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:02:38.481235+00:00",
+      "image_sha256": "9eec3cc0bf69f3d1fd82c3e3cff9d84ade5f88d24255da9220b740166724c1e1",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 34,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:02:38.481235+00:00",
+      "image_sha256": "c9764433bf9c87eace9fda930b04d880dc60c7be2da05fa6cf253dba61a9431f",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 35,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:03:05.475617+00:00",
+      "image_sha256": "28bd99ff5a9b810126a916a7b02117947864b6a95afc52484cc6e03f9e452919",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 36,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:03:05.475617+00:00",
+      "image_sha256": "2f9317f4a795cfd4d321e388f1ea1e5f1803cef03ed6d9a019dd49bff507dc9a",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 37,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:03:18.809251+00:00",
+      "image_sha256": "a79db82c2f26c62e7f9d9f8f82de413677ec6626f7d1eda0928316c390caa9e2",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 38,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:03:18.809251+00:00",
+      "image_sha256": "9e516bed1b005ed9d828f6590d794860ae76d88c8bb964ecc8e91d8ba263a4b7",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 39,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:03:32.211817+00:00",
+      "image_sha256": "66bf57e571725ab92b178fa84683adda8dbda1d10362289d485356a8dc7fd5d5",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 40,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:03:32.211817+00:00",
+      "image_sha256": "c46ef393c101b4973ce3df997864428d0c76162faa65f195f63af46aed3f7f84",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 41,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:03:44.883453+00:00",
+      "image_sha256": "54405021d7e57651c7e23ade2e455786a744ac2c8bbaa7dc4d68716d30c8a5d3",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 42,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:03:44.883453+00:00",
+      "image_sha256": "f6b0beb6f8e0184d01dc9ff6ff2638e491531ab4dc86b8e2fa3433f03edfc21f",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 43,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:04:01.367315+00:00",
+      "image_sha256": "ec29d0cbb2036d5216f35e63183d7e699d140195be9369f8cd0d345240f29d94",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 44,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:04:01.367315+00:00",
+      "image_sha256": "c73b1183c082af94cf69f85cb171968fed612af22db970fff726ae22edebc2c3",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 45,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:04:15.246073+00:00",
+      "image_sha256": "fdf4aaee700555c41e74d3e26f1697993f741494658c8effffbcbdb8a682c4bc",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 46,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:04:15.246073+00:00",
+      "image_sha256": "0dccef0a522ccd439c23e185231503bdd9f0ea28f3e09552442e12d1ff196ea5",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 47,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:04:32.544335+00:00",
+      "image_sha256": "8c3ba9f62b00b9cc7456848cdab13ea9272b2a03bd1b2b1c673101a1455a087e",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 48,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:04:32.544335+00:00",
+      "image_sha256": "875d8720c616270d9366807e41038f76accbe9186284738ef461d8e091a2ea46",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 49,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:04:47.279745+00:00",
+      "image_sha256": "0d9f1e3689d3375330a5d9c3c6731bae1d3299c92c35a2db2ca1bed68cd7157d",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 50,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:04:47.279745+00:00",
+      "image_sha256": "d2302c27f696ec791c9da7874673ff5eddb7adcf6367ba2af337ff56ad0e5b21",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 51,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:05:06.273502+00:00",
+      "image_sha256": "011a5763889550c796f1474c9a81a530d1245c76a7b1f9c5a582555dad97a8ff",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 52,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:05:06.273502+00:00",
+      "image_sha256": "6658e52cda0e96567b9d05b780ad028c77e8a91541c86f7cf75895224d78ba37",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 53,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:05:25.366564+00:00",
+      "image_sha256": "d6894a6be86b6d3b58848199227ed9305421f1ff4e8c6bd30b388de4fde1c02a",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 54,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:05:25.366564+00:00",
+      "image_sha256": "f8a4cb5e56d7dbdf36a24c3088fa928fc9677e555a375011e746483eacf4d0b4",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 55,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:05:39.111324+00:00",
+      "image_sha256": "7d5bc5804fe4ebeeb2311fa7142964679c25a4f9110d53ca777fae8249df56b4",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 56,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:05:39.111324+00:00",
+      "image_sha256": "44702cbe115ca4be71fa60ac2a0dd3bbffd8c81efb6a052f9c07f635725a7669",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 57,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:06:32.938147+00:00",
+      "image_sha256": "52946256606938bbd93be6b445cb3f02cb76d75ac0a52de95445e4a0dcc5e328",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 58,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T04:06:32.938147+00:00",
+      "image_sha256": "698fb5b05698db8c44ef0594d4c44f9ccaeee0474441d5ef1f4acbc6803e853c",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 59,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T03:57:41.079417+00:00",
+      "image_sha256": "6d5318e926943d49399a2b6568fe198664bc46ec93d8ce09554e6a03e72fc450",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 60,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T03:57:41.079417+00:00",
+      "image_sha256": "24f122b11ee57e9789b788ac598601f2a16647bfd00fd59171133bd21bfdacce",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 61,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T03:57:41.079417+00:00",
+      "image_sha256": "598cead94d8e8952f355f658dc64a383600500601d3834d9afc1ed0ded2ff971",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 62,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T03:57:41.079417+00:00",
+      "image_sha256": "cb796792805c315351bc7ef862e8ca9367e235d74d7306bfc49e1670511c1dc5",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 63,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T03:58:21.712347+00:00",
+      "image_sha256": "723cb22a164ee58fadd1f6a4efe00414cf22ab850e7997c2fd2c2689f7af2df1",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 64,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T03:58:21.712347+00:00",
+      "image_sha256": "d789de9df69e06cf7d91851a282e7ae6a54b085e7531b2ee4106286f313992ef",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 65,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T03:58:21.712347+00:00",
+      "image_sha256": "2089d7cb3126be4dcb3fb88506af3799efcd24a11b90011d79674c628a45fc7d",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 66,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T03:58:21.712347+00:00",
+      "image_sha256": "e0e20f289d84b354777caa3320dc8e173c9886068d48792d6c0beeba626fd26e",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 67,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:00:24.574472+00:00",
+      "image_sha256": "b7ccc9dc3ee836f3ec1ae623dcea66f4b68a60d18268443b351522285cf77d4c",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 68,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:00:24.574472+00:00",
+      "image_sha256": "0b528a57ee5b69acef947cd1f52168bc4813acddadb22adb0838be32d784b84c",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 69,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:00:24.574472+00:00",
+      "image_sha256": "4b5b5733e6903d198779a3f3e39d51533225a72e8119f7943503991866b7838d",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 70,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:00:24.574472+00:00",
+      "image_sha256": "6e188c52bd8e1b1f39def31dd9f776c9120c499c5f182a4bfb44eba1339e9749",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 71,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:00:43.104665+00:00",
+      "image_sha256": "1e499732ccf44fde3d3646566e61eae63c1ba541d6dfd863c545fd09b0af842c",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 72,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:00:43.104665+00:00",
+      "image_sha256": "99f9442991829f90fe4a8347c90c38894977cc23a756988e97b3686dd52b8555",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 73,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:00:43.104665+00:00",
+      "image_sha256": "2539f9f4f7273df4c1b7b0f302e99506022936434841e71c4ec135cc8bd6db3a",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 74,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:00:43.104665+00:00",
+      "image_sha256": "3181df75c7debbfe5963bd3c8aefdd51433c2c1274ab84586b2148c3f23cddb7",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 75,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:01:04.561756+00:00",
+      "image_sha256": "18b901d225939dd70b998e4e0c238a221575cac37435e5c868623d2ad5a89387",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 76,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:01:04.561756+00:00",
+      "image_sha256": "e64617b01ff404dabde505916030bbf918af27e156000385a99083033efe4354",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 77,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:01:04.561756+00:00",
+      "image_sha256": "1a0ddb35f9bb91c4396f3b7de79a4c43be77af78055814f2a9820b08eb0ca79d",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 78,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:01:04.561756+00:00",
+      "image_sha256": "2e9faa3be5a809aa7a20d7e45cb4682a0ff51e01937956b7afd92a51b5a8ed92",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 79,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:01:34.538991+00:00",
+      "image_sha256": "9d5d35d0a1f9ff291adbcd7626c0aa18af19a349c44423fcf955a74523df2a64",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 80,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:01:34.538991+00:00",
+      "image_sha256": "6fa73f0d7132f592db437c346221386f3774c4479db169451f3a8d1e78feb3ac",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 81,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:01:34.538991+00:00",
+      "image_sha256": "e29c7a69eaf28320b3c6436fdfc11452fa3fe9a0aff2d1c6629302f5b2ded1cf",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 82,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:01:34.538991+00:00",
+      "image_sha256": "b4b4f02e675dedde0ded9cee3cd0d516158704a280949b809b97c89c4b9bbf25",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 83,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:01:54.050682+00:00",
+      "image_sha256": "67d1d6f6a2c25cec9efe5f91e5630cc5fe29691d1bf5044cd730a3cbf596ede2",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 84,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:01:54.050682+00:00",
+      "image_sha256": "ba8ffd779315873c751a5267517c24d5633b0b001d9f3605720ca27654a139c8",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 85,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:01:54.050682+00:00",
+      "image_sha256": "f0f401bd1d81a66f3d56da257743292780b8269d8283c4350f6f48971a4bde21",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 86,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:01:54.050682+00:00",
+      "image_sha256": "658b41cbb2a05a3ef27c4f10082bfa629282f505e24ed03394b9b7223a4aa8a7",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 87,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:02:15.684121+00:00",
+      "image_sha256": "4df161d90aab2f22ad52787740123a0f164a7863b24fc1fc99e917242f811db7",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 88,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:02:15.684121+00:00",
+      "image_sha256": "817b00dddb57d409aa42bc1d3502b439199a904f528bab97a3cd7e8b8a770de0",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 89,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:02:15.684121+00:00",
+      "image_sha256": "9ca1b42f41a47bb80ef77fe3678bbb3fcbd7cdb73304043c6659237805fd49e4",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 90,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:02:15.684121+00:00",
+      "image_sha256": "9d88f728d0945be2a658c6ce740576c8a6b5e8601eb49c771edfa04289a26595",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 91,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:02:49.806866+00:00",
+      "image_sha256": "8e50480ccecd47a016d2e5a9d49123631d2a14bb55e50a1ed519c6ac7a31dfe3",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 92,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:02:49.806866+00:00",
+      "image_sha256": "a37e0f3784293d364e0b84d24669b70f7ffab1c149db8bde1eef558e885261ac",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 93,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:02:49.806866+00:00",
+      "image_sha256": "22a8b31aab437428b32b23cc3e77e075a26b71fd0f37e130339a5c50e0dcbf2f",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 94,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:02:49.806866+00:00",
+      "image_sha256": "f9145f4fbe49e7590f3796e66cb93f6817b5c1d0cc4359244b69e3d707b84a2f",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 95,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:03:18.619442+00:00",
+      "image_sha256": "6ee1f0bdc002435421c0012d0062527d8afc39d701e836cdb3066b7a443f29e7",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 96,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:03:18.619442+00:00",
+      "image_sha256": "782c41aa356f271cbecc9adf7769f6e8d66094cc2e2056ca0d1252dd67592fd4",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 97,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:03:18.619442+00:00",
+      "image_sha256": "21e356fc23b305c427662d6de7807424441961f1c3bab1e8df73268c2b8c1b7d",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 98,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:03:18.619442+00:00",
+      "image_sha256": "70d595cbb346ca18def8c6e85c39191bc37e8ab0823be7ea6c1e2c268893ba2d",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 99,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:03:44.401776+00:00",
+      "image_sha256": "a19fbda488b76fee1107c8bf5fb7abb1e7439db332514dfff1fb1302093a5689",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 100,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:03:44.401776+00:00",
+      "image_sha256": "a339aab9f2de66283f4f65c4ee6c8cec80c3aff9ee75515cd7bf99517c8e315b",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 101,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:03:44.401776+00:00",
+      "image_sha256": "0eec145f6c54163eb98681028ae14ff8c51a40c26e3162f60c525b9e33e553cf",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 102,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:03:44.401776+00:00",
+      "image_sha256": "628d4549a194c7e7851436ad962a521d3f88379a455847ad5654fbacbeb486f3",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 103,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:04:02.730149+00:00",
+      "image_sha256": "cb2d7083ecd47281c06e2311a58d7e4849f23ae7c0274820b4b7ca1df65bd0fd",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 104,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:04:02.730149+00:00",
+      "image_sha256": "62bb45af5a5ae8854857c8ed531f08213c63fd76e70c96f8bda5929797b3cc34",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 105,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:04:02.730149+00:00",
+      "image_sha256": "d67083756e7374e9c7c9042c012b43bce421051b2856ab313cb565ff84ec9d8e",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 106,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:04:02.730149+00:00",
+      "image_sha256": "a8c7db192e8321439b446e158767bf00dcf2409977f6853c0a60c18c91d7dc7b",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 107,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:04:23.245820+00:00",
+      "image_sha256": "217708cd6ce27322618965e30672a96d9e6ddfc921cd53560e1372990e62552c",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 108,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:04:23.245820+00:00",
+      "image_sha256": "c7dc5a4da2707532a5fb1208bf7e287432c457acca33707362777871280c529e",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 109,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:04:23.245820+00:00",
+      "image_sha256": "af45e9987c3e07d745cd4e5a424612aeedab42a8603c364dbc80f6c14095b63b",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 110,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:04:23.245820+00:00",
+      "image_sha256": "c2fab6454fcd0538cb9adc7ba8cab2676360aa59644dc63eee2101029a00b136",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 111,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:04:43.101010+00:00",
+      "image_sha256": "984ea3f4e6830553f3f1b720040713b62f4d075e05b423b4a83ed9884c0269cb",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 112,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:04:43.101010+00:00",
+      "image_sha256": "2dce5572eb60e821a6dc62286943f1fb8bf5fa75ecd38ba23e45f40a85f6b534",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 113,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:04:43.101010+00:00",
+      "image_sha256": "eb08be44aee2241133aab23b3e6a5136a0a74cd705f36d2ed5a0192e2655d4e1",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 114,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:04:43.101010+00:00",
+      "image_sha256": "4ff27cb73ef19e2f746de9c129647af1ce6a917f48558e67d424b10ec09cf35a",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 115,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:05:36.913510+00:00",
+      "image_sha256": "5dcecfa02f2f21bc383289110b59b5ff64bff607cf72041827f6128dbad8055d",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "after",
+      "page": 116,
+      "reader": "related_review",
+      "actual_read_utc": "2026-11-04T04:05:36.913510+00:00",
+      "image_sha256": "f2dcda7f509fa03b31cc9688c2e6367a10569e7bda5770623b6386fe07d6886e",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "before",
+      "page": 1,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:57:08.577416+00:00",
+      "image_sha256": "233d24f5007b092e57e259ba3b282a500b246f1b7864cb017a1ffb62be7fbcab",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "before",
+      "page": 2,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:57:08.577416+00:00",
+      "image_sha256": "b380cb48cc65bb1dc4e119a89599079f1bc6b03598041260acf11d31e89d232d",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "before",
+      "page": 12,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:58:31.079022+00:00",
+      "image_sha256": "24e4098b9662679c6e7e1592382ae345aa4255a85576e59a1e76b9a4817be208",
+      "actually_separately_displayed": true
+    },
+    {
+      "version": "before",
+      "page": 13,
+      "reader": "writing_review",
+      "actual_read_utc": "2026-11-04T03:58:31.079022+00:00",
+      "image_sha256": "fa2831f9806b34404af4d7cfd0acd9e50675459bc22dd87950a16c9073cc2cb6",
+      "actually_separately_displayed": true
+    }
+  ],
+  "actual_reader_logs": [
+    {
+      "path": "pdf-proof/records/c050d6ec20aa020663ad0cd4e2168602b12cda791e465d80ab6cca27d96cf3cb.jsonl",
+      "sha256": "c050d6ec20aa020663ad0cd4e2168602b12cda791e465d80ab6cca27d96cf3cb"
+    },
+    {
+      "path": "pdf-proof/records/19efde54a0f979d87606b9bcfe42daab6868be80913c3a48e515908581caf588.jsonl",
+      "sha256": "19efde54a0f979d87606b9bcfe42daab6868be80913c3a48e515908581caf588"
+    }
+  ],
+  "shared_identical_before_after_content_pairs": 112,
+  "fresh_duplicate_views_claimed": false
+}

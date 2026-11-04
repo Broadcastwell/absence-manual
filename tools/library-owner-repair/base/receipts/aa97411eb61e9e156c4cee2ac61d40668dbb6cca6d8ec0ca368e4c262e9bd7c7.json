@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/chatgpt/which-transportation-software-does-chatgpt-recommend.md",
+  "before_effective_canonical_sha256": "70d55a2ab9772c7c68d575b6e086a86f22d74bfca65b4912d22c97d4d91f60a3",
+  "raw_canonical_source_sha256": "4e5029b2db0f91270789faef200ce97a00ae4fd8db3f9c07a3d7f6bb36b2b9ae",
+  "after_effective_canonical_sha256": "73e0d137f2188be08b7fcfda63bda970e665d59c57b4ce1a859eaec68de279de",
+  "fact_ledger_sha256": "2bd62870c29b644c704bd9570100f4119329e347c6a2c9198601109bf77a89f7",
+  "effective_payload_sha256": "96b70673f41e620fbed3c01be6fe6dd7642a820a06e60ede5d99960d15ab6420",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

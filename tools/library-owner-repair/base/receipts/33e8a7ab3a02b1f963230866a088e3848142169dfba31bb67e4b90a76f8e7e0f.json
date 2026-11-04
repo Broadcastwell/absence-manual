@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+  "bank_id": "LB-Q0641",
+  "canonical_source_sha256": "e1d30e75db7b16afbfcfc8ae0a2d541b3037cbf41692d657fdb3d079d4902dd5",
+  "effective_canonical_source_sha256": "fd71d359f5f4a7a92a3d4b34e389630fd0cd0cef9a9b40acf7dfd80550d164dc",
+  "effective_body_sha256": "99df9d00b12f53de3e51bff20e3125c9244e1a564eb98e3d37a5bb827161d306",
+  "effective_metadata_sha256": "1919ce62504f10548546d7462c26886205fb5385b7c3e48f3088b32d4a3dc39e",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DESTINATION_TWO_ADOPTED_2026-11-03\\manuscripts\\answers\\fixes\\how-should-i-use-robots-txt-to-control-ai-crawler-access.md",
+    "raw_sha256": "fd71d359f5f4a7a92a3d4b34e389630fd0cd0cef9a9b40acf7dfd80550d164dc",
+    "canonical_LF_sha256": "fd71d359f5f4a7a92a3d4b34e389630fd0cd0cef9a9b40acf7dfd80550d164dc"
+  },
+  "reviewed_utc": "2026-11-03T13:37:33.382581+00:00",
+  "full_read_basis": "Existing complete full Source reading and exact previously reviewed composition chain, plus the bounded restored-navigation and actual date-only continuation recorded here. No new full-collection reread or scientific recount.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_DESTINATION_TWO_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0641.source-navigation-date-continuation.json",
+    "raw_sha256": "4db4a67a4ef034edcce0f954d23d658f79358ea6d2d18f62a4ff0d1f4753b827",
+    "canonical_LF_sha256": "4db4a67a4ef034edcce0f954d23d658f79358ea6d2d18f62a4ff0d1f4753b827"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DESTINATION_TWO_ADOPTED_2026-11-03\\ROOT_TWO_ADOPTION.json",
+      "raw_sha256": "89f032bd4d7fd552f181d9e0f4f9e1d4094e3b82b930ac8b7fd33161787cd0cd",
+      "canonical_LF_sha256": "e66aa1761eb9ddfc07a911841c7f64c859ed0e6ac349381b6c436d6c0ff92f4a"
+    },
+    "date_modified": "2026-11-03T13:33:57+00:00",
+    "scope": "Actual private Root adoption timestamp; no public publication or source-capture timestamp inferred."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false,
+  "prior_full_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0641.source.json",
+    "raw_sha256": "44b157600e513e2a31d97e8e441758730c3a26b740259b53bd5312e0af4aaa19",
+    "canonical_LF_sha256": "44b157600e513e2a31d97e8e441758730c3a26b740259b53bd5312e0af4aaa19"
+  },
+  "bounded_restored_navigation_approved": true
+}

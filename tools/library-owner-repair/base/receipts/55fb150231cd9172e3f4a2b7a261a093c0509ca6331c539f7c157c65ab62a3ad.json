@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "approval_authority": "independent-source-review-only",
+  "actual_full_read_complete": true,
+  "review_kind": "source",
+  "scope": "full-effective-article",
+  "path": "answers/claude/which-dealership-software-does-claude-recommend.md",
+  "bank_id": "LB-Q0600",
+  "canonical_source_sha256": "1a24c45e439373de7407e2990d29a0ca9d53fc040aaffcdaeda145c8b56e1ccc",
+  "effective_canonical_source_sha256": "c1ef6f7740a90397c517120708f6ce8404991fcdfa3927cd48ddf39536720c6f",
+  "effective_body_sha256": "219c6039075e6537e2032ee4bead4a7506619621a1099758e91eb904160d41dc",
+  "effective_metadata_sha256": "c53ad8082683d9ba287975c74701047f56525bf42cc84049e196324564d87ec3",
+  "actual_reviewed_file": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\manuscripts\\answers\\claude\\which-dealership-software-does-claude-recommend.md",
+    "raw_sha256": "c1ef6f7740a90397c517120708f6ce8404991fcdfa3927cd48ddf39536720c6f",
+    "canonical_LF_sha256": "c1ef6f7740a90397c517120708f6ce8404991fcdfa3927cd48ddf39536720c6f"
+  },
+  "reviewed_utc": "2026-11-03T11:17:08.598112+00:00",
+  "full_read_basis": "PriorcompleteSourcearticlecoverageplusindependentlycheckedoneactualNextstepmethodtokenrestorationandRootactualdate-onlymetadatachange;nofresh45wholebodyrereadclaimed.",
+  "source_coverage": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_SOURCE_METHOD45_ROOT_ADOPTION_2026-11-03\\coverage\\LB-Q0600.method45-source-coverage.json",
+    "raw_sha256": "3d83060ea84b4989a48bc83084bed43ebf2071a238065954b7fff6786b8b518e",
+    "canonical_LF_sha256": "3d83060ea84b4989a48bc83084bed43ebf2071a238065954b7fff6786b8b518e"
+  },
+  "Root_actual_private_adoption_date_binding": {
+    "manifest": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_ROOT_DEFAULT_METHOD45_ADOPTED_2026-11-03\\FINAL262_ADOPTION_MANIFEST.json",
+      "raw_sha256": "83e343c91e5417e6509a02dd9525a8e0ee036bc29b3bd59d682018ec76c10041",
+      "canonical_LF_sha256": "3835be9fe8061a1155fa6e7ee83cc5ee69d26573f9cc3be25b5a16fc69728823"
+    },
+    "date_modified": "2026-11-03T11:12:54+00:00",
+    "scope": "ActualRootprivatefooteradoption,notpublicpublication."
+  },
+  "source_content_status": "PASS_EXACT_CURRENT_SOURCE_CONTENT_AND_INDEPENDENT_OWN_FIT_WITH_RETAINED_LIMITS",
+  "qualitative_observation_gate": "Separate exact-published-observation receipt required where applicable; this fullarticle receipt is not a numeric/qualitative cap or registry waiver.",
+  "historical_source_anchor_unchanged": true,
+  "new_S5_full_reads_claimed": 0,
+  "root_build_or_publication_approved": false,
+  "global_rules_approved": false,
+  "frozen_or_donor_approval": false,
+  "prior_approved_Source_receipt": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\FORMAL_TYPED_SOURCE_S5_ROOT_DATED_V2\\receipts\\LB-Q0600.source.json",
+    "raw_sha256": "9b8db51e2014179c82052e31acf07f69488166af6e23815465336af541f915dc",
+    "canonical_LF_sha256": "9b8db51e2014179c82052e31acf07f69488166af6e23815465336af541f915dc"
+  }
+}

@@ -169,7 +169,8 @@ class ComposedPublicationOverlay(PublicationOverlay):
     def compose(cls,docs_dir,*,prior_state,prior_payload_bundle,current_leaf_manifest,
         active_revision_plan,related_requirements,current_pins,trust,finite_links,
         quality_module,actual_prior_artifacts,actual_prior_binding,receipt_store,
-        field_handoff_path,frozen_effective_pins=None,publication_evidence=True,s5_scope=None):
+        field_handoff_path,frozen_effective_pins=None,publication_evidence=True,s5_scope=None,
+        owner_composition_permit=None):
         """Compose all current records; never transform an untouched prior body.
 
         Preview is explicit and unpublishable. It still binds every supplied
@@ -215,6 +216,13 @@ class ComposedPublicationOverlay(PublicationOverlay):
             self.pending.append('Composition preview has no publication authority: '+(provenance_error or 'explicit preview mode'))
         active=plan.get('pages',{})
         if self.s5_scope is not None:self.s5_scope.reject_active(active)
+        if owner_composition_permit is not None:
+            from library_owner_composition import OwnerNullMethodPermit
+            require(type(owner_composition_permit) is OwnerNullMethodPermit,
+                'Arbitrary Owner NULL-method flag or mapping is forbidden')
+            owner_composition_permit.assert_context(prior=self.prior,payload_bundle=bundle,
+                active_plan=plan,actual_binding=actual_prior_binding,
+                frozen_paths=self.s5_scope.frozen if self.s5_scope is not None else [])
         retired=copy.deepcopy(self.prior.get('merged_sources',{}))
         for path,status in retired.items():
             require(status.get('status') in {'MERGED_301','MERGED_CANONICAL_STUB'} and status.get('article_pass') is False
@@ -281,9 +289,12 @@ class ComposedPublicationOverlay(PublicationOverlay):
                 require(previous_primary-hrefs(body.split('## Next step')[0])<=omissions,'Active revision loses a primary evidence destination')
                 if payload.get('footer_contract'):
                     method=payload['footer_contract'].get('method_token')
-                    require(isinstance(method,str),'Active footer method token missing')
-                    from library_publication_method_label import validate_composite_method_label
-                    validate_composite_method_label(self,rel,method=method,raw_full=full,post_finite_body=stage,prior_payload=prior_payload,revision=revision,payload=payload)
+                    if method is None and owner_composition_permit is not None:
+                        owner_composition_permit.admit_inherited_null(rel,prior_payload,revision)
+                    else:
+                        require(isinstance(method,str),'Active footer method token missing')
+                        from library_publication_method_label import validate_composite_method_label
+                        validate_composite_method_label(self,rel,method=method,raw_full=full,post_finite_body=stage,prior_payload=prior_payload,revision=revision,payload=payload)
                 origin='explicit-reviewed-active-revision'
             else:
                 require(prior_payload is not None,'Untouched effective payload missing')
@@ -320,6 +331,7 @@ class ComposedPublicationOverlay(PublicationOverlay):
             except ValueError as error:self._s5_issue(rel,str(error))
             # Compare retained payload exactly, even its head whitespace and metadata serialization.
             if rel not in active:require(payload==prior_payload,'Untouched prior payload changed during composition')
+        if owner_composition_permit is not None:owner_composition_permit.assert_complete()
         if self._field_stamp is not None:
             if self.s5_scope is not None:require(isinstance(frozen_effective_pins,dict) and set(frozen_effective_pins)==set(self.s5_scope.frozen),'Frozen effective pins must cover exactly the accepted45')
             frozen_receipt=self._load_receipt(trust.frozen_receipt_sha256)

@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/fixes/is-llms-txt-required-for-ai-search-visibility.md",
+  "before_effective_canonical_sha256": "01833030671198c2d9dc22a2ae640a736a16a78fb4a9ba351405a7c889a41747",
+  "raw_canonical_source_sha256": "c3edb10ae6d090f8c89a13035328e4998ecf3429aabd3c753707dafa6bb40c56",
+  "after_effective_canonical_sha256": "510cb153f457d6c99b997a4c9973f0ae95856e22900ed7bd1bfe70b0adf3aabb",
+  "fact_ledger_sha256": "bf1dfede78f8f734237d920956133728f441e3a78f5727e4dd614a10d82aac25",
+  "effective_payload_sha256": "32ac7a6364d4fb88d359721ac024e1d26a05899bfa535866bfdcf9ef3e6acb62"
+}

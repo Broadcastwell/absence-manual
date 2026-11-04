@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md",
+  "before_effective_canonical_sha256": "7518a02bf66afc0f2ed0d49ef868f666ca8a1d7d6188b647c54e1c8e5ec98fa6",
+  "raw_canonical_source_sha256": "a710678228f230a67e31f3320a7503deb44ab2dd6d2b2d17a819b97786f7dd40",
+  "after_effective_canonical_sha256": "bbefa431fe14fb4309abc8c4e6577ab3335fe8220f289580578419fc735d7c01",
+  "fact_ledger_sha256": "a65f799f70b8db1d1b091b300f833651189ac705621f0b6b086ed611db1110a3",
+  "effective_payload_sha256": "6cbfda591638fe0f3cd9c840b5cc71da866e59208a273c2adde6e9b30208f7f1"
+}

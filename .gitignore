@@ -6,3 +6,8 @@ __pycache__/
 reviewed-prior-publication.zip
 library-bounded-release-result.json
 library-field-freeze-retention.json
+.owner-repair-staged/
+.owner-repair-work/
+owner-stage-result.json
+owner-candidate-observation.NOT_APPROVED.json
+owner-repair-result.json

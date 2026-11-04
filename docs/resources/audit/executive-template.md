@@ -1,6 +1,6 @@
 ---
-title: Category Audit ,  executive delivery template
-headline: Category Audit ,  executive delivery template
+title: Executive delivery template (retired Category Audit format, kept for reference)
+headline: Executive delivery template (retired Category Audit format, kept for reference)
 description: 'Classification: Template only; incomplete fields block client delivery.
   Version: bw-content-2026-09-24-v1.'
 page_class: page
@@ -10,10 +10,12 @@ hide:
 - navigation
 - toc
 date_published: '2026-09-24T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-03T17:32:11+00:00'
 ---
 
-# Category Audit ,  executive delivery template
+# Executive delivery template (retired Category Audit format, kept for reference)
+
+This page preserves the retired Category Audit format for orders before 26 October 2026.
 
 <div class="bw-learning">
 <nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><p><strong>Classification:</strong> Template only; incomplete fields block client delivery. <strong>Version:</strong> bw-content-2026-09-24-v1.</p>

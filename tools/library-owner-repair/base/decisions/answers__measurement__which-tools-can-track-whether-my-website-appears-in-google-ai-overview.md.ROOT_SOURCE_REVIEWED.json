@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md",
+  "before_effective_canonical_sha256": "a7d9316e26f03fe43d21c9140d63af5d9ccb38d06dff929c858f3c94bb96f005",
+  "raw_canonical_source_sha256": "a7d9316e26f03fe43d21c9140d63af5d9ccb38d06dff929c858f3c94bb96f005",
+  "after_effective_canonical_sha256": "6e3a5df38d3b729b169ce149e082bf50b8d06f43c386217c1e1b372a85b712d4",
+  "fact_ledger_sha256": "8ca80b93d5334426df9876a94e6459d7038d166f114bc92e4a76f9c0b557818d",
+  "effective_payload_sha256": "507fa1c17b44e8f47852832236712fd24ff993eb62b74e3fd96cb1080ce56c48"
+}

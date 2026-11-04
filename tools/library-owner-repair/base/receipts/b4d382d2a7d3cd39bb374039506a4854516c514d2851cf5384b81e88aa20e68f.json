@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it.md",
+  "before_effective_canonical_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a",
+  "raw_canonical_source_sha256": "59c14fae2ed84c30648449dbdace960dc3f86700442b980092382d0d28eea09a",
+  "after_effective_canonical_sha256": "427c452e4664d04c84c6b9557c72484b9c239e34d9c77dbb2f55c537ee4fe6fc",
+  "fact_ledger_sha256": "964329dc89d0628916782e5cd5e567059c729e4862ae0ff182b704ac5b0a6d72",
+  "effective_payload_sha256": "1efe3a85df4ad7c5bb2b33c5c6aaebe9aa58b54f98fb95f3fcbff7f6adbd2c69",
+  "scope": "Root read all20 exact old/new fact-ledger changes and metadata, six whole hub bodies and38 finite templates. Exact body/ledger/template values carried to actual PR91 prior. Source/Writing full-file receipts verified. Build-input decision only; actual whole-comparison, artifact cap, frozen bytes, Linux, native preview, production and ten live reader pairs still required.",
+  "Root_reviewed_utc": "2026-11-03T15:41:21.990894+00:00"
+}

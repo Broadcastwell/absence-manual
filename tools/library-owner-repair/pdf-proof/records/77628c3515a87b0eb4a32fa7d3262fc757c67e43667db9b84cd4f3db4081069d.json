@@ -1,0 +1,58 @@
+{
+  "kind": "private-finite-page6-raster-review-not-approval",
+  "actual_reviewer": "/root/related_review",
+  "recorded_utc": "2026-11-04T04:31:19.169738+00:00",
+  "approved": false,
+  "actual_original_images_read": 4,
+  "pairs": 2,
+  "edge_rectangles_per_pair": 33,
+  "outside_masks_changed_pixels_per_pair": 0,
+  "protected_changed_pixels_per_pair": 0,
+  "files": [
+    {
+      "name": "ACTUAL_FOUR_ORIGINAL_READINGS.json",
+      "sha256": "e0a5402efc770782c05e37f6775ff9953eedb60ea555215815d10ed946cb6515",
+      "bytes": 4811
+    },
+    {
+      "name": "EXACT_GUARD_CONTROL_RESULTS.json",
+      "sha256": "26a9e9b2103456db1182d471cec3dd4d6c3f6fba262854ed7c6d5b1e60a0d211",
+      "bytes": 775
+    },
+    {
+      "name": "KAL_P6_SOURCE_EXTRACTION.diff",
+      "sha256": "9431668cf900fd61a5907a0d45ac10b2fddc4be868f4cb5adaaa88361f96d123",
+      "bytes": 535
+    },
+    {
+      "name": "measure_p6_boundary.py",
+      "sha256": "238875d1e9554ae016cffd0154120f117c15c9ad2c15db8bd998fe9b7e4ba86d",
+      "bytes": 16098
+    },
+    {
+      "name": "PIXEL_BOUNDARY_FACTS.json",
+      "sha256": "d7ba078004806357e21df8bb3d7975fcb8676a13b82555336ab813cd7daee661",
+      "bytes": 44715
+    },
+    {
+      "name": "PROPOSED_P6_MASKS.NOT_APPROVED.json",
+      "sha256": "9825af830eae79e285c736637e83477df7e82676125b06a5dd9c695854a90ce2",
+      "bytes": 12318
+    },
+    {
+      "name": "README.txt",
+      "sha256": "b716c519c3bb952217eee3cfbca56375514d159828a6ef946013e6ba685fa579",
+      "bytes": 673
+    },
+    {
+      "name": "REVIEW.NOT_APPROVED.json",
+      "sha256": "1b4a12bb8c307bebaf4af114925415c5ff165f2405088c53908d64d39857c79b",
+      "bytes": 1590
+    },
+    {
+      "name": "WHITE_P6_SOURCE_EXTRACTION.diff",
+      "sha256": "8aaaba76d2eac4c2116661d1511d3f7ac680964da7f8b265b52cbd42e5abc08d",
+      "bytes": 539
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "review_kind": "reviewed-effective-revision",
+  "path": "answers/geo-basics/what-are-alternatives-to-brightedge-for-geo.md",
+  "before_effective_canonical_sha256": "0110be159a35fe39cd600450902f688b5d202791da2d1721d90b8070ac0c07b4",
+  "raw_canonical_source_sha256": "0110be159a35fe39cd600450902f688b5d202791da2d1721d90b8070ac0c07b4",
+  "after_effective_canonical_sha256": "f4c3559ffb1722c67b9fe9d37e017ad07a74a6fe35617c04ce76a6159ac31a2e",
+  "fact_ledger_sha256": "366e62b3fae7fd87571f077df1705670ab8a194028f9e188796afcbd97fead0e",
+  "effective_payload_sha256": "88986405190567433b9231ba9ac076f6bb4e559b623569a332f0ff405e82be7f"
+}
