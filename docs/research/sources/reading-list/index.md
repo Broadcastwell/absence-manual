@@ -7,13 +7,13 @@ research_id: 49
 research_group: source
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/reading-list/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://docs.broadcastwell.com/research/data/source-collection-inventory.csv
 ---
 
@@ -112,9 +112,15 @@ The [graded source table](https://docs.broadcastwell.com/research/evidence/grade
 
 See the [Claim Registry](https://docs.broadcastwell.com/research/claims/) and [academic access](https://docs.broadcastwell.com/research/academic-access/).
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *A reading list for B2B marketers: which pages deserve your time?*. Broadcastwell. https://docs.broadcastwell.com/research/sources/reading-list/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *A reading list for B2B marketers: which pages deserve your time?*. Broadcastwell. https://docs.broadcastwell.com/research/sources/reading-list/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research49,
@@ -124,7 +130,7 @@ Broadcastwell research team. (2026, October 30). *A reading list for B2B markete
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/sources/reading-list/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -132,7 +138,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

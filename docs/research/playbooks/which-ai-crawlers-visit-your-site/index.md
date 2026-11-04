@@ -7,13 +7,13 @@ research_id: 28
 research_group: playbook
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/which-ai-crawlers-visit-your-site/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://developers.openai.com/api/docs/bots
 ---
 
@@ -114,9 +114,15 @@ The first Index log snapshot records zero declared AI-token matches among 83 oth
 - Apple. (2026, September 4). About Applebot. Opened in the operator page earlier on 30 October 2026; a later automated request was rate limited. https://support.apple.com/en-us/119829 Verified 30 October 2026.
 - Google Search Central. (2026). AI features and your website. https://developers.google.com/search/docs/appearance/ai-features Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *How can you see which AI crawlers visit your site?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/which-ai-crawlers-visit-your-site/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *How can you see which AI crawlers visit your site?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/which-ai-crawlers-visit-your-site/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research28,
@@ -126,7 +132,7 @@ Broadcastwell research team. (2026, October 30). *How can you see which AI crawl
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/playbooks/which-ai-crawlers-visit-your-site/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -134,7 +140,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

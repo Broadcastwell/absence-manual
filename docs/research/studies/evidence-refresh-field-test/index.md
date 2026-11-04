@@ -6,13 +6,13 @@ research_id: 53
 research_group: study
 lead: Vikram Patel
 published: '2026-11-03T00:21:05Z'
-updated: '2026-11-03T00:21:05Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/evidence-refresh-field-test/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-11-03T00:21:05Z'
-date_modified: '2026-11-03T00:21:05Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.17605/OSF.IO/DMFPJ
 ---
 
@@ -90,6 +90,10 @@ No answer outcome exists for this field test yet. Our completed descriptive stud
 
 **Supports:** a fixed prospective design, allocation, calendar, outcomes and analysis commitment. **Suggests:** a controlled comparison of this complete evidence package with editorial freshness on selected pages. **Does not support:** an effect estimate before data, an isolated component effect, a universal tactic, a product-quality ranking or a revenue promise. A negative result, null interval or compromised implementation will be published with the same prominence as a positive estimate.
 
+## Dated publication context
+
+The site desk published the common research context on November 3, 2026 at 05:35 UTC. That publication is not a field-test outcome. Later necessary truth corrections are recorded separately; they do not activate measurement or the registered page edits. The registered files, page allocation and collection windows remain unchanged.
+
 ## Related studies
 
 Read the [research hub](../../), the [page-signature study](../optimized-pages-in-ai-answers/), the [citation-source study](../who-ai-engines-cite/), the [measurement library](https://docs.broadcastwell.com/answers/measurement/) and the [Index method](https://index.broadcastwell.com/method).
@@ -101,6 +105,12 @@ Read the [research hub](../../), the [page-signature study](../optimized-pages-i
 - Broadcastwell research team, Priya Nair, Ananya Rao and Vikram Patel. (2026). AI search visibility: source evidence and two registered analyses. https://doi.org/10.5281/zenodo.23804758. CC BY 4.0.
 - Broadcastwell. (2026). Absence Index, September 2026. https://doi.org/10.5281/zenodo.22907695.
 - [Claim Registry](../../claims/) and [academic access](../../academic-access/) retain the source and historical-data boundaries.
+
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
 
 ## Cite this page
 

@@ -7,13 +7,13 @@ research_id: 44
 research_group: study
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 research_dataset:
   name: B2B software answer citation classes and concentration
@@ -149,7 +149,7 @@ The release deposit supplies the immutable answers and question files. The [publ
 
 The public analysis accepts explicit input paths and an expected classification-file hash. The public host CSV is a projection of the frozen table with copied publisher prose removed; class and ambiguity values are identical. Its hash differs from the original frozen evidence file, and the manifest preserves both identities. [Citation analysis](../../data/analyze_citations.py); [pair reproduction](../../data/reproduce_vendor_pairs.mjs).
 
-Classification coverage remains unresolved. Further publisher evidence could clarify some other entries, but a later fetch cannot recover each cited page exactly as it was when the answer was captured.
+Classification coverage remains unresolved. Publisher evidence may clarify other entries but cannot reconstruct each cited page at answer time.
 
 ## What our own data shows
 
@@ -168,11 +168,17 @@ Classification coverage remains unresolved. Further publisher evidence could cla
 - Broadcastwell. (2026). Who do AI engines cite for B2B software questions? [Registration]. OSF. Registered 30 October 2026, 01:32:03 UTC. https://doi.org/10.17605/OSF.IO/VCZKT Verified 30 October 2026.
 - Broadcastwell. (2026). September matching definition and dictionary projection [Study instruments]. https://docs.broadcastwell.com/research/data/study2-reproduction.txt . The public package supplies the required function and dictionary fields. Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
 Report DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). All versions: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
-Broadcastwell research team. (2026, October 30). *Who appears in the sources of B2B software answers?*. Broadcastwell. https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *Who appears in the sources of B2B software answers?*. Broadcastwell. https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research44,
@@ -182,7 +188,7 @@ Broadcastwell research team. (2026, October 30). *Who appears in the sources of 
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -190,7 +196,7 @@ Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Related reading
 

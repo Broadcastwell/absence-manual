@@ -7,13 +7,13 @@ research_id: 33
 research_group: playbook
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-03T17:50:50+00:00'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/site-structure-basics/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-03T17:50:50+00:00'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://developers.google.com/crawling/docs/troubleshooting/http-status-codes
 ---
 
@@ -110,9 +110,15 @@ In our 30 October 2026 [static-page study](/research/studies/optimized-pages-in-
 - Google Search Central. (2026). Breadcrumb structured data. https://developers.google.com/search/docs/appearance/structured-data/breadcrumb Verified 30 October 2026.
 - Google. (2010). Search engine optimization starter guide. Improving site structure, PDF pp. 8 to 12; content and anchor text, pp. 14 to 17. https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *Which site-structure basics still matter?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/site-structure-basics/ Published 30 October 2026; updated November 3, 2026.
+Broadcastwell research team. (2026, October 30). *Which site-structure basics still matter?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/site-structure-basics/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research33,
@@ -122,7 +128,7 @@ Broadcastwell research team. (2026, October 30). *Which site-structure basics st
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/playbooks/site-structure-basics/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-11-03}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -130,7 +136,7 @@ Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-03. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

@@ -7,13 +7,13 @@ research_id: 8
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/review-platforms-as-the-objective-source/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -105,9 +105,15 @@ The remaining question is not whether review sites deserve one universal trust l
 - Maldonado Castillo, I., Martínez Ortiz, F. Y., & Guzmán Flores, J. P. (2024). Centralization of information to understand the consumer within the restaurant sector. In Strategic innovative marketing and tourism (pp. 837 to 843). Table 1 and §2. https://doi.org/10.1007/978-3-031-51038-0_90 Verified 30 October 2026.
 - Maldonado Castillo, I., Aguirre Miranda, I. A., & Olvera Mendoza, A. (2024). Automatic generation of restaurant reviews using natural language processing. In Strategic innovative marketing and tourism (pp. 893 to 901). §§2.3 and 3. https://doi.org/10.1007/978-3-031-51038-0_96 Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *Review-platform citations do not establish objective reviews*. Broadcastwell. https://docs.broadcastwell.com/research/insights/review-platforms-as-the-objective-source/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *Review-platform citations do not establish objective reviews*. Broadcastwell. https://docs.broadcastwell.com/research/insights/review-platforms-as-the-objective-source/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research8,
@@ -117,7 +123,7 @@ Broadcastwell research team. (2026, October 30). *Review-platform citations do n
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/insights/review-platforms-as-the-objective-source/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -125,7 +131,7 @@ Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

@@ -7,13 +7,13 @@ research_id: 14
 research_group: source
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/giannakoulopoulos-2019/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.3390/fi11110242
 ---
 
@@ -99,9 +99,15 @@ We grade the paper B for this bounded use: a documented observational comparison
 - Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Deposited spreadsheets [Data set]. Zenodo. Results Sheet1 rows 3 to 102, rank columns C and G to I; rating columns B and D. https://doi.org/10.5281/zenodo.3484673 Verified 30 October 2026.
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *The university study compares academic standing with constructed website scores*. Broadcastwell. https://docs.broadcastwell.com/research/sources/giannakoulopoulos-2019/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *The university study compares academic standing with constructed website scores*. Broadcastwell. https://docs.broadcastwell.com/research/sources/giannakoulopoulos-2019/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research14,
@@ -111,7 +117,7 @@ Broadcastwell research team. (2026, October 30). *The university study compares 
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/sources/giannakoulopoulos-2019/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -119,7 +125,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

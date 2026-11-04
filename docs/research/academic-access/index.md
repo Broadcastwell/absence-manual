@@ -6,13 +6,13 @@ research_id: 52
 research_group: evidence
 lead: Vikram Patel
 published: '2026-11-02T21:56:24Z'
-updated: '2026-11-03T00:33:20Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/academic-access/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T21:56:24Z'
-date_modified: '2026-11-03T00:33:20Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -65,9 +65,13 @@ Use the version DOI when a result depends on a fixed release. The concept DOI po
 
 The corrected named-author order is Sairam Sivakumar, Ananya Rao, Vikram Patel and Priya Nair, all affiliated with Broadcastwell LLC. We retain the collective credit Broadcastwell research team. The [November 3, 2026 UTC authorship notice](../data/report-authorship-correction-2026-11-03.pdf) adds Sairam and corrects the order. It changes no scientific finding or data file. The original report remains intact and should be read with this notice; preprint copies place the notice before the original report.
 
+## Dated interpretation correction
+
+The [November 3, 2026 interpretation notice](../data/report-interpretation-notice-2026-11-03.pdf) withdraws the earlier GEO presentation-precision reading as an adopted conclusion. It also limits the related nonsignificant association to the 85 observed company sweeps; it does not establish that a most named company cannot affect a challenger. The original coefficient, p-value, base and DOI 10.5281/zenodo.21586091 remain unchanged. The original report and its 53 CSV files remain intact. This notice introduces no new answer measurement.
+
 ## Additional academic requests
 
-Additional requests may concern an export not in the public package, a category cut or a question list. Our service standard is a response within five business days once a request reaches our research contact. Attribution is the condition; no fee, form or exclusivity is required. We do not promise that an unavailable historical record can be reconstructed. This page currently provides direct access to the public packages.
+For academic data access or a Claim Registry correction, email research@broadcastwell.com. Additional requests may concern an export not in the public package, a category cut or a question list. Our service standard is a response within five business days once a request reaches our research contact. Attribution is the condition; no fee, form or exclusivity is required. We do not promise that an unavailable historical record can be reconstructed. This page currently provides direct access to the public packages.
 
 ## Related records
 
@@ -79,6 +83,12 @@ Read the [research hub](../), [Claim Registry](../claims/), [citation study](../
 - Broadcastwell. Absence Index, historical August 2026 corrected release. https://doi.org/10.5281/zenodo.22721962. Checked November 2, 2026.
 - Sairam Sivakumar, Ananya Rao, Vikram Patel and Priya Nair, with collective credit to Broadcastwell research team. AI search visibility: source evidence and two registered analyses. November 2, 2026. https://doi.org/10.5281/zenodo.23804758.
 - The four OSF registered plans linked above; field-test acceptance and archival completion checked November 3, 2026.
+
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
 
 ## Cite this page
 

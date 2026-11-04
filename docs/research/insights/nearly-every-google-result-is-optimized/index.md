@@ -7,13 +7,13 @@ research_id: 2
 research_group: insight
 lead: Priya Nair
 published: '2026-11-02T20:27:14Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-11-02T20:27:14Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf
 ---
 
@@ -125,9 +125,15 @@ The [complete study](../../studies/optimized-pages-in-ai-answers/) publishes the
 
 Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, November 2). *Optimization signals are common in captured AI-cited pages*. Broadcastwell. https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/ Published November 2, 2026; updated November 2, 2026.
+Broadcastwell research team. (2026, November 2). *Optimization signals are common in captured AI-cited pages*. Broadcastwell. https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/ Published November 2, 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research2,
@@ -137,7 +143,7 @@ Broadcastwell research team. (2026, November 2). *Optimization signals are commo
   date = {2026-11-02},
   url = {https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/},
   urldate = {2026-11-02},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -145,7 +151,7 @@ Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

@@ -7,13 +7,13 @@ research_id: 45
 research_group: study
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/does-absence-persist/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.17605/OSF.IO/MKJ9V
 research_dataset:
   name: Registered protocol for persistence of vendor presence
@@ -156,11 +156,17 @@ The Study 2 timing departure remains separately recorded. It authorized that alr
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Release JSON, answer JSONL and README. https://doi.org/10.5281/zenodo.22907695 Verified 30 October 2026.
 - Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results. In WebSci '21 (pp. 12 to 20). ACM. doi:10.1145/3447535.3462479 . [Accessible original](https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf) Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
 Report DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). All versions: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
-Broadcastwell research team. (2026, October 30). *Does low presence persist? The registered study is waiting for comparable releases*. Broadcastwell. https://docs.broadcastwell.com/research/studies/does-absence-persist/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *Does low presence persist? The registered study is waiting for comparable releases*. Broadcastwell. https://docs.broadcastwell.com/research/studies/does-absence-persist/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research45,
@@ -170,7 +176,7 @@ Broadcastwell research team. (2026, October 30). *Does low presence persist? The
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/studies/does-absence-persist/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -178,7 +184,7 @@ Prepared by the Broadcastwell research team. Lead: Ananya Rao.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Related reading
 

@@ -6,13 +6,13 @@ research_id: 51
 research_group: evidence
 lead: Vikram Patel
 published: '2026-11-02T21:56:24Z'
-updated: '2026-11-02T21:56:24Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/claims/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T21:56:24Z'
-date_modified: '2026-11-02T21:56:24Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.5281/zenodo.23804758
 ---
 
@@ -24,7 +24,7 @@ Observed answers on stated dates, not a ranking.
 
 GEO (generative engine optimization), AEO and AI search visibility often travel with the same headline numbers. A repeated number may lose its original denominator. We keep the circulating claim beside the original metric and the correction. An unresolved source remains unresolved.
 
-[Download claims.csv](../data/claims.csv) or [claims.json](../data/claims.json). The two files contain the same 83 entries checked on November 2, 2026. This is a bounded claim audit, not a representative survey of research quality or an estimate of how often misinformation circulates. Entry headings state the claim evaluated. If no independently located republication is named, we do not imply a measured circulation history or attribute that exact wording to the original author.
+[Download claims.csv](../data/claims.csv) or [claims.json](../data/claims.json). The two files contain the same 83 entries from our November 2, 2026 audit. The GEO headline entry carries a dated November 3 correction; the other entry dates remain as shown. This is a bounded claim audit, not a representative survey of research quality or an estimate of how often misinformation circulates. Entry headings state the claim evaluated. If no independently located republication is named, we do not imply a measured circulation history or attribute that exact wording to the original author.
 
 ## How do the verdicts work?
 
@@ -129,17 +129,17 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 <h2 id="geo-forty">GEO increases visibility by 40%</h2>
 
-**Verdict: overstated. Checked 2026-11-02.**
+**Verdict: overstated. Checked 2026-11-03.**
 
-**Circulation:** Unqualified retellings of the GEO headline.
+**Circulation:** Unqualified retellings of the GEO headline; our earlier quotable-numbers reading, withdrawn November 3, 2026.
 
 **Primary source:** Aggarwal et al. (2024), GEO, KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>; author manuscript <https://arxiv.org/html/2311.09735v3>. **Location:** Tables 1 and 6; sections 3.1 to 3.4.
 
-**What the source establishes:** Table 1 gives position-adjusted word count 19.3 to 27.2 for quotation addition, about 40.9% relative. The five-seed Table 6 gives 19.8 to 27.1, about 36.9%. Neither is organic citation probability.
+**What the source establishes:** GEO experiment: Aggarwal et al. (KDD 2024) headline a gain of up to 40% in a position-adjusted word-count visibility metric. Treat it as fragile: the ICLR 2024 draft reported 37%, the paper's own five-seed rerun (appendix Table 6) gives 36.9%, and on Perplexity adding citations cut the judged score by 23% (19.0 vs 24.7) while keyword stuffing raised it 14%. It is not a citation, traffic or conversion gain. We have not recovered the exact ICLR submission for an independent check of the reported 37% headline. That version comparison remains a reported historical claim, not a newly verified result.
 
 **Base, setting and date:** 1,000-query test split; five supplied source documents per query; 2024 publication.
 
-**Correction you may quote:** The GEO benchmark measured a gain in a supplied-source visibility score; it did not establish a general citation uplift.
+**Correction you may quote:** The GEO headline remains fragile, source-specific experimental evidence, not a citation, traffic or conversion gain.
 
 <h2 id="geo-iclr-thirty-seven">The ICLR draft headline is 37%</h2>
 
@@ -1312,6 +1312,16 @@ The author, venue or publication record, exact location and verification limit f
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "@id": "https://docs.broadcastwell.com/research/claims/#dataset", "name": "GEO Claim Registry", "description": "83 dated source checks, including unresolved origins; checked2026-11-02.", "url": "https://docs.broadcastwell.com/research/claims/", "dateModified": "2026-11-02T21:56:24Z", "license": "https://creativecommons.org/licenses/by/4.0/", "creator": {"@type": "Organization", "name": "Broadcastwell LLC", "url": "https://broadcastwell.com/company-facts"}, "distribution": [{"@type": "DataDownload", "contentUrl": "https://docs.broadcastwell.com/research/data/claims.csv", "encodingFormat": "text/csv"}, {"@type": "DataDownload", "contentUrl": "https://docs.broadcastwell.com/research/data/claims.json", "encodingFormat": "application/json"}]}</script>
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What does an unverifiable verdict mean?", "acceptedAnswer": {"@type": "Answer", "text": "The original, denominator or calculation needed for the claim is not available or resolved."}}, {"@type": "Question", "name": "Does a rejected claim prove author intent?", "acceptedAnswer": {"@type": "Answer", "text": "No. A source or inference defect does not by itself establish an author’s intent."}}]}</script>
+
+## Corrections and academic data access
+
+Email research@broadcastwell.com with the page URL, disputed sentence and primary source. We keep dated corrections alongside the original record.
+
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
 
 ## Cite this page
 

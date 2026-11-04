@@ -7,13 +7,13 @@ research_id: 24
 research_group: evidence
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/standard/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://developers.google.com/search/docs/fundamentals/creating-helpful-content
 ---
 
@@ -90,6 +90,10 @@ There is a cost to this standard: some memorable figures disappear, and some pag
 
 **Suggests:** Follow-up within the stated setting.
 
+## How does the Integrity Standard apply?
+
+The company’s [Integrity Standard](https://broadcastwell.com/integrity) names four tests: Semantic preservation, Evidentiary authenticity, Content-instruction separation, and Disclosure and fairness. A pass statement is a self-declaration about the checked page and date. It is not independent company certification or a promise about engine behavior. Any badge use requires a completed check of all four tests, a page, a date and CC BY 4.0 attribution to Broadcastwell.
+
 ## Sources
 
 - Google Search Central. (2026). Creating helpful, reliable, people-first content. https://developers.google.com/search/docs/fundamentals/creating-helpful-content Verified 30 October 2026.
@@ -98,9 +102,15 @@ There is a cost to this standard: some memorable figures disappear, and some pag
 
 See the [Claim Registry](https://docs.broadcastwell.com/research/claims/) and [academic access](https://docs.broadcastwell.com/research/academic-access/).
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *The Broadcastwell evidence standard*. Broadcastwell. https://docs.broadcastwell.com/research/standard/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *The Broadcastwell evidence standard*. Broadcastwell. https://docs.broadcastwell.com/research/standard/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research24,
@@ -110,7 +120,7 @@ Broadcastwell research team. (2026, October 30). *The Broadcastwell evidence sta
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/standard/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -118,7 +128,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

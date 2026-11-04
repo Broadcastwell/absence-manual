@@ -7,13 +7,13 @@ research_id: 26
 research_group: playbook
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-03T18:40:50+00:00'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-03T18:40:50+00:00'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://developers.google.com/search/updates
 ---
 
@@ -123,9 +123,15 @@ Our 30 October 2026 [page-signal study](/research/studies/optimized-pages-in-ai-
 - Lewandowski, D., Sünkler, S., & Yagci, N. (2021). The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO. WebSci 2021, 12 to 20. doi:10.1145/3447535.3462479 . Accessible author original: https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf Verified 30 October 2026.
 - Broadcastwell. (2026). Do AI engines cite optimized pages? [Registered study plan]. OSF. Platform registration timestamp 30 October 2026, 01:06:12 UTC. https://doi.org/10.17605/OSF.IO/DVYFU Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *Which structured data belongs on a B2B software site?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/ Published 30 October 2026; updated November 3, 2026.
+Broadcastwell research team. (2026, October 30). *Which structured data belongs on a B2B software site?*. Broadcastwell. https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research26,
@@ -135,7 +141,7 @@ Broadcastwell research team. (2026, October 30). *Which structured data belongs 
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-11-03}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -143,7 +149,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. Not peer reviewed. Lead updated November 2, 2026.
 
-Last updated: 2026-11-03. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

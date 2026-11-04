@@ -7,13 +7,13 @@ research_id: 47
 research_group: study
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/ai-crawler-log/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://developers.openai.com/api/docs/bots
 research_dataset:
   name: Broadcastwell public Index crawler-request observations
@@ -125,11 +125,17 @@ The initial interval remains an historical snapshot rather than being overwritte
 - Apple. (2026, September 4). About Applebot. Applebot, Applebot-Extended and verification. https://support.apple.com/en-us/119829 Verified 30 October 2026.
 - Broadcastwell. (2026). Public-request crawler study collection instrument. https://docs.broadcastwell.com/research/data/research-crawler-collection.mjs . Initial implementation and later sanitizer correction distinguished in the page text. Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
 Report DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). All versions: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
-Broadcastwell research team. (2026, October 30). *The AI crawler log begins with a short observation window*. Broadcastwell. https://docs.broadcastwell.com/research/studies/ai-crawler-log/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *The AI crawler log begins with a short observation window*. Broadcastwell. https://docs.broadcastwell.com/research/studies/ai-crawler-log/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research47,
@@ -139,7 +145,7 @@ Broadcastwell research team. (2026, October 30). *The AI crawler log begins with
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/studies/ai-crawler-log/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -147,7 +153,7 @@ Prepared by the Broadcastwell research team. Lead: Vikram Patel.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Related reading
 

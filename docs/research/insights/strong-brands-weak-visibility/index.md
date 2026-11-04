@@ -7,13 +7,13 @@ research_id: 5
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-02T21:22:53Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/strong-brands-weak-visibility/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-02T21:22:53Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -102,9 +102,15 @@ The named examples can prompt investigation, but they cannot diagnose a cause. T
 
 - Giannakoulopoulos, A., Konstantinou, N., Koutsompolis, D., Pergantis, M., & Varlamis, I. (2019). Academic excellence, website quality, SEO performance: Deposited spreadsheets [Data set]. Zenodo. Results Sheet1, C3:C102 and H3:H102. https://doi.org/10.5281/zenodo.3484673 Verified 30 October 2026.
 
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
+
 ## Cite this page
 
-Broadcastwell research team. (2026, October 30). *Familiar brands can have low measured presence*. Broadcastwell. https://docs.broadcastwell.com/research/insights/strong-brands-weak-visibility/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *Familiar brands can have low measured presence*. Broadcastwell. https://docs.broadcastwell.com/research/insights/strong-brands-weak-visibility/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research5,
@@ -114,7 +120,7 @@ Broadcastwell research team. (2026, October 30). *Familiar brands can have low m
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/insights/strong-brands-weak-visibility/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -122,7 +128,7 @@ Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-02. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

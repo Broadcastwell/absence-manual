@@ -7,13 +7,13 @@ research_id: 1
 research_group: hub
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-03T00:33:20Z'
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-03T00:33:20Z'
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://doi.org/10.1145/3447535.3462479
 research_report_doi: https://doi.org/10.5281/zenodo.23804758
 research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
@@ -70,7 +70,7 @@ Read the source reviews of [university website measurements](sources/giannakoulo
 
 The [quotable numbers](evidence/quotable-numbers/) page gives the observation, source location and wording that can travel together. Its companion, [numbers we could not verify](evidence/unverified-numbers/), retains claims whose sources are missing, whose units changed in retelling or whose original papers do not support the advertised inference.
 
-Some rejected claims have useful ancestors. A historical Google Home study measured the length of spoken answers, for example; it did not establish the length of the user's voice query. Recovering the original does not make its observation current. Both the date and the measured object still matter.
+The historical Google Home study measured spoken-answer length, not voice-query length. Keep its date and measured object with the observation.
 
 The terminology entries distinguish [Share of Model](glossary/share-of-model/), [citation decay](glossary/citation-decay/), [query fan-out](glossary/query-fan-out/), [zero-click visibility](glossary/zero-click-visibility/), [entity confidence](glossary/entity-confidence/), [information gain](glossary/information-gain/), [agent discovery optimization](glossary/agent-discovery-optimization/) and [SEO/AEO/GEO](glossary/seo-aeo-geo/). Each attributes its definition and preserves what our observations can actually measure.
 
@@ -79,7 +79,7 @@ The Absence Manual supplies the longer explanation of [measurement noise](https:
 
 ## What our own data shows
 
-**Supports:** The September release is a fixed set of captured answers, not a survey of every buyer or every possible question. Its [versioned primary record](https://doi.org/10.5281/zenodo.22907695) and the derived tables linked from the individual insight pages keep the observation base visible.
+**Supports:** The [September archive](https://doi.org/10.5281/zenodo.22907695) records answers to a fixed buyer-question set. Each insight links its derived tables so readers can inspect the dated base. These observations do not represent all buyers or possible questions.
 
 **Does not support:** We have no measurement on this point: publishing this research section itself has not yet been shown to improve Broadcastwell's AI citation or search traffic.
 
@@ -101,11 +101,17 @@ The Absence Manual supplies the longer explanation of [measurement noise](https:
 
 See the [Claim Registry](https://docs.broadcastwell.com/research/claims/) and [academic access](https://docs.broadcastwell.com/research/academic-access/).
 
+## Where do the report records stand?
+
+Our canonical report remains on Zenodo. Read the [dated interpretation notice](data/report-interpretation-notice-2026-11-03.pdf) alongside the original archive. OSF preprint: not pursued.
+
+Academic data access and corrections: research@broadcastwell.com.
+
 ## Cite this page
 
 Report DOI: [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758). All versions: [10.5281/zenodo.23804757](https://doi.org/10.5281/zenodo.23804757).
 
-Broadcastwell research team. (2026, October 30). *What the research says about search and AI answers*. Broadcastwell. https://docs.broadcastwell.com/research/ Published 30 October 2026; updated 30 October 2026.
+Broadcastwell research team. (2026, October 30). *What the research says about search and AI answers*. Broadcastwell. https://docs.broadcastwell.com/research/ Published 30 October 2026; updated November 4, 2026.
 
 ```bibtex
 @online{broadcastwell2026research1,
@@ -115,7 +121,7 @@ Broadcastwell research team. (2026, October 30). *What the research says about s
   date = {2026-10-30},
   url = {https://docs.broadcastwell.com/research/},
   urldate = {2026-10-30},
-  note = {Published 2026-10-30; updated 2026-10-30}
+  note = {Published 2026-10-30; updated 2026-11-04}
 }
 ```
 
@@ -123,7 +129,7 @@ Prepared by the Broadcastwell research team. Lead: Priya Nair.
 
 Sources checked 30 October 2026. This page has not been peer reviewed.
 
-Last updated: 2026-11-03. Next review: 2027-02-02.
+Last updated: 2026-11-04. Next review: 2027-02-02.
 
 ## Continue
 

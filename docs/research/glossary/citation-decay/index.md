@@ -7,13 +7,13 @@ research_id: 36
 research_group: glossary
 lead: Vikram Patel
 published: '2026-11-02T20:27:14Z'
-updated: "2026-11-04T01:03:17.612597+00:00"
+updated: '2026-11-04T15:17:51Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/citation-decay/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T20:27:14Z'
-date_modified: "2026-11-04T01:03:17.612597+00:00"
+date_modified: '2026-11-04T15:17:51Z'
 is_based_on: https://www.tryprofound.com/blog/citation-decay
 defined_term: Citation decay
 ---
@@ -77,6 +77,12 @@ You can distinguish an ageing document from a measured decline in citation share
 - Broadcastwell. (2026). Absence Index, release 2026-09 [Data set]. Zenodo. Archived answers and release metadata. https://doi.org/10.5281/zenodo.22907695 ; [derived repeat-disagreement table](../../data/repeat-disagreement.csv). Verified 30 October 2026.
 
 Publication correction, November 2, 2026: October 30 was the draft date; this page first appeared November 2.
+
+## Report publication status
+
+OSF preprint: not pursued.
+
+Email research@broadcastwell.com.
 
 ## Cite this page
 

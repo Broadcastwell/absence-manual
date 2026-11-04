@@ -1,20 +1,20 @@
 {
   "title": "GEO Claim Registry",
-  "checked_date": "2026-11-02",
+  "checked_date": "2026-11-03",
   "license": "CC BY 4.0",
   "entry_count": 83,
   "entries": [
     {
       "id": "geo-forty",
       "claim": "GEO increases visibility by 40%",
-      "circulation": "Unqualified retellings of the GEO headline",
+      "circulation": "Unqualified retellings of the GEO headline; our earlier quotable-numbers reading, withdrawn November 3, 2026",
       "primary_source": "Aggarwal et al. (2024), GEO, KDD 2024, DOI 10.1145/3637528.3671900; author manuscript https://arxiv.org/html/2311.09735v3",
       "source_location": "Tables 1 and 6; sections 3.1 to 3.4",
-      "primary_finding": "Table 1 gives position-adjusted word count 19.3 to 27.2 for quotation addition, about 40.9% relative. The five-seed Table 6 gives 19.8 to 27.1, about 36.9%. Neither is organic citation probability.",
+      "primary_finding": "GEO experiment: Aggarwal et al. (KDD 2024) headline a gain of up to 40% in a position-adjusted word-count visibility metric. Treat it as fragile: the ICLR 2024 draft reported 37%, the paper's own five-seed rerun (appendix Table 6) gives 36.9%, and on Perplexity adding citations cut the judged score by 23% (19.0 vs 24.7) while keyword stuffing raised it 14%. It is not a citation, traffic or conversion gain. We have not recovered the exact ICLR submission for an independent check of the reported 37% headline. That version comparison remains a reported historical claim, not a newly verified result.",
       "base_setting": "1,000-query test split; five supplied source documents per query; 2024 publication",
       "verdict": "overstated",
-      "checked_date": "2026-11-02",
-      "quotable_correction": "The GEO benchmark measured a gain in a supplied-source visibility score; it did not establish a general citation uplift."
+      "checked_date": "2026-11-03",
+      "quotable_correction": "The GEO headline remains fragile, source-specific experimental evidence, not a citation, traffic or conversion gain."
     },
     {
       "id": "geo-iclr-thirty-seven",
