@@ -1,0 +1,47 @@
+{
+  "approved": true,
+  "reviewer": "root",
+  "review_kind": "root-exact-discovery-consumer-five",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "owner_source_plan_sha256": "44593747ca9c3891a8bf1db4d461b3fabd1ba1a50b37f66d258ed512ce785ab9",
+  "consumer_plan_sha256": "d67d3d912436efc72c31ef73d163878726dc2df7059cd98edfed18112afb5fb5",
+  "catalog_sha256": "e44c828358fb4c5b3ac86c8bc5280835a08e0ddb5e01d4ea2a88bc675a516607",
+  "Source_review_sha256": "a3e37e7aed2c25a954545894ee87fdc30386320287cb4ae020eddc108b5f784c",
+  "Writing_review_sha256": "0fd33e3708bfd686ed81b83c84e3356d42b6c17f3d3b788450afe0ffa1befe21",
+  "actual_public_before_receipt_sha256": "d51ec908d58bfefda006b937566f59525f59f638370d22ed5fb86e8e3eee3a2d",
+  "full_two_hub_before_after_actually_read": true,
+  "hub_date_event_sha256": "57db83b10ec6aa6e449f0b8d32eea1f78ebf607b4ea020e300beebf6371458a8",
+  "control_bound_utc": "2026-11-04T06:53:13.582660+00:00",
+  "dated_global_consumer_truth_correction_no_field_treatment": true,
+  "leaf_or_frozen_leaf_search_treatment_approval": false,
+  "actual_private_adoption_utc": "2026-11-04T06:23:09.715442+00:00",
+  "precise_metadata_decision": "Five copied discovery descriptions change in two generated bodies. Exactly two virtual hub date_modified fields advance to the actual Root06:23:09.715442 event. All other hub metadata, Source49, raw hub files and all45 leaf metadata remain exact. Earlier preserve-hub-date ruling is revoked; strict date guard and exact same-prior rebind remain active.",
+  "actual_code_review": {
+    "path": "discovery-five/ROOT_CORE_CODE_REVIEW.json",
+    "sha256": "6441faa1ede75a650ef91ab9c7c31cf026e1750bd3e3e96d6da836c623f8ea2f"
+  },
+  "actual_full_body_files": {
+    "answers/fixes/index.before.body.md": {
+      "path": "discovery-five/hubs/answers/fixes/index.before.body.md",
+      "sha256": "905b0fa635b055d2a9d022d5d1a789cd6eab918495f4b82547de19e68502b3d8"
+    },
+    "answers/fixes/index.after.body.md": {
+      "path": "discovery-five/hubs/answers/fixes/index.after.body.md",
+      "sha256": "8e4ba7c94a625b1d13d82eb932d7c165ebbbae8df7ed3abc1f47010ed4498397"
+    },
+    "answers/geo-basics/index.before.body.md": {
+      "path": "discovery-five/hubs/answers/geo-basics/index.before.body.md",
+      "sha256": "ad5f46579647ff55a8bf82e6ca05c608ef779177d6dffa8c26424edcc69d2956"
+    },
+    "answers/geo-basics/index.after.body.md": {
+      "path": "discovery-five/hubs/answers/geo-basics/index.after.body.md",
+      "sha256": "e6f293ff02f2a2e9808f729f2379fde31974d1263143578033503856e97afcff"
+    }
+  },
+  "publication_native_or_final_artifact_approval": false,
+  "prior_observation_consumer_review_sha256": "6c31cb8ea4baf933a3bde56c2e4849e45f1a4659411236046d8d81b2165af0d4",
+  "actual_six_local_output_review": {
+    "path": "artifact-proof/ROOT_DATED_CONSUMER6_LOCAL_OUTPUT_REVIEW.json",
+    "sha256": "b74b86e6f4dc5b8b5848af00b04646bea625be82fb1e1fca478a4e3a8538a424"
+  }
+}

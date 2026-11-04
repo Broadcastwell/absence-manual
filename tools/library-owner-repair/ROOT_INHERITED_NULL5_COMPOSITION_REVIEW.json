@@ -3,9 +3,9 @@
   "reviewer": "root",
   "review_kind": "root-exact-owner-inherited-null5-composition",
   "policy": "OWNER_EXACT_INHERITED_NULL_METHOD5_V1",
-  "composition_evidence_sha256": "de6ce0ab40c70771ba94486a9169a4f105a532c9a739cf1b92c0d622817c4026",
+  "composition_evidence_sha256": "8b49d6514d6a2bd88af74a1c616e098ae5a750f7f5787091009244b449d678ba",
   "ordinary_S5_or_footer_validity_approval": false,
-  "recorded_utc": "2026-11-04T04:51:42.453082+00:00",
+  "recorded_utc": "2026-11-04T06:53:13.582660+00:00",
   "Root_actual_evidence24_rows_read": true,
   "review_scope": "Exact inherited five NULL methods only, unchanged complete footer objects and spans, source kinds and method bases. All19 string method checks remain ordinary; two prior PASS pages retain separate ordinary Source/Writing peers.",
   "source49_after_bytes_and_whole_catalog_checked": true,
@@ -40,5 +40,23 @@
     "source_changes": 49,
     "source_manuscript_changes_since_V8": 0,
     "full_future_Linux_gate_still_required": true
+  },
+  "finite_five_consumer_continuation": {
+    "catalog_sha256": "e44c828358fb4c5b3ac86c8bc5280835a08e0ddb5e01d4ea2a88bc675a516607",
+    "Root_review": {
+      "path": "discovery-five/ROOT_CONSUMER_REVIEW.json",
+      "sha256": "6c31cb8ea4baf933a3bde56c2e4849e45f1a4659411236046d8d81b2165af0d4"
+    },
+    "Source49_unchanged": true,
+    "PDF8_unchanged": true,
+    "all45_leaf_metadata_and_leaf_search_unchanged_required": true,
+    "observation_only_pending_actual6_artifacts": true
+  },
+  "final_six_output_reproduction_scope": {
+    "actual_local_review_sha256": "b74b86e6f4dc5b8b5848af00b04646bea625be82fb1e1fca478a4e3a8538a424",
+    "local786": true,
+    "exact780_prior_Linux_carries": true,
+    "Manual2_inputs_exact_prior_Linux_carry": true,
+    "new_full_Linux_required": true
   }
 }

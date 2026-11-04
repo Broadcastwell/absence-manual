@@ -1243,7 +1243,7 @@
     "answers/fixes/index.html": {
       "class": "generated_hub",
       "before_sha256": "ffb68dca5dcea2a279bb319dadc14ee5f3930ac581f3daa6416ae7321f7b343c",
-      "after_sha256": "f9f614a6bdbf47ecaacbf54a2d3f5fb2615f9a808c89f3c7af8c9673160a3f21",
+      "after_sha256": "6a2d6a371747c32e2231f7a5552b4b479307f192b746f5d197abc5ef6c76a13c",
       "source_path": "docs/answers/fixes/index.md"
     },
     "answers/fixes/is-llms-txt-required-for-ai-search-visibility/index.html": {
@@ -1366,9 +1366,10 @@
       "after_sha256": "567a7233f59fa6a2c0b6a2cad1c08f189e58c795e543e5d9607438922f198558"
     },
     "answers/geo-basics/index.html": {
-      "class": "navigation_only",
+      "class": "generated_hub",
       "before_sha256": "912e5d99e577547b341646c6208078fd8132e132a9f15b30277c022ee91799d9",
-      "after_sha256": "c5d8621e230750e8f2e6353135c6b3aee44463562d083d8b53a0f0140ba4252d"
+      "after_sha256": "00f9ee0e6b1af0074de2f5573ad39384a421a3664192207f7bedc9e2f5da6819",
+      "source_path": "docs/answers/geo-basics/index.md"
     },
     "answers/geo-basics/is-geo-a-legitimate-strategy/index.html": {
       "class": "navigation_only",
@@ -2211,7 +2212,7 @@
     "llms.txt": {
       "class": "derived",
       "before_sha256": "cf0d5866d393fc465dcdf9a28bae0517a4545fc046a4e354a876392e12145813",
-      "after_sha256": "fd715918622f9b5102f7c6d7d36c740f19ce3b0901c792be568635157978c86a"
+      "after_sha256": "a62e1f13cfe04421bf784f784e4017ff05ff8d66853dedd9d2de655a6631cc6c"
     },
     "measurement-noise/index.html": {
       "class": "navigation_only",
@@ -2735,7 +2736,7 @@
     "search/search_index.json": {
       "class": "derived",
       "before_sha256": "37288d74ffd099dce38de2dd60313cf7ab60c620162dc92df8680c76c41aaf67",
-      "after_sha256": "5b4d7b32b3009c94aec58d4f0e503407db19f167b4766b6a9773c4cc711c6202"
+      "after_sha256": "1deed19b0a9eaf100bccf94da7da7a606c567a00cb5eb5fa8640bf8dd6fe9349"
     },
     "selection-not-ranking/index.html": {
       "class": "navigation_only",
@@ -2745,12 +2746,12 @@
     "sitemap.xml": {
       "class": "derived",
       "before_sha256": "4a0bddbc04c986000b2d17b9539ba7eedc655e76ee3792c8be0f8098f3f8f71a",
-      "after_sha256": "a64d21214b9d774c82af1795c89704e60f668a7192e36c2a27273aac005781c4"
+      "after_sha256": "cbc30d5499e1a02cbe20f72fabb7d291ddde7fde596221879599509ec04c0590"
     },
     "sitemap.xml.gz": {
       "class": "derived",
       "before_sha256": "4efe09fa58b3feb011ba848d07cfc557a947887ddfcf1d5e02617b8768a97495",
-      "after_sha256": "2c510fb786fe251525b0407ad589e8952eec5b4ea007b22de1d4c9bae4ff86cd"
+      "after_sha256": "5eab8f1018ee6b2b96364841a0980cc7f91c8cf496393dd1ec9d98bd1b0c3d43"
     },
     "valid-measurement/index.html": {
       "class": "navigation_only",
@@ -2780,8 +2781,12 @@
       "effective_meta_sha256": "f0b3d0f05086c24b1172d6ab887e79f0d223bb22f2e77aaa86956528d872f4b2"
     },
     "docs/answers/fixes/index.md": {
-      "effective_body_sha256": "905b0fa635b055d2a9d022d5d1a789cd6eab918495f4b82547de19e68502b3d8",
-      "effective_meta_sha256": "b5eed56e8cc18b88bf3dbd626d845679ee3ae56498eae502cc06596f688f1e2e"
+      "effective_body_sha256": "8e4ba7c94a625b1d13d82eb932d7c165ebbbae8df7ed3abc1f47010ed4498397",
+      "effective_meta_sha256": "98fc47e4b03e13ad7fa5eccc8ef7e3f04f999fb60b4d349b8985b6f24325b200"
+    },
+    "docs/answers/geo-basics/index.md": {
+      "effective_body_sha256": "e6f293ff02f2a2e9808f729f2379fde31974d1263143578033503856e97afcff",
+      "effective_meta_sha256": "98eef7058afef69e6a3d05eeb29306fcbe83f54f439ff830a9316c603d6774ba"
     }
   },
   "llms_literal_decisions": [
@@ -2854,7 +2859,7 @@
     },
     "tools/library_owner_repair_build.py": {
       "before_sha256": null,
-      "after_sha256": "fe6df652d51948e8e4c7a27eea911ef758a39922292a6e4a75fa4f1bce4f6244"
+      "after_sha256": "16dc6765ddc241d37c5a58cec5c60bf5919d791d3d769756194da38bac9dde3f"
     },
     "tools/library_owner_repair_consumers.py": {
       "before_sha256": null,
@@ -2902,7 +2907,7 @@
     },
     "tools/library_publication_build.py": {
       "before_sha256": "ce8ef3f3eea5fa6c22fa8062116c44d25d17c77b0fbd5c09c187faf38e1112e7",
-      "after_sha256": "cba2ef4f3cc28491733e9dea95e753280558662e0ba8b66db7cdd636109e14bf"
+      "after_sha256": "2a2568c97c44ac9d1fd17b961b8fd69fe71ca02b5671f76f46d4e3f6748bc2c9"
     },
     "tools/library_publication_composition.py": {
       "before_sha256": "e74daa4f06f63a75ec0706b711a026101c51f2a7fe8ee1ca7bfc1d04b509b9ed",
@@ -2922,7 +2927,7 @@
     },
     "tools/library_research_build.py": {
       "before_sha256": null,
-      "after_sha256": "df15d58cdd5612af7309af767a2f078062bbbbff819cc86bed809f5fea71b068"
+      "after_sha256": "105d32b184bd2928189bf2c8f4fbbfe520d89aea0c4c7c3b0f600d783a0ef136"
     },
     "tools/library_research_consumers.py": {
       "before_sha256": null,
@@ -2987,6 +2992,18 @@
     "tools/research_quality.py": {
       "before_sha256": "80154ec5b60035fe54672e0400fc452972d42ee64d6166a243aca9dc1edfa4b9",
       "after_sha256": "875c5a0caeb36f2032825581809a1e6315be0028807fb48878d6cb9e2c4f1686"
+    },
+    "tools/library_owner_discovery_consumer_five.py": {
+      "before_sha256": null,
+      "after_sha256": "4fbd5b47f9119100bb1dc7147b7486586d40b498ef038cceba9a7eb730f22890"
+    },
+    "tools/library_owner_discovery_consumer_five.json": {
+      "before_sha256": null,
+      "after_sha256": "e44c828358fb4c5b3ac86c8bc5280835a08e0ddb5e01d4ea2a88bc675a516607"
+    },
+    "tools/library_published_discovery_consumer_five.py": {
+      "before_sha256": null,
+      "after_sha256": "74a0606569e3a04b61be0b989189fda0270ba79a69f9f68c7f4f4b4ee3401911"
     }
   },
   "pdf_before_input_map_sha256": {
@@ -3012,5 +3029,9 @@
     "https://docs.broadcastwell.com/research/data/study1-citation-membership.csv": "7e813c5f0aa5072705fd224d1a050b3e839b8af86c41276f72bd600b7132c7d6"
   },
   "approval_scope": "Exact private49source candidate observation only. Final artifacts, generated hub body/meta, CSS bundle and Linux8PDF reviews remain pending; no publication or wholeS5 PASS.",
-  "Source_private317_relevance_inventory_manifest_sha256": "ab6dc8379681a223ee4735258bd0c90ceca7645a7eea394e3c8e9749b32e99fd"
+  "Source_private317_relevance_inventory_manifest_sha256": "ab6dc8379681a223ee4735258bd0c90ceca7645a7eea394e3c8e9749b32e99fd",
+  "discovery_consumer_five": {
+    "catalog_sha256": "e44c828358fb4c5b3ac86c8bc5280835a08e0ddb5e01d4ea2a88bc675a516607",
+    "plan_sha256": "d67d3d912436efc72c31ef73d163878726dc2df7059cd98edfed18112afb5fb5"
+  }
 }

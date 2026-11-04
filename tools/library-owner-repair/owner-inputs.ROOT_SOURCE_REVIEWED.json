@@ -11,9 +11,9 @@
   },
   "owner_source_plan": {
     "path": "owner-source-plan.ROOT_SOURCE_REVIEWED.json",
-    "sha256": "109f34aa1e33d966d6c6c8a3da69911d1ddb80537879b3cc18e1800dd3370301"
+    "sha256": "44593747ca9c3891a8bf1db4d461b3fabd1ba1a50b37f66d258ed512ce785ab9"
   },
-  "owner_source_plan_sha256": "109f34aa1e33d966d6c6c8a3da69911d1ddb80537879b3cc18e1800dd3370301",
+  "owner_source_plan_sha256": "44593747ca9c3891a8bf1db4d461b3fabd1ba1a50b37f66d258ed512ce785ab9",
   "root_current_before_read_receipt": {
     "path": "before-read.ROOT_REVIEWED.json",
     "sha256": "b42dfd7184e550f16d3b404b9d9c6d51ad8ed1b03141c0803ee9374231402108"
@@ -8830,12 +8830,38 @@
     "sha256": "d8d499d00479d89606b9a34f8a6e671092d67213203489ea3e176595dd625b64"
   },
   "root_artifact_review": {
-    "path": "ROOT_FIRST_ACTUAL_LINUX_ARTIFACT_REVIEW.json",
-    "sha256": "68a81fcc981007278ae6008c1e5ac1c7a9aaffc4d473808946b2a93c321d4204"
+    "path": "ROOT_DATED_CONSUMER6_EXACT_ARTIFACT_REVIEW.json",
+    "sha256": "0d0682381f14f03f035b51d3618cbb491fc5f00d6e4437770c80a7ba4be855fd"
   },
   "approval_scope": "Source-approved candidate observation; final artifact/PDF gates still pending.",
+  "discovery_consumer_five": {
+    "plan": {
+      "path": "discovery-five/CONSUMER_PLAN.json",
+      "sha256": "d67d3d912436efc72c31ef73d163878726dc2df7059cd98edfed18112afb5fb5"
+    },
+    "Source_review": {
+      "path": "discovery-five/SOURCE_REVIEW.json",
+      "sha256": "a3e37e7aed2c25a954545894ee87fdc30386320287cb4ae020eddc108b5f784c"
+    },
+    "Writing_review": {
+      "path": "discovery-five/WRITING_REVIEW.json",
+      "sha256": "0fd33e3708bfd686ed81b83c84e3356d42b6c17f3d3b788450afe0ffa1befe21"
+    },
+    "public_before": {
+      "path": "discovery-five/ACTUAL_PUBLIC_BEFORE.json",
+      "sha256": "d51ec908d58bfefda006b937566f59525f59f638370d22ed5fb86e8e3eee3a2d"
+    },
+    "hub_date_event": {
+      "path": "discovery-five/HUB_DATE_EVENT.json",
+      "sha256": "57db83b10ec6aa6e449f0b8d32eea1f78ebf607b4ea020e300beebf6371458a8"
+    },
+    "Root_review": {
+      "path": "discovery-five/ROOT_CONSUMER_REVIEW.json",
+      "sha256": "fdad4b3bb45bca3105163bacd84dc1bb5db426ed67b9e82f754f35be17a47da1"
+    }
+  },
   "owner_composition_review": {
     "path": "ROOT_INHERITED_NULL5_COMPOSITION_REVIEW.json",
-    "sha256": "f502206c2a97c367c3ba744a64dcdd79bb05d117fae8274860fdba27353d9753"
+    "sha256": "ad2e4ef92e61c11ab1d96c489fd150877c60cac4bf3af27415c0a969098bb83a"
   }
 }

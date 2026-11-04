@@ -1,0 +1,50 @@
+{
+  "read_kind": "actual-scripts-off-current-public-before-Consumer5",
+  "recorded_utc": "2026-11-04T05:42:21.289103+00:00",
+  "current_production": "90f4a5dab5b8ad9883526d75426e45019f8f3547",
+  "expected": 3,
+  "actual": 3,
+  "all_exact": true,
+  "requests_retried": 0,
+  "rows": [
+    {
+      "url": "https://docs.broadcastwell.com/llms.txt",
+      "path": "llms.txt",
+      "started_utc": "2026-11-04T05:42:20.358486+00:00",
+      "attempts": 1,
+      "status": 200,
+      "final_url": "https://docs.broadcastwell.com/llms.txt",
+      "sha256": "cf0d5866d393fc465dcdf9a28bae0517a4545fc046a4e354a876392e12145813",
+      "expected_PR93_sha256": "cf0d5866d393fc465dcdf9a28bae0517a4545fc046a4e354a876392e12145813",
+      "exact": true,
+      "body_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\CONSUMER5_CURRENT_PUBLIC_BEFORE\\llms.txt",
+      "completed_utc": "2026-11-04T05:42:20.716888+00:00"
+    },
+    {
+      "url": "https://docs.broadcastwell.com/answers/fixes/",
+      "path": "answers/fixes/index.html",
+      "started_utc": "2026-11-04T05:42:20.716888+00:00",
+      "attempts": 1,
+      "status": 200,
+      "final_url": "https://docs.broadcastwell.com/answers/fixes/",
+      "sha256": "ffb68dca5dcea2a279bb319dadc14ee5f3930ac581f3daa6416ae7321f7b343c",
+      "expected_PR93_sha256": "ffb68dca5dcea2a279bb319dadc14ee5f3930ac581f3daa6416ae7321f7b343c",
+      "exact": true,
+      "body_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\CONSUMER5_CURRENT_PUBLIC_BEFORE\\answers__fixes__index.html",
+      "completed_utc": "2026-11-04T05:42:20.999105+00:00"
+    },
+    {
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/",
+      "path": "answers/geo-basics/index.html",
+      "started_utc": "2026-11-04T05:42:20.999105+00:00",
+      "attempts": 1,
+      "status": 200,
+      "final_url": "https://docs.broadcastwell.com/answers/geo-basics/",
+      "sha256": "912e5d99e577547b341646c6208078fd8132e132a9f15b30277c022ee91799d9",
+      "expected_PR93_sha256": "912e5d99e577547b341646c6208078fd8132e132a9f15b30277c022ee91799d9",
+      "exact": true,
+      "body_file": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\CONSUMER5_CURRENT_PUBLIC_BEFORE\\answers__geo-basics__index.html",
+      "completed_utc": "2026-11-04T05:42:21.289103+00:00"
+    }
+  ]
+}

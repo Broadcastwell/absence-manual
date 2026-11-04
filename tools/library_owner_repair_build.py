@@ -202,10 +202,27 @@ class OwnerRepairBuildSession(BuildSession):
         require(set(self.overlay.active_revision_paths)==changed_answers,'Repair active map contains unlisted article changes')
         for rel in answers-changed_answers:
             require(self.overlay.records[rel]['effective_full_source']==prior_payload[rel]['effective_full_source'],'Unlisted prior effective article changed')
+        from library_owner_discovery_consumer_five import bind_consumer_five
+        self.consumer5,self.hubs=bind_consumer_five(config,load,self.owner_plan,self.registry,self.hubs,set(self.s5_scope.frozen),sha(plan_raw),
+          {p:self.archive.read(p) for p in ['llms.txt','answers/fixes/index.html','answers/geo-basics/index.html']})
+        if self.consumer5 is not None:
+            # Rebind the unchanged strict date policy after the exact checked
+            # virtual body/date projection, using the same actual prior proof.
+            from library_publication_sitemap_dates import bind_publication_dates
+            require(self.publication_dates is not None,'Consumer5 needs the existing strict publication-date policy')
+            hub_ref=self.inputs['files']['prior_hub_payload'];payload_ref=self.inputs['files']['prior_payload']
+            self.publication_dates=bind_publication_dates(self.registry,prior_xml=self.archive.read('sitemap.xml'),
+                prior_payload_bundle=json.loads(self._file('prior_payload').read_bytes()),
+                prior_hub_bundle=json.loads(self._file('prior_hub_payload').read_bytes()),
+                actual_prior_artifacts=self.prior_artifacts,
+                producer_receipt=self.overlay._load_receipt(sha(self._file('production_receipt').read_bytes())),
+                payload_file_sha256=payload_ref['sha256'],hub_file_sha256=hub_ref['sha256'],research_support=self.research_support)
         self._repair_seal=digest([self.repair_config,self.repair_sources,self.repair_before_sources]);return self
 
     def check_repair(self):
         self.owner_plan.assert_current();self.post_s5_binding.check();self.overlay._check_unchanged()
+        require((getattr(self,'consumer5',None) is not None)==bool(self.owner_plan.data.get('discovery_consumer_five')),'Declared consumer5 binding was dropped')
+        if getattr(self,'consumer5',None) is not None:self.consumer5.check(self.hubs)
         require(digest([self.repair_config,self.repair_sources,self.repair_before_sources])==self._repair_seal,'Repair inputs/records changed after bind')
         for source,note in self.owner_plan.data['source_changes'].items():
             if source.removeprefix('docs/') in self.overlay.records:continue
@@ -243,6 +260,9 @@ class OwnerRepairBuildSession(BuildSession):
         # owner-requested resource summaries retain their exact existing
         # title/site-name prefix unless Root's finite literal says otherwise.
         self.expected_repair_llms,self.llms_proof=apply_llms_lines((self.site/'llms.txt').read_bytes(),llms_edits,allowed_urls=allowed_urls)
+        if getattr(self,'consumer5',None) is not None:
+            self.expected_repair_llms,proof=self.consumer5.llms(self.expected_repair_llms)
+            self.llms_proof={'after_sha256':sha(self.expected_repair_llms),'exact_inverse_or_actual_contexts':True,'source_bound_base':self.llms_proof,'separate_consumer5':proof}
         (self.site/'llms.txt').write_bytes(self.expected_repair_llms)
         nonlibrary={SITE+public_route(p).strip('/')+'/':r['meta'] for p,r in self.repair_sources.items() if not p.startswith('answers/')}
         dates={u:m['date_modified'][:10] for u,m in nonlibrary.items()}
@@ -307,6 +327,7 @@ class OwnerRepairBuildSession(BuildSession):
             new=[r for r in json.loads((self.site/'search/search_index.json').read_bytes())['docs'] if r.get('location','').split('#')[0]==root]
             if old!=new:search_contexts[p]=contexts[p];expected_records[p]=r
         search_proof=validate_actual_search(self.archive.read('search/search_index.json'),(self.site/'search/search_index.json').read_bytes(),changed_contexts=search_contexts,expected_records=expected_records)
+        if getattr(self,'consumer5',None) is not None:self.consumer5.search(self.archive.read('search/search_index.json'),(self.site/'search/search_index.json').read_bytes())
         require((self.site/'llms.txt').read_bytes()==self.expected_repair_llms and (self.site/'sitemap.xml').read_bytes()==self.expected_repair_xml and (self.site/'sitemap.xml.gz').read_bytes()==self.expected_repair_gz,'Final repair derived consumer bytes differ')
         for name in ['page-head-and-structured-data','library-hubs','llms']:
             require(name in self.registry.receipts,'Actual effective consumer proof missing')
@@ -415,6 +436,9 @@ def main():
     base_llms=generate_effective_llms(session.registry,original=session.archive.read('llms.txt'),hub_metadata=hm,source_generator=module)
     allowed={SITE+public_route(p).strip('/')+'/' for p in session.repair_sources}
     session.expected_repair_llms,session.llms_proof=apply_llms_lines(base_llms,session.repair_config.get('llms_line_edits',[]),allowed_urls=allowed)
+    if getattr(session,'consumer5',None) is not None:
+        session.expected_repair_llms,proof=session.consumer5.llms(session.expected_repair_llms)
+        session.llms_proof={'after_sha256':sha(session.expected_repair_llms),'exact_inverse_or_actual_contexts':True,'source_bound_base':session.llms_proof,'separate_consumer5':proof}
     xml,_=generate_effective_sitemaps(session.registry,prior_xml=session.archive.read('sitemap.xml'),hub_metadata=hm,merged_sources=session.overlay.merge_statuses,field_freeze=session.freeze,publication_dates=session.publication_dates)
     nonlib={SITE+public_route(p).strip('/')+'/':r['meta'] for p,r in session.repair_sources.items() if not p.startswith('answers/')}
     dates={u:m['date_modified'][:10] for u,m in nonlib.items()}

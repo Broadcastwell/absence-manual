@@ -103,6 +103,8 @@ class ResearchBuildSession:
             'actual_candidate_public_sha256':{p:sha(raw) for p,raw in sorted(after.items())},'actual_delta':delta}))
 
     def verify_release(self,site_dir):
+        from library_published_discovery_consumer_five import checked_published_binding
+        published5=checked_published_binding(self.base)
         from library_publication_consumers import validate_page_contexts,generate_effective_llms,generate_effective_sitemaps,validate_effective_search,public_route
         from library_publication_canonical_stub import validate_stub_build,render_canonical_stub,stub_artifact_path
         from library_publication_release import make_compiled_state,complete_current_analysis
@@ -124,6 +126,7 @@ class ResearchBuildSession:
         source=importlib.util.module_from_spec(spec);spec.loader.exec_module(source)
         hubmeta={p:r['meta'] for p,r in b.hubs.items()}
         expected_llms=generate_effective_llms(b.registry,original=self.archive.read('llms.txt'),hub_metadata=hubmeta,source_generator=source)
+        if published5 is not None:expected_llms,_=published5.llms(expected_llms)
         require((self.site/'llms.txt').read_bytes()==expected_llms==self.prior_public['llms.txt'],'Research changed llms or Library discovery')
         base_xml,base_gz=generate_effective_sitemaps(b.registry,prior_xml=self.archive.read('sitemap.xml'),hub_metadata=hubmeta,
             merged_sources=b.overlay.merge_statuses,field_freeze=b.freeze,publication_dates=b.publication_dates,research_support=self.support)
@@ -132,6 +135,7 @@ class ResearchBuildSession:
         validate_effective_search(b.registry,prior_bytes=self.archive.read('search/search_index.json'),
             candidate_bytes=(self.site/'search/search_index.json').read_bytes(),actual_page_contexts=library,
             merged_sources=b.overlay.merge_statuses,research_permit=self.permit,research_contexts=research)
+        if published5 is not None:published5.search(self.archive.read('search/search_index.json'),(self.site/'search/search_index.json').read_bytes())
         for name in ['page-head-and-structured-data','library-hubs','llms']:
             require(name in b.registry.receipts,'Actual Library consumer proof missing')
             b.overlay.register_metadata_consumer(name,b.overlay.public_metadata_fingerprint())
