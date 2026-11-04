@@ -14,7 +14,7 @@ except ModuleNotFoundError:
 
 FLOORS={'hub':(800,1400),'insight':(1400,2500),'source':(1400,2500),
         'study':(1400,2500),'playbook':(1200,2200),'glossary':(600,1100)}
-ISO=re.compile(r'^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:Z|\+\d{2}:\d{2})$')
+ISO=re.compile(r'^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|\+\d{2}:\d{2})$')
 
 class VisibleText(HTMLParser):
     def __init__(self):

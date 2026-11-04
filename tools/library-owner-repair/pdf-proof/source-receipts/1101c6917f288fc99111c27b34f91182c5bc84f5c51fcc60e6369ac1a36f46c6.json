@@ -1,0 +1,66 @@
+{
+  "PDF_descriptor_weight_preservation_PASS": false,
+  "Root_visual_or_release_approval": false,
+  "actual_full_extracted_text_font_geometry_comparison_complete": true,
+  "actual_page_count": 116,
+  "after_consumed_inputs_sha256": "42d08e0689105194f5538a3839e1356e112f8098cbfe5eb6da643ca143c96f8f",
+  "after_pdf_sha256": "03dae21791d7909faef8f183b9d3dd767d9c6aef7f111519d9695e3e25b2dadd",
+  "all_existing_science_truth_newly_certified": false,
+  "all_original_figures_quotes_dates_preserved_or_exact_source_approved": true,
+  "approved": true,
+  "before_consumed_inputs_sha256": "db0f02aec6f97f5952169ad1c46b2d1779f9a8f5b5db3dfc9de0c3b84fbdb83f",
+  "before_pdf_sha256": "91cefee9c96e4005ea00806fe6a80f149b2b42aefdf02c53f9dc0c5700fe358e",
+  "comparison_proof": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PR94_LINUX_EIGHT_PDF_SOURCE_REVIEW_V1\\EIGHT_ACTUAL_PDF_OBSERVATION_AND_INPUT_PROOF.json",
+    "sha256": "8397408daeac9007fad0684f3e600e857de57936f16a67bf2b20709cca60ea89"
+  },
+  "exact_alias_paths": [
+    "absence-manual-v1.0-2026-08-18.pdf",
+    "absence-manual.pdf"
+  ],
+  "exact_changed_source_review_lineage": {
+    "absence-rules.md": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\RISK_VERIFY_ROOT_V6_SEO_FINAL_SCOPED_SOURCE_V1\\ABSENCE_RULES_CURRENT_SCOPED_SOURCE_RECEIPT.json",
+      "sha256": "92e6aeed9496bc31d3cb2b149f8911e5ef7b9e2366479c4286478b8e698b793a"
+    },
+    "why-does-chatgpt-not-mention-us.md": {
+      "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\RISK_VERIFY_ROOT_V3_FINAL_SCOPED_SOURCE_V2\\receipts\\docs__why-does-chatgpt-not-mention-us.md.json",
+      "sha256": "f76f54d42e0dc5b8a694187683e84f6a288b0428d9b3d0abb9f4b1be0dba6c20"
+    }
+  },
+  "full_text_and_geometry_sha256": "2ae54321c31e5e806e35d26c5d0506d0e85c3d7163ae69151d7c85447fe60b96",
+  "http301_verified": false,
+  "independent_Linux_observation_exact": true,
+  "ordinary_S5_approval": false,
+  "path": "absence-manual.pdf",
+  "physical_font_provenance_facts": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PR94_LINUX_EIGHT_PDF_SOURCE_REVIEW_V1\\ACTUAL133_PHYSICAL_FONT_PROVENANCE.NOT_STYLE_APPROVAL.json",
+    "sha256": "973c6b93d7b1ebd3d43f5be08eb7ab485005de665995982e71581340a35cf3f2"
+  },
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "read_scope": {
+    "exact_all133_prior_Source_wording_carry": false,
+    "fresh_Manual_changed_full_page_reads": [
+      1,
+      2,
+      12,
+      13
+    ],
+    "fresh_whole_document_semantic_reread_claimed": false,
+    "new_native_visual_reads": 0,
+    "unchanged_complete_Manual_page_records": 112
+  },
+  "review_kind": "source-exact-owner-repair-pdf-text",
+  "reviewer": "source",
+  "scope": "exact-finite-text-source-and-geometry-preservation",
+  "source_observation": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RVLNX1\\.owner-repair-work\\pdf-observations\\absence-manual.pdf.NOT_APPROVED.json",
+    "sha256": "02a5c7994ac74357fc3cc3fc8b900993182f94d026c4c516b54078b1d2e67610"
+  },
+  "target_text_style_preserved": false,
+  "text_changes_source_reviewed": true,
+  "text_preservation_decisions": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PR94_LINUX_EIGHT_PDF_SOURCE_REVIEW_V1\\SOURCE_FULL_TEXT_PRESERVATION_DECISIONS.json",
+    "sha256": "6ca8f82d1c9952ab95459c356e9714c5b59985cf27c0d49ff18e5ed06a257026"
+  }
+}

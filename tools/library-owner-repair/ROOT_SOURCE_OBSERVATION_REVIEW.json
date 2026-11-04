@@ -1,5 +1,5 @@
 {
-  "recorded_utc": "2026-11-04T03:18:12.349807+00:00",
+  "recorded_utc": "2026-11-04T04:51:42.467439+00:00",
   "Root_source_observation_inputs_reviewed": true,
   "source_changes": 49,
   "nonPDF_sources": 43,
@@ -54,7 +54,7 @@
     },
     "tools/library_owner_repair.py": {
       "before_sha256": null,
-      "after_sha256": "018e21ab24fe90b960983a45ad09cade446bda934337bb02f95912173b823c84"
+      "after_sha256": "98af1b1c1457d14270ba5e1da88ac6f160470ce202a5a162b9ea4e0beb2b7460"
     },
     "tools/library_owner_repair_absence_seo.py": {
       "before_sha256": null,
@@ -66,7 +66,7 @@
     },
     "tools/library_owner_repair_consumers.py": {
       "before_sha256": null,
-      "after_sha256": "944a37b1722a08cefa068d4a344072cba463c43fe816ff033e7761ec279aec56"
+      "after_sha256": "8f5b47a72c379421f22950a37aaf32a77d9e314cbb9e600115a5e85c07780354"
     },
     "tools/library_owner_repair_four_facts.py": {
       "before_sha256": null,
@@ -86,7 +86,7 @@
     },
     "tools/library_owner_repair_pdf.py": {
       "before_sha256": null,
-      "after_sha256": "2dcdd14ba88d971e2b5d1f65aba839bbcc6dd9f4b82c494b415674167bedac6b"
+      "after_sha256": "07f233163270203fbb5eb44de5bde81b134a9da2b8d0a173b559c51de6eb4a77"
     },
     "tools/library_owner_repair_post_s5.py": {
       "before_sha256": null,
@@ -182,7 +182,19 @@
     },
     "tools/verify_build.py": {
       "before_sha256": "58c90fdebdb4fae84fc6fab0c02d9b27de9f7faf034045526d5485648ce11276",
-      "after_sha256": "c5295fb46dc17b39b76523256877a89c73003c3ce7fb49ea87aa26c3c679dbe5"
+      "after_sha256": "33f61566ecf6c11ef2229f0d328bb24e5aa1bc04a17e2cdcd8ab8ae2db54706d"
+    },
+    "tools/library_owner_repair_surface.py": {
+      "before_sha256": null,
+      "after_sha256": "53f47f3be4f12575fe0e4e48f1eb0f0420e0cbc51ef0338ad884fd82d4303254"
+    },
+    "tools/library_owner_repair_surface_templates.json": {
+      "before_sha256": null,
+      "after_sha256": "14aae64a5e969184bcc638bba935b19a76b18b20cc173f345bb74840b46c36b6"
+    },
+    "tools/research_quality.py": {
+      "before_sha256": "80154ec5b60035fe54672e0400fc452972d42ee64d6166a243aca9dc1edfa4b9",
+      "after_sha256": "875c5a0caeb36f2032825581809a1e6315be0028807fb48878d6cb9e2c4f1686"
     }
   },
   "resource_llms_literal_decisions": [
@@ -244,5 +256,11 @@
     "targeted_tests": 27,
     "PASS": 27,
     "skip": 0
-  }
+  },
+  "Root_actual_first_Linux_artifact_review": {
+    "path": "ROOT_FIRST_ACTUAL_LINUX_ARTIFACT_REVIEW.json",
+    "sha256": "68a81fcc981007278ae6008c1e5ac1c7a9aaffc4d473808946b2a93c321d4204"
+  },
+  "Root_actual_PDF_rows": 8,
+  "scope": "Exact sources and first actual Linux artifacts/PDFs approved for the guarded rerun; future CI, merge, deployment and live readback are separate."
 }

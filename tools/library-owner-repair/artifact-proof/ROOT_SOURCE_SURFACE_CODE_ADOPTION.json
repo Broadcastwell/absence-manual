@@ -1,0 +1,65 @@
+{
+  "recorded_utc": "2026-11-04T04:47:46.821949+00:00",
+  "Root_full_code_review_complete": true,
+  "independent_review_complete": true,
+  "source_manifest_sha256": "46901ab47fc3deb1b3603943dd6179a912d8cecfa51db17b1cb92a17f2c9fd1b",
+  "Source_complete_diff_sha256": "1390ea3ca4b6c3a37854a3ecd169877d356ac87dc3999088719ead1b60ac2ea7",
+  "independent_review_sha256": "dfbb5fd1f052b64af10be3e94c2a3e59629ae1764e40eb2de9633a2ed2679fff",
+  "ordinary_navigation_only_and_pagination_AST_exact": true,
+  "current_Artifact_352_navigation_only_40_source_2_hubs_unchanged": true,
+  "Source_portable_tests": {
+    "PASS": 20,
+    "skip": 0,
+    "seconds": 14.593
+  },
+  "Source_existing_Surface_tests": {
+    "PASS": 3,
+    "seconds": 2.507
+  },
+  "Source_actual40_comparator_and_final_nav_loop_pass": true,
+  "Root_private_test_module_pollution_and_loader_shadow_findings_closed": true,
+  "files": [
+    {
+      "path": "tests/fixtures/owner-content-surface/actual-seven-public-source-cases.json",
+      "before_sha256": null,
+      "after_sha256": "ff3ddb79fa49534376fcb01225cb14547aa42749c3305a44b806fc62ef98c7ee"
+    },
+    {
+      "path": "tests/owner_surface_support.py",
+      "before_sha256": null,
+      "after_sha256": "8e17e5eb20f98b682502a7d8e63c1a5dc2cfaee981d5c76d9fbab02a228898e5"
+    },
+    {
+      "path": "tests/test_owner_content_surfaces.py",
+      "before_sha256": null,
+      "after_sha256": "3540df72d82ff14ed55525c19ad0d2b08897a21c2a16ef9c3801e19296b6736c"
+    },
+    {
+      "path": "tests/test_owner_repair_render_pdf.py",
+      "before_sha256": "14db4804f4a87ee917266770f595b122c22599cabcc395fb2151f2fa01c0d225",
+      "after_sha256": "c5c326287d80c724ba1afa5e7c5c2b014202c9884904afc285ccc25650cc78e6"
+    },
+    {
+      "path": "tools/library_owner_repair.py",
+      "before_sha256": "018e21ab24fe90b960983a45ad09cade446bda934337bb02f95912173b823c84",
+      "after_sha256": "98af1b1c1457d14270ba5e1da88ac6f160470ce202a5a162b9ea4e0beb2b7460"
+    },
+    {
+      "path": "tools/library_owner_repair_consumers.py",
+      "before_sha256": "2dff1b7106cd79234e04723abaa50db1b61fc365c1ca9437cb46b6d9363984f3",
+      "after_sha256": "8f5b47a72c379421f22950a37aaf32a77d9e314cbb9e600115a5e85c07780354"
+    },
+    {
+      "path": "tools/library_owner_repair_surface.py",
+      "before_sha256": null,
+      "after_sha256": "53f47f3be4f12575fe0e4e48f1eb0f0420e0cbc51ef0338ad884fd82d4303254"
+    },
+    {
+      "path": "tools/library_owner_repair_surface_templates.json",
+      "before_sha256": null,
+      "after_sha256": "14aae64a5e969184bcc638bba935b19a76b18b20cc173f345bb74840b46c36b6"
+    }
+  ],
+  "new_source_or_frozen_page_edits": 0,
+  "complete_owning_suite_Linux_build_or_release_approval": false
+}

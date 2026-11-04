@@ -5,9 +5,9 @@
   "review_kind": "root-reviewed-portable-owner-blueprint",
   "blueprint": {
     "path": "tools/library-owner-repair/release.json",
-    "sha256": "d9d7bae265cd1d51e804e50db208f30f111a7431cdaecfa65f452713d02f50ec"
+    "sha256": "089d2f3912d866ff201a9fe7fa42399a773585573ab78afe68795d80e9041cd8"
   },
-  "actual_Root_read_record_sha256": "76f4443516dfdad1a1bca8c8addc9bfcc691163bccf68b98418e30bdd2807777",
+  "actual_Root_read_record_sha256": "302b0781cec8774c861b449645038f355449c3b8a4835bb35ef4f552fc6bb9f0",
   "prior_artifact": {
     "id": 13277324668,
     "sha256": "04b35fe2e233e95266c359094c6c242bfc58c4c1a7657d22da09dd827ba71d01"

@@ -143,7 +143,7 @@ def apply_nonlibrary_sitemap_dates(before,dates,*,approved_source_metadata,froze
     return after,compressed,proof,{'after_sha256':sha(compressed),'exact_inverse_or_actual_contexts':True,'gzip_matches_xml':True}
 
 def public_url(path):
-    return path.removesuffix('index.md') if path.endswith('index.md') else path.removesuffix('.md')+'/'
+    return path.removesuffix('index.md') if path=='index.md' or path.endswith('/index.md') else path.removesuffix('.md')+'/'
 
 
 def require_exact_repair_render(path,body,html,meta):
@@ -201,7 +201,8 @@ def validate_render_context(path,record,context,rendered):
         def handle_data(self,d):
             if self.in_title:self.title+=d
     h=Head();h.feed(rendered.decode());title=record['meta']['title'];description=record['meta']['description']
-    require(h.title==title+' | The Absence Manual','Actual repair document title stale')
+    from library_owner_repair_surface import template_document_title
+    require(h.title==template_document_title(record['meta']),'Actual repair document title stale')
     require(h.canonical==[SITE+public_url(path)],'Actual repair canonical differs')
     for field in ['og:title','twitter:title']:require(h.meta.get(field)==[title],'Actual repair social title stale')
     for field in ['description','og:description','twitter:description']:require(h.meta.get(field)==[description],'Actual repair description stale')
@@ -216,7 +217,9 @@ def validate_content_surface(path,before_record,after_record,context,before,afte
     the two resource labels, and the combined stylesheet's href.
     """
     from library_owner_repair import validate_primary_labels,validate_pagination_labels,spans,LABELS
-    raw_pair=[]
+    from pathlib import Path
+    from library_owner_repair_surface import project_source_template_slots,template_document_title
+    raw_pair=[];template_proofs=[]
     for record,raw,version in [(before_record,before,'before'),(after_record,after,'after')]:
         text=raw.decode();matches=list(re.finditer(r'<article\b[^>]*>(.*?)</article>',text,re.S))
         require(len(matches)==1,'Actual content surface requires one article')
@@ -230,15 +233,22 @@ def validate_content_surface(path,before_record,after_record,context,before,afte
         content=inner[:split].strip();tail=inner[split:]
         require_exact_repair_render(path,record['body'],content,record['meta'])
         if version=='after':require(content==context['html'].strip(),'Final visible content differs from actual renderer context')
-        raw_pair.append((text[:match.start(1)]+'__EXACT_SOURCE_CONTENT__'+tail+text[match.end(1):]).encode())
+        projected,proof=project_source_template_slots(path,record,(text[:match.start(1)]+'__EXACT_SOURCE_CONTENT__'+tail+text[match.end(1):]).encode(),template_root=Path(__file__).resolve().parents[1])
+        raw_pair.append(projected);template_proofs.append(proof)
     # Both labels must still be exactly the two owner literals. The token
     # validator below retains all other nav content and structure.
-    validate_primary_labels(public_url(path)+'index.html',before,after)
+    # Exact source-derived TOCs have already been independently checked.
+    # Keep the existing strict two-label validator on every remaining nav byte.
+    page=public_url(path)+'index.html'
+    (a,b),(c,d)=validate_primary_labels(page,raw_pair[0],raw_pair[1])
+    raw_pair[1]=raw_pair[1][:c]+raw_pair[0][a:b]+raw_pair[1][d:]
+    raw_pair=list(validate_pagination_labels(page,*raw_pair))
     class Surface(HTMLParser):
         def __init__(self,raw,meta,version):
-            super().__init__(convert_charrefs=True);self.tokens=[];self.meta=meta;self.version=version;self.json_mode=False;self.json_text='';self.feed(raw.decode());self.close()
+            super().__init__(convert_charrefs=True);self.tokens=[];self.meta=meta;self.version=version;self.json_mode=False;self.json_text='';self.in_title=False;self.feed(raw.decode());self.close()
         def handle_starttag(self,t,a):
             attrs=[];d=dict(a)
+            if t=='title':self.in_title=True
             for k,v in a:
                 if t=='meta' and k=='content':
                     key=d.get('name') or d.get('property')
@@ -250,11 +260,13 @@ def validate_content_surface(path,before_record,after_record,context,before,afte
             self.tokens.append(('start',t,attrs))
             if t=='script' and d.get('type')=='application/ld+json':self.json_mode=True;self.json_text=''
         def handle_endtag(self,t):
+            if t=='title':self.in_title=False
             if t=='script' and self.json_mode:
                 obj=json.loads(self.json_text)
                 if obj.get('@type')==self.meta.get('schema_type','Article'):
                     for k,field in [('name','headline'),('headline','headline'),('description','description'),('datePublished','date_published'),('dateModified','date_modified')]:
-                        require(obj.get(k)==self.meta[field],'Structured repair metadata is stale: '+k);obj[k]='__EXACT_'+field+'__'
+                        expected=self.meta.get(field,self.meta['title'] if field=='headline' else '')
+                        require(obj.get(k)==expected,'Structured repair metadata is stale: '+k);obj[k]='__EXACT_'+field+'__'
                 if obj.get('@type')=='BreadcrumbList':
                     require(obj['itemListElement'][-1]['name']==self.meta['title'],'Structured breadcrumb is stale');obj['itemListElement'][-1]['name']='__EXACT_title__'
                 if obj.get('@type')=='Dataset':
@@ -267,14 +279,11 @@ def validate_content_surface(path,before_record,after_record,context,before,afte
         def handle_decl(self,d):self.tokens.append(('decl',d))
         def handle_data(self,d):
             if self.json_mode:self.json_text+=d;return
-            if d==self.meta['title'] or d==self.meta['title']+' | The Absence Manual':d=d.replace(self.meta['title'],'__EXACT_title__',1)
-            for old,new in LABELS.values():
-                label=old if self.version=='before' else new
-                # Only isolated navigation label nodes (not arbitrary prose).
-                if d.strip()==label:d=d.replace(label,'__EXACT_RESOURCE_'+old+'__')
-                for prefix in ['Previous: ','Next: ']:
-                    if d==prefix+label:d=prefix+'__EXACT_RESOURCE_'+old+'__'
+            if self.in_title:
+                require(d==template_document_title(self.meta),'Actual document title differs from pinned template/source')
+                d='__EXACT_DOCUMENT_TITLE__'
             self.tokens.append(('data',d))
     a=Surface(raw_pair[0],before_record['meta'],'before');b=Surface(raw_pair[1],after_record['meta'],'after')
     require(a.tokens==b.tokens,'Content repair changes unrelated head/script/chrome/footer tokens')
-    return {'source_path':'docs/'+path,'after_sha256':sha(after),'source_render_exact':True,'outside_approved_content_metadata_navigation_tokens_exact':True}
+    return {'source_path':'docs/'+path,'before_sha256':sha(before),'after_sha256':sha(after),'source_render_exact':True,'outside_approved_content_metadata_navigation_tokens_exact':True,'source_template_slots':template_proofs,'all_template_slot_inverses_exact':True,
+        'source_navigation':{'before_full_source':before_record['effective_full_source'],'after_full_source':after_record['effective_full_source'],'before_html_sha256':sha(before),'after_html_sha256':sha(after)}}

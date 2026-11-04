@@ -1,0 +1,25 @@
+{
+  "review_kind": "independent-finite-same-renderer-page6-pixel-boundary",
+  "actual_reviewer": "/root/related_review",
+  "recorded_utc": "2026-11-04T04:31:19.087533+00:00",
+  "actual_original_images_displayed_and_read": 4,
+  "scope": "KAL and WHITE before/after original page6 only",
+  "result": "Outside exact footer+33 tight edge rectangles: zero changed pixels in each pair. Protected inherited domain/count-touch rectangle is byte-identical.",
+  "observed_existing_defect": "Long-domain labels touch adjacent19/18 counts in both before/after. It is preserved, not silently repaired or falsely called clean.",
+  "pixel_cause_inferred": false,
+  "proposed_masks_Root_approval_pending": true,
+  "source_science_geometry_evidence": "Exact Source8 receipts and physical PDF bytes rehashed/bound; page6 body before footer and geometry independently compared from those exact observations.",
+  "Source_eight_manifest": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PR94_LINUX_EIGHT_PDF_SOURCE_REVIEW_V1\\MANIFEST.SOURCE_TEXT_ONLY.json",
+    "sha256": "e5d7b30216bd1d07cee2b271ebdfe5c8ac374a0fca3457df04304b5897ce4ab1"
+  },
+  "owning_module": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\risk-verify-repo\\tools\\library_owner_repair_pdf.py",
+    "sha256": "07f233163270203fbb5eb44de5bde81b134a9da2b8d0a173b559c51de6eb4a77"
+  },
+  "owning_files_edited": false,
+  "PDFs_or_images_modified": false,
+  "new_rendering_or_build_session": false,
+  "browser_network_or_engine_used": false,
+  "global_style_website_S5_or_publication_approval": false
+}

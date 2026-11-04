@@ -1,0 +1,55 @@
+{
+  "PDF_descriptor_weight_preservation_PASS": false,
+  "Root_visual_or_release_approval": false,
+  "actual_full_extracted_text_font_geometry_comparison_complete": true,
+  "actual_page_count": 26,
+  "after_consumed_inputs_sha256": "cb47e8c3089e21c5cae1d9602d5d1647f976750f98b2de150b777caff064b551",
+  "after_pdf_sha256": "9179775f9f06522834c47112912d3b3fa255e40bcb9fff8cc86b94c4afb641c2",
+  "all_existing_science_truth_newly_certified": false,
+  "all_original_figures_quotes_dates_preserved_or_exact_source_approved": true,
+  "approved": true,
+  "before_consumed_inputs_sha256": "4f2e505b1a6c46e72c2ed132d280c69e205da1723269907a126823c8b9712178",
+  "before_pdf_sha256": "404db56c98b6c03604f99a851ef8acc2f1dc793d4286bcedaba880b852d79a9a",
+  "comparison_proof": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PR94_LINUX_EIGHT_PDF_SOURCE_REVIEW_V1\\EIGHT_ACTUAL_PDF_OBSERVATION_AND_INPUT_PROOF.json",
+    "sha256": "8397408daeac9007fad0684f3e600e857de57936f16a67bf2b20709cca60ea89"
+  },
+  "exact_alias_paths": [
+    "assets/samples/White_label_Category_Audit_sample.pdf",
+    "assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf"
+  ],
+  "full_text_and_geometry_sha256": "fbf75641532941060b6e5ce147b1a77890201f7e68e0747c558df59cb7107d08",
+  "http301_verified": false,
+  "independent_Linux_observation_exact": true,
+  "ordinary_S5_approval": false,
+  "path": "assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf",
+  "physical_font_provenance_facts": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PR94_LINUX_EIGHT_PDF_SOURCE_REVIEW_V1\\ACTUAL133_PHYSICAL_FONT_PROVENANCE.NOT_STYLE_APPROVAL.json",
+    "sha256": "973c6b93d7b1ebd3d43f5be08eb7ab485005de665995982e71581340a35cf3f2"
+  },
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "prior_Source_preservation_review": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PDF_ROOT_V2_R1_SOURCE_PRESERVATION\\SOURCE_TEXT_PRESERVATION_APPROVAL.json",
+    "sha256": "68aa10d52a6936c8356c1383d03effa881e26bd5db7b6076d15a9540d106299a"
+  },
+  "read_scope": {
+    "exact_all133_prior_Source_wording_carry": true,
+    "fresh_Manual_changed_full_page_reads": [],
+    "fresh_whole_document_semantic_reread_claimed": false,
+    "new_native_visual_reads": 0,
+    "unchanged_complete_Manual_page_records": null
+  },
+  "review_kind": "source-exact-owner-repair-pdf-text",
+  "reviewer": "source",
+  "scope": "exact-finite-text-source-and-geometry-preservation",
+  "source_observation": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RVLNX1\\.owner-repair-work\\pdf-observations\\assets__samples__WhiteLabel_Sample_Category_Audit_v2.pdf.NOT_APPROVED.json",
+    "sha256": "5f2f505575ada2be96114f351214611bc933c47a3e66c74ed9e62a21a36b818e"
+  },
+  "target_text_style_preserved": false,
+  "text_changes_source_reviewed": true,
+  "text_preservation_decisions": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PR94_LINUX_EIGHT_PDF_SOURCE_REVIEW_V1\\SOURCE_FULL_TEXT_PRESERVATION_DECISIONS.json",
+    "sha256": "6ca8f82d1c9952ab95459c356e9714c5b59985cf27c0d49ff18e5ed06a257026"
+  }
+}

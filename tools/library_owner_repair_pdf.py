@@ -132,7 +132,13 @@ def validate_owner_pdf_review(*,path,old,new,review_raw,review_sha256,observatio
     changed={p for p in set(before_inputs)|set(after_inputs) if before_inputs.get(p)!=after_inputs.get(p)}
     allowed={**source_change_pins,**approved_code_pins}
     for p in changed:
-        require(p in allowed and allowed[p].get('before_sha256')==before_inputs.get(p) and allowed[p].get('after_sha256')==after_inputs.get(p),'PDF source/generator input changed outside exact Root plan')
+        pin=allowed.get(p,{})
+        # Consumed-input maps hash physical bytes. Markdown source approval
+        # separately retains its canonical and, where different, physical pin.
+        before_pin=pin.get('before_sha256')
+        if p in source_change_pins and p.endswith('.md'):
+            before_pin=source_change_pins[p].get('before_actual_physical_source_sha256',before_pin)
+        require(p in allowed and before_pin==before_inputs.get(p) and pin.get('after_sha256')==after_inputs.get(p),'PDF source/generator input changed outside exact Root plan')
     require(review.get('after_consumed_inputs_sha256')==digest(after_inputs) and review.get('before_consumed_inputs_sha256')==digest(before_inputs),'Root PDF input-map digest differs')
     require(review.get('full_text_and_geometry_sha256')==digest({'before':observation['before'],'after':observation['after']}),'Root full PDF proof differs')
     require(sha(source_review_raw)==source_review_sha256==review.get('source_review_receipt_sha256'),'PDF source receipt bytes differ')

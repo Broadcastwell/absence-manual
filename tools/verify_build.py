@@ -114,7 +114,7 @@ TECHARTICLE_CLASSES = {"chapter", "appendix"}
 ARTICLE_TYPES = {"TechArticle", "Article"}
 WORD_FLOOR_CLASSES = {"chapter"}
 
-ISO_STAMP = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\+\d{2}:\d{2}|Z)$")
+ISO_STAMP = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(\+\d{2}:\d{2}|Z)$")
 FRONT_MATTER = re.compile(r"(?s)\A\s*\n?-{3}\n(.*?)\n-{3}\n")
 TABLE_RULE = re.compile(r"(?m)^\|[-|\s:]+$")
 

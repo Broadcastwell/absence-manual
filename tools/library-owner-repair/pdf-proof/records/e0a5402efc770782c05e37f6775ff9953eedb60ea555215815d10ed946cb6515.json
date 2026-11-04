@@ -1,0 +1,98 @@
+[
+  {
+    "actual_reader": "/root/related_review",
+    "tag": "KAL",
+    "page": 6,
+    "version": "before",
+    "actual_original_path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\P6_SAME_POPPLER_BEFORE\\KAL-06.png",
+    "actual_original_png_sha256": "f6a7ea5f35f37b6dab0a2a1b9985814fe275916222c56d28df3d4fda57b929da",
+    "actual_original_fullpage_display_and_read": true,
+    "view_started_utc": "2026-11-04T04:26:55+00:00",
+    "read_completed_no_later_than_utc": "2026-11-04T04:31:17.587775+00:00",
+    "dimensions": [
+      1020,
+      1320
+    ],
+    "observed_features": "Full original page read: heading, introductory count/base explanation, all13 table rows and five columns, own-domain footnote and full footer. Two long domain labels touch the adjacent first numeric column at the protected region in both versions. Footer replacement readable after. No new visible cutoff/overlap/missing glyph observed outside this inherited defect.",
+    "layout_is_globally_clean": false,
+    "known_inherited_defect_rectangle": [
+      270,
+      565,
+      330,
+      622
+    ],
+    "Root_personal_read_or_publication_approval_claimed": false
+  },
+  {
+    "actual_reader": "/root/related_review",
+    "tag": "KAL",
+    "page": 6,
+    "version": "after",
+    "actual_original_path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\FIRST_LINUX_PDF_RASTERS\\KAL-after\\page-06.png",
+    "actual_original_png_sha256": "376d3776cc5f42e15f8b661167a9236970d2d6a4dbff92e3ee72c7d092b87991",
+    "actual_original_fullpage_display_and_read": true,
+    "view_started_utc": "2026-11-04T04:26:55+00:00",
+    "read_completed_no_later_than_utc": "2026-11-04T04:31:17.587775+00:00",
+    "dimensions": [
+      1020,
+      1320
+    ],
+    "observed_features": "Full original page read: heading, introductory count/base explanation, all13 table rows and five columns, own-domain footnote and full footer. Two long domain labels touch the adjacent first numeric column at the protected region in both versions. Footer replacement readable after. No new visible cutoff/overlap/missing glyph observed outside this inherited defect.",
+    "layout_is_globally_clean": false,
+    "known_inherited_defect_rectangle": [
+      270,
+      565,
+      330,
+      622
+    ],
+    "Root_personal_read_or_publication_approval_claimed": false
+  },
+  {
+    "actual_reader": "/root/related_review",
+    "tag": "WHITE",
+    "page": 6,
+    "version": "before",
+    "actual_original_path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\P6_SAME_POPPLER_BEFORE\\WHITE-06.png",
+    "actual_original_png_sha256": "d3f3f8946f8267483570d4762304b98db3b4f1a3a9d471b00bbacffddcb220cd",
+    "actual_original_fullpage_display_and_read": true,
+    "view_started_utc": "2026-11-04T04:26:55+00:00",
+    "read_completed_no_later_than_utc": "2026-11-04T04:31:19.070865+00:00",
+    "dimensions": [
+      1020,
+      1320
+    ],
+    "observed_features": "Full original page read: heading, introductory count/base explanation, all13 table rows and five columns, own-domain footnote and full footer. Two long domain labels touch the adjacent first numeric column at the protected region in both versions. Footer replacement readable after. No new visible cutoff/overlap/missing glyph observed outside this inherited defect.",
+    "layout_is_globally_clean": false,
+    "known_inherited_defect_rectangle": [
+      270,
+      565,
+      330,
+      622
+    ],
+    "Root_personal_read_or_publication_approval_claimed": false
+  },
+  {
+    "actual_reader": "/root/related_review",
+    "tag": "WHITE",
+    "page": 6,
+    "version": "after",
+    "actual_original_path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\FIRST_LINUX_PDF_RASTERS\\WHITE-after\\page-06.png",
+    "actual_original_png_sha256": "d3efa1858c3da77e4aa86d77921b8f142861a1fcdfa7f69f54fa59412456c516",
+    "actual_original_fullpage_display_and_read": true,
+    "view_started_utc": "2026-11-04T04:26:55+00:00",
+    "read_completed_no_later_than_utc": "2026-11-04T04:31:19.070865+00:00",
+    "dimensions": [
+      1020,
+      1320
+    ],
+    "observed_features": "Full original page read: heading, introductory count/base explanation, all13 table rows and five columns, own-domain footnote and full footer. Two long domain labels touch the adjacent first numeric column at the protected region in both versions. Footer replacement readable after. No new visible cutoff/overlap/missing glyph observed outside this inherited defect.",
+    "layout_is_globally_clean": false,
+    "known_inherited_defect_rectangle": [
+      270,
+      565,
+      330,
+      622
+    ],
+    "Root_personal_read_or_publication_approval_claimed": false
+  }
+]

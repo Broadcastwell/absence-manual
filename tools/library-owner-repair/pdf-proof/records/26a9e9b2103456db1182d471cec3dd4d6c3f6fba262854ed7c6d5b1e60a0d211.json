@@ -1,0 +1,18 @@
+{
+  "helper_module": {
+    "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\risk-verify-repo\\tools\\library_owner_repair_pdf.py",
+    "sha256": "07f233163270203fbb5eb44de5bde81b134a9da2b8d0a173b559c51de6eb4a77"
+  },
+  "isolated_helper_source_sha256": "b980fc5bd3f2b7f60ed5c9112aa5bb7405ba4b6a0a8cbc2b640cc93e8a247550",
+  "exact_helpers_compiled": [
+    "rectangle",
+    "unchanged_pixels_outside_rectangles"
+  ],
+  "method": "Exact two function ASTs extracted into isolated context with unchanged ValueError require; no owning module import/build/session.",
+  "pairs_checked": 2,
+  "full_exact_mask_accepts": 2,
+  "each_necessary_mask_omission_rejections": 68,
+  "footer_only_rejections": 2,
+  "protected_overlap_rejections": 2,
+  "ordinary_runtime_changed": false
+}

@@ -3,9 +3,9 @@
   "reviewer": "root",
   "review_kind": "root-exact-owner-inherited-null5-composition",
   "policy": "OWNER_EXACT_INHERITED_NULL_METHOD5_V1",
-  "composition_evidence_sha256": "8528976501b92443ec602ed23005adf4dde3b9e42ce5a6f8e02ad95b6404c6c6",
+  "composition_evidence_sha256": "de6ce0ab40c70771ba94486a9169a4f105a532c9a739cf1b92c0d622817c4026",
   "ordinary_S5_or_footer_validity_approval": false,
-  "recorded_utc": "2026-11-04T03:33:09.254739+00:00",
+  "recorded_utc": "2026-11-04T04:51:42.453082+00:00",
   "Root_actual_evidence24_rows_read": true,
   "review_scope": "Exact inherited five NULL methods only, unchanged complete footer objects and spans, source kinds and method bases. All19 string method checks remain ordinary; two prior PASS pages retain separate ordinary Source/Writing peers.",
   "source49_after_bytes_and_whole_catalog_checked": true,
@@ -31,5 +31,14 @@
     "targeted_tests": 27,
     "PASS": 27,
     "skip": 0
+  },
+  "exact_first_actual_Linux_artifact_PDF_and_surface_continuation": {
+    "actual_files": 788,
+    "changed_files": 409,
+    "named_PDFs": 8,
+    "finite_surface_records": 394,
+    "source_changes": 49,
+    "source_manuscript_changes_since_V8": 0,
+    "full_future_Linux_gate_still_required": true
   }
 }

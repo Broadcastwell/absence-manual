@@ -1,0 +1,1739 @@
+{
+  "reviewer": "/root/related_review",
+  "recorded_utc": "2026-11-04T04:31:19.070865+00:00",
+  "coordinate_convention": "Original 1020x1320 image pixels, half-open [left,top,right,bottom], as owning rectangle guard.",
+  "rectangular_grouping_rule": "For each of two disjoint x zones, minimal bounding rectangle for each maximal consecutive changed-y row run; all four rectangle bounds hit changed pixels. This is a tight deterministic cover, not a claim of globally fewest rectangle count.",
+  "Root_preliminary_32_regions_correction": "Actual measurement has19left+14right=33 edge rectangles, identical in both sample pairs.",
+  "rows": [
+    {
+      "tag": "KAL",
+      "page": 6,
+      "public_PDF_path": "assets/samples/Kalvenor_Sample_Category_Audit.pdf",
+      "exact_alias_paths": [
+        "assets/samples/Category_Audit_sample_Kalvenor_fictional.pdf",
+        "assets/samples/Kalvenor_Sample_Category_Audit.pdf"
+      ],
+      "before_PNG": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\P6_SAME_POPPLER_BEFORE\\KAL-06.png",
+        "sha256": "f6a7ea5f35f37b6dab0a2a1b9985814fe275916222c56d28df3d4fda57b929da"
+      },
+      "after_PNG": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\FIRST_LINUX_PDF_RASTERS\\KAL-after\\page-06.png",
+        "sha256": "376d3776cc5f42e15f8b661167a9236970d2d6a4dbff92e3ee72c7d092b87991"
+      },
+      "before_PDF": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_SMALL_STAGE2_RELEASE\\PR93_REVIEW\\preview\\assets\\samples\\Kalvenor_Sample_Category_Audit.pdf",
+        "sha256": "b62e9a2eaf769d9e453a8668656713b2d173aeecb72ec8cdb12c7381ab39eea0"
+      },
+      "after_PDF": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RVLNX1\\site\\assets\\samples\\Kalvenor_Sample_Category_Audit.pdf",
+        "sha256": "d8355a804f9e26c0fd3670419d647ea5998d79c88804e2e8b1bad368c7487384"
+      },
+      "renderer_binding": {
+        "executable": "C:\\Users\\saira\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\poppler\\Library\\bin\\pdftoppm.exe",
+        "actual_binary_sha256": "8a7c0aa1cb5b4da26a922938693a87a6f9b5ee589aaeca705b8d44a42aac1eb7",
+        "dpi": 120,
+        "after_render_manifest": {
+          "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\FIRST_LINUX_PDF_RASTERS\\RENDER_MANIFEST.json",
+          "sha256": "19749d115fdecd495c3ce1099eed7ec98d9ecb15869ca07f5294bbde468be09a"
+        },
+        "before_Root_generation_manifest": {
+          "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\P6_SAME_POPPLER_BEFORE\\MANIFEST.json",
+          "sha256": "94c945ecfb3e2a4ddef21375fdc7128cd0579e91ff6b270957b42ebc8f75bca1"
+        },
+        "before_same_renderer_claim_source": "Root actual same-Poppler generation manifest and direct task assignment; no independent rerender performed"
+      },
+      "geometry_pixels": [
+        1020,
+        1320
+      ],
+      "total_changed_pixels": 2229,
+      "footer_rectangle": [
+        90,
+        1245,
+        460,
+        1275
+      ],
+      "footer_changed_pixels": 1337,
+      "outside_footer_changed_pixels": 892,
+      "edge_region_count": 33,
+      "left_region_count": 19,
+      "right_region_count": 14,
+      "left_changed_pixels": 875,
+      "right_changed_pixels": 17,
+      "edge_regions": [
+        {
+          "id": "left-first-character-01",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            104,
+            103,
+            114
+          ],
+          "changed_pixels": 56,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-02",
+          "zone": "left-first-character",
+          "rectangle": [
+            96,
+            131,
+            114,
+            154
+          ],
+          "changed_pixels": 67,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-03",
+          "zone": "left-first-character",
+          "rectangle": [
+            96,
+            186,
+            106,
+            198
+          ],
+          "changed_pixels": 62,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-04",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            212,
+            103,
+            222
+          ],
+          "changed_pixels": 54,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-05",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            263,
+            103,
+            272
+          ],
+          "changed_pixels": 47,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-06",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            297,
+            102,
+            306
+          ],
+          "changed_pixels": 25,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-07",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            330,
+            103,
+            338
+          ],
+          "changed_pixels": 51,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-08",
+          "zone": "left-first-character",
+          "rectangle": [
+            96,
+            358,
+            102,
+            368
+          ],
+          "changed_pixels": 38,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-09",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            391,
+            102,
+            399
+          ],
+          "changed_pixels": 42,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-10",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            423,
+            102,
+            431
+          ],
+          "changed_pixels": 47,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-11",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            454,
+            102,
+            461
+          ],
+          "changed_pixels": 35,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-12",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            484,
+            102,
+            492
+          ],
+          "changed_pixels": 42,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-13",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            516,
+            103,
+            523
+          ],
+          "changed_pixels": 33,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-14",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            547,
+            102,
+            555
+          ],
+          "changed_pixels": 47,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-15",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            574,
+            102,
+            584
+          ],
+          "changed_pixels": 28,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-16",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            609,
+            102,
+            617
+          ],
+          "changed_pixels": 47,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-17",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            637,
+            103,
+            647
+          ],
+          "changed_pixels": 51,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-18",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            670,
+            102,
+            678
+          ],
+          "changed_pixels": 42,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-19",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            705,
+            104,
+            715
+          ],
+          "changed_pixels": 61,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-01",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            285,
+            926,
+            287
+          ],
+          "changed_pixels": 2,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-02",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            317,
+            926,
+            318
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-03",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            349,
+            926,
+            350
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-04",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            379,
+            926,
+            381
+          ],
+          "changed_pixels": 2,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-05",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            410,
+            926,
+            411
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-06",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            441,
+            926,
+            442
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-07",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            472,
+            926,
+            474
+          ],
+          "changed_pixels": 2,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-08",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            503,
+            926,
+            504
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-09",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            534,
+            926,
+            535
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-10",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            566,
+            926,
+            567
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-11",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            596,
+            926,
+            597
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-12",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            627,
+            926,
+            628
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-13",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            659,
+            926,
+            660
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-14",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            689,
+            926,
+            690
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        }
+      ],
+      "all_rectangles_pairwise_disjoint": true,
+      "total_proposed_mask_area_pixels": 12751,
+      "outside_all_proposed_masks_changed_pixels": 0,
+      "protected_rectangle": [
+        270,
+        565,
+        330,
+        622
+      ],
+      "protected_changed_pixels": 0,
+      "protected_RGBA_bytes_sha256": "7cf858ea2e6229d7140d6d55793b52e5b820806f4e838115905905f7850fbcda",
+      "protected_RGBA_byte_count": 13680,
+      "protected_defect": {
+        "id": "inherited-long-domain-column-touch",
+        "description": "The fieldservicereview.example and servicebuyersguide.example labels touch the adjacent 19 and 18 counts. This existing defect remains visible in before and after.",
+        "rectangle": [
+          270,
+          565,
+          330,
+          622
+        ]
+      },
+      "isolated_exact_owning_guard_result": true,
+      "negative_controls": [
+        {
+          "omitted_rectangle_index": 0,
+          "rectangle": [
+            90,
+            1245,
+            460,
+            1275
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 1,
+          "rectangle": [
+            95,
+            104,
+            103,
+            114
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 2,
+          "rectangle": [
+            96,
+            131,
+            114,
+            154
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 3,
+          "rectangle": [
+            96,
+            186,
+            106,
+            198
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 4,
+          "rectangle": [
+            95,
+            212,
+            103,
+            222
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 5,
+          "rectangle": [
+            95,
+            263,
+            103,
+            272
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 6,
+          "rectangle": [
+            95,
+            297,
+            102,
+            306
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 7,
+          "rectangle": [
+            95,
+            330,
+            103,
+            338
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 8,
+          "rectangle": [
+            96,
+            358,
+            102,
+            368
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 9,
+          "rectangle": [
+            95,
+            391,
+            102,
+            399
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 10,
+          "rectangle": [
+            95,
+            423,
+            102,
+            431
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 11,
+          "rectangle": [
+            95,
+            454,
+            102,
+            461
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 12,
+          "rectangle": [
+            95,
+            484,
+            102,
+            492
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 13,
+          "rectangle": [
+            95,
+            516,
+            103,
+            523
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 14,
+          "rectangle": [
+            95,
+            547,
+            102,
+            555
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 15,
+          "rectangle": [
+            95,
+            574,
+            102,
+            584
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 16,
+          "rectangle": [
+            95,
+            609,
+            102,
+            617
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 17,
+          "rectangle": [
+            95,
+            637,
+            103,
+            647
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 18,
+          "rectangle": [
+            95,
+            670,
+            102,
+            678
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 19,
+          "rectangle": [
+            95,
+            705,
+            104,
+            715
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 20,
+          "rectangle": [
+            925,
+            285,
+            926,
+            287
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 21,
+          "rectangle": [
+            925,
+            317,
+            926,
+            318
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 22,
+          "rectangle": [
+            925,
+            349,
+            926,
+            350
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 23,
+          "rectangle": [
+            925,
+            379,
+            926,
+            381
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 24,
+          "rectangle": [
+            925,
+            410,
+            926,
+            411
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 25,
+          "rectangle": [
+            925,
+            441,
+            926,
+            442
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 26,
+          "rectangle": [
+            925,
+            472,
+            926,
+            474
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 27,
+          "rectangle": [
+            925,
+            503,
+            926,
+            504
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 28,
+          "rectangle": [
+            925,
+            534,
+            926,
+            535
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 29,
+          "rectangle": [
+            925,
+            566,
+            926,
+            567
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 30,
+          "rectangle": [
+            925,
+            596,
+            926,
+            597
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 31,
+          "rectangle": [
+            925,
+            627,
+            926,
+            628
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 32,
+          "rectangle": [
+            925,
+            659,
+            926,
+            660
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 33,
+          "rectangle": [
+            925,
+            689,
+            926,
+            690
+          ],
+          "rejected": true
+        },
+        {
+          "control": "footer-only",
+          "rejected": true,
+          "message": "PDF pixels changed outside the exact approved rectangles"
+        },
+        {
+          "control": "protected-overlap",
+          "rejected": true,
+          "message": "Approved visual edit may not mask an inherited defect"
+        }
+      ],
+      "source_preservation_evidence": {
+        "source_receipt": {
+          "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PR94_LINUX_EIGHT_PDF_SOURCE_REVIEW_V1\\source-pdf-receipts\\assets__samples__Kalvenor_Sample_Category_Audit.pdf.source.json",
+          "sha256": "610f11f37608fa18162859fecf480e6af48f9a74a9dc0534010091577df59442"
+        },
+        "observation": {
+          "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RVLNX1\\.owner-repair-work\\pdf-observations\\assets__samples__Kalvenor_Sample_Category_Audit.pdf.NOT_APPROVED.json",
+          "sha256": "af26433ae0491909587a2cbf045e78bfc72f9d2761fc55962b9cdcf66b83061e"
+        },
+        "full_text_and_geometry_sha256": "6d9bda8c7836782021de84720cb7e9c399bb65525392b2ce6f5c7da233102faa",
+        "Source_all_scientific_text_preserved_or_exact_approved": true,
+        "actual_body_text_before_footer_exact": true,
+        "body_text_before_footer_sha256": "131e8fceb868ba1d6c448e6129d5ac7c46883da24332e98b2e33b09bba2b9676",
+        "page6_geometry_exact": true,
+        "page6_geometry": {
+          "crop_box": [
+            "0",
+            "0",
+            "612",
+            "792"
+          ],
+          "media_box": [
+            "0",
+            "0",
+            "612",
+            "792"
+          ],
+          "rotation": 0
+        },
+        "footer_extraction_sequence_changes": true,
+        "footer_extraction_note": "Footer text is split/reordered in the extraction around the approved Category Audit -> Retired sample replacement. The source body before that footer is exact. Actual spatial footer was read in both original rasters.",
+        "new_scientific_or_descriptor_style_approval_inferred": false
+      },
+      "proposed_masks_approved_by_this_reviewer": false,
+      "cause_of_edge_pixel_differences": "UNDETERMINED; coordinates and exact pixel deltas only, no antialiasing/other cause inferred"
+    },
+    {
+      "tag": "WHITE",
+      "page": 6,
+      "public_PDF_path": "assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf",
+      "exact_alias_paths": [
+        "assets/samples/White_label_Category_Audit_sample.pdf",
+        "assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf"
+      ],
+      "before_PNG": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\P6_SAME_POPPLER_BEFORE\\WHITE-06.png",
+        "sha256": "d3f3f8946f8267483570d4762304b98db3b4f1a3a9d471b00bbacffddcb220cd"
+      },
+      "after_PNG": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\FIRST_LINUX_PDF_RASTERS\\WHITE-after\\page-06.png",
+        "sha256": "d3efa1858c3da77e4aa86d77921b8f142861a1fcdfa7f69f54fa59412456c516"
+      },
+      "before_PDF": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\S5_SMALL_STAGE2_RELEASE\\PR93_REVIEW\\preview\\assets\\samples\\WhiteLabel_Sample_Category_Audit_v2.pdf",
+        "sha256": "404db56c98b6c03604f99a851ef8acc2f1dc793d4286bcedaba880b852d79a9a"
+      },
+      "after_PDF": {
+        "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RVLNX1\\site\\assets\\samples\\WhiteLabel_Sample_Category_Audit_v2.pdf",
+        "sha256": "9179775f9f06522834c47112912d3b3fa255e40bcb9fff8cc86b94c4afb641c2"
+      },
+      "renderer_binding": {
+        "executable": "C:\\Users\\saira\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\poppler\\Library\\bin\\pdftoppm.exe",
+        "actual_binary_sha256": "8a7c0aa1cb5b4da26a922938693a87a6f9b5ee589aaeca705b8d44a42aac1eb7",
+        "dpi": 120,
+        "after_render_manifest": {
+          "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\FIRST_LINUX_PDF_RASTERS\\RENDER_MANIFEST.json",
+          "sha256": "19749d115fdecd495c3ce1099eed7ec98d9ecb15869ca07f5294bbde468be09a"
+        },
+        "before_Root_generation_manifest": {
+          "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RISK_VERIFY_FIXES_2026-11-03\\PR94_REVIEW\\P6_SAME_POPPLER_BEFORE\\MANIFEST.json",
+          "sha256": "94c945ecfb3e2a4ddef21375fdc7128cd0579e91ff6b270957b42ebc8f75bca1"
+        },
+        "before_same_renderer_claim_source": "Root actual same-Poppler generation manifest and direct task assignment; no independent rerender performed"
+      },
+      "geometry_pixels": [
+        1020,
+        1320
+      ],
+      "total_changed_pixels": 2211,
+      "footer_rectangle": [
+        90,
+        1245,
+        460,
+        1275
+      ],
+      "footer_changed_pixels": 1319,
+      "outside_footer_changed_pixels": 892,
+      "edge_region_count": 33,
+      "left_region_count": 19,
+      "right_region_count": 14,
+      "left_changed_pixels": 875,
+      "right_changed_pixels": 17,
+      "edge_regions": [
+        {
+          "id": "left-first-character-01",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            104,
+            103,
+            114
+          ],
+          "changed_pixels": 56,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-02",
+          "zone": "left-first-character",
+          "rectangle": [
+            96,
+            131,
+            114,
+            154
+          ],
+          "changed_pixels": 67,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-03",
+          "zone": "left-first-character",
+          "rectangle": [
+            96,
+            186,
+            106,
+            198
+          ],
+          "changed_pixels": 62,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-04",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            212,
+            103,
+            222
+          ],
+          "changed_pixels": 54,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-05",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            263,
+            103,
+            272
+          ],
+          "changed_pixels": 47,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-06",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            297,
+            102,
+            306
+          ],
+          "changed_pixels": 25,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-07",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            330,
+            103,
+            338
+          ],
+          "changed_pixels": 51,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-08",
+          "zone": "left-first-character",
+          "rectangle": [
+            96,
+            358,
+            102,
+            368
+          ],
+          "changed_pixels": 38,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-09",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            391,
+            102,
+            399
+          ],
+          "changed_pixels": 42,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-10",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            423,
+            102,
+            431
+          ],
+          "changed_pixels": 47,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-11",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            454,
+            102,
+            461
+          ],
+          "changed_pixels": 35,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-12",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            484,
+            102,
+            492
+          ],
+          "changed_pixels": 42,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-13",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            516,
+            103,
+            523
+          ],
+          "changed_pixels": 33,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-14",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            547,
+            102,
+            555
+          ],
+          "changed_pixels": 47,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-15",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            574,
+            102,
+            584
+          ],
+          "changed_pixels": 28,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-16",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            609,
+            102,
+            617
+          ],
+          "changed_pixels": 47,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-17",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            637,
+            103,
+            647
+          ],
+          "changed_pixels": 51,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-18",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            670,
+            102,
+            678
+          ],
+          "changed_pixels": 42,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "left-first-character-19",
+          "zone": "left-first-character",
+          "rectangle": [
+            95,
+            705,
+            104,
+            715
+          ],
+          "changed_pixels": 61,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-01",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            285,
+            926,
+            287
+          ],
+          "changed_pixels": 2,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-02",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            317,
+            926,
+            318
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-03",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            349,
+            926,
+            350
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-04",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            379,
+            926,
+            381
+          ],
+          "changed_pixels": 2,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-05",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            410,
+            926,
+            411
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-06",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            441,
+            926,
+            442
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-07",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            472,
+            926,
+            474
+          ],
+          "changed_pixels": 2,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-08",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            503,
+            926,
+            504
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-09",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            534,
+            926,
+            535
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-10",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            566,
+            926,
+            567
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-11",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            596,
+            926,
+            597
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-12",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            627,
+            926,
+            628
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-13",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            659,
+            926,
+            660
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        },
+        {
+          "id": "right-rule-14",
+          "zone": "right-rule",
+          "rectangle": [
+            925,
+            689,
+            926,
+            690
+          ],
+          "changed_pixels": 1,
+          "tight_bounds_hit_on_all_four_sides": true
+        }
+      ],
+      "all_rectangles_pairwise_disjoint": true,
+      "total_proposed_mask_area_pixels": 12751,
+      "outside_all_proposed_masks_changed_pixels": 0,
+      "protected_rectangle": [
+        270,
+        565,
+        330,
+        622
+      ],
+      "protected_changed_pixels": 0,
+      "protected_RGBA_bytes_sha256": "7cf858ea2e6229d7140d6d55793b52e5b820806f4e838115905905f7850fbcda",
+      "protected_RGBA_byte_count": 13680,
+      "protected_defect": {
+        "id": "inherited-long-domain-column-touch",
+        "description": "The fieldservicereview.example and servicebuyersguide.example labels touch the adjacent 19 and 18 counts. This existing defect remains visible in before and after.",
+        "rectangle": [
+          270,
+          565,
+          330,
+          622
+        ]
+      },
+      "isolated_exact_owning_guard_result": true,
+      "negative_controls": [
+        {
+          "omitted_rectangle_index": 0,
+          "rectangle": [
+            90,
+            1245,
+            460,
+            1275
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 1,
+          "rectangle": [
+            95,
+            104,
+            103,
+            114
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 2,
+          "rectangle": [
+            96,
+            131,
+            114,
+            154
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 3,
+          "rectangle": [
+            96,
+            186,
+            106,
+            198
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 4,
+          "rectangle": [
+            95,
+            212,
+            103,
+            222
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 5,
+          "rectangle": [
+            95,
+            263,
+            103,
+            272
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 6,
+          "rectangle": [
+            95,
+            297,
+            102,
+            306
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 7,
+          "rectangle": [
+            95,
+            330,
+            103,
+            338
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 8,
+          "rectangle": [
+            96,
+            358,
+            102,
+            368
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 9,
+          "rectangle": [
+            95,
+            391,
+            102,
+            399
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 10,
+          "rectangle": [
+            95,
+            423,
+            102,
+            431
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 11,
+          "rectangle": [
+            95,
+            454,
+            102,
+            461
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 12,
+          "rectangle": [
+            95,
+            484,
+            102,
+            492
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 13,
+          "rectangle": [
+            95,
+            516,
+            103,
+            523
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 14,
+          "rectangle": [
+            95,
+            547,
+            102,
+            555
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 15,
+          "rectangle": [
+            95,
+            574,
+            102,
+            584
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 16,
+          "rectangle": [
+            95,
+            609,
+            102,
+            617
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 17,
+          "rectangle": [
+            95,
+            637,
+            103,
+            647
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 18,
+          "rectangle": [
+            95,
+            670,
+            102,
+            678
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 19,
+          "rectangle": [
+            95,
+            705,
+            104,
+            715
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 20,
+          "rectangle": [
+            925,
+            285,
+            926,
+            287
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 21,
+          "rectangle": [
+            925,
+            317,
+            926,
+            318
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 22,
+          "rectangle": [
+            925,
+            349,
+            926,
+            350
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 23,
+          "rectangle": [
+            925,
+            379,
+            926,
+            381
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 24,
+          "rectangle": [
+            925,
+            410,
+            926,
+            411
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 25,
+          "rectangle": [
+            925,
+            441,
+            926,
+            442
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 26,
+          "rectangle": [
+            925,
+            472,
+            926,
+            474
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 27,
+          "rectangle": [
+            925,
+            503,
+            926,
+            504
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 28,
+          "rectangle": [
+            925,
+            534,
+            926,
+            535
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 29,
+          "rectangle": [
+            925,
+            566,
+            926,
+            567
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 30,
+          "rectangle": [
+            925,
+            596,
+            926,
+            597
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 31,
+          "rectangle": [
+            925,
+            627,
+            926,
+            628
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 32,
+          "rectangle": [
+            925,
+            659,
+            926,
+            660
+          ],
+          "rejected": true
+        },
+        {
+          "omitted_rectangle_index": 33,
+          "rectangle": [
+            925,
+            689,
+            926,
+            690
+          ],
+          "rejected": true
+        },
+        {
+          "control": "footer-only",
+          "rejected": true,
+          "message": "PDF pixels changed outside the exact approved rectangles"
+        },
+        {
+          "control": "protected-overlap",
+          "rejected": true,
+          "message": "Approved visual edit may not mask an inherited defect"
+        }
+      ],
+      "source_preservation_evidence": {
+        "source_receipt": {
+          "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\SOURCE_REVIEW\\PR94_LINUX_EIGHT_PDF_SOURCE_REVIEW_V1\\source-pdf-receipts\\assets__samples__WhiteLabel_Sample_Category_Audit_v2.pdf.source.json",
+          "sha256": "c27343bf82533e1093c072eff3ea61a1881ec7876cd23a6c347e6b67f533d530"
+        },
+        "observation": {
+          "path": "C:\\Users\\saira\\Downloads\\LIBRARY2_2026-11\\RVLNX1\\.owner-repair-work\\pdf-observations\\assets__samples__WhiteLabel_Sample_Category_Audit_v2.pdf.NOT_APPROVED.json",
+          "sha256": "5f2f505575ada2be96114f351214611bc933c47a3e66c74ed9e62a21a36b818e"
+        },
+        "full_text_and_geometry_sha256": "fbf75641532941060b6e5ce147b1a77890201f7e68e0747c558df59cb7107d08",
+        "Source_all_scientific_text_preserved_or_exact_approved": true,
+        "actual_body_text_before_footer_exact": true,
+        "body_text_before_footer_sha256": "131e8fceb868ba1d6c448e6129d5ac7c46883da24332e98b2e33b09bba2b9676",
+        "page6_geometry_exact": true,
+        "page6_geometry": {
+          "crop_box": [
+            "0",
+            "0",
+            "612",
+            "792"
+          ],
+          "media_box": [
+            "0",
+            "0",
+            "612",
+            "792"
+          ],
+          "rotation": 0
+        },
+        "footer_extraction_sequence_changes": true,
+        "footer_extraction_note": "Footer text is split/reordered in the extraction around the approved Category Audit -> Retired sample replacement. The source body before that footer is exact. Actual spatial footer was read in both original rasters.",
+        "new_scientific_or_descriptor_style_approval_inferred": false
+      },
+      "proposed_masks_approved_by_this_reviewer": false,
+      "cause_of_edge_pixel_differences": "UNDETERMINED; coordinates and exact pixel deltas only, no antialiasing/other cause inferred"
+    }
+  ]
+}

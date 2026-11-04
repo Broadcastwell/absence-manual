@@ -1,0 +1,244 @@
+{
+  "approved": true,
+  "reviewer": "root",
+  "review_kind": "root-owner-repair-pdf",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "path": "assets/samples/White_label_Category_Audit_sample.pdf",
+  "before_sha256": "404db56c98b6c03604f99a851ef8acc2f1dc793d4286bcedaba880b852d79a9a",
+  "after_sha256": "9179775f9f06522834c47112912d3b3fa255e40bcb9fff8cc86b94c4afb641c2",
+  "prior_artifact_sha256": "04b35fe2e233e95266c359094c6c242bfc58c4c1a7657d22da09dd827ba71d01",
+  "observation_sha256": "45b59bb4e0ecd121441578d434090317fa95d0ed7a8c4f0b9ccb286b2de03a8b",
+  "after_consumed_inputs_sha256": "57f61f168f9ca572c950c40b9bb995fcc9e98aafa11beae63f700f34abe13925",
+  "before_consumed_inputs_sha256": "d9de2399e0399b9665f7687518284827ebd950da39726cad44a88104fe984e2f",
+  "full_text_and_geometry_sha256": "fbf75641532941060b6e5ce147b1a77890201f7e68e0747c558df59cb7107d08",
+  "all_text_changes_source_reviewed": true,
+  "source_review_receipt_sha256": "ea51342ac7b8eff194f8eeb9228c6c7c7e4226ee13e5ab2849a2849141e191c3",
+  "visual_receipt_sha256": "81d4d7fcad55ca02a6d5c839d5edd944c1572d745ca694e3e67273e81d859f15",
+  "first_linux_artifact_id": 13293184906,
+  "first_linux_artifact_sha256": "bd5a845b3c54094faae6d87352044b4a841fcc849e0180309acd97f33c7f12c1",
+  "target_text_style_preserved": false,
+  "descriptor_single_run_style_PASS_claimed": false,
+  "physical_font_evidence_method": "Actual embedded OS/2 plus explicit25WHITE-before outline/hmtx reference evidence; physical133 mapped sizes/colors/flags/opacity/origins match the approved plan. This is separate from the unsuitable single-run descriptor predicate.",
+  "physical_font_provenance": {
+    "path": "pdf-proof/records/973c6b93d7b1ebd3d43f5be08eb7ab485005de665995982e71581340a35cf3f2.json",
+    "sha256": "973c6b93d7b1ebd3d43f5be08eb7ab485005de665995982e71581340a35cf3f2"
+  },
+  "physical_font_before_direct_OS2_targets": 108,
+  "physical_font_before_outline_reference_targets": 25,
+  "physical_font_after_direct_OS2_targets": 133,
+  "actual_approved_regular400_targets": 118,
+  "actual_approved_semibold600_targets": 15,
+  "publication_or_ordinary_S5_approval": false,
+  "approved_visual_change_rectangles": {
+    "6": [
+      [
+        90,
+        1245,
+        460,
+        1275
+      ],
+      [
+        95,
+        104,
+        103,
+        114
+      ],
+      [
+        96,
+        131,
+        114,
+        154
+      ],
+      [
+        96,
+        186,
+        106,
+        198
+      ],
+      [
+        95,
+        212,
+        103,
+        222
+      ],
+      [
+        95,
+        263,
+        103,
+        272
+      ],
+      [
+        95,
+        297,
+        102,
+        306
+      ],
+      [
+        95,
+        330,
+        103,
+        338
+      ],
+      [
+        96,
+        358,
+        102,
+        368
+      ],
+      [
+        95,
+        391,
+        102,
+        399
+      ],
+      [
+        95,
+        423,
+        102,
+        431
+      ],
+      [
+        95,
+        454,
+        102,
+        461
+      ],
+      [
+        95,
+        484,
+        102,
+        492
+      ],
+      [
+        95,
+        516,
+        103,
+        523
+      ],
+      [
+        95,
+        547,
+        102,
+        555
+      ],
+      [
+        95,
+        574,
+        102,
+        584
+      ],
+      [
+        95,
+        609,
+        102,
+        617
+      ],
+      [
+        95,
+        637,
+        103,
+        647
+      ],
+      [
+        95,
+        670,
+        102,
+        678
+      ],
+      [
+        95,
+        705,
+        104,
+        715
+      ],
+      [
+        925,
+        285,
+        926,
+        287
+      ],
+      [
+        925,
+        317,
+        926,
+        318
+      ],
+      [
+        925,
+        349,
+        926,
+        350
+      ],
+      [
+        925,
+        379,
+        926,
+        381
+      ],
+      [
+        925,
+        410,
+        926,
+        411
+      ],
+      [
+        925,
+        441,
+        926,
+        442
+      ],
+      [
+        925,
+        472,
+        926,
+        474
+      ],
+      [
+        925,
+        503,
+        926,
+        504
+      ],
+      [
+        925,
+        534,
+        926,
+        535
+      ],
+      [
+        925,
+        566,
+        926,
+        567
+      ],
+      [
+        925,
+        596,
+        926,
+        597
+      ],
+      [
+        925,
+        627,
+        926,
+        628
+      ],
+      [
+        925,
+        659,
+        926,
+        660
+      ],
+      [
+        925,
+        689,
+        926,
+        690
+      ]
+    ]
+  },
+  "exact_p6_mask_approval": {
+    "path": "pdf-proof/ROOT_EXACT_FOUR_ALIAS_P6_MASK_APPROVAL.json",
+    "sha256": "146cb6c77ead9324b5ec7669b48ab87185c46b31bf3b2f9f1d8e9fc636234eef"
+  }
+}

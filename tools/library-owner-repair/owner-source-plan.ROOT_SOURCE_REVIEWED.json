@@ -681,2032 +681,1447 @@
     "404.html": {
       "class": "navigation_only",
       "before_sha256": "6f399911cbfd2d55ce6802c51ae8eb354b593b3edd54ce632b6a8fa69cc2010a",
-      "after_sha256": null
+      "after_sha256": "a9c7bd1db4decfdaa380e59049df776588fd2db1d7ee2461d233f2d43cec7c6b"
     },
     "absence-ladder/index.html": {
       "class": "navigation_only",
       "before_sha256": "9cfc27018f4ad196d73a513ce126dadfd0141a48a3bf2421d2d8a5ece1beaf23",
-      "after_sha256": null
+      "after_sha256": "80301aebfc6e9c8bc4045ff92e03c5ec4727b900b8261bf41e45fa0918fcce7f"
+    },
+    "absence-manual-v1.0-2026-08-18.pdf": {
+      "class": "manual_pdf",
+      "before_sha256": "91cefee9c96e4005ea00806fe6a80f149b2b42aefdf02c53f9dc0c5700fe358e",
+      "after_sha256": "03dae21791d7909faef8f183b9d3dd767d9c6aef7f111519d9695e3e25b2dadd"
+    },
+    "absence-manual.pdf": {
+      "class": "manual_pdf",
+      "before_sha256": "91cefee9c96e4005ea00806fe6a80f149b2b42aefdf02c53f9dc0c5700fe358e",
+      "after_sha256": "03dae21791d7909faef8f183b9d3dd767d9c6aef7f111519d9695e3e25b2dadd"
     },
     "absence-rules/index.html": {
       "class": "source_metadata",
       "source_path": "docs/absence-rules.md",
       "before_sha256": "2db79c6bc9a66c8085734719bc20766151c09ffb317330aa1f333819d963193d",
-      "after_sha256": null
+      "after_sha256": "45c8c490a935f48f346d7a8534b2250973c1c8a0d96026c86f04384c8d2c74ad"
     },
     "ai-source-standard/index.html": {
       "class": "navigation_only",
       "before_sha256": "834b756af6de69ddbb6aaf4d315ac70fc7feff664825d8af8656fc2bd4f37c57",
-      "after_sha256": null
+      "after_sha256": "efaf52ae26b9bae93b4eb6fe80fc309c00117c99444dda9253e886b085e9ea42"
     },
     "answers/agents/can-an-ai-assistant-find-a-software-pricing-page/index.html": {
       "class": "navigation_only",
       "before_sha256": "0d428e1c26d55950f7f9f568f0dbeac51681d6017c5c6d275ef5d719dffd0793",
-      "after_sha256": null
+      "after_sha256": "3f3fa6cb6c5ea20dcc92e7a3f3e9c2291666c9baa94e7356dcd95fd1aaf7955c"
     },
     "answers/agents/can-construction-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "a141534e2fdd1a4e4c1526d4210f5623264b7fdb71609879e48bb1211ab42b78",
-      "after_sha256": null
+      "after_sha256": "e39292ef1758faedd78f3d11e099d806d83cfc0ef8d6cbce776cbf3242194364"
     },
     "answers/agents/can-crm-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "4d6c0bec0d30ffe28544021d02762d03bb491ba2232f7dcd57ba4f4596c6d890",
-      "after_sha256": null
+      "after_sha256": "029af2a6a8cb889b0b1bdfd73e21d1aca02fc267d8803ccd821aaf87d2e11d80"
     },
     "answers/agents/can-dealership-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "dab3075aa64a54a5c053582fd281046d56eb95bdd0a2ff085002b96c5532862d",
-      "after_sha256": null
+      "after_sha256": "09de22bed4dd6c32cf4a2da53638da068d7618e6776f20969e136e4141595887"
     },
     "answers/agents/can-dental-practice-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "1228a30ab985250345a9759079520b73f1aa56a3883e6fad5ebe33acba833a60",
-      "after_sha256": null
+      "after_sha256": "945c0ffa493a166e97c4e3cea748e7ebbc5f02833ce1267b70051f6b5a8dc1dc"
     },
     "answers/agents/can-field-service-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "338e9a9878454dff6ea4a46b0631231b33d44aabe4f8116d9577332da2023206",
-      "after_sha256": null
+      "after_sha256": "9c92676f789016ccb1846f444fb69cc07370515e83c5cd8a2e40fe62f1a4259b"
     },
     "answers/agents/can-hotel-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "51fb1229bc55c2ad66d683d1ccda451f43a640aa599b8b16f16e373b0c3a7adf",
-      "after_sha256": null
+      "after_sha256": "288b92ad3cde50936a748ab80c4f98e4564d8677f9d4082a237c8e43c6ab937f"
     },
     "answers/agents/can-insurance-agency-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "bada7dffc767521e0fd40972eae010182dbd9ced2103d4f6237ea9e7daabebf1",
-      "after_sha256": null
+      "after_sha256": "6fddf14bc4b9ea372e9cfda66ecae97069c522474dfd9e300e951021313995ab"
     },
     "answers/agents/can-legal-practice-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "cb3c240a329d6e8341c2aee083874d1ae620712627c3846b4c89799fa0d7f5ec",
-      "after_sha256": null
+      "after_sha256": "cd67ba64d9442a9c61f155b44b15326149b95c1b549cf183b0f6fc215cd872db"
     },
     "answers/agents/can-loan-origination-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "429a651fac2610bcbc9c044f8275eadba8fe8a6c8cec1f90846f8aa34966c468",
-      "after_sha256": null
+      "after_sha256": "176f1dd9cedb809569be84412cc989ee136d2d826c915e4db97b652e40477e71"
     },
     "answers/agents/can-radiology-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "5133c6ddaffe2857dca1cf0691b2e095d5a0bba567e64d637be088a5a6105ebf",
-      "after_sha256": null
+      "after_sha256": "a7cfbcfdf69de198b160ed23743df229d2d2dc3c7643fc7265a6112e24884adc"
     },
     "answers/agents/can-residential-property-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "04eaf7c13bb27cfd632327ce6a5da4e98cd2c4df85458dcc133816d8d791e38e",
-      "after_sha256": null
+      "after_sha256": "239358bfd0ebef0eb546f1d5ffc3ad0282e33abb1779b68a9cd923b2719bcda4"
     },
     "answers/agents/can-transportation-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "7c18243a22f9e4e95f769c92e6cce3a6137747928a821b5c2a2a1405c6a3a290",
-      "after_sha256": null
+      "after_sha256": "e0774b753fdb61f9c8fb72b9e2bf78771f6e613fb5999fc7fa0b751d72488a59"
     },
     "answers/agents/can-veterinary-software-integrate-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "a2dbb3b9cdd6272f813b11d83b53304d153a34ef1b1390bc30e88cc591792cf1",
-      "after_sha256": null
+      "after_sha256": "1d3c12735dd6538e9784265221f7864b67c4c66222a00532a0205e751fb9ba18"
     },
     "answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed/index.html": {
       "class": "navigation_only",
       "before_sha256": "0b7d34e0899f9deca241ffb693822998c6f486501111a3d5636720050011f027",
-      "after_sha256": null
+      "after_sha256": "1699d563dfa920ed8d876e8486e232a6c76250f8cad0c97c6a1bd6a63da10de4"
     },
     "answers/agents/does-finding-a-page-prove-an-ai-assistant-understood-it/index.html": {
       "class": "navigation_only",
       "before_sha256": "84f62b2ed7af07fe85b35f5729fda62a003992827645392d8053cda48457b8cd",
-      "after_sha256": null
+      "after_sha256": "7c43e1e2aea35124cd784bba1b6e12f293c81cbedaa5141282598ccb1793ad19"
     },
     "answers/agents/how-can-a-software-website-make-its-public-pricing-path-clearer/index.html": {
       "class": "navigation_only",
       "before_sha256": "93ef5729b788edcd03368de839c78592b50a9b71be7b047c0f86f99d6c9f62c9",
-      "after_sha256": null
+      "after_sha256": "41394f8878a9787e7e058d3213f9659fc047affcfa1afe2e19076d56cbf7dc79"
     },
     "answers/agents/how-does-an-ai-connector-differ-from-browsing-a-website/index.html": {
       "class": "navigation_only",
       "before_sha256": "1ee758803a3a5f5a1da2828ea5633f805d3fab33b989f83b7753d0179d01519b",
-      "after_sha256": null
+      "after_sha256": "268e441f41c9bc4b702a9816a87fce4b24ab135c71ef08974ee3df8653be4107"
     },
     "answers/agents/how-far-can-an-ai-assistant-get-along-a-software-demo-path/index.html": {
       "class": "navigation_only",
       "before_sha256": "c563f625cf75bcc73496e686dee22bb0ff081ba95a2aca87834eea42d40605c8",
-      "after_sha256": null
+      "after_sha256": "3dcb8ee5292f9cbabffc3b70db80da3ef9bd29a968f9bf3c9fcc971380a0650c"
     },
     "answers/agents/index.html": {
       "class": "navigation_only",
       "before_sha256": "280b519ab936447d7abb4a0b02d6a34c6d97f88e259bc3840b98e914020bd624",
-      "after_sha256": null
+      "after_sha256": "ec3bac4d6b6bf267d1553b60bfeb7b981e63c4446225b4ab453420e09294c3be"
     },
     "answers/agents/is-agent-to-agent-commerce-a-viable-business-opportunity/index.html": {
       "class": "navigation_only",
       "before_sha256": "f3e50d67ebae50546bff2aaa4e16c65b6acf8ad5e3b6148a1bfccd4976ef8764",
-      "after_sha256": null
+      "after_sha256": "f990ef0a7160e2fdb39d01c6051ce2696e13852857b59d5cdd17d98f590570a7"
     },
     "answers/agents/what-are-the-benefits-and-risks-of-connecting-hubspot-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "9e2b9d54d397a5614c36eb84b3f31d90b119ff3031d6a9157d9a393ac2069552",
-      "after_sha256": null
+      "after_sha256": "d3bb16d3403423d252557b0da32ec8e06b55f6823c1941238d4c74dd75432849"
     },
     "answers/agents/what-can-an-ai-assistant-learn-from-a-software-website/index.html": {
       "class": "navigation_only",
       "before_sha256": "d824b2c530e0ecb75359abf8a985d54be3993417dc9b4eb4f0f2fcaa085c7d61",
-      "after_sha256": null
+      "after_sha256": "25f56f8524fa356c750f2410debcfc5738432bff5435d8e029cf90f9830bf001"
     },
     "answers/buying/79dev-com-geo-services-worth-it/index.html": {
       "class": "navigation_only",
       "before_sha256": "332e892563a5fbd34989426655eb39c68819dd0277adb62e1053dbfd832f1df4",
-      "after_sha256": null
+      "after_sha256": "e3333f9f5d9fccf8015e8fd81f25a66d3a1b8674eec320be554a90a18145c61a"
     },
     "answers/buying/can-a-geo-agency-guarantee-ai-recommendations/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/buying/can-a-geo-agency-guarantee-ai-recommendations.md",
       "before_sha256": "c0271b66f586c1b472e8a182c311ed6d1170ea359239ff924c1185dcf51ba319",
-      "after_sha256": null
+      "after_sha256": "a4f221eb5306dac28d506f151a5137bf34574248aa577e4382a7f1db2b514635"
     },
     "answers/buying/how-can-i-check-a-geo-vendor-s-published-measurement-method/index.html": {
       "class": "navigation_only",
       "before_sha256": "fea6825943f8451c5a1534b5071b0df96c323ea87005b643c1b13783fa3a4111",
-      "after_sha256": null
+      "after_sha256": "65c306d3fb4baf81baefbc36073cddc69f2354deb40d0e2d3539455ed22628c9"
     },
     "answers/buying/how-can-i-check-whether-a-geo-tool-covers-the-engines-i-need/index.html": {
       "class": "navigation_only",
       "before_sha256": "059cf312b570fb45b0902b4452d33e115c4836343bbcd0558729fff18c67c53f",
-      "after_sha256": null
+      "after_sha256": "d1b6fca39f3381840be73e921267826e218b9f0d5673b980af2325abd1f15214"
     },
     "answers/buying/how-does-geo-change-the-work-of-a-traditional-seo-agency/index.html": {
       "class": "navigation_only",
       "before_sha256": "32a576d6ee9677f2ef943cc4a9f24d374c9115e6f196e1c2ae6093c3dc09772d",
-      "after_sha256": null
+      "after_sha256": "63be393f82e9ada676d8cfc932aebc8ee06f928918ff7f72927631b4f64ff0fd"
     },
     "answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency/index.html": {
       "class": "navigation_only",
       "before_sha256": "85b02c5c31bd282a8c2c164eeb1d9f46b10d402cda7e59b7d476cbbcb52927b9",
-      "after_sha256": null
+      "after_sha256": "a7c0990d34fce4f5542f55561987f61b4abe48109c744bc8000b03f76c9d0593"
     },
     "answers/buying/how-does-seer-interactive-compare-to-other-geo-agencies-when-it-comes/index.html": {
       "class": "navigation_only",
       "before_sha256": "d45d2034057879f620c0c69f100c591025920564f3280df06b464a7070189695",
-      "after_sha256": null
+      "after_sha256": "c56b2e26737f869adf518474114b1f18fadd064ec6c80d197aa661fc7af99b67"
     },
     "answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence.md",
       "before_sha256": "3764e9ff7bf1712313b67bc1fa96b8d785372d432b711937af0d8907aedb0102",
-      "after_sha256": null
+      "after_sha256": "d879220ec5857b1a1a4ac90d780ffd4da1f93f453973ee170c6767a34577e710"
     },
     "answers/buying/how-should-an-agency-report-ai-visibility-for-multiple-clients/index.html": {
       "class": "navigation_only",
       "before_sha256": "b285972e9808bb566389b68887a9f57b59abfa1e7ecfbf7cd29456658e8ac6ee",
-      "after_sha256": null
+      "after_sha256": "405cde7e76f1c2c02b1ed14cbc3862424487a857fed8b321ad8bcdb8aa7721e1"
     },
     "answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets.md",
       "before_sha256": "8f5e7d8b9373dfddfab56934d39ba22eb6660778333c6cf40bf97f03e73af1b3",
-      "after_sha256": null
+      "after_sha256": "6932ab5be332e873d2887f753bd53ea0d027229aea181082033f1495447056d9"
     },
     "answers/buying/how-should-i-evaluate-a-geo-case-study/index.html": {
       "class": "navigation_only",
       "before_sha256": "88f1b7717a4c5944d6582a63252d933ee23d93008bad6ba688bc5cf71517f5be",
-      "after_sha256": null
+      "after_sha256": "80b39de3c0a0482c0d6ee4e767bc50642afa7474c92b744425be3f1aacf37379"
     },
     "answers/buying/i-m-a-public-affairs-agency-lead-for-our-regulated-industry-clients-su/index.html": {
       "class": "navigation_only",
       "before_sha256": "940aa53a2be3a76fab4357765f519ca4bd3f87e42796486636da22af7d9e6554",
-      "after_sha256": null
+      "after_sha256": "21df552bd0b8805e10482729b01a53903a0a069d597aba3073463b3ab19f9c14"
     },
     "answers/buying/index.html": {
       "class": "generated_hub",
       "before_sha256": "ce2d248dd8e334904a7017764ebf5b33fc2b55ce40a92fce4cda32e8154afc3e",
-      "after_sha256": null,
+      "after_sha256": "4ce5037045a920fe374eaa4a92846ab6e14967c42f17fc21da7703b67832d00b",
       "source_path": "docs/answers/buying/index.md"
     },
     "answers/buying/is-blobic-a-good-white-label-geo-provider/index.html": {
       "class": "navigation_only",
       "before_sha256": "a948394851182aed7717ccf53398d1dd97a0d75a7150e9ba80cfdd6ce125f493",
-      "after_sha256": null
+      "after_sha256": "89919ea813ec376670abbcd83743a1dee0192005f93ed8d2b160ab3094aef4dd"
     },
     "answers/buying/should-i-buy-ai-visibility-monitoring-or-a-completed-page-fix/index.html": {
       "class": "navigation_only",
       "before_sha256": "f058eb3bf215a0dc5a58cb8e82f3e91d9c0f18c60d26371c8399ab261c2e1853",
-      "after_sha256": null
+      "after_sha256": "40a6089a48197028f800bc9f900f1fad584fb1d591a1cad3fd29f39b9ddbe8a2"
     },
     "answers/buying/should-i-compare-geo-prices-per-prompt-or-per-valid-answer/index.html": {
       "class": "navigation_only",
       "before_sha256": "5ce1df6a1ee5707a6efdc151f17b5d5da76973524ee8a9d076309c939982c55d",
-      "after_sha256": null
+      "after_sha256": "ce9a05f5dfb9fe50b48bdf242d0b7348607bbdf124f26f271160703d5a293110"
     },
     "answers/buying/we-re-looking-for-an-ai-visibility-agency-that-can-get-our-brand-into/index.html": {
       "class": "navigation_only",
       "before_sha256": "d099b24a7d3dfd6bbd942d722c1f43abb9ec4d3dec0f6e41c36cfd8ad8093fe8",
-      "after_sha256": null
+      "after_sha256": "e3a5b543b76e9a2779e50759cc171af2ea1eb80bcb20e2c8f37fb6fe6ed572ce"
     },
     "answers/buying/what-belongs-in-a-white-label-geo-delivery-scope/index.html": {
       "class": "navigation_only",
       "before_sha256": "52aa4e56866f5ba15b573ae6f6ecb6afe0e5b8cfadc90f521c148e7f35534609",
-      "after_sha256": null
+      "after_sha256": "d077967a4dc39befc5c229d38bae884e83b4de0f0f20a70133541fcc7d1d12d2"
     },
     "answers/buying/what-can-an-agency-deliver-when-a-client-asks-for-geo/index.html": {
       "class": "navigation_only",
       "before_sha256": "c6e42d76b5d0c30c3b67caa7f3f88bf782c02aea291864f4ee38eb1e39654edb",
-      "after_sha256": null
+      "after_sha256": "f712bad64e5bb9c4c6c9faee37b13aac01ccba577dcd9b35fdd59f7ad05bdfd1"
     },
     "answers/buying/what-does-an-ai-visibility-audit-include/index.html": {
       "class": "navigation_only",
       "before_sha256": "87596b208f8c4259463086a5e40274d2897a7536d56ee31ddd9685a887e9efd4",
-      "after_sha256": null
+      "after_sha256": "630e5102c3d9e401c7badb502f5ec2a8dfcdccc7d14b5a4e066c6af14ba8ec53"
     },
     "answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include/index.html": {
       "class": "navigation_only",
       "before_sha256": "0178e1c83bc4dd32c4af11a188f72327981d7c40b457d5d4d31b077058d16a10",
-      "after_sha256": null
+      "after_sha256": "ddc081c799c62a01dd09e72da3e73ccfb7759afc1f10a31a99c36686117dca12"
     },
     "answers/buying/what-evidence-should-i-keep-when-an-ai-visibility-engagement-ends/index.html": {
       "class": "navigation_only",
       "before_sha256": "3ddd366a8d920b6bbdb0bbbf41de11ab114534fc6c0c1fba89a77f7f0ee7813f",
-      "after_sha256": null
+      "after_sha256": "46a3464217e3986cc7e201b4ef66f18ac55c718019598753ddeec840375a4340"
     },
     "answers/buying/what-should-a-geo-content-and-implementation-scope-include/index.html": {
       "class": "navigation_only",
       "before_sha256": "345ced573ba8447bd633e63fbefff1338a3b57ce482d80f13a7ce61e8eed123d",
-      "after_sha256": null
+      "after_sha256": "31d297e85471d5c11ccad4df01c34b779d6ab1679330faa5fe7b8efdf8520b5c"
     },
     "answers/buying/what-should-an-initial-geo-project-measure/index.html": {
       "class": "navigation_only",
       "before_sha256": "2dc8253c85754e35671b47f5a04f1da3997214b7923fb8bcec3dea01680a482e",
-      "after_sha256": null
+      "after_sha256": "342981f8e51fad9c104283509f8de25752ff358e60f30b6649ba273a7d8debc9"
     },
     "answers/buying/which-aeo-agencies-should-a-buyer-compare-in-the-united-states/index.html": {
       "class": "navigation_only",
       "before_sha256": "395e8e83fef21cfb2cc58dea3eb74a3a72ae65f96b7051a747422e9a676f9d5b",
-      "after_sha256": null
+      "after_sha256": "52223398c0da22ae91daf04823e246839f0ad3295ffc4efd706ae9b84c57bf67"
     },
     "answers/buying/which-agencies-document-work-across-ai-answer-engines/index.html": {
       "class": "navigation_only",
       "before_sha256": "39b919fe8dafe6456a0f93be5aface0c0cf65c8808391e1822560250bb8dfb7d",
-      "after_sha256": null
+      "after_sha256": "0c38980daa39038c2f71d3ac7a29f845007c10062aacd8a7e912cea561896ead"
     },
     "answers/buying/which-geo-agencies-serve-new-companies/index.html": {
       "class": "navigation_only",
       "before_sha256": "07cc21bd0439c90adc986c268691a080b6ace10d9a163dbd712f0df1ea26b7c3",
-      "after_sha256": null
+      "after_sha256": "89cae7bb040173e87a059652f7b70c024d704f081a039686f4de4e0ac9f5cf8a"
     },
     "answers/buying/which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo/index.html": {
       "class": "navigation_only",
       "before_sha256": "305a98cb507b0205097dbd10d2f4360f2b5cbf6028336c5ec5b2ba5d6ab3f4a8",
-      "after_sha256": null
+      "after_sha256": "40083267c116d5a35cbadf65dae7f8276ffab7659e6c635eeb7991f0f5e1c2ff"
     },
     "answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md",
       "before_sha256": "4ce8e501768f430d9344a5afabf06858a2ddb4b7db4ea9ffc452d8a13a08415b",
-      "after_sha256": null
+      "after_sha256": "3047ed84d580015960098e1f96819e623cc45d4ab22d51444e3ed9315071354f"
     },
     "answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change.md",
       "before_sha256": "b7f6cee3f87bbcef28fe025d2bab383c231fb2e5bdc61df2465ea55e429fb20f",
-      "after_sha256": null
+      "after_sha256": "67c936e64de7b703de5735314931427056d4f628d5f65e55b5dcfb11b929107e"
     },
     "answers/changes/how-should-i-check-a-reported-vulnerability-s-product-impact/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/changes/how-should-i-check-a-reported-vulnerability-s-product-impact.md",
       "before_sha256": "a22761436e0ea19f11f485b29914176e2fc89a18cfea06e202746970d933e710",
-      "after_sha256": null
+      "after_sha256": "47ac7dd0459847edd5d7de5a6e0c37552a4f80712868de4aa220db32378a6f74"
     },
     "answers/changes/how-should-i-verify-a-fixed-version-quoted-by-an-ai-answer/index.html": {
       "class": "navigation_only",
       "before_sha256": "b596dde6a1eddb71ba95cec8b0d4cc53e6b1bd8c6a290e883de7d1b89a2d983e",
-      "after_sha256": null
+      "after_sha256": "9957b06079793981fa71ecf3db150b5c15697de765285713d2a48663a3a2fdba"
     },
     "answers/changes/how-should-we-date-an-ai-facing-incident-statement/index.html": {
       "class": "navigation_only",
       "before_sha256": "4402c780e8f6bdaad1d3d825682515bd96f5c72e0bddf80d5d8912f43f2908cb",
-      "after_sha256": null
+      "after_sha256": "2c4fcac6e61c9500c54581a11da59c4f90978dd1824dd87fbc89d498db2a24f2"
     },
     "answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes.md",
       "before_sha256": "cf60d276e9f66e3c1be974c3ef61fcf12f5ce749d381402608067d4914385244",
-      "after_sha256": null
+      "after_sha256": "e5f03ad47b8a484ea059c8f2c0d992b737ad00852ea62a9ad37ed9d126ffe82e"
     },
     "answers/changes/how-should-we-preserve-conflicting-ai-incident-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "8b112d170f313e4657f7dd55d6c1a94325b07cc805edddf35b54da6d0224d554",
-      "after_sha256": null
+      "after_sha256": "c16776951d9da4993b1b0591b6ad3c2fdcc611317f8d05c4aa922aa09593d253"
     },
     "answers/changes/index.html": {
       "class": "navigation_only",
       "before_sha256": "acb086831e8f6715ee86df0245ac100edbab2a966505a9091e17cd02cc093d61",
-      "after_sha256": null
+      "after_sha256": "bb13a2d6ce6ed152b586d588cb247d27e0b428981e72f7015499e12c995d9a4e"
     },
     "answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain.md",
       "before_sha256": "0305cffb3f9980802fe48773222e1a9c7ebf4f45f5fb05990b094a7e2e860013",
-      "after_sha256": null
+      "after_sha256": "886505d13d8cc4482f26a73752ff13792cf78eb83d8d0a2cf76457334406e57a"
     },
     "answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong/index.html": {
       "class": "navigation_only",
       "before_sha256": "0e849bfa2300612d867db82182945991a63f49cb27847236d5a4e5bca54611da",
-      "after_sha256": null
+      "after_sha256": "e12c4f01f750e24b51817600e9490080434fd6b0e8ca19cb0f7a787cbf405f2a"
     },
     "answers/changes/which-ai-visibility-tools-monitor-factual-accuracy/index.html": {
       "class": "navigation_only",
       "before_sha256": "05132cb8e78debd8f7057aec4435b877ab8e0513c230b84c1da144e1b96560d7",
-      "after_sha256": null
+      "after_sha256": "134f06586ef330ecaf6c86daf5abc7a9aaceedfc24bbdd701a5ed702d284514e"
     },
     "answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search.md",
       "before_sha256": "6ec9b17bbcbeb7f30ed333263f58a637d79767e7706e9eac9f5f864fa8628a1a",
-      "after_sha256": null
+      "after_sha256": "73666e59dda25c5694213b5a0d23394fc6d8698f5132feabd1a480ce6a4caa9e"
     },
     "answers/chatgpt/how-can-a-business-be-recommended-by-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "4e998c369ece7415d4b58ea5f6ee67389f4285c67d743b960c2a0706bc4c60aa",
-      "after_sha256": null
+      "after_sha256": "a4c094412710b44d06e7937a016d3f668f661ced6fd217b601ad7777d0a95a24"
     },
     "answers/chatgpt/how-can-a-page-get-cited-by-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "3d451d538c039ec0c5fcc1f225402b7f0fd293aa4617479b54a3b2380cc5cfb3",
-      "after_sha256": null
+      "after_sha256": "cdf1cd7c9ba9c006c73d4783850175111cbf0c5ee15290003ba9177e8ceea924"
     },
     "answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite.md",
       "before_sha256": "8e69de24ff5b90ddfe6e9e454e236634a813989542c5a0ac4f3ef97acc90f5d9",
-      "after_sha256": null
+      "after_sha256": "adc3ebdb7eba267f7b293e8dac5d2789414856e4dc1762400dcc3d596c829833"
     },
     "answers/chatgpt/how-many-software-vendors-does-chatgpt-name-in-an-answer/index.html": {
       "class": "navigation_only",
       "before_sha256": "9bb36636b9d355b3f2293fd7ac038c998d7bbd2452971af12c7cecbab08f1580",
-      "after_sha256": null
+      "after_sha256": "f28612312a7a4339d1d7948de9b5a1f65cf021373da582f00686c9f526ffbbec"
     },
     "answers/chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "2e9ff79424564c852b8a6e83b545c1b7aed1b081ddfbb0ccb7c89db3bc197cba",
-      "after_sha256": null
+      "after_sha256": "1c69d4f8ec2c6f295b12bf58b8faaed191f4d708ad1dd8d8a05d7e6ad615564d"
     },
     "answers/chatgpt/which-construction-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "a0ac40de67945fb2ec85974b2788ab204d79ee5db6d7857d4398023949713822",
-      "after_sha256": null
+      "after_sha256": "b929f67115bcf2dc5bf80d7c6bfb02be928e7a1be7c3a6ad2306c07e3aa8b0f1"
     },
     "answers/chatgpt/which-crm-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "e43e59a893ffac359762cea995d41c1f19c43cf1bdaef477108be41677872681",
-      "after_sha256": null
+      "after_sha256": "9d938fb2bda0a957331b2f35e477bad16d22b63610c7afec14864bc76319fd8e"
     },
     "answers/chatgpt/which-dealership-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "74ad0c978ff06912e7509ffe18a997ac17200484ac3ab0a1eee0d4f0bdc8f4db",
-      "after_sha256": null
+      "after_sha256": "c85ba33b444e5e07a22742c1a198ee9411429336838111fe0dc2fb4a26cd8608"
     },
     "answers/chatgpt/which-dental-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "37635ab214d6c236e5e68c73cef705f971abf8bf6086ca2fd18f1e0a23bc2efd",
-      "after_sha256": null
+      "after_sha256": "433801007e3bff1d14b5c23882ae4a8505d11769f5a47e371835947f7d71e543"
     },
     "answers/chatgpt/which-field-service-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "883de3acda70ae8b7a4dc06f0b8164432f2c7ba582e8021e7d36835aced9af7e",
-      "after_sha256": null
+      "after_sha256": "ed1860e6c82cfbf2fc562ca92a835307d2ef75d53cbef0378717964d9ea1c933"
     },
     "answers/chatgpt/which-hotel-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "c128d1c9f421d47ce916f59e5d04edf128461542582a089a99af26f075caa1cb",
-      "after_sha256": null
+      "after_sha256": "ca10c836437a64d5426f98b9f271672f37c989ef383086771715857dd7c8b820"
     },
     "answers/chatgpt/which-insurance-agency-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "610cf8450d63d86a9901a455b7d3044dd9d3634d3a0c198f8f3c99bdc2ad28de",
-      "after_sha256": null
+      "after_sha256": "a0ebf83ab40bf09495bdde7994599eef6d99bda5942007be04a1458a6ec10418"
     },
     "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md",
       "before_sha256": "4d21a8557cc30d3376044f46e1c3529624e7464f2a42899faf2ae1c2421887ab",
-      "after_sha256": null
+      "after_sha256": "f8fc1f3d758ed6082d1053143688f0c6c3e0b6346d1886403e8558cb18c2b808"
     },
     "answers/chatgpt/which-loan-origination-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "0eebcc07cf60b7a720178f8822fa42a737ccce0769bf6656806c85d6635a0659",
-      "after_sha256": null
+      "after_sha256": "39034012da46d9b0462c70271ff767561eaa800c30f8e456aadc47d780e62faa"
     },
     "answers/chatgpt/which-project-management-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "427f6b87a197c353b51ad73c3fa63442d3a3c21a96adbd94586d6dc3747b012e",
-      "after_sha256": null
+      "after_sha256": "74324e85b23b5707224d14e19bcf8be248f832b2e82a3b728cd6f87b92861517"
     },
     "answers/chatgpt/which-property-management-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "f7d659bbc480c0ec1394409e635107ab84a8591d217c578f4012b4ca3b33c16d",
-      "after_sha256": null
+      "after_sha256": "30d172a47ae2846bf019f8e2611fde7931b6b9755cc4618af4deb9d68848b3e0"
     },
     "answers/chatgpt/which-radiology-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "5f904bcfab98e9ff5f3c3b49f138fb2328c3592a2f8d7f286b0ccd64f8e82d41",
-      "after_sha256": null
+      "after_sha256": "292d98b62eb7a8b3b2cc27817320f9c48af7c96ab0d929baa0a0022dea4f9046"
     },
     "answers/chatgpt/which-transportation-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "1a466fa86e1f421996fb3be1145c1cb94ad226c7daaad586f37d672fc8e60eea",
-      "after_sha256": null
+      "after_sha256": "27dfa1307997fec610737e19545743d903168180b348ec921f7d479587a47b25"
     },
     "answers/chatgpt/which-veterinary-software-does-chatgpt-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "6da673e308f22e184ad8b84093c47135f95e6458c28715bbd8fa88e237c3faad",
-      "after_sha256": null
+      "after_sha256": "ca43eaf8a0248baf70afbf4c78e3ebfc2739bf99add06eb1c42fd8506a3fb50f"
     },
     "answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t.md",
       "before_sha256": "ce59a022ebb7024ed5b62024d9f0155a339391cef9732ef4f8d8bd0f1e57f24e",
-      "after_sha256": null
+      "after_sha256": "1fc42d77788b7af45cd2863c94dc4e3e68caf4998634622bd9c8482bc235864d"
     },
     "answers/claude/how-does-claude-web-search-work/index.html": {
       "class": "navigation_only",
       "before_sha256": "33d34bacd73bebebb404ed6297d8f59da5da908aa5c9ab3dc79eb70d0b5c1192",
-      "after_sha256": null
+      "after_sha256": "37bb82a0acf75e91a5c1a633aad76c1cfc24baf64dfc20d3776db76a23e9f9ae"
     },
     "answers/claude/index.html": {
       "class": "navigation_only",
       "before_sha256": "e09daad14b21078a3c0dd0f3ac4fc67c8c90f65588f05805b67fee322a5a4afa",
-      "after_sha256": null
+      "after_sha256": "0fad546ece02ff83254b7ca22bc5d6f44faaa4f5fe572e086a0adce9a3718dfe"
     },
     "answers/claude/which-construction-software-does-claude-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "fd724a3cf63a0b950ecb4f2773415ac4c4a1844e5951f5e34520f6e07c221b22",
-      "after_sha256": null
+      "after_sha256": "3a7fba3db47b30d4bd5b0863f58292122e8543ebf10d4813fa9952e734f77bd9"
     },
     "answers/claude/which-crm-software-does-claude-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "c165d8b7d362e0301c108a2d382c3a972047e0e9dad57e2599766372e4de87ec",
-      "after_sha256": null
+      "after_sha256": "31410e2265780d6365e490f7ed3ed99fda6228d75ad90c7f73b30b1b16c69eae"
     },
     "answers/claude/which-dealership-software-does-claude-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "e8cd41e8193108791f0f65214c9241149f2b4f81de41692a73dddc2a79ec9d77",
-      "after_sha256": null
+      "after_sha256": "567c3d8037ede0c5143ddea55477f12760e5569d13f3bf0bfc819b9669f8356d"
     },
     "answers/claude/which-dental-software-does-claude-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "14e1fecf5b0337c6e634d4bb97f1f223ce11e704568b80953ffb9808d9d1cb55",
-      "after_sha256": null
+      "after_sha256": "a681a6b1d5bdbcf34bd5fcdaac6f2402a3ad7968e902d274864a67b28497db87"
     },
     "answers/claude/which-field-service-software-does-claude-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "43e74596aee7967cf0173357fd23011c726234047321f2da59536d9e681e7c45",
-      "after_sha256": null
+      "after_sha256": "65d5c13aaf07530bfbabceb7e76ecd11924d30725685de71c142750b0f12c182"
     },
     "answers/claude/which-hotel-software-does-claude-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "ea057bfffcef13a756217f93fac33c4d9318a45c0563d45287ee36346b206328",
-      "after_sha256": null
+      "after_sha256": "0c137e5a5a9d102e025c5866ff4da4d2ee4970c8faa1b89b36e119015074174a"
     },
     "answers/claude/which-insurance-agency-software-does-claude-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "4ef02a7a5b2b3a13f77556fdd8b66612ad359d68aea1d8e088bc441c877b3f15",
-      "after_sha256": null
+      "after_sha256": "3b34138e8718dfbacd6c4be44aee533c4c6343c279c4d562edacdbb98ad2638f"
     },
     "answers/claude/which-legal-practice-software-does-claude-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "abcf18f545224bb1fef6ed8c04a0df019432916d7d5d00230122167ce61b03c7",
-      "after_sha256": null
+      "after_sha256": "089691544ba8f41072c79ee397b735981a560b5776aca1095c02b2e1cd9436cd"
     },
     "answers/claude/which-loan-origination-software-does-claude-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "f311a65fe214b289192a5263c6197e5f9594f5c09340f19bc5cc362222b5e519",
-      "after_sha256": null
+      "after_sha256": "b57cb8f6b623c9d68df401687c0a06b91bc5061d65da3092def10612b03bd4e3"
     },
     "answers/claude/which-project-management-software-does-claude-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "119293e967a26989e8208798785d5bb4ca051a6086e14950c7631837f6c82b16",
-      "after_sha256": null
+      "after_sha256": "52ed8717568c114d76aa343cad14b8b1af61a2f3cd6458156d1c26acc47a8eed"
     },
     "answers/fixes/does-a-crawler-request-count-as-a-buyer-visit/index.html": {
       "class": "navigation_only",
       "before_sha256": "3e1ad1174c617928cc58169c7bc78dcc9eaa491caca7682c9ffa310dbd84e76a",
-      "after_sha256": null
+      "after_sha256": "ea3c2c981aaa47baed80ed5356ac67af13dc43d5d27f479c8e65ff74fca2431c"
     },
     "answers/fixes/how-can-i-check-chatgpt-s-seo-output/index.html": {
       "class": "navigation_only",
       "before_sha256": "30aef773a792f47ee58a3808ab1181b1083c1d6b6f03d21889528ea815c14b13",
-      "after_sha256": null
+      "after_sha256": "015216cb248ab472488c1e0a741c38a3f5fc82b7c2fd1df27573fb81a4b132ab"
     },
     "answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews.md",
       "before_sha256": "7510ae60044b5bd2b86ccce47999c80ca589d7858873900fcdec543c2a84605c",
-      "after_sha256": null
+      "after_sha256": "1eefa96407ed81ecaaa3392d17b3e824cbdc39095a2a0ba7287ff5e93a515528"
     },
     "answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence.md",
       "before_sha256": "ab971849a15491ce9a378830bfc31b6b952c66594c29352b11f37000bf9c4779",
-      "after_sha256": null
+      "after_sha256": "fe05b5652084aae1e49cf90f7b86ca5abe1ac4dfaa8b7eb2b59db8396110a0bc"
     },
     "answers/fixes/how-should-i-structure-headings-for-ai-crawlers/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/fixes/how-should-i-structure-headings-for-ai-crawlers.md",
       "before_sha256": "f0a2c3e3e051d267c9d01ab8f7921e2324fbc014c6c75416da5ce557e10c2d83",
-      "after_sha256": null
+      "after_sha256": "5ecc05c97a3f53b49a6d9a4acebd549837e95390dd5de886f3e5af7680bf83a3"
     },
     "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page/index.html": {
       "class": "navigation_only",
       "before_sha256": "5d982df06dbe478da1fe9142d63befe4566080e8f9829aa15887d4a68d5b9753",
-      "after_sha256": null
+      "after_sha256": "c60b03c41f9e485d96dc6acc290712923beb882d0f200781122db425f2c36186"
     },
     "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access/index.html": {
       "class": "navigation_only",
       "before_sha256": "bb3359091684efb97ca4115653c9c78041c2f68c977a10738540ff69ee660bac",
-      "after_sha256": null
+      "after_sha256": "49555583340b0540db19d7fb3cbeb50629c21fbed5f445992414deb79e9d69d7"
     },
     "answers/fixes/how-should-teams-handle-seo-and-geo-in-day-to-day-work/index.html": {
       "class": "navigation_only",
       "before_sha256": "c2b8a85bd2da93d674fb6d969e5c3be9d922fe8243c4bc6f61f05ece09e68053",
-      "after_sha256": null
+      "after_sha256": "93a38acf0eb2a3678901ccc29f7a3e6c02c72cf2e909a5fdb4258beebcd1b9d2"
     },
     "answers/fixes/index.html": {
       "class": "generated_hub",
       "before_sha256": "ffb68dca5dcea2a279bb319dadc14ee5f3930ac581f3daa6416ae7321f7b343c",
-      "after_sha256": null,
+      "after_sha256": "f9f614a6bdbf47ecaacbf54a2d3f5fb2615f9a808c89f3c7af8c9673160a3f21",
       "source_path": "docs/answers/fixes/index.md"
     },
     "answers/fixes/is-llms-txt-required-for-ai-search-visibility/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/fixes/is-llms-txt-required-for-ai-search-visibility.md",
       "before_sha256": "90e4b538fe9dfc69a3edf33d8d7467feaadc135b1246c4cae3d3830db35c1f5a",
-      "after_sha256": null
+      "after_sha256": "feaf00ada14f7396b31b10d474a04f7479aec1080912a649a8308d4723cf2272"
     },
     "answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer.md",
       "before_sha256": "98e5edd5ebe9b143c9d11be2da969e81534edcf15fe704f5e7544deab83b0d00",
-      "after_sha256": null
+      "after_sha256": "8b8ed3d2e402c5c1281e69d0db3ceeb3fcb773492472d8c8bc4d60c7b5a93061"
     },
     "answers/fixes/what-should-an-ai-information-page-say-about-our-company/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/fixes/what-should-an-ai-information-page-say-about-our-company.md",
       "before_sha256": "9b69aefa04f1054efd449d6b7ce95d6a1e96315e67070de9b9f384811134c332",
-      "after_sha256": null
+      "after_sha256": "2b4c493dc111890cd31d94a21b60fef0cabb81fed03f64bff21b499acc6d9430"
     },
     "answers/fixes/which-ai-visibility-tools-also-complete-content-changes/index.html": {
       "class": "navigation_only",
       "before_sha256": "9fcaaaeac89a7aa330bf6c22a94fb62eac44cc67c9b6025389c0dd6d8df2cece",
-      "after_sha256": null
+      "after_sha256": "b65c3afba3f453ce84bd28fed44e69b838d878159ac8f7983900dc84611dc3ee"
     },
     "answers/fixes/which-websites-have-an-llms-txt-file/index.html": {
       "class": "navigation_only",
       "before_sha256": "87e9c6795568409018edbcc4c1f0633876fa6353bd08a76538bec62ea83beafb",
-      "after_sha256": null
+      "after_sha256": "094b30de387112aa75c8f0d164c732eaf74d0bf64e8410c465946da91a7f0d6b"
     },
     "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it/index.html": {
       "class": "navigation_only",
       "before_sha256": "064ccfe8e151784f0f350bf81cab2290ca448a0b336993f91bd0dcf66a493032",
-      "after_sha256": null
+      "after_sha256": "bd5bb3a8364042d1ea23f96611635340510431475c7cb1e91ca1bc8a21e70e79"
     },
     "answers/geo-basics/can-i-use-chatgpt-as-a-crm/index.html": {
       "class": "navigation_only",
       "before_sha256": "0da3076cc5bac6157bbbaf2e8fb27e61a704bb76370db2a822a6d8e54a609052",
-      "after_sha256": null
+      "after_sha256": "6134c3826a25c407637b131463a9d05ec99c538f856867bfb445638442461fb6"
     },
     "answers/geo-basics/chatgpt-seo-skills/index.html": {
       "class": "navigation_only",
       "before_sha256": "b17dee9974357bc32109cbb7e11eb152c1bb5b217f91c6ae823058a82008d50e",
-      "after_sha256": null
+      "after_sha256": "20d349c3ccf04d4ec739f46ea2cfbc7b73478c40ae8a65c483221a5475ae4fbc"
     },
     "answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts.md",
       "before_sha256": "cb2691247b33440500b808c3e1ec729c6edf0bbe987bc45e7ed0536786132750",
-      "after_sha256": null
+      "after_sha256": "e437105c988e6f5c7f56f6f4db3497030b31ab681df88ce932d81fbf8fbe16b8"
     },
     "answers/geo-basics/does-an-ai-brand-mention-mean-the-product-was-recommended/index.html": {
       "class": "navigation_only",
       "before_sha256": "fde1f29934fb26eefc8c7d11f1d82e07e0e9a3726ab7192ae40d4ae7c1a5a4c0",
-      "after_sha256": null
+      "after_sha256": "fb4f514b3cae625e60adbb423d2e8551f37f4951c3c81b3f7674956a88f5459a"
     },
     "answers/geo-basics/how-can-chatgpt-help-with-seo-content/index.html": {
       "class": "navigation_only",
       "before_sha256": "268d67c152ab7350121240b66de25a58b97d613d7c3e32c90f22ac46c3d2d5b0",
-      "after_sha256": null
+      "after_sha256": "79b134fd261c1c9df330f5c5575b9155d021585572adc77f2252d9f53a5e9e87"
     },
     "answers/geo-basics/how-do-ai-visibility-vendors-differ-for-regulated-industries/index.html": {
       "class": "navigation_only",
       "before_sha256": "caddf2cf932dd12ee8309d530e012af28d3b24d5a5438bbd82e6f270bb0e50e3",
-      "after_sha256": null
+      "after_sha256": "d6f94d6d26d317be351f04569d2a9933349e0484326572d507d73be7c0e360eb"
     },
     "answers/geo-basics/how-do-profound-and-seo-clarity-compare-for-tracking-brand-coverage-in/index.html": {
       "class": "navigation_only",
       "before_sha256": "9293756330756ef27cebd65a0e47229a4309c2d780698dc4b6c93153703f0271",
-      "after_sha256": null
+      "after_sha256": "6e435560462d0930b9ce56ee993a62de88345cab6f915adbfd3dbc6b8c8cfe53"
     },
     "answers/geo-basics/how-do-profound-and-seoclarity-compare/index.html": {
       "class": "navigation_only",
       "before_sha256": "0370bf83ee4eb071c3ed5303c15325b97151395246807c972ed1b324fe2603e2",
-      "after_sha256": null
+      "after_sha256": "beec721896b8ed506a0a14db4e7fe180a9b45948bff00bb73a29ab293cdf01ab"
     },
     "answers/geo-basics/how-do-suede-and-athenahq-compare-for-tracking-citations-across-models/index.html": {
       "class": "navigation_only",
       "before_sha256": "cb2dcc83f09bce1e5a86f1f4705f5d4912874315a0a9930aba529a835221913c",
-      "after_sha256": null
+      "after_sha256": "94ab801a5150c0ee4594a76c98726cbcbcdf7c98fa6d9e3acaca737b77b70d15"
     },
     "answers/geo-basics/how-do-suede-and-athenahq-differ-beyond-price-for-a-pac/index.html": {
       "class": "navigation_only",
       "before_sha256": "cf3ffdc242247d67ce064b6f8c0158b6c7c8b4a38234106ceca7654dac4220b1",
-      "after_sha256": null
+      "after_sha256": "db8b78251304a516dd514b010bafeee79417974ca6ba2770d3111793e894dbf0"
     },
     "answers/geo-basics/how-do-suede-and-profound-compare-for-permitting-and-community-narrati/index.html": {
       "class": "navigation_only",
       "before_sha256": "ce9dd9dcbe1f5985a6af46d745a140bf06d4a9097145011479811dedbc2ddc53",
-      "after_sha256": null
+      "after_sha256": "b4191691fb39dbf015223769dd94184d8612d1641415e51a35259cd57aa3ef95"
     },
     "answers/geo-basics/how-do-suede-profound-and-athenahq-compare-for-a-trade-group-in-a-regu/index.html": {
       "class": "navigation_only",
       "before_sha256": "505a7cca6c0e551edc06dd99cd9c4b4a15e68da3b01f21d9d9a139fdf0d1c90e",
-      "after_sha256": null
+      "after_sha256": "3d800553804ab56dfe53dfc25090eee1c5fec07ea8eb7bfd4d341771745a080c"
     },
     "answers/geo-basics/how-does-chatgpt-relate-to-seo/index.html": {
       "class": "navigation_only",
       "before_sha256": "ffa5e5f3853d6efc5898b7ba9ce8e74b3821724e28947364a6f54754fbba0032",
-      "after_sha256": null
+      "after_sha256": "e7785308a1bf67748f34186185b9ff5ec456a5f65ae7fbb22272b5997d24fcb7"
     },
     "answers/geo-basics/how-does-perplexity-relate-to-seo/index.html": {
       "class": "navigation_only",
       "before_sha256": "bbda969111afe7598c502b2e8a945443bd9bf1bc41610ba5648492190bf8455e",
-      "after_sha256": null
+      "after_sha256": "d23a6ed302ae190db7b449d214149e50a96fc855c01831a63452273162d2a158"
     },
     "answers/geo-basics/how-does-profound-track-brand-coverage-across-ai-answer-engines/index.html": {
       "class": "navigation_only",
       "before_sha256": "319a6f95405369491bb5b8874e2302ceda35affc9d264cd20bf7ca44697e642d",
-      "after_sha256": null
+      "after_sha256": "c32b92b699cadfb8dbee137e5740fc8f93a7b5e3c94618a672b679618ecbb6d9"
     },
     "answers/geo-basics/how-might-ai-search-engines-change-the-web/index.html": {
       "class": "navigation_only",
       "before_sha256": "511ee0c175c19042f91557d4be58010208072dd9c4e61d5a7f51eb5a81e078b0",
-      "after_sha256": null
+      "after_sha256": "d4a5c2705b797a4dcb27c58d0f3edf9141d28f2a085ce0b18e62259ce4bf107b"
     },
     "answers/geo-basics/how-well-can-entry-level-geo-solutions-scale-with-a-growing-business/index.html": {
       "class": "navigation_only",
       "before_sha256": "7028b14446ea94f9ba39d4ef273aafb4c0f6736e66dc4caf5b0cdaa4c36f0fc7",
-      "after_sha256": null
+      "after_sha256": "567a7233f59fa6a2c0b6a2cad1c08f189e58c795e543e5d9607438922f198558"
     },
     "answers/geo-basics/index.html": {
       "class": "navigation_only",
       "before_sha256": "912e5d99e577547b341646c6208078fd8132e132a9f15b30277c022ee91799d9",
-      "after_sha256": null
+      "after_sha256": "c5d8621e230750e8f2e6353135c6b3aee44463562d083d8b53a0f0140ba4252d"
     },
     "answers/geo-basics/is-geo-a-legitimate-strategy/index.html": {
       "class": "navigation_only",
       "before_sha256": "2d88eafc9f8c573a7dbd4d1d81a2e0796f5ba054079cd7810f9e624cb2ab44aa",
-      "after_sha256": null
+      "after_sha256": "1be8b7d588885179f7c942b64192d4ed38a8ed723b93ebc8ae1c08d0f0a44073"
     },
     "answers/geo-basics/is-geo-a-separate-skill-from-seo/index.html": {
       "class": "navigation_only",
       "before_sha256": "4e68a30bdfd0ee1f81cdc8df079bd346b68dad55f11aa535daadce4ee2260af3",
-      "after_sha256": null
+      "after_sha256": "37b15d8ebf2c5861b7ceee7154aa4d9fdfd3ba7eaa17ff389ff449566e6ded5a"
     },
     "answers/geo-basics/is-learning-seo-and-geo-worthwhile-in-2026/index.html": {
       "class": "navigation_only",
       "before_sha256": "9fbfc06e0dbfe48de6254471fa13ac37548d0b30f5a7df9360b6911c44b0a909",
-      "after_sha256": null
+      "after_sha256": "c0f60bf1aa178a510634f3a5227388c213f5dfc9ef3ea7ab18cf5ebc3de993be"
     },
     "answers/geo-basics/origence/index.html": {
       "class": "navigation_only",
       "before_sha256": "23b6dd2d732fd29850c6090b904a4a879c93636c6981699c24384e745484f376",
-      "after_sha256": null
+      "after_sha256": "fb1e46a61a76682ae7025b28d1d32056aa64b45295d0e3798206dcbd450d2f6f"
     },
     "answers/geo-basics/peec-visibility-or-aeo-or-geo-or-search-or-citation-or-seo-or-generati/index.html": {
       "class": "navigation_only",
       "before_sha256": "0222e6a0e6b950373b495381675347ee1e504fc8c4572c0e0cb4e3d33ae90a61",
-      "after_sha256": null
+      "after_sha256": "35e8f45ceb7f90bccd1b85c8cc70f88b1a7d674184aa72e474d925ffdaa85778"
     },
     "answers/geo-basics/what-are-alternatives-to-brightedge-for-geo/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/geo-basics/what-are-alternatives-to-brightedge-for-geo.md",
       "before_sha256": "11f970c516bff7ebd3257a579270ad28efad2166c53979188adde4d7f43142e3",
-      "after_sha256": null
+      "after_sha256": "68b8ab157dffb1ce34fc49b448f044d24140a17438cf81bfcef33478785e7ee0"
     },
     "answers/geo-basics/what-are-alternatives-to-go-fish-digital-for-geo/index.html": {
       "class": "navigation_only",
       "before_sha256": "3d9e6dc7c9d04cebc384764d92b0e5a5215ed3fa75ef4838b69c1e4276b5004c",
-      "after_sha256": null
+      "after_sha256": "0f672fe3b7fbc17f1eda240f75473b8e9aa9f3517426baddb60c2c15deb3938d"
     },
     "answers/geo-basics/what-are-examples-of-answer-engine-optimization/index.html": {
       "class": "navigation_only",
       "before_sha256": "cd6410aae9fa563cb974643756c7f3126799c65d24198fe643dc740b1019cb18",
-      "after_sha256": null
+      "after_sha256": "a2c171503c82af93669efe2a05ddf617341a8d4743b1bf46f317db0f648bef59"
     },
     "answers/geo-basics/what-are-the-top-3-crm-platforms/index.html": {
       "class": "navigation_only",
       "before_sha256": "b3d43d4eeb6e9d66b8f52a043e729802b635682595c40448cfe8f95019aa8ac7",
-      "after_sha256": null
+      "after_sha256": "33bd852a0f336bbfe20b64d060138cedbac51dbe5714c61202b3ce1e0065b1a8"
     },
     "answers/geo-basics/what-can-a-cited-domain-tell-me-about-an-ai-source/index.html": {
       "class": "navigation_only",
       "before_sha256": "c1d0b418e7b56a4df98ff0f6116cac879f054df463b22a8b12226b013a2cdfe3",
-      "after_sha256": null
+      "after_sha256": "01e00c1742a4358a6ede57ca43854316aa33a61930b3e3b70ce79fbec2382304"
     },
     "answers/geo-basics/what-can-perplexity-computer-do-for-seo/index.html": {
       "class": "navigation_only",
       "before_sha256": "24f0372b4b0281b7946e80419ee7f108fcfae3fc3de9eae81021a2279959b839",
-      "after_sha256": null
+      "after_sha256": "bc3ec59601566477a1f577f5e8b9928cdf935c3b71ad565e96f685c8c10dae7e"
     },
     "answers/geo-basics/what-certifications-cover-answer-engine-optimization/index.html": {
       "class": "navigation_only",
       "before_sha256": "408fd4baa76c389a85033ef3afa1aad9c489e9f6917f270782957985a8901abf",
-      "after_sha256": null
+      "after_sha256": "6594b9018ad80f9992033e12766ed0bdfb1578ae68b54a067929a0befca6a1e6"
     },
     "answers/geo-basics/what-courses-cover-answer-engine-optimization/index.html": {
       "class": "navigation_only",
       "before_sha256": "497314e24a6f5ca0d787b71a1848c54d5973ce6ab88358f0bbb2c6d1d0ca4071",
-      "after_sha256": null
+      "after_sha256": "5d7d08a19a07b784fb7fcf9379b55b2bb1fe87c14526db25ff3d9877dfa7acb8"
     },
     "answers/geo-basics/what-does-blue-yonder-publish-about-ltl-freight-shipping/index.html": {
       "class": "navigation_only",
       "before_sha256": "267f2e581d813680da3b10615b5a658bfc1816acf874a06675b40a788b0ca8eb",
-      "after_sha256": null
+      "after_sha256": "b09c3277e77052392287ccb9848affb00b6f52041c405d4e38e52b17a46e730f"
     },
     "answers/geo-basics/what-does-brand-visibility-in-chatgpt-mean/index.html": {
       "class": "navigation_only",
       "before_sha256": "285de25a4c47cac02ba5596bcf15adb1ff41141938726bd0501c3bc2139a68d1",
-      "after_sha256": null
+      "after_sha256": "3d49ed4363159e9f2d0a866c5f5cac666c540356fd129270165c7fcca8d8614b"
     },
     "answers/geo-basics/what-does-searchable-offer-for-ai-search-visibility/index.html": {
       "class": "navigation_only",
       "before_sha256": "b6d904bec853f6a5236840fc5f889e4618c3e937f13bed4435a83827254d5f2d",
-      "after_sha256": null
+      "after_sha256": "872a9f00cf276f58c9c58cb5d1c342d3cb5e9cc2bd7793136d06c330a693fb37"
     },
     "answers/geo-basics/what-does-visibility-in-claude-mean/index.html": {
       "class": "navigation_only",
       "before_sha256": "83d02be0cfa0f255b6c3645ca6f5510dc7abb78166be070000afcd5665d9dfd5",
-      "after_sha256": null
+      "after_sha256": "bc92e2a228fcc3ac8031a8e41841886af7858d9acfefc6c4780d906cf8d5cf06"
     },
     "answers/geo-basics/what-jobs-involve-answer-engine-optimization/index.html": {
       "class": "navigation_only",
       "before_sha256": "3d9601ec7a8aaa094d9b25ae53743d5745182edc1ff86e994c933275aa67be7b",
-      "after_sha256": null
+      "after_sha256": "33cd425db58240cecf3490ad8afe7b7e1b591b436b157a9382a66176da2e7094"
     },
     "answers/geo-basics/what-platform-scores-competitors-on-generative-engine-prominence/index.html": {
       "class": "navigation_only",
       "before_sha256": "8a42af779e00e03f820a0e40fb660d05b13a6cd8603af2a46f7594c2afbfcbb6",
-      "after_sha256": null
+      "after_sha256": "5a3c4d6bc957ed462d0f99696b6ff1a22b3a60c599092d4f07d7ef9324ad1c30"
     },
     "answers/geo-basics/what-seo-prompts-can-i-use-with-chatgpt/index.html": {
       "class": "navigation_only",
       "before_sha256": "91d1644fe64e18a213978ae2a3c02cae71e4f3dd9edb0a401bb416b8234e5b6a",
-      "after_sha256": null
+      "after_sha256": "41ab108e8eb9b5dcf37d7b210fde28991616dfed7c80d0414c6fedcf8295fc99"
     },
     "answers/geo-basics/what-should-i-learn-for-technical-seo-aeo-and-geo/index.html": {
       "class": "navigation_only",
       "before_sha256": "022e63efe645fa6c226280cd5877d5c36f8ace07c7e39bdde84b58b900fa9d04",
-      "after_sha256": null
+      "after_sha256": "5fd8d19c7d5bfdc3e72a9e8e07ad8593ff02d0c75aa871b9e5a093a0cc6eb459"
     },
     "answers/geo-basics/what-sizes-of-dental-practice-use-dentrix-ascend-for-scheduling-and-bi/index.html": {
       "class": "navigation_only",
       "before_sha256": "05a115c52fecfc74a2638883b906b4a775d4c4d419f69d26db2e5b56c3cb6618",
-      "after_sha256": null
+      "after_sha256": "3b906bf9cb80d056295743ad13e28693954d6ebe313cea23e8d22b6350b0cd3a"
     },
     "answers/geo-basics/which-ai-based-crm-is-the-best/index.html": {
       "class": "navigation_only",
       "before_sha256": "80b4a506aaaf7239c8e41d5bd6fbd68cd7b202eb93e845f7dea7180ed4a1a178",
-      "after_sha256": null
+      "after_sha256": "032cfddb10327eaf7196f0333eef18bf440f4690223c697ece86e186342014c0"
     },
     "answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare/index.html": {
       "class": "navigation_only",
       "before_sha256": "8311612ced8f74c7aed05de7ac9e69db2e40a8515f8a1dd04cde88e6c7fa8fa6",
-      "after_sha256": null
+      "after_sha256": "589f1f4c4411cc3693759d2579171a1c613b6b78d88c42ea8d4d0f2830e11c36"
     },
     "answers/geo-basics/which-tools-combine-ai-visibility-and-social-listening/index.html": {
       "class": "navigation_only",
       "before_sha256": "7252f7f6217ec33d1b41e585bac871c5a4dfac72a4941878c7e97b19fec57d33",
-      "after_sha256": null
+      "after_sha256": "818a3e03136cd88ca6a31b06d9fed7ce5f0e544220a47e1c4928cae24ccf3a6a"
     },
     "answers/geo-basics/who-has-practical-experience-implementing-geo-or-aeo/index.html": {
       "class": "navigation_only",
       "before_sha256": "c623409d2afb69254ff0a9162da8daeaed803475b3aacb03e420b8fcb94c0258",
-      "after_sha256": null
+      "after_sha256": "e12b4efa7d40d936ca8ef29bd77d67dfe7b852b26e5dd5e32399081a7777497e"
     },
     "answers/geo-basics/who-has-the-best-geo-results-in-competitive-industries/index.html": {
       "class": "navigation_only",
       "before_sha256": "bdab499fe856083714f043e17bec06d8d59fac41eaab11bbfba3f6ef029fc78b",
-      "after_sha256": null
+      "after_sha256": "16ab09735c7bad1fa2790912582b548222c80772cfa405bd34c8ea6d9d0347f8"
     },
     "answers/geo-basics/will-crm-get-replaced-by-ai/index.html": {
       "class": "navigation_only",
       "before_sha256": "824c721966ae5869ab7b4d9254c69503e8d8e66709f061e17040ffb1e0b6d010",
-      "after_sha256": null
+      "after_sha256": "401ae3e49965dcd910edb1d437f725c76b6b479caf43c9b249c6273f358bdb43"
     },
     "answers/google-ai/can-i-disable-google-ai-overviews/index.html": {
       "class": "navigation_only",
       "before_sha256": "5eeadf1319e0eb74b721be582839e2f7bbf55f6535f7f2a2b59200c4d5f843de",
-      "after_sha256": null
+      "after_sha256": "f758b952d0b1ca0c939ac99dd5dc94d7f8bbf4247e8cc902d4eca4d809883625"
     },
     "answers/google-ai/does-google-extended-control-ai-overview-or-ai-mode-visibility/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/google-ai/does-google-extended-control-ai-overview-or-ai-mode-visibility.md",
       "before_sha256": "421cf2f449bad7eaade73db18300669f184c42731a526ced9b78d0298eabb1a4",
-      "after_sha256": null
+      "after_sha256": "e1f78a2c8d20d360badc27a0b3fa5d15fa446a26572a98b734fccdf006a50fb2"
     },
     "answers/google-ai/how-do-google-ai-overviews-affect-website-visibility/index.html": {
       "class": "navigation_only",
       "before_sha256": "08988b53173d875453167d3e71773b6db6c62164b6c6e89818c5ce2329c7744b",
-      "after_sha256": null
+      "after_sha256": "0cce4dc9b67987d5e6b1ace88a0038baa020544a09578c14f43f30d9f8e75a45"
     },
     "answers/google-ai/how-do-google-ai-overviews-and-ai-mode-compare/index.html": {
       "class": "navigation_only",
       "before_sha256": "3b3f08c8a4c5d6954f1085d3614f318d172cc71bc5bff40ccba853704a98c2e8",
-      "after_sha256": null
+      "after_sha256": "06e432f214d245bb522e94780be0de841f8341f32d9bb03c0e875f3a07667b20"
     },
     "answers/google-ai/how-do-google-ai-overviews-and-generative-ui-relate/index.html": {
       "class": "navigation_only",
       "before_sha256": "d3612597fec30fe5aaae66f20f38f65c5fd43ac360c29767f5e1236ef8b3de23",
-      "after_sha256": null
+      "after_sha256": "2489afaedd4898090ebc16aa5f5f3ac65da49cb372f62c0d904af6e7d2a2c1a6"
     },
     "answers/google-ai/how-do-google-ai-overviews-choose-sources/index.html": {
       "class": "navigation_only",
       "before_sha256": "5049251d32a88d3c5fc5357ad364bd28d833def8eac43498c4125345aa14c6b7",
-      "after_sha256": null
+      "after_sha256": "088415fe4d728a334252654860acdb6d3fe47154e585d4f6a039a09cc66dc46d"
     },
     "answers/google-ai/how-do-i-get-a-google-ai-overview/index.html": {
       "class": "navigation_only",
       "before_sha256": "c44707a3bc94774328dec0eb6f65c20cef6b1975f5acdf7196b2fae35d482d7e",
-      "after_sha256": null
+      "after_sha256": "b73b619bcbbcc46fb35b53b3725aaff55f7a67f69be1b9f82d4657b50ec1bf63"
     },
     "answers/google-ai/how-do-people-use-google-ai-mode/index.html": {
       "class": "navigation_only",
       "before_sha256": "71f18f9241fe2c6d479662e59f7991cd718233671e4e2a31b66d1cb5e4d4653f",
-      "after_sha256": null
+      "after_sha256": "694d6930ef8869502ccc404579446dfebcc5feac0733c2eb6deef4d9fc51ee50"
     },
     "answers/google-ai/how-does-google-ai-mode-change-keyword-research/index.html": {
       "class": "navigation_only",
       "before_sha256": "6938abffa9238a606b24718ecbb110a640d3f573a9a5d9a20b58cdab81c4f421",
-      "after_sha256": null
+      "after_sha256": "66fc046d6f997369902a8579d33658053f812775344526d3dd3e8885ae5f71e9"
     },
     "answers/google-ai/how-does-google-ai-mode-choose-cited-sources/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/google-ai/how-does-google-ai-mode-choose-cited-sources.md",
       "before_sha256": "0df5dbb84c05022bacb071f1156b5fceb6824104051e14b1dd78dbdb5cdf4558",
-      "after_sha256": null
+      "after_sha256": "d25cdccb4e9c8033e4b27b9c312b1685c34eeb2f8f618e73e9dbb881301e91c6"
     },
     "answers/google-ai/index.html": {
       "class": "navigation_only",
       "before_sha256": "5bc686d61a75e593788f93537a0e467846ac83841545d162e56efdcb3bc6eb61",
-      "after_sha256": null
+      "after_sha256": "db4d6a45903288fe44f9418381d721ae6e33c47ebec1b76ffddf7ed3f1e9d851"
     },
     "answers/google-ai/is-the-ai-overview-gone/index.html": {
       "class": "navigation_only",
       "before_sha256": "8bbf4ea24ea37eed898f937fbe9d46cba9aa934258db945c7cd42f134c633bc7",
-      "after_sha256": null
+      "after_sha256": "eaa82db51fbf4811e1361b83ea16c67a0741b93707e55ed3df7efb39068a347d"
     },
     "answers/google-ai/is-there-an-api-for-google-ai-overviews/index.html": {
       "class": "navigation_only",
       "before_sha256": "0e5e328cdc7da5bba6b2b2322dd82186885c03611dae4e68ecb20b5e0e4a9f09",
-      "after_sha256": null
+      "after_sha256": "d7b60597aa1377be6643f5126783da4eac4671f87f7cbd38259789cff5e8a0d3"
     },
     "answers/google-ai/should-ai-overview-rates-include-searches-without-an-overview/index.html": {
       "class": "navigation_only",
       "before_sha256": "ff790a61eb78477dfd1b7f1b5d2df608346aac7d38eef8e8a9a18255c34ad0e7",
-      "after_sha256": null
+      "after_sha256": "9b441b7fa4bb2d0a339c8d1aaa6fea439b43d70adde32631b4323d84c0c19839"
     },
     "answers/google-ai/what-is-a-google-ai-overview/index.html": {
       "class": "navigation_only",
       "before_sha256": "5ebff1ddec66d504c2609489296261dcfb61835f71c553b4d4b504015ed91603",
-      "after_sha256": null
+      "after_sha256": "654e859cec72003c795393216320ba7debed04a1fa4590ee2a4835d676d31c1e"
     },
     "answers/google-ai/what-is-deep-search-in-google-ai-mode/index.html": {
       "class": "navigation_only",
       "before_sha256": "658e4cf1da9c9ef58badddb0f46b2c794152e1ecc469bd2db20a8bc3e5ff56ae",
-      "after_sha256": null
+      "after_sha256": "61aea3ffbb8ffe85e25eb0cea1e95cffbf14e91f3a817a7b2b2a7aac277795d2"
     },
     "answers/google-ai/what-is-google-ai-mode/index.html": {
       "class": "navigation_only",
       "before_sha256": "648d53aca37daba3c2dd1c522cf390aade41b84eccb49aa73333665f43327ac6",
-      "after_sha256": null
+      "after_sha256": "395abad31f1c7f97241372e9c857b7d233f207f4699c5d58a49ef06ce0b81499"
     },
     "answers/google-ai/which-construction-software-does-google-ai-overviews-name/index.html": {
       "class": "navigation_only",
       "before_sha256": "1484bba21d285c377cecfc0375dd884dcc3027f82c31cb16e60d62af1561a32a",
-      "after_sha256": null
+      "after_sha256": "790fbb2b66d33ff4c1bc50db392c67c455c8594d51be650df302de79ec252701"
     },
     "answers/google-ai/which-crm-software-does-google-ai-overviews-name/index.html": {
       "class": "navigation_only",
       "before_sha256": "2060a9b75f91c2a8543fb6c0f55c81847d1785335c4eb55fc77a2de4dbc9a555",
-      "after_sha256": null
+      "after_sha256": "dc646e334a3fb14acbcd16331b368e7263311ac3feddd9c14983fcf379e6a306"
     },
     "answers/google-ai/which-dental-practice-software-does-google-ai-overviews-name/index.html": {
       "class": "navigation_only",
       "before_sha256": "e34ff9a9eee699494906e3be89423297525243c528004d21375e7f59b430799d",
-      "after_sha256": null
+      "after_sha256": "9997b901bd23ba9353950b2a7c7186762d30605bcb8efee4df40c4af66171aae"
     },
     "answers/google-ai/which-field-service-software-does-google-ai-mode-name/index.html": {
       "class": "navigation_only",
       "before_sha256": "7991a062c3bf77140987191bd72c1cf04fc8cfbfbc6fab5243195c1fc7733ff7",
-      "after_sha256": null
+      "after_sha256": "2dddb1f8ed152fa1c7b216a09e716400d53f2fe7973439ff2834b827cfb6718d"
     },
     "answers/google-ai/which-hotel-management-software-does-google-ai-mode-name/index.html": {
       "class": "navigation_only",
       "before_sha256": "2313fd11a49fb2c2feb1bccde0e6ebbd70e0ce01710225df9bcab5c2cffe8807",
-      "after_sha256": null
+      "after_sha256": "02042dfaa5b0e4d99c4e8428dd13d03115424084a28daaba80713c32ada0f1f5"
     },
     "answers/google-ai/which-software-tracks-brand-rankings-in-google-ai-overviews-and-bing-c/index.html": {
       "class": "navigation_only",
       "before_sha256": "867834872b90b85bf86337f755b4fa3cbc67fec0958f558e6786c61c3840f049",
-      "after_sha256": null
+      "after_sha256": "89dd3ababbf196e2becb12317a74aa31ef31bd8faf8d4b3f1930c360e755eb9f"
     },
     "answers/google-ai/which-veterinary-software-does-google-ai-mode-name/index.html": {
       "class": "navigation_only",
       "before_sha256": "e30c14acbfb820b311d73ff789e5399b566687b4563500c2b871f0e3243e8d12",
-      "after_sha256": null
+      "after_sha256": "567b21454fc3dca795be15e2ad11e53d79b7873a34b4a762943b595f15c3e8f1"
     },
     "answers/google-ai/why-does-google-ai-overviews-not-appear-for-every-search/index.html": {
       "class": "navigation_only",
       "before_sha256": "0e2ef8caf88ba1634f8493c642c2a6d65b9a1c130c606da7a688339ebda212ae",
-      "after_sha256": null
+      "after_sha256": "4d51f74028dd8e36c7fad2cfc215d01cd81b9c4eb16ade86c14f81420dd72621"
     },
     "answers/google-ai/why-is-google-ai-mode-not-working/index.html": {
       "class": "navigation_only",
       "before_sha256": "ce00bab8db59f0bfcfa4410bdba4cbe98896c7f0a26aa6336d75e85c82adcf8e",
-      "after_sha256": null
+      "after_sha256": "24737a510eabd918fba8cdf7f80c281e3c9cd6e5f40056caf53ac54285eeec8e"
     },
     "answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "f256c8d91794923183641c383105e0f61a5e4ed1f27d0cf3a16534b2b8be2a5d",
-      "after_sha256": null
+      "after_sha256": "766d1983eb748c3c7b0662033c9b0b91a7f936108f1760c3b62d08677dd6cd70"
     },
     "answers/industries/crm-software-chatgpt-free/index.html": {
       "class": "navigation_only",
       "before_sha256": "6c8f2c06e9ac548354ab57805757716da3b25f28735da04df81f407ac27f9911",
-      "after_sha256": null
+      "after_sha256": "bad991267e2527557a6ef4c46a0c0441e3d85915264ce3bc33924cdfae9072b4"
     },
     "answers/industries/crm-software-chatgpt-project-management/index.html": {
       "class": "navigation_only",
       "before_sha256": "9e223a97a02114bf2ed3de469541a080ec64a6327041b938ba0dcfd1389fd3af",
-      "after_sha256": null
+      "after_sha256": "18bd83dac063147f920320a23b11adb61d92c0485bc21efce5a4f7382949d0a1"
     },
     "answers/industries/crm-software-chatgpt-reddit/index.html": {
       "class": "navigation_only",
       "before_sha256": "50a91e8dc05c0e7751a398d679a0c903b59229bc1d5d47c182e90048ad3e516c",
-      "after_sha256": null
+      "after_sha256": "780974afd21f5f56351ede86dfe8abe1e8c827837973e06683f6ed7b0f9691ca"
     },
     "answers/industries/dealership-software-chatgpt-project-management/index.html": {
       "class": "navigation_only",
       "before_sha256": "97afc64015ba1c0118ca1afc1a3609a004a78222c7dde8d434c489cb1f800105",
-      "after_sha256": null
+      "after_sha256": "aa58d79a102b0d087ca19d4b128e37715dc85881b92b973eff0355700868cb7b"
     },
     "answers/industries/digitail-vs-ezyvet-for-ai-native-veterinary-practice-management-with-t/index.html": {
       "class": "navigation_only",
       "before_sha256": "84fd2660d1ebf647800b8d9209b8b4a5dd0dd07ba2b5bfdabdc853a8083c20d2",
-      "after_sha256": null
+      "after_sha256": "0c9c571dd3d974a03f294d6b6f926f6ade71143261aa863cec92a81708b169bd"
     },
     "answers/industries/does-housecall-pro-provide-field-service-management-software-for-home/index.html": {
       "class": "navigation_only",
       "before_sha256": "262e12deb4306918827edd7c9cc0d1656309185bb8932a227987d1506ceb7b42",
-      "after_sha256": null
+      "after_sha256": "deca9ade8dc75bafc84b2d909f456f726f7bc98e3042ead759d5d03a9824e341"
     },
     "answers/industries/hotel-property-management-software-chatgpt-free/index.html": {
       "class": "navigation_only",
       "before_sha256": "c8f823ddb5a42a3a8ea2f4277dc9e1ca585f274ebe109c8d0eb23a36a932d6b6",
-      "after_sha256": null
+      "after_sha256": "8c368c07a023466d79ba003ba728bf3f8e8db1a46e92bf1b14ac931c2b60b55a"
     },
     "answers/industries/index.html": {
       "class": "navigation_only",
       "before_sha256": "75569bfb61da86f6bb658198ce318d18697057467af8a428a07198e738b1c1f5",
-      "after_sha256": null
+      "after_sha256": "b6e2da27a28b498ada5efdc94b7b65707a411737c74c2578e7451e2786e4c239"
     },
     "answers/industries/insurance-agency-software-chatgpt-project-management/index.html": {
       "class": "navigation_only",
       "before_sha256": "bc49016486540a50a79d1d99b6a1fe194b180af219f625fb0cf51ee7d1499763",
-      "after_sha256": null
+      "after_sha256": "fd0781687d1d9c4a0e50a0d66b88391267676918308afee2e8cfed108487755c"
     },
     "answers/industries/legal-practice-software-chatgpt-free/index.html": {
       "class": "navigation_only",
       "before_sha256": "7b77e4a5518e76c1fb4ae3b0f44d421422ecd92715a31d0b1ec930739d53b92e",
-      "after_sha256": null
+      "after_sha256": "45bfe944c4e540a68e09182e76e4869351a7946e4f66a1b168c99bd50c9adcef"
     },
     "answers/industries/loan-origination-software-chatgpt-free/index.html": {
       "class": "navigation_only",
       "before_sha256": "ec4c020b14fed4f4fa08110e162760807ef1ad955c1cbd453a5b1ef9af185ea0",
-      "after_sha256": null
+      "after_sha256": "cd04b36d72b09719f890060eb2e2afc92c1a5a582128035ed5fe78ae8fc51b9c"
     },
     "answers/industries/radiology-software-chatgpt-project-management/index.html": {
       "class": "navigation_only",
       "before_sha256": "6aa3db20256520423f935f5c366c739c7a2ac2608862e5a0a31f48078f631cdf",
-      "after_sha256": null
+      "after_sha256": "868100211d74690aa00e3ef7f4c6765721c113805f752cbb6348047552d4b184"
     },
     "answers/industries/transportation-management-software-chatgpt-free/index.html": {
       "class": "navigation_only",
       "before_sha256": "e66eae6c142e7e58a2447ba50046f7066415356767368de533e21953eb024f55",
-      "after_sha256": null
+      "after_sha256": "3d4f5b470a70eab14be3d014a95f0ebc63cb1be42c1e0f4f92fb8909aab8e516"
     },
     "answers/industries/what-are-the-top-five-project-management-software-options/index.html": {
       "class": "navigation_only",
       "before_sha256": "53c55ac2b55f30bcbe48011452ecf355c6f4c89798a725823d21d8f7f3a58382",
-      "after_sha256": null
+      "after_sha256": "876724076c1e3ee0ed7d33009c4b2f4ea8f92329b096b77c6b2f88d8e45b3919"
     },
     "answers/industries/what-do-ai-answers-say-about-property-management-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "e1cc385f7a9828ea58062ee57f24d686ededa81112fe31461a696caa92016f5b",
-      "after_sha256": null
+      "after_sha256": "d80a3b00f48b530ca5874dfbe8ae22cb5e19ffe075d76cddef27402dfdda2481"
     },
     "answers/industries/what-should-i-compare-when-choosing-a-crm-for-outbound-calls/index.html": {
       "class": "navigation_only",
       "before_sha256": "84276141e048b62c6917a1dbac743b0317d281565df3341983b3df2f3bdccbe8",
-      "after_sha256": null
+      "after_sha256": "c206cbad127ca838564fb2de2166474dba139cbf822ad0478799c3e1c9cde2e9"
     },
     "answers/industries/which-crm-software-should-a-buyer-compare/index.html": {
       "class": "navigation_only",
       "before_sha256": "b244c94607f69dcedbf4630a3686bb81548ddf6bbebd132719f6f01fb0206b3f",
-      "after_sha256": null
+      "after_sha256": "c5a01d072a2927f5330f5bb9b2d48aef542225bca6493059b695786c2c7036bd"
     },
     "answers/industries/which-industrial-ai-platforms-integrate-best-with-erp-eam-fsm-and-proj/index.html": {
       "class": "navigation_only",
       "before_sha256": "439591ee59eed7ba9f9d05021da92e843735f2845bec159f28f1668176ffe982",
-      "after_sha256": null
+      "after_sha256": "0c1cdd3c8b36976f56068806302077ac08f674ab45e03e0ea0ae432ae66da490"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-construction-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "6b9746ffdcd3eaf9f21e8cb9125cfaece4de6d84eb04577ec532ec98a8052d98",
-      "after_sha256": null
+      "after_sha256": "e0f612006c3206f43faa2e1880701971108d62d48059c5dd275225ad268e95df"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-crm-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "b2828c3af659059bf48e8c51914f9669377254231d04d749ce3881c8dcd90870",
-      "after_sha256": null
+      "after_sha256": "908e1837b9f2d64553eb4186060458347c099c903ceff2a0200d7452f7c13b37"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-dealership-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "c035eda3db5970a0f2df366664931d465917d4dcf37d23dd002631e5e3f64e69",
-      "after_sha256": null
+      "after_sha256": "48bda47fd4d0a772139d74c24f817401a18398508bc03a7ac8b99697c9e06652"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-dental-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "81325761c0c2d452f7508f4aa95bf856d186463d603244b48e766970b42391dc",
-      "after_sha256": null
+      "after_sha256": "a5266fb7a65c7b1248e45257a04f138891e397e33183b826809b3d5ef90727d9"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-field-service-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "23961a34173a6337740acfb5a10072704b988bb3a30a56fc4fd9bd195ce215ab",
-      "after_sha256": null
+      "after_sha256": "1609a96c8de94fec5ae0aff1085e4709333875e5dfd33fe7e5c2dfc28c4317cd"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-hotel-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "099251a0888e486d4f8e0fc3196dbbc3584fb90c9af0aa5d9479549736954667",
-      "after_sha256": null
+      "after_sha256": "53f52429139eaefefed98e4800969064935b8fc71ae4a1d55ad2138f827b9e0e"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-insurance-agency-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "bcd8cd7317ddad7e48b0ba0d067e0bc3e8fd64d439b6e83b5f0a111377bf9b75",
-      "after_sha256": null
+      "after_sha256": "b62e565a7b7255262ea3a0528d10b78bd417dc59bbf7754dc03a9be8bc7c4d97"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-legal-practice-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "a394c9256cf0cef9b9b501d6d1baf43b62f2a4d2b60b6821250029038b00acda",
-      "after_sha256": null
+      "after_sha256": "1b1d4aa6d88b2c9a1a6f781f29074c51b1b99cc9003c5c9c3b07c54713f6e52e"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-loan-origination-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "059c5ada6646c25c50dd692d05e6ed915cf71d43514a8de67eaa9a0c4c5d9ec0",
-      "after_sha256": null
+      "after_sha256": "5fcca46a9e1bfc50851c3b4a6ca58c23b8c0fbe36f1571b80f599c40ede53f0e"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-project-management-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "e6b5e021d8197b87fbd9defdf7104fd02d3994c684fdf3546c15a5256e8398ce",
-      "after_sha256": null
+      "after_sha256": "d2a9a49ecc38eb802df9782768cd6f1bc13e7511e60e55c9e2e1ddcd8ac6ecc9"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-radiology-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "4a5dfa4e2ba5c09d38b1b292451e7bf1f7478cf1f1dae2e799a5070227e89cce",
-      "after_sha256": null
+      "after_sha256": "0520dd0b6d06cb91b3c524c84edc8e2ed7a681d15fb654fe1c6b0758d30c96b2"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-transportation-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "683409e278cc26311b223631f24f263ac23201bb4c3fc60f9965bf672ed857d3",
-      "after_sha256": null
+      "after_sha256": "699f4f9001461d479420b433e852bf5c0e615da58ddc7350f0f51091be2f46e6"
     },
     "answers/industries/which-sources-do-ai-answers-cite-for-veterinary-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "8f4960ab41c2ed50438f12d73cd8517092eb1e3be7ef861f04a7931b812dbc7c",
-      "after_sha256": null
+      "after_sha256": "f0c0f90d366ff0ed65d77aa2ae783f875c0d6adb31205b8b89d27f894af36bf5"
     },
     "answers/industries/which-sources-does-ai-cite-for-property-management-software/index.html": {
       "class": "navigation_only",
       "before_sha256": "18ad6d2538312fc853fc534f833fb9c97b71842e49fd03a2f9788fc99ec87208",
-      "after_sha256": null
+      "after_sha256": "1fddbb4cf1e1b1bd8296c3f7cebeb91bfa414e0f98c957467612685c3412fd04"
     },
     "answers/industries/why-is-my-construction-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "9b1c9a41643212f4479d60cb7198c0eddb27889a79e23e70276e3e6807dfcb7f",
-      "after_sha256": null
+      "after_sha256": "829cda78ef610eb68342d8dc71f885f10237ab9937d93163bbb44fb857058d7e"
     },
     "answers/industries/why-is-my-crm-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "44cc1b09dd3e07bccfe36f7f5e4536326cf16d4ed5f64c6948443657f471928c",
-      "after_sha256": null
+      "after_sha256": "89ae7e71a2ad06c55088b038906a306991cabc9bc5631b5ecca71677a831626f"
     },
     "answers/industries/why-is-my-dealership-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "d9c995bda63f60c7e14157c4e848d565d33ed5bf809441d6d35cd8c8ca87f4ad",
-      "after_sha256": null
+      "after_sha256": "d8c3913780affba03e66c220dccb97d2ac9e461047ed33f6fa4c185c1c57d0e6"
     },
     "answers/industries/why-is-my-dental-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "8123836ea7238ce8bea8ba4b96fc29dbccb98c21c9a5db94fe21d749cc6e7cbf",
-      "after_sha256": null
+      "after_sha256": "8d19bbf57c63272c6d2a9beec2b355ba6f293607db4f224cf73be8cea7946831"
     },
     "answers/industries/why-is-my-field-service-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "8123394b53f7ae052f26e4b3c69fdd900776a4c5ab6268327ec7334ec7a51fad",
-      "after_sha256": null
+      "after_sha256": "ee6c3cf5776799e4f156b0275438f89843cc7a6916cf1c6a7d3622ca921cddc3"
     },
     "answers/industries/why-is-my-hotel-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "ac80309c97ad228bb8ab87df144ed469db7d10b24f74ea8bdfd828f7565f7bc4",
-      "after_sha256": null
+      "after_sha256": "5f497cca5327316f2bc09fefef2c7ed03ab54d5bc7e16b61a67dec3f10f8baf0"
     },
     "answers/industries/why-is-my-insurance-agency-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "05291467ff44d83b8711bf324510349d3c321f67bf267340b6851f34c2d1437f",
-      "after_sha256": null
+      "after_sha256": "cab5e9ab717c5ae3d7613a00157372059a43a4d586d68023a61db16dc16c2ed1"
     },
     "answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "3a8bad69d8061345672e623315d3667788348d42520b91374c2ea328bff1b472",
-      "after_sha256": null
+      "after_sha256": "34bfe2458e4fb137eba181aaee65e55036fe114dd18397429979a13e72750f63"
     },
     "answers/industries/why-is-my-loan-origination-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "325b8f5f0bad2ca87d686b27ff34a41eb81c22f762d6a002fab2e995148b2552",
-      "after_sha256": null
+      "after_sha256": "9a6338248e872f75ce6862125dbe4f365d54815d104ca5fb7c094b14b0ef9b95"
     },
     "answers/industries/why-is-my-project-management-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "478af1ba499f34e89b34b832ac956de22cdecfe18110790bac1797b14a49217c",
-      "after_sha256": null
+      "after_sha256": "f4205625a032c078af01e08641e7ee7dc7304f5c2dffbcede10b52c5c83b0c16"
     },
     "answers/industries/why-is-my-property-management-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "5f7ba85713b8e98990e0b156ab8a8ac84cbffa72ef842978ba4a48e005ff74bf",
-      "after_sha256": null
+      "after_sha256": "e56a20321e04ddbc562541c5dc2a8ce2df3b16e80dc5ac40577f82079a2326b3"
     },
     "answers/industries/why-is-my-radiology-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "86b9925f74027019acb1285c4f556cb4e9ba8bd4d9675eaf38a0deea9253f8f2",
-      "after_sha256": null
+      "after_sha256": "a50d4e9406f0fba6450b653dcc7ef29c107cd75da166e90e1190f6756b013f24"
     },
     "answers/industries/why-is-my-transportation-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "b8e58e049915c480baf21e55e8ed02ae1f0b3c6c2535d573bf43b549403b45ad",
-      "after_sha256": null
+      "after_sha256": "f0c62945745ac616db3882e92d1381c9648094f52b2fb3af2e23234b4d3388f1"
     },
     "answers/industries/why-is-my-veterinary-software-missing-from-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "e9d579d150a76609bb8d33a58c827b9d55f321fcaffe85fd0a5f151452c36748",
-      "after_sha256": null
+      "after_sha256": "87e940694acdc056b9618af92951b02d1568edaa37308e13d9d40da42a10eb51"
     },
     "answers/measurement/can-google-bing-and-llms-find-content-on-threads/index.html": {
       "class": "navigation_only",
       "before_sha256": "209f9f027d90d71491011a7c5d9d858518ac7eca7a591fef1b15b6b3f196ddf3",
-      "after_sha256": null
+      "after_sha256": "ab5ce24e63bf8e20adb0c88173e7acc6a3bb659878ab89f9b53757cff62ebc55"
     },
     "answers/measurement/do-ai-product-answers-cite-reddit/index.html": {
       "class": "navigation_only",
       "before_sha256": "13d935d6a5e65a631f7ceb812b0ce9792f62e3342153d2be5517ea144a54089b",
-      "after_sha256": null
+      "after_sha256": "a5f4b4e2e73576c6869831163c4aaf58bd6fd60f579a6d2b04de5a403b55631c"
     },
     "answers/measurement/do-youtube-transcripts-affect-llm-citations/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/measurement/do-youtube-transcripts-affect-llm-citations.md",
       "before_sha256": "179f6f0e54727fbafde89c69549454d397adad32690edf289ba4d29bdee35a6b",
-      "after_sha256": null
+      "after_sha256": "f295ffc5d9899953276777b6facdfd05233b9d5169b6cacbb942ed4319d43d4f"
     },
     "answers/measurement/does-medium-get-cited-in-ai-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "7b18553713707b8296234552f3efea4f23b18bc29f357b042af4417ec8df8560",
-      "after_sha256": null
+      "after_sha256": "bb1bd1178d4dc99a9c2ca44a8aa89fc4bcecebad8d42ca1fce286698dbd47bf1"
     },
     "answers/measurement/does-profound-provide-a-full-seo-audit-or-a-partial-audit/index.html": {
       "class": "navigation_only",
       "before_sha256": "ef7921348009b2b7b8478c8bc02d999f618da35932a2a92f675be3e6ad23067b",
-      "after_sha256": null
+      "after_sha256": "fe038327be59bfad21bfeb949042eafda6fd644ca04d0180efaa17351c45984b"
     },
     "answers/measurement/how-can-i-check-whether-an-ai-citation-supports-its-claim/index.html": {
       "class": "navigation_only",
       "before_sha256": "3d0f816378832629efc194261d0d6d2d8b95ea9e031077accfdbc459c6f2d3d6",
-      "after_sha256": null
+      "after_sha256": "48674e0470ae14d57a08f29c6c6f6411d231f2a533e399707b91a229f860baf5"
     },
     "answers/measurement/how-can-i-evaluate-hotwire-gaio-tech-as-an-ai-visibility-product/index.html": {
       "class": "navigation_only",
       "before_sha256": "829d913a3455e6d4fb2b18167c90b6414187c4592ceef8fc8b7aaec5f2b292ad",
-      "after_sha256": null
+      "after_sha256": "3fb851140cebdd158d64f753648415aa4009b4cf9a8df0802ebf63f2dbe35aef"
     },
     "answers/measurement/how-can-i-track-brand-visibility-in-claude/index.html": {
       "class": "navigation_only",
       "before_sha256": "2c151ff1a6bb8f3bf18281e66b8bc294d90fedea8bd6397cc2deeb5c36625733",
-      "after_sha256": null
+      "after_sha256": "09fba1ad5cae08d72c4058cdbd679a12028f6eda6a7a1f9dbcd0733cf149ae6c"
     },
     "answers/measurement/how-can-i-verify-that-an-ai-visibility-tracker-uses-live-answers/index.html": {
       "class": "navigation_only",
       "before_sha256": "8b067bca77245590fc64b0ff738ad417f766cec91b02e154a78db9240cba0d88",
-      "after_sha256": null
+      "after_sha256": "56c6fbf334e4c868a55651e89df107db295de1d9781ccf840457b019aa3125e9"
     },
     "answers/measurement/how-can-server-logs-show-whether-ai-crawlers-request-llms-txt/index.html": {
       "class": "navigation_only",
       "before_sha256": "aa528a1ea40e04bbeaf465cc75cf294afde554112bed126b633597bb2a5886fc",
-      "after_sha256": null
+      "after_sha256": "914e7bf3529b36158b0632bf8c59790fcc0d0089e9795253264536ed175cd692"
     },
     "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m/index.html": {
       "class": "navigation_only",
       "before_sha256": "9605699030900d1bf745d9556a49b6f05b2133b39569d4ea92e24a39b7943024",
-      "after_sha256": null
+      "after_sha256": "ee25d9a249367ebe1c8c0a98ac716f14b71cedb206287721a8f590b257ad9ed8"
     },
     "answers/measurement/how-does-google-ai-mode-affect-site-clicks/index.html": {
       "class": "navigation_only",
       "before_sha256": "698142dac0902be826b5b51fd1ef067e6dd60193c53b29466e84b55f678007b3",
-      "after_sha256": null
+      "after_sha256": "10c43a8bdfd0e8c6d3c8e016272fa2d1c8d5b159f7708afc06893653968805ff"
     },
     "answers/measurement/how-should-a-report-present-these-outcomes/index.html": {
       "class": "navigation_only",
       "before_sha256": "2151c38df049f677e2442d16cd474216123c4bc511d098c5649fe71f07a5cede",
-      "after_sha256": null
+      "after_sha256": "fe1eff91cfa07da736900621001230ec3ea549803dfa4571619a5961b5b3151e"
     },
     "answers/measurement/how-should-the-report-show-visits/index.html": {
       "class": "navigation_only",
       "before_sha256": "3bb571bcda9cf8c12e4a80ec2c9f9b6a6057cda5cba73fc3ebc4419c6a9a07f9",
-      "after_sha256": null
+      "after_sha256": "46e886139abf33a4b8071c6a3a7af12f91b66bd61a7bf517bc4d0846f1303b6c"
     },
     "answers/measurement/if-llms-txt-has-no-impact-on-ai-visibility-why-did-google-add-it-into/index.html": {
       "class": "navigation_only",
       "before_sha256": "ade2c0644473f8bc9d76cba2b2838eebf4c3abeb61b171e9a40f636602e5c86b",
-      "after_sha256": null
+      "after_sha256": "ad3fdb6c2596389ebf80a03d487fceed1fd147e31baef7c64681e05e33a06eb1"
     },
     "answers/measurement/index.html": {
       "class": "navigation_only",
       "before_sha256": "d61732ff91f0a782fce61c851c5183983ec3e3f1a854361ff5162110bafb4e29",
-      "after_sha256": null
+      "after_sha256": "5be11de926d1ef2ae477e3391f1d0ed9b3bd1e82b058eff0153ff28962a9b8ac"
     },
     "answers/measurement/is-geo-more-effective-than-seo/index.html": {
       "class": "navigation_only",
       "before_sha256": "8f53fdb9f6b0d1ad9c1133d9554bc2e3780365cfa7cca42b470a17e7f11a583f",
-      "after_sha256": null
+      "after_sha256": "194d07c4858d354fe86236ae0df28a9a08a09ec26a35cd60402b6844197d9663"
     },
     "answers/measurement/what-ai-visibility-products-does-hotwire-gaio-tech-offer/index.html": {
       "class": "navigation_only",
       "before_sha256": "1a962ebcfe3adcc35ae2dada1c9346a224b2a57dc3d4ad1f8da9b1fbf5b7c0be",
-      "after_sha256": null
+      "after_sha256": "0961f952915cd75b14b813c4b4abb40ec6a196fd6cb084d14c05f573b3a9bf47"
     },
     "answers/measurement/what-counts-as-a-brand-mention-in-an-ai-answer/index.html": {
       "class": "navigation_only",
       "before_sha256": "11a9e90a752d2e4ce9c527a2041695bf8123971777aa7df0538e697f6b5108d0",
-      "after_sha256": null
+      "after_sha256": "43e6fbb734a1545569b6ad0f9c4f11b33c9db6d116cdca4598cce9e4789a1a47"
     },
     "answers/measurement/what-did-the-buyer-report/index.html": {
       "class": "navigation_only",
       "before_sha256": "226c20b47dac3e0c4dc639180d0be12627b5ab9b031c709d425c7234bffc2533",
-      "after_sha256": null
+      "after_sha256": "695116fee7f12aa4910f781c1d72dc282d7124348a8f6c4bd297c3b4631bd4e9"
     },
     "answers/measurement/what-does-a-recorded-ai-referral-establish/index.html": {
       "class": "navigation_only",
       "before_sha256": "698259e9036608d34c0a40740f5b9a5483c0e164bd40ea28a872d08839fdd515",
-      "after_sha256": null
+      "after_sha256": "1c8f82fb680def6750a6d9034c7c4159d08f454de69af0c8107428bec1fed904"
     },
     "answers/measurement/what-does-athena-publish-about-data-accuracy/index.html": {
       "class": "navigation_only",
       "before_sha256": "216a9ee651d835356e8008069f6bc983918c57cb500dc6c54e5614986e5d984b",
-      "after_sha256": null
+      "after_sha256": "acbdef15e9d228625911d0eaccebedd54fdc69d49163551270d7358a6880111b"
     },
     "answers/measurement/what-does-hotwire-gaio-tech-publish-about-data-accuracy/index.html": {
       "class": "navigation_only",
       "before_sha256": "2771bc18a806851d3ede4c14eee261c6b4ebcef8a1795f5a502221afea3ff6e9",
-      "after_sha256": null
+      "after_sha256": "a3d2c5e9613e1f7c28f4034f8ef4c5208c8ab91bec943f5e2244fb252fcdd7e5"
     },
     "answers/measurement/what-does-hotwire-gaio-tech-publish-about-model-coverage/index.html": {
       "class": "navigation_only",
       "before_sha256": "efe63c1d2411acf84ea054ea6dc71f9917cd1ac4b70724180265691cfd47d325",
-      "after_sha256": null
+      "after_sha256": "b377010fc5a6b36583fe8a203569f268876ef98f8eee39b5f9d40fb806d29cb5"
     },
     "answers/measurement/what-does-the-business-record-establish/index.html": {
       "class": "navigation_only",
       "before_sha256": "6edbacb560710c0d29807b52856931671dda203bfdd1704a26c2e643b45e70b2",
-      "after_sha256": null
+      "after_sha256": "dee585b7fc7bcab2e4cb8955aee13d2350a9a63f8f0a3c62f4da849ab2909e69"
     },
     "answers/measurement/what-evidence-can-connect-ai-visibility-with-pipeline/index.html": {
       "class": "navigation_only",
       "before_sha256": "71e7ae72175701188e06ac5fb2466f0d768be9b5ca6ed229c9ed5cc6aced18e1",
-      "after_sha256": null
+      "after_sha256": "163576457f1d2b24ad8e7cc02369d98d1f0655c665c233421a732c7fa95cd33d"
     },
     "answers/measurement/what-information-belongs-in-a-public-report/index.html": {
       "class": "navigation_only",
       "before_sha256": "8d55afcfbba4637b7e26d0b6bef76484653d556c2100177bc69f5e6bf7d2d7b1",
-      "after_sha256": null
+      "after_sha256": "c1e448a6888c35596c666081aeb3e4db1b6911a5490e57a6d22c4c4af639d12b"
     },
     "answers/measurement/what-is-a-good-ai-visibility-score/index.html": {
       "class": "navigation_only",
       "before_sha256": "88b641819aa06e7abf47b2dc57fb854bc94df635ca1928356eb98328134432f6",
-      "after_sha256": null
+      "after_sha256": "7ad4e048f3701f6bd8876750662f72ae11ef017690d1e5d7373b56fc3f39434c"
     },
     "answers/measurement/what-is-an-ai-visibility-index/index.html": {
       "class": "navigation_only",
       "before_sha256": "4baf7213088277a85e715dbc2b87bd8053cba73a3480d9d7a550cfdab4aac79a",
-      "after_sha256": null
+      "after_sha256": "5486b4b18d475889ab9f25afaa347e3474801ece5a50297f830103afa4030a69"
     },
     "answers/measurement/which-ai-visibility-platforms-support-multiple-agency-clients/index.html": {
       "class": "navigation_only",
       "before_sha256": "ace09c497b6c4a9cf5318bdad254ed56a42cf8d975513ad7e1f35716e55b1424",
-      "after_sha256": null
+      "after_sha256": "6a667d6c72445aefc28acc31c4d9638712597a2dbec4139dc505efe5d2f3c2a2"
     },
     "answers/measurement/which-ai-visibility-signals-should-shape-an-seo-roadmap/index.html": {
       "class": "navigation_only",
       "before_sha256": "5b87b030f863f3dbf64599384d0af855b6064a61be4792ff59f4f94de29f9418",
-      "after_sha256": null
+      "after_sha256": "6c78a4dcacde5e99f501ba3b7e96ffe427513d9f7c0122587bbdaa7cfdb469a8"
     },
     "answers/measurement/which-measures-belong-beside-one-another/index.html": {
       "class": "navigation_only",
       "before_sha256": "03a26b7e40b36a3265e135e45d06b7bc13f4523af0df8e08b989e0e8875f16d2",
-      "after_sha256": null
+      "after_sha256": "1195b7da30d04c325ac0040dbd017be5a6a3a32998522ee5cbc905cba866dc21"
     },
     "answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview/index.html": {
       "class": "source_content",
       "source_path": "docs/answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview.md",
       "before_sha256": "bde03a160111c84a8dfecb9c3bee8086a91ee29ff38d82ab93bafb207d936e7d",
-      "after_sha256": null
+      "after_sha256": "edcb0c8461df65a00bb064e572a50d9cd54608b257062272bd09abfe56a05a27"
     },
     "answers/perplexity/how-does-perplexity-work/index.html": {
       "class": "navigation_only",
       "before_sha256": "6c6f3ee59f7e0477354278e591c05c6cc8b9250d2200af0f9db69daee2fb7040",
-      "after_sha256": null
+      "after_sha256": "68bacf5facb74b571d2a74a0c68decc75d638b5143315a17c6d4397cd9f270d7"
     },
     "answers/perplexity/index.html": {
       "class": "navigation_only",
       "before_sha256": "8cc5864bf2022d778f1da22f06c1fe7bbdc8247dae74d5e5f6ea91efd12d1312",
-      "after_sha256": null
+      "after_sha256": "073970a75a49fdf018114ce65aa024a44a25f63e0bc792cfa1fee765b13a0220"
     },
     "answers/perplexity/which-construction-software-does-perplexity-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "903cd78deb8b9ad7d285775ff41566c066bfa6d43c2b8a46a42a1d134644c375",
-      "after_sha256": null
+      "after_sha256": "ec2ace2d8e79014050f32197fc4547169245e475a8a43db653d77a2262782ccf"
     },
     "answers/perplexity/which-crm-software-does-perplexity-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "6c4d8a7ea77da519934ee1c15d6b37083c7dd779efd2ac7b5516abbebff2c9d8",
-      "after_sha256": null
+      "after_sha256": "c09d7ebf27425ff0b1f7cda73d6b07cf2fa28cfd068d4dc92d96a0f11398cc26"
     },
     "answers/perplexity/which-dental-software-does-perplexity-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "9de454e1cc1ef8c34e475cf009e5193b61364682dee6d0a40fd89969706f38a0",
-      "after_sha256": null
+      "after_sha256": "9a68be86853e8ea6787aa5f16d6d5bae0d34f735e6dd30ef3628ab1b3544f737"
     },
     "answers/perplexity/which-field-service-software-does-perplexity-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "4812fe83cfbc98857eac007b49ddd7bbf1830ab3ef588cb22ff535c989d5f4c7",
-      "after_sha256": null
+      "after_sha256": "17691bf235e3363508e6f0d6437755f0a4d8a56957280de15a383d4ab62c61cf"
     },
     "answers/perplexity/which-legal-practice-software-does-perplexity-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "8b00ede623c13a03def9f039121e758f3dc96807cc76524aae4a2e89b20ac12f",
-      "after_sha256": null
+      "after_sha256": "21af528797423b0cc2900191211609c534e9910fd04049552390068551e1e584"
     },
     "answers/perplexity/which-project-management-software-does-perplexity-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "1c3b30534d1921093e31a858e1628c1ee4ff9b66edb1dbf0fdd38c92dfb9a04f",
-      "after_sha256": null
+      "after_sha256": "60fff51cdde2e0089ee7932decd143ef13ee75b9fa2d8b7ea4aec9c918636d74"
     },
     "answers/perplexity/which-property-management-software-does-perplexity-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "fb7e9733653cf5fffc514d66c96300d4d63c822cfb5d24fc16585f7bce22caf7",
-      "after_sha256": null
+      "after_sha256": "5b4d0116bd05b506e84c53382acec62dba92d24eb6d4af624e3db5ee708687ca"
     },
     "answers/perplexity/which-radiology-software-does-perplexity-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "9c87a3841c452cfb0c3b15059b2304cd49a22775554d1af49faa20706d8fff78",
-      "after_sha256": null
+      "after_sha256": "e0acf24deb28599d7c1fe4e91524ba65513f6f991608b22b8cb0a12721d84def"
     },
     "answers/perplexity/which-transportation-software-does-perplexity-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "54263e2d11f5502590da446e2f83a64d395a2dad281e8f178db3102616216fdb",
-      "after_sha256": null
+      "after_sha256": "17fef02610f12656df0d5c18c2f8eaeeeb1999f54187606d43beeb0cb25b0f7c"
     },
     "answers/perplexity/which-veterinary-software-does-perplexity-recommend/index.html": {
       "class": "navigation_only",
       "before_sha256": "a7e5ea02039b8ff77eeab716c83977647dd1d497141011dfa1f22da3239faee5",
-      "after_sha256": null
-    },
-    "category-door/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "fe66d5736e2cd5aea61e73e916dc27096805cc6afd09aeea0a041bac2edb6c8a",
-      "after_sha256": null
-    },
-    "cited-not-recommended/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "8e5c7532d3b4648dada9d522100705e561f9554659dac04fb14fad9e45e62e9c",
-      "after_sha256": null
-    },
-    "comparison-gate/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "25549c6cabe28477f06c2c23fa33ffb23acb10f1d3bf12c2d02cfdd66c5a57e5",
-      "after_sha256": null
-    },
-    "engine-divergence/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "9496c11446f1ee91cffd3ea9c54e7468a0098d15bdf90ff7eed4da2c5b2f654a",
-      "after_sha256": null
-    },
-    "for-buyers/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "5e9623265810996ba8c13afb79b92803d0ebece20a32b9d5749f3cfe4ae903eb",
-      "after_sha256": null
-    },
-    "glossary/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "fd5908950f70af60ddd16d1afcd153238fc0f30bdd7d8cf2825b21d7f7e3740d",
-      "after_sha256": null
-    },
-    "how-long-it-takes/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "e9ce078a52530f449888e32f05def87c7b05b3135f892b9bf7177e7b04958c7a",
-      "after_sha256": null
-    },
-    "how-to-buy-geo/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "ab76ddc9438a794a8b28d6598f01304209dccfb95ca56b5a8fccd4550035a11a",
-      "after_sha256": null
-    },
-    "index.html": {
-      "class": "navigation_only",
-      "before_sha256": "de4af34c1bc7cae7651828dd7e289d7c633b1c9d3622b19ceaae2db97b959a41",
-      "after_sha256": null
-    },
-    "launchpad/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "e3e4da2390511fdc085e63026f241dde71c7ee6036736f2444c1bed1b87b0ff8",
-      "after_sha256": null
-    },
-    "measurement-noise/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "d0ebb743ebfcc9da9eb07ddf7eec1911ed913b36c8f24a28fa82f9d5ba5de7a1",
-      "after_sha256": null
-    },
-    "named-zero-times/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "bc01777560bd0185a05a689dc24f2ce70ab42cbf817995429855d34e30a6b3e0",
-      "after_sha256": null
-    },
-    "overview-trigger-rate/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "403f7235dace9135a39f1994236d4c970992039a498ec6088381e8ad57ab427e",
-      "after_sha256": null
-    },
-    "posts/half-its-own-shortlist/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "8c5b9af0e9c9e6739508cec6503ba5dd9ff518570cc47c0c9b512fdf3526f66e",
-      "after_sha256": null
-    },
-    "posts/same-score-different-problem/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "3352251d04e556ef15ed682c7957377051574ab9807af7d226459e696be5ff8d",
-      "after_sha256": null
-    },
-    "question-bank/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "912a2a1799d0f9a50f69c2dedc0722cd538db66be44c92ca395a8ae8c190b500",
-      "after_sha256": null
-    },
-    "references/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "4d1962f1ad9d6f64fc7cce067a82d268e397a8cd3c2891241db571f3357d4619",
-      "after_sha256": null
-    },
-    "research/academic-access/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "73157dcad3152d3b08882777283a5ddeb0f6594d33791cfb0a3c056b33b45ab2",
-      "after_sha256": null
-    },
-    "research/claims/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "1afb43aa039e0550da18ee8cc16fee993202991c00201b6d270f97bdf8972e9a",
-      "after_sha256": null
-    },
-    "research/evidence/graded-sources/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "7014e55d7dcb848f990efd294098968b29c09e480d31dc8057f70d435c3c29d2",
-      "after_sha256": null
-    },
-    "research/evidence/quotable-numbers/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "a8b91b9898d76eaa9a86b52a714c6fa8662e950b71989ca3b14ba82cd3f1aa8b",
-      "after_sha256": null
-    },
-    "research/evidence/spot-a-fake-statistic/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "e8230ca90e5703fba7b197b6343a85d92a3cc5847ed8468df6656f5f86fb42dd",
-      "after_sha256": null
-    },
-    "research/evidence/unverified-numbers/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "cfda2ee26367757b53dd08c2a6c24269d6a2aeb32557390f5a989f9f28ff1970",
-      "after_sha256": null
-    },
-    "research/glossary/agent-discovery-optimization/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "4e0cc6cdcf4ffe1e07ddd3205a00757de61fbca4e6ee2048e2c541e818d91a3d",
-      "after_sha256": null
-    },
-    "research/glossary/citation-decay/index.html": {
-      "class": "source_content",
-      "source_path": "docs/research/glossary/citation-decay/index.md",
-      "before_sha256": "a393a3841868e753897a8b08bc877b2fd90693d4f165bbc6a6302f53bfe65ec3",
-      "after_sha256": null
-    },
-    "research/glossary/entity-confidence/index.html": {
-      "class": "source_content",
-      "source_path": "docs/research/glossary/entity-confidence/index.md",
-      "before_sha256": "0f6e19e595ba18fe96456f905375268cbbb0cfaf7c45ff509cbef64c0898cbd3",
-      "after_sha256": null
-    },
-    "research/glossary/information-gain/index.html": {
-      "class": "source_content",
-      "source_path": "docs/research/glossary/information-gain/index.md",
-      "before_sha256": "7649407ec4858f187f2234855b40d9a3294c3603a4ae42436c0fea0bd9f35e1d",
-      "after_sha256": null
-    },
-    "research/glossary/query-fan-out/index.html": {
-      "class": "source_content",
-      "source_path": "docs/research/glossary/query-fan-out/index.md",
-      "before_sha256": "9bc22d2219295d5cb3741e9b0d1f7facf9e7e6d187e2703ddfb8b21e551cba33",
-      "after_sha256": null
-    },
-    "research/glossary/seo-aeo-geo/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "5408cdeff04433f2739401da87ed7b3f9168612ddd0936d6f89176f05edd26ef",
-      "after_sha256": null
-    },
-    "research/glossary/share-of-model/index.html": {
-      "class": "source_content",
-      "source_path": "docs/research/glossary/share-of-model/index.md",
-      "before_sha256": "28945f79f4f50fe32da793658a21792c45daa31dbfcef7f110490d2aca3c7935",
-      "after_sha256": null
-    },
-    "research/glossary/zero-click-visibility/index.html": {
-      "class": "source_content",
-      "source_path": "docs/research/glossary/zero-click-visibility/index.md",
-      "before_sha256": "735e858fe937a1d538676c412aa2187d7ba64d0efa5f93d9beef0b59d6f09ac3",
-      "after_sha256": null
-    },
-    "research/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "bcd78a65f63aed90b62647bd83b265205580e53f6171b00f0380cfac4d7df254",
-      "after_sha256": null
-    },
-    "research/insights/engines-change-without-telling-you/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "ea6cea219428b3dc822d037203208ce2ae5f55572f71f4d47856a893fd5bdaa8",
-      "after_sha256": null
-    },
-    "research/insights/google-asks-for-original-research/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "fec571e4fe0d6768f8ec4902ed988a37158b6ea89c4a8849e7d2c8758123094b",
-      "after_sha256": null
-    },
-    "research/insights/index-against-the-literature/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "7bb313141f8228a3fe53bcbb7b23a2f2a5faac50fa317e96e7802c23609efed4",
-      "after_sha256": null
-    },
-    "research/insights/nearly-every-google-result-is-optimized/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "8898f538b5190909b29f77188f97e0b4d883148226bedc21154103bfd46bc170",
-      "after_sha256": null
-    },
-    "research/insights/no-ranking-recipe/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "6c7bb5a20ae01d4d1b593e0c2078f8e46d5737412635651d5cca0df440e742c1",
-      "after_sha256": null
-    },
-    "research/insights/one-channel-is-a-risk/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "5c71b25d018d3574495bf6d2ac24f1a7d95b63888ff52331e0425858b7023bcb",
-      "after_sha256": null
-    },
-    "research/insights/one-rank-number-is-a-fiction/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "112e22c5dda547a93eccc60241d2894ea078b1dbf2ffd2f985b194cb53cc37ed",
-      "after_sha256": null
-    },
-    "research/insights/review-platforms-as-the-objective-source/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "6ab8870fdf97c475d1acc231e5e234b69611dbddcc1622bdd7ef3cdbe9c54db0",
-      "after_sha256": null
-    },
-    "research/insights/state-of-geo-research-2026/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "630c3d8e60828c06fa329d491ef9437429687ae3a14d969f94fbb34407e002d6",
-      "after_sha256": null
-    },
-    "research/insights/strong-brands-weak-visibility/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "d3b641bf5cc0b6bb9780e7b46ac8f3c0cb5df20e2202e0767a72b987d9ef684a",
-      "after_sha256": null
-    },
-    "research/insights/who-the-engines-trust/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "de67a731869a62df3eb7f938cfe56870d5b6126dd260dc4c61bc79f1e622a5d2",
-      "after_sha256": null
-    },
-    "research/playbooks/llms-txt/index.html": {
-      "class": "source_content",
-      "source_path": "docs/research/playbooks/llms-txt/index.md",
-      "before_sha256": "140fcbaca733eac683aec285b401af6b2bc9625a8e8cc61c1b1e9b061ef26ee4",
-      "after_sha256": null
-    },
-    "research/playbooks/pages-an-ai-engine-can-quote/index.html": {
-      "class": "source_content",
-      "source_path": "docs/research/playbooks/pages-an-ai-engine-can-quote/index.md",
-      "before_sha256": "5f04da232cf2e38ba72b77d8105c9564b34bed0ad1cff92ab9bb8efd0de91d1e",
-      "after_sha256": null
-    },
-    "research/playbooks/question-led-content/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "66feb5f81f92b7dcfcfec132c608089b2ad615d4dc76324a436ab4f912830c00",
-      "after_sha256": null
-    },
-    "research/playbooks/research-into-google-scholar/index.html": {
-      "class": "source_content",
-      "source_path": "docs/research/playbooks/research-into-google-scholar/index.md",
-      "before_sha256": "d05a68a9df9c6d0d7de5a8621a0eba0f935ffeb3d33e87b9df6c45b2c3f9c47d",
-      "after_sha256": null
-    },
-    "research/playbooks/review-platforms-for-b2b-software/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "ca7804a8947dfa810631d3adae5cfccc1c5199b36e6ae2ed03366fd38b3ab901",
-      "after_sha256": null
-    },
-    "research/playbooks/site-structure-basics/index.html": {
-      "class": "source_content",
-      "source_path": "docs/research/playbooks/site-structure-basics/index.md",
-      "before_sha256": "cad500c5bada7c26db9cb28a23dfc777d82a8d6a283c92fa0ff64597be568ad0",
-      "after_sha256": null
-    },
-    "research/playbooks/structured-data-for-b2b-software/index.html": {
-      "class": "source_content",
-      "source_path": "docs/research/playbooks/structured-data-for-b2b-software/index.md",
-      "before_sha256": "de94c221e09c5a3d2fa53dc9cff2e72115ee8428921ac348f1bb7a7ecaaca063",
-      "after_sha256": null
-    },
-    "research/playbooks/syndicating-without-losing-the-original/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "652b312cc7f3d583fb6b45314240d192276f6484235c05713bd13defd4da938d",
-      "after_sha256": null
-    },
-    "research/playbooks/which-ai-crawlers-visit-your-site/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "0faa480b8c9bdbf2301ff59a35300d0e83e65fcd08764b22179410c871525378",
-      "after_sha256": null
-    },
-    "research/playbooks/wikidata-for-companies/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "f99b3eaceddea74821162c42d98c4f87f20dfc1c4feff271cee3e669d0b66ac9",
-      "after_sha256": null
-    },
-    "research/sources/bataineh-2025/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "8b6a372f97f34305a33ffa6e299f52b735876969d8f0edb4d77596d4502433db",
-      "after_sha256": null
-    },
-    "research/sources/giannakoulopoulos-2019/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "e7a7bfe43c62a286f09e880e930b0058989270dcb7ab4cee23d110a50fcb1197",
-      "after_sha256": null
-    },
-    "research/sources/giomelakis-2019/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "32ad7da0c2ce26d782469f33be72ce857b610d473b860fdab5636430e1ce5df8",
-      "after_sha256": null
-    },
-    "research/sources/google-seo-starter-guide-2010/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "1082b6802ba7217e94fe572481930cb326e2de79656d773d01ae200ec8057776",
-      "after_sha256": null
-    },
-    "research/sources/karyotakis-2019/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "f053003ff3539aff0b873c59d9cc7174bfceff7927ca65b561b87f312faa1820",
-      "after_sha256": null
-    },
-    "research/sources/lewandowski-2021/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "74c9157dc95372439ccb630b9191de29b62657339fe3e84b9e81569536e81276",
-      "after_sha256": null
-    },
-    "research/sources/reading-list/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "6f2568abef8e25580367f63da63e0d204aafdb8a71105b9bb765833d02561cd6",
-      "after_sha256": null
-    },
-    "research/sources/rovira-2019/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "b04fd45586bd007285beb1c38428e38194cc44842b8089c34f35b10470f02ee5",
-      "after_sha256": null
-    },
-    "research/sources/seo-bible-2009/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "70bed5e314e638ef89428d1bb8cb95211f2a2caf50bb08089232ebefb829c948",
-      "after_sha256": null
-    },
-    "research/sources/ziakis-2019/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "800d05d4f59ccb008dac58b79cc5d55b503a8b0a25568fd96c4a987f62e887d8",
-      "after_sha256": null
-    },
-    "research/sources/ziakis-vlachopoulou-2024/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "8eaeee18bd1b571a3d69e34f575ae1627286104e6995310eb4f304b146466984",
-      "after_sha256": null
-    },
-    "research/standard/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "a3ee4194b8227892d42ba3120209971f32782df907ffb6e0d910b5c11cf016e5",
-      "after_sha256": null
-    },
-    "research/studies/ai-crawler-log/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "07382c7958fa7a259d1cf0fc876e19ef832a6c2a924b2eec0b20ee00ea89d91a",
-      "after_sha256": null
-    },
-    "research/studies/does-absence-persist/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "ceedcc41ae3b7e806a7354b517a454893e024b3dcd874e2f9502905148c261ff",
-      "after_sha256": null
-    },
-    "research/studies/evidence-refresh-field-test/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "449b237b3223bd4da42678922a605a0423942daccb375fd9c44bbe2a274e2abb",
-      "after_sha256": null
-    },
-    "research/studies/optimized-pages-in-ai-answers/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "a74717a72d7e5f2b5429c2369665b46aed5f9b9a04adf715cc2505e6988b7fb6",
-      "after_sha256": null
-    },
-    "research/studies/who-ai-engines-cite/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "d7376f3fca1f90ca5382641798d1c4895e649d0e304375e20e87c72b2caf63ce",
-      "after_sha256": null
-    },
-    "research/study6-wrong-about-you/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "f24a0b907a458c6eb55e8b3c0a18f18eb2c2938194d0419b7c8b4b8e9e854685",
-      "after_sha256": null
-    },
-    "research/study7-ai-written-rfp/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "2ee91e5d6eae53b6abe278d26767560b8a54ac476095960b9bf47802752a85ea",
-      "after_sha256": null
-    },
-    "resources/audit/executive-template/index.html": {
-      "class": "source_content",
-      "source_path": "docs/resources/audit/executive-template.md",
-      "before_sha256": "edaebcc83dc0ca0df36c519ad4a2526ecd2c5a1d1a3e28600f95898f107b2f87",
-      "after_sha256": null
-    },
-    "resources/audit/recheck-receipts/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "63e96117e433897779d8dbf729d8a7c28a7a6d6ac6bb3cded07d61b2ade5c48f",
-      "after_sha256": null
-    },
-    "resources/audit/sample/index.html": {
-      "class": "source_content",
-      "source_path": "docs/resources/audit/sample.md",
-      "before_sha256": "29a508db5b94e8f4d872d59d88cccd80b7f4efe23de4d1808adb8eef605e97e2",
-      "after_sha256": null
-    },
-    "resources/bot-access/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "bbe636e67d7f3d44e4449efb3aab9951867565d6f19db5c8093a6ca73d9f0cdc",
-      "after_sha256": null
-    },
-    "resources/briefs/comparison/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "f056145b5a2169f4219f751401a7775c467b1d868c2b96a7590cfcfede02ac1e",
-      "after_sha256": null
-    },
-    "resources/briefs/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "4e986dfe7fa48ca3574aa68eeeffea80eeac177f1f99c430fa468d4f9dd1effc",
-      "after_sha256": null
-    },
-    "resources/briefs/integration/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "8ec2cb46db0fb5dce020ab1035cfadb83f2daf7043ea62db17a0240cee2a0c04",
-      "after_sha256": null
-    },
-    "resources/briefs/limitations-pricing/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "e3c15d940ebbada2be07807a4bd997ec41ff775b12c8efae6ff38d4e1542d247",
-      "after_sha256": null
-    },
-    "resources/briefs/migration/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "b05a532f1fa5fa595f47c11e5d43a5fd608604ce26bf9b0352f9bddac5b461a5",
-      "after_sha256": null
-    },
-    "resources/briefs/procurement/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "e96fd1c78f4ea7c2f17ebfcce00ba8f5c7a5083c55eb5afd7fee54653585be3a",
-      "after_sha256": null
-    },
-    "resources/briefs/use-case/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "b4baa4de4e77dd4bfed35c177f9794d62ee70a534d96304ed47af2bc1f894cd1",
-      "after_sha256": null
-    },
-    "resources/demos/receipt/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "63a380b567d658fd92df815e34eadf6309cdc1df3638975a76d65bd9ef06fb3b",
-      "after_sha256": null
-    },
-    "resources/demos/recordings/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "af1557128e14e66a73c2e6cefcf6784444f5bde64fb9304cc3b1962592a3a4eb",
-      "after_sha256": null
-    },
-    "resources/demos/work-order/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "c8b5f2cdd0351b5422d50cc4f786a1a545876107b51bc0250aa797ed92002c6a",
-      "after_sha256": null
-    },
-    "resources/guides/buyer-questions/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "e94c4e5ffe461a6a1d816b51b3dcaa8208149a66513f57ad4083dd84cb8ff17e",
-      "after_sha256": null
-    },
-    "resources/guides/comparison-page/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "26e7f550cde34e5f02c3ac4532a53c12c32f51f93303cb43dfd41c3e51fe49f2",
-      "after_sha256": null
-    },
-    "resources/guides/fair-recheck/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "b7973562eeef54f53e30d642e41e22691cc8a61c44ba5e8eede78badc3c5ef45",
-      "after_sha256": null
-    },
-    "resources/guides/missing-brand/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "fc007b04ea5ff3da0f97e4952a8a5c39d75513f9df9d61cb28f193fa3f26c188",
-      "after_sha256": null
-    },
-    "resources/guides/product-facts/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "573f09d34606c691f5ba02b17f9067c10da72fc76f1c76ee9b41ffb3e621bb2a",
-      "after_sha256": null
-    },
-    "resources/guides/read-an-answer/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "837af5516e72d3b0f27b4d5300d23d25b242bfdf8562de4ef1ca56b43ace200b",
-      "after_sha256": null
-    },
-    "resources/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "e91eef4473f61e7a37ad400e3a483bc115a511c6e4d0c562a2686de32aa99245",
-      "after_sha256": null
-    },
-    "resources/playbooks/commercial-review/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "7576e07de89a2c20be86cc15769ccd7a603d1674afa8505f8462b9380e6ef456",
-      "after_sha256": null
-    },
-    "resources/playbooks/comparison-brief/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "87abc14d8e85a4ffcceca9e445192749a1c367bc8af2363cc83d8b60d6e23fe8",
-      "after_sha256": null
-    },
-    "resources/playbooks/fact-verification/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "067184f266fce0afc6e0419a99ab2e10024327f2cd5f6e4bb6247a0e12716525",
-      "after_sha256": null
-    },
-    "resources/playbooks/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "ed37ee42b2b66f821ce397a00a8ec79a63d23e593668151e08f1e0d0fed4d25c",
-      "after_sha256": null
-    },
-    "resources/playbooks/question-selection/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "50bade8a71dd77486e6a50151cbe80e3497b5db42dbb4dbaf2cbbed6ea97c31a",
-      "after_sha256": null
-    },
-    "resources/playbooks/receipt-review/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "d9c355ab2136bb273a65b5e53d1835fa540b2aeaa827cf7bc8e104ab7ef7070b",
-      "after_sha256": null
-    },
-    "resources/playbooks/recheck-review/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "f4be990e4a91dd534db0da9eba30360c32ef5cd9c00f2e076731afc8dd5407d3",
-      "after_sha256": null
-    },
-    "resources/playbooks/source-correction/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "ddb601d2e9c52cbe1a9e347fedc20be4d451a44fdac0dc434542947d25649d13",
-      "after_sha256": null
-    },
-    "resources/playbooks/technical-change/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "a82af1335163def0d486461efb513a90ab394d4e7e4b3d2ee98ae4688f859f5d",
-      "after_sha256": null
-    },
-    "resources/provenance/sources/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "27a67b21f6cc2e4faa5f6c44fdd67f24e7b07125fc15ae356bb329189ab34047",
-      "after_sha256": null
-    },
-    "resources/three-rates/index.html": {
-      "class": "source_content",
-      "source_path": "docs/resources/three-rates.md",
-      "before_sha256": "e77a98b131e481f0d9c7ce87f5b658e378f1b2ec77b38fba3d2f51cd1a7cbf69",
-      "after_sha256": null
-    },
-    "resources/worksheets/buyer-questions/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "4e3dc2948520e2eb87e0c0f263462165863397d3b1b87eccf017daebf8d23f91",
-      "after_sha256": null
-    },
-    "resources/worksheets/comparison-page/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "acf6ace6454b65116fd141f7a0699567826de25a747b1603a0796a8fada8a033",
-      "after_sha256": null
-    },
-    "resources/worksheets/fair-recheck/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "ed9cf8461d0a769641f3ca4fb716a1aa60495347611796b336e99ac3fc9af00f",
-      "after_sha256": null
-    },
-    "resources/worksheets/missing-brand/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "ac6fb37d986ea293537d102c0efdc1862e3b41db8ba063b92f91586c8b2f8835",
-      "after_sha256": null
-    },
-    "resources/worksheets/product-facts/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "f11d213829c47ea24ff3be4ea302f6c58927c4fccebd3ff7d56b1c35421513a6",
-      "after_sha256": null
-    },
-    "resources/worksheets/read-an-answer/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "4da540f871dd930df7dc7c4522bbe5b21d554280b6894fd6a7343fc8c3ce2cd8",
-      "after_sha256": null
-    },
-    "scoring-spec/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "7823f4d1b7bd79c6811d9185fd17a06753cf31209f2aea0cc41d8a0c48e05823",
-      "after_sha256": null
-    },
-    "selection-not-ranking/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "61b7bc7b52837bf8724ed460825e85713f863da5489e0cefb281ce73bc46071e",
-      "after_sha256": null
-    },
-    "valid-measurement/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "b093f16a2daf44b4d47c37254a37a3902e8dba673560c3c2b5ae81ae8b76264e",
-      "after_sha256": null
-    },
-    "vendor-facts/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "642f5a6c4c082801fbbeb67d5a99d9c27e001ef47d381a4fddca644fd61c9bbf",
-      "after_sha256": null
-    },
-    "who-gets-cited/index.html": {
-      "class": "navigation_only",
-      "before_sha256": "b43e710f66ad275258fa2ad0edc5e740d87982d1d03850d3d7f587966a29a8b7",
-      "after_sha256": null
-    },
-    "why-does-chatgpt-not-mention-us/index.html": {
-      "class": "source_content",
-      "source_path": "docs/why-does-chatgpt-not-mention-us.md",
-      "before_sha256": "64e243c63328c4ae9d5a4eea7c5d44901f4e24a377977fbc6b57f977d6fbf82d",
-      "after_sha256": null
+      "after_sha256": "0526dcfb1417df1d37b1b613db3932fa5b594a6e050294ad0d16321f3aec4966"
     },
     "assets/learning.css": {
       "class": "css_source",
       "source_path": "docs/assets/learning.css",
       "before_sha256": "c2871d469b576caa626f62b55ba94ed229e7abe4db93738786e73e7c4e20ebcf",
-      "after_sha256": null
+      "after_sha256": "b13eece29be89770d7cd398e1290c98c739d1059d87ffb4d7a4133caa08eb207"
     },
     "assets/manual.css": {
       "class": "css_source",
       "source_path": "docs/assets/manual.css",
       "before_sha256": "7938a2ed926a002b3e47e7d62a6ba39b206e9fdf562d608aa239ee9f86d09e54",
-      "after_sha256": null
+      "after_sha256": "5d9175553b2612640bc964a05844cb217fdfa328be23fd5c3dd4bae12aacc825"
     },
-    "assets/samples/Kalvenor_Sample_Category_Audit.pdf": {
+    "assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf": {
       "class": "sample_pdf",
-      "source_path": "docs/assets/samples/Kalvenor_Sample_Category_Audit.pdf",
-      "before_sha256": "b62e9a2eaf769d9e453a8668656713b2d173aeecb72ec8cdb12c7381ab39eea0",
-      "after_sha256": "d8355a804f9e26c0fd3670419d647ea5998d79c88804e2e8b1bad368c7487384"
+      "source_path": "docs/assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf",
+      "before_sha256": "8e82b8d81f569ea29337258e29b5230373003c6fcb2e6f63982471a7b8e1206a",
+      "after_sha256": "80e57511aa5f25a5e58ab4d7f7cdc99e37eed09a012e4bd8e6884617cf4e5fc0"
     },
     "assets/samples/Category_Audit_sample_Kalvenor_fictional.pdf": {
       "class": "sample_pdf",
@@ -2720,11 +2135,11 @@
       "before_sha256": "8e82b8d81f569ea29337258e29b5230373003c6fcb2e6f63982471a7b8e1206a",
       "after_sha256": "80e57511aa5f25a5e58ab4d7f7cdc99e37eed09a012e4bd8e6884617cf4e5fc0"
     },
-    "assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf": {
+    "assets/samples/Kalvenor_Sample_Category_Audit.pdf": {
       "class": "sample_pdf",
-      "source_path": "docs/assets/samples/Category_Audit_sample_FieldEdge_rehearsal.pdf",
-      "before_sha256": "8e82b8d81f569ea29337258e29b5230373003c6fcb2e6f63982471a7b8e1206a",
-      "after_sha256": "80e57511aa5f25a5e58ab4d7f7cdc99e37eed09a012e4bd8e6884617cf4e5fc0"
+      "source_path": "docs/assets/samples/Kalvenor_Sample_Category_Audit.pdf",
+      "before_sha256": "b62e9a2eaf769d9e453a8668656713b2d173aeecb72ec8cdb12c7381ab39eea0",
+      "after_sha256": "d8355a804f9e26c0fd3670419d647ea5998d79c88804e2e8b1bad368c7487384"
     },
     "assets/samples/WhiteLabel_Sample_Category_Audit_v2.pdf": {
       "class": "sample_pdf",
@@ -2738,35 +2153,625 @@
       "before_sha256": "404db56c98b6c03604f99a851ef8acc2f1dc793d4286bcedaba880b852d79a9a",
       "after_sha256": "9179775f9f06522834c47112912d3b3fa255e40bcb9fff8cc86b94c4afb641c2"
     },
-    "sitemap.xml": {
-      "class": "derived",
-      "before_sha256": "4a0bddbc04c986000b2d17b9539ba7eedc655e76ee3792c8be0f8098f3f8f71a",
-      "after_sha256": null
+    "assets/stylesheets/combined-0131a34b0a08f9a4.css": {
+      "class": "css_bundle",
+      "before_sha256": null,
+      "after_sha256": "0131a34b0a08f9a4f510b39216fe7e23062da6addf131046d841efb0f9b4925d"
     },
-    "sitemap.xml.gz": {
-      "class": "derived",
-      "before_sha256": "4efe09fa58b3feb011ba848d07cfc557a947887ddfcf1d5e02617b8768a97495",
-      "after_sha256": null
+    "category-door/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "fe66d5736e2cd5aea61e73e916dc27096805cc6afd09aeea0a041bac2edb6c8a",
+      "after_sha256": "9423d3ca8d320e3dc715f3b791f13349be8734e7809e7f4b767ef49965c2728f"
     },
-    "search/search_index.json": {
-      "class": "derived",
-      "before_sha256": "37288d74ffd099dce38de2dd60313cf7ab60c620162dc92df8680c76c41aaf67",
-      "after_sha256": null
+    "cited-not-recommended/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "8e5c7532d3b4648dada9d522100705e561f9554659dac04fb14fad9e45e62e9c",
+      "after_sha256": "efdabca07f98ae152db57a221d7df32489eb5777651ad18e5a12c14c1d030c19"
+    },
+    "comparison-gate/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "25549c6cabe28477f06c2c23fa33ffb23acb10f1d3bf12c2d02cfdd66c5a57e5",
+      "after_sha256": "c5bc69ac17b5696e75819d76b56cee0a87f0815c279c0b3027a9f6b43a759dfa"
+    },
+    "engine-divergence/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "9496c11446f1ee91cffd3ea9c54e7468a0098d15bdf90ff7eed4da2c5b2f654a",
+      "after_sha256": "3f3dbaade7be8dcbce8a86cc023e567a76d50584d77317135fe0986544b10c30"
+    },
+    "for-buyers/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "5e9623265810996ba8c13afb79b92803d0ebece20a32b9d5749f3cfe4ae903eb",
+      "after_sha256": "9914f9b2cfdee8ff905ec4bfc59fc17d74c174a44dfb8b059f8d00fb9818def9"
+    },
+    "glossary/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "fd5908950f70af60ddd16d1afcd153238fc0f30bdd7d8cf2825b21d7f7e3740d",
+      "after_sha256": "b5da8bb6148d4f4ed9bce4136cfce5e29d08b6b32db821a505e903c1d6b8a48a"
+    },
+    "how-long-it-takes/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "e9ce078a52530f449888e32f05def87c7b05b3135f892b9bf7177e7b04958c7a",
+      "after_sha256": "cf798a70aa03e10ed2c1c52fce37e3bb1d47f4d7ea35a71e5179b248cf52af3c"
+    },
+    "how-to-buy-geo/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "ab76ddc9438a794a8b28d6598f01304209dccfb95ca56b5a8fccd4550035a11a",
+      "after_sha256": "f36023d4c11741795de11c1a265716c9cc9a440bf8b8d063d979b43f10f3ca9f"
+    },
+    "index.html": {
+      "class": "navigation_only",
+      "before_sha256": "de4af34c1bc7cae7651828dd7e289d7c633b1c9d3622b19ceaae2db97b959a41",
+      "after_sha256": "8ec01708647fefafd52711db5eba93ec6e5a968144cc3e6616449e87d844aa59"
+    },
+    "launchpad/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "e3e4da2390511fdc085e63026f241dde71c7ee6036736f2444c1bed1b87b0ff8",
+      "after_sha256": "b98c25a723d38cf96c3fc8a539241f9526dd4851bb0a3d8772de8efcf156e033"
     },
     "llms.txt": {
       "class": "derived",
       "before_sha256": "cf0d5866d393fc465dcdf9a28bae0517a4545fc046a4e354a876392e12145813",
-      "after_sha256": null
+      "after_sha256": "fd715918622f9b5102f7c6d7d36c740f19ce3b0901c792be568635157978c86a"
     },
-    "absence-manual.pdf": {
-      "class": "manual_pdf",
-      "before_sha256": "91cefee9c96e4005ea00806fe6a80f149b2b42aefdf02c53f9dc0c5700fe358e",
-      "after_sha256": null
+    "measurement-noise/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "d0ebb743ebfcc9da9eb07ddf7eec1911ed913b36c8f24a28fa82f9d5ba5de7a1",
+      "after_sha256": "9d2c9f353b4a2e72fd49bde9542312779050f56af0b0ee92abe495d3a94351c8"
     },
-    "absence-manual-v1.0-2026-08-18.pdf": {
-      "class": "manual_pdf",
-      "before_sha256": "91cefee9c96e4005ea00806fe6a80f149b2b42aefdf02c53f9dc0c5700fe358e",
-      "after_sha256": null
+    "named-zero-times/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "bc01777560bd0185a05a689dc24f2ce70ab42cbf817995429855d34e30a6b3e0",
+      "after_sha256": "fcf11aeaf0b3ca5ca40d909422e50db87be86916752c507268b2b49f8eb41cd6"
+    },
+    "overview-trigger-rate/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "403f7235dace9135a39f1994236d4c970992039a498ec6088381e8ad57ab427e",
+      "after_sha256": "03cc98949c795d00994b11171d2af6871a583a59b5801acc6314be0c8c334e71"
+    },
+    "posts/half-its-own-shortlist/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "8c5b9af0e9c9e6739508cec6503ba5dd9ff518570cc47c0c9b512fdf3526f66e",
+      "after_sha256": "6a31b52a1bd8764f18b53c473baf4c8108a4869171b81de72dfc78a5f52761c7"
+    },
+    "posts/same-score-different-problem/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "3352251d04e556ef15ed682c7957377051574ab9807af7d226459e696be5ff8d",
+      "after_sha256": "801c9f3bbcd3c9e48f008bac3d2572aa943b8fd57d25016a6cf68c20e9fdca8b"
+    },
+    "question-bank/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "912a2a1799d0f9a50f69c2dedc0722cd538db66be44c92ca395a8ae8c190b500",
+      "after_sha256": "e203d169f72d829f1a4cf840540feb077fc501080b4e2a74337ba45998f9acee"
+    },
+    "references/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "4d1962f1ad9d6f64fc7cce067a82d268e397a8cd3c2891241db571f3357d4619",
+      "after_sha256": "5fc9a18280104cb9a2574cfa66ce83aee5cb858256b2d4262852d45fafabf872"
+    },
+    "research/academic-access/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "73157dcad3152d3b08882777283a5ddeb0f6594d33791cfb0a3c056b33b45ab2",
+      "after_sha256": "94f34aeeb64f90e6958747a228c8f237be1675032c1333eb05f6ca8e8b40c2ba"
+    },
+    "research/claims/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "1afb43aa039e0550da18ee8cc16fee993202991c00201b6d270f97bdf8972e9a",
+      "after_sha256": "d3d6343f0139085b60d03c6758090b31fb103823f630252dd990b724dc3977dc"
+    },
+    "research/evidence/graded-sources/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "7014e55d7dcb848f990efd294098968b29c09e480d31dc8057f70d435c3c29d2",
+      "after_sha256": "4d054570284be000f1dbd7344a038bc5fbf0847d84dc473c80b968452f9d6443"
+    },
+    "research/evidence/quotable-numbers/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "a8b91b9898d76eaa9a86b52a714c6fa8662e950b71989ca3b14ba82cd3f1aa8b",
+      "after_sha256": "bc4f12c461a4a8daa6cb086cfe457c3aaa86d4e56cff7e0640dd36ac94153da7"
+    },
+    "research/evidence/spot-a-fake-statistic/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "e8230ca90e5703fba7b197b6343a85d92a3cc5847ed8468df6656f5f86fb42dd",
+      "after_sha256": "352c9a5c1cccaed2fce549492f6f00a00b7333ba754eefa0d0e10cb438864d20"
+    },
+    "research/evidence/unverified-numbers/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "cfda2ee26367757b53dd08c2a6c24269d6a2aeb32557390f5a989f9f28ff1970",
+      "after_sha256": "902c8abf9da2b0979efc064f6baded344b2dc297b935eb8a1bd768c01d2fe76e"
+    },
+    "research/glossary/agent-discovery-optimization/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "4e0cc6cdcf4ffe1e07ddd3205a00757de61fbca4e6ee2048e2c541e818d91a3d",
+      "after_sha256": "9e78bac3488f50251f1c005d1d996512db302cef72583b76ebf8966b3a10a89c"
+    },
+    "research/glossary/citation-decay/index.html": {
+      "class": "source_content",
+      "source_path": "docs/research/glossary/citation-decay/index.md",
+      "before_sha256": "a393a3841868e753897a8b08bc877b2fd90693d4f165bbc6a6302f53bfe65ec3",
+      "after_sha256": "29a71bc1a93c3e62fe6eaaaf8d682ed12591fbe62472fffa6e14c291573b0230"
+    },
+    "research/glossary/entity-confidence/index.html": {
+      "class": "source_content",
+      "source_path": "docs/research/glossary/entity-confidence/index.md",
+      "before_sha256": "0f6e19e595ba18fe96456f905375268cbbb0cfaf7c45ff509cbef64c0898cbd3",
+      "after_sha256": "d9ba5989e77e081610bf3a5ea19473545b1169fa60e4b26af08cd06341535f8e"
+    },
+    "research/glossary/information-gain/index.html": {
+      "class": "source_content",
+      "source_path": "docs/research/glossary/information-gain/index.md",
+      "before_sha256": "7649407ec4858f187f2234855b40d9a3294c3603a4ae42436c0fea0bd9f35e1d",
+      "after_sha256": "a0b17115620026b4a563e9ab2ed13627604aa531090646716a1a3ffe38ef02b4"
+    },
+    "research/glossary/query-fan-out/index.html": {
+      "class": "source_content",
+      "source_path": "docs/research/glossary/query-fan-out/index.md",
+      "before_sha256": "9bc22d2219295d5cb3741e9b0d1f7facf9e7e6d187e2703ddfb8b21e551cba33",
+      "after_sha256": "465770850a6843a483378cc245d528d1ebf8ca9ff2410ac3dd0d26b3b3b130c2"
+    },
+    "research/glossary/seo-aeo-geo/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "5408cdeff04433f2739401da87ed7b3f9168612ddd0936d6f89176f05edd26ef",
+      "after_sha256": "adecf5c24a1280d87d5da2fe56125fff55620d9e87644359a9ec8446445b7884"
+    },
+    "research/glossary/share-of-model/index.html": {
+      "class": "source_content",
+      "source_path": "docs/research/glossary/share-of-model/index.md",
+      "before_sha256": "28945f79f4f50fe32da793658a21792c45daa31dbfcef7f110490d2aca3c7935",
+      "after_sha256": "7c0c802a3875d6d50d7065b7ef8a4fa6e0efde368ae16459a74de0140d055242"
+    },
+    "research/glossary/zero-click-visibility/index.html": {
+      "class": "source_content",
+      "source_path": "docs/research/glossary/zero-click-visibility/index.md",
+      "before_sha256": "735e858fe937a1d538676c412aa2187d7ba64d0efa5f93d9beef0b59d6f09ac3",
+      "after_sha256": "50e75f1c1c3c0b6d3339153f411baafe626236af2a781c595fc1b3da250a6542"
+    },
+    "research/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "bcd78a65f63aed90b62647bd83b265205580e53f6171b00f0380cfac4d7df254",
+      "after_sha256": "c19ba4c631ef50b0667f7c2434defa853ce3bb5aa462fa6f3aae0ee02ef1769d"
+    },
+    "research/insights/engines-change-without-telling-you/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "ea6cea219428b3dc822d037203208ce2ae5f55572f71f4d47856a893fd5bdaa8",
+      "after_sha256": "f96950142a4d16eaa3d98c229eed62c4760832c90942ddef0c9fff145e6d2744"
+    },
+    "research/insights/google-asks-for-original-research/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "fec571e4fe0d6768f8ec4902ed988a37158b6ea89c4a8849e7d2c8758123094b",
+      "after_sha256": "7b53090e2d7bd3cc814b1d3d1c9456208d55729ad61f91a1d717c8470f07e428"
+    },
+    "research/insights/index-against-the-literature/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "7bb313141f8228a3fe53bcbb7b23a2f2a5faac50fa317e96e7802c23609efed4",
+      "after_sha256": "cba5a830579869603c071f745330075b4685a626789ac457ca272c7362dbc294"
+    },
+    "research/insights/nearly-every-google-result-is-optimized/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "8898f538b5190909b29f77188f97e0b4d883148226bedc21154103bfd46bc170",
+      "after_sha256": "9241ae00ceb6666a007616422b860afe0425a9b10c7f35d8999a148fcb848686"
+    },
+    "research/insights/no-ranking-recipe/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "6c7bb5a20ae01d4d1b593e0c2078f8e46d5737412635651d5cca0df440e742c1",
+      "after_sha256": "47752bdcf13395ac693459d46f6253597c47406b8c657f215fc9f126ab030c30"
+    },
+    "research/insights/one-channel-is-a-risk/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "5c71b25d018d3574495bf6d2ac24f1a7d95b63888ff52331e0425858b7023bcb",
+      "after_sha256": "ee8a6a0c543bf00e82dc3140c48109560d066d473b3a13984f56e60270579e8b"
+    },
+    "research/insights/one-rank-number-is-a-fiction/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "112e22c5dda547a93eccc60241d2894ea078b1dbf2ffd2f985b194cb53cc37ed",
+      "after_sha256": "e51862d38f77cb6aab645eff6cea05d87d8bb7a7d13ddacf031395592ba9a2e6"
+    },
+    "research/insights/review-platforms-as-the-objective-source/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "6ab8870fdf97c475d1acc231e5e234b69611dbddcc1622bdd7ef3cdbe9c54db0",
+      "after_sha256": "40460b23a5d8fd97dda876c80a420152cec3fb868cf94d800dbbef899a2b3e33"
+    },
+    "research/insights/state-of-geo-research-2026/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "630c3d8e60828c06fa329d491ef9437429687ae3a14d969f94fbb34407e002d6",
+      "after_sha256": "4c9a00c2ad59d23491dfbaaa86d89596324e0987c3189da24aab2649e6056507"
+    },
+    "research/insights/strong-brands-weak-visibility/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "d3b641bf5cc0b6bb9780e7b46ac8f3c0cb5df20e2202e0767a72b987d9ef684a",
+      "after_sha256": "d449c8e4756e12d89b60a3099314d71217d29f74218f4ba820380a5218881004"
+    },
+    "research/insights/who-the-engines-trust/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "de67a731869a62df3eb7f938cfe56870d5b6126dd260dc4c61bc79f1e622a5d2",
+      "after_sha256": "12f473a008d61d13f73e513ffdcda59d7da9dda63c142e38ad9f861ccf53d0a1"
+    },
+    "research/playbooks/llms-txt/index.html": {
+      "class": "source_content",
+      "source_path": "docs/research/playbooks/llms-txt/index.md",
+      "before_sha256": "140fcbaca733eac683aec285b401af6b2bc9625a8e8cc61c1b1e9b061ef26ee4",
+      "after_sha256": "962376b7e5dc51bd919785c1b7621a2c8b65742a26a274c5aa6fed7944f594b5"
+    },
+    "research/playbooks/pages-an-ai-engine-can-quote/index.html": {
+      "class": "source_content",
+      "source_path": "docs/research/playbooks/pages-an-ai-engine-can-quote/index.md",
+      "before_sha256": "5f04da232cf2e38ba72b77d8105c9564b34bed0ad1cff92ab9bb8efd0de91d1e",
+      "after_sha256": "80b9c728e494cbe2cea15b973a05684c53efd6636405734ecf184b14a775f4e0"
+    },
+    "research/playbooks/question-led-content/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "66feb5f81f92b7dcfcfec132c608089b2ad615d4dc76324a436ab4f912830c00",
+      "after_sha256": "67a63c64906a8d82ae7bcf6bbc70a76b8865d9ed73bb8a00484588f4c726c1a7"
+    },
+    "research/playbooks/research-into-google-scholar/index.html": {
+      "class": "source_content",
+      "source_path": "docs/research/playbooks/research-into-google-scholar/index.md",
+      "before_sha256": "d05a68a9df9c6d0d7de5a8621a0eba0f935ffeb3d33e87b9df6c45b2c3f9c47d",
+      "after_sha256": "555dabc46d1090e51e7eb1b72a1d6a175d41b666687928cc4411304ad7a8a019"
+    },
+    "research/playbooks/review-platforms-for-b2b-software/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "ca7804a8947dfa810631d3adae5cfccc1c5199b36e6ae2ed03366fd38b3ab901",
+      "after_sha256": "d22c393c43e625054cb06d8964bf907225e1ae1fd1727917d2c44f7124088795"
+    },
+    "research/playbooks/site-structure-basics/index.html": {
+      "class": "source_content",
+      "source_path": "docs/research/playbooks/site-structure-basics/index.md",
+      "before_sha256": "cad500c5bada7c26db9cb28a23dfc777d82a8d6a283c92fa0ff64597be568ad0",
+      "after_sha256": "eeaddb3a2da47c90ae6fb612c00b6552c8f7e217e3f283be8c6b106dcde088ad"
+    },
+    "research/playbooks/structured-data-for-b2b-software/index.html": {
+      "class": "source_content",
+      "source_path": "docs/research/playbooks/structured-data-for-b2b-software/index.md",
+      "before_sha256": "de94c221e09c5a3d2fa53dc9cff2e72115ee8428921ac348f1bb7a7ecaaca063",
+      "after_sha256": "a6c67fafcc51e5a6b385cf6dc235eef7e0381685086261025405d0bae9b743ea"
+    },
+    "research/playbooks/syndicating-without-losing-the-original/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "652b312cc7f3d583fb6b45314240d192276f6484235c05713bd13defd4da938d",
+      "after_sha256": "35a622a73fa3b882d543a75ee66e28609b180da9919f0591d5174625e4d37611"
+    },
+    "research/playbooks/which-ai-crawlers-visit-your-site/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "0faa480b8c9bdbf2301ff59a35300d0e83e65fcd08764b22179410c871525378",
+      "after_sha256": "123984d01325b76a8e6596576077a5c539bb86beffd02e5f40ac69a748fae249"
+    },
+    "research/playbooks/wikidata-for-companies/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "f99b3eaceddea74821162c42d98c4f87f20dfc1c4feff271cee3e669d0b66ac9",
+      "after_sha256": "f924b5a43ce3c0a2aa8fb05b1b20764a778a4c539e867bda07f788e535f7f700"
+    },
+    "research/sources/bataineh-2025/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "8b6a372f97f34305a33ffa6e299f52b735876969d8f0edb4d77596d4502433db",
+      "after_sha256": "475f69eb3287dee996f512fd862c466520534be9b3cdc871a7d50b90af6990b2"
+    },
+    "research/sources/giannakoulopoulos-2019/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "e7a7bfe43c62a286f09e880e930b0058989270dcb7ab4cee23d110a50fcb1197",
+      "after_sha256": "309174da085e9e70aae0cd37e4ef3806e110b31757059ed7b6fa5a732e87c12a"
+    },
+    "research/sources/giomelakis-2019/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "32ad7da0c2ce26d782469f33be72ce857b610d473b860fdab5636430e1ce5df8",
+      "after_sha256": "f58cf67e71a1b38f77980f1cec7201f914e35f5b8baed5ca1591d35fa2f12b8d"
+    },
+    "research/sources/google-seo-starter-guide-2010/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "1082b6802ba7217e94fe572481930cb326e2de79656d773d01ae200ec8057776",
+      "after_sha256": "238a3c061964901d9d3fc0a53477b8f8e7084ae65f1c01b401fbc4df54fe7e5e"
+    },
+    "research/sources/karyotakis-2019/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "f053003ff3539aff0b873c59d9cc7174bfceff7927ca65b561b87f312faa1820",
+      "after_sha256": "ab85a968a3572a2f870274958144d530560499b7f018be81917b959452594550"
+    },
+    "research/sources/lewandowski-2021/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "74c9157dc95372439ccb630b9191de29b62657339fe3e84b9e81569536e81276",
+      "after_sha256": "b9a38dca7d72e16e3de782fa7c505bda29c944d3d00d9c352dcf1e7a1eea8a63"
+    },
+    "research/sources/reading-list/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "6f2568abef8e25580367f63da63e0d204aafdb8a71105b9bb765833d02561cd6",
+      "after_sha256": "94761762d6178d853d1bd4b03fb31168a1f8298c92ed86b47e169049ee2ef679"
+    },
+    "research/sources/rovira-2019/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "b04fd45586bd007285beb1c38428e38194cc44842b8089c34f35b10470f02ee5",
+      "after_sha256": "9e820d5fc2c5e25773a1bb68df1bed4c4b90d9353cbaa3d3ad00e23e6a6a23d1"
+    },
+    "research/sources/seo-bible-2009/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "70bed5e314e638ef89428d1bb8cb95211f2a2caf50bb08089232ebefb829c948",
+      "after_sha256": "6d0cd8ae64d7d2d07da77e965ae823902e05b231e2be44c262b783bd796c9c42"
+    },
+    "research/sources/ziakis-2019/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "800d05d4f59ccb008dac58b79cc5d55b503a8b0a25568fd96c4a987f62e887d8",
+      "after_sha256": "64e983335ff4a0f1a70c61ec9b59084616a93664562e5ac6d4a3ce146e2560d7"
+    },
+    "research/sources/ziakis-vlachopoulou-2024/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "8eaeee18bd1b571a3d69e34f575ae1627286104e6995310eb4f304b146466984",
+      "after_sha256": "287427d236c55ec3715b30ad8cb2517176b322a089402e1059239fe836aa6c7f"
+    },
+    "research/standard/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "a3ee4194b8227892d42ba3120209971f32782df907ffb6e0d910b5c11cf016e5",
+      "after_sha256": "c3939fde737c7cce3a776b10ae70b8d694c95287dbd45d97831435b53eba00f1"
+    },
+    "research/studies/ai-crawler-log/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "07382c7958fa7a259d1cf0fc876e19ef832a6c2a924b2eec0b20ee00ea89d91a",
+      "after_sha256": "333638c3d9705bc89f5b21e6c519df66cc3117958ed2367839f26f6aea4d06a8"
+    },
+    "research/studies/does-absence-persist/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "ceedcc41ae3b7e806a7354b517a454893e024b3dcd874e2f9502905148c261ff",
+      "after_sha256": "d22b5f3cd04394b8e541b42242f3848212a44ef773fcab8de9ebabc2cbe31691"
+    },
+    "research/studies/evidence-refresh-field-test/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "449b237b3223bd4da42678922a605a0423942daccb375fd9c44bbe2a274e2abb",
+      "after_sha256": "21a6869890f413232da0dd85867c7085e8baae8007dfeb96dce9de0df7166304"
+    },
+    "research/studies/optimized-pages-in-ai-answers/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "a74717a72d7e5f2b5429c2369665b46aed5f9b9a04adf715cc2505e6988b7fb6",
+      "after_sha256": "20bf86cc8cf1c6aed68143ba85f9cf0f9f74bafd2b89287766b0db3db7c15abd"
+    },
+    "research/studies/who-ai-engines-cite/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "d7376f3fca1f90ca5382641798d1c4895e649d0e304375e20e87c72b2caf63ce",
+      "after_sha256": "263202dcc4174b35fa093a79fef1285cbd96df5191fd967f3e6f661dfa918b56"
+    },
+    "research/study6-wrong-about-you/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "f24a0b907a458c6eb55e8b3c0a18f18eb2c2938194d0419b7c8b4b8e9e854685",
+      "after_sha256": "a5effeb76e7582c897295cf81e8670f1c301bf721fdd6bc2a6957a00bc62d02d"
+    },
+    "research/study7-ai-written-rfp/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "2ee91e5d6eae53b6abe278d26767560b8a54ac476095960b9bf47802752a85ea",
+      "after_sha256": "fb3c93dc9b6b12378a7f79b8f118e13dfc5aa3dcc4b5f13898630128a0080f30"
+    },
+    "resources/audit/executive-template/index.html": {
+      "class": "source_content",
+      "source_path": "docs/resources/audit/executive-template.md",
+      "before_sha256": "edaebcc83dc0ca0df36c519ad4a2526ecd2c5a1d1a3e28600f95898f107b2f87",
+      "after_sha256": "6101a42240315d20aafd6ac7c2f59d14e71a96501de88d61c4f0d6c7e214eacd"
+    },
+    "resources/audit/recheck-receipts/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "63e96117e433897779d8dbf729d8a7c28a7a6d6ac6bb3cded07d61b2ade5c48f",
+      "after_sha256": "59baf017bed501ab40745b7fca9fd974010e6646e07a860784e03592304ba373"
+    },
+    "resources/audit/sample/index.html": {
+      "class": "source_content",
+      "source_path": "docs/resources/audit/sample.md",
+      "before_sha256": "29a508db5b94e8f4d872d59d88cccd80b7f4efe23de4d1808adb8eef605e97e2",
+      "after_sha256": "96d8c43d706fa8de582b8f295458512d069773c70dafe50fcb0c2c1d6727192b"
+    },
+    "resources/bot-access/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "bbe636e67d7f3d44e4449efb3aab9951867565d6f19db5c8093a6ca73d9f0cdc",
+      "after_sha256": "4d8cd7b7936230b9ce8175c8ee49bdc4a80bb0d081fbb69a9e049ba8eacc66c5"
+    },
+    "resources/briefs/comparison/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "f056145b5a2169f4219f751401a7775c467b1d868c2b96a7590cfcfede02ac1e",
+      "after_sha256": "66df6efaacc686c22b6c3c9f2b5211fe99658c1471e930f318e23aa53505d44c"
+    },
+    "resources/briefs/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "4e986dfe7fa48ca3574aa68eeeffea80eeac177f1f99c430fa468d4f9dd1effc",
+      "after_sha256": "0215aeb30f05404cd1250c0a4f75a0b423adee966d4f961b28e6b07e5b55ba6f"
+    },
+    "resources/briefs/integration/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "8ec2cb46db0fb5dce020ab1035cfadb83f2daf7043ea62db17a0240cee2a0c04",
+      "after_sha256": "f3746f3ab2d67555003d16d8eb5f3d5213f4009d463f2e199a47af5e022608a7"
+    },
+    "resources/briefs/limitations-pricing/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "e3c15d940ebbada2be07807a4bd997ec41ff775b12c8efae6ff38d4e1542d247",
+      "after_sha256": "e7e1a75ac2b29e945192826864659d2bbab3dd739eb9dadeb44baddefa73d270"
+    },
+    "resources/briefs/migration/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "b05a532f1fa5fa595f47c11e5d43a5fd608604ce26bf9b0352f9bddac5b461a5",
+      "after_sha256": "a24b0b9db45a52eb3f0cf5a2e93140b585595c701bef7690a644c5b48b876f16"
+    },
+    "resources/briefs/procurement/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "e96fd1c78f4ea7c2f17ebfcce00ba8f5c7a5083c55eb5afd7fee54653585be3a",
+      "after_sha256": "f895a7045f949053af01971cbb1432d43bbd989c9a857fbf924e1b1e54192db4"
+    },
+    "resources/briefs/use-case/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "b4baa4de4e77dd4bfed35c177f9794d62ee70a534d96304ed47af2bc1f894cd1",
+      "after_sha256": "07c2a09198ed8b0694d66f6667af36519f6d084cf052c44c1c716e0aeee567ba"
+    },
+    "resources/demos/receipt/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "63a380b567d658fd92df815e34eadf6309cdc1df3638975a76d65bd9ef06fb3b",
+      "after_sha256": "6cc3ff0f8c5809ff7a5a26da3a0cbdaefb9b2ef92d4bd7dc46d044aec460cb93"
+    },
+    "resources/demos/recordings/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "af1557128e14e66a73c2e6cefcf6784444f5bde64fb9304cc3b1962592a3a4eb",
+      "after_sha256": "eafc5e1b92513381e4fd38ebd30ef356855af2878d78ee026b93f1599233a934"
+    },
+    "resources/demos/work-order/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "c8b5f2cdd0351b5422d50cc4f786a1a545876107b51bc0250aa797ed92002c6a",
+      "after_sha256": "556957e2b6b172407152df9a186b825eec3198ab77c255f7c7b5c0b9d6b104d3"
+    },
+    "resources/guides/buyer-questions/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "e94c4e5ffe461a6a1d816b51b3dcaa8208149a66513f57ad4083dd84cb8ff17e",
+      "after_sha256": "c1df457f294521c72deba93e92565c0cfd2c0619d72a4d0a393027d801d708cd"
+    },
+    "resources/guides/comparison-page/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "26e7f550cde34e5f02c3ac4532a53c12c32f51f93303cb43dfd41c3e51fe49f2",
+      "after_sha256": "3bacc1712ade602b91db4d7e5eef63cdb53e422bb892fc64f916e2678cdb6b53"
+    },
+    "resources/guides/fair-recheck/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "b7973562eeef54f53e30d642e41e22691cc8a61c44ba5e8eede78badc3c5ef45",
+      "after_sha256": "0b959fd5cfcf36cc3409e73a3381b1578e19184bedacd2b9f22ea308b164589f"
+    },
+    "resources/guides/missing-brand/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "fc007b04ea5ff3da0f97e4952a8a5c39d75513f9df9d61cb28f193fa3f26c188",
+      "after_sha256": "1b83cdf0cc4e2eeb3d8e2da09c37732f35ba8a5ff5c0001e90f419f3fa560789"
+    },
+    "resources/guides/product-facts/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "573f09d34606c691f5ba02b17f9067c10da72fc76f1c76ee9b41ffb3e621bb2a",
+      "after_sha256": "ad0de98bec6fb709cc6e7cfa3df678d7dcd0155103a9ef4fe16fdb2586f325b3"
+    },
+    "resources/guides/read-an-answer/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "837af5516e72d3b0f27b4d5300d23d25b242bfdf8562de4ef1ca56b43ace200b",
+      "after_sha256": "f0335a64fd90ba40cc164d10757b5d3316ecea5005d1f3c08f74f45ed725c602"
+    },
+    "resources/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "e91eef4473f61e7a37ad400e3a483bc115a511c6e4d0c562a2686de32aa99245",
+      "after_sha256": "ad5ffcc5c6fbe2201b8d6c0b7de0702499ca5c8aca0975498d60643ff8feb4af"
+    },
+    "resources/playbooks/commercial-review/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "7576e07de89a2c20be86cc15769ccd7a603d1674afa8505f8462b9380e6ef456",
+      "after_sha256": "37b0c5799a46f7f5763ba34d649ec09faaff02f96bba15900c4f55777f47ba73"
+    },
+    "resources/playbooks/comparison-brief/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "87abc14d8e85a4ffcceca9e445192749a1c367bc8af2363cc83d8b60d6e23fe8",
+      "after_sha256": "17d2ea75fce42f0dcaa952398bef9ad4a625eaf3adf6218ad3d7760e8e927e89"
+    },
+    "resources/playbooks/fact-verification/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "067184f266fce0afc6e0419a99ab2e10024327f2cd5f6e4bb6247a0e12716525",
+      "after_sha256": "ed184d86134de44d6352c580bb1162054329ffc81db15cb277bbff0b7236e01f"
+    },
+    "resources/playbooks/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "ed37ee42b2b66f821ce397a00a8ec79a63d23e593668151e08f1e0d0fed4d25c",
+      "after_sha256": "f2c41177cc7ce1ebf982b32154c8a5d8115fd20ee59576c3a2653999b348a93c"
+    },
+    "resources/playbooks/question-selection/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "50bade8a71dd77486e6a50151cbe80e3497b5db42dbb4dbaf2cbbed6ea97c31a",
+      "after_sha256": "ccf138a855eaa987c851bd16b9925c7d10cbf6bd3bc907f7573991a34b4385ab"
+    },
+    "resources/playbooks/receipt-review/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "d9c355ab2136bb273a65b5e53d1835fa540b2aeaa827cf7bc8e104ab7ef7070b",
+      "after_sha256": "0a3b11b6727401123cbf1078db122d3fdb86fed9192d627e1547a2e117c1ef6c"
+    },
+    "resources/playbooks/recheck-review/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "f4be990e4a91dd534db0da9eba30360c32ef5cd9c00f2e076731afc8dd5407d3",
+      "after_sha256": "3a83ee84237182e73f4de9523c34e220c7532717d6c470f49a087a41ee043daa"
+    },
+    "resources/playbooks/source-correction/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "ddb601d2e9c52cbe1a9e347fedc20be4d451a44fdac0dc434542947d25649d13",
+      "after_sha256": "5f2db9f35f040445fbb334d79876d59cde01774a1dccf8a7dec51dda152bb446"
+    },
+    "resources/playbooks/technical-change/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "a82af1335163def0d486461efb513a90ab394d4e7e4b3d2ee98ae4688f859f5d",
+      "after_sha256": "f6ac972a7b004b841aca1d92bad466a8300a87c7ba3092def6e69883da284bb7"
+    },
+    "resources/provenance/sources/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "27a67b21f6cc2e4faa5f6c44fdd67f24e7b07125fc15ae356bb329189ab34047",
+      "after_sha256": "6d209a5a143cab34caf98e7ab6642a019754120ca59c3408ee5a2599221ea375"
+    },
+    "resources/three-rates/index.html": {
+      "class": "source_content",
+      "source_path": "docs/resources/three-rates.md",
+      "before_sha256": "e77a98b131e481f0d9c7ce87f5b658e378f1b2ec77b38fba3d2f51cd1a7cbf69",
+      "after_sha256": "a0307ad15c9b1b9288294ecec4e1856c08d8ceedbb1bee093ae196f6f38a0293"
+    },
+    "resources/worksheets/buyer-questions/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "4e3dc2948520e2eb87e0c0f263462165863397d3b1b87eccf017daebf8d23f91",
+      "after_sha256": "49fa0c069156de3c35ec51caa4f57837ee0d2a459860559aa9837c94274ce9db"
+    },
+    "resources/worksheets/comparison-page/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "acf6ace6454b65116fd141f7a0699567826de25a747b1603a0796a8fada8a033",
+      "after_sha256": "7d62c675ac8b46bce7f675342ccde5b5a63b09ff66b3fdab20fbb81e606fbefc"
+    },
+    "resources/worksheets/fair-recheck/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "ed9cf8461d0a769641f3ca4fb716a1aa60495347611796b336e99ac3fc9af00f",
+      "after_sha256": "f5b2e0453342e3e7c746f24fae169b6b9f6bfc17a1e9e7e031ff39332bd61ff8"
+    },
+    "resources/worksheets/missing-brand/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "ac6fb37d986ea293537d102c0efdc1862e3b41db8ba063b92f91586c8b2f8835",
+      "after_sha256": "388bbdcc0f72f745fd72898febd773d1d3b0242dc3c338b082ffc712cedb632e"
+    },
+    "resources/worksheets/product-facts/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "f11d213829c47ea24ff3be4ea302f6c58927c4fccebd3ff7d56b1c35421513a6",
+      "after_sha256": "55dd28d81af70d2a7a87df5acae7be6ba0ab9ce76d2fd1a6e543461874bbf13c"
+    },
+    "resources/worksheets/read-an-answer/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "4da540f871dd930df7dc7c4522bbe5b21d554280b6894fd6a7343fc8c3ce2cd8",
+      "after_sha256": "0f2aeff753bbeb006f06b35e11a0bdd376a067086f6f03bb233f19c894a87085"
+    },
+    "scoring-spec/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "7823f4d1b7bd79c6811d9185fd17a06753cf31209f2aea0cc41d8a0c48e05823",
+      "after_sha256": "26f587b7d8c58b019da1130971a69dd886dede88c49557727e1a707abe617106"
+    },
+    "search/search_index.json": {
+      "class": "derived",
+      "before_sha256": "37288d74ffd099dce38de2dd60313cf7ab60c620162dc92df8680c76c41aaf67",
+      "after_sha256": "5b4d7b32b3009c94aec58d4f0e503407db19f167b4766b6a9773c4cc711c6202"
+    },
+    "selection-not-ranking/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "61b7bc7b52837bf8724ed460825e85713f863da5489e0cefb281ce73bc46071e",
+      "after_sha256": "8841fabadf64df0c82fc16125b1837b449981e9b99948c127eeb13bb08be5f06"
+    },
+    "sitemap.xml": {
+      "class": "derived",
+      "before_sha256": "4a0bddbc04c986000b2d17b9539ba7eedc655e76ee3792c8be0f8098f3f8f71a",
+      "after_sha256": "a64d21214b9d774c82af1795c89704e60f668a7192e36c2a27273aac005781c4"
+    },
+    "sitemap.xml.gz": {
+      "class": "derived",
+      "before_sha256": "4efe09fa58b3feb011ba848d07cfc557a947887ddfcf1d5e02617b8768a97495",
+      "after_sha256": "2c510fb786fe251525b0407ad589e8952eec5b4ea007b22de1d4c9bae4ff86cd"
+    },
+    "valid-measurement/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "b093f16a2daf44b4d47c37254a37a3902e8dba673560c3c2b5ae81ae8b76264e",
+      "after_sha256": "7bfc03b1c4e76de47d642ce4fccbf3e2d25e4e58d6cf9b6c81c40dd44dbbda33"
+    },
+    "vendor-facts/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "642f5a6c4c082801fbbeb67d5a99d9c27e001ef47d381a4fddca644fd61c9bbf",
+      "after_sha256": "89ea11205a764bf5264264b6e45684dcb992994dd25e5189f0b598cb3a034a85"
+    },
+    "who-gets-cited/index.html": {
+      "class": "navigation_only",
+      "before_sha256": "b43e710f66ad275258fa2ad0edc5e740d87982d1d03850d3d7f587966a29a8b7",
+      "after_sha256": "5f7819e83a43fd7651e737167c3fd6a04dd981abaf071cc592d0395335a38d42"
+    },
+    "why-does-chatgpt-not-mention-us/index.html": {
+      "class": "source_content",
+      "source_path": "docs/why-does-chatgpt-not-mention-us.md",
+      "before_sha256": "64e243c63328c4ae9d5a4eea7c5d44901f4e24a377977fbc6b57f977d6fbf82d",
+      "after_sha256": "308d706fe1eca1b28a8a12f02c2fe066a9ea9e4ba636e780f2cea33d990824de"
     }
   },
   "generated_hubs": {
@@ -2841,7 +2846,7 @@
     },
     "tools/library_owner_repair.py": {
       "before_sha256": null,
-      "after_sha256": "018e21ab24fe90b960983a45ad09cade446bda934337bb02f95912173b823c84"
+      "after_sha256": "98af1b1c1457d14270ba5e1da88ac6f160470ce202a5a162b9ea4e0beb2b7460"
     },
     "tools/library_owner_repair_absence_seo.py": {
       "before_sha256": null,
@@ -2853,7 +2858,7 @@
     },
     "tools/library_owner_repair_consumers.py": {
       "before_sha256": null,
-      "after_sha256": "944a37b1722a08cefa068d4a344072cba463c43fe816ff033e7761ec279aec56"
+      "after_sha256": "8f5b47a72c379421f22950a37aaf32a77d9e314cbb9e600115a5e85c07780354"
     },
     "tools/library_owner_repair_four_facts.py": {
       "before_sha256": null,
@@ -2873,7 +2878,7 @@
     },
     "tools/library_owner_repair_pdf.py": {
       "before_sha256": null,
-      "after_sha256": "2dcdd14ba88d971e2b5d1f65aba839bbcc6dd9f4b82c494b415674167bedac6b"
+      "after_sha256": "07f233163270203fbb5eb44de5bde81b134a9da2b8d0a173b559c51de6eb4a77"
     },
     "tools/library_owner_repair_post_s5.py": {
       "before_sha256": null,
@@ -2969,7 +2974,19 @@
     },
     "tools/verify_build.py": {
       "before_sha256": "58c90fdebdb4fae84fc6fab0c02d9b27de9f7faf034045526d5485648ce11276",
-      "after_sha256": "c5295fb46dc17b39b76523256877a89c73003c3ce7fb49ea87aa26c3c679dbe5"
+      "after_sha256": "33f61566ecf6c11ef2229f0d328bb24e5aa1bc04a17e2cdcd8ab8ae2db54706d"
+    },
+    "tools/library_owner_repair_surface.py": {
+      "before_sha256": null,
+      "after_sha256": "53f47f3be4f12575fe0e4e48f1eb0f0420e0cbc51ef0338ad884fd82d4303254"
+    },
+    "tools/library_owner_repair_surface_templates.json": {
+      "before_sha256": null,
+      "after_sha256": "14aae64a5e969184bcc638bba935b19a76b18b20cc173f345bb74840b46c36b6"
+    },
+    "tools/research_quality.py": {
+      "before_sha256": "80154ec5b60035fe54672e0400fc452972d42ee64d6166a243aca9dc1edfa4b9",
+      "after_sha256": "875c5a0caeb36f2032825581809a1e6315be0028807fb48878d6cb9e2c4f1686"
     }
   },
   "pdf_before_input_map_sha256": {

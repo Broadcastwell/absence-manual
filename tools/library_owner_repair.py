@@ -362,8 +362,19 @@ def validate_artifact_delta(plan,*,prior,candidate,pdf_reviews=None,navigation_p
     require(changes==set(scope),'Actual owner artifact delta differs from the exact Root scope')
     nav_universe=navigation_repair_universe(prior,{r['served_html_path'] for r in plan.freeze_data['pages'].values()})
     require(nav_universe<=changes,'Owner repair omitted an unfrozen actual navigation page')
-    for page in sorted(nav_universe):validate_primary_labels(page,prior[page],candidate[page])
     pdf_reviews=pdf_reviews or {};navigation_proofs=navigation_proofs or {};content_proofs=content_proofs or {};derived_proofs=derived_proofs or {}
+    for page in sorted(nav_universe):
+        row=scope[page]
+        if row['class'] in {'source_content','source_metadata'}:
+            # Recompute exact Source/template projections from Root-bound full
+            # files and these actual HTML bytes; never trust a skip flag.
+            from pathlib import Path
+            from library_owner_repair_surface import revalidate_bound_content_navigation
+            proof=content_proofs.get(page,{})
+            require(proof.get('source_path')==row['source_path'],'Content navigation has the wrong Root source path')
+            revalidate_bound_content_navigation(row['source_path'].removeprefix('docs/'),proof.get('source_navigation'),
+                prior[page],candidate[page],source_note=plan.data['source_changes'][row['source_path']],template_root=Path(__file__).resolve().parents[1])
+        else:validate_primary_labels(page,prior[page],candidate[page])
     for p in sorted(changes):
         r=scope[p];require(p in candidate,'Unreviewed public removal/404 is forbidden')
         require((sha(prior[p]) if p in prior else None)==r['before_sha256'],'Actual before public bytes differ')

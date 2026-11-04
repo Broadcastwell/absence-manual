@@ -1,0 +1,32 @@
+{
+  "approved": true,
+  "reviewer": "root",
+  "review_kind": "root-owner-repair-pdf",
+  "policy": "OWNER_RISK_VERIFY_REPAIR_2026_11_03_V1",
+  "path": "absence-manual-v1.0-2026-08-18.pdf",
+  "before_sha256": "91cefee9c96e4005ea00806fe6a80f149b2b42aefdf02c53f9dc0c5700fe358e",
+  "after_sha256": "03dae21791d7909faef8f183b9d3dd767d9c6aef7f111519d9695e3e25b2dadd",
+  "prior_artifact_sha256": "04b35fe2e233e95266c359094c6c242bfc58c4c1a7657d22da09dd827ba71d01",
+  "observation_sha256": "bfe56e243e971037c094d249de93d72fa21e4c28aaaa41db165ee4c613ef549c",
+  "after_consumed_inputs_sha256": "42d08e0689105194f5538a3839e1356e112f8098cbfe5eb6da643ca143c96f8f",
+  "before_consumed_inputs_sha256": "db0f02aec6f97f5952169ad1c46b2d1779f9a8f5b5db3dfc9de0c3b84fbdb83f",
+  "full_text_and_geometry_sha256": "2ae54321c31e5e806e35d26c5d0506d0e85c3d7163ae69151d7c85447fe60b96",
+  "all_text_changes_source_reviewed": true,
+  "source_review_receipt_sha256": "2f84e776c07e54c708e10bfef106fcbcc5917029b78b464763908b49cccb02a5",
+  "visual_receipt_sha256": "975b199f259b4094e3122e24c274af560ab39bf1a96c20900d4f8a300f214098",
+  "first_linux_artifact_id": 13293184906,
+  "first_linux_artifact_sha256": "bd5a845b3c54094faae6d87352044b4a841fcc849e0180309acd97f33c7f12c1",
+  "target_text_style_preserved": false,
+  "descriptor_single_run_style_PASS_claimed": false,
+  "physical_font_evidence_method": "Actual embedded OS/2 plus explicit25WHITE-before outline/hmtx reference evidence; physical133 mapped sizes/colors/flags/opacity/origins match the approved plan. This is separate from the unsuitable single-run descriptor predicate.",
+  "physical_font_provenance": {
+    "path": "pdf-proof/records/973c6b93d7b1ebd3d43f5be08eb7ab485005de665995982e71581340a35cf3f2.json",
+    "sha256": "973c6b93d7b1ebd3d43f5be08eb7ab485005de665995982e71581340a35cf3f2"
+  },
+  "physical_font_before_direct_OS2_targets": 108,
+  "physical_font_before_outline_reference_targets": 25,
+  "physical_font_after_direct_OS2_targets": 133,
+  "actual_approved_regular400_targets": 118,
+  "actual_approved_semibold600_targets": 15,
+  "publication_or_ordinary_S5_approval": false
+}
