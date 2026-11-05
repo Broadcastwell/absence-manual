@@ -106,7 +106,8 @@ def validate(site, decisions):
         rows.append({'url':url,'sha256':hashlib.sha256(raw).hexdigest(),'schemas':dict(counts)})
     require(len(set(titles)) == len(titles), 'Duplicate current titles')
     require(len(set(descriptions)) == len(descriptions), 'Duplicate current descriptions')
-    require(all(incoming[u] for u in expected if u != BASE), 'An eligible page is orphaned')
+    orphans=[u for u in expected if u != BASE and not incoming[u]]
+    require(not orphans, 'Eligible pages are orphaned: '+', '.join(orphans))
     robots = (site/'robots.txt').read_text(encoding='utf8')
     for bot in ['Googlebot','Bingbot','GPTBot','OAI-SearchBot','ClaudeBot','PerplexityBot','Google-Extended']:
         require(re.search(r'User-agent: '+re.escape(bot)+r'\s+Allow: /', robots), 'Crawler is not allowed: '+bot)
