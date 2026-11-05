@@ -3326,7 +3326,7 @@
     "docs/who-gets-cited.md": "604cf6ed340cc02e682cc752b518fac869658856fbe6c28f883e32c447d28146",
     "docs/why-does-chatgpt-not-mention-us.md": "d9ad7bd5b3411c03ce1d08edf3968200179f7d20ddec87563973228714018a14",
     "mkdocs.yml": "2117b8e6ff2638eb01cf9f39912ba89f2a557dcf5afcc0ae0f78ba31a265201a",
-    "overrides/main.html": "c9b405202180e534f5d109831a4909054d5a9c65ce6f96432ab47526576d2ebe",
+    "overrides/main.html": "0b4c9171e2be7bc02cfcf72c554aa792f681815cb97961888b8477a1f0846b51",
     "overrides/partials/search.html": "a798fba1287e449df90d727699ff31c62244e87b75aa6409c8bda3ee6981e36e",
     "overrides/partials/site-footer.html": "e6e9779e8dfd20592f937e39502ab40bcbc2102c29473e89741dc271e124ca41",
     "overrides/partials/site-header.html": "30cb7ee07e8cd08ba7d5568d8dc47e60917efce4e7ee0006b6b2f1312d2e8f29",
@@ -5247,6 +5247,10 @@
       "after_sha256": "52188c13421be753239c4d74c1b42db224ac12ab573e57e5a6d0695939a93ee2",
       "before_sha256": "6453a6fe788803a60c4dd239cce2c0b90a6e2f0d7fd6309fd3ccfd339fc873a7"
     },
+    "overrides/main.html": {
+      "after_sha256": "0b4c9171e2be7bc02cfcf72c554aa792f681815cb97961888b8477a1f0846b51",
+      "before_sha256": "c9b405202180e534f5d109831a4909054d5a9c65ce6f96432ab47526576d2ebe"
+    },
     "tests/test_followup_release.py": {
       "after_sha256": "bb8134ac6d0363fcdb61b70dc78c0d9bd953748ce06b97752648d4b66d2b625c",
       "before_sha256": null
@@ -5276,5 +5280,17 @@
       "before_sha256": "33f61566ecf6c11ef2229f0d328bb24e5aa1bc04a17e2cdcd8ab8ae2db54706d"
     }
   },
-  "source_review_complete": false
+  "source_review": {
+    "basis": "Direct owner ruling dated 5 November 2026; each finite source change and the inherited complete source inventory reviewed. The actual Linux artifact still requires separate approval.",
+    "claim_registry_base": 83,
+    "claim_registry_changed_entries": 1,
+    "historical_quality_pins_unchanged": true,
+    "preserved_correction_event": "2026-11-05T16:01:47Z",
+    "primary_source": "https://www.semrush.com/blog/ai-search-seo-traffic-study/",
+    "registered_frozen_pages_excluded": 45,
+    "reviewed_utc": "2026-11-05T18:36:29.209046+00:00",
+    "reviewer": "Broadcastwell Library desk",
+    "unchanged_entries": 82
+  },
+  "source_review_complete": true
 }

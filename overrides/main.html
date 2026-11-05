@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block htmltitle %}
-{% if page and page.title and not page.is_homepage %}
+{% if page and page.title %}
 <title>{{ page.title | striptags }} | {{ config.site_name }}</title>
 {% else %}
 <title>{{ config.site_name }}</title>
