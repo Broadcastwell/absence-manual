@@ -1,7 +1,7 @@
 {
   "policy": "OWNER_2026_11_05_VISIBILITY_V1",
   "serving_base_commit": "ed24a5f0d1332f64d4630913e6e37b0543e49ee8",
-  "editorial_state": "DRAFT_REVIEW_PENDING",
+  "editorial_state": "ROOT_REVIEWED_SOURCE_AND_ACTUAL_LINUX_ARTIFACT",
   "revision_utc": "2026-11-05T21:10:29Z",
   "pages": {
     "absence-ladder.md": {
