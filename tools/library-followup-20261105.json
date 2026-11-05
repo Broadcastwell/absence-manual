@@ -5149,7 +5149,7 @@
     "tools/research_quality.py": "875c5a0caeb36f2032825581809a1e6315be0028807fb48878d6cb9e2c4f1686",
     "tools/validate_preview.py": "c8aa781495d967de92cdb7f2b08088ecec66be7a89cadb5b1291e2f15beec153",
     "tools/verify_answers.py": "1dd41db3bd3fc2b8fc714e90a2a23eb39f140b380a0e4da55be7ae8a9f7a2485",
-    "tools/verify_build.py": "68349f37e7b439cd6051c5f35ea1e6061f7d15e5758b7868b7f8938b8f6b6bac",
+    "tools/verify_build.py": "2cb4034a1923e58c323181f1d0e1801ca037a568de69e5c85e4cad746404c5d5",
     "tools/verify_library_field_freeze.py": "55ceb989c98c298d025d5be6cd87a00de0704ba320535af2ce278d2b23eb7fbf"
   },
   "effective_dates": {
@@ -5308,7 +5308,7 @@
       "before_sha256": "a3d82baca450059955618690292f075fea2d48d6909ae411880d280ef3ab4528"
     },
     "tools/verify_build.py": {
-      "after_sha256": "68349f37e7b439cd6051c5f35ea1e6061f7d15e5758b7868b7f8938b8f6b6bac",
+      "after_sha256": "2cb4034a1923e58c323181f1d0e1801ca037a568de69e5c85e4cad746404c5d5",
       "before_sha256": "33f61566ecf6c11ef2229f0d328bb24e5aa1bc04a17e2cdcd8ab8ae2db54706d"
     }
   },
@@ -5320,11 +5320,11 @@
     "exact_original_canonical_stub_decisions": 19,
     "historical_quality_pins_unchanged": true,
     "historical_template_pins_unchanged": true,
-    "paid_offer_destinations": "Four llms paid-offer routes now point to the owner-approved answer-repair page; informational references remain separate.",
+    "paid_offer_destinations": "Paid llms routes and the current structural expectation use answer-repair as the owner ruled.",
     "preserved_correction_event": "2026-11-05T16:01:47Z",
     "primary_source": "https://www.semrush.com/blog/ai-search-seo-traffic-study/",
     "registered_frozen_pages_excluded": 45,
-    "reviewed_utc": "2026-11-05T19:04:27.990869+00:00",
+    "reviewed_utc": "2026-11-05T19:13:41.848699+00:00",
     "reviewer": "Broadcastwell Library desk",
     "unchanged_entries": 82
   },
