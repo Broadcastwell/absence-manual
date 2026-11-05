@@ -3174,7 +3174,7 @@
     "docs/research/data/reproduce_vendor_pairs.mjs": "e6f6d33115c6571089b588c0e035540e39be6a25b6d22dfa47dd153dd0792acd",
     "docs/research/data/research-crawler-collection.mjs": "194a8c932f2af1bfabe51c816c76c2cf44c1296f164b27885ef5c7035cd5f056",
     "docs/research/data/research-errata-2026-11-03.csv": "4122cb58ed8fb5a5e55d466a7c1bbefaa1208b1ad0f7357590e3836546c4b0c9",
-    "docs/research/data/research-release-policy.json": "a413acca0a52bb221c46c173ab76fad3f603c417f9069c32ef19a10ab10c9edd",
+    "docs/research/data/research-release-policy.json": "8e7d2f0d0d873d87798d09dad4a345a3b404dfdb4799420f5b0f7067be398ac9",
     "docs/research/data/research_release_gate.py": "9658c9c892ba3c95c06577f57a4fb625d23240b11d77c4fa22f00887ee6a7712",
     "docs/research/data/review-platform-occurrences.csv": "4355674e5b387757a9b8e3f8b453b741b99af39b76e108ac14ddcfd5d484e0c0",
     "docs/research/data/review-platform-snapshot.csv": "2288c6c20642d94fdf6f8fbcf0757be975acef8b3d82159439d92218c6dfc715",
@@ -5075,8 +5075,8 @@
     "tools/library-research-inputs/source-reads/52.json": "1994afc5597e312b13152f7ded7b1e698dcd2c18a78558db74307b8d90617e0a",
     "tools/library-research-inputs/source-reads/53.json": "58ca53ca82be795d543c4cc7d427d8cf749d5cc3fe555d57bb7a1bbecd37b328",
     "tools/library-research-inputs/source-reads/file-line-map.json": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
-    "tools/library-research-support.json": "da9a295a98ed4ce065a6df4b818eee5d2bff874924da4549366af28ed691a752",
-    "tools/library-research-support.sha256": "916dfe3a07fad255dfba8faf7250bcb1da243213707f730dae239404305a90b4",
+    "tools/library-research-support.json": "803afdc7d03b03bf525941159f63b96e82e26b5fd80e2cf70d7759f727e58198",
+    "tools/library-research-support.sha256": "34e586a881471af13331f5d32a444beb84774b3e6adc6f192214637209a2d769",
     "tools/library_answers.py": "37e8ed39da080c03a8361e44fcd03371d6ca369d3df4fb847db13cc1fc20bd22",
     "tools/library_build_dispatch.py": "9092b9262bacbd8c11aad171582e2a0f3de7a9a99fe63c97fc4985a36c700b9a",
     "tools/library_company_panel.py": "17076be6269695465e44298b7d6875979d6789d47eb2d5cff4d9db2764e22ee9",
@@ -5240,6 +5240,10 @@
       "after_sha256": "e9723bc469203ef2363e9cef3a2f219eb85ec727e730b315966b56e3324ee120",
       "before_sha256": "0f5ca38eb5ce70fcb1c2e902947df41d08aca51c4353ed85d0b502caa5fc337d"
     },
+    "docs/research/data/research-release-policy.json": {
+      "after_sha256": "8e7d2f0d0d873d87798d09dad4a345a3b404dfdb4799420f5b0f7067be398ac9",
+      "before_sha256": "a413acca0a52bb221c46c173ab76fad3f603c417f9069c32ef19a10ab10c9edd"
+    },
     "docs/resources/audit/executive-template.md": {
       "after_sha256": "79b97888fe8b9b6ed668693890de756b6b5e9c316c68e87ea37c3c6def598be1",
       "before_sha256": "2023490726a2135c65094e9966747c1ec8303300a70741687812324647ef8243"
@@ -5255,6 +5259,14 @@
     "tests/test_followup_release.py": {
       "after_sha256": "736a5ab4f0fda04c03c08dee5483192bd5292f5bc3a47f2aeccb19436def0aaa",
       "before_sha256": null
+    },
+    "tools/library-research-support.json": {
+      "after_sha256": "803afdc7d03b03bf525941159f63b96e82e26b5fd80e2cf70d7759f727e58198",
+      "before_sha256": "da9a295a98ed4ce065a6df4b818eee5d2bff874924da4549366af28ed691a752"
+    },
+    "tools/library-research-support.sha256": {
+      "after_sha256": "34e586a881471af13331f5d32a444beb84774b3e6adc6f192214637209a2d769",
+      "before_sha256": "916dfe3a07fad255dfba8faf7250bcb1da243213707f730dae239404305a90b4"
     },
     "tools/library_build_dispatch.py": {
       "after_sha256": "9092b9262bacbd8c11aad171582e2a0f3de7a9a99fe63c97fc4985a36c700b9a",
@@ -5289,13 +5301,14 @@
     "basis": "Direct owner ruling dated 5 November 2026; each finite source change and the inherited complete source inventory reviewed. The actual Linux artifact still requires separate approval.",
     "claim_registry_base": 83,
     "claim_registry_changed_entries": 1,
+    "current_research_headline_policy_approved": true,
     "exact_original_canonical_stub_decisions": 19,
     "historical_quality_pins_unchanged": true,
     "historical_template_pins_unchanged": true,
     "preserved_correction_event": "2026-11-05T16:01:47Z",
     "primary_source": "https://www.semrush.com/blog/ai-search-seo-traffic-study/",
     "registered_frozen_pages_excluded": 45,
-    "reviewed_utc": "2026-11-05T18:42:43.014263+00:00",
+    "reviewed_utc": "2026-11-05T18:54:50.606297+00:00",
     "reviewer": "Broadcastwell Library desk",
     "unchanged_entries": 82
   },
