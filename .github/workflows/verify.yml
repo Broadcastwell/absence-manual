@@ -89,7 +89,7 @@ jobs:
         run: |
           python tools/library_owner_repair_stage.py --blueprint tools/library-owner-repair/release.json --blueprint-sha256 '${{ steps.prior.outputs.blueprint-sha256 }}' --artifact reviewed-prior-publication.zip --out .owner-repair-staged --docs docs --write-github-env > owner-stage-result.json
       - name: Download the exact Research prior publication artifact
-        if: steps.mode.outputs.mode != 'owner'
+        if: steps.mode.outputs.mode == 'research' || steps.mode.outputs.mode == 'activation'
         uses: actions/github-script@v7
         with:
           script: |
@@ -104,6 +104,30 @@ jobs:
             const bytes = Buffer.from((await github.rest.actions.downloadArtifact({owner,repo,artifact_id:id,archive_format:'zip'})).data);
             if (crypto.createHash('sha256').update(bytes).digest('hex') !== expected) throw new Error('Research prior artifact bytes differ');
             fs.writeFileSync('reviewed-prior-publication.zip',bytes);
+      - name: Download the two exact follow-up baselines
+        if: steps.mode.outputs.mode == 'followup'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs'), crypto = require('crypto');
+            const plan = JSON.parse(fs.readFileSync('tools/library-followup-20261105.json','utf8'));
+            const old = JSON.parse(fs.readFileSync('tools/library-research-support.json','utf8'));
+            for (const row of [
+              [plan.prior_artifact_id, plan.prior_artifact_sha256, plan.prior_artifact_path],
+              [old.activation_delivery.prior_artifact_id, old.activation_delivery.external_files['.library-research-work/prior-public.zip'], 'reviewed-prior-publication.zip']
+            ]) {
+              const {owner,repo}=context.repo, [id,expected,destination]=row;
+              const meta=(await github.rest.actions.getArtifact({owner,repo,artifact_id:id})).data;
+              if(meta.expired || meta.name!=='manual-site-preview' || meta.digest!=='sha256:'+expected) throw new Error('Follow-up baseline metadata differs');
+              const bytes=Buffer.from((await github.rest.actions.downloadArtifact({owner,repo,artifact_id:id,archive_format:'zip'})).data);
+              if(crypto.createHash('sha256').update(bytes).digest('hex')!==expected) throw new Error('Follow-up baseline bytes differ');
+              fs.writeFileSync(destination,bytes);
+            }
+      - name: Stage the immutable released Research route for the finite follow-up
+        if: steps.mode.outputs.mode == 'followup'
+        run: |
+          python tools/library_followup_release.py prepare --repo . --artifact reviewed-pr97-publication.zip --baseline-artifact reviewed-prior-publication.zip
+          echo "BW_LIBRARY_FOLLOWUP_PLAN_SHA256=$(cat tools/library-followup-20261105.sha256)" >> "$GITHUB_ENV"
       - name: Stage the exact Research inputs through library_research_stage.py
         if: steps.mode.outputs.mode == 'research'
         run: python tools/library_research_activation.py prepare --repo . --artifact reviewed-prior-publication.zip --write-github-env > research-stage-result.json
@@ -143,6 +167,9 @@ jobs:
       - name: Verify the complete finite Research release
         if: steps.mode.outputs.mode == 'research'
         run: python tools/library_research_build.py --inputs "$BW_RESEARCH_RELEASE_INPUTS" --inputs-sha256 "$BW_RESEARCH_RELEASE_INPUTS_SHA256" --docs docs --site site --work .library-research-work/render > research-release-result.json
+      - name: Verify the complete finite follow-up source and artifact approval
+        if: steps.mode.outputs.mode == 'followup'
+        run: python tools/library_followup_release.py verify --repo .
       - name: Save clearly unapproved candidate site and actual observations
         if: always()
         uses: actions/upload-artifact@v4
@@ -157,6 +184,10 @@ jobs:
             owner-repair-result.json
             activation-public-identity.json
             library-quality-report.json
+            followup-candidate-observation.NOT_APPROVED.json
+            followup-release-result.json
+            .library-followup-work/source-proof.json
+            .library-followup-work/render-contexts.json
             library-field-freeze-retention.json
           if-no-files-found: warn
       - name: Save the complete verified site provenance

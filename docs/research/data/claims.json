@@ -1,6 +1,6 @@
 {
   "title": "GEO Claim Registry",
-  "checked_date": "2026-11-03",
+  "checked_date": "2026-11-05",
   "license": "CC BY 4.0",
   "entry_count": 83,
   "entries": [
@@ -632,13 +632,13 @@
       "id": "bisht-domain-order",
       "claim": "The retrieved manuscript proves Reddit ranks ahead of Quora",
       "circulation": "Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript",
-      "primary_source": "Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI 10.1145/3637528.3671900",
-      "source_location": "Manuscript domain discussion",
-      "primary_finding": "The current text names Reddit and Quora together. We have not identified an exact passage in this version that ranks Reddit first, so the stronger attributed error is not asserted. A source-specific ordering needs the original vendor table.",
+      "primary_source": "Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Rachel Handley, Semrush AI search traffic study, July 21, 2025, https://www.semrush.com/blog/ai-search-seo-traffic-study/",
+      "source_location": "Manuscript section 5.3 (paragraph 121) and reference 16; Semrush section 4, Which Domains Appear the Most in AI Overviews?",
+      "primary_finding": "In section 5.3, the manuscript reports Reddit first and Quora second among the most cited domains in Google AI Overviews and attributes the order to Semrush reference 16. The cited Semrush article instead places Quora first and Reddit second in its study of more than 500 digital-marketing and SEO topics. The manuscript provides no original ranking data for its reversed order.",
       "base_setting": "Bibliographic and attribution audit of the retrieved manuscript, not an assessment of author intent",
-      "verdict": "unverifiable",
-      "checked_date": "2026-11-02",
-      "quotable_correction": "A pair of domain names does not establish their order."
+      "verdict": "unsupported",
+      "checked_date": "2026-11-05",
+      "quotable_correction": "Bisht reverses the order stated by the cited Semrush study: Quora first, Reddit second."
     },
     {
       "id": "bisht-gartner-date",

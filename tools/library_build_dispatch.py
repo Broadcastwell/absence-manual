@@ -19,13 +19,20 @@ def from_environment(config):
     global _CURRENT
     _CURRENT=None
     groups=[{k for k in os.environ if k.startswith(prefix)} for prefix in
-        ['BW_LIBRARY_PUBLICATION_','BW_OWNER_REPAIR_','BW_RESEARCH_RELEASE_']]
+        ['BW_LIBRARY_PUBLICATION_','BW_OWNER_REPAIR_','BW_RESEARCH_RELEASE_','BW_LIBRARY_FOLLOWUP_']]
     require(sum(bool(g) for g in groups)<=1,'Ordinary S5/Owner/Research active modes cannot mix')
     expected=[{'BW_LIBRARY_PUBLICATION_INPUTS','BW_LIBRARY_PUBLICATION_INPUTS_SHA256'},
         {'BW_OWNER_REPAIR_INPUTS','BW_OWNER_REPAIR_INPUTS_SHA256'},
-        {'BW_RESEARCH_RELEASE_INPUTS','BW_RESEARCH_RELEASE_INPUTS_SHA256'}]
+        {'BW_RESEARCH_RELEASE_INPUTS','BW_RESEARCH_RELEASE_INPUTS_SHA256'},
+        {'BW_LIBRARY_FOLLOWUP_PLAN_SHA256'}]
     for group,allowed in zip(groups,expected):
         if group:require(group==allowed,'Unknown/partial explicit build policy environment')
+    if groups[3]:
+        from library_followup_release import FollowupSession, PLAN, sha
+        from pathlib import Path
+        root=Path(config['docs_dir']).resolve().parent
+        require(os.environ['BW_LIBRARY_FOLLOWUP_PLAN_SHA256']==sha((root/PLAN).read_bytes()), 'Follow-up environment does not bind the reviewed plan')
+        _CURRENT=FollowupSession.load(config);return _CURRENT
     if groups[2]:
         from library_research_build import from_environment as research
         _CURRENT=research(config);return _CURRENT

@@ -1,8 +1,7 @@
 ---
-title: Executive delivery template (retired Category Audit format, kept for reference)
-headline: Executive delivery template (retired Category Audit format, kept for reference)
-description: 'Classification: Template only; incomplete fields block client delivery.
-  Version: bw-content-2026-09-24-v1.'
+title: What belongs in an executive delivery report?
+headline: What belongs in an executive delivery report?
+description: An executive report needs a decision, source receipts, limits and an owned next step. This dated template shows the fields required before any client delivery.
 page_class: page
 schema_type: Article
 learning_resource: 'true'
@@ -10,12 +9,12 @@ hide:
 - navigation
 - toc
 date_published: '2026-09-24T00:00:00+00:00'
-date_modified: '2026-11-03T17:32:11+00:00'
+date_modified: '2026-11-05T18:05:00Z'
 ---
 
-# Executive delivery template (retired Category Audit format, kept for reference)
+# What belongs in an executive delivery report?
 
-This page preserves the retired Category Audit format for orders before 26 October 2026.
+This page preserves a delivery template for orders before 26 October 2026. It is a historical example, not a current offer.
 
 <div class="bw-learning">
 <nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><p><strong>Classification:</strong> Template only; incomplete fields block client delivery. <strong>Version:</strong> bw-content-2026-09-24-v1.</p>

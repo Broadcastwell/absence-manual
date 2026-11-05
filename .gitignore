@@ -16,3 +16,9 @@ owner-repair-result.json
 .research-candidate-check/
 research-stage-result.json
 research-release-result.json
+
+.library-followup-work/
+reviewed-pr97-publication.zip
+followup-candidate-observation.NOT_APPROVED.json
+followup-release-result.json
+/LIVE/
