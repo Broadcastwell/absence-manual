@@ -2,7 +2,7 @@
   "policy": "OWNER_2026_11_05_VISIBILITY_V1",
   "serving_base_commit": "ed24a5f0d1332f64d4630913e6e37b0543e49ee8",
   "editorial_state": "DRAFT_REVIEW_PENDING",
-  "revision_utc": "2026-11-05T20:55:38Z",
+  "revision_utc": "2026-11-05T21:10:29Z",
   "pages": {
     "absence-ladder.md": {
       "url": "https://docs.broadcastwell.com/absence-ladder/",
@@ -11,7 +11,7 @@
       "before_meta_sha256": "ce307ac02adb5f0ebd21ce813feaf934db081741f0f5680bb34cb05de6e34e64",
       "after_body_sha256": "65e77ba21808deb4b9873eadbd0574129832c052987a582a4c0fa546cb4cbf2a",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Category questions dominated losses for unseen companies in our 2026 study. Its 616 absence records show why a total visibility score can hide different needs.",
         "headline": "Which questions do unseen B2B companies lose?",
@@ -47,7 +47,7 @@
       "before_meta_sha256": "aea03e413e3e6eafe7df0293df523c63801e0afd75ebf27482dbd6a6d694ae41",
       "after_body_sha256": "50cbdb600a387d65ae2d4558194d6fd8a7340404fbd5f689ff2d2096aa604347",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Classify each missing mention by question shape before grouping category and comparison questions. Our published rules cover all 616 recorded absences in 2026.",
         "headline": "How should missing AI mentions be classified?",
@@ -82,7 +82,7 @@
       "before_meta_sha256": "b9e51d81626cfdd66b2ac38a00270d8f0653a9b40125a7967081d8a5ce0559d3",
       "after_body_sha256": "d0e5bb18ae1db5eb3f1f7ff9034aa9a002f1de2ac1762599a931ba0e5a9c2770",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-07T00:00:00+00:00",
         "description": "Keep AI mentions, observed visits and buyer reports separate. The AI Source Standard explains which dated evidence supports each claim about business outcomes.",
         "faq": [
@@ -119,7 +119,7 @@
         "also_asked_as": [
           "Can an AI assistant find a software pricing page?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:18:06+00:00",
         "demand_evidence": "LB-Q0551, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -160,7 +160,7 @@
         "also_asked_as": [
           "Can construction software integrate with ChatGPT?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:21:51+00:00",
         "demand_evidence": "LB-Q0337, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -201,7 +201,7 @@
         "also_asked_as": [
           "Can CRM software integrate with ChatGPT?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:21:51+00:00",
         "demand_evidence": "LB-Q0346, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -242,7 +242,7 @@
         "also_asked_as": [
           "Can dealership software integrate with ChatGPT?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T18:27:16+00:00",
         "demand_evidence": "LB-Q0352, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -283,7 +283,7 @@
         "also_asked_as": [
           "Can dental practice software integrate with ChatGPT?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T19:13:03+00:00",
         "demand_evidence": "LB-Q0362, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -324,7 +324,7 @@
         "also_asked_as": [
           "Can field service software integrate with ChatGPT?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T18:27:51+00:00",
         "demand_evidence": "LB-Q0364, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -365,7 +365,7 @@
         "also_asked_as": [
           "Can hotel software integrate with ChatGPT?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T18:28:32+00:00",
         "demand_evidence": "LB-Q0387, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -407,7 +407,7 @@
           "insurance agency software chatgpt integration",
           "insurance agency software chatgpt api"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T20:34:23+00:00",
         "demand_evidence": "LB-Q0394, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -448,7 +448,7 @@
         "also_asked_as": [
           "legal practice software chatgpt integration"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T20:34:23+00:00",
         "demand_evidence": "LB-Q0399, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -489,7 +489,7 @@
         "also_asked_as": [
           "loan origination software chatgpt integration"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T20:34:23+00:00",
         "demand_evidence": "LB-Q0408, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -530,7 +530,7 @@
         "also_asked_as": [
           "radiology software chatgpt integration"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T00:26:11+00:00",
         "demand_evidence": "LB-Q0429, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -572,7 +572,7 @@
           "residential property software chatgpt integration",
           "residential property software chatgpt plugin"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T00:38:53+00:00",
         "demand_evidence": "LB-Q0435, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -613,7 +613,7 @@
         "also_asked_as": [
           "transportation management software chatgpt integration"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T00:26:11+00:00",
         "demand_evidence": "LB-Q0438, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -654,7 +654,7 @@
         "also_asked_as": [
           "veterinary practice software chatgpt integration"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T00:33:32+00:00",
         "demand_evidence": "LB-Q0448, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -696,7 +696,7 @@
           "Does an AI handoff mean a software purchase was completed?",
           "How do GetMint and Otterly compare for transactional GEO in the United States?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:18:06+00:00",
         "demand_evidence": "LB-Q0554, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -737,7 +737,7 @@
         "also_asked_as": [
           "Does finding a page prove an AI assistant understood it?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:18:06+00:00",
         "demand_evidence": "LB-Q0553, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -778,7 +778,7 @@
         "also_asked_as": [
           "How can a software website make its public pricing path clearer?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:18:06+00:00",
         "demand_evidence": "LB-Q0555, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -825,7 +825,7 @@
           "How does an AI connector differ from browsing a website?",
           "What should I ask a GEO provider about MCP or API access?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:22:04+00:00",
         "demand_evidence": "LB-Q0556, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -866,7 +866,7 @@
         "also_asked_as": [
           "How far can an AI assistant get along a software demo path?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:18:06+00:00",
         "demand_evidence": "LB-Q0552, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -904,7 +904,7 @@
       "before_meta_sha256": "6da8265dd94358517c0bd75edcc9b0d36765f5dd5c2cac240ed6631174b092ac",
       "after_body_sha256": "15fc972425168f35fdd2c82a09565750b84205dae5784ee5b6b90480cb27f94e",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:30:42+00:00",
         "description": "Read what AI assistants found, described and reached on software websites. Our dated Agent Gap results separate discovery, correctness and reaching a handoff.",
         "headline": "What can AI assistants do on software websites?",
@@ -1049,7 +1049,7 @@
         "also_asked_as": [
           "Is agent-to-agent commerce the future, or am I searching for a problem for my solution? - I will not promote"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T01:50:02+00:00",
         "demand_evidence": "LB-Q0518, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -1090,7 +1090,7 @@
         "also_asked_as": [
           "HubSpot <> ChatGPT integration - Good idea or threat?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T01:51:26+00:00",
         "demand_evidence": "LB-Q0523, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -1136,7 +1136,7 @@
         "also_asked_as": [
           "What can an AI assistant learn from a software website?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:18:06+00:00",
         "demand_evidence": "LB-Q0550, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -1177,7 +1177,7 @@
         "also_asked_as": [
           "79dev.com geo services worth it?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T00:26:11+00:00",
         "demand_evidence": "LB-Q0061, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -1218,7 +1218,7 @@
         "also_asked_as": [
           "What can a GEO agency guarantee?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0623, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -1255,7 +1255,7 @@
         "also_asked_as": [
           "How can I check a GEO vendor's published measurement method?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:01:27+00:00",
         "demand_evidence": "LB-Q0628, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -1297,7 +1297,7 @@
         "also_asked_as": [
           "How can I check whether a GEO tool covers the engines I need?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0632, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -1339,7 +1339,7 @@
         "also_asked_as": [
           "Now with GEO agencies, what Happens to Traditional SEO Agencies?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T06:34:44+00:00",
         "demand_evidence": "LB-Q0480, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -1378,7 +1378,7 @@
           "Where can I find an AI search visibility expert near me?",
           "Ai search visibility expert near me?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T20:32:25+00:00",
         "demand_evidence": "LB-Q0041, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -1421,7 +1421,7 @@
         "also_asked_as": [
           "How does Seer Interactive compare to other GEO agencies when it comes to research, measurement capabilities, and proven client results?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T18:40:49+00:00",
         "demand_evidence": "LB-Q0021, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -1467,7 +1467,7 @@
         "also_asked_as": [
           "How should a regulated business assess AI visibility evidence?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:01:27+00:00",
         "demand_evidence": "LB-Q0629, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -1513,7 +1513,7 @@
         "also_asked_as": [
           "How should an agency report AI visibility for multiple clients?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0625, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -1555,7 +1555,7 @@
         "also_asked_as": [
           "How should I compare GEO quotes with different question sets?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0620, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -1602,7 +1602,7 @@
         "also_asked_as": [
           "How should I evaluate a GEO case study?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0626, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -1644,7 +1644,7 @@
         "also_asked_as": [
           "I'm a public affairs agency lead. for our regulated-industry clients, suede web systems vs profound ai: which should the firm standardize on?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T11:10:09+00:00",
         "demand_evidence": "LB-Q0054, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -1687,7 +1687,7 @@
       "before_meta_sha256": "f0b3d0f05086c24b1172d6ab887e79f0d223bb22f2e77aaa86956528d872f4b2",
       "after_body_sha256": "8b8fdf5e2cba22303c0beb6f431d37982c40c2e156e66f9ca33555cb7a6bdb2f",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:30:42+00:00",
         "description": "Before buying GEO work, specify the questions, deliverables and acceptance evidence. Compare dated observations and page changes as separate kinds of work.",
         "headline": "How should you choose and buy GEO services?",
@@ -1907,7 +1907,7 @@
         "also_asked_as": [
           "Is Blobic a good white label GEO provider?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T18:40:49+00:00",
         "demand_evidence": "LB-Q0016, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -1948,7 +1948,7 @@
         "also_asked_as": [
           "Should I buy AI visibility monitoring or a completed page fix?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0627, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -1995,7 +1995,7 @@
         "also_asked_as": [
           "Should I compare GEO prices per prompt or per valid answer?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0621, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2032,7 +2032,7 @@
         "also_asked_as": [
           "We're looking for an ai visibility agency that can get our brand into llm responses. does althea labs offer faster results than keenfolks or sourcecode communications?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T04:50:55+00:00",
         "demand_evidence": "LB-Q0107, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -2078,7 +2078,7 @@
         "also_asked_as": [
           "What belongs in a white-label GEO delivery scope?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0624, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2119,7 +2119,7 @@
         "also_asked_as": [
           "My client just asked me to “do GEO” what do I even deliver?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T04:46:30+00:00",
         "demand_evidence": "LB-Q0478, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -2165,7 +2165,7 @@
         "also_asked_as": [
           "What does an AI visibility audit include?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T20:44:04+00:00",
         "demand_evidence": "LB-Q0044, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2214,7 +2214,7 @@
           "What evidence should an AI factual-accuracy alert include?",
           "How accurate are GEO tools across different industries?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0631, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -2260,7 +2260,7 @@
         "also_asked_as": [
           "What evidence should I keep when an AI visibility engagement ends?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0630, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2302,7 +2302,7 @@
         "also_asked_as": [
           "What should a GEO content and implementation scope include?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:01:27+00:00",
         "demand_evidence": "LB-Q0634, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2343,7 +2343,7 @@
         "also_asked_as": [
           "What should an initial GEO project measure?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:01:27+00:00",
         "demand_evidence": "LB-Q0622, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -2380,7 +2380,7 @@
         "also_asked_as": [
           "Who is the best Answer Engine Optimization (AEO) Agency in USA?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T06:46:47+00:00",
         "demand_evidence": "LB-Q0483, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -2428,7 +2428,7 @@
         "also_asked_as": [
           "Which agencies document work across AI answer engines?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:14:21+00:00",
         "demand_evidence": "LB-Q0010, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2471,7 +2471,7 @@
         "also_asked_as": [
           "Which GEO agencies serve new companies?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:14:21+00:00",
         "demand_evidence": "LB-Q0009, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2516,7 +2516,7 @@
           "What can a pre-sales AI visibility check establish?",
           "best geo platforms that let agencies run pre-sales ai visibility audits for prospects"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T21:44:23+00:00",
         "demand_evidence": "LB-Q0057, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -2562,7 +2562,7 @@
         "also_asked_as": [
           "How can an AI incident answer mislead without an explicit false claim?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0650, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2608,7 +2608,7 @@
         "also_asked_as": [
           "How should a vendor correct outdated facts after a public change?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0654, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -2655,7 +2655,7 @@
         "also_asked_as": [
           "How should I check a reported vulnerability's product impact?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0648, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2701,7 +2701,7 @@
         "also_asked_as": [
           "How should I verify a fixed version quoted by an AI answer?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:01:27+00:00",
         "demand_evidence": "LB-Q0649, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2742,7 +2742,7 @@
         "also_asked_as": [
           "How should we date an AI-facing incident statement?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:01:27+00:00",
         "demand_evidence": "LB-Q0652, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2783,7 +2783,7 @@
         "also_asked_as": [
           "How should we distinguish planned fixes from completed fixes?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:01:27+00:00",
         "demand_evidence": "LB-Q0653, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2830,7 +2830,7 @@
         "also_asked_as": [
           "How should we preserve conflicting AI incident answers?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0655, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -2868,7 +2868,7 @@
       "before_meta_sha256": "dbe51d0cf9909095f4e36ea86f2a579ecdc1eca7a3fdff2c0154c8f544fb6bff",
       "after_body_sha256": "dbbf45a16efa3146644a080e458fc729ce0c25ccb4e19e7199dff8fc3ff9ed29",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:30:42+00:00",
         "description": "Incident answers need dated sources, exact product scope and clear uncertainty. These pages separate planned work, completed fixes and conflicting observations.",
         "headline": "How should you check changed product facts in AI answers?",
@@ -2973,7 +2973,7 @@
         "also_asked_as": [
           "What should a vendor say while an incident is uncertain?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0651, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -3017,7 +3017,7 @@
           "How can I defend branded search results against lookalike sites that confuse LLMs?",
           "Lookalike clones are confusing LLMs and stealing my branded SEO. How do you defend against this?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:17:32+00:00",
         "demand_evidence": "LB-Q0467, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -3058,7 +3058,7 @@
         "also_asked_as": [
           "Which AI visibility tools monitor factual accuracy?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T14:45:58+00:00",
         "demand_evidence": "LB-Q0036, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -3099,7 +3099,7 @@
         "also_asked_as": [
           "Does allowing GPTBot make a site appear in ChatGPT search?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T18:27:16+00:00",
         "demand_evidence": "LB-Q0274, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -3136,7 +3136,7 @@
         "also_asked_as": [
           "How can a business be recommended by ChatGPT?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:05:30+00:00",
         "demand_evidence": "LB-Q0511, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -3173,7 +3173,7 @@
         "also_asked_as": [
           "How can a page get cited by ChatGPT?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:05:30+00:00",
         "demand_evidence": "LB-Q0509, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -3210,7 +3210,7 @@
         "also_asked_as": [
           "How does ChatGPT choose which sources to cite?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T18:27:51+00:00",
         "demand_evidence": "LB-Q0280, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -3247,7 +3247,7 @@
         "also_asked_as": [
           "How many software vendors does ChatGPT name in an answer?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:06:10+00:00",
         "demand_evidence": "LB-Q0619, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3281,7 +3281,7 @@
       "before_meta_sha256": "7e1e564573168584463cc91516587cf80cb41236db63df07c4b339ae1eb4effd",
       "after_body_sha256": "e0196faec3f7e73b37b147e878127e3962622ed517d263cb0d5c2bb151eec458",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:22:46+00:00",
         "description": "Read which software names appeared in our dated ChatGPT answers, then inspect the buyer question. Naming counts, cited sources and product suitability differ.",
         "headline": "Which software does ChatGPT name and cite?",
@@ -3407,7 +3407,7 @@
           "Which construction software does ChatGPT recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:04:51+00:00",
         "demand_evidence": "LB-Q0585, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3445,7 +3445,7 @@
           "Which CRM software does ChatGPT recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:04:51+00:00",
         "demand_evidence": "LB-Q0597, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3483,7 +3483,7 @@
           "Which dealership software does ChatGPT recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:04:51+00:00",
         "demand_evidence": "LB-Q0586, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3521,7 +3521,7 @@
           "Which dental software does ChatGPT recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:04:51+00:00",
         "demand_evidence": "LB-Q0587, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3563,7 +3563,7 @@
           "What is the best AEO tool for Home Service Companies and Contractors?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:04:51+00:00",
         "demand_evidence": "LB-Q0588, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3601,7 +3601,7 @@
           "Which hotel software does ChatGPT recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:04:51+00:00",
         "demand_evidence": "LB-Q0589, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3639,7 +3639,7 @@
           "Which insurance agency software does ChatGPT recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:04:51+00:00",
         "demand_evidence": "LB-Q0590, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3677,7 +3677,7 @@
           "Which legal practice software does ChatGPT recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:04:51+00:00",
         "demand_evidence": "LB-Q0591, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3714,7 +3714,7 @@
         "also_asked_as": [
           "Which loan origination software does ChatGPT recommend?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:06:10+00:00",
         "demand_evidence": "LB-Q0592, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3751,7 +3751,7 @@
         "also_asked_as": [
           "Which project management software does ChatGPT recommend?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:06:10+00:00",
         "demand_evidence": "LB-Q0598, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3788,7 +3788,7 @@
         "also_asked_as": [
           "Which property management software does ChatGPT recommend?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:06:10+00:00",
         "demand_evidence": "LB-Q0594, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3825,7 +3825,7 @@
         "also_asked_as": [
           "Which radiology software does ChatGPT recommend?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:06:10+00:00",
         "demand_evidence": "LB-Q0593, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3863,7 +3863,7 @@
           "Which transportation software does ChatGPT recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:20:01+00:00",
         "demand_evidence": "LB-Q0595, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3901,7 +3901,7 @@
           "Which veterinary software does ChatGPT recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:20:01+00:00",
         "demand_evidence": "LB-Q0596, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -3938,7 +3938,7 @@
         "also_asked_as": [
           "Does Anthropic crawl data from the web, and how can site owners block the crawler?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T15:18:56+00:00",
         "demand_evidence": "LB-Q0275, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -3980,7 +3980,7 @@
         "also_asked_as": [
           "How does Claude web search work?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T15:18:56+00:00",
         "demand_evidence": "LB-Q0281, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -4014,7 +4014,7 @@
       "before_meta_sha256": "adb74dae3423835df2224b94ebccd8287921a11986f85c6465411d8d08508784",
       "after_body_sha256": "97c1925a6973a0ee0b8af9d670f45f7bc61198d1cc078e178402ceaf29428e1b",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:38:25+00:00",
         "description": "Read Claude's software naming observations beside the category questions. The September 2026 counts describe captured answers, not product recommendations.",
         "headline": "Which software does Claude name and cite?",
@@ -4105,7 +4105,7 @@
           "Which construction software does Claude recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:20:01+00:00",
         "demand_evidence": "LB-Q0599, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -4143,7 +4143,7 @@
           "Which CRM software does Claude recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:20:01+00:00",
         "demand_evidence": "LB-Q0607, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -4181,7 +4181,7 @@
           "Which dealership software does Claude recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:20:01+00:00",
         "demand_evidence": "LB-Q0600, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -4219,7 +4219,7 @@
           "Which dental software does Claude recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:20:01+00:00",
         "demand_evidence": "LB-Q0601, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -4257,7 +4257,7 @@
           "Which field service software does Claude recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:20:01+00:00",
         "demand_evidence": "LB-Q0602, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -4295,7 +4295,7 @@
           "Which hotel software does Claude recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:20:01+00:00",
         "demand_evidence": "LB-Q0603, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -4333,7 +4333,7 @@
           "Which insurance agency software does Claude recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:25:55+00:00",
         "demand_evidence": "LB-Q0604, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -4371,7 +4371,7 @@
           "Which legal practice software does Claude recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:25:55+00:00",
         "demand_evidence": "LB-Q0605, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -4409,7 +4409,7 @@
           "Which loan origination software does Claude recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:25:55+00:00",
         "demand_evidence": "LB-Q0606, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -4447,7 +4447,7 @@
           "Which project management software does Claude recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:25:55+00:00",
         "demand_evidence": "LB-Q0608, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -4484,7 +4484,7 @@
         "also_asked_as": [
           "Does a crawler request count as a buyer visit?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T04:24:00+00:00",
         "demand_evidence": "LB-Q0273, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -4525,7 +4525,7 @@
         "also_asked_as": [
           "Shitty ChatGPT SEO Outputs"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T00:26:11+00:00",
         "demand_evidence": "LB-Q0490, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -4566,7 +4566,7 @@
         "also_asked_as": [
           "Taking control: Removing your content from AI Overviews [and switching them off]"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T01:50:02+00:00",
         "demand_evidence": "LB-Q0493, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -4608,7 +4608,7 @@
         "also_asked_as": [
           "How should an answer page link each claim to evidence?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:07:16+00:00",
         "demand_evidence": "LB-Q0643, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -4649,7 +4649,7 @@
         "also_asked_as": [
           "How should I structure headings for AI crawlers?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:07:16+00:00",
         "demand_evidence": "LB-Q0519, private demand receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -4693,7 +4693,7 @@
           "Combination of AI tools for programmatic SEO?",
           "Which AI tools can support programmatic SEO?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:07:16+00:00",
         "demand_evidence": "LB-Q0635, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -4745,7 +4745,7 @@
           "How do robots.txt rules affect AI crawler access?",
           "What do AI crawlers do, and how can site owners control access?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:31:03+00:00",
         "demand_evidence": "LB-Q0641, private demand receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -4786,7 +4786,7 @@
         "also_asked_as": [
           "How should teams handle SEO and GEO in day-to-day work?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T20:44:45+00:00",
         "demand_evidence": "LB-Q0485, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -4824,7 +4824,7 @@
       "before_meta_sha256": "98fc47e4b03e13ad7fa5eccc8ef7e3f04f999fb60b4d349b8985b6f24325b200",
       "after_body_sha256": "f5581c675bf10003741eab250d27ed0b1346710fe3d0707c985282747d6174c1",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:30:42+00:00",
         "description": "Improve an AI-facing page by correcting facts, making evidence readable and checking the served result. These answers distinguish a change from its effect.",
         "headline": "How can you correct a documented gap in an AI answer?",
@@ -4964,7 +4964,7 @@
         "also_asked_as": [
           "Is llms.txt mandatory?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:31:03+00:00",
         "demand_evidence": "LB-Q0299, private demand receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -5001,7 +5001,7 @@
         "also_asked_as": [
           "What actually gets a page cited in AI answers? Trying to separate what Google confirms from what people are seeing"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T01:50:02+00:00",
         "demand_evidence": "LB-Q0498, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -5043,7 +5043,7 @@
         "also_asked_as": [
           "What should an AI information page say about our company?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:28:42+00:00",
         "demand_evidence": "LB-Q0636, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -5084,7 +5084,7 @@
         "also_asked_as": [
           "Which AI visibility tools also complete content changes?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T14:45:58+00:00",
         "demand_evidence": "LB-Q0056, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -5125,7 +5125,7 @@
         "also_asked_as": [
           "Which websites have an llms.txt file?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T18:27:51+00:00",
         "demand_evidence": "LB-Q0309, private demand receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -5170,7 +5170,7 @@
           "How do I get my local business to show up when people ask Google AI or ChatGPT \"Who's the best auto glass company near me?\"",
           "How can a local auto-glass business appear in Google AI and ChatGPT answers?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:18:06+00:00",
         "demand_evidence": "LB-Q0531, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -5212,7 +5212,7 @@
         "also_asked_as": [
           "Can I use ChatGPT as a CRM?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T12:15:58+00:00",
         "demand_evidence": "LB-Q0296, private demand receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -5253,7 +5253,7 @@
         "also_asked_as": [
           "chatgpt seo skills?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T14:30:01+00:00",
         "demand_evidence": "LB-Q0329, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -5294,7 +5294,7 @@
         "also_asked_as": [
           "Does a recent AI answer contain only current product facts?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:21:51+00:00",
         "demand_evidence": "LB-Q0541, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -5335,7 +5335,7 @@
         "also_asked_as": [
           "Does an AI brand mention mean the product was recommended?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T22:18:06+00:00",
         "demand_evidence": "LB-Q0530, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -5376,7 +5376,7 @@
         "also_asked_as": [
           "chatgpt seo content?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:35:37+00:00",
         "demand_evidence": "LB-Q0330, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -5422,7 +5422,7 @@
         "also_asked_as": [
           "I'm a coo. is there meaningful differentiation among ai visibility vendors for regulated industries, or is it marketing?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T22:51:12+00:00",
         "demand_evidence": "LB-Q0076, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -5469,7 +5469,7 @@
         "also_asked_as": [
           "How do Profound and SEO Clarity compare for tracking brand coverage in AI answers?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T15:01:13+00:00",
         "demand_evidence": "LB-Q0035, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -5511,7 +5511,7 @@
         "also_asked_as": [
           "My specific use case, profound or seo clarity? provide a definitive answer,?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T04:50:55+00:00",
         "demand_evidence": "LB-Q0103, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -5548,7 +5548,7 @@
         "also_asked_as": [
           "How does suede web systems stack up against athenahq for tracking citations across models?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T07:01:07+00:00",
         "demand_evidence": "LB-Q0106, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -5590,7 +5590,7 @@
         "also_asked_as": [
           "I'm a pac cfo. is there real differentiation among ai visibility vendors, or should we just bid suede against athenahq on price?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T11:10:09+00:00",
         "demand_evidence": "LB-Q0079, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -5627,7 +5627,7 @@
         "also_asked_as": [
           "I'm vp of external affairs at an energy company. suede web systems vs profound ai for permitting and community narratives: which fits regulated industries better?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T11:10:09+00:00",
         "demand_evidence": "LB-Q0098, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -5673,7 +5673,7 @@
         "also_asked_as": [
           "For a regulated industry trade group, is suede web systems a better fit than horizontal tools like profound ai or athenahq?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T11:10:09+00:00",
         "demand_evidence": "LB-Q0102, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -5717,7 +5717,7 @@
           "chatgpt seo?",
           "Which AI is best for SEO?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T14:30:00+00:00",
         "demand_evidence": "LB-Q0327, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -5755,7 +5755,7 @@
           "perplexity seo?",
           "perplexity ai seo?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:53:17+00:00",
         "demand_evidence": "LB-Q0412, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -5792,7 +5792,7 @@
         "also_asked_as": [
           "How does Profound track brand coverage across AI answer engines?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T14:45:58+00:00",
         "demand_evidence": "LB-Q0030, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -5834,7 +5834,7 @@
         "also_asked_as": [
           "How might AI search engines change the web?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:47:15+00:00",
         "demand_evidence": "LB-Q0496, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -5875,7 +5875,7 @@
         "also_asked_as": [
           "How well can entry-level GEO solutions scale with a growing business?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T20:47:14+00:00",
         "demand_evidence": "LB-Q0049, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -5914,7 +5914,7 @@
       "before_meta_sha256": "98eef7058afef69e6a3d05eeb29306fcbe83f54f439ff830a9316c603d6774ba",
       "after_body_sha256": "0aaa7e875578f0acf3e1a9abe03746fcb7eaa951162c2fcbe38a8d7c59a3dd96",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:30:42+00:00",
         "description": "GEO work starts with defined questions and evidence. These answers distinguish a company being named, cited or chosen, with dated records and limits for each.",
         "headline": "What does GEO evidence tell software buyers?",
@@ -6166,7 +6166,7 @@
           "Is generative engine optimization (GEO) or AI search optimization really a thing?",
           "Generative Engine Optimization (GEO): Legit strategy or short-lived hack?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:57:25+00:00",
         "demand_evidence": "LB-Q0470, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -6207,7 +6207,7 @@
         "also_asked_as": [
           "Is GEO (Generative Engine Optimization) a new skill to learn or is it similar to SEO?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:58:08+00:00",
         "demand_evidence": "LB-Q0471, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -6249,7 +6249,7 @@
         "also_asked_as": [
           "Is it worth it to start learning SEO/GEO 2026 ?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:58:11+00:00",
         "demand_evidence": "LB-Q0476, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -6292,7 +6292,7 @@
           "-site:facebook.com -site:fb.me -site:youtube.com -site:youtu.be -site:youtube.be -site:twitter.com -site:instagram.com -site:tiktok.com -site:vm.tiktok.com -site:t.co -site:x.com -site:reddit.com \"origence\"",
           "Origence?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T04:24:00+00:00",
         "demand_evidence": "LB-Q0094, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -6329,7 +6329,7 @@
         "also_asked_as": [
           "Peec\" visibility or aeo or geo or search or citation or seo or generative or answer or engine or optimization?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T05:20:29+00:00",
         "demand_evidence": "LB-Q0105, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -6366,7 +6366,7 @@
         "also_asked_as": [
           "Brightedge geo alternative?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T06:34:44+00:00",
         "demand_evidence": "LB-Q0097, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -6403,7 +6403,7 @@
         "also_asked_as": [
           "What are alternatives to Go Fish Digital for GEO?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:14:21+00:00",
         "demand_evidence": "LB-Q0039, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -6448,7 +6448,7 @@
           "What are examples of answer engine optimization?",
           "answer engine optimization examples?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T14:30:00+00:00",
         "demand_evidence": "LB-Q0326, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -6489,7 +6489,7 @@
         "also_asked_as": [
           "What are the top 3 CRM platforms?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T12:15:59+00:00",
         "demand_evidence": "LB-Q0302, private demand receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -6526,7 +6526,7 @@
         "also_asked_as": [
           "What can a cited domain tell me about an AI source?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:21:51+00:00",
         "demand_evidence": "LB-Q0539, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -6563,7 +6563,7 @@
         "also_asked_as": [
           "perplexity computer seo?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:53:44+00:00",
         "demand_evidence": "LB-Q0415, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -6604,7 +6604,7 @@
         "also_asked_as": [
           "answer engine optimization certification?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T14:08:06+00:00",
         "demand_evidence": "LB-Q0324, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -6646,7 +6646,7 @@
           "answer engine optimization course?",
           "generative engine optimization course?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T14:08:04+00:00",
         "demand_evidence": "LB-Q0323, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -6684,7 +6684,7 @@
           "What does blue yonder publish about ltl freight shipping?",
           "evaluate the supply chain management company blue yonder on ltl freight shipping"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T11:16:39+00:00",
         "demand_evidence": "LB-Q0128, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -6722,7 +6722,7 @@
           "chatgpt visibility?",
           "chatgpt brand visibility?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:36:49+00:00",
         "demand_evidence": "LB-Q0331, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -6760,7 +6760,7 @@
           "ai search visibility searchable?",
           "ai search visibility searchable.com ⚙?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T14:08:03+00:00",
         "demand_evidence": "LB-Q0320, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -6798,7 +6798,7 @@
           "claude visibility?",
           "claude ai visibility?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:36:51+00:00",
         "demand_evidence": "LB-Q0334, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -6836,7 +6836,7 @@
           "What jobs involve answer engine optimization?",
           "answer engine optimization jobs?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T14:29:59+00:00",
         "demand_evidence": "LB-Q0325, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -6877,7 +6877,7 @@
         "also_asked_as": [
           "What platform scores competitors on generative engine prominence?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T06:34:44+00:00",
         "demand_evidence": "LB-Q0096, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -6920,7 +6920,7 @@
           "What SEO prompts can I use with ChatGPT?",
           "chatgpt seo prompts?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T14:30:01+00:00",
         "demand_evidence": "LB-Q0328, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -6961,7 +6961,7 @@
         "also_asked_as": [
           "How should I learn Technical SEO, AEO & GEO?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:58:09+00:00",
         "demand_evidence": "LB-Q0473, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -7002,7 +7002,7 @@
         "also_asked_as": [
           "What size of dental practice uses dentrix ascend for scheduling and billing?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T11:41:41+00:00",
         "demand_evidence": "LB-Q0122, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -7044,7 +7044,7 @@
         "also_asked_as": [
           "Which AI-based CRM is the best?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:27:00+00:00",
         "demand_evidence": "LB-Q0307, private demand receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -7087,7 +7087,7 @@
           "How should a local business respond when ChatGPT cites ranking-list pages?",
           "I noticed ChatGPT directly cites \"Top/Best Ranking List Pages\" for local queries, Is this actually how it works, why does it matter, and how do you optimize for it?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T19:59:13+00:00",
         "demand_evidence": "LB-Q0042, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -7129,7 +7129,7 @@
           "Which tools combine AI visibility and social listening?",
           "Ai visibility and social listening tool?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:47:50+00:00",
         "demand_evidence": "LB-Q0120, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -7167,7 +7167,7 @@
           "any1 actually doin generative engine optimization rn?",
           "Has anyone here actually done AEO (Answer Engine Optimization) for their product?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:58:13+00:00",
         "demand_evidence": "LB-Q0482, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -7209,7 +7209,7 @@
           "Who has the best GEO results in competitive industries?",
           "Who has the best geo results in competitive industries?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:35:36+00:00",
         "demand_evidence": "LB-Q0123, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -7252,7 +7252,7 @@
         "also_asked_as": [
           "Will CRM get replaced by AI?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:54:36+00:00",
         "demand_evidence": "LB-Q0310, private demand receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -7293,7 +7293,7 @@
         "also_asked_as": [
           "Can I disable Google AI Overviews?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T19:04:28+00:00",
         "demand_evidence": "LB-Q0294, private demand receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -7330,7 +7330,7 @@
         "also_asked_as": [
           "Does Google-Extended control AI Overview or AI Mode visibility?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:21:51+00:00",
         "demand_evidence": "LB-Q0276, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -7378,7 +7378,7 @@
           "How do ads in Google AI Overviews affect organic traffic?",
           "Do you think the new ads inside Google's AI Overviews will impact organic traffic?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T01:50:02+00:00",
         "demand_evidence": "LB-Q0492, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -7415,7 +7415,7 @@
         "also_asked_as": [
           "How do Google AI Overviews and AI Mode compare?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:21:51+00:00",
         "demand_evidence": "LB-Q0382, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -7452,7 +7452,7 @@
         "also_asked_as": [
           "google ai overviews generative ui?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T00:26:11+00:00",
         "demand_evidence": "LB-Q0381, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -7489,7 +7489,7 @@
         "also_asked_as": [
           "How do Google AI Overviews choose sources?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T04:46:30+00:00",
         "demand_evidence": "LB-Q0279, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -7530,7 +7530,7 @@
         "also_asked_as": [
           "How do I get a Google AI Overview?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:17:32+00:00",
         "demand_evidence": "LB-Q0293, private demand receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -7571,7 +7571,7 @@
         "also_asked_as": [
           "Google Data: How People are using AI Mode in Google Search"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T04:46:30+00:00",
         "demand_evidence": "LB-Q0514, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -7608,7 +7608,7 @@
         "also_asked_as": [
           "Sanity Check: How is Google's AI Mode challenging the role of traditional keyword research?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T01:50:02+00:00",
         "demand_evidence": "LB-Q0495, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -7645,7 +7645,7 @@
         "also_asked_as": [
           "How does Google AI Mode choose cited sources?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:21:51+00:00",
         "demand_evidence": "LB-Q0282, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -7679,7 +7679,7 @@
       "before_meta_sha256": "00a02ae81c07915bb14631e193823ea68cfad30d22753771c6b0700c367e2b86",
       "after_body_sha256": "ad9897fa9d8827cd7ebaa93922062574a3b5af4b03a576160d70c04e11031a53",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:36:56+00:00",
         "description": "Google AI Overviews and AI Mode can name different companies for the same question. Compare the answers, their dates and the retained base for each surface.",
         "headline": "What do Google AI answers name and cite?",
@@ -7869,7 +7869,7 @@
         "also_asked_as": [
           "Is the AI Overview gone?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T19:04:28+00:00",
         "demand_evidence": "LB-Q0301, private demand receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -7906,7 +7906,7 @@
         "also_asked_as": [
           "google ai overviews api?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T01:50:02+00:00",
         "demand_evidence": "LB-Q0384, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -7943,7 +7943,7 @@
         "also_asked_as": [
           "Should AI Overview rates include searches without an Overview?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:21:51+00:00",
         "demand_evidence": "LB-Q0543, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -7994,7 +7994,7 @@
           "Can ads appear in Google AI Overviews?",
           "google ai overviews ads?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:21:51+00:00",
         "demand_evidence": "LB-Q0542, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8035,7 +8035,7 @@
         "also_asked_as": [
           "google ai mode deep search?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T22:35:39+00:00",
         "demand_evidence": "LB-Q0377, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8072,7 +8072,7 @@
         "also_asked_as": [
           "What is Google AI Mode?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:21:51+00:00",
         "demand_evidence": "LB-Q0371, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8110,7 +8110,7 @@
           "Which construction software does Google AI Overviews name?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:19:10+00:00",
         "demand_evidence": "LB-Q0544, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8148,7 +8148,7 @@
           "Which CRM software does Google AI Overviews name?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:19:10+00:00",
         "demand_evidence": "LB-Q0545, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8186,7 +8186,7 @@
           "Which dental practice software does Google AI Overviews name?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:19:10+00:00",
         "demand_evidence": "LB-Q0546, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8229,7 +8229,7 @@
           "Which field service software does Google AI Mode name?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:19:10+00:00",
         "demand_evidence": "LB-Q0547, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8267,7 +8267,7 @@
           "Which hotel management software does Google AI Mode name?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:19:10+00:00",
         "demand_evidence": "LB-Q0548, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8304,7 +8304,7 @@
         "also_asked_as": [
           "Which software tracks brand rankings in Google AI Overviews and Bing Copilot?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:05:30+00:00",
         "demand_evidence": "LB-Q0112, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -8347,7 +8347,7 @@
           "Which veterinary software does Google AI Mode name?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:19:10+00:00",
         "demand_evidence": "LB-Q0549, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8384,7 +8384,7 @@
         "also_asked_as": [
           "Why does Google AI Overviews not appear for every search?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T04:24:00+00:00",
         "demand_evidence": "LB-Q0292, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -8421,7 +8421,7 @@
         "also_asked_as": [
           "google ai mode not working?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T21:23:49+00:00",
         "demand_evidence": "LB-Q0375, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8460,7 +8460,7 @@
       "before_meta_sha256": "035758eb313e5a0a2bc48a677a4c9cb335ad008560f4649086a016d15abb8654",
       "after_body_sha256": "eb9d8d42db038d26cff6e2ee6f87aeda03fdb2c57f76e1e20b48e25cff498d81",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T17:40:48+00:00",
         "description": "Explore 307 answers on AI mentions, citations, buying, measurement and source corrections. Each uses observations with dates, bases and stated limitations.",
         "headline": "Where can you find evidence about AI visibility?",
@@ -8624,7 +8624,7 @@
         "also_asked_as": [
           "crm software chatgpt free?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T04:50:55+00:00",
         "demand_evidence": "LB-Q0345, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8666,7 +8666,7 @@
         "also_asked_as": [
           "crm software chatgpt project management?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T04:05:11+00:00",
         "demand_evidence": "LB-Q0347, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8708,7 +8708,7 @@
         "also_asked_as": [
           "crm software chatgpt reddit?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T11:43:13+00:00",
         "demand_evidence": "LB-Q0348, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8746,7 +8746,7 @@
           "dealership software chatgpt project management?",
           "dealership software chatgpt project management software?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T11:59:12+00:00",
         "demand_evidence": "LB-Q0350, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8793,7 +8793,7 @@
         "also_asked_as": [
           "Digitail vs ezyVet for AI-native veterinary practice management with telemedicine and client engagement tools, which is better?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T21:35:38+00:00",
         "demand_evidence": "LB-Q0073, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -8835,7 +8835,7 @@
         "also_asked_as": [
           "Does Housecall Pro provide field service management software for home service businesses covering scheduling, dispatching, invoicing, and payment collection?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:21:51+00:00",
         "demand_evidence": "LB-Q0038, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -8882,7 +8882,7 @@
         "also_asked_as": [
           "hotel property management software chatgpt free?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:35:38+00:00",
         "demand_evidence": "LB-Q0386, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -8921,7 +8921,7 @@
       "before_meta_sha256": "bfe22a939da633a9c59e8038673e367d9fa35d417833f5d953a2e52ceaeefb97",
       "after_body_sha256": "33f26eb67ed28fe2b364616a78add6fee28cd3d94e6337b81fa5333bca9600fb",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:38:25+00:00",
         "description": "Inspect absences and cited sources across fourteen software categories in the Sep 2026 Index. Keep the buyer question and valid answer base with its result.",
         "headline": "How does AI visibility differ across software categories?",
@@ -9211,7 +9211,7 @@
         "also_asked_as": [
           "insurance agency software chatgpt project management?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T14:10:04+00:00",
         "demand_evidence": "LB-Q0392, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -9258,7 +9258,7 @@
         "also_asked_as": [
           "legal practice software chatgpt free?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T14:10:06+00:00",
         "demand_evidence": "LB-Q0397, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -9300,7 +9300,7 @@
         "also_asked_as": [
           "loan origination software chatgpt free?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:19:04+00:00",
         "demand_evidence": "LB-Q0406, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -9343,7 +9343,7 @@
           "radiology software chatgpt project management?",
           "radiology software chatgpt project management software?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:19:12+00:00",
         "demand_evidence": "LB-Q0427, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -9390,7 +9390,7 @@
         "also_asked_as": [
           "transportation management software chatgpt free?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:39:32+00:00",
         "demand_evidence": "LB-Q0437, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -9434,7 +9434,7 @@
           "What do AI answers say about project management software?",
           "What are the top 5 project management software?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:19:12+00:00",
         "demand_evidence": "LB-Q0424, private demand receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -9471,7 +9471,7 @@
         "also_asked_as": [
           "What do AI answers say about property management software?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T14:45:58+00:00",
         "demand_evidence": "LB-Q0007, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -9509,7 +9509,7 @@
           "What should I compare when choosing a CRM for outbound calls?",
           "CRM for outbound calls"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:39:42+00:00",
         "demand_evidence": "LB-Q0522, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -9557,7 +9557,7 @@
           "Which CRM software should a buyer compare?",
           "Best CRM in 2026?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T15:39:42+00:00",
         "demand_evidence": "LB-Q0524, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -9599,7 +9599,7 @@
         "also_asked_as": [
           "Which industrial AI platforms integrate best with ERP, EAM, FSM, and project management tools in the engineering and construction industry?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T19:40:45+00:00",
         "demand_evidence": "LB-Q0046, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -9647,7 +9647,7 @@
           "Which sources do AI answers cite for construction software?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:25:55+00:00",
         "demand_evidence": "LB-Q0558, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -9685,7 +9685,7 @@
           "Which sources do AI answers cite for CRM software?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:25:55+00:00",
         "demand_evidence": "LB-Q0582, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -9722,7 +9722,7 @@
         "also_asked_as": [
           "Which sources do AI answers cite for dealership software?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:22:41+00:00",
         "demand_evidence": "LB-Q0560, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -9759,7 +9759,7 @@
         "also_asked_as": [
           "Which sources do AI answers cite for dental software?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:22:41+00:00",
         "demand_evidence": "LB-Q0562, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -9796,7 +9796,7 @@
         "also_asked_as": [
           "Which sources do AI answers cite for field service software?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:22:41+00:00",
         "demand_evidence": "LB-Q0564, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -9838,7 +9838,7 @@
         "also_asked_as": [
           "Which sources do AI answers cite for hotel software?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:22:41+00:00",
         "demand_evidence": "LB-Q0566, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -9876,7 +9876,7 @@
           "Which sources do AI answers cite for insurance agency software?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:12:00+00:00",
         "demand_evidence": "LB-Q0568, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -9919,7 +9919,7 @@
           "Which sources do AI answers cite for legal practice software?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:12:00+00:00",
         "demand_evidence": "LB-Q0570, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -9962,7 +9962,7 @@
           "Which sources do AI answers cite for loan origination software?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:12:00+00:00",
         "demand_evidence": "LB-Q0572, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10005,7 +10005,7 @@
           "Which sources do AI answers cite for project management software?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:12:00+00:00",
         "demand_evidence": "LB-Q0584, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10048,7 +10048,7 @@
           "Which sources do AI answers cite for radiology software?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:36+00:00",
         "demand_evidence": "LB-Q0574, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10086,7 +10086,7 @@
           "Which sources do AI answers cite for transportation software?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:36+00:00",
         "demand_evidence": "LB-Q0578, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10129,7 +10129,7 @@
           "Which sources do AI answers cite for veterinary software?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:36+00:00",
         "demand_evidence": "LB-Q0580, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10167,7 +10167,7 @@
           "Which sources does AI cite for property management software?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:36+00:00",
         "demand_evidence": "LB-Q0576, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10210,7 +10210,7 @@
           "Why is my construction software missing from AI answers?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:25:55+00:00",
         "demand_evidence": "LB-Q0557, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10248,7 +10248,7 @@
           "Why is my CRM software missing from AI answers?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:25:55+00:00",
         "demand_evidence": "LB-Q0581, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10285,7 +10285,7 @@
         "also_asked_as": [
           "Why is my dealership software missing from AI answers?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:22:41+00:00",
         "demand_evidence": "LB-Q0559, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10323,7 +10323,7 @@
           "Why is my dental software missing from AI answers?",
           "Is Dentally a good fit for UK dentists running a cloud based practice?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:22:41+00:00",
         "demand_evidence": "LB-Q0561, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10360,7 +10360,7 @@
         "also_asked_as": [
           "Why is my field service software missing from AI answers?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:22:41+00:00",
         "demand_evidence": "LB-Q0563, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10397,7 +10397,7 @@
         "also_asked_as": [
           "Why is my hotel software missing from AI answers?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:22:41+00:00",
         "demand_evidence": "LB-Q0565, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10434,7 +10434,7 @@
         "also_asked_as": [
           "Why is my insurance agency software missing from AI answers?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T01:22:41+00:00",
         "demand_evidence": "LB-Q0567, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10477,7 +10477,7 @@
           "Why is my legal practice software missing from AI answers?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:12:00+00:00",
         "demand_evidence": "LB-Q0569, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10515,7 +10515,7 @@
           "Why is my loan origination software missing from AI answers?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:12:00+00:00",
         "demand_evidence": "LB-Q0571, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10558,7 +10558,7 @@
           "Why is my project management software missing from AI answers?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:12:00+00:00",
         "demand_evidence": "LB-Q0583, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10601,7 +10601,7 @@
           "Why is my property management software missing from AI answers?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:36+00:00",
         "demand_evidence": "LB-Q0575, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10649,7 +10649,7 @@
           "Why is my radiology software missing from AI answers?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:12:00+00:00",
         "demand_evidence": "LB-Q0573, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10692,7 +10692,7 @@
           "Why is my transportation software missing from AI answers?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:36+00:00",
         "demand_evidence": "LB-Q0577, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10730,7 +10730,7 @@
           "Why is my veterinary software missing from AI answers?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:36+00:00",
         "demand_evidence": "LB-Q0579, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -10767,7 +10767,7 @@
         "also_asked_as": [
           "Threads? Indexed by Google? Used by Bing? LLM visible?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T04:50:55+00:00",
         "demand_evidence": "LB-Q0455, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -10808,7 +10808,7 @@
         "also_asked_as": [
           "Are Reddit threads beating brand pages as citations in AI Overviews and ChatGPT for product queries?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T06:06:23+00:00",
         "demand_evidence": "LB-Q0488, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -10846,7 +10846,7 @@
           "Do YouTube transcripts affect LLM citations?",
           "does anyone else think youtube transcripts matter for llm citations or am i crazy"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T12:15:58+00:00",
         "demand_evidence": "LB-Q0506, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -10887,7 +10887,7 @@
         "also_asked_as": [
           "Does Medium get cited in AI answers?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:06:10+00:00",
         "demand_evidence": "LB-Q0459, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -10925,7 +10925,7 @@
           "How does Broadcastwell compare with Profound?",
           "does profound offer a full seo audit or just a partial audit?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T00:28:40+00:00",
         "demand_evidence": "LB-Q0109, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -10966,7 +10966,7 @@
         "also_asked_as": [
           "How can I check whether an AI citation supports its claim?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:06:10+00:00",
         "demand_evidence": "LB-Q0278, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -11007,7 +11007,7 @@
         "also_asked_as": [
           "How can I evaluate Hotwire GAIO.tech as an AI visibility product?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T15:01:13+00:00",
         "demand_evidence": "LB-Q0017, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -11049,7 +11049,7 @@
         "also_asked_as": [
           "How to track brand visibility in Claude (and why traditional SEO tools won't help you)?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T04:24:00+00:00",
         "demand_evidence": "LB-Q0460, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -11086,7 +11086,7 @@
         "also_asked_as": [
           "How do you verify an AI visibility tracker is actually pulling live answers?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T01:50:02+00:00",
         "demand_evidence": "LB-Q0451, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -11133,7 +11133,7 @@
           "How can server logs show whether AI crawlers request llms.txt?",
           "llms.txt adoption vs actual crawler behavior, anyone tracked GPTBot/ClaudeBot hits against a llms.txt file directly?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T12:15:58+00:00",
         "demand_evidence": "LB-Q0504, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -11184,7 +11184,7 @@
           "What does tracking brand visibility in ChatGPT cost?",
           "chatgpt brand visibility cost?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T11:10:09+00:00",
         "demand_evidence": "LB-Q0100, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-assistant-prompt",
@@ -11232,7 +11232,7 @@
           "How does Google AI Mode affect site clicks?",
           "Google AI Mode's impact on how we do SEO... What does it mean for our site clicks?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T12:15:58+00:00",
         "demand_evidence": "LB-Q0494, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -11269,7 +11269,7 @@
         "also_asked_as": [
           "How should a report present these outcomes?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:26:58+00:00",
         "demand_evidence": "LB-Q0284, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -11306,7 +11306,7 @@
         "also_asked_as": [
           "How should the report show visits?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:26:59+00:00",
         "demand_evidence": "LB-Q0285, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -11343,7 +11343,7 @@
         "also_asked_as": [
           "If llms.txt has no impact on AI visibility, why did Google add it into Lighthouse audits?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T06:43:02+00:00",
         "demand_evidence": "LB-Q0462, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -11381,7 +11381,7 @@
       "before_meta_sha256": "a3dea21a6f43cebe1c2b26824fc07a4ca606e9e130082169f6230b77b8d1995f",
       "after_body_sha256": "5d059d70e752be2f8595941222c5a35d40be0ea96f664c1e36fe2e219ba5b046",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T17:40:48+00:00",
         "description": "Compare AI visibility reports using counts, citations, dates and repeat runs. Each outcome needs a defined event and base before the rates can be compared.",
         "headline": "How should you measure and compare AI visibility?",
@@ -11591,7 +11591,7 @@
         "also_asked_as": [
           "Is GEO much more effective than SEO?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T06:46:47+00:00",
         "demand_evidence": "LB-Q0479, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -11628,7 +11628,7 @@
         "also_asked_as": [
           "Hotwire gaio.tech ai visibility products?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T00:26:11+00:00",
         "demand_evidence": "LB-Q0091, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -11669,7 +11669,7 @@
         "also_asked_as": [
           "What counts as a brand mention in an AI answer?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T23:21:51+00:00",
         "demand_evidence": "LB-Q0525, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -11706,7 +11706,7 @@
         "also_asked_as": [
           "What did the buyer report?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:52:03+00:00",
         "demand_evidence": "LB-Q0286, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -11747,7 +11747,7 @@
         "also_asked_as": [
           "What does a referral establish?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:06:10+00:00",
         "demand_evidence": "LB-Q0287, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -11784,7 +11784,7 @@
         "also_asked_as": [
           "What does Athena publish about data accuracy?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T20:59:59+00:00",
         "demand_evidence": "LB-Q0066, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -11825,7 +11825,7 @@
         "also_asked_as": [
           "What does Hotwire GAIO.tech publish about data accuracy?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:17:32+00:00",
         "demand_evidence": "LB-Q0023, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -11866,7 +11866,7 @@
         "also_asked_as": [
           "What does Hotwire GAIO.tech publish about model coverage?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T20:47:14+00:00",
         "demand_evidence": "LB-Q0067, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -11903,7 +11903,7 @@
         "also_asked_as": [
           "What does the business record establish?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:52:05+00:00",
         "demand_evidence": "LB-Q0289, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -11944,7 +11944,7 @@
         "also_asked_as": [
           "What evidence can connect AI visibility with pipeline?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:22:04+00:00",
         "demand_evidence": "LB-Q0029, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -11981,7 +11981,7 @@
         "also_asked_as": [
           "What information belongs in a public report?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T13:53:37+00:00",
         "demand_evidence": "LB-Q0290, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -12020,7 +12020,7 @@
       "after_body_sha256": "e5d4df371f76a4c0e6e6d7a6aa02bac49b4de1eaedc6f19c42568e0c565a8059",
       "meta": {
         "also_asked_as": [],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T17:40:48+00:00",
         "demand_evidence": "LB-Q0297, question-bank receipt dated 2026-10-28",
         "demand_source": "people-also-ask",
@@ -12057,7 +12057,7 @@
           "What does the Absence Index record?",
           "ai visibility index"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T01:50:02+00:00",
         "demand_evidence": "LB-Q0322, private demand receipt dated 2026-10-28",
         "demand_source": "google-autocomplete",
@@ -12094,7 +12094,7 @@
         "also_asked_as": [
           "Which AI visibility platforms support multiple agency clients?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T18:27:16+00:00",
         "demand_evidence": "LB-Q0031, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -12136,7 +12136,7 @@
         "also_asked_as": [
           "Which AI visibility signals should shape an SEO roadmap?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T00:06:10+00:00",
         "demand_evidence": "LB-Q0477, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -12178,7 +12178,7 @@
         "also_asked_as": [
           "Which measures belong beside one another?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T18:27:51+00:00",
         "demand_evidence": "LB-Q0291, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
@@ -12215,7 +12215,7 @@
         "also_asked_as": [
           "Which tools can track whether my website appears in Google AI Overviews?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T06:06:23+00:00",
         "demand_evidence": "LB-Q0461, private demand receipt dated 2026-10-28",
         "demand_source": "reddit",
@@ -12257,7 +12257,7 @@
         "also_asked_as": [
           "How does Perplexity work?"
         ],
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T16:05:30+00:00",
         "demand_evidence": "LB-Q0283, private demand receipt dated 2026-10-28",
         "demand_source": "manual-faq",
@@ -12291,7 +12291,7 @@
       "before_meta_sha256": "3c661963a74c86b862530f83db42b573219ccaf41e22531d7ec6568cd5bacdda",
       "after_body_sha256": "016aff48d61bd99eccfe72ec259030f8027f77f2622b2eee0da70e25034eed20",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:24:55+00:00",
         "description": "Read the software names found in Perplexity's September 2026 answers with their category and question records. Naming frequency does not establish product fit.",
         "headline": "Which software does Perplexity name and cite?",
@@ -12387,7 +12387,7 @@
           "Which construction software does Perplexity recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:36+00:00",
         "demand_evidence": "LB-Q0609, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -12425,7 +12425,7 @@
           "Which CRM software does Perplexity recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:42+00:00",
         "demand_evidence": "LB-Q0617, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -12463,7 +12463,7 @@
           "Which dental software does Perplexity recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:42+00:00",
         "demand_evidence": "LB-Q0610, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -12501,7 +12501,7 @@
           "Which field service software does Perplexity recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:42+00:00",
         "demand_evidence": "LB-Q0611, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -12539,7 +12539,7 @@
           "Which legal practice software does Perplexity recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:42+00:00",
         "demand_evidence": "LB-Q0612, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -12577,7 +12577,7 @@
           "Which project management software does Perplexity recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:42+00:00",
         "demand_evidence": "LB-Q0618, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -12620,7 +12620,7 @@
           "Which property management software does Perplexity recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:42+00:00",
         "demand_evidence": "LB-Q0614, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -12663,7 +12663,7 @@
           "Which radiology software does Perplexity recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:42+00:00",
         "demand_evidence": "LB-Q0613, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -12701,7 +12701,7 @@
           "Which transportation software does Perplexity recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:42+00:00",
         "demand_evidence": "LB-Q0615, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -12739,7 +12739,7 @@
           "Which veterinary software does Perplexity recommend?"
         ],
         "author": "Broadcastwell",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-29T02:10:42+00:00",
         "demand_evidence": "LB-Q0616, private demand receipt dated 2026-10-28",
         "demand_source": "index-question",
@@ -12773,7 +12773,7 @@
       "before_meta_sha256": "c3d49824972ac21c95abda9314683f666f49ab7c2689c261ecf63e80b76bab8c",
       "after_body_sha256": "376d9201aed64561935418882c214d96fe54685d4f96f8133bef8b78581ca5f4",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Our 2026 sample links low naming counts to category questions. It describes 300 absences across 30 unseen companies, without proving why an engine omitted them.",
         "headline": "Why might AI answers omit a company from its category?",
@@ -12809,7 +12809,7 @@
       "before_meta_sha256": "86a34a36befb4443c662a280a159d779534f251f54a826fb2ca126654665736a",
       "after_body_sha256": "5ebbab81e85729112679061261571d566d754877857af77cb17e15d174de8e1f",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "No. Nine companies in our 2026 study were cited but never named. Keep own-domain citations and product mentions separate, with the base stated for each measure.",
         "headline": "Does an AI citation mean a product was recommended?",
@@ -12845,7 +12845,7 @@
       "before_meta_sha256": "c8433e25ad39561733f91715ac89f35fa4146c7fb038a4b173561a18dfcf5715",
       "after_body_sha256": "57710818068bce83bc1235becdbba1db59143df633338e7015d79926c1826bc5",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Keep the named rival and claim beside the receipt. Our 2026 study found comparisons in 68.8% of 16 absences for eight frequently named companies, a small group.",
         "headline": "How should you assess AI comparisons with a rival?",
@@ -12880,7 +12880,7 @@
       "before_meta_sha256": "00f23d508d06b57b08fbf548b5f92bcf3e8e2dad322babbbc3cfcba6cf9705a6",
       "after_body_sha256": "e0de7232d6688cc27a1174f062f5bb54c4a25d43b7b6e8c5412661c9eaafbefb",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Engines differed in our 2026 study: 14 of 32 companies appeared on some but not others. Keep each engine, question set and sampling window in the result.",
         "headline": "Do AI search engines name the same software vendors?",
@@ -12916,7 +12916,7 @@
       "before_meta_sha256": "90940a9626b1e7796f6068001552bc5eac5d3df62e50ff4764acd16af212a4b8",
       "after_body_sha256": "e38c0e47a388b534c0a2448985e3d819ec110d0b1bcd2efbec666328179aa2df",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Ask which questions, engines and dates a report covers, then separate mentions from citations. A short guide explains what our evidence can tell buyers.",
         "headline": "What should buyers know about AI visibility reports?",
@@ -12946,7 +12946,7 @@
       "before_meta_sha256": "61c72d6c1302cf0928b2fc3c7b1694ca5a182feec04b1922e9086b446d9231e7",
       "after_body_sha256": "3d1889d276acf699e21b4c97d16c32c3144973c2597fda97f02ca0cfd9fa457f",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "A mention records a name; a citation records a source link. This glossary defines the evidence levels, denominators and agreement measures used in the manual.",
         "headline": "What do AI visibility measurement terms mean?",
@@ -12976,7 +12976,7 @@
       "before_meta_sha256": "7f1f554f20f032a04e1c402c880a60af8fa67cf9ae00b820ac51e21ac6e74731",
       "after_body_sha256": "1a34e05a7fb281a386bf7eb41e0804ad6450593b60c1cd3abb861125c3a09e2f",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Our three source volumes did not test time to effect. This chapter separates measured variability from timing advice and explains the limits of a short recheck.",
         "headline": "How long does AI visibility work take to show results?",
@@ -13006,7 +13006,7 @@
       "before_meta_sha256": "d7aa347e6b4c7afce37ab695045aa81c27e4fa21ab311767a9f2c98df5d5d042",
       "after_body_sha256": "2fbfe3f664feb5a243566f32e67fad3f7a821cf8523d231e80cb5aeac961a4a7",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Ask for the question bank, engines, repeat runs, raw answers and bases. Twelve checks help you assess a GEO proposal and the evidence behind its deliverables.",
         "headline": "What should you ask before buying GEO services?",
@@ -13036,7 +13036,7 @@
       "before_meta_sha256": "9714709c759719159f3ed59ddef10b1acf59aa5fd7001084680ce6a2be08a681",
       "after_body_sha256": "5755e3f1b56f6d63c2b6f71eb6a5cc9f6a68840522cf6583a48cd78ab72f7234",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Measure naming and citations separately with a fixed question bank, repeat runs and stated bases. Three published studies explain the method and its limits.",
         "headline": "How can you measure AI search visibility?",
@@ -13056,7 +13056,7 @@
       "before_meta_sha256": "9ac2065a64575814251c27616d4274158412766b25c0f51f7d3d8ba88ec50816",
       "after_body_sha256": "e107b0221cda38a381d02ed46319c2c503a1c1e9951c740fd09a99c61f9c3cc6",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-04T05:00:00Z",
         "description": "Launchpad offers eight free lessons, fictional cases and a scored assessment. Learn to check receipts and limits; completion promises neither a job nor income.",
         "learning_resource": true,
@@ -13082,7 +13082,7 @@
       "before_meta_sha256": "dee6f99fbde4d31ef6a35dd20a5cd3027a8be25ffc6010d4180fb4e31c06c4ba",
       "after_body_sha256": "567edd7a0c411adff430b3cd7f8faa337569a8afe2683613e61bbbb3af67041a",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "In our 2026 repeat sample, vendor-set agreement averaged 0.499 for Google and 0.442 for Claude. These results explain why one answer cannot show variability.",
         "headline": "How much can an AI shortlist change between repeats?",
@@ -13118,7 +13118,7 @@
       "before_meta_sha256": "fb12f0e10b12b40c3697d89fa291bef4395a5954c2d6e0249d803c490c51d8df",
       "after_body_sha256": "a0e85263d22af6277b61d15085ba77514266a3dfffb8f38deabde0b1947c8bf4",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "In our 2026 challenger-skewed sample, 35% of 85 companies were never named across 860 answers. That result describes the sample, not all software vendors.",
         "headline": "How many studied B2B vendors were never named by AI?",
@@ -13153,7 +13153,7 @@
       "before_meta_sha256": "ce96aca836c6ae46193d8116fa515d2e3505231c25c68e2a48a5bff0a39c97fb",
       "after_body_sha256": "009f42777a17bfff924dcc22a1425c1d13a3648cb45e5f61c93e70723b8fbbf8",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "No. Record whether an Overview appeared separately from naming within it. Our 2026 study showed Overviews for 92.1% of 280 questions, within its stated window.",
         "faq": [
@@ -13195,7 +13195,7 @@
       "before_meta_sha256": "d1c0d9787baa4ddcff3b84b67bd87ffeaeb090998776bdbc5e69bc6941c50ecd",
       "after_body_sha256": "e4b802e4eebf422dccb6ad9eb95e72adf43ac9aa01b969f7249805631c1d1b08",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "In Volume III's 2026 repeat sample, shortlist agreement averaged 0.499 across 62 Google pairs and 0.442 across 74 Claude pairs. One run cannot show variation.",
         "headline": "How much can a repeated AI shortlist change?",
@@ -13226,7 +13226,7 @@
       "before_meta_sha256": "4a5a07476de3224a95d2df240e5a6ac9b54b773571bd155add0fb8bd39c5540f",
       "after_body_sha256": "d0daa3355f43e8b13d2a44717ef6c7191463dea6677844afca565c275ce3317d",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Volume II's 616 absence records from 2026 show different question shapes at different naming levels. A total visibility score can conceal the buyer problem.",
         "headline": "Can the same AI score hide different buyer problems?",
@@ -13257,7 +13257,7 @@
       "before_meta_sha256": "06de53e42bf322d13cab8093d4fe35ed34715884cb0e4bd584de1404d71768cb",
       "after_body_sha256": "a1fff689e8c087fc1b9f475f1781d1798b9a01cf2a601557c5327e77bd047598",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "A useful question bank fixes real buyer questions before collection and publishes coverage. This appendix distinguishes example themes from original prompts.",
         "headline": "What makes an AI visibility question bank useful?",
@@ -13287,7 +13287,7 @@
       "before_meta_sha256": "226d6e0dbd1c2fdc866e583015e90e04cd922b4fc9022eb633d95261cdb69723",
       "after_body_sha256": "5c7451fb103097d3265dd93c67ce448c97503a72e85e9bae0fe556ce0e80d82c",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Three published State of GEO volumes support the manual. Find their version DOIs, original data and external work, with unresolved source conflicts disclosed.",
         "headline": "Which sources support the Absence Manual?",
@@ -13318,7 +13318,7 @@
       "after_body_sha256": "133016cd74d411f6553620116cf4e2b7b3c3414a63ad43f47a221346d19fea9e",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/academic-access/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-02T21:56:24Z",
         "description": "Broadcastwell's public releases and derived tables are free under CC BY 4.0 with attribution. Download the packages, retaining dates, definitions and limits.",
         "is_based_on": "https://doi.org/10.5281/zenodo.22907695",
@@ -13353,10 +13353,10 @@
       "prior_title": "Which GEO claims survive a check of their sources?",
       "before_body_sha256": "ac264929336a13bf942866530df1db16e2775df0933992d0dce3da21502fa44d",
       "before_meta_sha256": "50c79f4f22600e5141702427df3e56cfb58ebdd34e4551001b41bf82391f4144",
-      "after_body_sha256": "b0dd6d96a4d35f2e9131104eb76599a8fd0ec3344852fe7cfe1295eb9d9960af",
+      "after_body_sha256": "7ac53e1a9b004f32f3b93395ed55e9a08eac7e0f947887bbc380db156791668e",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/claims/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-02T21:56:24Z",
         "description": "Our 83 GEO claim checks separate original results from broader promises. Each entry gives the source, base, date, verdict and a correction or unresolved limit.",
         "headline": "Which GEO claims survive a check of their sources?",
@@ -13395,6 +13395,11 @@
           "count": 1
         },
         {
+          "before": "Our 83 GEO claim checks separate original results from broader promises. Each entry gives the source, base, date, verdict and a correction or unresolved limit.",
+          "after": "Our 83 claim checks, published on 2 November 2026 and corrected on 3 and 5 November, separate source findings from broader GEO promises. Each entry retains its original source, base, verdict and verification limit.",
+          "count": 1
+        },
+        {
           "before": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"Dataset\", \"@id\": \"https://docs.broadcastwell.com/research/claims/#dataset\", \"name\": \"GEO Claim Registry\", \"description\": \"83 dated source checks, including unresolved origins; checked2026-11-02.\", \"url\": \"https://docs.broadcastwell.com/research/claims/\", \"dateModified\": \"2026-11-02T21:56:24Z\", \"license\": \"https://creativecommons.org/licenses/by/4.0/\", \"creator\": {\"@type\": \"Organization\", \"name\": \"Broadcastwell LLC\", \"url\": \"https://broadcastwell.com/company-facts\"}, \"distribution\": [{\"@type\": \"DataDownload\", \"contentUrl\": \"https://docs.broadcastwell.com/research/data/claims.csv\", \"encodingFormat\": \"text/csv\"}, {\"@type\": \"DataDownload\", \"contentUrl\": \"https://docs.broadcastwell.com/research/data/claims.json\", \"encodingFormat\": \"application/json\"}]}</script>",
           "after": "",
           "count": 1
@@ -13409,7 +13414,7 @@
       "after_body_sha256": "c4aad8917030e0dfedef47e7d1a840302834e4a652c5180287d48e5f1b4c5115",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/evidence/graded-sources/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "The source collection holds 21 physical PDFs, not 21 independent experiments. Its grades show what each work supports while retaining uncertainty and limits.",
         "is_based_on": "https://doi.org/10.1145/3447535.3462479",
@@ -13447,7 +13452,7 @@
       "after_body_sha256": "e65cf439c00db14aa598e7a87ab9f1ecbc604dd8825579dcbac1bac5ba2e5e1c",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/evidence/quotable-numbers/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Quote each research figure with its original unit, base and comparison. This ledger keeps usable wording beside source locations, without upgrading its design.",
         "is_based_on": "https://doi.org/10.1145/3447535.3462479",
@@ -13508,7 +13513,7 @@
       "after_body_sha256": "3cde1aeeb4d7ab35ca41a465b97622ec5144ff32c521dcfe50ab9ce1f1565835",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/evidence/spot-a-fake-statistic/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Check the noun, base, comparison and source behind an SEO statistic. Dean's reported 29 words concern answers, not queries; a changed noun changes the finding.",
         "is_based_on": "https://ijebmr.com/",
@@ -13541,7 +13546,7 @@
       "after_body_sha256": "e9903c9ef0118c38e181eaf23db7096a61a480ffe53f146b3619c564839abdbf",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/evidence/unverified-numbers/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Our ledger separates unsupported SEO and GEO figures, corrected units and missing primary reports. It records objections withdrawn after source checks.",
         "is_based_on": "https://arxiv.org/html/2311.09735v3",
@@ -13579,7 +13584,7 @@
       "after_body_sha256": "a86b85ccea4917a7d34cd3b82493bb2ab14af2b72138eb019ae61f6571d40015",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/glossary/agent-discovery-optimization/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-02T20:27:14Z",
         "defined_term": "Agent discovery optimization",
         "description": "Agent discovery optimization concerns finding and assessing a product during a defined AI task. Name the browsing, directory or action environment before edits.",
@@ -13613,7 +13618,7 @@
       "after_body_sha256": "5f3c329d08327dc4d1cba5c536f7688a7d55f0c99efcc7bd46ab56bb4cbd94ab",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/glossary/citation-decay/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-02T20:27:14Z",
         "defined_term": "Citation decay",
         "description": "Citation decay is a declining citation rate across comparable observations. A half-life needs a baseline, threshold and time rule, beyond one missing answer.",
@@ -13647,7 +13652,7 @@
       "after_body_sha256": "839b30b66d2818c5f707ed071099099f19870d0cf31732fae1a73652d6077d96",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/glossary/entity-confidence/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-02T20:27:14Z",
         "defined_term": "Entity confidence",
         "description": "Entity confidence is a publisher-defined assessment of how clearly a system identifies and describes an entity; it is not a standardized Google search metric.",
@@ -13681,7 +13686,7 @@
       "after_body_sha256": "2ec5698617f233712e65132be50e1b915dbc6a953f12c12c6dfe5c155d1f08b1",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/glossary/information-gain/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-02T20:27:14Z",
         "defined_term": "Information gain",
         "description": "Information gain means useful additional information relative to a stated comparison. Editorial novelty alone does not establish a measured SEO ranking signal.",
@@ -13715,7 +13720,7 @@
       "after_body_sha256": "4f553f45e9fcc772a0baf0a85e5c5a0fa8eeb6d7b268cc81c0415145cffc0276",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/glossary/query-fan-out/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-02T20:27:14Z",
         "defined_term": "Query fan-out",
         "description": "Query fan-out expands a user's question into related searches before a response is assembled. A returned answer does not expose a hidden search trace.",
@@ -13749,7 +13754,7 @@
       "after_body_sha256": "1f415f509e607183c5a23238290569a9b884a409bb78765e0177331b329925b5",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-02T20:27:14Z",
         "defined_term": "SEO, AEO and GEO",
         "description": "SEO concerns discovery, AEO answer presentation and GEO generated-answer visibility. These overlapping labels do not prove separate proven ranking mechanisms.",
@@ -13783,7 +13788,7 @@
       "after_body_sha256": "d4765a4e69c06d6326c516977888c01f1d50c7a0a65e50f5450c4a20efded6e7",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/glossary/share-of-model/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-02T20:27:14Z",
         "defined_term": "Share of Model",
         "description": "Share of Model counts a brand's share of category-brand mentions in a defined answer set. Question selection and counting rules determine the percentage.",
@@ -13817,7 +13822,7 @@
       "after_body_sha256": "7a1ba2d9d324aa5f295199d7ee50e4cf6c58c67853c7b029a68afe0f2f03f404",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/glossary/zero-click-visibility/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-02T20:27:14Z",
         "defined_term": "Zero-click visibility",
         "description": "Zero-click visibility is a brand or source appearing in a search or generated answer without an observed visit to its website during that interaction.",
@@ -13851,7 +13856,7 @@
       "after_body_sha256": "45aa6372ad53b359c4d0d468642fbb7dcb931825e6cada2cab8d6ce529818d85",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Research claims need their original population, metric and limits. These source reviews and studies separate results from general promises about AI visibility.",
         "is_based_on": "https://doi.org/10.1145/3447535.3462479",
@@ -13896,7 +13901,7 @@
       "after_body_sha256": "dafe17f66ee9799190b9a2f12d66ca17c2e98fb199997405bc8528bb2fce64d5",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/insights/engines-change-without-telling-you/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "August and September used four and five engines respectively. Their pooled results describe dated configurations, without proving a controlled visibility trend.",
         "is_based_on": "https://doi.org/10.3390/fi11090202",
@@ -13934,7 +13939,7 @@
       "after_body_sha256": "829593833eda85f471214b142b86bb648c56194b103027bb5ef741071e7b9456",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/insights/google-asks-for-original-research/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Google's 2010 guide suggested original research as useful content. Publishing a versioned study establishes publication, without showing a visibility gain.",
         "is_based_on": "https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf",
@@ -13972,7 +13977,7 @@
       "after_body_sha256": "3fc7774fab5462cfd90a8007dcc37068e19ca02a31a0c3418c01a651693e0601",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/insights/index-against-the-literature/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "In September 2026, 2,608 of 8,085 named vendor-answer pairs also cited the vendor's domain. Keep naming and own-source citation distinct when comparing studies.",
         "is_based_on": "https://doi.org/10.5281/zenodo.22907695",
@@ -14010,7 +14015,7 @@
       "after_body_sha256": "02ecbea6d15e97c5261f76f1ed5bb7b820a82327a9fc0aabec0d7d3953d5def2",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-02T20:27:14Z",
         "description": "Study 1 found optimization signatures on 3,913 of 4,420 captured target URLs in October 2026. Those results do not prove that optimization caused citation.",
         "is_based_on": "https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf",
@@ -14048,7 +14053,7 @@
       "after_body_sha256": "8716ad3075425888f2a1748a137b62ca6da32c63161245a850493aeecfc10edf",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/insights/no-ranking-recipe/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "An exploratory SEO study, an academic-search comparison and dated AI-answer evidence measure different things. None supplies a universal ranking formula.",
         "is_based_on": "https://doi.org/10.3390/fi11020032",
@@ -14086,7 +14091,7 @@
       "after_body_sha256": "dbe4f758ebb389b4619957dd9894c2648af794f365588a8fcf29ca9a0ca073d9",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/insights/one-channel-is-a-risk/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Fourteen category concentration tables show the leading three vendors’ share of naming occurrences. Historical traffic estimates answer a separate question.",
         "is_based_on": "https://doi.org/10.5281/zenodo.22907695",
@@ -14124,7 +14129,7 @@
       "after_body_sha256": "77a60cf056a885e6943f17e7cbd73532d20576c2ba2541e6448f22be9dbf20fa",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/insights/one-rank-number-is-a-fiction/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Repeated September answers disagree about vendor naming. A dated practitioner warning helps explain why a single rank needs its observation conditions.",
         "is_based_on": "https://doi.org/10.5281/zenodo.22907695",
@@ -14162,7 +14167,7 @@
       "after_body_sha256": "ee0f189586639c07b3b584ae760c58b742a6db7d6272a1a4cf676a363ea7c963",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/insights/review-platforms-as-the-objective-source/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "G2 appeared in 580 of 18,893 September 2026 target citation entries. The source count does not prove that the reviews were objective or judged so by engines.",
         "is_based_on": "https://doi.org/10.5281/zenodo.22907695",
@@ -14200,7 +14205,7 @@
       "after_body_sha256": "638f42a9ab5c0c483e79986fc24b23c881e4bb5d66e3b3a44969cf27022c216b",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/insights/state-of-geo-research-2026/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "A bounded search completed on 30 October 2026 verified seven peer-reviewed empirical source-visibility studies. That minimum is not a census of the field.",
         "is_based_on": "https://arxiv.org/html/2311.09735v3",
@@ -14238,7 +14243,7 @@
       "after_body_sha256": "b0c50286845c3af98030c3e25191059f7a512d666937a45066400fa1f27ef4fc",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/insights/strong-brands-weak-visibility/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Dynamics 365 appeared in 36 of 150 September 2026 CRM answers. That dated question panel records naming frequency, without measuring revenue or product fit.",
         "is_based_on": "https://doi.org/10.5281/zenodo.22907695",
@@ -14276,7 +14281,7 @@
       "after_body_sha256": "0573b51d043ef16b267f6fc975813d401266c8cf8eceff59e254a34349ebe015",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/insights/who-the-engines-trust/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Ten hosts supplied 3,192 of 18,893 September 2026 target citation entries. Those source choices measure recorded occurrences, without proving trust or cause.",
         "is_based_on": "https://doi.org/10.5281/zenodo.22907695",
@@ -14314,7 +14319,7 @@
       "after_body_sha256": "1fdd9b4d157a674750fec18079c9b7c386f4adec0114633fe98f318795d21cfc",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/playbooks/llms-txt/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Google's June 2026 guidance says llms.txt does not affect Search visibility or rankings. A source guide may serve other uses, without proving adoption.",
         "is_based_on": "https://developers.google.com/search/updates",
@@ -14347,7 +14352,7 @@
       "after_body_sha256": "4441b10f969765c296170e6a713b9cc97944dd57bffffdab822b946f8fab4be7",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Write a supported answer whose evidence, date and unit survive quotation. An experiment's visibility score cannot promise the engine will cite a new page.",
         "is_based_on": "https://arxiv.org/html/2311.09735v3",
@@ -14380,7 +14385,7 @@
       "after_body_sha256": "14049a52c622a548b1f85647d13e0bf9c1288a08d97c1f3f483eab4d39addcc5",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/playbooks/question-led-content/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Choose the buyer decision your answer can help resolve. The September 2026 Index's 140 fixed research questions describe its design, without measuring demand.",
         "is_based_on": "https://doi.org/10.5281/zenodo.22907695",
@@ -14413,7 +14418,7 @@
       "after_body_sha256": "cb3bde3f54bf397b359d5950f17c50349e1726b118555922d8bcbd5ac68b65e3",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Make research identifiable, accessible and accurately described. Historical search-rank correlations do not prove a route to Scholar or Dataset Search.",
         "is_based_on": "https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf",
@@ -14451,7 +14456,7 @@
       "after_body_sha256": "1fb843c53f79d20e7b8bc2f335e1f3a7f286461281138e19b1269fdbd73638f8",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/playbooks/review-platforms-for-b2b-software/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Use review platforms to inspect sourced product evidence. September 2026 citation counts do not justify fake reviews or prove a profile improves visibility.",
         "is_based_on": "https://doi.org/10.5281/zenodo.22907695",
@@ -14489,7 +14494,7 @@
       "after_body_sha256": "317f09b6ee9fb12adbce6508784cede8b9e0a0b8c720270cafa103d9dd2dccdd",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/playbooks/site-structure-basics/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Give pages stable destinations and clear navigation. An HTTP 200 page can be a soft 404 when its content shows an error; status alone does not prove usefulness.",
         "is_based_on": "https://developers.google.com/crawling/docs/troubleshooting/http-status-codes",
@@ -14522,7 +14527,7 @@
       "after_body_sha256": "2b0ddfacedbcf20b9f3a50f0c35cf03462c4a3c3f12e9c5a399ed030142afcea",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Choose markup by the visible entity and current consumer requirements. FAQPage remains a vocabulary type, but Google retired FAQ rich results in May 2026.",
         "is_based_on": "https://developers.google.com/search/updates",
@@ -14555,7 +14560,7 @@
       "after_body_sha256": "bc60b5efdb3cb5e10fcfeeecee0d6703c0eec03dfbbc82020098f2779fa895f1",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/playbooks/syndicating-without-losing-the-original/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Keep a stable, complete research original and link back from secondary copies. A canonical link states a preference, without guaranteeing Google's chosen URL.",
         "is_based_on": "https://developers.google.com/search/docs/crawling-indexing/canonicalization",
@@ -14593,7 +14598,7 @@
       "after_body_sha256": "d2decd62cb38b9ef3f3399a17b014f4399780b8efa602780b38e0ce0ff1d89f7",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/playbooks/which-ai-crawlers-visit-your-site/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Inspect requesters in dated logs and verify their identity. Google-Extended and Applebot-Extended are usage controls, not separate HTTP user agents to count.",
         "is_based_on": "https://developers.openai.com/api/docs/bots",
@@ -14626,7 +14631,7 @@
       "after_body_sha256": "b0d29f6a8291d198792603ac3861858d31e7b71fa76242b60115af28ba402655",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/playbooks/wikidata-for-companies/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "A Wikidata company item needs an eligible entity and sourced statements. A company website alone does not prove one of the three documented notability routes.",
         "is_based_on": "https://www.wikidata.org/wiki/Wikidata:Notability",
@@ -14659,7 +14664,7 @@
       "after_body_sha256": "b2ab8f8f671a0b5f7f0464e681cf275a6d81061dab2f39353f0c92e754a20bc0",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/sources/bataineh-2025/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Bataineh's 791-response Jordan study measures self-reported perceptions of university websites. Its ranking construct does not record Google positions.",
         "is_based_on": "https://doi.org/10.1080/23311975.2025.2491678",
@@ -14697,7 +14702,7 @@
       "after_body_sha256": "1d8153561214521237cb4cc6f9a6ed47b7b0daf9b075c19a27becd1f42e0b838",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/sources/giannakoulopoulos-2019/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "The 100-university study compares site scores with academic standing. It does not observe search rank, and the printed SEO-rank sign does not reproduce.",
         "is_based_on": "https://doi.org/10.3390/fi11110242",
@@ -14735,7 +14740,7 @@
       "after_body_sha256": "33b7ac2c82135fde361677d500d5796cab6521fe39027110dfcbc0d8b1c5075c",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/sources/giomelakis-2019/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Four Greek newsroom interviews reported SEO use without dedicated specialist positions. The study describes who did the work, without proving hiring advice.",
         "is_based_on": "https://doi.org/10.3390/fi11120261",
@@ -14773,7 +14778,7 @@
       "after_body_sha256": "d7f9b1b2b572f641cef159670e4477c1fab6872ca6fede68182c09b507703034",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/sources/google-seo-starter-guide-2010/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Google's 2010 guide combines useful principles with retired product instructions. Six verified retirements need updated guidance, rather than a ranking promise.",
         "is_based_on": "https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf",
@@ -14811,7 +14816,7 @@
       "after_body_sha256": "55d868bb833ec200d67c255808558d4acf5d7e5c4c66a4ea73be8e0434b59292",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/sources/karyotakis-2019/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Karyotakis examines commenting on 656 news sites using three selected lists. Counts, exclusions and untested SEO claims limit what its results establish.",
         "is_based_on": "https://doi.org/10.3390/fi11090188",
@@ -14849,7 +14854,7 @@
       "after_body_sha256": "98d7f7244656681882cc36b7a94930b39a0d6646ade4d7cd02664f50a0c97d08",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/sources/lewandowski-2021/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Lewandowski's classifier identifies optimization signals in Google samples. Its Wikipedia comparison has a specific base and does not test AI-answer citations.",
         "is_based_on": "https://doi.org/10.1145/3447535.3462479",
@@ -14887,7 +14892,7 @@
       "after_body_sha256": "abe1be90320f6f52d8d485363aab71e051ed39164cc33827416721a170345bf4",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/sources/reading-list/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Start with the result you need to check. The 21 files include repeated versions and edited volumes, so counting files cannot establish independent studies.",
         "is_based_on": "https://docs.broadcastwell.com/research/data/source-collection-inventory.csv",
@@ -14925,7 +14930,7 @@
       "after_body_sha256": "9a0ea3258a21ab7a006cad1bb0f35c74bd3f7474b07c187f6a81398fdb4aaf7c",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/sources/rovira-2019/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Rovira reports Scholar correlations of 0.721 unrestricted and 0.994 title-restricted for two-term searches. These compare ranks, not citation probability.",
         "is_based_on": "https://doi.org/10.3390/fi11090202",
@@ -14963,7 +14968,7 @@
       "after_body_sha256": "259c054f34a15e3e91ed9cd5570604e70c9e8c5ba478e16721baeb378115ce30",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/sources/seo-bible-2009/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "The 2009 SEO Bible gives conflicting keyword-density ranges without experiments. Its interviews remain historical testimony, not ranking prescriptions.",
         "is_based_on": "https://books.google.com/books?vid=ISBN9780470452646",
@@ -15001,7 +15006,7 @@
       "after_body_sha256": "1c3de2cd008eb60de19294b15a3bad963e27fa90c340a8d9234b10493a8c985b",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/sources/ziakis-2019/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Ziakis reports an average SSL correlation of -0.3371 across three 15-result samples. This observational association is not a weight for changing page rank.",
         "is_based_on": "https://doi.org/10.3390/fi11020032",
@@ -15039,7 +15044,7 @@
       "after_body_sha256": "e934ad04e24955b794c7c22c270a1a1c5953e5d6fcead1f971b9451248eb786a",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/sources/ziakis-vlachopoulou-2024/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "The review's 33, 73, 44 and 28 counts describe different stages and subsets. Its four-part SEO taxonomy does not establish that a change improves citations.",
         "is_based_on": "https://doi.org/10.1007/978-3-031-51038-0_43",
@@ -15077,7 +15082,7 @@
       "after_body_sha256": "972b720456f40a8fc19236c26abba70c2eae4441b1b27e80333b6242c851ae9a",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/standard/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Keep each claim's quantity, population and qualifiers tied to its source. The evidence standard asks what a study supports, rather than agreement with it.",
         "is_based_on": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
@@ -15115,7 +15120,7 @@
       "after_body_sha256": "0d546cc03275aa05378ef6b187afaf373c3239886e23be84e9f14077e9f64db3",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/studies/ai-crawler-log/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "The 30 Oct 2026 log snapshot has zero declared AI-token matches in 83 requests excluding one check. That window cannot prove that AI services never visit.",
         "is_based_on": "https://developers.openai.com/api/docs/bots",
@@ -15172,7 +15177,7 @@
       "after_body_sha256": "142a6ad0eed8ece6ef8385b4f766b305000d7e5a4e28ca0fb03cce882baa5bca",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/studies/does-absence-persist/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Study 3 awaits a third release and a comparable consecutive pair to estimate persistence. Its published plan does not supply a result from existing releases.",
         "is_based_on": "https://doi.org/10.17605/OSF.IO/MKJ9V",
@@ -15224,7 +15229,7 @@
       "after_body_sha256": "117dcdf6e9e83d551efdf77d27bc8e25f7589f567e6f98e727f3bd4e744eb379",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/studies/evidence-refresh-field-test/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-03T00:21:05Z",
         "description": "This registered study covers 45 answer pages across three arms. Its evidence refresh, editorial addition and unchanged groups await authorized data collection.",
         "is_based_on": "https://doi.org/10.17605/OSF.IO/DMFPJ",
@@ -15262,7 +15267,7 @@
       "after_body_sha256": "9955c30e3375d0b4edeb00de44649fced4e4a51fd0aa5060274194be0032ad6b",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-11-02T20:27:14Z",
         "description": "Study 1 classified 3,913 of 4,420 captured target URLs as definitely optimized under registered rules. Its October 2026 capture supports a descriptive finding.",
         "is_based_on": "https://doi.org/10.17605/OSF.IO/DVYFU",
@@ -15313,7 +15318,7 @@
       "after_body_sha256": "d44a627c0afda54d26b6f7e3015d60c9c2927c20e72d6a7d5d63af3af20c64a5",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/",
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-30T03:55:00Z",
         "description": "Thirty-nine of 2,095 target answers had empty citation arrays in Study 2's September 2026 reanalysis. The source distribution does not prove trust or cause.",
         "is_based_on": "https://doi.org/10.5281/zenodo.22907695",
@@ -15364,7 +15369,7 @@
       "before_meta_sha256": "64d1b987ff83738f35cac5082b6026d0351fe233f413cc7c6e7761eb6a74c305",
       "after_body_sha256": "b40703566ebe30edc2f34ad57380c1c043ed587b3df682e13c565facc1b7c133",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-09T20:07:00Z",
         "description": "Wrong About You checks AI product claims against vendor pages. Its Sep 2026 captures retain every flagged statement and source, with team review in progress.",
         "page_class": "page",
@@ -15411,7 +15416,7 @@
       "before_meta_sha256": "6d46c38e4f15e50d7e115dff89668405edb674d36d630283a1d4f960d07ff088",
       "after_body_sha256": "25a50a5ee1758210fb9a4ee61182444ba878ca9f42026917c7e0b9ab4db9f03b",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-09T23:53:48Z",
         "description": "Study 7 maps criteria stated in AI software answers to dated vendor-page evidence. The release preserves questions and counts; team review is in progress.",
         "page_class": "page",
@@ -15458,7 +15463,7 @@
       "before_meta_sha256": "fca879f395b6c4e3a891b0f0e7b2290cd425377430050d70ce3b8535644c721c",
       "after_body_sha256": "c522a08d81537de7fff87b3be9e9ccce4c86c95896be17e947c03ded4693a950",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Use receipts to define a factual correction, comparison or review. These guides, worksheets and fictional examples help you scope work and state its limits.",
         "headline": "Which resources help turn AI evidence into useful work?",
@@ -15492,7 +15497,7 @@
       "before_meta_sha256": "be156f5df44627f7a1d7c9aaec140b8bba68a2969fdd63d48fee4215bb8b0b4d",
       "after_body_sha256": "bd563d112742dcd8bc9c97b543efe5c498a9c55d2daf92201258bb38ec1aa698",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "An executive report needs a decision, source receipts, limits and an owned next step. This dated template shows the fields required before any client delivery.",
         "headline": "What belongs in an executive delivery report?",
@@ -15515,7 +15520,7 @@
       "before_meta_sha256": "efbf47f8472307124532c6103d2d845ee307fc32e7b8016b583f14d72fb34ab6",
       "after_body_sha256": "acc3c1d32ef60a5d82e4b63485b6c295a686bec46f22d186fb6445ef0c4b06b2",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Match the question, surface and method before comparing two receipts. These examples show the review using fictional records, without a live measurement.",
         "headline": "What makes two answer receipts comparable?",
@@ -15549,7 +15554,7 @@
       "before_meta_sha256": "0c2551e67031dd43124039da8f73ad6852688d54727cad5905eb3be33c22a46e",
       "after_body_sha256": "ef132d825e58ff4ec630139297e28d3196c4665d97fc555f54f4f11c4605a5cd",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "A fictional audit shows how to trace a product claim to its receipts and choose a bounded correction. This exercise represents no client result or measurement.",
         "headline": "What does a fictional audit example show?",
@@ -15572,7 +15577,7 @@
       "before_meta_sha256": "ffe4ba704b42a4457f77d04da981ca72349c453426d4b6da7f8137878354c6e5",
       "after_body_sha256": "af88fb58f0e44e0f9d70e6ce6e7b2e77f921ae3ed1320c90dd86cd727f412da1",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-13T00:00:00+00:00",
         "description": "Page access, search indexing, question retrieval and citation are separate events. A successful request proves access for the request, without proving the rest.",
         "faq": [
@@ -15615,7 +15620,7 @@
       "before_meta_sha256": "cdc595a9c6430d096e09e1a584f2b040163149aec963d68440f198e106cf078a",
       "after_body_sha256": "aecd8236af42fb534b7fd7dbe6142938b867b6ec5585aed0418f4e0c22fed4c9",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Choose a brief for the buyer decision and the agreed work. Six reusable formats cover comparisons, integrations, migration, procurement, use and pricing.",
         "headline": "Which brief fits the buyer question you need to answer?",
@@ -15649,7 +15654,7 @@
       "before_meta_sha256": "f6e8c4d3ab3a90ab3e9bfaed059c4cf12c25bcc653c071cbe541bb3f4923fd5f",
       "after_body_sha256": "ec0541e9696c7ae4916500ba592a9404793ed53a4d9935751f169ac43bb77b3d",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "A comparison brief needs matched products, editions, region, date and sourced dimensions. Keep tradeoffs and unknowns visible before choosing a buyer decision.",
         "headline": "What belongs in a software comparison page brief?",
@@ -15683,7 +15688,7 @@
       "before_meta_sha256": "432d9e00374a5abdbf4212b7fc6fa7fb0bdafb7229d2e0d9a77b0c6363c8e103",
       "after_body_sha256": "b516f1d2e44dab5d1d4a7153abded15e960d9fa4a44387cdc49e883649309065",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "An integration brief names supported versions, prerequisites and setup responsibility. Distinguish native, third-party and custom connections before setup.",
         "headline": "What belongs in a software integration page brief?",
@@ -15717,7 +15722,7 @@
       "before_meta_sha256": "472080c6bbdf4692e6d7108bebd42944046ecd17aa4eb80b92a8397263a99b05",
       "after_body_sha256": "20fe5c85f62ddc0e4ff6ab3b4eeeeb2b51e17360f3759e02e40b835eab21d59e",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Explain included and excluded work, prerequisites and current approved prices before purchase. Keep the edition, region and date with each price source.",
         "headline": "How should a brief explain pricing and product limits?",
@@ -15751,7 +15756,7 @@
       "before_meta_sha256": "8f4dde5efbceab8ffef922ca616704edc1e7b0978d7ea80faa197689dc53fce2",
       "after_body_sha256": "860c82be38dfe4137d1d2cf3bdad88a4531913968a7c2544f5dafc25b76ccf4c",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "A migration brief needs source/target versions, mapping, validation, cutover gates and rollback. Record responsibilities and unresolved decisions before work.",
         "headline": "What belongs in a software migration page brief?",
@@ -15785,7 +15790,7 @@
       "before_meta_sha256": "4f86df0c8cbb513bf73be0249756ece2ab439d7049d97e9b37dffa7556ce7265",
       "after_body_sha256": "304fa060e3553a77acf8f8476917c55ef73be41874ec9c6feba50ad91b5007f1",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "A procurement summary separates documented product facts from open review items. Include deployment, integrations and approved security evidence within scope.",
         "headline": "What should a software procurement brief include?",
@@ -15819,7 +15824,7 @@
       "before_meta_sha256": "1f7dea45b8d2c1715381ce1f2555eaceb136f969199a4228a822221c46d60cbc",
       "after_body_sha256": "74e4e5afa7b1e4ad1c8d168c7b833b98752ce5ab9b1cc6fac152807836a137de",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "A use-case brief defines the buyer, starting input, workflow and human decisions. Support each capability and label examples with dependencies and limits.",
         "headline": "What belongs in a buyer use-case page brief?",
@@ -15853,7 +15858,7 @@
       "before_meta_sha256": "a5098a8f47109708080e21ccac9c176844df475a98cabe1e93f0cf13bfe5171b",
       "after_body_sha256": "2ccb040a77876798e99be86b2a0b41241c871a572297666bd773267f887bc355",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Check the question, surface, status and evidence before interpreting a receipt. This captioned exercise uses synthetic data, without a live engine result.",
         "headline": "How can you read a fictional AI answer receipt?",
@@ -15887,7 +15892,7 @@
       "before_meta_sha256": "9cc312151c09e2dba4f79f8cf7c5b9d1a3aad4cddcc77cff5d2e9191c75ef3cb",
       "after_body_sha256": "d08e421c1e99a8406c5f64e5250371f2816e24d7269f88abf61aaf77b10ffd89",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Watch captioned demonstrations of receipt review and work-order preparation. The recordings use synthetic exercises, without client data, approvals or delivery.",
         "headline": "What do the recorded evidence demonstrations show?",
@@ -15921,7 +15926,7 @@
       "before_meta_sha256": "b14bf6aaa2ccf0030e1f408af63ee6a77f916378f0e7b5b2fa640664fa4cad82",
       "after_body_sha256": "d82b09da5747f001feff9bfe5c060cfff9d2f436f6defcadf10982615a0371ba",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Turn a finding into a defined change with evidence, an owner and acceptance checks. This demonstration uses authored fixtures, without a release or client.",
         "headline": "How does an answer finding become a scoped work order?",
@@ -15955,7 +15960,7 @@
       "before_meta_sha256": "de83e23f73ad844a833329e60686b12a9c3c956aa1823b4830ab14501494b932",
       "after_body_sha256": "f550e0d771e907d88668348880c83f745595bacdf6e34f8c0603b96fbb617e34",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Choose distinct buyer decisions and draft neutral questions with a reason for each. This proposed method uses synthetic examples, without inventing demand.",
         "headline": "How do you choose buyer questions worth investigating?",
@@ -15989,7 +15994,7 @@
       "before_meta_sha256": "159794c309fb3a1affbcf42ced5d92ae00b3d81378bb5b15f00678ff3a1c09cb",
       "after_body_sha256": "2dae36afb89c164dede4d76c3dffdd1a4828e6d59d443c6383c6a4705f1a53f5",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Build a comparison from approved facts for matched products, editions and dates. Source each row and retain unknowns; the examples illustrate a proposed method.",
         "headline": "How do you build a comparison page a buyer can trust?",
@@ -16023,7 +16028,7 @@
       "before_meta_sha256": "8e2978df5027d8383c2120b26b9804918eaa18a1ceea2b2026c99bbbac01e968",
       "after_body_sha256": "d1dac98d6c15cf71f620abf7d23b4947ab2a350ea75519c41f298de603c769a4",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Match baseline and follow-up observations to the published change. Keep exclusions and no improvement visible; a paired comparison does not prove cause.",
         "headline": "How do you compare answers before and after a page edit?",
@@ -16057,7 +16062,7 @@
       "before_meta_sha256": "731fe0a4b4f689186b085e9dfc06acc57b7ad79560dcb8f6dfddb7df5d972eb1",
       "after_body_sha256": "3a7cc750d403e3a4c7f3b8df8362ecb4491038a01ebacb6c3fdac681aab72d32",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Confirm a completed answer and alias review before interpreting a missing brand. Check buyer fit before choosing an investigation or deciding to leave it alone.",
         "headline": "What does a missing brand in an AI answer tell you?",
@@ -16091,7 +16096,7 @@
       "before_meta_sha256": "fe113e65791c2180a7f543571ffdfffb877ee5842b771dabdaccdfcfb8edaaef",
       "after_body_sha256": "d256e4e1f8200dc1705510d665b7c2fc6e2b585202c39eb58478a9f4d6442ad0",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Connect each product fact to its source, scope and reviewed wording. Preserve conflicts, unknowns and old versions rather than making evidence sound certain.",
         "headline": "How do you keep product facts consistent and sourced?",
@@ -16125,7 +16130,7 @@
       "before_meta_sha256": "854e08e481ba55fd581b8ba4bbd5a4be39c289ccba4733dfd9d653abf8899183",
       "after_body_sha256": "cc466ccf982106d00f5a0df4cca5df4cf94289bad43b266be315d05bebd396eb",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Read the question, surface and receipt before reading an AI answer. Separate names and returned links from conclusions about what the observation supports.",
         "faq": [
@@ -16165,7 +16170,7 @@
       "before_meta_sha256": "bf4b306fe297f1effa6aa15b03d0175df639d3ba5ea2a0450f692f855b1e3763",
       "after_body_sha256": "96536f64d289a9c32b7922f64cfc33c3e1bbed19b9acd417b3e9421ce711f874",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Eight task cards support bounded review and drafts with synthetic examples. Their field checks cannot prove a source true or establish an owner's approval.",
         "headline": "Which checks belong in an AI evidence workflow?",
@@ -16199,7 +16204,7 @@
       "before_meta_sha256": "2c415d3d3e0cc2c2f7e8e3edee5ad84f87e9dc263cd83c93947e214a6c4d7816",
       "after_body_sha256": "8cfbe761be1c8429a983a846a70e5909ac406b8e8c8ea72e89b2b9e9d34cafa8",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Deduplicate event IDs and separate enquiries, conversations, invoices and payments. The exercise keeps missing costs and attribution uncertainty in its totals.",
         "headline": "How should you review a proposed commercial claim?",
@@ -16233,7 +16238,7 @@
       "before_meta_sha256": "e16f085da0e9a8b064be8eefcecf396285f8b0da02d647eb0d7fd000a280e493",
       "after_body_sha256": "f373f0c25d49f2954224211ac91775875f68c6686c559d60afa8729bc904497e",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Match buyer context, editions and regions before drafting a comparison. Link supported rows to sources, retain unknowns and require review of candidate wording.",
         "headline": "How should you check a software comparison brief?",
@@ -16267,7 +16272,7 @@
       "before_meta_sha256": "b3383472dd143d7e2ac483eca0db12480ddf691ba155ac0144e25ad0733ac3b9",
       "after_body_sha256": "11cd29f36b8560b5a1f90447e1e9319d6b75c40e102674bd6fe5d64170ad30f3",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Match a claim to a dated passage and classify support, conflict, staleness or absence. Keep the source version, reviewer and permitted uses with each fact.",
         "headline": "How should you verify a proposed product fact?",
@@ -16301,7 +16306,7 @@
       "before_meta_sha256": "9721944a74c6ce02a3e9a770d9a593456d6fae2c73513a7c52de09bcb34aadda",
       "after_body_sha256": "edb214d6d2c165f2d91c33ddd23662998b6f6e663f18edb806a797b738dc5be9",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Draft ten neutral questions covering distinct buyer needs, with reasons and assumptions. Check duplication and preserve the exact version before measurement.",
         "headline": "How should you review a proposed buyer question?",
@@ -16335,7 +16340,7 @@
       "before_meta_sha256": "8ce8364f02fa6a53344da3da7005f6bf52b5212547ba8d74d7e33a39245adcf5",
       "after_body_sha256": "266840050445905bfb45b3df9b1734622477a04050d692f02a3ee9a2ad81d2dc",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Check a receipt's question, engine, method, date and result state before reviewing mentions. Keep failed and unreviewed observations visible in the summary.",
         "headline": "Which checks should an answer receipt pass?",
@@ -16369,7 +16374,7 @@
       "before_meta_sha256": "905d7536ffa3506a83b5811ae557e2d7fecc7697c00ef20a679424c11887ba0c",
       "after_body_sha256": "c6a9246c09ca2a3c25f8b07d73538022e482fbb5b939054ea1ba69af0fbede60",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Match questions, methods, surfaces and locales across two sets of receipts. Report changes, no change and exclusions separately, without claiming causation.",
         "headline": "How should you review a claimed change in AI answers?",
@@ -16403,7 +16408,7 @@
       "before_meta_sha256": "ff67b46df4e376f7083f2a07332ec01adc22ad315c259b7d7b28d9abe46e03a9",
       "after_body_sha256": "b5e2df7e5910317d0656e74ccd039d01a5bfe686bea857d9cedc8c8aae314812",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Draft a correction for the exact sourced error, retaining historical wording. A draft, authorised submission and verified source change are separate states.",
         "headline": "What evidence supports a source correction request?",
@@ -16437,7 +16442,7 @@
       "before_meta_sha256": "48e699ae7a0667bf9911e7a1c7a51fe0bfc0426e3e655e110f584c106cd08385",
       "after_body_sha256": "2de2f9d639f2afe1b65ca7b3a79e3637f25f90d78b3cdfa1961dd0329271318a",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Document a reproducible defect, then propose the smallest reversible fix with tests and rollback. The work order does not prove that the change is released.",
         "headline": "What belongs in a proposed technical change brief?",
@@ -16471,7 +16476,7 @@
       "before_meta_sha256": "90c7c8db02722b6cbb7c197010c47316401958c4705fbb78f728f9d3a031846a",
       "after_body_sha256": "98e66e600134d73323dc157d102b0de27850ffafe09a12ad441d2be2c7522f17",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "The learning guides contain original proposed Broadcastwell methods and synthetic examples. Their source record distinguishes design from operational proof.",
         "headline": "Where do these practical resource examples come from?",
@@ -16505,7 +16510,7 @@
       "before_meta_sha256": "f4dbfaef03e4cb4c1092a46c7f607c86705459ee4bcb62a835dd6ea4de6127bb",
       "after_body_sha256": "687719aaea9dfd6b988d96796a5e3b45d1ecb9bd6e186c3e0ed7306de956edf5",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-13T00:00:00+00:00",
         "description": "Named and cited-as-source rates use valid answers; share of voice uses recorded brand mentions. Keep those counts and bases separate, without a combined score.",
         "headline": "How do naming, citation and share of voice differ?",
@@ -16534,7 +16539,7 @@
       "before_meta_sha256": "d7c58dc37e712ba3578f80ffb3f325aaebbf344e7460b485a7df500d6f74637b",
       "after_body_sha256": "c1251fb7dc232138fd518793ecafb008495dd3752313ec370d291c47c0c276ee",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Use this worksheet to record ten buyer questions, their purpose and assumptions. Enter permitted or synthetic material, then export a copy to preserve the set.",
         "headline": "What should your buyer-question worksheet record?",
@@ -16568,7 +16573,7 @@
       "before_meta_sha256": "2b1f7d6b1c2b9740587c2c8f2f5c0976ff2f62b556fe78242dd6f50da812cb73",
       "after_body_sha256": "ff4ded4388ede0e924bb0142e340206525dbf85a2d3008ec91bea18aa34edc08",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Record matched products, sourced comparison dimensions and unresolved facts in this worksheet. Keep permitted inputs on the page and export a copy for review.",
         "headline": "What should your comparison-page worksheet record?",
@@ -16602,7 +16607,7 @@
       "before_meta_sha256": "adab7aa4deaf559b19fb4b3008aa130423bb5e262fdfa275d219fe72a9628e4f",
       "after_body_sha256": "a14ad2d7d73fd2daa3a288a4486ea952f2dfd2c388d2de358824dfc817b4c0e2",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Record matching baseline and follow-up observations, exclusions and method changes. This worksheet keeps no-change outcomes visible and exports the comparison.",
         "headline": "What should your before-and-after worksheet record?",
@@ -16636,7 +16641,7 @@
       "before_meta_sha256": "8666a977664a6d04db98d86c0e7cd2d8b43b9c6d3793e3799a03acb147ff21b7",
       "after_body_sha256": "b09fffb864a0bb966339fa741be66fc6c8b4969a3a8739833577eb838e5dd030",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Record the answer, alias check and buyer context before interpreting a missing name. This worksheet retains the evidence and your recommended investigation.",
         "headline": "What should your missing-brand worksheet record?",
@@ -16670,7 +16675,7 @@
       "before_meta_sha256": "f4839e2a3d78c9dd2af7dba84eb3f2834fb6abae7bb1bc510b04c43dd4bffbbf",
       "after_body_sha256": "5cb45236f467ed392ba49bcfe66c176683124065bc5f8fac6fea220cdd9d94e8",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "This worksheet connects product claims with dated sources and reviewed wording. Retain conflicts and unknowns, then export the record to preserve its history.",
         "headline": "What should your product-fact worksheet record?",
@@ -16704,7 +16709,7 @@
       "before_meta_sha256": "dbbaffd9a1635e7952ff910d776dcbadeef7f6dea03b070591cfd35dae1a00fe",
       "after_body_sha256": "ff5e1bc6a6e5560d54b798187babe8c008b146d1154b5b30137b3901931cc42b",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
         "description": "Record an answer's exact question, surface and receipt before conclusions. This worksheet separates observations from interpretation and exports the review.",
         "headline": "What should your answer-reading worksheet record?",
@@ -16738,7 +16743,7 @@
       "before_meta_sha256": "cd02c5dae3ed5139cfff07ff5916c0484eddc8b99bf31dbd11d53cad6105a2e2",
       "after_body_sha256": "a49abc5ae25db0eeb70e7d94f9fe46d69c100808f14ee6e02a37ff723f93c9e2",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Published rules match company names and citation domains separately. This reference explains the two extraction layers, normalization and completeness checks.",
         "headline": "How are names and citations scored in AI answers?",
@@ -16768,7 +16773,7 @@
       "before_meta_sha256": "01ee86d65974687170284e24c8281e68f34605e40deb36e7df11d8d4359aef3f",
       "after_body_sha256": "ed1742e14365b4a6874fe8640b9914cca6e96a81a7b6abc265e180dbeeab43e7",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "An AI answer names a selected set of vendors. Our 2026 study averaged 2.05 names across 860 answers; that count does not reveal a position for every vendor.",
         "headline": "Why count AI mentions separately from search rankings?",
@@ -16804,7 +16809,7 @@
       "before_meta_sha256": "317b377cbe4d31502cf909036d702dfb06c847ea212de6819b9d1fb8087700ef",
       "after_body_sha256": "03fc342b7bfe4aa9f6a5ccbbccdf2da5c141d23601731a07b0af700bff09eb4b",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Declare the questions, engines, dates, repeats, scoring rules and bases. Keep exclusions and interests visible so readers can judge what a result supports.",
         "headline": "What makes an AI visibility measurement interpretable?",
@@ -16834,7 +16839,7 @@
       "before_meta_sha256": "5315d4ef3a210766174980f66af97eed650dbb5984d9c76462027dddb0a9bc7e",
       "after_body_sha256": "b1ad0fafaa1742eb0848c5f223ab4e2b2c1d350a0fc08c9e53a5f969878f95e5",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-06T00:00:00+00:00",
         "description": "A vendor facts file states dated, checkable product information in JSON. The open schema and fictional example help readers verify claims, not predict ranks.",
         "headline": "What belongs in a public vendor facts file?",
@@ -16858,7 +16863,7 @@
       "before_meta_sha256": "287deac5db49e5b32fb3a9a0164639f73c73ff891248a02d953aa7008f9f4b61",
       "after_body_sha256": "31fb8829297b0f81de87ebf91ce9a1f90111b76df8d7383a44c1b4b98420ad5b",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
         "description": "Read citation shares with their bases. Our 2026 study distinguishes the 100 most-cited domains from all 5,160 citations; the sets answer different questions.",
         "faq": [
@@ -16915,7 +16920,7 @@
       "before_meta_sha256": "ab610868771ecf9c294b3d668ccfe566155c6ef756fce87b758e4f0f4f431429",
       "after_body_sha256": "d6103a9d75dd678d22319a43018692fbdcebc94370f05b7697c87293104a052c",
       "meta": {
-        "date_modified": "2026-11-05T20:55:38Z",
+        "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-11T00:00:00+00:00",
         "description": "Check the dated answer, cited sources, company facts and page access. These checks help investigate an omission, but they do not prove why an engine made it.",
         "headline": "Why does ChatGPT not mention us?",
