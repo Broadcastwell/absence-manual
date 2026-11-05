@@ -127,7 +127,7 @@ jobs:
         if: steps.mode.outputs.mode == 'followup'
         run: |
           python tools/library_followup_release.py prepare --repo . --artifact reviewed-pr97-publication.zip --baseline-artifact reviewed-prior-publication.zip
-          echo "BW_LIBRARY_FOLLOWUP_PLAN_SHA256=$(cat tools/library-followup-20261105.sha256)" >> "$GITHUB_ENV"
+          echo "BW_LIBRARY_FOLLOWUP_PLAN_SHA256=$(tr -d '\r\n' < tools/library-followup-20261105.sha256)" >> "$GITHUB_ENV"
       - name: Stage the exact Research inputs through library_research_stage.py
         if: steps.mode.outputs.mode == 'research'
         run: python tools/library_research_activation.py prepare --repo . --artifact reviewed-prior-publication.zip --write-github-env > research-stage-result.json

@@ -145,6 +145,12 @@ class FollowupSession:
             self.expected_sources[p] = {'body': body, 'meta': copy.deepcopy(meta)}
             return markdown
         body = self.previous.markdown(finite_links.transform(p, markdown), page)
+        for edit in self.data.get('effective_edits', {}).get(p, []):
+            require(body.count(edit['before']) == edit['count'],
+                    'Published source differs from its exact reviewed edit: ' + p)
+            body = body.replace(edit['before'], edit['after'])
+        if p in self.data.get('effective_dates', {}):
+            page.meta['date_modified'] = self.data['effective_dates'][p]
         self.expected_sources[p] = {'body': body, 'meta': copy.deepcopy(page.meta)}
         return body
 

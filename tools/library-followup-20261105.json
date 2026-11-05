@@ -2581,7 +2581,7 @@
     ".gitattributes": "56455ec5f79c44ed93492119b8cd0e0ed6ef065faaddd411b0bf58709e8cf995",
     ".github/workflows/deploy.yml": "e6e0cfb6f6750212e76e11e33690423c0acc4441894d4d340856b96a44a40ad5",
     ".github/workflows/library-code-checks.yml": "a1479c2d4c76516f8fce77aae8abe07a5d68c5518f2b54bc29c7b3e8fb2560d9",
-    ".github/workflows/verify.yml": "04e48520f4e31ea681adbc3d18faae306140e79c835b41812177ccfd5c372af9",
+    ".github/workflows/verify.yml": "9016687c17e095fa42e9130f0fa9067a44c218713317ea38a40db2b0492d6337",
     ".gitignore": "d29cb70f254a3db56ab93476e2b32ad286b0166df6fc78d4595fe9a7f2e0e603",
     "CHANGELOG.md": "f0fb366b1072a709e75e4fefe4d9db1cfb5d19dd92a9f4e70062c01cdd3a397d",
     "CLAUDE.md": "8e581156abc68b269253319d31fa96edab6c379b37a1986e4e44f898d1a108b4",
@@ -2679,7 +2679,7 @@
     "docs/answers/chatgpt/which-field-service-software-does-chatgpt-recommend.md": "a4c8a567d0185617acd1d7126818a7aa0b97dff9ab1eddbeab3852d0448b68f9",
     "docs/answers/chatgpt/which-hotel-software-does-chatgpt-recommend.md": "6541dff2c7b513563ba43b865e1b5d4c56d8c643feaa88037ac60777eb7396c1",
     "docs/answers/chatgpt/which-insurance-agency-software-does-chatgpt-recommend.md": "1bf448ef9834da6b7a030f4cf0bf5bdcc661befc78921fbd37ebcfffc86586fb",
-    "docs/answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md": "dd2686501829400746f083df88808126303010756beb57693ca0c6fcf75103af",
+    "docs/answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md": "5fb20bce29e6555ff535ccd8ebea633e9d4f06875cf0c6d1c8f5d0aedde89f8a",
     "docs/answers/chatgpt/which-loan-origination-software-does-chatgpt-recommend.md": "cecd7a5deb3f4f00bddd57f54b1e046e65fb410857a81ffbd1c1324d42c8ba40",
     "docs/answers/chatgpt/which-project-management-software-does-chatgpt-recommend.md": "654bb7004fcd787c705e028b1aa1fbab4fd4a745850b68a9a8eec03424270d2b",
     "docs/answers/chatgpt/which-property-management-software-does-chatgpt-recommend.md": "8c001d22c0313d5b2f4f357d675cd130d3eadeaffad8fc6cb242551ce699c8aa",
@@ -5084,7 +5084,7 @@
     "tools/library_field_freeze_hook.py": "a2a29288c5fde5aada193bd1a0242517795b0a48eb7bee0d668543a631e89652",
     "tools/library_field_freeze_navigation.json": "e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c",
     "tools/library_field_freeze_navigation.py": "6cb83cc433abcc497bb7b5c0a1514236bbb86b85e92d933bb1ded3a043f43d1d",
-    "tools/library_followup_release.py": "e8db16276d79fdb51aab6504d067893de9ce96caebb65fb35a80f0247279e1de",
+    "tools/library_followup_release.py": "58eca97c8cfc03754d203c2c90c6ce8bdf4bed8389fa7c73fbc3d45bd738d180",
     "tools/library_inherited_presentation.py": "4911ce5a7e1b95862ec8117379b882dc2c8409a3f22b5dc706c6453159f82d11",
     "tools/library_list_audit.py": "c1e8b1486287efe7ba7e86ac947bc3ebe6ce6d3d36d5888ce4740757c6361631",
     "tools/library_owner_composition.py": "d8b03552e79f3a0ad276053210737ab5d2fe2f6b6b4a5882990f8003e0a09e3b",
@@ -5151,6 +5151,18 @@
     "tools/verify_build.py": "68349f37e7b439cd6051c5f35ea1e6061f7d15e5758b7868b7f8938b8f6b6bac",
     "tools/verify_library_field_freeze.py": "55ceb989c98c298d025d5be6cd87a00de0704ba320535af2ce278d2b23eb7fbf"
   },
+  "effective_dates": {
+    "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md": "2026-11-05T18:05:00Z"
+  },
+  "effective_edits": {
+    "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md": [
+      {
+        "after": "Peo4qCQ9PPg",
+        "before": "VzeAMK38r8Q",
+        "count": 2
+      }
+    ]
+  },
   "lastmod_edits": {
     "https://docs.broadcastwell.com/": "2026-11-05T18:05:00Z",
     "https://docs.broadcastwell.com/answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend/": "2026-11-05T18:05:00Z",
@@ -5192,7 +5204,7 @@
   "prior_artifact_sha256": "1badcad3e2416b9b156d8a310b7a59b5a06b1d8b529ab04837f042f7ddf700c1",
   "source_changes": {
     ".github/workflows/verify.yml": {
-      "after_sha256": "04e48520f4e31ea681adbc3d18faae306140e79c835b41812177ccfd5c372af9",
+      "after_sha256": "9016687c17e095fa42e9130f0fa9067a44c218713317ea38a40db2b0492d6337",
       "before_sha256": "1b7279d4e87f5d8275a95bc496c27531fdf8bfc5009980febf98273139636ff4"
     },
     ".gitignore": {
@@ -5202,10 +5214,6 @@
     "CLAUDE.md": {
       "after_sha256": "8e581156abc68b269253319d31fa96edab6c379b37a1986e4e44f898d1a108b4",
       "before_sha256": "d5a3ff30b4286a7fa6518da71884f80f66c624b6c248b579cfdfbd722af617fc"
-    },
-    "docs/answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md": {
-      "after_sha256": "dd2686501829400746f083df88808126303010756beb57693ca0c6fcf75103af",
-      "before_sha256": "5fb20bce29e6555ff535ccd8ebea633e9d4f06875cf0c6d1c8f5d0aedde89f8a"
     },
     "docs/assets/research/study2/Study2_What_AI_Search_Visibility_Costs_2026-09.pdf": {
       "after_sha256": "e1572a2a2a7f8a94cd3e6b09862ce89e3b75be0390860de6236bec48a83a6487",
@@ -5248,7 +5256,7 @@
       "before_sha256": "5aba9c9cd68edfde0c074de78d5f90a567f3dac5c34319fe77d8f5c3e5182f6f"
     },
     "tools/library_followup_release.py": {
-      "after_sha256": "e8db16276d79fdb51aab6504d067893de9ce96caebb65fb35a80f0247279e1de",
+      "after_sha256": "58eca97c8cfc03754d203c2c90c6ce8bdf4bed8389fa7c73fbc3d45bd738d180",
       "before_sha256": null
     },
     "tools/library_research_activation.py": {
