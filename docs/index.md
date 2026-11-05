@@ -1,19 +1,19 @@
 ---
-title: The Absence Manual
-headline: 'The Absence Manual: a technical manual on AI search visibility for B2B
-  software'
-description: A free, ungated technical manual on measuring and fixing AI search visibility,
-  built entirely from three published open datasets with DOIs. One chapter per URL.
-  No form, no login, no paywall.
+template: followup.html
+title: How can you measure AI search visibility?
+headline: How can you measure AI search visibility?
+description: Measure naming and citations separately with a fixed question bank, repeat runs and stated bases. Three published studies explain the method and its limits.
 schema_type: TechArticle
 page_class: page
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-28T17:40:48+00:00'
+date_modified: '2026-11-05T18:05:00Z'
 image: figures/absence-ladder.png
 is_based_on: https://github.com/Broadcastwell/state-of-geo-2026
 ---
 
-# The Absence Manual
+# How can you measure AI search visibility?
+
+Use a fixed question bank, repeated runs and explicit denominators to measure whether AI answers name or cite your company. This manual explains that method with three published studies and links each measured finding to its source.
 
 ## What this is
 
@@ -129,9 +129,9 @@ We turn the Absence Index into buyer answers we build, maintain and warrant on y
 
 [Read the agency scope](https://broadcastwell.com/for-agencies).
 
-**Fix Sprint, $3,900 ($3,410 after the $490 entry is credited, once).** Six contracted pages or rewrites over 30 days, including any credited entry page. One primary test is agreed before payment and re-measured at day 30: naming, own-domain citation or buyer-task completion. Measured gain on the agreed test, or the full $3,900 back. You keep the work.
+**Fix Sprint, $3,900 ($3,410 after the $490 entry is credited, once).** Six contracted pages or rewrites over 30 days, including any credited entry page. One primary test is agreed before payment and measured again at day 30: naming, own-domain citation or buyer-task completion. Measured gain on the agreed test, or the full $3,900 back. You keep the work.
 
-**Sprint channel add-on, $900.** Four posts on owned channels, added to a Fix Sprint.
+**One live buyer question, $19 once.** One buyer question of your choosing: five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three repeats and 15 planned answers with receipts, delivered within 24 hours of payment. $19 once, credited in full against Answer Repair within 30 days of payment for the same account, so the repair then costs $471. If we do not deliver within 24 hours of payment, we refund the $19 in full.
 
 **Care, $490 a month.** Only after setup. Integrity monitoring for up to 150 already-approved existing pages and two human hours a month. No new pages. Requires an explicit purchase, with no automatic enrolment.
 

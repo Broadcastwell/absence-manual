@@ -58,6 +58,9 @@ def on_pre_build(config):
 def on_page_markdown(markdown, page, config=None, files=None):
     if _CHAPTER_LINKS is None:
         raise ValueError("Finite Related map must validate before rendering pages")
+    from library_followup_release import FollowupSession
+    if isinstance(_PUBLICATION, FollowupSession):
+        return _PUBLICATION.source_markdown(markdown, page, _CHAPTER_LINKS)
     staged = _CHAPTER_LINKS.transform(page.file.src_uri, markdown)
     return _PUBLICATION.markdown(staged, page)
 

@@ -21,6 +21,10 @@ def blueprint(root):
 
 
 def mode(root):
+    if (root / 'tools/library-followup-20261105.json').exists() or (root / 'tools/library-followup-20261105.sha256').exists():
+        from library_followup_release import plan, validate_sources
+        validate_sources(root, plan(root))
+        return 'followup'
     present = [(root / p).exists() for p in [MODULE, TEXT_POLICY]]
     if not any(present):
         if any((root / p).exists() for p in [PLAN,PIN]):

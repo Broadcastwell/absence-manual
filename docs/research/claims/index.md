@@ -1,22 +1,23 @@
 ---
-title: "GEO Claim Registry: trace the number to its source"
-description: "Source checks for circulating GEO statistics: original findings, samples, dates, verdicts and corrections, including unresolved origins."
+title: Which GEO claims survive a check of their sources?
+description: Our 83 GEO claim checks separate original results from broader promises. Each entry gives the source, base, date, verdict and a correction or unresolved limit.
 page_class: research
 research_id: 51
 research_group: evidence
 lead: Vikram Patel
 published: '2026-11-02T21:56:24Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-05T16:01:47Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/claims/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T21:56:24Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-05T16:01:47Z'
 is_based_on: https://doi.org/10.5281/zenodo.23804758
+headline: Which GEO claims survive a check of their sources?
 ---
 
-# GEO Claim Registry: trace the number to its source
+# Which GEO claims survive a check of their sources?
 
 **Our 83 source checks distinguish a printed result from a general GEO promise; each entry states its source, setting and verification limit (November 2, 2026).**
 
@@ -24,7 +25,7 @@ Observed answers on stated dates, not a ranking.
 
 GEO (generative engine optimization), AEO and AI search visibility often travel with the same headline numbers. A repeated number may lose its original denominator. We keep the circulating claim beside the original metric and the correction. An unresolved source remains unresolved.
 
-[Download claims.csv](../data/claims.csv) or [claims.json](../data/claims.json). The two files contain the same 83 entries from our November 2, 2026 audit. The GEO headline entry carries a dated November 3 correction; the other entry dates remain as shown. This is a bounded claim audit, not a representative survey of research quality or an estimate of how often misinformation circulates. Entry headings state the claim evaluated. If no independently located republication is named, we do not imply a measured circulation history or attribute that exact wording to the original author.
+[Download claims.csv](../data/claims.csv) or [claims.json](../data/claims.json). The two files contain the same 83 entries from our November 2, 2026 audit. The GEO headline entry was rechecked on November 3. The Reddit and Quora entry was rechecked on November 5. Each entry shows its check date. This is a bounded claim audit, not a representative survey of research quality or an estimate of how often misinformation circulates. Entry headings state the claim evaluated. If no independently located republication is named, we do not imply a measured circulation history or attribute that exact wording to the original author.
 
 ## How do the verdicts work?
 
@@ -857,17 +858,17 @@ Our registered analyses describe the September 2026 answer archive and later pag
 
 <h2 id="bisht-domain-order">The retrieved manuscript proves Reddit ranks ahead of Quora</h2>
 
-**Verdict: unverifiable. Checked 2026-11-02.**
+**Verdict: unsupported. Checked 2026-11-05.**
 
 **Circulation:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript.
 
-**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Aggarwal et al., KDD 2024, DOI <https://doi.org/10.1145/3637528.3671900>. **Location:** Manuscript domain discussion.
+**Primary source:** Akshat Singh Bisht, Generative Engine Optimisation (GEO) vs. Traditional SEO: Implications for Digital Marketing Strategy in the Age of AI Search, supplied manuscript; Rachel Handley, Semrush AI search traffic study, July 21, 2025, https://www.semrush.com/blog/ai-search-seo-traffic-study/. **Location:** Manuscript section 5.3 (paragraph 121) and reference 16; Semrush section 4, Which Domains Appear the Most in AI Overviews?.
 
-**What the source establishes:** The current text names Reddit and Quora together. We have not identified an exact passage in this version that ranks Reddit first, so the stronger attributed error is not asserted. A source-specific ordering needs the original vendor table.
+**What the source establishes:** In section 5.3, the manuscript reports Reddit first and Quora second among the most cited domains in Google AI Overviews and attributes the order to Semrush reference 16. The cited Semrush article instead places Quora first and Reddit second in its study of more than 500 digital-marketing and SEO topics. The manuscript provides no original ranking data for its reversed order.
 
 **Base, setting and date:** Bibliographic and attribution audit of the retrieved manuscript, not an assessment of author intent.
 
-**Correction you may quote:** A pair of domain names does not establish their order.
+**Correction you may quote:** Bisht reverses the order stated by the cited Semrush study: Quora first, Reddit second.
 
 <h2 id="bisht-gartner-date">The Gartner search-volume forecast was issued in 2023</h2>
 

@@ -46,7 +46,7 @@ APPROVED_PALETTE = {
 BUY_ENTRY = "https://broadcastwell.com/answer-repair"
 RETIRED_OFFER_TEXT = [
     "currently on hold", "Check Audit availability", "Check Diagnostic availability",
-    "working draft", "founding rate", "$89",
+    "working draft", "founding rate", "$89", "Sprint channel add-on", "$900",
 ]
 
 # Sairam's ruling of 5 October 2026, section 0. Every remaining offer is always buyable, the
@@ -468,11 +468,14 @@ else:
     for required in (
         "Agency Deadline Audit: $490 per client report", "Answer Repair: $490.",
         "Fix Sprint: $3,900 ($3,410 after the $490 entry is credited, once)",
-        "Sprint channel add-on: $900", "Care: $490 a month", "Program: $5,500 a month",
+        "One live buyer question: $19 once.", "Care: $490 a month", "Program: $5,500 a month",
         "150-page build: $6,000 plus $250 a page, in batches of 25",
         "Orders placed before 26 October 2026 keep the terms shown at purchase.",
-        "https://broadcastwell.com/buy/answer-repair", "https://broadcastwell.com/buy/white-label-audit",
+        "Answer Repair buy route: https://broadcastwell.com/answer-repair",
+        "Agency Audit buy route: https://broadcastwell.com/answer-repair",
         "ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode",
+        "$19 once, credited in full against Answer Repair within 30 days of payment for the same account, so the repair then costs $471.",
+        "If we do not deliver within 24 hours of payment, we refund the $19 in full.",
     ):
         if required not in body:
             fail("llms.txt is missing the current Answer Operations rule %r" % required)

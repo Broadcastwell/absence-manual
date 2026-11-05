@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "reviewed_date": "2026-11-04",
+  "reviewed_date": "2026-11-05",
   "fragile_framing": "GEO experiment: Aggarwal et al. (KDD 2024) headline a gain of up to 40% in a position-adjusted word-count visibility metric. Treat it as fragile: the ICLR 2024 draft reported 37%, the paper's own five-seed rerun (appendix Table 6) gives 36.9%, and on Perplexity adding citations cut the judged score by 23% (19.0 vs 24.7) while keyword stuffing raised it 14%. It is not a citation, traffic or conversion gain.",
   "fragile_framing_pages": [
     "docs/research/evidence/quotable-numbers/index.md",
@@ -14,16 +14,16 @@
       "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
     },
     "docs/research/claims/index.md": {
-      "sha256": "efde2cc7dcfec1a3c51062c181d91289ac5a49f658740e6ad958cae3d76d420a",
-      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+      "sha256": "c32bfd984e5e70fb8046930f7b5f5ca7fe47ab9affe02dc50c83e01659114165",
+      "reason": "Reviewed November 5 Bisht attribution correction. The other 82 of 83 registry entries and the complete required fragile GEO framing remain unchanged; no general effectiveness claim is adopted."
     },
     "docs/research/data/claims.csv": {
-      "sha256": "43d16bc61825d9deae9efb1304a8434bb333465f11139794480f27a8333dc3e8",
-      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+      "sha256": "513b9cdd0cf3acc35f12345fed55fa29d03b90e06eb2d3da7ecbe003b4269ad6",
+      "reason": "Reviewed November 5 Bisht attribution correction. The other 82 of 83 registry entries and the complete required fragile GEO framing remain unchanged; no general effectiveness claim is adopted."
     },
     "docs/research/data/claims.json": {
-      "sha256": "0f5ca38eb5ce70fcb1c2e902947df41d08aca51c4353ed85d0b502caa5fc337d",
-      "reason": "Reviewed fragile framing, clearly rejected historical claim, or unrelated source-bounded interview range; no adopted general effectiveness claim."
+      "sha256": "e9723bc469203ef2363e9cef3a2f219eb85ec727e730b315966b56e3324ee120",
+      "reason": "Reviewed November 5 Bisht attribution correction. The other 82 of 83 registry entries and the complete required fragile GEO framing remain unchanged; no general effectiveness claim is adopted."
     },
     "docs/research/data/quotable-numbers.csv": {
       "sha256": "f3bb29e0473413f1422ea9d47414fe93a0a3f0c163fae0fe52f4b32f3d5039f7",

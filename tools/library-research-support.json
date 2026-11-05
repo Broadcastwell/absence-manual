@@ -20,7 +20,7 @@
   },
   "module_sha256": "9658c9c892ba3c95c06577f57a4fb625d23240b11d77c4fa22f00887ee6a7712",
   "policy": "LIBRARY_FINITE_RESEARCH_SUPPORT_V2",
-  "policy_sha256": "a413acca0a52bb221c46c173ab76fad3f603c417f9069c32ef19a10ab10c9edd",
+  "policy_sha256": "8e7d2f0d0d873d87798d09dad4a345a3b404dfdb4799420f5b0f7067be398ac9",
   "release_inputs": {
     "path": ".library-research-work/inputs.json",
     "sha256": "a06dae7704732dfb99907410f980228478b0f9806bbc63dd1161f4791a1cce53"
