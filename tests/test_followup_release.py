@@ -39,6 +39,16 @@ class FollowupReleaseTests(unittest.TestCase):
                 with self.subTest(path=path),self.assertRaisesRegex(ValueError,'Unsafe'):
                     safe_file(Path(td),path)
 
+    def test_final_stub_guard_rejects_partial_followup_mode(self):
+        from library_publication_verify_stubs import reviewed_stub_pages
+        with self.assertRaisesRegex(ValueError,'unknown, partial or mixed'):
+            reviewed_stub_pages(Path('unread'),Path('unread'),{'BW_LIBRARY_FOLLOWUP_OTHER':'bad'})
+
+    def test_final_stub_guard_rejects_mixed_followup_mode(self):
+        from library_publication_verify_stubs import reviewed_stub_pages
+        with self.assertRaisesRegex(ValueError,'unknown, partial or mixed'):
+            reviewed_stub_pages(Path('unread'),Path('unread'),{'BW_LIBRARY_FOLLOWUP_PLAN_SHA256':'a'*64,'BW_OWNER_REPAIR_INPUTS':'bad'})
+
     def test_mixed_followup_and_research_modes_are_rejected(self):
         from library_build_dispatch import from_environment
         with patch.dict(os.environ,{'BW_LIBRARY_FOLLOWUP_PLAN_SHA256':'a'*64,'BW_RESEARCH_RELEASE_INPUTS':'inputs','BW_RESEARCH_RELEASE_INPUTS_SHA256':'b'*64},clear=True):

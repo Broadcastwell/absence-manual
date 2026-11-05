@@ -69,6 +69,23 @@ def _logical_inputs(value):
 def reviewed_stub_pages(root,site,environment=None):
     """No inputs means no exception; a partial/invalid active input fails."""
     env=os.environ if environment is None else environment
+    followup_keys={k for k in env if k.startswith('BW_LIBRARY_FOLLOWUP_')}
+    if followup_keys:
+        require(followup_keys=={'BW_LIBRARY_FOLLOWUP_PLAN_SHA256'}
+            and not any(k.startswith(('BW_LIBRARY_PUBLICATION_','BW_OWNER_REPAIR_','BW_RESEARCH_RELEASE_')) for k in env),
+            'Follow-up final-stub dispatch: unknown, partial or mixed mode')
+        from library_followup_release import FollowupSession, PLAN
+        require(env['BW_LIBRARY_FOLLOWUP_PLAN_SHA256']==sha((Path(root)/PLAN).read_bytes()),
+            'Follow-up final-stub plan pin differs')
+        session=FollowupSession.load({'docs_dir':str(Path(root)/'docs')})
+        try:
+            proof=validate_stub_artifacts(session.previous.overlay,site)
+            require(len(proof)==19 and set(proof)==set(session.base.prior['merged_sources']),
+                'Follow-up final guard lost exact19 inherited decisions')
+            return proof
+        finally:
+            session.archive.close()
+            session.previous.archive.close()
     research_keys={k for k in env if k.startswith('BW_RESEARCH_RELEASE_')}
     if research_keys:
         require(research_keys=={'BW_RESEARCH_RELEASE_INPUTS','BW_RESEARCH_RELEASE_INPUTS_SHA256'}

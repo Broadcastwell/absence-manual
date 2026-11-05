@@ -3433,7 +3433,7 @@
     "tests/test_answers_published_audit_extension.py": "435ae8594558f75afc871b0fa69d56669abb7edfab54186a37d2b547c3e587ed",
     "tests/test_answers_published_list_audit.py": "a04a21d9ee1ebe6bf6f5b39d62bd3b60f0901860b40d2784bbe12e00dd93f86f",
     "tests/test_discovery_consumer_five.py": "e725ad9bf46e0299f62037ffa956ad5a69b1574748ec14d53eb56368d08eb4cf",
-    "tests/test_followup_release.py": "bb8134ac6d0363fcdb61b70dc78c0d9bd953748ce06b97752648d4b66d2b625c",
+    "tests/test_followup_release.py": "736a5ab4f0fda04c03c08dee5483192bd5292f5bc3a47f2aeccb19436def0aaa",
     "tests/test_library_field_freeze_navigation.py": "ef4e1b6082dcd132c0110aeac5fa134df97a820918516afe57c83830a9bbd76f",
     "tests/test_library_publication_verify_stubs.py": "27757723b2b9d25dad6ed7e0c1ec895bcc85171d91cec47de7ff2a0da54e13c4",
     "tests/test_library_quality.py": "d04284c1a4812a95f078c0692138c0130ef8667c6de1c0010a58144c381aeb0d",
@@ -5122,7 +5122,7 @@
     "tools/library_publication_release.py": "5580daee9fef55111572afe6c735ed1025db71eb7d0df3ab8803f8acc3427339",
     "tools/library_publication_sitemap_dates.py": "9440da1ef472ff8b8f0602f47eac6a4303886b43659376b51d71f3a667d65aae",
     "tools/library_publication_stage.py": "3ffd61576c967ece97c4bbd9aaa8119c7d15e1e0ac94ae93cb359fd83075d25a",
-    "tools/library_publication_verify_stubs.py": "a46b5c132969134e8384cb46b8db8e503f1c1eb425350b3f000962221959bbdd",
+    "tools/library_publication_verify_stubs.py": "ed9c85a244311221c1d3e0e34a88beaa88cb82e769ff78164276f652cfef8713",
     "tools/library_published_discovery_consumer_five.py": "e0f4ae0ef8db37c2a36f15c9f644fa65b9ce5408302a258e7f7516ba28531107",
     "tools/library_quality.py": "167511781baa8552afa6824c0bae417bc4c63d47915809f76c5c0e9408964179",
     "tools/library_quality_annotations.json": "27dd4eda837ccc392020f9b9ae93e2ead7415e9d5152c8ba2248b6923f0974af",
@@ -5253,7 +5253,7 @@
       "before_sha256": null
     },
     "tests/test_followup_release.py": {
-      "after_sha256": "bb8134ac6d0363fcdb61b70dc78c0d9bd953748ce06b97752648d4b66d2b625c",
+      "after_sha256": "736a5ab4f0fda04c03c08dee5483192bd5292f5bc3a47f2aeccb19436def0aaa",
       "before_sha256": null
     },
     "tools/library_build_dispatch.py": {
@@ -5263,6 +5263,10 @@
     "tools/library_followup_release.py": {
       "after_sha256": "58eca97c8cfc03754d203c2c90c6ce8bdf4bed8389fa7c73fbc3d45bd738d180",
       "before_sha256": null
+    },
+    "tools/library_publication_verify_stubs.py": {
+      "after_sha256": "ed9c85a244311221c1d3e0e34a88beaa88cb82e769ff78164276f652cfef8713",
+      "before_sha256": "a46b5c132969134e8384cb46b8db8e503f1c1eb425350b3f000962221959bbdd"
     },
     "tools/library_research_activation.py": {
       "after_sha256": "08533d325637eb2e81e5080b95939dd13d0d4494949bc013ee8ff0f864e650c3",
@@ -5285,12 +5289,13 @@
     "basis": "Direct owner ruling dated 5 November 2026; each finite source change and the inherited complete source inventory reviewed. The actual Linux artifact still requires separate approval.",
     "claim_registry_base": 83,
     "claim_registry_changed_entries": 1,
+    "exact_original_canonical_stub_decisions": 19,
     "historical_quality_pins_unchanged": true,
     "historical_template_pins_unchanged": true,
     "preserved_correction_event": "2026-11-05T16:01:47Z",
     "primary_source": "https://www.semrush.com/blog/ai-search-seo-traffic-study/",
     "registered_frozen_pages_excluded": 45,
-    "reviewed_utc": "2026-11-05T18:40:06.004666+00:00",
+    "reviewed_utc": "2026-11-05T18:42:43.014263+00:00",
     "reviewer": "Broadcastwell Library desk",
     "unchanged_entries": 82
   },
