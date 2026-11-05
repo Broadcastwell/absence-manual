@@ -3113,7 +3113,7 @@
     "docs/googlefda93e56a71f6d4d.html": "6625097daaf656abfc97c90a95c357555b38321f4fffdc8086bd4df91cf6c595",
     "docs/how-long-it-takes.md": "9e242a46fa904b0fae13f22f863aa1edfaaf5644d4a20f36b0bc144bb98cbdbf",
     "docs/how-to-buy-geo.md": "8013baabd2be51250b1536cce0ea85a4e68135e435f57c136d0a8ad65bca6f71",
-    "docs/index.md": "dd8a5f06f222a39bc32192c6d39a687add7888d607f81a063d729890fbaaaf90",
+    "docs/index.md": "5decaabe29ea42e7803edb9c8584241f89c6767212aaa0bde61fdc6710333f68",
     "docs/launchpad.md": "b9654cd26b37e41cb12732f1398e87631dcb38a38006226e59c17219017303f2",
     "docs/llms.txt": "d992c2d9a2c9abd27c7435ea09916e0791e01227ec5608ee9b47146636668f0b",
     "docs/measurement-noise.md": "e4d3f18afb52fa69a736532fa3bf7e976f1791953750fe3810da71923f486001",
@@ -3326,7 +3326,8 @@
     "docs/who-gets-cited.md": "604cf6ed340cc02e682cc752b518fac869658856fbe6c28f883e32c447d28146",
     "docs/why-does-chatgpt-not-mention-us.md": "d9ad7bd5b3411c03ce1d08edf3968200179f7d20ddec87563973228714018a14",
     "mkdocs.yml": "2117b8e6ff2638eb01cf9f39912ba89f2a557dcf5afcc0ae0f78ba31a265201a",
-    "overrides/main.html": "0b4c9171e2be7bc02cfcf72c554aa792f681815cb97961888b8477a1f0846b51",
+    "overrides/followup.html": "8e40566e0be97800dea1d0bd6181195e544f44fc20196964486eb6111a2d8928",
+    "overrides/main.html": "c9b405202180e534f5d109831a4909054d5a9c65ce6f96432ab47526576d2ebe",
     "overrides/partials/search.html": "a798fba1287e449df90d727699ff31c62244e87b75aa6409c8bda3ee6981e36e",
     "overrides/partials/site-footer.html": "e6e9779e8dfd20592f937e39502ab40bcbc2102c29473e89741dc271e124ca41",
     "overrides/partials/site-header.html": "30cb7ee07e8cd08ba7d5568d8dc47e60917efce4e7ee0006b6b2f1312d2e8f29",
@@ -5220,7 +5221,7 @@
       "before_sha256": "3ed18647746445276604e1c739f2d809775db21f19904c5d7f927f95b116f421"
     },
     "docs/index.md": {
-      "after_sha256": "dd8a5f06f222a39bc32192c6d39a687add7888d607f81a063d729890fbaaaf90",
+      "after_sha256": "5decaabe29ea42e7803edb9c8584241f89c6767212aaa0bde61fdc6710333f68",
       "before_sha256": "bdb3344ca6bb13585ad1086e12d78f08713bd03c0748dc6741757f01af4f7047"
     },
     "docs/llms.txt": {
@@ -5247,9 +5248,9 @@
       "after_sha256": "52188c13421be753239c4d74c1b42db224ac12ab573e57e5a6d0695939a93ee2",
       "before_sha256": "6453a6fe788803a60c4dd239cce2c0b90a6e2f0d7fd6309fd3ccfd339fc873a7"
     },
-    "overrides/main.html": {
-      "after_sha256": "0b4c9171e2be7bc02cfcf72c554aa792f681815cb97961888b8477a1f0846b51",
-      "before_sha256": "c9b405202180e534f5d109831a4909054d5a9c65ce6f96432ab47526576d2ebe"
+    "overrides/followup.html": {
+      "after_sha256": "8e40566e0be97800dea1d0bd6181195e544f44fc20196964486eb6111a2d8928",
+      "before_sha256": null
     },
     "tests/test_followup_release.py": {
       "after_sha256": "bb8134ac6d0363fcdb61b70dc78c0d9bd953748ce06b97752648d4b66d2b625c",
@@ -5285,10 +5286,11 @@
     "claim_registry_base": 83,
     "claim_registry_changed_entries": 1,
     "historical_quality_pins_unchanged": true,
+    "historical_template_pins_unchanged": true,
     "preserved_correction_event": "2026-11-05T16:01:47Z",
     "primary_source": "https://www.semrush.com/blog/ai-search-seo-traffic-study/",
     "registered_frozen_pages_excluded": 45,
-    "reviewed_utc": "2026-11-05T18:36:29.209046+00:00",
+    "reviewed_utc": "2026-11-05T18:40:06.004666+00:00",
     "reviewer": "Broadcastwell Library desk",
     "unchanged_entries": 82
   },

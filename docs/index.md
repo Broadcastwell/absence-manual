@@ -1,4 +1,5 @@
 ---
+template: followup.html
 title: How can you measure AI search visibility?
 headline: How can you measure AI search visibility?
 description: Measure naming and citations separately with a fixed question bank, repeat runs and stated bases. Three published studies explain the method and its limits.
