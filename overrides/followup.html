@@ -3,3 +3,7 @@
 {% block htmltitle %}
 <title>{{ page.title | striptags }}</title>
 {% endblock %}
+
+{% block content %}
+{{ super() | replace('<a href="https://broadcastwell.com/for-agencies">Agency Audit, $490 per client report</a>', '<a href="https://broadcastwell.com/answer-repair">Agency Deadline Audit, $490 per client report</a>') | replace('Last reviewed 26 October 2026', 'Last reviewed 5 November 2026') }}
+{% endblock %}

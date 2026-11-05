@@ -134,6 +134,10 @@ class FollowupSession:
         self.changed_markdown = {p.removeprefix('docs/') for p in self.data['source_changes'] if p.startswith('docs/') and p.endswith('.md')}
         self.contexts = {}
         self.expected_sources = {}
+        self.visibility = None
+        if self.data.get('visibility_decisions_sha256'):
+            from library_visibility_release import VisibilityEdits
+            self.visibility = VisibilityEdits(self.root, self.data['visibility_decisions_sha256'])
         return self
 
     def source_markdown(self, markdown, page, finite_links):
@@ -142,20 +146,23 @@ class FollowupSession:
             from library_related_chapter_links import source_body
             meta, body = source_body(safe_file(self.docs, p).read_text(encoding='utf-8'))
             require(markdown == body and page.meta == meta, 'Changed page does not use reviewed source: ' + p)
-            self.expected_sources[p] = {'body': body, 'meta': copy.deepcopy(meta)}
-            return markdown
-        body = self.previous.markdown(finite_links.transform(p, markdown), page)
-        for edit in self.data.get('effective_edits', {}).get(p, []):
-            require(body.count(edit['before']) == edit['count'],
-                    'Published source differs from its exact reviewed edit: ' + p)
-            body = body.replace(edit['before'], edit['after'])
-        if p in self.data.get('effective_dates', {}):
-            page.meta['date_modified'] = self.data['effective_dates'][p]
+        else:
+            body = self.previous.markdown(finite_links.transform(p, markdown), page)
+            for edit in self.data.get('effective_edits', {}).get(p, []):
+                require(body.count(edit['before']) == edit['count'],
+                        'Published source differs from its exact reviewed edit: ' + p)
+                body = body.replace(edit['before'], edit['after'])
+            if p in self.data.get('effective_dates', {}):
+                page.meta['date_modified'] = self.data['effective_dates'][p]
+        if self.visibility:
+            body, page.meta = self.visibility.apply(p, body, page.meta)
+            page.title = page.meta['title']
         self.expected_sources[p] = {'body': body, 'meta': copy.deepcopy(page.meta)}
         return body
 
     def retain_owner_navigation(self, nav, files):
-        return self.previous.retain_owner_navigation(nav, files)
+        nav = self.previous.retain_owner_navigation(nav, files)
+        return self.visibility.navigation(nav, files) if self.visibility else nav
 
     def capture_page(self, output, page):
         self.previous.capture_page(output, page)
@@ -179,6 +186,8 @@ class FollowupSession:
             require(llms.count(r['before']) == r['count'], 'llms decision no longer matches prior text')
             llms = llms.replace(r['before'], r['after'])
         (self.site / 'llms.txt').write_text(llms, encoding='utf-8', newline='\n')
+        if self.visibility:
+            self.visibility.prepare_outputs(self.site)
         xml = (self.site / 'sitemap.xml').read_bytes()
         for url, date in self.data['lastmod_edits'].items():
             pattern = rb'(<url>\s*<loc>' + re.escape(url.encode()) + rb'</loc>\s*<lastmod>)([^<]+)(</lastmod>)'
@@ -285,6 +294,10 @@ def verify(root):
     source_proof = validate_sources(root, data)
     site = root / 'site'
     actual = output_inventory(site)
+    if data.get('visibility_decisions_sha256'):
+        from verify_visibility_release import validate as validate_visibility
+        visibility = validate_visibility(site, json.loads((root / 'tools/library-visibility-20261105.json').read_bytes()))
+        (root / 'visibility-release-check.json').write_bytes(json_bytes(visibility))
     with zipfile.ZipFile(root / data['prior_artifact_path']) as z:
         before = {p: sha(z.read(p)) for p in z.namelist() if not p.endswith('/') and p not in PRIVATE}
     observation = {'observed_utc': datetime.now(timezone.utc).isoformat(), 'approved': False,
