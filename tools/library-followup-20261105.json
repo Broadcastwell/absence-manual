@@ -3115,7 +3115,7 @@
     "docs/how-to-buy-geo.md": "8013baabd2be51250b1536cce0ea85a4e68135e435f57c136d0a8ad65bca6f71",
     "docs/index.md": "5decaabe29ea42e7803edb9c8584241f89c6767212aaa0bde61fdc6710333f68",
     "docs/launchpad.md": "b9654cd26b37e41cb12732f1398e87631dcb38a38006226e59c17219017303f2",
-    "docs/llms.txt": "d992c2d9a2c9abd27c7435ea09916e0791e01227ec5608ee9b47146636668f0b",
+    "docs/llms.txt": "d1c33b258843dab0da959a4f704fec358619e4a63aa7723c73bd0f00963ea6c0",
     "docs/measurement-noise.md": "e4d3f18afb52fa69a736532fa3bf7e976f1791953750fe3810da71923f486001",
     "docs/named-zero-times.md": "954690786c5f1e7b1eb64560f0ebae14faf5ac7ea3cb58769e8ff079fd412ff3",
     "docs/overview-trigger-rate.md": "bb063b19cfb07afc593521867e857cdebda3988f97cb33e2b446963407989685",
@@ -5173,13 +5173,28 @@
   },
   "llms_edits": [
     {
-      "after": "- Fix Sprint: $3,900 ($3,410 after the $490 entry is credited, once). The $490 entry credits once against the $3,900 Fix Sprint, leaving $3,410. Six contracted pages or rewrites over 30 days, including any credited entry page. One primary test, naming, own-domain citation or buyer-task completion, agreed before payment and measured again at day 30. Measured gain on the agreed test, or the full $3,900 back. The client keeps the work. https://broadcastwell.com/fix-sprint",
+      "after": "- Agency Deadline Audit: $490 per client report, white label. Ten agreed buyer questions, asked three times on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode: 150 planned answers. Valid answers and exclusions shown separately. Three prioritized fixes and one paste-ready change of 250 words or fewer. Findings within 48 hours of recorded scope confirmation. Refundable in full within 30 days. No full-page deployment. We never contact the agency's client during the work or for twelve months after. https://broadcastwell.com/answer-repair",
+      "before": "- Agency Deadline Audit: $490 per client report, white label. Ten agreed buyer questions, asked three times on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode: 150 planned answers. Valid answers and exclusions shown separately. Three prioritized fixes and one paste-ready change of 250 words or fewer. Findings within 48 hours of recorded scope confirmation. Refundable in full within 30 days. No full-page deployment. We never contact the agency's client during the work or for twelve months after. https://broadcastwell.com/for-agencies",
+      "count": 1
+    },
+    {
+      "after": "- Fix Sprint: $3,900 ($3,410 after the $490 entry is credited, once). The $490 entry credits once against the $3,900 Fix Sprint, leaving $3,410. Six contracted pages or rewrites over 30 days, including any credited entry page. One primary test, naming, own-domain citation or buyer-task completion, agreed before payment and measured again at day 30. Measured gain on the agreed test, or the full $3,900 back. The client keeps the work. https://broadcastwell.com/answer-repair",
       "before": "- Fix Sprint: $3,900 ($3,410 after the $490 entry is credited, once). The $490 entry credits once against the $3,900 Fix Sprint, leaving $3,410. Six contracted pages or rewrites over 30 days, including any credited entry page. One primary test, naming, own-domain citation or buyer-task completion, agreed before payment and re-measured at day 30. Measured gain on the agreed test, or the full $3,900 back. The client keeps the work. https://broadcastwell.com/fix-sprint",
       "count": 1
     },
     {
       "after": "- One live buyer question: $19 once. One buyer question of your choosing: five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three repeats and 15 planned answers with receipts, delivered within 24 hours of payment. $19 once, credited in full against Answer Repair within 30 days of payment for the same account, so the repair then costs $471. If we do not deliver within 24 hours of payment, we refund the $19 in full.",
       "before": "- Sprint channel add-on: $900. Four posts on owned channels, added to a Fix Sprint.",
+      "count": 1
+    },
+    {
+      "after": "- Answer Repair buy route: https://broadcastwell.com/answer-repair",
+      "before": "- Answer Repair buy route: https://broadcastwell.com/buy/answer-repair",
+      "count": 1
+    },
+    {
+      "after": "- Agency Audit buy route: https://broadcastwell.com/answer-repair",
+      "before": "- Agency Audit buy route: https://broadcastwell.com/buy/white-label-audit",
       "count": 1
     },
     {
@@ -5225,7 +5240,7 @@
       "before_sha256": "bdb3344ca6bb13585ad1086e12d78f08713bd03c0748dc6741757f01af4f7047"
     },
     "docs/llms.txt": {
-      "after_sha256": "d992c2d9a2c9abd27c7435ea09916e0791e01227ec5608ee9b47146636668f0b",
+      "after_sha256": "d1c33b258843dab0da959a4f704fec358619e4a63aa7723c73bd0f00963ea6c0",
       "before_sha256": "35cfd635a7bd547bdf7c16fe2a62a29c453133f5c76e7bcacbbc9f54d23ec1a7"
     },
     "docs/research/claims/index.md": {
@@ -5305,10 +5320,11 @@
     "exact_original_canonical_stub_decisions": 19,
     "historical_quality_pins_unchanged": true,
     "historical_template_pins_unchanged": true,
+    "paid_offer_destinations": "Four llms paid-offer routes now point to the owner-approved answer-repair page; informational references remain separate.",
     "preserved_correction_event": "2026-11-05T16:01:47Z",
     "primary_source": "https://www.semrush.com/blog/ai-search-seo-traffic-study/",
     "registered_frozen_pages_excluded": 45,
-    "reviewed_utc": "2026-11-05T18:54:50.606297+00:00",
+    "reviewed_utc": "2026-11-05T19:04:27.990869+00:00",
     "reviewer": "Broadcastwell Library desk",
     "unchanged_entries": 82
   },
