@@ -1,24 +1,58 @@
 ---
-title: What AI Said, 10 November 2026
-headline: 'What AI Said this week: one question, five engines, and what a single check misses'
-description: Full transcript and sources for the weekly episode of What AI Said by Broadcastwell. One buyer question across five engines, two Google surfaces, repeat runs, and what a single check cannot show.
+title: Do ChatGPT, Claude, Perplexity and Google give the same software shortlist?
+headline: 'Do ChatGPT, Claude, Perplexity and Google give the same software shortlist? What AI Said, 10 November 2026'
+description: 'No. On 22 September 2026 Procore was named in 0 of 3 Google AI Overview answers and 3 of 3 AI Mode answers to the same question. Full transcript, the numbers and their sources.'
 page_class: note
 schema_type: TechArticle
 date_published: '2026-11-04T14:25:57+00:00'
-date_modified: '2026-11-04T14:25:57+00:00'
+date_modified: '2026-11-05T19:40:00+00:00'
 image: figures/within-vs-between.png
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
-# What AI Said this week: one question, five engines, and what a single check misses
+# Do ChatGPT, Claude, Perplexity and Google give the same software shortlist?
 
-Episode of 10 November 2026. This is the full transcript of the weekly episode of What AI Said by Broadcastwell, with every figure and where it comes from.
+Do ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode give a buyer the same shortlist? No, and the strangest case sits inside Google itself. On 22 September 2026 we asked about construction software for a small residential builder. Procore was named in 0 of 3 Google AI Overview answers and in 3 of 3 Google AI Mode answers. Same company, same question, same day, two Google products. ([The Absence Manual](https://docs.broadcastwell.com/answers/google-ai/how-do-google-ai-overviews-and-ai-mode-compare/), built on Absence Index release 2026-09.)
+
+This page is the full transcript of the episode of What AI Said for 10 November 2026, with every figure and its source.
 
 > **Operator disclosure.** Broadcastwell ran these measurements and sells services in the category it measures. Broadcastwell is not measured in its own Index.
 
+**In short**
+
+- Each engine keeps its own shortlist. On one landlord question, ChatGPT held one name on all three runs and Claude held four. ([Absence Index, residential property management](https://index.broadcastwell.com/categories/residential-property-management/))
+- Google is two products. Ahrefs found AI Mode and AI Overviews cited the same URLs only 13.7% of the time. ([Ahrefs](https://ahrefs.com/blog/ai-overviews-vs-ai-mode/))
+- Asking again changes the answer. 1,785 of 8,055 single run namings, 22.2%, were not repeated by both other runs of the same question on the same engine. ([Study 3, Run-to-run noise](https://broadcastwell.com/research/run-to-run-noise))
+- 16.1% of 286 checked vendors were never named in any of 2,095 answers across the five engines. ([Study 1, The Shortlist Gap](https://zenodo.org/records/22982426))
+
 These are observed answers on stated dates, not a ranking and not a judgment of any product. An engine can answer differently on a refresh. A vendor not on our checked list is not a measured absence.
 
-## Transcript
+## Why does Google AI Overviews leave out a vendor that Google AI Mode names?
+
+Most teams treat Google as one result. Google records two products, and we record them separately. On the small residential builder question, Procore appeared in 0 of 3 Overview answers and 3 of 3 AI Mode answers ([The Absence Manual](https://docs.broadcastwell.com/answers/google-ai/how-do-google-ai-overviews-and-ai-mode-compare/)). Ahrefs, comparing the two at scale, found they cited the same URLs 13.7% of the time ([Ahrefs](https://ahrefs.com/blog/ai-overviews-vs-ai-mode/)). Ahrefs also notes that sources shift between generations, so the true overlap may be higher than that. We do not know which of the two surfaces a given buyer sees first.
+
+## Do ChatGPT, Claude and Perplexity agree on the same buyer question?
+
+Not on this one. On 22 September 2026 we asked each engine for the best property management software for a small landlord, three times. ChatGPT held one name on all three runs: TurboTenant. Claude held four: Buildium, TenantCloud, TurboTenant and Landlord Studio. Perplexity held DoorLoop, Innago and Landlord Studio. Both Google surfaces held three names, but not the same three ([Absence Index, residential property management](https://index.broadcastwell.com/categories/residential-property-management/)). The engine a buyer opens decides which companies that buyer hears about.
+
+## How often does an AI answer change when you ask the same question again?
+
+Often enough to matter. We ran every question three times on the same day. Of 8,055 single run namings, 1,785 were not repeated by both other runs, which is 22.2% ([Study 3, Run-to-run noise](https://broadcastwell.com/research/run-to-run-noise)). Google AI Overviews and Google AI Mode disagreed with themselves the most. Our study measures variation within one day ([Study 3 record](https://zenodo.org/records/22982432)); what happens across weeks is not measured here.
+
+## Is being used as a source the same as being named?
+
+No. In construction project management software, Procore was named in 109 of 150 answers ([Who AI names, construction](https://app.broadcastwell.com/who-ai-names/construction-project-management)). The own domain the answers used most was Fieldwire's, 37 of 150, with Procore's at 30 ([Absence Index, construction project management](https://index.broadcastwell.com/categories/construction-project-management/)). Semrush, looking at 3,981 domain appearances, found 61.7% were ghost citations, where the domain was used and the brand was not said ([Semrush](https://www.semrush.com/blog/the-ghost-citations-study/)). Keep two counts: whether the answer says your name, and whether it uses your pages.
+
+## How many software vendors do AI engines never name?
+
+16.1% of the 286 checked vendors, 46 of them, were named in none of the 2,095 answers (95% interval 12.3% to 20.8%). By engine, ChatGPT never named 115 of the 286 and Claude, the lowest, 66 ([Study 1, The Shortlist Gap](https://zenodo.org/records/22982426)). A zero is a measured absence in this release and says nothing about the product or about other dates.
+
+## Can you rank vendors by how often AI names them?
+
+Only with care. In dental practice management software, Dentrix, Open Dental and Curve Dental were named in 120, 118 and 115 of 149 answers ([Absence Index, dental practice management](https://index.broadcastwell.com/categories/dental-practice-management/)). The intervals around those counts overlap, so these data do not put one ahead of another. The engines' own words do not settle it either. Perplexity, asked on 22 September 2026 for the best dental practice software for a startup practice, wrote in one run that "Open Dental is the value pick" ([answer record](https://zenodo.org/records/22907695/files/answers-2026-09.jsonl?download=1)). SparkToro found under one chance in a thousand of getting the same list in the same order twice ([SparkToro](https://sparktoro.com/blog/new-research-ais-are-highly-inconsistent-when-recommending-brands-or-products-marketers-should-take-care-when-tracking-ai-visibility/)). Report presence with its base, and leave position out.
+
+## Full transcript
+
 
 This is What AI Said, from Broadcastwell. First, what moved in the index this week. Nothing did, and that matters, because our September release is still the current one. That is fourteen categories, 286 checked vendors and 2,095 valid answers.
 
@@ -49,6 +83,7 @@ Finally, the limits. These are observed answers on stated dates, not a ranking, 
 So one screen capture from one engine is a data point, and never a verdict. Next week, the question is the same, and the index may have moved. What will you check before then? That is What AI Said for this week.
 
 Every number here has a dated source, and the transcript lists each one. Which engine names you, and which one does not?
+
 
 ## What moved this week
 
