@@ -33,6 +33,7 @@ extra:
   manual_version: "1.0"
   manual_version_label: "Version 1.0, August 2026"
   manual_version_date: "2026-08-18"
+  manual_build_date: "2026-11-05"
   social: []
   generator: false
 

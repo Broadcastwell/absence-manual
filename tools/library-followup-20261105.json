@@ -5759,7 +5759,7 @@
     "docs/vendor-facts.md": "772dd212887ae17c35f336d2f4c1c95bd56531061679165fab591f46adc623e7",
     "docs/who-gets-cited.md": "604cf6ed340cc02e682cc752b518fac869658856fbe6c28f883e32c447d28146",
     "docs/why-does-chatgpt-not-mention-us.md": "d9ad7bd5b3411c03ce1d08edf3968200179f7d20ddec87563973228714018a14",
-    "mkdocs.yml": "2117b8e6ff2638eb01cf9f39912ba89f2a557dcf5afcc0ae0f78ba31a265201a",
+    "mkdocs.yml": "673ab5944a998b6857dbf85a2ec287cbc5c8f834a923d327951f9bad933d67db",
     "overrides/followup.html": "d103f1609a2e57119886f22ed125c18fdd9d7a4beeb33734496dab9090b5e5d0",
     "overrides/main.html": "c9b405202180e534f5d109831a4909054d5a9c65ce6f96432ab47526576d2ebe",
     "overrides/partials/search.html": "a798fba1287e449df90d727699ff31c62244e87b75aa6409c8bda3ee6981e36e",
@@ -5886,7 +5886,7 @@
     "tests/test_owner_repair_stage_media.py": "6cf3ceae12f9c91de44435856880156cdfae94878a3ecdb5afe8ce3081768d57",
     "tests/test_owner_required28.py": "bb406777c33a6dc454a523847fe791fc57b1052fb2478f57a00e6f0b3c8dc2ab",
     "tests/test_owner_required28_internal_plan.py": "7adaca2b0949cd90f4fc0a0df2bd903e04fd9a3ad4c62207d930c93c4e1fc7f3",
-    "tests/test_pdf_reproducible_fonts.py": "e991ea8c113d1325b73d33ba06090d47c94c64994f0ff127d27fa816c4326a14",
+    "tests/test_pdf_reproducible_fonts.py": "050502d5d0713f1b84f19b4115254868e1d6f7d702d65ccd9ee1cedef6b589fc",
     "tests/test_performance_asset_line_endings.py": "2d99f6d0bdfe62ab236ad3db4e18acad5f53b79806fd0e4944c4c78d621cd01d",
     "tests/test_publication_both_scopes.py": "89faac17521776c6fb46564ef863a877091c7b004f77a62c45fdfb1ec82d9823",
     "tests/test_publication_build.py": "1857b3537fe7ef7a39bd1bdf03c8e7aff0c8347044be2818e80d182b29360cee",
@@ -5917,7 +5917,7 @@
     "tests/test_research_study_closing.py": "5da4a14c821853ebc012aee357a023b302bf05094d1e29247e4fb655d5aa5b43",
     "tests/test_research_support.py": "e4727726e94d6dcaf51b24730c2c2654cf104f927fab4c99a6c929832836ad5a",
     "tests/test_verified_preview.py": "0648a8d2a614bc6820e582a818716eac9e3ea1e42be6a9d503d296c8cba4e8e4",
-    "tools/build_pdf.py": "bfe0c58a34e918e5f96bad4d34e5dcc153ceab40e5086c24844f62b31a25b317",
+    "tools/build_pdf.py": "064b431cde319e7250ace3562ff4f312cb915990fe96b2bf8202bd7caf0a73b3",
     "tools/generate_answers_llms.py": "28e72ac6b729800e0bb1696cc49a1a09466f752ceb955ad732e0a539096def13",
     "tools/hooks.py": "ea0147dcf4bc789ef5b91b37c2360da8da52020690764e0438999ee207a0c2e6",
     "tools/library-owner-repair/ARTIFACT_AND_PDF_GATES.PENDING.json": "30f7aeaa9e9ed4b153fa0d62fb4983b842bd2a1627d82529a4a3621cc066a536",
@@ -8093,6 +8093,11 @@
       "after_sha256": "52188c13421be753239c4d74c1b42db224ac12ab573e57e5a6d0695939a93ee2",
       "before_sha256": "6453a6fe788803a60c4dd239cce2c0b90a6e2f0d7fd6309fd3ccfd339fc873a7"
     },
+    "mkdocs.yml": {
+      "after_sha256": "673ab5944a998b6857dbf85a2ec287cbc5c8f834a923d327951f9bad933d67db",
+      "before_sha256": "2117b8e6ff2638eb01cf9f39912ba89f2a557dcf5afcc0ae0f78ba31a265201a",
+      "reason": "Keep the already reviewed Manual reading-copy date reproducible across UTC midnight; reject invalid dates and do not consult the build clock."
+    },
     "overrides/followup.html": {
       "after_sha256": "d103f1609a2e57119886f22ed125c18fdd9d7a4beeb33734496dab9090b5e5d0",
       "before_sha256": null
@@ -8104,6 +8109,16 @@
     "tests/test_library_visibility_release.py": {
       "after_sha256": "37e3d8fc9160927ecef1313460a1d97236ef48f19f699a70fd24a1db22c53062",
       "before_sha256": null
+    },
+    "tests/test_pdf_reproducible_fonts.py": {
+      "after_sha256": "050502d5d0713f1b84f19b4115254868e1d6f7d702d65ccd9ee1cedef6b589fc",
+      "before_sha256": "e991ea8c113d1325b73d33ba06090d47c94c64994f0ff127d27fa816c4326a14",
+      "reason": "Keep the already reviewed Manual reading-copy date reproducible across UTC midnight; reject invalid dates and do not consult the build clock."
+    },
+    "tools/build_pdf.py": {
+      "after_sha256": "064b431cde319e7250ace3562ff4f312cb915990fe96b2bf8202bd7caf0a73b3",
+      "before_sha256": "bfe0c58a34e918e5f96bad4d34e5dcc153ceab40e5086c24844f62b31a25b317",
+      "reason": "Keep the already reviewed Manual reading-copy date reproducible across UTC midnight; reject invalid dates and do not consult the build clock."
     },
     "tools/library-research-support.json": {
       "after_sha256": "803afdc7d03b03bf525941159f63b96e82e26b5fd80e2cf70d7759f727e58198",
@@ -8157,6 +8172,25 @@
   "source_review": {
     "complete_Linux_tests": 905,
     "native_preview": "All 395 unfrozen pages read with scripts off at 1280 and 390 pixels: 790 successful reads. The repaired Omniscient table was visually inspected at both widths.",
+    "pdf_date_regression_review": {
+      "approved_public_hashes_changed": false,
+      "failed_artifact": 13473681116,
+      "failed_run": 42152633814,
+      "final_Linux_tests_required": 906,
+      "focused_tests": 5,
+      "observed_difference": "Cover page Built2026-11-05 changed to Built2026-11-06 after UTC midnight; other791 public files match exactly.",
+      "only_different_files": [
+        "absence-manual.pdf",
+        "absence-manual-v1.0-2026-08-18.pdf"
+      ],
+      "reviewed_build_date": "2026-11-05",
+      "reviewed_files": [
+        "mkdocs.yml",
+        "tools/build_pdf.py",
+        "tests/test_pdf_reproducible_fonts.py"
+      ],
+      "reviewed_utc": "2026-11-06T02:57:49.502718+00:00"
+    },
     "prior_reviewed_plan_sha256": "95c41e34589993104fd615609297362feca5b8acd5e9477e3b3d43c1f96503c2",
     "reviewed_utc": "2026-11-06T02:47:44.108079+00:00",
     "scope": "Only table containment in the unfrozen template changed after PR99. Complete answer copy, headings, metadata, links, research records and all other public bytes are unchanged. The prior source reviews remain separately recorded.",
