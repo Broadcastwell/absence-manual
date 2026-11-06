@@ -7,10 +7,20 @@ from unittest.mock import patch
 
 from fontTools.ttLib import TTFont
 from fontTools.misc.timeTools import epoch_diff
-from tools.build_pdf import configure_reproducible_fonts
+from tools.build_pdf import configure_reproducible_fonts, manual_cover_date
 
 
 class ReproducibleFontTests(unittest.TestCase):
+    def test_cover_date_uses_reviewed_config_instead_of_the_build_clock(self):
+        with patch("tools.build_pdf.datetime.date", wraps=datetime.date) as date:
+            date.today.side_effect = AssertionError("The build clock is not a publication input")
+            self.assertEqual("2026-11-05", manual_cover_date({
+                "manual_version_date": "2026-08-18", "manual_build_date": "2026-11-05"}))
+            self.assertEqual("2026-08-18", manual_cover_date({"manual_version_date": "2026-08-18"}))
+            with self.assertRaises(ValueError):
+                manual_cover_date({"manual_version_date": "2026-08-18", "manual_build_date": "invalid"})
+            date.today.assert_not_called()
+
     def test_release_date_sets_a_timezone_independent_epoch(self):
         expected = str(int(datetime.datetime(2026, 8, 18, tzinfo=datetime.timezone.utc).timestamp()))
         with patch.dict(os.environ, {}, clear=True):

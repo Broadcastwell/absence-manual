@@ -138,6 +138,12 @@ def configure_reproducible_fonts(release_date):
     return os.environ.setdefault("SOURCE_DATE_EPOCH", str(epoch))
 
 
+def manual_cover_date(extra):
+    """Reproduce the dated reading copy from its reviewed configuration."""
+    value = extra.get("manual_build_date", extra["manual_version_date"])
+    return datetime.date.fromisoformat(str(value)).isoformat()
+
+
 def main():
     cfg = yaml.safe_load(
         re.sub(r"^( *)!!python[^\n]*$", r"\1null", (ROOT / "mkdocs.yml").read_text(encoding="utf-8"), flags=re.M)
@@ -149,7 +155,7 @@ def main():
     # A new dated filename appears only when the version itself changes.
     release_date = str(cfg["extra"]["manual_version_date"])
     configure_reproducible_fonts(release_date)
-    build_date = datetime.date.today().isoformat()
+    build_date = manual_cover_date(cfg["extra"])
 
     md = markdown.Markdown(
         extensions=["tables", "attr_list", "md_in_html", "sane_lists", "footnotes"]
