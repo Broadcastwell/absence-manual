@@ -6,7 +6,7 @@ HERE=Path(__file__).resolve().parent
 SPEC=importlib.util.spec_from_file_location('_bw_field_freeze_navigation',HERE/'library_field_freeze_navigation.py')
 MODULE=importlib.util.module_from_spec(SPEC);SPEC.loader.exec_module(MODULE)
 # Root-adopted finite map; all source, HTML, assets and sitemap pins are mandatory.
-MAP_SHA256='e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c'
+MAP_SHA256='ec8e3d76d21ee607974ffa5c2e7c82eb75c3d17f8b727e62d8d35d37830d91f7'
 GUARD=None
 def on_pre_build(config):
     global GUARD

@@ -73,7 +73,7 @@ def validate_sources(root, data):
                 'Reviewed source delta differs: ' + p)
     from library_field_freeze_navigation import FrozenNavigation
     FrozenNavigation(root / 'docs', root / 'tools/library_field_freeze_navigation.json',
-                     'e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c')
+                     'ec8e3d76d21ee607974ffa5c2e7c82eb75c3d17f8b727e62d8d35d37830d91f7')
     science = json.loads(safe_file(root, 'tools/library_research_release_paths.json').read_bytes())
     for p, digest in science['immutable_science_and_registered_downloads'].items():
         require(sha(safe_file(root, 'docs/' + p).read_bytes()) == digest,

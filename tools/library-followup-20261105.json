@@ -107,52 +107,52 @@
     "answers/claude/which-legal-practice-software-does-claude-recommend/index.html": "ffcecb03e4635ef374ee40df70c95e3e38641ac691d1d4737fbf8bb7822ad83c",
     "answers/claude/which-loan-origination-software-does-claude-recommend/index.html": "75bfa24d86effa4111be4de37bc3b281afd67f7c1b92dd808311b21a4620e738",
     "answers/claude/which-project-management-software-does-claude-recommend/index.html": "b489f450eaf31d216948ef66bab55a42976f796004acabcaeace2a12e283cea6",
-    "answers/fixes/can-google-ai-overview-answers-be-changed/index.html": "7b3514ffa7a53d6e545210ed5a4c93bb6ab9fba59c86e30a8c945602e9da7998",
+    "answers/fixes/can-google-ai-overview-answers-be-changed/index.html": "f97e2561349ccf01ae37d0b84052b56a571379013195c4e3e8c20a255aa72337",
     "answers/fixes/does-a-crawler-request-count-as-a-buyer-visit/index.html": "5874bdf779699c797b76320525c0ccb9af220c24d1bd983b88fa9df806ee4560",
     "answers/fixes/how-can-a-local-auto-glass-business-appear-in-google-ai-and-chatgpt-an/index.html": "28293799430eab7939bfed86f081da0ae4790f12bdab36ae4cc868b5183e7cba",
     "answers/fixes/how-can-i-check-chatgpt-s-seo-output/index.html": "169354d14121f801762969412e23f44444736756204500885bf6c19c276d2058",
     "answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews/index.html": "70091375d9bc35e4011168654be70e007f347b322252c942fbbd09dba52828ec",
-    "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages/index.html": "e1d3b23e35eaf73fc81508af0c0bdc943a1902dd506e0814e885afade7e63c1b",
-    "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers/index.html": "abddf7605453f3c3a010acf5b02c5cc9de4a92cb79e9f7523a78dbbb1915b5af",
-    "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features/index.html": "b3f117064e39d0399bd0f064618f23f29e23ae2eb54675a4a90ba3a98a2e2591",
+    "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages/index.html": "db71d3eb77d84554d940dcfd4a36aa8d3b52ae9ce36a1558dd6e72862b5c1268",
+    "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers/index.html": "556058f54198a5817f50e559de1cc3604c0e409e8926bf02fe6361e826065097",
+    "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features/index.html": "d6103e2ee82fd32f0f6c617a37dbc74422db5d3edb5cb053420646586d87681d",
     "answers/fixes/how-should-a-local-business-respond-when-chatgpt-cites-ranking-list-pa/index.html": "a14f4ecec3ab052a92ebd0fd30dcc24599767fac997c1598d2c52b2921224fb0",
-    "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations/index.html": "c7da089d8a47770e244009cba89584a899f8b4d0adf177758e01729fc7ac74ea",
+    "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations/index.html": "7371a3a9a7c19bc1a6d94fe8133c9d463d46f34db33f454fb0063a8f7c936e8f",
     "answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence/index.html": "78836077f86b9c45a18f25679cf93a1d5064f5026c66bddeb7a743791e68c73a",
-    "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction/index.html": "bab262bf1174cb62c01e48e3740ed063d3426ca884d33cc8dc309a0107380cc2",
-    "answers/fixes/how-should-i-check-an-llms-txt-file/index.html": "83fdd99b35b97bc9cc0e206abc3df54493fdc91991f53e3954491268040b28c7",
-    "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo/index.html": "382f70773f23c400c4409f619ce2d7bd199b5c2934e711bae284de666f810891",
-    "answers/fixes/how-should-i-request-an-ai-fact-correction-with-a-source-receipt/index.html": "30dc11b64f5427332060b921f267e6efcbd61fa2c6e550f00ae08f90d97cb349",
+    "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction/index.html": "87efc93a33b1c46868b97df3992892316c51f0c251db427fe7cef5da0390ac2a",
+    "answers/fixes/how-should-i-check-an-llms-txt-file/index.html": "be2828a5f57792f388feaac50d0b6aed59d811714dd9a7f09be63118b6e800d8",
+    "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo/index.html": "ac0f6a2cd36e9f25caacb31e60ad414c3ab7196c78ffa707687797e5d714afe6",
+    "answers/fixes/how-should-i-request-an-ai-fact-correction-with-a-source-receipt/index.html": "f7a4eace3e97bcf887ed4def4d5dc47e8e4e16251ff27d5b687f7d1668cf5656",
     "answers/fixes/how-should-i-structure-headings-for-ai-crawlers/index.html": "8c06df45010620772a404721ef94e48ef5a46f706b59edddb90e270d3d64e98e",
     "answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page/index.html": "bea2b6e2c19305adfc3b7eab9e13340073e643652719dfcbe199a8e9a0e52a86",
     "answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access/index.html": "1c1e04a4f3acd580a3edaf285c4c3ad5ee9901a8e92fcc9eb937a60fc4c78b13",
     "answers/fixes/how-should-teams-handle-seo-and-geo-in-day-to-day-work/index.html": "99c21ec234d037b445fad4b0ff5e45608cef559e486b39c33ed586c468853eda",
     "answers/fixes/index.html": "7bcebb1efb76e90bc0bd2b6a9a67f6170aaec4f29c23ec4846cd7e1f49db8965",
-    "answers/fixes/is-llms-txt-actually-used/index.html": "52f8c1fa202eddb4c94d033ccf73c36e087ba40042ec93d3f4fd64d5ffd3a41e",
+    "answers/fixes/is-llms-txt-actually-used/index.html": "3b9fc898685d61699a9d4eccd4bc0fa2bd4786192d0890534952eb963d6c00d6",
     "answers/fixes/is-llms-txt-required-for-ai-search-visibility/index.html": "8774690d849c33e0c26fb5d1425a7f8086c7712a10f7d4d3ddbaeb65a1adb32f",
     "answers/fixes/what-do-ai-crawlers-do-and-how-can-site-owners-control-access/index.html": "fc4bca6cee4f3687ae8a390c6c5e2efb69ca1a8cbecd89403df0de003afc6911",
-    "answers/fixes/what-does-google-s-guidance-say-about-llms-txt/index.html": "6c71a14b86d450ffa65ae74989a7b525f390486d14aeafb45b518f8f72e48b9b",
-    "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility/index.html": "6d7e5aab8943b3bf2c51a8bb1df1acf27e36301ec982ecb9d3041c74dddfc6e8",
+    "answers/fixes/what-does-google-s-guidance-say-about-llms-txt/index.html": "84c4c5e28a25aaf292c2cb9a7eb1af1e46752db6cd5a0af20eda83bd712ce099",
+    "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility/index.html": "69ab00d76393b3f0f9afbfaf273d87dd8e086c160cada55d44b38e418fa703ee",
     "answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer/index.html": "cd8cec91ff0b5e4ca3719eb85b002e11f4197e6fa2769dc661305344fe7b56a3",
-    "answers/fixes/what-is-an-llms-txt-checker/index.html": "b68526dafc52c2998ff34084c14e9cb030afa5f6be5fc68173989c36abaed446",
-    "answers/fixes/what-is-an-llms-txt-file/index.html": "2ddf4f8f25c8f35512a26bd1796c67247072ec2de9da54b2128e6805b6bafa46",
+    "answers/fixes/what-is-an-llms-txt-checker/index.html": "e0871770eed4eb980e08b1d96d0595e96443e5e9b92a491d001fe158753ff35d",
+    "answers/fixes/what-is-an-llms-txt-file/index.html": "290d3d92ffabef5f620cb34422b572fbf6bb71e8a5ac8ca693480541d2f02b56",
     "answers/fixes/what-should-an-ai-information-page-say-about-our-company/index.html": "4c69d879f326111e2c2a9a9ce6bfd44e9baee1e5efeb21f0bcc12d2e835b8738",
-    "answers/fixes/what-should-i-include-in-an-llms-txt-file/index.html": "044cd840232064fe57b0adb50a3926fa3b043048c2066fbeb8c89f3973f5da8e",
+    "answers/fixes/what-should-i-include-in-an-llms-txt-file/index.html": "573b1d2568db0b12204b602e98b4bc22f3d070960f962154a8e127e25e06b8e0",
     "answers/fixes/which-ai-tools-can-support-programmatic-seo/index.html": "a35ea231c5a821b7e22dcc2e5c12ba77777bb1b247cfd27206f6a5feb6c8a7d8",
     "answers/fixes/which-ai-visibility-tools-also-complete-content-changes/index.html": "e26f3a1d5c17cee7e01fbf806147cccf4783bbb25274c8305882ec560b3783da",
     "answers/fixes/which-websites-have-an-llms-txt-file/index.html": "bb439e3bf5cae642053cf446a01353b12dc50bc4fbbdc3cdce62a156f74a1262",
-    "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence/index.html": "56ab667d6d4fa5b1eb7680c41d79fce0531338b5eacbef1526dc2c7b3d238401",
-    "answers/geo-basics/can-ai-search-use-information-from-the-live-web/index.html": "35c2375a4054ec3334f34e0f9d9ca9b69b21d3a93202534acaa989e9bbffa1eb",
+    "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence/index.html": "816b54aadb4cfbca9c66297cdbcc4fd60d9f381e917266dcd943c807373adaa5",
+    "answers/geo-basics/can-ai-search-use-information-from-the-live-web/index.html": "4e721f698734648fc9adbcedf384888631ee49da5c78dd4d7bbae12c694199c7",
     "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it/index.html": "95ee80733e321ce178db78f4dce095d5e3e42d1a20efec613de7a00ed9467a79",
-    "answers/geo-basics/can-i-use-ai-to-do-my-seo/index.html": "f5bdf7bce48162126ea1292f028d7171de6e339e7a9e3a0c61286fedd26847c0",
+    "answers/geo-basics/can-i-use-ai-to-do-my-seo/index.html": "3a1706f703eba0196c8288eae573cdcc5fe5c76091f57dd7993ae98ee0ad883f",
     "answers/geo-basics/can-i-use-chatgpt-as-a-crm/index.html": "68544730bc2a2f91d931ecbeb70d8bddd4e7aa82b09d2b789c285ec75f1960c6",
     "answers/geo-basics/chatgpt-brand-visibility-cost/index.html": "c7b01c3e0fb01340d2c47ac4dd302945bed7ac2e2dae66f8425ea6814c36c505",
     "answers/geo-basics/chatgpt-seo-skills/index.html": "c9e9115404f2d3f2b0283ee9c25242bd01e640cfd535cfdee21c28d55781c181",
-    "answers/geo-basics/do-brand-name-prompts-measure-discovery/index.html": "90c96a81e909e58c858c62ed3d8bb685eb4ba3041afadcd02898776800a6634f",
+    "answers/geo-basics/do-brand-name-prompts-measure-discovery/index.html": "6b17c0cae0e49824d1fa7682ec6f66970e3a3e5e40f6bd52ec9d9bdb5dea5e48",
     "answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts/index.html": "8172adeff1216abac6afe25b32573e2efec1595be3747b0597995c3667a642b2",
-    "answers/geo-basics/does-ai-search-replace-seo/index.html": "d68e878d2c27c01a83701223136480ef66a3b099cb558606649dcca87cb68704",
+    "answers/geo-basics/does-ai-search-replace-seo/index.html": "3c5d87bd3b7b64ed425f1bcadb50796b5f8f52f28558775c0b6edb614ce48076",
     "answers/geo-basics/does-an-ai-brand-mention-mean-the-product-was-recommended/index.html": "987863b4d0f9bf19123d256c6c50a485f4fe3bd545a5996a7d488ceafb642a07",
-    "answers/geo-basics/does-an-ai-shortlist-show-what-buyers-actually-purchase/index.html": "42d2a4a6de2823c6246f5138e902106d84bea8ad98ea55140cc2c8e0d2b3f67c",
-    "answers/geo-basics/does-being-named-by-ai-prove-product-quality/index.html": "2f0f76d7179b65c575d7f532bec41bf455829b1299aba1ca72b74c35c970348b",
+    "answers/geo-basics/does-an-ai-shortlist-show-what-buyers-actually-purchase/index.html": "b8225e4504c3c16254c48ef18aaead4e4a3d86b705ccb94efd5918a327142e88",
+    "answers/geo-basics/does-being-named-by-ai-prove-product-quality/index.html": "2cd48694c0e6030386a8e5295f96a5ac78bfb8ce4fddd66f19437b5e48bdc480",
     "answers/geo-basics/how-can-chatgpt-help-with-seo-content/index.html": "cb85ed655ba08077287ed20c497b1631e9acdebc22535f1d8709ffcaa02d1fee",
     "answers/geo-basics/how-do-ai-visibility-vendors-differ-for-regulated-industries/index.html": "d478a8af9f276aa21c113d060ba8949879ef5a6e88f13fd1eeddfbc160323185",
     "answers/geo-basics/how-do-getmint-and-otterly-compare-for-transactional-geo-in-the-united/index.html": "87570a1245cb854d2a7dc5e75535b4458aa8eab3763678ee3df2a349f43c659a",
@@ -171,7 +171,7 @@
     "answers/geo-basics/is-geo-a-legitimate-strategy/index.html": "f268f90654b8ff974530c472b8fdc71b3cc29f6662f694468763d17da6945216",
     "answers/geo-basics/is-geo-a-separate-skill-from-seo/index.html": "2353f08e42cbe0b0cb2c9e48e0d9f53d1e1d20910f82920a4f1a9eaa72b62b05",
     "answers/geo-basics/is-learning-seo-and-geo-worthwhile-in-2026/index.html": "9c07060d0efa8666e37321432328a70223db651d93dd73c11a09a17bbd243a2c",
-    "answers/geo-basics/is-perplexity-good-for-seo/index.html": "7efec3ed5ab3131ee7124b0762c0472d1edd2ea00bcb0fe9feba97f1bd64f038",
+    "answers/geo-basics/is-perplexity-good-for-seo/index.html": "81d47cc9b8ff8fee8e870a0c70d6855dee501794e1d78f0eb0af379c390643e4",
     "answers/geo-basics/origence/index.html": "2c5538dd756a6ddf36e594d067dad4bab29b11cd1eb507f6514cb8ebc5052cc2",
     "answers/geo-basics/peec-visibility-or-aeo-or-geo-or-search-or-citation-or-seo-or-generati/index.html": "fa7257e2134996f573f9a2c2e78ad131c6e434f91ce6e82a7d3a59bfec888c97",
     "answers/geo-basics/what-are-alternatives-to-brightedge-for-geo/index.html": "b84f83c8b09e0fdf7743e45358b5b78a7219fbe717712a846cd3ff08edf5ce47",
@@ -182,15 +182,15 @@
     "answers/geo-basics/what-can-perplexity-computer-do-for-seo/index.html": "0af6b9856a79dc6b579ede1d4766ef16532431977d15dee6d6450f8ee4e4d5fb",
     "answers/geo-basics/what-certifications-cover-answer-engine-optimization/index.html": "c2d10fac9e803fb95b8de7273a3b4c951defd19cd70eeffec2aa5983691e97f1",
     "answers/geo-basics/what-courses-cover-answer-engine-optimization/index.html": "2f05a722aba60578d44afba17b9219513a04b25e079d827bc4af30294fe05c34",
-    "answers/geo-basics/what-does-ai-visibility-mean/index.html": "c0b399274f45ab093a025889f576c408b74bfc67267722cc61a66b915f6e2d75",
+    "answers/geo-basics/what-does-ai-visibility-mean/index.html": "e7b6753d98fb7fcdd274ffc64d0ce1d9b3a2913ed8fd8628a33e03951f21a2f2",
     "answers/geo-basics/what-does-blue-yonder-publish-about-ltl-freight-shipping/index.html": "725a4e085fd25d57f341e2481f010d7f6ff7768b3a95a03ff779cbf2293e4b64",
     "answers/geo-basics/what-does-brand-visibility-in-chatgpt-mean/index.html": "48a5ac99467b1a7c1fb77fa01d5610fbabc2cef4f06f36dfbba43b7d22699cb3",
-    "answers/geo-basics/what-does-geo-mean-in-ai-search/index.html": "5610d09fa0b82f3bbf96f8000b50a735d089d26cb0bcdd2b4253d92cf541306f",
-    "answers/geo-basics/what-does-llm-in-ai-mean/index.html": "561b46121fe5460108ad644d36a7fdd30a88c0ce0d340969a8fbce28ac3f30f2",
+    "answers/geo-basics/what-does-geo-mean-in-ai-search/index.html": "289b18ceec8f6e849f9ee80c0a8c48be7ad32129bc49257a5d4975458f28aa9c",
+    "answers/geo-basics/what-does-llm-in-ai-mean/index.html": "af2f300fa2fcb8487943dbac67731e0b555c7c56a0c227f2878a02fca2c0f976",
     "answers/geo-basics/what-does-searchable-offer-for-ai-search-visibility/index.html": "50cf3348974f7ec6996e88cab2e480edbdfac3358326fe348ad2dd56f3319cc1",
-    "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer/index.html": "b64bf15edc999f35b7ea16c9e6b0ac8bb197194df4e6e0832a2a7eb9fe64aa02",
+    "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer/index.html": "ecc07d406ebc38e31619422bf86a0554c1f1cbe8b6771d066d869ac1f01f752e",
     "answers/geo-basics/what-does-visibility-in-claude-mean/index.html": "2c1120bb6d6359ead5bd244062835c00738b17e300f55b1989a03388590145ba",
-    "answers/geo-basics/what-is-an-ai-software-shortlist/index.html": "310c26d854e64e86b9803d59041b88183ab010b87dfcbf18be295e947b56ab38",
+    "answers/geo-basics/what-is-an-ai-software-shortlist/index.html": "fbe14ec766f869afe230607f916c0e19d15d906deda18dd7f711e7c60ba1c446",
     "answers/geo-basics/what-jobs-involve-answer-engine-optimization/index.html": "01ee2a7d88f5506cf777851eabd7226ccf258eda24b003f701f7dc0cc9743040",
     "answers/geo-basics/what-platform-scores-competitors-on-generative-engine-prominence/index.html": "b8359a3e1986950d23034a1f07c55384d81688204d9574ca17e4d61928494516",
     "answers/geo-basics/what-seo-prompts-can-i-use-with-chatgpt/index.html": "70092ffc1d0f5b9f7b4e0a3af11a0167326c778b9045a1ea890f852514212fab",
@@ -204,8 +204,8 @@
     "answers/geo-basics/which-tools-combine-ai-visibility-and-social-listening/index.html": "c82be4a2adbe700c7f3a0de3b172b67b8cd455fa2fa271a1103240541bb72fc3",
     "answers/geo-basics/who-has-practical-experience-implementing-geo-or-aeo/index.html": "814ad9de9bddba8273a77199b96d967c83c43e3c059d7d97e37708e5e5060959",
     "answers/geo-basics/who-has-the-best-geo-results-in-competitive-industries/index.html": "3b055afbadfd7f625ca178cd8c914d313bd122f36f0d4e6d249cf862a93aa491",
-    "answers/geo-basics/why-can-the-same-ai-question-produce-different-names/index.html": "2dff7be9e71fc69a58a6075b9eff0edf31b33c7726c633bd6c001272432e2a4e",
-    "answers/geo-basics/why-does-the-buyer-question-matter-to-an-ai-shortlist/index.html": "f44b066237b0aaec279f2e59508166d17d01a2d6bbec770597cc607d2a82770b",
+    "answers/geo-basics/why-can-the-same-ai-question-produce-different-names/index.html": "c303891a70192ab3015ff1899310a07a68cc40afe54dbffed6fdf5680253e58a",
+    "answers/geo-basics/why-does-the-buyer-question-matter-to-an-ai-shortlist/index.html": "4ae42c91b1d8d472fd01e8e4c5d6cdae5926f7d99cd2df35fa5f5c8528c39910",
     "answers/geo-basics/will-crm-get-replaced-by-ai/index.html": "00cfc13d16769f3516b36e70735de02b8c9f20ee445cd13714a0e6da9587565b",
     "answers/google-ai/are-google-ai-overviews-available-in-france/index.html": "f9e1e03e37bd6f6e708bf4e2169399a6c72c680f671d92cec2c7097ae3d6e1f5",
     "answers/google-ai/can-ads-appear-in-google-ai-overviews/index.html": "f9e1e03e37bd6f6e708bf4e2169399a6c72c680f671d92cec2c7097ae3d6e1f5",
@@ -283,16 +283,16 @@
     "answers/industries/why-is-my-radiology-software-missing-from-ai-answers/index.html": "1d0c24747811bc2b4360386986531b2ace88932d348f3cd05dacc154e6609698",
     "answers/industries/why-is-my-transportation-software-missing-from-ai-answers/index.html": "231e20e3f6b34a557f59431ca03e480ae3f2b590adce41f02e273801ddfb2984",
     "answers/industries/why-is-my-veterinary-software-missing-from-ai-answers/index.html": "79b758c51763257d0c4a09ec0c2c40e07b8d5a55a90b3436751b3e354c290817",
-    "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies/index.html": "62928a6c6b61b866fb839addd2b7c1d0044d43dcac6ec6da2d309c899c106b5f",
+    "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies/index.html": "0c37e83486ccc82904a059fb519c7d8f9dfc61cc8b2fa4683a5421d16fa6c5e3",
     "answers/measurement/can-google-bing-and-llms-find-content-on-threads/index.html": "c3d079a36e6f55344a7cfc580d42835ef4d90d9d73790a495d042e1698bafd42",
     "answers/measurement/do-ai-product-answers-cite-reddit/index.html": "957c00ea66ed796e59b20f1b7e0e3934154c3f72d607171f66046af0cafc48f3",
     "answers/measurement/do-youtube-transcripts-affect-llm-citations/index.html": "5b2c424d1d3f8dca6b124ac526f82c7d36e7ec260f74d32aad5fa44600bd4558",
     "answers/measurement/does-medium-get-cited-in-ai-answers/index.html": "049ba1074fdd91f5dda156514630e4d9efe8a134b6b3b1b1809792d91fb4b466",
     "answers/measurement/does-profound-provide-a-full-seo-audit-or-a-partial-audit/index.html": "72662dcbde9543ae295bbc5d74d91fd29a61d9b262c59b30999ceda1a463c1fc",
     "answers/measurement/how-accurate-are-geo-tools-across-different-industries/index.html": "7d610bccfbc99a5b4f28163cea895a468cd5259e369fca7e51a8293b142959dc",
-    "answers/measurement/how-can-a-buyer-verify-the-conclusion/index.html": "dd9383c70ed173bed1ce62920ad56ad04145442fe5533320f240576727ccb84a",
-    "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data/index.html": "94cfee65889bb9f602a0fc9e378d4d57c54b4c1cc6a230e58053820d573c84ee",
-    "answers/measurement/how-can-i-check-ai-search-visibility/index.html": "b1de942471d0e9e255afeec707a0c2f6894b5fe9845326ed7170a64383167dd5",
+    "answers/measurement/how-can-a-buyer-verify-the-conclusion/index.html": "cf87a827fbb60796edaf4362f84aeebc6e15115bc8b591cbe143e25e20a91d2d",
+    "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data/index.html": "9051d709b3340659859ccfc4449ef38389f66d69905f7b254edd2b6aa4cdcdd6",
+    "answers/measurement/how-can-i-check-ai-search-visibility/index.html": "401b6c6b56648935dc8d5ab06beece4f1bc419b423dce701f789568b6053ad4d",
     "answers/measurement/how-can-i-check-whether-an-ai-citation-supports-its-claim/index.html": "50fdeca7b4d7e202eb17002c41e85fe074fd41537fd2cab39dd43db5f2e2a4d3",
     "answers/measurement/how-can-i-defend-branded-search-results-against-lookalike-sites-that-c/index.html": "11ee7ee5438cb77c89c3d2824527833e92e827c8b054e32bb3f3b70e1e031bd5",
     "answers/measurement/how-can-i-evaluate-hotwire-gaio-tech-as-an-ai-visibility-product/index.html": "ad28ad3e2a4bd6fef6191d983e42842fe937ad8b99f29ece8b0cd3951d219b90",
@@ -301,21 +301,21 @@
     "answers/measurement/how-can-server-logs-show-whether-ai-crawlers-request-llms-txt/index.html": "ded3ab91eaf7299646907da2170ccdebd0a7e60d3fe08545578e316eb5283b8b",
     "answers/measurement/how-do-ads-in-google-ai-overviews-affect-organic-traffic/index.html": "ada0a2b9fd43db37f413c6a47fb317fd6daca35f9cf063c66e6dc85a9312f24f",
     "answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m/index.html": "b609befa1cc5f329b786aeb426edee1dc252f1c0bbf5286c8e52236c3d95b245",
-    "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools/index.html": "4bacb1571dcf1b8b1a90d46186af5f7b6e99a448c3a56c0432593f85972414ef",
-    "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit/index.html": "0ffaeb4e45dca293fe4cf42b60863472aebcfe98331b89e73a564624e95e212c",
+    "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools/index.html": "8cfc5c3217d1bcedbecdb1aeda563b4fdc5c4bbe8b47cf073ee58095d8aca170",
+    "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit/index.html": "bdcde8bc2cdb1be6bb69fd024e7e1f3603c6ed9049819bd39c70098c30585019",
     "answers/measurement/how-does-google-ai-mode-affect-site-clicks/index.html": "cf3be50825a9e45b5cbcb6534389c6d7eaca4a03bee1ec2795ca8b824695d5f2",
-    "answers/measurement/how-many-repeated-runs-make-an-ai-visibility-rate-useful/index.html": "e7cb4852d0afb8429c3a43af149dd43438901e2a06197c3e48f3547d3bf6e5f0",
+    "answers/measurement/how-many-repeated-runs-make-an-ai-visibility-rate-useful/index.html": "ff7b803247bf1ae48c21ec76faa14a251e2f3f2903efbe3cb17cf6923f9db823",
     "answers/measurement/how-should-a-report-present-these-outcomes/index.html": "bee49a46541ca3953617a8c5109bdf5b7bbbd3b536044c8e95976360bf46608d",
-    "answers/measurement/how-should-i-check-an-ai-baseline-before-changing-content/index.html": "3d61626faa8f40fd40334f6601b717388b9fd4cebeed00d73c24232771431a35",
+    "answers/measurement/how-should-i-check-an-ai-baseline-before-changing-content/index.html": "265298cce9edacec0294f51f7aed8e5f5f6f957a3632e01ce6e597a4f90cc026",
     "answers/measurement/how-should-the-report-show-visits/index.html": "4b45e4300542dba7a5e70383025f8b02d2cc8424373914d9dc480b831747cbb4",
     "answers/measurement/how-would-you-optimize-an-e-commerce-product-page-for-google-and-ai-se/index.html": "a35ea231c5a821b7e22dcc2e5c12ba77777bb1b247cfd27206f6a5feb6c8a7d8",
     "answers/measurement/if-llms-txt-has-no-impact-on-ai-visibility-why-did-google-add-it-into/index.html": "a6f323c3f9bd566b9f02731d815beb8dd044ff00524755e3e42dc341a6ed5c53",
     "answers/measurement/index.html": "9ede2a1b93d906fe0d6dee008f58594efe54d5d9f175abab8348a0483c03c59a",
     "answers/measurement/is-geo-more-effective-than-seo/index.html": "f13ad84ae1adb5585df134c30e6e0cd81233ce1e215f1ffdcec02ca924a92e4b",
     "answers/measurement/what-ai-visibility-products-does-hotwire-gaio-tech-offer/index.html": "4fb84a640e5cb0159734545875b99c7913b195ddbc1978873423e3c60ae1f7c0",
-    "answers/measurement/what-can-search-console-show-about-ai-visibility-queries/index.html": "a4edec950d0ad142a3ba39e9724dfb0bffca8d62b6230f50d3da911b6f292399",
+    "answers/measurement/what-can-search-console-show-about-ai-visibility-queries/index.html": "4e31ae126ce52692af264d17bd872253a306d97a35a2ffd87d97d5c2f868cfbc",
     "answers/measurement/what-counts-as-a-brand-mention-in-an-ai-answer/index.html": "05f22f619da1d5d3ec758484ed570559f10bc8c8e287532a7d866f37b275c335",
-    "answers/measurement/what-counts-as-an-own-domain-citation-in-an-ai-answer/index.html": "944599ef0e9e3f8670e4b5def03ce9818266c09878f3f0f0a52c33576553bd07",
+    "answers/measurement/what-counts-as-an-own-domain-citation-in-an-ai-answer/index.html": "c642a8ff4cf19693bdde9b8189f0e1bdb98c3c66c72472f78983d40087e20155",
     "answers/measurement/what-did-the-buyer-report/index.html": "92108fe0c39cf2d78f5e6c34fee22ed31d24daad6e68b12a2b95c371599b091a",
     "answers/measurement/what-does-a-recorded-ai-referral-establish/index.html": "82b401d35cdf1cb2fd0139331e24cc0730da62bcc2adf60fa69dd437df16c87b",
     "answers/measurement/what-does-athena-publish-about-data-accuracy/index.html": "85fbaedeacfe198cbd106bf8becf8c9c970d17316ec6e15cf9d1748ee6555421",
@@ -326,15 +326,15 @@
     "answers/measurement/what-information-belongs-in-a-public-report/index.html": "bdde8b23c72822d8f6c8b9f385fa91a742b1009a751b1e8f1d13fb615ffb07ac",
     "answers/measurement/what-is-a-good-ai-visibility-score/index.html": "3e93ba37146ef9fc9978755755a197a04ce2a6d80384490045555d2fbe5b0ffd",
     "answers/measurement/what-is-an-ai-visibility-index/index.html": "71a5e282d30581d02679feeb173ba8e7786fb0734708fdfa6444a5a55c1022dc",
-    "answers/measurement/what-should-a-client-ai-visibility-report-contain/index.html": "4526c0bcaa923181a811b498370fad25b6b0a5cdbe99e7e65cb2649925d41461",
-    "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re/index.html": "6773cb33686bcd48bbc9fa5d48b76557f0b3614610a9efd996f095abd322e168",
+    "answers/measurement/what-should-a-client-ai-visibility-report-contain/index.html": "81bd043d236ae5e7fa64eebe1b7bc4a5e0372e928af84dae8a21961d6a312747",
+    "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re/index.html": "46a5720d00d11ac6cf1e3cc023e5f9d8d121358cf497d74cff41071a734af738",
     "answers/measurement/which-ai-visibility-platforms-support-multiple-agency-clients/index.html": "b75c29412b997c615e28694cc4a95a16ad3c369b2996125dedd95bfafcc52f09",
     "answers/measurement/which-ai-visibility-signals-should-shape-an-seo-roadmap/index.html": "dd6a3e04eccaeb69a2e511cabeef0253c3493c74e66668c9b79925da42d2625f",
-    "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify/index.html": "fc7b49fb7dd24b24e3422e28c98e6555872af967da24a9c55bbf33eb6f0ff5d7",
+    "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify/index.html": "f76abe9ab9822885a31fcb38ec5b05260d0ccda173827e6ebab94e77bc854792",
     "answers/measurement/which-measures-belong-beside-one-another/index.html": "06d1d9050f6446e73a8a1459731b2624ee31057767edc6a242ec989bfc8f0265",
     "answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview/index.html": "1826b418353e81c50474af85398fecf7d559d42fa9e0f0eee74e1efa57b2c844",
-    "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt/index.html": "2c1287f1edc3f17cc48ae512cadd427232c861910d9c0171da8cf3a266ce5f83",
-    "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple/index.html": "279969b40dc0bddff0337ef16e3ccb839be1f6a3099b302158dfb30804537d3c",
+    "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt/index.html": "50bfc51af82a3f67a141166c4e92f11ec8e4aa7325472032e7edbab2ac6d8c75",
+    "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple/index.html": "75bd08e540266919bdf5688c38891929c107775b12ee59ffc11aabc040576ad1",
     "answers/perplexity/how-does-perplexity-work/index.html": "85f23d1f921203483c4d5d607f673037e26f7dfab2a6e010420198511946de8f",
     "answers/perplexity/index.html": "f062e804a2b4467cf571c9383f85da88350ec155c658459695808fecf7030bdc",
     "answers/perplexity/which-construction-software-does-perplexity-recommend/index.html": "000804c8b4b4831fecc263bfbe7bc3493abc488d954de8af0f60bfcd48257324",
@@ -1199,6 +1199,10 @@
       "after_sha256": "b489f450eaf31d216948ef66bab55a42976f796004acabcaeace2a12e283cea6",
       "before_sha256": "52ed8717568c114d76aa343cad14b8b1af61a2f3cd6458156d1c26acc47a8eed"
     },
+    "answers/fixes/can-google-ai-overview-answers-be-changed/index.html": {
+      "after_sha256": "f97e2561349ccf01ae37d0b84052b56a571379013195c4e3e8c20a255aa72337",
+      "before_sha256": "7b3514ffa7a53d6e545210ed5a4c93bb6ab9fba59c86e30a8c945602e9da7998"
+    },
     "answers/fixes/does-a-crawler-request-count-as-a-buyer-visit/index.html": {
       "after_sha256": "5874bdf779699c797b76320525c0ccb9af220c24d1bd983b88fa9df806ee4560",
       "before_sha256": "ea3c2c981aaa47baed80ed5356ac67af13dc43d5d27f479c8e65ff74fca2431c"
@@ -1211,9 +1215,41 @@
       "after_sha256": "70091375d9bc35e4011168654be70e007f347b322252c942fbbd09dba52828ec",
       "before_sha256": "1eefa96407ed81ecaaa3392d17b3e824cbdc39095a2a0ba7287ff5e93a515528"
     },
+    "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages/index.html": {
+      "after_sha256": "db71d3eb77d84554d940dcfd4a36aa8d3b52ae9ce36a1558dd6e72862b5c1268",
+      "before_sha256": "e1d3b23e35eaf73fc81508af0c0bdc943a1902dd506e0814e885afade7e63c1b"
+    },
+    "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers/index.html": {
+      "after_sha256": "556058f54198a5817f50e559de1cc3604c0e409e8926bf02fe6361e826065097",
+      "before_sha256": "abddf7605453f3c3a010acf5b02c5cc9de4a92cb79e9f7523a78dbbb1915b5af"
+    },
+    "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features/index.html": {
+      "after_sha256": "d6103e2ee82fd32f0f6c617a37dbc74422db5d3edb5cb053420646586d87681d",
+      "before_sha256": "b3f117064e39d0399bd0f064618f23f29e23ae2eb54675a4a90ba3a98a2e2591"
+    },
+    "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations/index.html": {
+      "after_sha256": "7371a3a9a7c19bc1a6d94fe8133c9d463d46f34db33f454fb0063a8f7c936e8f",
+      "before_sha256": "c7da089d8a47770e244009cba89584a899f8b4d0adf177758e01729fc7ac74ea"
+    },
     "answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence/index.html": {
       "after_sha256": "78836077f86b9c45a18f25679cf93a1d5064f5026c66bddeb7a743791e68c73a",
       "before_sha256": "fe05b5652084aae1e49cf90f7b86ca5abe1ac4dfaa8b7eb2b59db8396110a0bc"
+    },
+    "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction/index.html": {
+      "after_sha256": "87efc93a33b1c46868b97df3992892316c51f0c251db427fe7cef5da0390ac2a",
+      "before_sha256": "bab262bf1174cb62c01e48e3740ed063d3426ca884d33cc8dc309a0107380cc2"
+    },
+    "answers/fixes/how-should-i-check-an-llms-txt-file/index.html": {
+      "after_sha256": "be2828a5f57792f388feaac50d0b6aed59d811714dd9a7f09be63118b6e800d8",
+      "before_sha256": "83fdd99b35b97bc9cc0e206abc3df54493fdc91991f53e3954491268040b28c7"
+    },
+    "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo/index.html": {
+      "after_sha256": "ac0f6a2cd36e9f25caacb31e60ad414c3ab7196c78ffa707687797e5d714afe6",
+      "before_sha256": "382f70773f23c400c4409f619ce2d7bd199b5c2934e711bae284de666f810891"
+    },
+    "answers/fixes/how-should-i-request-an-ai-fact-correction-with-a-source-receipt/index.html": {
+      "after_sha256": "f7a4eace3e97bcf887ed4def4d5dc47e8e4e16251ff27d5b687f7d1668cf5656",
+      "before_sha256": "30dc11b64f5427332060b921f267e6efcbd61fa2c6e550f00ae08f90d97cb349"
     },
     "answers/fixes/how-should-i-structure-headings-for-ai-crawlers/index.html": {
       "after_sha256": "8c06df45010620772a404721ef94e48ef5a46f706b59edddb90e270d3d64e98e",
@@ -1235,17 +1271,41 @@
       "after_sha256": "7bcebb1efb76e90bc0bd2b6a9a67f6170aaec4f29c23ec4846cd7e1f49db8965",
       "before_sha256": "6a2d6a371747c32e2231f7a5552b4b479307f192b746f5d197abc5ef6c76a13c"
     },
+    "answers/fixes/is-llms-txt-actually-used/index.html": {
+      "after_sha256": "3b9fc898685d61699a9d4eccd4bc0fa2bd4786192d0890534952eb963d6c00d6",
+      "before_sha256": "52f8c1fa202eddb4c94d033ccf73c36e087ba40042ec93d3f4fd64d5ffd3a41e"
+    },
     "answers/fixes/is-llms-txt-required-for-ai-search-visibility/index.html": {
       "after_sha256": "8774690d849c33e0c26fb5d1425a7f8086c7712a10f7d4d3ddbaeb65a1adb32f",
       "before_sha256": "feaf00ada14f7396b31b10d474a04f7479aec1080912a649a8308d4723cf2272"
+    },
+    "answers/fixes/what-does-google-s-guidance-say-about-llms-txt/index.html": {
+      "after_sha256": "84c4c5e28a25aaf292c2cb9a7eb1af1e46752db6cd5a0af20eda83bd712ce099",
+      "before_sha256": "6c71a14b86d450ffa65ae74989a7b525f390486d14aeafb45b518f8f72e48b9b"
+    },
+    "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility/index.html": {
+      "after_sha256": "69ab00d76393b3f0f9afbfaf273d87dd8e086c160cada55d44b38e418fa703ee",
+      "before_sha256": "6d7e5aab8943b3bf2c51a8bb1df1acf27e36301ec982ecb9d3041c74dddfc6e8"
     },
     "answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer/index.html": {
       "after_sha256": "cd8cec91ff0b5e4ca3719eb85b002e11f4197e6fa2769dc661305344fe7b56a3",
       "before_sha256": "8b8ed3d2e402c5c1281e69d0db3ceeb3fcb773492472d8c8bc4d60c7b5a93061"
     },
+    "answers/fixes/what-is-an-llms-txt-checker/index.html": {
+      "after_sha256": "e0871770eed4eb980e08b1d96d0595e96443e5e9b92a491d001fe158753ff35d",
+      "before_sha256": "b68526dafc52c2998ff34084c14e9cb030afa5f6be5fc68173989c36abaed446"
+    },
+    "answers/fixes/what-is-an-llms-txt-file/index.html": {
+      "after_sha256": "290d3d92ffabef5f620cb34422b572fbf6bb71e8a5ac8ca693480541d2f02b56",
+      "before_sha256": "2ddf4f8f25c8f35512a26bd1796c67247072ec2de9da54b2128e6805b6bafa46"
+    },
     "answers/fixes/what-should-an-ai-information-page-say-about-our-company/index.html": {
       "after_sha256": "4c69d879f326111e2c2a9a9ce6bfd44e9baee1e5efeb21f0bcc12d2e835b8738",
       "before_sha256": "2b4c493dc111890cd31d94a21b60fef0cabb81fed03f64bff21b499acc6d9430"
+    },
+    "answers/fixes/what-should-i-include-in-an-llms-txt-file/index.html": {
+      "after_sha256": "573b1d2568db0b12204b602e98b4bc22f3d070960f962154a8e127e25e06b8e0",
+      "before_sha256": "044cd840232064fe57b0adb50a3926fa3b043048c2066fbeb8c89f3973f5da8e"
     },
     "answers/fixes/which-ai-visibility-tools-also-complete-content-changes/index.html": {
       "after_sha256": "e26f3a1d5c17cee7e01fbf806147cccf4783bbb25274c8305882ec560b3783da",
@@ -1255,9 +1315,21 @@
       "after_sha256": "bb439e3bf5cae642053cf446a01353b12dc50bc4fbbdc3cdce62a156f74a1262",
       "before_sha256": "094b30de387112aa75c8f0d164c732eaf74d0bf64e8410c465946da91a7f0d6b"
     },
+    "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence/index.html": {
+      "after_sha256": "816b54aadb4cfbca9c66297cdbcc4fd60d9f381e917266dcd943c807373adaa5",
+      "before_sha256": "56ab667d6d4fa5b1eb7680c41d79fce0531338b5eacbef1526dc2c7b3d238401"
+    },
+    "answers/geo-basics/can-ai-search-use-information-from-the-live-web/index.html": {
+      "after_sha256": "4e721f698734648fc9adbcedf384888631ee49da5c78dd4d7bbae12c694199c7",
+      "before_sha256": "35c2375a4054ec3334f34e0f9d9ca9b69b21d3a93202534acaa989e9bbffa1eb"
+    },
     "answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it/index.html": {
       "after_sha256": "95ee80733e321ce178db78f4dce095d5e3e42d1a20efec613de7a00ed9467a79",
       "before_sha256": "bd5bb3a8364042d1ea23f96611635340510431475c7cb1e91ca1bc8a21e70e79"
+    },
+    "answers/geo-basics/can-i-use-ai-to-do-my-seo/index.html": {
+      "after_sha256": "3a1706f703eba0196c8288eae573cdcc5fe5c76091f57dd7993ae98ee0ad883f",
+      "before_sha256": "f5bdf7bce48162126ea1292f028d7171de6e339e7a9e3a0c61286fedd26847c0"
     },
     "answers/geo-basics/can-i-use-chatgpt-as-a-crm/index.html": {
       "after_sha256": "68544730bc2a2f91d931ecbeb70d8bddd4e7aa82b09d2b789c285ec75f1960c6",
@@ -1267,13 +1339,29 @@
       "after_sha256": "c9e9115404f2d3f2b0283ee9c25242bd01e640cfd535cfdee21c28d55781c181",
       "before_sha256": "20d349c3ccf04d4ec739f46ea2cfbc7b73478c40ae8a65c483221a5475ae4fbc"
     },
+    "answers/geo-basics/do-brand-name-prompts-measure-discovery/index.html": {
+      "after_sha256": "6b17c0cae0e49824d1fa7682ec6f66970e3a3e5e40f6bd52ec9d9bdb5dea5e48",
+      "before_sha256": "90c96a81e909e58c858c62ed3d8bb685eb4ba3041afadcd02898776800a6634f"
+    },
     "answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts/index.html": {
       "after_sha256": "8172adeff1216abac6afe25b32573e2efec1595be3747b0597995c3667a642b2",
       "before_sha256": "e437105c988e6f5c7f56f6f4db3497030b31ab681df88ce932d81fbf8fbe16b8"
     },
+    "answers/geo-basics/does-ai-search-replace-seo/index.html": {
+      "after_sha256": "3c5d87bd3b7b64ed425f1bcadb50796b5f8f52f28558775c0b6edb614ce48076",
+      "before_sha256": "d68e878d2c27c01a83701223136480ef66a3b099cb558606649dcca87cb68704"
+    },
     "answers/geo-basics/does-an-ai-brand-mention-mean-the-product-was-recommended/index.html": {
       "after_sha256": "987863b4d0f9bf19123d256c6c50a485f4fe3bd545a5996a7d488ceafb642a07",
       "before_sha256": "fb4f514b3cae625e60adbb423d2e8551f37f4951c3c81b3f7674956a88f5459a"
+    },
+    "answers/geo-basics/does-an-ai-shortlist-show-what-buyers-actually-purchase/index.html": {
+      "after_sha256": "b8225e4504c3c16254c48ef18aaead4e4a3d86b705ccb94efd5918a327142e88",
+      "before_sha256": "42d2a4a6de2823c6246f5138e902106d84bea8ad98ea55140cc2c8e0d2b3f67c"
+    },
+    "answers/geo-basics/does-being-named-by-ai-prove-product-quality/index.html": {
+      "after_sha256": "2cd48694c0e6030386a8e5295f96a5ac78bfb8ce4fddd66f19437b5e48bdc480",
+      "before_sha256": "2f0f76d7179b65c575d7f532bec41bf455829b1299aba1ca72b74c35c970348b"
     },
     "answers/geo-basics/how-can-chatgpt-help-with-seo-content/index.html": {
       "after_sha256": "cb85ed655ba08077287ed20c497b1631e9acdebc22535f1d8709ffcaa02d1fee",
@@ -1343,6 +1431,10 @@
       "after_sha256": "9c07060d0efa8666e37321432328a70223db651d93dd73c11a09a17bbd243a2c",
       "before_sha256": "c0f60bf1aa178a510634f3a5227388c213f5dfc9ef3ea7ab18cf5ebc3de993be"
     },
+    "answers/geo-basics/is-perplexity-good-for-seo/index.html": {
+      "after_sha256": "81d47cc9b8ff8fee8e870a0c70d6855dee501794e1d78f0eb0af379c390643e4",
+      "before_sha256": "7efec3ed5ab3131ee7124b0762c0472d1edd2ea00bcb0fe9feba97f1bd64f038"
+    },
     "answers/geo-basics/origence/index.html": {
       "after_sha256": "2c5538dd756a6ddf36e594d067dad4bab29b11cd1eb507f6514cb8ebc5052cc2",
       "before_sha256": "fb1e46a61a76682ae7025b28d1d32056aa64b45295d0e3798206dcbd450d2f6f"
@@ -1383,6 +1475,10 @@
       "after_sha256": "2f05a722aba60578d44afba17b9219513a04b25e079d827bc4af30294fe05c34",
       "before_sha256": "5d7d08a19a07b784fb7fcf9379b55b2bb1fe87c14526db25ff3d9877dfa7acb8"
     },
+    "answers/geo-basics/what-does-ai-visibility-mean/index.html": {
+      "after_sha256": "e7b6753d98fb7fcdd274ffc64d0ce1d9b3a2913ed8fd8628a33e03951f21a2f2",
+      "before_sha256": "c0b399274f45ab093a025889f576c408b74bfc67267722cc61a66b915f6e2d75"
+    },
     "answers/geo-basics/what-does-blue-yonder-publish-about-ltl-freight-shipping/index.html": {
       "after_sha256": "725a4e085fd25d57f341e2481f010d7f6ff7768b3a95a03ff779cbf2293e4b64",
       "before_sha256": "b09c3277e77052392287ccb9848affb00b6f52041c405d4e38e52b17a46e730f"
@@ -1391,13 +1487,29 @@
       "after_sha256": "48a5ac99467b1a7c1fb77fa01d5610fbabc2cef4f06f36dfbba43b7d22699cb3",
       "before_sha256": "3d49ed4363159e9f2d0a866c5f5cac666c540356fd129270165c7fcca8d8614b"
     },
+    "answers/geo-basics/what-does-geo-mean-in-ai-search/index.html": {
+      "after_sha256": "289b18ceec8f6e849f9ee80c0a8c48be7ad32129bc49257a5d4975458f28aa9c",
+      "before_sha256": "5610d09fa0b82f3bbf96f8000b50a735d089d26cb0bcdd2b4253d92cf541306f"
+    },
+    "answers/geo-basics/what-does-llm-in-ai-mean/index.html": {
+      "after_sha256": "af2f300fa2fcb8487943dbac67731e0b555c7c56a0c227f2878a02fca2c0f976",
+      "before_sha256": "561b46121fe5460108ad644d36a7fdd30a88c0ce0d340969a8fbce28ac3f30f2"
+    },
     "answers/geo-basics/what-does-searchable-offer-for-ai-search-visibility/index.html": {
       "after_sha256": "50cf3348974f7ec6996e88cab2e480edbdfac3358326fe348ad2dd56f3319cc1",
       "before_sha256": "872a9f00cf276f58c9c58cb5d1c342d3cb5e9cc2bd7793136d06c330a693fb37"
     },
+    "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer/index.html": {
+      "after_sha256": "ecc07d406ebc38e31619422bf86a0554c1f1cbe8b6771d066d869ac1f01f752e",
+      "before_sha256": "b64bf15edc999f35b7ea16c9e6b0ac8bb197194df4e6e0832a2a7eb9fe64aa02"
+    },
     "answers/geo-basics/what-does-visibility-in-claude-mean/index.html": {
       "after_sha256": "2c1120bb6d6359ead5bd244062835c00738b17e300f55b1989a03388590145ba",
       "before_sha256": "bc92e2a228fcc3ac8031a8e41841886af7858d9acfefc6c4780d906cf8d5cf06"
+    },
+    "answers/geo-basics/what-is-an-ai-software-shortlist/index.html": {
+      "after_sha256": "fbe14ec766f869afe230607f916c0e19d15d906deda18dd7f711e7c60ba1c446",
+      "before_sha256": "310c26d854e64e86b9803d59041b88183ab010b87dfcbf18be295e947b56ab38"
     },
     "answers/geo-basics/what-jobs-involve-answer-engine-optimization/index.html": {
       "after_sha256": "01ee2a7d88f5506cf777851eabd7226ccf258eda24b003f701f7dc0cc9743040",
@@ -1438,6 +1550,14 @@
     "answers/geo-basics/who-has-the-best-geo-results-in-competitive-industries/index.html": {
       "after_sha256": "3b055afbadfd7f625ca178cd8c914d313bd122f36f0d4e6d249cf862a93aa491",
       "before_sha256": "16ab09735c7bad1fa2790912582b548222c80772cfa405bd34c8ea6d9d0347f8"
+    },
+    "answers/geo-basics/why-can-the-same-ai-question-produce-different-names/index.html": {
+      "after_sha256": "c303891a70192ab3015ff1899310a07a68cc40afe54dbffed6fdf5680253e58a",
+      "before_sha256": "2dff7be9e71fc69a58a6075b9eff0edf31b33c7726c633bd6c001272432e2a4e"
+    },
+    "answers/geo-basics/why-does-the-buyer-question-matter-to-an-ai-shortlist/index.html": {
+      "after_sha256": "4ae42c91b1d8d472fd01e8e4c5d6cdae5926f7d99cd2df35fa5f5c8528c39910",
+      "before_sha256": "f44b066237b0aaec279f2e59508166d17d01a2d6bbec770597cc607d2a82770b"
     },
     "answers/geo-basics/will-crm-get-replaced-by-ai/index.html": {
       "after_sha256": "00cfc13d16769f3516b36e70735de02b8c9f20ee445cd13714a0e6da9587565b",
@@ -1735,6 +1855,10 @@
       "after_sha256": "79b758c51763257d0c4a09ec0c2c40e07b8d5a55a90b3436751b3e354c290817",
       "before_sha256": "87e940694acdc056b9618af92951b02d1568edaa37308e13d9d40da42a10eb51"
     },
+    "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies/index.html": {
+      "after_sha256": "0c37e83486ccc82904a059fb519c7d8f9dfc61cc8b2fa4683a5421d16fa6c5e3",
+      "before_sha256": "62928a6c6b61b866fb839addd2b7c1d0044d43dcac6ec6da2d309c899c106b5f"
+    },
     "answers/measurement/can-google-bing-and-llms-find-content-on-threads/index.html": {
       "after_sha256": "c3d079a36e6f55344a7cfc580d42835ef4d90d9d73790a495d042e1698bafd42",
       "before_sha256": "ab5ce24e63bf8e20adb0c88173e7acc6a3bb659878ab89f9b53757cff62ebc55"
@@ -1754,6 +1878,18 @@
     "answers/measurement/does-profound-provide-a-full-seo-audit-or-a-partial-audit/index.html": {
       "after_sha256": "72662dcbde9543ae295bbc5d74d91fd29a61d9b262c59b30999ceda1a463c1fc",
       "before_sha256": "fe038327be59bfad21bfeb949042eafda6fd644ca04d0180efaa17351c45984b"
+    },
+    "answers/measurement/how-can-a-buyer-verify-the-conclusion/index.html": {
+      "after_sha256": "cf87a827fbb60796edaf4362f84aeebc6e15115bc8b591cbe143e25e20a91d2d",
+      "before_sha256": "dd9383c70ed173bed1ce62920ad56ad04145442fe5533320f240576727ccb84a"
+    },
+    "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data/index.html": {
+      "after_sha256": "9051d709b3340659859ccfc4449ef38389f66d69905f7b254edd2b6aa4cdcdd6",
+      "before_sha256": "94cfee65889bb9f602a0fc9e378d4d57c54b4c1cc6a230e58053820d573c84ee"
+    },
+    "answers/measurement/how-can-i-check-ai-search-visibility/index.html": {
+      "after_sha256": "401b6c6b56648935dc8d5ab06beece4f1bc419b423dce701f789568b6053ad4d",
+      "before_sha256": "b1de942471d0e9e255afeec707a0c2f6894b5fe9845326ed7170a64383167dd5"
     },
     "answers/measurement/how-can-i-check-whether-an-ai-citation-supports-its-claim/index.html": {
       "after_sha256": "50fdeca7b4d7e202eb17002c41e85fe074fd41537fd2cab39dd43db5f2e2a4d3",
@@ -1779,13 +1915,29 @@
       "after_sha256": "b609befa1cc5f329b786aeb426edee1dc252f1c0bbf5286c8e52236c3d95b245",
       "before_sha256": "ee25d9a249367ebe1c8c0a98ac716f14b71cedb206287721a8f590b257ad9ed8"
     },
+    "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools/index.html": {
+      "after_sha256": "8cfc5c3217d1bcedbecdb1aeda563b4fdc5c4bbe8b47cf073ee58095d8aca170",
+      "before_sha256": "4bacb1571dcf1b8b1a90d46186af5f7b6e99a448c3a56c0432593f85972414ef"
+    },
+    "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit/index.html": {
+      "after_sha256": "bdcde8bc2cdb1be6bb69fd024e7e1f3603c6ed9049819bd39c70098c30585019",
+      "before_sha256": "0ffaeb4e45dca293fe4cf42b60863472aebcfe98331b89e73a564624e95e212c"
+    },
     "answers/measurement/how-does-google-ai-mode-affect-site-clicks/index.html": {
       "after_sha256": "cf3be50825a9e45b5cbcb6534389c6d7eaca4a03bee1ec2795ca8b824695d5f2",
       "before_sha256": "10c43a8bdfd0e8c6d3c8e016272fa2d1c8d5b159f7708afc06893653968805ff"
     },
+    "answers/measurement/how-many-repeated-runs-make-an-ai-visibility-rate-useful/index.html": {
+      "after_sha256": "ff7b803247bf1ae48c21ec76faa14a251e2f3f2903efbe3cb17cf6923f9db823",
+      "before_sha256": "e7cb4852d0afb8429c3a43af149dd43438901e2a06197c3e48f3547d3bf6e5f0"
+    },
     "answers/measurement/how-should-a-report-present-these-outcomes/index.html": {
       "after_sha256": "bee49a46541ca3953617a8c5109bdf5b7bbbd3b536044c8e95976360bf46608d",
       "before_sha256": "fe1eff91cfa07da736900621001230ec3ea549803dfa4571619a5961b5b3151e"
+    },
+    "answers/measurement/how-should-i-check-an-ai-baseline-before-changing-content/index.html": {
+      "after_sha256": "265298cce9edacec0294f51f7aed8e5f5f6f957a3632e01ce6e597a4f90cc026",
+      "before_sha256": "3d61626faa8f40fd40334f6601b717388b9fd4cebeed00d73c24232771431a35"
     },
     "answers/measurement/how-should-the-report-show-visits/index.html": {
       "after_sha256": "4b45e4300542dba7a5e70383025f8b02d2cc8424373914d9dc480b831747cbb4",
@@ -1807,9 +1959,17 @@
       "after_sha256": "4fb84a640e5cb0159734545875b99c7913b195ddbc1978873423e3c60ae1f7c0",
       "before_sha256": "0961f952915cd75b14b813c4b4abb40ec6a196fd6cb084d14c05f573b3a9bf47"
     },
+    "answers/measurement/what-can-search-console-show-about-ai-visibility-queries/index.html": {
+      "after_sha256": "4e31ae126ce52692af264d17bd872253a306d97a35a2ffd87d97d5c2f868cfbc",
+      "before_sha256": "a4edec950d0ad142a3ba39e9724dfb0bffca8d62b6230f50d3da911b6f292399"
+    },
     "answers/measurement/what-counts-as-a-brand-mention-in-an-ai-answer/index.html": {
       "after_sha256": "05f22f619da1d5d3ec758484ed570559f10bc8c8e287532a7d866f37b275c335",
       "before_sha256": "43e6fbb734a1545569b6ad0f9c4f11b33c9db6d116cdca4598cce9e4789a1a47"
+    },
+    "answers/measurement/what-counts-as-an-own-domain-citation-in-an-ai-answer/index.html": {
+      "after_sha256": "c642a8ff4cf19693bdde9b8189f0e1bdb98c3c66c72472f78983d40087e20155",
+      "before_sha256": "944599ef0e9e3f8670e4b5def03ce9818266c09878f3f0f0a52c33576553bd07"
     },
     "answers/measurement/what-did-the-buyer-report/index.html": {
       "after_sha256": "92108fe0c39cf2d78f5e6c34fee22ed31d24daad6e68b12a2b95c371599b091a",
@@ -1851,6 +2011,14 @@
       "after_sha256": "71a5e282d30581d02679feeb173ba8e7786fb0734708fdfa6444a5a55c1022dc",
       "before_sha256": "5486b4b18d475889ab9f25afaa347e3474801ece5a50297f830103afa4030a69"
     },
+    "answers/measurement/what-should-a-client-ai-visibility-report-contain/index.html": {
+      "after_sha256": "81bd043d236ae5e7fa64eebe1b7bc4a5e0372e928af84dae8a21961d6a312747",
+      "before_sha256": "4526c0bcaa923181a811b498370fad25b6b0a5cdbe99e7e65cb2649925d41461"
+    },
+    "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re/index.html": {
+      "after_sha256": "46a5720d00d11ac6cf1e3cc023e5f9d8d121358cf497d74cff41071a734af738",
+      "before_sha256": "6773cb33686bcd48bbc9fa5d48b76557f0b3614610a9efd996f095abd322e168"
+    },
     "answers/measurement/which-ai-visibility-platforms-support-multiple-agency-clients/index.html": {
       "after_sha256": "b75c29412b997c615e28694cc4a95a16ad3c369b2996125dedd95bfafcc52f09",
       "before_sha256": "6a667d6c72445aefc28acc31c4d9638712597a2dbec4139dc505efe5d2f3c2a2"
@@ -1859,6 +2027,10 @@
       "after_sha256": "dd6a3e04eccaeb69a2e511cabeef0253c3493c74e66668c9b79925da42d2625f",
       "before_sha256": "6c78a4dcacde5e99f501ba3b7e96ffe427513d9f7c0122587bbdaa7cfdb469a8"
     },
+    "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify/index.html": {
+      "after_sha256": "f76abe9ab9822885a31fcb38ec5b05260d0ccda173827e6ebab94e77bc854792",
+      "before_sha256": "fc7b49fb7dd24b24e3422e28c98e6555872af967da24a9c55bbf33eb6f0ff5d7"
+    },
     "answers/measurement/which-measures-belong-beside-one-another/index.html": {
       "after_sha256": "06d1d9050f6446e73a8a1459731b2624ee31057767edc6a242ec989bfc8f0265",
       "before_sha256": "1195b7da30d04c325ac0040dbd017be5a6a3a32998522ee5cbc905cba866dc21"
@@ -1866,6 +2038,14 @@
     "answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview/index.html": {
       "after_sha256": "1826b418353e81c50474af85398fecf7d559d42fa9e0f0eee74e1efa57b2c844",
       "before_sha256": "edcb0c8461df65a00bb064e572a50d9cd54608b257062272bd09abfe56a05a27"
+    },
+    "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt/index.html": {
+      "after_sha256": "50bfc51af82a3f67a141166c4e92f11ec8e4aa7325472032e7edbab2ac6d8c75",
+      "before_sha256": "2c1287f1edc3f17cc48ae512cadd427232c861910d9c0171da8cf3a266ce5f83"
+    },
+    "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple/index.html": {
+      "after_sha256": "75bd08e540266919bdf5688c38891929c107775b12ee59ffc11aabc040576ad1",
+      "before_sha256": "279969b40dc0bddff0337ef16e3ccb839be1f6a3099b302158dfb30804537d3c"
     },
     "answers/perplexity/how-does-perplexity-work/index.html": {
       "after_sha256": "85f23d1f921203483c4d5d607f673037e26f7dfab2a6e010420198511946de8f",
@@ -2436,6 +2616,26 @@
     "reviewed_utc": "2026-11-06T02:47:44.108079+00:00",
     "root_visual_review_sha256": "ec746a072a243fb227e07c213535bd1c89b40ef91fc7912dc468857020eef113",
     "source_head": "6ff1be8cac3e8bc19436918e7f82a757ec0bb9ae",
+    "step31_review": {
+      "actual_viewport_widths": [
+        1440,
+        390
+      ],
+      "all_45_pages_preserve_every_byte_outside_primary_navigation": true,
+      "browser_reads": 180,
+      "browser_receipt_sha256": "abad0ab13ff2987fce982f395c3df41999f042716ea93724189b24152e8fa6c0",
+      "capture_comparison_sha256": "12a96ad8526c99d84f542fd671c96be5eea2e621afb4c585ede6fd421c70ab8d",
+      "preview_inventory_sha256": "82ab00fa0554a04b276fde2fa6f6ae2a054189880e8f047ed4c682ac4cd150b4",
+      "preview_limit": "The local preview reused the exact two prior PDFs and gzip container. Hosted CI must regenerate the PDFs twice and match this complete inventory before release.",
+      "reviewed_utc": "2026-11-07T00:51:15.312463+00:00",
+      "reviewer": "root",
+      "scope": "The actual strict local build contains 45 navigation corrections. All 748 other public files match the prior approved artifact.",
+      "screenshots_visually_reviewed": 90,
+      "script_states": [
+        "off",
+        "on"
+      ]
+    },
     "unchanged_from_PR99": 400
   },
   "base_commit": "88d6b6bb11f8b4bd713ee7e4e79c863ff9973518",
@@ -5015,7 +5215,7 @@
     ".gitattributes": "56455ec5f79c44ed93492119b8cd0e0ed6ef065faaddd411b0bf58709e8cf995",
     ".github/workflows/deploy.yml": "e6e0cfb6f6750212e76e11e33690423c0acc4441894d4d340856b96a44a40ad5",
     ".github/workflows/library-code-checks.yml": "a1479c2d4c76516f8fce77aae8abe07a5d68c5518f2b54bc29c7b3e8fb2560d9",
-    ".github/workflows/verify.yml": "9016687c17e095fa42e9130f0fa9067a44c218713317ea38a40db2b0492d6337",
+    ".github/workflows/verify.yml": "87e11050db32f7d269be59524f7db47dd026c9ac6c39fd3e54e824e87ed63f63",
     ".gitignore": "d29cb70f254a3db56ab93476e2b32ad286b0166df6fc78d4595fe9a7f2e0e603",
     "CHANGELOG.md": "f0fb366b1072a709e75e4fefe4d9db1cfb5d19dd92a9f4e70062c01cdd3a397d",
     "CLAUDE.md": "8e581156abc68b269253319d31fa96edab6c379b37a1986e4e44f898d1a108b4",
@@ -5868,7 +6068,7 @@
     "tests/test_answers_published_list_audit.py": "a04a21d9ee1ebe6bf6f5b39d62bd3b60f0901860b40d2784bbe12e00dd93f86f",
     "tests/test_discovery_consumer_five.py": "e725ad9bf46e0299f62037ffa956ad5a69b1574748ec14d53eb56368d08eb4cf",
     "tests/test_followup_release.py": "736a5ab4f0fda04c03c08dee5483192bd5292f5bc3a47f2aeccb19436def0aaa",
-    "tests/test_library_field_freeze_navigation.py": "ef4e1b6082dcd132c0110aeac5fa134df97a820918516afe57c83830a9bbd76f",
+    "tests/test_library_field_freeze_navigation.py": "1ac33d0746a75d19a375c555773d353b2821d67447da52786fcfb7107105718f",
     "tests/test_library_publication_verify_stubs.py": "27757723b2b9d25dad6ed7e0c1ec895bcc85171d91cec47de7ff2a0da54e13c4",
     "tests/test_library_quality.py": "d04284c1a4812a95f078c0692138c0130ef8667c6de1c0010a58144c381aeb0d",
     "tests/test_library_related_chapters.py": "90b9f76ae97bf64583ef8024a2cb15fccde021f1842cbd1f58504505cd1b6e94",
@@ -7518,10 +7718,10 @@
     "tools/library_company_panel.py": "17076be6269695465e44298b7d6875979d6789d47eb2d5cff4d9db2764e22ee9",
     "tools/library_company_panel_six.json": "4be5939d38009a4b15fcfb2f606e9d3437c2cddfcd6911316f9d7d1726a7317d",
     "tools/library_documentation_review.py": "88dc2dec255f651c479ff3808258ef2db8889e9e1ae59e2132de64afd234ae99",
-    "tools/library_field_freeze_hook.py": "a2a29288c5fde5aada193bd1a0242517795b0a48eb7bee0d668543a631e89652",
-    "tools/library_field_freeze_navigation.json": "e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c",
+    "tools/library_field_freeze_hook.py": "9f99bbe3e928d99f9ecb727eb446672e81224c580e9941c4f9690f23fbf87667",
+    "tools/library_field_freeze_navigation.json": "ec8e3d76d21ee607974ffa5c2e7c82eb75c3d17f8b727e62d8d35d37830d91f7",
     "tools/library_field_freeze_navigation.py": "6cb83cc433abcc497bb7b5c0a1514236bbb86b85e92d933bb1ded3a043f43d1d",
-    "tools/library_followup_release.py": "efc95d1fff214df5186da0c9d34193c419aa0a862079e9e9166f6fc6b38490ef",
+    "tools/library_followup_release.py": "190b18ef77a65289f66ea02574a8b05eee89e4aa08b956eceb0d61d72e78785b",
     "tools/library_inherited_presentation.py": "4911ce5a7e1b95862ec8117379b882dc2c8409a3f22b5dc706c6453159f82d11",
     "tools/library_list_audit.py": "c1e8b1486287efe7ba7e86ac947bc3ebe6ce6d3d36d5888ce4740757c6361631",
     "tools/library_owner_composition.py": "d8b03552e79f3a0ad276053210737ab5d2fe2f6b6b4a5882990f8003e0a09e3b",
@@ -7584,6 +7784,7 @@
     "tools/observe_owner_candidate.py": "3c286ce1f127afbd92cc982ba92e11147f89ff11adf32967ead3cda98b868e92",
     "tools/performance_assets.py": "b1d5e9823099ef2c2b2cd0c82e9c3d2802eafef21711e43852f00dc57a3f092f",
     "tools/research_quality.py": "875c5a0caeb36f2032825581809a1e6315be0028807fb48878d6cb9e2c4f1686",
+    "tools/step31-navigation-deviation.json": "0938fbe5d64f2251de13cfedea2dbface64d08613f503b6dc09c452c3cb8b6a1",
     "tools/validate_preview.py": "c8aa781495d967de92cdb7f2b08088ecec66be7a89cadb5b1291e2f15beec153",
     "tools/verify_answers.py": "1dd41db3bd3fc2b8fc714e90a2a23eb39f140b380a0e4da55be7ae8a9f7a2485",
     "tools/verify_build.py": "2cb4034a1923e58c323181f1d0e1801ca037a568de69e5c85e4cad746404c5d5",
@@ -8039,14 +8240,14 @@
       "count": 1
     }
   ],
-  "owner_authorization_date": "2026-11-05",
+  "owner_authorization_date": "2026-11-06",
   "policy": "OWNER_2026_11_05_EXACT_FOLLOWUP_V1",
   "prior_artifact_id": 13359529469,
   "prior_artifact_path": "reviewed-pr97-publication.zip",
   "prior_artifact_sha256": "1badcad3e2416b9b156d8a310b7a59b5a06b1d8b529ab04837f042f7ddf700c1",
   "source_changes": {
     ".github/workflows/verify.yml": {
-      "after_sha256": "9016687c17e095fa42e9130f0fa9067a44c218713317ea38a40db2b0492d6337",
+      "after_sha256": "87e11050db32f7d269be59524f7db47dd026c9ac6c39fd3e54e824e87ed63f63",
       "before_sha256": "1b7279d4e87f5d8275a95bc496c27531fdf8bfc5009980febf98273139636ff4"
     },
     ".gitignore": {
@@ -8095,8 +8296,7 @@
     },
     "mkdocs.yml": {
       "after_sha256": "673ab5944a998b6857dbf85a2ec287cbc5c8f834a923d327951f9bad933d67db",
-      "before_sha256": "2117b8e6ff2638eb01cf9f39912ba89f2a557dcf5afcc0ae0f78ba31a265201a",
-      "reason": "Keep the already reviewed Manual reading-copy date reproducible across UTC midnight; reject invalid dates and do not consult the build clock."
+      "before_sha256": "2117b8e6ff2638eb01cf9f39912ba89f2a557dcf5afcc0ae0f78ba31a265201a"
     },
     "overrides/followup.html": {
       "after_sha256": "d103f1609a2e57119886f22ed125c18fdd9d7a4beeb33734496dab9090b5e5d0",
@@ -8106,19 +8306,21 @@
       "after_sha256": "736a5ab4f0fda04c03c08dee5483192bd5292f5bc3a47f2aeccb19436def0aaa",
       "before_sha256": null
     },
+    "tests/test_library_field_freeze_navigation.py": {
+      "after_sha256": "1ac33d0746a75d19a375c555773d353b2821d67447da52786fcfb7107105718f",
+      "before_sha256": "ef4e1b6082dcd132c0110aeac5fa134df97a820918516afe57c83830a9bbd76f"
+    },
     "tests/test_library_visibility_release.py": {
       "after_sha256": "37e3d8fc9160927ecef1313460a1d97236ef48f19f699a70fd24a1db22c53062",
       "before_sha256": null
     },
     "tests/test_pdf_reproducible_fonts.py": {
       "after_sha256": "050502d5d0713f1b84f19b4115254868e1d6f7d702d65ccd9ee1cedef6b589fc",
-      "before_sha256": "e991ea8c113d1325b73d33ba06090d47c94c64994f0ff127d27fa816c4326a14",
-      "reason": "Keep the already reviewed Manual reading-copy date reproducible across UTC midnight; reject invalid dates and do not consult the build clock."
+      "before_sha256": "e991ea8c113d1325b73d33ba06090d47c94c64994f0ff127d27fa816c4326a14"
     },
     "tools/build_pdf.py": {
       "after_sha256": "064b431cde319e7250ace3562ff4f312cb915990fe96b2bf8202bd7caf0a73b3",
-      "before_sha256": "bfe0c58a34e918e5f96bad4d34e5dcc153ceab40e5086c24844f62b31a25b317",
-      "reason": "Keep the already reviewed Manual reading-copy date reproducible across UTC midnight; reject invalid dates and do not consult the build clock."
+      "before_sha256": "bfe0c58a34e918e5f96bad4d34e5dcc153ceab40e5086c24844f62b31a25b317"
     },
     "tools/library-research-support.json": {
       "after_sha256": "803afdc7d03b03bf525941159f63b96e82e26b5fd80e2cf70d7759f727e58198",
@@ -8136,8 +8338,16 @@
       "after_sha256": "9092b9262bacbd8c11aad171582e2a0f3de7a9a99fe63c97fc4985a36c700b9a",
       "before_sha256": "5aba9c9cd68edfde0c074de78d5f90a567f3dac5c34319fe77d8f5c3e5182f6f"
     },
+    "tools/library_field_freeze_hook.py": {
+      "after_sha256": "9f99bbe3e928d99f9ecb727eb446672e81224c580e9941c4f9690f23fbf87667",
+      "before_sha256": "a2a29288c5fde5aada193bd1a0242517795b0a48eb7bee0d668543a631e89652"
+    },
+    "tools/library_field_freeze_navigation.json": {
+      "after_sha256": "ec8e3d76d21ee607974ffa5c2e7c82eb75c3d17f8b727e62d8d35d37830d91f7",
+      "before_sha256": "e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c"
+    },
     "tools/library_followup_release.py": {
-      "after_sha256": "efc95d1fff214df5186da0c9d34193c419aa0a862079e9e9166f6fc6b38490ef",
+      "after_sha256": "190b18ef77a65289f66ea02574a8b05eee89e4aa08b956eceb0d61d72e78785b",
       "before_sha256": null
     },
     "tools/library_publication_verify_stubs.py": {
@@ -8158,6 +8368,10 @@
     },
     "tools/library_visibility_release.py": {
       "after_sha256": "5be1284b1cab131fc384a3c66117ec743dbccd2c8861c81b61abac379ad05f39",
+      "before_sha256": null
+    },
+    "tools/step31-navigation-deviation.json": {
+      "after_sha256": "0938fbe5d64f2251de13cfedea2dbface64d08613f503b6dc09c452c3cb8b6a1",
       "before_sha256": null
     },
     "tools/verify_build.py": {
@@ -8196,7 +8410,15 @@
     "scope": "Only table containment in the unfrozen template changed after PR99. Complete answer copy, headings, metadata, links, research records and all other public bytes are unchanged. The prior source reviews remain separately recorded.",
     "skipped_tests": 0,
     "source_head": "6ff1be8cac3e8bc19436918e7f82a757ec0bb9ae",
-    "state": "ROOT_REVIEWED_CURRENT_SOURCE"
+    "state": "ROOT_REVIEWED_CURRENT_SOURCE",
+    "step31_navigation_review": {
+      "authority": "Current owner authorization for STEP 3.1",
+      "deviation_record": "tools/step31-navigation-deviation.json",
+      "original_plan_sha256": "2d9aec5ec306d73743255986d8b987c694f5b26896e218363b79b7e49e36d225",
+      "reviewed_utc": "2026-11-07T00:32:05.607396+00:00",
+      "scope": "Two retired-offer navigation labels on 45 registered pages. All source text, dates, metadata, pagination, assets and sitemap fragments remain unchanged.",
+      "source_review_complete": true
+    }
   },
   "source_review_complete": true,
   "visibility_decisions_sha256": "b3f2beb90dcc3d1ca72a46d4a68900ee58a7c227a426d2b34daf6980eac7eb60"

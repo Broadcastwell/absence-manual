@@ -156,10 +156,10 @@ jobs:
         if: steps.mode.outputs.mode != 'activation'
         run: |
           python tools/verify_build.py
-          python tools/verify_library_field_freeze.py --docs docs --site site --map tools/library_field_freeze_navigation.json --map-sha256 e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c
+          python tools/verify_library_field_freeze.py --docs docs --site site --map tools/library_field_freeze_navigation.json --map-sha256 ec8e3d76d21ee607974ffa5c2e7c82eb75c3d17f8b727e62d8d35d37830d91f7
       - name: Verify all frozen bytes in the unchanged activation publication
         if: steps.mode.outputs.mode == 'activation'
-        run: python tools/verify_library_field_freeze.py --docs docs --site site --map tools/library_field_freeze_navigation.json --map-sha256 e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c
+        run: python tools/verify_library_field_freeze.py --docs docs --site site --map tools/library_field_freeze_navigation.json --map-sha256 ec8e3d76d21ee607974ffa5c2e7c82eb75c3d17f8b727e62d8d35d37830d91f7
       - name: Verify the complete finite Owner repair and actual artifact evidence
         if: steps.mode.outputs.mode == 'owner'
         run: |
@@ -273,7 +273,7 @@ jobs:
           cp ../site/absence-manual.pdf site/absence-manual.pdf
           cp ../site/absence-manual-v1.0-2026-08-18.pdf site/absence-manual-v1.0-2026-08-18.pdf
           python tools/verify_build.py
-          python tools/verify_library_field_freeze.py --docs docs --site site --map tools/library_field_freeze_navigation.json --map-sha256 e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c
+          python tools/verify_library_field_freeze.py --docs docs --site site --map tools/library_field_freeze_navigation.json --map-sha256 ec8e3d76d21ee607974ffa5c2e7c82eb75c3d17f8b727e62d8d35d37830d91f7
           python tools/library_research_build.py --inputs "$BW_RESEARCH_RELEASE_INPUTS" --inputs-sha256 "$BW_RESEARCH_RELEASE_INPUTS_SHA256" --docs docs --site site --work .library-research-work/render > research-release-result.json
       - name: Preserve the unpublished Research route evidence
         if: always() && steps.mode.outputs.mode == 'activation'
