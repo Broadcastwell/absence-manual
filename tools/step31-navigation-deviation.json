@@ -1,0 +1,467 @@
+{
+  "recorded_utc": "2026-11-07T00:30:16.540198+00:00",
+  "status": "Prepared; not published",
+  "authority": "The owner authorized the complete STEP 3.1 truth correction on 6 November 2026.",
+  "study_registration": "https://osf.io/dmfpj/",
+  "reason": "Two navigation labels named the retired Category Audit. Their destinations are current educational resources.",
+  "scope": "Two primary navigation labels on each of the 45 registered pages. No article, link destination, source, metadata, date, pagination, asset or sitemap change.",
+  "old_map_sha256": "e8d4688604fdcb57e38944ce6937ce7fa788da73ec96b77902042990f8806f4c",
+  "new_map_sha256": "ec8e3d76d21ee607974ffa5c2e7c82eb75c3d17f8b727e62d8d35d37830d91f7",
+  "replacements": {
+    "Category Audit ,  executive delivery template": "What belongs in an executive delivery report?",
+    "Synthetic Category Audit ,  Northstar Lab": "What does a fictional audit example show?"
+  },
+  "pages": [
+    {
+      "source": "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify.md",
+      "path": "answers/measurement/which-ai-visibility-tools-can-a-buyer-verify/index.html",
+      "before_sha256": "fc7b49fb7dd24b24e3422e28c98e6555872af967da24a9c55bbf33eb6f0ff5d7",
+      "after_sha256": "f76abe9ab9822885a31fcb38ec5b05260d0ccda173827e6ebab94e77bc854792",
+      "before_navigation_sha256": "e07a0b09cdba37b2be47a04fb53cf60cc1ab068b5cf838c505303333f79e48ef",
+      "after_navigation_sha256": "6cf3a37488736b11605095c6e186fe4cd83919549dd665512ddeca6e353728a3",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/what-can-search-console-show-about-ai-visibility-queries.md",
+      "path": "answers/measurement/what-can-search-console-show-about-ai-visibility-queries/index.html",
+      "before_sha256": "a4edec950d0ad142a3ba39e9724dfb0bffca8d62b6230f50d3da911b6f292399",
+      "after_sha256": "4e31ae126ce52692af264d17bd872253a306d97a35a2ffd87d97d5c2f868cfbc",
+      "before_navigation_sha256": "a7f05f26e20a3b78ba1acb1c177f2ac1c89269f104bb43ea4b3ea59b751a4fb8",
+      "after_navigation_sha256": "3a28f3f32de6bf24cfce48bc2b5dca9c04f3e8d9de8d31befe6b28a66273b42d",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple.md",
+      "path": "answers/measurement/why-can-a-page-rank-in-google-without-being-cited-by-chatgpt-or-perple/index.html",
+      "before_sha256": "279969b40dc0bddff0337ef16e3ccb839be1f6a3099b302158dfb30804537d3c",
+      "after_sha256": "75bd08e540266919bdf5688c38891929c107775b12ee59ffc11aabc040576ad1",
+      "before_navigation_sha256": "6bca72f820033560f65e26e8792763923e13bef8c93d14a92df6a6fde93b8378",
+      "after_navigation_sha256": "9d48db121a48896107db61f584bccdb29ac8db73d41989596cc331dbd76b8871",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/what-counts-as-an-own-domain-citation-in-an-ai-answer.md",
+      "path": "answers/measurement/what-counts-as-an-own-domain-citation-in-an-ai-answer/index.html",
+      "before_sha256": "944599ef0e9e3f8670e4b5def03ce9818266c09878f3f0f0a52c33576553bd07",
+      "after_sha256": "c642a8ff4cf19693bdde9b8189f0e1bdb98c3c66c72472f78983d40087e20155",
+      "before_navigation_sha256": "a466a39ff49b00f8aa5665beaed251508480c0360ba8ea0e7d3a080162930f7a",
+      "after_navigation_sha256": "d0ff5713d8e8366e78b5e97140f92b5df015dbf033b4fc390b7bf7123d757f69",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/what-should-a-client-ai-visibility-report-contain.md",
+      "path": "answers/measurement/what-should-a-client-ai-visibility-report-contain/index.html",
+      "before_sha256": "4526c0bcaa923181a811b498370fad25b6b0a5cdbe99e7e65cb2649925d41461",
+      "after_sha256": "81bd043d236ae5e7fa64eebe1b7bc4a5e0372e928af84dae8a21961d6a312747",
+      "before_navigation_sha256": "2cc8c48f4b184266a09a26b5d5bd3b96704941476f6489dde23b978c64c5edb0",
+      "after_navigation_sha256": "94cbf99f49a16a496b4d1a29518e9886821fc30ce2b6bda33ea65168905c4709",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data.md",
+      "path": "answers/measurement/how-can-i-check-a-tool-s-historical-ai-visibility-data/index.html",
+      "before_sha256": "94cfee65889bb9f602a0fc9e378d4d57c54b4c1cc6a230e58053820d573c84ee",
+      "after_sha256": "9051d709b3340659859ccfc4449ef38389f66d69905f7b254edd2b6aa4cdcdd6",
+      "before_navigation_sha256": "cba58bfba5c096451b21887c58b6af6e92ea4c5b6bd0b89c1913186a01e49970",
+      "after_navigation_sha256": "bb83c2499c29f8b6fb25852b981aaedc8c747e666ce6f20c9a84a5c4ffd223e6",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/how-should-i-check-an-ai-baseline-before-changing-content.md",
+      "path": "answers/measurement/how-should-i-check-an-ai-baseline-before-changing-content/index.html",
+      "before_sha256": "3d61626faa8f40fd40334f6601b717388b9fd4cebeed00d73c24232771431a35",
+      "after_sha256": "265298cce9edacec0294f51f7aed8e5f5f6f957a3632e01ce6e597a4f90cc026",
+      "before_navigation_sha256": "60fcb4df76a99b761ff37a1fe868b0be3a32dc509f427a8e49e9f8d975807c9a",
+      "after_navigation_sha256": "7262aad74f320d8bd628d6d301b6bfd227eb6a86caf0b2419b9a72e37dc6d7f4",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt.md",
+      "path": "answers/measurement/who-has-documented-results-from-geo-work-in-chatgpt/index.html",
+      "before_sha256": "2c1287f1edc3f17cc48ae512cadd427232c861910d9c0171da8cf3a266ce5f83",
+      "after_sha256": "50bfc51af82a3f67a141166c4e92f11ec8e4aa7325472032e7edbab2ac6d8c75",
+      "before_navigation_sha256": "b520690c25d04921736670731bd0c4e6d2b07c29a4a5a4b5a094c3d7a2cd32e4",
+      "after_navigation_sha256": "125d22c1a6445ead4f8b96aa078cf0cee24c3063db314fbb33cb415a97ac17f2",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/how-can-a-buyer-verify-the-conclusion.md",
+      "path": "answers/measurement/how-can-a-buyer-verify-the-conclusion/index.html",
+      "before_sha256": "dd9383c70ed173bed1ce62920ad56ad04145442fe5533320f240576727ccb84a",
+      "after_sha256": "cf87a827fbb60796edaf4362f84aeebc6e15115bc8b591cbe143e25e20a91d2d",
+      "before_navigation_sha256": "3e014d257e8c984035f5f85400685c8c5d89e00fc1dfba771d15ae2fabbd43bb",
+      "after_navigation_sha256": "2a4e4bd575c92bd9e743cc94e35268fb9ba49bc21fadd93ae31f28b1d657f643",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools.md",
+      "path": "answers/measurement/how-do-we-compare-citation-metrics-when-changing-ai-tools/index.html",
+      "before_sha256": "4bacb1571dcf1b8b1a90d46186af5f7b6e99a448c3a56c0432593f85972414ef",
+      "after_sha256": "8cfc5c3217d1bcedbecdb1aeda563b4fdc5c4bbe8b47cf073ee58095d8aca170",
+      "before_navigation_sha256": "8dcf26ab2576004dcee86629973a101cb7a23b190d1d227d663a3d4a18641d40",
+      "after_navigation_sha256": "eef621b61214321311dacc4ef417781dcdfad48e7b34078e6c907557256f7734",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/how-can-i-check-ai-search-visibility.md",
+      "path": "answers/measurement/how-can-i-check-ai-search-visibility/index.html",
+      "before_sha256": "b1de942471d0e9e255afeec707a0c2f6894b5fe9845326ed7170a64383167dd5",
+      "after_sha256": "401b6c6b56648935dc8d5ab06beece4f1bc419b423dce701f789568b6053ad4d",
+      "before_navigation_sha256": "5cd2388e3d8846d9419ababe36d85229b48e02f141b20c685205db1e184f089e",
+      "after_navigation_sha256": "0c6147a86c6bfaa3cd0f63513bcdeea792b47a28404cae676a95457e65aca3e6",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/how-many-repeated-runs-make-an-ai-visibility-rate-useful.md",
+      "path": "answers/measurement/how-many-repeated-runs-make-an-ai-visibility-rate-useful/index.html",
+      "before_sha256": "e7cb4852d0afb8429c3a43af149dd43438901e2a06197c3e48f3547d3bf6e5f0",
+      "after_sha256": "ff7b803247bf1ae48c21ec76faa14a251e2f3f2903efbe3cb17cf6923f9db823",
+      "before_navigation_sha256": "efa5f8b81da2caa7dff6c69ec97bb5ecad4720db74ba84cdd9bb2710cf312c30",
+      "after_navigation_sha256": "2bbdd649c6bfb5aa7c75cad83c50f323c8c218029130d7b1bebc334085cc3a9b",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re.md",
+      "path": "answers/measurement/which-ai-visibility-platforms-offer-historical-data-and-time-series-re/index.html",
+      "before_sha256": "6773cb33686bcd48bbc9fa5d48b76557f0b3614610a9efd996f095abd322e168",
+      "after_sha256": "46a5720d00d11ac6cf1e3cc023e5f9d8d121358cf497d74cff41071a734af738",
+      "before_navigation_sha256": "c00f43a227c090ba918edc74511fdd8622454f9aedfad5a72966a2881013be3d",
+      "after_navigation_sha256": "a2da7b4d22259b948a84d47a859c29e1934f26197839c9393f3a5e6e613f29bf",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit.md",
+      "path": "answers/measurement/how-does-an-aeo-or-geo-audit-differ-from-an-seo-audit/index.html",
+      "before_sha256": "0ffaeb4e45dca293fe4cf42b60863472aebcfe98331b89e73a564624e95e212c",
+      "after_sha256": "bdcde8bc2cdb1be6bb69fd024e7e1f3603c6ed9049819bd39c70098c30585019",
+      "before_navigation_sha256": "7ac95efaf0601749337891b6f56f6f058af77a5b91999928324c032d8c5bb82e",
+      "after_navigation_sha256": "6eb8808b09369e6718e36171d06bb5c28c295d9bc4e37d0ff3f889b963c7cde8",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies.md",
+      "path": "answers/measurement/are-you-guys-starting-to-see-ai-backfiring-on-companies/index.html",
+      "before_sha256": "62928a6c6b61b866fb839addd2b7c1d0044d43dcac6ec6da2d309c899c106b5f",
+      "after_sha256": "0c37e83486ccc82904a059fb519c7d8f9dfc61cc8b2fa4683a5421d16fa6c5e3",
+      "before_navigation_sha256": "d57cc7286321a2006669db18c84e69ccc8f3b32ce554b13bdee1b28424fac640",
+      "after_navigation_sha256": "3bb63927123e476c1afbc6c6a8bda6147daf252982d9583ba342f7a3159e3c05",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer.md",
+      "path": "answers/geo-basics/what-does-unverifiable-mean-in-an-ai-product-answer/index.html",
+      "before_sha256": "b64bf15edc999f35b7ea16c9e6b0ac8bb197194df4e6e0832a2a7eb9fe64aa02",
+      "after_sha256": "ecc07d406ebc38e31619422bf86a0554c1f1cbe8b6771d066d869ac1f01f752e",
+      "before_navigation_sha256": "9a4466be01cccfa5f5e0a273ac416d2829bf8cd9f019d8cbc50a64345f4a2ce8",
+      "after_navigation_sha256": "f091cf2639fc869b1ce02042c09ef6ca7d52841e3c30106e402143056f9c3bba",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/can-i-use-ai-to-do-my-seo.md",
+      "path": "answers/geo-basics/can-i-use-ai-to-do-my-seo/index.html",
+      "before_sha256": "f5bdf7bce48162126ea1292f028d7171de6e339e7a9e3a0c61286fedd26847c0",
+      "after_sha256": "3a1706f703eba0196c8288eae573cdcc5fe5c76091f57dd7993ae98ee0ad883f",
+      "before_navigation_sha256": "fef9fe48a873e452acaa94e12bdde4734e8e774aead989d6c26ef7f4209bfb7e",
+      "after_navigation_sha256": "23ee9c2e99132ef90c9cb8542215916ad114fbfe99c6193e2b51a0edf7b9f569",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/do-brand-name-prompts-measure-discovery.md",
+      "path": "answers/geo-basics/do-brand-name-prompts-measure-discovery/index.html",
+      "before_sha256": "90c96a81e909e58c858c62ed3d8bb685eb4ba3041afadcd02898776800a6634f",
+      "after_sha256": "6b17c0cae0e49824d1fa7682ec6f66970e3a3e5e40f6bd52ec9d9bdb5dea5e48",
+      "before_navigation_sha256": "72fa1413a8cb12bf69e2f96c8c0c01211ede111cfb5f52798aff76a582ea9589",
+      "after_navigation_sha256": "b6ba3fa231b57a3387c9a6490737551b72505e75d47aa7098fc315bc343c8f66",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/does-ai-search-replace-seo.md",
+      "path": "answers/geo-basics/does-ai-search-replace-seo/index.html",
+      "before_sha256": "d68e878d2c27c01a83701223136480ef66a3b099cb558606649dcca87cb68704",
+      "after_sha256": "3c5d87bd3b7b64ed425f1bcadb50796b5f8f52f28558775c0b6edb614ce48076",
+      "before_navigation_sha256": "7318a8204340504b23d620410ea28a08d500423df001eca744c4c7fe749467c2",
+      "after_navigation_sha256": "8c83a64f3c2149ee527afb19f25eecffac765861dd43788a0af287684389f3a0",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/is-perplexity-good-for-seo.md",
+      "path": "answers/geo-basics/is-perplexity-good-for-seo/index.html",
+      "before_sha256": "7efec3ed5ab3131ee7124b0762c0472d1edd2ea00bcb0fe9feba97f1bd64f038",
+      "after_sha256": "81d47cc9b8ff8fee8e870a0c70d6855dee501794e1d78f0eb0af379c390643e4",
+      "before_navigation_sha256": "4b3c2b7a3c7c47e18528ccef0ea5374a54723f2ddcc48fb5e982bc70630bc2c6",
+      "after_navigation_sha256": "4a2827e7c20013d83ca8ed1d85e97d37e43f4a32bcccf70c9a2106ad3696eda2",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/what-does-llm-in-ai-mean.md",
+      "path": "answers/geo-basics/what-does-llm-in-ai-mean/index.html",
+      "before_sha256": "561b46121fe5460108ad644d36a7fdd30a88c0ce0d340969a8fbce28ac3f30f2",
+      "after_sha256": "af2f300fa2fcb8487943dbac67731e0b555c7c56a0c227f2878a02fca2c0f976",
+      "before_navigation_sha256": "58ee899906baef4ea4d19e548c718331e0320f959a5015a0a28dc8ddd8d68d82",
+      "after_navigation_sha256": "68f4c4fbec135a34b301785364c066a1dd672c41f6b8d416e7604e2839f6a0d6",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/what-is-an-ai-software-shortlist.md",
+      "path": "answers/geo-basics/what-is-an-ai-software-shortlist/index.html",
+      "before_sha256": "310c26d854e64e86b9803d59041b88183ab010b87dfcbf18be295e947b56ab38",
+      "after_sha256": "fbe14ec766f869afe230607f916c0e19d15d906deda18dd7f711e7c60ba1c446",
+      "before_navigation_sha256": "8ed9509a07c90c21bf3c8b01959de069861f46928d51904371c31d97c3bd59b2",
+      "after_navigation_sha256": "57cda27e7d928e5fe53489c3e923b755f9e46d41123feac0c1246ba5dd8e3eeb",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/what-does-geo-mean-in-ai-search.md",
+      "path": "answers/geo-basics/what-does-geo-mean-in-ai-search/index.html",
+      "before_sha256": "5610d09fa0b82f3bbf96f8000b50a735d089d26cb0bcdd2b4253d92cf541306f",
+      "after_sha256": "289b18ceec8f6e849f9ee80c0a8c48be7ad32129bc49257a5d4975458f28aa9c",
+      "before_navigation_sha256": "f59edc451da3d6f62445d2c5b31ac4658d5af6f62025c774b76b1ed399d9a2d6",
+      "after_navigation_sha256": "e43af01905eb8eef0eebe5eda0605582848f5a885c66ae1ddd8f090fd50b851d",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/does-being-named-by-ai-prove-product-quality.md",
+      "path": "answers/geo-basics/does-being-named-by-ai-prove-product-quality/index.html",
+      "before_sha256": "2f0f76d7179b65c575d7f532bec41bf455829b1299aba1ca72b74c35c970348b",
+      "after_sha256": "2cd48694c0e6030386a8e5295f96a5ac78bfb8ce4fddd66f19437b5e48bdc480",
+      "before_navigation_sha256": "b1cf6c3a4d20ac8ecd1b18416bc484a54394ba3b7aa08cd1d5235838d1caad2c",
+      "after_navigation_sha256": "26764d88bc899116f3f7bebe79313ee11dd2933c7e993da9cee71422c8ca0a68",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence.md",
+      "path": "answers/geo-basics/are-failed-ai-answers-the-same-as-a-brand-absence/index.html",
+      "before_sha256": "56ab667d6d4fa5b1eb7680c41d79fce0531338b5eacbef1526dc2c7b3d238401",
+      "after_sha256": "816b54aadb4cfbca9c66297cdbcc4fd60d9f381e917266dcd943c807373adaa5",
+      "before_navigation_sha256": "bcd456edc8b073d98aef6f412a37cb2365acefc8c4535a269b34ceefc95bb920",
+      "after_navigation_sha256": "428cc4d3fbc9d57032198bdf463d77cef2739939bdc087e58c002e5b914f0fe1",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/does-an-ai-shortlist-show-what-buyers-actually-purchase.md",
+      "path": "answers/geo-basics/does-an-ai-shortlist-show-what-buyers-actually-purchase/index.html",
+      "before_sha256": "42d2a4a6de2823c6246f5138e902106d84bea8ad98ea55140cc2c8e0d2b3f67c",
+      "after_sha256": "b8225e4504c3c16254c48ef18aaead4e4a3d86b705ccb94efd5918a327142e88",
+      "before_navigation_sha256": "4d15bbe6751d6e0479d4cf818127829c319f879861928773a64fadf1ccf0d1f8",
+      "after_navigation_sha256": "c711d6b0b4acebe1132df2e0986b10f0edbf0c090651af7f84593c18ff1aeefb",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/can-ai-search-use-information-from-the-live-web.md",
+      "path": "answers/geo-basics/can-ai-search-use-information-from-the-live-web/index.html",
+      "before_sha256": "35c2375a4054ec3334f34e0f9d9ca9b69b21d3a93202534acaa989e9bbffa1eb",
+      "after_sha256": "4e721f698734648fc9adbcedf384888631ee49da5c78dd4d7bbae12c694199c7",
+      "before_navigation_sha256": "25f570ceb4342e1c8559e1bb3e97cf7c2669dffaafd448406c7da3a3c4d33f4b",
+      "after_navigation_sha256": "71bbb35566624ea343137e55d1c0776d58e837f6b12dcf06f0498b655f208369",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/what-does-ai-visibility-mean.md",
+      "path": "answers/geo-basics/what-does-ai-visibility-mean/index.html",
+      "before_sha256": "c0b399274f45ab093a025889f576c408b74bfc67267722cc61a66b915f6e2d75",
+      "after_sha256": "e7b6753d98fb7fcdd274ffc64d0ce1d9b3a2913ed8fd8628a33e03951f21a2f2",
+      "before_navigation_sha256": "06c653fe6f86f8886f776f275a177aa35055c257478d9da83c993d728a94113a",
+      "after_navigation_sha256": "86345f65dd9a1a28a09d314ea808521687d01e422676f786484ec771007753ed",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/why-does-the-buyer-question-matter-to-an-ai-shortlist.md",
+      "path": "answers/geo-basics/why-does-the-buyer-question-matter-to-an-ai-shortlist/index.html",
+      "before_sha256": "f44b066237b0aaec279f2e59508166d17d01a2d6bbec770597cc607d2a82770b",
+      "after_sha256": "4ae42c91b1d8d472fd01e8e4c5d6cdae5926f7d99cd2df35fa5f5c8528c39910",
+      "before_navigation_sha256": "abf875568438c322012114a9315118cc77ae1a08dea5d0245757e07fcf8b5149",
+      "after_navigation_sha256": "8a50f996c040a2a323eb8a6108653a4085650180069580865d079b41ad2a18c5",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/geo-basics/why-can-the-same-ai-question-produce-different-names.md",
+      "path": "answers/geo-basics/why-can-the-same-ai-question-produce-different-names/index.html",
+      "before_sha256": "2dff7be9e71fc69a58a6075b9eff0edf31b33c7726c633bd6c001272432e2a4e",
+      "after_sha256": "c303891a70192ab3015ff1899310a07a68cc40afe54dbffed6fdf5680253e58a",
+      "before_navigation_sha256": "3bf314521b0f32d85cc698fae214ffbae447794ef22d7f4ba52cb7a6ab5e6c4d",
+      "after_navigation_sha256": "8cae626b012810ebef2a50e0e134135b59662fa7b99244d10b1a66a4490da8be",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features.md",
+      "path": "answers/fixes/how-should-a-comparison-page-handle-unknown-product-features/index.html",
+      "before_sha256": "b3f117064e39d0399bd0f064618f23f29e23ae2eb54675a4a90ba3a98a2e2591",
+      "after_sha256": "d6103e2ee82fd32f0f6c617a37dbc74422db5d3edb5cb053420646586d87681d",
+      "before_navigation_sha256": "62bde0808c6067368f7ffe810bbbdf66a676f0abb9e2ecfe8bc0b7cf6aa18b8c",
+      "after_navigation_sha256": "f1f7c9fd85a6d85b2b945d4195f16b024ebc0b6677f14c9d38d04d16d78246f0",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility.md",
+      "path": "answers/fixes/what-does-publishing-llms-txt-prove-about-ai-visibility/index.html",
+      "before_sha256": "6d7e5aab8943b3bf2c51a8bb1df1acf27e36301ec982ecb9d3041c74dddfc6e8",
+      "after_sha256": "69ab00d76393b3f0f9afbfaf273d87dd8e086c160cada55d44b38e418fa703ee",
+      "before_navigation_sha256": "c29ff6419ed58c92b8c924cbc84c77695d7565fad8cbcfb472395d419456b16d",
+      "after_navigation_sha256": "67bba6f30726528a424cabbba9af3b5cedb5c383f7d7e1687639553cba39ead4",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction.md",
+      "path": "answers/fixes/how-should-i-audit-third-party-sources-before-requesting-a-correction/index.html",
+      "before_sha256": "bab262bf1174cb62c01e48e3740ed063d3426ca884d33cc8dc309a0107380cc2",
+      "after_sha256": "87efc93a33b1c46868b97df3992892316c51f0c251db427fe7cef5da0390ac2a",
+      "before_navigation_sha256": "82b59da110463a3df96e7979c8a025886f2880f9497c416d2417e066103ff4fe",
+      "after_navigation_sha256": "27d28506c54d038013ecf9887ae9873461ad7b676ae660d5d5168769cc884622",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/what-does-google-s-guidance-say-about-llms-txt.md",
+      "path": "answers/fixes/what-does-google-s-guidance-say-about-llms-txt/index.html",
+      "before_sha256": "6c71a14b86d450ffa65ae74989a7b525f390486d14aeafb45b518f8f72e48b9b",
+      "after_sha256": "84c4c5e28a25aaf292c2cb9a7eb1af1e46752db6cd5a0af20eda83bd712ce099",
+      "before_navigation_sha256": "fe3a7a14de4037cbabf31b54e0308791e7a7bd16529b0feaa3e4b87812d9f2ea",
+      "after_navigation_sha256": "bd1e06a9d691674063138fd4e7dbe2385adb1a6485b01d062f94b8798dd36f0e",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/what-is-an-llms-txt-file.md",
+      "path": "answers/fixes/what-is-an-llms-txt-file/index.html",
+      "before_sha256": "2ddf4f8f25c8f35512a26bd1796c67247072ec2de9da54b2128e6805b6bafa46",
+      "after_sha256": "290d3d92ffabef5f620cb34422b572fbf6bb71e8a5ac8ca693480541d2f02b56",
+      "before_navigation_sha256": "00ed5c8b38daed1fde3a16bdd0978d5a6cb5efce9018f6769e51965984b1d69e",
+      "after_navigation_sha256": "4168192894cee01ecfc1f82f0fb28b6119138ff2b122d14293c1c6a929625147",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/is-llms-txt-actually-used.md",
+      "path": "answers/fixes/is-llms-txt-actually-used/index.html",
+      "before_sha256": "52f8c1fa202eddb4c94d033ccf73c36e087ba40042ec93d3f4fd64d5ffd3a41e",
+      "after_sha256": "3b9fc898685d61699a9d4eccd4bc0fa2bd4786192d0890534952eb963d6c00d6",
+      "before_navigation_sha256": "ff8b489495f9036b8053f3cb8b82dbfd03cda2f06687a2351df1ab5748de8c02",
+      "after_navigation_sha256": "50cbe110791fb882d39a203b0e46483c406afb765150743749054871e822e0ed",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/how-should-i-check-an-llms-txt-file.md",
+      "path": "answers/fixes/how-should-i-check-an-llms-txt-file/index.html",
+      "before_sha256": "83fdd99b35b97bc9cc0e206abc3df54493fdc91991f53e3954491268040b28c7",
+      "after_sha256": "be2828a5f57792f388feaac50d0b6aed59d811714dd9a7f09be63118b6e800d8",
+      "before_navigation_sha256": "b2ac81ff24fde1f6c354c51aa216ce6ef988748f2a83375a6583b4a9be7f9299",
+      "after_navigation_sha256": "7d55b059cd8a0b05fd26bb8d65d80baf113b91412fbd5e7c5dc545131064ef3a",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations.md",
+      "path": "answers/fixes/how-should-a-page-distinguish-native-features-from-integrations/index.html",
+      "before_sha256": "c7da089d8a47770e244009cba89584a899f8b4d0adf177758e01729fc7ac74ea",
+      "after_sha256": "7371a3a9a7c19bc1a6d94fe8133c9d463d46f34db33f454fb0063a8f7c936e8f",
+      "before_navigation_sha256": "e34ee34e82e48d19965273dd3db337126e57f23d9455d1528c940b3343b8f6f4",
+      "after_navigation_sha256": "a0565f994dd1f20a7598ca42e611caa6abe1b0acf87db5ed971896bff38ecb50",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers.md",
+      "path": "answers/fixes/how-do-ai-search-crawlers-differ-from-ai-training-crawlers/index.html",
+      "before_sha256": "abddf7605453f3c3a010acf5b02c5cc9de4a92cb79e9f7523a78dbbb1915b5af",
+      "after_sha256": "556058f54198a5817f50e559de1cc3604c0e409e8926bf02fe6361e826065097",
+      "before_navigation_sha256": "15709d4886c38fe9d40d5058d2ce89062045682d322a08135e54fffd4b4b7a29",
+      "after_navigation_sha256": "a4decd8cdefd7081edc97913c62f95a12a9c201987f1de148c87fc6115d31c18",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages.md",
+      "path": "answers/fixes/how-can-i-generate-llms-txt-from-existing-pages/index.html",
+      "before_sha256": "e1d3b23e35eaf73fc81508af0c0bdc943a1902dd506e0814e885afade7e63c1b",
+      "after_sha256": "db71d3eb77d84554d940dcfd4a36aa8d3b52ae9ce36a1558dd6e72862b5c1268",
+      "before_navigation_sha256": "ff48d740047b1cc0d950adb2e9a84874deee5dc7e47530494b516b301d22d549",
+      "after_navigation_sha256": "b7fd141057a6e0ab63a0a236012dc6d003c231971ad895289d630fdea9be046d",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/what-is-an-llms-txt-checker.md",
+      "path": "answers/fixes/what-is-an-llms-txt-checker/index.html",
+      "before_sha256": "b68526dafc52c2998ff34084c14e9cb030afa5f6be5fc68173989c36abaed446",
+      "after_sha256": "e0871770eed4eb980e08b1d96d0595e96443e5e9b92a491d001fe158753ff35d",
+      "before_navigation_sha256": "36c1f6615013ec53a7ce459cb9ef3731008391704152903ccd6774f2fa16d5cf",
+      "after_navigation_sha256": "5d25a70d78a0a72efd1bc37f64eae1abec3bc2da26d6da5e5ca3bb63733947ac",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo.md",
+      "path": "answers/fixes/how-should-i-choose-content-for-seo-aeo-and-geo/index.html",
+      "before_sha256": "382f70773f23c400c4409f619ce2d7bd199b5c2934e711bae284de666f810891",
+      "after_sha256": "ac0f6a2cd36e9f25caacb31e60ad414c3ab7196c78ffa707687797e5d714afe6",
+      "before_navigation_sha256": "b68bedbd5ff381472c4e4a8f70dc9bc3747185c1f9e2a3b401dde9197700584d",
+      "after_navigation_sha256": "dc9f152ddb0483ad8d66b30458e50ba32ba2b97fb68eb70ea2ffa58a08d0bb8f",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/how-should-i-request-an-ai-fact-correction-with-a-source-receipt.md",
+      "path": "answers/fixes/how-should-i-request-an-ai-fact-correction-with-a-source-receipt/index.html",
+      "before_sha256": "30dc11b64f5427332060b921f267e6efcbd61fa2c6e550f00ae08f90d97cb349",
+      "after_sha256": "f7a4eace3e97bcf887ed4def4d5dc47e8e4e16251ff27d5b687f7d1668cf5656",
+      "before_navigation_sha256": "edabdd68704e353001ff3dcfa938622acda0b25960584215353fab8fcc476ee1",
+      "after_navigation_sha256": "667b947c6167d1575b6ac9b092c393b899ebc61f5d8f3653b7f463cfed758f1b",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/can-google-ai-overview-answers-be-changed.md",
+      "path": "answers/fixes/can-google-ai-overview-answers-be-changed/index.html",
+      "before_sha256": "7b3514ffa7a53d6e545210ed5a4c93bb6ab9fba59c86e30a8c945602e9da7998",
+      "after_sha256": "f97e2561349ccf01ae37d0b84052b56a571379013195c4e3e8c20a255aa72337",
+      "before_navigation_sha256": "a836e8c556fdfe58f36be31ccc33421a38fe10911e7b922c4c481384d32a0429",
+      "after_navigation_sha256": "55f35e182cdc81fe5f41e83987ef124a3fd67e3a011ef5fb672381752ec19996",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    },
+    {
+      "source": "answers/fixes/what-should-i-include-in-an-llms-txt-file.md",
+      "path": "answers/fixes/what-should-i-include-in-an-llms-txt-file/index.html",
+      "before_sha256": "044cd840232064fe57b0adb50a3926fa3b043048c2066fbeb8c89f3973f5da8e",
+      "after_sha256": "573b1d2568db0b12204b602e98b4bc22f3d070960f962154a8e127e25e06b8e0",
+      "before_navigation_sha256": "6d59ce3e981d3ee119e20cbed4dd204c0a124de8f277ce49285197faec06258b",
+      "after_navigation_sha256": "d0476f2628ec1110b23e3cc34ec1aaf200cc33493c2f2e4b5eec3ce9429ac407",
+      "every_byte_outside_primary_navigation_unchanged": true,
+      "label_replacements": 2
+    }
+  ],
+  "study_action": "No baseline, post observation, registered intervention, indexing request or experimental promotion was performed. This navigation correction must be included in the study deviation record before interpreting later measurements."
+}
