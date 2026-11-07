@@ -1,0 +1,3592 @@
+{
+  "eligible_pages": 395,
+  "frozen_exclusions": 45,
+  "orphan_pages": 0,
+  "pages": [
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "6f611cecbbcad01406d8fda8b83f96cc96f667105f0a625c2a1a5a7049f6ad19",
+      "url": "https://docs.broadcastwell.com/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "c7afbe3effc8e464ab2659388428232d5119c42922c4b570e1f83dcc5aab8831",
+      "url": "https://docs.broadcastwell.com/absence-ladder/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "bd3aded4ee7e717d223dbb9f1f82e56fa1f21f79a50e86112973be13ff2822fe",
+      "url": "https://docs.broadcastwell.com/absence-rules/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "FAQPage": 1,
+        "Organization": 1
+      },
+      "sha256": "6dc8c86db0a9257db50b6fce269c0508bdaf16ce1da2862cdca387fad2658c81",
+      "url": "https://docs.broadcastwell.com/ai-source-standard/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "6d14870438627877d6decd52be0d2e924648b5c8983d7b4695d17b09ffef18e7",
+      "url": "https://docs.broadcastwell.com/category-door/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "7b7393ce63893a9f9e88fc57ef2a7f6985a0035092d63ad3057a00aa0ccfef71",
+      "url": "https://docs.broadcastwell.com/cited-not-recommended/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "d68f0bd5af557acc93fb47d0c6be8f58bbd640640a253f9305d9edf89c87538b",
+      "url": "https://docs.broadcastwell.com/comparison-gate/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "aca9cd0b6d7884dd260700b1ce321259f213a528357094a947f9212d1a823ea2",
+      "url": "https://docs.broadcastwell.com/engine-divergence/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3d65867f7237dde64c0565aa46f59c0f6563d5821895d7495e300cdcbc2ac0dd",
+      "url": "https://docs.broadcastwell.com/for-buyers/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "e21e5d2d9acbbba0e801ebc8aae961b0c21a98d2b4463c40337b232427543646",
+      "url": "https://docs.broadcastwell.com/glossary/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "6b1953758ca9e7a302e5cbc73094bd8782a784b04da2b1d1a680c2f02bd78746",
+      "url": "https://docs.broadcastwell.com/how-long-it-takes/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "c86078605c2aa7b817ccc42abce6fd824b47c19b27e9bc9007141f65dd361834",
+      "url": "https://docs.broadcastwell.com/how-to-buy-geo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "e834add0beefb9db23fd8fecb68918d3e10a3d6a8759bb9f9bc6aeae2e2c1014",
+      "url": "https://docs.broadcastwell.com/launchpad/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "69beaaf7ebe93c8130d862e138ae3a50fbf5ef658d49f0515dc866d381f3e0ae",
+      "url": "https://docs.broadcastwell.com/measurement-noise/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "204d5a6d6c1b2dc7dec249120e2d316292e19e99bf647798c4b5e44a41360f08",
+      "url": "https://docs.broadcastwell.com/named-zero-times/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "FAQPage": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "d54d1a8b6ce23719fd943b3a942d1ac0b6250f79ddc2128fa1fb97e5bd65ba00",
+      "url": "https://docs.broadcastwell.com/overview-trigger-rate/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "73a6879ca630b662c58823c0372cfa258834b9a109872d535b9578da6978fce4",
+      "url": "https://docs.broadcastwell.com/question-bank/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "df8f2df1398b3534fa127aacf822228698e8d34221c529a615053727e35bf1a0",
+      "url": "https://docs.broadcastwell.com/references/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "046dbbd38b6ee905217410916358806551a09f0f1d53592ce76362f7888571a0",
+      "url": "https://docs.broadcastwell.com/resources/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "25ce11ba266ed23089b7b30146f13f90600c3a37504c019de1179d3cbe05c277",
+      "url": "https://docs.broadcastwell.com/scoring-spec/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "73869378f0598c5ca853fe4c3553fd475227af86874c24997b39284d6be66dc9",
+      "url": "https://docs.broadcastwell.com/selection-not-ranking/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "2cdfeb90446b65bad808e61ce1e2ce084a6e60c6ac0fe554fbae6de0c9fc3e61",
+      "url": "https://docs.broadcastwell.com/valid-measurement/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "709a2f2eb76ac8092af78bdfd74be3ffe3b9cfd8761bc97ef61c110eda9a5141",
+      "url": "https://docs.broadcastwell.com/vendor-facts/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "FAQPage": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "3c8d29c5fe907341f76a0b213a5c2694ca7369ba3c7b5a8eb579ffc4e61de7fc",
+      "url": "https://docs.broadcastwell.com/who-gets-cited/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "442dcaf5db3c753afb448363dd54cc667b09f28bd30a4101c8d91cfdda00c505",
+      "url": "https://docs.broadcastwell.com/why-does-chatgpt-not-mention-us/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "9632cbb07e706f8a43d9b0179694a78f264a6f02610125a7bb5cd01b5217ed85",
+      "url": "https://docs.broadcastwell.com/answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3f5b5cff19a0d304bae24cd3851d150709e23e4c026347bdf0eee52fd45c4eda",
+      "url": "https://docs.broadcastwell.com/answers/agents/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "a24570faf3c8a8e5d987fef999224f30623d3f0556dc5d581f759b1b85773e6a",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-an-ai-assistant-find-a-software-pricing-page/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3b1822a6c06fa1517b0336c21d77ad3a843b075627366d19c203ad18fcff7323",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-construction-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "300e3dcda119b21ed3c2ef68af46ee3381178503aeb60f81af313273f24eb6e2",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-crm-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "ba2cc8cd20b4fca2780f6855cb6773fb9890a5a07e9c27cfc9b47e2449094e19",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-dealership-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "fea30024e119afb77270b94378784abda508cf481703b920350ac0ab2c424369",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-dental-practice-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "880d8aa9f54a449c1431931b4c68a33be1797c922c3ee452ca56e582beac734c",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-field-service-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "7acd1d9f852f077cb2de5e72f6bdcea732e7369e1b737c5ae7095331a9f20a95",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-hotel-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "0bacd2e4ecec26c5dadcd77d31390fabbe738a638d6ab2f1c7a447b21f5958c4",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-insurance-agency-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "112509aac327500eed852cbe0c409c654584205a64f658d406a1a7edbdd53026",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-legal-practice-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "27dfd8b1c89c1b94a5d0afe0f57f5b5c75e0fcd556585d5709d2eaaa293c55f5",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-loan-origination-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "7cbf6fba9d132811b403ec9c9e5133a30ca3c898e3549e37bbd3e8c82867f580",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-radiology-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "6fc1247b145bc9f6922d7e23a1743d12363cd74e40f24c493bb6e70c3315e2df",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-residential-property-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "40aad4522df68ec92d97869046096db777b809e2ad720ff85bb85e05b3dfe9c1",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-transportation-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3e8218eea7830b915a9e39c61ccd0305aa97197cf1df67aa40bb1281f31e6a8e",
+      "url": "https://docs.broadcastwell.com/answers/agents/can-veterinary-software-integrate-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "39fb3cc31e99ac2b1e59e96568cf8d57a6a510543721b207a9db7cca70d3ed26",
+      "url": "https://docs.broadcastwell.com/answers/agents/does-an-ai-handoff-mean-a-software-purchase-was-completed/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "12dd355a1dee11dc3d5be800cac92c8dcc403567c6d8f9f6ac5b6c0d9307bfa7",
+      "url": "https://docs.broadcastwell.com/answers/agents/does-finding-a-page-prove-an-ai-assistant-understood-it/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "a42cdb8011833671d5c06eb6cc850410bdd42d7b43fb895ffee851e02f82d631",
+      "url": "https://docs.broadcastwell.com/answers/agents/how-can-a-software-website-make-its-public-pricing-path-clearer/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "82ed0bbde866ab1c1b54f30646b4f0676d6f152f9f0f5d59bc0de3d690276686",
+      "url": "https://docs.broadcastwell.com/answers/agents/how-does-an-ai-connector-differ-from-browsing-a-website/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "846c9d86e97e91e0a8ee8e69e08d7c0b7d27b1cb5d9b52942964ad474971441f",
+      "url": "https://docs.broadcastwell.com/answers/agents/how-far-can-an-ai-assistant-get-along-a-software-demo-path/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "e26a645b57b069b68120097ba87afacd9ec2ad087f954c34c0eb797e1650ccda",
+      "url": "https://docs.broadcastwell.com/answers/agents/is-agent-to-agent-commerce-a-viable-business-opportunity/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "0ce47e0df2d799224ccaa57e4d22a77dd3297f4c9aec68eda8501ca65119c393",
+      "url": "https://docs.broadcastwell.com/answers/agents/what-are-the-benefits-and-risks-of-connecting-hubspot-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "313e2fd11349bf3c2aa81d1f82273a9dc9aa8954e78a413196d825624bb72739",
+      "url": "https://docs.broadcastwell.com/answers/agents/what-can-an-ai-assistant-learn-from-a-software-website/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "6cc71a8fae382c2e9f5af787c0b0729159cd6e8db18f9908934b7177c1f724b2",
+      "url": "https://docs.broadcastwell.com/answers/buying/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c83dbae59b8a773dd937fb34658ecf425a53e775b686e7ab1c9757ce176aa5d6",
+      "url": "https://docs.broadcastwell.com/answers/buying/79dev-com-geo-services-worth-it/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "cbda37470dd470d5b52fd8863478c9573f9b1a30d35eadf77b84ed2e21c68e8c",
+      "url": "https://docs.broadcastwell.com/answers/buying/can-a-geo-agency-guarantee-ai-recommendations/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "33e8aba33533322da5a0cf1da52e50a830b2a8d10d1e9733a486cbe658c2b816",
+      "url": "https://docs.broadcastwell.com/answers/buying/how-can-i-check-a-geo-vendor-s-published-measurement-method/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "db5906f0bbee7a73f0d58415419063dffc3e2492ff0712265a24179027a3e7c4",
+      "url": "https://docs.broadcastwell.com/answers/buying/how-can-i-check-whether-a-geo-tool-covers-the-engines-i-need/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c710f189d3f48c35289dfd624adee46220a5e16c77fa7d5e27ca1d9c074cba87",
+      "url": "https://docs.broadcastwell.com/answers/buying/how-does-geo-change-the-work-of-a-traditional-seo-agency/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "62a25f48406bd4e248d33990303cece342d2ed2045d9388b2c1226304420ac87",
+      "url": "https://docs.broadcastwell.com/answers/buying/how-does-omniscient-digital-compare-as-a-geo-agency/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "bdf8967e059c9f659204c71c8adf0c920570217bdc9720f2b28c72f9b71fa26e",
+      "url": "https://docs.broadcastwell.com/answers/buying/how-does-seer-interactive-compare-to-other-geo-agencies-when-it-comes/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "501c11abd12a641595101b4d8ac1e950beb60e34200fa08446b64d53c2cd4655",
+      "url": "https://docs.broadcastwell.com/answers/buying/how-should-a-regulated-business-assess-ai-visibility-evidence/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "032d2d18785da24a1649db4ff227a099238cce02cb8dae3490968fa02fd10043",
+      "url": "https://docs.broadcastwell.com/answers/buying/how-should-an-agency-report-ai-visibility-for-multiple-clients/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "348338800ef52aa7fadd38eb8c699c14d7cac75e249c8c53467aa3caf2646c0b",
+      "url": "https://docs.broadcastwell.com/answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4a1c9bbb9d079fa3875ffa1c86dcd63eda45f34478409e0615045576f0274dc2",
+      "url": "https://docs.broadcastwell.com/answers/buying/how-should-i-evaluate-a-geo-case-study/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "a2f8ee4b36e1761b94e359bb442a082d34563264bdcdc757f7a539a5906950fb",
+      "url": "https://docs.broadcastwell.com/answers/buying/i-m-a-public-affairs-agency-lead-for-our-regulated-industry-clients-su/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "24c0cbdb8a5121c6e16d5272dbd32b7c412d75bd523611112302b1f411044ba0",
+      "url": "https://docs.broadcastwell.com/answers/buying/is-blobic-a-good-white-label-geo-provider/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "ba4743ed923ed29ea04da0657332c66f8fe5a78d2eec17bdfdf68b203dde3b72",
+      "url": "https://docs.broadcastwell.com/answers/buying/should-i-buy-ai-visibility-monitoring-or-a-completed-page-fix/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "a7ea9d3f137c01421765b027d7a28f9585596849cf0884415a7aa97c95cad8c0",
+      "url": "https://docs.broadcastwell.com/answers/buying/should-i-compare-geo-prices-per-prompt-or-per-valid-answer/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "eeeb5ba6a06e9e8c09570649645c7e66aa7d24189b420a76f3f44927c20fdc78",
+      "url": "https://docs.broadcastwell.com/answers/buying/we-re-looking-for-an-ai-visibility-agency-that-can-get-our-brand-into/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "0f255a7173946296cf202fea339f57ec54fc4f29609b3157a11e8590f1fda1e0",
+      "url": "https://docs.broadcastwell.com/answers/buying/what-belongs-in-a-white-label-geo-delivery-scope/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "6b2d91714a3ff3f6b8f5f5f281e175bd9a5561d82c34867a4f6d8ed7ff1fbcc0",
+      "url": "https://docs.broadcastwell.com/answers/buying/what-can-an-agency-deliver-when-a-client-asks-for-geo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b9aaffd3d4f2a724cf91d8341cc5724a2cb604723f4c0ef4ff3edca4d4c85403",
+      "url": "https://docs.broadcastwell.com/answers/buying/what-does-an-ai-visibility-audit-include/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "8c19d23c536f3f6d83f8ddb03f147c9de774c669466bf8837e87cf1781c7e35a",
+      "url": "https://docs.broadcastwell.com/answers/buying/what-evidence-should-an-ai-factual-accuracy-alert-include/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "fb93387a40fcb925762aeaa509bf2bceee96556086eb5717d4b69b727d98b240",
+      "url": "https://docs.broadcastwell.com/answers/buying/what-evidence-should-i-keep-when-an-ai-visibility-engagement-ends/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "1f8b0c1f79c92fb53d94ae48b3665e5c5ced68ff6cfab556c97e7646e9ea242a",
+      "url": "https://docs.broadcastwell.com/answers/buying/what-should-a-geo-content-and-implementation-scope-include/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "65d57fd8a68b78e1a6eadebb823c9306b1fdceca4daa61ee9183b4990f998d63",
+      "url": "https://docs.broadcastwell.com/answers/buying/what-should-an-initial-geo-project-measure/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "f84138e83a24546910df5120365cd57c0a51005fda918d245cfa4da4348a8b96",
+      "url": "https://docs.broadcastwell.com/answers/buying/which-aeo-agencies-should-a-buyer-compare-in-the-united-states/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "da9df941d44b6f82b53655df6a5b31458486766179e8a694ccb6782f5d07ea4a",
+      "url": "https://docs.broadcastwell.com/answers/buying/which-agencies-document-work-across-ai-answer-engines/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c2045fdbc3a4223069bdd759fb557fcbf8464e4f9c30819247a367615cd84194",
+      "url": "https://docs.broadcastwell.com/answers/buying/which-geo-agencies-serve-new-companies/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "290a5cd2eb13b20fef0aafdeee48ddf2cb335b5713b439540097c2d657b25443",
+      "url": "https://docs.broadcastwell.com/answers/buying/which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "35fa1c578efe4acd70612ad2bba06bbce3c37c736cd417dc049c7cf8730efeff",
+      "url": "https://docs.broadcastwell.com/answers/changes/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "0ee0b95cd1d14932ee959eaea0488442264b13377dc93d9aeb6cfc503e38e227",
+      "url": "https://docs.broadcastwell.com/answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "94ecf8f9657f430552246c73a42694b7514b0c3e5026a29da808f9a7945752c0",
+      "url": "https://docs.broadcastwell.com/answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "da1b13e22cf2fac9b27c3acadccc48ef594bf49c6dfca7a4e80fd5fc013816e0",
+      "url": "https://docs.broadcastwell.com/answers/changes/how-should-i-check-a-reported-vulnerability-s-product-impact/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "5dfee76a61178773c2c5da143450aea3ff6164cae1d167ddf68c04840089cfe5",
+      "url": "https://docs.broadcastwell.com/answers/changes/how-should-i-verify-a-fixed-version-quoted-by-an-ai-answer/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "0013344d99634e1a41b4d538b84910d1856e8cc2d9510269517f92763215a085",
+      "url": "https://docs.broadcastwell.com/answers/changes/how-should-we-date-an-ai-facing-incident-statement/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "f3f1f618bc95a5fbeb03f864ebcc5dac8306e38335bbdce528ec8ce13a37f5dd",
+      "url": "https://docs.broadcastwell.com/answers/changes/how-should-we-distinguish-planned-fixes-from-completed-fixes/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "e12f316bd3c78b171f6aac376ea188f756a139992850a1de05ac9c56325fdf37",
+      "url": "https://docs.broadcastwell.com/answers/changes/how-should-we-preserve-conflicting-ai-incident-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "60aa29a58e237d338af42b2586b4d0c0ca91c0da3f13d5de57f733cf59f8b235",
+      "url": "https://docs.broadcastwell.com/answers/changes/what-should-a-vendor-say-while-an-incident-is-uncertain/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "6d3b7fa0f6343dcd311ae439ee148f2c7246d279c591ef2cabf8a473043bc996",
+      "url": "https://docs.broadcastwell.com/answers/changes/what-should-we-check-when-an-ai-answer-gets-a-fact-wrong/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "7f5cb9dd6a8cc6e24e4bee991d96fd7f81f99f5199344432e9b426aa27beea31",
+      "url": "https://docs.broadcastwell.com/answers/changes/which-ai-visibility-tools-monitor-factual-accuracy/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "ed381b4b99abde5d400849ca1d0e6bea37777f858efb4cd51bf963a6b5f9b819",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "ed0c565e0d1ca81bb5e7cec6ec4b2d24decaeb12238dac96378f6d6848fba51b",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/does-allowing-gptbot-make-a-site-appear-in-chatgpt-search/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "8da64acdf3d1923461a33f8ce616c117741cba3006c501bd7028475a64a88630",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/how-can-a-business-be-recommended-by-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c90884fdb196caed6bf3b53edbb12f461a35eb286f80e018427ae5b977977261",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/how-can-a-page-get-cited-by-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c0d83271ebab42f94ba846b1d619122f8b7cf51ae7f6b2aaa6dc3d7e99c48b52",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/how-does-chatgpt-choose-which-sources-to-cite/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c25198d36dcdb89ded2604757ef25001295bb40a13cbe8f4a9cc8723df74cc50",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/how-many-software-vendors-does-chatgpt-name-in-an-answer/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "cc2b18f12f6c96de1cb4c50509e0d7621a83d7e2e160912dc86b1a250a5ae86a",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-construction-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "cd1c72727e0334b7daa1c77db81d1153f25533af6a24bf476ac3936171751ed9",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-crm-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4b11767978001f19e02d1c7a553b8ee898352ab4d3328e57baef4183c38e3587",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-dealership-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "9ac2e3655b6d37653b51ac2ab6e9f755a95882812000d66855359d715d8eec5d",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-dental-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c3191b63f318ca2281b2f3edbc1a5f65349b7ea334e93caa98e7fdcf8b05d001",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-field-service-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b6eb076ccbbbd489c868222fd483f8b00335e3156475e1e5cb655aeaa3e6b291",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-hotel-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "57cff99e7d50dad9a7d30ab001e4f06845a1d3ddfdbf9c671b61059365fd47dc",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-insurance-agency-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c5811a0bb3769af358c62dccea2f947ba89a4e29d80712ab10bb753a5da52f10",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "2b10fb65bfbe1e852bd9b159b224fc8135ac14de807803f67d6aa09c3b816f54",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-loan-origination-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b395714442d919327e5d2f08b18ceed7525d1142b07c7e39920cc4662f698eff",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-project-management-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "02a0858c14b1892fc07a2e8eac1c571731267ba334ff180ebc67217300342237",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-property-management-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "0d433ba3b4409a42dfafd89f079275b8215ced49117eb3648d7fb475f0b05594",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-radiology-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "ad1111a6fe9fe89009a0196f0873ea3619b1ba0185a072b4ca65e1e8b04dbfcb",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-transportation-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "a1bcff1ede5461969818fec2ae23364d155dac4a209819585e3f8ac1c739dd58",
+      "url": "https://docs.broadcastwell.com/answers/chatgpt/which-veterinary-software-does-chatgpt-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "16bf3f15709bb0c459a371547686b24b5b6016069ce0ecf7fbd0ba083c84b348",
+      "url": "https://docs.broadcastwell.com/answers/claude/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "9b9d922a66b50820cb7fd52a97b5367863ba9c0ef1bf6f7823a2ff45d175eb41",
+      "url": "https://docs.broadcastwell.com/answers/claude/does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-t/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "ee0a0f641a95febf8c61019e6644cac5c61606aba31ba5ab217c917e83e046b5",
+      "url": "https://docs.broadcastwell.com/answers/claude/how-does-claude-web-search-work/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "5de37d826c596309ac00626a76db62edac4b370c5b2bfe8c1a1e199cd1147fe4",
+      "url": "https://docs.broadcastwell.com/answers/claude/which-construction-software-does-claude-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "d834c857b3aa88d8706f336cf81f73750896b4b958de0111c4e1e3ea1e1d4562",
+      "url": "https://docs.broadcastwell.com/answers/claude/which-crm-software-does-claude-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "bcb0b89e34308e216e7d707766cb190501f9dd02866eea450429d5790214512a",
+      "url": "https://docs.broadcastwell.com/answers/claude/which-dealership-software-does-claude-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3995d6bd8673007f5f1bbd2f41340c6c88a83375224099c9bbb6c63e455c3823",
+      "url": "https://docs.broadcastwell.com/answers/claude/which-dental-software-does-claude-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "71f001c079c9bc7f83bd3f44ab2fb220eb43ed5ec6169810eef77a844d587a73",
+      "url": "https://docs.broadcastwell.com/answers/claude/which-field-service-software-does-claude-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "0ed14b29409c1708aff82fec6e78976344826af492f1554d11ded91922057eb9",
+      "url": "https://docs.broadcastwell.com/answers/claude/which-hotel-software-does-claude-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "229e222c2c0cfcd04cafcb48e297e29209f4c52b5969fa4c846a22d6c038262e",
+      "url": "https://docs.broadcastwell.com/answers/claude/which-insurance-agency-software-does-claude-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "ffcecb03e4635ef374ee40df70c95e3e38641ac691d1d4737fbf8bb7822ad83c",
+      "url": "https://docs.broadcastwell.com/answers/claude/which-legal-practice-software-does-claude-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "75bfa24d86effa4111be4de37bc3b281afd67f7c1b92dd808311b21a4620e738",
+      "url": "https://docs.broadcastwell.com/answers/claude/which-loan-origination-software-does-claude-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b489f450eaf31d216948ef66bab55a42976f796004acabcaeace2a12e283cea6",
+      "url": "https://docs.broadcastwell.com/answers/claude/which-project-management-software-does-claude-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "7bcebb1efb76e90bc0bd2b6a9a67f6170aaec4f29c23ec4846cd7e1f49db8965",
+      "url": "https://docs.broadcastwell.com/answers/fixes/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "5874bdf779699c797b76320525c0ccb9af220c24d1bd983b88fa9df806ee4560",
+      "url": "https://docs.broadcastwell.com/answers/fixes/does-a-crawler-request-count-as-a-buyer-visit/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "169354d14121f801762969412e23f44444736756204500885bf6c19c276d2058",
+      "url": "https://docs.broadcastwell.com/answers/fixes/how-can-i-check-chatgpt-s-seo-output/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "70091375d9bc35e4011168654be70e007f347b322252c942fbbd09dba52828ec",
+      "url": "https://docs.broadcastwell.com/answers/fixes/how-can-i-control-whether-my-content-appears-in-google-ai-overviews/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "78836077f86b9c45a18f25679cf93a1d5064f5026c66bddeb7a743791e68c73a",
+      "url": "https://docs.broadcastwell.com/answers/fixes/how-should-an-answer-page-link-each-claim-to-evidence/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "8c06df45010620772a404721ef94e48ef5a46f706b59edddb90e270d3d64e98e",
+      "url": "https://docs.broadcastwell.com/answers/fixes/how-should-i-structure-headings-for-ai-crawlers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "bea2b6e2c19305adfc3b7eab9e13340073e643652719dfcbe199a8e9a0e52a86",
+      "url": "https://docs.broadcastwell.com/answers/fixes/how-should-i-turn-a-measured-buyer-question-into-an-answer-page/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "1c1e04a4f3acd580a3edaf285c4c3ad5ee9901a8e92fcc9eb937a60fc4c78b13",
+      "url": "https://docs.broadcastwell.com/answers/fixes/how-should-i-use-robots-txt-to-control-ai-crawler-access/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "99c21ec234d037b445fad4b0ff5e45608cef559e486b39c33ed586c468853eda",
+      "url": "https://docs.broadcastwell.com/answers/fixes/how-should-teams-handle-seo-and-geo-in-day-to-day-work/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "8774690d849c33e0c26fb5d1425a7f8086c7712a10f7d4d3ddbaeb65a1adb32f",
+      "url": "https://docs.broadcastwell.com/answers/fixes/is-llms-txt-required-for-ai-search-visibility/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "cd8cec91ff0b5e4ca3719eb85b002e11f4197e6fa2769dc661305344fe7b56a3",
+      "url": "https://docs.broadcastwell.com/answers/fixes/what-evidence-supports-a-page-s-selection-as-a-source-in-an-ai-answer/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4c69d879f326111e2c2a9a9ce6bfd44e9baee1e5efeb21f0bcc12d2e835b8738",
+      "url": "https://docs.broadcastwell.com/answers/fixes/what-should-an-ai-information-page-say-about-our-company/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "e26f3a1d5c17cee7e01fbf806147cccf4783bbb25274c8305882ec560b3783da",
+      "url": "https://docs.broadcastwell.com/answers/fixes/which-ai-visibility-tools-also-complete-content-changes/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "bb439e3bf5cae642053cf446a01353b12dc50bc4fbbdc3cdce62a156f74a1262",
+      "url": "https://docs.broadcastwell.com/answers/fixes/which-websites-have-an-llms-txt-file/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "5dd1d8ce835947e24bc7a7da8dad26e9c5e0fba056480e921b39610738dffcc4",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "95ee80733e321ce178db78f4dce095d5e3e42d1a20efec613de7a00ed9467a79",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/can-an-ai-answer-cite-a-company-without-naming-it/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "68544730bc2a2f91d931ecbeb70d8bddd4e7aa82b09d2b789c285ec75f1960c6",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/can-i-use-chatgpt-as-a-crm/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c9e9115404f2d3f2b0283ee9c25242bd01e640cfd535cfdee21c28d55781c181",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/chatgpt-seo-skills/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "8172adeff1216abac6afe25b32573e2efec1595be3747b0597995c3667a642b2",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/does-a-recent-ai-answer-contain-only-current-product-facts/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "987863b4d0f9bf19123d256c6c50a485f4fe3bd545a5996a7d488ceafb642a07",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/does-an-ai-brand-mention-mean-the-product-was-recommended/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "cb85ed655ba08077287ed20c497b1631e9acdebc22535f1d8709ffcaa02d1fee",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-can-chatgpt-help-with-seo-content/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "d478a8af9f276aa21c113d060ba8949879ef5a6e88f13fd1eeddfbc160323185",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-do-ai-visibility-vendors-differ-for-regulated-industries/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "40111c83f5095c02cac0c6175dad4ae965cde70153ad97eff52952e0f2467d1c",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-do-profound-and-seo-clarity-compare-for-tracking-brand-coverage-in/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3d379ba432d8d055ebc0565bf0d079d817e99fc920a639ef2376284a9eb30171",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-do-profound-and-seoclarity-compare/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "11291e67f7be0e626bb5732e2b241a1e7470c3ad3bfbffe36048c0a53023e4dd",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-do-suede-and-athenahq-compare-for-tracking-citations-across-models/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "129be088873dfc28b0c53923c21481643603c356f30099613f6491bb50fdf4c2",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-do-suede-and-athenahq-differ-beyond-price-for-a-pac/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b46a29a6403dc8da2587303773b2524ade577d834fca865be6cfc9aa85c6d83c",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-do-suede-and-profound-compare-for-permitting-and-community-narrati/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "cf029240f528f0acdd761c70f4c626318e80ed19edc3476db6d5ed5b113cc729",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-do-suede-profound-and-athenahq-compare-for-a-trade-group-in-a-regu/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "dae16b741ec7dbe4eaf4f0b415602cea0122b3b2cd7426206da331efdd676c23",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-does-chatgpt-relate-to-seo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "5b27ac775c24eab4dfe716cca892ee6b328a9a92e13ab1503634eae1b80f9fdf",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-does-perplexity-relate-to-seo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "bd9da29ea1adeb811c756ff5b7c87ea749c815ea3b4d654d4144dd847c9e1e09",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-does-profound-track-brand-coverage-across-ai-answer-engines/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "094b98367bce8a642e89f59d30e26ec4d04b5ecc0a5d4f539c52963e59dc9b23",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-might-ai-search-engines-change-the-web/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "35f9a0c0760da28648b1e914365e67dfc7a8622a973069c65e18f23f66e43944",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/how-well-can-entry-level-geo-solutions-scale-with-a-growing-business/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "f268f90654b8ff974530c472b8fdc71b3cc29f6662f694468763d17da6945216",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/is-geo-a-legitimate-strategy/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "2353f08e42cbe0b0cb2c9e48e0d9f53d1e1d20910f82920a4f1a9eaa72b62b05",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/is-geo-a-separate-skill-from-seo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "9c07060d0efa8666e37321432328a70223db651d93dd73c11a09a17bbd243a2c",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/is-learning-seo-and-geo-worthwhile-in-2026/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "2c5538dd756a6ddf36e594d067dad4bab29b11cd1eb507f6514cb8ebc5052cc2",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/origence/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "fa7257e2134996f573f9a2c2e78ad131c6e434f91ce6e82a7d3a59bfec888c97",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/peec-visibility-or-aeo-or-geo-or-search-or-citation-or-seo-or-generati/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b84f83c8b09e0fdf7743e45358b5b78a7219fbe717712a846cd3ff08edf5ce47",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-are-alternatives-to-brightedge-for-geo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "5e2156c0ec68971dfc9ace22660a3b77586714bc5848b419a0c93b9011b5a530",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-are-alternatives-to-go-fish-digital-for-geo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c5698d54e7ac0326dfe47051d6000ff50e6d9940b34cb01ce02549e68507d04c",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-are-examples-of-answer-engine-optimization/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "73dc853b979696126d654447c9896c9f9f95cfde773d3dbcdd024af964b5b684",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-are-the-top-3-crm-platforms/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "1175525fecf70a73caf2ba087b9522d0fa5274d0b4ff25e5628a767cd9e4b985",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-can-a-cited-domain-tell-me-about-an-ai-source/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "0af6b9856a79dc6b579ede1d4766ef16532431977d15dee6d6450f8ee4e4d5fb",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-can-perplexity-computer-do-for-seo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c2d10fac9e803fb95b8de7273a3b4c951defd19cd70eeffec2aa5983691e97f1",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-certifications-cover-answer-engine-optimization/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "2f05a722aba60578d44afba17b9219513a04b25e079d827bc4af30294fe05c34",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-courses-cover-answer-engine-optimization/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "725a4e085fd25d57f341e2481f010d7f6ff7768b3a95a03ff779cbf2293e4b64",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-does-blue-yonder-publish-about-ltl-freight-shipping/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "48a5ac99467b1a7c1fb77fa01d5610fbabc2cef4f06f36dfbba43b7d22699cb3",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-does-brand-visibility-in-chatgpt-mean/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "50cf3348974f7ec6996e88cab2e480edbdfac3358326fe348ad2dd56f3319cc1",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-does-searchable-offer-for-ai-search-visibility/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "2c1120bb6d6359ead5bd244062835c00738b17e300f55b1989a03388590145ba",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-does-visibility-in-claude-mean/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "01ee2a7d88f5506cf777851eabd7226ccf258eda24b003f701f7dc0cc9743040",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-jobs-involve-answer-engine-optimization/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b8359a3e1986950d23034a1f07c55384d81688204d9574ca17e4d61928494516",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-platform-scores-competitors-on-generative-engine-prominence/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "70092ffc1d0f5b9f7b4e0a3af11a0167326c778b9045a1ea890f852514212fab",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-seo-prompts-can-i-use-with-chatgpt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "5f3633600277d25803a793039945fc2544bb090b6137ca6b81cad4f440e824da",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-should-i-learn-for-technical-seo-aeo-and-geo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c0b1dfd4425b6027cac016d4a1d63b2c3f93d834217349490ecb02375bf1a99e",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/what-sizes-of-dental-practice-use-dentrix-ascend-for-scheduling-and-bi/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "442b0e1e84b084f0ee26c1012d57d93fd3c4d50b789f187f6ae475c87c603973",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/which-ai-based-crm-is-the-best/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "2c52aff495c0ff213bc1f949ade10e718e039335becad031d4fbb2c5f7d6d576",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/which-review-sites-for-geo-should-a-buyer-compare/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c82be4a2adbe700c7f3a0de3b172b67b8cd455fa2fa271a1103240541bb72fc3",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/which-tools-combine-ai-visibility-and-social-listening/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "814ad9de9bddba8273a77199b96d967c83c43e3c059d7d97e37708e5e5060959",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/who-has-practical-experience-implementing-geo-or-aeo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3b055afbadfd7f625ca178cd8c914d313bd122f36f0d4e6d249cf862a93aa491",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/who-has-the-best-geo-results-in-competitive-industries/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "00cfc13d16769f3516b36e70735de02b8c9f20ee445cd13714a0e6da9587565b",
+      "url": "https://docs.broadcastwell.com/answers/geo-basics/will-crm-get-replaced-by-ai/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "d8c838c4e4eddb9cf36841a0c152051405978fe27b4962aab8224682cf54ee0c",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b8946dd29babce80856ec0ef45e134522fe189d5dab6fd6b8f192bf5ef559e25",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/can-i-disable-google-ai-overviews/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c6db2e5bff4bfd4d211b4ed4efa0761385d6400720b56199e5d1704d505e9a51",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/does-google-extended-control-ai-overview-or-ai-mode-visibility/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4e0109f165b39308c3401f88a6b7d66fc66678f676e42020083b14ac86308f3e",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/how-do-google-ai-overviews-affect-website-visibility/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c12b317b78d4d69f0b422e51193f4345c3748ae574838bc2a0a2d98d01fe4998",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/how-do-google-ai-overviews-and-ai-mode-compare/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "31ed39df1224b97c658753cf99eaa25c13bbfb4507fe120d1c3a2d6ba3c4b9d4",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/how-do-google-ai-overviews-and-generative-ui-relate/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "d53126b0bb47bf4f424ba100c60a7f211d52e68e8a9ce388c8e589036c941be5",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/how-do-google-ai-overviews-choose-sources/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "03b035568034f899d145f1bb4ff7040b7e976c4efad471490bf5e98302fc5b6b",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/how-do-i-get-a-google-ai-overview/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b3ef1051229f2ac71d29ad5f804e318ce0166abf7f5a57b4d99e3714ca705a0f",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/how-do-people-use-google-ai-mode/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "2a11b4024a020ab15ed39777272fd281ff08614eaf3225393d354105ebf88f04",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/how-does-google-ai-mode-change-keyword-research/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "9e60bcb6472b9d2f6669d2146373c86df1eae928b0473f601714ebcf08531256",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/how-does-google-ai-mode-choose-cited-sources/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "7593aaaf25e96ef45775f728a306ef7f1613272ee764fb69c1778cfa042d579f",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/is-the-ai-overview-gone/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "a55ae571e9df4141836c038724f86d374ae6884dc020335f10a73c1ae5c5ddcf",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/is-there-an-api-for-google-ai-overviews/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c01de9a17f0947110c3d808016f37e80a13ba7389a6a5e04e7d95f8d1f7c54bf",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/should-ai-overview-rates-include-searches-without-an-overview/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "fc687b774483e70cd269690de905d78362a3ca996fc2260e6eac1f5a94d32723",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/what-is-a-google-ai-overview/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "00dda90af59089ef4f5807e1b005432d85b45890d8300bbfa1c2f144b316469b",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/what-is-deep-search-in-google-ai-mode/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "7363f5e3385b71ee902f2b074b44d75edc1ebd8a6e79bf7eb76e42149abdb7e6",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/what-is-google-ai-mode/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "9693e2d54c11a2c882d67898700b9054500516f2e4bec7b19f85b3beeb5d5f2d",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/which-construction-software-does-google-ai-overviews-name/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "2aedf59910a7875f8d32940c0a8796a1f66fe8abe780c4f155bdee87748e9ce0",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/which-crm-software-does-google-ai-overviews-name/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "ce775592bf6e62a61be8832e68dc3889f775da2a807cbb64d313d26cf70a3fb7",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/which-dental-practice-software-does-google-ai-overviews-name/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b51ecb004e0e10f650061d907fecc1a22c299cb2cd274b6ea2d9d923274832f5",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/which-field-service-software-does-google-ai-mode-name/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3d7b77289da5e162a9d51c4012cf2daff606af8cefa88596877c5e8e890e83c5",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/which-hotel-management-software-does-google-ai-mode-name/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "6befe2bc764002ff5863b7fce41cfa0159f36a4f24c76f34f53065e905e75d0c",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/which-software-tracks-brand-rankings-in-google-ai-overviews-and-bing-c/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "16cb895e4711c2e356d55e1a60e051a60d1706276c21b6a19092491b47b23cc2",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/which-veterinary-software-does-google-ai-mode-name/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "344eb49bdf50ff05f9f519ac6cf16c201368a71da8f12d2c72962802d8ce5c71",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/why-does-google-ai-overviews-not-appear-for-every-search/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "6ba7e3a8ec1230dc5a90a1c82c11c5a345bfdb8c437936361976d3d289856003",
+      "url": "https://docs.broadcastwell.com/answers/google-ai/why-is-google-ai-mode-not-working/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "0699a88d749ff55d55d447a5c434aa74ff8427d5755777c4dda5c6ab00b44352",
+      "url": "https://docs.broadcastwell.com/answers/industries/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "7d4c3f5792ce44912c84bdc3c64d98ae907d44fdc18f0c907c6a81de66d3db03",
+      "url": "https://docs.broadcastwell.com/answers/industries/crm-software-chatgpt-free/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "600357f3db20a38dee0473c15ba6bce18cd3720da45bf1624228ef6c7e580c81",
+      "url": "https://docs.broadcastwell.com/answers/industries/crm-software-chatgpt-project-management/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "86c0b15f4942ec8781ddbf4111a897715276f00da5a8dc21f039ed281e782bf6",
+      "url": "https://docs.broadcastwell.com/answers/industries/crm-software-chatgpt-reddit/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "45bcf27d0e78d3034e6717f3ec50b9802d576f834f6e69da7b90938e0e3a06bb",
+      "url": "https://docs.broadcastwell.com/answers/industries/dealership-software-chatgpt-project-management/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4548ccb4bbb28b220fc2653642172cc4c754a8e40a499a045c5a1d9dae734560",
+      "url": "https://docs.broadcastwell.com/answers/industries/digitail-vs-ezyvet-for-ai-native-veterinary-practice-management-with-t/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3d321361d2555b6acd8dc69b354f8d01e5aab999b82ebb3c9e04f0fa3c2d87b1",
+      "url": "https://docs.broadcastwell.com/answers/industries/does-housecall-pro-provide-field-service-management-software-for-home/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "ead48a51d5887d40e964f60d42b4365b10c4a5b3b73c602b09fabfabec39a24c",
+      "url": "https://docs.broadcastwell.com/answers/industries/hotel-property-management-software-chatgpt-free/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "f265602b8327f77e36ed6bf2ad2160bd4000a4fc60e1542e0523b2411c958f6d",
+      "url": "https://docs.broadcastwell.com/answers/industries/insurance-agency-software-chatgpt-project-management/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "33e64ea20c35228b3c4526236a929453f70577c23bb1c0e289295aa0f594f31d",
+      "url": "https://docs.broadcastwell.com/answers/industries/legal-practice-software-chatgpt-free/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "cffaf856ab76c6c21bbb85a0347fb63d67f5586b2eed2724215654867d9088f5",
+      "url": "https://docs.broadcastwell.com/answers/industries/loan-origination-software-chatgpt-free/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "67ae8270bcf7d48b40e4eaea80777bfbdd0b0a7d59943fe549f2856952850038",
+      "url": "https://docs.broadcastwell.com/answers/industries/radiology-software-chatgpt-project-management/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "a8ee8151f6076c2e8716d054c10856c64e07c85a994c40f405c5ecbba97cecdd",
+      "url": "https://docs.broadcastwell.com/answers/industries/transportation-management-software-chatgpt-free/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "eee41d0a7f48cbcf34b458ffcd02ef67638af69ac5e9c910215f9e62fda5317b",
+      "url": "https://docs.broadcastwell.com/answers/industries/what-are-the-top-five-project-management-software-options/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "d9445eb7ae865a5dfc75cbeb85fd44dc0843021fab2feb76405b12ab133835f3",
+      "url": "https://docs.broadcastwell.com/answers/industries/what-do-ai-answers-say-about-property-management-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "607c016238f043b346652e351bfff303330fc3ddae3dd00f4c5e599c40b1ec18",
+      "url": "https://docs.broadcastwell.com/answers/industries/what-should-i-compare-when-choosing-a-crm-for-outbound-calls/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "866a0fe616e65925e694e4d65ba0de497e7b71df8be66860f3b7a6a5fcb1975b",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-crm-software-should-a-buyer-compare/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "25b0a206ddd8513c29dc268fe4450e6f4f35b478ee02fadaa1ff7387cc9fcba5",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-industrial-ai-platforms-integrate-best-with-erp-eam-fsm-and-proj/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "771072fe5f2441f4c34724f00a080f2dcadec75048c9c4ea4cd25172f46516c9",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-construction-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "23c22fdd143618e3bc03862d079b5d6d39ca9327ec1690ecbbc3d14255c213b3",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-crm-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4d6c36d2367eed3463b576706f763488544e9387c49efcec2200bf0bc57ff4b1",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-dealership-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "76715f25571753826009ebd85ac2536e80b9e86928b1a5476eaaf9ba64403c24",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-dental-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "f4fbddfec9b2560a8ff68c3cf7994899fb0bb60d8bccc6b36b824f39fbda7f90",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-field-service-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4faf0799f24cb8e39920674ba05fa885aa5da9ac2c748acc7ec1eec70b030e04",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-hotel-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "642ba296d54f409368e31ac4e5434e16f0afb9a13dcb7454e05e3f36e5166a42",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-insurance-agency-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "480d76a762cd9b01ddf239347faacd4b842509d94b5a6cfc9c1913d83e35f83e",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-legal-practice-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "18b318292db27e643d4a0e31b5447e789e69ad83a54979465d6db1576898fb27",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-loan-origination-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4defafc018724437409b245a8c319a84714459594f182bb942bb3387572b12cb",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-project-management-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4e20778d8a7dd17e226cc4f3a59f79c31a76c66e99a8ab7f05320ff12fd498e2",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-radiology-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "eb6f1978818f7801ff521218074c16ebc362f9827dd845f40edf3e4620791be7",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-transportation-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "f56745d187de52c9f367f59fffe0d7c364943d35f41d8576f62393f4f98379fb",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-do-ai-answers-cite-for-veterinary-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "fd70da0873e99e0668d77abc1d049ad24623cc0514ef56b61d0b3641df83f9b3",
+      "url": "https://docs.broadcastwell.com/answers/industries/which-sources-does-ai-cite-for-property-management-software/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c0c30fe93acd87ab1843185b85016082c88bb7dad8d31c69168a2a3dbe020b99",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-construction-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "9324728b42b965149d7699e90b9e0de3fee6896eccb2f054369b86d16522f5a9",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-crm-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "a940b8df057b65c2e55c9ccc8d6fef5eb42b2a5f11742488fc1c4e84f3b8b31e",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-dealership-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "194abe34ab413e85b241a29821ff1a6c44a5585cbab149d95cc553751b03b16e",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-dental-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "2df8b4b00653c4d5bc6d456bbdffa5aac63c2c3b8151a0f1c7743b84fa90b1d3",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-field-service-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "437ddaeaa133477d67f88fc3849b9cf86eceb4a291011bb599c7de156689f576",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-hotel-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "d94871839c6a59417dff83ae328026ee9b1e4ff73218ae4b6c503fced157068a",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-insurance-agency-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c57d165fb9c1c80828ceba1bbfd9e3baf01841e672fc895099e3468eb6162e7f",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-legal-practice-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4beab1267bfe36aad371ff24e01592985ace244bc3375736be73264d10f88773",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-loan-origination-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "1f9dfb87bb82467b1de88a54cbd45a5753c9222ac28644bf58d75d5a70102fd1",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-project-management-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "880ee1f10b0dacd82b23fbb49e2e31b04ef2c3ce0ccd866dbc6977d1b5154f8b",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-property-management-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "1d0c24747811bc2b4360386986531b2ace88932d348f3cd05dacc154e6609698",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-radiology-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "231e20e3f6b34a557f59431ca03e480ae3f2b590adce41f02e273801ddfb2984",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-transportation-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "79b758c51763257d0c4a09ec0c2c40e07b8d5a55a90b3436751b3e354c290817",
+      "url": "https://docs.broadcastwell.com/answers/industries/why-is-my-veterinary-software-missing-from-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "9ede2a1b93d906fe0d6dee008f58594efe54d5d9f175abab8348a0483c03c59a",
+      "url": "https://docs.broadcastwell.com/answers/measurement/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c3d079a36e6f55344a7cfc580d42835ef4d90d9d73790a495d042e1698bafd42",
+      "url": "https://docs.broadcastwell.com/answers/measurement/can-google-bing-and-llms-find-content-on-threads/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "957c00ea66ed796e59b20f1b7e0e3934154c3f72d607171f66046af0cafc48f3",
+      "url": "https://docs.broadcastwell.com/answers/measurement/do-ai-product-answers-cite-reddit/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "5b2c424d1d3f8dca6b124ac526f82c7d36e7ec260f74d32aad5fa44600bd4558",
+      "url": "https://docs.broadcastwell.com/answers/measurement/do-youtube-transcripts-affect-llm-citations/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "049ba1074fdd91f5dda156514630e4d9efe8a134b6b3b1b1809792d91fb4b466",
+      "url": "https://docs.broadcastwell.com/answers/measurement/does-medium-get-cited-in-ai-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "72662dcbde9543ae295bbc5d74d91fd29a61d9b262c59b30999ceda1a463c1fc",
+      "url": "https://docs.broadcastwell.com/answers/measurement/does-profound-provide-a-full-seo-audit-or-a-partial-audit/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "50fdeca7b4d7e202eb17002c41e85fe074fd41537fd2cab39dd43db5f2e2a4d3",
+      "url": "https://docs.broadcastwell.com/answers/measurement/how-can-i-check-whether-an-ai-citation-supports-its-claim/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "ad28ad3e2a4bd6fef6191d983e42842fe937ad8b99f29ece8b0cd3951d219b90",
+      "url": "https://docs.broadcastwell.com/answers/measurement/how-can-i-evaluate-hotwire-gaio-tech-as-an-ai-visibility-product/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "2b61b7ed4013aa7d5aca31d28cb91ce608ba3313404741d535364e799f7e63bb",
+      "url": "https://docs.broadcastwell.com/answers/measurement/how-can-i-track-brand-visibility-in-claude/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "6c03d8f07ae697ccbea2b90d6da53e78111121b34d08725070d5432109fd6df8",
+      "url": "https://docs.broadcastwell.com/answers/measurement/how-can-i-verify-that-an-ai-visibility-tracker-uses-live-answers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "ded3ab91eaf7299646907da2170ccdebd0a7e60d3fe08545578e316eb5283b8b",
+      "url": "https://docs.broadcastwell.com/answers/measurement/how-can-server-logs-show-whether-ai-crawlers-request-llms-txt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b609befa1cc5f329b786aeb426edee1dc252f1c0bbf5286c8e52236c3d95b245",
+      "url": "https://docs.broadcastwell.com/answers/measurement/how-do-suede-profound-and-athenahq-differ-in-sampling-ai-answers-and-m/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "cf3be50825a9e45b5cbcb6534389c6d7eaca4a03bee1ec2795ca8b824695d5f2",
+      "url": "https://docs.broadcastwell.com/answers/measurement/how-does-google-ai-mode-affect-site-clicks/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "bee49a46541ca3953617a8c5109bdf5b7bbbd3b536044c8e95976360bf46608d",
+      "url": "https://docs.broadcastwell.com/answers/measurement/how-should-a-report-present-these-outcomes/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4b45e4300542dba7a5e70383025f8b02d2cc8424373914d9dc480b831747cbb4",
+      "url": "https://docs.broadcastwell.com/answers/measurement/how-should-the-report-show-visits/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "a6f323c3f9bd566b9f02731d815beb8dd044ff00524755e3e42dc341a6ed5c53",
+      "url": "https://docs.broadcastwell.com/answers/measurement/if-llms-txt-has-no-impact-on-ai-visibility-why-did-google-add-it-into/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "f13ad84ae1adb5585df134c30e6e0cd81233ce1e215f1ffdcec02ca924a92e4b",
+      "url": "https://docs.broadcastwell.com/answers/measurement/is-geo-more-effective-than-seo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4fb84a640e5cb0159734545875b99c7913b195ddbc1978873423e3c60ae1f7c0",
+      "url": "https://docs.broadcastwell.com/answers/measurement/what-ai-visibility-products-does-hotwire-gaio-tech-offer/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "05f22f619da1d5d3ec758484ed570559f10bc8c8e287532a7d866f37b275c335",
+      "url": "https://docs.broadcastwell.com/answers/measurement/what-counts-as-a-brand-mention-in-an-ai-answer/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "92108fe0c39cf2d78f5e6c34fee22ed31d24daad6e68b12a2b95c371599b091a",
+      "url": "https://docs.broadcastwell.com/answers/measurement/what-did-the-buyer-report/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "82b401d35cdf1cb2fd0139331e24cc0730da62bcc2adf60fa69dd437df16c87b",
+      "url": "https://docs.broadcastwell.com/answers/measurement/what-does-a-recorded-ai-referral-establish/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "85fbaedeacfe198cbd106bf8becf8c9c970d17316ec6e15cf9d1748ee6555421",
+      "url": "https://docs.broadcastwell.com/answers/measurement/what-does-athena-publish-about-data-accuracy/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "7e0265ad07cf6184940daf5fabadf8ee660b157d52e4e93246a9411d24510753",
+      "url": "https://docs.broadcastwell.com/answers/measurement/what-does-hotwire-gaio-tech-publish-about-data-accuracy/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "15e35a1286f57023f62514ab06d1c6a5fed41a5678d4f35b0c1edfb623f95f05",
+      "url": "https://docs.broadcastwell.com/answers/measurement/what-does-hotwire-gaio-tech-publish-about-model-coverage/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "5388a9035d1c292ee6d490927233fe7b82344a48a902e25490b43d866a3c3a9b",
+      "url": "https://docs.broadcastwell.com/answers/measurement/what-does-the-business-record-establish/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "d6e8fcf71b80b6945e989f35b50896292ae3ed2ea9160526ed28a5f5e23b1639",
+      "url": "https://docs.broadcastwell.com/answers/measurement/what-evidence-can-connect-ai-visibility-with-pipeline/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "bdde8b23c72822d8f6c8b9f385fa91a742b1009a751b1e8f1d13fb615ffb07ac",
+      "url": "https://docs.broadcastwell.com/answers/measurement/what-information-belongs-in-a-public-report/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3e93ba37146ef9fc9978755755a197a04ce2a6d80384490045555d2fbe5b0ffd",
+      "url": "https://docs.broadcastwell.com/answers/measurement/what-is-a-good-ai-visibility-score/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "71a5e282d30581d02679feeb173ba8e7786fb0734708fdfa6444a5a55c1022dc",
+      "url": "https://docs.broadcastwell.com/answers/measurement/what-is-an-ai-visibility-index/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b75c29412b997c615e28694cc4a95a16ad3c369b2996125dedd95bfafcc52f09",
+      "url": "https://docs.broadcastwell.com/answers/measurement/which-ai-visibility-platforms-support-multiple-agency-clients/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "dd6a3e04eccaeb69a2e511cabeef0253c3493c74e66668c9b79925da42d2625f",
+      "url": "https://docs.broadcastwell.com/answers/measurement/which-ai-visibility-signals-should-shape-an-seo-roadmap/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "06d1d9050f6446e73a8a1459731b2624ee31057767edc6a242ec989bfc8f0265",
+      "url": "https://docs.broadcastwell.com/answers/measurement/which-measures-belong-beside-one-another/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "1826b418353e81c50474af85398fecf7d559d42fa9e0f0eee74e1efa57b2c844",
+      "url": "https://docs.broadcastwell.com/answers/measurement/which-tools-can-track-whether-my-website-appears-in-google-ai-overview/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "f062e804a2b4467cf571c9383f85da88350ec155c658459695808fecf7030bdc",
+      "url": "https://docs.broadcastwell.com/answers/perplexity/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "85f23d1f921203483c4d5d607f673037e26f7dfab2a6e010420198511946de8f",
+      "url": "https://docs.broadcastwell.com/answers/perplexity/how-does-perplexity-work/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "000804c8b4b4831fecc263bfbe7bc3493abc488d954de8af0f60bfcd48257324",
+      "url": "https://docs.broadcastwell.com/answers/perplexity/which-construction-software-does-perplexity-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "b0e15a800ae4633dc99bbae8edab28222dc265923be774373bf09adea07cf4b3",
+      "url": "https://docs.broadcastwell.com/answers/perplexity/which-crm-software-does-perplexity-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c397d2da74809c2a4c80a3f604eebb3488a7f58c2f245c9e9af68a87b887af50",
+      "url": "https://docs.broadcastwell.com/answers/perplexity/which-dental-software-does-perplexity-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "d135e72e80bd1179a0df13cda77052969b129245bb41d8cda6ccd777128fdfb0",
+      "url": "https://docs.broadcastwell.com/answers/perplexity/which-field-service-software-does-perplexity-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4fd0b63db416130e454aec0c3d0b4b0622793437805d6e6411cab555651c396e",
+      "url": "https://docs.broadcastwell.com/answers/perplexity/which-legal-practice-software-does-perplexity-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3d805d8f4953aeb04cb5f2815d24d38a7eaa588c055a872f27148b0c176e22a8",
+      "url": "https://docs.broadcastwell.com/answers/perplexity/which-project-management-software-does-perplexity-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3f071e293aab11ed43fb288a10d50e726783d709d210f9320ce292d4c5ad873d",
+      "url": "https://docs.broadcastwell.com/answers/perplexity/which-property-management-software-does-perplexity-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "58288a177e46ab2d3f3c001e3147cfdc0b9dd0a73a3593dcfa55a81f17e6c82f",
+      "url": "https://docs.broadcastwell.com/answers/perplexity/which-radiology-software-does-perplexity-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "1aebeb2dad82a0aebb7f937b4d80280b89fc19e898f6a15dcf956d495f3e24bb",
+      "url": "https://docs.broadcastwell.com/answers/perplexity/which-transportation-software-does-perplexity-recommend/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "60d32612b09d2eca0e8b95ddc5ec1de1eabcaee85f1fd764ea5002b55a230d67",
+      "url": "https://docs.broadcastwell.com/answers/perplexity/which-veterinary-software-does-perplexity-recommend/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "205075fc0936dad9ba7ca0ff7f8a8208c7ff56fdc45bed773a8156eff5a1ed59",
+      "url": "https://docs.broadcastwell.com/posts/half-its-own-shortlist/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "34d69fbb5f77698bfed39f3227d98238be546269e36541f7b499079ccb7fd823",
+      "url": "https://docs.broadcastwell.com/posts/same-score-different-problem/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "d382c85c2194b30bbf343a8b9503e7c49ae7063c0441d5806ca34bba39207537",
+      "url": "https://docs.broadcastwell.com/research/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Dataset": 1,
+        "Organization": 1
+      },
+      "sha256": "d069ab32d57981f4143bd146a07c788667f2ebf5493af29bd1e4f33e13012bcb",
+      "url": "https://docs.broadcastwell.com/research/study6-wrong-about-you/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Dataset": 1,
+        "Organization": 1
+      },
+      "sha256": "1ca3a5955b78a7b94130c6982168d8d5df3bfb069f1b4f21d85c074af5f46fe4",
+      "url": "https://docs.broadcastwell.com/research/study7-ai-written-rfp/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "fe8a602b33e3ed8b7011f30942cf1056e0d3928fc7fde3ca4ab70f463605ace5",
+      "url": "https://docs.broadcastwell.com/research/academic-access/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Dataset": 1,
+        "FAQPage": 1,
+        "Organization": 1
+      },
+      "sha256": "82a161c55c5ab9187f749c38dda4b414b02d79c4151f9ae90f6d6b14a519e271",
+      "url": "https://docs.broadcastwell.com/research/claims/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "0a4859311612715600afc077a331678cf70a4b19dcb146627a7e4e5224c3b029",
+      "url": "https://docs.broadcastwell.com/research/evidence/graded-sources/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Dataset": 1,
+        "Organization": 1
+      },
+      "sha256": "35e5fbab209943e427baec88726b9d9d62fda7a95587bc17d94641fa00249f60",
+      "url": "https://docs.broadcastwell.com/research/evidence/quotable-numbers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "2d15fae70583d690fb9ce777c608f95396c4af88aa8cacf2298fc0795682224b",
+      "url": "https://docs.broadcastwell.com/research/evidence/spot-a-fake-statistic/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "3cd898272a3bc2f06f146f621ac78da3641de0993dd71d805f50851b7b7b34ae",
+      "url": "https://docs.broadcastwell.com/research/evidence/unverified-numbers/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "DefinedTerm": 1,
+        "Organization": 1
+      },
+      "sha256": "526d04678b198e04a56eaada40d90134bd1e95be85f8e7a0c749a1f038404608",
+      "url": "https://docs.broadcastwell.com/research/glossary/agent-discovery-optimization/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "DefinedTerm": 1,
+        "Organization": 1
+      },
+      "sha256": "456caaf55e4129c8cd461feb9ebc927882d551f628f3c77eded8330a6e3ed10a",
+      "url": "https://docs.broadcastwell.com/research/glossary/citation-decay/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "DefinedTerm": 1,
+        "Organization": 1
+      },
+      "sha256": "1a0ac77fcc6085fc9731c372abfd453849fffffb2f3199e054a4fec9a1a53a34",
+      "url": "https://docs.broadcastwell.com/research/glossary/entity-confidence/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "DefinedTerm": 1,
+        "Organization": 1
+      },
+      "sha256": "d3c5c3153c05044fa0878c0630e149f7c1ececba213ca837139e6ee9e572da28",
+      "url": "https://docs.broadcastwell.com/research/glossary/information-gain/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "DefinedTerm": 1,
+        "Organization": 1
+      },
+      "sha256": "6f798f8ef066a49a3f497fe51cb872c4622f99e3510c504fdc4400f466b4800f",
+      "url": "https://docs.broadcastwell.com/research/glossary/query-fan-out/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "DefinedTerm": 1,
+        "Organization": 1
+      },
+      "sha256": "28b285639f94c02ada2969b67bb56cee80f67abf2705ddca0ba7e6eb347f7583",
+      "url": "https://docs.broadcastwell.com/research/glossary/seo-aeo-geo/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "DefinedTerm": 1,
+        "Organization": 1
+      },
+      "sha256": "875ef413681f329db7cca12833e0f5cf226744703dae3982ec3f6a0054355cec",
+      "url": "https://docs.broadcastwell.com/research/glossary/share-of-model/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "DefinedTerm": 1,
+        "Organization": 1
+      },
+      "sha256": "a5949d9c3fb7d1946c9485682de99afe98ac7f8f52138fa44724bd5f5c90b68c",
+      "url": "https://docs.broadcastwell.com/research/glossary/zero-click-visibility/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "09635aaff3d284e10de2186ecab70c7d7ccda99e3d38a782b05b6570e978c246",
+      "url": "https://docs.broadcastwell.com/research/insights/engines-change-without-telling-you/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "8b6a98d56c1d35a03a69429eac03fe14c478fa295ac0532965bb2ccf73cceddd",
+      "url": "https://docs.broadcastwell.com/research/insights/google-asks-for-original-research/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "076688a40edcbf71fcc68bfdd50733d0d26adfbccd602128824cf64cb6363874",
+      "url": "https://docs.broadcastwell.com/research/insights/index-against-the-literature/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "5eeafa627a7984c9c07343c7e918597343920e21b2cca6d28b428841b545ed5a",
+      "url": "https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "e1a78befce9c7f5bc22ac2c537f7b339136ecfb01b63d12e53acaf8fd4a7e77b",
+      "url": "https://docs.broadcastwell.com/research/insights/no-ranking-recipe/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "5ff315de885c7a09d214e4ef3e390c2a5be8b45a8df66663b7d9893605d61beb",
+      "url": "https://docs.broadcastwell.com/research/insights/one-channel-is-a-risk/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "fdea3f6a8561217e75d9635b0565b1e9e3598662f39eb15aeafd22a7c1a42fbd",
+      "url": "https://docs.broadcastwell.com/research/insights/one-rank-number-is-a-fiction/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "8bd95b86efd4408f69c10a43765a1e37f6790bf6e49c82c8bab1645f205b544f",
+      "url": "https://docs.broadcastwell.com/research/insights/review-platforms-as-the-objective-source/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "727a1ef13981efa895079cfb4ad2ac93d6ee67ec6fba6615b9008310932c3e91",
+      "url": "https://docs.broadcastwell.com/research/insights/state-of-geo-research-2026/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "6862d9fa3ef623f9d98ecea3add10e16cd772482561c4df693d8530ff84a95f0",
+      "url": "https://docs.broadcastwell.com/research/insights/strong-brands-weak-visibility/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "8415fb9d57cf895a361ba850f7015f9cd22c2f567acb0e05c6c49e23dd04698e",
+      "url": "https://docs.broadcastwell.com/research/insights/who-the-engines-trust/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "4b87685997129dc3e97bb0c854f40330a35a645e93b227c7487128a09b1d9728",
+      "url": "https://docs.broadcastwell.com/research/playbooks/llms-txt/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "dcdbc87b55225eb7f5c4127f3043974f7c08604dcfb7c2fb42d3cb1f4c87e84f",
+      "url": "https://docs.broadcastwell.com/research/playbooks/pages-an-ai-engine-can-quote/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "679cebaa73d7f733bc8153085b01485decb66b90e7b2b61a1c9bdd93fb92bd5c",
+      "url": "https://docs.broadcastwell.com/research/playbooks/question-led-content/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "e69711d306fa755ad2b60008475727c4ec450d7c05eb070689037f7afc693416",
+      "url": "https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "453c22b2106c15f7ea420e50a0f99c26136c01a7bc07fb08dc6fe3830852dfa3",
+      "url": "https://docs.broadcastwell.com/research/playbooks/review-platforms-for-b2b-software/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "8485581aac04d22f9722d6326b79ebcb5fa1581dbb9c9d2ed6996790778087ea",
+      "url": "https://docs.broadcastwell.com/research/playbooks/site-structure-basics/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "1b4a5ff2d54dd207c076332fc65c159d8fb2ef40dc604cf724103f205ee187aa",
+      "url": "https://docs.broadcastwell.com/research/playbooks/structured-data-for-b2b-software/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "a1555e2757223eced686f22e9ea2af1536d6d253910ea6d11e56215e357e6fb8",
+      "url": "https://docs.broadcastwell.com/research/playbooks/syndicating-without-losing-the-original/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "5d789354108200d6f425d6b1410b3acb28b1e023c9afd3cb3310b6e0a2e73818",
+      "url": "https://docs.broadcastwell.com/research/playbooks/which-ai-crawlers-visit-your-site/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "a0c05edf72734515fd6d0616db1b87286e08ceb6713bb43a2c55a2ce5afe9baa",
+      "url": "https://docs.broadcastwell.com/research/playbooks/wikidata-for-companies/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "a742bcd9a8684cca30796f8d33b912f13f6ffdf0640c544b6bf3a4aa4893cd6c",
+      "url": "https://docs.broadcastwell.com/research/sources/bataineh-2025/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "347c834f88e434ac4a05caca61f46541ffc54fbacc1b805363c57f0d3f414612",
+      "url": "https://docs.broadcastwell.com/research/sources/giannakoulopoulos-2019/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "d0b14c786b9fc518a551077ffeae9aa34cd99dbff44c0a7a00e49bf5cae77343",
+      "url": "https://docs.broadcastwell.com/research/sources/giomelakis-2019/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "feb1d4e5e193d94b4dbe9f2a984c05d1b18e4d62e3d390511ac7d5591e18546c",
+      "url": "https://docs.broadcastwell.com/research/sources/google-seo-starter-guide-2010/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "a89bfb3fe469b1a7406717e3697f5a3f4e68e9a907748b26d911ef4b1c7f9759",
+      "url": "https://docs.broadcastwell.com/research/sources/karyotakis-2019/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "2ff1aac65ac9b2bd17a19462c40936869b504f66f17aa98f66bc7711d9d3a407",
+      "url": "https://docs.broadcastwell.com/research/sources/lewandowski-2021/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "e50a3d286329227acfa83f122433f2a477cc842a18f646f50d8e3accc6a96433",
+      "url": "https://docs.broadcastwell.com/research/sources/reading-list/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "08b5fced0ad49f67fe571f5b08d9f90a60bc7ffc1040f29ace4b9f03d0f63fb8",
+      "url": "https://docs.broadcastwell.com/research/sources/rovira-2019/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "dbf2de65da9e705d22c36438144480960be27d95ba0be870725fedcba80903ed",
+      "url": "https://docs.broadcastwell.com/research/sources/seo-bible-2009/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "6349749e99ac32206bec5f6053d471541bc7873b7692c67deec3059b878102af",
+      "url": "https://docs.broadcastwell.com/research/sources/ziakis-2019/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "fce68977879fb5caafeeef52c06d1e04425eb70f49732fd92b2cbca3c5550d71",
+      "url": "https://docs.broadcastwell.com/research/sources/ziakis-vlachopoulou-2024/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "e3da15c4829de56a8bab58cbdb6eb6919d3869868af8890ec2a8b423da1c8d43",
+      "url": "https://docs.broadcastwell.com/research/standard/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Dataset": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "1db5e2d97a970b37d62435052dae6a7de5bf1053f40ac4a1517d4e8efa2a0fd3",
+      "url": "https://docs.broadcastwell.com/research/studies/ai-crawler-log/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Dataset": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "02347b080d4d02958cf59a40050f1c87c51d227396f20ec0daa4b310869bd39a",
+      "url": "https://docs.broadcastwell.com/research/studies/does-absence-persist/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "3242d10826d191fea841aef231d13e586ab79c3c4860cda0da5b02a97d22083e",
+      "url": "https://docs.broadcastwell.com/research/studies/evidence-refresh-field-test/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Dataset": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "66fbc9deb224d7afa40e45ef6f94e0548847e4d3dcafdeb00524cd0ef340bcc8",
+      "url": "https://docs.broadcastwell.com/research/studies/optimized-pages-in-ai-answers/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Dataset": 1,
+        "Organization": 1,
+        "TechArticle": 1
+      },
+      "sha256": "416d3e2a8ba1a91dd3d277d6da106b5942bb588f57836465b49013fd9abdc090",
+      "url": "https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "FAQPage": 1,
+        "Organization": 1
+      },
+      "sha256": "8500584e4396235801d4d4b2968747e6ad3da24c034b26898fd8c14e5bb5ef6d",
+      "url": "https://docs.broadcastwell.com/resources/bot-access/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "19fa7bd5f760ff1a9a5358ed9ed227479936b4c1161bacb35a3abf338b4a4cf5",
+      "url": "https://docs.broadcastwell.com/resources/briefs/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c94d9d0b712ca51ddb664b04e648025a770a34c76b27377065499edfae61bed6",
+      "url": "https://docs.broadcastwell.com/resources/playbooks/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "99dd0b613ffc7746dc7451fec9aefd3cd8c3a13de93ecfa4e05669bdc202565d",
+      "url": "https://docs.broadcastwell.com/resources/three-rates/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "135e177fab5708d085fd76f9a79b7e17eabeac56970a03b082db1a209be5eb90",
+      "url": "https://docs.broadcastwell.com/resources/audit/executive-template/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "7c2a19e9c253c04a0af190c852d24341c9e3224b8bb1ff822c737e712bc0f6f5",
+      "url": "https://docs.broadcastwell.com/resources/audit/recheck-receipts/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "89fae6e40e1265528ccf1fa2ba30142b6489df316040669b1da90329e9561755",
+      "url": "https://docs.broadcastwell.com/resources/audit/sample/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "9c571d6cce5021bc5bfaec8dfd1fa0e6df02617d502f774ecaa1c2b79717ea11",
+      "url": "https://docs.broadcastwell.com/resources/briefs/comparison/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "1e059db5fdd202107f313fcb1c68f22874dc6d51d944e160ae466e176e49d963",
+      "url": "https://docs.broadcastwell.com/resources/briefs/integration/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c1fe4ed6a2679c89ad75d60472d0ed6322ec13e6886dc9b7996a7b4ddcd0724a",
+      "url": "https://docs.broadcastwell.com/resources/briefs/limitations-pricing/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "df754dffd19d7e7f81c28a06e222b5191eca2aeae9b28d56b892aa64568c49e6",
+      "url": "https://docs.broadcastwell.com/resources/briefs/migration/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "f1c1f5aae304e9a13ddf80a12188501e8e8b7156ce9e9e6a13bdded36e77e724",
+      "url": "https://docs.broadcastwell.com/resources/briefs/procurement/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "5f0b0e76c09449e6080eb4df431c6441aae587d8a358c712ab725e9f47bb8c21",
+      "url": "https://docs.broadcastwell.com/resources/briefs/use-case/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "effef043749fb16c01390daae1d96443b8bfafd20f8b8bbfa1be047412c4a36f",
+      "url": "https://docs.broadcastwell.com/resources/demos/receipt/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "66316dfc4f824548b0d72697067dbc0c699643c9147e06cc7875a486c26d3b0e",
+      "url": "https://docs.broadcastwell.com/resources/demos/recordings/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "364c3b83b5fa9455a8481cbba23b65c64d0d9ec5de58708adade3000f9433306",
+      "url": "https://docs.broadcastwell.com/resources/demos/work-order/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "75d75bc2abb578077711d70014d9344fcb2630233e4e57f3fa47e2fcafa96a88",
+      "url": "https://docs.broadcastwell.com/resources/guides/buyer-questions/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "d36bf38d21ca5ab87dc4646718b8255170fa1137afb90e0baa199647c8162678",
+      "url": "https://docs.broadcastwell.com/resources/guides/comparison-page/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "c26853914f190c00ddf23fa95c213cb270adf86b775665ac107bb7947528aace",
+      "url": "https://docs.broadcastwell.com/resources/guides/fair-recheck/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "a4f1f7f2f77c9414357bbd827b638b8d90a51532d3b27221c4ced95ccbaaaeb2",
+      "url": "https://docs.broadcastwell.com/resources/guides/missing-brand/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "a7dc078fbbd9783d1e1457942763b3cea3e05cb896d3aa8bf0d50e6ffaf8a417",
+      "url": "https://docs.broadcastwell.com/resources/guides/product-facts/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "FAQPage": 1,
+        "Organization": 1
+      },
+      "sha256": "19b2a4047567780a3979f59e65e57f7eb171cacbe009b20f3c191aec31d60737",
+      "url": "https://docs.broadcastwell.com/resources/guides/read-an-answer/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "390f22279034b744fbfe7d356b5cf6fa0b994b98e86b89590d530a990fc017f4",
+      "url": "https://docs.broadcastwell.com/resources/playbooks/commercial-review/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "f2fb549917f981fd3cb563ae3768557f9a09c3f9cdf8a9727fcb33254a7c1375",
+      "url": "https://docs.broadcastwell.com/resources/playbooks/comparison-brief/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4f9d38360acc093945048d2e37654106b0fcb0edea93a0bb1bb265ccbad91c86",
+      "url": "https://docs.broadcastwell.com/resources/playbooks/fact-verification/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "420f5ae30bc5fa86a80a62ecde80de87e12e23b73b38fb7891157697a88f61ab",
+      "url": "https://docs.broadcastwell.com/resources/playbooks/question-selection/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "68794e5a283bdf5f418a1657828980ad41bcee3d63ac7b7d1b238b13d7c9f572",
+      "url": "https://docs.broadcastwell.com/resources/playbooks/receipt-review/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "8f35f9e1e4bc7dafb2e2bafeee2be88701b87bbfad5655a0a9e32ab572cab280",
+      "url": "https://docs.broadcastwell.com/resources/playbooks/recheck-review/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "9cc95e541d7a46b6569389d74e1c026b0ee489ff557eafe3027c6d6b7aefe04e",
+      "url": "https://docs.broadcastwell.com/resources/playbooks/source-correction/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "708fa0abe319cf924f18537f2835733e63ece3e3157f2d033a6eb32285d211f6",
+      "url": "https://docs.broadcastwell.com/resources/playbooks/technical-change/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "ad614b7e62eb90a1c3dd442877104ae72144ce6d986c54612225101f04b6d42b",
+      "url": "https://docs.broadcastwell.com/resources/provenance/sources/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "a2de9eaa5ff1e9e5475d862a6c5f9297f46574f159266e84ac63205efbfbfb50",
+      "url": "https://docs.broadcastwell.com/resources/worksheets/buyer-questions/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "10479db9131acb142ed4157bb233d08d95270855807d7531428047826aac1aea",
+      "url": "https://docs.broadcastwell.com/resources/worksheets/comparison-page/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "5c1e9f1c8cd0563e042a8dfe78a52d70125d40f2ccd3308e02ed5880efe95e4b",
+      "url": "https://docs.broadcastwell.com/resources/worksheets/fair-recheck/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "4c59dc5cf588a4c5f218e1cd878d4e38983c7d1161d5ea2c79ff4a6058786be8",
+      "url": "https://docs.broadcastwell.com/resources/worksheets/missing-brand/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "83db14ebfe1c9a3628967442cd6cdb12bd6701b299055db48f0575b3412d1229",
+      "url": "https://docs.broadcastwell.com/resources/worksheets/product-facts/"
+    },
+    {
+      "schemas": {
+        "Article": 1,
+        "BreadcrumbList": 1,
+        "Organization": 1
+      },
+      "sha256": "7774a98b71c8a81f6eefd7bd80fbe86ecd581c5eba29b76a675a9fe2c16440f9",
+      "url": "https://docs.broadcastwell.com/resources/worksheets/read-an-answer/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Dataset": 1
+      },
+      "sha256": "8f8b6e676b22d06c1166238bf6d1c445e0ff2a4ec845966e9e5b1058fdacb6ce",
+      "url": "https://docs.broadcastwell.com/assets/research/change-desk/2026-10-26/connectwise-statements-ai/"
+    },
+    {
+      "schemas": {
+        "BreadcrumbList": 1,
+        "Dataset": 1
+      },
+      "sha256": "5ea83aaabc8f29d8be06ca2c8d939e404e829c4079da4f5b1e561d4e7f1b45cf",
+      "url": "https://docs.broadcastwell.com/assets/research/change-desk/2026-10-26/software-transaction-state/"
+    }
+  ],
+  "sitemap_urls": 440,
+  "types": {
+    "Article": 335,
+    "BreadcrumbList": 395,
+    "Dataset": 10,
+    "DefinedTerm": 8,
+    "FAQPage": 6,
+    "Organization": 393,
+    "TechArticle": 58
+  }
+}
