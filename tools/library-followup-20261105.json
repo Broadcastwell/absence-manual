@@ -2627,7 +2627,7 @@
       "capture_comparison_sha256": "12a96ad8526c99d84f542fd671c96be5eea2e621afb4c585ede6fd421c70ab8d",
       "preview_inventory_sha256": "82ab00fa0554a04b276fde2fa6f6ae2a054189880e8f047ed4c682ac4cd150b4",
       "preview_limit": "The local preview reused the exact two prior PDFs and gzip container. Hosted CI must regenerate the PDFs twice and match this complete inventory before release.",
-      "reviewed_utc": "2026-11-07T00:51:15.312463+00:00",
+      "reviewed_utc": "2026-11-07T00:55:14.375510+00:00",
       "reviewer": "root",
       "scope": "The actual strict local build contains 45 navigation corrections. All 748 other public files match the prior approved artifact.",
       "screenshots_visually_reviewed": 90,
@@ -5214,7 +5214,7 @@
   "candidate_source_sha256": {
     ".gitattributes": "56455ec5f79c44ed93492119b8cd0e0ed6ef065faaddd411b0bf58709e8cf995",
     ".github/workflows/deploy.yml": "e6e0cfb6f6750212e76e11e33690423c0acc4441894d4d340856b96a44a40ad5",
-    ".github/workflows/library-code-checks.yml": "a1479c2d4c76516f8fce77aae8abe07a5d68c5518f2b54bc29c7b3e8fb2560d9",
+    ".github/workflows/library-code-checks.yml": "2ab8f17a1c186efdd9b1fbfc6ad8fcfa7574505416863645b78dc1005b9379f9",
     ".github/workflows/verify.yml": "87e11050db32f7d269be59524f7db47dd026c9ac6c39fd3e54e824e87ed63f63",
     ".gitignore": "d29cb70f254a3db56ab93476e2b32ad286b0166df6fc78d4595fe9a7f2e0e603",
     "CHANGELOG.md": "f0fb366b1072a709e75e4fefe4d9db1cfb5d19dd92a9f4e70062c01cdd3a397d",
@@ -8246,6 +8246,10 @@
   "prior_artifact_path": "reviewed-pr97-publication.zip",
   "prior_artifact_sha256": "1badcad3e2416b9b156d8a310b7a59b5a06b1d8b529ab04837f042f7ddf700c1",
   "source_changes": {
+    ".github/workflows/library-code-checks.yml": {
+      "after_sha256": "2ab8f17a1c186efdd9b1fbfc6ad8fcfa7574505416863645b78dc1005b9379f9",
+      "before_sha256": "a1479c2d4c76516f8fce77aae8abe07a5d68c5518f2b54bc29c7b3e8fb2560d9"
+    },
     ".github/workflows/verify.yml": {
       "after_sha256": "87e11050db32f7d269be59524f7db47dd026c9ac6c39fd3e54e824e87ed63f63",
       "before_sha256": "1b7279d4e87f5d8275a95bc496c27531fdf8bfc5009980febf98273139636ff4"
@@ -8415,7 +8419,7 @@
       "authority": "Current owner authorization for STEP 3.1",
       "deviation_record": "tools/step31-navigation-deviation.json",
       "original_plan_sha256": "2d9aec5ec306d73743255986d8b987c694f5b26896e218363b79b7e49e36d225",
-      "reviewed_utc": "2026-11-07T00:32:05.607396+00:00",
+      "reviewed_utc": "2026-11-07T00:55:13.353511+00:00",
       "scope": "Two retired-offer navigation labels on 45 registered pages. All source text, dates, metadata, pagination, assets and sitemap fragments remain unchanged.",
       "source_review_complete": true
     }
