@@ -99,12 +99,13 @@ class FinalStubTests(unittest.TestCase):
         path=Path(__file__).resolve().parents[1]/'tools/verify_build.py'
         tree=ast.parse(path.read_text(encoding='utf-8'))
         funcs={'fail','front_matter','strip_tags','article_words','built_path','expected_canonical'}
-        constants={'ALT_TEXT_FLOOR','BUY_ENTRY','CREDIT_LINE','AUDIT_PROMISE','RETIRED_OFFER_TEXT','TECHARTICLE_CLASSES','ARTICLE_TYPES','WORD_FLOOR_CLASSES','ISO_STAMP','CHAPTER_WORD_FLOOR','FRONT_MATTER'}
+        constants={'ALT_TEXT_FLOOR','BUY_ENTRY','CREDIT_LINE','AUDIT_PROMISE','RETIRED_OFFER_TEXT','TECHARTICLE_CLASSES','ARTICLE_TYPES','WORD_FLOOR_CLASSES','ISO_STAMP','CHAPTER_WORD_FLOOR','FRONT_MATTER','REGISTERED_PAGES','CHANNEL_LINKS'}
         nodes=[n for n in tree.body if isinstance(n,ast.FunctionDef) and n.name in funcs or isinstance(n,ast.Assign) and any(isinstance(t,ast.Name) and t.id in constants for t in n.targets)]
         loop=next(n for n in tree.body if isinstance(n,ast.For) and isinstance(n.target,ast.Tuple) and [t.id for t in n.target.elts]==['rel','cls'])
         doc=self.root/'docs';doc.mkdir();site=self.root/'ordinary';site.mkdir()
         route=site/stub_artifact_path(self.source);route.parent.mkdir(parents=True);route.write_bytes(self.stub.read_bytes())
-        ns={'re':re,'json':json,'SITE':site,'DOCS':doc,'problems':[],
+        # REGISTERED_PAGES reads the real field freeze map, so ROOT is the actual checkout.
+        ns={'re':re,'json':json,'ROOT':path.parents[1],'SITE':site,'DOCS':doc,'problems':[],
           'manifest':{self.source:'page'},'canonical_stub_pages':reviewed_stub_pages(self.root,site,{}),
           'built_relative':built_relative,'ownership_violations':ownership_violations,'page_url':page_url}
         exec(compile(ast.Module(body=nodes+[loop],type_ignores=[]),str(path),'exec'),ns)
