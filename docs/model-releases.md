@@ -96,10 +96,10 @@ The two releases also differ in design, and our data page compares standings acr
 
 ## Sources
 
-- OpenAI, ChatGPT release notes, entries dated 6 August to 26 October 2026: https://help.openai.com/en/articles/6825453-chatgpt-release-notes (read 9 November 2026).
-- Anthropic, Claude release notes, entries dated 24 July to 7 October 2026: https://support.claude.com/en/articles/12138966-release-notes; Anthropic newsroom: https://www.anthropic.com/news (read 9 November 2026).
-- Perplexity changelog, entries dated 27 July to 5 October 2026: https://www.perplexity.ai/changelog (read 9 November 2026).
-- Google, Gemini Apps release notes, entry dated 21 July 2026: https://gemini.google/release-notes/; Google blog posts dated 13 August to 28 October 2026, linked above (read 9 November 2026).
-- Broadcastwell, Absence Index capture dates: https://broadcastwell.com/data (read 9 November 2026).
+- OpenAI, [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes), entries dated 6 August to 26 October 2026 (read 9 November 2026).
+- Anthropic, [Claude release notes](https://support.claude.com/en/articles/12138966-release-notes), entries dated 24 July to 7 October 2026, and the [Anthropic newsroom](https://www.anthropic.com/news) (read 9 November 2026).
+- [Perplexity changelog](https://www.perplexity.ai/changelog), entries dated 27 July to 5 October 2026 (read 9 November 2026).
+- Google, [Gemini Apps release notes](https://gemini.google/release-notes/), entry dated 21 July 2026, and Google blog posts dated 13 August to 28 October 2026, linked above (read 9 November 2026).
+- Broadcastwell, [Absence Index capture dates](https://broadcastwell.com/data) (read 9 November 2026).
 
 Related: our note on [engine divergence](engine-divergence.md) explains why each engine is read separately, our [release notes](release-notes.md) list our own changes, [how to cite our research](cite.md) gives the release DOIs, and the [completed-case format](cases/format.md) shows where a release note appears in a client report.

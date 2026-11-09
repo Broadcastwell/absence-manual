@@ -77,7 +77,7 @@ A brief is the unit of work in Answer Repair, $490 once, and each of the six pag
 
 ## Sources
 
-- Broadcastwell, fictional Kalvenor findings sample, captured 8 to 12 July 2026: https://app.broadcastwell.com/sample/findings (read 9 November 2026).
+- Broadcastwell, [fictional Kalvenor findings sample](https://app.broadcastwell.com/sample/findings), captured 8 to 12 July 2026 (read 9 November 2026).
 - Broadcastwell, [Methodology, method v1.1](https://broadcastwell.com/methodology), on frozen question wording and bases (read 9 November 2026).
 
 Related: the [RFP guide](../rfp-guide.md) and the [completed-case format](../cases/format.md).

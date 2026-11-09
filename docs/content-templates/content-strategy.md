@@ -62,7 +62,7 @@ A strategy like this underlies the monthly work in Care, $490 a month, and Progr
 
 ## Sources
 
-- Broadcastwell, fictional Kalvenor sample, 35 questions, observed 8 to 12 July 2026, monthly run 12 August 2026: https://app.broadcastwell.com/sample (read 9 November 2026).
+- Broadcastwell, [fictional Kalvenor sample](https://app.broadcastwell.com/sample), 35 questions, observed 8 to 12 July 2026, monthly run 12 August 2026 (read 9 November 2026).
 - Broadcastwell, [Methodology, method v1.1](https://broadcastwell.com/methodology), on question groups, frozen wording and intervals (read 9 November 2026).
 
 Related: the [workshops](../workshops.md) page walks through filling this template in a self-paced session.

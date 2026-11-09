@@ -3107,11 +3107,11 @@
     "docs/chatgpt-business-hub/index.md": "6169b0398980a598b2032fc0f8f44310ddb9e8324bbe76077148ad05dc5d00d8",
     "docs/chatgpt-business-hub/reconciliation-report.md": "5aaf6d38baca38ccbf8953f475aa10b1ca679f62b88ee105bcf70f0fbc3eaa9a",
     "docs/chatgpt-business-hub/watch.md": "c734f10445cabcf2ecce18ee25314980d02975416719df880785f25fe8b1af8b",
-    "docs/cite.md": "9a4ee14cbb2446a31af4b24f4ec606a31fb326e29195371797cfa2569744eaab",
+    "docs/cite.md": "a64aa8ebb585918f13f3d2a4570666bd527aae4d863c0df483896105fbd866ab",
     "docs/cited-not-recommended.md": "e1cc8fef26ed204c34643530801f10f0d293f30d90d427a762e428d270b7ba75",
     "docs/comparison-gate.md": "873b035d8e194930c9d75699ef6e2ab849e05e765eca5b5b5d2928fd24251fde",
-    "docs/content-templates/content-brief.md": "e427b3e6797cc46bd6eb2a50af156695e8fb5bc5f98a1242b00d7405b5145e7c",
-    "docs/content-templates/content-strategy.md": "b98a577ca2f4ded5d853cd303020ed8585a5b61b1521aa09a12840ccedfe8d93",
+    "docs/content-templates/content-brief.md": "c47730c290b57be9179a33f53773e8db3f321d2ee36bf95ba95ae467c2bb9a7b",
+    "docs/content-templates/content-strategy.md": "15bb216c174ea4c2a3d6433c3125744b25e9bddf955330e6ad40deaec5200e46",
     "docs/content-templates/downloads/content-brief-kalvenor-sample.csv": "5cd7a75d310eca20d8314b0e58d31300e25a25a7878949e48b80af596514b7ee",
     "docs/content-templates/downloads/content-brief-kalvenor-sample.txt": "2806de7d789b4658c2fa8be771cd939cbbda2b486058d8d70dc3a3b0a25e9250",
     "docs/content-templates/downloads/content-brief-template.csv": "e59820d1219b3c4e4a743df7b7d2520e05d2a965c836b41de2426ac7a9a8d5cc",
@@ -3144,7 +3144,7 @@
     "docs/llms.txt": "1da12b712ed5f0eb1667e487607a84b5b20bff78d10501baa4d764dc80dc9169",
     "docs/measurement-noise.md": "e4d3f18afb52fa69a736532fa3bf7e976f1791953750fe3810da71923f486001",
     "docs/media-kit.md": "44d0917cbdd2d8e8a102b5809c38da67a0a8b3027777dd44083eed6c4941fc69",
-    "docs/model-releases.md": "be5fd342a61ae681f34e1b4e1d1b53b73f4c8282db40deaba34e5cf36a45f839",
+    "docs/model-releases.md": "5cb3c9979209309b90cc977205ea9163a19ec37ef4179f73a3c4a1c9baad7851",
     "docs/named-zero-times.md": "954690786c5f1e7b1eb64560f0ebae14faf5ac7ea3cb58769e8ff079fd412ff3",
     "docs/operating-framework.md": "254e4a0239e0fcd775caa360c6f6bed3df4ba74418a8f1fb4ea36a21fcf193c6",
     "docs/overview-trigger-rate.md": "bb063b19cfb07afc593521867e857cdebda3988f97cb33e2b446963407989685",
@@ -5844,15 +5844,15 @@
       "before_sha256": null
     },
     "docs/cite.md": {
-      "after_sha256": "9a4ee14cbb2446a31af4b24f4ec606a31fb326e29195371797cfa2569744eaab",
+      "after_sha256": "a64aa8ebb585918f13f3d2a4570666bd527aae4d863c0df483896105fbd866ab",
       "before_sha256": null
     },
     "docs/content-templates/content-brief.md": {
-      "after_sha256": "e427b3e6797cc46bd6eb2a50af156695e8fb5bc5f98a1242b00d7405b5145e7c",
+      "after_sha256": "c47730c290b57be9179a33f53773e8db3f321d2ee36bf95ba95ae467c2bb9a7b",
       "before_sha256": null
     },
     "docs/content-templates/content-strategy.md": {
-      "after_sha256": "b98a577ca2f4ded5d853cd303020ed8585a5b61b1521aa09a12840ccedfe8d93",
+      "after_sha256": "15bb216c174ea4c2a3d6433c3125744b25e9bddf955330e6ad40deaec5200e46",
       "before_sha256": null
     },
     "docs/content-templates/downloads/content-brief-kalvenor-sample.csv": {
@@ -5916,7 +5916,7 @@
       "before_sha256": null
     },
     "docs/model-releases.md": {
-      "after_sha256": "be5fd342a61ae681f34e1b4e1d1b53b73f4c8282db40deaba34e5cf36a45f839",
+      "after_sha256": "5cb3c9979209309b90cc977205ea9163a19ec37ef4179f73a3c4a1c9baad7851",
       "before_sha256": null
     },
     "docs/operating-framework.md": {

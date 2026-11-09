@@ -23,11 +23,11 @@ The September 2026 release covers 14 B2B software categories and 286 checked ven
 
 **APA (7th edition)**
 
-Broadcastwell. (2026). *The Absence Index: September 2026 Release* (Version 2026-09) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22907695
+Broadcastwell. (2026). *The Absence Index: September 2026 Release* (Version 2026-09) [Data set]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.22907695
 
 **Chicago (author-date)**
 
-Broadcastwell. 2026. "The Absence Index: September 2026 Release." Version 2026-09. Zenodo, September 23, 2026. https://doi.org/10.5281/zenodo.22907695
+Broadcastwell. 2026. "The Absence Index: September 2026 Release." Version 2026-09. Zenodo, September 23, 2026. https://doi.org/<wbr>10.5281/zenodo.22907695
 
 **BibTeX**
 
@@ -65,15 +65,15 @@ Volume III measured cross-engine divergence on 280 buyer questions put to engine
 
 **APA (7th edition)**
 
-Broadcastwell. (2026). *The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence* (Version 3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21789120
+Broadcastwell. (2026). *The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence* (Version 3.0) [Data set]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.21789120
 
-Broadcastwell. (2026). *The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence* [Working paper]. SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7234418
+Broadcastwell. (2026). *The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence* [Working paper]. SSRN. https://papers.ssrn.com/<wbr>sol3/papers.cfm?abstract_id=7234418
 
 **Chicago (author-date)**
 
-Broadcastwell. 2026. "The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence." Version 3.0. Zenodo, August 4, 2026. https://doi.org/10.5281/zenodo.21789120
+Broadcastwell. 2026. "The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence." Version 3.0. Zenodo, August 4, 2026. https://doi.org/<wbr>10.5281/zenodo.21789120
 
-Broadcastwell. 2026. "The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence." SSRN, August 10, 2026. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7234418
+Broadcastwell. 2026. "The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence." SSRN, August 10, 2026. https://papers.ssrn.com/<wbr>sol3/papers.cfm?abstract_id=7234418
 
 **BibTeX**
 
@@ -134,7 +134,7 @@ ER  -
 | The 2026 State of Generative Engine Optimization, Volume I | 24 July 2026 | DOI [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | The 2026 State of Generative Engine Optimization, Volume II: The Absence Ladder | 26 July 2026 | DOI [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence | 4 August 2026 | DOI [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
-| The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence | 10 August 2026 | SSRN abstract [7234418](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7234418) |
+| The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence | 10 August 2026 | SSRN abstract [7234418](https://papers.ssrn.com/<wbr>sol3/papers.cfm?abstract_id=7234418) |
 | The 2026 State of Generative Engine Optimization | 31 July 2026 | DOI [10.6084/m9.figshare.33134942](https://doi.org/10.6084/m9.figshare.33134942) |
 | The Shortlist Gap: which of 286 software vendors AI engines name when buyers ask, across 14 categories and five engines | 26 September 2026 | DOI [10.5281/zenodo.22982426](https://doi.org/10.5281/zenodo.22982426) |
 | What AI search visibility costs in 2026: prices, guarantees and checkout paths of 123 sellers | 26 September 2026 | DOI [10.5281/zenodo.22982430](https://doi.org/10.5281/zenodo.22982430) |
@@ -157,67 +157,67 @@ The BibTeX and RIS for each of these are in the two download files.
 
 ### Absence Index
 
-- APA: Broadcastwell. (2026). *The Absence Index: August 2026 Release* (Version 2026-08.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22721962
-- Chicago: Broadcastwell. 2026. "The Absence Index: August 2026 Release." Version 2026-08.1. Zenodo, September 12, 2026. https://doi.org/10.5281/zenodo.22721962
+- APA: Broadcastwell. (2026). *The Absence Index: August 2026 Release* (Version 2026-08.1) [Data set]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.22721962
+- Chicago: Broadcastwell. 2026. "The Absence Index: August 2026 Release." Version 2026-08.1. Zenodo, September 12, 2026. https://doi.org/<wbr>10.5281/zenodo.22721962
 
 ### State of GEO
 
-- APA: Broadcastwell. (2026). *The 2026 State of Generative Engine Optimization, Volume I* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21537014
-- Chicago: Broadcastwell. 2026. "The 2026 State of Generative Engine Optimization, Volume I." Version 1.0. Zenodo, July 24, 2026. https://doi.org/10.5281/zenodo.21537014
+- APA: Broadcastwell. (2026). *The 2026 State of Generative Engine Optimization, Volume I* (Version 1.0) [Data set]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.21537014
+- Chicago: Broadcastwell. 2026. "The 2026 State of Generative Engine Optimization, Volume I." Version 1.0. Zenodo, July 24, 2026. https://doi.org/<wbr>10.5281/zenodo.21537014
 
-- APA: Broadcastwell. (2026). *The 2026 State of Generative Engine Optimization, Volume II: The Absence Ladder* (Version 2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21586091
-- Chicago: Broadcastwell. 2026. "The 2026 State of Generative Engine Optimization, Volume II: The Absence Ladder." Version 2.0. Zenodo, July 26, 2026. https://doi.org/10.5281/zenodo.21586091
+- APA: Broadcastwell. (2026). *The 2026 State of Generative Engine Optimization, Volume II: The Absence Ladder* (Version 2.0) [Data set]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.21586091
+- Chicago: Broadcastwell. 2026. "The 2026 State of Generative Engine Optimization, Volume II: The Absence Ladder." Version 2.0. Zenodo, July 26, 2026. https://doi.org/<wbr>10.5281/zenodo.21586091
 
-- APA: Sivakumar, S. (2026). *The 2026 State of Generative Engine Optimization* [Data set]. figshare. https://doi.org/10.6084/m9.figshare.33134942
-- Chicago: Sivakumar, Sairam. 2026. "The 2026 State of Generative Engine Optimization." figshare, July 31, 2026. https://doi.org/10.6084/m9.figshare.33134942
+- APA: Sivakumar, S. (2026). *The 2026 State of Generative Engine Optimization* [Data set]. figshare. https://doi.org/<wbr>10.6084/m9.figshare.33134942
+- Chicago: Sivakumar, Sairam. 2026. "The 2026 State of Generative Engine Optimization." figshare, July 31, 2026. https://doi.org/<wbr>10.6084/m9.figshare.33134942
 
 ### Studies and reports
 
-- APA: Broadcastwell Research. (2026). *The Shortlist Gap: which of 286 software vendors AI engines name when buyers ask, across 14 categories and five engines* (Version 1.0) [Report]. Zenodo. https://doi.org/10.5281/zenodo.22982426
-- Chicago: Broadcastwell Research. 2026. "The Shortlist Gap: which of 286 software vendors AI engines name when buyers ask, across 14 categories and five engines." Version 1.0. Zenodo, September 26, 2026. https://doi.org/10.5281/zenodo.22982426
+- APA: Broadcastwell Research. (2026). *The Shortlist Gap: which of 286 software vendors AI engines name when buyers ask, across 14 categories and five engines* (Version 1.0) [Report]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.22982426
+- Chicago: Broadcastwell Research. 2026. "The Shortlist Gap: which of 286 software vendors AI engines name when buyers ask, across 14 categories and five engines." Version 1.0. Zenodo, September 26, 2026. https://doi.org/<wbr>10.5281/zenodo.22982426
 
-- APA: Broadcastwell Research. (2026). *What AI search visibility costs in 2026: prices, guarantees and checkout paths of 123 sellers* (Version 1.0) [Report]. Zenodo. https://doi.org/10.5281/zenodo.22982430
-- Chicago: Broadcastwell Research. 2026. "What AI search visibility costs in 2026: prices, guarantees and checkout paths of 123 sellers." Version 1.0. Zenodo, September 26, 2026. https://doi.org/10.5281/zenodo.22982430
+- APA: Broadcastwell Research. (2026). *What AI search visibility costs in 2026: prices, guarantees and checkout paths of 123 sellers* (Version 1.0) [Report]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.22982430
+- Chicago: Broadcastwell Research. 2026. "What AI search visibility costs in 2026: prices, guarantees and checkout paths of 123 sellers." Version 1.0. Zenodo, September 26, 2026. https://doi.org/<wbr>10.5281/zenodo.22982430
 
-- APA: Broadcastwell Research. (2026). *Run-to-run noise in AI search answers: three runs of 140 buyer questions on five engines* (Version 1.0) [Report]. Zenodo. https://doi.org/10.5281/zenodo.22982432
-- Chicago: Broadcastwell Research. 2026. "Run-to-run noise in AI search answers: three runs of 140 buyer questions on five engines." Version 1.0. Zenodo, September 26, 2026. https://doi.org/10.5281/zenodo.22982432
+- APA: Broadcastwell Research. (2026). *Run-to-run noise in AI search answers: three runs of 140 buyer questions on five engines* (Version 1.0) [Report]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.22982432
+- Chicago: Broadcastwell Research. 2026. "Run-to-run noise in AI search answers: three runs of 140 buyer questions on five engines." Version 1.0. Zenodo, September 26, 2026. https://doi.org/<wbr>10.5281/zenodo.22982432
 
-- APA: Broadcastwell. (2026). *The Agent Gap: can an AI buying agent find, price and reach B2B software? 70 vendors, 3 tasks, one agent, October 2026* (Version 1.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23197560
-- Chicago: Broadcastwell. 2026. "The Agent Gap: can an AI buying agent find, price and reach B2B software? 70 vendors, 3 tasks, one agent, October 2026." Version 1.0.1. Zenodo, October 6, 2026. https://doi.org/10.5281/zenodo.23197560
+- APA: Broadcastwell. (2026). *The Agent Gap: can an AI buying agent find, price and reach B2B software? 70 vendors, 3 tasks, one agent, October 2026* (Version 1.0.1) [Data set]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.23197560
+- Chicago: Broadcastwell. 2026. "The Agent Gap: can an AI buying agent find, price and reach B2B software? 70 vendors, 3 tasks, one agent, October 2026." Version 1.0.1. Zenodo, October 6, 2026. https://doi.org/<wbr>10.5281/zenodo.23197560
 
-- APA: Broadcastwell. (2026). *Head to Head: who the engines pick when a buyer asks A or B. October 2026* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23202939
-- Chicago: Broadcastwell. 2026. "Head to Head: who the engines pick when a buyer asks A or B. October 2026." Version 1.0. Zenodo, October 7, 2026. https://doi.org/10.5281/zenodo.23202939
+- APA: Broadcastwell. (2026). *Head to Head: who the engines pick when a buyer asks A or B. October 2026* (Version 1.0) [Data set]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.23202939
+- Chicago: Broadcastwell. 2026. "Head to Head: who the engines pick when a buyer asks A or B. October 2026." Version 1.0. Zenodo, October 7, 2026. https://doi.org/<wbr>10.5281/zenodo.23202939
 
-- APA: Broadcastwell. (2026). *Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages. October 2026* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23270124
-- Chicago: Broadcastwell. 2026. "Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages. October 2026." Version 1.0. Zenodo, October 9, 2026. https://doi.org/10.5281/zenodo.23270124
+- APA: Broadcastwell. (2026). *Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages. October 2026* (Version 1.0) [Data set]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.23270124
+- Chicago: Broadcastwell. 2026. "Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages. October 2026." Version 1.0. Zenodo, October 9, 2026. https://doi.org/<wbr>10.5281/zenodo.23270124
 
-- APA: Broadcastwell. (2026). *The AI Written RFP: what five engines tell buyers to require in fourteen software categories* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23271935
-- Chicago: Broadcastwell. 2026. "The AI Written RFP: what five engines tell buyers to require in fourteen software categories." Version 1.0. Zenodo, October 10, 2026. https://doi.org/10.5281/zenodo.23271935
+- APA: Broadcastwell. (2026). *The AI Written RFP: what five engines tell buyers to require in fourteen software categories* (Version 1.0) [Computer software]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.23271935
+- Chicago: Broadcastwell. 2026. "The AI Written RFP: what five engines tell buyers to require in fourteen software categories." Version 1.0. Zenodo, October 10, 2026. https://doi.org/<wbr>10.5281/zenodo.23271935
 
-- APA: Broadcastwell. (2026). *What AI engines tell site owners about PHP2Shell* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23586713
-- Chicago: Broadcastwell. 2026. "What AI engines tell site owners about PHP2Shell." Version 1.0. Zenodo, October 23, 2026. https://doi.org/10.5281/zenodo.23586713
+- APA: Broadcastwell. (2026). *What AI engines tell site owners about PHP2Shell* (Version 1.0) [Data set]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.23586713
+- Chicago: Broadcastwell. 2026. "What AI engines tell site owners about PHP2Shell." Version 1.0. Zenodo, October 23, 2026. https://doi.org/<wbr>10.5281/zenodo.23586713
 
-- APA: Sivakumar, S., Rao, A., Patel, V., & Nair, P. (2026). *AI search visibility: source evidence and two registered analyses* (Version 1.0.0) [Report]. Zenodo. https://doi.org/10.5281/zenodo.23804758
-- Chicago: Sivakumar, Sairam, Ananya Rao, Vikram Patel, and Priya Nair. 2026. "AI search visibility: source evidence and two registered analyses." Version 1.0.0. Zenodo, November 2, 2026. https://doi.org/10.5281/zenodo.23804758
+- APA: Sivakumar, S., Rao, A., Patel, V., & Nair, P. (2026). *AI search visibility: source evidence and two registered analyses* (Version 1.0.0) [Report]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.23804758
+- Chicago: Sivakumar, Sairam, Ananya Rao, Vikram Patel, and Priya Nair. 2026. "AI search visibility: source evidence and two registered analyses." Version 1.0.0. Zenodo, November 2, 2026. https://doi.org/<wbr>10.5281/zenodo.23804758
 
 ### Standards
 
-- APA: Broadcastwell LLC. (2026). *AI Source Standard v1* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23225776
-- Chicago: Broadcastwell LLC. 2026. "AI Source Standard v1." Version 1.0. Zenodo, October 8, 2026. https://doi.org/10.5281/zenodo.23225776
+- APA: Broadcastwell LLC. (2026). *AI Source Standard v1* (Version 1.0) [Computer software]. Zenodo. https://doi.org/<wbr>10.5281/zenodo.23225776
+- Chicago: Broadcastwell LLC. 2026. "AI Source Standard v1." Version 1.0. Zenodo, October 8, 2026. https://doi.org/<wbr>10.5281/zenodo.23225776
 
 ### Registrations
 
-- APA: Broadcastwell. (2026). *Do AI engines cite optimized pages?* [Preregistration]. OSF. https://doi.org/10.17605/OSF.IO/DVYFU
-- Chicago: Broadcastwell. 2026. "Do AI engines cite optimized pages?" OSF, October 30, 2026. https://doi.org/10.17605/OSF.IO/DVYFU
+- APA: Broadcastwell. (2026). *Do AI engines cite optimized pages?* [Preregistration]. OSF. https://doi.org/<wbr>10.17605/OSF.IO/DVYFU
+- Chicago: Broadcastwell. 2026. "Do AI engines cite optimized pages?" OSF, October 30, 2026. https://doi.org/<wbr>10.17605/OSF.IO/DVYFU
 
-- APA: Broadcastwell. (2026). *Does absence persist from one release to the next?* [Preregistration]. OSF. https://doi.org/10.17605/OSF.IO/MKJ9V
-- Chicago: Broadcastwell. 2026. "Does absence persist from one release to the next?" OSF, October 30, 2026. https://doi.org/10.17605/OSF.IO/MKJ9V
+- APA: Broadcastwell. (2026). *Does absence persist from one release to the next?* [Preregistration]. OSF. https://doi.org/<wbr>10.17605/OSF.IO/MKJ9V
+- Chicago: Broadcastwell. 2026. "Does absence persist from one release to the next?" OSF, October 30, 2026. https://doi.org/<wbr>10.17605/OSF.IO/MKJ9V
 
-- APA: Broadcastwell. (2026). *Who do AI engines cite for B2B software questions?* [Preregistration]. OSF. https://doi.org/10.17605/OSF.IO/VCZKT
-- Chicago: Broadcastwell. 2026. "Who do AI engines cite for B2B software questions?" OSF, October 30, 2026. https://doi.org/10.17605/OSF.IO/VCZKT
+- APA: Broadcastwell. (2026). *Who do AI engines cite for B2B software questions?* [Preregistration]. OSF. https://doi.org/<wbr>10.17605/OSF.IO/VCZKT
+- Chicago: Broadcastwell. 2026. "Who do AI engines cite for B2B software questions?" OSF, October 30, 2026. https://doi.org/<wbr>10.17605/OSF.IO/VCZKT
 
-- APA: Broadcastwell research team. (2026). *Evidence, editorial refresh and citation of answer pages* [Preregistration]. OSF. https://doi.org/10.17605/OSF.IO/DMFPJ
-- Chicago: Broadcastwell research team. 2026. "Evidence, editorial refresh and citation of answer pages." OSF, November 3, 2026. https://doi.org/10.17605/OSF.IO/DMFPJ
+- APA: Broadcastwell research team. (2026). *Evidence, editorial refresh and citation of answer pages* [Preregistration]. OSF. https://doi.org/<wbr>10.17605/OSF.IO/DMFPJ
+- Chicago: Broadcastwell research team. 2026. "Evidence, editorial refresh and citation of answer pages." OSF, November 3, 2026. https://doi.org/<wbr>10.17605/OSF.IO/DMFPJ
 
 
 ## Which details to follow
