@@ -1,0 +1,19 @@
+sample,field,value
+"SAMPLE DATA, fictional",Brief date,"13 July 2026, the day the fictional findings were delivered"
+"SAMPLE DATA, fictional",Buyer question,How does field service management software differ from general work order software?
+"SAMPLE DATA, fictional","Category, in the buyer's words",field service management software
+"SAMPLE DATA, fictional",Evidence today,"Kalvenor Systems named in 0 of 15 valid answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, captured 8 to 12 July 2026"
+"SAMPLE DATA, fictional",Named instead,Northvale FSM 11 of 15; Asterforge 9 of 15; Cindermark 9 of 15
+"SAMPLE DATA, fictional",Sources the answers cite,"hvacoperations.example, cited in answers to this question"
+"SAMPLE DATA, fictional",Page to build or change,https://kalvenor.example/resources/fsm-vs-work-orders (new page)
+"SAMPLE DATA, fictional",Answer in the first 60 words,"Field service management software schedules, dispatches and tracks technicians in the field; work order software records jobs. Kalvenor Systems does both, with offline mobile work."
+"SAMPLE DATA, fictional",Facts the page must state,"Offline mobile work: https://kalvenor.example/platform/mobile-offline, approved by the product marketing lead"
+"SAMPLE DATA, fictional",Claims the page must not make,No ranking claim; no customer result; no feature not on an approved page
+"SAMPLE DATA, fictional",Sources to cite on the page,https://kalvenor.example/platform/dispatch; https://kalvenor.example/pricing
+"SAMPLE DATA, fictional",Internal links,From /platform/dispatch and /pricing; to /platform/mobile-offline
+"SAMPLE DATA, fictional",Structured data,Article and BreadcrumbList
+"SAMPLE DATA, fictional",Owner,Content lead (sample)
+"SAMPLE DATA, fictional",Approver,Product marketing lead (sample)
+"SAMPLE DATA, fictional",Due date,Agreed with the approver; not part of the published sample
+"SAMPLE DATA, fictional",Re-check,"Same question on the same five engines, three runs each, at the next scheduled check"
+"SAMPLE DATA, fictional",Outside source action,"Ask hvacoperations.example to list Kalvenor Systems on https://hvacoperations.example/core/5 with a current description, checked and dated"

@@ -1,0 +1,19 @@
+sample,field,value
+"SAMPLE DATA, fictional",Period,From the 8 to 12 July 2026 baseline to the monthly run of 12 August 2026
+"SAMPLE DATA, fictional","Category, in the buyer's words",field service management software
+"SAMPLE DATA, fictional",Question set,"35 brand-free questions: 10 shortlist, 10 buyer-role, 10 use-case and 5 evaluation/pricing"
+"SAMPLE DATA, fictional",Engines,"ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode"
+"SAMPLE DATA, fictional",Baseline,Observed 8 to 12 July 2026; 3 scheduled runs; 518 scored answers; 7 excluded
+"SAMPLE DATA, fictional",Named today,"Kalvenor Systems named in 125 of 518 answers, 24.1%, 95% interval 20.6 to 28.0"
+"SAMPLE DATA, fictional",Questions with an appearance,21 of 35
+"SAMPLE DATA, fictional",Most named rival,"Northvale FSM, 329 of 518 answers, 63.5%, 95% interval 59.3 to 67.5"
+"SAMPLE DATA, fictional",Own pages cited,"66 of 518 answers, 12.7%, 95% interval 10.1 to 15.9"
+"SAMPLE DATA, fictional",Sources cited most,hvacoperations.example 105 of 518; servicetechforum.example 99 of 518; veranofsm.example 97 of 518
+"SAMPLE DATA, fictional",Priority 1,"Q18 procurement checklist: answer it on a public page with contract terms and data export detail; Content lead (sample); approved, since 16 July 2026"
+"SAMPLE DATA, fictional",Priority 2,"Q2, Q6 and Q7: add recurring maintenance contract detail to the dispatch page and submit it to the buyers guide the engines cited; Product marketing (sample); measured again, since 12 August 2026"
+"SAMPLE DATA, fictional",Priority 3,"Q12 margin reporting: pitch a job level case note to the operations publication the engines cited; PR lead (sample); sent, since 22 July 2026"
+"SAMPLE DATA, fictional",Measurement plan,Monthly run on the same questions and engines; a change is shown only where the two 95% intervals separate
+"SAMPLE DATA, fictional",Latest change,"ChatGPT: 0 of 10 answers in the monthly run of 12 August 2026, against 15 of 29 in the baseline run of 12 July 2026"
+"SAMPLE DATA, fictional",Provider releases between captures,Recorded under the published annotation rules; never used as the explanation
+"SAMPLE DATA, fictional",Limits,"Why an engine chose a source, what a buyer did after reading an answer, and any count after these dates"
+"SAMPLE DATA, fictional",Approvals,Client approval in writing before any result is published; not applicable to this fictional sample
