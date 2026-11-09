@@ -1,0 +1,24 @@
+# Content brief template
+
+One brief per buyer question. Every number carries its base and capture date; every fact carries its source and approver.
+
+| Field | What to enter | Value |
+| --- | --- | --- |
+| Brief date | The date the brief was agreed. |  |
+| Buyer question | The exact wording, frozen before capture. |  |
+| Category, in the buyer's words | How the buyer names the category. |  |
+| Evidence today | Named count with its base, the engines and the capture dates. |  |
+| Named instead | Rivals named in the same answers, each with its count and base. |  |
+| Sources the answers cite | Pages the engines cited for this question. |  |
+| Page to build or change | The URL on your own site, or the outside page to correct. |  |
+| Answer in the first 60 words | The direct answer the page opens with. |  |
+| Facts the page must state | Each fact with its source and its approver. |  |
+| Claims the page must not make | Anything the approved facts do not support. |  |
+| Sources to cite on the page | Public sources a reader can check. |  |
+| Internal links | Pages that link to this one, and pages it links to. |  |
+| Structured data | The schema.org types the page carries. |  |
+| Owner | The person who writes the page. |  |
+| Approver | The person who checks every fact before publication. |  |
+| Due date | The date the page goes live. |  |
+| Re-check | The same question, engines and method version, and the date. |  |
+| Outside source action | A correction or listing request to a page the engines cite. |  |

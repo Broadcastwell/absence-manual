@@ -1,0 +1,24 @@
+# Content brief template: fictional Kalvenor sample
+
+Fictional sample. SAMPLE DATA. Kalvenor Systems is a fictional company, not a client.
+
+| Field | Value |
+| --- | --- |
+| Brief date | 13 July 2026, the day the fictional findings were delivered |
+| Buyer question | How does field service management software differ from general work order software? |
+| Category, in the buyer's words | field service management software |
+| Evidence today | Kalvenor Systems named in 0 of 15 valid answers on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, captured 8 to 12 July 2026 |
+| Named instead | Northvale FSM 11 of 15; Asterforge 9 of 15; Cindermark 9 of 15 |
+| Sources the answers cite | hvacoperations.example, cited in answers to this question |
+| Page to build or change | https://kalvenor.example/resources/fsm-vs-work-orders (new page) |
+| Answer in the first 60 words | Field service management software schedules, dispatches and tracks technicians in the field; work order software records jobs. Kalvenor Systems does both, with offline mobile work. |
+| Facts the page must state | Offline mobile work: https://kalvenor.example/platform/mobile-offline, approved by the product marketing lead |
+| Claims the page must not make | No ranking claim; no customer result; no feature not on an approved page |
+| Sources to cite on the page | https://kalvenor.example/platform/dispatch; https://kalvenor.example/pricing |
+| Internal links | From /platform/dispatch and /pricing; to /platform/mobile-offline |
+| Structured data | Article and BreadcrumbList |
+| Owner | Content lead (sample) |
+| Approver | Product marketing lead (sample) |
+| Due date | Agreed with the approver; not part of the published sample |
+| Re-check | Same question on the same five engines, three runs each, at the next scheduled check |
+| Outside source action | Ask hvacoperations.example to list Kalvenor Systems on https://hvacoperations.example/core/5 with a current description, checked and dated |
