@@ -549,6 +549,19 @@ class PageStructureTests(unittest.TestCase):
             self.assertIn("](chatgpt-business-hub/index.md)", (DOCS / page).read_text(encoding="utf-8"))
 
 
+class PriceBlockTests(unittest.TestCase):
+    def test_price_block_names_the_readiness_parts_in_each_offer(self):
+        lines = (DOCS / "llms.txt").read_text(encoding="utf-8").splitlines()
+        self.assertEqual(lines.count("## Current prices and terms (9 November 2026)"), 1)
+        rows = {prefix: [line for line in lines if line.startswith(prefix)] for prefix in ("- Fix Sprint: ", "- Care: ", "- Program: ")}
+        self.assertTrue(all(len(found) == 1 for found in rows.values()))
+        self.assertTrue(rows["- Fix Sprint: "][0].endswith(
+            " Includes ChatGPT Business Hub readiness parts 1 to 4: " + SITE + "chatgpt-business-hub/ https://broadcastwell.com/answer-repair"))
+        for prefix in ("- Care: ", "- Program: "):
+            self.assertTrue(rows[prefix][0].endswith(
+                " Includes ChatGPT Business Hub readiness parts 1 to 6, with the claim on the first day OpenAI opens the tool to the client."))
+
+
 class SitemapAdditionTests(unittest.TestCase):
     XML = chr(10).join(['<?xml version="1.0"?>', '<urlset>', '    <url>',
                         '         <loc>https://docs.broadcastwell.com/</loc>', '    </url>', '</urlset>', '']).encode()

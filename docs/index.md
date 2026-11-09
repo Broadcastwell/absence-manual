@@ -133,7 +133,7 @@ We turn the Absence Index into buyer answers we build, maintain and warrant on y
 
 **One live buyer question, $19 once.** One buyer question of your choosing: five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three repeats and 15 planned answers with receipts, delivered within 24 hours of payment. $19 once, credited in full against Answer Repair within 30 days of payment for the same account, so the repair then costs $471. If we do not deliver within 24 hours of payment, we refund the $19 in full.
 
-**Care, $490 a month.** Only after setup. Integrity monitoring for up to 150 already-approved existing pages and two human hours a month. No new pages. Requires an explicit purchase, with no automatic enrolment.
+**Care, $490 a month.** Only after setup. Integrity monitoring for up to 150 already-approved existing pages and two human hours a month. No new pages. Requires an explicit purchase, with no automatic enrollment.
 
 **Program, $5,500 a month.** Twelve pages or rewrites and 8 channel posts a month across Substack, WordPress, Medium, LinkedIn, YouTube and directories. Includes a quarterly research study written by our researchers and up to 150 pages under management. You own the domain, content and exports.
 
