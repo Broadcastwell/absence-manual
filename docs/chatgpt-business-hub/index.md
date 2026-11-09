@@ -113,19 +113,21 @@ Write down the questions buyers ask and the answers you approve, each with its s
 5. Launch-day claim: we watch for availability and claim your business on the day OpenAI opens the tool to it.
 6. Reconciliation report: Hub counts beside our receipts, every month.
 
+On 9 November 2026 we checked the 40 companies in our competitor review; 0 of them published a readiness program for this tool.
+
 Parts 1 to 4 are included in the [Fix Sprint](https://broadcastwell.com/fix-sprint) ($3,900 once). Parts 1 to 6 are included in Care ($490 a month) and Program ($5,500 a month), both described on our [pricing page](https://broadcastwell.com/pricing). Readiness is part of those offers rather than a separate purchase.
 
 <a id="clients"></a>
-Our current clients Vantaa Tax, Neurvalis and Valren Atelier are enrolled in this program; their readiness work is prepared, and we claim each of them on the first day OpenAI opens the tool to them.
+Our current clients Vantaa Tax, Neurvalis and Valren Atelier are enrolled in this program; their readiness work is under way, and we claim each of them on the first day OpenAI opens the tool to them.
 
-| Part (status on 9 November 2026) | Vantaa Tax | Neurvalis | Valren Atelier |
+| Part (status as of 9 November 2026) | Vantaa Tax | Neurvalis | Valren Atelier |
 | --- | --- | --- | --- |
-| 1. Ownership verification readiness | Pending | Pending | Pending |
-| 2. Business information pack | Pending | Pending | Pending |
-| 3. Business-agent context pack | Prepared | Prepared | Prepared |
-| 4. Mention and click baseline | Prepared | Prepared | Prepared |
-| 5. Launch-day claim | Pending | Pending | Pending |
-| 6. Reconciliation report | Pending | Pending | Pending |
+| 1. Ownership verification readiness | Pending (needs a live domain) | Pending (needs a live domain) | Pending (needs a live domain) |
+| 2. Business information pack | Pending (needs the client's live site and facts) | Pending (needs the client's live site and facts) | Pending (needs the client's live site and facts) |
+| 3. Business-agent context pack | Prepared, 9 November 2026 | Prepared, 9 November 2026 | Prepared, 9 November 2026 |
+| 4. Mention and click baseline | Prepared, 9 November 2026 | Prepared, 9 November 2026 | Prepared, 9 November 2026 |
+| 5. Launch-day claim | Pending (starts when OpenAI opens the tool) | Pending (starts when OpenAI opens the tool) | Pending (starts when OpenAI opens the tool) |
+| 6. Reconciliation report | Pending (starts when OpenAI opens the tool) | Pending (starts when OpenAI opens the tool) | Pending (starts when OpenAI opens the tool) |
 
 ## Why measure prompts too
 

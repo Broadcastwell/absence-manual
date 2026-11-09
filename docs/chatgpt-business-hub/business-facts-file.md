@@ -92,10 +92,12 @@ Our file states only facts printed on our public pages: our legal name, address 
   "domain": "broadcastwell.com",
   "same_as": [
     "https://www.linkedin.com/company/broadcastwell",
-    "https://github.com/Broadcastwell",
+    "https://x.com/broadcastwellhq",
     "https://broadcastwell.substack.com/",
     "https://www.youtube.com/@Broadcastwell",
-    "https://www.instagram.com/broadcastwell/"
+    "https://www.instagram.com/broadcastwell/",
+    "https://www.tiktok.com/@broadcastwell.com",
+    "https://github.com/Broadcastwell"
   ],
   "address": {
     "street_address": "517 E Kirkwood Ave",
