@@ -1,0 +1,34 @@
+sample,company,month,record,engine,measure,value,base,unit,source,reason_code,note
+SAMPLE DATA,Kalvenor (fictional),2026-10,Hub,ChatGPT,impressions,1240,,appearances in ChatGPT answers,SAMPLE DATA: illustrative Hub export,,Illustrative fictional number. Not a measurement.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Hub,ChatGPT,clicks,37,,clicks to kalvenor.example,SAMPLE DATA: illustrative Hub export,,Illustrative fictional number. Not a measurement.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,ChatGPT,planned_answers,30,,answers,SAMPLE DATA: receipt set KAL-2026-10,,10 buyer questions x 3 scheduled runs.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,ChatGPT,valid_answers,29,30,answers,SAMPLE DATA: receipt set KAL-2026-10,,1 excluded: answer did not search the live web.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,ChatGPT,named,9,29,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,ChatGPT,cited,4,29,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,ChatGPT,named_instead: Rival A (fictional),17,29,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Claude,planned_answers,30,,answers,SAMPLE DATA: receipt set KAL-2026-10,,10 buyer questions x 3 scheduled runs.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Claude,valid_answers,30,30,answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Claude,named,7,30,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Claude,cited,3,30,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Claude,named_instead: Rival A (fictional),15,30,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Perplexity,planned_answers,30,,answers,SAMPLE DATA: receipt set KAL-2026-10,,10 buyer questions x 3 scheduled runs.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Perplexity,valid_answers,30,30,answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Perplexity,named,11,30,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Perplexity,cited,6,30,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Perplexity,named_instead: Rival A (fictional),14,30,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Google AI Overviews,planned_answers,30,,answers,SAMPLE DATA: receipt set KAL-2026-10,,10 buyer questions x 3 scheduled runs.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Google AI Overviews,valid_answers,26,30,answers,SAMPLE DATA: receipt set KAL-2026-10,,4 excluded: no AI Overview was returned.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Google AI Overviews,named,5,26,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Google AI Overviews,cited,3,26,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Google AI Overviews,named_instead: Rival A (fictional),12,26,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Google AI Mode,planned_answers,30,,answers,SAMPLE DATA: receipt set KAL-2026-10,,10 buyer questions x 3 scheduled runs.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Google AI Mode,valid_answers,30,30,answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Google AI Mode,named,8,30,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Google AI Mode,cited,5,30,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Receipts,Google AI Mode,named_instead: Rival A (fictional),16,30,valid answers,SAMPLE DATA: receipt set KAL-2026-10,,
+SAMPLE DATA,Kalvenor (fictional),2026-10,Reconciliation,ChatGPT,impressions beside named,,,,,SCOPE,The Hub counts every ChatGPT conversation that showed the business; the receipts count 10 fixed buyer questions. No rate is formed from the Hub count.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Reconciliation,ChatGPT,clicks beside cited,,,,,DEFINITION,A click is a visit to kalvenor.example; a citation is a listed source in an answer. Neither implies the other.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Reconciliation,ChatGPT,questions behind the count,,,,,NOT_SHOWN,The Hub shows no prompts; the receipts name each of the 10 questions.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Reconciliation,ChatGPT,named instead,,,,,NOT_SHOWN,The Hub shows no competitors; the receipts record Rival A (fictional) in 17 of 29 valid answers.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Reconciliation,ChatGPT,capture dates,,,,,TIMING,The Hub counts each day of October; the receipts come from scheduled runs on 2026-10-06; 2026-10-13 and 2026-10-20.
+SAMPLE DATA,Kalvenor (fictional),2026-10,Reconciliation,Claude; Perplexity; Google AI Overviews; Google AI Mode,coverage,,,,,ENGINE,The Hub covers ChatGPT; Claude; Perplexity; Google AI Overviews and Google AI Mode have receipts and no Hub counterpart.

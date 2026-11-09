@@ -1170,9 +1170,9 @@
     "answers/buying/79dev-com-geo-services-worth-it.md": {
       "url": "https://docs.broadcastwell.com/answers/buying/79dev-com-geo-services-worth-it/",
       "prior_title": "79dev.com GEO services worth it?",
-      "before_body_sha256": "b117013ec29f510a5ab23888f5170912eb2b13d9b50187e9ef50d19a6c413a5a",
+      "before_body_sha256": "1a607f2dd00f89525cea4c591e9b293fed8d150235eba3de85d5613640b8ec0a",
       "before_meta_sha256": "e3e22903a9f1ea7e1173b3aced9de72569ea4144116b934341043851132df363",
-      "after_body_sha256": "1f70b639a3ad0bbd5ccbacc9cb8e641af943eb68dcfe92ad04b6dbbf628681e7",
+      "after_body_sha256": "3418ffd854b4919fcf24aa8614f61157a0dd5664c27a2bfbc35d1276bff0303c",
       "meta": {
         "also_asked_as": [
           "79dev.com geo services worth it?"
@@ -1414,9 +1414,9 @@
     "answers/buying/how-does-seer-interactive-compare-to-other-geo-agencies-when-it-comes.md": {
       "url": "https://docs.broadcastwell.com/answers/buying/how-does-seer-interactive-compare-to-other-geo-agencies-when-it-comes/",
       "prior_title": "How does Seer Interactive compare to other GEO agencies when it comes to research, measurement capabilities, and proven client results?",
-      "before_body_sha256": "7f70c50b0b554dcb8eeb983805d6f3fb2c42341512a7654c4efc831a3f5c3c04",
+      "before_body_sha256": "29d32256f4b35b9b5827ab267b6da6e5e794e9fdbd3d9dfefb87d870cb245225",
       "before_meta_sha256": "029242da7950bf48ea2564ec6b41f69b3c6bbc93cc321129f1ff2a4983356b2b",
-      "after_body_sha256": "69662cdd7765e29e174ce8d0669b5ae7d8bbb31821bfcd54b587ef3ba7cce8c5",
+      "after_body_sha256": "691a6bab3a1712094ba236adc9aa1d8c6f1b265b15c242c4dc7141700ee37563",
       "meta": {
         "also_asked_as": [
           "How does Seer Interactive compare to other GEO agencies when it comes to research, measurement capabilities, and proven client results?"
@@ -2464,9 +2464,9 @@
     "answers/buying/which-geo-agencies-serve-new-companies.md": {
       "url": "https://docs.broadcastwell.com/answers/buying/which-geo-agencies-serve-new-companies/",
       "prior_title": "Which GEO agencies serve new companies?",
-      "before_body_sha256": "ba0896c0015143c1ca10113439fb2210c53ccaa0814006f5742a923f96dae9ad",
+      "before_body_sha256": "eb9a157880c0345cec3347c4b9f088703047b179e72fd6e010afac5df196b03c",
       "before_meta_sha256": "a547b0a000f898099aa8ef3f8102e9aee3c34575356448b0ac9c3f70676f23bb",
-      "after_body_sha256": "df0cfd4e7c5e4d53ea4171c9231f5fbadf444ee1ec3b64894b6b7782d4b1d376",
+      "after_body_sha256": "152db89cb0fb2630544a26d688b8f78edc5d918d93a3808f4f70bc84ad2f117f",
       "meta": {
         "also_asked_as": [
           "Which GEO agencies serve new companies?"
@@ -13032,9 +13032,9 @@
     "index.md": {
       "url": "https://docs.broadcastwell.com/",
       "prior_title": "How can you measure AI search visibility?",
-      "before_body_sha256": "5755e3f1b56f6d63c2b6f71eb6a5cc9f6a68840522cf6583a48cd78ab72f7234",
+      "before_body_sha256": "140ea2074121ce11070929907de30257b32fb5262560235ef1d92ca37483fdce",
       "before_meta_sha256": "9714709c759719159f3ed59ddef10b1acf59aa5fd7001084680ce6a2be08a681",
-      "after_body_sha256": "5755e3f1b56f6d63c2b6f71eb6a5cc9f6a68840522cf6583a48cd78ab72f7234",
+      "after_body_sha256": "140ea2074121ce11070929907de30257b32fb5262560235ef1d92ca37483fdce",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-08-18T00:00:00+00:00",
@@ -16835,9 +16835,9 @@
     "vendor-facts.md": {
       "url": "https://docs.broadcastwell.com/vendor-facts/",
       "prior_title": "Vendor Facts File v1",
-      "before_body_sha256": "1d0a41f859a6336f8c07ec15846300e27a7ee3096c84a607e24ef119e2717975",
+      "before_body_sha256": "04e2c396575c9807f512a112f6bdeb28ce19b738bd3381c8643c9024d126164b",
       "before_meta_sha256": "5315d4ef3a210766174980f66af97eed650dbb5984d9c76462027dddb0a9bc7e",
-      "after_body_sha256": "b1ad0fafaa1742eb0848c5f223ab4e2b2c1d350a0fc08c9e53a5f969878f95e5",
+      "after_body_sha256": "220e6268e44cf93300bb63f3ec01254a4012a12ac251cdf5c96f493a166b4d6b",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-06T00:00:00+00:00",
@@ -16916,9 +16916,9 @@
     "why-does-chatgpt-not-mention-us.md": {
       "url": "https://docs.broadcastwell.com/why-does-chatgpt-not-mention-us/",
       "prior_title": "Why does ChatGPT not mention us?",
-      "before_body_sha256": "d6103a9d75dd678d22319a43018692fbdcebc94370f05b7697c87293104a052c",
+      "before_body_sha256": "413c3534dbb81d612a7a3270daada6d7afdc14be6186fcb29e2d38f0da03f1d0",
       "before_meta_sha256": "ab610868771ecf9c294b3d668ccfe566155c6ef756fce87b758e4f0f4f431429",
-      "after_body_sha256": "d6103a9d75dd678d22319a43018692fbdcebc94370f05b7697c87293104a052c",
+      "after_body_sha256": "413c3534dbb81d612a7a3270daada6d7afdc14be6186fcb29e2d38f0da03f1d0",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-11T00:00:00+00:00",

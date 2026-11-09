@@ -1,0 +1,170 @@
+{
+  "context_pack_version": "1",
+  "business": "Broadcastwell LLC",
+  "domain": "broadcastwell.com",
+  "owner": "Broadcastwell team",
+  "facts_url": "https://docs.broadcastwell.com/business-facts.json",
+  "rules": "Every answer is taken from the public page in its source_url, as that page read on the reviewed date. An answer past its expires date is withheld until it is reviewed again.",
+  "facts": [
+    {
+      "fact": "Legal name: Broadcastwell LLC.",
+      "source_url": "https://broadcastwell.com/pricing"
+    },
+    {
+      "fact": "Address: 517 E Kirkwood Ave, Bloomington, IN 47408, United States.",
+      "source_url": "https://broadcastwell.com/pricing"
+    },
+    {
+      "fact": "Phone: (812) 345 7272. Email: hello@broadcastwell.com.",
+      "source_url": "https://broadcastwell.com/pricing"
+    },
+    {
+      "fact": "All prices on the pricing page are in US dollars.",
+      "source_url": "https://broadcastwell.com/pricing"
+    }
+  ],
+  "policies": [
+    {
+      "name": "Prices, delivery and refunds",
+      "url": "https://broadcastwell.com/pricing"
+    },
+    {
+      "name": "Terms",
+      "url": "https://broadcastwell.com/terms"
+    },
+    {
+      "name": "Security and data handling",
+      "url": "https://broadcastwell.com/security"
+    },
+    {
+      "name": "Privacy notice",
+      "url": "https://broadcastwell.com/privacy"
+    }
+  ],
+  "groups": {
+    "company": [
+      {
+        "id": "company-what-we-do",
+        "question": "What does Broadcastwell do?",
+        "answer": "We turn the Absence Index into buyer answers we build, maintain and warrant on your own site.",
+        "source_url": "https://broadcastwell.com/faq",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      },
+      {
+        "id": "company-engines",
+        "question": "Which AI engines do you measure?",
+        "answer": "ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Each receives identical question wording, and the two Google products are recorded separately.",
+        "source_url": "https://broadcastwell.com/methodology",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      }
+    ],
+    "pricing": [
+      {
+        "id": "pricing-answer-repair",
+        "question": "What does Answer Repair cost?",
+        "answer": "$490 once for one buyer question and one source-backed page or fix, delivered Live or as a Handoff that you choose before payment. It is due 48 elapsed hours after recorded Ready.",
+        "source_url": "https://broadcastwell.com/answer-repair",
+        "reviewed": "2026-11-09",
+        "expires": "2026-12-09"
+      },
+      {
+        "id": "pricing-live-question",
+        "question": "Can we check one buyer question before buying a repair?",
+        "answer": "Yes. A live question is $19 once: one buyer question of your choosing on five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three repeats and 15 planned answers with receipts, delivered within 24 hours of payment. It is credited in full against Answer Repair within 30 days of payment for the same account. If we do not deliver within 24 hours of payment, we refund it in full.",
+        "source_url": "https://broadcastwell.com/pricing",
+        "reviewed": "2026-11-09",
+        "expires": "2026-12-09"
+      },
+      {
+        "id": "pricing-fix-sprint",
+        "question": "What does the Fix Sprint cost?",
+        "answer": "$3,900, or $3,410 after the eligible $490 entry is credited once. It covers six contracted pages or rewrites over 30 days and one primary test agreed before payment, measured again at day 30: measured gain on that test, or the full amount back. You keep the work.",
+        "source_url": "https://broadcastwell.com/fix-sprint",
+        "reviewed": "2026-11-09",
+        "expires": "2026-12-09"
+      },
+      {
+        "id": "pricing-care-program",
+        "question": "What do Care and Program cost?",
+        "answer": "Care is $490 a month, only after setup: integrity monitoring for up to 150 already-approved existing pages and two human hours a month, with no new pages and no automatic enrollment. Program is $5,500 a month: twelve pages or rewrites and 8 channel posts a month, a quarterly research study written by our researchers, and up to 150 pages under management.",
+        "source_url": "https://broadcastwell.com/pricing",
+        "reviewed": "2026-11-09",
+        "expires": "2026-12-09"
+      }
+    ],
+    "fit": [
+      {
+        "id": "fit-agencies",
+        "question": "Do you work with agencies?",
+        "answer": "Yes. The Agency Deadline Audit is $490 per client report under your agency's brand: ten agreed buyer questions, three runs on each of ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode for 150 planned answers, three prioritized fixes and one paste-ready change of 250 words or fewer. Findings arrive within 48 hours of recorded scope confirmation, and we never contact your client.",
+        "source_url": "https://broadcastwell.com/for-agencies",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      },
+      {
+        "id": "fit-guarantee",
+        "question": "Can you guarantee that ChatGPT will name us?",
+        "answer": "No. We cannot make an engine name or cite you, and we cannot guarantee a rank, mention, citation, visit, lead, sale or revenue. The written guarantees concern the agreed work and test.",
+        "source_url": "https://broadcastwell.com/faq",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      },
+      {
+        "id": "fit-seo",
+        "question": "Is this just SEO?",
+        "answer": "We make the page that answers your buyer question accurate, sourced and ready to publish. The work supports search as well as AI answers, and you own the page.",
+        "source_url": "https://broadcastwell.com/faq",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      }
+    ],
+    "integrations": [
+      {
+        "id": "integrations-analytics",
+        "question": "Does the Fix Sprint connect to our analytics?",
+        "answer": "Sprint and Program onboarding includes an AI-referral channel definition, the Search Console generative AI performance check and a source question for your forms. Brand-search and home page changes are read monthly alongside the analytics you supply.",
+        "source_url": "https://broadcastwell.com/fix-sprint",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      }
+    ],
+    "compliance": [
+      {
+        "id": "compliance-certifications",
+        "question": "Do you hold SOC 2 or ISO 27001 certification?",
+        "answer": "We do not claim SOC 2, ISO 27001, HIPAA, PCI DSS or any other certification that has not been independently verified. Specific security, retention, residency and deletion requirements belong in the signed agreement for the engagement.",
+        "source_url": "https://broadcastwell.com/security",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      },
+      {
+        "id": "compliance-data-to-withhold",
+        "question": "What information should we not send you?",
+        "answer": "A standard audit does not need passwords, API keys, customer records, regulated health data, payment-card data or other high-risk information. Do not send such data unless a separate written scope and control plan has been agreed.",
+        "source_url": "https://broadcastwell.com/security",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      },
+      {
+        "id": "compliance-deletion",
+        "question": "Can we ask you to delete our project information?",
+        "answer": "Yes. Clients may request return or deletion of eligible project information. We confirm deletion requests after checking applicable legal, tax, accounting or contract obligations.",
+        "source_url": "https://broadcastwell.com/security",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      }
+    ],
+    "links": [
+      {
+        "id": "links-method",
+        "question": "Where is your measurement method published?",
+        "answer": "Method v1.1 is published at https://broadcastwell.com/methodology. We repeat fixed buyer questions, report which companies are named and cited, exclude failed captures and link every count to the answer behind it.",
+        "source_url": "https://broadcastwell.com/methodology",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      }
+    ]
+  }
+}

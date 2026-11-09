@@ -105,3 +105,5 @@ A client may host its own copy at `https://<domain>/vendor-facts.json`. Ask &lt;
 The read-only connector at `https://app.broadcastwell.com/mcp/vendor/<slug>` exposes six tools: get_company, get_pricing, get_fit, get_integrations, get_compliance and get_links. It answers from the approved file and has no write tool. The client may withdraw the approved facts. The separate account connector keeps its fifteen tools.
 
 Try [Ask Kalvenor, the fictional sample](https://app.broadcastwell.com/connect#ask-a-vendor). Its six responses are marked SAMPLE DATA.
+
+For the reported ChatGPT Business Hub, our [business facts file](chatgpt-business-hub/business-facts-file.md) is a profile of this standard that adds legal identity, an address, machine-readable prices and policies. Our guide to [claiming your business in ChatGPT](chatgpt-business-hub/index.md) explains where both files fit.

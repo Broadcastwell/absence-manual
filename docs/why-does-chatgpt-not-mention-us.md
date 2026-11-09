@@ -26,6 +26,8 @@ Compare the company and product names, category and official website across the 
 
 We can correct supported company facts on pages we control, following the relevant provider’s documented requirements. Keep the source and date with each correction. We have no measured confidence increase or assured naming result from making those statements consistent.
 
+If you are preparing for OpenAI's reported ChatGPT Business Hub, our guide to [claiming your business in ChatGPT](chatgpt-business-hub/index.md) lists the name, structured data and facts-file checks to make first.
+
 ## 3. Check access for the relevant page and requester
 
 A failed request and a page opening in a human browser are different observations. Check the intended URL, the requesting service’s documented identity, the response and any applicable access rule. A user-agent label alone does not authenticate the service. Our answer records do not establish how often access failures cause omissions or how often other tools miss them.

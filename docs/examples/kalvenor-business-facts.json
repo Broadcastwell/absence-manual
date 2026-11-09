@@ -1,0 +1,64 @@
+{
+  "business_facts_version": "1",
+  "profile_of": "https://app.broadcastwell.com/standard/vendor-facts.schema.json",
+  "sample": true,
+  "fictional": true,
+  "label": "SAMPLE DATA. Kalvenor Systems is a fictional company used only to illustrate this format. Every value below is illustrative and describes no real business.",
+  "legal_name": "Kalvenor Systems, Inc. (SAMPLE DATA, fictional)",
+  "brand_name": "Kalvenor (SAMPLE DATA, fictional)",
+  "domain": "kalvenor.example",
+  "category": "field service management software",
+  "one_sentence": "SAMPLE DATA. Kalvenor is a fictional field service platform used only to illustrate this format.",
+  "same_as": [
+    "https://profiles.example/kalvenor"
+  ],
+  "address": {
+    "street_address": "SAMPLE DATA: 1 Illustrative Way",
+    "locality": "SAMPLE DATA: Example City",
+    "region": "SAMPLE DATA",
+    "postal_code": "SAMPLE DATA",
+    "country": "US"
+  },
+  "contact": {
+    "email": "hello@kalvenor.example",
+    "phone": "+1-555-555-0100",
+    "contact_url": "https://kalvenor.example/contact"
+  },
+  "products": [
+    {
+      "name": "SAMPLE DATA: Kalvenor dispatch board",
+      "url": "https://kalvenor.example/product",
+      "description": "SAMPLE DATA: an illustrative dispatch board for fictional service teams."
+    }
+  ],
+  "offers": [
+    {
+      "name": "SAMPLE DATA: Illustrative plan",
+      "url": "https://kalvenor.example/pricing",
+      "price": {
+        "published": false,
+        "price_url": "https://kalvenor.example/pricing"
+      },
+      "note": "SAMPLE DATA: this fictional example states no price, which is how a business without a public price fills the field."
+    }
+  ],
+  "policies": [
+    {
+      "name": "SAMPLE DATA: terms",
+      "url": "https://kalvenor.example/terms"
+    },
+    {
+      "name": "SAMPLE DATA: privacy",
+      "url": "https://kalvenor.example/privacy"
+    }
+  ],
+  "commerce_connection": {
+    "platform": "SAMPLE DATA: illustrative store platform",
+    "store_url": "https://store.kalvenor.example/"
+  },
+  "vendor_facts_url": "https://app.broadcastwell.com/vendors/kalvenor/facts.json",
+  "llms_txt_url": "https://kalvenor.example/llms.txt",
+  "last_reviewed": "2026-11-09",
+  "reviewer": "SAMPLE DATA: fictional reviewer",
+  "facts_url": "https://kalvenor.example/business-facts.json"
+}
