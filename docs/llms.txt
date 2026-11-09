@@ -247,6 +247,7 @@ Nothing in this section is security advice. For patching, follow PHP's advisory 
 - [Where can you download our open data and methods?](https://docs.broadcastwell.com/open-data/): Our open data catalog lists 65 research tables and six Index release files with rows, columns, SHA-256, license and the method page that limits each one.
 - [What is in our research chart library?](https://docs.broadcastwell.com/chart-library/): Our research chart library lists 12 data charts on our docs site with the page that publishes each, its caption, data, date, base and a credit line for reuse.
 - [Which AI visibility vendor comparisons have we published?](https://docs.broadcastwell.com/comparisons/): Our AI visibility vendor comparisons name 14 alternatives across 13 answers, each dated to the day we read the provider's own pages, with no winner declared.
+- [Which analyses run in your Broadcastwell account?](https://docs.broadcastwell.com/account-analyses/): Our client account runs 51 analyses on your own delivered measurement. Each lists what it reads, what it returns and its label; every result waits for review.
 - [What 2,095 AI answers say about who gets named for B2B software](https://broadcastwell.com/insights/2095-ai-answers): What dated AI answers show about software shortlists, factual accuracy and buying requirements, with sources, denominators and review limits.
 
 ## Buying and procurement
