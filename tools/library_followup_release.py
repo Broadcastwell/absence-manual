@@ -108,6 +108,23 @@ def prepare(root, artifact, baseline_artifact):
     (root / WORK / 'source-proof.json').write_bytes(json_bytes(proof))
     return proof
 
+SITEMAP_PAGE = re.compile(r'https://docs\.broadcastwell\.com/[a-z0-9-]+(?:/[a-z0-9-]+)*/')
+
+def add_reviewed_sitemap_rows(xml, rows, site):
+    """Append only explicitly reviewed new page URLs; never edit or reorder an existing row."""
+    require(isinstance(rows, list), 'Reviewed sitemap additions must be a list')
+    for row in rows:
+        url, date = row.get('url'), row.get('lastmod')
+        require(isinstance(url, str) and SITEMAP_PAGE.fullmatch(url), 'Reviewed sitemap addition must be a docs page URL')
+        require(isinstance(date, str) and re.fullmatch(r'\d{4}-\d{2}-\d{2}', date), 'Reviewed sitemap addition needs an ISO date')
+        require(('<loc>' + url + '</loc>').encode() not in xml, 'Reviewed sitemap addition already present: ' + url)
+        require((Path(site) / url.removeprefix('https://docs.broadcastwell.com/') / 'index.html').is_file(),
+                'Reviewed sitemap addition has no built page: ' + url)
+        require(xml.count(b'</urlset>') == 1, 'Sitemap closing boundary differs')
+        entry = '    <url>\n         <loc>' + url + '</loc>\n         <lastmod>' + date + '</lastmod>\n    </url>\n'
+        xml = xml.replace(b'</urlset>', entry.encode() + b'</urlset>', 1)
+    return xml
+
 def route(path):
     return path.removesuffix('index.md') + 'index.html' if path.endswith('/index.md') or path == 'index.md' else path.removesuffix('.md') + '/index.html'
 
@@ -193,6 +210,7 @@ class FollowupSession:
             pattern = rb'(<url>\s*<loc>' + re.escape(url.encode()) + rb'</loc>\s*<lastmod>)([^<]+)(</lastmod>)'
             xml, count = re.subn(pattern, lambda m: m[1] + date.encode() + m[3], xml)
             require(count == 1, 'Exact existing sitemap row missing: ' + url)
+        xml = add_reviewed_sitemap_rows(xml, self.data.get('sitemap_additions', []), self.site)
         (self.site / 'sitemap.xml').write_bytes(xml)
         (self.site / 'sitemap.xml.gz').write_bytes(gzip.compress(xml, mtime=0))
         self.render_proof = validate_render_contexts(self.contexts, self.site)
@@ -296,7 +314,8 @@ def verify(root):
     actual = output_inventory(site)
     if data.get('visibility_decisions_sha256'):
         from verify_visibility_release import validate as validate_visibility
-        visibility = validate_visibility(site, json.loads((root / 'tools/library-visibility-20261105.json').read_bytes()))
+        visibility = validate_visibility(site, json.loads((root / 'tools/library-visibility-20261105.json').read_bytes()),
+                                         [r['url'] for r in data.get('sitemap_additions', [])])
         (root / 'visibility-release-check.json').write_bytes(json_bytes(visibility))
     with zipfile.ZipFile(root / data['prior_artifact_path']) as z:
         before = {p: sha(z.read(p)) for p in z.namelist() if not p.endswith('/') and p not in PRIVATE}

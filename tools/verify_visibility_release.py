@@ -38,7 +38,7 @@ class Page(_HeadAndArticle):
         if not self.hidden: self.text.append(data)
 
 
-def validate(site, decisions):
+def validate(site, decisions, reviewed_additions=()):
     site = Path(site)
     expected = {r['url']:r['meta'] for r in decisions['pages'].values()}
     for path,row in decisions['static_pages'].items():
@@ -50,7 +50,8 @@ def validate(site, decisions):
     ns = {'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
     xml = ET.fromstring((site/'sitemap.xml').read_bytes())
     entries = {r.findtext('s:loc',namespaces=ns):r.findtext('s:lastmod',namespaces=ns) for r in xml}
-    require(len(entries) == 440, 'Current sitemap population differs')
+    require(len(entries) == 440 + len(reviewed_additions) and set(reviewed_additions) <= set(entries),
+            'Current sitemap population differs')
     require(set(expected) <= set(entries), 'An eligible canonical page is absent from the sitemap')
     for url in entries:
         path = url.removeprefix(BASE) + 'index.html'
@@ -115,7 +116,7 @@ def validate(site, decisions):
     for path,row in decisions['pages'].items():
         if path.startswith('research/') or (path.startswith('answers/') and path.endswith('/index.md')):
             require(row['url'] in llms, 'Key research page or hub missing from llms: '+path)
-    return {'sitemap_urls':440,'eligible_pages':395,'frozen_exclusions':45,'types':dict(types),'pages':rows,'orphan_pages':0}
+    return {'sitemap_urls':len(entries),'eligible_pages':395,'frozen_exclusions':45,'types':dict(types),'pages':rows,'orphan_pages':0}
 
 
 if __name__ == '__main__':

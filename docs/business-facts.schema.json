@@ -1,0 +1,298 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://docs.broadcastwell.com/business-facts.schema.json",
+  "title": "Business Facts File v1",
+  "description": "A profile of Vendor Facts File v1 for keeping business information current. Served at https://<domain>/business-facts.json. Format validation does not establish that a statement is true. CC BY 4.0, Broadcastwell.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "business_facts_version",
+    "profile_of",
+    "legal_name",
+    "brand_name",
+    "domain",
+    "same_as",
+    "address",
+    "contact",
+    "offers",
+    "policies",
+    "last_reviewed",
+    "reviewer",
+    "facts_url"
+  ],
+  "properties": {
+    "business_facts_version": {
+      "const": "1"
+    },
+    "profile_of": {
+      "const": "https://app.broadcastwell.com/standard/vendor-facts.schema.json"
+    },
+    "sample": {
+      "type": "boolean"
+    },
+    "fictional": {
+      "type": "boolean"
+    },
+    "label": {
+      "$ref": "#/$defs/text"
+    },
+    "legal_name": {
+      "$ref": "#/$defs/text"
+    },
+    "brand_name": {
+      "$ref": "#/$defs/text"
+    },
+    "domain": {
+      "type": "string",
+      "format": "hostname",
+      "pattern": "^[a-z0-9]([a-z0-9-]*[a-z0-9])?(\\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)+$",
+      "maxLength": 253
+    },
+    "category": {
+      "$ref": "#/$defs/text"
+    },
+    "one_sentence": {
+      "$ref": "#/$defs/text"
+    },
+    "same_as": {
+      "type": "array",
+      "maxItems": 50,
+      "items": {
+        "$ref": "#/$defs/https_url"
+      }
+    },
+    "address": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "street_address",
+        "locality",
+        "postal_code",
+        "country"
+      ],
+      "properties": {
+        "street_address": {
+          "$ref": "#/$defs/text"
+        },
+        "locality": {
+          "$ref": "#/$defs/text"
+        },
+        "region": {
+          "$ref": "#/$defs/text"
+        },
+        "postal_code": {
+          "$ref": "#/$defs/text"
+        },
+        "country": {
+          "type": "string",
+          "pattern": "^[A-Z]{2}$"
+        }
+      }
+    },
+    "contact": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "email",
+        "contact_url"
+      ],
+      "properties": {
+        "email": {
+          "type": "string",
+          "format": "email",
+          "maxLength": 254
+        },
+        "phone": {
+          "type": "string",
+          "pattern": "^\\+[1-9][0-9 -]{5,20}[0-9]$"
+        },
+        "contact_url": {
+          "$ref": "#/$defs/https_url"
+        },
+        "other_emails": {
+          "type": "array",
+          "maxItems": 20,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "purpose",
+              "email"
+            ],
+            "properties": {
+              "purpose": {
+                "$ref": "#/$defs/text"
+              },
+              "email": {
+                "type": "string",
+                "format": "email",
+                "maxLength": 254
+              }
+            }
+          }
+        }
+      }
+    },
+    "products": {
+      "type": "array",
+      "maxItems": 200,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "url",
+          "description"
+        ],
+        "properties": {
+          "name": {
+            "$ref": "#/$defs/text"
+          },
+          "url": {
+            "$ref": "#/$defs/https_url"
+          },
+          "description": {
+            "$ref": "#/$defs/text"
+          }
+        }
+      }
+    },
+    "offers": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 200,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "url",
+          "price"
+        ],
+        "properties": {
+          "name": {
+            "$ref": "#/$defs/text"
+          },
+          "url": {
+            "$ref": "#/$defs/https_url"
+          },
+          "price": {
+            "oneOf": [
+              {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "published",
+                  "amount",
+                  "currency",
+                  "unit"
+                ],
+                "properties": {
+                  "published": {
+                    "const": true
+                  },
+                  "amount": {
+                    "type": "string",
+                    "pattern": "^(0|[1-9][0-9]*)(\\.[0-9]{2})?$"
+                  },
+                  "currency": {
+                    "type": "string",
+                    "pattern": "^[A-Z]{3}$"
+                  },
+                  "unit": {
+                    "$ref": "#/$defs/text"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "published",
+                  "price_url"
+                ],
+                "properties": {
+                  "published": {
+                    "const": false
+                  },
+                  "price_url": {
+                    "$ref": "#/$defs/https_url"
+                  }
+                }
+              }
+            ]
+          },
+          "note": {
+            "$ref": "#/$defs/text"
+          }
+        }
+      }
+    },
+    "policies": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 50,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "url"
+        ],
+        "properties": {
+          "name": {
+            "$ref": "#/$defs/text"
+          },
+          "url": {
+            "$ref": "#/$defs/https_url"
+          }
+        }
+      }
+    },
+    "commerce_connection": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "platform",
+        "store_url"
+      ],
+      "properties": {
+        "platform": {
+          "$ref": "#/$defs/text"
+        },
+        "store_url": {
+          "$ref": "#/$defs/https_url"
+        }
+      }
+    },
+    "vendor_facts_url": {
+      "$ref": "#/$defs/https_url"
+    },
+    "llms_txt_url": {
+      "$ref": "#/$defs/https_url"
+    },
+    "last_reviewed": {
+      "type": "string",
+      "format": "date"
+    },
+    "reviewer": {
+      "$ref": "#/$defs/text"
+    },
+    "facts_url": {
+      "$ref": "#/$defs/https_url"
+    }
+  },
+  "$defs": {
+    "text": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 2000
+    },
+    "https_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://[^\\s/?#]+[^\\s]*$",
+      "maxLength": 2000
+    }
+  }
+}

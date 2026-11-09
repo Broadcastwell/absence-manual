@@ -1,0 +1,89 @@
+{
+  "context_pack_version": "1",
+  "sample": true,
+  "fictional": true,
+  "label": "SAMPLE DATA. Kalvenor Systems is a fictional company used only to illustrate this format. Every question, answer and source below is illustrative.",
+  "business": "Kalvenor Systems, Inc. (SAMPLE DATA, fictional)",
+  "domain": "kalvenor.example",
+  "owner": "SAMPLE DATA: fictional product marketing lead",
+  "facts_url": "https://docs.broadcastwell.com/examples/kalvenor-business-facts.json",
+  "rules": "SAMPLE DATA. Every answer is taken from the fictional page in its source_url. An answer past its expires date is withheld until it is reviewed again.",
+  "facts": [
+    {
+      "fact": "SAMPLE DATA: Kalvenor is a fictional field service platform.",
+      "source_url": "https://kalvenor.example/"
+    }
+  ],
+  "policies": [
+    {
+      "name": "SAMPLE DATA: terms",
+      "url": "https://kalvenor.example/terms"
+    },
+    {
+      "name": "SAMPLE DATA: privacy",
+      "url": "https://kalvenor.example/privacy"
+    }
+  ],
+  "groups": {
+    "company": [
+      {
+        "id": "company-what-it-is",
+        "question": "What is Kalvenor?",
+        "answer": "SAMPLE DATA. Kalvenor is a fictional field service platform used only to illustrate this format.",
+        "source_url": "https://kalvenor.example/",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      }
+    ],
+    "pricing": [
+      {
+        "id": "pricing-plans",
+        "question": "How much does Kalvenor cost?",
+        "answer": "SAMPLE DATA. The fictional pricing page lists one illustrative plan. This sample states no price, so the agent sends the buyer to the pricing page instead of quoting one.",
+        "source_url": "https://kalvenor.example/pricing",
+        "reviewed": "2026-11-09",
+        "expires": "2026-12-09"
+      }
+    ],
+    "fit": [
+      {
+        "id": "fit-who-for",
+        "question": "Who is Kalvenor for?",
+        "answer": "SAMPLE DATA. Dispatch teams at fictional service companies. It is not for organizations seeking a real vendor.",
+        "source_url": "https://kalvenor.example/",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      }
+    ],
+    "integrations": [
+      {
+        "id": "integrations-calendar",
+        "question": "Does Kalvenor connect to a calendar?",
+        "answer": "SAMPLE DATA. Yes, one illustrative calendar integration, listed on the fictional integrations page.",
+        "source_url": "https://kalvenor.example/integrations",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      }
+    ],
+    "compliance": [
+      {
+        "id": "compliance-certifications",
+        "question": "Does Kalvenor hold a security certification?",
+        "answer": "SAMPLE DATA. Kalvenor states no certification on its fictional site, so this pack claims none.",
+        "source_url": "https://kalvenor.example/security",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      }
+    ],
+    "links": [
+      {
+        "id": "links-demo",
+        "question": "Where can a buyer see a demo?",
+        "answer": "SAMPLE DATA. The fictional demo path is https://kalvenor.example/demo and the contact path is https://kalvenor.example/contact.",
+        "source_url": "https://kalvenor.example/demo",
+        "reviewed": "2026-11-09",
+        "expires": "2027-02-07"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "business_facts_version": "1",
+  "profile_of": "https://app.broadcastwell.com/standard/vendor-facts.schema.json",
+  "legal_name": "Broadcastwell LLC",
+  "brand_name": "Broadcastwell",
+  "domain": "broadcastwell.com",
+  "same_as": [
+    "https://www.linkedin.com/company/broadcastwell",
+    "https://github.com/Broadcastwell",
+    "https://broadcastwell.substack.com/",
+    "https://www.youtube.com/@Broadcastwell",
+    "https://www.instagram.com/broadcastwell/"
+  ],
+  "address": {
+    "street_address": "517 E Kirkwood Ave",
+    "locality": "Bloomington",
+    "region": "IN",
+    "postal_code": "47408",
+    "country": "US"
+  },
+  "contact": {
+    "email": "hello@broadcastwell.com",
+    "phone": "+1-812-345-7272",
+    "contact_url": "https://broadcastwell.com/contact"
+  },
+  "offers": [
+    {
+      "name": "Live question",
+      "url": "https://broadcastwell.com/pricing",
+      "price": {
+        "published": true,
+        "amount": "19",
+        "currency": "USD",
+        "unit": "once"
+      },
+      "note": "Credited in full against Answer Repair within 30 days of payment for the same account."
+    },
+    {
+      "name": "Answer Repair",
+      "url": "https://broadcastwell.com/answer-repair",
+      "price": {
+        "published": true,
+        "amount": "490",
+        "currency": "USD",
+        "unit": "once"
+      }
+    },
+    {
+      "name": "Agency Deadline Audit",
+      "url": "https://broadcastwell.com/for-agencies",
+      "price": {
+        "published": true,
+        "amount": "490",
+        "currency": "USD",
+        "unit": "per client report"
+      }
+    },
+    {
+      "name": "Fix Sprint",
+      "url": "https://broadcastwell.com/fix-sprint",
+      "price": {
+        "published": true,
+        "amount": "3900",
+        "currency": "USD",
+        "unit": "once"
+      },
+      "note": "$3,410 after the $490 credit, applied once."
+    },
+    {
+      "name": "Care",
+      "url": "https://broadcastwell.com/pricing",
+      "price": {
+        "published": true,
+        "amount": "490",
+        "currency": "USD",
+        "unit": "a month"
+      }
+    },
+    {
+      "name": "Program",
+      "url": "https://broadcastwell.com/pricing",
+      "price": {
+        "published": true,
+        "amount": "5500",
+        "currency": "USD",
+        "unit": "a month"
+      }
+    }
+  ],
+  "policies": [
+    {
+      "name": "Terms",
+      "url": "https://broadcastwell.com/terms"
+    },
+    {
+      "name": "Prices, delivery and refunds",
+      "url": "https://broadcastwell.com/pricing"
+    },
+    {
+      "name": "Privacy notice",
+      "url": "https://broadcastwell.com/privacy"
+    },
+    {
+      "name": "Cookie notice",
+      "url": "https://broadcastwell.com/cookies"
+    },
+    {
+      "name": "Security and data handling",
+      "url": "https://broadcastwell.com/security"
+    }
+  ],
+  "llms_txt_url": "https://docs.broadcastwell.com/llms.txt",
+  "last_reviewed": "2026-11-09",
+  "reviewer": "Broadcastwell team",
+  "facts_url": "https://docs.broadcastwell.com/business-facts.json"
+}

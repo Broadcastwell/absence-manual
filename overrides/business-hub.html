@@ -1,0 +1,9 @@
+{% extends "followup.html" %}
+
+{% block content %}
+{{ super() | replace('Last reviewed 5 November 2026', 'Last reviewed 9 November 2026') }}
+{% endblock %}
+
+{% block footer %}
+{{ super() | replace('<time datetime="2026-10-26">26 October 2026</time>', '<time datetime="2026-11-09">9 November 2026</time>') }}
+{% endblock %}
