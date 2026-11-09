@@ -94,4 +94,4 @@ In the words of our offer pages: "We cannot make an engine name or cite you. One
 - Broadcastwell, [Fix Sprint](https://broadcastwell.com/fix-sprint), read 9 November 2026.
 - Broadcastwell, [Methodology, method v1.1](https://broadcastwell.com/methodology), read 9 November 2026.
 
-Related: the [RFP guide](rfp-guide.md) turns these terms into questions you can put to any vendor, and the [completed-case format](cases/format.md) shows what a finished re-check reports, on a fictional sample.
+Related: the [RFP guide](rfp-guide.md) turns these terms into questions you can put to any vendor, and the [completed-case format](cases/format.md) shows what a finished re-check reports, on a fictional sample. Our [product documentation](product-docs.md) covers what you can do with our free tools before any of these stages, including the [AI Shortlist Check browser extension](browser-extension.md), and our [agency training path](agency-training.md) teaches agency teams to check a delivered report. Terms are defined in our [AI search glossary](ai-search-glossary.md).

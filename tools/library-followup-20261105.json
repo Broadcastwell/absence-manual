@@ -8,7 +8,16 @@
     "absence-manual-v1.0-2026-08-18.pdf": "bbe956fb802ff1009bf62409df85ae7fcf286f5ac4d5bda435484fdc5135da2a",
     "absence-manual.pdf": "bbe956fb802ff1009bf62409df85ae7fcf286f5ac4d5bda435484fdc5135da2a",
     "absence-rules/index.html": "bd3aded4ee7e717d223dbb9f1f82e56fa1f21f79a50e86112973be13ff2822fe",
+    "agency-training/index.html": "c69cd07619f36a9e5eabf87b5251a29dd1898dacb198a2a21c86fbbc3a435652",
+    "ai-referral-analytics-template/index.html": "545fa3fc59a3eac306cffff273a89d3b771eb8224fb1736c1165988013838417",
+    "ai-search-glossary/index.html": "cdadd206342dff5306a1253390cc1cb8c47b75e55a170c2518f28aadbf31fdf9",
     "ai-source-standard/index.html": "6dc8c86db0a9257db50b6fce269c0508bdaf16ce1da2862cdca387fad2658c81",
+    "ai-visibility-course/index.html": "c12782b256cbcc137a84a120acdaae9e4210b8927e2935a90c90077d4f04119a",
+    "ai-visibility-course/lesson-1-one-ai-answer/index.html": "2620922c9bc3b31be45a987adf8ab376809f54de963d13be764fc66c239e7542",
+    "ai-visibility-course/lesson-2-repeat-the-question/index.html": "ed022e36a7a69060b8ee9610529477c2b6478524eb5a9abddc7dade71c3b5291",
+    "ai-visibility-course/lesson-3-find-the-base/index.html": "1572d241add880ba78477edd79566ca332f787aea8fd1d1da4ab56ee1539ef26",
+    "ai-visibility-course/lesson-4-read-the-sources/index.html": "40515ab8277752cb1bb59a248540444e65fadb680f215d31495daeb4db1c50ce",
+    "ai-visibility-course/lesson-5-recheck-fairly/index.html": "a2581631107b8f3164c9678866615124e6b7c959cb87dd1268f60c3f30284b1c",
     "answers/agents/can-an-ai-assistant-find-a-software-pricing-page/index.html": "a24570faf3c8a8e5d987fef999224f30623d3f0556dc5d581f759b1b85773e6a",
     "answers/agents/can-construction-software-integrate-with-chatgpt/index.html": "3b1822a6c06fa1517b0336c21d77ad3a843b075627366d19c203ad18fcff7323",
     "answers/agents/can-crm-software-integrate-with-chatgpt/index.html": "300e3dcda119b21ed3c2ef68af46ee3381178503aeb60f81af313273f24eb6e2",
@@ -347,10 +356,13 @@
     "answers/perplexity/which-radiology-software-does-perplexity-recommend/index.html": "58288a177e46ab2d3f3c001e3147cfdc0b9dd0a73a3593dcfa55a81f17e6c82f",
     "answers/perplexity/which-transportation-software-does-perplexity-recommend/index.html": "1aebeb2dad82a0aebb7f937b4d80280b89fc19e898f6a15dcf956d495f3e24bb",
     "answers/perplexity/which-veterinary-software-does-perplexity-recommend/index.html": "60d32612b09d2eca0e8b95ddc5ec1de1eabcaee85f1fd764ea5002b55a230d67",
-    "articles/index.html": "218bfc03f5f37f42e307ee36425d9e183e01a011673e9d97db88024e7d88819c",
+    "articles/index.html": "4e070c5f577b2baa849862496eb35184120906ed95233efb0458104c677ba761",
     "assets/absence-manual-2026-08.svg": "11c60c9d66aadae43b25844ff517ac725532353a6e174df811373b719158af4b",
     "assets/absence-manual-2026-09.png": "1c127d0e0c1e24d01f12b9427aa09e14a06c86895c45aed953d0c09540f52e1b",
     "assets/absence-manual-2026-09.svg": "afddd1c26326e01ea6385755b0fef958d83351b34b2bda4910459a5dd1d16d02",
+    "assets/ai-referral/ai-referrals-channel-group.csv": "e0c64121ee5ace5cd4cfb309d3704f1b51815cbbf68b5f4292c0032ed10ea547",
+    "assets/ai-referral/ai-referrals-source-regex.txt": "84cacfe6e4cc1dcfa8c44da9ace38ac2739caec9473ebd6b8faea03cc1d3c250",
+    "assets/ai-referral/ai-referrals-test-cases.csv": "76e7fbc345dc81e8e1d4a24690af807c3ec6b40df1c3c01353a68110b1bf7a40",
     "assets/buyer/buyer-audit-proof-20261014.webp": "506f526cd2366d9309f939da364c54044bf8ebe0a620ab376cecd618479a6eca",
     "assets/citations/broadcastwell-research.bib": "fd41e9961f555156734aee73bbcae725e89cc773272150a3e065af940d5af2bd",
     "assets/citations/broadcastwell-research.ris": "3ff480100210d57c555bf3a95837a907d9600d13e1afa6d1874b3a548bf2767c",
@@ -495,6 +507,9 @@
     "assets/performance/96da4df391587663-1320.webp": "4384d82f7c705ed0e0a1b382ec69864439b8a345931ce8e5a4fe0cf0d764623c",
     "assets/performance/96da4df391587663-400.webp": "df3a3b8f16ee82f1fc1fb1a6060abbf04fc927745f931650f4d9099a9b299bfa",
     "assets/performance/96da4df391587663-800.webp": "6084445228c69b58992d2bb01ffbac3dfa6ee83c547e7f36f16cb0969f0f62a7",
+    "assets/playbooks/source-correction-steps-2026-11-09.csv": "772fa8fb3c68dad6e9f1259277a827deaf0881253e983954bb9551e2a0896e2c",
+    "assets/print/print-edition.css": "e7f5220a7345c0ceae92fc46e514340a3b7918e38007e7bd745f118cd41ab4fd",
+    "assets/product-docs/kalvenor-connector-tools-list.json": "46a86fff6c7f11e5500f305977d35d9a9af6f3ee87a55650987592da2ce69f1d",
     "assets/research/change-desk/2026-10-26/connectwise-statements-ai/index.html": "8f8b6e676b22d06c1166238bf6d1c445e0ff2a4ec845966e9e5b1058fdacb6ce",
     "assets/research/change-desk/2026-10-26/counts.json": "28f3451b43747c811cbbe7ea7ec1ebc52f11b7bfcdb09ac21b2933ede7d10094",
     "assets/research/change-desk/2026-10-26/frozen-sources.csv": "3330e8a843c0da01f3c3bb15ae8dd1ed7f23224baa6c255a2db9b11ad9b0156c",
@@ -505,6 +520,8 @@
     "assets/research/change-desk/2026-10-26/study-c-answers.csv": "cfcc48f923286dc8c5e09fc063e6c178136d6c51ed0b50661e603e6503e618ce",
     "assets/research/change-desk/2026-10-26/study-c-findings.json": "b6948b2fcf7a46630115786ccda8dea2294182a76066eb06d5bd40f34ae34467",
     "assets/research/change-desk/2026-10-26/transaction-fact-ledger.csv": "58a217a6a245994059bd0494a18fea98506eda1b1ee8d420f507a7633a68e961",
+    "assets/research/print/Study1_The_Shortlist_Gap_print_edition_2026-11-09.pdf": "5cbdb2c34a14b538b892e9e9fba605398cb605db6fbd1e0a1b5658bbf667fcaa",
+    "assets/research/print/research-report-sha256.txt": "44fb44f5f66faac81028acd23279d42c1323a62bb54f4d6206904c44557d1b6c",
     "assets/research/study1/Study1_The_Shortlist_Gap_2026-09.pdf": "21d03ff5eb70575ca59ad548b2930919bf1aeb3ad5e760621ac307cc73e8e881",
     "assets/research/study1/chart1_never_named_by_category.png": "3d4d7a235074fd3dd2e02289d14c7ac12cb673c6e708958d2649fd3a4db8d9e5",
     "assets/research/study1/chart1_never_named_by_category.svg": "272511959cbeeb7059d3e3258a343d50c2ef268873a6fb463640f0b9f1da2e14",
@@ -568,20 +585,23 @@
     "assets/summit/font_home_inter_1440.jpg": "51f6a24ea1abef25af336b0b144c49e8ff454a6b7ceaebf3b43270a4b9cbd360",
     "assets/summit/font_pricing_geist_1440.jpg": "ba53d8d580f7ae93d227f70f5ec0957742717f9ef049603a2f723654cda10ddd",
     "assets/summit/font_pricing_inter_1440.jpg": "3442d55df6b907ff321aaad8bad9aa1c5bdeb373cec65fe4b46e5f4aa90f59a6",
+    "browser-extension/index.html": "477393191837ba31adc3cba67e51e0d41a1adf6dd4be398235613d229978387c",
     "business-facts.json": "648aaadddba237b4a628eded997951ec95c64d3de855691a679752a05d42d0b7",
     "business-facts.schema.json": "c9e62e13a188ddb5a429fb9d40c5f419d2d19ba9784e4ae372468c8daebb4463",
     "cases/format/index.html": "5c0cf87a0fe56c107e6adac4f948fdeea329a69d33861eb973d8fe5f4da64642",
     "category-door/index.html": "6d14870438627877d6decd52be0d2e924648b5c8983d7b4695d17b09ffef18e7",
+    "chart-library/index.html": "6de2a28857bea1f5a53a6e0f7ee6d66a61c0dd85226719091e33f9935507a4f3",
     "chatgpt-business-hub/business-facts-file/index.html": "50979e266d5f299eb352dd5d489b4fcf553e1ec14bc7408591376f0dcf850ac5",
     "chatgpt-business-hub/context-pack/index.html": "0458d5cdf760aafb69526d27533da2fe95cddf0700dd709b7fd6849f1e9be56f",
     "chatgpt-business-hub/index.html": "c936f9352f682169ad1f4f343e7f8a3635d007ab12d5dbeda00ccd684fb129a3",
     "chatgpt-business-hub/reconciliation-report/index.html": "913a93a6b1cbc9d6274ef715e4ad51beae8e09f524b85e8c4696e56fafaf940b",
     "chatgpt-business-hub/watch/index.html": "1b7337740f05f73c947fd0e3127ea2244c1315a32aa59f69a26b23e5bb730ab0",
-    "cite/index.html": "56c0bf9eeb11d90aad89a7ef938fa2601dbb5dd56caff94fa784ce102d6b2fe1",
+    "cite/index.html": "afd6c4e00353374a1432fcfaaae9b15ff5e4b9178347416c9d74cc40c6a78b4b",
     "cited-not-recommended/index.html": "7b7393ce63893a9f9e88fc57ef2a7f6985a0035092d63ad3057a00aa0ccfef71",
     "comparison-gate/index.html": "d68f0bd5af557acc93fb47d0c6be8f58bbd640640a253f9305d9edf89c87538b",
+    "comparisons/index.html": "9477994ee079009d71a2457cdee1c9fb73d66e50579187036813b07176817857",
     "content-templates/content-brief/index.html": "21fced015de676e9fa3fe42b3da23d0191b711e77243a6bbe18bf7fb7852dee7",
-    "content-templates/content-strategy/index.html": "3c0038a2e84151f39bb459fb5d43dcd125c1d0a4e1a7afd4652df6661d089428",
+    "content-templates/content-strategy/index.html": "43d517714d0c61b22d00c57a846dd3f53b86cd947967a66451fd4125dd3e3bd5",
     "content-templates/downloads/content-brief-kalvenor-sample.csv": "5cd7a75d310eca20d8314b0e58d31300e25a25a7878949e48b80af596514b7ee",
     "content-templates/downloads/content-brief-kalvenor-sample.txt": "2806de7d789b4658c2fa8be771cd939cbbda2b486058d8d70dc3a3b0a25e9250",
     "content-templates/downloads/content-brief-template.csv": "e59820d1219b3c4e4a743df7b7d2520e05d2a965c836b41de2426ac7a9a8d5cc",
@@ -610,19 +630,25 @@
     "how-long-it-takes/index.html": "6b1953758ca9e7a302e5cbc73094bd8782a784b04da2b1d1a680c2f02bd78746",
     "how-to-buy-geo/index.html": "c86078605c2aa7b817ccc42abce6fd824b47c19b27e9bc9007141f65dd361834",
     "index.html": "c6a7587ee20af6a633c03b535f375d29005dcc5aad1d1a06c73769cfdac13aef",
+    "industry-benchmarks/index.html": "01d419c3cc3a60ede764ebac848c5ebd5eee6e6eb8e8d18e94c44dd34ab9f332",
+    "launchpad/certificate/index.html": "096d6912bf16183369d3828ab1425792fbe4817dc67dd14715506c2352e2594d",
     "launchpad/index.html": "e834add0beefb9db23fd8fecb68918d3e10a3d6a8759bb9f9bc6aeae2e2c1014",
-    "llms.txt": "ebc834e04901bf04d21f1be36bb977d6291c4104d193e2010b258492a4145ade",
+    "llms.txt": "b9e3203e56bb031c67b5d6ef5d96364b98b52462f393fb2c00d7fe7839b9d507",
     "measurement-noise/index.html": "69beaaf7ebe93c8130d862e138ae3a50fbf5ef658d49f0515dc866d381f3e0ae",
     "media-kit/index.html": "f76dde07a189696fcf163b8cf55c820a2c88241b44e4c4781694dadaa64fe340",
     "model-releases/index.html": "a82aae2eede16471ed874b39b706acd6a84f2e750b10bdcdc90019bf81c30f37",
     "named-zero-times/index.html": "204d5a6d6c1b2dc7dec249120e2d316292e19e99bf647798c4b5e44a41360f08",
-    "operating-framework/index.html": "ee53bdfa1a14df042350f514cca6db5a9c198e24eed10abc9c30290cdc9f75ea",
+    "open-data/index.html": "684d31b7fd370feb39b44e67283e3926f6760d7a60d6e8ae3eba1ea65b4a2901",
+    "operating-framework/index.html": "106b6ced52c05bfc82c983fdaa3c4b7e42a43d012e6c691819663e5c98f1e263",
     "overview-trigger-rate/index.html": "d54d1a8b6ce23719fd943b3a942d1ac0b6250f79ddc2128fa1fb97e5bd65ba00",
     "posts/half-its-own-shortlist/index.html": "205075fc0936dad9ba7ca0ff7f8a8208c7ff56fdc45bed773a8156eff5a1ed59",
     "posts/same-score-different-problem/index.html": "34d69fbb5f77698bfed39f3227d98238be546269e36541f7b499079ccb7fd823",
+    "print-edition/index.html": "8689550945be90d7baef5c4e2a38a19a72a4ef9946ab1c2c5da6b49347a238b9",
+    "product-docs/index.html": "d3164f3c55397c8fedcc5e4bcddfe6e7ac4c36e3eebb62d85960f1a350b80fb6",
     "question-bank/index.html": "73a6879ca630b662c58823c0372cfa258834b9a109872d535b9578da6978fce4",
     "references/index.html": "df8f2df1398b3534fa127aacf822228698e8d34221c529a615053727e35bf1a0",
-    "release-notes/index.html": "d3eaaf4471c73a1927fb9e8c12612c4d2d522a0e615f7b07ba4e4aa6dbe0e162",
+    "release-notes/index.html": "6afb76a4634a7bcc417105650f46e08439002148d30034c16333b414746004e3",
+    "research-report/index.html": "ed21fec8b9ef9e70d6eedea3508a18a2ab6bb4ab4d16246fd8d9e096369ef9a8",
     "research/academic-access/index.html": "fe8a602b33e3ed8b7011f30942cf1056e0d3928fc7fde3ca4ab70f463605ace5",
     "research/claims/index.html": "82a161c55c5ab9187f749c38dda4b414b02d79c4151f9ae90f6d6b14a519e271",
     "research/data/ai-crawler-log.csv": "def944aa2c3085b70d303c9411b10ecab1c3e91b86cb5cac064117d62fc06f12",
@@ -791,11 +817,11 @@
     "resources/demos/work-order/index.html": "364c3b83b5fa9455a8481cbba23b65c64d0d9ec5de58708adade3000f9433306",
     "resources/guides/buyer-questions/index.html": "75d75bc2abb578077711d70014d9344fcb2630233e4e57f3fa47e2fcafa96a88",
     "resources/guides/comparison-page/index.html": "d36bf38d21ca5ab87dc4646718b8255170fa1137afb90e0baa199647c8162678",
-    "resources/guides/fair-recheck/index.html": "c26853914f190c00ddf23fa95c213cb270adf86b775665ac107bb7947528aace",
+    "resources/guides/fair-recheck/index.html": "13163c812a13c300ed1f41a6bcc81b46446b4f75d5eda83745383699dbabb613",
     "resources/guides/missing-brand/index.html": "a4f1f7f2f77c9414357bbd827b638b8d90a51532d3b27221c4ced95ccbaaaeb2",
     "resources/guides/product-facts/index.html": "a7dc078fbbd9783d1e1457942763b3cea3e05cb896d3aa8bf0d50e6ffaf8a417",
     "resources/guides/read-an-answer/index.html": "19b2a4047567780a3979f59e65e57f7eb171cacbe009b20f3c191aec31d60737",
-    "resources/index.html": "fb82d95faf6878f21236f7eaa7cbb5163156e1dc3cc834dfb17b74b5028082d8",
+    "resources/index.html": "81d99b565fefaa9b166f2d94263bde4e6323a80cf0407a50e894f574a15fdfbd",
     "resources/playbooks/commercial-review/index.html": "390f22279034b744fbfe7d356b5cf6fa0b994b98e86b89590d530a990fc017f4",
     "resources/playbooks/comparison-brief/index.html": "f2fb549917f981fd3cb563ae3768557f9a09c3f9cdf8a9727fcb33254a7c1375",
     "resources/playbooks/fact-verification/index.html": "4f9d38360acc093945048d2e37654106b0fcb0edea93a0bb1bb265ccbad91c86",
@@ -803,7 +829,7 @@
     "resources/playbooks/question-selection/index.html": "420f5ae30bc5fa86a80a62ecde80de87e12e23b73b38fb7891157697a88f61ab",
     "resources/playbooks/receipt-review/index.html": "68794e5a283bdf5f418a1657828980ad41bcee3d63ac7b7d1b238b13d7c9f572",
     "resources/playbooks/recheck-review/index.html": "8f35f9e1e4bc7dafb2e2bafeee2be88701b87bbfad5655a0a9e32ab572cab280",
-    "resources/playbooks/source-correction/index.html": "9cc95e541d7a46b6569389d74e1c026b0ee489ff557eafe3027c6d6b7aefe04e",
+    "resources/playbooks/source-correction/index.html": "6ba058c9b8f5f9acaf697023bff7ee58aca620aecf13d94699827cc089f76a4d",
     "resources/playbooks/technical-change/index.html": "708fa0abe319cf924f18537f2835733e63ece3e3157f2d033a6eb32285d211f6",
     "resources/provenance/sources/index.html": "ad614b7e62eb90a1c3dd442877104ae72144ce6d986c54612225101f04b6d42b",
     "resources/three-rates/index.html": "99dd0b613ffc7746dc7451fec9aefd3cd8c3a13de93ecfa4e05669bdc202565d",
@@ -813,21 +839,42 @@
     "resources/worksheets/missing-brand/index.html": "4c59dc5cf588a4c5f218e1cd878d4e38983c7d1161d5ea2c79ff4a6058786be8",
     "resources/worksheets/product-facts/index.html": "83db14ebfe1c9a3628967442cd6cdb12bd6701b299055db48f0575b3412d1229",
     "resources/worksheets/read-an-answer/index.html": "7774a98b71c8a81f6eefd7bd80fbe86ecd581c5eba29b76a675a9fe2c16440f9",
-    "rfp-guide/index.html": "17af657b2166d33ccdac39853aafc4459287e55dbc5a22d8213a8c6b23348f75",
+    "rfp-guide/index.html": "aaebb083f575f741206eef5d6169a3b557bdfc3df57477318172552d7c933717",
     "robots.txt": "ef45ab052003491abbbca6625fe955890ff4523e8ea2d2d5e6edea792f1aaa69",
     "scoring-spec/index.html": "25ce11ba266ed23089b7b30146f13f90600c3a37504c019de1179d3cbe05c277",
-    "search/search_index.json": "5de3dfde24cd1d367ef2fed48db504a90685299696eb3dc192a3fba34a4f0f6b",
+    "search-patents/index.html": "7f47edad2e5a029cd311ccf7a1f203ca64e62ba26fc0c647981454fb2a1400a3",
+    "search/search_index.json": "f81494c929be63a4ef0f2659618c88ff65e9f863c3304f7b238ebbdb4c2f53a7",
     "selection-not-ranking/index.html": "73869378f0598c5ca853fe4c3553fd475227af86874c24997b39284d6be66dc9",
-    "service-model/index.html": "792d8efbcf28363f4a6fe232f185588dfb23fb8d9d4a2bf52d92c30cefbd8294",
-    "sitemap.xml": "63040ad838cb5b7d90e961a0874ac6c42fac34e023bca5efe00edc7e8846a9ed",
-    "sitemap.xml.gz": "5000952c47f7d06b281b3a446559e4211340c3f6251f458039c22053a2e6e224",
-    "standards/local-pages/index.html": "1bfd2dab02c506cf942e090a649fa6bc3ba510c03f89436e74169ef13ed69fdc",
+    "service-model/index.html": "bb4e8d9a826bd440cde19c7cb850c937b46b9084727512de66156532cd2e13c9",
+    "services/bloomington-indiana/index.html": "b9382bb453589c7e98cbb7302cca594f27a399104be046d28c8a8196bf7715cd",
+    "services/chatgpt-visibility/index.html": "b8003845a0ca495eea3c8551465e90a20acc0ad2670212b571ada3ee60886cfc",
+    "services/claude-visibility/index.html": "166427a47c916b8385a25c6588e90a120a7bbc5d745619c47147f8d0c1e0afe6",
+    "services/google-ai-mode-visibility/index.html": "59c9655795a9b224796eeb1838342876f0db02bf3eec547d15badcb35e0c8326",
+    "services/google-ai-overviews-visibility/index.html": "0b5b4f42a2e41d3225fc8dfa16a1b6370869090a70d1adb0c695aabc1fab12a1",
+    "services/industries/construction-software/index.html": "1353e98bca04e4bac8a63b0b5142937ee20f84feb9cac54dd9d0110685ed99b3",
+    "services/industries/crm-software/index.html": "add7edd5acc70e4a5b5245d168881e8ee5347ffb479b18a7c51be9f2b935c1de",
+    "services/industries/dealership-software/index.html": "2d9572646191bde34cfb3119667b52442b5352daad4964bba8763051ce4e20e2",
+    "services/industries/dental-software/index.html": "e0b66809cb915b405cb7bd7ebee3f4e16074bcc535d7fe9b75bbed56060922e7",
+    "services/industries/field-service-software/index.html": "c99d9ad818246de5e07aa44c66a2a84099b044a93d08423028a645099709e186",
+    "services/industries/hotel-software/index.html": "e7f8ee8237b286fce6a663c23e103b1c17713ab5dd3fd95febf34d37a0818989",
+    "services/industries/insurance-agency-software/index.html": "63b18ebdc53a63faf6471c05edf7bfe79f89b4321b340fa918c00acacc308172",
+    "services/industries/legal-practice-software/index.html": "c877811dcb64f8b896e8a22fed1950da7099724211a8499b43a01906028d1001",
+    "services/industries/loan-origination-software/index.html": "24a7a9460186df8ab9d04d8e35f7eda63ed0df9cbb0a56e26677c6c162b60b54",
+    "services/industries/project-management-software/index.html": "1b0e35f2da669fafc1013bb3e5fff5eb299a36b6db07c8636cc7b3330d057f54",
+    "services/industries/property-management-software/index.html": "48c527d1f8f11a5866fcf7cfd7c4a2deb0bf637a79e2c19d39959170e1c0c25d",
+    "services/industries/radiology-software/index.html": "798639207df58fb1ff60289dc929f01b445a3990ea7e0dceb2c2731d126b947f",
+    "services/industries/transportation-software/index.html": "03614d6928b004fb8f41d1f7b9b9263dcd2e49cbc3d0bf5f787cdd282593338c",
+    "services/industries/veterinary-software/index.html": "11e154c09204d62318f3a186a73b6603fe705049ae0a74be6cc0d572538208d8",
+    "services/perplexity-visibility/index.html": "f0f22289c22752ccbf3cd14253b5043d7745e57b2416c6d640d816b6396b8701",
+    "sitemap.xml": "cf85cc3f2025eab0bd052741edc023f7cc378425f7af809899c9b72ca3b3ee1d",
+    "sitemap.xml.gz": "63967c38e858fa83ca7940fda7e157680af16a24bf689176fc4136acf708ce15",
+    "standards/local-pages/index.html": "0edbb67f6e131c59866b266c70d963f4c36078004d959c8ff66a685a39e935a5",
     "valid-measurement/index.html": "2cdfeb90446b65bad808e61ce1e2ce084a6e60c6ac0fe554fbae6de0c9fc3e61",
     "vendor-facts/index.html": "95b66c1732650986e77b2e4fb795ed56c56855e0236e388c879a23a4976b9324",
-    "webinars/index.html": "d207bc4e88e7ea76e26f8603319cc820b5a7fcf19b11d5826d8d13d8f9e49464",
+    "webinars/index.html": "059fa90770c191b2fc91c05b54ae2ec1608a18d23efa75dec23f28aa5fca3625",
     "who-gets-cited/index.html": "3c8d29c5fe907341f76a0b213a5c2694ca7369ba3c7b5a8eb579ffc4e61de7fc",
     "why-does-chatgpt-not-mention-us/index.html": "0be8f2c308fc53fe2b71826260fe8c4b07c63a774b06c7b176fbf14647ad62be",
-    "workshops/index.html": "f692cf10517d86d3eed68f3c6e2f4de552b8d070aece8d3f590be0d2f1a6ab7d"
+    "workshops/index.html": "6d018fe3c5921dfdf98651931dff179397223f6e821e8979312ae323ca266ef6"
   },
   "artifact_changes": {
     "404.html": {
@@ -850,9 +897,45 @@
       "after_sha256": "bd3aded4ee7e717d223dbb9f1f82e56fa1f21f79a50e86112973be13ff2822fe",
       "before_sha256": "45c8c490a935f48f346d7a8534b2250973c1c8a0d96026c86f04384c8d2c74ad"
     },
+    "agency-training/index.html": {
+      "after_sha256": "c69cd07619f36a9e5eabf87b5251a29dd1898dacb198a2a21c86fbbc3a435652",
+      "before_sha256": null
+    },
+    "ai-referral-analytics-template/index.html": {
+      "after_sha256": "545fa3fc59a3eac306cffff273a89d3b771eb8224fb1736c1165988013838417",
+      "before_sha256": null
+    },
+    "ai-search-glossary/index.html": {
+      "after_sha256": "cdadd206342dff5306a1253390cc1cb8c47b75e55a170c2518f28aadbf31fdf9",
+      "before_sha256": null
+    },
     "ai-source-standard/index.html": {
       "after_sha256": "6dc8c86db0a9257db50b6fce269c0508bdaf16ce1da2862cdca387fad2658c81",
       "before_sha256": "efaf52ae26b9bae93b4eb6fe80fc309c00117c99444dda9253e886b085e9ea42"
+    },
+    "ai-visibility-course/index.html": {
+      "after_sha256": "c12782b256cbcc137a84a120acdaae9e4210b8927e2935a90c90077d4f04119a",
+      "before_sha256": null
+    },
+    "ai-visibility-course/lesson-1-one-ai-answer/index.html": {
+      "after_sha256": "2620922c9bc3b31be45a987adf8ab376809f54de963d13be764fc66c239e7542",
+      "before_sha256": null
+    },
+    "ai-visibility-course/lesson-2-repeat-the-question/index.html": {
+      "after_sha256": "ed022e36a7a69060b8ee9610529477c2b6478524eb5a9abddc7dade71c3b5291",
+      "before_sha256": null
+    },
+    "ai-visibility-course/lesson-3-find-the-base/index.html": {
+      "after_sha256": "1572d241add880ba78477edd79566ca332f787aea8fd1d1da4ab56ee1539ef26",
+      "before_sha256": null
+    },
+    "ai-visibility-course/lesson-4-read-the-sources/index.html": {
+      "after_sha256": "40515ab8277752cb1bb59a248540444e65fadb680f215d31495daeb4db1c50ce",
+      "before_sha256": null
+    },
+    "ai-visibility-course/lesson-5-recheck-fairly/index.html": {
+      "after_sha256": "a2581631107b8f3164c9678866615124e6b7c959cb87dd1268f60c3f30284b1c",
+      "before_sha256": null
     },
     "answers/agents/can-an-ai-assistant-find-a-software-pricing-page/index.html": {
       "after_sha256": "a24570faf3c8a8e5d987fef999224f30623d3f0556dc5d581f759b1b85773e6a",
@@ -2131,7 +2214,19 @@
       "before_sha256": "0526dcfb1417df1d37b1b613db3932fa5b594a6e050294ad0d16321f3aec4966"
     },
     "articles/index.html": {
-      "after_sha256": "218bfc03f5f37f42e307ee36425d9e183e01a011673e9d97db88024e7d88819c",
+      "after_sha256": "4e070c5f577b2baa849862496eb35184120906ed95233efb0458104c677ba761",
+      "before_sha256": null
+    },
+    "assets/ai-referral/ai-referrals-channel-group.csv": {
+      "after_sha256": "e0c64121ee5ace5cd4cfb309d3704f1b51815cbbf68b5f4292c0032ed10ea547",
+      "before_sha256": null
+    },
+    "assets/ai-referral/ai-referrals-source-regex.txt": {
+      "after_sha256": "84cacfe6e4cc1dcfa8c44da9ace38ac2739caec9473ebd6b8faea03cc1d3c250",
+      "before_sha256": null
+    },
+    "assets/ai-referral/ai-referrals-test-cases.csv": {
+      "after_sha256": "76e7fbc345dc81e8e1d4a24690af807c3ec6b40df1c3c01353a68110b1bf7a40",
       "before_sha256": null
     },
     "assets/citations/broadcastwell-research.bib": {
@@ -2142,6 +2237,18 @@
       "after_sha256": "3ff480100210d57c555bf3a95837a907d9600d13e1afa6d1874b3a548bf2767c",
       "before_sha256": null
     },
+    "assets/playbooks/source-correction-steps-2026-11-09.csv": {
+      "after_sha256": "772fa8fb3c68dad6e9f1259277a827deaf0881253e983954bb9551e2a0896e2c",
+      "before_sha256": null
+    },
+    "assets/print/print-edition.css": {
+      "after_sha256": "e7f5220a7345c0ceae92fc46e514340a3b7918e38007e7bd745f118cd41ab4fd",
+      "before_sha256": null
+    },
+    "assets/product-docs/kalvenor-connector-tools-list.json": {
+      "after_sha256": "46a86fff6c7f11e5500f305977d35d9a9af6f3ee87a55650987592da2ce69f1d",
+      "before_sha256": null
+    },
     "assets/research/change-desk/2026-10-26/connectwise-statements-ai/index.html": {
       "after_sha256": "8f8b6e676b22d06c1166238bf6d1c445e0ff2a4ec845966e9e5b1058fdacb6ce",
       "before_sha256": "69eede840cfe23227ddb654cb7b7a16b7c4d45e0451d0c966c5419615ae70b6e"
@@ -2150,9 +2257,21 @@
       "after_sha256": "5ea83aaabc8f29d8be06ca2c8d939e404e829c4079da4f5b1e561d4e7f1b45cf",
       "before_sha256": "e709417a5ea05246936991f99187d18ebed0a37901539dfff20bec8533673421"
     },
+    "assets/research/print/Study1_The_Shortlist_Gap_print_edition_2026-11-09.pdf": {
+      "after_sha256": "5cbdb2c34a14b538b892e9e9fba605398cb605db6fbd1e0a1b5658bbf667fcaa",
+      "before_sha256": null
+    },
+    "assets/research/print/research-report-sha256.txt": {
+      "after_sha256": "44fb44f5f66faac81028acd23279d42c1323a62bb54f4d6206904c44557d1b6c",
+      "before_sha256": null
+    },
     "assets/research/study2/Study2_What_AI_Search_Visibility_Costs_2026-09.pdf": {
       "after_sha256": "e1572a2a2a7f8a94cd3e6b09862ce89e3b75be0390860de6236bec48a83a6487",
       "before_sha256": "3ed18647746445276604e1c739f2d809775db21f19904c5d7f927f95b116f421"
+    },
+    "browser-extension/index.html": {
+      "after_sha256": "477393191837ba31adc3cba67e51e0d41a1adf6dd4be398235613d229978387c",
+      "before_sha256": null
     },
     "business-facts.json": {
       "after_sha256": "648aaadddba237b4a628eded997951ec95c64d3de855691a679752a05d42d0b7",
@@ -2169,6 +2288,10 @@
     "category-door/index.html": {
       "after_sha256": "6d14870438627877d6decd52be0d2e924648b5c8983d7b4695d17b09ffef18e7",
       "before_sha256": "9423d3ca8d320e3dc715f3b791f13349be8734e7809e7f4b767ef49965c2728f"
+    },
+    "chart-library/index.html": {
+      "after_sha256": "6de2a28857bea1f5a53a6e0f7ee6d66a61c0dd85226719091e33f9935507a4f3",
+      "before_sha256": null
     },
     "chatgpt-business-hub/business-facts-file/index.html": {
       "after_sha256": "50979e266d5f299eb352dd5d489b4fcf553e1ec14bc7408591376f0dcf850ac5",
@@ -2191,7 +2314,7 @@
       "before_sha256": null
     },
     "cite/index.html": {
-      "after_sha256": "56c0bf9eeb11d90aad89a7ef938fa2601dbb5dd56caff94fa784ce102d6b2fe1",
+      "after_sha256": "afd6c4e00353374a1432fcfaaae9b15ff5e4b9178347416c9d74cc40c6a78b4b",
       "before_sha256": null
     },
     "cited-not-recommended/index.html": {
@@ -2202,12 +2325,16 @@
       "after_sha256": "d68f0bd5af557acc93fb47d0c6be8f58bbd640640a253f9305d9edf89c87538b",
       "before_sha256": "c5bc69ac17b5696e75819d76b56cee0a87f0815c279c0b3027a9f6b43a759dfa"
     },
+    "comparisons/index.html": {
+      "after_sha256": "9477994ee079009d71a2457cdee1c9fb73d66e50579187036813b07176817857",
+      "before_sha256": null
+    },
     "content-templates/content-brief/index.html": {
       "after_sha256": "21fced015de676e9fa3fe42b3da23d0191b711e77243a6bbe18bf7fb7852dee7",
       "before_sha256": null
     },
     "content-templates/content-strategy/index.html": {
-      "after_sha256": "3c0038a2e84151f39bb459fb5d43dcd125c1d0a4e1a7afd4652df6661d089428",
+      "after_sha256": "43d517714d0c61b22d00c57a846dd3f53b86cd947967a66451fd4125dd3e3bd5",
       "before_sha256": null
     },
     "content-templates/downloads/content-brief-kalvenor-sample.csv": {
@@ -2282,12 +2409,20 @@
       "after_sha256": "c6a7587ee20af6a633c03b535f375d29005dcc5aad1d1a06c73769cfdac13aef",
       "before_sha256": "8ec01708647fefafd52711db5eba93ec6e5a968144cc3e6616449e87d844aa59"
     },
+    "industry-benchmarks/index.html": {
+      "after_sha256": "01d419c3cc3a60ede764ebac848c5ebd5eee6e6eb8e8d18e94c44dd34ab9f332",
+      "before_sha256": null
+    },
+    "launchpad/certificate/index.html": {
+      "after_sha256": "096d6912bf16183369d3828ab1425792fbe4817dc67dd14715506c2352e2594d",
+      "before_sha256": null
+    },
     "launchpad/index.html": {
       "after_sha256": "e834add0beefb9db23fd8fecb68918d3e10a3d6a8759bb9f9bc6aeae2e2c1014",
       "before_sha256": "b98c25a723d38cf96c3fc8a539241f9526dd4851bb0a3d8772de8efcf156e033"
     },
     "llms.txt": {
-      "after_sha256": "ebc834e04901bf04d21f1be36bb977d6291c4104d193e2010b258492a4145ade",
+      "after_sha256": "b9e3203e56bb031c67b5d6ef5d96364b98b52462f393fb2c00d7fe7839b9d507",
       "before_sha256": "a62e1f13cfe04421bf784f784e4017ff05ff8d66853dedd9d2de655a6631cc6c"
     },
     "measurement-noise/index.html": {
@@ -2306,8 +2441,12 @@
       "after_sha256": "204d5a6d6c1b2dc7dec249120e2d316292e19e99bf647798c4b5e44a41360f08",
       "before_sha256": "fcf11aeaf0b3ca5ca40d909422e50db87be86916752c507268b2b49f8eb41cd6"
     },
+    "open-data/index.html": {
+      "after_sha256": "684d31b7fd370feb39b44e67283e3926f6760d7a60d6e8ae3eba1ea65b4a2901",
+      "before_sha256": null
+    },
     "operating-framework/index.html": {
-      "after_sha256": "ee53bdfa1a14df042350f514cca6db5a9c198e24eed10abc9c30290cdc9f75ea",
+      "after_sha256": "106b6ced52c05bfc82c983fdaa3c4b7e42a43d012e6c691819663e5c98f1e263",
       "before_sha256": null
     },
     "overview-trigger-rate/index.html": {
@@ -2322,6 +2461,14 @@
       "after_sha256": "34d69fbb5f77698bfed39f3227d98238be546269e36541f7b499079ccb7fd823",
       "before_sha256": "801c9f3bbcd3c9e48f008bac3d2572aa943b8fd57d25016a6cf68c20e9fdca8b"
     },
+    "print-edition/index.html": {
+      "after_sha256": "8689550945be90d7baef5c4e2a38a19a72a4ef9946ab1c2c5da6b49347a238b9",
+      "before_sha256": null
+    },
+    "product-docs/index.html": {
+      "after_sha256": "d3164f3c55397c8fedcc5e4bcddfe6e7ac4c36e3eebb62d85960f1a350b80fb6",
+      "before_sha256": null
+    },
     "question-bank/index.html": {
       "after_sha256": "73a6879ca630b662c58823c0372cfa258834b9a109872d535b9578da6978fce4",
       "before_sha256": "e203d169f72d829f1a4cf840540feb077fc501080b4e2a74337ba45998f9acee"
@@ -2331,7 +2478,11 @@
       "before_sha256": "5fc9a18280104cb9a2574cfa66ce83aee5cb858256b2d4262852d45fafabf872"
     },
     "release-notes/index.html": {
-      "after_sha256": "d3eaaf4471c73a1927fb9e8c12612c4d2d522a0e615f7b07ba4e4aa6dbe0e162",
+      "after_sha256": "6afb76a4634a7bcc417105650f46e08439002148d30034c16333b414746004e3",
+      "before_sha256": null
+    },
+    "research-report/index.html": {
+      "after_sha256": "ed21fec8b9ef9e70d6eedea3508a18a2ab6bb4ab4d16246fd8d9e096369ef9a8",
       "before_sha256": null
     },
     "research/academic-access/index.html": {
@@ -2631,7 +2782,7 @@
       "before_sha256": "3bacc1712ade602b91db4d7e5eef63cdb53e422bb892fc64f916e2678cdb6b53"
     },
     "resources/guides/fair-recheck/index.html": {
-      "after_sha256": "c26853914f190c00ddf23fa95c213cb270adf86b775665ac107bb7947528aace",
+      "after_sha256": "13163c812a13c300ed1f41a6bcc81b46446b4f75d5eda83745383699dbabb613",
       "before_sha256": "0b959fd5cfcf36cc3409e73a3381b1578e19184bedacd2b9f22ea308b164589f"
     },
     "resources/guides/missing-brand/index.html": {
@@ -2647,7 +2798,7 @@
       "before_sha256": "f0335a64fd90ba40cc164d10757b5d3316ecea5005d1f3c08f74f45ed725c602"
     },
     "resources/index.html": {
-      "after_sha256": "fb82d95faf6878f21236f7eaa7cbb5163156e1dc3cc834dfb17b74b5028082d8",
+      "after_sha256": "81d99b565fefaa9b166f2d94263bde4e6323a80cf0407a50e894f574a15fdfbd",
       "before_sha256": "ad5ffcc5c6fbe2201b8d6c0b7de0702499ca5c8aca0975498d60643ff8feb4af"
     },
     "resources/playbooks/commercial-review/index.html": {
@@ -2679,7 +2830,7 @@
       "before_sha256": "3a83ee84237182e73f4de9523c34e220c7532717d6c470f49a087a41ee043daa"
     },
     "resources/playbooks/source-correction/index.html": {
-      "after_sha256": "9cc95e541d7a46b6569389d74e1c026b0ee489ff557eafe3027c6d6b7aefe04e",
+      "after_sha256": "6ba058c9b8f5f9acaf697023bff7ee58aca620aecf13d94699827cc089f76a4d",
       "before_sha256": "5f2db9f35f040445fbb334d79876d59cde01774a1dccf8a7dec51dda152bb446"
     },
     "resources/playbooks/technical-change/index.html": {
@@ -2719,15 +2870,19 @@
       "before_sha256": "0f2aeff753bbeb006f06b35e11a0bdd376a067086f6f03bb233f19c894a87085"
     },
     "rfp-guide/index.html": {
-      "after_sha256": "17af657b2166d33ccdac39853aafc4459287e55dbc5a22d8213a8c6b23348f75",
+      "after_sha256": "aaebb083f575f741206eef5d6169a3b557bdfc3df57477318172552d7c933717",
       "before_sha256": null
     },
     "scoring-spec/index.html": {
       "after_sha256": "25ce11ba266ed23089b7b30146f13f90600c3a37504c019de1179d3cbe05c277",
       "before_sha256": "26f587b7d8c58b019da1130971a69dd886dede88c49557727e1a707abe617106"
     },
+    "search-patents/index.html": {
+      "after_sha256": "7f47edad2e5a029cd311ccf7a1f203ca64e62ba26fc0c647981454fb2a1400a3",
+      "before_sha256": null
+    },
     "search/search_index.json": {
-      "after_sha256": "5de3dfde24cd1d367ef2fed48db504a90685299696eb3dc192a3fba34a4f0f6b",
+      "after_sha256": "f81494c929be63a4ef0f2659618c88ff65e9f863c3304f7b238ebbdb4c2f53a7",
       "before_sha256": "b35b56bd04c8030d3f7255a7dbf677bf8373d7224129d6b2ea9b0bc8158116ed"
     },
     "selection-not-ranking/index.html": {
@@ -2735,19 +2890,99 @@
       "before_sha256": "8841fabadf64df0c82fc16125b1837b449981e9b99948c127eeb13bb08be5f06"
     },
     "service-model/index.html": {
-      "after_sha256": "792d8efbcf28363f4a6fe232f185588dfb23fb8d9d4a2bf52d92c30cefbd8294",
+      "after_sha256": "bb4e8d9a826bd440cde19c7cb850c937b46b9084727512de66156532cd2e13c9",
+      "before_sha256": null
+    },
+    "services/bloomington-indiana/index.html": {
+      "after_sha256": "b9382bb453589c7e98cbb7302cca594f27a399104be046d28c8a8196bf7715cd",
+      "before_sha256": null
+    },
+    "services/chatgpt-visibility/index.html": {
+      "after_sha256": "b8003845a0ca495eea3c8551465e90a20acc0ad2670212b571ada3ee60886cfc",
+      "before_sha256": null
+    },
+    "services/claude-visibility/index.html": {
+      "after_sha256": "166427a47c916b8385a25c6588e90a120a7bbc5d745619c47147f8d0c1e0afe6",
+      "before_sha256": null
+    },
+    "services/google-ai-mode-visibility/index.html": {
+      "after_sha256": "59c9655795a9b224796eeb1838342876f0db02bf3eec547d15badcb35e0c8326",
+      "before_sha256": null
+    },
+    "services/google-ai-overviews-visibility/index.html": {
+      "after_sha256": "0b5b4f42a2e41d3225fc8dfa16a1b6370869090a70d1adb0c695aabc1fab12a1",
+      "before_sha256": null
+    },
+    "services/industries/construction-software/index.html": {
+      "after_sha256": "1353e98bca04e4bac8a63b0b5142937ee20f84feb9cac54dd9d0110685ed99b3",
+      "before_sha256": null
+    },
+    "services/industries/crm-software/index.html": {
+      "after_sha256": "add7edd5acc70e4a5b5245d168881e8ee5347ffb479b18a7c51be9f2b935c1de",
+      "before_sha256": null
+    },
+    "services/industries/dealership-software/index.html": {
+      "after_sha256": "2d9572646191bde34cfb3119667b52442b5352daad4964bba8763051ce4e20e2",
+      "before_sha256": null
+    },
+    "services/industries/dental-software/index.html": {
+      "after_sha256": "e0b66809cb915b405cb7bd7ebee3f4e16074bcc535d7fe9b75bbed56060922e7",
+      "before_sha256": null
+    },
+    "services/industries/field-service-software/index.html": {
+      "after_sha256": "c99d9ad818246de5e07aa44c66a2a84099b044a93d08423028a645099709e186",
+      "before_sha256": null
+    },
+    "services/industries/hotel-software/index.html": {
+      "after_sha256": "e7f8ee8237b286fce6a663c23e103b1c17713ab5dd3fd95febf34d37a0818989",
+      "before_sha256": null
+    },
+    "services/industries/insurance-agency-software/index.html": {
+      "after_sha256": "63b18ebdc53a63faf6471c05edf7bfe79f89b4321b340fa918c00acacc308172",
+      "before_sha256": null
+    },
+    "services/industries/legal-practice-software/index.html": {
+      "after_sha256": "c877811dcb64f8b896e8a22fed1950da7099724211a8499b43a01906028d1001",
+      "before_sha256": null
+    },
+    "services/industries/loan-origination-software/index.html": {
+      "after_sha256": "24a7a9460186df8ab9d04d8e35f7eda63ed0df9cbb0a56e26677c6c162b60b54",
+      "before_sha256": null
+    },
+    "services/industries/project-management-software/index.html": {
+      "after_sha256": "1b0e35f2da669fafc1013bb3e5fff5eb299a36b6db07c8636cc7b3330d057f54",
+      "before_sha256": null
+    },
+    "services/industries/property-management-software/index.html": {
+      "after_sha256": "48c527d1f8f11a5866fcf7cfd7c4a2deb0bf637a79e2c19d39959170e1c0c25d",
+      "before_sha256": null
+    },
+    "services/industries/radiology-software/index.html": {
+      "after_sha256": "798639207df58fb1ff60289dc929f01b445a3990ea7e0dceb2c2731d126b947f",
+      "before_sha256": null
+    },
+    "services/industries/transportation-software/index.html": {
+      "after_sha256": "03614d6928b004fb8f41d1f7b9b9263dcd2e49cbc3d0bf5f787cdd282593338c",
+      "before_sha256": null
+    },
+    "services/industries/veterinary-software/index.html": {
+      "after_sha256": "11e154c09204d62318f3a186a73b6603fe705049ae0a74be6cc0d572538208d8",
+      "before_sha256": null
+    },
+    "services/perplexity-visibility/index.html": {
+      "after_sha256": "f0f22289c22752ccbf3cd14253b5043d7745e57b2416c6d640d816b6396b8701",
       "before_sha256": null
     },
     "sitemap.xml": {
-      "after_sha256": "63040ad838cb5b7d90e961a0874ac6c42fac34e023bca5efe00edc7e8846a9ed",
+      "after_sha256": "cf85cc3f2025eab0bd052741edc023f7cc378425f7af809899c9b72ca3b3ee1d",
       "before_sha256": "3cdcf98afa2e4b7acada5c69d9457b1f050ca3a21dc343f4e781c980fe2626f5"
     },
     "sitemap.xml.gz": {
-      "after_sha256": "5000952c47f7d06b281b3a446559e4211340c3f6251f458039c22053a2e6e224",
+      "after_sha256": "63967c38e858fa83ca7940fda7e157680af16a24bf689176fc4136acf708ce15",
       "before_sha256": "011fe9dab740555c2b6822e09a695be8e06a3e79f167b2ce0bed35ab6e8a6235"
     },
     "standards/local-pages/index.html": {
-      "after_sha256": "1bfd2dab02c506cf942e090a649fa6bc3ba510c03f89436e74169ef13ed69fdc",
+      "after_sha256": "0edbb67f6e131c59866b266c70d963f4c36078004d959c8ff66a685a39e935a5",
       "before_sha256": null
     },
     "valid-measurement/index.html": {
@@ -2759,7 +2994,7 @@
       "before_sha256": "89ea11205a764bf5264264b6e45684dcb992994dd25e5189f0b598cb3a034a85"
     },
     "webinars/index.html": {
-      "after_sha256": "d207bc4e88e7ea76e26f8603319cc820b5a7fcf19b11d5826d8d13d8f9e49464",
+      "after_sha256": "059fa90770c191b2fc91c05b54ae2ec1608a18d23efa75dec23f28aa5fca3625",
       "before_sha256": null
     },
     "who-gets-cited/index.html": {
@@ -2771,25 +3006,25 @@
       "before_sha256": "308d706fe1eca1b28a8a12f02c2fe066a9ea9e4ba636e780f2cea33d990824de"
     },
     "workshops/index.html": {
-      "after_sha256": "f692cf10517d86d3eed68f3c6e2f4de552b8d070aece8d3f590be0d2f1a6ab7d",
+      "after_sha256": "6d018fe3c5921dfdf98651931dff179397223f6e821e8979312ae323ca266ef6",
       "before_sha256": null
     }
   },
   "artifact_review": {
     "PDFs_changed": 0,
-    "actual_Linux_artifact_id": 13680382219,
-    "actual_Linux_run_id": 42628516212,
-    "actual_artifact_sha256": "39fa73df49c5cbf5f606a3d38e53898f095030b18dfce23b16d8bafb5586bd63",
-    "added_from_production": 24,
+    "actual_Linux_artifact_id": 13687221207,
+    "actual_Linux_run_id": 42643496358,
+    "actual_artifact_sha256": "d16fa36d928434b58dff0ef449b563553662417ec5b8d83fa8db5f40558a5e55",
+    "added_from_production": 47,
     "approved": true,
-    "changed_from_production": 7,
-    "complete_files": 828,
-    "exact_comparison_sha256": "b6b085b4c600e00f0a59acee3b1fb9e36b04d0331abb2d2dc1af74c7a78f053d",
+    "changed_from_production": 17,
+    "complete_files": 875,
+    "exact_comparison_sha256": "170c5c219d8522185cfdb6955e08ec2f3040390d7bef8e97a953a90e1f7e28f8",
     "frozen_HTML": 45,
     "frozen_sitemap_entries": 45,
     "pinned_assets": 5,
-    "reviewed_utc": "2026-11-09T13:57:03.049588+00:00",
-    "source_head": "8dbf45bfe7584a752a0b568ccd91193453dffbb6"
+    "reviewed_utc": "2026-11-09T15:36:15.727207+00:00",
+    "source_head": "9c6a5b1a632af70826aaa705f0d5db7718033c2c"
   },
   "base_commit": "88d6b6bb11f8b4bd713ee7e4e79c863ff9973518",
   "base_source_sha256": {
@@ -5382,7 +5617,16 @@
     "docs/absence-ladder-volume-ii.pdf": "63ad282653a035a94a852fba0e50efd0e77ee5861f9c5f9964806bca9ce84392",
     "docs/absence-ladder.md": "d4111898adaab105e6d5bc16b4eeed226945c79fe47529c30c889af902fb0a91",
     "docs/absence-rules.md": "485c34b7416e6ab4ec3420db36c749fbb392934579a232db4b6ab81eb9df6774",
+    "docs/agency-training.md": "1af750af66037547e95d3cb34a8aada3d265c798908186635eaa22af2f2f34ee",
+    "docs/ai-referral-analytics-template.md": "832d7efe09816444b7347209ea0f5faa1384d20031d28931c7533133e9254d7f",
+    "docs/ai-search-glossary.md": "3d2afbed46a32e669aa6a0e5094194d71c7ec8b0ad239442fbfe2cc1e3fe9a9f",
     "docs/ai-source-standard.md": "8420fb064397c4a860d22b94dabbb8523a45e1070e259ed2cb58931feba82f8c",
+    "docs/ai-visibility-course/index.md": "0de92638f2e8348303e126c70b0d19a43935ad8b38e21c647f2ae72cd7c4a90d",
+    "docs/ai-visibility-course/lesson-1-one-ai-answer.md": "3f8eaf37fab5a43e7238a6580495784b181c7ab8e0be84c7de794fd035cfa15c",
+    "docs/ai-visibility-course/lesson-2-repeat-the-question.md": "90f7a429a408e35df4c2c984ae6b2ce385159068dbf6b6c74ce47b1c322895bd",
+    "docs/ai-visibility-course/lesson-3-find-the-base.md": "cdf6940714b9e5c3aaae84f02613f0f07f90e0159365a40ec30ae618071ee496",
+    "docs/ai-visibility-course/lesson-4-read-the-sources.md": "42f95d09d2e1af4882a44237ae5f30a19c76cb07724187f4232d308cbb0cc61f",
+    "docs/ai-visibility-course/lesson-5-recheck-fairly.md": "7476684ce0d714577213d4e59e9c10cd27a34d6c9a2659ce0626075e5ff97d2d",
     "docs/answers/.pages": "60cf59599471be37eec740bbdefc1fc229766f94077d1efe125b3bade15e9fe5",
     "docs/answers/agents/.pages": "c256025fb72fbd0850302def1092e72e2974b9e289d9743af0e945cff74a516e",
     "docs/answers/agents/can-an-ai-assistant-find-a-software-pricing-page.md": "b69203a601d743a1efc86e5332ea74a0ac4041014be3cdcb4e66fdbd37a5562c",
@@ -5733,10 +5977,13 @@
     "docs/answers/perplexity/which-radiology-software-does-perplexity-recommend.md": "fd0698eddbf12090e901e817e2d92e88153b8fb55f34af09835aef0b0b4aeee1",
     "docs/answers/perplexity/which-transportation-software-does-perplexity-recommend.md": "9288860f76d752453ce7bf4930b38cf0f8d24e30c56f309e233d1edee512f87c",
     "docs/answers/perplexity/which-veterinary-software-does-perplexity-recommend.md": "9fd9e2f0b6654f70776baae1894304796669f3e20ae916533674afe180494202",
-    "docs/articles.md": "a030f1732488393070604c9824203f032244272ea1bb94e478d7653ca73fda33",
+    "docs/articles.md": "31ebc243b41af4814d3db60fad3ce679b281043ce1d946cf038157e032cd4cc9",
     "docs/assets/absence-manual-2026-08.svg": "11c60c9d66aadae43b25844ff517ac725532353a6e174df811373b719158af4b",
     "docs/assets/absence-manual-2026-09.png": "1c127d0e0c1e24d01f12b9427aa09e14a06c86895c45aed953d0c09540f52e1b",
     "docs/assets/absence-manual-2026-09.svg": "afddd1c26326e01ea6385755b0fef958d83351b34b2bda4910459a5dd1d16d02",
+    "docs/assets/ai-referral/ai-referrals-channel-group.csv": "e0c64121ee5ace5cd4cfb309d3704f1b51815cbbf68b5f4292c0032ed10ea547",
+    "docs/assets/ai-referral/ai-referrals-source-regex.txt": "84cacfe6e4cc1dcfa8c44da9ace38ac2739caec9473ebd6b8faea03cc1d3c250",
+    "docs/assets/ai-referral/ai-referrals-test-cases.csv": "76e7fbc345dc81e8e1d4a24690af807c3ec6b40df1c3c01353a68110b1bf7a40",
     "docs/assets/buyer/buyer-audit-proof-20261014.webp": "506f526cd2366d9309f939da364c54044bf8ebe0a620ab376cecd618479a6eca",
     "docs/assets/citations/broadcastwell-research.bib": "fd41e9961f555156734aee73bbcae725e89cc773272150a3e065af940d5af2bd",
     "docs/assets/citations/broadcastwell-research.ris": "3ff480100210d57c555bf3a95837a907d9600d13e1afa6d1874b3a548bf2767c",
@@ -5818,6 +6065,9 @@
     "docs/assets/library/search-console-2026-10-27-summary.json": "e81c19c0a8b0368926a2139aee01d7c440faacce228d454debb3f27a9fb5003d",
     "docs/assets/manual-controls.js": "2f8ae128e442870ffae7065b556df8c8e4d1801a237591ed5cd9459da9d3795b",
     "docs/assets/manual.css": "5d9175553b2612640bc964a05844cb217fdfa328be23fd5c3dd4bae12aacc825",
+    "docs/assets/playbooks/source-correction-steps-2026-11-09.csv": "772fa8fb3c68dad6e9f1259277a827deaf0881253e983954bb9551e2a0896e2c",
+    "docs/assets/print/print-edition.css": "e7f5220a7345c0ceae92fc46e514340a3b7918e38007e7bd745f118cd41ab4fd",
+    "docs/assets/product-docs/kalvenor-connector-tools-list.json": "46a86fff6c7f11e5500f305977d35d9a9af6f3ee87a55650987592da2ce69f1d",
     "docs/assets/research/change-desk/2026-10-26/connectwise-statements-ai/index.html": "69eede840cfe23227ddb654cb7b7a16b7c4d45e0451d0c966c5419615ae70b6e",
     "docs/assets/research/change-desk/2026-10-26/counts.json": "28f3451b43747c811cbbe7ea7ec1ebc52f11b7bfcdb09ac21b2933ede7d10094",
     "docs/assets/research/change-desk/2026-10-26/frozen-sources.csv": "3330e8a843c0da01f3c3bb15ae8dd1ed7f23224baa6c255a2db9b11ad9b0156c",
@@ -5828,6 +6078,8 @@
     "docs/assets/research/change-desk/2026-10-26/study-c-answers.csv": "cfcc48f923286dc8c5e09fc063e6c178136d6c51ed0b50661e603e6503e618ce",
     "docs/assets/research/change-desk/2026-10-26/study-c-findings.json": "b6948b2fcf7a46630115786ccda8dea2294182a76066eb06d5bd40f34ae34467",
     "docs/assets/research/change-desk/2026-10-26/transaction-fact-ledger.csv": "58a217a6a245994059bd0494a18fea98506eda1b1ee8d420f507a7633a68e961",
+    "docs/assets/research/print/Study1_The_Shortlist_Gap_print_edition_2026-11-09.pdf": "5cbdb2c34a14b538b892e9e9fba605398cb605db6fbd1e0a1b5658bbf667fcaa",
+    "docs/assets/research/print/research-report-sha256.txt": "44fb44f5f66faac81028acd23279d42c1323a62bb54f4d6206904c44557d1b6c",
     "docs/assets/research/study1/Study1_The_Shortlist_Gap_2026-09.pdf": "21d03ff5eb70575ca59ad548b2930919bf1aeb3ad5e760621ac307cc73e8e881",
     "docs/assets/research/study1/chart1_never_named_by_category.png": "3d4d7a235074fd3dd2e02289d14c7ac12cb673c6e708958d2649fd3a4db8d9e5",
     "docs/assets/research/study1/chart1_never_named_by_category.svg": "272511959cbeeb7059d3e3258a343d50c2ef268873a6fb463640f0b9f1da2e14",
@@ -5885,18 +6137,21 @@
     "docs/assets/summit/font_home_inter_1440.jpg": "51f6a24ea1abef25af336b0b144c49e8ff454a6b7ceaebf3b43270a4b9cbd360",
     "docs/assets/summit/font_pricing_geist_1440.jpg": "ba53d8d580f7ae93d227f70f5ec0957742717f9ef049603a2f723654cda10ddd",
     "docs/assets/summit/font_pricing_inter_1440.jpg": "3442d55df6b907ff321aaad8bad9aa1c5bdeb373cec65fe4b46e5f4aa90f59a6",
+    "docs/browser-extension.md": "98c776866a655cd0a4e771dde385784575494fbdf7084230d7e796f478c686cb",
     "docs/business-facts.json": "648aaadddba237b4a628eded997951ec95c64d3de855691a679752a05d42d0b7",
     "docs/business-facts.schema.json": "c9e62e13a188ddb5a429fb9d40c5f419d2d19ba9784e4ae372468c8daebb4463",
     "docs/cases/format.md": "47e930dc357c0fa40025bf1f5183c4d62f15a460935d5694ca4596fec9330e9f",
     "docs/category-door.md": "358184a0cf35973b44fd290850a51650206cffa200afc6cf68ff839efe040893",
+    "docs/chart-library.md": "480d79678fad7d7c2de07cb73004663c1706a3767a76b3da38c2c277c0c4cb7d",
     "docs/chatgpt-business-hub/business-facts-file.md": "aaaf0e50774ba6d9f35ba757fb41eff118891df240ce2281d9d1584e449d7a4c",
     "docs/chatgpt-business-hub/context-pack.md": "5b9a8da8deb4e296aa317bd6afba207a43c59fedc3afdc8fdd3972659f5314f9",
     "docs/chatgpt-business-hub/index.md": "6169b0398980a598b2032fc0f8f44310ddb9e8324bbe76077148ad05dc5d00d8",
     "docs/chatgpt-business-hub/reconciliation-report.md": "5aaf6d38baca38ccbf8953f475aa10b1ca679f62b88ee105bcf70f0fbc3eaa9a",
     "docs/chatgpt-business-hub/watch.md": "c734f10445cabcf2ecce18ee25314980d02975416719df880785f25fe8b1af8b",
-    "docs/cite.md": "a64aa8ebb585918f13f3d2a4570666bd527aae4d863c0df483896105fbd866ab",
+    "docs/cite.md": "8466001ed3b001d861d2c474369bf772175f0a56e88c3f03d201dd5f6bb4c366",
     "docs/cited-not-recommended.md": "e1cc8fef26ed204c34643530801f10f0d293f30d90d427a762e428d270b7ba75",
     "docs/comparison-gate.md": "873b035d8e194930c9d75699ef6e2ab849e05e765eca5b5b5d2928fd24251fde",
+    "docs/comparisons.md": "264fe4852724b47c908dda8a3c80cb315456b3a3df6d95ae74f8b9924c26d7a4",
     "docs/content-templates/content-brief.md": "c47730c290b57be9179a33f53773e8db3f321d2ee36bf95ba95ae467c2bb9a7b",
     "docs/content-templates/content-strategy.md": "15bb216c174ea4c2a3d6433c3125744b25e9bddf955330e6ad40deaec5200e46",
     "docs/content-templates/downloads/content-brief-kalvenor-sample.csv": "5cd7a75d310eca20d8314b0e58d31300e25a25a7878949e48b80af596514b7ee",
@@ -5927,20 +6182,26 @@
     "docs/how-long-it-takes.md": "9e242a46fa904b0fae13f22f863aa1edfaaf5644d4a20f36b0bc144bb98cbdbf",
     "docs/how-to-buy-geo.md": "8013baabd2be51250b1536cce0ea85a4e68135e435f57c136d0a8ad65bca6f71",
     "docs/index.md": "778e4760509d2afc0cadc31769a9c115069e67bb3affe91017d28c212b221d11",
+    "docs/industry-benchmarks.md": "120493989e81df3a97c6415862ace48ff302adbe1b654c1265d35df33b6a9c8d",
     "docs/launchpad.md": "b9654cd26b37e41cb12732f1398e87631dcb38a38006226e59c17219017303f2",
-    "docs/llms.txt": "1da12b712ed5f0eb1667e487607a84b5b20bff78d10501baa4d764dc80dc9169",
+    "docs/launchpad/certificate.md": "c4cc41927654b1c9419137dc3778be41cba8471c5eae92d3f2a67e9600176a1e",
+    "docs/llms.txt": "82223572f4d905e1f0a9b7eefa1eb8bcbf5d4b529bea75eadf5b2957f0168cd8",
     "docs/measurement-noise.md": "e4d3f18afb52fa69a736532fa3bf7e976f1791953750fe3810da71923f486001",
     "docs/media-kit.md": "44d0917cbdd2d8e8a102b5809c38da67a0a8b3027777dd44083eed6c4941fc69",
     "docs/model-releases.md": "5cb3c9979209309b90cc977205ea9163a19ec37ef4179f73a3c4a1c9baad7851",
     "docs/named-zero-times.md": "954690786c5f1e7b1eb64560f0ebae14faf5ac7ea3cb58769e8ff079fd412ff3",
-    "docs/operating-framework.md": "254e4a0239e0fcd775caa360c6f6bed3df4ba74418a8f1fb4ea36a21fcf193c6",
+    "docs/open-data.md": "2db96174a004ebc0d3e6eae26296e50b1150623661a1bcc94b3dc8c862147f9d",
+    "docs/operating-framework.md": "dee003f2951f2a410ccf316d17aed6dd945c0a6cc4605063c5f2f336bc5e4709",
     "docs/overview-trigger-rate.md": "bb063b19cfb07afc593521867e857cdebda3988f97cb33e2b446963407989685",
     "docs/posts/.pages": "7546f7bbda74b65fd18ca4600076d759fd5837ed6367b19a27a7c5fde8d864f9",
     "docs/posts/half-its-own-shortlist.md": "22eca1b1db09e529645d07a5ab2700a5a56dc5d83af6cc0bc13e0b92c55eeb13",
     "docs/posts/same-score-different-problem.md": "fada60f8c04b0a5a0401bb25fcf382dcd06ee6c493b3b4ba5f278c049995cae6",
+    "docs/print-edition.md": "508d26312f0f482f3d4d222d2f562d9e4285f09e79242963a3c4bc98d1ad2128",
+    "docs/product-docs.md": "c98e27446a5c704742cfc6a8e1d727232ea4460f812a1e89c2d2bdb93090c940",
     "docs/question-bank.md": "74e9441125931903ab26cac9ef4a90e3908b1ba0bb70ef66b8d50537bf677d85",
     "docs/references.md": "bc22c6efa43158f6411fab66006553bc2284af0b74eecad2536499f36922be48",
     "docs/release-notes.md": "94803151a2b2a754804f56d9090dc4bbed6e11c5cde96e6a7303912d9f059362",
+    "docs/research-report.md": "ebaa4d8f1de9b572baab81908c7c6c23ec22a3667b272f66e5c53dc8f383c50e",
     "docs/research/.pages": "2bac0914fb1ab81f96b3582503fdf263ba80ae112357d68a0bfab4d453b82dbd",
     "docs/research/academic-access/index.md": "44556b2b9796f950c71f05612d6be99d890e7527fd339807bcc14ce6c0f25f24",
     "docs/research/claims/index.md": "c32bfd984e5e70fb8046930f7b5f5ca7fe47ab9affe02dc50c83e01659114165",
@@ -6096,7 +6357,7 @@
     "docs/research/studies/who-ai-engines-cite/index.md": "52ffde72d0af4dda31885e979509993208c7b0f202a6e8d9bc1b1ca2f0917e74",
     "docs/research/study6-wrong-about-you.md": "cd79cad58fe74b5053adea0627a86e2162d9149b8c9342db00669c0efa025c48",
     "docs/research/study7-ai-written-rfp.md": "3460f07196433baf418e26515abdacca38e0a4fa6a4664cccdf70a8a4e5654a8",
-    "docs/resources.md": "c41990c0afe8e6b03965311cc01ff0b4486f7f23b69cee1ff71dd5574d6093d0",
+    "docs/resources.md": "b594b6d2ff0e446d3fb3071e5a54beb86e26aea90ae0c94aa10314071d8200bd",
     "docs/resources/.pages": "42d8deb70890ab44d75b0ea1187c8119785c2cd264c1936fff2af74eb64393bc",
     "docs/resources/audit/executive-template.md": "79b97888fe8b9b6ed668693890de756b6b5e9c316c68e87ea37c3c6def598be1",
     "docs/resources/audit/recheck-receipts.md": "5a07de72fce1c2e096a00fb1ab3e2884d6cd00f8dc67542dda68acbe804d67f3",
@@ -6114,7 +6375,7 @@
     "docs/resources/demos/work-order.md": "44b7f7f56039fe042e3074cf8ad06c912e17d46acc60cde5dbb1b7b01c4512ac",
     "docs/resources/guides/buyer-questions.md": "1016af67cc126f4fbb11f72d06f342560f7d6bbecbb04e8714313702240ca68c",
     "docs/resources/guides/comparison-page.md": "d4e8a35f05f4cdae61367101b228232422c7915a2d5218549f285a731aaed17f",
-    "docs/resources/guides/fair-recheck.md": "8d689adecde3ad5d4a2f0d83e92af6b79133e2c039ce9ada1ec992736e98c112",
+    "docs/resources/guides/fair-recheck.md": "68570b603bfc1651210bbb771b2d0b2361a20e16212bba8c0b21bc66ba99cd7e",
     "docs/resources/guides/missing-brand.md": "236fe9a45fcd9491d5b5fc9cc46d3d1aae8785786ba4e41cb71403033cd69b26",
     "docs/resources/guides/product-facts.md": "1270db05b32971c987c359e7a0b99090a2a6921e8b0e02227cd216540730508c",
     "docs/resources/guides/read-an-answer.md": "a54675cd69c1952b79753501ca9c1ac63a1017c1b1027c28018309b4260e564f",
@@ -6125,7 +6386,7 @@
     "docs/resources/playbooks/question-selection.md": "23bbbc1b643558c1a4fe7f230040c582bb791e204cfd8015a9b06fe7b39405fa",
     "docs/resources/playbooks/receipt-review.md": "6a33a1f6cbefd6fa8756bac0cea0b6691e1d61c4e07e0de6465511c250976626",
     "docs/resources/playbooks/recheck-review.md": "a104d4a915e79bb815633fca98b7ec73662c9dc87ce295ca875384168af7220d",
-    "docs/resources/playbooks/source-correction.md": "6e6c7b4efb70219d8e3c8727e407eb62c206e8cffb3a4365ee0ccf2a6178589b",
+    "docs/resources/playbooks/source-correction.md": "532d5758b3e7875e29318de791247d900906e982e05bc4a7e17aadb6c21c8218",
     "docs/resources/playbooks/technical-change.md": "6c5edc695b2fe244af6c7c65b41f2ff785face2f479f2ea33e35b800bdf5bd58",
     "docs/resources/provenance/sources.md": "dbd3232ac30210cf4b43a2e3332078728888e146e25701ac489b91467bceafc1",
     "docs/resources/three-rates.md": "07c2c036ff52675d4d477adc614acdc4c0cfd0f014739b926a0947dad322ac7c",
@@ -6135,18 +6396,39 @@
     "docs/resources/worksheets/missing-brand.md": "d55e56b6d24fd8e80a8e7fc0f46a73ceb228f2d1c089ed30dc68fbce4a763abc",
     "docs/resources/worksheets/product-facts.md": "b6858f337974c1365de42ed059e2a4aed83ab8cf05edb44516d83889e667e4df",
     "docs/resources/worksheets/read-an-answer.md": "2bf5128fe907d3614b38db44abfbbb3857d479bbf2a3da7a4149afc8b3762879",
-    "docs/rfp-guide.md": "45b2412ec2122454c9da81d6a4511492c1cf01fb9595d9b8c024d8c5d8fb3bf6",
+    "docs/rfp-guide.md": "5b4f55e390221170825795ca6642ea7097df0105c78ca9c5f2f0524351eb4a4f",
     "docs/robots.txt": "ef45ab052003491abbbca6625fe955890ff4523e8ea2d2d5e6edea792f1aaa69",
     "docs/scoring-spec.md": "5bdff074d66a1005d177a55f81f1b3f00dd11f3920d177ac2b9f44ae2f0b6ac6",
+    "docs/search-patents.md": "6b4af9156e85d3ff208eba7955b9a61dcb2d4433273933faead4e2cc98551e67",
     "docs/selection-not-ranking.md": "77d47682aba03b8b9c142310b0069d76ee9d58a06b00a483baef27f7475170cd",
-    "docs/service-model.md": "e9622938d339c4e882bdf2470ac59457d0b409fc2c1bb624a8cb088f9e020158",
-    "docs/standards/local-pages.md": "0480ef5763efeee1113b6f0ccdd3b2f3af7f4785ba0c34cea35cb47512a20ff0",
+    "docs/service-model.md": "b12fc8f40e7775d384e8e7d5f4d85b0a7cb05c722f55d2a8c350dae7fe3d6138",
+    "docs/services/bloomington-indiana.md": "10e944ba715678c78758666c0c18dd270875fc137f0488bfddbc1e27cba7498f",
+    "docs/services/chatgpt-visibility.md": "c42bebb3b2a4066159b4ebeeaf2c134d09a8466d214cee50320d86b24500b9f9",
+    "docs/services/claude-visibility.md": "d33b07bdec78fcc12ff1198500a2a821d9f3f829f66eef6486179513a1d5ba21",
+    "docs/services/google-ai-mode-visibility.md": "70cc249d91716d28a1d81dcff12637e157c4a9e816ae45e21007a59fa8eb377d",
+    "docs/services/google-ai-overviews-visibility.md": "dd4bccceef0ba64ece7946aa6efc629a52fa6a6c0dcf6160ed0972a8e22a4939",
+    "docs/services/industries/construction-software.md": "6817f1e88ae6934d6547ef08b928e903f4877a012706a4b3fa8c7f1a3c7aad4f",
+    "docs/services/industries/crm-software.md": "f5ae8e1eea1562eeb8851b7ab45b1d09a12f5e2c6f3f1e65298362e505447aac",
+    "docs/services/industries/dealership-software.md": "cf5c1d3a2d0a22a920131a455a59db71be3ac5fb91a8be98c25c29b68ae59fb0",
+    "docs/services/industries/dental-software.md": "0274930fb817e8e708c8d6ba57724ab934ff101ded6a8dd7c294746910bd175f",
+    "docs/services/industries/field-service-software.md": "d0df27123f18fe33949bf741fb282c9623bbfb09933ea5200c02b9fdc5fc4eac",
+    "docs/services/industries/hotel-software.md": "3995dee344adaf02883dfa2142ad663840f22997fb5b584d04732d4ce7306292",
+    "docs/services/industries/insurance-agency-software.md": "6665144e3898ef352462803bf61baf4abdbfee85e3a7cc75b99bb002503542a2",
+    "docs/services/industries/legal-practice-software.md": "ca02b18d1b6c88263eee96914f6b6b9c9f224579fda8b547583cae675e4723f3",
+    "docs/services/industries/loan-origination-software.md": "916ca2e858f9fa730565e33a7fda7afd62bd1255b9e2c1749a121482073221ce",
+    "docs/services/industries/project-management-software.md": "b6d91bc40a9e6fac26c43378e32500275cea0ec3257a79b2d67d18eb6c52006a",
+    "docs/services/industries/property-management-software.md": "dd12319311e8d7dd0748d1e54cff0f5d1f0e0e86bc52fcb449a2ab8cbe297fef",
+    "docs/services/industries/radiology-software.md": "cf386c84e2df69cdbf986fd620d7fa87a8411449a26009e223eb118e19a8c78b",
+    "docs/services/industries/transportation-software.md": "fddd05ccd9992b5020a669ce27c393179c53bfe7233863c9d0a8852830d70579",
+    "docs/services/industries/veterinary-software.md": "5d494b804f4faadc46862270238f5a1b588a1c5e614561699217325c449d85b4",
+    "docs/services/perplexity-visibility.md": "ecc5a8d9da554292942e7318443c72185abfd8aa0fec7c5284b58797c7a73b3c",
+    "docs/standards/local-pages.md": "02bfd0e8a0ad5a1f8e3e81b06b9e4e7cbe3ff52e3e8c9796fdf77e0c3e169786",
     "docs/valid-measurement.md": "8636e5ffd04223436d041aaf15754f1d82c4b62f3bf3e66b22ae64d4e9ea3f46",
     "docs/vendor-facts.md": "aa602bc8076dc0440278411f4741d1068bca8e4b7b5953c0128cbf7cbea913df",
-    "docs/webinars.md": "ed2ea844098881de08fbcd92ced75fa66cfdd7228e1fc71a912a133f58f7af70",
+    "docs/webinars.md": "07d200bd8bba1862a12cf9ed5f79f0fe3b519a4fb09572feb5799a9fece552ed",
     "docs/who-gets-cited.md": "604cf6ed340cc02e682cc752b518fac869658856fbe6c28f883e32c447d28146",
     "docs/why-does-chatgpt-not-mention-us.md": "13e6ba38f06fdf5362d2cb0d83b5b1e63870d80a362d333007c93d84fcf4f67f",
-    "docs/workshops.md": "3cfdcfb6e40a831c38c251d6577cbda25bc8944e82a9c9bd3f75f80bf9923e55",
+    "docs/workshops.md": "d7d49239f94e3590331e7f3d1c93ea758151d0cb4f420fc4395a00e70874393a",
     "mkdocs.yml": "673ab5944a998b6857dbf85a2ec287cbc5c8f834a923d327951f9bad933d67db",
     "overrides/business-hub.html": "cc4a7e74c68d63c9d19e125db9b07cb55b8ae442553029a2526f634c8d33fecf",
     "overrides/followup.html": "d103f1609a2e57119886f22ed125c18fdd9d7a4beeb33734496dab9090b5e5d0",
@@ -6258,6 +6540,7 @@
     "tests/test_chatgpt_business_hub.py": "b9741fa83c418e135887ef9d1dba5e138d61bc9092cd5a2e1f1072190b600477",
     "tests/test_discovery_consumer_five.py": "e725ad9bf46e0299f62037ffa956ad5a69b1574748ec14d53eb56368d08eb4cf",
     "tests/test_docs_content_pages.py": "b267e67bf683b23cf1fab20c1cf1e23dc7d87a9273186236e0b88710f946c5f5",
+    "tests/test_docs_more_pages.py": "5c518318be4f43b375b4eeeb9ab3fdc0711ca400883031d4cc1671d847bda196",
     "tests/test_followup_release.py": "736a5ab4f0fda04c03c08dee5483192bd5292f5bc3a47f2aeccb19436def0aaa",
     "tests/test_library_field_freeze_navigation.py": "1ac33d0746a75d19a375c555773d353b2821d67447da52786fcfb7107105718f",
     "tests/test_library_publication_verify_stubs.py": "27757723b2b9d25dad6ed7e0c1ec895bcc85171d91cec47de7ff2a0da54e13c4",
@@ -7903,7 +8186,7 @@
     "tools/library-research-inputs/source-reads/file-line-map.json": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
     "tools/library-research-support.json": "803afdc7d03b03bf525941159f63b96e82e26b5fd80e2cf70d7759f727e58198",
     "tools/library-research-support.sha256": "34e586a881471af13331f5d32a444beb84774b3e6adc6f192214637209a2d769",
-    "tools/library-visibility-20261105.json": "dcb9f73a5b860cb627d136f0ea57b70dccba6c11decd45d4e1d4161bd2954305",
+    "tools/library-visibility-20261105.json": "f595603b7abb20514c4f311e784374131443d61db5e5f42df666273ba5481314",
     "tools/library_answers.py": "37e8ed39da080c03a8361e44fcd03371d6ca369d3df4fb847db13cc1fc20bd22",
     "tools/library_build_dispatch.py": "9092b9262bacbd8c11aad171582e2a0f3de7a9a99fe63c97fc4985a36c700b9a",
     "tools/library_company_panel.py": "17076be6269695465e44298b7d6875979d6789d47eb2d5cff4d9db2764e22ee9",
@@ -8480,6 +8763,11 @@
       "after": "- [Broadcastwell business facts file](https://docs.broadcastwell.com/business-facts.json): Our legal name, address, contact details, six priced offers and policies in Business Facts File v1 JSON, with its review date.\n- [Broadcastwell release notes: what changed since October?](https://docs.broadcastwell.com/release-notes/): Dated Broadcastwell release notes for our public docs, app, Absence Index and assistant since 1 October 2026, grouped by month, each linked to its page.\n- [AI model release tracker: what changed in each engine?](https://docs.broadcastwell.com/model-releases/): Our AI model release tracker lists model releases dated by the providers of the engines we measure, from July 2026, and how we mark each on our time series.\n- [Where is the archive of Broadcastwell articles and studies?](https://docs.broadcastwell.com/articles/): Our archive lists every dated Broadcastwell article and study on the docs, the main site research pages and Substack, newest first, with a link to each.\n- [What is in the Broadcastwell media kit?](https://docs.broadcastwell.com/media-kit/): The Broadcastwell media kit gives company facts, approved short and long descriptions, logo files and the names and roles of our team, as of 9 November 2026.\n- [How does the Broadcastwell operating framework work?](https://docs.broadcastwell.com/operating-framework/): Our operating framework runs each engagement in four stages, question, measurement, repair and re-check, with delivery clocks and refund terms quoted.\n- [Which workstreams make up the Broadcastwell service model?](https://docs.broadcastwell.com/service-model/): The Broadcastwell service model has six defined workstreams, from question setup to Business Hub readiness, and shows which of our offers includes each.\n- [What should an AI search visibility RFP ask a vendor?](https://docs.broadcastwell.com/rfp-guide/): Our AI search visibility RFP guide lists 14 questions to put to any vendor, what a checkable answer looks like, and where we publish our own answers to each.\n- [What belongs in a content brief for an AI answer?](https://docs.broadcastwell.com/content-templates/content-brief/): A free content brief template for one buyer question, in Markdown and CSV, with each field explained and a filled example on the fictional Kalvenor sample.\n- [What goes in a content strategy for AI search visibility?](https://docs.broadcastwell.com/content-templates/content-strategy/): A free content strategy template for AI search visibility in Markdown and CSV, built on a frozen question set and a dated baseline, on a fictional sample.\n- [How do you cite Broadcastwell research and data?](https://docs.broadcastwell.com/cite/): Citations for the Absence Index, State of GEO Volume III and every other Broadcastwell DOI and SSRN id in APA, Chicago, BibTeX and RIS, with both files.\n- [Where can you watch Broadcastwell webinars on demand?](https://docs.broadcastwell.com/webinars/): Our on-demand webinar library lists 56 recorded films and demonstrations built from our published studies, with each date, length, captions and transcript.\n- [Which AI visibility workshops can your team take on demand?](https://docs.broadcastwell.com/workshops/): Seven self-paced AI visibility workshops built from our published guides, worksheets, demonstrations and templates, each listing materials and formats.\n- [What does a completed AI visibility case show?](https://docs.broadcastwell.com/cases/format/): Every field of a finished AI visibility case on the fictional Kalvenor sample only, from the question set to before and after counts and the permission check.\n- [When do we write local pages for a city or region?](https://docs.broadcastwell.com/standards/local-pages/): Our rule for local pages, dated 9 November 2026: we draft a city or regional page only with local evidence, and an editor rejects any draft without it.",
       "before": "- [Broadcastwell business facts file](https://docs.broadcastwell.com/business-facts.json): Our legal name, address, contact details, six priced offers and policies in Business Facts File v1 JSON, with its review date.",
       "count": 1
+    },
+    {
+      "after": "- [When do we write local pages for a city or region?](https://docs.broadcastwell.com/standards/local-pages/): Our rule for local pages, dated 9 November 2026: we draft a city or regional page only with local evidence, and an editor rejects any draft without it.\n- [AI search glossary: what does each term mean?](https://docs.broadcastwell.com/ai-search-glossary/): Our AI search glossary defines 47 terms we use when we measure AI answers, from citation and named to base, Wilson interval and receipt, each with its source.\n- [What does our ChatGPT visibility work include?](https://docs.broadcastwell.com/services/chatgpt-visibility/): ChatGPT visibility work in our offers: what ChatGPT named and cited in 420 Index answers in September 2026, and how each priced offer reports it on its own.\n- [How do our offers handle Claude visibility?](https://docs.broadcastwell.com/services/claude-visibility/): Claude visibility in our offers: Claude gave the most vendor names of all engines we measure in 420 September 2026 Index answers, and what each offer tracks.\n- [What do we do about Perplexity visibility?](https://docs.broadcastwell.com/services/perplexity-visibility/): Perplexity visibility: Perplexity cited the most sources of the engines we measure in September 2026, far beyond vendor sites, and what our offers repair.\n- [How do we work on Google AI Overviews visibility?](https://docs.broadcastwell.com/services/google-ai-overviews-visibility/): Google AI Overviews visibility: when an Overview appears, what it cited in our September 2026 Index, and how each offer records it apart from AI Mode.\n- [What does Google AI Mode visibility work involve?](https://docs.broadcastwell.com/services/google-ai-mode-visibility/): Google AI Mode visibility: the least stable engine we measure across repeat runs in our September 2026 Index, what it cited, and what each offer reports for it.\n- [How do we work on AI answers for construction software?](https://docs.broadcastwell.com/services/industries/construction-software/): How our published offers apply to construction software: 22 checked vendors, 150 AI answers from September 2026, who was named most, which sources were cited.\n- [What does AI visibility work do for CRM software?](https://docs.broadcastwell.com/services/industries/crm-software/): How our published offers apply to CRM software, built on 10 checked vendors and 150 AI answers from September 2026: who was named most and what was cited.\n- [Where do we start with dealership software in AI answers?](https://docs.broadcastwell.com/services/industries/dealership-software/): How our published offers apply to dealership software: 22 checked vendors, 150 AI answers from September 2026, who was named most, which sources were cited.\n- [How do our offers apply to dental software in AI answers?](https://docs.broadcastwell.com/services/industries/dental-software/): How our published offers apply to dental software: 20 checked vendors, 149 AI answers from September 2026, who was named most, which sources were cited.\n- [What does AI answer work cover for field service software?](https://docs.broadcastwell.com/services/industries/field-service-software/): How our published offers apply to field service software: 22 checked vendors, 150 AI answers from September 2026, who was named most, which sources were cited.\n- [How do our offers measure hotel software in AI answers?](https://docs.broadcastwell.com/services/industries/hotel-software/): How our published offers apply to hotel software: 25 checked vendors, 149 AI answers from September 2026, who was named most, which sources were cited.\n- [What do our offers do for insurance agency software?](https://docs.broadcastwell.com/services/industries/insurance-agency-software/): Our offers for insurance agency software: 19 checked vendors, 150 AI answers from September 2026, the names the engines gave and the sources they cited.\n- [How does AI answer work apply to legal practice software?](https://docs.broadcastwell.com/services/industries/legal-practice-software/): How our published offers apply to legal practice software: 21 checked vendors, 150 AI answers from September 2026, who was named most, which sources were cited.\n- [What can AI answer work do for loan origination software?](https://docs.broadcastwell.com/services/industries/loan-origination-software/): Our offers for loan origination software: 25 checked vendors, 150 AI answers from September 2026, the names the engines gave and the sources they cited.\n- [How do we handle project management software in AI answers?](https://docs.broadcastwell.com/services/industries/project-management-software/): Our offers for project management software: 10 checked vendors, 150 AI answers from September 2026, the names the engines gave and the sources they cited.\n- [Which offers fit property management software vendors?](https://docs.broadcastwell.com/services/industries/property-management-software/): Our offers for property management software: 22 checked vendors, 148 AI answers from September 2026, the names the engines gave and the sources they cited.\n- [How do we approach AI answers about radiology software?](https://docs.broadcastwell.com/services/industries/radiology-software/): How our published offers apply to radiology software: 24 checked vendors, 150 AI answers from September 2026, who was named most, which sources were cited.\n- [How do we read AI answers for transportation software?](https://docs.broadcastwell.com/services/industries/transportation-software/): How our published offers apply to transportation software: 25 checked vendors, 150 AI answers from September 2026, who was named most, which sources were cited.\n- [How do our offers handle veterinary software?](https://docs.broadcastwell.com/services/industries/veterinary-software/): How our published offers apply to veterinary software: 19 checked vendors, 149 AI answers from September 2026, who was named most, which sources were cited.\n- [What do our AI answer industry benchmarks show?](https://docs.broadcastwell.com/industry-benchmarks/): Our industry benchmarks compare 14 software categories from 2,095 AI answers captured in September 2026: who was named most, concentration and citations.\n- [Who offers AI search visibility in Bloomington, Indiana?](https://docs.broadcastwell.com/services/bloomington-indiana/): Broadcastwell is based at 517 E Kirkwood Ave in Bloomington, Indiana, and offers its AI search visibility work to local firms at the same published prices.\n- [What does our free AI visibility course teach?](https://docs.broadcastwell.com/ai-visibility-course/): Our free AI visibility course has five short lessons, one a day, on reading AI answers as evidence, from one answer to a fair recheck, with no form or account.\n- [Course lesson 1: what does one AI answer tell you?](https://docs.broadcastwell.com/ai-visibility-course/lesson-1-one-ai-answer/): Lesson 1 of our free AI visibility course shows what a single AI answer records about a company, what it cannot show, and how to write it down as evidence.\n- [Course lesson 2: why ask the same question three times?](https://docs.broadcastwell.com/ai-visibility-course/lesson-2-repeat-the-question/): Lesson 2 of our free AI visibility course explains why we repeat each buyer question three times per engine and how to report a company named in only some runs.\n- [Course lesson 3: what is the base behind a rate?](https://docs.broadcastwell.com/ai-visibility-course/lesson-3-find-the-base/): Lesson 3 of our free AI visibility course finds the base behind a visibility rate, takes failed answers out of both sides and reads the interval it supports.\n- [Course lesson 4: which sources do AI answers cite?](https://docs.broadcastwell.com/ai-visibility-course/lesson-4-read-the-sources/): Lesson 4 of our free AI visibility course reads the sources AI answers cite, shows how the mix differs by engine and sorts cited sites by what you can act on.\n- [Course lesson 5: did a page change help AI answers?](https://docs.broadcastwell.com/ai-visibility-course/lesson-5-recheck-fairly/): Lesson 5 of our free AI visibility course tests whether a page change helped by comparing like with like against untouched control questions, falls included.\n- [Can you download a research report without a form?](https://docs.broadcastwell.com/research-report/): Every Broadcastwell research report downloads directly with no form, email or account. Pages, size, license, DOI and SHA-256 are listed for each file.\n- [Is there a print edition of our research?](https://docs.broadcastwell.com/print-edition/): Our print edition of Study 1, The Shortlist Gap, is a free 22-page US Letter PDF: one cover sheet with print settings in front of the unchanged report.\n- [What do search patents say about AI answers?](https://docs.broadcastwell.com/search-patents/): We read nine public search patents and applications on 9 November 2026, eight from Google and one from Microsoft, and set out what each shows and cannot.\n- [What does our product documentation cover?](https://docs.broadcastwell.com/product-docs/): Our product documentation covers eight free tasks, from the fictional sample to the Kalvenor connector, each with its limits and an expected output to check.\n- [How do you earn and verify a Launchpad certificate?](https://docs.broadcastwell.com/launchpad/certificate/): The free Launchpad certificate of completion needs 20 of 25 answers, all five safety questions and a 6 of 8 case score; holders choose public verification.\n- [What does our agency training cover?](https://docs.broadcastwell.com/agency-training/): Our free agency training path takes a team from reading one AI answer to accepting an Agency Deadline Audit, with fictional practice files and checks.\n- [How do you track AI referral traffic in analytics?](https://docs.broadcastwell.com/ai-referral-analytics-template/): Our AI referral analytics template for GA4, documented with its exact pattern, test cases and limits, and how Google files AI Overviews and AI Mode visits.\n- [What does our AI Shortlist Check browser extension do?](https://docs.broadcastwell.com/browser-extension/): Our free Chrome browser extension shows the Absence Index record of the software site you are on, with bases and intervals, using one permission only.\n- [Where can you download our open data and methods?](https://docs.broadcastwell.com/open-data/): Our open data catalog lists 65 research tables and six Index release files with rows, columns, SHA-256, license and the method page that limits each one.\n- [What is in our research chart library?](https://docs.broadcastwell.com/chart-library/): Our research chart library lists 12 data charts on our docs site with the page that publishes each, its caption, data, date, base and a credit line for reuse.\n- [Which AI visibility vendor comparisons have we published?](https://docs.broadcastwell.com/comparisons/): Our AI visibility vendor comparisons name 14 alternatives across 13 answers, each dated to the day we read the provider's own pages, with no winner declared.",
+      "before": "- [When do we write local pages for a city or region?](https://docs.broadcastwell.com/standards/local-pages/): Our rule for local pages, dated 9 November 2026: we draft a city or regional page only with local evidence, and an editor rejects any draft without it.",
+      "count": 1
     }
   ],
   "owner_authorization_date": "2026-11-09",
@@ -8563,6 +8851,162 @@
     {
       "lastmod": "2026-11-09",
       "url": "https://docs.broadcastwell.com/standards/local-pages/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/ai-search-glossary/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/chatgpt-visibility/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/claude-visibility/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/perplexity-visibility/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/google-ai-overviews-visibility/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/google-ai-mode-visibility/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/construction-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/crm-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/dealership-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/dental-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/field-service-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/hotel-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/insurance-agency-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/legal-practice-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/loan-origination-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/project-management-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/property-management-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/radiology-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/transportation-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/industries/veterinary-software/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/industry-benchmarks/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/services/bloomington-indiana/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/ai-visibility-course/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/ai-visibility-course/lesson-1-one-ai-answer/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/ai-visibility-course/lesson-2-repeat-the-question/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/ai-visibility-course/lesson-3-find-the-base/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/ai-visibility-course/lesson-4-read-the-sources/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/ai-visibility-course/lesson-5-recheck-fairly/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/research-report/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/print-edition/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/search-patents/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/product-docs/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/launchpad/certificate/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/agency-training/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/ai-referral-analytics-template/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/browser-extension/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/open-data/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/chart-library/"
+    },
+    {
+      "lastmod": "2026-11-09",
+      "url": "https://docs.broadcastwell.com/comparisons/"
     }
   ],
   "source_changes": {
@@ -8582,8 +9026,56 @@
       "after_sha256": "8e581156abc68b269253319d31fa96edab6c379b37a1986e4e44f898d1a108b4",
       "before_sha256": "d5a3ff30b4286a7fa6518da71884f80f66c624b6c248b579cfdfbd722af617fc"
     },
+    "docs/agency-training.md": {
+      "after_sha256": "1af750af66037547e95d3cb34a8aada3d265c798908186635eaa22af2f2f34ee",
+      "before_sha256": null
+    },
+    "docs/ai-referral-analytics-template.md": {
+      "after_sha256": "832d7efe09816444b7347209ea0f5faa1384d20031d28931c7533133e9254d7f",
+      "before_sha256": null
+    },
+    "docs/ai-search-glossary.md": {
+      "after_sha256": "3d2afbed46a32e669aa6a0e5094194d71c7ec8b0ad239442fbfe2cc1e3fe9a9f",
+      "before_sha256": null
+    },
+    "docs/ai-visibility-course/index.md": {
+      "after_sha256": "0de92638f2e8348303e126c70b0d19a43935ad8b38e21c647f2ae72cd7c4a90d",
+      "before_sha256": null
+    },
+    "docs/ai-visibility-course/lesson-1-one-ai-answer.md": {
+      "after_sha256": "3f8eaf37fab5a43e7238a6580495784b181c7ab8e0be84c7de794fd035cfa15c",
+      "before_sha256": null
+    },
+    "docs/ai-visibility-course/lesson-2-repeat-the-question.md": {
+      "after_sha256": "90f7a429a408e35df4c2c984ae6b2ce385159068dbf6b6c74ce47b1c322895bd",
+      "before_sha256": null
+    },
+    "docs/ai-visibility-course/lesson-3-find-the-base.md": {
+      "after_sha256": "cdf6940714b9e5c3aaae84f02613f0f07f90e0159365a40ec30ae618071ee496",
+      "before_sha256": null
+    },
+    "docs/ai-visibility-course/lesson-4-read-the-sources.md": {
+      "after_sha256": "42f95d09d2e1af4882a44237ae5f30a19c76cb07724187f4232d308cbb0cc61f",
+      "before_sha256": null
+    },
+    "docs/ai-visibility-course/lesson-5-recheck-fairly.md": {
+      "after_sha256": "7476684ce0d714577213d4e59e9c10cd27a34d6c9a2659ce0626075e5ff97d2d",
+      "before_sha256": null
+    },
     "docs/articles.md": {
-      "after_sha256": "a030f1732488393070604c9824203f032244272ea1bb94e478d7653ca73fda33",
+      "after_sha256": "31ebc243b41af4814d3db60fad3ce679b281043ce1d946cf038157e032cd4cc9",
+      "before_sha256": null
+    },
+    "docs/assets/ai-referral/ai-referrals-channel-group.csv": {
+      "after_sha256": "e0c64121ee5ace5cd4cfb309d3704f1b51815cbbf68b5f4292c0032ed10ea547",
+      "before_sha256": null
+    },
+    "docs/assets/ai-referral/ai-referrals-source-regex.txt": {
+      "after_sha256": "84cacfe6e4cc1dcfa8c44da9ace38ac2739caec9473ebd6b8faea03cc1d3c250",
+      "before_sha256": null
+    },
+    "docs/assets/ai-referral/ai-referrals-test-cases.csv": {
+      "after_sha256": "76e7fbc345dc81e8e1d4a24690af807c3ec6b40df1c3c01353a68110b1bf7a40",
       "before_sha256": null
     },
     "docs/assets/citations/broadcastwell-research.bib": {
@@ -8594,9 +9086,33 @@
       "after_sha256": "3ff480100210d57c555bf3a95837a907d9600d13e1afa6d1874b3a548bf2767c",
       "before_sha256": null
     },
+    "docs/assets/playbooks/source-correction-steps-2026-11-09.csv": {
+      "after_sha256": "772fa8fb3c68dad6e9f1259277a827deaf0881253e983954bb9551e2a0896e2c",
+      "before_sha256": null
+    },
+    "docs/assets/print/print-edition.css": {
+      "after_sha256": "e7f5220a7345c0ceae92fc46e514340a3b7918e38007e7bd745f118cd41ab4fd",
+      "before_sha256": null
+    },
+    "docs/assets/product-docs/kalvenor-connector-tools-list.json": {
+      "after_sha256": "46a86fff6c7f11e5500f305977d35d9a9af6f3ee87a55650987592da2ce69f1d",
+      "before_sha256": null
+    },
+    "docs/assets/research/print/Study1_The_Shortlist_Gap_print_edition_2026-11-09.pdf": {
+      "after_sha256": "5cbdb2c34a14b538b892e9e9fba605398cb605db6fbd1e0a1b5658bbf667fcaa",
+      "before_sha256": null
+    },
+    "docs/assets/research/print/research-report-sha256.txt": {
+      "after_sha256": "44fb44f5f66faac81028acd23279d42c1323a62bb54f4d6206904c44557d1b6c",
+      "before_sha256": null
+    },
     "docs/assets/research/study2/Study2_What_AI_Search_Visibility_Costs_2026-09.pdf": {
       "after_sha256": "e1572a2a2a7f8a94cd3e6b09862ce89e3b75be0390860de6236bec48a83a6487",
       "before_sha256": "3ed18647746445276604e1c739f2d809775db21f19904c5d7f927f95b116f421"
+    },
+    "docs/browser-extension.md": {
+      "after_sha256": "98c776866a655cd0a4e771dde385784575494fbdf7084230d7e796f478c686cb",
+      "before_sha256": null
     },
     "docs/business-facts.json": {
       "after_sha256": "648aaadddba237b4a628eded997951ec95c64d3de855691a679752a05d42d0b7",
@@ -8608,6 +9124,10 @@
     },
     "docs/cases/format.md": {
       "after_sha256": "47e930dc357c0fa40025bf1f5183c4d62f15a460935d5694ca4596fec9330e9f",
+      "before_sha256": null
+    },
+    "docs/chart-library.md": {
+      "after_sha256": "480d79678fad7d7c2de07cb73004663c1706a3767a76b3da38c2c277c0c4cb7d",
       "before_sha256": null
     },
     "docs/chatgpt-business-hub/business-facts-file.md": {
@@ -8631,7 +9151,11 @@
       "before_sha256": null
     },
     "docs/cite.md": {
-      "after_sha256": "a64aa8ebb585918f13f3d2a4570666bd527aae4d863c0df483896105fbd866ab",
+      "after_sha256": "8466001ed3b001d861d2c474369bf772175f0a56e88c3f03d201dd5f6bb4c366",
+      "before_sha256": null
+    },
+    "docs/comparisons.md": {
+      "after_sha256": "264fe4852724b47c908dda8a3c80cb315456b3a3df6d95ae74f8b9924c26d7a4",
       "before_sha256": null
     },
     "docs/content-templates/content-brief.md": {
@@ -8694,8 +9218,16 @@
       "after_sha256": "778e4760509d2afc0cadc31769a9c115069e67bb3affe91017d28c212b221d11",
       "before_sha256": "bdb3344ca6bb13585ad1086e12d78f08713bd03c0748dc6741757f01af4f7047"
     },
+    "docs/industry-benchmarks.md": {
+      "after_sha256": "120493989e81df3a97c6415862ace48ff302adbe1b654c1265d35df33b6a9c8d",
+      "before_sha256": null
+    },
+    "docs/launchpad/certificate.md": {
+      "after_sha256": "c4cc41927654b1c9419137dc3778be41cba8471c5eae92d3f2a67e9600176a1e",
+      "before_sha256": null
+    },
     "docs/llms.txt": {
-      "after_sha256": "1da12b712ed5f0eb1667e487607a84b5b20bff78d10501baa4d764dc80dc9169",
+      "after_sha256": "82223572f4d905e1f0a9b7eefa1eb8bcbf5d4b529bea75eadf5b2957f0168cd8",
       "before_sha256": "35cfd635a7bd547bdf7c16fe2a62a29c453133f5c76e7bcacbbc9f54d23ec1a7"
     },
     "docs/media-kit.md": {
@@ -8706,12 +9238,28 @@
       "after_sha256": "5cb3c9979209309b90cc977205ea9163a19ec37ef4179f73a3c4a1c9baad7851",
       "before_sha256": null
     },
+    "docs/open-data.md": {
+      "after_sha256": "2db96174a004ebc0d3e6eae26296e50b1150623661a1bcc94b3dc8c862147f9d",
+      "before_sha256": null
+    },
     "docs/operating-framework.md": {
-      "after_sha256": "254e4a0239e0fcd775caa360c6f6bed3df4ba74418a8f1fb4ea36a21fcf193c6",
+      "after_sha256": "dee003f2951f2a410ccf316d17aed6dd945c0a6cc4605063c5f2f336bc5e4709",
+      "before_sha256": null
+    },
+    "docs/print-edition.md": {
+      "after_sha256": "508d26312f0f482f3d4d222d2f562d9e4285f09e79242963a3c4bc98d1ad2128",
+      "before_sha256": null
+    },
+    "docs/product-docs.md": {
+      "after_sha256": "c98e27446a5c704742cfc6a8e1d727232ea4460f812a1e89c2d2bdb93090c940",
       "before_sha256": null
     },
     "docs/release-notes.md": {
       "after_sha256": "94803151a2b2a754804f56d9090dc4bbed6e11c5cde96e6a7303912d9f059362",
+      "before_sha256": null
+    },
+    "docs/research-report.md": {
+      "after_sha256": "ebaa4d8f1de9b572baab81908c7c6c23ec22a3667b272f66e5c53dc8f383c50e",
       "before_sha256": null
     },
     "docs/research/claims/index.md": {
@@ -8731,7 +9279,7 @@
       "before_sha256": "a413acca0a52bb221c46c173ab76fad3f603c417f9069c32ef19a10ab10c9edd"
     },
     "docs/resources.md": {
-      "after_sha256": "c41990c0afe8e6b03965311cc01ff0b4486f7f23b69cee1ff71dd5574d6093d0",
+      "after_sha256": "b594b6d2ff0e446d3fb3071e5a54beb86e26aea90ae0c94aa10314071d8200bd",
       "before_sha256": "4f17e1fac1531b35e192816b360c7d23a17557339c32ca4a0eba4777570b4cf0"
     },
     "docs/resources/audit/executive-template.md": {
@@ -8742,16 +9290,108 @@
       "after_sha256": "52188c13421be753239c4d74c1b42db224ac12ab573e57e5a6d0695939a93ee2",
       "before_sha256": "6453a6fe788803a60c4dd239cce2c0b90a6e2f0d7fd6309fd3ccfd339fc873a7"
     },
+    "docs/resources/guides/fair-recheck.md": {
+      "after_sha256": "68570b603bfc1651210bbb771b2d0b2361a20e16212bba8c0b21bc66ba99cd7e",
+      "before_sha256": "8d689adecde3ad5d4a2f0d83e92af6b79133e2c039ce9ada1ec992736e98c112"
+    },
+    "docs/resources/playbooks/source-correction.md": {
+      "after_sha256": "532d5758b3e7875e29318de791247d900906e982e05bc4a7e17aadb6c21c8218",
+      "before_sha256": "6e6c7b4efb70219d8e3c8727e407eb62c206e8cffb3a4365ee0ccf2a6178589b"
+    },
     "docs/rfp-guide.md": {
-      "after_sha256": "45b2412ec2122454c9da81d6a4511492c1cf01fb9595d9b8c024d8c5d8fb3bf6",
+      "after_sha256": "5b4f55e390221170825795ca6642ea7097df0105c78ca9c5f2f0524351eb4a4f",
+      "before_sha256": null
+    },
+    "docs/search-patents.md": {
+      "after_sha256": "6b4af9156e85d3ff208eba7955b9a61dcb2d4433273933faead4e2cc98551e67",
       "before_sha256": null
     },
     "docs/service-model.md": {
-      "after_sha256": "e9622938d339c4e882bdf2470ac59457d0b409fc2c1bb624a8cb088f9e020158",
+      "after_sha256": "b12fc8f40e7775d384e8e7d5f4d85b0a7cb05c722f55d2a8c350dae7fe3d6138",
+      "before_sha256": null
+    },
+    "docs/services/bloomington-indiana.md": {
+      "after_sha256": "10e944ba715678c78758666c0c18dd270875fc137f0488bfddbc1e27cba7498f",
+      "before_sha256": null
+    },
+    "docs/services/chatgpt-visibility.md": {
+      "after_sha256": "c42bebb3b2a4066159b4ebeeaf2c134d09a8466d214cee50320d86b24500b9f9",
+      "before_sha256": null
+    },
+    "docs/services/claude-visibility.md": {
+      "after_sha256": "d33b07bdec78fcc12ff1198500a2a821d9f3f829f66eef6486179513a1d5ba21",
+      "before_sha256": null
+    },
+    "docs/services/google-ai-mode-visibility.md": {
+      "after_sha256": "70cc249d91716d28a1d81dcff12637e157c4a9e816ae45e21007a59fa8eb377d",
+      "before_sha256": null
+    },
+    "docs/services/google-ai-overviews-visibility.md": {
+      "after_sha256": "dd4bccceef0ba64ece7946aa6efc629a52fa6a6c0dcf6160ed0972a8e22a4939",
+      "before_sha256": null
+    },
+    "docs/services/industries/construction-software.md": {
+      "after_sha256": "6817f1e88ae6934d6547ef08b928e903f4877a012706a4b3fa8c7f1a3c7aad4f",
+      "before_sha256": null
+    },
+    "docs/services/industries/crm-software.md": {
+      "after_sha256": "f5ae8e1eea1562eeb8851b7ab45b1d09a12f5e2c6f3f1e65298362e505447aac",
+      "before_sha256": null
+    },
+    "docs/services/industries/dealership-software.md": {
+      "after_sha256": "cf5c1d3a2d0a22a920131a455a59db71be3ac5fb91a8be98c25c29b68ae59fb0",
+      "before_sha256": null
+    },
+    "docs/services/industries/dental-software.md": {
+      "after_sha256": "0274930fb817e8e708c8d6ba57724ab934ff101ded6a8dd7c294746910bd175f",
+      "before_sha256": null
+    },
+    "docs/services/industries/field-service-software.md": {
+      "after_sha256": "d0df27123f18fe33949bf741fb282c9623bbfb09933ea5200c02b9fdc5fc4eac",
+      "before_sha256": null
+    },
+    "docs/services/industries/hotel-software.md": {
+      "after_sha256": "3995dee344adaf02883dfa2142ad663840f22997fb5b584d04732d4ce7306292",
+      "before_sha256": null
+    },
+    "docs/services/industries/insurance-agency-software.md": {
+      "after_sha256": "6665144e3898ef352462803bf61baf4abdbfee85e3a7cc75b99bb002503542a2",
+      "before_sha256": null
+    },
+    "docs/services/industries/legal-practice-software.md": {
+      "after_sha256": "ca02b18d1b6c88263eee96914f6b6b9c9f224579fda8b547583cae675e4723f3",
+      "before_sha256": null
+    },
+    "docs/services/industries/loan-origination-software.md": {
+      "after_sha256": "916ca2e858f9fa730565e33a7fda7afd62bd1255b9e2c1749a121482073221ce",
+      "before_sha256": null
+    },
+    "docs/services/industries/project-management-software.md": {
+      "after_sha256": "b6d91bc40a9e6fac26c43378e32500275cea0ec3257a79b2d67d18eb6c52006a",
+      "before_sha256": null
+    },
+    "docs/services/industries/property-management-software.md": {
+      "after_sha256": "dd12319311e8d7dd0748d1e54cff0f5d1f0e0e86bc52fcb449a2ab8cbe297fef",
+      "before_sha256": null
+    },
+    "docs/services/industries/radiology-software.md": {
+      "after_sha256": "cf386c84e2df69cdbf986fd620d7fa87a8411449a26009e223eb118e19a8c78b",
+      "before_sha256": null
+    },
+    "docs/services/industries/transportation-software.md": {
+      "after_sha256": "fddd05ccd9992b5020a669ce27c393179c53bfe7233863c9d0a8852830d70579",
+      "before_sha256": null
+    },
+    "docs/services/industries/veterinary-software.md": {
+      "after_sha256": "5d494b804f4faadc46862270238f5a1b588a1c5e614561699217325c449d85b4",
+      "before_sha256": null
+    },
+    "docs/services/perplexity-visibility.md": {
+      "after_sha256": "ecc5a8d9da554292942e7318443c72185abfd8aa0fec7c5284b58797c7a73b3c",
       "before_sha256": null
     },
     "docs/standards/local-pages.md": {
-      "after_sha256": "0480ef5763efeee1113b6f0ccdd3b2f3af7f4785ba0c34cea35cb47512a20ff0",
+      "after_sha256": "02bfd0e8a0ad5a1f8e3e81b06b9e4e7cbe3ff52e3e8c9796fdf77e0c3e169786",
       "before_sha256": null
     },
     "docs/vendor-facts.md": {
@@ -8759,7 +9399,7 @@
       "before_sha256": "772dd212887ae17c35f336d2f4c1c95bd56531061679165fab591f46adc623e7"
     },
     "docs/webinars.md": {
-      "after_sha256": "ed2ea844098881de08fbcd92ced75fa66cfdd7228e1fc71a912a133f58f7af70",
+      "after_sha256": "07d200bd8bba1862a12cf9ed5f79f0fe3b519a4fb09572feb5799a9fece552ed",
       "before_sha256": null
     },
     "docs/why-does-chatgpt-not-mention-us.md": {
@@ -8767,7 +9407,7 @@
       "before_sha256": "d9ad7bd5b3411c03ce1d08edf3968200179f7d20ddec87563973228714018a14"
     },
     "docs/workshops.md": {
-      "after_sha256": "3cfdcfb6e40a831c38c251d6577cbda25bc8944e82a9c9bd3f75f80bf9923e55",
+      "after_sha256": "d7d49239f94e3590331e7f3d1c93ea758151d0cb4f420fc4395a00e70874393a",
       "before_sha256": null
     },
     "mkdocs.yml": {
@@ -8788,6 +9428,10 @@
     },
     "tests/test_docs_content_pages.py": {
       "after_sha256": "b267e67bf683b23cf1fab20c1cf1e23dc7d87a9273186236e0b88710f946c5f5",
+      "before_sha256": null
+    },
+    "tests/test_docs_more_pages.py": {
+      "after_sha256": "5c518318be4f43b375b4eeeb9ab3fdc0711ca400883031d4cc1671d847bda196",
       "before_sha256": null
     },
     "tests/test_followup_release.py": {
@@ -8819,7 +9463,7 @@
       "before_sha256": "916dfe3a07fad255dfba8faf7250bcb1da243213707f730dae239404305a90b4"
     },
     "tools/library-visibility-20261105.json": {
-      "after_sha256": "dcb9f73a5b860cb627d136f0ea57b70dccba6c11decd45d4e1d4161bd2954305",
+      "after_sha256": "f595603b7abb20514c4f311e784374131443d61db5e5f42df666273ba5481314",
       "before_sha256": null
     },
     "tools/library_build_dispatch.py": {
@@ -8872,16 +9516,16 @@
     }
   },
   "source_review": {
-    "complete_local_tests": 950,
-    "native_preview": "Seventeen pages of the actual CI candidate (the fourteen new pages, the resources page and the two Business Hub pages whose footer links changed) read from a local server with scripts off and on at 1440 and 390 pixels: 34 screenshots, banned strings 0, JSON-LD parsed, no phone overflow, no broken link. Both manual PDFs are unchanged from production.",
-    "prior_reviewed_plan_sha256": "46a0e9ac53f4d2a6715bbee3029e80523c73649d3eb226cf75502c833216bbdf",
-    "reviewed_utc": "2026-11-09T13:57:03.049588+00:00",
-    "serving_base": "ca81e87a197236904c2734a63cd0f9a82fb09c87",
+    "complete_local_tests": 978,
+    "native_preview": "Fifty pages of the actual CI candidate (the thirty-nine new pages and eleven changed pages) read from a local server with scripts off and on at 1440 and 390 pixels: 100 screenshots, banned strings 0, JSON-LD parsed, no phone overflow, no broken link. Both manual PDFs are unchanged from production.",
+    "prior_reviewed_plan_sha256": "d7040088a69452671e6fd55e716c055cdcb7ccd70c371b721088b7c497a23287",
+    "reviewed_utc": "2026-11-09T15:36:15.727207+00:00",
+    "serving_base": "527a570961e66efb6312be82480f3e9c49ec3f46",
     "skipped_tests": 2,
-    "source_head": "8dbf45bfe7584a752a0b568ccd91193453dffbb6",
+    "source_head": "9c6a5b1a632af70826aaa705f0d5db7718033c2c",
     "state": "LEAD_REVIEWED_CURRENT_SOURCE",
-    "trigger": "STEP 3.1 docs content, 9 November 2026: fourteen reference pages outside the shared navigation (release notes, model releases, article archive, media kit, operating framework, service model, RFP guide, two content templates, citations, webinars, workshops, completed-case format, local pages rule), their downloads, links from resources.md, fourteen llms.txt lines and fourteen reviewed sitemap additions; source addresses on four pages wrap on phones. The 45 registered pages are unchanged."
+    "trigger": "STEP 3.1 second docs package, 9 November 2026: thirty-nine reference pages outside the shared navigation (glossary, five engine pages, fourteen industry pages, benchmarks, Bloomington, course and five lessons, research report, print edition, patents, product docs, certificate, agency training, AI referral template, browser extension, open data, chart library, comparisons), their downloads, body additions to five existing pages, inbound links, llms.txt and fifty-eight reviewed sitemap additions. The 45 registered pages are unchanged."
   },
   "source_review_complete": true,
-  "visibility_decisions_sha256": "dcb9f73a5b860cb627d136f0ea57b70dccba6c11decd45d4e1d4161bd2954305"
+  "visibility_decisions_sha256": "f595603b7abb20514c4f311e784374131443d61db5e5f42df666273ba5481314"
 }

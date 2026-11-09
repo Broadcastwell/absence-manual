@@ -11,7 +11,7 @@ template: business-hub.html
 
 # Where is the archive of Broadcastwell articles and studies?
 
-This page is the archive of Broadcastwell articles and studies: every dated piece we have published on these docs, on the research pages of broadcastwell.com and on our Substack, listed newest first with its date and a link. We built it on 9 November 2026 by reading each live page. It holds 108 entries: 68 on the docs, 16 on the main site and 24 on Substack.
+This page is the archive of Broadcastwell articles and studies: every dated piece we have published on these docs, on the research pages of broadcastwell.com and on our Substack, listed newest first with its date and a link. We built it on 9 November 2026 by reading each live page. It holds 109 entries: 69 on the docs, 16 on the main site and 24 on Substack.
 
 Updated 9 November 2026.
 
@@ -23,6 +23,7 @@ The Absence Manual itself, Version 1.0, was published on 18 August 2026 as thirt
 
 | Date | Type | Title |
 | --- | --- | --- |
+| 9 November 2026 | Analysis | [What do search patents say about AI answers?](search-patents.md) |
 | 9 November 2026 | Guide | [What goes in a context pack for a business agent?](chatgpt-business-hub/context-pack.md) |
 | 9 November 2026 | Guide | [What belongs in a business facts file for ChatGPT?](chatgpt-business-hub/business-facts-file.md) |
 | 9 November 2026 | Guide | [Is the ChatGPT Business Hub available yet?](chatgpt-business-hub/watch.md) |
@@ -143,6 +144,30 @@ The Source Maps page links one page for each of its 14 categories, from [CRM](ht
 | 28 September 2026 | [Which sources appeared in CRM answers? September 2026](https://broadcastwell.substack.com/p/source-map-crm) |
 | 26 September 2026 | [Which software names appeared in AI answers? September 2026](https://broadcastwell.substack.com/p/the-shortlist-gap-who-ai-engines) |
 | 24 July 2026 | [Where did Reddit appear in AI software answers? September 2026](https://broadcastwell.substack.com/p/reddit-doesnt-run-ai-search-vendors) |
+
+## Studies with their methods and source records
+
+The archive above is ordered by date. This table is ordered by study, and it gives what a researcher needs before reusing one: where the method or registration is written down, where the source records are, and which report or deposit to cite. We added it on 9 November 2026.
+
+| Study | Dated | Method or registration | Source records | Report or deposit |
+| --- | --- | --- | --- | --- |
+| Absence Index, release 2026-09 | 23 September 2026 | [Index method](https://index.broadcastwell.com/method.html), v1.1 | [Release file](https://index.broadcastwell.com/data/release-2026-09.json), one CSV per category, and 2,100 attempt rows in the benchmark file | [10.5281/zenodo.22907695](https://doi.org/10.5281/zenodo.22907695) |
+| Absence Index, release 2026-08.1 | 12 September 2026 | Same method page; August measured ChatGPT, Claude, Perplexity and Google AI Overviews | Aggregates and erratum only; August answer text and attempt rows were not retained | [10.5281/zenodo.22721962](https://doi.org/10.5281/zenodo.22721962) |
+| State of GEO, Volumes I to III | 24 July to 4 August 2026 | Each volume's own method section | [state-of-geo-2026 repository](https://github.com/Broadcastwell/state-of-geo-2026) | DOIs on our [citation page](cite.md) |
+| Study 1, The Shortlist Gap | 26 September 2026 | Uses the release 2026-09 method | Release 2026-09 files | [PDF](assets/research/study1/Study1_The_Shortlist_Gap_2026-09.pdf), [10.5281/zenodo.22982426](https://doi.org/10.5281/zenodo.22982426) |
+| Study 2, what AI search visibility costs | 26 September 2026 | Sellers' own pages read on 25 September 2026 | The data deposit named on the report's first page | [PDF](assets/research/study2/Study2_What_AI_Search_Visibility_Costs_2026-09.pdf), [10.5281/zenodo.22982430](https://doi.org/10.5281/zenodo.22982430) |
+| Study 3, run-to-run noise | 26 September 2026 | Three scheduled runs per question and engine | [Repeat disagreement table](research/data/repeat-disagreement.csv) | [PDF](assets/research/study3/Study3_Run_to_Run_Noise_2026-09.pdf), [10.5281/zenodo.22982432](https://doi.org/10.5281/zenodo.22982432) |
+| The Agent Gap | 6 October 2026 | Three fixed tasks for 70 vendors, stated in the report | The deposit, cited as a data set | [PDF](assets/research/study4/AGENT_GAP_REPORT.pdf), [10.5281/zenodo.23197560](https://doi.org/10.5281/zenodo.23197560) |
+| Head to Head | 7 October 2026 | Reads the release 2026-09 answers to A or B questions | Release 2026-09 files | [PDF](assets/research/study5/HEAD_TO_HEAD_REPORT.pdf), [10.5281/zenodo.23202939](https://doi.org/10.5281/zenodo.23202939) |
+| Study 6, Wrong About You | 9 October 2026 | Published Record rules | [wrong-about-you-2026-10 repository](https://github.com/Broadcastwell/wrong-about-you-2026-10) | [Study page](research/study6-wrong-about-you.md), [10.5281/zenodo.23270124](https://doi.org/10.5281/zenodo.23270124) |
+| Study 7, The AI Written RFP | 9 October 2026 | Criteria Maps method on the Index | [ai-written-rfp-2026-10 repository](https://github.com/Broadcastwell/ai-written-rfp-2026-10) | [Study page](research/study7-ai-written-rfp.md), [10.5281/zenodo.23271935](https://doi.org/10.5281/zenodo.23271935) |
+| Who appears in the sources of B2B software answers? | 30 October 2026 | OSF registration [VCZKT](https://doi.org/10.17605/OSF.IO/VCZKT) | Study 1 data files under research/data | [Study page](research/studies/who-ai-engines-cite/index.md) |
+| Does low presence persist? | 30 October 2026 | OSF registration [MKJ9V](https://doi.org/10.17605/OSF.IO/MKJ9V) | [Dated standings](research/data/dated-standings.csv); no persistence result computed | [Study page](research/studies/does-absence-persist/index.md) |
+| Which optimization signals appear on AI-cited pages? | 2 November 2026 | OSF registration [DVYFU](https://doi.org/10.17605/OSF.IO/DVYFU) | Page signal files under research/data | [Study page](research/studies/optimized-pages-in-ai-answers/index.md) |
+| Source evidence and two registered analyses | 2 November 2026 | Two registered analyses, named in the report | 53 public CSV files in the deposit | [10.5281/zenodo.23804758](https://doi.org/10.5281/zenodo.23804758), with two notices of 3 November 2026 |
+| Evidence, editorial refresh and citations | 3 November 2026 | OSF registration [DMFPJ](https://doi.org/10.17605/OSF.IO/DMFPJ) | [Field test protocol](research/data/field-test-protocol.pdf) and assignment table | [Study page](research/studies/evidence-refresh-field-test/index.md) |
+
+Every downloadable table these studies publish is listed with its size and checksum in our [open data catalog](open-data.md), and every report PDF with its checksum on our [research report](research-report.md) page.
 
 ## Sources
 

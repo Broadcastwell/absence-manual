@@ -1,0 +1,10 @@
+GA4 AI-referral channel template, Broadcastwell, coverage as of 2 November 2026, documented 9 November 2026
+Channel name: AI referrals
+Field: Source
+Condition: matches regex
+Value (copy the next line exactly):
+^(.*\.)?(chatgpt\.com|chat\.openai\.com|claude\.ai|perplexity\.ai|copilot\.microsoft\.com|copilot\.cloud\.microsoft)$
+Position: above Referral in a copy of your channel group
+Template: https://app.broadcastwell.com/tools/ai-referral-channel
+Documentation: https://docs.broadcastwell.com/ai-referral-analytics-template/
+License: CC BY 4.0, Broadcastwell.

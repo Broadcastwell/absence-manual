@@ -1,0 +1,21 @@
+/* Broadcastwell print stylesheet for research pages, 9 November 2026. It applies only when a page is printed. */
+@media print {
+  @page { size: letter; margin: 0.75in 0.7in 0.8in; }
+  html body { background: #fff; color: #000; }
+  html body [data-bw-site-header], html body .md-header, html body .md-tabs, html body .md-sidebar,
+  html body .md-footer, html body .md-search, html body .md-top, html body .md-banner,
+  html body .md-content__button, html body .md-typeset .headerlink, html body .bw-shared-bar,
+  html body .bw-shared-footer, html body .bw-shared-menu, html body .bw-shared-nav,
+  html body .bw-shared-audit, html body .bw-shared-allowance, html body .md-typeset .bw-buy { display: none; }
+  html body .md-main__inner, html body .md-content, html body .md-content__inner { margin: 0; padding: 0; max-width: none; }
+  html body .md-typeset { font-size: 10.5pt; line-height: 1.45; }
+  html body .md-typeset h1 { color: #000; font-size: 20pt; font-weight: 700; margin: 0 0 12pt; }
+  html body .md-typeset h2 { font-size: 14pt; font-weight: 700; margin: 18pt 0 6pt; break-after: avoid; }
+  html body .md-typeset h3 { font-size: 12pt; font-weight: 700; break-after: avoid; }
+  html body .md-typeset table, html body .md-typeset figure, html body .md-typeset pre,
+  html body .md-typeset blockquote { break-inside: avoid; }
+  html body .md-typeset table:not([class]) { font-size: 9pt; border: 0.5pt solid #000; }
+  html body .md-typeset table:not([class]) th, html body .md-typeset table:not([class]) td { border: 0.5pt solid #666; padding: 3pt 5pt; }
+  html body .md-typeset a { color: #000; text-decoration: underline; }
+  html body .md-typeset a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 8pt; word-break: break-all; }
+}

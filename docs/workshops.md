@@ -80,9 +80,22 @@ You leave with a re-check plan: the same questions, engines and method version, 
 - See the result: the [completed-case format](cases/format.md), on a fictional sample
 - Formats: text guide, worksheet and downloadable template
 
+## Client training: the operating process in four sessions
+
+When a client team starts work with us, these four sessions teach the process our [operating framework](operating-framework.md) sets out, one session per stage. Each session is a set of published pages, so a client team can take it before the first meeting, and each ends with a decision the team records. We added this path on 9 November 2026.
+
+| Session | Framework stage | Read first | The team leaves with | Time |
+| --- | --- | --- | --- | --- |
+| A | The question | Workshop 1 above and [course lesson 1](ai-visibility-course/lesson-1-one-ai-answer.md) | The buyer questions it will approve, without brand names, and the named approver on its side | About 45 minutes |
+| B | The measurement | Course lessons [2](ai-visibility-course/lesson-2-repeat-the-question.md) and [3](ai-visibility-course/lesson-3-find-the-base.md) and our [three measured rates](resources/three-rates.md) | Agreement on what counts as valid, failed and excluded before any number arrives | About 40 minutes |
+| C | The repair | Workshops 4 and 5 above and [course lesson 4](ai-visibility-course/lesson-4-read-the-sources.md) | The approved facts the repaired page may state, and who signs them off | About 60 minutes |
+| D | The re-check | Workshop 7 above and [course lesson 5](ai-visibility-course/lesson-5-recheck-fairly.md) | The comparison it will accept as a fair re-check, written down before the re-check runs | About 40 minutes |
+
+Times are reading estimates for the linked pages plus the exercise; they are not measured. Our [service model](service-model.md) shows which offer includes which stage, so a team can skip a session its offer does not include. Agency teams follow the separate [agency training path](agency-training.md).
+
 ## Before you start
 
-The workshops work alone or in order. A team new to measurement can take 1, 2, 3 and 7; a team that already has evidence can start at 4. The short films in our [webinar library](webinars.md), each 80 seconds or less, cover related topics, and our [RFP guide](rfp-guide.md) turns them into questions for a vendor.
+The workshops work alone or in order. A team new to measurement can take 1, 2, 3 and 7; a team that already has evidence can start at 4. A team that wants a reading path first can start with our five-lesson [AI visibility course](ai-visibility-course/index.md), and anyone who wants an assessed record can take the [Launchpad certificate](launchpad/certificate.md). The short films in our [webinar library](webinars.md), each 80 seconds or less, cover related topics, and our [RFP guide](rfp-guide.md) turns them into questions for a vendor.
 
 ## Sources
 

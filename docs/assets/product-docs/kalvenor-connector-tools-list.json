@@ -1,0 +1,108 @@
+{
+  "label": "SAMPLE DATA. Response of the public fictional Kalvenor connector to a tools/list request, recorded 9 November 2026 by Broadcastwell. Kalvenor Systems is fictional.",
+  "request": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "method": "tools/list"
+  },
+  "endpoint": "https://app.broadcastwell.com/mcp/vendor/kalvenor",
+  "recorded_utc": "2026-11-09",
+  "response": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "result": {
+      "tools": [
+        {
+          "name": "get_company",
+          "description": "SAMPLE DATA. Fictional vendor. get company",
+          "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "additionalProperties": false
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        {
+          "name": "get_pricing",
+          "description": "SAMPLE DATA. Fictional vendor. get pricing",
+          "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "additionalProperties": false
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        {
+          "name": "get_fit",
+          "description": "SAMPLE DATA. Fictional vendor. get fit",
+          "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "additionalProperties": false
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        {
+          "name": "get_integrations",
+          "description": "SAMPLE DATA. Fictional vendor. get integrations",
+          "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "additionalProperties": false
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        {
+          "name": "get_compliance",
+          "description": "SAMPLE DATA. Fictional vendor. get compliance",
+          "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "additionalProperties": false
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        {
+          "name": "get_links",
+          "description": "SAMPLE DATA. Fictional vendor. get links",
+          "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "additionalProperties": false
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        }
+      ]
+    }
+  }
+}

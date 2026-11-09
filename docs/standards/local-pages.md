@@ -65,4 +65,6 @@ Facts on a local page follow our guide to [keeping product facts consistent](../
 - Google Search Central, [Spam policies for Google web search](https://developers.google.com/search/docs/essentials/spam-policies), section "Doorway abuse", last updated 28 August 2026, read 9 November 2026.
 - Broadcastwell editorial rule for local pages, adopted 9 November 2026.
 
+We publish one city page under this rule: [Bloomington, Indiana](../services/bloomington-indiana.md), where our own street address is the local evidence.
+
 Related: our [operating framework](../operating-framework.md) and our [release notes](../release-notes.md).

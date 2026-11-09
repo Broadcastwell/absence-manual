@@ -15459,9 +15459,9 @@
     "resources.md": {
       "url": "https://docs.broadcastwell.com/resources/",
       "prior_title": "Turn evidence into useful next work.",
-      "before_body_sha256": "c3ae8398093eb641493d97efb159392998d86b0ada69eca3e13f5149f658aa70",
+      "before_body_sha256": "9343cbf875b453a623fcb7d1ab2660915a6102e9ef8829077cb3bd2d4d5d4360",
       "before_meta_sha256": "fca879f395b6c4e3a891b0f0e7b2290cd425377430050d70ce3b8535644c721c",
-      "after_body_sha256": "b3aa6e65b415ded1f857a392536f22d367ecf490910b492a099ee49ddfb0ac18",
+      "after_body_sha256": "5941e2621689579eca4c198df57d4ed935d18ccb56455a369a5ff966f17522bf",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
@@ -16024,9 +16024,9 @@
     "resources/guides/fair-recheck.md": {
       "url": "https://docs.broadcastwell.com/resources/guides/fair-recheck/",
       "prior_title": "Connect published work to a fair recheck",
-      "before_body_sha256": "2c1860cf5410cf48849bce41aa49549a640394daa8ddaa0e9d43d397037ea2ce",
+      "before_body_sha256": "3e93529b3eca912ed81661327411d689b10252b3bf71a200147d6e616cf9d2fa",
       "before_meta_sha256": "8e2978df5027d8383c2120b26b9804918eaa18a1ceea2b2026c99bbbac01e968",
-      "after_body_sha256": "d1dac98d6c15cf71f620abf7d23b4947ab2a350ea75519c41f298de603c769a4",
+      "after_body_sha256": "0ee82ccea3a25dd30164de1a67b1c2786b4ddab30738a371a23fb9c6b9dfc76e",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
@@ -16404,9 +16404,9 @@
     "resources/playbooks/source-correction.md": {
       "url": "https://docs.broadcastwell.com/resources/playbooks/source-correction/",
       "prior_title": "Source-correction review",
-      "before_body_sha256": "56d465b17d047589f958e70e5b2c71e2b053e405aedcaae9da1f218990407c37",
+      "before_body_sha256": "a373193e5dd9b8011852e0a59a19b91a253076c396298123b08e832b9305f60d",
       "before_meta_sha256": "ff67b46df4e376f7083f2a07332ec01adc22ad315c259b7d7b28d9abe46e03a9",
-      "after_body_sha256": "b5e2df7e5910317d0656e74ccd039d01a5bfe686bea857d9cedc8c8aae314812",
+      "after_body_sha256": "56c776c33c7c509d6c202533de905e3f3f31af47b2a5212b61a395467117a530",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",

@@ -232,4 +232,4 @@ A release is never edited in place. A correction gets a new version and a new DO
 - Broadcastwell, [Data, methods and citations](https://broadcastwell.com/data), read 9 November 2026.
 - Broadcastwell, [research pages on these docs](research/index.md), for the four OSF registrations.
 
-Related: our [media kit](media-kit.md) and our [release notes](release-notes.md).
+Related: our [media kit](media-kit.md) and our [release notes](release-notes.md). Every report on this page that has a PDF is listed with its checksum on our [research report](research-report.md) page, Study 1 has a [print edition](print-edition.md), the tables are in our [open data catalog](open-data.md) and the charts in our [chart library](chart-library.md). Our analysis of [search patents](search-patents.md) cites each patent record by number.
