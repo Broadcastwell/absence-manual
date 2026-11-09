@@ -63,7 +63,7 @@ The Volume II and III data and code are also in the [State of GEO repository](ht
 
 ## Credit lines, ready to paste
 
-- Study chart: "Source: Broadcastwell, Who appears in the sources of B2B software answers?, https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/, data from Absence Index release 2026-09 (doi:10.5281/zenodo.22907695), CC BY 4.0."
+- Study chart: "Source: Broadcastwell, Who appears in the sources of B2B software answers?, https://docs.broadcastwell.com/<wbr>research/studies/<wbr>who-ai-engines-cite/, data from Absence Index release 2026-09 (doi:10.5281/zenodo.22907695), CC BY 4.0."
 - Manual chart: "Source: Sivakumar, S. (2026). The Absence Manual. Broadcastwell. https://docs.broadcastwell.com/, figure from The 2026 State of GEO, Volume III (doi:10.5281/zenodo.21789120), CC BY 4.0."
 
 Every term in these captions, from base to citation, is defined in our [AI search glossary](ai-search-glossary.md).
