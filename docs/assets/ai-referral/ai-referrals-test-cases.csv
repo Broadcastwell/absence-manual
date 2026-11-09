@@ -1,0 +1,14 @@
+source,medium,matches_pattern,expected_channel
+chatgpt.com,referral,yes,AI referrals
+chat.openai.com,referral,yes,AI referrals
+claude.ai,referral,yes,AI referrals
+perplexity.ai,referral,yes,AI referrals
+www.perplexity.ai,referral,yes,AI referrals (a subdomain of a listed host)
+copilot.microsoft.com,referral,yes,AI referrals
+copilot.cloud.microsoft,referral,yes,AI referrals
+gemini.google.com,referral,no,Your copied GA4 rules decide; Google names Gemini as an AI Assistant channel example
+google,organic,no,"Organic Search, which GA4 says includes Google AI Overviews and AI Mode"
+email,newsletter,no,Email
+mail.example.com,referral,no,Referral
+chatgpt.com.example,referral,no,Referral
+kalvenor.example,referral,no,Referral (fictional site)

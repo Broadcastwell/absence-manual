@@ -1,0 +1,8 @@
+step,task,input,output,stop_if,owner
+1,Record the statement,"The answer receipt: engine, question, run, capture date and the exact sentence","The statement copied word for word, with its receipt",The sentence is not in a saved answer,Your team
+2,Classify it,The statement and your approved fact for the same date,"One class: true, wrong, stale or unverifiable",No approved fact exists for that date,Your fact approver
+3,Find the source the answer used,The cited URLs in the same receipt,"The page and passage that carries the wrong or stale fact, or a note that none is cited",The passage cannot be found on the cited page,Your team
+4,Draft the correction,"The approved fact, its public source and the exact passage",A short correction draft that links the evidence,"The draft would need private data, a false identity or a paid placement",Your team
+5,Confirm who may receive it,The source owner's published correction route,"The verified recipient and route, or the gap",The recipient's authority cannot be verified,Your accountable owner
+6,Send through the owner,The approved draft and verified route,A dated record that the request was sent,Anyone other than the accountable owner would send it,Your accountable owner
+7,"Check the source, then the answers","The source page on a later date, then a re-check on the same questions","Two separate records: source changed or not, and answers changed or not",A sent request is reported as a changed source,Your team

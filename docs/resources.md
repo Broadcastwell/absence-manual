@@ -33,6 +33,29 @@ date_modified: '2026-10-20T00:00:00+00:00'
 - [Completed-case format](cases/format.md), shown on a fictional sample.
 - [Local pages rule](standards/local-pages.md): when we write a city or regional page.
 
+## A learning curriculum, in order
+
+The resources on this page can be taken as one sequence, from a first reading to an assessed certificate. We set out this order on 9 November 2026; every step is free and every example in it is fictional.
+
+| Level | Take | You can then | Time listed |
+| --- | --- | --- | --- |
+| 1. Foundations | The five lessons of our [AI visibility course](ai-visibility-course/index.md) ([1](ai-visibility-course/lesson-1-one-ai-answer.md), [2](ai-visibility-course/lesson-2-repeat-the-question.md), [3](ai-visibility-course/lesson-3-find-the-base.md), [4](ai-visibility-course/lesson-4-read-the-sources.md), [5](ai-visibility-course/lesson-5-recheck-fairly.md)), with the [AI search glossary](ai-search-glossary.md) beside them | Say what one answer, three repeats and a base can and cannot show | Reading time on each lesson |
+| 2. Practice | The six guides and worksheets above, then the two recorded demonstrations | Read a receipt and turn a supported conflict into a bounded change | Each guide and worksheet |
+| 3. Apply | Our seven [workshops](workshops.md), the [content brief](content-templates/content-brief.md) and [content strategy](content-templates/content-strategy.md) templates, and the four client training sessions on the workshops page | Keep a question set, a brief, a fact record and a re-check plan | About 45 to 60 minutes a session |
+| 4. Assess | The eight Launchpad modules and the [Launchpad certificate](launchpad/certificate.md) assessment | Hold a certificate of completion that others can verify | About four hours with the assessment |
+| For agencies | Our [agency training path](agency-training.md) | Check a delivered client report against its order before forwarding it | About 205 minutes |
+
+## Services, research and tools
+
+How our offers apply to one engine, one industry or one place, and the research tools behind them:
+
+- By engine: [ChatGPT](services/chatgpt-visibility.md), [Claude](services/claude-visibility.md), [Perplexity](services/perplexity-visibility.md), [Google AI Overviews](services/google-ai-overviews-visibility.md) and [Google AI Mode](services/google-ai-mode-visibility.md).
+- By industry, across the fourteen Index categories: [construction](services/industries/construction-software.md), [CRM](services/industries/crm-software.md), [dealership](services/industries/dealership-software.md), [dental](services/industries/dental-software.md), [field service](services/industries/field-service-software.md), [hotel](services/industries/hotel-software.md), [insurance agency](services/industries/insurance-agency-software.md), [legal practice](services/industries/legal-practice-software.md), [loan origination](services/industries/loan-origination-software.md), [project management](services/industries/project-management-software.md), [property management](services/industries/property-management-software.md), [radiology](services/industries/radiology-software.md), [transportation](services/industries/transportation-software.md) and [veterinary](services/industries/veterinary-software.md) software, compared in our [industry benchmarks](industry-benchmarks.md).
+- By place: [Bloomington, Indiana](services/bloomington-indiana.md), where we are based.
+- Research: [download a research report without a form](research-report.md), the [print edition](print-edition.md) of Study 1, our [open data catalog](open-data.md), the [chart library](chart-library.md) and our analysis of [search patents](search-patents.md).
+- Tools: our [product documentation](product-docs.md), the [AI referral analytics template](ai-referral-analytics-template.md) and the [AI Shortlist Check browser extension](browser-extension.md).
+- Comparisons: our dated [AI visibility vendor comparisons](comparisons.md), in one list.
+
 <script>
 const search=document.getElementById('search'),tag=document.getElementById('tag'),count=document.getElementById('count');function filter(){let n=0;document.querySelectorAll('.resource').forEach(c=>{c.hidden=!(c.dataset.search.includes(search.value.toLowerCase().trim())&&(tag.value==='all'||c.dataset.tag===tag.value));if(!c.hidden)n++;});count.textContent=n+' resources shown'+(n===0?'. Try another search or reset.':'');}search.addEventListener('input',filter);tag.addEventListener('change',filter);document.getElementById('reset').addEventListener('click',()=>{search.value='';tag.value='all';filter();});filter();
 </script>

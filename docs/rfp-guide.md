@@ -117,4 +117,4 @@ Ask every vendor the same 14 questions in writing and read the answers in one ta
 - Broadcastwell, [Pricing](https://broadcastwell.com/pricing), [Answer Repair](https://broadcastwell.com/answer-repair) and [Fix Sprint](https://broadcastwell.com/fix-sprint), read 9 November 2026.
 - Broadcastwell, [Integrity Standard](https://broadcastwell.com/integrity), read 9 November 2026.
 
-Related: the [content brief template](content-templates/content-brief.md) turns an agreed question into a page plan.
+Related: the [content brief template](content-templates/content-brief.md) turns an agreed question into a page plan. Our [vendor comparisons](comparisons.md) show these questions applied to named alternatives, each dated, and our [AI search glossary](ai-search-glossary.md) defines the terms a vendor's answers should use.

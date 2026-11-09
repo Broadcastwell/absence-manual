@@ -114,6 +114,10 @@ These twelve clips from 23 to 28 October 2026 have no captions or transcript. Th
 - 23 October 2026: [Who AI engines name as McLeod alternatives for freight brokers](https://www.youtube.com/watch?v=UTe165WQBEQ), 23 seconds, no captions
 - 23 October 2026: [Who AI names as alternatives to Open Dental](https://www.youtube.com/watch?v=7Bjg2PO4TrU), 22 seconds, no captions
 
+## Prefer reading to watching?
+
+Our free [AI visibility course](ai-visibility-course/index.md) covers related ground in five short lessons, sized to read one a day, with an exercise in each. The [Launchpad certificate](launchpad/certificate.md) page explains how to take the assessed version.
+
 ## How we choose what goes in the library
 
 A film enters the library only when it rests on a published study, a dated Index record or a cited outside study. Counts in a film carry the same base and date as the record it comes from. Our [workshops](workshops.md) turn several of these topics into self-paced exercises, and our [release notes](release-notes.md) record changes to our pages.

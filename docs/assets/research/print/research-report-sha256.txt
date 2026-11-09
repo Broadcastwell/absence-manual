@@ -1,0 +1,12 @@
+# SHA-256 checksums of Broadcastwell research report downloads, recorded 9 November 2026.
+# Check a download with: sha256sum <file>  (or certutil -hashfile <file> SHA256 on Windows).
+21d03ff5eb70575ca59ad548b2930919bf1aeb3ad5e760621ac307cc73e8e881  https://docs.broadcastwell.com/assets/research/study1/Study1_The_Shortlist_Gap_2026-09.pdf
+e1572a2a2a7f8a94cd3e6b09862ce89e3b75be0390860de6236bec48a83a6487  https://docs.broadcastwell.com/assets/research/study2/Study2_What_AI_Search_Visibility_Costs_2026-09.pdf
+cc7b9926f2dde80d4fa63d5c10bc69361e7e1812c79868cfdbf322d10a2cd24a  https://docs.broadcastwell.com/assets/research/study3/Study3_Run_to_Run_Noise_2026-09.pdf
+9c9192464226d88890249096b4760cf916cece1c46f9185617e9b70137f89b56  https://docs.broadcastwell.com/assets/research/study4/AGENT_GAP_REPORT.pdf
+22c2e8b7eec98f61697335e8d52fa5bfa3dca01e8ff63aa0d36987ab8f7cdd69  https://docs.broadcastwell.com/assets/research/study5/HEAD_TO_HEAD_REPORT.pdf
+29b1da16b4818246526fb26691959ef26b02d2c4668ea4c5da424de929b539f3  https://docs.broadcastwell.com/assets/research/study6/Study6_Wrong_About_You_2026-10.pdf
+7d7925f7087bbc7fc32aada1938bd68f7275961200c87b4fa124c9536ad6fab0  https://docs.broadcastwell.com/assets/research/study7/Study7_The_AI_Written_RFP_2026-10.pdf
+5cbdb2c34a14b538b892e9e9fba605398cb605db6fbd1e0a1b5658bbf667fcaa  https://docs.broadcastwell.com/assets/research/print/Study1_The_Shortlist_Gap_print_edition_2026-11-09.pdf
+db4da63a91f1696f5171a3f54908368ae6a90ce4fe71281671ebef4ae172a52e  https://docs.broadcastwell.com/research/data/report-authorship-correction-2026-11-03.pdf
+ce346d642bbe20c4eadbc98128d5655363393cf4b95a202cdcd3b9e3869d6d3d  https://docs.broadcastwell.com/research/data/report-interpretation-notice-2026-11-03.pdf
