@@ -369,6 +369,10 @@ Can a task you write once run again on each new measurement? Runs a task you wri
 
 A person on your team accepts or rejects each saved result with a note before anyone relies on it, and every attempt runs once: a failed or uncertain attempt is saved and never repeated. Every quote must appear word for word in the receipt it names, or the result is not kept. Repeated runs of the same question can differ, which our note on [measurement noise](measurement-noise.md) explains, so a result that reads one pass describes that pass.
 
+## When the day's allowance is used
+
+Every analysis in an account shares one daily allowance. When it has been used, the screen says, word for word: Today's shared allowance for model-based analyses has been used; it resets at 00:00 UTC and nothing was charged. Nothing is reserved or charged for an attempt that this notice stops, and the attempt can run again after the reset.
+
 ## Sources
 
 - Broadcastwell, client account analysis screens and their exports at app.broadcastwell.com (sign-in required), read 9 November 2026.

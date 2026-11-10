@@ -2595,7 +2595,7 @@
     "docs/absence-ladder-volume-ii.pdf": "63ad282653a035a94a852fba0e50efd0e77ee5861f9c5f9964806bca9ce84392",
     "docs/absence-ladder.md": "d4111898adaab105e6d5bc16b4eeed226945c79fe47529c30c889af902fb0a91",
     "docs/absence-rules.md": "485c34b7416e6ab4ec3420db36c749fbb392934579a232db4b6ab81eb9df6774",
-    "docs/account-analyses.md": "24f72d3d316efd0dd2ef7bd6d0fe1c82459a611ef9fe5d7fec5fe73b6b328c7f",
+    "docs/account-analyses.md": "d461b1266d5757e14f978a1223ef1c58b3e34fa9179d752ffecd1344189be223",
     "docs/agency-training.md": "1af750af66037547e95d3cb34a8aada3d265c798908186635eaa22af2f2f34ee",
     "docs/ai-referral-analytics-template.md": "832d7efe09816444b7347209ea0f5faa1384d20031d28931c7533133e9254d7f",
     "docs/ai-search-glossary.md": "3d2afbed46a32e669aa6a0e5094194d71c7ec8b0ad239442fbfe2cc1e3fe9a9f",
@@ -3164,7 +3164,7 @@
     "docs/industry-benchmarks.md": "120493989e81df3a97c6415862ace48ff302adbe1b654c1265d35df33b6a9c8d",
     "docs/launchpad.md": "b9654cd26b37e41cb12732f1398e87631dcb38a38006226e59c17219017303f2",
     "docs/launchpad/certificate.md": "c4cc41927654b1c9419137dc3778be41cba8471c5eae92d3f2a67e9600176a1e",
-    "docs/llms.txt": "9af02107d8a21b2d5c1ceaa7ecd34c003858e725bbdd22725518bf764127131b",
+    "docs/llms.txt": "6870272136852e3ea9382c735a50eea8a8e12ae188942510f4059075fc5cd28d",
     "docs/measurement-noise.md": "e4d3f18afb52fa69a736532fa3bf7e976f1791953750fe3810da71923f486001",
     "docs/media-kit.md": "44d0917cbdd2d8e8a102b5809c38da67a0a8b3027777dd44083eed6c4941fc69",
     "docs/model-releases.md": "5cb3c9979209309b90cc977205ea9163a19ec37ef4179f73a3c4a1c9baad7851",
@@ -3518,7 +3518,7 @@
     "tests/test_answers_published_list_audit.py": "a04a21d9ee1ebe6bf6f5b39d62bd3b60f0901860b40d2784bbe12e00dd93f86f",
     "tests/test_chatgpt_business_hub.py": "4792e247e5da017f2ba04b4740d56206ecf6e7753791ce0a6f6a9000ff18923c",
     "tests/test_discovery_consumer_five.py": "e725ad9bf46e0299f62037ffa956ad5a69b1574748ec14d53eb56368d08eb4cf",
-    "tests/test_docs_account_analyses.py": "405d46a08fbaea77562b89e08189bc2d2581c6709f40381a7305964210fcde5b",
+    "tests/test_docs_account_analyses.py": "4d24d5584c43aaf37a7474d2315a29200bc99783a949350c15ba4cc8483b8faf",
     "tests/test_docs_content_pages.py": "b267e67bf683b23cf1fab20c1cf1e23dc7d87a9273186236e0b88710f946c5f5",
     "tests/test_docs_more_pages.py": "5c518318be4f43b375b4eeeb9ab3fdc0711ca400883031d4cc1671d847bda196",
     "tests/test_followup_release.py": "736a5ab4f0fda04c03c08dee5483192bd5292f5bc3a47f2aeccb19436def0aaa",
@@ -5750,7 +5750,7 @@
       "count": 1
     },
     {
-      "after": "- [Which AI visibility vendor comparisons have we published?](https://docs.broadcastwell.com/comparisons/): Our AI visibility vendor comparisons name 14 alternatives across 13 answers, each dated to the day we read the provider's own pages, with no winner declared.\n- [Which analyses run in your Broadcastwell account?](https://docs.broadcastwell.com/account-analyses/): Our client account runs 51 analyses on your own delivered measurement. Each lists what it reads, what it returns and its label; every result waits for review.\n",
+      "after": "- [Which AI visibility vendor comparisons have we published?](https://docs.broadcastwell.com/comparisons/): Our AI visibility vendor comparisons name 14 alternatives across 13 answers, each dated to the day we read the provider's own pages, with no winner declared.\n- [Which analyses run in your Broadcastwell account?](https://docs.broadcastwell.com/account-analyses/): Our client account runs 39 analyses on your own delivered measurement. Each lists what it reads, what it returns and its label; every result waits for review.\n",
       "before": "- [Which AI visibility vendor comparisons have we published?](https://docs.broadcastwell.com/comparisons/): Our AI visibility vendor comparisons name 14 alternatives across 13 answers, each dated to the day we read the provider's own pages, with no winner declared.\n",
       "count": 1
     }
@@ -6016,7 +6016,7 @@
       "before_sha256": "d5a3ff30b4286a7fa6518da71884f80f66c624b6c248b579cfdfbd722af617fc"
     },
     "docs/account-analyses.md": {
-      "after_sha256": "24f72d3d316efd0dd2ef7bd6d0fe1c82459a611ef9fe5d7fec5fe73b6b328c7f",
+      "after_sha256": "d461b1266d5757e14f978a1223ef1c58b3e34fa9179d752ffecd1344189be223",
       "before_sha256": null
     },
     "docs/agency-training.md": {
@@ -6220,7 +6220,7 @@
       "before_sha256": null
     },
     "docs/llms.txt": {
-      "after_sha256": "9af02107d8a21b2d5c1ceaa7ecd34c003858e725bbdd22725518bf764127131b",
+      "after_sha256": "6870272136852e3ea9382c735a50eea8a8e12ae188942510f4059075fc5cd28d",
       "before_sha256": "35cfd635a7bd547bdf7c16fe2a62a29c453133f5c76e7bcacbbc9f54d23ec1a7"
     },
     "docs/media-kit.md": {
@@ -6420,7 +6420,7 @@
       "before_sha256": null
     },
     "tests/test_docs_account_analyses.py": {
-      "after_sha256": "405d46a08fbaea77562b89e08189bc2d2581c6709f40381a7305964210fcde5b",
+      "after_sha256": "4d24d5584c43aaf37a7474d2315a29200bc99783a949350c15ba4cc8483b8faf",
       "before_sha256": null
     },
     "tests/test_docs_content_pages.py": {
@@ -6519,7 +6519,7 @@
   "source_review": {
     "serving_base": "a20a4ccfbe5178e36f4a323cddd97f9917ebd547",
     "state": "STEP 3.2 docs release source and artifact review open; first Linux CI pass required",
-    "trigger": "STEP 3.2 docs release, 9 November 2026, one registration for two changes. Switch on (owner ruling R-090): one reference page outside the shared navigation, /account-analyses/, listing the 51 analyses available in a client account with what each reads and returns and its label; its llms.txt line and sitemap entry; links from the product documentation and service model pages; and its test file. SA-FIX: on the ChatGPT Business Hub explainer the lead's rarity sentence, the lead's client sentence and the six-part client status table in the page source (part 2 per ruling R-101); the seven current Organization sameAs profiles and the X and TikTok footer links on the pages that use the followup and business-hub templates; the same seven profiles in business-facts.json and its documented example; verify_build expects the eight-link Contact group outside the 45 registered pages, and the test that runs its per-page loop selects the two new constants it reads. main.html, partials/site-footer.html and the 45 registered pages are unchanged."
+    "trigger": "STEP 3.2 docs release, 9 November 2026, one registration for two changes. Switch on (owner ruling R-090): one reference page outside the shared navigation, /account-analyses/, listing the 39 analyses available in a client account with what each reads and returns and its label; its llms.txt line and sitemap entry; links from the product documentation and service model pages; and its test file. SA-FIX: on the ChatGPT Business Hub explainer the lead's rarity sentence, the lead's client sentence and the six-part client status table in the page source (part 2 per ruling R-101); the seven current Organization sameAs profiles and the X and TikTok footer links on the pages that use the followup and business-hub templates; the same seven profiles in business-facts.json and its documented example; verify_build expects the eight-link Contact group outside the 45 registered pages, and the test that runs its per-page loop selects the two new constants it reads. main.html, partials/site-footer.html and the 45 registered pages are unchanged."
   },
   "source_review_complete": false,
   "visibility_decisions_sha256": "f595603b7abb20514c4f311e784374131443d61db5e5f42df666273ba5481314"

@@ -39,6 +39,14 @@ LABELS = {
 }
 # Titles of analyses that need outside data; they stay on the fictional sample and are not listed.
 DATA_TITLES = ["AI shopping visibility", "Social perception", "Reddit topic research", "Consumer panel question weights"]
+# The notice the account screen shows, word for word, once the shared daily allowance is used.
+ALLOWANCE_NOTICE = ("Today's shared allowance for model-based analyses has been used; it resets at 00:00 UTC and "
+                    "nothing was charged.")
+# Titles of the twelve analyses that are off after their measured attempts (STEP 3.2, R-110); they left the page.
+OFF_TITLES = ["Question discovery", "Shared planning assumptions", "Attributes and objections",
+              "Unresolved or conflicting facts", "Topic and question coverage map", "Buyer journey plan",
+              "Ad briefs from answer evidence", "Ideal-customer plan", "Setup from a description", "Content decay",
+              "Review notes into reusable rules", "Related searches, generated and found"]
 
 
 def page():
@@ -67,11 +75,12 @@ class AccountAnalysesPageTests(unittest.TestCase):
         self.assertIn("analyses", first.opening_words(body).lower())
         self.assertIn("available now", first.opening_words(body).lower())
 
-    def test_fifty_one_analyses_each_with_what_it_reads_returns_and_its_label(self):
+    def test_thirty_nine_analyses_each_with_what_it_reads_returns_and_its_label(self):
         _, body = page()
         found = entries(body)
-        self.assertEqual(len(found), 51)
-        self.assertEqual(len(re.findall(r"(?m)^## ", body)), 9, "seven buyer groups, the check note and sources")
+        self.assertEqual(len(found), 39)
+        self.assertEqual(len(re.findall(r"(?m)^## ", body)), 10,
+                         "seven buyer groups, the check note, the allowance note and sources")
         for title, text in found.items():
             with self.subTest(analysis=title):
                 self.assertIn("\n**What it reads.** ", "\n" + text)
@@ -85,6 +94,24 @@ class AccountAnalysesPageTests(unittest.TestCase):
         self.assertIn("Advertising context from public sources", found)
         for title in DATA_TITLES:
             self.assertNotIn("### " + title + "\n", body)
+        self.assertEqual(len(OFF_TITLES), 12)
+        for title in OFF_TITLES:
+            with self.subTest(off=title):
+                self.assertNotIn(title, found)
+                self.assertNotRegex(body, r"(?m)^#{1,6} " + re.escape(title) + r"\s*$")
+
+    def test_the_shared_daily_allowance_notice_word_for_word(self):
+        _, body = page()
+        self.assertEqual(body.count(ALLOWANCE_NOTICE), 1)
+        sections = re.findall(r"(?m)^## (.+)$", body)
+        self.assertEqual(sections[-3:], ["How a result is checked", "When the day's allowance is used", "Sources"])
+        note = re.search(r"(?ms)^## When the day's allowance is used\n\n(.*?)\n\n## Sources", body).group(1)
+        self.assertEqual(note, (
+            "Every analysis in an account shares one daily allowance. When it has been used, the screen says, word "
+            "for word: " + ALLOWANCE_NOTICE + " Nothing is reserved or charged for an attempt that this notice "
+            "stops, and the attempt can run again after the reset."))
+        self.assertNotIn("’", note)
+        self.assertEqual(re.findall(r"\$[0-9][0-9,]*", note), [])
 
     def test_no_model_vendor_cost_or_token_and_no_banned_copy(self):
         text = (DOCS / NAME).read_text(encoding="utf-8")
