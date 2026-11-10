@@ -19,7 +19,7 @@ Every analysis below says what it reads, what it returns item by item and, where
 
 Until your account holds a delivered measurement, each screen shows the analysis on Kalvenor Systems, a fictional company, labeled as an example; it is never a result about you. Once it does, the example stays one click away. Analyses that need outside search, ad, shopping, social, traffic or link data are shown on the fictional sample only and read none of your data.
 
-The terms used here are defined in our [AI search glossary](ai-search-glossary.md). Our [product documentation](product-docs.md) covers what you can do without an account, and our [service model](service-model.md) shows where this work sits in an engagement.
+The terms used here are defined in our [AI search glossary](ai-search-glossary.md). Our [product documentation](product-docs.md) covers what you can do without an account, and our [service model](service-model.md) shows where this work sits in an engagement. The analyses run inside a Broadcastwell account, which you can open with the [Free Account and 14-Day Tracking Trial](https://app.broadcastwell.com/offers/free-account-and-14-day-tracking-trial) or the [Question Tracking Plan](https://app.broadcastwell.com/offers/question-tracking-plan).
 
 ## Read how the answers describe you
 

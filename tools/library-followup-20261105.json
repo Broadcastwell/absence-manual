@@ -8,7 +8,7 @@
     "absence-manual-v1.0-2026-08-18.pdf": "c467190e00ac51e04493a4718a831e3160746f3ac2ebfbc2e5550789c603c35a",
     "absence-manual.pdf": "c467190e00ac51e04493a4718a831e3160746f3ac2ebfbc2e5550789c603c35a",
     "absence-rules/index.html": "0ed52674b1f918e2db6aeda3dc7410233926352f1292a95081cfa45368a62f74",
-    "account-analyses/index.html": "0c019079ca5cbfae40158921e659ad274960e15d24153e5dac1d49b7ff94568b",
+    "account-analyses/index.html": "14bf330909d984c444b1b3784f95f7e7e06dbe5783938d8af944c1cba29bcdc1",
     "agency-training/index.html": "ed59ed051ae78893c66ff7992add0fce7f374a2a0a64e82725e3aa4340c790c5",
     "ai-referral-analytics-template/index.html": "1a6de8fc3525686128931b9deb4caefb25112311f90f3c67ab00ebfdb0bc47e8",
     "ai-search-glossary/index.html": "91e6640e6ceee61f872816691927ca26354f8fd05a899cf8f218bce0490cdc7c",
@@ -594,7 +594,7 @@
     "chart-library/index.html": "2762a657ad3da4f948dcb44fcb81b811e55cd8d72809b3e7f06b067f2a5d1514",
     "chatgpt-business-hub/business-facts-file/index.html": "a74a731b3195f3ba88ec533c80130dcb8483d9f1f7e34f9d18b7ccd8351b8d52",
     "chatgpt-business-hub/context-pack/index.html": "89a0f6e65eb09dfd796ef8e9dc118ec5278972840254ea05f768090b66d7ae8e",
-    "chatgpt-business-hub/index.html": "ff9d12f939a7b1c13200aed3442fb2a68f9c98f0f131d9ece4ca1e6ed3c9e75a",
+    "chatgpt-business-hub/index.html": "d98e932f7b3b0eb25509f7a54f8122d89d98328864b285ad66a4095d73e93e4f",
     "chatgpt-business-hub/reconciliation-report/index.html": "2c871d8d1a0025fe5a637f2d25f163daaad8d321d2b332505bfa2e30248fd438",
     "chatgpt-business-hub/watch/index.html": "3b91896621e49d933265f6e3bcfd735c36aec65ecadcfe5f6b9606e7569d98ec",
     "cite/index.html": "7a84213654e2e879a209cf4d83d36f52079c14f493f148769e3e4ea6901a7267",
@@ -844,7 +844,7 @@
     "robots.txt": "ef45ab052003491abbbca6625fe955890ff4523e8ea2d2d5e6edea792f1aaa69",
     "scoring-spec/index.html": "37bd21b3dc5c67b32d364275be2038f44194e05f52f1ab0ae3f688827e350496",
     "search-patents/index.html": "0638f6c6504b4b348655b70231f9f98db5c2191f17f8c096788307e70d69364e",
-    "search/search_index.json": "ff602ccc4e69c05144d5db04ce4154e1d37f84515403ae8a533217851f42b456",
+    "search/search_index.json": "4d1bd5da26b31ed498ef0dfdee109787b6f97f270fccf07acaa89ada60a6ddde",
     "selection-not-ranking/index.html": "620b9e072d3ee02bc94aa5e43264003bf41f02909555140e0056cac5c8a3a9af",
     "service-model/index.html": "a93b1339188b53a2a42988db82f004b5338d318629a8f19f9796600e1a60c54b",
     "services/bloomington-indiana/index.html": "bf9ef2aa40a073351c359c2dde0f0d6e9327ab7bd1505a43105b603b1810c203",
@@ -899,7 +899,7 @@
       "before_sha256": "45c8c490a935f48f346d7a8534b2250973c1c8a0d96026c86f04384c8d2c74ad"
     },
     "account-analyses/index.html": {
-      "after_sha256": "0c019079ca5cbfae40158921e659ad274960e15d24153e5dac1d49b7ff94568b",
+      "after_sha256": "14bf330909d984c444b1b3784f95f7e7e06dbe5783938d8af944c1cba29bcdc1",
       "before_sha256": null
     },
     "agency-training/index.html": {
@@ -2331,7 +2331,7 @@
       "before_sha256": null
     },
     "chatgpt-business-hub/index.html": {
-      "after_sha256": "ff9d12f939a7b1c13200aed3442fb2a68f9c98f0f131d9ece4ca1e6ed3c9e75a",
+      "after_sha256": "d98e932f7b3b0eb25509f7a54f8122d89d98328864b285ad66a4095d73e93e4f",
       "before_sha256": null
     },
     "chatgpt-business-hub/reconciliation-report/index.html": {
@@ -2911,7 +2911,7 @@
       "before_sha256": null
     },
     "search/search_index.json": {
-      "after_sha256": "ff602ccc4e69c05144d5db04ce4154e1d37f84515403ae8a533217851f42b456",
+      "after_sha256": "4d1bd5da26b31ed498ef0dfdee109787b6f97f270fccf07acaa89ada60a6ddde",
       "before_sha256": "b35b56bd04c8030d3f7255a7dbf677bf8373d7224129d6b2ea9b0bc8158116ed"
     },
     "selection-not-ranking/index.html": {
@@ -3040,20 +3040,20 @@
     }
   },
   "artifact_review": {
-    "PDFs_changed": 2,
-    "actual_Linux_artifact_id": 13737512405,
-    "actual_Linux_run_id": 42760536488,
-    "actual_artifact_sha256": "d7e9879a290c609a69fbdf14819c7aca72c9749572be05bbf26ec457f52f9258",
+    "PDFs_changed": 0,
+    "actual_Linux_artifact_id": 13742528390,
+    "actual_Linux_run_id": 42772752346,
+    "actual_artifact_sha256": "f5ff89fb718ce945766d16154f15875677f43180d004e76d997757429a03da3e",
     "added_from_production": 0,
     "approved": true,
-    "changed_from_production": 21,
+    "changed_from_production": 3,
     "complete_files": 876,
-    "exact_comparison_sha256": "078b4fea9304960b17d7c52389f58abb39e2db3fe6d44587e3a26f96bdd73eb5",
+    "exact_comparison_sha256": "1c096209138d4a29b9e5c36f1569b893fee93ef5c1340c6d8776eb0838c5a9f7",
     "frozen_HTML": 45,
     "frozen_sitemap_entries": 45,
     "pinned_assets": 5,
-    "reviewed_utc": "2026-11-10T05:35:25.501859+00:00",
-    "source_head": "beb07b43fa010aec7f3f446e9ed18234fd55faff"
+    "reviewed_utc": "2026-11-10T07:15:13.080179+00:00",
+    "source_head": "db8051eebd0009a2183784ebe08b64e718f86f4a"
   },
   "base_commit": "88d6b6bb11f8b4bd713ee7e4e79c863ff9973518",
   "base_source_sha256": {
@@ -5646,7 +5646,7 @@
     "docs/absence-ladder-volume-ii.pdf": "63ad282653a035a94a852fba0e50efd0e77ee5861f9c5f9964806bca9ce84392",
     "docs/absence-ladder.md": "d4111898adaab105e6d5bc16b4eeed226945c79fe47529c30c889af902fb0a91",
     "docs/absence-rules.md": "485c34b7416e6ab4ec3420db36c749fbb392934579a232db4b6ab81eb9df6774",
-    "docs/account-analyses.md": "d461b1266d5757e14f978a1223ef1c58b3e34fa9179d752ffecd1344189be223",
+    "docs/account-analyses.md": "9634d0653840920870e29500a5c696108db4f9396e35fb219ef376047bebe082",
     "docs/agency-training.md": "1af750af66037547e95d3cb34a8aada3d265c798908186635eaa22af2f2f34ee",
     "docs/ai-referral-analytics-template.md": "832d7efe09816444b7347209ea0f5faa1384d20031d28931c7533133e9254d7f",
     "docs/ai-search-glossary.md": "3d2afbed46a32e669aa6a0e5094194d71c7ec8b0ad239442fbfe2cc1e3fe9a9f",
@@ -6175,7 +6175,7 @@
     "docs/chart-library.md": "480d79678fad7d7c2de07cb73004663c1706a3767a76b3da38c2c277c0c4cb7d",
     "docs/chatgpt-business-hub/business-facts-file.md": "1c25d0cbb83d766ef87a14a38727055dcf1ed2dbf1c2871d5b3e5477677ef374",
     "docs/chatgpt-business-hub/context-pack.md": "5b9a8da8deb4e296aa317bd6afba207a43c59fedc3afdc8fdd3972659f5314f9",
-    "docs/chatgpt-business-hub/index.md": "acf75b4208f0d2d084bd385f23b8d2667c04184324827b28482d4620f8928885",
+    "docs/chatgpt-business-hub/index.md": "632d4a362ad9292b9e0fd6c1d819ad64f27c568b308c508da48e65a06bc511cb",
     "docs/chatgpt-business-hub/reconciliation-report.md": "5aaf6d38baca38ccbf8953f475aa10b1ca679f62b88ee105bcf70f0fbc3eaa9a",
     "docs/chatgpt-business-hub/watch.md": "c734f10445cabcf2ecce18ee25314980d02975416719df880785f25fe8b1af8b",
     "docs/cite.md": "8466001ed3b001d861d2c474369bf772175f0a56e88c3f03d201dd5f6bb4c366",
@@ -9061,7 +9061,7 @@
       "before_sha256": "d5a3ff30b4286a7fa6518da71884f80f66c624b6c248b579cfdfbd722af617fc"
     },
     "docs/account-analyses.md": {
-      "after_sha256": "d461b1266d5757e14f978a1223ef1c58b3e34fa9179d752ffecd1344189be223",
+      "after_sha256": "9634d0653840920870e29500a5c696108db4f9396e35fb219ef376047bebe082",
       "before_sha256": null
     },
     "docs/agency-training.md": {
@@ -9205,7 +9205,7 @@
       "before_sha256": null
     },
     "docs/chatgpt-business-hub/index.md": {
-      "after_sha256": "acf75b4208f0d2d084bd385f23b8d2667c04184324827b28482d4620f8928885",
+      "after_sha256": "632d4a362ad9292b9e0fd6c1d819ad64f27c568b308c508da48e65a06bc511cb",
       "before_sha256": null
     },
     "docs/chatgpt-business-hub/reconciliation-report.md": {
@@ -9631,14 +9631,14 @@
   },
   "source_review": {
     "complete_local_tests": 998,
-    "native_preview": "Eleven changed pages of the actual CI candidate read from a local server with scripts off and on at 1440 and 390 pixels: 44 reads, status 200, no phone overflow, JSON-LD parsed, banned strings 0. Every changed HTML page differs from production only by the census wording; both manual PDFs differ from production only by the Launchpad sentence (start only after counsel clearance is recorded).",
-    "prior_reviewed_plan_sha256": "31e2e139d286dc63da9e21b047ad7919ae8444784392f114fa92aa75fef66aac",
-    "reviewed_utc": "2026-11-10T05:35:25.501859+00:00",
-    "serving_base": "a67bc74aade630823007c76c7fc5ca23968206d7",
+    "native_preview": "Both changed pages of the actual CI candidate read from a local server with scripts off and on at 1440 and 390 pixels: 8 reads, status 200, no phone overflow, JSON-LD parsed, banned strings 0. The explainer links ChatGPT Business Hub Readiness Setup in its offers paragraph and FAQ, the old not-a-separate-purchase wording is absent and the FAQ answers Yes; /account-analyses/ links the trial and the Question Tracking Plan once each; the client sentence and table are unchanged; the search index is the only other changed file.",
+    "prior_reviewed_plan_sha256": "d8975c9b4af89133039e67b99feddf4adc4b14e894e3b603cb97f0bbf580b5c4",
+    "reviewed_utc": "2026-11-10T07:15:13.080179+00:00",
+    "serving_base": "824d47fac83eeab912e0722d09ea086454125043",
     "skipped_tests": 2,
-    "source_head": "beb07b43fa010aec7f3f446e9ed18234fd55faff",
+    "source_head": "db8051eebd0009a2183784ebe08b64e718f86f4a",
     "state": "LEAD_REVIEWED_CURRENT_SOURCE",
-    "trigger": "STEP 3.2 census fixes, 10 November 2026: our own wording on /launchpad/, three /answers/buying/ pages, /research/, /research/academic-access/ and the /resources/ templates, no registered page changed"
+    "trigger": "STEP 3.2 B097: the Business Hub explainer and /account-analyses/ link the offers they relate to; the explainer says readiness is sold on its own (R-120)"
   },
   "source_review_complete": true,
   "visibility_decisions_sha256": "c13c47ed6e28b66e9688ed4368546cf8d7e6c751a424e49c83ed3057ba4b7b6c"
