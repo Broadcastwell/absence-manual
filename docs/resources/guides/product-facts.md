@@ -26,7 +26,7 @@ date_modified: '2026-10-20T00:00:00+00:00'
 <h2>Review the synthetic conflict</h2>
 <p>DEMO-FACT-01 says Northstar Lab uses a third-party connector. DEMO-PAGE-01 says the integration is native. That is a direct contradiction in the exercise. DEMO-PAGE-02 omits the edition requirement: that is missing information, not a statement that every edition qualifies. Both may deserve writing work, but the evidence and proposed changes differ.</p>
 <h2>Keep certainty within the source</h2>
-<p>If two approved documents disagree, preserve both passages and route the decision to the product or commercial owner. Do not choose whichever wording is more persuasive. A candidate claim remains pending until the reviewer resolves it. A source can establish the documented capability without proving real-world performance or third-party validation.</p>
+<p>If two approved documents disagree, preserve both passages and route the decision to the product or commercial owner. Do not choose whichever wording is more persuasive. A candidate claim stays unapproved until the reviewer resolves it. A source can establish the documented capability without proving real-world performance or third-party validation.</p>
 <h2>Connect claims to their uses</h2>
 <p>Give each approved wording a version and list the pages, reports and future drafts that use it. If the source changes, create a targeted review. Keep historic receipts intact: correcting the fact register today does not alter what an earlier AI answer actually said. Changed asset hashes require review of the changed candidate.</p>
 <h2>Make the next review easy</h2>

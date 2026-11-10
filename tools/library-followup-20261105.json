@@ -5,8 +5,8 @@
     "CNAME": "fbba089ba362c5dd7e67ce8e7c3474bf8e6b4e172f8e3193bcd11ad8335ce4ea",
     "absence-ladder-volume-ii.pdf": "63ad282653a035a94a852fba0e50efd0e77ee5861f9c5f9964806bca9ce84392",
     "absence-ladder/index.html": "0508a82c994dc9ee870e2b527e9f65300a2263d76e43707f99ca381d446a2008",
-    "absence-manual-v1.0-2026-08-18.pdf": "bbe956fb802ff1009bf62409df85ae7fcf286f5ac4d5bda435484fdc5135da2a",
-    "absence-manual.pdf": "bbe956fb802ff1009bf62409df85ae7fcf286f5ac4d5bda435484fdc5135da2a",
+    "absence-manual-v1.0-2026-08-18.pdf": "c467190e00ac51e04493a4718a831e3160746f3ac2ebfbc2e5550789c603c35a",
+    "absence-manual.pdf": "c467190e00ac51e04493a4718a831e3160746f3ac2ebfbc2e5550789c603c35a",
     "absence-rules/index.html": "0ed52674b1f918e2db6aeda3dc7410233926352f1292a95081cfa45368a62f74",
     "account-analyses/index.html": "0c019079ca5cbfae40158921e659ad274960e15d24153e5dac1d49b7ff94568b",
     "agency-training/index.html": "ed59ed051ae78893c66ff7992add0fce7f374a2a0a64e82725e3aa4340c790c5",
@@ -54,7 +54,7 @@
     "answers/buying/how-should-i-compare-geo-quotes-with-different-question-sets/index.html": "6a1e6d6cc009c32a69c949cbe41107934623699b581bd53fdd6d9e62e6661deb",
     "answers/buying/how-should-i-evaluate-a-geo-case-study/index.html": "b5ab1888c2ae9da8a9ae0c7458ffb678a6938543dfdcc3f8bd7356bd9520d789",
     "answers/buying/i-m-a-public-affairs-agency-lead-for-our-regulated-industry-clients-su/index.html": "bc642cd503d03fa5c56ce1fdae2c3001e041d8ba5cbaf6a8146423d59cd5b94d",
-    "answers/buying/index.html": "ea8c1313e6ff03ee751bf3d5fc1dd197babd2f81176378365c1609254919ccfd",
+    "answers/buying/index.html": "41ef8262710db08c16e83e7f19a05f5f775b640b959e497e7c259ef470bd0a47",
     "answers/buying/is-blobic-a-good-white-label-geo-provider/index.html": "68f830bb6dbeca61d88bf8e3087bea32f4c3379f6eaf9a48f0fb731bf70d1927",
     "answers/buying/looking-for-ai-software-for-field-service-providers-in-the-united-king/index.html": "8fca1880aea9d8fac6a92a31b4cde0d0c6225f0a5cb71131fecc43ee130a0035",
     "answers/buying/should-i-buy-ai-visibility-monitoring-or-a-completed-page-fix/index.html": "d296b7c86345027e5e521e66f3bc0ff5e1d1055e932d2546587eb78868fbf46a",
@@ -71,7 +71,7 @@
     "answers/buying/which-aeo-agencies-should-a-buyer-compare-in-the-united-states/index.html": "7804881f19a9cbb6dc22781490d782ec602eb056d011b8ffe26f2b7ff100ff98",
     "answers/buying/which-aeo-tools-suit-home-service-companies-and-contractors/index.html": "8fca1880aea9d8fac6a92a31b4cde0d0c6225f0a5cb71131fecc43ee130a0035",
     "answers/buying/which-agencies-document-work-across-ai-answer-engines/index.html": "0b2ec6021f11e972ff2cbbb93498a7a15576db194a2f8b063aec7207b2262456",
-    "answers/buying/which-geo-agencies-serve-new-companies/index.html": "d9c78fe74c86cd924bb3017273523d8523841a2877f9006899304491037a74f9",
+    "answers/buying/which-geo-agencies-serve-new-companies/index.html": "6c81bd834d123457f22d6222a70dd26624e742a2ef08b7a3a293a037d841ebb6",
     "answers/buying/which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo/index.html": "a6862cb57e3a43c5a79a3552382f106df4954a901c67f5fd67900d69b0e39c03",
     "answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim/index.html": "4708ef56add96bb1003441291ee01b13615d2f485b7dec1ae29716c8d10cd661",
     "answers/changes/how-should-a-vendor-correct-outdated-facts-after-a-public-change/index.html": "1c42a2935732e57556ba2e9f4b6725045bd0dc9116041804e93b75c29bb688f0",
@@ -417,7 +417,7 @@
     "assets/javascripts/workers/search.6ce7567c.min.js": "9be25fe4555657031224641ccca71f8493c02a58a2b53154c980db56b0bc0256",
     "assets/javascripts/workers/search.6ce7567c.min.js.map": "068cf1c33e8c35425aaf124648ad6273a9c427d280246883a4144e17dd93cc8e",
     "assets/learning.css": "b13eece29be89770d7cd398e1290c98c739d1059d87ffb4d7a4133caa08eb207",
-    "assets/learning/audit/executive-template.txt": "e24107cf5aa3f3aadd3fe520c962df7256d475c607d13c255daf44a79f0cee67",
+    "assets/learning/audit/executive-template.txt": "12e124ffc98dc95b3b1d1732c7ae431d3c4fb74848269c574eeff93366be606f",
     "assets/learning/audit/observations.json": "cdcb67dd2e4efbc15f116d0209a9a72c305b2de2b20640801c746bf5439dddc8",
     "assets/learning/audit/question-set.json": "cbc30655b7d935b3678dc7830247d5ab977423cb53130fd30d7951d598ad66a9",
     "assets/learning/audit/receipts.json": "fd4c7c20efec31f8e3e5deca4711f00faad5c6b92bd9f1e3ed139e01749bf181",
@@ -428,10 +428,10 @@
     "assets/learning/audit/work-order-implementation-notes.json": "fb1da293cff33ff8224f19a62dd676e24d8dc0a11c02b4e98d4620a8115266ec",
     "assets/learning/audit/work-orders.json": "063148445eb130b4fff512764bcb91e0ac7b6503b642872ff5980af67807153c",
     "assets/learning/briefs/comparison.txt": "ec8d8a3f573ecc3f472c6537c05cc9749fb40be588a269752a7baae7715156a6",
-    "assets/learning/briefs/integration.txt": "69b4408e9be5761d9ef900f9509b27fe5b1a0bad2e6569262fd4400c33beb97a",
+    "assets/learning/briefs/integration.txt": "d7d43eaf240406c000863972f5d320cedd89bb72bde60e42081aea5b105962c7",
     "assets/learning/briefs/limitations-pricing.txt": "5d68824767fd47fb97d92f6e61e6c2f5eb8eba0f763c49fb244279260d97c9e6",
     "assets/learning/briefs/migration.txt": "29a85129c7fe4069507d40140b2a9d0b54e3f8f7fb890e1f0e9e27cd0c547ee2",
-    "assets/learning/briefs/procurement.txt": "1d136c3c3ce0da5078dfb4c62b6193baeaf0c06fb0666cb5b1daf41edfff338f",
+    "assets/learning/briefs/procurement.txt": "d148ab621ce329bed9a460a4b4095062e2059ee205b1054d5ebc1a404436923f",
     "assets/learning/briefs/use-case.txt": "d7b2eed97b2ed36a5e0b85572eb660bc6eb190d964f603819040d459b6a0fac3",
     "assets/learning/demos/receipt-transcript.txt": "dde6fa082588e03cc022cbaabbcc4f6202f6c134312fb78012fee4b1caa8929f",
     "assets/learning/demos/receipt.vtt": "05edef532e435606ab0c9ba763964afa47216201f1fad7ce076e4015beeb3ec2",
@@ -443,7 +443,7 @@
     "assets/learning/playbooks/comparison-brief.txt": "3b043ec1ac40406ad9a87fce97c8132adf7439704a9c6dbc7f510aa7726f9bb6",
     "assets/learning/playbooks/evaluation-results.json": "0406501e9415699328bda4275d16ad6c9a134ce556e03e52bd70cf2f24f64ba7",
     "assets/learning/playbooks/examples.json": "d62430b97998a4563c76eab799adbae39a85aa9542b70bb1595bc9a9bd1275cb",
-    "assets/learning/playbooks/fact-verification.txt": "971623585c77a476a28d5a01b1b9c7e4953fc0adc2acc8a04ad94144e62f7ae9",
+    "assets/learning/playbooks/fact-verification.txt": "1fe3b36cb449a3760f0c98d7768aba5549a393c88e27357ef99378fa657876fe",
     "assets/learning/playbooks/fixtures.json": "bbaf06e33ab7d6a002a73436d9f4d839ed78b7b02280562f4dbf2460c3372184",
     "assets/learning/playbooks/question-selection.txt": "9092e3cccac6791ac8f8cd5db3bf062d1ab01a9e9b3b79bfe92ab1de5d1f5c70",
     "assets/learning/playbooks/receipt-review.txt": "cffca97713aa799673888deca1c4d0efe3c265ebd189589fa5c9cf04c12d3456",
@@ -458,7 +458,7 @@
     "assets/learning/resources/comparison-page.txt": "c8e23cd24461e5ea716f61dad0ee0814cd39cf3474a2a3869aafc4dfba40a2ef",
     "assets/learning/resources/fair-recheck.txt": "aaae16cca931babbe42de47f5c3efbad133640e80ceab912bc51c39d2e48d4e8",
     "assets/learning/resources/missing-brand.txt": "13e05f01e12317c62dc7c689927e14441b062eef0de94a875997a6a6d7ec3d0f",
-    "assets/learning/resources/product-facts.txt": "1d3c40bc66295e2b08ddeb0a60662c7289448923840eeb6a7d88a9bd2bf761ca",
+    "assets/learning/resources/product-facts.txt": "487991a56b8c4087aaedb223417720e0d09ebd8f29fa1b6dde69a1348ff79087",
     "assets/learning/resources/read-an-answer.txt": "e32a0d2016850bd15435d76af8d962499ab3f1eaa370cfd6b606825042cd0aef",
     "assets/learning/visuals/buyer-questions.svg": "a697081554c872c29e7f24bcee75f996e7a12745851a05180891e392fc974e51",
     "assets/learning/visuals/buyer-questions.txt": "c5ea7525d6b5b51aaf05b8b4d73bc91c9b0fcd7d1e00df5c737c009a0d8ed756",
@@ -476,7 +476,7 @@
     "assets/learning/worksheets/comparison-page.json": "c9f4c48f8d81f2504363d3fa5ed59c796d69a3f40244152d2a817d3255b1cd12",
     "assets/learning/worksheets/fair-recheck.json": "2cd9f22f3650b1101b6e1a10ee2d148afa7ded11fd822e622a9c276fa1a481c2",
     "assets/learning/worksheets/missing-brand.json": "07b071eabc049feab46300c091cda1e30cec67f15f9003669148d98b7e278722",
-    "assets/learning/worksheets/product-facts.json": "8d949a9863c9d86c53af72cbacfd700abcdf573de9f1eb17989e6ed07f6f6376",
+    "assets/learning/worksheets/product-facts.json": "54698408e6f4f63155b02536ce77bc737a3305accd61cd8a324f440babf7d1fc",
     "assets/learning/worksheets/question-set-synthetic.json": "013bb9e2adc17abc2ae019b762cc695ddd1be202eeedffb192ed31045b24b425",
     "assets/learning/worksheets/read-an-answer.json": "de8dffc38d38152613a106fabb516d48a907282218e11d755a104743767536bb",
     "assets/library/agency-list-audit-2026-09-17.json": "288d1a5126b1d4a2d6e5f2914461e9ddde2e8be38c241e62c6a3ee4edfc8d8ec",
@@ -633,8 +633,8 @@
     "index.html": "f308de0995f423e66dda4d196b2f6648f7e064f1362e437e7f1ff1ab2ed8a06a",
     "industry-benchmarks/index.html": "20f4d93f07f4be429775d2ad3e888aedee899a0b3dde229add0eea43e87d290e",
     "launchpad/certificate/index.html": "e50d2741537586261a785d33b77de7cd9ce0f03c9033c7d22fa20f4945be9542",
-    "launchpad/index.html": "1f507a9dce32f2a8434502946c13ed5707eab76652616519491af6b71f8ddb39",
-    "llms.txt": "34bb9c960a02ca59cdafa3b043aeb0fb6b15d8e217f57aa4d9e9fb33c3e6d2d1",
+    "launchpad/index.html": "d978f7dd4dd75f909c1b29d7c5347bbeb5957d7e9199ea64827e1968d6da2b93",
+    "llms.txt": "339e3c98635604c7fd9cf00f1dabe2ea6dedfd165ab374e29df4fe950258ef59",
     "measurement-noise/index.html": "37f3ce497d565e2362e16a54dfce221cf44e7773e56c94720a41e89cc079d8b7",
     "media-kit/index.html": "a92cd6feb14d06c76314c2ad643e9a04a7b57a3c5c9b510c851735471cf2bbb6",
     "model-releases/index.html": "12d1ac78fbc35df52d19bb10e8bdd9aaa1e945a0e00ef9dc0d3cb0e463c7f909",
@@ -650,7 +650,7 @@
     "references/index.html": "4e58d375aabc4ab85ae7136c274ca43ec330a28e9d3640f91a40dce98d80bd93",
     "release-notes/index.html": "70e8591afe9d8da8d63a9fb594642d348a2df7c680bf193355e55ae948cfdb36",
     "research-report/index.html": "8e13e808ddf6188df661bb4c469ebf326572c5f9c857a935797adc45d20cd6e7",
-    "research/academic-access/index.html": "b41aa50acb66a6f0ea1a458c54a2db9305ba27005705a76e2d5a331d0fe27ffd",
+    "research/academic-access/index.html": "3aa1b93c38df270a7875c8e69caebafc3581271e59221d8de1ddc0c32df409bd",
     "research/claims/index.html": "b83b412170cf92d66b562f83c74bb4c8b5a5d087c2ba379062e6bfba8a67da70",
     "research/data/ai-crawler-log.csv": "def944aa2c3085b70d303c9411b10ecab1c3e91b86cb5cac064117d62fc06f12",
     "research/data/analyze_citations.py": "5ad7300eafcf694922f4204e932e8b3c8f38ed1ce9d70dadb7e45ea911d821fb",
@@ -753,7 +753,7 @@
     "research/glossary/seo-aeo-geo/index.html": "b63aecdcd959acbd3ee69095a17759037e371e468ef757b582bb2ac232a271a8",
     "research/glossary/share-of-model/index.html": "85fae150304218143383fa840d97c6469b3729555ab56d8edb7cce9a354ad936",
     "research/glossary/zero-click-visibility/index.html": "ec4bdd5597f9775c3504276452355073c27306821f4d9996788a60e84c8c1e08",
-    "research/index.html": "c903a259a1823a4e8674febb4812f977c339badd6b667edc84c658891f39f12e",
+    "research/index.html": "eb67a7757d1bfbc732ff388eace36148e795e7f10b4ae41002fc7657d2b242e6",
     "research/insights/engines-change-without-telling-you/index.html": "05882b1cee557fec498f7da80a2611fea0d5ecf8a2d32513322f59ecb1cbe71d",
     "research/insights/google-asks-for-original-research/index.html": "1a47e602e34aa230efb493089559f0ad2ba5d74186eed10e357cf848f6ebc480",
     "research/insights/index-against-the-literature/index.html": "dd225201a4e7dd983f281093523b20d6c8c05be89b223eff2cf5af0659e95639",
@@ -802,16 +802,16 @@
     "research/studies/who-ai-engines-cite/index.html": "302425061f8bebf4b1bd0d703c3c9e6699e1a2ac3d0f606662365b78d16326f9",
     "research/study6-wrong-about-you/index.html": "93f7dcff7bcce712c33a3e2b68fc7208c213c126916c006251427581ddac9793",
     "research/study7-ai-written-rfp/index.html": "280c99f474105f41a5367d3d09f3265f36f166954e4f44deaf24411615f9e582",
-    "resources/audit/executive-template/index.html": "e9a1d2c38974f8e2996ae8ff8bd5d34217fcaa9faee30d564bfb6e54265b56c2",
+    "resources/audit/executive-template/index.html": "1d986d6d3d48e931be864cf811e09410d5be8a47f24394a440923b04f74ec5ef",
     "resources/audit/recheck-receipts/index.html": "7c64fa25d74cec8ab94fb2cf0ec7d10f199ea2a94e17a2de262587cae3773a9a",
     "resources/audit/sample/index.html": "30794ca7a6b659cf6173bb5592928e07dbfa2800387d4d78d4b0c48a33da3a7b",
     "resources/bot-access/index.html": "d651fbe920acb8d56bd07d3f27b35f2c3b9ddcbc6ae38a19f57e70bcf1505063",
     "resources/briefs/comparison/index.html": "da3300bed84b7167acff70af73ea23d1481bdbb4d821e607d5b67b8b8f073379",
     "resources/briefs/index.html": "3fec32b4b31312793db0ea42f993cf8750a0d90e556b0f937049f847a93856c2",
-    "resources/briefs/integration/index.html": "930c6d80f5c3de0d566c84baf6dae80d95a36306a40fa6557f3c9e975f11317f",
+    "resources/briefs/integration/index.html": "6c572b63ad12b78b475ae156ba997890a008d2090554a42ee24207da5d498772",
     "resources/briefs/limitations-pricing/index.html": "bc671e884c2979911f1932eacb9a11ef5194d47aed6897c7ea11349da3d811cf",
     "resources/briefs/migration/index.html": "95bc98795ea755cc558ac8c1e39df65073661a99e0a3666d51ba2fe7d0f964a3",
-    "resources/briefs/procurement/index.html": "abf9983b2c4f31110db6b3626c52c19ab54c0c45730f660ab914e5810decfa4c",
+    "resources/briefs/procurement/index.html": "e309563a1fcf15423f5510e768551cd3ae7ee88a9761f573c012e458156bbbb0",
     "resources/briefs/use-case/index.html": "81e5d47a03f82f08f703e7d2bad1c5258322d6a25977e1561359ecece0c8f10b",
     "resources/demos/receipt/index.html": "8f1421449c227ed90d7790fe6eb6f3c538433d0021c69a1b16069288a839921a",
     "resources/demos/recordings/index.html": "224aa47d010a261a98c206130983d203d031ef1c7aa5feb42955d86e5e611a2b",
@@ -820,12 +820,12 @@
     "resources/guides/comparison-page/index.html": "050486a6768f3777c965a4e1d0871059a884d3546bb5aa456774c84bb470114f",
     "resources/guides/fair-recheck/index.html": "561c66d6c11bb974329b2b6195dd16d744a41db50e32860eff8937d93b92b936",
     "resources/guides/missing-brand/index.html": "893c1c656db9d6e54b08f3d8de6622a76ac3d96a864392deeae5f6cc0fe631fd",
-    "resources/guides/product-facts/index.html": "54b0fc8feeb5f39bf89c4bd64d6dd9a2d5048c955487ca84a9471bff328c22cc",
+    "resources/guides/product-facts/index.html": "289a836d607cd7073cf375d73890deca860ede64c9557407d2988105010f149c",
     "resources/guides/read-an-answer/index.html": "0e15f5efe65e01d78fc99b237ac0982c1652f28ab86599b9c2b34ad1149e504c",
     "resources/index.html": "eefadeeb13c81e33f21ce77beacb1f402aef1f00b3e8c5b20117a7513320402d",
     "resources/playbooks/commercial-review/index.html": "6dfc7084b4153f52ea56194567c2268f4aa6b58d5f389785328c84e7e664c6e7",
     "resources/playbooks/comparison-brief/index.html": "3230471ad3f80454b2d7c610125fcfe409288b457c39fc0a7be4e358e9bd8734",
-    "resources/playbooks/fact-verification/index.html": "73059372a8bb4546fe5dc1193dc8f5c9e669710dfeb9f7487e12d62d550fa473",
+    "resources/playbooks/fact-verification/index.html": "1794835a62194898760885a8308be94616a83816402e81eac3ca75ffb89b063e",
     "resources/playbooks/index.html": "3cbe4d8524ee8e4aa7f1ec284496c7c0cd99d97b57c683b12c79ea51dd2b74b6",
     "resources/playbooks/question-selection/index.html": "8c405719ecdd7d9ad88834b538f39832d7582ed300e00f6af86b18be3edbf70e",
     "resources/playbooks/receipt-review/index.html": "686ce64f9cdae4eb80a6b101cf586ac3991bf9385a96323d6addd9c325461e36",
@@ -838,13 +838,13 @@
     "resources/worksheets/comparison-page/index.html": "54e34ad00abb7084d24483487de02a977ede168434634bca00c3ed4dfc107faf",
     "resources/worksheets/fair-recheck/index.html": "eae3d47fe7ab96d49f66ad5ef4b098c44840e398820fa55fdaf7be1fe0b8fc34",
     "resources/worksheets/missing-brand/index.html": "bb9025b6284abca68df86502db9b6f121cd40f8885461011a479208273d257fa",
-    "resources/worksheets/product-facts/index.html": "ca1d2c129b6f336d81e87cba88023a99c794a309d80a33673b7826683cc9cf96",
+    "resources/worksheets/product-facts/index.html": "369a6f082b07756a88313609581523a7d7e5fe563b2fe1735bc399d6acea7316",
     "resources/worksheets/read-an-answer/index.html": "5d892766edcd538165bab56d1fadbfe433106c90dd6450a2545c0d327bff9604",
     "rfp-guide/index.html": "3890c55d411260424dff3d214c1f1fdaee6bab7e1cc1305325a3072143c380be",
     "robots.txt": "ef45ab052003491abbbca6625fe955890ff4523e8ea2d2d5e6edea792f1aaa69",
     "scoring-spec/index.html": "37bd21b3dc5c67b32d364275be2038f44194e05f52f1ab0ae3f688827e350496",
     "search-patents/index.html": "0638f6c6504b4b348655b70231f9f98db5c2191f17f8c096788307e70d69364e",
-    "search/search_index.json": "770f3f4b97c878b4f29e0323c0408b95588834dec49161d3421d0df72a9972b6",
+    "search/search_index.json": "ff602ccc4e69c05144d5db04ce4154e1d37f84515403ae8a533217851f42b456",
     "selection-not-ranking/index.html": "620b9e072d3ee02bc94aa5e43264003bf41f02909555140e0056cac5c8a3a9af",
     "service-model/index.html": "a93b1339188b53a2a42988db82f004b5338d318629a8f19f9796600e1a60c54b",
     "services/bloomington-indiana/index.html": "bf9ef2aa40a073351c359c2dde0f0d6e9327ab7bd1505a43105b603b1810c203",
@@ -887,11 +887,11 @@
       "before_sha256": "80301aebfc6e9c8bc4045ff92e03c5ec4727b900b8261bf41e45fa0918fcce7f"
     },
     "absence-manual-v1.0-2026-08-18.pdf": {
-      "after_sha256": "bbe956fb802ff1009bf62409df85ae7fcf286f5ac4d5bda435484fdc5135da2a",
+      "after_sha256": "c467190e00ac51e04493a4718a831e3160746f3ac2ebfbc2e5550789c603c35a",
       "before_sha256": "03dae21791d7909faef8f183b9d3dd767d9c6aef7f111519d9695e3e25b2dadd"
     },
     "absence-manual.pdf": {
-      "after_sha256": "bbe956fb802ff1009bf62409df85ae7fcf286f5ac4d5bda435484fdc5135da2a",
+      "after_sha256": "c467190e00ac51e04493a4718a831e3160746f3ac2ebfbc2e5550789c603c35a",
       "before_sha256": "03dae21791d7909faef8f183b9d3dd767d9c6aef7f111519d9695e3e25b2dadd"
     },
     "absence-rules/index.html": {
@@ -1083,7 +1083,7 @@
       "before_sha256": "21df552bd0b8805e10482729b01a53903a0a069d597aba3073463b3ab19f9c14"
     },
     "answers/buying/index.html": {
-      "after_sha256": "ea8c1313e6ff03ee751bf3d5fc1dd197babd2f81176378365c1609254919ccfd",
+      "after_sha256": "41ef8262710db08c16e83e7f19a05f5f775b640b959e497e7c259ef470bd0a47",
       "before_sha256": "4ce5037045a920fe374eaa4a92846ab6e14967c42f17fc21da7703b67832d00b"
     },
     "answers/buying/is-blobic-a-good-white-label-geo-provider/index.html": {
@@ -1139,7 +1139,7 @@
       "before_sha256": "0c38980daa39038c2f71d3ac7a29f845007c10062aacd8a7e912cea561896ead"
     },
     "answers/buying/which-geo-agencies-serve-new-companies/index.html": {
-      "after_sha256": "d9c78fe74c86cd924bb3017273523d8523841a2877f9006899304491037a74f9",
+      "after_sha256": "6c81bd834d123457f22d6222a70dd26624e742a2ef08b7a3a293a037d841ebb6",
       "before_sha256": "89cae7bb040173e87a059652f7b70c024d704f081a039686f4de4e0ac9f5cf8a"
     },
     "answers/buying/which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo/index.html": {
@@ -2242,6 +2242,30 @@
       "after_sha256": "3ff480100210d57c555bf3a95837a907d9600d13e1afa6d1874b3a548bf2767c",
       "before_sha256": null
     },
+    "assets/learning/audit/executive-template.txt": {
+      "after_sha256": "12e124ffc98dc95b3b1d1732c7ae431d3c4fb74848269c574eeff93366be606f",
+      "before_sha256": "e24107cf5aa3f3aadd3fe520c962df7256d475c607d13c255daf44a79f0cee67"
+    },
+    "assets/learning/briefs/integration.txt": {
+      "after_sha256": "d7d43eaf240406c000863972f5d320cedd89bb72bde60e42081aea5b105962c7",
+      "before_sha256": "69b4408e9be5761d9ef900f9509b27fe5b1a0bad2e6569262fd4400c33beb97a"
+    },
+    "assets/learning/briefs/procurement.txt": {
+      "after_sha256": "d148ab621ce329bed9a460a4b4095062e2059ee205b1054d5ebc1a404436923f",
+      "before_sha256": "1d136c3c3ce0da5078dfb4c62b6193baeaf0c06fb0666cb5b1daf41edfff338f"
+    },
+    "assets/learning/playbooks/fact-verification.txt": {
+      "after_sha256": "1fe3b36cb449a3760f0c98d7768aba5549a393c88e27357ef99378fa657876fe",
+      "before_sha256": "971623585c77a476a28d5a01b1b9c7e4953fc0adc2acc8a04ad94144e62f7ae9"
+    },
+    "assets/learning/resources/product-facts.txt": {
+      "after_sha256": "487991a56b8c4087aaedb223417720e0d09ebd8f29fa1b6dde69a1348ff79087",
+      "before_sha256": "1d3c40bc66295e2b08ddeb0a60662c7289448923840eeb6a7d88a9bd2bf761ca"
+    },
+    "assets/learning/worksheets/product-facts.json": {
+      "after_sha256": "54698408e6f4f63155b02536ce77bc737a3305accd61cd8a324f440babf7d1fc",
+      "before_sha256": "8d949a9863c9d86c53af72cbacfd700abcdf573de9f1eb17989e6ed07f6f6376"
+    },
     "assets/playbooks/source-correction-steps-2026-11-09.csv": {
       "after_sha256": "772fa8fb3c68dad6e9f1259277a827deaf0881253e983954bb9551e2a0896e2c",
       "before_sha256": null
@@ -2423,11 +2447,11 @@
       "before_sha256": null
     },
     "launchpad/index.html": {
-      "after_sha256": "1f507a9dce32f2a8434502946c13ed5707eab76652616519491af6b71f8ddb39",
+      "after_sha256": "d978f7dd4dd75f909c1b29d7c5347bbeb5957d7e9199ea64827e1968d6da2b93",
       "before_sha256": "b98c25a723d38cf96c3fc8a539241f9526dd4851bb0a3d8772de8efcf156e033"
     },
     "llms.txt": {
-      "after_sha256": "34bb9c960a02ca59cdafa3b043aeb0fb6b15d8e217f57aa4d9e9fb33c3e6d2d1",
+      "after_sha256": "339e3c98635604c7fd9cf00f1dabe2ea6dedfd165ab374e29df4fe950258ef59",
       "before_sha256": "a62e1f13cfe04421bf784f784e4017ff05ff8d66853dedd9d2de655a6631cc6c"
     },
     "measurement-noise/index.html": {
@@ -2491,7 +2515,7 @@
       "before_sha256": null
     },
     "research/academic-access/index.html": {
-      "after_sha256": "b41aa50acb66a6f0ea1a458c54a2db9305ba27005705a76e2d5a331d0fe27ffd",
+      "after_sha256": "3aa1b93c38df270a7875c8e69caebafc3581271e59221d8de1ddc0c32df409bd",
       "before_sha256": "c4df73d2b72331f79e83370b1b9e4f5d5fa654e2bee41027d832967621d83bee"
     },
     "research/claims/index.html": {
@@ -2559,7 +2583,7 @@
       "before_sha256": "8f4b29f260ced2dde9199013e7f4e317f0277de43f8c59f90cfc21ea53bc3fe9"
     },
     "research/index.html": {
-      "after_sha256": "c903a259a1823a4e8674febb4812f977c339badd6b667edc84c658891f39f12e",
+      "after_sha256": "eb67a7757d1bfbc732ff388eace36148e795e7f10b4ae41002fc7657d2b242e6",
       "before_sha256": "fdc895d60510eecfb728e893c470ff502353ee277ddf7e2a64c8717c15f3cddd"
     },
     "research/insights/engines-change-without-telling-you/index.html": {
@@ -2723,7 +2747,7 @@
       "before_sha256": "fb3c93dc9b6b12378a7f79b8f118e13dfc5aa3dcc4b5f13898630128a0080f30"
     },
     "resources/audit/executive-template/index.html": {
-      "after_sha256": "e9a1d2c38974f8e2996ae8ff8bd5d34217fcaa9faee30d564bfb6e54265b56c2",
+      "after_sha256": "1d986d6d3d48e931be864cf811e09410d5be8a47f24394a440923b04f74ec5ef",
       "before_sha256": "6101a42240315d20aafd6ac7c2f59d14e71a96501de88d61c4f0d6c7e214eacd"
     },
     "resources/audit/recheck-receipts/index.html": {
@@ -2747,7 +2771,7 @@
       "before_sha256": "0215aeb30f05404cd1250c0a4f75a0b423adee966d4f961b28e6b07e5b55ba6f"
     },
     "resources/briefs/integration/index.html": {
-      "after_sha256": "930c6d80f5c3de0d566c84baf6dae80d95a36306a40fa6557f3c9e975f11317f",
+      "after_sha256": "6c572b63ad12b78b475ae156ba997890a008d2090554a42ee24207da5d498772",
       "before_sha256": "f3746f3ab2d67555003d16d8eb5f3d5213f4009d463f2e199a47af5e022608a7"
     },
     "resources/briefs/limitations-pricing/index.html": {
@@ -2759,7 +2783,7 @@
       "before_sha256": "a24b0b9db45a52eb3f0cf5a2e93140b585595c701bef7690a644c5b48b876f16"
     },
     "resources/briefs/procurement/index.html": {
-      "after_sha256": "abf9983b2c4f31110db6b3626c52c19ab54c0c45730f660ab914e5810decfa4c",
+      "after_sha256": "e309563a1fcf15423f5510e768551cd3ae7ee88a9761f573c012e458156bbbb0",
       "before_sha256": "f895a7045f949053af01971cbb1432d43bbd989c9a857fbf924e1b1e54192db4"
     },
     "resources/briefs/use-case/index.html": {
@@ -2795,7 +2819,7 @@
       "before_sha256": "1b83cdf0cc4e2eeb3d8e2da09c37732f35ba8a5ff5c0001e90f419f3fa560789"
     },
     "resources/guides/product-facts/index.html": {
-      "after_sha256": "54b0fc8feeb5f39bf89c4bd64d6dd9a2d5048c955487ca84a9471bff328c22cc",
+      "after_sha256": "289a836d607cd7073cf375d73890deca860ede64c9557407d2988105010f149c",
       "before_sha256": "ad0de98bec6fb709cc6e7cfa3df678d7dcd0155103a9ef4fe16fdb2586f325b3"
     },
     "resources/guides/read-an-answer/index.html": {
@@ -2815,7 +2839,7 @@
       "before_sha256": "17d2ea75fce42f0dcaa952398bef9ad4a625eaf3adf6218ad3d7760e8e927e89"
     },
     "resources/playbooks/fact-verification/index.html": {
-      "after_sha256": "73059372a8bb4546fe5dc1193dc8f5c9e669710dfeb9f7487e12d62d550fa473",
+      "after_sha256": "1794835a62194898760885a8308be94616a83816402e81eac3ca75ffb89b063e",
       "before_sha256": "ed184d86134de44d6352c580bb1162054329ffc81db15cb277bbff0b7236e01f"
     },
     "resources/playbooks/index.html": {
@@ -2867,7 +2891,7 @@
       "before_sha256": "388bbdcc0f72f745fd72898febd773d1d3b0242dc3c338b082ffc712cedb632e"
     },
     "resources/worksheets/product-facts/index.html": {
-      "after_sha256": "ca1d2c129b6f336d81e87cba88023a99c794a309d80a33673b7826683cc9cf96",
+      "after_sha256": "369a6f082b07756a88313609581523a7d7e5fe563b2fe1735bc399d6acea7316",
       "before_sha256": "55dd28d81af70d2a7a87df5acae7be6ba0ab9ce76d2fd1a6e543461874bbf13c"
     },
     "resources/worksheets/read-an-answer/index.html": {
@@ -2887,7 +2911,7 @@
       "before_sha256": null
     },
     "search/search_index.json": {
-      "after_sha256": "770f3f4b97c878b4f29e0323c0408b95588834dec49161d3421d0df72a9972b6",
+      "after_sha256": "ff602ccc4e69c05144d5db04ce4154e1d37f84515403ae8a533217851f42b456",
       "before_sha256": "b35b56bd04c8030d3f7255a7dbf677bf8373d7224129d6b2ea9b0bc8158116ed"
     },
     "selection-not-ranking/index.html": {
@@ -3016,20 +3040,20 @@
     }
   },
   "artifact_review": {
-    "PDFs_changed": 0,
-    "actual_Linux_artifact_id": 13733245923,
-    "actual_Linux_run_id": 42749815593,
-    "actual_artifact_sha256": "b5307059eced963f1fac403b07927d301f9e18b7ff46d6812f32e632ef8097a9",
-    "added_from_production": 1,
+    "PDFs_changed": 2,
+    "actual_Linux_artifact_id": 13737512405,
+    "actual_Linux_run_id": 42760536488,
+    "actual_artifact_sha256": "d7e9879a290c609a69fbdf14819c7aca72c9749572be05bbf26ec457f52f9258",
+    "added_from_production": 0,
     "approved": true,
-    "changed_from_production": 456,
+    "changed_from_production": 21,
     "complete_files": 876,
-    "exact_comparison_sha256": "38311b2597016c53f30ba8cdbf036bb95efe17ed25a4d1fcc628f8ec1cad1259",
+    "exact_comparison_sha256": "078b4fea9304960b17d7c52389f58abb39e2db3fe6d44587e3a26f96bdd73eb5",
     "frozen_HTML": 45,
     "frozen_sitemap_entries": 45,
     "pinned_assets": 5,
-    "reviewed_utc": "2026-11-10T03:43:00.797026+00:00",
-    "source_head": "195c21b7b8af9fea794663c5dfc0b7b5df0f09d5"
+    "reviewed_utc": "2026-11-10T05:35:25.501859+00:00",
+    "source_head": "beb07b43fa010aec7f3f446e9ed18234fd55faff"
   },
   "base_commit": "88d6b6bb11f8b4bd713ee7e4e79c863ff9973518",
   "base_source_sha256": {
@@ -5688,7 +5712,7 @@
     "docs/answers/buying/which-aeo-agencies-should-a-buyer-compare-in-the-united-states.md": "c900a562a8204470cd103eea1765f42db828559c04fc3632920e0c4fb8f826e6",
     "docs/answers/buying/which-aeo-tools-suit-home-service-companies-and-contractors.md": "7043561616d6f98b79cc5228960f558f8ac8f050f28a5311ef5d72860b567328",
     "docs/answers/buying/which-agencies-document-work-across-ai-answer-engines.md": "58ccb34445b086f2eb0210f709caead17648417c42df00efb095e6f7e62d25b3",
-    "docs/answers/buying/which-geo-agencies-serve-new-companies.md": "e3d95df1ea8f820ebd1c1c0efb0667873b374caf6877e135082d5cedaef556ff",
+    "docs/answers/buying/which-geo-agencies-serve-new-companies.md": "09c2401c7f235c08904e675e61af639fe7813b8d231f1f3f97562bc21d27f732",
     "docs/answers/buying/which-geo-platforms-let-agencies-run-pre-sales-ai-visibility-audits-fo.md": "5a0d985ea4fb7f6ef72143db6504d338ee0d877c69124986238961fc4a315ccc",
     "docs/answers/changes/.pages": "11208db9349ab578104754985e5fdffaf18d49852596f43daf870f2ec71afbd5",
     "docs/answers/changes/how-can-an-ai-incident-answer-mislead-without-an-explicit-false-claim.md": "a785e4ca34b81d1897c2eaab3f6fe541d131ef0313421b915bfc35eaf0aaecd7",
@@ -6004,7 +6028,7 @@
     "docs/assets/fonts/inter-latin-var.woff2": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
     "docs/assets/fonts/inter-regular.ttf": "1b08e7fc267a5c7e1d614100f604b83e7e8a0be241f0f288faa2b3ac93a683ba",
     "docs/assets/learning.css": "b13eece29be89770d7cd398e1290c98c739d1059d87ffb4d7a4133caa08eb207",
-    "docs/assets/learning/audit/executive-template.txt": "e24107cf5aa3f3aadd3fe520c962df7256d475c607d13c255daf44a79f0cee67",
+    "docs/assets/learning/audit/executive-template.txt": "12e124ffc98dc95b3b1d1732c7ae431d3c4fb74848269c574eeff93366be606f",
     "docs/assets/learning/audit/observations.json": "cdcb67dd2e4efbc15f116d0209a9a72c305b2de2b20640801c746bf5439dddc8",
     "docs/assets/learning/audit/question-set.json": "cbc30655b7d935b3678dc7830247d5ab977423cb53130fd30d7951d598ad66a9",
     "docs/assets/learning/audit/receipts.json": "fd4c7c20efec31f8e3e5deca4711f00faad5c6b92bd9f1e3ed139e01749bf181",
@@ -6015,10 +6039,10 @@
     "docs/assets/learning/audit/work-order-implementation-notes.json": "fb1da293cff33ff8224f19a62dd676e24d8dc0a11c02b4e98d4620a8115266ec",
     "docs/assets/learning/audit/work-orders.json": "063148445eb130b4fff512764bcb91e0ac7b6503b642872ff5980af67807153c",
     "docs/assets/learning/briefs/comparison.txt": "ec8d8a3f573ecc3f472c6537c05cc9749fb40be588a269752a7baae7715156a6",
-    "docs/assets/learning/briefs/integration.txt": "69b4408e9be5761d9ef900f9509b27fe5b1a0bad2e6569262fd4400c33beb97a",
+    "docs/assets/learning/briefs/integration.txt": "d7d43eaf240406c000863972f5d320cedd89bb72bde60e42081aea5b105962c7",
     "docs/assets/learning/briefs/limitations-pricing.txt": "5d68824767fd47fb97d92f6e61e6c2f5eb8eba0f763c49fb244279260d97c9e6",
     "docs/assets/learning/briefs/migration.txt": "29a85129c7fe4069507d40140b2a9d0b54e3f8f7fb890e1f0e9e27cd0c547ee2",
-    "docs/assets/learning/briefs/procurement.txt": "1d136c3c3ce0da5078dfb4c62b6193baeaf0c06fb0666cb5b1daf41edfff338f",
+    "docs/assets/learning/briefs/procurement.txt": "d148ab621ce329bed9a460a4b4095062e2059ee205b1054d5ebc1a404436923f",
     "docs/assets/learning/briefs/use-case.txt": "d7b2eed97b2ed36a5e0b85572eb660bc6eb190d964f603819040d459b6a0fac3",
     "docs/assets/learning/demos/receipt-transcript.txt": "dde6fa082588e03cc022cbaabbcc4f6202f6c134312fb78012fee4b1caa8929f",
     "docs/assets/learning/demos/receipt.vtt": "05edef532e435606ab0c9ba763964afa47216201f1fad7ce076e4015beeb3ec2",
@@ -6030,7 +6054,7 @@
     "docs/assets/learning/playbooks/comparison-brief.txt": "3b043ec1ac40406ad9a87fce97c8132adf7439704a9c6dbc7f510aa7726f9bb6",
     "docs/assets/learning/playbooks/evaluation-results.json": "0406501e9415699328bda4275d16ad6c9a134ce556e03e52bd70cf2f24f64ba7",
     "docs/assets/learning/playbooks/examples.json": "d62430b97998a4563c76eab799adbae39a85aa9542b70bb1595bc9a9bd1275cb",
-    "docs/assets/learning/playbooks/fact-verification.txt": "971623585c77a476a28d5a01b1b9c7e4953fc0adc2acc8a04ad94144e62f7ae9",
+    "docs/assets/learning/playbooks/fact-verification.txt": "1fe3b36cb449a3760f0c98d7768aba5549a393c88e27357ef99378fa657876fe",
     "docs/assets/learning/playbooks/fixtures.json": "bbaf06e33ab7d6a002a73436d9f4d839ed78b7b02280562f4dbf2460c3372184",
     "docs/assets/learning/playbooks/question-selection.txt": "9092e3cccac6791ac8f8cd5db3bf062d1ab01a9e9b3b79bfe92ab1de5d1f5c70",
     "docs/assets/learning/playbooks/receipt-review.txt": "cffca97713aa799673888deca1c4d0efe3c265ebd189589fa5c9cf04c12d3456",
@@ -6045,7 +6069,7 @@
     "docs/assets/learning/resources/comparison-page.txt": "c8e23cd24461e5ea716f61dad0ee0814cd39cf3474a2a3869aafc4dfba40a2ef",
     "docs/assets/learning/resources/fair-recheck.txt": "aaae16cca931babbe42de47f5c3efbad133640e80ceab912bc51c39d2e48d4e8",
     "docs/assets/learning/resources/missing-brand.txt": "13e05f01e12317c62dc7c689927e14441b062eef0de94a875997a6a6d7ec3d0f",
-    "docs/assets/learning/resources/product-facts.txt": "1d3c40bc66295e2b08ddeb0a60662c7289448923840eeb6a7d88a9bd2bf761ca",
+    "docs/assets/learning/resources/product-facts.txt": "487991a56b8c4087aaedb223417720e0d09ebd8f29fa1b6dde69a1348ff79087",
     "docs/assets/learning/resources/read-an-answer.txt": "e32a0d2016850bd15435d76af8d962499ab3f1eaa370cfd6b606825042cd0aef",
     "docs/assets/learning/visuals/buyer-questions.svg": "a697081554c872c29e7f24bcee75f996e7a12745851a05180891e392fc974e51",
     "docs/assets/learning/visuals/buyer-questions.txt": "c5ea7525d6b5b51aaf05b8b4d73bc91c9b0fcd7d1e00df5c737c009a0d8ed756",
@@ -6063,7 +6087,7 @@
     "docs/assets/learning/worksheets/comparison-page.json": "c9f4c48f8d81f2504363d3fa5ed59c796d69a3f40244152d2a817d3255b1cd12",
     "docs/assets/learning/worksheets/fair-recheck.json": "2cd9f22f3650b1101b6e1a10ee2d148afa7ded11fd822e622a9c276fa1a481c2",
     "docs/assets/learning/worksheets/missing-brand.json": "07b071eabc049feab46300c091cda1e30cec67f15f9003669148d98b7e278722",
-    "docs/assets/learning/worksheets/product-facts.json": "8d949a9863c9d86c53af72cbacfd700abcdf573de9f1eb17989e6ed07f6f6376",
+    "docs/assets/learning/worksheets/product-facts.json": "54698408e6f4f63155b02536ce77bc737a3305accd61cd8a324f440babf7d1fc",
     "docs/assets/learning/worksheets/question-set-synthetic.json": "013bb9e2adc17abc2ae019b762cc695ddd1be202eeedffb192ed31045b24b425",
     "docs/assets/learning/worksheets/read-an-answer.json": "de8dffc38d38152613a106fabb516d48a907282218e11d755a104743767536bb",
     "docs/assets/library/agency-list-audit-2026-09-17.json": "288d1a5126b1d4a2d6e5f2914461e9ddde2e8be38c241e62c6a3ee4edfc8d8ec",
@@ -6189,9 +6213,9 @@
     "docs/how-to-buy-geo.md": "8013baabd2be51250b1536cce0ea85a4e68135e435f57c136d0a8ad65bca6f71",
     "docs/index.md": "778e4760509d2afc0cadc31769a9c115069e67bb3affe91017d28c212b221d11",
     "docs/industry-benchmarks.md": "120493989e81df3a97c6415862ace48ff302adbe1b654c1265d35df33b6a9c8d",
-    "docs/launchpad.md": "b9654cd26b37e41cb12732f1398e87631dcb38a38006226e59c17219017303f2",
+    "docs/launchpad.md": "ec7b658287712673f600478dc0da3f0fa825443ec7213fc3fd3ad6ce6deffaa7",
     "docs/launchpad/certificate.md": "c4cc41927654b1c9419137dc3778be41cba8471c5eae92d3f2a67e9600176a1e",
-    "docs/llms.txt": "6870272136852e3ea9382c735a50eea8a8e12ae188942510f4059075fc5cd28d",
+    "docs/llms.txt": "5bfe26158ea9bf2bd0c9c2abdce2bb34c8bf381ddf22451bc1694811f84934c4",
     "docs/measurement-noise.md": "e4d3f18afb52fa69a736532fa3bf7e976f1791953750fe3810da71923f486001",
     "docs/media-kit.md": "44d0917cbdd2d8e8a102b5809c38da67a0a8b3027777dd44083eed6c4941fc69",
     "docs/model-releases.md": "5cb3c9979209309b90cc977205ea9163a19ec37ef4179f73a3c4a1c9baad7851",
@@ -6209,7 +6233,7 @@
     "docs/release-notes.md": "94803151a2b2a754804f56d9090dc4bbed6e11c5cde96e6a7303912d9f059362",
     "docs/research-report.md": "ebaa4d8f1de9b572baab81908c7c6c23ec22a3667b272f66e5c53dc8f383c50e",
     "docs/research/.pages": "2bac0914fb1ab81f96b3582503fdf263ba80ae112357d68a0bfab4d453b82dbd",
-    "docs/research/academic-access/index.md": "44556b2b9796f950c71f05612d6be99d890e7527fd339807bcc14ce6c0f25f24",
+    "docs/research/academic-access/index.md": "436425899fef2b92b156501e0c76da1ede58612fd90d1a6458747399681e3437",
     "docs/research/claims/index.md": "c32bfd984e5e70fb8046930f7b5f5ca7fe47ab9affe02dc50c83e01659114165",
     "docs/research/data/ai-crawler-log.csv": "def944aa2c3085b70d303c9411b10ecab1c3e91b86cb5cac064117d62fc06f12",
     "docs/research/data/analyze_citations.py": "5ad7300eafcf694922f4204e932e8b3c8f38ed1ce9d70dadb7e45ea911d821fb",
@@ -6312,7 +6336,7 @@
     "docs/research/glossary/seo-aeo-geo/index.md": "43d2f7776cc7d46dad35793580d915f94c392a21c3869810c471fa5b850c8442",
     "docs/research/glossary/share-of-model/index.md": "4e06e5c02f1dd9bb55ba18b5819dc4f8380262bf101bdbd47dde3ed1c265e308",
     "docs/research/glossary/zero-click-visibility/index.md": "1d662ae602a379ae4b33ac24b14148c86dd34a1fe931c2b7f4e96675eabeb126",
-    "docs/research/index.md": "b3fa649f6f1e7a61e80c8bc0372ba8fdd350726563d1648efa486721b5afad8c",
+    "docs/research/index.md": "5eb2a13d3e6f1b002f2ea2c4575c2859fd3ed4d82bf6e34f00c104a78f2e5059",
     "docs/research/insights/engines-change-without-telling-you/index.md": "73cfe4220338d31a7715af996a668810902843e942802f0e33232bce5af0acdb",
     "docs/research/insights/google-asks-for-original-research/index.md": "04b03a889ec57723db9da25facbe94504428c4c594681658a6a4ebb15586dd0e",
     "docs/research/insights/index-against-the-literature/index.md": "402f6b5c565e97f399c923c8daf3e786302b1e3b35f27a01d0ca5bd394644796",
@@ -6365,16 +6389,16 @@
     "docs/research/study7-ai-written-rfp.md": "3460f07196433baf418e26515abdacca38e0a4fa6a4664cccdf70a8a4e5654a8",
     "docs/resources.md": "b594b6d2ff0e446d3fb3071e5a54beb86e26aea90ae0c94aa10314071d8200bd",
     "docs/resources/.pages": "42d8deb70890ab44d75b0ea1187c8119785c2cd264c1936fff2af74eb64393bc",
-    "docs/resources/audit/executive-template.md": "79b97888fe8b9b6ed668693890de756b6b5e9c316c68e87ea37c3c6def598be1",
+    "docs/resources/audit/executive-template.md": "c9ecc2ca9c7adb7913793218191f09691bcb5cfb096f34944e5fb18b711c9fd4",
     "docs/resources/audit/recheck-receipts.md": "5a07de72fce1c2e096a00fb1ab3e2884d6cd00f8dc67542dda68acbe804d67f3",
     "docs/resources/audit/sample.md": "52188c13421be753239c4d74c1b42db224ac12ab573e57e5a6d0695939a93ee2",
     "docs/resources/bot-access.md": "b7ca1f2dcbd86aea43addbde7df7d93d54af4e824eee95aca86fdcb354070d07",
     "docs/resources/briefs.md": "b26429bb9928e9f320d705af662e32a7481f6929c864ee7ba0b85b5eb155d831",
     "docs/resources/briefs/comparison.md": "e77d3d187ba408bad1c3b0f374f46b067f23d5459f81cb850626566aacca74ab",
-    "docs/resources/briefs/integration.md": "8c58c5cfc5d2e8d6a6ce44f46a104ea32bc24dcd33a08be545f544368697487c",
+    "docs/resources/briefs/integration.md": "bed38d793c924b0ebed131fcaa1973bdd92770439e9b2579d9d61c8013df0ba6",
     "docs/resources/briefs/limitations-pricing.md": "7c63fdc632951fa93a653512b8f73faf9d8a50783ac9bac4328f1699ffdb956c",
     "docs/resources/briefs/migration.md": "a8a7618d29fabc7458543667f9206ef22c879370c7c6ede44f4ba52ec202d0e3",
-    "docs/resources/briefs/procurement.md": "58695c6cef4a0c893c3fdf5c7d727455527d99a63fe808b1d675970534df229d",
+    "docs/resources/briefs/procurement.md": "2e4c4eb38061a6e823452e1dc57d14f0810d65392256c3cd97de2f12de3d0a0a",
     "docs/resources/briefs/use-case.md": "9643001e94c928aa857a37aa9d48a70090644bb5cb6403d897c4a4ba8441b934",
     "docs/resources/demos/receipt.md": "e64b230e68fe1a5c3e12e84587e2c759d67a6ecca28643542c57a137e65e37d3",
     "docs/resources/demos/recordings.md": "5b50d28c927619749d63c8e874c42de3df6957e804411e2a4f748fc2c2f1c691",
@@ -6383,12 +6407,12 @@
     "docs/resources/guides/comparison-page.md": "d4e8a35f05f4cdae61367101b228232422c7915a2d5218549f285a731aaed17f",
     "docs/resources/guides/fair-recheck.md": "68570b603bfc1651210bbb771b2d0b2361a20e16212bba8c0b21bc66ba99cd7e",
     "docs/resources/guides/missing-brand.md": "236fe9a45fcd9491d5b5fc9cc46d3d1aae8785786ba4e41cb71403033cd69b26",
-    "docs/resources/guides/product-facts.md": "1270db05b32971c987c359e7a0b99090a2a6921e8b0e02227cd216540730508c",
+    "docs/resources/guides/product-facts.md": "10d9fde7ddf87973023f8385a71021b1d2442f63ede49bf3def17d6875da6c46",
     "docs/resources/guides/read-an-answer.md": "a54675cd69c1952b79753501ca9c1ac63a1017c1b1027c28018309b4260e564f",
     "docs/resources/playbooks.md": "69bdbf564bb3db452d50b1f92d1514168ce20f91e1eb54c06d7013a956b1f6cc",
     "docs/resources/playbooks/commercial-review.md": "030b2cc8ad162cc69c8dbf08cf54ec4d9d482f2103b98edbdd5a7f8ac58a89cb",
     "docs/resources/playbooks/comparison-brief.md": "8337abf4fc863a89b0e455adac530b87a2700744c00cd0544abe291e8f604a9c",
-    "docs/resources/playbooks/fact-verification.md": "d33c41d23938d804b33392638dc58682e5fab9f6b980b7720606bac6a40b60c0",
+    "docs/resources/playbooks/fact-verification.md": "c64f09a2ed12aa16e36c329829329ba7869ea427839ca82b2d1f7a8cd248b47c",
     "docs/resources/playbooks/question-selection.md": "23bbbc1b643558c1a4fe7f230040c582bb791e204cfd8015a9b06fe7b39405fa",
     "docs/resources/playbooks/receipt-review.md": "6a33a1f6cbefd6fa8756bac0cea0b6691e1d61c4e07e0de6465511c250976626",
     "docs/resources/playbooks/recheck-review.md": "a104d4a915e79bb815633fca98b7ec73662c9dc87ce295ca875384168af7220d",
@@ -6400,7 +6424,7 @@
     "docs/resources/worksheets/comparison-page.md": "1855f3a563c2ff3f783b868cfeed6908315fd46b3e9b2021e90a45fd81ee97ea",
     "docs/resources/worksheets/fair-recheck.md": "51d9a946a267477763f8362705570911563140293457236fb53e666d1aa8bfa3",
     "docs/resources/worksheets/missing-brand.md": "d55e56b6d24fd8e80a8e7fc0f46a73ceb228f2d1c089ed30dc68fbce4a763abc",
-    "docs/resources/worksheets/product-facts.md": "b6858f337974c1365de42ed059e2a4aed83ab8cf05edb44516d83889e667e4df",
+    "docs/resources/worksheets/product-facts.md": "ccecc154b1df9b70e9b36b8ef86b975ed554879d1df835997ec8d7cb784dedd1",
     "docs/resources/worksheets/read-an-answer.md": "2bf5128fe907d3614b38db44abfbbb3857d479bbf2a3da7a4149afc8b3762879",
     "docs/rfp-guide.md": "5b4f55e390221170825795ca6642ea7097df0105c78ca9c5f2f0524351eb4a4f",
     "docs/robots.txt": "ef45ab052003491abbbca6625fe955890ff4523e8ea2d2d5e6edea792f1aaa69",
@@ -6546,6 +6570,7 @@
     "tests/test_chatgpt_business_hub.py": "4792e247e5da017f2ba04b4740d56206ecf6e7753791ce0a6f6a9000ff18923c",
     "tests/test_discovery_consumer_five.py": "e725ad9bf46e0299f62037ffa956ad5a69b1574748ec14d53eb56368d08eb4cf",
     "tests/test_docs_account_analyses.py": "4d24d5584c43aaf37a7474d2315a29200bc99783a949350c15ba4cc8483b8faf",
+    "tests/test_docs_census_fixes_20261110.py": "d5774946ae529f566b781c93ecb0a588f541142bcdd09e6e2b951ed31b7f2875",
     "tests/test_docs_content_pages.py": "b267e67bf683b23cf1fab20c1cf1e23dc7d87a9273186236e0b88710f946c5f5",
     "tests/test_docs_more_pages.py": "5c518318be4f43b375b4eeeb9ab3fdc0711ca400883031d4cc1671d847bda196",
     "tests/test_followup_release.py": "736a5ab4f0fda04c03c08dee5483192bd5292f5bc3a47f2aeccb19436def0aaa",
@@ -8193,7 +8218,7 @@
     "tools/library-research-inputs/source-reads/file-line-map.json": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
     "tools/library-research-support.json": "803afdc7d03b03bf525941159f63b96e82e26b5fd80e2cf70d7759f727e58198",
     "tools/library-research-support.sha256": "34e586a881471af13331f5d32a444beb84774b3e6adc6f192214637209a2d769",
-    "tools/library-visibility-20261105.json": "f595603b7abb20514c4f311e784374131443d61db5e5f42df666273ba5481314",
+    "tools/library-visibility-20261105.json": "c13c47ed6e28b66e9688ed4368546cf8d7e6c751a424e49c83ed3057ba4b7b6c",
     "tools/library_answers.py": "37e8ed39da080c03a8361e44fcd03371d6ca369d3df4fb847db13cc1fc20bd22",
     "tools/library_build_dispatch.py": "9092b9262bacbd8c11aad171582e2a0f3de7a9a99fe63c97fc4985a36c700b9a",
     "tools/library_company_panel.py": "17076be6269695465e44298b7d6875979d6789d47eb2d5cff4d9db2764e22ee9",
@@ -8242,7 +8267,7 @@
     "tools/library_publication_verify_stubs.py": "ed9c85a244311221c1d3e0e34a88beaa88cb82e769ff78164276f652cfef8713",
     "tools/library_published_discovery_consumer_five.py": "e0f4ae0ef8db37c2a36f15c9f644fa65b9ce5408302a258e7f7516ba28531107",
     "tools/library_quality.py": "167511781baa8552afa6824c0bae417bc4c63d47915809f76c5c0e9408964179",
-    "tools/library_quality_annotations.json": "27dd4eda837ccc392020f9b9ae93e2ead7415e9d5152c8ba2248b6923f0974af",
+    "tools/library_quality_annotations.json": "c3efbc456664f4ca5934882a43c3a2a3218141bf2b2633c3bed4af4187fdfbfa",
     "tools/library_quality_annotations.schema.md": "bf65b5d8512a54c451174007c9f298b030ccd0319917a3812bb4ec59df5f4607",
     "tools/library_quality_baseline.json": "544beae9bf01b1071034733a5134057eeab890e7303383c39984f7ea5e67faf8",
     "tools/library_related_chapter_links.py": "f6d5fca32d51e9d68f8fa38df2bf4607559b5eebfb6f243f976450d50119f474",
@@ -8287,13 +8312,6 @@
       {
         "after": "concern search-query behavior; they are not",
         "before": "concern search-query behaviour; they are not",
-        "count": 1
-      }
-    ],
-    "answers/buying/which-geo-agencies-serve-new-companies.md": [
-      {
-        "after": "the published dataset behind its assessment.",
-        "before": "the published dataset behind its diagnostic.",
         "count": 1
       }
     ],
@@ -9082,6 +9100,10 @@
       "after_sha256": "7476684ce0d714577213d4e59e9c10cd27a34d6c9a2659ce0626075e5ff97d2d",
       "before_sha256": null
     },
+    "docs/answers/buying/which-geo-agencies-serve-new-companies.md": {
+      "after_sha256": "09c2401c7f235c08904e675e61af639fe7813b8d231f1f3f97562bc21d27f732",
+      "before_sha256": "e3d95df1ea8f820ebd1c1c0efb0667873b374caf6877e135082d5cedaef556ff"
+    },
     "docs/articles.md": {
       "after_sha256": "31ebc243b41af4814d3db60fad3ce679b281043ce1d946cf038157e032cd4cc9",
       "before_sha256": null
@@ -9105,6 +9127,30 @@
     "docs/assets/citations/broadcastwell-research.ris": {
       "after_sha256": "3ff480100210d57c555bf3a95837a907d9600d13e1afa6d1874b3a548bf2767c",
       "before_sha256": null
+    },
+    "docs/assets/learning/audit/executive-template.txt": {
+      "after_sha256": "12e124ffc98dc95b3b1d1732c7ae431d3c4fb74848269c574eeff93366be606f",
+      "before_sha256": "e24107cf5aa3f3aadd3fe520c962df7256d475c607d13c255daf44a79f0cee67"
+    },
+    "docs/assets/learning/briefs/integration.txt": {
+      "after_sha256": "d7d43eaf240406c000863972f5d320cedd89bb72bde60e42081aea5b105962c7",
+      "before_sha256": "69b4408e9be5761d9ef900f9509b27fe5b1a0bad2e6569262fd4400c33beb97a"
+    },
+    "docs/assets/learning/briefs/procurement.txt": {
+      "after_sha256": "d148ab621ce329bed9a460a4b4095062e2059ee205b1054d5ebc1a404436923f",
+      "before_sha256": "1d136c3c3ce0da5078dfb4c62b6193baeaf0c06fb0666cb5b1daf41edfff338f"
+    },
+    "docs/assets/learning/playbooks/fact-verification.txt": {
+      "after_sha256": "1fe3b36cb449a3760f0c98d7768aba5549a393c88e27357ef99378fa657876fe",
+      "before_sha256": "971623585c77a476a28d5a01b1b9c7e4953fc0adc2acc8a04ad94144e62f7ae9"
+    },
+    "docs/assets/learning/resources/product-facts.txt": {
+      "after_sha256": "487991a56b8c4087aaedb223417720e0d09ebd8f29fa1b6dde69a1348ff79087",
+      "before_sha256": "1d3c40bc66295e2b08ddeb0a60662c7289448923840eeb6a7d88a9bd2bf761ca"
+    },
+    "docs/assets/learning/worksheets/product-facts.json": {
+      "after_sha256": "54698408e6f4f63155b02536ce77bc737a3305accd61cd8a324f440babf7d1fc",
+      "before_sha256": "8d949a9863c9d86c53af72cbacfd700abcdf573de9f1eb17989e6ed07f6f6376"
     },
     "docs/assets/playbooks/source-correction-steps-2026-11-09.csv": {
       "after_sha256": "772fa8fb3c68dad6e9f1259277a827deaf0881253e983954bb9551e2a0896e2c",
@@ -9242,12 +9288,16 @@
       "after_sha256": "120493989e81df3a97c6415862ace48ff302adbe1b654c1265d35df33b6a9c8d",
       "before_sha256": null
     },
+    "docs/launchpad.md": {
+      "after_sha256": "ec7b658287712673f600478dc0da3f0fa825443ec7213fc3fd3ad6ce6deffaa7",
+      "before_sha256": "b9654cd26b37e41cb12732f1398e87631dcb38a38006226e59c17219017303f2"
+    },
     "docs/launchpad/certificate.md": {
       "after_sha256": "c4cc41927654b1c9419137dc3778be41cba8471c5eae92d3f2a67e9600176a1e",
       "before_sha256": null
     },
     "docs/llms.txt": {
-      "after_sha256": "6870272136852e3ea9382c735a50eea8a8e12ae188942510f4059075fc5cd28d",
+      "after_sha256": "5bfe26158ea9bf2bd0c9c2abdce2bb34c8bf381ddf22451bc1694811f84934c4",
       "before_sha256": "35cfd635a7bd547bdf7c16fe2a62a29c453133f5c76e7bcacbbc9f54d23ec1a7"
     },
     "docs/media-kit.md": {
@@ -9282,6 +9332,10 @@
       "after_sha256": "ebaa4d8f1de9b572baab81908c7c6c23ec22a3667b272f66e5c53dc8f383c50e",
       "before_sha256": null
     },
+    "docs/research/academic-access/index.md": {
+      "after_sha256": "436425899fef2b92b156501e0c76da1ede58612fd90d1a6458747399681e3437",
+      "before_sha256": "44556b2b9796f950c71f05612d6be99d890e7527fd339807bcc14ce6c0f25f24"
+    },
     "docs/research/claims/index.md": {
       "after_sha256": "c32bfd984e5e70fb8046930f7b5f5ca7fe47ab9affe02dc50c83e01659114165",
       "before_sha256": "efde2cc7dcfec1a3c51062c181d91289ac5a49f658740e6ad958cae3d76d420a"
@@ -9298,25 +9352,49 @@
       "after_sha256": "8e7d2f0d0d873d87798d09dad4a345a3b404dfdb4799420f5b0f7067be398ac9",
       "before_sha256": "a413acca0a52bb221c46c173ab76fad3f603c417f9069c32ef19a10ab10c9edd"
     },
+    "docs/research/index.md": {
+      "after_sha256": "5eb2a13d3e6f1b002f2ea2c4575c2859fd3ed4d82bf6e34f00c104a78f2e5059",
+      "before_sha256": "b3fa649f6f1e7a61e80c8bc0372ba8fdd350726563d1648efa486721b5afad8c"
+    },
     "docs/resources.md": {
       "after_sha256": "b594b6d2ff0e446d3fb3071e5a54beb86e26aea90ae0c94aa10314071d8200bd",
       "before_sha256": "4f17e1fac1531b35e192816b360c7d23a17557339c32ca4a0eba4777570b4cf0"
     },
     "docs/resources/audit/executive-template.md": {
-      "after_sha256": "79b97888fe8b9b6ed668693890de756b6b5e9c316c68e87ea37c3c6def598be1",
+      "after_sha256": "c9ecc2ca9c7adb7913793218191f09691bcb5cfb096f34944e5fb18b711c9fd4",
       "before_sha256": "2023490726a2135c65094e9966747c1ec8303300a70741687812324647ef8243"
     },
     "docs/resources/audit/sample.md": {
       "after_sha256": "52188c13421be753239c4d74c1b42db224ac12ab573e57e5a6d0695939a93ee2",
       "before_sha256": "6453a6fe788803a60c4dd239cce2c0b90a6e2f0d7fd6309fd3ccfd339fc873a7"
     },
+    "docs/resources/briefs/integration.md": {
+      "after_sha256": "bed38d793c924b0ebed131fcaa1973bdd92770439e9b2579d9d61c8013df0ba6",
+      "before_sha256": "8c58c5cfc5d2e8d6a6ce44f46a104ea32bc24dcd33a08be545f544368697487c"
+    },
+    "docs/resources/briefs/procurement.md": {
+      "after_sha256": "2e4c4eb38061a6e823452e1dc57d14f0810d65392256c3cd97de2f12de3d0a0a",
+      "before_sha256": "58695c6cef4a0c893c3fdf5c7d727455527d99a63fe808b1d675970534df229d"
+    },
     "docs/resources/guides/fair-recheck.md": {
       "after_sha256": "68570b603bfc1651210bbb771b2d0b2361a20e16212bba8c0b21bc66ba99cd7e",
       "before_sha256": "8d689adecde3ad5d4a2f0d83e92af6b79133e2c039ce9ada1ec992736e98c112"
     },
+    "docs/resources/guides/product-facts.md": {
+      "after_sha256": "10d9fde7ddf87973023f8385a71021b1d2442f63ede49bf3def17d6875da6c46",
+      "before_sha256": "1270db05b32971c987c359e7a0b99090a2a6921e8b0e02227cd216540730508c"
+    },
+    "docs/resources/playbooks/fact-verification.md": {
+      "after_sha256": "c64f09a2ed12aa16e36c329829329ba7869ea427839ca82b2d1f7a8cd248b47c",
+      "before_sha256": "d33c41d23938d804b33392638dc58682e5fab9f6b980b7720606bac6a40b60c0"
+    },
     "docs/resources/playbooks/source-correction.md": {
       "after_sha256": "532d5758b3e7875e29318de791247d900906e982e05bc4a7e17aadb6c21c8218",
       "before_sha256": "6e6c7b4efb70219d8e3c8727e407eb62c206e8cffb3a4365ee0ccf2a6178589b"
+    },
+    "docs/resources/worksheets/product-facts.md": {
+      "after_sha256": "ccecc154b1df9b70e9b36b8ef86b975ed554879d1df835997ec8d7cb784dedd1",
+      "before_sha256": "b6858f337974c1365de42ed059e2a4aed83ab8cf05edb44516d83889e667e4df"
     },
     "docs/rfp-guide.md": {
       "after_sha256": "5b4f55e390221170825795ca6642ea7097df0105c78ca9c5f2f0524351eb4a4f",
@@ -9450,6 +9528,10 @@
       "after_sha256": "4d24d5584c43aaf37a7474d2315a29200bc99783a949350c15ba4cc8483b8faf",
       "before_sha256": null
     },
+    "tests/test_docs_census_fixes_20261110.py": {
+      "after_sha256": "d5774946ae529f566b781c93ecb0a588f541142bcdd09e6e2b951ed31b7f2875",
+      "before_sha256": null
+    },
     "tests/test_docs_content_pages.py": {
       "after_sha256": "b267e67bf683b23cf1fab20c1cf1e23dc7d87a9273186236e0b88710f946c5f5",
       "before_sha256": null
@@ -9491,7 +9573,7 @@
       "before_sha256": "916dfe3a07fad255dfba8faf7250bcb1da243213707f730dae239404305a90b4"
     },
     "tools/library-visibility-20261105.json": {
-      "after_sha256": "f595603b7abb20514c4f311e784374131443d61db5e5f42df666273ba5481314",
+      "after_sha256": "c13c47ed6e28b66e9688ed4368546cf8d7e6c751a424e49c83ed3057ba4b7b6c",
       "before_sha256": null
     },
     "tools/library_build_dispatch.py": {
@@ -9513,6 +9595,10 @@
     "tools/library_publication_verify_stubs.py": {
       "after_sha256": "ed9c85a244311221c1d3e0e34a88beaa88cb82e769ff78164276f652cfef8713",
       "before_sha256": "a46b5c132969134e8384cb46b8db8e503f1c1eb425350b3f000962221959bbdd"
+    },
+    "tools/library_quality_annotations.json": {
+      "after_sha256": "c3efbc456664f4ca5934882a43c3a2a3218141bf2b2633c3bed4af4187fdfbfa",
+      "before_sha256": "27dd4eda837ccc392020f9b9ae93e2ead7415e9d5152c8ba2248b6923f0974af"
     },
     "tools/library_research_activation.py": {
       "after_sha256": "08533d325637eb2e81e5080b95939dd13d0d4494949bc013ee8ff0f864e650c3",
@@ -9544,16 +9630,16 @@
     }
   },
   "source_review": {
-    "complete_local_tests": 993,
-    "native_preview": "Eight pages of the actual CI candidate (the new account analyses page, the five pages with content changes and two pages that only take the template swaps) read from a local server with scripts off and on at 1440 and 390 pixels: 32 reads and screenshots, status 200, no phone overflow, JSON-LD parsed, banned strings 0. 446 of the 451 changed HTML pages equal production after the two template swaps (Organization sameAs and the footer Contact group); the other five carry only the intended content changes. Both manual PDFs are unchanged from production.",
-    "prior_reviewed_plan_sha256": "787330e787818e213ff888c23c6778be0dc190e31bd496826b8831da0acc4ac8",
-    "reviewed_utc": "2026-11-10T03:43:00.797026+00:00",
-    "serving_base": "a20a4ccfbe5178e36f4a323cddd97f9917ebd547",
+    "complete_local_tests": 998,
+    "native_preview": "Eleven changed pages of the actual CI candidate read from a local server with scripts off and on at 1440 and 390 pixels: 44 reads, status 200, no phone overflow, JSON-LD parsed, banned strings 0. Every changed HTML page differs from production only by the census wording; both manual PDFs differ from production only by the Launchpad sentence (start only after counsel clearance is recorded).",
+    "prior_reviewed_plan_sha256": "31e2e139d286dc63da9e21b047ad7919ae8444784392f114fa92aa75fef66aac",
+    "reviewed_utc": "2026-11-10T05:35:25.501859+00:00",
+    "serving_base": "a67bc74aade630823007c76c7fc5ca23968206d7",
     "skipped_tests": 2,
-    "source_head": "195c21b7b8af9fea794663c5dfc0b7b5df0f09d5",
+    "source_head": "beb07b43fa010aec7f3f446e9ed18234fd55faff",
     "state": "LEAD_REVIEWED_CURRENT_SOURCE",
-    "trigger": "STEP 3.2 docs release, 9 November 2026, one registration for two changes. Switch on (owner ruling R-090): one reference page outside the shared navigation, /account-analyses/, listing the 39 analyses available in a client account with what each reads and returns and its label; its llms.txt line and sitemap entry; links from the product documentation and service model pages; and its test file. SA-FIX: on the ChatGPT Business Hub explainer the lead's rarity sentence, the lead's client sentence and the six-part client status table in the page source (part 2 per ruling R-101); the seven current Organization sameAs profiles and the X and TikTok footer links on the pages that use the followup and business-hub templates; the same seven profiles in business-facts.json and its documented example; verify_build expects the eight-link Contact group outside the 45 registered pages, and the test that runs its per-page loop selects the two new constants it reads. main.html, partials/site-footer.html and the 45 registered pages are unchanged."
+    "trigger": "STEP 3.2 census fixes, 10 November 2026: our own wording on /launchpad/, three /answers/buying/ pages, /research/, /research/academic-access/ and the /resources/ templates, no registered page changed"
   },
   "source_review_complete": true,
-  "visibility_decisions_sha256": "f595603b7abb20514c4f311e784374131443d61db5e5f42df666273ba5481314"
+  "visibility_decisions_sha256": "c13c47ed6e28b66e9688ed4368546cf8d7e6c751a424e49c83ed3057ba4b7b6c"
 }

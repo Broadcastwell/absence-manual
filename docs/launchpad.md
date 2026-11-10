@@ -36,6 +36,6 @@ Joining, declining, completing or leaving Launchpad, making referrals, generatin
 - [22-slide orientation PDF](https://app.broadcastwell.com/launchpad/orientation.pdf)
 - [Privacy and withdrawal](https://app.broadcastwell.com/launchpad/privacy)
 
-New individual referral approvals for work in California, Massachusetts or New Jersey remain held pending lawyer review. Learn is open. Applicant contacts never become Launchpad or marketing lists.
+New individual referral approvals for work in California, Massachusetts or New Jersey start only after counsel clearance is recorded. Learn is open. Applicant contacts never become Launchpad or marketing lists.
 
 Course exercises adapt concepts from The Absence Manual and our public research. The Manual is published by Broadcastwell under CC BY 4.0. Exercises are learning-only, use synthetic or personally permitted material, and remain the learner's work.

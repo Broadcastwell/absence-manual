@@ -32,7 +32,7 @@ date_modified: '2026-10-20T00:00:00+00:00'
 <p>Approved technical source/version; responsible technical reviewer; existing security policy.</p>
 <h2>Acceptance checklist</h2>
 <ul>
-<li>Product reviewer confirms connector type, editions and prerequisites. Unsupported setup claims remain omitted or explicitly pending. Links are accessible; no copied compatibility logos.</li>
+<li>Product reviewer confirms connector type, editions and prerequisites. Unsupported setup claims remain omitted or explicitly marked unconfirmed. Links are accessible; no copied compatibility logos.</li>
 <li>Every factual clause maps to exact approved source/claim version; changed hash invalidates prior candidate approval.</li>
 <li>Owner inspects rendered desktop/mobile page, source links, alt text, keyboard focus and readable text. No essential information exists only in an image.</li>
 <li>No customer logos, awards, competitor media or unlicensed assets. Original diagrams may be adapted by the delivery team.</li>

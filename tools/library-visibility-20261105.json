@@ -1685,7 +1685,7 @@
       "prior_title": "Buying GEO answers",
       "before_body_sha256": "0f8191dbe5a246004c382c62626d7ce3b260cba4de4e24418f248dbeb739034f",
       "before_meta_sha256": "f0b3d0f05086c24b1172d6ab887e79f0d223bb22f2e77aaa86956528d872f4b2",
-      "after_body_sha256": "8b8fdf5e2cba22303c0beb6f431d37982c40c2e156e66f9ca33555cb7a6bdb2f",
+      "after_body_sha256": "6c177d5e4cc00463e27546ad58583fcdd282fe04ad6562f152d58f6a467453a8",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-28T21:30:42+00:00",
@@ -1862,7 +1862,7 @@
         },
         {
           "before": "Citant and Embarque each have four Yes cells out of eight in our dated startup comparison; inspect the different evidence behind those equal totals.",
-          "after": "Citant and Embarque are candidates in our startup comparison. Their 29 October 2026 snapshots each have four of eight Yes cells, but different evidence.",
+          "after": "Citant and Embarque are candidates in our dated comparison of agencies for new companies. Their 29 October 2026 snapshots each have four of eight Yes cells.",
           "count": 1
         },
         {
@@ -2464,9 +2464,9 @@
     "answers/buying/which-geo-agencies-serve-new-companies.md": {
       "url": "https://docs.broadcastwell.com/answers/buying/which-geo-agencies-serve-new-companies/",
       "prior_title": "Which GEO agencies serve new companies?",
-      "before_body_sha256": "eb9a157880c0345cec3347c4b9f088703047b179e72fd6e010afac5df196b03c",
-      "before_meta_sha256": "a547b0a000f898099aa8ef3f8102e9aee3c34575356448b0ac9c3f70676f23bb",
-      "after_body_sha256": "152db89cb0fb2630544a26d688b8f78edc5d918d93a3808f4f70bc84ad2f117f",
+      "before_body_sha256": "6487d13d545a1376bc01a2a76b3bdd8674554c00994eb38795a37026009fd879",
+      "before_meta_sha256": "ccfc375c42425e05e40b233243ffd791a2bdb1279e80dd6ab6f2060d45e8e156",
+      "after_body_sha256": "c01e2a5856a7fa8c7a3d228111a013f781b7e42dcf232cfe5e7273a01fef2c3c",
       "meta": {
         "also_asked_as": [
           "Which GEO agencies serve new companies?"
@@ -2475,7 +2475,7 @@
         "date_published": "2026-10-29T16:14:21+00:00",
         "demand_evidence": "LB-Q0009, private demand receipt dated 2026-10-28",
         "demand_source": "gsc-query",
-        "description": "Citant and Embarque are candidates in our startup comparison. Their 29 October 2026 snapshots each have four of eight Yes cells, but different evidence.",
+        "description": "Citant and Embarque are candidates in our dated comparison of agencies for new companies. Their 29 October 2026 snapshots each have four of eight Yes cells.",
         "evidence_audit_observed_at": "2026-10-29T14:37:02.864788+00:00",
         "evidence_audit_records": [
           "citant",
@@ -13052,9 +13052,9 @@
     "launchpad.md": {
       "url": "https://docs.broadcastwell.com/launchpad/",
       "prior_title": "Broadcastwell Launchpad",
-      "before_body_sha256": "57cd0011378d19ef433aaa7d1d56fee1eec68d5c2398147c80a795f6ece8c597",
+      "before_body_sha256": "5321a0b24db7d18e317474d1553a244abd6b7b55fab9103ccd0c9d393cad7059",
       "before_meta_sha256": "9ac2065a64575814251c27616d4274158412766b25c0f51f7d3d8ba88ec50816",
-      "after_body_sha256": "e107b0221cda38a381d02ed46319c2c503a1c1e9951c740fd09a99c61f9c3cc6",
+      "after_body_sha256": "c1b0bc34e7ef4b4495aebe9e72f3017c99bcf01ba271de73833a055431353d68",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-10-04T05:00:00Z",
@@ -13313,9 +13313,9 @@
     "research/academic-access/index.md": {
       "url": "https://docs.broadcastwell.com/research/academic-access/",
       "prior_title": "Free academic access to Broadcastwell research data",
-      "before_body_sha256": "aa2ae89019aa73c116583f54e51f0415e7e18105e8d525dd0f855152e19bf5e0",
+      "before_body_sha256": "440da73ef65750e756c1bbc91c933f1a716bac8e3aba022f99bcc8f42feff8e3",
       "before_meta_sha256": "620f0b1d3d466c7080765c0a0e69a3fcc730606e56eec5bf52889218b9e52dde",
-      "after_body_sha256": "133016cd74d411f6553620116cf4e2b7b3c3414a63ad43f47a221346d19fea9e",
+      "after_body_sha256": "f50198e86157287da4d990dd55b2de5cf3f1f9fe584b8b5f69c87e18cc5c3de6",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/academic-access/",
         "date_modified": "2026-11-05T21:10:29Z",
@@ -13851,9 +13851,9 @@
     "research/index.md": {
       "url": "https://docs.broadcastwell.com/research/",
       "prior_title": "What the research says about search and AI answers",
-      "before_body_sha256": "dce5996973073081636527f87840ccd9aa4b87bc2dec9b43854b1d8abb6b739f",
+      "before_body_sha256": "bbdf90bec8cffeea5dcaeacca80f8440b6c93d347acbdb2f953c24024bf52b85",
       "before_meta_sha256": "f1a70842dcbd6f2121c295ee52b261e2455560f6faf08b949a8330ad327c2621",
-      "after_body_sha256": "45aa6372ad53b359c4d0d468642fbb7dcb931825e6cada2cab8d6ce529818d85",
+      "after_body_sha256": "b462c2ccc97e827d20b3dac970b4f2ce4e5e1246a6fb576975c09b7a262650bc",
       "meta": {
         "canonical": "https://docs.broadcastwell.com/research/",
         "date_modified": "2026-11-05T21:10:29Z",
@@ -15493,9 +15493,9 @@
     "resources/audit/executive-template.md": {
       "url": "https://docs.broadcastwell.com/resources/audit/executive-template/",
       "prior_title": "What belongs in an executive delivery report?",
-      "before_body_sha256": "bd563d112742dcd8bc9c97b543efe5c498a9c55d2daf92201258bb38ec1aa698",
+      "before_body_sha256": "6afe08349df62c0a02c99ccce0dc2f21d9664a8e5cf892f8751128f5972259cc",
       "before_meta_sha256": "be156f5df44627f7a1d7c9aaec140b8bba68a2969fdd63d48fee4215bb8b0b4d",
-      "after_body_sha256": "bd563d112742dcd8bc9c97b543efe5c498a9c55d2daf92201258bb38ec1aa698",
+      "after_body_sha256": "6afe08349df62c0a02c99ccce0dc2f21d9664a8e5cf892f8751128f5972259cc",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
@@ -15684,9 +15684,9 @@
     "resources/briefs/integration.md": {
       "url": "https://docs.broadcastwell.com/resources/briefs/integration/",
       "prior_title": "Integration explanation ,  reusable implementation brief",
-      "before_body_sha256": "5249141333b34243927818aa31d50b451793e656fc1fa254f1c6631997dcdf14",
+      "before_body_sha256": "b16741d4013403773130aa114c6e6f7d99fa8988f16fe8b16361989de2b47c30",
       "before_meta_sha256": "432d9e00374a5abdbf4212b7fc6fa7fb0bdafb7229d2e0d9a77b0c6363c8e103",
-      "after_body_sha256": "b516f1d2e44dab5d1d4a7153abded15e960d9fa4a44387cdc49e883649309065",
+      "after_body_sha256": "8572f3e25453fd9fc365ed055f369388e8d598afbc4eec925c6179844e3c0629",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
@@ -15786,9 +15786,9 @@
     "resources/briefs/procurement.md": {
       "url": "https://docs.broadcastwell.com/resources/briefs/procurement/",
       "prior_title": "Procurement summary ,  reusable implementation brief",
-      "before_body_sha256": "d5011788e49753f0dfcc45fc5a171369d9115922f2c7d1eea613dd8f2dd0bb86",
+      "before_body_sha256": "10f7613269a08cd7776bfc25ce97889675ff906e6bb083b863a1e4e9dd803069",
       "before_meta_sha256": "4f86df0c8cbb513bf73be0249756ece2ab439d7049d97e9b37dffa7556ce7265",
-      "after_body_sha256": "304fa060e3553a77acf8f8476917c55ef73be41874ec9c6feba50ad91b5007f1",
+      "after_body_sha256": "03cca1e5b9fbdc174d44d6a456a6775875775c3d80afaf8aee035d8c1990cab0",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
@@ -16092,9 +16092,9 @@
     "resources/guides/product-facts.md": {
       "url": "https://docs.broadcastwell.com/resources/guides/product-facts/",
       "prior_title": "Keep product facts consistent without inventing certainty",
-      "before_body_sha256": "477ef28300cbe321ea9e75ada7c50cd240c6e128317fce9f6cf88b1379d38520",
+      "before_body_sha256": "1c016b8fdc8abf03f8bc4be227d2625cc0a798790443d99e8e708d30d1a66ef8",
       "before_meta_sha256": "fe113e65791c2180a7f543571ffdfffb877ee5842b771dabdaccdfcfb8edaaef",
-      "after_body_sha256": "d256e4e1f8200dc1705510d665b7c2fc6e2b585202c39eb58478a9f4d6442ad0",
+      "after_body_sha256": "9a690c8848ea6f3baa53aa1d44a3690b51e4c3ad058257e7b1db00e7321fd12a",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
@@ -16268,9 +16268,9 @@
     "resources/playbooks/fact-verification.md": {
       "url": "https://docs.broadcastwell.com/resources/playbooks/fact-verification/",
       "prior_title": "Product-fact verification",
-      "before_body_sha256": "33fb8c657ca6a27c45b88fad8d13754d54b5e504fea3714b0b1630058c6eec0f",
+      "before_body_sha256": "af2992affbd5a84dfe7f0f3c8a1d5fa112d5a36f7c3a2ce6bea08a2ed05dca5f",
       "before_meta_sha256": "b3383472dd143d7e2ac483eca0db12480ddf691ba155ac0144e25ad0733ac3b9",
-      "after_body_sha256": "11cd29f36b8560b5a1f90447e1e9319d6b75c40e102674bd6fe5d64170ad30f3",
+      "after_body_sha256": "b2123d42417f9547d487404d9f054f3b0033a4b013136a64262db06729ffcd6c",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
@@ -16671,9 +16671,9 @@
     "resources/worksheets/product-facts.md": {
       "url": "https://docs.broadcastwell.com/resources/worksheets/product-facts/",
       "prior_title": "Keep product facts consistent without inventing certainty",
-      "before_body_sha256": "8784018660804b6b98e9e884b4b03e44a0da86baedbd3ef1c136a39ac97de532",
+      "before_body_sha256": "c040c3016214cec1270b8e46e138360af2538198afa7ad1352b0093c95cef219",
       "before_meta_sha256": "f4839e2a3d78c9dd2af7dba84eb3f2834fb6abae7bb1bc510b04c43dd4bffbbf",
-      "after_body_sha256": "5cb45236f467ed392ba49bcfe66c176683124065bc5f8fac6fea220cdd9d94e8",
+      "after_body_sha256": "70e9e04928e1f74120182e23b1a5d940b7f34c0d1b0f269223f69f470e5a60af",
       "meta": {
         "date_modified": "2026-11-05T21:10:29Z",
         "date_published": "2026-09-24T00:00:00+00:00",
@@ -18160,7 +18160,7 @@
     },
     {
       "before": "- [Which GEO agencies serve new companies?](https://docs.broadcastwell.com/answers/buying/which-geo-agencies-serve-new-companies/): Citant and Embarque each have four Yes cells out of eight in our dated startup comparison; inspect the different evidence behind those equal totals.",
-      "after": "- [Which GEO agencies serve new companies?](https://docs.broadcastwell.com/answers/buying/which-geo-agencies-serve-new-companies/): Citant and Embarque are candidates in our startup comparison. Their 29 October 2026 snapshots each have four of eight Yes cells, but different evidence.",
+      "after": "- [Which GEO agencies serve new companies?](https://docs.broadcastwell.com/answers/buying/which-geo-agencies-serve-new-companies/): Citant and Embarque are candidates in our dated comparison of agencies for new companies. Their 29 October 2026 snapshots each have four of eight Yes cells.",
       "count": 1
     },
     {
