@@ -10443,18 +10443,18 @@
     "answers/buying/which-geo-agencies-serve-new-companies.md": {
       "bank_id": "LB-Q0009",
       "source_sha256": "e3d95df1ea8f820ebd1c1c0efb0667873b374caf6877e135082d5cedaef556ff",
-      "canonical_source_sha256": "e3d95df1ea8f820ebd1c1c0efb0667873b374caf6877e135082d5cedaef556ff",
-      "opening_sha256": "95c7efbf4e086f07e159fcdfab31ca4e04a2ecbb050745199fa25bfecd772b49",
+      "canonical_source_sha256": "09c2401c7f235c08904e675e61af639fe7813b8d231f1f3f97562bc21d27f732",
+      "opening_sha256": "6b2274e6cb0c3c3052ea19f01f519ff11244109c428d484381becbaf50751b8b",
       "lead_figures": [
         "figure:8c6716b5839f69d3ec0d01050e1e801169178d7562c331a103526c827ecdc348",
         "figure:382f39c45dc3a45a4be296ed776c9ebc7d2ec43b8c039eb18e83f7df999dd399"
       ],
       "lead_figure_spans": {
         "figure:8c6716b5839f69d3ec0d01050e1e801169178d7562c331a103526c827ecdc348": [
-          "If you are choosing GEO help for a new company, our published startup comparison includes Citant and Embarque as candidates to examine. The source snapshot read on 29 October 2026 records 4/8 Yes cells for [Citant](https://broadcastwell.com/best-geo-agencies-for-startups#citant) and 4/8 for [Embarque](https://broadcastwell.com/best-geo-agencies-for-startups#embarque). Their equal totals hide different evidence: Citant has an Open data Yes and a B2B cases No, while Embarque has those two statuses reversed."
+          "If you are choosing GEO help for a new company, our dated comparison of agencies for new companies includes Citant and Embarque as candidates to examine. The source snapshot read on 29 October 2026 records 4/8 Yes cells for [Citant](https://broadcastwell.com/best-geo-agencies-for-startups#citant) and 4/8 for [Embarque](https://broadcastwell.com/best-geo-agencies-for-startups#embarque). Their equal totals hide different evidence: Citant has an Open data Yes and a B2B cases No, while Embarque has those two statuses reversed."
         ],
         "figure:382f39c45dc3a45a4be296ed776c9ebc7d2ec43b8c039eb18e83f7df999dd399": [
-          "If you are choosing GEO help for a new company, our published startup comparison includes Citant and Embarque as candidates to examine. The source snapshot read on 29 October 2026 records 4/8 Yes cells for [Citant](https://broadcastwell.com/best-geo-agencies-for-startups#citant) and 4/8 for [Embarque](https://broadcastwell.com/best-geo-agencies-for-startups#embarque). Their equal totals hide different evidence: Citant has an Open data Yes and a B2B cases No, while Embarque has those two statuses reversed."
+          "If you are choosing GEO help for a new company, our dated comparison of agencies for new companies includes Citant and Embarque as candidates to examine. The source snapshot read on 29 October 2026 records 4/8 Yes cells for [Citant](https://broadcastwell.com/best-geo-agencies-for-startups#citant) and 4/8 for [Embarque](https://broadcastwell.com/best-geo-agencies-for-startups#embarque). Their equal totals hide different evidence: Citant has an Open data Yes and a B2B cases No, while Embarque has those two statuses reversed."
         ]
       },
       "source_review_sha256": "27c71d57fba9b681f8657734b846cfe96c80c8fe240d23a86df9c3365a1211c4",

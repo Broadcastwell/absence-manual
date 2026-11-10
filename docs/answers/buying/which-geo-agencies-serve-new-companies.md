@@ -1,7 +1,7 @@
 ---
 title: Which GEO agencies serve new companies?
 headline: Which GEO agencies serve new companies?
-description: Citant and Embarque each have four Yes cells out of eight in our dated startup comparison; inspect the different evidence behind those equal totals.
+description: Citant and Embarque are candidates in our dated comparison of agencies for new companies. Their 29 October 2026 snapshots each have four of eight Yes cells.
 page_class: page
 schema_type: Article
 date_published: '2026-10-29T16:14:21+00:00'
@@ -27,7 +27,7 @@ evidence_audit_snapshot_sha256: 0e9c684aa54488edcbd6518e6205ea51ff3de58a6addb6b2
 
 # Which GEO agencies serve new companies?
 
-If you are choosing GEO help for a new company, our published startup comparison includes Citant and Embarque as candidates to examine. The source snapshot read on 29 October 2026 records 4/8 Yes cells for [Citant](https://broadcastwell.com/best-geo-agencies-for-startups#citant) and 4/8 for [Embarque](https://broadcastwell.com/best-geo-agencies-for-startups#embarque). Their equal totals hide different evidence: Citant has an Open data Yes and a B2B cases No, while Embarque has those two statuses reversed.
+If you are choosing GEO help for a new company, our dated comparison of agencies for new companies includes Citant and Embarque as candidates to examine. The source snapshot read on 29 October 2026 records 4/8 Yes cells for [Citant](https://broadcastwell.com/best-geo-agencies-for-startups#citant) and 4/8 for [Embarque](https://broadcastwell.com/best-geo-agencies-for-startups#embarque). Their equal totals hide different evidence: Citant has an Open data Yes and a B2B cases No, while Embarque has those two statuses reversed.
 
 ## What we measured
 
@@ -44,7 +44,7 @@ These publication counts involve no new provider test and do not prove client re
 
 ## What this means for you
 
-**Reasoned.** Pick the evidence you need. Citant's Open data cell concerns the published dataset behind its diagnostic. Embarque's B2B cases cell concerns published client work. A founder seeking an inspectable starting measurement should not treat those as interchangeable simply because both totals are four.
+**Reasoned.** Pick the evidence you need. Citant's Open data cell concerns the published dataset behind its assessment. Embarque's B2B cases cell concerns published client work. A founder seeking an inspectable starting measurement should not treat those as interchangeable simply because both totals are four.
 
 The two Method cells also differ. Citant is Yes; Embarque is Partial under the comparison's stated criteria. Read the linked method evidence before deciding whether a proposed deliverable can be checked by someone outside the agency. A status describes what the comparison could establish from the published material, rather than how well a future engagement will go.
 
@@ -58,7 +58,7 @@ Which GEO agencies serve new companies?
 
 ## Related
 
-- [The startup comparison](https://broadcastwell.com/best-geo-agencies-for-startups)
+- [The comparison for new companies](https://broadcastwell.com/best-geo-agencies-for-startups)
 - [The wider agency comparison](https://broadcastwell.com/best-geo-agencies)
 - [How to buy GEO](../../how-to-buy-geo.md)
 

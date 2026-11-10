@@ -25,7 +25,7 @@ date_modified: '2026-10-20T00:00:00+00:00'
 <p>Product scope; deployment; integration prerequisites; data responsibilities; approved security/privacy statements; supporting evidence; owner and unresolved questions.</p>
 <h2>Original fictional draft</h2>
 <p>Synthetic learning example ,  not a client result or live AI measurement.</p>
-<p>The fictional exercise documents connector type and edition prerequisites only. Security certifications, data residency, retention, subprocessors, service levels and contractual terms are not supplied. Mark them pending evidence and identify the accountable reviewer before procurement proceeds.</p>
+<p>The fictional exercise documents connector type and edition prerequisites only. Security certifications, data residency, retention, subprocessors, service levels and contractual terms are not supplied. Mark them as awaiting evidence and identify the accountable reviewer before procurement proceeds.</p>
 <p>The Northstar Lab fixture is supported only by DEMO-FACT-01/02/03 where applicable; other statements above describe proposed process or explicit unknowns. It is not a product sales claim. Replace fictional content only with permitted approved evidence.</p>
 <h2>Boundaries and dependencies</h2>
 <p>One factual summary within scope; no legal advice, security audit, certification or unrestricted private-document access.</p>

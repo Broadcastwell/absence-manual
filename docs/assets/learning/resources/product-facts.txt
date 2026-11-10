@@ -20,7 +20,7 @@ DEMO-FACT-01 says Northstar Lab uses a third-party connector. DEMO-PAGE-01 says 
 
 ## Keep certainty within the source
 
-If two approved documents disagree, preserve both passages and route the decision to the product or commercial owner. Do not choose whichever wording is more persuasive. A candidate claim remains pending until the reviewer resolves it. A source can establish the documented capability without proving real-world performance or third-party validation.
+If two approved documents disagree, preserve both passages and route the decision to the product or commercial owner. Do not choose whichever wording is more persuasive. A candidate claim stays unapproved until the reviewer resolves it. A source can establish the documented capability without proving real-world performance or third-party validation.
 
 ## Connect claims to their uses
 

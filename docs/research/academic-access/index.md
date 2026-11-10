@@ -45,7 +45,7 @@ The benchmark records a fixed bank of 140 target questions in 14 categories, 286
 - [Study 2, citation sources for B2B software questions](https://doi.org/10.17605/OSF.IO/VCZKT). Its original classification and dated sensitivity remain separate.
 - [Study 3, persistence between comparable releases](https://doi.org/10.17605/OSF.IO/MKJ9V). This is a prospective plan; its comparability condition has not been met. There is no persistence result.
 
-- [Controlled evidence field test](https://doi.org/10.17605/OSF.IO/DMFPJ). The [protocol page](../studies/evidence-refresh-field-test/) and its three frozen files fix the design, allocation and proposed additions. Data collection is pending.
+- [Controlled evidence field test](https://doi.org/10.17605/OSF.IO/DMFPJ). The [protocol page](../studies/evidence-refresh-field-test/) and its three frozen files fix the design, allocation and proposed additions.
 
 OSF preserves the registered plans. The public derived tables are hosted in the report’s versioned Zenodo record and linked from the study pages. A registration is not a peer-review endorsement.
 

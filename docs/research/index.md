@@ -56,7 +56,7 @@ Google search positions, scholarly relevance ordering and vendors named in AI an
 
 **Study 3, persistence of absence:** the prospective plan is registered at [OSF mkj9v](https://doi.org/10.17605/OSF.IO/MKJ9V), 30 October 2026 at 01:12:44 UTC. Its persistence analysis requires a further eligible release under comparable conditions. The [published waiting protocol](studies/does-absence-persist/) keeps the existing August and September standings as dated observations; they are not a measured transition.
 
-**Field test, data pending:** our [registered 45-page, three-arm protocol](studies/evidence-refresh-field-test/) freezes the allocation and proposed additions at [OSF dmfpj](https://doi.org/10.17605/OSF.IO/DMFPJ).
+**Field test:** our [registered 45-page, three-arm protocol](studies/evidence-refresh-field-test/) freezes the allocation and proposed additions at [OSF dmfpj](https://doi.org/10.17605/OSF.IO/DMFPJ).
 
 Registration is not peer review. Completed descriptive studies and prospective plans are labeled separately.
 

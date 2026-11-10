@@ -12,7 +12,7 @@ Match the claim to an explicit passage. Check product/version/date. Preserve own
 
 ## Required output
 
-Versioned fact row with approved or pending wording, source, owner, reviewer, permitted uses, state and review trigger.
+Versioned fact row with approved or unapproved wording, source, owner, reviewer, permitted uses, state and review trigger.
 
 ## Stop conditions
 
