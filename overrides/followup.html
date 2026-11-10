@@ -4,8 +4,11 @@
 <title>{{ page.title | striptags }}</title>
 {% endblock %}
 
+{#- Pages on this template sit outside the 45 registered field-study pages, so they carry the
+    current Organization sameAs (six channels plus GitHub) and the X and TikTok footer links.
+    main.html and partials/site-footer.html stay byte-identical for the registered pages. -#}
 {% block extrahead %}
-{{ super() }}
+{{ super() | replace('"sameAs": ["https://www.linkedin.com/company/broadcastwell", "https://github.com/Broadcastwell", "https://github.com/Broadcastwell/state-of-geo-2026", "https://doi.org/10.5281/zenodo.21537014", "https://doi.org/10.5281/zenodo.21586091", "https://doi.org/10.5281/zenodo.21789120"]', '"sameAs": ["https://www.linkedin.com/company/broadcastwell", "https://x.com/broadcastwellhq", "https://broadcastwell.substack.com/", "https://www.youtube.com/@Broadcastwell", "https://www.instagram.com/broadcastwell/", "https://www.tiktok.com/@broadcastwell.com", "https://github.com/Broadcastwell"]') }}
 <style>
 /* Wide tables remain scrollable when scripts are disabled. */
 .md-typeset table:not([class]) {
@@ -19,3 +22,5 @@
 {% block content %}
 {{ super() | replace('<a href="https://broadcastwell.com/for-agencies">Agency Audit, $490 per client report</a>', '<a href="https://broadcastwell.com/answer-repair">Agency Deadline Audit, $490 per client report</a>') | replace('Last reviewed 26 October 2026', 'Last reviewed 5 November 2026') }}
 {% endblock %}
+
+{% block footer %}{{ super() | replace('<li><a href="https://www.linkedin.com/company/broadcastwell">LinkedIn</a></li><li><a href="https://broadcastwell.substack.com/">Writing</a></li>', '<li><a href="https://www.linkedin.com/company/broadcastwell">LinkedIn</a></li><li><a href="https://x.com/broadcastwellhq">X</a></li><li><a href="https://broadcastwell.substack.com/">Writing</a></li><li><a href="https://www.tiktok.com/@broadcastwell.com">TikTok</a></li>') }}{% endblock %}

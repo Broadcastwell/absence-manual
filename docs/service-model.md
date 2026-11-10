@@ -69,7 +69,7 @@ Our [operating framework](operating-framework.md) sets out the order of the work
 
 **Owner:** our engineers measure; Priya Nair, Management Consultant, is the delivery lead and reviewer.
 
-The [completed-case format](cases/format.md) shows every field a finished re-check reports, on the fictional Kalvenor sample.
+The [completed-case format](cases/format.md) shows every field a finished re-check reports, on the fictional Kalvenor sample. Between measurements, the [analyses in your account](account-analyses.md) read each delivered measurement and save their results for your review.
 
 ## Workstream 6: ChatGPT Business Hub readiness
 

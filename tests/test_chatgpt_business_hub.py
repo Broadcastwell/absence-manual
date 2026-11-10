@@ -46,8 +46,35 @@ UPDATED_LINE = "Updated 9 November 2026."
 # The client enrolment block is the lead's exact copy. It is pinned by hash and exempt from the
 # generated-copy scan below; any edit to it must come with a new reviewed hash.
 CLIENT_BLOCK_ANCHOR = '<a id="clients"></a>'
-CLIENT_BLOCK_SHA256 = "6e32c4cc766c4a895934ed054a0376bca9cc6fab187467f38014543ececca67a"
+CLIENT_BLOCK_SHA256 = "eac081d733709c52adbe7d2392b1fd72e177bbaf2b90b8a41d23b5eae865d328"
 CLIENT_BLOCK_NEXT_HEADING = "## Why measure prompts too"
+# STEP 3.2 (9 November 2026): the lead's exact client sentence, rarity sentence and six-part statuses
+# (ruling R-101 for part 2). The table inside the client block is the status data: one line per part,
+# one status per client, so a status changes in one line. The release guard requires the article to
+# be exactly the rendered markdown, so the table stays in the source rather than in a template.
+CLIENT_SENTENCE = ("Our current clients Vantaa Tax, Neurvalis and Valren Atelier are enrolled in this program; "
+                   "their readiness work is under way, and we claim each of them on the first day OpenAI opens "
+                   "the tool to them.")
+RARITY_SENTENCE = ("On 9 November 2026 we checked the 40 companies in our competitor review; 0 of them published "
+                   "a readiness program for this tool.")
+CLIENT_TABLE_HEADER = "| Part (status as of 9 November 2026) | Vantaa Tax | Neurvalis | Valren Atelier |"
+READINESS_CLIENTS = ["Vantaa Tax", "Neurvalis", "Valren Atelier"]
+READINESS_STATUSES = [
+    ("1. Ownership verification readiness", "Pending (needs a live domain)"),
+    ("2. Business information pack", "Pending (needs the client's live site and facts)"),
+    ("3. Business-agent context pack", "Prepared, 9 November 2026"),
+    ("4. Mention and click baseline", "Prepared, 9 November 2026"),
+    ("5. Launch-day claim", "Pending (starts when OpenAI opens the tool)"),
+    ("6. Reconciliation report", "Pending (starts when OpenAI opens the tool)"),
+]
+# Organization sameAs on every page outside the 45 registered pages (owner ruling, 9 November 2026):
+# the six channels plus GitHub, in this order.
+SAME_AS = [
+    "https://www.linkedin.com/company/broadcastwell", "https://x.com/broadcastwellhq",
+    "https://broadcastwell.substack.com/", "https://www.youtube.com/@Broadcastwell",
+    "https://www.instagram.com/broadcastwell/", "https://www.tiktok.com/@broadcastwell.com",
+    "https://github.com/Broadcastwell",
+]
 
 # Public copy rules for STEP 3.1, matched case-insensitively as whole phrases.
 BANNED_PHRASES = [
@@ -264,6 +291,12 @@ def client_block(body):
     start = body.index(CLIENT_BLOCK_ANCHOR + chr(10))
     end = body.index(chr(10) + CLIENT_BLOCK_NEXT_HEADING, start)
     return body[start:end]
+
+
+def client_table_rows(block):
+    """The six-part status rows of the client table, as lists of cell texts."""
+    lines = [line for line in block.splitlines() if line.startswith("| ")]
+    return [[cell.strip() for cell in line.strip("|").split("|")] for line in lines[1:]]
 
 
 def new_public_texts():
@@ -608,6 +641,100 @@ class NearDuplicateTests(unittest.TestCase):
     def test_no_guide_shares_more_than_a_fifth_of_its_six_word_sequences(self):
         worst = near_duplicate_rows()[0]
         self.assertLessEqual(worst[0], NEAR_DUPLICATE_LIMIT, worst)
+
+
+
+class ClientReadinessTests(unittest.TestCase):
+    """STEP 3.2: the lead's client sentence, the rarity sentence and the six-part status table."""
+
+    def setUp(self):
+        self.text = (HUB / "index.md").read_text(encoding="utf-8")
+        self.meta, self.body = split_page(HUB / "index.md")
+        self.block = client_block(self.body)
+
+    def test_client_sentence_is_exact_once_and_the_table_follows_it(self):
+        self.assertEqual(self.body.count(CLIENT_SENTENCE), 1)
+        self.assertTrue(self.block.startswith(CLIENT_BLOCK_ANCHOR + "\n" + CLIENT_SENTENCE + "\n\n" + CLIENT_TABLE_HEADER + "\n"))
+        self.assertNotIn("readiness work is prepared", self.text)
+
+    def test_rarity_sentence_is_exact_once_inside_the_readiness_offer_section(self):
+        self.assertEqual(self.body.count(RARITY_SENTENCE), 1)
+        offer = self.body.index("## What our ChatGPT Business Hub Readiness work includes")
+        self.assertTrue(offer < self.body.index(RARITY_SENTENCE) < self.body.index(CLIENT_BLOCK_ANCHOR))
+        self.assertIn("\n\n" + RARITY_SENTENCE + "\n\n", self.body)
+        for claim in ("first in", "number one", "the only", "only company", "leading"):
+            self.assertNotIn(claim, RARITY_SENTENCE.lower())
+
+    def test_no_hub_page_or_facts_file_carries_the_word_transitioned(self):
+        for path in [HUB / name for name in PAGES] + FACTS_FILES + [ROOT / "overrides" / "followup.html"]:
+            with self.subTest(file=path.name):
+                self.assertNotIn("transitioned", path.read_text(encoding="utf-8").lower())
+
+    def test_table_has_one_column_per_client_and_six_parts_with_the_ruled_statuses(self):
+        self.assertEqual(self.block.count(CLIENT_TABLE_HEADER), 1)
+        rows = client_table_rows(self.block)
+        self.assertEqual(rows[0], ["---"] * 4)
+        self.assertEqual(len(rows[1:]), 6)
+        for row, (part, status) in zip(rows[1:], READINESS_STATUSES):
+            with self.subTest(part=part):
+                self.assertEqual(row, [part] + [status] * len(READINESS_CLIENTS))
+        self.assertNotIn("Drafted", self.block)
+        self.assertNotIn("10 November", self.block)
+
+    def test_each_part_is_one_editable_line(self):
+        lines = self.block.splitlines()
+        for part, _ in READINESS_STATUSES:
+            with self.subTest(part=part):
+                self.assertEqual(sum(1 for line in lines if line.startswith("| " + part + " |")), 1)
+
+    def test_the_block_holds_only_the_sentence_and_the_table(self):
+        lines = [line for line in self.block.splitlines() if line.strip()]
+        self.assertEqual(lines[:2], [CLIENT_BLOCK_ANCHOR, CLIENT_SENTENCE])
+        self.assertTrue(all(line.startswith("| ") for line in lines[2:]))
+        self.assertEqual(len(lines), 2 + 2 + 6)
+
+
+class OrganizationSameAsTests(unittest.TestCase):
+    """The followup template (and business-hub, which extends it) swaps the registered pages' shared
+    sameAs for the seven current profiles; main.html and the shared footer keep their reviewed bytes."""
+
+    def setUp(self):
+        self.followup = (ROOT / "overrides" / "followup.html").read_text(encoding="utf-8")
+        self.main = (ROOT / "overrides" / "main.html").read_text(encoding="utf-8")
+        self.footer = (ROOT / "overrides" / "partials" / "site-footer.html").read_text(encoding="utf-8")
+
+    def shared_same_as(self):
+        return json.loads(re.search(r"\{% set org_same_as = (\[.*?\]) %\}", self.main, re.S).group(1))
+
+    def test_followup_template_replaces_the_shared_list_with_the_seven_profiles_in_order(self):
+        old = '"sameAs": ' + json.dumps(self.shared_same_as())
+        new = '"sameAs": ' + json.dumps(SAME_AS)
+        self.assertIn("{{ super() | replace('" + old + "', '" + new + "') }}", self.followup)
+        self.assertEqual(len(set(SAME_AS)), 7)
+
+    def test_registered_shared_templates_keep_their_reviewed_bytes(self):
+        catalog = json.loads((ROOT / "tools" / "library_owner_repair_surface_templates.json").read_text(encoding="utf-8"))
+        for path in ("overrides/main.html", "overrides/partials/site-footer.html"):
+            with self.subTest(template=path):
+                digest = hashlib.sha256((ROOT / path).read_bytes()).hexdigest()
+                self.assertIn(digest, catalog["repository_templates"][path]["accepted_actual_raw_sha256"])
+
+    def test_footer_adds_x_and_tiktok_beside_linkedin_and_writing(self):
+        old = ('<li><a href="https://www.linkedin.com/company/broadcastwell">LinkedIn</a></li>'
+               '<li><a href="https://broadcastwell.substack.com/">Writing</a></li>')
+        new = ('<li><a href="https://www.linkedin.com/company/broadcastwell">LinkedIn</a></li>'
+               '<li><a href="https://x.com/broadcastwellhq">X</a></li>'
+               '<li><a href="https://broadcastwell.substack.com/">Writing</a></li>'
+               '<li><a href="https://www.tiktok.com/@broadcastwell.com">TikTok</a></li>')
+        self.assertEqual(self.footer.count(old), 1)
+        self.assertIn("{% block footer %}{{ super() | replace('" + old + "', '" + new + "') }}{% endblock %}",
+                      self.followup)
+
+    def test_both_business_facts_files_list_the_seven_profiles(self):
+        self.assertEqual(load_json(FACTS_FILES[0])["same_as"], SAME_AS)
+        _, body = split_page(HUB / "business-facts-file.md")
+        example = json.loads(re.search(r"```json\n(\{.*?\})\n```", body, re.S).group(1))
+        self.assertEqual(example["same_as"], SAME_AS)
 
 
 if __name__ == "__main__":

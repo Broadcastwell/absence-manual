@@ -15,7 +15,7 @@ Our product documentation covers the eight things you can do with Broadcastwell 
 
 Updated 9 November 2026.
 
-Each task below states what it does, its limits, one worked example on public or fictional data, and an expected output you can download and compare. Kalvenor Systems is a fictional company; every Kalvenor value is sample data, not a client result. Paid work is described on our [service model](service-model.md) page and is not needed for anything here.
+Each task below states what it does, its limits, one worked example on public or fictional data, and an expected output you can download and compare. Kalvenor Systems is a fictional company; every Kalvenor value is sample data, not a client result. Paid work is described on our [service model](service-model.md) page and is not needed for anything here. The analyses that run inside a client account, on its own delivered measurement, are listed with what each reads and returns on our [account analyses](account-analyses.md) page.
 
 ## 1. Read the fictional sample account
 

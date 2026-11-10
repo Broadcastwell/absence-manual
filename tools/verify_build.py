@@ -26,6 +26,13 @@ SITE_URL = "https://docs.broadcastwell.com/"
 CHAPTER_WORD_FLOOR = 2500
 ALT_TEXT_FLOOR = 40
 OWNERSHIP_PROOF = "googlefda93e56a71f6d4d.html"
+# The 45 registered field-study pages keep their reviewed bytes (R-056), so their footer keeps the
+# six-link Contact group. Every other page carries eight: X and TikTok beside LinkedIn and Writing
+# (owner ruling, 9 November 2026).
+REGISTERED_PAGES = frozenset(json.loads((ROOT / "tools" / "library_field_freeze_navigation.json")
+                                        .read_text(encoding="utf-8"))["pages"])
+CHANNEL_LINKS = ('<a href="https://x.com/broadcastwellhq">X</a>',
+                 '<a href="https://www.tiktok.com/@broadcastwell.com">TikTok</a>')
 
 EM_DASH = "—"
 EN_DASH = "–"
@@ -387,8 +394,11 @@ for rel, cls in sorted(manifest.items()):
         if foot.find("excluded from its own sample") > foot.find("bw-shared-columns"):
             fail("%s footer does not keep its own disclosure note above the shared columns" % rel)
         groups = re.findall(r'<details class="bw-shared-group"[^>]*>([\s\S]*?)</details>', foot)
-        if len(groups) != 5 or [len(re.findall(r"<li>", group)) for group in groups] != [8, 6, 6, 6, 6]:
+        contact = 6 if rel in REGISTERED_PAGES else 8
+        if len(groups) != 5 or [len(re.findall(r"<li>", group)) for group in groups] != [8, 6, 6, 6, contact]:
             fail("%s footer must contain five complete groups, preserving PHP2Shell and Change Desk links" % rel)
+        elif rel not in REGISTERED_PAGES and not all(link in groups[4] for link in CHANNEL_LINKS):
+            fail("%s footer Contact group must link X and TikTok beside LinkedIn and Writing" % rel)
         if 'href="tel:+18123457272">(812) 345 7272' not in foot or '517 E Kirkwood Ave<br>Bloomington, IN 47408' not in foot:
             fail("%s footer is missing the public address or phone" % rel)
     if not re.search(r'<time datetime="\d{4}-\d{2}-\d{2}">', foot):
