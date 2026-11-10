@@ -1,7 +1,7 @@
 ---
 title: Which analyses run in your Broadcastwell account?
 headline: Which analyses run in your Broadcastwell account?
-description: Our client account runs 51 analyses on your own delivered measurement. Each lists what it reads, what it returns and its label; every result waits for review.
+description: Our client account runs 39 analyses on your own delivered measurement. Each lists what it reads, what it returns and its label; every result waits for review.
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
@@ -11,7 +11,7 @@ template: business-hub.html
 
 # Which analyses run in your Broadcastwell account?
 
-Fifty-one analyses run in a Broadcastwell client account, and all of them are available now. Each one reads your own delivered measurement, quotes the receipts it relies on and saves its result for your team to review. Nothing is published, sent or changed for you.
+Thirty-nine analyses run in a Broadcastwell client account, and all of them are available now. Each one reads your own delivered measurement, quotes the receipts it relies on and saves its result for your team to review. Nothing is published, sent or changed for you.
 
 Updated 9 November 2026.
 
@@ -32,14 +32,6 @@ How do the answers that name you describe you? Labels the tone of each answer th
 **What it returns, item by item.** Engine; Tone; Why this label. Each item carries the receipt words it relies on.
 
 **Label on every result.** Tone labels describe wording quoted from receipts; they are not scored and are not part of the Index.
-
-### Attributes and objections
-
-What do answers say you are good for, and what do they tell buyers to check first? Extracts the attributes answers attach to you and the checks or objections they raise for buyers, with how many answers carry each.
-
-**What it reads.** Scored answers from your latest delivered measurement, up to 120.
-
-**What it returns, item by item.** Kind; Statement; Answers carrying it. Each item carries the receipt words it relies on.
 
 ### Narrative themes
 
@@ -91,22 +83,6 @@ How are you named in each engine and question type, against the vendor that lead
 
 **What it returns, item by item.** Segment type; Segment; You are named in; Vendor named most; What it shows. Each item carries the receipt words it relies on.
 
-### Topic and question coverage map
-
-Which buyer topics do your measured questions cover, and where are you named? Groups every measured question into buyer topics and shows, topic by topic, how many scored answers name you and who is named instead, with a receipt for each topic.
-
-**What it reads.** One scored answer for each measured question in your latest delivered measurement, up to 35, and its per-question figures.
-
-**What it returns, item by item.** Topic; Questions; Named in; Named instead. Each item carries the receipt words it relies on.
-
-### Buyer journey plan
-
-At which stage of the buying process are you named, and what work belongs at each stage? Places each measured question at a stage of the buying process, shows how often answers name you at each stage, and attaches the fixes and next work that belong there.
-
-**What it reads.** The per-question figures, the fixes on your account and one scored answer for each measured question in your latest delivered measurement, up to 35.
-
-**What it returns, item by item.** Stage; Questions; Named in; Work for this stage. Each item carries the receipt words it relies on.
-
 ### Buyer-intent map
 
 What is a buyer trying to do when they ask each of your measured questions? Labels each measured question with the buyer's intent, from learning about the category to checking terms before buying, names the content that answers it and shows your result on that question.
@@ -149,14 +125,6 @@ Do the answers say anything about you that your own facts do not support? Checks
 
 **What it returns, item by item.** Statement in the answer; Against your facts; Facts file reference. Each item carries the receipt words it relies on.
 
-### Unresolved or conflicting facts
-
-Where do answers disagree with each other or with your facts? Flags each point where engines or repeated runs disagree about you, or where an answer and your facts file disagree, and leaves it unresolved for your review.
-
-**What it reads.** Scored answers from your latest delivered measurement, up to 120, and your published facts file.
-
-**What it returns, item by item.** Topic; Kind of conflict; Detail. Each item carries the receipt words it relies on.
-
 ### Claim-level evidence check
 
 Which statements in answers about you have a source behind them? Lists each statement the answers make about you and what stands behind it: an independent cited source, only your own page, only competitor pages, or no cited source, and whether your facts file states it. It reads the cited addresses, not the cited pages.
@@ -172,14 +140,6 @@ Which cited sources matter for the question they were cited on? Rates each cited
 **What it reads.** Scored answers with their cited sources from your latest delivered measurement, up to 100.
 
 **What it returns, item by item.** Cited source; Owner; Relevance to the question; Why. Each item carries the receipt words it relies on.
-
-### Content decay
-
-Which of your pages are cited less often than they were? Counts how often each of your pages is cited in each pass of your latest measurement, flags the pages cited less in the latest pass than in the first, and names what the answers cite instead on the questions where your page dropped out.
-
-**What it reads.** The citation counts by pass for the pages cited most in your latest delivered measurement, your account domain, and up to 60 scored answers spread across its passes.
-
-**What it returns, item by item.** Page; Citations, first pass; Citations, latest pass; Change; Cited instead. Each item carries the receipt words it relies on.
 
 ### Question bias check
 
@@ -201,14 +161,6 @@ If a page planted a false claim about you, would an answer built from that page 
 
 ## Find the gaps and the next questions
 
-### Question discovery
-
-Which buyer questions should you add to your measured set? Proposes new buyer questions that the answers point toward but your measured set does not ask, each tied to the receipts that suggest it and the closest question you already measure.
-
-**What it reads.** Scored answers from your latest delivered measurement, up to 100, and its question list.
-
-**What it returns, item by item.** Proposed question; Question type; Closest measured question; Why it belongs. Each item carries the receipt words it relies on.
-
 ### Missing-topic detection
 
 Which buyer topics have no answer that names you? Groups the measured questions where no answer names you into buyer topics, and shows who the answers name instead on each.
@@ -227,14 +179,6 @@ What will a buyer ask next after reading these answers? Lists the follow-up ques
 
 **Label on every result.** Proposed follow-up questions, not observed answers; our measurements are single turn.
 
-### Related searches, generated and found
-
-Which related searches sit behind a buyer question, and which of them do the answers already use? Lists the related searches an engine could run for one measured question and keeps two kinds apart: searches generated by this analysis, and searches whose words appear in the answers themselves, quoted from the receipt. A generated search is a candidate to check, not a search any engine was seen to run.
-
-**What it reads.** Every scored answer to the question you choose in your latest delivered measurement.
-
-**What it returns, item by item.** Related search; Where it comes from; What it covers; Cited page on it. Each item carries the receipt words it relies on, where one applies.
-
 ### Competitor discovery
 
 Which companies compete with the brand or site you enter, judging by the answers? Starts from a brand or site you enter and lists the companies your measured answers name beside it, with how many answers name each and whether its own site is cited, then suggests kinds of competitor the answers point toward. A suggestion is marked apart from a vendor the answers name.
@@ -250,14 +194,6 @@ Which questions and objections from your sales calls do AI answers already addre
 **What it reads.** The transcript you paste, the per-question figures and one scored answer for each measured question in your latest delivered measurement, up to 35.
 
 **What it returns, item by item.** Kind; In the call; Closest measured question; Your result there. Each item carries the receipt words it relies on.
-
-### Ideal-customer plan
-
-Which work matters most for the customer you most want to win? Starts from the customer you describe and the business objective you set, finds the measured questions that customer asks, shows your result on each, and puts the work that serves the objective first.
-
-**What it reads.** The customer and objective you write, the per-question figures, the fixes on your account and up to 60 scored answers from your latest delivered measurement.
-
-**What it returns, item by item.** Step; Detail; Questions. Each item carries the receipt words it relies on.
 
 ## Draft pages, corrections and posts for your review
 
@@ -355,14 +291,6 @@ Which calculator, checklist or comparison would answer the questions where you a
 
 ## Plan paid placement beside the answers
 
-### Ad briefs from answer evidence
-
-What should a paid campaign say on the questions where answers do not name you? Turns the measured questions where answers do not name you into short ad briefs: who to reach, what the message must answer and which page should carry it, each tied to receipts, the per-question figures and your facts file. Briefs are drafts; nothing is bought or published.
-
-**What it reads.** Up to 40 answers that do not name you in your latest delivered measurement, its per-question figures and your published facts file.
-
-**What it returns, item by item.** Question; Brief part; Brief; Why. Each item carries the receipt words it relies on.
-
 ### Advertising agent
 
 Which measured questions are worth paid placement, and which should the answer win first? Reads your per-question figures, the answers that leave you out and the Labs results you accepted, and advises question by question: worth paid placement, win the answer first, or leave for now, with the reason and the next step. It advises only; it changes no campaign and spends nothing.
@@ -411,16 +339,6 @@ Beyond the visits your analytics credits to AI assistants, how many buyers might
 
 **Label on every result.** A modeled estimate, not a measurement. It is shown with its basis and checked against your next delivered measurement, with that check shown beside it once it exists. Until that measurement is delivered, the result says: "Checked against your next delivered measurement once it exists."
 
-### Shared planning assumptions
-
-What does your plan assume, and can everyone on your team check each assumption? Writes out the assumptions behind a plan for one objective you set: the starting count, the fixes it relies on, the pace the plan assumes and how each will be checked, each with its base and receipt. Every member of your workspace, including read-only members, can read the saved result and its full input.
-
-**What it reads.** The objective you write, the per-question figures, the fixes on your account and one scored answer for each measured question in your latest delivered measurement, up to 35.
-
-**What it returns, item by item.** Assumption; Base it rests on; How it will be checked. Each item carries the receipt words it relies on.
-
-**Label on every result.** This plan states the work and its pace. It is not a promise of results.
-
 ## Run your team's own review work
 
 ### Assistant workspace
@@ -446,22 +364,6 @@ Can a task you write once run again on each new measurement? Runs a task you wri
 **What it reads.** The answers you choose from your latest delivered measurement, up to 40, the task you write and the points you chose to carry forward.
 
 **What it returns, item by item.** Finding; Detail. Each item carries the receipt words it relies on.
-
-### Review notes into reusable rules
-
-Which rules should your brand record and review checklist gain from the results you accepted and rejected? Reads the Labs results your team accepted and rejected with their review notes, and proposes rules for your brand record or your review checklist, each naming the reviews it comes from. A proposal changes nothing until you add it yourself.
-
-**What it reads.** Your reviewed Labs results with their decisions and notes, up to 20, and up to 20 scored answers from your latest delivered measurement.
-
-**What it returns, item by item.** Proposed rule; Applies to; From the reviews. Each item carries the receipt words it relies on, where one applies.
-
-### Setup from a description
-
-Which brand details, competitors and buyer questions should your workspace start with? Reads a short description of your business that you paste, your facts file and the vendors your answers already name, and proposes the brand details, competitors and buyer questions to set up. Nothing is created: you add the proposals you accept in question setup.
-
-**What it reads.** The description you paste, your published facts file and up to 60 scored answers from your latest delivered measurement.
-
-**What it returns, item by item.** Proposal; Proposed; Why. Each item carries the receipt words it relies on.
 
 ## How a result is checked
 
