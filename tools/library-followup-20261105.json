@@ -3124,7 +3124,7 @@
     "docs/chart-library.md": "480d79678fad7d7c2de07cb73004663c1706a3767a76b3da38c2c277c0c4cb7d",
     "docs/chatgpt-business-hub/business-facts-file.md": "1c25d0cbb83d766ef87a14a38727055dcf1ed2dbf1c2871d5b3e5477677ef374",
     "docs/chatgpt-business-hub/context-pack.md": "5b9a8da8deb4e296aa317bd6afba207a43c59fedc3afdc8fdd3972659f5314f9",
-    "docs/chatgpt-business-hub/index.md": "dc37767f5106ddeefd09445943f536fb6b312dc437e7baaba58dbf3e7b50f0a6",
+    "docs/chatgpt-business-hub/index.md": "632d4a362ad9292b9e0fd6c1d819ad64f27c568b308c508da48e65a06bc511cb",
     "docs/chatgpt-business-hub/reconciliation-report.md": "5aaf6d38baca38ccbf8953f475aa10b1ca679f62b88ee105bcf70f0fbc3eaa9a",
     "docs/chatgpt-business-hub/watch.md": "c734f10445cabcf2ecce18ee25314980d02975416719df880785f25fe8b1af8b",
     "docs/cite.md": "8466001ed3b001d861d2c474369bf772175f0a56e88c3f03d201dd5f6bb4c366",
@@ -6154,7 +6154,7 @@
       "before_sha256": null
     },
     "docs/chatgpt-business-hub/index.md": {
-      "after_sha256": "dc37767f5106ddeefd09445943f536fb6b312dc437e7baaba58dbf3e7b50f0a6",
+      "after_sha256": "632d4a362ad9292b9e0fd6c1d819ad64f27c568b308c508da48e65a06bc511cb",
       "before_sha256": null
     },
     "docs/chatgpt-business-hub/reconciliation-report.md": {
@@ -6581,7 +6581,7 @@
   "source_review": {
     "serving_base": "824d47fac83eeab912e0722d09ea086454125043",
     "state": "STEP 3.2 offer links source and artifact review open; first Linux CI pass required",
-    "trigger": "STEP 3.2 offer links (B097), 10 November 2026: one sentence on /chatgpt-business-hub/ linking the ChatGPT Business Hub Readiness Setup offer page, and one on /account-analyses/ linking the Free Account and 14-Day Tracking Trial and Question Tracking Plan offer pages; no registered page, llms.txt line or sitemap row changed"
+    "trigger": "STEP 3.2 offer links (B097), 10 November 2026: one sentence on /chatgpt-business-hub/ linking the ChatGPT Business Hub Readiness Setup offer page, and one on /account-analyses/ linking the Free Account and 14-Day Tracking Trial and Question Tracking Plan offer pages; per the lead's ruling, the Business Hub page no longer says readiness is not a separate purchase, and its FAQ answer to \"Is readiness sold separately?\" names the setup at $1,820 once; no registered page, llms.txt line or sitemap row changed"
   },
   "source_review_complete": false,
   "visibility_decisions_sha256": "c13c47ed6e28b66e9688ed4368546cf8d7e6c751a424e49c83ed3057ba4b7b6c"

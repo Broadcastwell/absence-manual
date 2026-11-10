@@ -19,7 +19,7 @@ faq:
 - question: Do you need llms.txt or a business facts file to appear in ChatGPT?
   answer: Neither is a published requirement. Both put your current facts in one dated place that an agent, or a person checking a claim, can read. We treat them as readiness work, not as a ranking signal.
 - question: Is readiness sold separately?
-  answer: No. It is part of the Fix Sprint, Care and Program, as our offer section on this page lists.
+  answer: Yes. The ChatGPT Business Hub Readiness Setup is sold on its own at $1,820 once. Readiness is also part of the Fix Sprint, Care and Program, as our offer section on this page lists.
 ---
 
 # How do you claim your business in ChatGPT?
@@ -115,7 +115,7 @@ Write down the questions buyers ask and the answers you approve, each with its s
 
 On 9 November 2026 we checked the 40 companies in our competitor review; 0 of them published a readiness program for this tool.
 
-Parts 1 to 4 are included in the [Fix Sprint](https://broadcastwell.com/fix-sprint) ($3,900 once). Parts 1 to 6 are included in Care ($490 a month) and Program ($5,500 a month), both described on our [pricing page](https://broadcastwell.com/pricing). Readiness is part of those offers rather than a separate purchase. We also offer the [ChatGPT Business Hub Readiness Setup](https://app.broadcastwell.com/offers/chatgpt-business-hub-readiness-setup) on its own at $1,820 once, for a business that wants to prepare without buying the Fix Sprint, Care or Program.
+Parts 1 to 4 are included in the [Fix Sprint](https://broadcastwell.com/fix-sprint) ($3,900 once). Parts 1 to 6 are included in Care ($490 a month) and Program ($5,500 a month), both described on our [pricing page](https://broadcastwell.com/pricing). We also offer the [ChatGPT Business Hub Readiness Setup](https://app.broadcastwell.com/offers/chatgpt-business-hub-readiness-setup) on its own at $1,820 once, for a business that wants to prepare without buying the Fix Sprint, Care or Program.
 
 <a id="clients"></a>
 Our current clients Vantaa Tax, Neurvalis and Valren Atelier are enrolled in this program; their readiness work is under way, and we claim each of them on the first day OpenAI opens the tool to them.
@@ -165,7 +165,7 @@ Neither is a published requirement. Both put your current facts in one dated pla
 
 ### Is readiness sold separately?
 
-No. It is part of the Fix Sprint, Care and Program, as our offer section on this page lists.
+Yes. The [ChatGPT Business Hub Readiness Setup](https://app.broadcastwell.com/offers/chatgpt-business-hub-readiness-setup) is sold on its own at $1,820 once. Readiness is also part of the Fix Sprint, Care and Program, as our offer section on this page lists.
 
 ## Related guides
 
