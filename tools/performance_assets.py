@@ -8,6 +8,7 @@ import posixpath
 import re
 from urllib.parse import urlsplit
 
+from mkdocs.utils import is_error_template
 from PIL import Image
 
 
@@ -27,6 +28,15 @@ def local_file(site, page, url):
 
 def relative_url(page, target):
     return posixpath.relpath(target.as_posix(), page.parent.as_posix())
+
+
+def page_url(config, site, page, target):
+    """The address a page uses for a file this hook writes: relative to the page, except on an error page.
+    GitHub Pages serves 404.html at any missing address, however deep, so the not-found page links what this hook
+    writes the way MkDocs links everything else in an error template, from the path of site_url (STEP 3.3 B134)."""
+    if is_error_template(page.relative_to(site).as_posix()):
+        return posixpath.join(urlsplit(config.get('site_url') or '/').path, target.relative_to(site).as_posix())
+    return relative_url(page, target)
 
 
 def on_post_build(config, **kwargs):
@@ -79,7 +89,7 @@ def on_post_build(config, **kwargs):
                 css_cache[sources] = output
                 stats['stylesheet_bundles'] += 1
             for index, (match, _) in reversed(list(enumerate(links))):
-                replacement = '<link rel="stylesheet" href="' + escape(relative_url(page, css_cache[sources]), quote=True) + '">' if index == 0 else ''
+                replacement = '<link rel="stylesheet" href="' + escape(page_url(config, site, page, css_cache[sources]), quote=True) + '">' if index == 0 else ''
                 text = text[:match.start()] + replacement + text[match.end():]
 
         article = re.search(r'(<article\b[^>]*>)(.*?)(</article>)', text, flags=re.S)
@@ -110,7 +120,7 @@ def on_post_build(config, **kwargs):
                     attrs['width'] = str(width)
                     attrs['height'] = str(height)
                     attrs['decoding'] = 'async'
-                    attrs['srcset'] = ', '.join(relative_url(page, output) + ' ' + str(size) + 'w' for size, output in image_cache[source])
+                    attrs['srcset'] = ', '.join(page_url(config, site, page, output) + ' ' + str(size) + 'w' for size, output in image_cache[source])
                     attrs['sizes'] = '(max-width: 720px) calc(100vw - 48px), 661px'
                     if count > 0 and 'loading' not in attrs:
                         attrs['loading'] = 'lazy'
