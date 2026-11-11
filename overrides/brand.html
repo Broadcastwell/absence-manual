@@ -128,11 +128,14 @@
     for whom, the ENTITY.md 12-word description word for word, and one primary action, the free check.
     The headline stays as written, so an answer page keeps the buyer's question (art round 3, rule 4).
     Research pages are left without it: a study body carries no promotional audit link
-    (tools/research_quality.py) and the research footer already names Broadcastwell. -#}
+    (tools/research_quality.py) and the research footer already names Broadcastwell.
+    Study 6 and Study 7 (STEP 3.3 B130) are studies served under /research/ whose sources are classed as
+    pages; their files are in the reviewed visibility scope, so they keep their class and bytes and the
+    template treats every page under /research/ as research for this block. -#}
 {% block content %}
 {%- set bw_lede = '<div class="bw-docs-lede"><p>Broadcastwell measures and fixes whether AI search engines name B2B software companies.</p><a class="bw-button bw-button--primary" href="https://audit.broadcastwell.com/">Run the free check</a></div>' -%}
 {%- set bw_body = super() | string -%}
-{%- if page and page.meta and page.meta.get("page_class") != "research" and "</h1>" in bw_body %}
+{%- if page and page.meta and page.meta.get("page_class") != "research" and not (page.url | string).startswith("research/") and "</h1>" in bw_body %}
 {{ bw_body | replace("</h1>", "</h1>\n" ~ bw_lede, 1) }}
 {%- else %}
 {{ bw_body }}
