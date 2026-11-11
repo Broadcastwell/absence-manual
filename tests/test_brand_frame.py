@@ -60,8 +60,8 @@ class BrandFrameTests(unittest.TestCase):
     def footer(html):
         return html[html.rindex('<footer class="bw-site-footer'):html.rindex("</footer>")]
 
-    def test_the_switch_is_one_boolean(self):
-        self.assertIsInstance(self.default, bool)
+    def test_the_switch_is_one_boolean_and_on_by_r147(self):
+        self.assertIs(self.default, True)
         self.assertEqual(len(re.findall(r"^\s*SHARED_NAV:", (ROOT / "mkdocs.yml").read_text(encoding="utf-8"), re.M)), 1)
 
     def test_one_search_control_in_each_state(self):
