@@ -120,15 +120,6 @@ Parts 1 to 4 are included in the [Fix Sprint](https://broadcastwell.com/fix-spri
 <a id="clients"></a>
 Our current clients Vantaa Tax, Neurvalis and Valren Atelier are enrolled in this program; their readiness work is under way, and we claim each of them on the first day OpenAI opens the tool to them.
 
-| Part (status as of 9 November 2026) | Vantaa Tax | Neurvalis | Valren Atelier |
-| --- | --- | --- | --- |
-| 1. Ownership verification readiness | Pending (needs a live domain) | Pending (needs a live domain) | Pending (needs a live domain) |
-| 2. Business information pack | Pending (needs the client's live site and facts) | Pending (needs the client's live site and facts) | Pending (needs the client's live site and facts) |
-| 3. Business-agent context pack | Prepared, 9 November 2026 | Prepared, 9 November 2026 | Prepared, 9 November 2026 |
-| 4. Mention and click baseline | Prepared, 9 November 2026 | Prepared, 9 November 2026 | Prepared, 9 November 2026 |
-| 5. Launch-day claim | Pending (starts when OpenAI opens the tool) | Pending (starts when OpenAI opens the tool) | Pending (starts when OpenAI opens the tool) |
-| 6. Reconciliation report | Pending (starts when OpenAI opens the tool) | Pending (starts when OpenAI opens the tool) | Pending (starts when OpenAI opens the tool) |
-
 ## Why measure prompts too
 
 As reported, the Hub counts impressions and clicks inside ChatGPT. It will not show which prompts produced them, who ChatGPT recommended instead of you, what other engines say, or why a count moved. That is the part our measurement covers. We ask fixed buyer questions on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, record who is named instead of you, keep the receipt for every answer and publish our [method](https://broadcastwell.com/methodology).

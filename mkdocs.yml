@@ -36,6 +36,10 @@ extra:
   manual_build_date: "2026-11-05"
   social: []
   generator: false
+  # The shared navigation and footer switch (brief 11.1 step 9). false: today's links in the brand
+  # markup; true: brand/nav.json. overrides/brand.html reads it; tests/test_brand_frame.py renders both.
+  # On by the lead's ruling R-147 (11 November 2026).
+  SHARED_NAV: true
 
 extra_css:
   - assets/manual.css

@@ -129,3 +129,6 @@ test('detached previously focused menu is not consulted after a dynamic view rep
  ui.init();ui.resize(1440);assert.equal(ui.document.activeElement,ui.document.body);
  assert.equal(ui.listenerCounts.focusin,1);
 });
+
+// The brand frame's tests (brief 11.1 step 5) run with this file, which verify.yml already runs.
+import './brand-chrome.test.mjs';
