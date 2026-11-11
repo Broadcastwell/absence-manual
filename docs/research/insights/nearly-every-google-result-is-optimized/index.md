@@ -7,13 +7,13 @@ research_id: 2
 research_group: insight
 lead: Priya Nair
 published: '2026-11-02T20:27:14Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/nearly-every-google-result-is-optimized/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-11-02T20:27:14Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://searchstudies.org/wp-content/uploads/2021/08/3447535.3462479.pdf
 ---
 
@@ -57,7 +57,7 @@ In other words, the class name abbreviates a declared rule. It should not be exp
 
 ## What are the target-page results?
 
-![Target page-signal classes with the successful HTML denominator retained](../../../assets/figures/study1-class-shares.svg)
+![Target page-signal classes with the successful HTML denominator retained](../../../assets/figures/study1-class-shares.svg){ width="1000" height="410" }
 
 | Registered class | Count / successful HTML base | Share (Wilson 95% interval) |
 | --- | --- | --- |
@@ -129,7 +129,7 @@ Publication correction, November 2, 2026: October 30 was the draft date; this pa
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

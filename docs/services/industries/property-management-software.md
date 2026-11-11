@@ -5,7 +5,7 @@ description: 'Our offers for property management software: 22 checked vendors, 1
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 In property management software, Buildium and AppFolio were the names the engines gave most often in September 2026: 119 and 95 of 148 valid answers captured on 22 September 2026, among 22 checked property management vendors. That record is where our offers begin; the work then measures, repairs and re-checks your own property management questions.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Your property management results come engine by engine from ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. An engine decides its own answer; our part is the evidence and the page or source repair.
 
@@ -31,7 +31,7 @@ Your property management results come engine by engine from ChatGPT, Claude, Per
 | Property management vendors never named | 3 of 22 |
 | Property management answers with no cited entry | 3 of 148, 2.0% (0.7% to 5.8%) |
 
-Among the 1,397 property management citations, vendor sites came first at 49.0% (46.3% to 51.6%), then review platforms at 10.2% and directories and listicles at 3.7%; the "other" class, hosts we could not place in one role, held 26.6%.
+Among the 1,397 [property management citations](../../answers/industries/which-sources-does-ai-cite-for-property-management-software.md) captured on 22 September 2026, vendor sites came first at 49.0% (46.3% to 51.6%), then review platforms at 10.2% and directories and listicles at 3.7%. The "other" class, hosts we could not place in one role, held 26.6%.
 
 Absences are covered on [property management software missing from AI answers](../../answers/industries/why-is-my-property-management-software-missing-from-ai-answers.md), cited hosts on [which sources AI answers cite for property management software](../../answers/industries/which-sources-does-ai-cite-for-property-management-software.md), and one vendor's dated answers on the [Buildium record](https://index.broadcastwell.com/vendors/buildium/residential-property-management/).
 

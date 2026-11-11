@@ -65,9 +65,10 @@ class AccountAnalysesPageTests(unittest.TestCase):
         self.assertTrue(150 <= len(meta["description"]) <= 160, len(meta["description"]))
         self.assertEqual((meta["page_class"], meta["schema_type"], meta["template"]), ("page", "Article", "business-hub.html"))
         self.assertEqual(meta["date_published"], "2026-11-09T00:00:00+00:00")
-        self.assertEqual(meta["date_modified"], "2026-11-09T00:00:00+00:00")
+        # STEP 3.3 B117 changed some of these pages; their modified date is that change.
+        self.assertIn(meta["date_modified"], ("2026-11-09T00:00:00+00:00", "2026-11-11T07:30:00Z"))
         self.assertEqual(re.findall(r"(?m)^# (.+)$", body), [meta["title"]])
-        self.assertIn("\nUpdated 9 November 2026.\n", body)
+        self.assertIn("\nUpdated 11 November 2026.\n", body)  # STEP 3.3 B117 changed the page
         self.assertIn("## Sources", body)
         self.assertNotIn("```", body)
         self.assertNotIn("<title", body)

@@ -1,6 +1,6 @@
 # Category Audit: executive delivery template
 
-**Classification:** Template only; incomplete fields block client delivery. **Version:** bw-content-2026-09-24-v1.
+**Classification:** Template only; a blank field blocks client delivery. **Version:** bw-content-2026-09-24-v1.
 
 ## Executive decision
 

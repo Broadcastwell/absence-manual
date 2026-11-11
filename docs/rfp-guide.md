@@ -5,7 +5,7 @@ description: Our AI search visibility RFP guide lists 14 questions to put to any
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 An AI search visibility RFP should ask each vendor how it measures, what it delivers by when, what it refunds, and what it will not promise, and it should accept only answers you can check. Below are 14 questions for any agency or tool, each with what a checkable answer looks like. Under each one we link our own published answer, so you can test us first.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 A checkable answer names a number with its base and date, a deliverable with its clock, or a term you can read before you pay. An answer you cannot check is a claim, however confident it sounds. These questions do not rank vendors; they help you compare written answers side by side.
 
@@ -53,7 +53,7 @@ A checkable answer names a number with its base and date, a deliverable with its
 
 **Checkable answer:** a receipt per answer with the engine, the date, the full text and the cited URLs, delivered with the report rather than on request.
 
-**Our answer:** the [fictional Kalvenor sample](https://app.broadcastwell.com/sample/findings) shows every answer and receipt in the format a client receives.
+**Our answer:** the [fictional Kalvenor sample](https://app.broadcastwell.com/sample/findings) (Sample data, fictional company) shows every answer and receipt in the format a client receives.
 
 ### 7. Do you combine measures into a single score?
 

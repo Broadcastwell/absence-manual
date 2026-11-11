@@ -11402,15 +11402,15 @@
     },
     "answers/agents/can-transportation-software-integrate-with-chatgpt.md": {
       "bank_id": "LB-Q0438",
-      "source_sha256": "7da66b0032774d3896d4e0c22488f59062eaaaa45fc0ebf352e46832f966022f",
-      "canonical_source_sha256": "7da66b0032774d3896d4e0c22488f59062eaaaa45fc0ebf352e46832f966022f",
-      "opening_sha256": "fc798fc35c5115c01b7c791a3e16449ea6957e01b79d568939e59ca0b42eb7f8",
+      "source_sha256": "4e70eaa3ad36b9e98cb8943da1e0557b85a468fd619f6ad360ee9fc9f6379745",
+      "canonical_source_sha256": "4e70eaa3ad36b9e98cb8943da1e0557b85a468fd619f6ad360ee9fc9f6379745",
+      "opening_sha256": "985cd77e141be1b73f79fabcf372f502fd2ca65e3d1b30e4da9c85195c0716bb",
       "lead_figures": [
         "figure:25bf47569357bbd13c78d0fc9edc82b9324e6a83b786e4040548dce84d400904"
       ],
       "lead_figure_spans": {
         "figure:25bf47569357bbd13c78d0fc9edc82b9324e6a83b786e4040548dce84d400904": [
-          "Finding a freight-software website does not prove a ChatGPT connection. Alvys separately reports beta MCP access for ChatGPT; our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 11 of 15 initial transportation-software website tasks on 6 October 2026, measuring the public path rather than that account route."
+          "Finding a freight-software website does not prove a ChatGPT connection. Alvys separately reports MCP access for ChatGPT; our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 11 of 15 initial transportation-software website tasks on 6 October 2026, measuring the public path rather than that account route."
         ]
       },
       "source_review_sha256": "5c0ef5697ab463e11a452e65a9a3d8319677ebf7caeb25d79f04d9e5a9afae5e",

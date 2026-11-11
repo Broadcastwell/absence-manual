@@ -9,7 +9,7 @@ description: Asked the identical question three times, Google AI Overviews agree
 page_class: chapter
 schema_type: TechArticle
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 image: figures/within-vs-between.png
 is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
@@ -24,7 +24,7 @@ is_based_on: https://doi.org/10.5281/zenodo.21789120
 
 ## These systems are not deterministic
 
-**Reasoned.** Ask the same engine the same question twice and the shortlist moves. This is not a defect, it is how the products work: retrieval is live, ranking is probabilistic, and the answer is generated rather than looked up. The consequence for measurement is severe and mostly unstated. Any measured difference between two engines therefore contains an unknown amount of the same variation you would get by asking one engine twice. Unless the noise floor is measured on the same questions in the same window, a divergence headline is not a finding about engines. It is a number with an unstated denominator.
+**Reasoned.** Ask the same engine the same question twice and the shortlist moves. That movement is how the products work: retrieval is live, ranking is probabilistic, and the answer is generated rather than looked up. The consequence for measurement is severe and mostly unstated. Any measured difference between two engines therefore contains an unknown amount of the same variation you would get by asking one engine twice. Unless the noise floor is measured on the same questions in the same window, a divergence headline is not a finding about engines. It is a number with an unstated denominator.
 
 ## What was measured
 
@@ -32,7 +32,7 @@ is_based_on: https://doi.org/10.5281/zenodo.21789120
 
 ## The repeat subsample is the whole design
 
-**Measured, Volume III.** A stratified subsample of 25 questions, spread across the 40 categories and balanced across question shapes, was run three times on all four engines. **Reasoned.** That subsample is what makes the rest of the study readable. Between-engine agreement is compared against within-engine agreement on exactly those questions, on the same scale, from the same window, measured by the same instrument. Without it there is no way to tell a real engine difference from ordinary nondeterminism, and every cross-engine comparison published without one has that problem whether or not it says so.
+**Measured, Volume III.** A stratified subsample of 25 questions, spread across the 40 categories and balanced across question shapes, was run three times on all four engines on 4 August 2026. **Reasoned.** That subsample is what makes the rest of the study readable. Between-engine agreement is compared against within-engine agreement on exactly those questions, on the same scale, from the same window, measured by the same instrument. Without it there is no way to tell a real engine difference from ordinary nondeterminism, and every cross-engine comparison published without one has that problem whether or not it says so.
 
 ## What went wrong during collection, stated plainly
 

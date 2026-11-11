@@ -5,7 +5,7 @@ description: 'Reported on 6 November 2026 and unreleased on 8 November 2026: wha
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 faq:
 - question: Can you claim your business in ChatGPT today?
@@ -26,7 +26,7 @@ faq:
 
 You cannot claim your business in ChatGPT yet. The ChatGPT Business Hub was reported on 6 November 2026 and was still unreleased when we checked on 8 November 2026, with no OpenAI launch page and no verification method. The reports compare it to a ChatGPT Search Console or ChatGPT webmaster tools: a place where a verified business sees how often it appears in answers and keeps its information current. You can prepare for it now.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 ## What was reported on 6 November 2026
 
@@ -126,7 +126,7 @@ As reported, the Hub counts impressions and clicks inside ChatGPT. It will not s
 
 The trade-off runs both ways. Our panel samples the questions agreed with you, while the Hub, as reported, counts appearances across ChatGPT conversations. Neither replaces the other, so our [reconciliation report](reconciliation-report.md) puts the two records side by side and explains each difference.
 
-The business agent in the report is close to the vendor-controlled answer connectors we have published since October 2026: the [fictional Kalvenor connector](https://app.broadcastwell.com/mcp/vendor/kalvenor) and the [Vendor Facts File standard](https://app.broadcastwell.com/standard/vendor-facts) it answers from.
+The business agent in the report is close to the vendor-controlled answer connectors we have published since October 2026: the [fictional Kalvenor connector](https://app.broadcastwell.com/mcp/vendor/kalvenor) (Sample data, fictional company) and the [Vendor Facts File standard](https://app.broadcastwell.com/standard/vendor-facts) it answers from.
 
 ## Check your site for free
 

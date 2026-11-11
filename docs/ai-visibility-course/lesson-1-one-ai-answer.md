@@ -5,7 +5,7 @@ description: Lesson 1 of our free AI visibility course shows what a single AI an
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 The first lesson of our AI visibility course: one AI answer records three separate events on one engine at one moment. It shows whether your company was named, which sources were cited, and who was named beside you or instead of you. It does not show whether a buyer saw it, whether it will repeat, or why the engine chose as it did.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Reading time: about 4 minutes. Lesson 1 of 5 in [the course](index.md).
 
@@ -44,7 +44,7 @@ Our guide on [reading an AI answer without overreading it](../resources/guides/r
 
 ## Exercise
 
-Use the fictional Kalvenor sample, a made-up field service software company we publish to show the format. In its fictional baseline, Kalvenor was named in 125 of 518 scored answers, its own pages were cited in 66 of 518, and its most named rival, Northvale FSM, appeared in 329 of 518.
+Use the fictional Kalvenor sample (Sample data, fictional company), a made-up field service software company we publish to show the format. In its fictional baseline, Kalvenor was named in 125 of 518 scored answers, its own pages were cited in 66 of 518, and its most named rival, Northvale FSM, appeared in 329 of 518.
 
 Write three sentences, one per event, in this form: "In the fictional Kalvenor baseline, [event] happened in [count] of [base] answers." Then write one sentence on what the rival's count tells you that Kalvenor's own count does not. Keep the word "fictional" in each sentence; a figure that loses its label is how sample data turns into a false claim.
 

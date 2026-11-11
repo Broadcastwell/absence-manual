@@ -8,7 +8,7 @@ description: A short, plain-language account of how AI answers pick which vendor
 page_class: page
 schema_type: Article
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-28T17:40:48+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://github.com/Broadcastwell/state-of-geo-2026
 ---
 
@@ -44,7 +44,7 @@ If an agency or a tool has already given you an AI visibility score, three thing
 
 **It probably covers one AI product, not all of them.** These systems disagree with each other much more than people expect. Of 32 companies we tested on more than one engine, 14 were visible on some and invisible on others. Almost half would get a different verdict depending on which one happened to be measured. A single number labelled "AI search" is usually a number about one product.
 
-**It was probably measured once.** Ask the same AI product the identical question twice, minutes apart, and it agrees with only about half of its own previous list. That is not a fault, it is how these systems work. But it means a single measurement is one draw from a range, and the difference between your score in March and your score in June can easily be the tool rather than your company.
+**It was probably measured once.** Ask the same AI product the identical question twice, minutes apart, and it agrees with only about half of its own previous list. That variation is how these systems work. But it means a single measurement is one draw from a range, and the difference between your score in March and your score in June can easily be the tool rather than your company.
 
 **On some questions there was no answer at all.** Google does not generate an AI overview for every question. When it does not, there is nothing to appear in. If those questions were quietly dropped from the calculation, the percentage you were shown is bigger than it should be.
 

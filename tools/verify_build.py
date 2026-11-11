@@ -363,6 +363,7 @@ def brand_shell_checks(rel, cls, html):
     if 'assets/brand/docs.css" media="all">' not in html or 'assets/brand/nav.js" defer>' not in html:
         fail("%s does not load the brand stylesheet and navigation script" % rel)
     foot = html[html.rfind('<footer class="bw-site-footer'):html.rfind("</footer>")]
+    entity_checks(rel, html, foot)
     if "Copyright 2026 Broadcastwell LLC." not in foot:
         fail("%s footer is missing the bottom bar" % rel)
     for slug in ("privacy", "terms", "cookies"):
@@ -390,6 +391,47 @@ def brand_shell_checks(rel, cls, html):
         fail("%s footer does not keep its own disclosure note above the link columns" % rel)
     if SHARED_NAV and "Last updated" in foot:
         fail("%s shared footer carries a last-updated line" % rel)
+
+
+# Brief 13.4 and 13.5 (STEP 3.3 B117): one Organization, the ENTITY.md texts word for word, referred to by
+# @id everywhere else on the page; brand 3.0.2 adds Procurement to the footer legal row.
+from team_record import ORGANIZATION_REF, expected_author
+
+ENTITY_ORG = {
+    "@id": "https://broadcastwell.com/#organization", "name": "Broadcastwell", "legalName": "Broadcastwell LLC",
+    "url": "https://broadcastwell.com/", "telephone": "+18123457272",
+    "description": "Broadcastwell asks ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode your buyers' questions, records who they name, and fixes the pages they read.",
+    "sameAs": ["https://www.linkedin.com/company/broadcastwell", "https://x.com/broadcastwellhq",
+               "https://www.youtube.com/@Broadcastwell", "https://www.instagram.com/broadcastwell/",
+               "https://www.tiktok.com/@broadcastwell.com", "https://broadcastwell.substack.com/"],
+}
+
+
+def entity_checks(rel, html, foot):
+    import json as _json
+    orgs = []
+    def walk(node):
+        if isinstance(node, dict):
+            if node.get("@type") == "Organization" and set(node) - {"@type", "@id", "name"}:
+                orgs.append(node)
+            elif node.get("@type") == "Organization" and node != ORGANIZATION_REF:
+                fail("%s refers to the Organization other than by its one reference" % rel)
+            for value in node.values():
+                walk(value)
+        elif isinstance(node, list):
+            for value in node:
+                walk(value)
+    for block in re.findall(r'<script type="application/ld\+json">(.*?)</script>', html, re.S):
+        walk(_json.loads(block))
+    org = orgs[0] if len(orgs) == 1 else {}
+    if (not org or any(org.get(k) != v for k, v in ENTITY_ORG.items()) or not org.get("logo")
+            or (org.get("founder") or {}).get("name") != "Sairam Sivakumar"
+            or (org.get("address") or {}).get("streetAddress") != "517 E Kirkwood Ave"):
+        fail("%s must carry the one ENTITY.md Organization block, referred to by @id elsewhere" % rel)
+    if "docs.broadcastwell.com/#organization" in html or "AI search visibility measurement for B2B software." in html:
+        fail("%s still carries the docs-only Organization" % rel)
+    if 'href="https://broadcastwell.com/procurement">Procurement<' not in foot:
+        fail("%s footer legal row is missing Procurement (brand 3.0.2)" % rel)
 
 
 # ---------- per page checks ----------
@@ -526,8 +568,15 @@ for rel, cls in sorted(manifest.items()):
         types.append(parsed.get("@type"))
         if rel.startswith("answers/") and not rel.endswith("/index.md") and parsed.get("@type") == "Article":
             meta = front_matter((DOCS / rel).read_text(encoding="utf8"))
-            if parsed.get("author", {}).get("@type") != "Organization":
-                fail("%s must name the Organization as Article author" % rel)
+            # Brief 13.4 (STEP 3.3 B117): on a brand page the author is the byline person from the team
+            # record (tools/team_record.py), or the one Organization by reference; the 45 registered pages
+            # keep their reviewed Organization author.
+            if rel in REGISTERED_PAGES:
+                if parsed.get("author", {}).get("@type") != "Organization":
+                    fail("%s must name the Organization as Article author" % rel)
+            elif parsed.get("author") != expected_author(meta) or parsed.get("publisher") != ORGANIZATION_REF:
+                fail("%s Article author must be %s and its publisher the Organization reference"
+                     % (rel, expected_author(meta).get("name")))
             if parsed.get("mainEntityOfPage", {}).get("@id") != expected_canonical(rel):
                 fail("%s Article mainEntityOfPage must match its canonical" % rel)
             if parsed.get("isBasedOn") != meta.get("is_based_on"):
@@ -579,7 +628,8 @@ else:
         "Answer Repair buy route: https://broadcastwell.com/answer-repair",
         "Agency Audit buy route: https://broadcastwell.com/answer-repair",
         "ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode",
-        "$19 once, credited in full against Answer Repair within 30 days of payment for the same account, so the repair then costs $471.",
+        # R-150 (11 November 2026): the credit without a derived figure; docs pages never show $471.
+        "$19 once, credited in full against the $490 Answer Repair within 30 days for the same account.",
         "If we do not deliver within 24 hours of payment, we refund the $19 in full.",
     ):
         if required not in body:
@@ -631,6 +681,12 @@ for served in sorted(SITE.rglob("*")):
         fail("%s breaks the current relaunch rules: ...%s..." % (rel, hit))
 if ruling_files == 0:
     fail("the ruling scan read no served files")
+
+# R-150 (11 November 2026): no docs page, download or llms.txt shows the derived $471.
+for served in sorted(SITE.rglob("*")):
+    if served.is_file() and served.suffix.lower() in (".html", ".txt", ".json", ".xml", ".csv", ".md"):
+        if "$471" in served.read_text(encoding="utf8", errors="replace"):
+            fail("%s shows the derived $471 (R-150)" % served.relative_to(SITE).as_posix())
 
 
 # Agent Ready is separate from the engine measurement method and published research.

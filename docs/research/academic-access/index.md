@@ -6,13 +6,13 @@ research_id: 52
 research_group: evidence
 lead: Vikram Patel
 published: '2026-11-02T21:56:24Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/academic-access/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T21:56:24Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 ---
 
@@ -71,7 +71,7 @@ The [November 3, 2026 interpretation notice](../data/report-interpretation-notic
 
 ## Additional academic requests
 
-For academic data access or a Claim Registry correction, email research@broadcastwell.com. Additional requests may concern an export not in the public package, a category cut or a question list. Our service standard is a response within five business days once a request reaches our research contact. Attribution is the condition; no fee, form or exclusivity is required. We do not promise that an unavailable historical record can be reconstructed. This page currently provides direct access to the public packages.
+For academic data access or a Claim Registry correction, email index@broadcastwell.com. Additional requests may concern an export not in the public package, a category cut or a question list. Our service standard is a response within five business days once a request reaches our research contact. Attribution is the condition; no fee, form or exclusivity is required. We do not promise that an unavailable historical record can be reconstructed. This page currently provides direct access to the public packages.
 
 ## Related records
 
@@ -88,7 +88,7 @@ Read the [research hub](../), [Claim Registry](../claims/), [citation study](../
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

@@ -8,7 +8,7 @@ description: The three source volumes with their version DOIs, the external work
 page_class: appendix
 schema_type: TechArticle
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://github.com/Broadcastwell/state-of-geo-2026
 ---
 
@@ -62,7 +62,7 @@ Zatuchin, D. (2026). Who Owns the AI Recommendation? arXiv:2606.23057. Dataset r
 
 ## Open flags
 
-**Reasoned.** `FLAGS.md` at the root of this manual's repository records six open items where a published source is incomplete or two published sources disagree. They are disclosures rather than defects. Where a chapter touches one, it quotes the source as published, asserts no relation between conflicting figures, and does not attempt reconciliation. The current items concern Volume III's answer counts, Volume I's answer and question counts, a duration statement in Volume III, the location of the unique-domain figure, the date on the published self-audit, and the run structure of the August re-measure.
+**Reasoned.** `FLAGS.md` at the root of this manual's repository records six open items where a published source is missing a figure or two published sources disagree. They are disclosures rather than defects. Where a chapter touches one, it quotes the source as published, asserts no relation between conflicting figures, and does not attempt reconciliation. The current items concern Volume III's answer counts, Volume I's answer and question counts, a duration statement in Volume III, the location of the unique-domain figure, the date on the published self-audit, and the run structure of the August re-measure.
 
 ## Dated research provenance
 

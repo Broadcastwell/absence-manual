@@ -9,7 +9,7 @@ description: Google returned an AI Overview for 92.1% of 280 B2B buyer questions
 page_class: chapter
 schema_type: TechArticle
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 image: figures/answer-rate.png
 is_based_on: https://doi.org/10.5281/zenodo.21789120
 faq:
@@ -81,7 +81,7 @@ Source: [Google AI features guidance](https://developers.google.com/search/docs/
 
 ## Trigger rate compounds with slot scarcity
 
-**Measured, Volume III.** Google AI Overviews returned an answer on 258 of 280 questions and named a mean of 4.77 vendors when it did, the smallest set of the four engines. **Reasoned.** Two structural constraints therefore stack on the same surface: on 22 questions there was no answer to be in, and on the rest there were fewer places in it than any other engine offered. Neither constraint is about the vendor. Both reduce the number of opportunities before merit is considered, and a score that reports only the outcome attributes the whole of that reduction to the vendor's performance.
+**Measured, Volume III.** Google AI Overviews returned an answer on 258 of 280 questions and named a mean of 4.77 vendors when it did, the smallest set of the four engines in the 4 August 2026 collection. **Reasoned.** Two structural constraints therefore stack on the same surface: on 22 questions there was no answer to be in, and on the rest there were fewer places in it than any other engine offered. Neither constraint is about the vendor. Both reduce the number of opportunities before merit is considered, and a score that reports only the outcome attributes the whole of that reduction to the vendor's performance.
 
 ## What this does to a trend line
 
@@ -121,7 +121,7 @@ Source: [Google AI features guidance](https://developers.google.com/search/docs/
 
 ## Where to go next
 
-**Reasoned.** Chapter 8 at [/valid-measurement/](https://docs.broadcastwell.com/valid-measurement/) turns the denominator requirement into one criterion among several that a measurement has to meet. Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/) covers the other reason a single figure moves without the vendor changing. Appendix A at [/question-bank/](https://docs.broadcastwell.com/question-bank/) sets out the question shapes whose mix determines the trigger rate in the first place.
+**Reasoned.** Chapter 8 at [/valid-measurement/](https://docs.broadcastwell.com/valid-measurement/) turns the denominator requirement into one criterion among several that a measurement has to meet. Chapter 6 at [/measurement-noise/](https://docs.broadcastwell.com/measurement-noise/) covers the other reason a single figure moves without the vendor changing. Appendix A at [/question-bank/](https://docs.broadcastwell.com/question-bank/) sets out the question shapes whose mix determines the trigger rate.
 
 ## Sources
 

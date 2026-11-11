@@ -9,9 +9,9 @@ hide:
 - navigation
 - toc
 date_published: '2026-09-24T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 faq:
-- question: How can I tell whether an AI citation supports the claim beside it?
+- question: How can you tell whether an AI citation supports the claim beside it?
   answer: Open the cited page and locate the passage that supports the exact claim.
     Compare the subject, observation date, population, numbers and conclusion. A working
     link can be relevant to the topic without supporting the specific statement. If
@@ -23,7 +23,7 @@ faq:
 # Read an AI answer without overreading it
 
 <div class="bw-learning">
-<nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><article><p class="eyebrow">Evidence / BW-RESOURCE-01</p><figure><img class="visual" src="/assets/learning/visuals/read-an-answer.svg" alt="A receipt preserves the exact question and surface. Review separates the answer, mention and returned links from interpretation. A supported finding can justify an investigation; it does not establish lost sales."><figcaption>A receipt preserves the exact question and surface. Review separates the answer, mention and returned links from interpretation. A supported finding can justify an investigation; it does not establish lost sales.</figcaption></figure>
+<nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><article><p class="eyebrow">Evidence / BW-RESOURCE-01</p><figure><img width="800" height="450" class="visual" src="/assets/learning/visuals/read-an-answer.svg" alt="A receipt preserves the exact question and surface. Review separates the answer, mention and returned links from interpretation. A supported finding can justify an investigation; it does not establish lost sales."><figcaption>A receipt preserves the exact question and surface. Review separates the answer, mention and returned links from interpretation. A supported finding can justify an investigation; it does not establish lost sales.</figcaption></figure>
 <p><strong>Version:</strong> bw-content-2026-09-24-v1 | <strong>Claim ID:</strong> BW-RESOURCE-01 | <strong>Prepared:</strong> 2026-09-24</p>
 <p><strong>Decision:</strong> Decide what one answer supports before recommending work.</p>
 <p>Original Broadcastwell proposed operating method. Synthetic examples illustrate the method; they are not observed client outcomes.</p>
@@ -47,7 +47,7 @@ faq:
 </div>
 
 
-## How can I tell whether an AI citation supports the claim beside it?
+## How can you tell whether an AI citation supports the claim beside it? {#how-can-i-tell-whether-an-ai-citation-supports-the-claim-beside-it}
 
 Open the cited page and locate the passage that supports the exact claim. Compare the subject, observation date, population, numbers and conclusion. A working link can be relevant to the topic without supporting the specific statement. If the source is inaccessible or the passage does not establish the claim, mark support as unverified. Keep a source's own commercial assertion separate from independent evidence.
 

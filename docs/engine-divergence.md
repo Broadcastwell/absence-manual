@@ -9,7 +9,7 @@ description: Across 280 buyer questions put to four AI search engines, mean pair
 page_class: chapter
 schema_type: TechArticle
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 image: figures/jaccard-matrix.png
 is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
@@ -75,7 +75,7 @@ By the end of this chapter you will know how much two AI search engines agree ab
 
 ## The tie back to the single-engine baseline
 
-**Measured, Volume III.** Against the Volume I single-engine baseline, the correlation across 32 companies was Pearson r = 0.70, joined at category level because Volume I published company-level results anonymised. Volume III states that a category-level join is weaker than a per-company join. **Reasoned.** A correlation of 0.70 means the single-engine baseline carried real signal about multi-engine visibility and was far from a complete description of it. Substantial but incomplete is consistent with the 14 of 32 result rather than in tension with it.
+**Measured, Volume III.** Against the Volume I single-engine baseline, the correlation across 32 companies was Pearson r = 0.70, joined at category level because Volume I published company-level results anonymised. Volume III states that a category-level join is weaker than a per-company join. **Reasoned.** A correlation of 0.70 means the single-engine baseline carried real signal about multi-engine visibility and was far from a complete description of it. Substantial but partial agreement is consistent with the 14 of 32 result rather than in tension with it.
 
 ## Citation behaviour differs at least as much as naming
 
@@ -104,7 +104,7 @@ By the end of this chapter you will know how much two AI search engines agree ab
 
 ## What this chapter does not claim
 
-**Reasoned.** It does not claim any engine is better, more accurate or more commercially valuable than another. It does not claim the four engines have equal buyer share, because nothing here observes buyers. It does not claim the divergence figures would replicate on a different question set or in a different month. And it does not claim that measuring four engines is always necessary, only that a claim about AI search made from one engine is a claim the evidence does not support.
+**Reasoned.** It does not claim any engine is better, more accurate or more commercially valuable than another. It does not claim the four engines of the 4 August 2026 collection have equal buyer share, because nothing here observes buyers. It does not claim the divergence figures would replicate on a different question set or in a different month. And it does not claim that measuring every engine is always necessary, only that a claim about AI search made from one engine is a claim the evidence does not support.
 
 ## What this means for your buying decision
 

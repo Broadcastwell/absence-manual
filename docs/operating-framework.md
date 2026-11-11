@@ -5,7 +5,7 @@ description: Our operating framework runs each engagement in four stages, questi
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 The Broadcastwell operating framework runs every engagement in four stages: we fix the buyer question, measure what five engines answer, repair the page or source behind the answer, and check again on the same questions. Each stage has a published clock and a published refund term, quoted below exactly as our pricing, offer and method pages state them on 9 November 2026.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 The engines are ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. The framework describes how the work runs. Which offer you buy decides how much of each stage you get; our [service model](service-model.md) maps the offers to their workstreams.
 
@@ -81,7 +81,7 @@ At day 30, "A Sprint closes with six pages and the agreed day-30 measurement: pa
 >
 > "Care and Program are monthly purchases agreed in writing before payment, with no automatic enrollment."
 
-The pricing page also states: "$19 once, credited in full against Answer Repair within 30 days of payment for the same account, so the repair then costs $471." Terms are dated 26 October 2026, and "Orders placed before 26 October 2026 keep the terms shown at purchase."
+The pricing page also states that the $19 live question is credited in full against the $490 Answer Repair within 30 days for the same account. Terms are dated 26 October 2026, and "Orders placed before 26 October 2026 keep the terms shown at purchase."
 
 ## What the framework does not promise
 

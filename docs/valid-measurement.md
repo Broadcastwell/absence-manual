@@ -9,7 +9,7 @@ description: 'Six requirements a visibility measurement has to meet before its n
 page_class: chapter
 schema_type: TechArticle
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
 
@@ -37,11 +37,11 @@ By the end of this chapter you will have a list of requirements you can hold any
 
 ## Why listing the seven gaps is the point
 
-**Reasoned.** A study that declares 33 of 40 rather than reporting full coverage is telling you where its own instrument is incomplete. That disclosure costs nothing to make and is almost never made, which is why its presence is a useful signal about everything else in the report. When a supplier says their coverage is complete, ask which categories were short and what they did about it. Silence there usually means padding rather than perfection.
+**Reasoned.** A study that declares 33 of 40 rather than reporting full coverage is telling you that its own instrument fell short in 7 of 40 categories. That disclosure costs nothing to make and is almost never made, which is why its presence is a useful signal about everything else in the report. When a supplier says their coverage is complete, ask which categories were short and what they did about it. Silence there usually means padding rather than perfection.
 
 ## Requirement four: every question is run more than once
 
-**Measured, Volume III.** A stratified subsample of 25 questions, balanced across shapes, was run three times on all four engines, and an engine needed at least 12 repeat pairs before a verdict was asserted for it. **Measured, Volume III.** Within-engine agreement came out at 0.499 for Google AI Overviews over 62 repeat pairs and 0.442 for Claude over 74. **Reasoned.** Engines agree with roughly half of their own previous shortlist on a repeated identical question. One run therefore samples a distribution and reports a point, and the point is presented as though it were the distribution.
+**Measured, Volume III.** A stratified subsample of 25 questions, balanced across shapes, was run three times on all four engines on 4 August 2026, and an engine needed at least 12 repeat pairs before a verdict was asserted for it. **Measured, Volume III.** Within-engine agreement came out at 0.499 for Google AI Overviews over 62 repeat pairs and 0.442 for Claude over 74. **Reasoned.** Engines agree with roughly half of their own previous shortlist on a repeated identical question. One run therefore samples a distribution and reports a point, and the point is presented as though it were the distribution.
 
 ## How many repeats is enough
 

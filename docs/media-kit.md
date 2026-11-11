@@ -5,7 +5,7 @@ description: The Broadcastwell media kit gives company facts, approved short and
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 The Broadcastwell media kit holds what a journalist, analyst or partner needs to describe us accurately: our company facts, the approved short and long descriptions, links to our logo files and the names and roles of our team. Everything here is current as of 9 November 2026. For anything else, write to [hello@broadcastwell.com](mailto:hello@broadcastwell.com).
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Please quote the descriptions as written. If you shorten one, keep the five engines named in full and keep each price beside its unit.
 
@@ -23,7 +23,7 @@ Please quote the descriptions as written. If you shorten one, keep the five engi
 | --- | --- |
 | Legal name | Broadcastwell LLC |
 | Address | 517 E Kirkwood Ave, Bloomington, IN 47408, United States |
-| Phone | 812-345-7272 |
+| Phone | (812) 345 7272 |
 | General and press email | [hello@broadcastwell.com](mailto:hello@broadcastwell.com) |
 | Partnerships email | [partners@broadcastwell.com](mailto:partners@broadcastwell.com) |
 | Absence Index email | [index@broadcastwell.com](mailto:index@broadcastwell.com) |
@@ -38,7 +38,7 @@ Broadcastwell is a team of consultants and engineers. Sairam Sivakumar, Founder,
 
 ## Approved descriptions
 
-These are the descriptions we use on review and directory profiles, dated 9 November 2026.
+These are the descriptions we use on review and directory profiles, dated 10 November 2026.
 
 **Tagline, under 60 characters**
 
@@ -46,11 +46,11 @@ These are the descriptions we use on review and directory profiles, dated 9 Nove
 
 **Short description, under 260 characters**
 
-> Broadcastwell measures what ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode tell buyers about your category, keeps a receipt for every answer, and builds the source-backed pages that change it.
+> Broadcastwell asks ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode your buyers' questions, records who they name, and fixes the pages they read.
 
 **Long description**
 
-> Broadcastwell measures what ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode tell buyers about your category, then builds and maintains the answers on your own site. Every count comes with its base, its date and a receipt for each answer, and our method is published.
+> Broadcastwell is an AI search visibility firm for B2B software companies and their agencies. We ask ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode the questions your buyers ask, keep every answer as a dated receipt, fix the pages and outside sources the engines read, and measure again.
 >
 > Where to start:
 >
@@ -109,6 +109,6 @@ Each study and dataset has its own DOI, and [The Absence Manual](index.md) expla
 
 ## Sources
 
-- Broadcastwell company profile, canonical text for review platforms, 9 November 2026 (approved descriptions above, quoted as written).
+- Broadcastwell company description, version 1, 10 November 2026, and the company profile for review platforms, 9 November 2026 (approved descriptions above, quoted as written).
 - Logo files as served on broadcastwell.com, checked 9 November 2026.
 - Team names and roles as approved for publication on 9 November 2026.

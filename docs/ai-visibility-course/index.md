@@ -5,7 +5,7 @@ description: Our free AI visibility course has five short lessons, one a day, on
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,9 +13,9 @@ template: business-hub.html
 
 Our free AI visibility course teaches you to read what AI answers say about a company as evidence: what one answer records, why questions are repeated, what base sits behind a rate, which sources engines cite and how to tell whether a page change helped. It is five short lessons on these pages, sized to read one a day, with no form, account or fee.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
-Each lesson answers one question, uses real figures from the public Absence Index or the fictional Kalvenor sample, and ends with an exercise you can check yourself. Together they take about 22 minutes to read.
+Each lesson answers one question, uses real figures from the public Absence Index or the fictional Kalvenor sample (Sample data, fictional company), and ends with an exercise you can check yourself. Together they take about 22 minutes to read.
 
 ## The five lessons
 

@@ -5,7 +5,7 @@ description: A context pack holds buyer questions, approved answers, policies an
 page_class: page
 schema_type: TechArticle
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 A context pack is one reviewed JSON document holding the questions buyers ask, the answers your business approves, your policies and your key facts. Every answer carries its source page, an owner, a review date and an expiry date. The reported ChatGPT Business Hub includes a business agent that answers customer questions with context the business controls, and this pack is a format for that context.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 ## Why one reviewed document
 
@@ -21,7 +21,7 @@ An agent answering for your business can only be as current as what it is given,
 
 ## The six groups
 
-Answers sit in the same six groups our read-only vendor connector serves: company, pricing, fit, integrations, compliance and links. The [fictional Kalvenor connector](https://app.broadcastwell.com/mcp/vendor/kalvenor) answers from those groups today. One approved pack can feed a connector now and give you reviewed text to enter wherever OpenAI's business agent takes its context, if OpenAI publishes how it does.
+Answers sit in the same six groups our read-only vendor connector serves: company, pricing, fit, integrations, compliance and links. The [fictional Kalvenor connector](https://app.broadcastwell.com/mcp/vendor/kalvenor) (Sample data, fictional company) answers from those groups today. One approved pack can feed a connector now and give you reviewed text to enter wherever OpenAI's business agent takes its context, if OpenAI publishes how it does.
 
 | Group | What belongs in it |
 | --- | --- |

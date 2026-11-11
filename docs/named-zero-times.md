@@ -9,7 +9,7 @@ description: Across 860 scored AI answers covering 85 B2B software companies, 35
 page_class: chapter
 schema_type: TechArticle
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.5281/zenodo.21537014
 ---
 
@@ -77,11 +77,11 @@ By the end of this chapter you will know how many companies in a challenger-skew
 
 ## What a single engine cannot tell you
 
-**Reasoned.** Holding the engine constant is the right call for a study comparing categories with each other, because it removes engine as a confound. It is the wrong basis for a claim about AI search in general, because it measures one product. A company absent from this engine may be present on another, and the size of that effect is not something Volume I can speak to. Chapter 5 at [/engine-divergence/](https://docs.broadcastwell.com/engine-divergence/) measures it on four engines and finds the difference is substantial.
+**Reasoned.** Holding the engine constant is the right call for a study comparing categories with each other, because it removes engine as a confound. It is the wrong basis for a claim about AI search in general, because it measures one product. A company absent from this engine may be present on another, and the size of that effect is not something Volume I can speak to. Chapter 5 at [/engine-divergence/](https://docs.broadcastwell.com/engine-divergence/) measures it on the four engines of the 4 August 2026 collection and finds the difference is substantial.
 
 ## The collection window is part of the result
 
-**Measured, Volume I.** Collection ran between 18 and 23 July 2026. **Reasoned.** These are products under continuous change, so the sweep describes a state of the world during that window and not a durable property of the companies in it. A figure quoted without its window is a figure whose meaning has quietly drifted. This is why every headline number in this manual is written with its date attached, and why a visibility score offered to you without one should be treated as incomplete rather than merely informal.
+**Measured, Volume I.** Collection ran between 18 and 23 July 2026. **Reasoned.** These are products under continuous change, so the sweep describes a state of the world during that window and not a durable property of the companies in it. A figure quoted without its window is a figure whose meaning has quietly drifted. This is why every headline number in this manual is written with its date attached, and why a visibility score offered to you without one should be treated as undated, not merely informal.
 
 ## Precision and rounding
 

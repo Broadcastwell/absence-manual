@@ -6,7 +6,7 @@ description: A reader guide to self-reported source, observed referrals and sepa
 page_class: page
 schema_type: Article
 date_published: '2026-10-07T00:00:00+00:00'
-date_modified: '2026-10-21T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 faq:
 - question: What does a recorded AI referral establish?
   answer: A recorded referral supports an observed visit under the analytics record's own
@@ -37,7 +37,7 @@ A contact or opportunity record can establish that a defined event occurred with
 <span id="3-browser-referrer-and-parameter-classes"></span>
 ## What does a referral establish?
 
-A received referral or campaign label is an observation about a visit. It may be incomplete, absent or ambiguous. It does not identify every influence on the buyer. A copied link can carry a label into a different setting, and a buyer can return directly after using an assistant. Report the evidence received and leave the unknown portion visible.
+A received referral or campaign label is an observation about a visit. It may be partial, absent or ambiguous. It does not identify every influence on the buyer. A copied link can carry a label into a different setting, and a buyer can return directly after using an assistant. Report the evidence received and leave the unknown portion visible.
 
 <span id="4-analytics"></span>
 ## How should the report show visits?

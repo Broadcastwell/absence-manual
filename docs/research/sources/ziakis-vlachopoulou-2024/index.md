@@ -7,13 +7,13 @@ research_id: 19
 research_group: source
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/ziakis-vlachopoulou-2024/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.1007/978-3-031-51038-0_43
 ---
 
@@ -48,7 +48,7 @@ The chapter appeared in a **2024** Springer proceedings volume. Its listed acces
 
 Source: §2, **printed p. 392, volume PDF p. 395**. These are selection-stage counts. They are not shares of successful interventions, so a Wilson interval is not applicable.
 
-The broadened pool follows the initial search. It is not described as an independent additional sample to add to the initial count. Nor should the final set be added to the screened set. Each number belongs to a stage, with a different relationship to the material ultimately discussed.
+The broadened pool follows the initial search. It is not described as an independent additional sample to add to the initial count. Nor should the final set be added to the screened set. Each number belongs to a stage, with a different relationship to the material discussed.
 
 The query is printed as a combination of Artificial Intelligence and the American or British spelling of Search Engine Optimization in title, abstract and keyword fields. The chapter does not provide a fully exported, executable search history with all database settings and a record-level inclusion table. A fresh search today would require recording its own exact syntax and date. [§2].
 
@@ -116,7 +116,7 @@ That is a distributional observation under the September question set. It does n
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

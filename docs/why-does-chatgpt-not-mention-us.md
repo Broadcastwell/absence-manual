@@ -5,7 +5,7 @@ description: 'Check the dated answer, its visible sources, your public company f
 page_class: page
 schema_type: Article
 date_published: '2026-09-11T00:00:00+00:00'
-date_modified: '2026-11-03T17:50:50+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 ---
 
 # Why does ChatGPT not mention us?
@@ -18,7 +18,7 @@ The four checks below organize possible explanations. Our answer records do not 
 
 Open the sources explicitly cited in the retained answer, whether they are comparison articles, category roundups, review sites or other publications. Check whether they name the intended company and support the statements at issue. The visible list does not reveal every source considered, and a missing name on those pages does not explain the omission by itself.
 
-We can check a specific inaccurate or incomplete public statement and the evidence needed to correct it. A later naming or citation result needs its own dated observation; a source change alone does not establish that result.
+We can check a specific public statement that is inaccurate or leaves out a fact, and the evidence needed to correct it. A later naming or citation result needs its own dated observation; a source change alone does not establish that result.
 
 ## 2. Compare your public company facts
 

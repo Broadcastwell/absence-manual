@@ -7,13 +7,13 @@ research_id: 1
 research_group: hub
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/
 sources_verified: true
 schema_type: Article
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.1145/3447535.3462479
 research_report_doi: https://doi.org/10.5281/zenodo.23804758
 research_report_concept_doi: https://doi.org/10.5281/zenodo.23804757
@@ -105,7 +105,7 @@ See the [Claim Registry](https://docs.broadcastwell.com/research/claims/) and [a
 
 Our canonical report remains on Zenodo. Read the [dated interpretation notice](data/report-interpretation-notice-2026-11-03.pdf) alongside the original archive. OSF preprint: not pursued.
 
-Academic data access and corrections: research@broadcastwell.com.
+Academic data access and corrections: index@broadcastwell.com.
 
 ## Cite this page
 

@@ -5,7 +5,7 @@ description: 'How our published offers apply to CRM software, built on 10 checke
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 In CRM software, HubSpot CRM and Salesforce Sales Cloud were the names the engines gave most often in September 2026: 113 and 109 of 150 valid answers captured on 22 September 2026, among 10 checked CRM vendors. That record is where our offers begin; the work then measures, repairs and re-checks your own CRM questions.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Five products answer each CRM question in our captures: ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. We never sell one of them on its own, and we cannot place a CRM vendor in any answer.
 
@@ -31,7 +31,7 @@ Five products answer each CRM question in our captures: ChatGPT, Claude, Perplex
 | CRM vendors never named | 1 of 10 |
 | CRM answers with no cited entry | 6 of 150, 4.0% (1.8% to 8.5%) |
 
-Among the 1,380 CRM citations, vendor sites came first at 23.9% (21.7% to 26.2%), then agency and blog pages at 7.2% and news and trade media at 6.9%; the "other" class, hosts we could not place in one role, held 50.5%.
+Among the 1,380 [CRM citations](../../answers/industries/which-sources-do-ai-answers-cite-for-crm-software.md) captured on 22 September 2026, vendor sites came first at 23.9% (21.7% to 26.2%), then agency and blog pages at 7.2% and news and trade media at 6.9%. The "other" class, hosts we could not place in one role, held 50.5%.
 
 Our [page on CRM software missing from AI answers](../../answers/industries/why-is-my-crm-software-missing-from-ai-answers.md) reads the low and zero counts, [the CRM cited-host page](../../answers/industries/which-sources-do-ai-answers-cite-for-crm-software.md) lists domains, and the Index keeps the [HubSpot CRM record](https://index.broadcastwell.com/vendors/hubspot-crm/crm/).
 

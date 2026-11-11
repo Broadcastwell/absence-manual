@@ -1,19 +1,19 @@
 ---
 title: Who offers AI search visibility in Bloomington, Indiana?
 headline: Who offers AI search visibility in Bloomington, Indiana?
-description: 'Broadcastwell is based at 517 E Kirkwood Ave in Bloomington, Indiana, and offers its AI search visibility work to local firms at the same published prices.'
+description: 'Broadcastwell is based at 517 E Kirkwood Ave, Bloomington, IN 47408, and offers its AI search visibility work to local firms at the same published prices.'
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
 # Who offers AI search visibility in Bloomington, Indiana?
 
-We do. Broadcastwell is based at 517 E Kirkwood Ave, Bloomington, IN 47408, and our phone number is (812) 345-7272. A Bloomington company buys the same AI search visibility work as everyone else, at the same published prices: from a $19 live question on one buyer question to a monthly Program, measured on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode.
+We do. Broadcastwell is based at 517 E Kirkwood Ave, Bloomington, IN 47408, and our phone number is (812) 345 7272. A Bloomington company buys the same AI search visibility work as everyone else, at the same published prices: from a $19 live question on one buyer question to a monthly Program, measured on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 ## The local evidence for this page
 
@@ -29,7 +29,7 @@ Our [privacy notice](https://broadcastwell.com/privacy) adds that Broadcastwell 
 
 | Offer | Price | What it is |
 | --- | --- | --- |
-| Live question | $19 once | One buyer question of your choosing: five engines, three repeats and 15 planned answers with receipts, delivered within 24 hours of payment. Credited in full against Answer Repair within 30 days for the same account, so the repair then costs $471. |
+| Live question | $19 once | One buyer question of your choosing: five engines, three repeats and 15 planned answers with receipts, delivered within 24 hours of payment. Credited in full against the $490 Answer Repair within 30 days for the same account. |
 | Answer Repair | $490 once | One buyer question, one source-backed page or fix, due 48 elapsed hours after recorded Ready |
 | Agency Deadline Audit | $490 per client report | For a Bloomington agency: one client report under your brand, with findings within 48 hours of recorded scope confirmation |
 | Fix Sprint | $3,900 ($3,410 after the $490 credit) | Six pages and one primary test agreed before payment, measured at day 30 |
@@ -47,7 +47,7 @@ Two scope points apply to such a question. First, the engines read the city in t
 ## How to reach us
 
 - Email: [hello@broadcastwell.com](mailto:hello@broadcastwell.com)
-- Phone: (812) 345-7272
+- Phone: (812) 345 7272
 - Booking and contact: [broadcastwell.com/contact](https://broadcastwell.com/contact)
 - Business hours, as published on our agency page: 08:00 to 20:00 Indianapolis time Monday to Friday, and 10:00 to 16:00 Saturday and Sunday.
 

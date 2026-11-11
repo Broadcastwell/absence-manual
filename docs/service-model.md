@@ -5,7 +5,7 @@ description: The Broadcastwell service model has six defined workstreams, from q
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 The Broadcastwell service model has six defined workstreams: question and scope, measurement, source and record work, page repair and build, re-check and reporting, and ChatGPT Business Hub readiness. Every offer draws on some of them, and none adds a workstream you did not buy. This page names each workstream's output, its owner and the offers that include it, as published on 9 November 2026.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Our [operating framework](operating-framework.md) sets out the order of the work and quotes every delivery clock and refund term. This page answers a different question: who does what, and in which offer.
 
@@ -69,7 +69,7 @@ Our [operating framework](operating-framework.md) sets out the order of the work
 
 **Owner:** our engineers measure; Priya Nair, Management Consultant, is the delivery lead and reviewer.
 
-The [completed-case format](cases/format.md) shows every field a finished re-check reports, on the fictional Kalvenor sample. Between measurements, the [analyses in your account](account-analyses.md) read each delivered measurement and save their results for your review.
+The [completed-case format](cases/format.md) shows every field a finished re-check reports, on the fictional Kalvenor sample (Sample data, fictional company). Between measurements, the [analyses in your account](account-analyses.md) read each delivered measurement and save their results for your review.
 
 ## Workstream 6: ChatGPT Business Hub readiness
 

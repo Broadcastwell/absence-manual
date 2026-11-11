@@ -118,10 +118,12 @@ class PageStructureTests(unittest.TestCase):
                 self.assertEqual(meta["page_class"], "page")
                 self.assertEqual(meta["schema_type"], "Article")
                 self.assertEqual(meta["date_published"], "2026-11-09T00:00:00+00:00")
-                self.assertEqual(meta["date_modified"], "2026-11-09T00:00:00+00:00")
+                # STEP 3.3 B117 changed some of these pages; their modified date is that change.
+                self.assertIn(meta["date_modified"], ("2026-11-09T00:00:00+00:00", "2026-11-11T07:30:00Z"))
                 self.assertEqual(meta["template"], "business-hub.html")
                 self.assertEqual(re.findall(r"(?m)^# (.+)$", body), [meta["title"]])
-                self.assertIn("\n" + UPDATED_LINE + "\n", body)
+                updated = "Updated 11 November 2026." if meta["date_modified"] == "2026-11-11T07:30:00Z" else UPDATED_LINE
+                self.assertIn("\n" + updated + "\n", body)
                 self.assertIn("## Sources", body)
                 # Fenced code is not a configured extension, and a <title> in a body is read as the page title.
                 self.assertNotIn("```", body)

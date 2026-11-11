@@ -9,7 +9,7 @@ hide:
 - navigation
 - toc
 date_published: '2026-09-24T00:00:00+00:00'
-date_modified: '2026-11-05T18:05:00Z'
+date_modified: '2026-11-11T07:30:00Z'
 ---
 
 # What belongs in an executive delivery report?
@@ -17,7 +17,7 @@ date_modified: '2026-11-05T18:05:00Z'
 This page preserves a delivery template for orders before 26 October 2026. It is a historical example, not a current offer.
 
 <div class="bw-learning">
-<nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><p><strong>Classification:</strong> Template only; incomplete fields block client delivery. <strong>Version:</strong> bw-content-2026-09-24-v1.</p>
+<nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><p><strong>Classification:</strong> Template only; a blank field blocks client delivery. <strong>Version:</strong> bw-content-2026-09-24-v1.</p>
 <h2>Executive decision</h2>
 <p>Company, intended buyer and confirmed category: [enter]. Scope approval ID/date and question-set version: [enter]. Decision requested: [implement a supported bounded fix / refine scope / gather missing evidence / no further purchase justified]. Name the strongest supported finding, its limitation and the next decision in three sentences. Implementation is separate unless the actual contract explicitly includes it; do not infer a review session or new allowance.</p>
 <h2>Coverage that actually ran</h2>

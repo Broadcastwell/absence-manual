@@ -17,13 +17,118 @@
 {%- if here -%}{{ html | replace('href="' ~ here ~ '"', 'href="' ~ here ~ '" aria-current="page"') }}{%- else -%}{{ html }}{%- endif -%}
 {%- endmacro %}
 
+{#- One Organization (brief 13.4 and 13.5, STEP 3.3 B117). main.html keeps its reviewed bytes for the
+    45 registered pages, so a brand page rewrites main.html's JSON-LD here: the docs-only
+    Organization block becomes the one Organization of brand/ENTITY.md, @id
+    https://broadcastwell.com/#organization, with its texts word for word; every other place that
+    named the organization (author, creator, publisher) refers to it by @id; and a library answer
+    or research page names its author from the byline it shows (the library page owner, the research
+    lead), with the role from the team record (tools/team_record.py holds the same twelve and the
+    rule verify_build.py and verify_visibility_release.py check). A reference carries only @type, @id
+    and name. bw_old_org is main.html's organization exactly, so its tojson text is the text to
+    replace; tests/test_docs_gate_20261111.py fails if a docs organization block survives. -#}
+{% set bw_org_id = "https://broadcastwell.com/#organization" %}
+{% set bw_org_ref = {"@type": "Organization", "@id": bw_org_id, "name": "Broadcastwell"} %}
+{% set bw_old_org = {
+  "@type": "Organization",
+  "@id": "https://docs.broadcastwell.com/#organization",
+  "name": "Broadcastwell",
+  "legalName": "Broadcastwell LLC",
+  "url": "https://broadcastwell.com/",
+  "description": "AI search visibility measurement for B2B software.",
+  "sameAs": [
+    "https://www.linkedin.com/company/broadcastwell",
+    "https://github.com/Broadcastwell",
+    "https://github.com/Broadcastwell/state-of-geo-2026",
+    "https://doi.org/10.5281/zenodo.21537014",
+    "https://doi.org/10.5281/zenodo.21586091",
+    "https://doi.org/10.5281/zenodo.21789120"
+  ]
+} %}
+{% set bw_org = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": bw_org_id,
+  "name": "Broadcastwell",
+  "legalName": "Broadcastwell LLC",
+  "description": "Broadcastwell asks ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode your buyers' questions, records who they name, and fixes the pages they read.",
+  "slogan": "When you broadcast, broadcast well.",
+  "url": "https://broadcastwell.com/",
+  "logo": "https://framerusercontent.com/images/j6xX2NJoWncy5Askq1FGOGo0Vo.png",
+  "image": "https://framerusercontent.com/images/j6xX2NJoWncy5Askq1FGOGo0Vo.png",
+  "telephone": "+18123457272",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "517 E Kirkwood Ave",
+    "addressLocality": "Bloomington",
+    "addressRegion": "IN",
+    "postalCode": "47408",
+    "addressCountry": "US"
+  },
+  "founder": {"@type": "Person", "name": "Sairam Sivakumar", "jobTitle": "Founder", "worksFor": bw_org_ref},
+  "sameAs": [
+    "https://www.linkedin.com/company/broadcastwell",
+    "https://x.com/broadcastwellhq",
+    "https://www.youtube.com/@Broadcastwell",
+    "https://www.instagram.com/broadcastwell/",
+    "https://www.tiktok.com/@broadcastwell.com",
+    "https://broadcastwell.substack.com/"
+  ]
+} %}
+{#- The team record (brief 18.5): names and roles only. -#}
+{% set bw_team = {
+  "Sairam Sivakumar": "Founder",
+  "Priya Nair": "Management Consultant, delivery lead and reviewer",
+  "Vikram Patel": "AI Architect and Specialist",
+  "Ananya Rao": "AI Engineer",
+  "Arjun Mehta": "Management Consultant",
+  "Ethan Brooks": "Management Consultant",
+  "Rohan Iyer": "AI Engineer",
+  "Daniel Kim": "AI Engineer",
+  "Marcus Reed": "AI Architect and Specialist",
+  "Noah Bennett": "AI Architect and Specialist",
+  "Lauren Chen": "AI Architect and Specialist",
+  "Maya Thompson": "AI Architect and Specialist"
+} %}
+{% macro bw_byline_name() -%}
+{%- if page and page.meta -%}
+{%- if page.meta.get("page_class") == "research" and page.meta.get("lead") -%}{{ page.meta.get("lead") | string | trim }}
+{%- elif (page.meta.get("library_cluster") or page.meta.get("library_hub")) and page.meta.get("library_owner") -%}{{ (page.meta.get("library_owner") | string).split(",")[0] | trim }}
+{%- endif -%}
+{%- endif -%}
+{%- endmacro %}
+{% macro bw_jsonld(html) -%}
+{%- set name = bw_byline_name() | string -%}
+{%- set old = bw_old_org | tojson | string -%}
+{%- set out = html | replace(dict(bw_old_org, **{"@context": "https://schema.org"}) | tojson | string, bw_org | tojson | string) -%}
+{%- if name in bw_team -%}
+{%- set person = {"@type": "Person", "name": name, "jobTitle": bw_team[name], "worksFor": bw_org_ref} | tojson | string -%}
+{%- set out = out | replace('"author": ' ~ old, '"author": ' ~ person) | replace('"creator": ' ~ old, '"creator": ' ~ person) -%}
+{%- endif -%}
+{{ out | replace(old, bw_org_ref | tojson | string) }}
+{%- endmacro %}
+{% macro bw_date(value) -%}
+{%- set d = (value | string)[:10] -%}
+{%- set months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"] -%}
+<time datetime="{{ d }}">{{ d[8:10] | int }} {{ months[(d[5:7] | int) - 1] }} {{ d[:4] }}</time>
+{%- endmacro %}
+
 {% block extrahead %}
 {#- Brand pages draw with Geist and Newsreader, served with size-adjusted fallbacks, so the Inter
     preload of the registered pages is dropped rather than replaced: the stylesheet gets the
     bandwidth first and text paints at once in the fallback (measured: a font preload here made the
     largest paint later, not earlier). -#}
-{{ super() | replace('<link rel="preload" href="' ~ ('assets/fonts/inter-latin-var.woff2' | url) ~ '" as="font" type="font/woff2" crossorigin>', '') }}
+{{ bw_jsonld(super() | replace('<link rel="preload" href="' ~ ('assets/fonts/inter-latin-var.woff2' | url) ~ '" as="font" type="font/woff2" crossorigin>', '')) }}
 <link rel="stylesheet" href="{{ 'assets/brand/docs.css' | url }}" media="all">
+{% endblock %}
+
+{#- A library answer page shows the dates its Article declares (brief 13.4: the published date is
+    on the page), after the article body, so the reviewed body stays the start of the article. -#}
+{% block content %}
+{{ super() }}
+{%- if page and page.meta and (page.meta.get("library_cluster") or page.meta.get("library_hub")) and page.meta.get("date_published") %}
+<p class="bw-docs-dateline">Published {{ bw_date(page.meta.get("date_published")) }}. Last updated {{ bw_date(page.meta.get("date_modified") or page.meta.get("date_published")) }}.</p>
+{%- endif %}
 {% endblock %}
 
 {% block header %}
@@ -53,12 +158,12 @@
 </nav>
 {% endif %}
 {%- if page and page.meta.get("page_class") == "research" -%}
-{%- set research_lines -%}<div class="bw-docs-research-note"><p>Broadcastwell research. Broadcastwell is excluded from its own sample and every ranking.</p><p>Last updated <time datetime="{{ page.meta.get('updated')[:10] }}">{{ page.meta.get('updated')[:10] }}</time>. Next review {{ page.meta.get('next_review')[:10] }}.</p></div>{%- endset -%}
+{%- set research_lines -%}<div class="bw-docs-research-note"><p>Broadcastwell research. Broadcastwell is excluded from its own sample and every ranking.</p><p>{% if page.meta.get('published') %}Published <time datetime="{{ (page.meta.get('published') | string)[:10] }}">{{ (page.meta.get('published') | string)[:10] }}</time>. {% endif %}Last updated <time datetime="{{ page.meta.get('updated')[:10] }}">{{ page.meta.get('updated')[:10] }}</time>. Next review {{ page.meta.get('next_review')[:10] }}.</p></div>{%- endset -%}
 {%- if config.extra.SHARED_NAV -%}
 {%- set chrome -%}{% include "partials/brand/footer-shared.html" %}{%- endset -%}
 {{ bw_current(chrome | replace('<footer class="bw-site-footer"><div class="bw-container">', '<footer class="bw-site-footer bw-research-footer"><div class="bw-container">' ~ research_lines)) }}
 {%- else -%}
-<footer class="bw-site-footer bw-research-footer"><div class="bw-container">{{ research_lines }}<div class="bw-site-footer__last"><ul class="bw-site-footer__legal" aria-label="Legal and site"><li><a href="https://broadcastwell.com/privacy">Privacy</a></li><li><a href="https://broadcastwell.com/terms">Terms</a></li><li><a href="https://broadcastwell.com/cookies">Cookies</a></li></ul><p>Copyright 2026 Broadcastwell LLC.</p></div></div></footer>
+<footer class="bw-site-footer bw-research-footer"><div class="bw-container">{{ research_lines }}<div class="bw-site-footer__last"><ul class="bw-site-footer__legal" aria-label="Legal and site"><li><a href="https://broadcastwell.com/privacy">Privacy</a></li><li><a href="https://broadcastwell.com/terms">Terms</a></li><li><a href="https://broadcastwell.com/cookies">Cookies</a></li><li><a href="https://broadcastwell.com/procurement">Procurement</a></li></ul><p>Copyright 2026 Broadcastwell LLC.</p></div></div></footer>
 {%- endif -%}
 {%- else -%}
 {%- set chrome -%}{%- if config.extra.SHARED_NAV -%}{% include "partials/brand/footer-shared.html" %}{%- else -%}{% include "partials/brand/footer-today.html" %}{%- endif -%}{%- endset -%}
@@ -68,4 +173,6 @@
 
 {% block scripts %}
 {{ super() | replace('<script src="' ~ ('assets/site-chrome.js' | url) ~ '"></script>', '<script src="' ~ ('assets/brand/nav.js' | url) ~ '" defer></script>') }}
+{#- Escape closes the chapter drawer; chapter sections report aria-expanded (STEP 3.3 B117). -#}
+<script src="{{ 'assets/brand/docs-controls.js' | url }}" defer></script>
 {% endblock %}

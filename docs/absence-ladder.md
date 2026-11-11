@@ -9,7 +9,7 @@ description: Across 616 absence records from 85 B2B software companies, what a c
 page_class: chapter
 schema_type: TechArticle
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 image: figures/absence-ladder.png
 is_based_on: https://doi.org/10.5281/zenodo.21586091
 ---
@@ -153,7 +153,7 @@ is_based_on: https://doi.org/10.5281/zenodo.21586091
 
 ## What this changes
 
-**Reasoned.** If the absence ladder holds, AI visibility is not one metric and should not be managed as one. The useful question is not what percentage of answers name us. It is what kind of question are we currently losing. That answer tells you whether you are fighting for admission to a category or for preference within one, and those require different work, different content and different evidence. The single number is a symptom. The shape of the absence is the diagnosis.
+**Reasoned.** If the absence ladder holds, AI visibility is not one metric and should not be managed as one. The useful question is not what percentage of answers name us. It is what kind of question are we currently losing. That answer shows if you are fighting for admission to a category or for preference within one; the two need different work, different content and different evidence. The single number is a symptom. The shape of the absence is the diagnosis.
 
 ## Where to go next
 

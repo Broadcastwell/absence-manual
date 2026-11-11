@@ -5,7 +5,7 @@ description: Our research chart library lists 12 data charts on our docs site wi
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 Our research chart library lists all 12 research data charts published on docs.broadcastwell.com as of 9 November 2026. Each row ties a chart to the page that publishes it and gives its caption or alt text, the data behind it, its date and base, and the credit line to use when you reuse it under CC BY 4.0. Four come from our September 2026 studies and eight from the Manual.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 A chart is only as honest as the base printed beside it. Every chart below appears on its page next to the counts it draws, and we ask anyone who reuses one to carry that base and date with it.
 
@@ -59,7 +59,7 @@ The Volume II and III data and code are also in the [State of GEO repository](ht
 - **Process diagrams.** The six illustrations in our practical guides, such as the one in [how to read an AI answer without overreading it](resources/guides/read-an-answer.md), show steps rather than data, so they carry no base and are not listed.
 - **Client charts.** Charts from client reports are never published without the client's written approval.
 - **Charts that appear only inside a PDF report.** Each study PDF keeps its own figures and captions, and the chart files stored beside those PDFs are not published on a docs page with a base. Cite the report by its DOI, listed on our page on [how to cite our research](cite.md).
-- **Fictional samples.** The source chart on our [completed-case format](cases/format.md) page shows the fictional Kalvenor sample, not research data.
+- **Fictional samples.** The source chart on our [completed-case format](cases/format.md) page shows the fictional Kalvenor sample (Sample data, fictional company), not research data.
 
 ## Credit lines, ready to paste
 

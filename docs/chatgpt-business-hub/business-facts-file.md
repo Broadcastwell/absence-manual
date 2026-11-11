@@ -5,7 +5,7 @@ description: A business facts file is a dated JSON statement of identity, contac
 page_class: page
 schema_type: TechArticle
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 A business facts file is one JSON document at /business-facts.json on your own domain. It states your legal name, brand name, canonical domain, profiles, address, contact details, offers with prices, units and currency, and policies, plus who last reviewed it and when. It answers the reported ChatGPT Business Hub need to keep business information current, and it is a profile of our Vendor Facts File v1.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 ## How it relates to Vendor Facts File v1
 
@@ -140,7 +140,7 @@ The excerpt above shows one of our six offers and one of our five policies. The 
 
 ## Second example: Kalvenor, a fictional company
 
-Kalvenor Systems is fictional, and its file says so in its own sample, fictional and label fields. It shows the branch our own file does not need: an offer whose price is not published, a product listed apart from its offer, and a commerce connection. Its domain, category and one_sentence match the [Kalvenor vendor facts file](https://app.broadcastwell.com/vendors/kalvenor/facts.json). Download it at [kalvenor-business-facts.json](https://docs.broadcastwell.com/examples/kalvenor-business-facts.json).
+Kalvenor Systems (Sample data, fictional company) is fictional, and its file says so in its own sample, fictional and label fields. It shows the branch our own file does not need: an offer whose price is not published, a product listed apart from its offer, and a commerce connection. Its domain, category and one_sentence match the [Kalvenor vendor facts file](https://app.broadcastwell.com/vendors/kalvenor/facts.json). Download it at [kalvenor-business-facts.json](https://docs.broadcastwell.com/examples/kalvenor-business-facts.json).
 
 ```json
 "offers": [

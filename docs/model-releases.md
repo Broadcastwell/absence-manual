@@ -5,7 +5,7 @@ description: Our AI model release tracker lists model releases dated by the prov
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 This AI model release tracker lists the model releases that the providers behind ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode dated on their own public pages between 1 July and 9 November 2026. Each row gives the release in the provider's words, the date the provider published and the page we read. A release is a dated mark on our time series, never an explanation of a change in answers.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 We read every source below on 9 November 2026. Release names are quoted as each provider wrote them. Where a provider names the plans or surfaces a release reaches, we repeat that scope; where it does not, we say so rather than guess. We make no forecast of future releases.
 
@@ -55,15 +55,15 @@ Source: [Perplexity changelog](https://www.perplexity.ai/changelog), read 9 Nove
 
 ## Google AI Overviews and Google AI Mode: Google
 
-Sources: [Gemini Apps release notes](https://gemini.google/release-notes/) and the Google blog posts linked in each row, read 9 November 2026. Google AI Overviews and Google AI Mode are separate products, and we record them separately. A Gemini model release does not by itself establish a change in either one.
+Sources: [Gemini Apps release notes](https://gemini.google/release-notes/) and the Google blog posts linked in each row, read 9 November 2026. Google AI Overviews and Google AI Mode are separate products, and we record them separately. A Google model release does not by itself establish a change in either one.
 
 | Date published | Release, in Google's words | Scope Google states |
 | --- | --- | --- |
-| 21 July 2026 | "3.6 Flash: An upgraded model for your daily life" | The Gemini app. |
+| 21 July 2026 | "3.6 Flash: An upgraded model for your daily life" | Google's assistant app. |
 | 13 August 2026 | ["Introducing Gemini 3.7 Flash"](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | The post does not mention AI Overviews or AI Mode. |
-| 2 September 2026 | ["Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | Google AI Pro and Ultra subscribers in the Gemini app, AI Mode in Google Search and Gemini in Google Sheets. |
+| 2 September 2026 | ["Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | Google AI Pro and Ultra subscribers in Google's assistant app, AI Mode in Google Search and Google Sheets. |
 | 30 September 2026 | ["Gemini 4 Argon: our next era of frontier intelligence"](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) | The post does not mention AI Overviews or AI Mode. |
-| 13 October 2026 | ["Gemini 4 Argon: Built to solve your hardest problems"](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/) | Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search. |
+| 13 October 2026 | ["Gemini 4 Argon: Built to solve your hardest problems"](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/) | Google AI Ultra and Pro subscribers in Google's assistant app and AI Mode in Search. |
 | 15 October 2026 | ["More ways to connect with the web from Search"](https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/) | A product change, not a model release: AI Mode and AI Overviews get clearer inline links and more context about sources. |
 | 28 October 2026 | ["Gemini 4 Carbon: our next frontier model"](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) | The post does not mention AI Overviews or AI Mode. |
 
@@ -99,7 +99,7 @@ The two releases also differ in design, and our data page compares standings acr
 - OpenAI, [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes), entries dated 6 August to 26 October 2026 (read 9 November 2026).
 - Anthropic, [Claude release notes](https://support.claude.com/en/articles/12138966-release-notes), entries dated 24 July to 7 October 2026, and the [Anthropic newsroom](https://www.anthropic.com/news) (read 9 November 2026).
 - [Perplexity changelog](https://www.perplexity.ai/changelog), entries dated 27 July to 5 October 2026 (read 9 November 2026).
-- Google, [Gemini Apps release notes](https://gemini.google/release-notes/), entry dated 21 July 2026, and Google blog posts dated 13 August to 28 October 2026, linked above (read 9 November 2026).
+- Google, [release notes for its assistant app](https://gemini.google/release-notes/), entry dated 21 July 2026, and Google blog posts dated 13 August to 28 October 2026, linked above (read 9 November 2026).
 - Broadcastwell, [Absence Index capture dates](https://broadcastwell.com/data) (read 9 November 2026).
 
 Related: our note on [engine divergence](engine-divergence.md) explains why each engine is read separately, our [release notes](release-notes.md) list our own changes, [how to cite our research](cite.md) gives the release DOIs, and the [completed-case format](cases/format.md) shows where a release note appears in a client report.

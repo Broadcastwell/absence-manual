@@ -5,7 +5,7 @@ description: 'ChatGPT visibility work in our offers: what ChatGPT named and cite
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 Our ChatGPT visibility work is the five-engine work every offer runs, with ChatGPT read on its own line: we record what ChatGPT answers to your buyer questions, find the page or source behind a missing or wrong answer, repair it with facts you approve, and ask again. No offer measures ChatGPT alone, and nothing we do can make ChatGPT name you.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Every capture covers ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode with identical wording, so a ChatGPT result always sits beside four others. The figures below come from the September 2026 Absence Index: 140 fixed buyer questions across fourteen software categories, three scheduled runs each.
 
@@ -71,7 +71,7 @@ OpenAI's ChatGPT release notes, read 9 November 2026, dated six model entries be
 
 ## What this means for a ChatGPT repair
 
-**Reasoned.** Because 85.7% of ChatGPT's cited entries were vendor sites, the first place to look when ChatGPT leaves you out or gets a fact wrong is your own site: the product, pricing and comparison facts a buyer question needs, stated plainly on pages a reader can open. A three-run ChatGPT miss was also the steadiest pattern in this record, so a repeated absence is worth investigating rather than waiting out. Neither point predicts the next ChatGPT answer.
+**Reasoned.** Because 85.7% of ChatGPT's cited entries were vendor sites, start with your own site when ChatGPT leaves you out or gets a fact wrong: the product, pricing and comparison facts a buyer question needs, stated plainly on pages a reader can open. A three-run ChatGPT miss was also the steadiest pattern in this record, so a repeated absence is worth investigating rather than waiting out. Neither point predicts the next ChatGPT answer.
 
 ## Sources
 

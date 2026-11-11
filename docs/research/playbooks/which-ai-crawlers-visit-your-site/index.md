@@ -7,13 +7,13 @@ research_id: 28
 research_group: playbook
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/which-ai-crawlers-visit-your-site/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://developers.openai.com/api/docs/bots
 ---
 
@@ -81,7 +81,7 @@ A weekly table should identify its timezone, first and last observation, covered
 
 If a quota, outage or deployment change interrupts collection, mark the affected period as incomplete. Separate incomplete periods from complete periods with zero recorded matches. The distinction is essential when someone later plots a trend.
 
-Page-level tables help answer which public resources were requested. They do not establish which source the answer system ultimately relied on. A crawler may revisit a page that is never cited, while an answer may use previously cached material without a fresh visit during your observation window.
+Page-level tables help answer which public resources were requested. They do not establish which source the answer system relied on. A crawler may revisit a page that is never cited, while an answer may use previously cached material without a fresh visit during your observation window.
 
 ## Compare logs with answer receipts cautiously
 
@@ -118,7 +118,7 @@ The first Index log snapshot records zero declared AI-token matches among 83 oth
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

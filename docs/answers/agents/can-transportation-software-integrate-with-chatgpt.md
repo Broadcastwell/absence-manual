@@ -5,7 +5,7 @@ description: Alvys describes beta MCP access from ChatGPT for loads, invoices an
 page_class: page
 schema_type: Article
 date_published: '2026-10-30T00:26:11+00:00'
-date_modified: '2026-10-30T00:26:11+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 hide:
 - navigation
 library_cluster: agents
@@ -24,7 +24,7 @@ evidence_method_receipts:
 
 # Can transportation software integrate with ChatGPT?
 
-Finding a freight-software website does not prove a ChatGPT connection. Alvys separately reports beta MCP access for ChatGPT; our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 11 of 15 initial transportation-software website tasks on 6 October 2026, measuring the public path rather than that account route.
+Finding a freight-software website does not prove a ChatGPT connection. Alvys separately reports MCP access for ChatGPT; our [Agent Gap study](https://doi.org/10.5281/zenodo.23197560) reached 11 of 15 initial transportation-software website tasks on 6 October 2026, measuring the public path rather than that account route.
 
 ## What we measured
 
@@ -32,7 +32,7 @@ Finding a freight-software website does not prove a ChatGPT connection. Alvys se
 
 **Measured.** The [Agent Gap study design](https://doi.org/10.5281/zenodo.23197560) for the transportation-management-systems category comprised five vendors, with an initial description, pricing and demo-path task for each. Eleven of the fifteen initial tasks reached their target. The category-level total counts public endpoints reached; it is not a result for Alvys's MCP implementation.
 
-**Reasoned.** A transport-system account contains operational records that a public pricing page does not. Our website tasks cannot establish the beta connector's permissions, write actions or behavior in your account.
+**Reasoned.** A transport-system account contains operational records that a public pricing page does not. Our website tasks cannot establish that connector's permissions, write actions or behavior in your account.
 
 ## What this means for you
 

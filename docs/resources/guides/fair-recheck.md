@@ -9,13 +9,13 @@ hide:
 - navigation
 - toc
 date_published: '2026-09-24T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 ---
 
 # Connect published work to a fair recheck
 
 <div class="bw-learning">
-<nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><article><p class="eyebrow">Measurement / BW-RESOURCE-06</p><figure><img class="visual" src="/assets/learning/visuals/fair-recheck.svg" alt="Preserve baseline receipts and methods, record the exact published change, then compare matching follow-up observations. Keep failed or changed-method observations separate and measure commercial signals from their own records."><figcaption>Preserve baseline receipts and methods, record the exact published change, then compare matching follow-up observations. Keep failed or changed-method observations separate and measure commercial signals from their own records.</figcaption></figure>
+<nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><article><p class="eyebrow">Measurement / BW-RESOURCE-06</p><figure><img width="800" height="450" class="visual" src="/assets/learning/visuals/fair-recheck.svg" alt="Preserve baseline receipts and methods, record the exact published change, then compare matching follow-up observations. Keep failed or changed-method observations separate and measure commercial signals from their own records."><figcaption>Preserve baseline receipts and methods, record the exact published change, then compare matching follow-up observations. Keep failed or changed-method observations separate and measure commercial signals from their own records.</figcaption></figure>
 <p><strong>Version:</strong> bw-content-2026-09-24-v1 | <strong>Claim ID:</strong> BW-RESOURCE-06 | <strong>Prepared:</strong> 2026-09-24</p>
 <p><strong>Decision:</strong> Compare observations without claiming causality or hiding no improvement.</p>
 <p>Original Broadcastwell proposed operating method. Synthetic examples illustrate the method; they are not observed client outcomes.</p>

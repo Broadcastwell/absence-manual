@@ -5,7 +5,7 @@ description: A free content brief template for one buyer question, in Markdown a
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 A content brief for an AI answer covers one buyer question: its exact wording, what five engines answer today with counts and bases, who they name instead, the page to build, the facts it must state and who approves them, and when the same question will be checked again. Our free content brief template has 18 fields and comes as Markdown and CSV.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 We write one brief per question because a page that tries to answer several questions answers none of them well. The engines are ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode; the brief records which of them named you and on what base.
 
@@ -23,7 +23,7 @@ We write one brief per question because a page that tries to answer several ques
 | --- | --- |
 | [Content brief template](downloads/content-brief-template.txt){: download="content-brief-template.md" } | Markdown |
 | [Content brief template](downloads/content-brief-template.csv){: download="content-brief-template.csv" } | CSV |
-| [Filled fictional Kalvenor example](downloads/content-brief-kalvenor-sample.txt){: download="content-brief-kalvenor-sample.md" } | Markdown |
+| [Filled fictional Kalvenor example](downloads/content-brief-kalvenor-sample.txt){: download="content-brief-kalvenor-sample.md" } (Sample data, fictional company) | Markdown |
 | [Filled fictional Kalvenor example](downloads/content-brief-kalvenor-sample.csv){: download="content-brief-kalvenor-sample.csv" } | CSV |
 
 Both formats carry the same fields in the same order, so a brief can move between a document and a spreadsheet without losing a row. The template is free to copy and adapt under CC BY 4.0.
