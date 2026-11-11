@@ -56,7 +56,7 @@ These are the descriptions we use on review and directory profiles, dated 10 Nov
 >
 > Live question, $19 once: one buyer question, five engines, three repeats and 15 planned answers with receipts, delivered within 24 hours and credited in full against Answer Repair within 30 days.
 >
-> Answer Repair, $490 once: one buyer question fixed with a source-backed page or change, due 48 hours after Ready, with a full refund on request within 30 days of delivery.
+> Answer Repair, $490 once: one buyer question fixed with a source-backed page or change, due 48 hours after Ready. Full refund on request within 30 days of delivery.
 >
 > Agency Deadline Audit, $490 per client report: a white-label report for an agency's client with 150 planned answers, findings within 48 hours of scope confirmation.
 >

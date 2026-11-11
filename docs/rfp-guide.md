@@ -73,13 +73,13 @@ A checkable answer names a number with its base and date, a deliverable with its
 
 **Checkable answer:** a refund term in writing before payment, with the amount and the time it takes to reach you.
 
-**Our answer:** for Answer Repair, $490 once, we initiate a full refund within five business days if we miss the deliverable or deadline, and you keep the work. Every refund term is quoted in the [operating framework](operating-framework.md).
+**Our answer:** Answer Repair costs $490 once. If we miss the deliverable or deadline, we initiate a full $490 refund within five business days. You keep the work. You may also request a full refund within 30 days of delivery. Every refund term is quoted in the [operating framework](operating-framework.md).
 
 ### 10. What do you promise about the AI answers themselves?
 
 **Checkable answer:** no promise that an engine will name or cite you. If an outcome is tested, the test is defined before payment and measured again the same way.
 
-**Our answer:** we cannot make an engine name or cite you. The Fix Sprint, $3,900 ($3,410 after the $490 credit), agrees one primary test before payment and pays the full price back if the day-30 measurement shows no gain on it.
+**Our answer:** we cannot make an engine name or cite you. The Fix Sprint, $3,900 ($3,410 after the $490 credit), agrees one primary test before payment and measures it again at day 30. Measured gain on the agreed test, or the full $3,900 back. You keep the work.
 
 ### 11. How do you check whether the work changed anything?
 

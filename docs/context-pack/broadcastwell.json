@@ -72,7 +72,7 @@
       {
         "id": "pricing-live-question",
         "question": "Can we check one buyer question before buying a repair?",
-        "answer": "Yes. A live question is $19 once: one buyer question of your choosing on five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three repeats and 15 planned answers with receipts, delivered within 24 hours of payment. It is credited in full against Answer Repair within 30 days of payment for the same account. If we do not deliver within 24 hours of payment, we refund it in full.",
+        "answer": "Yes. A live question is $19 once: one buyer question of your choosing on five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three repeats and 15 planned answers with receipts, delivered within 24 hours of payment. It is credited in full against Answer Repair within 30 days of payment for the same account. If we do not deliver within 24 hours of payment, we refund the $19 in full.",
         "source_url": "https://broadcastwell.com/pricing",
         "reviewed": "2026-11-09",
         "expires": "2026-12-09"
@@ -80,7 +80,7 @@
       {
         "id": "pricing-fix-sprint",
         "question": "What does the Fix Sprint cost?",
-        "answer": "$3,900, or $3,410 after the eligible $490 entry is credited once. It covers six contracted pages or rewrites over 30 days and one primary test agreed before payment, measured again at day 30: measured gain on that test, or the full amount back. You keep the work.",
+        "answer": "$3,900, or $3,410 after the eligible $490 entry is credited once. It covers six contracted pages or rewrites over 30 days and one primary test agreed before payment, measured again at day 30. Measured gain on the agreed test, or the full $3,900 back. You keep the work.",
         "source_url": "https://broadcastwell.com/fix-sprint",
         "reviewed": "2026-11-09",
         "expires": "2026-12-09"
