@@ -16835,9 +16835,9 @@
     "vendor-facts.md": {
       "url": "https://docs.broadcastwell.com/vendor-facts/",
       "prior_title": "Vendor Facts File v1",
-      "before_body_sha256": "34bfbd4b22c0964c7b898158f909e0aa3e5014fb961e8697fc6cc5a26fa92b78",
+      "before_body_sha256": "b66be6dd00ca1412400d7baab85b1914d73c1f1cc0db84ebf6fd6ceb1a9783ba",
       "before_meta_sha256": "533014cd27e46ce0bf374a1b69258ec78744f8a612e2ae913d28de98def0f939",
-      "after_body_sha256": "90fec03c0950f0a9cdbb2300e612b927729df9bda481ca0bb9f473472213188f",
+      "after_body_sha256": "5f5f256bcf5c12d5b3d487723fc286a1647e4dd7a0913d2e1246eddb42a5e16b",
       "meta": {
         "date_modified": "2026-11-11T07:30:00Z",
         "date_published": "2026-10-06T00:00:00+00:00",

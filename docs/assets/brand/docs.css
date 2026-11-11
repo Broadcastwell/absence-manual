@@ -513,10 +513,21 @@ body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result 
 .md-dialog { border-radius: var(--bw-radius-4); background: var(--bw-color-ink); color: var(--bw-color-paper); font-size: var(--bw-text-16); }
 .md-nav__link { color: var(--bw-color-ink-secondary); }
 .md-nav__link:hover, .md-nav__link:focus, .md-nav__link--active, .md-nav__item .md-nav__link--active { color: var(--bw-color-accent); }
-.md-nav__item .md-nav__link--active { font-weight: var(--bw-weight-semibold); }
+/* The selected state, one way everywhere (art round 3, rule 1): accent text with the 2px underline the
+   main navigation's current item carries, at its offset; the weight does not change. */
+.md-nav__link--active, .md-nav__item .md-nav__link--active { font-weight: var(--bw-weight-regular); text-decoration: underline; text-decoration-thickness: var(--bw-stroke-focus); text-underline-offset: 0.45em; }
 .md-nav__item--section > .md-nav__link { color: var(--bw-color-ink); font-weight: var(--bw-weight-semibold); }
 .md-nav__source { background: var(--bw-color-canvas); color: var(--bw-color-ink); }
 .md-nav__source .md-source { color: var(--bw-color-ink); }
+/* Wide screens (art round 2, points 7 and 8). The page label above the columns already names the manual,
+   so the chapter list drops its own sticky title and nothing scrolls under it; docs-controls.js hides an
+   item either edge of the list's column would cut (no scroll snapping: the items of an open section snap
+   inside their own list, so snapping the column would trap it). Where the chapter list shows, the page
+   label hangs from its text edge: the list's 0.2rem column inset plus its 0.6rem item inset. */
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary .md-nav--primary > .md-nav__title { display: none; }
+  body:has(.md-sidebar--primary:not([hidden])) .bw-document-tools { padding-left: calc(var(--bw-layout-margin) + 0.8rem); }
+}
 @media screen and (max-width: 76.1875em) {
   .md-nav--primary .md-nav__title { background: var(--bw-color-canvas); color: var(--bw-color-ink); }
   .md-nav--primary .md-nav__title[for="__drawer"] { background: var(--bw-color-paper); color: var(--bw-color-ink); }
@@ -573,6 +584,11 @@ body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result 
 
 /* Research pages: the own-data section is the evidence panel. */
 .md-typeset .bw-own-data { display: block; padding: var(--bw-space-24); margin: var(--bw-space-32) 0; background: var(--bw-color-panel); border: 0; border-radius: var(--bw-radius-12); }
+
+/* ---------- under the headline: who we are, for whom, and the one next step (art round 2, point 1) ---------- */
+.md-typeset .bw-docs-lede { display: flex; flex-wrap: wrap; align-items: center; gap: var(--bw-space-12) var(--bw-space-24); padding-bottom: var(--bw-space-24); margin: 0 0 var(--bw-space-32); border-bottom: var(--bw-stroke-hairline) solid var(--bw-color-line); }
+.md-typeset .bw-docs-lede p { flex: 1 1 24em; max-width: var(--bw-measure); margin: 0; font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); color: var(--bw-color-ink-secondary); }
+.md-typeset .bw-docs-lede .bw-button { flex: none; }
 
 /* ---------- the manual's closing blocks ---------- */
 .bw-editorial-byline { margin-top: var(--bw-space-48); font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); color: var(--bw-color-ink-secondary); }

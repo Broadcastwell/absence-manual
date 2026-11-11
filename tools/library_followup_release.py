@@ -218,6 +218,24 @@ class FollowupSession:
         (self.work / 'render-proof.json').write_bytes(json_bytes(self.render_proof))
 
 
+# STEP 3.3 B126 (art round 2, point 1): a brand page outside research shows this one fixed block right under
+# its headline (overrides/brand.html): the ENTITY.md 12-word description and the free check. It is the only
+# template addition allowed inside the article before the reviewed body ends. The final-article check below
+# removes it exactly once, only from that place and only on a non-research page, before it compares the
+# complete reviewed body; any other insertion, or this block anywhere else, still fails.
+DOCS_LEDE = ('<div class="bw-docs-lede"><p>Broadcastwell measures and fixes whether AI search engines name B2B '
+             'software companies.</p><a class="bw-button bw-button--primary" href="https://audit.broadcastwell.com/">'
+             'Run the free check</a></div>')
+
+
+def without_docs_lede(tokens, lede, research):
+    """The final article's tokens with the one docs lede removed from right after the first headline."""
+    if research or ('end', 'h1') not in tokens:
+        return tokens
+    at = tokens.index(('end', 'h1')) + 1
+    return tokens[:at] + tokens[at + len(lede):] if tokens[at:at + len(lede)] == lede else tokens
+
+
 def validate_render_contexts(contexts, site):
     """Check every complete page body, head and declared Article against its inputs."""
     import markdown
@@ -270,7 +288,9 @@ def validate_render_contexts(contexts, site):
         start,end=bounds.spans[0]
         final_body = ArticleSignature(url); final_body.feed(raw.decode()[start:end])
         input_body = ArticleSignature(url); input_body.feed(context['content'])
-        require(final_body.tokens[:len(input_body.tokens)] == input_body.tokens,
+        lede = ArticleSignature(url); lede.feed(DOCS_LEDE)
+        final_tokens = without_docs_lede(final_body.tokens, lede.tokens, meta.get('page_class') == 'research')
+        require(final_tokens[:len(input_body.tokens)] == input_body.tokens,
                 'Final visible article changed after source rendering: ' + path)
         require(parsed.canonical == [url], 'Canonical differs from the real page route: ' + path)
         title = str(meta.get('title', ''))

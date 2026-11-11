@@ -1,4 +1,4 @@
-# Category Audit: executive delivery template
+# Executive delivery template for orders before 26 October 2026
 
 **Classification:** Template only; a blank field blocks client delivery. **Version:** bw-content-2026-09-24-v1.
 

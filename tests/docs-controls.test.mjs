@@ -68,3 +68,66 @@ test('the brand frame loads the controls and hides the closed drawer from the ke
   const script = read('docs/assets/brand/docs-controls.js').replace(/\/\*[\s\S]*?\*\//g, '');
   assert.doesNotMatch(script, /localStorage|sessionStorage|cookie|fetch\(|XMLHttpRequest/);
 });
+
+// STEP 3.3 B126, art round 2 point 7: on wide screens the chapter list never shows half an item.
+function column({ wide = true, top = 177, bottom = 500, links, active = null }) {
+  const listeners = {};
+  const frames = [];
+  const col = {
+    style: {},
+    scrollTop: 400,
+    getBoundingClientRect: () => ({ top, bottom }),
+    querySelectorAll: s => (s === '.md-nav__link' ? links : []),
+    addEventListener(n, fn) { (listeners[n] ||= []).push(fn); },
+  };
+  const document = {
+    activeElement: active,
+    addEventListener() {},
+    getElementById: () => null,
+    querySelector: s => (s === '.md-sidebar--primary .md-sidebar__scrollwrap' ? col : null),
+    querySelectorAll: () => [],
+  };
+  const window = {
+    matchMedia: q => ({ matches: q === '(min-width: 76.25em)' && wide }),
+    requestAnimationFrame: fn => { frames.push(fn); return frames.length; },
+    addEventListener(n, fn) { (listeners['window:' + n] ||= []).push(fn); },
+  };
+  vm.runInNewContext(read('docs/assets/brand/docs-controls.js'), { document, window, Event: class {} });
+  const flush = () => { while (frames.length) frames.shift()(); };
+  flush();
+  return { col, listeners, flush };
+}
+const link = (top, height, visible = true) => ({
+  getBoundingClientRect: () => ({ top, bottom: top + height, height }),
+  checkVisibility: () => visible,
+  contains(el) { return el === this; },
+});
+
+test('a chapter-list item either column edge would cut is hidden until it fits', () => {
+  assert.equal(column({ links: [link(100, 50), link(200, 50), link(440, 50), link(490, 50), link(560, 50)] }).col.style.clipPath,
+    'inset(0px 0 10px 0)');
+  assert.equal(column({ links: [link(100, 50), link(150, 50), link(220, 50), link(560, 50)] }).col.style.clipPath,
+    'inset(23px 0 0px 0)');
+  assert.equal(column({ links: [link(160, 50), link(220, 50), link(470, 50)] }).col.style.clipPath, 'inset(33px 0 30px 0)');
+});
+
+test('collapsed sections, whole fits, narrow screens and a focused item are never clipped', () => {
+  assert.equal(column({ links: [link(200, 50), link(470, 50, false), link(500, 50)] }).col.style.clipPath, '');
+  assert.equal(column({ wide: false, links: [link(160, 50), link(480, 50)] }).col.style.clipPath, '');
+  const focused = link(480, 50);
+  assert.equal(column({ links: [link(200, 50), focused], active: focused }).col.style.clipPath, '');
+});
+
+test('on load an item cut at the top is brought into view, and scrolling trims again', () => {
+  const links = [link(150, 50), link(480, 50)];
+  const ui = column({ links });
+  assert.equal(ui.col.style.clipPath, 'inset(23px 0 20px 0)');
+  for (const fn of ui.listeners['window:load']) fn();
+  ui.flush();
+  assert.equal(ui.col.scrollTop, 373);
+  links[0] = link(177, 50); links[1] = link(450, 50);
+  for (const fn of ui.listeners.scroll) fn();
+  ui.flush();
+  assert.equal(ui.col.style.clipPath, '');
+  assert.ok(ui.listeners['window:scroll'] && ui.listeners['window:resize'] && ui.listeners.focusin);
+});

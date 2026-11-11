@@ -50,7 +50,7 @@ When pricing is not public, use public: false and an empty plans array. Do not i
 
 ## SAMPLE DATA: Kalvenor Systems
 
-Kalvenor is fictional (Sample data, fictional company). Every example fact below is illustrative and describes no real company. Example domains do not represent a live vendor site.
+Kalvenor is our example vendor (Sample data, fictional company). Every example fact below is illustrative and describes no real company. Example domains do not represent a live vendor site.
 
 ```json
 {

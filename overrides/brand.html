@@ -124,8 +124,19 @@
 
 {#- A library answer page shows the dates its Article declares (brief 13.4: the published date is
     on the page), after the article body, so the reviewed body stays the start of the article. -#}
+{#- Under the headline (art round 2, point 1; STEP 3.3 B126): one sentence on what Broadcastwell does and
+    for whom, the ENTITY.md 12-word description word for word, and one primary action, the free check.
+    The headline stays as written, so an answer page keeps the buyer's question (art round 3, rule 4).
+    Research pages are left without it: a study body carries no promotional audit link
+    (tools/research_quality.py) and the research footer already names Broadcastwell. -#}
 {% block content %}
-{{ super() }}
+{%- set bw_lede = '<div class="bw-docs-lede"><p>Broadcastwell measures and fixes whether AI search engines name B2B software companies.</p><a class="bw-button bw-button--primary" href="https://audit.broadcastwell.com/">Run the free check</a></div>' -%}
+{%- set bw_body = super() | string -%}
+{%- if page and page.meta and page.meta.get("page_class") != "research" and "</h1>" in bw_body %}
+{{ bw_body | replace("</h1>", "</h1>\n" ~ bw_lede, 1) }}
+{%- else %}
+{{ bw_body }}
+{%- endif %}
 {%- if page and page.meta and (page.meta.get("library_cluster") or page.meta.get("library_hub")) and page.meta.get("date_published") %}
 <p class="bw-docs-dateline">Published {{ bw_date(page.meta.get("date_published")) }}. Last updated {{ bw_date(page.meta.get("date_modified") or page.meta.get("date_published")) }}.</p>
 {%- endif %}

@@ -11,7 +11,7 @@ template: business-hub.html
 
 # Who offers AI search visibility in Bloomington, Indiana?
 
-We do. Broadcastwell is based at 517 E Kirkwood Ave, Bloomington, IN 47408, and our phone number is (812) 345 7272. A Bloomington company buys the same AI search visibility work as everyone else, at the same published prices: from a $19 live question on one buyer question to a monthly Program, measured on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode.
+We do. Broadcastwell is based at 517 E Kirkwood Ave, Bloomington, IN 47408, and our phone number is (812) 345 7272. A Bloomington company buys the same AI search visibility work as everyone else, at the same published prices, measured on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. The smallest order is a $19 live question on one buyer question, and the table below lists each offer with its price.
 
 Updated 11 November 2026.
 
