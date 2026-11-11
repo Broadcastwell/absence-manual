@@ -9,7 +9,7 @@ description: None of the three volumes measures elapsed time to effect. Every ti
 page_class: chapter
 schema_type: TechArticle
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
 
@@ -57,7 +57,7 @@ By the end of this chapter you will know why nobody, including this manual, can 
 
 ## The engines change on their own schedule too
 
-**Measured, Volume III.** The four engines were collected in a single window on one day precisely so that engine drift between windows could not be mistaken for engine divergence, and Volume III states that a refill collected in a second window was deliberately declined for that reason. **Reasoned.** If a study designed around this problem treats a gap of hours as material, then a gap of months between two commercial measurements contains an unknown amount of product change. Some of any movement a buyer is shown over a quarter belongs to the engine rather than to the work, and no measurement design available to a vendor can separate the two.
+**Measured, Volume III.** The four engines were collected in a single window on one day, 4 August 2026, precisely so that engine drift between windows could not be mistaken for engine divergence, and Volume III states that a refill collected in a second window was deliberately declined for that reason. **Reasoned.** If a study designed around this problem treats a gap of hours as material, then a gap of months between two commercial measurements contains an unknown amount of product change. Some of any movement a buyer is shown over a quarter belongs to the engine rather than to the work, and no measurement design available to a vendor can separate the two.
 
 ## Three things move at once, and only one is yours
 

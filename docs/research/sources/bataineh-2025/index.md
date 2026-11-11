@@ -7,13 +7,13 @@ research_id: 15
 research_group: source
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/sources/bataineh-2025/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.1080/23311975.2025.2491678
 ---
 
@@ -118,7 +118,7 @@ We grade the Jordan study B for the observational perception evidence used here.
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

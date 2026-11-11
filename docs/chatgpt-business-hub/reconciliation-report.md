@@ -5,15 +5,15 @@ description: Our monthly format sets ChatGPT Business Hub impressions and clicks
 page_class: page
 schema_type: TechArticle
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
 # How do you reconcile ChatGPT Hub counts with receipts?
 
-Put the month's ChatGPT Business Hub impressions and clicks beside our receipts for the same month, give every difference one reason code, and leave unstated anything neither record shows. The format below is filled with a fictional Kalvenor sample for October 2026. Its Hub numbers are illustrative and fictional, because the Hub was unreleased when we wrote it.
+Put the month's ChatGPT Business Hub impressions and clicks beside our receipts for the same month, give every difference one reason code, and leave unstated anything neither record shows. The format below is filled with a fictional Kalvenor sample (Sample data, fictional company) for October 2026. Its Hub numbers are illustrative and fictional, because the Hub was unreleased when we wrote it.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 ## What each record counts
 

@@ -67,6 +67,13 @@ SAME_AS = [
     "https://github.com/Broadcastwell",
 ]
 
+# The ENTITY.md profile set (brief 13.5, 10 November 2026): the sameAs of the one Organization block.
+ENTITY_SAME_AS = [
+    "https://www.linkedin.com/company/broadcastwell", "https://x.com/broadcastwellhq",
+    "https://www.youtube.com/@Broadcastwell", "https://www.instagram.com/broadcastwell/",
+    "https://www.tiktok.com/@broadcastwell.com", "https://broadcastwell.substack.com/",
+]
+
 # Public copy rules for STEP 3.1, matched case-insensitively as whole phrases.
 BANNED_PHRASES = [
     "category audit", "white-label category audit", "ai visibility diagnostic", "re-measure",
@@ -500,10 +507,12 @@ class PageStructureTests(unittest.TestCase):
                 self.assertEqual(meta["page_class"], "page")
                 self.assertIn(meta["schema_type"], {"Article", "TechArticle"})
                 self.assertEqual(meta["date_published"], "2026-11-09T00:00:00+00:00")
-                self.assertEqual(meta["date_modified"], "2026-11-09T00:00:00+00:00")
+                # STEP 3.3 B117 changed some of these pages; their modified date is that change.
+                self.assertIn(meta["date_modified"], ("2026-11-09T00:00:00+00:00", "2026-11-11T07:30:00Z"))
                 self.assertEqual(meta["template"], "business-hub.html")
                 self.assertEqual(re.findall(r"(?m)^# (.+)$", re.sub(r"(?ms)^```.*?^```", "", body)), [meta["title"]])
-                self.assertIn("\n" + UPDATED_LINE + "\n", body)
+                updated = "Updated 11 November 2026." if meta["date_modified"] == "2026-11-11T07:30:00Z" else UPDATED_LINE
+                self.assertIn("\n" + updated + "\n", body)
                 self.assertIn("## Sources", body)
 
     def test_each_page_links_the_other_four_and_the_explainer(self):
@@ -672,8 +681,10 @@ class ClientReadinessTests(unittest.TestCase):
 
 
 class OrganizationSameAsTests(unittest.TestCase):
-    """The followup template (and business-hub, which extends it) swaps the registered pages' shared
-    sameAs for the seven current profiles; main.html and the shared footer keep their reviewed bytes."""
+    """Every page outside the 45 registered pages carries the one ENTITY.md Organization (STEP 3.3 B117,
+    brief 13.4 and 13.5): brand.html, which followup.html and business-hub.html extend, replaces
+    main.html's docs-only block with it, sameAs the six ENTITY.md profiles; main.html and the shared
+    footer keep their reviewed bytes. The business facts files keep their seven-profile list."""
 
     def setUp(self):
         self.followup = (ROOT / "overrides" / "followup.html").read_text(encoding="utf-8")
@@ -683,10 +694,16 @@ class OrganizationSameAsTests(unittest.TestCase):
     def shared_same_as(self):
         return json.loads(re.search(r"\{% set org_same_as = (\[.*?\]) %\}", self.main, re.S).group(1))
 
-    def test_followup_template_replaces_the_shared_list_with_the_seven_profiles_in_order(self):
-        old = '"sameAs": ' + json.dumps(self.shared_same_as())
-        new = '"sameAs": ' + json.dumps(SAME_AS)
-        self.assertIn("{{ super() | replace('" + old + "', '" + new + "') }}", self.followup)
+    def test_brand_template_replaces_the_docs_organization_with_the_entity_organization(self):
+        brand = (ROOT / "overrides" / "brand.html").read_text(encoding="utf-8")
+        old = re.search(r'\{% set bw_old_org = (\{.*?\}) %\}', brand, re.S).group(1)
+        self.assertEqual(json.loads(old)["sameAs"], self.shared_same_as())
+        self.assertIn('"@id": "https://docs.broadcastwell.com/#organization"', self.main)
+        self.assertIn('"@id": bw_org_id', brand)
+        self.assertIn('{% set bw_org_id = "https://broadcastwell.com/#organization" %}', brand)
+        entity = re.search(r'"sameAs": (\[[^\]]*\])\n\} %\}\n\{#- The team record', brand, re.S).group(1)
+        self.assertEqual(json.loads(entity), ENTITY_SAME_AS)
+        self.assertNotIn("replace('\"sameAs\"", self.followup)
         self.assertEqual(len(set(SAME_AS)), 7)
 
     def test_registered_shared_templates_keep_their_reviewed_bytes(self):

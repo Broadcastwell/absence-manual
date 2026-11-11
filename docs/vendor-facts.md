@@ -6,7 +6,7 @@ description: An open JSON schema for vendor facts, with a complete fictional exa
 page_class: page
 schema_type: Article
 date_published: '2026-10-06T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 ---
 
 # Vendor Facts File v1
@@ -50,7 +50,7 @@ When pricing is not public, use public: false and an empty plans array. Do not i
 
 ## SAMPLE DATA: Kalvenor Systems
 
-Kalvenor is fictional. Every example fact below is illustrative and describes no real company. Example domains do not represent a live vendor site.
+Kalvenor is fictional (Sample data, fictional company). Every example fact below is illustrative and describes no real company. Example domains do not represent a live vendor site.
 
 ```json
 {

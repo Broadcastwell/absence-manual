@@ -7,13 +7,13 @@ research_id: 11
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/state-of-geo-research-2026/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://arxiv.org/html/2311.09735v3
 ---
 
@@ -89,7 +89,7 @@ There is a trade-off between a rapidly updated discovery list and a deeply verif
 
 ## What our own data shows
 
-**Supports:** Our contribution here is the [dated literature record](../../data/literature-census-2026-10-30.csv) and [query/access log](../../data/literature-search-log-2026-10-30.csv): 61 arXiv abstract-screen records, seven primary-verified empirical peer-reviewed works, and an explicit incomplete-coverage boundary. These are bibliographic tallies, not random-sample proportions, so no Wilson estimate of a field prevalence is made. Our own [September answer archive](https://doi.org/10.5281/zenodo.22907695) remains a separate measured record; it does not certify the outside papers or establish a publishing tactic’s causal effect.
+**Supports:** Our contribution here is the [dated literature record](../../data/literature-census-2026-10-30.csv) and [query/access log](../../data/literature-search-log-2026-10-30.csv): 61 arXiv abstract-screen records, seven primary-verified empirical peer-reviewed works, and an explicit coverage boundary. These are bibliographic tallies, not random-sample proportions, so no Wilson estimate of a field prevalence is made. Our own [September answer archive](https://doi.org/10.5281/zenodo.22907695) remains a separate measured record; it does not certify the outside papers or establish a publishing tactic’s causal effect.
 
 **Does not support:** Future rankings or a causal publishing effect.
 
@@ -115,7 +115,7 @@ There is a trade-off between a rapidly updated discovery list and a deeply verif
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

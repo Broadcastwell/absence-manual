@@ -5,15 +5,15 @@ description: A free content strategy template for AI search visibility in Markdo
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
 # What goes in a content strategy for AI search visibility?
 
-A content strategy for AI search visibility starts from a frozen set of buyer questions and a dated baseline, ranks the questions where you are absent, assigns each fix an owner and a status, and states how a later run will be compared. Our free template has 18 fields, in Markdown and CSV, and below we fill it on the fictional Kalvenor sample.
+A content strategy for AI search visibility starts from a frozen set of buyer questions and a dated baseline, ranks the questions where you are absent, assigns each fix an owner and a status, and states how a later run will be compared. Our free template has 18 fields, in Markdown and CSV, and below we fill it on the fictional Kalvenor sample (Sample data, fictional company).
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 A strategy is a plan for one category over a stated period. It sits above the briefs: each priority it names becomes one [content brief](content-brief.md). It names no target rank, because no one can make ChatGPT, Claude, Perplexity, Google AI Overviews or Google AI Mode name a company.
 

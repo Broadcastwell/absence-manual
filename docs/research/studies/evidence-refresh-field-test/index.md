@@ -6,13 +6,13 @@ research_id: 53
 research_group: study
 lead: Vikram Patel
 published: '2026-11-03T00:21:05Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/evidence-refresh-field-test/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-11-03T00:21:05Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.17605/OSF.IO/DMFPJ
 ---
 
@@ -110,7 +110,7 @@ Read the [research hub](../../), the [page-signature study](../optimized-pages-i
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

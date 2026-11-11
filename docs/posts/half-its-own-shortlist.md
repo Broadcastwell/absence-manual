@@ -9,7 +9,7 @@ description: Across 62 and 74 repeat pairs on a 25-question subsample, Google AI
 page_class: note
 schema_type: TechArticle
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 image: figures/within-vs-between.png
 is_based_on: https://doi.org/10.5281/zenodo.21789120
 ---
@@ -28,7 +28,7 @@ is_based_on: https://doi.org/10.5281/zenodo.21789120
 
 **Reasoned.** That has a consequence for every cross-engine comparison ever published. Any measured difference between two engines contains an unknown amount of the same variation you would get by asking one engine twice. Unless the noise floor is measured on the same questions in the same window, a divergence headline is not interpretable at all. It is a number whose denominator has not been stated.
 
-**Measured, Volume III.** The 2026 State of GEO, Volume III, put 280 B2B software buyer questions across 40 categories to four production AI search engines in a single window, 05:28 to 16:29 UTC on 2026-08-04. A stratified subsample of 25 questions, balanced across question shapes, was run three times on all four engines specifically so the engine-to-engine difference could be read against each engine's own run-to-run noise.
+**Measured, Volume III.** The 2026 State of GEO, Volume III, put 280 B2B software buyer questions across 40 categories to four production AI search engines in a single window, 05:28 to 16:29 UTC on 2026-08-04. A stratified subsample of 25 questions, balanced across question shapes, was run three times on all four engines in that 4 August 2026 window specifically so the engine-to-engine difference could be read against each engine's own run-to-run noise.
 
 ## What went wrong, and why it is disclosed
 

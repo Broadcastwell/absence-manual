@@ -5,7 +5,7 @@ description: 'Our rule for local pages, dated 9 November 2026: we draft a city o
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 We write local pages for a city or region only when we hold local evidence for that place: a local address, a local customer we may name, or a local source we can cite. An editor rejects any city or regional draft without at least one of the three. This is our editorial rule, dated 9 November 2026, and it applies to every page we build for a client and for ourselves.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 A page that swaps one city name for another tells a buyer nothing new about that city. Google's spam policies, last updated 28 August 2026, list "Having multiple domain names or pages targeted at specific regions or cities that funnel users to one page" as an example of doorway abuse. Our rule is stricter than avoiding that pattern: the page must carry evidence that belongs to the place.
 
@@ -22,7 +22,7 @@ A page that swaps one city name for another tells a buyer nothing new about that
 1. **Evidence first.** Before drafting, the writer records at least one piece of acceptable local evidence for the named city or region, with its source and the date it was checked.
 2. **Evidence on the page.** The draft states that evidence in its first section, so a reader sees why the page exists.
 3. **Editor's decision.** An editor other than the writer checks the evidence against its source. If it is missing or fails a check below, the editor rejects the draft with a rejection reason. A rejected draft is not published.
-4. **No placeholder pages.** We do not publish a thin page for a place while evidence is gathered. The page waits until the evidence exists.
+4. **No thin pages.** We do not publish a thin page for a place while evidence is gathered. The page waits until the evidence exists.
 
 ## Acceptable local evidence
 

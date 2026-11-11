@@ -5,7 +5,7 @@ description: Lesson 4 of our free AI visibility course reads the sources AI answ
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 Lesson 4 of our AI visibility course: the sources an answer cites show where an engine looked, and each engine looks in a different mix of places. In September 2026, vendor websites made up 85.7 percent of ChatGPT's citation entries but 19.3 percent of Perplexity's. Read the cited sites before you decide which page or listing to work on.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Reading time: about 5 minutes. Lesson 4 of 5 in [the course](index.md). [Previous lesson](lesson-3-find-the-base.md).
 
@@ -44,7 +44,7 @@ A citation is evidence of where the engine pointed, not proof that it trusted th
 
 ## Exercise
 
-The fictional Kalvenor sample, a made-up field service software company, publishes how many of its 518 fictional scored answers cited each domain:
+The fictional Kalvenor sample (Sample data, fictional company), a made-up field service software company, publishes how many of its 518 fictional scored answers cited each domain:
 
 | Domain (fictional sample) | Answers citing it, of 518 |
 | --- | ---: |

@@ -7,13 +7,13 @@ research_id: 44
 research_group: study
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/who-ai-engines-cite/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.5281/zenodo.22907695
 research_dataset:
   name: B2B software answer citation classes and concentration
@@ -103,7 +103,7 @@ The public host table supplies each host's class, evidence URL, rationale, verif
 
 ## What did the frozen primary classification produce?
 
-![Other accounts for 44.4% of target citation entries, exceeding the checked-vendor class at 30.5%.](../../data/citation-classes.svg)
+![Other accounts for 44.4% of target citation entries, exceeding the checked-vendor class at 30.5%.](../../data/citation-classes.svg){ width="800" height="510" }
 
 | Primary class | Citation entries / 18,893 | Share and descriptive 95% Wilson interval |
 |---|---:|---|
@@ -172,7 +172,7 @@ Classification coverage remains unresolved. Publisher evidence may clarify other
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

@@ -9,13 +9,13 @@ hide:
 - navigation
 - toc
 date_published: '2026-09-24T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 ---
 
 # Choose ten buyer questions worth investigating
 
 <div class="bw-learning">
-<nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><article><p class="eyebrow">Planning / BW-RESOURCE-03</p><figure><img class="visual" src="/assets/learning/visuals/buyer-questions.svg" alt="Start with a defined buyer decision, choose ten distinct evaluation needs and review the wording as a versioned question set. The number of questions is a scope choice, not search-volume evidence."><figcaption>Start with a defined buyer decision, choose ten distinct evaluation needs and review the wording as a versioned question set. The number of questions is a scope choice, not search-volume evidence.</figcaption></figure>
+<nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><article><p class="eyebrow">Planning / BW-RESOURCE-03</p><figure><img width="800" height="450" class="visual" src="/assets/learning/visuals/buyer-questions.svg" alt="Start with a defined buyer decision, choose ten distinct evaluation needs and review the wording as a versioned question set. The number of questions is a scope choice, not search-volume evidence."><figcaption>Start with a defined buyer decision, choose ten distinct evaluation needs and review the wording as a versioned question set. The number of questions is a scope choice, not search-volume evidence.</figcaption></figure>
 <p><strong>Version:</strong> bw-content-2026-09-24-v1 | <strong>Claim ID:</strong> BW-RESOURCE-03 | <strong>Prepared:</strong> 2026-09-24</p>
 <p><strong>Decision:</strong> Confirm a useful question set without inventing demand.</p>
 <p>Original Broadcastwell proposed operating method. Synthetic examples illustrate the method; they are not observed client outcomes.</p>

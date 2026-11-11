@@ -6,7 +6,7 @@ description: How our measurements report named answers, source citations and sha
 page_class: note
 schema_type: Article
 date_published: '2026-10-13T00:00:00+00:00'
-date_modified: '2026-11-03T17:32:11+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 ---
 
 # The three measured rates
@@ -37,7 +37,7 @@ Recorded descriptions of the company and its rivals carry the number of supporti
 
 These descriptive measures are separate from the Fix Sprint payment tests in the [current terms](https://broadcastwell.com/terms). Those tests use named answers, cited as a source and record accuracy; share of voice is not a payment test. The wider 35 question program method and historical measurements retain their own scope.
 
-The [Kalvenor findings sample](https://app.broadcastwell.com/sample/findings) uses fictional **SAMPLE DATA** to show the reporting format. Its figures do not describe a real customer or a future result.
+The [Kalvenor findings sample](https://app.broadcastwell.com/sample/findings) (Sample data, fictional company) uses fictional **SAMPLE DATA** to show the reporting format. Its figures do not describe a real customer or a future result.
 
 The separate [bot access resource](bot-access.md) explains the limits of server requests and HTML checks. These rates measure captured answers; they do not establish why a source was chosen or what a buyer did next.
 

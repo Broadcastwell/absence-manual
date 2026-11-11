@@ -5,7 +5,7 @@ description: Our client account runs 39 analyses on your own delivered measureme
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,11 +13,11 @@ template: business-hub.html
 
 Thirty-nine analyses run in a Broadcastwell client account, and all of them are available now. Each one reads your own delivered measurement, quotes the receipts it relies on and saves its result for your team to review. Nothing is published, sent or changed for you.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Every analysis below says what it reads, what it returns item by item and, where one applies, the label that ships with every result. A result screen shows when the attempt ran (UTC), its status, the measurement and the passes it read, and how many receipts it read. The receipts come from our measurement of ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode under our [method](https://broadcastwell.com/methodology), version 1.1, so an analysis is only as current as the delivered measurement it read.
 
-Until your account holds a delivered measurement, each screen shows the analysis on Kalvenor Systems, a fictional company, labeled as an example; it is never a result about you. Once it does, the example stays one click away. Analyses that need outside search, ad, shopping, social, traffic or link data are shown on the fictional sample only and read none of your data.
+Until your account holds a delivered measurement, each screen shows the analysis on Kalvenor Systems (Sample data, fictional company), labeled as an example; it is never a result about you. Once it does, the example stays one click away. Analyses that need outside search, ad, shopping, social, traffic or link data are shown on the fictional sample only and read none of your data.
 
 The terms used here are defined in our [AI search glossary](ai-search-glossary.md). Our [product documentation](product-docs.md) covers what you can do without an account, and our [service model](service-model.md) shows where this work sits in an engagement. The analyses run inside a Broadcastwell account, which you can open with the [Free Account and 14-Day Tracking Trial](https://app.broadcastwell.com/offers/free-account-and-14-day-tracking-trial) or the [Question Tracking Plan](https://app.broadcastwell.com/offers/question-tracking-plan).
 
@@ -43,7 +43,7 @@ What story do the answers tell about your category? Finds the recurring themes a
 
 ### Tone change alert
 
-Did the way answers describe you change since the last pass? Compares the two latest passes engine by engine and reports whether you are named less, named more, or described differently, with the receipts from both passes.
+Did the way answers describe you change since the last pass? Compares the two latest passes engine by engine. If you are named less, named more or described differently, it reports the change with the receipts from both passes.
 
 **What it reads.** Answers from the two latest passes of your monthly measurement, up to 100.
 

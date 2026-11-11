@@ -8,7 +8,7 @@ description: Among the 100 most-cited domains in Volume I, 77.4% of citations re
 page_class: chapter
 schema_type: TechArticle
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.5281/zenodo.21537014
 faq:
 - question: How does Perplexity work?
@@ -162,7 +162,7 @@ Read the [GEO Hub](https://broadcastwell.com/insights), [measurement definitions
 
 ## Why comparing citation studies is harder than it looks
 
-**Reasoned.** Two studies can report very different vendor-owned shares without either being wrong, because the share depends on which subset was classified, how the taxonomy draws its lines, which engine was measured and when. Chapter 5 at [/engine-divergence/](https://docs.broadcastwell.com/engine-divergence/) shows the same quantity varying substantially between four engines measured in a single window, which puts a floor under how much of the disagreement between published studies is real difference rather than methodological difference.
+**Reasoned.** Two studies can report very different vendor-owned shares without either being wrong, because the share depends on which subset was classified, how the taxonomy draws its lines, which engine was measured and when. Chapter 5 at [/engine-divergence/](https://docs.broadcastwell.com/engine-divergence/) shows the same quantity varying substantially between four engines measured in a single window on 4 August 2026, which puts a floor under how much of the disagreement between published studies is real difference rather than methodological difference.
 
 ## What this chapter does not claim
 

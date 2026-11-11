@@ -7,13 +7,13 @@ research_id: 45
 research_group: study
 lead: Ananya Rao
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/does-absence-persist/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.17605/OSF.IO/MKJ9V
 research_dataset:
   name: Registered protocol for persistence of vendor presence
@@ -160,7 +160,7 @@ The Study 2 timing departure remains separately recorded. It authorized that alr
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

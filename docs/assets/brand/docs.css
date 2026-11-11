@@ -629,3 +629,16 @@ body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result 
 .md-typeset a.bw-button--primary, .md-typeset a.bw-button--primary:hover, .md-typeset a.bw-button--primary:focus { color: var(--bw-color-paper); }
 .md-typeset a.bw-button--secondary { color: var(--bw-color-accent); }
 .md-typeset a.bw-button--secondary:hover, .md-typeset a.bw-button--secondary:focus { color: var(--bw-color-accent-strong); }
+
+/* Brand 3.0.2: the wordmark never wraps, at 320px or any other width. */
+.bw-logotype { white-space: nowrap; overflow-wrap: normal; word-break: keep-all; flex-shrink: 0; }
+
+/* The dates a library answer declares, under its article. */
+.md-typeset .bw-docs-dateline { margin: var(--bw-space-24) 0 0; font-size: var(--bw-text-16); line-height: var(--bw-leading-16); color: var(--bw-color-ink-secondary); }
+
+/* Below 76.25em the chapter drawer waits off the page; until it is opened it stays out of the tab order
+   and away from screen readers (site tests D0101, D0102, D0130 to D0153 and D0162 to D0167). */
+@media screen and (max-width: 76.234375em) {
+  .md-sidebar--primary { visibility: hidden; transition: transform .25s cubic-bezier(.4, 0, .2, 1), box-shadow .25s, visibility 0s linear .25s; }
+  [data-md-toggle="drawer"]:checked ~ .md-container .md-sidebar--primary { visibility: visible; transition: transform .25s cubic-bezier(.4, 0, .2, 1), box-shadow .25s, visibility 0s; }
+}

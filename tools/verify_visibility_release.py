@@ -6,6 +6,7 @@ import argparse, collections, hashlib, json, re
 import xml.etree.ElementTree as ET
 from library_publication_consumers import _HeadAndArticle
 from library_visibility_release import require
+from team_record import expected_author
 
 BASE = 'https://docs.broadcastwell.com/'
 
@@ -45,6 +46,12 @@ def validate(site, decisions, reviewed_additions=()):
         head = Page(); head.feed((site/path).read_text(encoding='utf8'))
         expected[row['url']] = {'title':head.title,'description':head.meta['description'][0]}
     require(len(expected) == 395, 'All 395 eligible pages are required')
+    # The two standalone data pages keep their own reviewed bytes and their Broadcastwell creator.
+    static_urls = {row['url'] for row in decisions['static_pages'].values()}
+    def author_ok(node, url):
+        if url in static_urls:
+            return (node or {}).get('name') == 'Broadcastwell'
+        return node == expected_author(expected[url])
     titles = []; descriptions = []; incoming = collections.Counter(); all_links = {}
     types = collections.Counter(); rows = []
     ns = {'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
@@ -83,7 +90,9 @@ def validate(site, decisions, reviewed_additions=()):
                 require([x['position'] for x in items] == list(range(1,len(items)+1)), 'Breadcrumb positions differ')
                 require(items[-1]['item'] == url, 'Breadcrumb destination differs')
             if kind in {'Article','TechArticle'}:
-                require(schema.get('author',{}).get('name') == 'Broadcastwell', 'Article author differs')
+                # Brief 13.4 (STEP 3.3 B117): the byline person with the team-record role, or the one
+                # Organization by reference (tools/team_record.py).
+                require(author_ok(schema.get('author'), url), 'Article author differs: '+url)
                 require(schema.get('datePublished') and schema.get('dateModified') == decisions['revision_utc'], 'Article dates differ')
             if kind == 'FAQPage':
                 for item in schema['mainEntity']:
@@ -91,7 +100,7 @@ def validate(site, decisions, reviewed_additions=()):
                     require(' '.join(item['acceptedAnswer']['text'].split()) in visible, 'FAQ answer is not visible: '+url)
             if kind == 'Dataset':
                 require(schema.get('name') and schema.get('description') and schema.get('url') == url and schema.get('distribution'), 'Dataset fields are incomplete')
-                require(schema.get('creator',{}).get('name') == 'Broadcastwell', 'Dataset creator differs')
+                require(author_ok(schema.get('creator'), url), 'Dataset creator differs: '+url)
                 require(schema.get('citation','').startswith('https://doi.org/') or schema.get('identifier') == url, 'Dataset needs its actual DOI or undeclared-DOI canonical identifier')
             require(kind in {'Organization','Article','TechArticle','BreadcrumbList','FAQPage','DefinedTerm','Dataset'}, 'An unreviewed schema type was introduced')
         if url.startswith(BASE+'answers/') and len(urlsplit(url).path.strip('/').split('/')) == 3:

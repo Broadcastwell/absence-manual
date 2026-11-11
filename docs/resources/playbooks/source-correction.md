@@ -11,7 +11,7 @@ hide:
 - navigation
 - toc
 date_published: '2026-09-24T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 ---
 
 # Source-correction review
@@ -51,7 +51,7 @@ date_modified: '2026-10-20T00:00:00+00:00'
 </tbody>
 </table>
 <p><a href="/assets/playbooks/source-correction-steps-2026-11-09.csv" download="source-correction-steps-2026-11-09.csv">Download the steps as CSV</a>, with an input and owner column for each step.</p>
-<p><strong>Fictional worked example.</strong> A saved answer says the fictional Kalvenor Systems "has no offline mode". Kalvenor's approved facts say technicians can complete checklists offline and sync later, so step 2 classes the sentence as wrong. Step 3 finds that the answer cited an old comparison page; step 4 drafts a two-sentence correction linking Kalvenor's current product page; step 7 later records the comparison page as updated and, separately, whether a re-check on the same questions still carries the sentence.</p>
+<p><strong>Fictional worked example.</strong> A saved answer says the fictional Kalvenor Systems (Sample data, fictional company) "has no offline mode". Kalvenor's approved facts say technicians can complete checklists offline and sync later, so step 2 classes the sentence as wrong. Step 3 finds that the answer cited an old comparison page; step 4 drafts a two-sentence correction linking Kalvenor's current product page; step 7 later records the comparison page as updated and, separately, whether a re-check on the same questions still carries the sentence.</p>
 <p>The terms used here are defined in our <a href="/ai-search-glossary/">AI search glossary</a>, and our <a href="/rfp-guide/">RFP guide</a> lists the questions to ask a vendor that offers to do this work for you.</p>
 <h2>Authority and maintenance</h2>
 <p>Read, reason and draft only. No provider calls, spending, production edits or sending. Preserve contracts and active work. Review the underlying facts with the accountable owner before applying a task card to real work. Re-evaluate when the rules, fixture or method changes; changed hashes do not inherit an earlier content approval.</p>

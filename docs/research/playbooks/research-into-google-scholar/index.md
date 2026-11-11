@@ -7,13 +7,13 @@ research_id: 30
 research_group: playbook
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/playbooks/research-into-google-scholar/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf
 ---
 
@@ -115,7 +115,7 @@ Our [published workbook reanalysis](/research/data/rovira-workbook-reanalysis.cs
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

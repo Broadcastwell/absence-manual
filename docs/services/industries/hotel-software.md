@@ -5,7 +5,7 @@ description: 'How our published offers apply to hotel software: 25 checked vendo
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 For hotel software, our offers start from the September 2026 Absence Index: 25 checked hotel vendors and 149 valid answers captured on 22 September 2026. Cloudbeds was named in 115 of them and Stayntouch in 68. We measure your own hotel questions the same way, repair the page or source behind a missing or wrong answer, then check again.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Every hotel capture covers ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, each kept apart in the report. None of our offers buys a placement, and none covers a single engine on its own.
 
@@ -31,7 +31,7 @@ Every hotel capture covers ChatGPT, Claude, Perplexity, Google AI Overviews and 
 | Hotel vendors never named | 5 of 25 |
 | Hotel answers with no cited entry | 2 of 149, 1.3% (0.4% to 4.8%) |
 
-Among the 1,275 hotel citations, vendor sites came first at 39.1% (36.4% to 41.8%), then review platforms at 7.5% and directories and listicles at 4.9%; the "other" class, hosts we could not place in one role, held 40.3%.
+Among the 1,275 [hotel citations](../../answers/industries/which-sources-do-ai-answers-cite-for-hotel-software.md) captured on 22 September 2026, vendor sites came first at 39.1% (36.4% to 41.8%), then review platforms at 7.5% and directories and listicles at 4.9%. The "other" class, hosts we could not place in one role, held 40.3%.
 
 See [hotel software missing from AI answers](../../answers/industries/why-is-my-hotel-software-missing-from-ai-answers.md) for absences, [sources AI answers cite for hotel software](../../answers/industries/which-sources-do-ai-answers-cite-for-hotel-software.md) for hosts, and the [Cloudbeds record](https://index.broadcastwell.com/vendors/cloudbeds/hotel-property-management/) for receipts.
 

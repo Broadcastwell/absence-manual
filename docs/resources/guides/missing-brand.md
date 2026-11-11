@@ -9,13 +9,13 @@ hide:
 - navigation
 - toc
 date_published: '2026-09-24T00:00:00+00:00'
-date_modified: '2026-10-20T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 ---
 
 # Your brand was missing. What does that actually tell you?
 
 <div class="bw-learning">
-<nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><article><p class="eyebrow">Evidence / BW-RESOURCE-02</p><figure><img class="visual" src="/assets/learning/visuals/missing-brand.svg" alt="First confirm a completed reviewed answer and alias check. Then assess whether the question fits the buyer. Finally seek independent page or fact evidence before proposing a bounded change."><figcaption>First confirm a completed reviewed answer and alias check. Then assess whether the question fits the buyer. Finally seek independent page or fact evidence before proposing a bounded change.</figcaption></figure>
+<nav class="bw-learning-nav" aria-label="Learning resources"><a href="/resources/">Resources</a><a href="/resources/playbooks/">Eight playbooks</a><a href="/resources/audit/sample/">Fictional Audit</a><a href="/resources/demos/recordings/">Recorded demos</a><a href="/resources/provenance/sources/">Sources</a></nav><article><p class="eyebrow">Evidence / BW-RESOURCE-02</p><figure><img width="800" height="450" class="visual" src="/assets/learning/visuals/missing-brand.svg" alt="First confirm a completed reviewed answer and alias check. Then assess whether the question fits the buyer. Finally seek independent page or fact evidence before proposing a bounded change."><figcaption>First confirm a completed reviewed answer and alias check. Then assess whether the question fits the buyer. Finally seek independent page or fact evidence before proposing a bounded change.</figcaption></figure>
 <p><strong>Version:</strong> bw-content-2026-09-24-v1 | <strong>Claim ID:</strong> BW-RESOURCE-02 | <strong>Prepared:</strong> 2026-09-24</p>
 <p><strong>Decision:</strong> Choose investigation, question refinement or no change after an absence.</p>
 <p>Original Broadcastwell proposed operating method. Synthetic examples illustrate the method; they are not observed client outcomes.</p>

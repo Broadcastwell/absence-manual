@@ -5,7 +5,7 @@ description: Lesson 3 of our free AI visibility course finds the base behind a v
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 Lesson 3 of our AI visibility course: the base is the number of valid answers a rate is divided by, and it decides how much the rate can be trusted. Failed, empty and refused answers leave both the count and the base. A rate printed without its base, or without the interval that base supports, cannot be checked.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Reading time: about 4 minutes. Lesson 3 of 5 in [the course](index.md). [Previous lesson](lesson-2-repeat-the-question.md).
 
@@ -34,7 +34,7 @@ That last rule matters. If a failed capture were scored as "not named", every co
 
 ## Reading a rate with its interval
 
-Take the fictional Kalvenor sample, a made-up company we publish to show the format. Its fictional baseline planned 525 answers, excluded 7 and scored 518.
+Take the fictional Kalvenor sample (Sample data, fictional company), a made-up company we publish to show the format. Its fictional baseline planned 525 answers, excluded 7 and scored 518.
 
 | Fictional sample | Count and base | Rate | 95% Wilson interval |
 | --- | --- | ---: | --- |

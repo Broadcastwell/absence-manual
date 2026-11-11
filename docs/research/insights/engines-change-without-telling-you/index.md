@@ -7,13 +7,13 @@ research_id: 6
 research_group: insight
 lead: Priya Nair
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/insights/engines-change-without-telling-you/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.3390/fi11090202
 ---
 
@@ -25,7 +25,7 @@ is_based_on: https://doi.org/10.3390/fi11090202
 Observed answers on stated dates, not a ranking.
 Web of Science produced an unexpectedly citation-like ordering during **20 to 25 May 2019**, according to Rovira and colleagues. Their explanation that the service was testing a different relevance order was an inference, not an operator-confirmed experiment. [Rovira et al., 2019, §4](https://docs.broadcastwell.com/research/source-archives/rovira-2019.pdf).
 
-Our August and September Index tables illustrate a related comparison problem. The August observation used **four engines**; September used **five**, adding Google AI Mode. Both used fixed category questions and repeated observations, but the pooled configurations differ. We state that before placing their standings side by side.
+Our August and September Index tables illustrate a related comparison problem. The August 2026 observation used **four engines**; September 2026 used **five**, adding Google AI Mode. Both used fixed category questions and repeated observations, but the pooled configurations differ. We state that before placing their standings side by side.
 
 You can read both records as dated observations. You cannot attribute their differences to a vendor's actions, an engine update or a visibility trend from these tables alone. There is no matched counterfactual identifying any of those causes.
 
@@ -115,7 +115,7 @@ This creates an inconvenience for a headline: a side-by-side table can remain in
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

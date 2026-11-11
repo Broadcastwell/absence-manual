@@ -7,13 +7,13 @@ research_id: 47
 research_group: study
 lead: Vikram Patel
 published: '2026-10-30T03:55:00Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/studies/ai-crawler-log/
 sources_verified: true
 schema_type: TechArticle
 date_published: '2026-10-30T03:55:00Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://developers.openai.com/api/docs/bots
 research_dataset:
   name: Broadcastwell public Index crawler-request observations
@@ -129,7 +129,7 @@ The initial interval remains an historical snapshot rather than being overwritte
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

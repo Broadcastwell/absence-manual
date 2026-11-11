@@ -7,13 +7,13 @@ research_id: 41
 research_group: glossary
 lead: Vikram Patel
 published: '2026-11-02T20:27:14Z'
-updated: '2026-11-04T15:17:51Z'
+updated: '2026-11-11T07:30:00Z'
 next_review: '2027-02-02T14:00:00Z'
 canonical: https://docs.broadcastwell.com/research/glossary/agent-discovery-optimization/
 sources_verified: true
 schema_type: Article
 date_published: '2026-11-02T20:27:14Z'
-date_modified: '2026-11-04T15:17:51Z'
+date_modified: '2026-11-11T07:30:00Z'
 is_based_on: https://doi.org/10.5281/zenodo.18728630
 defined_term: Agent discovery optimization
 ---
@@ -84,7 +84,7 @@ Publication correction, November 2, 2026: October 30 was the draft date; this pa
 
 OSF preprint: not pursued.
 
-Email research@broadcastwell.com.
+Email index@broadcastwell.com.
 
 ## Cite this page
 

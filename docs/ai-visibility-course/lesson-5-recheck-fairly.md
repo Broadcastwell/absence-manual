@@ -5,7 +5,7 @@ description: Lesson 5 of our free AI visibility course tests whether a page chan
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 The last lesson of our AI visibility course: you can only tell whether a page change helped by asking the same frozen questions on the same engines under the same method, and by checking untouched control questions at the same time. A change counts only when its interval clears zero, and a fall is recorded exactly like a rise.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Reading time: about 5 minutes. Lesson 5 of 5 in [the course](index.md). [Previous lesson](lesson-4-read-the-sources.md).
 
@@ -40,7 +40,7 @@ There is no fourth verdict and no score. Repeated runs are correlated, so the pr
 
 ## A fall, recorded the same way
 
-In the fictional Kalvenor sample, Kalvenor was named on ChatGPT in 15 of 29 answers in the baseline run of 12 July 2026, and in 0 of 10 in the monthly run of 12 August 2026. The intervals, 34.4 to 68.6 percent and 0.0 to 27.8 percent, do not overlap, so the sample records a fall on ChatGPT. Both bases are small, and the record says so. A report that only shows rises is a sales document, not a measurement.
+In the fictional Kalvenor sample (Sample data, fictional company), Kalvenor was named on ChatGPT in 15 of 29 answers in the baseline run of 12 July 2026, and in 0 of 10 in the monthly run of 12 August 2026. The intervals, 34.4 to 68.6 percent and 0.0 to 27.8 percent, do not overlap, so the sample records a fall on ChatGPT. Both bases are small, and the record says so. A report that only shows rises is a sales document, not a measurement.
 
 ## Exercise
 

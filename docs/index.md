@@ -6,7 +6,7 @@ description: Measure naming and citations separately with a fixed question bank,
 schema_type: TechArticle
 page_class: page
 date_published: '2026-08-18T00:00:00+00:00'
-date_modified: '2026-11-05T18:05:00Z'
+date_modified: '2026-11-11T07:30:00Z'
 image: figures/absence-ladder.png
 is_based_on: https://github.com/Broadcastwell/state-of-geo-2026
 ---
@@ -53,7 +53,7 @@ Every chapter has its own permanent URL and stands alone. Statistics carry their
 
 ## Reading paths
 
-### I need to understand the category
+### You need to understand the category {#i-need-to-understand-the-category}
 
 About 20 minutes.
 
@@ -61,7 +61,7 @@ About 20 minutes.
 2. [One in three vendors is never named](named-zero-times.md)
 3. [The Absence Ladder](absence-ladder.md)
 
-### I need to evaluate a provider
+### You need to evaluate a provider {#i-need-to-evaluate-a-provider}
 
 About 25 minutes.
 
@@ -69,7 +69,7 @@ About 25 minutes.
 2. [How to buy GEO without getting sold a number](how-to-buy-geo.md)
 3. [Scoring and matching specification](scoring-spec.md)
 
-### I need to run a measurement program
+### You need to run a measurement program {#i-need-to-run-a-measurement-program}
 
 About 30 minutes.
 
@@ -131,7 +131,7 @@ We turn the Absence Index into buyer answers we build, maintain and warrant on y
 
 **Fix Sprint, $3,900 ($3,410 after the $490 entry is credited, once).** Six contracted pages or rewrites over 30 days, including any credited entry page. One primary test is agreed before payment and measured again at day 30: naming, own-domain citation or buyer-task completion. Measured gain on the agreed test, or the full $3,900 back. You keep the work.
 
-**One live buyer question, $19 once.** One buyer question of your choosing: five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three repeats and 15 planned answers with receipts, delivered within 24 hours of payment. $19 once, credited in full against Answer Repair within 30 days of payment for the same account, so the repair then costs $471. If we do not deliver within 24 hours of payment, we refund the $19 in full.
+**One live buyer question, $19 once.** One buyer question of your choosing: five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), three repeats and 15 planned answers with receipts, delivered within 24 hours of payment. $19 once, credited in full against the $490 Answer Repair within 30 days for the same account. If we do not deliver within 24 hours of payment, we refund the $19 in full.
 
 **Care, $490 a month.** Only after setup. Integrity monitoring for up to 150 already-approved existing pages and two human hours a month. No new pages. Requires an explicit purchase, with no automatic enrollment.
 

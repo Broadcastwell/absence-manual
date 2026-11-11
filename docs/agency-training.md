@@ -5,7 +5,7 @@ description: Our free agency training path takes a team from reading one AI answ
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 Our agency training covers four things an agency team needs before it puts our evidence in front of a client: reading an AI answer without overclaiming, approving ten buyer questions, checking a delivered report against its order, and handing the report to the client. It is free, takes about three and a half hours, and uses fictional practice files only.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 The path strings together material we already publish. The lessons are open modules of [Broadcastwell Launchpad](launchpad.md); the preparation steps come from our agency onboarding guide, reviewed 6 November 2026; the practice report is the fictional agency workspace. This page puts them in order, adds exercises with answers, and says which parts are the agency's job and which are ours.
 
@@ -54,7 +54,7 @@ Our [operating framework](operating-framework.md) quotes every delivery clock an
 
 ## Exercises
 
-Each exercise uses the fictional company Kalvenor Systems. Nothing in them is a client result.
+Each exercise uses the fictional company Kalvenor Systems (Sample data, fictional company). Nothing in them is a client result.
 
 **1. The deadline.** Your reviewer records scope confirmation at 14:00 UTC on Friday 6 November 2026. When are findings due?
 

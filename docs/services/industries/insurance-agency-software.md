@@ -5,7 +5,7 @@ description: 'Our offers for insurance agency software: 19 checked vendors, 150 
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 Our work for insurance agency software uses one dated record as its baseline: across 150 valid insurance agency answers captured on 22 September 2026, Applied Systems appeared in 127 and EZLynx in 111, out of 19 checked vendors. Each offer measures your agreed insurance agency questions, fixes a page or source we can show sits behind an answer, and re-checks the same questions.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Every insurance agency capture covers ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, each kept apart in the report. None of our offers buys a placement, and none covers a single engine on its own.
 
@@ -31,7 +31,7 @@ Every insurance agency capture covers ChatGPT, Claude, Perplexity, Google AI Ove
 | Insurance agency vendors never named | 5 of 19 |
 | Insurance agency answers with no cited entry | 1 of 150, 0.7% (0.1% to 3.7%) |
 
-Among the 1,459 insurance agency citations, vendor sites came first at 23.4% (21.3% to 25.6%), then review platforms at 13.4% and news and trade media at 5.0%; the "other" class, hosts we could not place in one role, held 48.8%.
+Among the 1,459 [insurance agency citations](../../answers/industries/which-sources-do-ai-answers-cite-for-insurance-agency-software.md) captured on 22 September 2026, vendor sites came first at 23.4% (21.3% to 25.6%), then review platforms at 13.4% and news and trade media at 5.0%. The "other" class, hosts we could not place in one role, held 48.8%.
 
 Two companion pages go deeper: [why insurance agency software can be missing](../../answers/industries/why-is-my-insurance-agency-software-missing-from-ai-answers.md) and [the insurance agency source hosts](../../answers/industries/which-sources-do-ai-answers-cite-for-insurance-agency-software.md). The Index also publishes a per-vendor [Applied Systems record](https://index.broadcastwell.com/vendors/applied-systems/insurance-agency-management/).
 

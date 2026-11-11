@@ -5,15 +5,15 @@ description: Our product documentation covers eight free tasks, from the fiction
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
 # What does our product documentation cover?
 
-Our product documentation covers the eight things you can do with Broadcastwell without talking to us: read the fictional sample account, run the free 10-question check, build or validate an llms.txt file, validate a business facts file, connect an assistant to the fictional Kalvenor connector, set up an AI referral channel, look up a vendor in your browser and cite our data.
+Our product documentation covers the eight things you can do with Broadcastwell without talking to us: read the fictional sample account, run the free 10-question check, build or validate an llms.txt file, validate a business facts file, connect an assistant to the fictional Kalvenor connector (Sample data, fictional company), set up an AI referral channel, look up a vendor in your browser and cite our data.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Each task below states what it does, its limits, one worked example on public or fictional data, and an expected output you can download and compare. Kalvenor Systems is a fictional company; every Kalvenor value is sample data, not a client result. Paid work is described on our [service model](service-model.md) page and is not needed for anything here. The analyses that run inside a client account, on its own delivered measurement, are listed with what each reads and returns on our [account analyses](account-analyses.md) page.
 

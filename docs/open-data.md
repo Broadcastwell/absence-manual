@@ -5,7 +5,7 @@ description: Our open data catalog lists 65 research tables and six Index releas
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 All of our open data downloads without a form, an account or a fee: 65 research tables on this site and six Absence Index release files, each listed below with its rows, columns, size, SHA-256 hash, license and the page that states its method and limits. Every count we publish traces back to one of these files.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Reuse is free under CC BY 4.0 with attribution to Broadcastwell, the terms set out on our [free academic access page](research/academic-access/index.md). Cite the release or report DOI when a result depends on a fixed version; our page on [how to cite our research](cite.md) gives the formats.
 
@@ -151,7 +151,7 @@ Two dated notices from 3 November 2026 belong beside the report files: the [auth
 
 Client measurements are never here: client baselines, findings, question sets and outcomes need written approval before anything is published. Analysis programs and reproduction notes are published beside the tables and listed, with their hashes, in the [Study 1 manifest](research/data/study1-file-manifest.csv) and the [Study 2 manifest](research/data/study2-file-manifest.csv). Charts drawn from these tables are listed in our [chart library](chart-library.md), and the words in the column names are defined in our [AI search glossary](ai-search-glossary.md).
 
-For an export that is not in the public package, such as a category cut or a question list, email research@broadcastwell.com.
+For an export that is not in the public package, such as a category cut or a question list, email index@broadcastwell.com.
 
 ## Sources
 

@@ -5,7 +5,7 @@ description: Our AI referral analytics template for GA4, documented with its exa
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
@@ -13,7 +13,7 @@ template: business-hub.html
 
 Track AI referral traffic with one custom channel in Google Analytics 4 that matches the assistants' own web addresses, placed above Referral. Our free [GA4 AI-referral channel template](https://app.broadcastwell.com/tools/ai-referral-channel) gives that channel; this page documents it with downloads, test cases and the limits Google states. Google AI Overviews and AI Mode visits stay in Organic Search, where GA4 files them.
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 A referral record tells you that your analytics classified a visit by its source. It does not tell you which question the visitor asked, what the answer said about you or whether a sale followed. Our answer on [what a recorded AI referral establishes](answers/measurement/what-does-a-recorded-ai-referral-establish.md) keeps those events apart, and the template is built the same way.
 
@@ -21,7 +21,7 @@ A referral record tells you that your analytics classified a visit by its source
 
 | Where the visit starts | Where it lands by default | What the provider says |
 | --- | --- | --- |
-| ChatGPT, Gemini, Microsoft Copilot and some other assistants | GA4 default channel "AI Assistant" | Google's default channel page names "ChatGPT, Gemini, Deepseek, Copilot, or Grok" as example sources; the full list is not on that page |
+| ChatGPT, Microsoft Copilot and the other assistants Google lists | GA4 default channel "AI Assistant" | Google's default channel page names ChatGPT, Deepseek, Copilot, Grok and Google's own assistant as example sources; the full list is not on that page |
 | Claude, Perplexity | Not named on that page | Our template names both, so they are counted on purpose rather than by an unpublished list |
 | Google AI Overviews and Google AI Mode | GA4 "Organic Search" | Google's default channel page says the AI Assistant channel excludes them and Organic Search includes them |
 | Google AI Overviews and Google AI Mode, in Search Console | Performance report, "Web" search type | Google Search Central says these features are part of overall search traffic; page last updated 10 December 2025 |
@@ -43,7 +43,7 @@ In GA4, open Admin, then Data display, then Channel groups, and make a copy of y
 
     ^(.*\.)?(chatgpt\.com|chat\.openai\.com|claude\.ai|perplexity\.ai|copilot\.microsoft\.com|copilot\.cloud\.microsoft)$
 
-Coverage as of 2 November 2026 is six hosts: chatgpt.com, chat.openai.com, claude.ai, perplexity.ai, copilot.microsoft.com and copilot.cloud.microsoft, plus any subdomain of them, such as www.perplexity.ai. It is a conservative list of identifiable referral hosts, not a list of the engines we measure. Gemini is not in it; Google names Gemini among its own AI Assistant examples, and your copied rules below the new channel still apply to it.
+Coverage as of 2 November 2026 is six hosts: chatgpt.com, chat.openai.com, claude.ai, perplexity.ai, copilot.microsoft.com and copilot.cloud.microsoft, plus any subdomain of them, such as www.perplexity.ai. It is a conservative list of identifiable referral hosts, not a list of the engines we measure. Google's own assistant is not in it; Google names that assistant among its AI Assistant examples, and your copied rules below the new channel still apply to it.
 
 The pattern is anchored at both ends, so a host that only contains one of these names, such as `chatgpt.com.example`, stays in Referral.
 

@@ -5,15 +5,15 @@ description: Every field of a finished AI visibility case on the fictional Kalve
 page_class: page
 schema_type: Article
 date_published: '2026-11-09T00:00:00+00:00'
-date_modified: '2026-11-09T00:00:00+00:00'
+date_modified: '2026-11-11T07:30:00Z'
 template: business-hub.html
 ---
 
 # What does a completed AI visibility case show?
 
-**Fictional sample.** A completed AI visibility case shows the company, the agreed buyer questions and their base, the capture dates, the five engines, the named count before and after with each base and its Wilson 95 percent interval, the sources the engines cited, the commercial fields the client supplies, and the client's written permission to publish. Every value below comes from the fictional Kalvenor sample.
+**Fictional sample.** A completed AI visibility case shows the company, the agreed buyer questions and their base, the capture dates, the five engines, the named count before and after with each base and its Wilson 95 percent interval, the sources the engines cited, the commercial fields the client supplies, and the client's written permission to publish. Every value below comes from the fictional Kalvenor sample (Sample data, fictional company).
 
-Updated 9 November 2026.
+Updated 11 November 2026.
 
 Kalvenor Systems is a fictional field service software company. Its figures are published in our [fictional sample](https://app.broadcastwell.com/sample) to show the format, and they describe no client and no real result. This page describes no client case.
 
