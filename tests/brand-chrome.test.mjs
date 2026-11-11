@@ -20,7 +20,7 @@ const links = html => [...html.matchAll(/<a\b[^>]*href="([^"]+)"[^>]*>([\s\S]*?)
 test('the vendored brand package names the version it was copied from', () => {
   assert.equal(vendored.version, version.version);
   assert.equal(vendored.built_at, version.built_at);
-  assert.equal(version.version, '3.0.0');
+  assert.equal(version.version, '3.0.1');
 });
 
 test('every vendored brand file is present and byte-identical to VERSION.json', () => {
@@ -97,12 +97,14 @@ test('the shared partials are brand/nav.json through the one renderer, with no f
   }
 });
 
-test('SHARED_NAV is one switch, off by default, and the brand frame reads it for header and footer', () => {
-  assert.match(read('mkdocs.yml'), /^  SHARED_NAV: false$/m);
+test('SHARED_NAV is one switch and the brand frame reads it for header, footer and search', () => {
+  assert.match(read('mkdocs.yml'), /^  SHARED_NAV: (true|false)$/m);
   assert.equal((read('mkdocs.yml').match(/SHARED_NAV:/g) || []).length, 1);
   const frame = read('overrides/brand.html');
   assert.equal((frame.match(/\{%-? if config\.extra\.SHARED_NAV -?%\}/g) || []).length, 3);
   for (const name of ['header-shared', 'header-today', 'footer-shared', 'footer-today']) assert.ok(frame.includes(`partials/brand/${name}.html`), name);
+  assert.equal((frame.match(/"material\/search" in config\.plugins and not config\.extra\.SHARED_NAV/g) || []).length, 2, 'the manual search panel and button are drawn only with the switch off');
+  assert.match(read(`${OUT}/header-shared.html`), /href="https:\/\/app\.broadcastwell\.com\/search"/);
   assert.match(read('overrides/followup.html'), /^\{% extends "brand\.html" %\}/);
   assert.match(read('overrides/404.html'), /^\{% extends "brand\.html" %\}/);
   assert.match(read('overrides/main.html'), /^\{% extends "base\.html" %\}/);

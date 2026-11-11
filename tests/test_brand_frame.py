@@ -60,9 +60,39 @@ class BrandFrameTests(unittest.TestCase):
     def footer(html):
         return html[html.rindex('<footer class="bw-site-footer'):html.rindex("</footer>")]
 
-    def test_the_switch_is_off_by_default(self):
-        self.assertIs(self.default, False)
+    def test_the_switch_is_one_boolean(self):
+        self.assertIsInstance(self.default, bool)
         self.assertEqual(len(re.findall(r"^\s*SHARED_NAV:", (ROOT / "mkdocs.yml").read_text(encoding="utf-8"), re.M)), 1)
+
+    def test_one_search_control_in_each_state(self):
+        # R-147: with the shared navigation on, its site-wide Search is the only search control.
+        off, on = self.hub(False), self.hub(True)
+        self.assertIn('data-md-component="search"', off)
+        self.assertIn('data-manual-toggle="__search"', off)
+        self.assertNotIn("app.broadcastwell.com/search", off)
+        self.assertNotIn('data-md-component="search"', on)
+        self.assertNotIn('data-manual-toggle="__search"', on)
+        self.assertEqual(len(re.findall(r'class="bw-site-nav__action" href="https://app\.broadcastwell\.com/search"', on)), 1)
+        for html in (off, on):
+            self.assertIn('data-manual-toggle="__drawer"', html)
+            self.assertIn('data-md-component="header"', html)
+
+    def test_research_article_bodies_carry_no_contact_link(self):
+        # R-147: verify_build.py checks the research rule on the article body; the shared header and
+        # footer carry the doors, the phone and the email on every page.
+        pattern = re.compile(r"mailto:|tel:|hello@broadcastwell|broadcastwell\.com/contact")
+        research = [p for p in sorted((ROOT / "docs").rglob("*.md"))
+                    if re.search(r"^page_class:\s*research\s*$", p.read_text(encoding="utf-8"), re.M)]
+        self.assertEqual(len(research), 53)
+        for path in research:
+            with self.subTest(page=path.relative_to(ROOT).as_posix()):
+                self.assertIsNone(pattern.search(path.read_text(encoding="utf-8")))
+        meta = {"title": "Study", "template": "followup.html", "description": "d", "page_class": "research",
+                "updated": "2026-11-01", "next_review": "2027-02-01"}
+        for shared in (False, True):
+            html = self.render(shared, "research/studies/example/index.md", meta)
+            article = re.search(r"(?s)<article(?:\s[^>]*)?>(.*)</article>", html).group(1)
+            self.assertIsNone(pattern.search(article), shared)
 
     def test_off_draws_todays_links_in_the_brand_markup(self):
         html = self.hub(False)
@@ -100,7 +130,7 @@ class BrandFrameTests(unittest.TestCase):
                 self.assertEqual(html.count('class="bw-skip"'), 1)
                 self.assertIn('class="bw-skip" href="#title">Skip to content</a>', html)
                 self.assertIn('class="md-header bw-docs-header" data-md-component="header"', html)
-                self.assertIn('data-md-component="search"', html)
+                self.assertEqual('data-md-component="search"' in html, not shared)
                 self.assertIn('data-manual-toggle="__drawer"', html)
                 self.assertIn('assets/brand/docs.css" media="all">', html)
                 self.assertIn('assets/brand/nav.js" defer></script>', html)
@@ -142,6 +172,9 @@ class BrandFrameTests(unittest.TestCase):
                 context = get_context(Navigation([], []), Files([]), self.config, None)
                 html = env.get_template("404.html").render(context)
                 self.assertIn("<title>Page not found | The Absence Manual</title>", html)
+                # R-147: GitHub Pages answers a missing address with this page and status 404; the
+                # page itself carries no robots meta tag (no noindex).
+                self.assertNotRegex(html, r'(?i)<meta[^>]+name="robots"|noindex')
                 self.assertIn("You are on docs.broadcastwell.com", html)
                 self.assertIn('<a href="https://docs.broadcastwell.com/">Go to the manual', html)
                 self.assertIn('class="bw-button bw-button--primary" href="https://audit.broadcastwell.com/">Run the free check</a>', html)

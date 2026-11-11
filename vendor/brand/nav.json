@@ -49,7 +49,7 @@
     }
   ],
   "actions": [
-    { "id": "search", "label": "Search", "href": "https://broadcastwell.com/sitemap", "intended": "https://app.broadcastwell.com/search", "style": "nav", "icon": "search" },
+    { "id": "search", "label": "Search", "href": "https://app.broadcastwell.com/search", "intended": "https://app.broadcastwell.com/search", "style": "nav", "icon": "search" },
     { "id": "signin", "label": "Sign in", "href": "https://app.broadcastwell.com/signin", "style": "nav" },
     { "id": "talk", "label": "Talk to us", "href": "https://broadcastwell.com/contact", "style": "secondary", "door": 2 },
     { "id": "start", "label": "Start free", "href": "https://audit.broadcastwell.com/", "style": "primary", "door": 1 }

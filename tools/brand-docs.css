@@ -49,9 +49,6 @@ body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result 
 .md-typeset code, .md-typeset kbd, .md-typeset pre { font-family: var(--bw-font-mono); }
 :where(.md-container, .bw-docs-header, .bw-document-tools) :focus-visible { outline: var(--bw-focus-width) var(--bw-focus-style) var(--bw-focus-color); outline-offset: var(--bw-focus-offset); }
 
-/* The brand components are drawn border-box, as inside a .bw-page document. */
-.bw-docs-header :is(*, *::before, *::after), .bw-site-footer :is(*, *::before, *::after), .bw-docs-notfound :is(*, *::before, *::after) { box-sizing: border-box; }
-
 /* One skip link: the brand header's. It targets the first heading, or the main region. */
 .md-skip { display: none; }
 #bw-main:focus { outline: none; }
@@ -224,13 +221,3 @@ body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result 
 .md-typeset a.bw-button--primary, .md-typeset a.bw-button--primary:hover, .md-typeset a.bw-button--primary:focus { color: var(--bw-color-paper); }
 .md-typeset a.bw-button--secondary { color: var(--bw-color-accent); }
 .md-typeset a.bw-button--secondary:hover, .md-typeset a.bw-button--secondary:focus { color: var(--bw-color-accent-strong); }
-
-/* At 320 to 359px the shared bar (wordmark, Start free, menu) is wider than the screen: the menu
-   button keeps its icon and its name for assistive technology, and the bar's gaps tighten, so
-   nothing scrolls sideways. */
-@media (max-width: 359px) {
-  .bw-docs-header .bw-site-nav__bar { gap: var(--bw-space-4); }
-  .bw-docs-header .bw-site-nav__phone-start { padding-inline: var(--bw-space-8); }
-  .bw-docs-header .bw-site-nav__menu-button { gap: 0; padding-inline: var(--bw-space-12); }
-  .bw-docs-header .bw-site-nav__menu-button span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
-}

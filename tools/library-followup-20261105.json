@@ -2963,7 +2963,7 @@
     "docs/assets/ai-referral/ai-referrals-channel-group.csv": "e0c64121ee5ace5cd4cfb309d3704f1b51815cbbf68b5f4292c0032ed10ea547",
     "docs/assets/ai-referral/ai-referrals-source-regex.txt": "84cacfe6e4cc1dcfa8c44da9ace38ac2739caec9473ebd6b8faea03cc1d3c250",
     "docs/assets/ai-referral/ai-referrals-test-cases.csv": "76e7fbc345dc81e8e1d4a24690af807c3ec6b40df1c3c01353a68110b1bf7a40",
-    "docs/assets/brand/docs.css": "3493d5bccde06670779ba5fd396f42cfb2b60d23b6097f56abc4a203017397f7",
+    "docs/assets/brand/docs.css": "665cb3fb65081bdcecfe7c34216dd63d4f74807ee2745b77a7e1abf5f8cdc019",
     "docs/assets/brand/fonts/LICENSE-Geist-OFL.txt": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f",
     "docs/assets/brand/fonts/LICENSE-Newsreader-OFL.txt": "fdfad38143ec470553cae82a1e45320bdd1b9ec70415d37bd0171051d8a4ded8",
     "docs/assets/brand/fonts/geist-latin-var.woff2": "6ba2ee738a5770309a1a3f0488ff3d9024f9cc80aa49bf7c9b1c7d1ac7b9af66",
@@ -3418,20 +3418,20 @@
     "docs/workshops.md": "d7d49239f94e3590331e7f3d1c93ea758151d0cb4f420fc4395a00e70874393a",
     "mkdocs.yml": "349086548129115b461d5addf0ce08b79da4c0409195cd0dcf9bbf06451139e5",
     "overrides/404.html": "c725b52c0883b70e3dfd31b2e086c99d41af6ebaa415a0a08ad09b4d736b27ed",
-    "overrides/brand.html": "e4e68b5aa42c605704bc91ce886ea486a8226ee30609a29a50ac355f0e2f57a9",
+    "overrides/brand.html": "0ab0a4cbc5f9ebfddb65b8048ff36ad9b9275cfc8925c6b6908b0a127e7225b4",
     "overrides/business-hub.html": "cc4a7e74c68d63c9d19e125db9b07cb55b8ae442553029a2526f634c8d33fecf",
     "overrides/followup.html": "27d6d1eb5981939750ca79f89582a791c1ae674c07cb2baba0478f945b76dd7c",
     "overrides/main.html": "c9b405202180e534f5d109831a4909054d5a9c65ce6f96432ab47526576d2ebe",
     "overrides/partials/brand/footer-shared.html": "01858b7f845196a78ce28fda6d2851ab8b87dbed6d9acfff8c896c8aa3eed336",
     "overrides/partials/brand/footer-today.html": "cca1126074892591b15564d0ae31713ee9ae1e35ca45aed469904d4c777a47a1",
-    "overrides/partials/brand/header-shared.html": "813a9e2da71dde158f496ff38fb44bdfbf34abc6c81eb98756dba7fb31aeb43e",
+    "overrides/partials/brand/header-shared.html": "396ac8ac176f58de6165036b27237a8cb22aaabff06f288fa7eaeb30a59876eb",
     "overrides/partials/brand/header-today.html": "b1da864504d2b90fb2fdeab5499321796ea8c2b12286711ebe486c95d1bb6fd2",
     "overrides/partials/search.html": "a798fba1287e449df90d727699ff31c62244e87b75aa6409c8bda3ee6981e36e",
     "overrides/partials/site-footer.html": "e6e9779e8dfd20592f937e39502ab40bcbc2102c29473e89741dc271e124ca41",
     "overrides/partials/site-header.html": "30cb7ee07e8cd08ba7d5568d8dc47e60917efce4e7ee0006b6b2f1312d2e8f29",
     "overrides/partials/source.html": "a32177306cade0a1dda1edde40f4c041382c92cc243fdc67a41b76180ac23fe2",
     "requirements.txt": "c54032bcc4d5615e468ab1f72b4a6b54bf5b5264a0f35110cf68e0f3c084a21f",
-    "tests/brand-chrome.test.mjs": "69c1e97f4dfbbcaadf3210174ef175d07d48d51de997be6cce7647ab123675f9",
+    "tests/brand-chrome.test.mjs": "ef8233c6a37725cc0c03a34ec838dad6bc8d77c2f75a9a5112b43a29fc63d9ef",
     "tests/fixtures/discovery-consumer-five/actual-public-baseline.json": "3a135c9a89cf8b75f56ebba054d38162751f0ba66ba1d50c0f0a51ded979ed40",
     "tests/fixtures/discovery-consumer-five/actual-root-hub-date-event.json": "57db83b10ec6aa6e449f0b8d32eea1f78ebf607b4ea020e300beebf6371458a8",
     "tests/fixtures/generated-pdf-inventory/SOURCE.json": "38c1679923f3de39b0faa68cab99bc6c243028621decdfea95de6c236a0c8006",
@@ -3531,7 +3531,7 @@
     "tests/test_answers_published_audit.py": "25f9d5e89aed99a18b58fa0a0e353b9e2b2b907590ef8d6f7b5cc32fb1546a01",
     "tests/test_answers_published_audit_extension.py": "435ae8594558f75afc871b0fa69d56669abb7edfab54186a37d2b547c3e587ed",
     "tests/test_answers_published_list_audit.py": "a04a21d9ee1ebe6bf6f5b39d62bd3b60f0901860b40d2784bbe12e00dd93f86f",
-    "tests/test_brand_frame.py": "3bca423f4171e2cfac0d367ff26c1c46e8417c487f9af5fa09dcda71967c32b8",
+    "tests/test_brand_frame.py": "6a36e9c50b5915e3d705125fde407e202cc6ec57fd63ae0abca31e1c6d770301",
     "tests/test_chatgpt_business_hub.py": "37e1cbfa07c54ef226ac792e6d5031b56c839da66736cdd6ece33e17b20d1911",
     "tests/test_discovery_consumer_five.py": "e725ad9bf46e0299f62037ffa956ad5a69b1574748ec14d53eb56368d08eb4cf",
     "tests/test_docs_account_analyses.py": "4d24d5584c43aaf37a7474d2315a29200bc99783a949350c15ba4cc8483b8faf",
@@ -3588,7 +3588,7 @@
     "tests/test_research_study_closing.py": "5da4a14c821853ebc012aee357a023b302bf05094d1e29247e4fb655d5aa5b43",
     "tests/test_research_support.py": "e4727726e94d6dcaf51b24730c2c2654cf104f927fab4c99a6c929832836ad5a",
     "tests/test_verified_preview.py": "0648a8d2a614bc6820e582a818716eac9e3ea1e42be6a9d503d296c8cba4e8e4",
-    "tools/brand-docs.css": "fef0cea591dbee1c423729de0dcb811f974d6abc6b8b3bf50deeb383d01ccf01",
+    "tools/brand-docs.css": "0cc070a3c1f682caeb138d4b3bf154fd9ee030b479f8d70cfdc6a462cc4965e3",
     "tools/brand_chrome.mjs": "cb9808ad73982d05330fd54816579300f87685e5fff5a19a4730ef8e1ce51284",
     "tools/build_pdf.py": "064b431cde319e7250ace3562ff4f312cb915990fe96b2bf8202bd7caf0a73b3",
     "tools/generate_answers_llms.py": "28e72ac6b729800e0bb1696cc49a1a09466f752ceb955ad732e0a539096def13",
@@ -5261,12 +5261,12 @@
     "tools/step31-navigation-deviation.json": "0938fbe5d64f2251de13cfedea2dbface64d08613f503b6dc09c452c3cb8b6a1",
     "tools/validate_preview.py": "c8aa781495d967de92cdb7f2b08088ecec66be7a89cadb5b1291e2f15beec153",
     "tools/verify_answers.py": "1dd41db3bd3fc2b8fc714e90a2a23eb39f140b380a0e4da55be7ae8a9f7a2485",
-    "tools/verify_build.py": "3b9519ff102412661bb424d2264b08b5444f5e1ebca1b60922cd59e921e444d7",
+    "tools/verify_build.py": "4cc52d2c95fe991eca55f24d10ed039009e24773de3f7e57e39f1f9d6ea33b26",
     "tools/verify_library_field_freeze.py": "55ceb989c98c298d025d5be6cd87a00de0704ba320535af2ce278d2b23eb7fbf",
     "tools/verify_visibility_release.py": "c863e65b5021a5cbc4b98336697bc5d91b1e8c7e6743fde02aac5bc81954752f",
-    "vendor/brand/VENDORED.json": "5b38b4f59428c94d01fa967b4feb92ef322355a4d66a393df0b646581604b28f",
-    "vendor/brand/VERSION.json": "2f329c91712ae1e9fc7ab23937143ab86a3ec1cf2458d73df0b17420f0cf9799",
-    "vendor/brand/components.css": "a73d10b6ee8561de0579e2576a726a96ace2050a647120162b070467ffc27989",
+    "vendor/brand/VENDORED.json": "21bcc576cc11e316c60db587b7a35d5f1aee0c22300e9d06c6802e1279e7958d",
+    "vendor/brand/VERSION.json": "98e05442c4b8aa7113f673003a16ae7b2589eb013d751870c30b63f143614cf7",
+    "vendor/brand/components.css": "70774faa175e0dc7c20d6d971a6c40c668ccb7e74a886359bc3e5d03241171c8",
     "vendor/brand/fonts/LICENSE-Geist-OFL.txt": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f",
     "vendor/brand/fonts/LICENSE-Newsreader-OFL.txt": "fdfad38143ec470553cae82a1e45320bdd1b9ec70415d37bd0171051d8a4ded8",
     "vendor/brand/fonts/geist-latin-var.woff2": "6ba2ee738a5770309a1a3f0488ff3d9024f9cc80aa49bf7c9b1c7d1ac7b9af66",
@@ -5275,9 +5275,9 @@
     "vendor/brand/fonts/newsreader-text-latin.woff2": "776d56d1c376fbe583b0f4cd1fb45b42aa6536f982ca51dff9a6de03f8dc2539",
     "vendor/brand/nav-render.mjs": "3674fa55af88b3f16cd9912928c2046842794f1ff4f4450cc31f522013866654",
     "vendor/brand/nav.js": "e0b03faecee8107573dc1025e279e87be103e2e24a5fcbb620cbbe63018428d1",
-    "vendor/brand/nav.json": "12ed1e96e4d0a712c12c2ddb99cab44f853f7a4b4f5be598229cd8399478161b",
+    "vendor/brand/nav.json": "3314ad56ed5ce8f42ba3bec66713d41c4e6672916f4c6c0cd7152ef8ee5135f3",
     "vendor/brand/sync.mjs": "be644df10c2caaecd1507b6e908ce2a6bd20789e0d05a701dda2c4fb53959e76",
-    "vendor/brand/tokens.css": "a20ab770bc85f1158c69d446b2f3632df835378c1796eac00fa2f9fcab58741c"
+    "vendor/brand/tokens.css": "b93058b230f86c336b92397ed8d5586c881e9201f4a0328933973da89f2eb028"
   },
   "effective_dates": {
     "answers/chatgpt/which-legal-practice-software-does-chatgpt-recommend.md": "2026-11-05T18:05:00Z"
@@ -6107,7 +6107,7 @@
       "before_sha256": null
     },
     "docs/assets/brand/docs.css": {
-      "after_sha256": "3493d5bccde06670779ba5fd396f42cfb2b60d23b6097f56abc4a203017397f7",
+      "after_sha256": "665cb3fb65081bdcecfe7c34216dd63d4f74807ee2745b77a7e1abf5f8cdc019",
       "before_sha256": null
     },
     "docs/assets/brand/fonts/LICENSE-Geist-OFL.txt": {
@@ -6535,7 +6535,7 @@
       "before_sha256": null
     },
     "overrides/brand.html": {
-      "after_sha256": "e4e68b5aa42c605704bc91ce886ea486a8226ee30609a29a50ac355f0e2f57a9",
+      "after_sha256": "0ab0a4cbc5f9ebfddb65b8048ff36ad9b9275cfc8925c6b6908b0a127e7225b4",
       "before_sha256": null
     },
     "overrides/business-hub.html": {
@@ -6555,7 +6555,7 @@
       "before_sha256": null
     },
     "overrides/partials/brand/header-shared.html": {
-      "after_sha256": "813a9e2da71dde158f496ff38fb44bdfbf34abc6c81eb98756dba7fb31aeb43e",
+      "after_sha256": "396ac8ac176f58de6165036b27237a8cb22aaabff06f288fa7eaeb30a59876eb",
       "before_sha256": null
     },
     "overrides/partials/brand/header-today.html": {
@@ -6563,7 +6563,7 @@
       "before_sha256": null
     },
     "tests/brand-chrome.test.mjs": {
-      "after_sha256": "69c1e97f4dfbbcaadf3210174ef175d07d48d51de997be6cce7647ab123675f9",
+      "after_sha256": "ef8233c6a37725cc0c03a34ec838dad6bc8d77c2f75a9a5112b43a29fc63d9ef",
       "before_sha256": null
     },
     "tests/site-chrome.test.mjs": {
@@ -6571,7 +6571,7 @@
       "before_sha256": "ec5708427ce32d343d719468ed10b4348b14f2ea498ad24ebe28ecf7303c0a51"
     },
     "tests/test_brand_frame.py": {
-      "after_sha256": "3bca423f4171e2cfac0d367ff26c1c46e8417c487f9af5fa09dcda71967c32b8",
+      "after_sha256": "6a36e9c50b5915e3d705125fde407e202cc6ec57fd63ae0abca31e1c6d770301",
       "before_sha256": null
     },
     "tests/test_chatgpt_business_hub.py": {
@@ -6615,7 +6615,7 @@
       "before_sha256": "e991ea8c113d1325b73d33ba06090d47c94c64994f0ff127d27fa816c4326a14"
     },
     "tools/brand-docs.css": {
-      "after_sha256": "fef0cea591dbee1c423729de0dcb811f974d6abc6b8b3bf50deeb383d01ccf01",
+      "after_sha256": "0cc070a3c1f682caeb138d4b3bf154fd9ee030b479f8d70cfdc6a462cc4965e3",
       "before_sha256": null
     },
     "tools/brand_chrome.mjs": {
@@ -6687,7 +6687,7 @@
       "before_sha256": null
     },
     "tools/verify_build.py": {
-      "after_sha256": "3b9519ff102412661bb424d2264b08b5444f5e1ebca1b60922cd59e921e444d7",
+      "after_sha256": "4cc52d2c95fe991eca55f24d10ed039009e24773de3f7e57e39f1f9d6ea33b26",
       "before_sha256": "33f61566ecf6c11ef2229f0d328bb24e5aa1bc04a17e2cdcd8ab8ae2db54706d"
     },
     "tools/verify_visibility_release.py": {
@@ -6695,15 +6695,15 @@
       "before_sha256": null
     },
     "vendor/brand/VENDORED.json": {
-      "after_sha256": "5b38b4f59428c94d01fa967b4feb92ef322355a4d66a393df0b646581604b28f",
+      "after_sha256": "21bcc576cc11e316c60db587b7a35d5f1aee0c22300e9d06c6802e1279e7958d",
       "before_sha256": null
     },
     "vendor/brand/VERSION.json": {
-      "after_sha256": "2f329c91712ae1e9fc7ab23937143ab86a3ec1cf2458d73df0b17420f0cf9799",
+      "after_sha256": "98e05442c4b8aa7113f673003a16ae7b2589eb013d751870c30b63f143614cf7",
       "before_sha256": null
     },
     "vendor/brand/components.css": {
-      "after_sha256": "a73d10b6ee8561de0579e2576a726a96ace2050a647120162b070467ffc27989",
+      "after_sha256": "70774faa175e0dc7c20d6d971a6c40c668ccb7e74a886359bc3e5d03241171c8",
       "before_sha256": null
     },
     "vendor/brand/fonts/LICENSE-Geist-OFL.txt": {
@@ -6739,7 +6739,7 @@
       "before_sha256": null
     },
     "vendor/brand/nav.json": {
-      "after_sha256": "12ed1e96e4d0a712c12c2ddb99cab44f853f7a4b4f5be598229cd8399478161b",
+      "after_sha256": "3314ad56ed5ce8f42ba3bec66713d41c4e6672916f4c6c0cd7152ef8ee5135f3",
       "before_sha256": null
     },
     "vendor/brand/sync.mjs": {
@@ -6747,7 +6747,7 @@
       "before_sha256": null
     },
     "vendor/brand/tokens.css": {
-      "after_sha256": "a20ab770bc85f1158c69d446b2f3632df835378c1796eac00fa2f9fcab58741c",
+      "after_sha256": "b93058b230f86c336b92397ed8d5586c881e9201f4a0328933973da89f2eb028",
       "before_sha256": null
     }
   },
@@ -6755,7 +6755,7 @@
     "prior_reviewed_plan_sha256": "36b9d69b66e611fe981d975a81fd07dce66d43914f203a824aed2882d40ef5d3",
     "serving_base": "1a58b051aaae82e86dc7e46ce634edf6107fd14e",
     "state": "STEP 3.3 brand frame source and artifact review open; first Linux CI pass required",
-    "trigger": "STEP 3.3 brief 11.1 step 5, 10 November 2026: every page outside the 45 registered pages renders overrides/brand.html (brand system 3.0.0, vendored under vendor/brand/, header and footer generated by tools/brand_chrome.mjs, mkdocs.yml extra.SHARED_NAV false), a docs 404 page, and the readiness status table removed from /chatgpt-business-hub/ under the unchanged client sentence; no registered page, frozen asset or scientific file changed"
+    "trigger": "STEP 3.3 brief 11.1 step 5, 10 November 2026: every page outside the 45 registered pages renders overrides/brand.html (brand system 3.0.0, vendored under vendor/brand/, header and footer generated by tools/brand_chrome.mjs, mkdocs.yml extra.SHARED_NAV false), a docs 404 page, and the readiness status table removed from /chatgpt-business-hub/ under the unchanged client sentence; no registered page, frozen asset or scientific file changed. R-147 follow-up: brand 3.0.1 vendored, the local phone-bar patch removed, one search control with the shared navigation on, and the research no-contact rule scoped to the article body"
   },
   "source_review_complete": false,
   "visibility_decisions_sha256": "c13c47ed6e28b66e9688ed4368546cf8d7e6c751a424e49c83ed3057ba4b7b6c"

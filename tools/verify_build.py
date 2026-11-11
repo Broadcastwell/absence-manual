@@ -371,8 +371,13 @@ def brand_shell_checks(rel, cls, html):
     if cls == "research":
         if "bw-research-footer" not in foot or "excluded from its own sample" not in foot:
             fail("%s research footer is missing its identity or sample disclosure" % rel)
-        if re.search(r'mailto:|tel:|hello@broadcastwell|broadcastwell.com/contact', html):
-            fail("%s research page contains a contact solicitation" % rel)
+        # R-147: the rule governs the research content itself. The shared header and footer are the
+        # same on every page and carry the two doors, the phone and the email.
+        body = re.search(r"(?s)<article(?:\s[^>]*)?>(.*)</article>", html)
+        if body is None:
+            fail("%s research page has no article to check" % rel)
+        elif re.search(r'mailto:|tel:|hello@broadcastwell|broadcastwell.com/contact', body.group(1)):
+            fail("%s research article contains a contact solicitation" % rel)
         return
     columns = re.findall(r'<h2 class="bw-site-footer__title" id="bw-footer-\d+">([^<]+)</h2><ul class="bw-site-footer__list"[^>]*>([\s\S]*?)</ul>', foot)
     if [(title, len(re.findall(r"<li>", links))) for title, links in columns] != BRAND_COLUMNS:

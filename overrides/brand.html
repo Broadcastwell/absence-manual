@@ -32,12 +32,14 @@
 {%- set chrome -%}{%- if config.extra.SHARED_NAV -%}{% include "partials/brand/header-shared.html" %}{%- else -%}{% include "partials/brand/header-today.html" %}{%- endif -%}{%- endset -%}
 <div class="md-header bw-docs-header" data-md-component="header">
 {{ bw_current(chrome | replace('class="bw-skip" href="#main"', 'class="bw-skip" href="' ~ skip ~ '"')) }}
-{% if "material/search" in config.plugins %}{% include "partials/search.html" %}{% endif %}
+{#- One search control per page (R-147): with the shared navigation on, its site-wide Search (which
+    indexes the docs) is the only one, so the manual's own search panel and button are not drawn. -#}
+{% if "material/search" in config.plugins and not config.extra.SHARED_NAV %}{% include "partials/search.html" %}{% endif %}
 </div>
 <nav class="bw-document-tools" aria-label="The Absence Manual">
   <a href="{{ config.site_url }}">The Absence Manual</a>
   <button type="button" data-manual-toggle="__drawer" aria-label="Open chapter navigation" aria-expanded="false">{% include ".icons/material/menu.svg" %} Chapters</button>
-  {% if "material/search" in config.plugins %}<button type="button" data-manual-toggle="__search" aria-label="Search the Manual" aria-expanded="false">{% include ".icons/material/magnify.svg" %} Search</button>{% endif %}
+  {% if "material/search" in config.plugins and not config.extra.SHARED_NAV %}<button type="button" data-manual-toggle="__search" aria-label="Search the Manual" aria-expanded="false">{% include ".icons/material/magnify.svg" %} Search</button>{% endif %}
 </nav>
 {% endblock %}
 
