@@ -1,15 +1,15 @@
 {
   "approved_artifact_sha256": {
-    "404.html": "3e62e478ce21eaf82c04f08922a899ffa8d0e4e72eb9503d3381dbe0a13be1c7",
+    "404.html": "18cfecf6c3e288ccc61523e658b106b0937e027ecacb34ced7161ee7c345e911",
     "96cbb543e5112b997a86bb4ac977389a.txt": "f902d13c37d626720be8fb1216204cce010293ccb995053d9b2273db04928538",
     "CNAME": "fbba089ba362c5dd7e67ce8e7c3474bf8e6b4e172f8e3193bcd11ad8335ce4ea",
     "absence-ladder-volume-ii.pdf": "63ad282653a035a94a852fba0e50efd0e77ee5861f9c5f9964806bca9ce84392",
     "absence-ladder/index.html": "08534c651d33f60b76c7ecb84f4a5fcfe6a5051b86a3bcc6efee36d10dad6755",
-    "absence-manual-v1.0-2026-08-18.pdf": "68d964b4683676adb5b3058a1fc4003c68bca41281adafac3209399d88af1662",
-    "absence-manual.pdf": "68d964b4683676adb5b3058a1fc4003c68bca41281adafac3209399d88af1662",
+    "absence-manual-v1.0-2026-08-18.pdf": "7638b32723b63784476af8c89a3d1ecaced26a229cfedea1bb409bb6f614f881",
+    "absence-manual.pdf": "7638b32723b63784476af8c89a3d1ecaced26a229cfedea1bb409bb6f614f881",
     "absence-rules/index.html": "fac80636daa2f1d35cc578ca85c8b1f9379f2bb7fbd046361fc57c8ee93f791e",
     "account-analyses/index.html": "4da255724b788d99cd090fdcd490e26987d9d63a2db1c2b7c978de082c331b7a",
-    "agency-training/index.html": "532bbe3361d7a5ad5fa38c02b23dfbf9df603e6ee48492e448f4faa4d4d9166e",
+    "agency-training/index.html": "e27b9204c17020ae1ce9c8297933fd9012110bc01d2a305f7873609734108b51",
     "ai-referral-analytics-template/index.html": "221bab629ca7d5976d8f83ed00da912a2fa7398894b1cbd7844b675e6ea8684e",
     "ai-search-glossary/index.html": "c2f7171864a2a759c75312ffa51e22ddf63e4324457e39622d496c602125cebf",
     "ai-source-standard/index.html": "acce2bc1da78550e66f2d8ceed3009f24ac5511b7691fb10628b3164ffed5443",
@@ -620,7 +620,7 @@
     "content-templates/downloads/content-strategy-kalvenor-sample.txt": "f3d2def97198eecf5477a9521f9be5f8feb45965f6c168c25301acbfdeb4ef24",
     "content-templates/downloads/content-strategy-template.csv": "24a228017bb7a76e7159aa70c430972cbf8af754c8bb59bbeeced4d512c160eb",
     "content-templates/downloads/content-strategy-template.txt": "472b9b6806de62a5bf81806434d6949d393f97b4d1796511fb4a801cd020b157",
-    "context-pack/broadcastwell.json": "cbb0e8dbf307a7b66efa02ed5748bcab6796189163f38c6c2464fb25f108fe0e",
+    "context-pack/broadcastwell.json": "dc05b650dc21fa24d154a008d4eb629a9656f7815f340d3432d5580fc49c7f41",
     "context-pack/kalvenor.json": "e3cd754a5bb6599a9fe30a0bea7d61c4cd1f5c44dfddae91a1319048432940ab",
     "d6196095ce214a2ab2f12d892940f7a6.txt": "300328c5cd5c1073d146a53e76dfdb1033b8f7646c53a1358cf27611989f3923",
     "engine-divergence/index.html": "12e4072829972376427bddaaf29ebd24e3531d6f71ed4a48136596a946b4e5f9",
@@ -639,13 +639,13 @@
     "googlefda93e56a71f6d4d.html": "6625097daaf656abfc97c90a95c357555b38321f4fffdc8086bd4df91cf6c595",
     "how-long-it-takes/index.html": "89b76575c807546c0964574b94bfd2a972534defce54c7a68f2ea238615772c3",
     "how-to-buy-geo/index.html": "f50f9d8a9b3cad58996cefbb71d5f6fcd5bc9a247175199fa5902ead0b9dca24",
-    "index.html": "facb2819575c2320813be77a4dc6f5b5fe8d6e7c09a26814bf92d858cca25552",
+    "index.html": "031a731715d51630ca7310962c34e8eae32ff2a94c8137412c501e6a00a65a4e",
     "industry-benchmarks/index.html": "cbdc21c801a8979c310cb5bbb9e85ac0793b54ab37a4722d01cab2f02c03061b",
     "launchpad/certificate/index.html": "4bb08c4d2b9efa6911ac56c4b0a9d122314ea7d641104dd8577049da4f84f90b",
     "launchpad/index.html": "6eeb5be22edc7683f9ec08541ee6aa09c8c9ff2f19c251009c978cf1681cb645",
-    "llms.txt": "d985917b35f8be7482b1ed6f941571bb0efb0a2e8c991c66d14208e816cfc1d0",
+    "llms.txt": "0c399c3b6b10fdc80e82b43c8798591a82658076d56117d90812a30c4c9ca7a5",
     "measurement-noise/index.html": "cc7aa9a5fe006a3655453d9dc0965271f644e95cb11517f3cdbbf8a55379c56f",
-    "media-kit/index.html": "b94eb62299d11595b374ee61dac6b7234d6bf10ffccdbf932c3ab5cb3ac8ea94",
+    "media-kit/index.html": "c9274d63749561c983f9b73a3b9ae41b327d8e309fec1ae046a25c1b1219672e",
     "model-releases/index.html": "16cb8c92d387ffcb62eefd540039955867e7beb4fc71d95f1a09eac202b07e3a",
     "named-zero-times/index.html": "2baf2bff5d5e7ae76e919fe4e6ebee42dd3876dc188da67196a66e7b86e6f83d",
     "open-data/index.html": "51f801d8200794a07dcb4f8462ce3ba79f911fc0c20c78d05d2770725a0f3654",
@@ -849,11 +849,11 @@
     "resources/worksheets/missing-brand/index.html": "b3c99b33abea43b11b2162b196e18c74a88e3ec4ab42db44fd073928313aec65",
     "resources/worksheets/product-facts/index.html": "fa20675dd845e5a2fb571ab29ea5ce31c778f657554ffa24b1224a5e7b5d35ff",
     "resources/worksheets/read-an-answer/index.html": "067ecc9c979ac592eb014e7de16fa1cf10b63c3f7cec4f6b9ba41697ec27edc6",
-    "rfp-guide/index.html": "3dd27163cd8d906b443e6720a4bcee6bfc379573b9c26a1b2b263b0bfb29f82e",
+    "rfp-guide/index.html": "78c5745125f95c714a0b26dc7578ed9b34b189639976fd988b20aba821e2d4f3",
     "robots.txt": "ef45ab052003491abbbca6625fe955890ff4523e8ea2d2d5e6edea792f1aaa69",
     "scoring-spec/index.html": "1cb8d2f09ba1f19b02ee4d251a3b4a7e160727d1bc5780f5452de56bbab02065",
     "search-patents/index.html": "cd89877ba4f1b0f74ef8d6e886de2fc2cd1d6b91d76163ca76e8a2ebed1f50fc",
-    "search/search_index.json": "9a39950e0702ef5e46a8c0aa5a675b0e178af4dc29b3f6970ba549b4bb4c37c8",
+    "search/search_index.json": "cfe7755e0cad87db8562d96db922ab9583b531a0f5d98486f474e9fa79705a7c",
     "selection-not-ranking/index.html": "ece9dcb291a0db11186f5c775867e96fe775e98b08d265cedd33503085e35572",
     "service-model/index.html": "581247af872c75d09a3dce98b1c18359c6d76e08d8761af25f1822771a2e997d",
     "services/bloomington-indiana/index.html": "5eb25a14e21f37bf936a50577950c40f68aa7a6e6eaa826845df672f4bb391d5",
@@ -888,7 +888,7 @@
   },
   "artifact_changes": {
     "404.html": {
-      "after_sha256": "3e62e478ce21eaf82c04f08922a899ffa8d0e4e72eb9503d3381dbe0a13be1c7",
+      "after_sha256": "18cfecf6c3e288ccc61523e658b106b0937e027ecacb34ced7161ee7c345e911",
       "before_sha256": "a9c7bd1db4decfdaa380e59049df776588fd2db1d7ee2461d233f2d43cec7c6b"
     },
     "absence-ladder/index.html": {
@@ -896,11 +896,11 @@
       "before_sha256": "80301aebfc6e9c8bc4045ff92e03c5ec4727b900b8261bf41e45fa0918fcce7f"
     },
     "absence-manual-v1.0-2026-08-18.pdf": {
-      "after_sha256": "68d964b4683676adb5b3058a1fc4003c68bca41281adafac3209399d88af1662",
+      "after_sha256": "7638b32723b63784476af8c89a3d1ecaced26a229cfedea1bb409bb6f614f881",
       "before_sha256": "03dae21791d7909faef8f183b9d3dd767d9c6aef7f111519d9695e3e25b2dadd"
     },
     "absence-manual.pdf": {
-      "after_sha256": "68d964b4683676adb5b3058a1fc4003c68bca41281adafac3209399d88af1662",
+      "after_sha256": "7638b32723b63784476af8c89a3d1ecaced26a229cfedea1bb409bb6f614f881",
       "before_sha256": "03dae21791d7909faef8f183b9d3dd767d9c6aef7f111519d9695e3e25b2dadd"
     },
     "absence-rules/index.html": {
@@ -912,7 +912,7 @@
       "before_sha256": null
     },
     "agency-training/index.html": {
-      "after_sha256": "532bbe3361d7a5ad5fa38c02b23dfbf9df603e6ee48492e448f4faa4d4d9166e",
+      "after_sha256": "e27b9204c17020ae1ce9c8297933fd9012110bc01d2a305f7873609734108b51",
       "before_sha256": null
     },
     "ai-referral-analytics-template/index.html": {
@@ -2444,7 +2444,7 @@
       "before_sha256": null
     },
     "context-pack/broadcastwell.json": {
-      "after_sha256": "cbb0e8dbf307a7b66efa02ed5748bcab6796189163f38c6c2464fb25f108fe0e",
+      "after_sha256": "dc05b650dc21fa24d154a008d4eb629a9656f7815f340d3432d5580fc49c7f41",
       "before_sha256": null
     },
     "context-pack/kalvenor.json": {
@@ -2480,7 +2480,7 @@
       "before_sha256": "f36023d4c11741795de11c1a265716c9cc9a440bf8b8d063d979b43f10f3ca9f"
     },
     "index.html": {
-      "after_sha256": "facb2819575c2320813be77a4dc6f5b5fe8d6e7c09a26814bf92d858cca25552",
+      "after_sha256": "031a731715d51630ca7310962c34e8eae32ff2a94c8137412c501e6a00a65a4e",
       "before_sha256": "8ec01708647fefafd52711db5eba93ec6e5a968144cc3e6616449e87d844aa59"
     },
     "industry-benchmarks/index.html": {
@@ -2496,7 +2496,7 @@
       "before_sha256": "b98c25a723d38cf96c3fc8a539241f9526dd4851bb0a3d8772de8efcf156e033"
     },
     "llms.txt": {
-      "after_sha256": "d985917b35f8be7482b1ed6f941571bb0efb0a2e8c991c66d14208e816cfc1d0",
+      "after_sha256": "0c399c3b6b10fdc80e82b43c8798591a82658076d56117d90812a30c4c9ca7a5",
       "before_sha256": "a62e1f13cfe04421bf784f784e4017ff05ff8d66853dedd9d2de655a6631cc6c"
     },
     "measurement-noise/index.html": {
@@ -2504,7 +2504,7 @@
       "before_sha256": "9d2c9f353b4a2e72fd49bde9542312779050f56af0b0ee92abe495d3a94351c8"
     },
     "media-kit/index.html": {
-      "after_sha256": "b94eb62299d11595b374ee61dac6b7234d6bf10ffccdbf932c3ab5cb3ac8ea94",
+      "after_sha256": "c9274d63749561c983f9b73a3b9ae41b327d8e309fec1ae046a25c1b1219672e",
       "before_sha256": null
     },
     "model-releases/index.html": {
@@ -2944,7 +2944,7 @@
       "before_sha256": "0f2aeff753bbeb006f06b35e11a0bdd376a067086f6f03bb233f19c894a87085"
     },
     "rfp-guide/index.html": {
-      "after_sha256": "3dd27163cd8d906b443e6720a4bcee6bfc379573b9c26a1b2b263b0bfb29f82e",
+      "after_sha256": "78c5745125f95c714a0b26dc7578ed9b34b189639976fd988b20aba821e2d4f3",
       "before_sha256": null
     },
     "scoring-spec/index.html": {
@@ -2956,7 +2956,7 @@
       "before_sha256": null
     },
     "search/search_index.json": {
-      "after_sha256": "9a39950e0702ef5e46a8c0aa5a675b0e178af4dc29b3f6970ba549b4bb4c37c8",
+      "after_sha256": "cfe7755e0cad87db8562d96db922ab9583b531a0f5d98486f474e9fa79705a7c",
       "before_sha256": "b35b56bd04c8030d3f7255a7dbf677bf8373d7224129d6b2ea9b0bc8158116ed"
     },
     "selection-not-ranking/index.html": {
@@ -3085,20 +3085,20 @@
     }
   },
   "artifact_review": {
-    "PDFs_changed": 0,
-    "actual_Linux_artifact_id": 13876272031,
-    "actual_Linux_run_id": 43065691086,
-    "actual_artifact_sha256": "708f392101c7ba0163823cff5e442c855367d45e203a60372f69df344fbcb082",
+    "PDFs_changed": 2,
+    "actual_Linux_artifact_id": 13889594081,
+    "actual_Linux_run_id": 43094183009,
+    "actual_artifact_sha256": "a9e756bf1a1d1d348ee7ff3bfeb013f932a260c4979aa1477d19fb4000c677c9",
     "added_from_production": 0,
     "approved": true,
-    "changed_from_production": 4,
+    "changed_from_production": 10,
     "complete_files": 885,
-    "exact_comparison_sha256": "3cd90536edefa3b6cad7be094c42452c8becb7424b3812333854a733abb45b65",
+    "exact_comparison_sha256": "760e001435fec3052401ab743a2647f1d89b24606d043007401996554c1b8524",
     "frozen_HTML": 45,
     "frozen_sitemap_entries": 45,
     "pinned_assets": 5,
-    "reviewed_utc": "2026-11-11T17:38:40.481009+00:00",
-    "source_head": "78755b82e4fafeba4571f0274a3296825260b2d1"
+    "reviewed_utc": "2026-11-11T21:42:28.966708+00:00",
+    "source_head": "0f31248e9932cb21452f280add042157350946fc"
   },
   "base_commit": "88d6b6bb11f8b4bd713ee7e4e79c863ff9973518",
   "base_source_sha256": {
@@ -5692,7 +5692,7 @@
     "docs/absence-ladder.md": "ec874e5bab5c26cf2fae9dccd193c92cc008a239528fc8ccb64d4d4579242021",
     "docs/absence-rules.md": "485c34b7416e6ab4ec3420db36c749fbb392934579a232db4b6ab81eb9df6774",
     "docs/account-analyses.md": "9ea6fca89b535ae41e0a5cbc6234f75162934a1763f3782a2c38da58adcfebaf",
-    "docs/agency-training.md": "c1025fe2b4f901f4b90ebaeb0455e8bd4f6e37769c9f7bc9c4d4f1a4bc439f92",
+    "docs/agency-training.md": "112d61ca521cdcfcc894a16e34f29eda1f93a685b9fe028acefe8e3be0130cab",
     "docs/ai-referral-analytics-template.md": "6bfaf76e33355c277f2af7e7c756738d1934e5340d30f7a71178e13bb65f1bb3",
     "docs/ai-search-glossary.md": "3d2afbed46a32e669aa6a0e5094194d71c7ec8b0ad239442fbfe2cc1e3fe9a9f",
     "docs/ai-source-standard.md": "7dc86749d9d70af2403a8ddd8e88733c89b68e7aec090f1d74c1fef1bf99bdd6",
@@ -6246,7 +6246,7 @@
     "docs/content-templates/downloads/content-strategy-kalvenor-sample.txt": "f3d2def97198eecf5477a9521f9be5f8feb45965f6c168c25301acbfdeb4ef24",
     "docs/content-templates/downloads/content-strategy-template.csv": "24a228017bb7a76e7159aa70c430972cbf8af754c8bb59bbeeced4d512c160eb",
     "docs/content-templates/downloads/content-strategy-template.txt": "472b9b6806de62a5bf81806434d6949d393f97b4d1796511fb4a801cd020b157",
-    "docs/context-pack/broadcastwell.json": "cbb0e8dbf307a7b66efa02ed5748bcab6796189163f38c6c2464fb25f108fe0e",
+    "docs/context-pack/broadcastwell.json": "dc05b650dc21fa24d154a008d4eb629a9656f7815f340d3432d5580fc49c7f41",
     "docs/context-pack/kalvenor.json": "e3cd754a5bb6599a9fe30a0bea7d61c4cd1f5c44dfddae91a1319048432940ab",
     "docs/d6196095ce214a2ab2f12d892940f7a6.txt": "300328c5cd5c1073d146a53e76dfdb1033b8f7646c53a1358cf27611989f3923",
     "docs/engine-divergence.md": "910e66691144454dcf840d44090e6d29918ab04b74c9f23956b79eedd8ded316",
@@ -6265,13 +6265,13 @@
     "docs/googlefda93e56a71f6d4d.html": "6625097daaf656abfc97c90a95c357555b38321f4fffdc8086bd4df91cf6c595",
     "docs/how-long-it-takes.md": "4631f4d3d952ed884dd62a1b961cf313630583190d318df1679d62e2e2a999ce",
     "docs/how-to-buy-geo.md": "8013baabd2be51250b1536cce0ea85a4e68135e435f57c136d0a8ad65bca6f71",
-    "docs/index.md": "8f72bee00a69c43ec6ca8a9b5259938be72dfb16939680e7ac6981b68e539ce1",
+    "docs/index.md": "3b6c58972b472d2663d56d0295e7ba1d9c46abd1e6344e87b2177462cce7a395",
     "docs/industry-benchmarks.md": "120493989e81df3a97c6415862ace48ff302adbe1b654c1265d35df33b6a9c8d",
     "docs/launchpad.md": "ec7b658287712673f600478dc0da3f0fa825443ec7213fc3fd3ad6ce6deffaa7",
     "docs/launchpad/certificate.md": "c4cc41927654b1c9419137dc3778be41cba8471c5eae92d3f2a67e9600176a1e",
-    "docs/llms.txt": "6d91dd5ac4a7b542d1495a9535074728ba684457448b081a6f61e33534b9f3b6",
+    "docs/llms.txt": "81d13f6a4c3080360fae52fbf6d025345ee2ed65f5912bf2b7837e847e53c740",
     "docs/measurement-noise.md": "99d14d073d04eedbcda3f6c356dfa1f724b73bbe75e2b43ab48f62561c7b5f5b",
-    "docs/media-kit.md": "dfa5f753dff0c9847280859fb4eff606462789a716ca7982d29a116b4749a729",
+    "docs/media-kit.md": "ec914d76605e8fb34e778aa37b33d06736eb56810c0fdc6c96a7d71d706e4ad8",
     "docs/model-releases.md": "1cabcf70b02edaa6b064b7d25717267bc2ec7ad02b6af690563df51b2b018b40",
     "docs/named-zero-times.md": "6b334a2c7923290551532e78ec5bd6991a0cbbe3c3a2c6040da9c4f595cd6bfd",
     "docs/open-data.md": "c68744b91c23af630ab203e11f131e8c9847977c0982e2be1e2f0c4e66220637",
@@ -6480,7 +6480,7 @@
     "docs/resources/worksheets/missing-brand.md": "a2ec2cb3e17a333a9888741815a810e1e39c0d51535a91845e5ee0052cb316a1",
     "docs/resources/worksheets/product-facts.md": "d6be75c7b10786d41ffc1f2dcd278c95902a571d6f8959f30d2e3fdcb1f68490",
     "docs/resources/worksheets/read-an-answer.md": "ac32ffc50a6ece26ee8c2a93972b1d42a46b8d0e079ac0eff32543d5f83b8258",
-    "docs/rfp-guide.md": "6d1f05841f0d0f5b3f3a2f28f343889a2041553b274c1dd3a640729147c4941c",
+    "docs/rfp-guide.md": "fa1f443677e255d99524fae25890585b565edd61b0ef68ef5eaa8a2c8debfd95",
     "docs/robots.txt": "ef45ab052003491abbbca6625fe955890ff4523e8ea2d2d5e6edea792f1aaa69",
     "docs/scoring-spec.md": "5bdff074d66a1005d177a55f81f1b3f00dd11f3920d177ac2b9f44ae2f0b6ac6",
     "docs/search-patents.md": "6b4af9156e85d3ff208eba7955b9a61dcb2d4433273933faead4e2cc98551e67",
@@ -6632,6 +6632,7 @@
     "tests/test_brand_frame.py": "53bd49cb44f225cdc1bfefa2b4faaaa2497b855eb94adbd6fdf13c7347534ce5",
     "tests/test_chatgpt_business_hub.py": "17872da1bff4530bd87a7d95593ba620dcac87dbf41124d9b81a8db6b381bcd8",
     "tests/test_discovery_consumer_five.py": "e725ad9bf46e0299f62037ffa956ad5a69b1574748ec14d53eb56368d08eb4cf",
+    "tests/test_docs_404_assets_20261111.py": "f36515b13800c88b0325f08c9cc62f37ba74a6fb5e0a89bfdb55abf687a4e6a1",
     "tests/test_docs_account_analyses.py": "cb8a17a221444d297d3666c8ab142cca8df98d8eaf47e9ec2ab64db71de24a50",
     "tests/test_docs_art_r3_20261111.py": "1791db4fbcc8aedf03e2fb82c98b2bdd2a46d24487281c495008b627e50446d2",
     "tests/test_docs_art_r4_20261111.py": "d44ced5996b050e8ddf7cb9828555edf6f8693e826cbdac01bea283e93ded3cc",
@@ -6639,6 +6640,7 @@
     "tests/test_docs_content_pages.py": "9ad1dbb20486092973278a5cd09d5b05b706eda7ae2cd51fb7361cfc7c03da13",
     "tests/test_docs_gate_20261111.py": "664c9b6a63859d2ebfbdffd9549182ed5e2c7e4f8d2ec1288bfc94086ccda3a6",
     "tests/test_docs_more_pages.py": "13f79744a076301b736ccef78d48fce891b61f67afc215d866e6ca9d2204c3de",
+    "tests/test_docs_refunds_r168_20261111.py": "e62d4b4cebcdaaa2e205d7fcf35d2faec24e1207e6b0de78c937b2e512aea1ad",
     "tests/test_followup_release.py": "736a5ab4f0fda04c03c08dee5483192bd5292f5bc3a47f2aeccb19436def0aaa",
     "tests/test_library_field_freeze_navigation.py": "1ac33d0746a75d19a375c555773d353b2821d67447da52786fcfb7107105718f",
     "tests/test_library_publication_verify_stubs.py": "4941ebbec88bc814df6f04361e3396dfdac7644f508e3b4350796f8db1f27277",
@@ -8287,7 +8289,7 @@
     "tools/library-research-inputs/source-reads/file-line-map.json": "4566fd6df9d2cffc464bb8eceeb61715a82fbe38773a5d22978869ca8e73f49b",
     "tools/library-research-support.json": "803afdc7d03b03bf525941159f63b96e82e26b5fd80e2cf70d7759f727e58198",
     "tools/library-research-support.sha256": "34e586a881471af13331f5d32a444beb84774b3e6adc6f192214637209a2d769",
-    "tools/library-visibility-20261105.json": "cc979a4c942e95b38c7a916e5e5c26f9276f00ae4d248b4a2e643005e05763aa",
+    "tools/library-visibility-20261105.json": "d876039f38d367f62f9b46e6ea869b46ba395a9c2e95f2da4972120b23d0ca9f",
     "tools/library_answers.py": "37e8ed39da080c03a8361e44fcd03371d6ca369d3df4fb847db13cc1fc20bd22",
     "tools/library_build_dispatch.py": "9092b9262bacbd8c11aad171582e2a0f3de7a9a99fe63c97fc4985a36c700b9a",
     "tools/library_company_panel.py": "17076be6269695465e44298b7d6875979d6789d47eb2d5cff4d9db2764e22ee9",
@@ -8357,13 +8359,13 @@
     "tools/library_research_support.py": "a4a72e47de61c4979207c09c1c3f92cb5f3d2bfc4cd6dfdc4c2c42605f8153fe",
     "tools/library_visibility_release.py": "5be1284b1cab131fc384a3c66117ec743dbccd2c8861c81b61abac379ad05f39",
     "tools/observe_owner_candidate.py": "3c286ce1f127afbd92cc982ba92e11147f89ff11adf32967ead3cda98b868e92",
-    "tools/performance_assets.py": "b1d5e9823099ef2c2b2cd0c82e9c3d2802eafef21711e43852f00dc57a3f092f",
+    "tools/performance_assets.py": "b928e8e6a4cd3302d7ee03ffbca706b3c2755da96272050841881c1b835288f5",
     "tools/research_quality.py": "875c5a0caeb36f2032825581809a1e6315be0028807fb48878d6cb9e2c4f1686",
     "tools/step31-navigation-deviation.json": "0938fbe5d64f2251de13cfedea2dbface64d08613f503b6dc09c452c3cb8b6a1",
     "tools/team_record.py": "d84bb37f49b2042be7b719376c2a0881fb2597123f9c471a5ac1815252a128aa",
     "tools/validate_preview.py": "c8aa781495d967de92cdb7f2b08088ecec66be7a89cadb5b1291e2f15beec153",
     "tools/verify_answers.py": "1dd41db3bd3fc2b8fc714e90a2a23eb39f140b380a0e4da55be7ae8a9f7a2485",
-    "tools/verify_build.py": "2272450ceac268295730afd60b8a834d0e2da42cb140253f477e871ea542b1bd",
+    "tools/verify_build.py": "0ed923c76c23f50549605032de1a7000d2921d739e1cfaff6e2817efd248ab2d",
     "tools/verify_library_field_freeze.py": "55ceb989c98c298d025d5be6cd87a00de0704ba320535af2ce278d2b23eb7fbf",
     "tools/verify_visibility_release.py": "2efc61bad7493fa2833aaf21d299b9a60e31058c5ef4756936b224fb05bcd86c",
     "vendor/brand/VENDORED.json": "21bcc576cc11e316c60db587b7a35d5f1aee0c22300e9d06c6802e1279e7958d",
@@ -8923,6 +8925,26 @@
       "after": "Broadcastwell is based at 517 E Kirkwood Ave, Bloomington, IN 47408, and offers its AI search visibility work to local firms at the same published prices.",
       "before": "Broadcastwell is based at 517 E Kirkwood Ave in Bloomington, Indiana, and offers its AI search visibility work to local firms at the same published prices.",
       "count": 1
+    },
+    {
+      "after": "- Answer Repair: $490. One buyer question and one completed source-backed page or equivalent fix. Choose Live or Handoff before payment. Live access and approval must be complete before payment. Due 48 elapsed hours after recorded Ready. If we miss the deliverable or deadline, we initiate a full $490 refund within five business days. You keep the work. You may also request a full refund within 30 days of delivery. https://broadcastwell.com/answer-repair",
+      "before": "- Answer Repair: $490. One buyer question and one completed source-backed page or equivalent fix. Choose Live or Handoff before payment. Live access and approval must be complete before payment. Due 48 elapsed hours after recorded Ready. If we miss the deliverable or deadline, we initiate a full $490 refund within five business days and you keep the work. You may also request a full refund within 30 days of delivery. https://broadcastwell.com/answer-repair",
+      "count": 1
+    },
+    {
+      "after": "- Agency Deadline Audit: $490 per client report, white label. Ten agreed buyer questions, asked three times on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode: 150 planned answers. Valid answers and exclusions shown separately. Three prioritized fixes and one paste-ready change of 250 words or fewer. Findings within 48 hours of recorded scope confirmation. Refundable in full within 30 days of delivery. No full-page deployment. We never contact the agency's client during the work or for twelve months after. https://broadcastwell.com/answer-repair",
+      "before": "- Agency Deadline Audit: $490 per client report, white label. Ten agreed buyer questions, asked three times on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode: 150 planned answers. Valid answers and exclusions shown separately. Three prioritized fixes and one paste-ready change of 250 words or fewer. Findings within 48 hours of recorded scope confirmation. Refundable in full within 30 days. No full-page deployment. We never contact the agency's client during the work or for twelve months after. https://broadcastwell.com/answer-repair",
+      "count": 1
+    },
+    {
+      "after": "- Fix Sprint: $3,900 ($3,410 after the $490 entry is credited, once). The $490 entry credits once against the $3,900 Fix Sprint, leaving $3,410. Six contracted pages or rewrites over 30 days, including any credited entry page. One primary test, naming, own-domain citation or buyer-task completion, agreed before payment and measured again at day 30. Measured gain on the agreed test, or the full $3,900 back. You keep the work. Includes ChatGPT Business Hub readiness parts 1 to 4: https://docs.broadcastwell.com/chatgpt-business-hub/ https://broadcastwell.com/answer-repair",
+      "before": "- Fix Sprint: $3,900 ($3,410 after the $490 entry is credited, once). The $490 entry credits once against the $3,900 Fix Sprint, leaving $3,410. Six contracted pages or rewrites over 30 days, including any credited entry page. One primary test, naming, own-domain citation or buyer-task completion, agreed before payment and measured again at day 30. Measured gain on the agreed test, or the full $3,900 back. The client keeps the work. Includes ChatGPT Business Hub readiness parts 1 to 4: https://docs.broadcastwell.com/chatgpt-business-hub/ https://broadcastwell.com/answer-repair",
+      "count": 1
+    },
+    {
+      "after": "- [Agency Deadline Audit | Broadcastwell](https://broadcastwell.com/for-agencies): $490 per client report. Evidence, three prioritized fixes and one paste-ready change under the agency brand. Findings within 48 hours of recorded scope confirmation. Refundable in full within 30 days of delivery.",
+      "before": "- [Agency Deadline Audit | Broadcastwell](https://broadcastwell.com/for-agencies): $490 per client report. Evidence, three prioritized fixes and one paste-ready change under the agency brand. Findings within 48 hours of recorded scope confirmation; refundable in full within 30 days.",
+      "count": 1
     }
   ],
   "owner_authorization_date": "2026-11-09",
@@ -9198,7 +9220,7 @@
       "before_sha256": null
     },
     "docs/agency-training.md": {
-      "after_sha256": "c1025fe2b4f901f4b90ebaeb0455e8bd4f6e37769c9f7bc9c4d4f1a4bc439f92",
+      "after_sha256": "112d61ca521cdcfcc894a16e34f29eda1f93a685b9fe028acefe8e3be0130cab",
       "before_sha256": null
     },
     "docs/ai-referral-analytics-template.md": {
@@ -9442,7 +9464,7 @@
       "before_sha256": null
     },
     "docs/context-pack/broadcastwell.json": {
-      "after_sha256": "cbb0e8dbf307a7b66efa02ed5748bcab6796189163f38c6c2464fb25f108fe0e",
+      "after_sha256": "dc05b650dc21fa24d154a008d4eb629a9656f7815f340d3432d5580fc49c7f41",
       "before_sha256": null
     },
     "docs/context-pack/kalvenor.json": {
@@ -9470,7 +9492,7 @@
       "before_sha256": "9e242a46fa904b0fae13f22f863aa1edfaaf5644d4a20f36b0bc144bb98cbdbf"
     },
     "docs/index.md": {
-      "after_sha256": "8f72bee00a69c43ec6ca8a9b5259938be72dfb16939680e7ac6981b68e539ce1",
+      "after_sha256": "3b6c58972b472d2663d56d0295e7ba1d9c46abd1e6344e87b2177462cce7a395",
       "before_sha256": "bdb3344ca6bb13585ad1086e12d78f08713bd03c0748dc6741757f01af4f7047"
     },
     "docs/industry-benchmarks.md": {
@@ -9486,7 +9508,7 @@
       "before_sha256": null
     },
     "docs/llms.txt": {
-      "after_sha256": "6d91dd5ac4a7b542d1495a9535074728ba684457448b081a6f61e33534b9f3b6",
+      "after_sha256": "81d13f6a4c3080360fae52fbf6d025345ee2ed65f5912bf2b7837e847e53c740",
       "before_sha256": "35cfd635a7bd547bdf7c16fe2a62a29c453133f5c76e7bcacbbc9f54d23ec1a7"
     },
     "docs/measurement-noise.md": {
@@ -9494,7 +9516,7 @@
       "before_sha256": "e4d3f18afb52fa69a736532fa3bf7e976f1791953750fe3810da71923f486001"
     },
     "docs/media-kit.md": {
-      "after_sha256": "dfa5f753dff0c9847280859fb4eff606462789a716ca7982d29a116b4749a729",
+      "after_sha256": "ec914d76605e8fb34e778aa37b33d06736eb56810c0fdc6c96a7d71d706e4ad8",
       "before_sha256": null
     },
     "docs/model-releases.md": {
@@ -9834,7 +9856,7 @@
       "before_sha256": "2bf5128fe907d3614b38db44abfbbb3857d479bbf2a3da7a4149afc8b3762879"
     },
     "docs/rfp-guide.md": {
-      "after_sha256": "6d1f05841f0d0f5b3f3a2f28f343889a2041553b274c1dd3a640729147c4941c",
+      "after_sha256": "fa1f443677e255d99524fae25890585b565edd61b0ef68ef5eaa8a2c8debfd95",
       "before_sha256": null
     },
     "docs/search-patents.md": {
@@ -10009,6 +10031,10 @@
       "after_sha256": "17872da1bff4530bd87a7d95593ba620dcac87dbf41124d9b81a8db6b381bcd8",
       "before_sha256": null
     },
+    "tests/test_docs_404_assets_20261111.py": {
+      "after_sha256": "f36515b13800c88b0325f08c9cc62f37ba74a6fb5e0a89bfdb55abf687a4e6a1",
+      "before_sha256": null
+    },
     "tests/test_docs_account_analyses.py": {
       "after_sha256": "cb8a17a221444d297d3666c8ab142cca8df98d8eaf47e9ec2ab64db71de24a50",
       "before_sha256": null
@@ -10035,6 +10061,10 @@
     },
     "tests/test_docs_more_pages.py": {
       "after_sha256": "13f79744a076301b736ccef78d48fce891b61f67afc215d866e6ca9d2204c3de",
+      "before_sha256": null
+    },
+    "tests/test_docs_refunds_r168_20261111.py": {
+      "after_sha256": "e62d4b4cebcdaaa2e205d7fcf35d2faec24e1207e6b0de78c937b2e512aea1ad",
       "before_sha256": null
     },
     "tests/test_followup_release.py": {
@@ -10082,7 +10112,7 @@
       "before_sha256": "916dfe3a07fad255dfba8faf7250bcb1da243213707f730dae239404305a90b4"
     },
     "tools/library-visibility-20261105.json": {
-      "after_sha256": "cc979a4c942e95b38c7a916e5e5c26f9276f00ae4d248b4a2e643005e05763aa",
+      "after_sha256": "d876039f38d367f62f9b46e6ea869b46ba395a9c2e95f2da4972120b23d0ca9f",
       "before_sha256": null
     },
     "tools/library_build_dispatch.py": {
@@ -10125,6 +10155,10 @@
       "after_sha256": "5be1284b1cab131fc384a3c66117ec743dbccd2c8861c81b61abac379ad05f39",
       "before_sha256": null
     },
+    "tools/performance_assets.py": {
+      "after_sha256": "b928e8e6a4cd3302d7ee03ffbca706b3c2755da96272050841881c1b835288f5",
+      "before_sha256": "b1d5e9823099ef2c2b2cd0c82e9c3d2802eafef21711e43852f00dc57a3f092f"
+    },
     "tools/step31-navigation-deviation.json": {
       "after_sha256": "0938fbe5d64f2251de13cfedea2dbface64d08613f503b6dc09c452c3cb8b6a1",
       "before_sha256": null
@@ -10134,7 +10168,7 @@
       "before_sha256": null
     },
     "tools/verify_build.py": {
-      "after_sha256": "2272450ceac268295730afd60b8a834d0e2da42cb140253f477e871ea542b1bd",
+      "after_sha256": "0ed923c76c23f50549605032de1a7000d2921d739e1cfaff6e2817efd248ab2d",
       "before_sha256": "33f61566ecf6c11ef2229f0d328bb24e5aa1bc04a17e2cdcd8ab8ae2db54706d"
     },
     "tools/verify_visibility_release.py": {
@@ -10199,16 +10233,16 @@
     }
   },
   "source_review": {
-    "complete_local_tests": 1053,
-    "native_preview": "Eight pages of the actual CI candidate (home, the absence-ladder chapter, the Business Hub explainer, the does-absence-persist study, a missing address answered by the docs 404, /account-analyses/, a research insight and a ChatGPT answer page) and the three pages the art director judges or this release changes (/ai-source-standard/, Study 6 and Study 7), read from a local server with scripts off and on at 1440 and 390 pixels: 44 reads, status 200 (404 for the missing address), no phone overflow, JSON-LD parsed with one Organization of @id https://broadcastwell.com/#organization, the shared navigation and footer with Procurement on every read, no banned string introduced (each scan hit is a dated engine-scope sentence, a guarantee denial or a plain \"not only\" that production carries too). At 1440 the page label, the chapter list's text and the rule above Previous and Next sit on the 120 to 1320 container on every read that has them (production: 136, 136 and 96 to 1344); at 390 every closing panel runs full-bleed, 0 to 390 with no radius and its text at 16 (production: 16 to 374, radius 12). The lede is once right under the headline with Run the free check inside the first screen on the non-research pages and absent on the study, Study 6, Study 7, the research insight and the 404, whose section heading reads You can run the free check yourself or have us do the work. A second missing address one level down (/research/no-such-study/) serves the same 404, whose relative link to Material's combined stylesheet misses there, as production does today. Every difference traces to this release: of 885 files 4 change and nothing is added or removed; the brand stylesheet is byte-equal to its source at 78755b8 (the vendored part unchanged), the 404 differs only by its section heading, and Study 6 and Study 7 equal production byte for byte once production's one lede block is taken out from right after the headline. llms.txt, the sitemap and its gzip, the search index, all 27 PDFs, the 53 research pages and the other 464 HTML pages are byte-identical to production; no served HTML, text, JSON, XML or CSV file shows $471; prices, numbers, refund and legal wording, canonicals and link targets are unchanged (Study 6 and Study 7 each lose the lede's one audit link), and the 45 registered pages, 5 pinned assets, 45 sitemap entries and 56 pinned research downloads are byte-exact.",
-    "prior_reviewed_plan_sha256": "f77057d07f78e649d1ddc1a5056267c27ae15c8d9b5706d14c17ae38d54cd340",
-    "reviewed_utc": "2026-11-11T17:38:40.481009+00:00",
-    "serving_base": "94226c2255de8b6ea4c54eb031208faabc07cd2f",
+    "complete_local_tests": 1064,
+    "native_preview": "Eight pages of the actual CI candidate (home, the absence-ladder chapter, the Business Hub explainer, the does-absence-persist study, a missing address answered by the docs 404, /account-analyses/, a research insight and a ChatGPT answer page), the three other pages whose refund sentences this release changes (/agency-training/, /media-kit/ and /rfp-guide/) and two missing addresses one and three levels down (/research/no-such-study/ and /a/b/c/), read from a local server with scripts off and on at 1440 and 390 pixels: 52 reads, status 200 (404 for the three missing addresses), no phone overflow, JSON-LD parsed with one Organization of @id https://broadcastwell.com/#organization, the shared navigation and footer with Procurement on every read, no failed subresource, page error or external request, no banned string introduced (each scan hit is a dated engine-scope sentence or a guarantee denial that production carries too). The 404 links its stylesheet bundle as /assets/stylesheets/combined-0131a34b0a08f9a4.css and draws with its 1206 rules at every depth; production's relative link misses one level down or deeper and draws with 0. Every difference traces to this release: of 885 files 10 change and nothing is added or removed. The 404 differs only by that link (tools/performance_assets.py in f431884). The home, /agency-training/, /media-kit/ and /rfp-guide/ equal production byte for byte once the 8a200d4 source sentences are put back on their 6 changed lines; the context pack is a byte copy of its source; llms.txt is production plus the plan's four appended llms edits; the search index differs only in the five entries of those sections; the two Manual PDFs, rebuilt by CI from docs/index.md, keep 116 pages and differ in text only by the two docs home sentences on page 6. Every new refund sentence is one of the owner's R-168 sentences word for word, split from its folded clause, with two joining sentences (Answer Repair costs $490 once, and the Fix Sprint answer that measures the agreed test again at day 30). The sitemap and its gzip, business-facts.json, docs.css, the stylesheet bundle, /operating-framework/, the other 25 PDFs and 515 of 520 HTML pages are byte-identical to production; no served HTML, text, JSON, XML or CSV file shows $471; prices, figures, dates, canonicals and link targets are unchanged apart from the ruled sentences and the 404's bundle link, and the 45 registered pages, the 55 research pages, 5 pinned assets, 45 sitemap entries and 56 pinned research downloads are byte-exact.",
+    "prior_reviewed_plan_sha256": "7604a6afaedf7cc0722025f15c9809d9c6bab159ee17eadb8b24b835e5f2c925",
+    "reviewed_utc": "2026-11-11T21:42:28.966708+00:00",
+    "serving_base": "01e83b337acddc3e7bc178752d1a6288070a8923",
     "skipped_tests": 2,
-    "source_head": "78755b82e4fafeba4571f0274a3296825260b2d1",
+    "source_head": "0f31248e9932cb21452f280add042157350946fc",
     "state": "LEAD_REVIEWED_CURRENT_SOURCE",
-    "trigger": "STEP 3.3 B130: the docs share of art round 4 (at 1440 the page label, the chapter list's text and the rule above Previous and Next on the 120 to 1320 container, and a page without the chapter list hung from 120; the footer with the app's spacing and wrap; inset panels and cards full-bleed on a phone, captions held to a 42ch measure and the colophon at 16 px on a phone; headings 24px clear, the closing panel sized to its content, resource cards 8px and panels 12px; the not-found section heading as a statement; Study 6 and Study 7 under /research/ without the lede, as the other research pages); the lede and its final-article check (R-163), the 45 registered pages, frozen assets and sitemap entries are unchanged"
+    "trigger": "STEP 3.3 B134: the docs not-found page links its stylesheet bundle from the site root (href=\"/assets/stylesheets/combined-0131a34b0a08f9a4.css\"), so it draws at any depth, with the bundle's bytes, the 404's words and every other page's relative links unchanged; follow-up 3 item 2 (R-168): the refund sentences on the docs home, /agency-training/, /media-kit/, /rfp-guide/, the Broadcastwell context pack and llms.txt (four appended llms edits) are the owner's sentences word for word, with folded clauses split, and verify_build gains the stricter R-168 check; no served date, price, figure, URL or canonical changes; the lede and its final-article check (R-163), the 45 registered pages, the 53 research pages, frozen assets and sitemap entries are unchanged"
   },
   "source_review_complete": true,
-  "visibility_decisions_sha256": "cc979a4c942e95b38c7a916e5e5c26f9276f00ae4d248b4a2e643005e05763aa"
+  "visibility_decisions_sha256": "d876039f38d367f62f9b46e6ea869b46ba395a9c2e95f2da4972120b23d0ca9f"
 }

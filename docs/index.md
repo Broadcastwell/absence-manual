@@ -121,11 +121,11 @@ Read the [answer library](https://docs.broadcastwell.com/answers/) for a worked 
 
 We turn the Absence Index into buyer answers we build, maintain and warrant on your own site. Choose the first job you need.
 
-**Answer Repair, $490.** One buyer question, one source-backed new page or equivalent fix. Choose Live or Handoff before payment. Live access and approval must be complete before payment. Due 48 elapsed hours after recorded Ready. If we miss the deliverable or deadline, we initiate a full $490 refund within five business days, and you keep the work. You may also request a full refund within 30 days of delivery.
+**Answer Repair, $490.** One buyer question, one source-backed new page or equivalent fix. Choose Live or Handoff before payment. Live access and approval must be complete before payment. Due 48 elapsed hours after recorded Ready. If we miss the deliverable or deadline, we initiate a full $490 refund within five business days. You keep the work. You may also request a full refund within 30 days of delivery.
 
 [Fix one answer, $490](https://broadcastwell.com/answer-repair){ .bw-buy }
 
-**Agency Deadline Audit, $490 per client report.** We agree ten buyer questions, then ask each three times on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. You receive the evidence, three prioritized fixes and one paste-ready change of 250 words or fewer, under your brand. Findings within 48 hours of recorded scope confirmation. Refundable in full within 30 days. Your agency implements the change. We never contact your client during the work or for twelve months after.
+**Agency Deadline Audit, $490 per client report.** We agree ten buyer questions, then ask each three times on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. You receive the evidence, three prioritized fixes and one paste-ready change of 250 words or fewer, under your brand. Findings within 48 hours of recorded scope confirmation. Refundable in full within 30 days of delivery. Your agency implements the change. We never contact your client during the work or for twelve months after.
 
 [Read the agency scope](https://broadcastwell.com/for-agencies).
 

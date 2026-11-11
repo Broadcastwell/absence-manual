@@ -37,7 +37,7 @@ The Agency Deadline Audit is $490 per client report. Per our [for agencies page]
 Three terms matter in training because staff repeat them to clients:
 
 - **The clock.** Findings arrive within 48 hours of recorded scope confirmation. The hours are elapsed hours, so a weekend counts.
-- **The refund.** The report is refundable in full on request within 30 days of delivery.
+- **The refund.** Refundable in full within 30 days of delivery.
 - **The relationship.** We never contact your client during the work or for twelve months after.
 
 Our [operating framework](operating-framework.md) quotes every delivery clock and refund term across the ladder, and our [service model](service-model.md) shows which workstreams this report includes.

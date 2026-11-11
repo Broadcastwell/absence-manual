@@ -688,6 +688,41 @@ for served in sorted(SITE.rglob("*")):
         if "$471" in served.read_text(encoding="utf8", errors="replace"):
             fail("%s shows the derived $471 (R-150)" % served.relative_to(SITE).as_posix())
 
+# R-168 (follow-up 3 item 2, 11 November 2026): one refund wording on every surface. No served page, download
+# or llms.txt keeps a refund folded into a clause or an older wording, and llms.txt carries the ruled sentences.
+OLD_REFUND_WORDING = (
+    "Full refund if we miss the work or deadline",
+    "refund within five business days, and you keep the work",
+    "refund within five business days and you keep the work",
+    "efundable in full within 30 days.",
+    "efundable in full within 30 days;",
+    "efundable in full on request within 30 days",
+    "with a full refund on request within 30 days",
+    "initiate a full refund within five business days if",
+    "we refund it in full",
+    "pays the full price back",
+    "or the full amount back",
+    "Terms: the versioned terms for the work.",
+)
+RULED_REFUND_SENTENCES = (
+    "If we miss the deliverable or deadline, we initiate a full $490 refund within five business days. "
+    "You keep the work. You may also request a full refund within 30 days of delivery.",
+    "Refundable in full within 30 days of delivery.",
+    "Measured gain on the agreed test, or the full $3,900 back. You keep the work.",
+    "If we do not deliver within 24 hours of payment, we refund the $19 in full.",
+)
+for served in sorted(SITE.rglob("*")):
+    if served.is_file() and served.suffix.lower() in (".html", ".txt", ".json", ".xml", ".csv", ".md"):
+        served_text = served.read_text(encoding="utf8", errors="replace")
+        for old in OLD_REFUND_WORDING:
+            if old in served_text:
+                fail("%s keeps the older refund wording %r (R-168)" % (served.relative_to(SITE).as_posix(), old))
+        del served_text
+if llms.exists():
+    for ruled in RULED_REFUND_SENTENCES:
+        if ruled not in llms.read_text(encoding="utf8"):
+            fail("llms.txt is missing the ruled refund sentence %r (R-168)" % ruled)
+
 
 # Agent Ready is separate from the engine measurement method and published research.
 facts = SITE / "vendor-facts" / "index.html"
