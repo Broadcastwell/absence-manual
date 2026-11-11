@@ -1,6 +1,6 @@
 {
   "approved_artifact_sha256": {
-    "404.html": "0af8f16599e3bb5de4a96c3c2dfaa3c4e02bb494540266a21b1de242449a7f12",
+    "404.html": "3e62e478ce21eaf82c04f08922a899ffa8d0e4e72eb9503d3381dbe0a13be1c7",
     "96cbb543e5112b997a86bb4ac977389a.txt": "f902d13c37d626720be8fb1216204cce010293ccb995053d9b2273db04928538",
     "CNAME": "fbba089ba362c5dd7e67ce8e7c3474bf8e6b4e172f8e3193bcd11ad8335ce4ea",
     "absence-ladder-volume-ii.pdf": "63ad282653a035a94a852fba0e50efd0e77ee5861f9c5f9964806bca9ce84392",
@@ -365,7 +365,7 @@
     "assets/ai-referral/ai-referrals-source-regex.txt": "84cacfe6e4cc1dcfa8c44da9ace38ac2739caec9473ebd6b8faea03cc1d3c250",
     "assets/ai-referral/ai-referrals-test-cases.csv": "76e7fbc345dc81e8e1d4a24690af807c3ec6b40df1c3c01353a68110b1bf7a40",
     "assets/brand/docs-controls.js": "2fb75d0cb1f8d84ec308abbee14e4e0db7ba9569a14d809cb8e19fef08689255",
-    "assets/brand/docs.css": "bccb60315c49ebd30220edf30383a3924a43f570a5fde711c5e56ed92594f450",
+    "assets/brand/docs.css": "926ec31f8efd5e3a745d7156ed3c763f51a2d1e65a93a449adec06b26d665d0b",
     "assets/brand/fonts/LICENSE-Geist-OFL.txt": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f",
     "assets/brand/fonts/LICENSE-Newsreader-OFL.txt": "fdfad38143ec470553cae82a1e45320bdd1b9ec70415d37bd0171051d8a4ded8",
     "assets/brand/fonts/geist-latin-var.woff2": "6ba2ee738a5770309a1a3f0488ff3d9024f9cc80aa49bf7c9b1c7d1ac7b9af66",
@@ -809,8 +809,8 @@
     "research/studies/evidence-refresh-field-test/index.html": "fac1e746b27d56b1bf504e9c5ddbc616de75551eba2561a8f0886839c2a3af1d",
     "research/studies/optimized-pages-in-ai-answers/index.html": "c66318822cd98485345756d5cebf1518afe18401e53016abc4b2c55a0894bc83",
     "research/studies/who-ai-engines-cite/index.html": "e0ad9b84d7a63cef09fe48fd7fa397d843e49d624ce807cc4d810459d3d6f77d",
-    "research/study6-wrong-about-you/index.html": "aa2b00310d6d34f4750617d0242561066a29c799035b04db0d6408c70a1ddf54",
-    "research/study7-ai-written-rfp/index.html": "3e00546666faa53bdfee4467d92471e3ec1ceca20a9b07364d7881a6539fe2c1",
+    "research/study6-wrong-about-you/index.html": "7eb786492d8882792e1fd34c8ab07eb9d95dc2237808e6376d377274c5ba7a9a",
+    "research/study7-ai-written-rfp/index.html": "7ee4144548269664aa52ae759cf5f7acd86905830ff871e504e0f9148784fb35",
     "resources/audit/executive-template/index.html": "edba49d6a1a08e52d789bbb47a75ae4230d7d56d50d7d0597a11c5454b117792",
     "resources/audit/recheck-receipts/index.html": "8774ef617cff0c645a3bd276529957dde166ee8050a1ae25bc1157d08a17ab6b",
     "resources/audit/sample/index.html": "bb3ae2a189f90dfe0b4a18a09ae1c0fde87d5907631724ba1464d1cba7d96199",
@@ -888,7 +888,7 @@
   },
   "artifact_changes": {
     "404.html": {
-      "after_sha256": "0af8f16599e3bb5de4a96c3c2dfaa3c4e02bb494540266a21b1de242449a7f12",
+      "after_sha256": "3e62e478ce21eaf82c04f08922a899ffa8d0e4e72eb9503d3381dbe0a13be1c7",
       "before_sha256": "a9c7bd1db4decfdaa380e59049df776588fd2db1d7ee2461d233f2d43cec7c6b"
     },
     "absence-ladder/index.html": {
@@ -2248,7 +2248,7 @@
       "before_sha256": null
     },
     "assets/brand/docs.css": {
-      "after_sha256": "bccb60315c49ebd30220edf30383a3924a43f570a5fde711c5e56ed92594f450",
+      "after_sha256": "926ec31f8efd5e3a745d7156ed3c763f51a2d1e65a93a449adec06b26d665d0b",
       "before_sha256": null
     },
     "assets/brand/fonts/LICENSE-Geist-OFL.txt": {
@@ -2784,11 +2784,11 @@
       "before_sha256": "e54f8e9925f2e8948459263a2fbed724f283f6c87467fb4c5bc96c150e70d1e7"
     },
     "research/study6-wrong-about-you/index.html": {
-      "after_sha256": "aa2b00310d6d34f4750617d0242561066a29c799035b04db0d6408c70a1ddf54",
+      "after_sha256": "7eb786492d8882792e1fd34c8ab07eb9d95dc2237808e6376d377274c5ba7a9a",
       "before_sha256": "a5effeb76e7582c897295cf81e8670f1c301bf721fdd6bc2a6957a00bc62d02d"
     },
     "research/study7-ai-written-rfp/index.html": {
-      "after_sha256": "3e00546666faa53bdfee4467d92471e3ec1ceca20a9b07364d7881a6539fe2c1",
+      "after_sha256": "7ee4144548269664aa52ae759cf5f7acd86905830ff871e504e0f9148784fb35",
       "before_sha256": "fb3c93dc9b6b12378a7f79b8f118e13dfc5aa3dcc4b5f13898630128a0080f30"
     },
     "resources/audit/executive-template/index.html": {
@@ -3085,20 +3085,20 @@
     }
   },
   "artifact_review": {
-    "PDFs_changed": 2,
-    "actual_Linux_artifact_id": 13865907158,
-    "actual_Linux_run_id": 43041680235,
-    "actual_artifact_sha256": "ac36eaffc98b4d459bb241843d1a46b60dfe9eeb1f687073d579ab4457a30195",
+    "PDFs_changed": 0,
+    "actual_Linux_artifact_id": 13876272031,
+    "actual_Linux_run_id": 43065691086,
+    "actual_artifact_sha256": "708f392101c7ba0163823cff5e442c855367d45e203a60372f69df344fbcb082",
     "added_from_production": 0,
     "approved": true,
-    "changed_from_production": 405,
+    "changed_from_production": 4,
     "complete_files": 885,
-    "exact_comparison_sha256": "f5c1697e308b481476cdd2815fb8cce93ae343b64ad7b89e6d931a807cb27171",
+    "exact_comparison_sha256": "3cd90536edefa3b6cad7be094c42452c8becb7424b3812333854a733abb45b65",
     "frozen_HTML": 45,
     "frozen_sitemap_entries": 45,
     "pinned_assets": 5,
-    "reviewed_utc": "2026-11-11T15:19:14.357972+00:00",
-    "source_head": "f190845297aca9dbce4e677497815868a4d63c45"
+    "reviewed_utc": "2026-11-11T17:38:40.481009+00:00",
+    "source_head": "78755b82e4fafeba4571f0274a3296825260b2d1"
   },
   "base_commit": "88d6b6bb11f8b4bd713ee7e4e79c863ff9973518",
   "base_source_sha256": {
@@ -6060,7 +6060,7 @@
     "docs/assets/ai-referral/ai-referrals-source-regex.txt": "84cacfe6e4cc1dcfa8c44da9ace38ac2739caec9473ebd6b8faea03cc1d3c250",
     "docs/assets/ai-referral/ai-referrals-test-cases.csv": "76e7fbc345dc81e8e1d4a24690af807c3ec6b40df1c3c01353a68110b1bf7a40",
     "docs/assets/brand/docs-controls.js": "2fb75d0cb1f8d84ec308abbee14e4e0db7ba9569a14d809cb8e19fef08689255",
-    "docs/assets/brand/docs.css": "bccb60315c49ebd30220edf30383a3924a43f570a5fde711c5e56ed92594f450",
+    "docs/assets/brand/docs.css": "926ec31f8efd5e3a745d7156ed3c763f51a2d1e65a93a449adec06b26d665d0b",
     "docs/assets/brand/fonts/LICENSE-Geist-OFL.txt": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f",
     "docs/assets/brand/fonts/LICENSE-Newsreader-OFL.txt": "fdfad38143ec470553cae82a1e45320bdd1b9ec70415d37bd0171051d8a4ded8",
     "docs/assets/brand/fonts/geist-latin-var.woff2": "6ba2ee738a5770309a1a3f0488ff3d9024f9cc80aa49bf7c9b1c7d1ac7b9af66",
@@ -6514,8 +6514,8 @@
     "docs/why-does-chatgpt-not-mention-us.md": "d34f48d0b3899f380a70d6d22d81fd4b5d05f433a91fd3345ab0b43485b01adb",
     "docs/workshops.md": "d7d49239f94e3590331e7f3d1c93ea758151d0cb4f420fc4395a00e70874393a",
     "mkdocs.yml": "ee9d3c3dc71abc20db62847d99a26f800f87048270a20efb5d4320f59fc9a775",
-    "overrides/404.html": "fbe430209873746a0541648fce8145086e04333f4d46753dc126e2e5812f461f",
-    "overrides/brand.html": "215cfee9b94bcfa854b0091c264ceb9cc8982b7b65424f06cc705c24d6bf45a8",
+    "overrides/404.html": "bfa8428753d25268d90e7517992943dab99a182a0513050fcd1d1fa2d5490fc2",
+    "overrides/brand.html": "01d8a500f3b7f7050c25210b878717d006f4b8542b85aa1a2d1a394d7e3d88ef",
     "overrides/business-hub.html": "cc4a7e74c68d63c9d19e125db9b07cb55b8ae442553029a2526f634c8d33fecf",
     "overrides/followup.html": "1a3366e630f9c6ab1a17679e372eab408710fd8866106885edd369d172fe5bc8",
     "overrides/main.html": "c9b405202180e534f5d109831a4909054d5a9c65ce6f96432ab47526576d2ebe",
@@ -6633,7 +6633,8 @@
     "tests/test_chatgpt_business_hub.py": "17872da1bff4530bd87a7d95593ba620dcac87dbf41124d9b81a8db6b381bcd8",
     "tests/test_discovery_consumer_five.py": "e725ad9bf46e0299f62037ffa956ad5a69b1574748ec14d53eb56368d08eb4cf",
     "tests/test_docs_account_analyses.py": "cb8a17a221444d297d3666c8ab142cca8df98d8eaf47e9ec2ab64db71de24a50",
-    "tests/test_docs_art_r3_20261111.py": "53812151200e5798e2caa49e919d5d3d6594a78ce4a2e7dabf4c2c2efc9a9039",
+    "tests/test_docs_art_r3_20261111.py": "1791db4fbcc8aedf03e2fb82c98b2bdd2a46d24487281c495008b627e50446d2",
+    "tests/test_docs_art_r4_20261111.py": "d44ced5996b050e8ddf7cb9828555edf6f8693e826cbdac01bea283e93ded3cc",
     "tests/test_docs_census_fixes_20261110.py": "d5774946ae529f566b781c93ecb0a588f541142bcdd09e6e2b951ed31b7f2875",
     "tests/test_docs_content_pages.py": "9ad1dbb20486092973278a5cd09d5b05b706eda7ae2cd51fb7361cfc7c03da13",
     "tests/test_docs_gate_20261111.py": "664c9b6a63859d2ebfbdffd9549182ed5e2c7e4f8d2ec1288bfc94086ccda3a6",
@@ -6688,7 +6689,7 @@
     "tests/test_research_study_closing.py": "5da4a14c821853ebc012aee357a023b302bf05094d1e29247e4fb655d5aa5b43",
     "tests/test_research_support.py": "e4727726e94d6dcaf51b24730c2c2654cf104f927fab4c99a6c929832836ad5a",
     "tests/test_verified_preview.py": "0648a8d2a614bc6820e582a818716eac9e3ea1e42be6a9d503d296c8cba4e8e4",
-    "tools/brand-docs.css": "c52b9a7ab7d9b1a08e6af55eaa724ef6f4f565f0a81259f90e1d0beaaddf0d0e",
+    "tools/brand-docs.css": "12421a042f1a58e74f0ad89d06040c83be7daf500c693e3d0b444c0c668e0dac",
     "tools/brand_chrome.mjs": "d7e5c8878b98461c1861800e6812923f1cc6f8f8b97eb6f75592e49d67108150",
     "tools/build_pdf.py": "064b431cde319e7250ace3562ff4f312cb915990fe96b2bf8202bd7caf0a73b3",
     "tools/generate_answers_llms.py": "28e72ac6b729800e0bb1696cc49a1a09466f752ceb955ad732e0a539096def13",
@@ -9265,7 +9266,7 @@
       "before_sha256": null
     },
     "docs/assets/brand/docs.css": {
-      "after_sha256": "bccb60315c49ebd30220edf30383a3924a43f570a5fde711c5e56ed92594f450",
+      "after_sha256": "926ec31f8efd5e3a745d7156ed3c763f51a2d1e65a93a449adec06b26d665d0b",
       "before_sha256": null
     },
     "docs/assets/brand/fonts/LICENSE-Geist-OFL.txt": {
@@ -9957,11 +9958,11 @@
       "before_sha256": "2117b8e6ff2638eb01cf9f39912ba89f2a557dcf5afcc0ae0f78ba31a265201a"
     },
     "overrides/404.html": {
-      "after_sha256": "fbe430209873746a0541648fce8145086e04333f4d46753dc126e2e5812f461f",
+      "after_sha256": "bfa8428753d25268d90e7517992943dab99a182a0513050fcd1d1fa2d5490fc2",
       "before_sha256": null
     },
     "overrides/brand.html": {
-      "after_sha256": "215cfee9b94bcfa854b0091c264ceb9cc8982b7b65424f06cc705c24d6bf45a8",
+      "after_sha256": "01d8a500f3b7f7050c25210b878717d006f4b8542b85aa1a2d1a394d7e3d88ef",
       "before_sha256": null
     },
     "overrides/business-hub.html": {
@@ -10013,7 +10014,11 @@
       "before_sha256": null
     },
     "tests/test_docs_art_r3_20261111.py": {
-      "after_sha256": "53812151200e5798e2caa49e919d5d3d6594a78ce4a2e7dabf4c2c2efc9a9039",
+      "after_sha256": "1791db4fbcc8aedf03e2fb82c98b2bdd2a46d24487281c495008b627e50446d2",
+      "before_sha256": null
+    },
+    "tests/test_docs_art_r4_20261111.py": {
+      "after_sha256": "d44ced5996b050e8ddf7cb9828555edf6f8693e826cbdac01bea283e93ded3cc",
       "before_sha256": null
     },
     "tests/test_docs_census_fixes_20261110.py": {
@@ -10053,7 +10058,7 @@
       "before_sha256": "e991ea8c113d1325b73d33ba06090d47c94c64994f0ff127d27fa816c4326a14"
     },
     "tools/brand-docs.css": {
-      "after_sha256": "c52b9a7ab7d9b1a08e6af55eaa724ef6f4f565f0a81259f90e1d0beaaddf0d0e",
+      "after_sha256": "12421a042f1a58e74f0ad89d06040c83be7daf500c693e3d0b444c0c668e0dac",
       "before_sha256": null
     },
     "tools/brand_chrome.mjs": {
@@ -10194,15 +10199,15 @@
     }
   },
   "source_review": {
-    "complete_local_tests": 1039,
-    "native_preview": "Eight pages of the actual CI candidate (home, the absence-ladder chapter, the Business Hub explainer, the does-absence-persist study, a missing address answered by the docs 404, /account-analyses/, a research insight and a ChatGPT answer page), and the two pages whose source changed (/services/bloomington-indiana/ and /vendor-facts/), read from a local server with scripts off and on at 1440 and 390 pixels: 40 reads, status 200 (404 for the missing address), no phone overflow, JSON-LD parsed with one Organization of @id https://broadcastwell.com/#organization, the shared navigation and footer with Procurement on every read, the lede once right under the headline with Run the free check inside the first screen on the non-research pages and absent on the study, the research insight and the 404, no banned string introduced (each scan hit is a dated engine-scope sentence or a guarantee denial that production carries too). Every difference on the 399 changed HTML pages traces to this release: with the one fixed lede block taken out from right after the headline, 397 pages equal production byte for byte and the other 2 differ only by their own sentence in 48fa664 (the Bloomington price sentence without a range, the Kalvenor label said once). The search index (the same two entries), the brand stylesheet, docs-controls.js and the executive template (byte-equal to their sources) and the two rebuilt Manual PDFs (the Kalvenor sentence only, 116 pages each) trace the same way; nothing is added or removed. llms.txt, the sitemap and its gzip, the 404, the 53 research pages and every other PDF are byte-identical to production; no served HTML, text, JSON, XML or CSV file shows $471; prices, numbers, refund and legal wording, canonicals and link targets are unchanged (the free check adds one audit link per page), and the 45 registered pages, 5 pinned assets, 45 sitemap entries and 56 pinned research downloads are byte-exact.",
-    "prior_reviewed_plan_sha256": "d16ed5247206bf9766bf2c8be36bf5ac663087d326471eab528c3a0629f289c0",
-    "reviewed_utc": "2026-11-11T15:19:14.357972+00:00",
-    "serving_base": "6456585c20e94ca57b8a745a166a6c6d991996b1",
+    "complete_local_tests": 1053,
+    "native_preview": "Eight pages of the actual CI candidate (home, the absence-ladder chapter, the Business Hub explainer, the does-absence-persist study, a missing address answered by the docs 404, /account-analyses/, a research insight and a ChatGPT answer page) and the three pages the art director judges or this release changes (/ai-source-standard/, Study 6 and Study 7), read from a local server with scripts off and on at 1440 and 390 pixels: 44 reads, status 200 (404 for the missing address), no phone overflow, JSON-LD parsed with one Organization of @id https://broadcastwell.com/#organization, the shared navigation and footer with Procurement on every read, no banned string introduced (each scan hit is a dated engine-scope sentence, a guarantee denial or a plain \"not only\" that production carries too). At 1440 the page label, the chapter list's text and the rule above Previous and Next sit on the 120 to 1320 container on every read that has them (production: 136, 136 and 96 to 1344); at 390 every closing panel runs full-bleed, 0 to 390 with no radius and its text at 16 (production: 16 to 374, radius 12). The lede is once right under the headline with Run the free check inside the first screen on the non-research pages and absent on the study, Study 6, Study 7, the research insight and the 404, whose section heading reads You can run the free check yourself or have us do the work. A second missing address one level down (/research/no-such-study/) serves the same 404, whose relative link to Material's combined stylesheet misses there, as production does today. Every difference traces to this release: of 885 files 4 change and nothing is added or removed; the brand stylesheet is byte-equal to its source at 78755b8 (the vendored part unchanged), the 404 differs only by its section heading, and Study 6 and Study 7 equal production byte for byte once production's one lede block is taken out from right after the headline. llms.txt, the sitemap and its gzip, the search index, all 27 PDFs, the 53 research pages and the other 464 HTML pages are byte-identical to production; no served HTML, text, JSON, XML or CSV file shows $471; prices, numbers, refund and legal wording, canonicals and link targets are unchanged (Study 6 and Study 7 each lose the lede's one audit link), and the 45 registered pages, 5 pinned assets, 45 sitemap entries and 56 pinned research downloads are byte-exact.",
+    "prior_reviewed_plan_sha256": "f77057d07f78e649d1ddc1a5056267c27ae15c8d9b5706d14c17ae38d54cd340",
+    "reviewed_utc": "2026-11-11T17:38:40.481009+00:00",
+    "serving_base": "94226c2255de8b6ea4c54eb031208faabc07cd2f",
     "skipped_tests": 2,
-    "source_head": "f190845297aca9dbce4e677497815868a4d63c45",
+    "source_head": "78755b82e4fafeba4571f0274a3296825260b2d1",
     "state": "LEAD_REVIEWED_CURRENT_SOURCE",
-    "trigger": "STEP 3.3 B126: the docs share of art round 3 (under the headline of every docs article outside research, the ENTITY.md 12-word description and one primary action, Run the free check; on wide screens the chapter list without its sticky title, hiding an item either edge of its column would cut and starting on a whole item; the page label at the chapter list's text edge; the one selected state on the chapter and contents lists), the executive template titled without a retired name, the Kalvenor label said once on /vendor-facts/, the Bloomington price sentence without a range, and the final-article check accepting exactly that one block after the headline of a non-research page (R-163); the 45 registered pages, frozen assets and sitemap entries are unchanged"
+    "trigger": "STEP 3.3 B130: the docs share of art round 4 (at 1440 the page label, the chapter list's text and the rule above Previous and Next on the 120 to 1320 container, and a page without the chapter list hung from 120; the footer with the app's spacing and wrap; inset panels and cards full-bleed on a phone, captions held to a 42ch measure and the colophon at 16 px on a phone; headings 24px clear, the closing panel sized to its content, resource cards 8px and panels 12px; the not-found section heading as a statement; Study 6 and Study 7 under /research/ without the lede, as the other research pages); the lede and its final-article check (R-163), the 45 registered pages, frozen assets and sitemap entries are unchanged"
   },
   "source_review_complete": true,
   "visibility_decisions_sha256": "cc979a4c942e95b38c7a916e5e5c26f9276f00ae4d248b4a2e643005e05763aa"

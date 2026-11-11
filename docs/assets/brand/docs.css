@@ -450,6 +450,9 @@ html { font-size: 125%; }
   --md-shadow-z1: none;
   --md-shadow-z2: var(--bw-shadow-float);
   --md-shadow-z3: var(--bw-shadow-float);
+  /* Captions and colophons at 13px stay within 75 characters a line (art round 4, point 5): 42 widths of
+     the zero hold about 70 characters of running Geist at that size, where the brand's 46ch held 77. */
+  --bw-measure-caption: 42ch;
 }
 
 body { background: var(--bw-color-paper); color: var(--bw-color-ink); font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); }
@@ -519,14 +522,28 @@ body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result 
 .md-nav__item--section > .md-nav__link { color: var(--bw-color-ink); font-weight: var(--bw-weight-semibold); }
 .md-nav__source { background: var(--bw-color-canvas); color: var(--bw-color-ink); }
 .md-nav__source .md-source { color: var(--bw-color-ink); }
-/* Wide screens (art round 2, points 7 and 8). The page label above the columns already names the manual,
-   so the chapter list drops its own sticky title and nothing scrolls under it; docs-controls.js hides an
-   item either edge of the list's column would cut (no scroll snapping: the items of an open section snap
-   inside their own list, so snapping the column would trap it). Where the chapter list shows, the page
-   label hangs from its text edge: the list's 0.2rem column inset plus its 0.6rem item inset. */
+/* Wide screens (art round 2, point 7). The page label above the columns already names the manual, so the
+   chapter list drops its own sticky title and nothing scrolls under it; docs-controls.js hides an item
+   either edge of the list's column would cut (no scroll snapping: the items of an open section snap inside
+   their own list, so snapping the column would trap it).
+   Art round 4, point 8: everything hangs on the container the wordmark uses (120 to 1320 at 1440). The page
+   label keeps the container edge on every page, and both side columns put their text on their own column
+   edges: the chapter list's text starts where the wordmark does and the contents list ends where the header
+   actions end. Each column reaches 8px past its edges so a focus ring is never clipped, and takes the 8px
+   back inside, which replaces Material's 0.2rem column inset, 0.6rem item inset and 0.4rem item margin. */
 @media screen and (min-width: 76.25em) {
   .md-sidebar--primary .md-nav--primary > .md-nav__title { display: none; }
-  body:has(.md-sidebar--primary:not([hidden])) .bw-document-tools { padding-left: calc(var(--bw-layout-margin) + 0.8rem); }
+  .md-sidebar .md-sidebar__scrollwrap { margin-inline: calc(-1 * var(--bw-space-8)); }
+  .md-sidebar .md-sidebar__inner { padding-inline: 0 var(--bw-space-8); }
+  .md-sidebar :is(.md-nav--primary, .md-nav--secondary) > .md-nav__list { padding-inline: var(--bw-space-8) 0; }
+  .md-sidebar .md-nav__link { margin-inline: 0; }
+  .md-sidebar--secondary .md-nav--secondary > .md-nav__title { padding-inline: var(--bw-space-8) 0; }
+  /* A page without the chapter list (the answer library, the resources) hangs its article from the
+     container's left edge, under the page label, and runs it to the contents list's gutter, so its rules
+     end where a chapter's do (1054 at 1440) instead of centering a 720px column between 120 and the
+     contents list; a resource page with neither list spans the container. */
+  .md-sidebar--primary[hidden] ~ .md-content > .md-content__inner { max-width: none; margin-left: 0; }
+  .md-sidebar--primary[hidden] ~ .md-content > .md-content__inner:has(.bw-learning) { max-width: var(--bw-layout-container); padding-inline: 0; margin-right: 0; }
 }
 @media screen and (max-width: 76.1875em) {
   .md-nav--primary .md-nav__title { background: var(--bw-color-canvas); color: var(--bw-color-ink); }
@@ -545,14 +562,14 @@ body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result 
 .md-typeset strong { color: var(--bw-color-ink); font-weight: var(--bw-weight-semibold); }
 .md-typeset :is(h1, h2, h3) { font-family: var(--bw-font-display); font-weight: var(--bw-weight-headline); letter-spacing: var(--bw-headline-tracking); color: var(--bw-color-ink); text-wrap: balance; font-optical-sizing: auto; }
 .md-typeset h1 { margin: 0 0 var(--bw-space-24); font-size: var(--bw-text-31); line-height: var(--bw-leading-31); }
-.md-typeset h2 { margin: var(--bw-space-48) 0 var(--bw-space-16); font-size: var(--bw-text-25); line-height: var(--bw-leading-25); }
-.md-typeset h3 { margin: var(--bw-space-32) 0 var(--bw-space-12); font-size: var(--bw-text-20); line-height: var(--bw-leading-25); }
+.md-typeset h2 { margin: var(--bw-space-48) 0 var(--bw-space-24); font-size: var(--bw-text-25); line-height: var(--bw-leading-25); }
+.md-typeset h3 { margin: var(--bw-space-32) 0 var(--bw-space-24); font-size: var(--bw-text-20); line-height: var(--bw-leading-25); }
 @media (min-width: 768px) {
   .md-typeset h1 { font-size: var(--bw-text-39); line-height: var(--bw-leading-39); }
   .md-typeset h2 { font-size: var(--bw-text-31); line-height: var(--bw-leading-31); }
   .md-typeset h3 { font-size: var(--bw-text-25); line-height: var(--bw-leading-25); }
 }
-.md-typeset :is(h4, h5, h6) { margin: var(--bw-space-24) 0 var(--bw-space-8); font-family: var(--bw-font-sans); font-weight: var(--bw-weight-semibold); letter-spacing: 0; text-transform: none; color: var(--bw-color-ink); }
+.md-typeset :is(h4, h5, h6) { margin: var(--bw-space-24) 0 var(--bw-space-24); font-family: var(--bw-font-sans); font-weight: var(--bw-weight-semibold); letter-spacing: 0; text-transform: none; color: var(--bw-color-ink); }
 .md-typeset h4 { font-size: var(--bw-text-20); line-height: var(--bw-leading-20); }
 .md-typeset :is(h5, h6) { font-size: var(--bw-text-16); line-height: var(--bw-leading-16); }
 .md-typeset .headerlink { color: var(--bw-color-ink-secondary); }
@@ -562,7 +579,7 @@ body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result 
 .md-typeset hr { border-bottom: var(--bw-stroke-hairline) solid var(--bw-color-line); }
 .md-typeset blockquote { padding-left: var(--bw-space-16); border-left: var(--bw-stroke-rule) solid var(--bw-color-data-blue); color: var(--bw-color-ink); }
 .md-typeset img { border: var(--bw-stroke-hairline) solid var(--bw-color-line); border-radius: var(--bw-radius-4); }
-.md-typeset figure figcaption { max-width: var(--bw-measure); margin-top: var(--bw-space-12); font-family: var(--bw-font-sans); font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); }
+.md-typeset figure figcaption { max-width: var(--bw-measure-caption); margin-top: var(--bw-space-12); font-family: var(--bw-font-sans); font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); }
 .md-typeset :is(code, kbd) { padding: 0 var(--bw-space-4); font-size: var(--bw-text-16); background: var(--bw-color-canvas); color: var(--bw-color-ink); border-radius: var(--bw-radius-4); }
 .md-typeset pre > code { padding: var(--bw-space-16); font-size: var(--bw-text-13); line-height: var(--bw-leading-13); background: var(--bw-color-canvas); color: var(--bw-color-ink); border-radius: var(--bw-radius-8); }
 .md-typeset mark { background: var(--bw-color-notice-bg); color: var(--bw-color-ink); }
@@ -582,8 +599,8 @@ body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result 
 .md-typeset :is(.admonition-title, summary)::before { display: none; }
 .md-typeset :is(.admonition, details) :is(p, li) { font-size: var(--bw-text-16); line-height: var(--bw-leading-16); }
 
-/* Research pages: the own-data section is the evidence panel. */
-.md-typeset .bw-own-data { display: block; padding: var(--bw-space-24); margin: var(--bw-space-32) 0; background: var(--bw-color-panel); border: 0; border-radius: var(--bw-radius-12); }
+/* Research pages: the own-data section is the evidence panel; like the closing panel it sizes to its content. */
+.md-typeset .bw-own-data { display: block; box-sizing: border-box; width: fit-content; max-width: 100%; padding: var(--bw-space-24); margin: var(--bw-space-32) 0; background: var(--bw-color-panel); border: 0; border-radius: var(--bw-radius-12); }
 
 /* ---------- under the headline: who we are, for whom, and the one next step (art round 2, point 1) ---------- */
 .md-typeset .bw-docs-lede { display: flex; flex-wrap: wrap; align-items: center; gap: var(--bw-space-12) var(--bw-space-24); padding-bottom: var(--bw-space-24); margin: 0 0 var(--bw-space-32); border-bottom: var(--bw-stroke-hairline) solid var(--bw-color-line); }
@@ -592,17 +609,21 @@ body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result 
 
 /* ---------- the manual's closing blocks ---------- */
 .bw-editorial-byline { margin-top: var(--bw-space-48); font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); color: var(--bw-color-ink-secondary); }
-.md-typeset .bw-next-step { display: grid; gap: var(--bw-space-12); padding: var(--bw-space-24); margin: var(--bw-space-32) 0; background: var(--bw-color-panel); border: 0; border-radius: var(--bw-radius-12); box-shadow: none; }
-.md-typeset .bw-next-step h2 { margin: 0; font-size: var(--bw-text-25); line-height: var(--bw-leading-25); }
+/* The closing panel sizes to its content (art round 4, point 7: no panel more than 40 percent empty at 1440),
+   and its heading stands 24px clear of the text under it: the panel's 12px gap plus 12px. */
+.md-typeset .bw-next-step { display: grid; gap: var(--bw-space-12); box-sizing: border-box; width: fit-content; max-width: 100%; padding: var(--bw-space-24); margin: var(--bw-space-32) 0; background: var(--bw-color-panel); border: 0; border-radius: var(--bw-radius-12); box-shadow: none; }
+.md-typeset .bw-next-step h2 { margin: 0 0 var(--bw-space-12); font-size: var(--bw-text-25); line-height: var(--bw-leading-25); }
 .md-typeset .bw-next-step p { margin: 0; max-width: var(--bw-measure); font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); color: var(--bw-color-ink); }
 .md-typeset .bw-next-actions { display: flex; flex-wrap: wrap; align-items: center; gap: var(--bw-space-12) var(--bw-space-24); }
 .md-typeset a.bw-buy { display: inline-flex; align-items: center; justify-content: center; min-height: var(--bw-layout-control-height); padding: var(--bw-space-12) var(--bw-space-24); border: var(--bw-stroke-hairline) solid var(--bw-color-accent); border-radius: var(--bw-radius-4); background: var(--bw-color-accent); color: var(--bw-color-paper); font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); font-weight: var(--bw-weight-semibold); text-decoration: none; }
 .md-typeset a.bw-buy:hover { background: var(--bw-color-accent-strong); border-color: var(--bw-color-accent-strong); color: var(--bw-color-paper); }
 .md-typeset a.bw-buy:active { background: var(--bw-color-accent-deep); border-color: var(--bw-color-accent-deep); }
-.manual-footer-version { max-width: var(--bw-measure); font-family: var(--bw-font-sans); font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); }
-.md-typeset p.manual-footer-version { font-family: var(--bw-font-sans); font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); }
+.manual-footer-version { max-width: var(--bw-measure-caption); font-family: var(--bw-font-sans); font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); }
+.md-typeset p.manual-footer-version { max-width: var(--bw-measure-caption); font-family: var(--bw-font-sans); font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); }
 
-.bw-document-pagination { display: flex; flex-wrap: wrap; justify-content: space-between; align-self: stretch; box-sizing: border-box; width: 100%; gap: var(--bw-space-16) var(--bw-space-24); max-width: calc(var(--bw-layout-container) + 2 * var(--bw-layout-margin)); padding: var(--bw-space-32) var(--bw-layout-margin); margin: 0 auto; border-top: var(--bw-stroke-hairline) solid var(--bw-color-line); }
+/* The rule above Previous and Next runs on the container (art round 4, point 8): 120 to 1320 at 1440, and
+   from the 16px page gutter on a phone, like the footer's last rule. */
+.bw-document-pagination { display: flex; flex-wrap: wrap; justify-content: space-between; align-self: center; box-sizing: border-box; width: calc(100% - 2 * var(--bw-layout-margin)); gap: var(--bw-space-16) var(--bw-space-24); max-width: var(--bw-layout-container); padding: var(--bw-space-32) 0; margin: 0 auto; border-top: var(--bw-stroke-hairline) solid var(--bw-color-line); }
 .bw-document-pagination a { display: inline-flex; align-items: center; min-height: var(--bw-space-48); font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); font-weight: var(--bw-weight-medium); color: var(--bw-color-accent); text-decoration: underline; text-decoration-thickness: var(--bw-stroke-hairline); text-underline-offset: 0.2em; }
 .bw-document-pagination a:hover { color: var(--bw-color-accent-strong); text-decoration-thickness: var(--bw-stroke-focus); }
 
@@ -613,22 +634,62 @@ body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result 
 .bw-site-footer { font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); }
 .bw-site-footer :focus-visible { outline: var(--bw-focus-width) var(--bw-focus-style) var(--bw-focus-color); outline-offset: var(--bw-focus-offset); }
 .bw-site-footer .bw-logotype { color: var(--bw-color-ink); }
-.bw-docs-disclosure, .bw-docs-research-note { max-width: var(--bw-measure); padding-bottom: var(--bw-space-32); margin-bottom: var(--bw-space-32); border-bottom: var(--bw-stroke-hairline) solid var(--bw-color-line); color: var(--bw-color-ink-secondary); }
-.bw-docs-disclosure p, .bw-docs-research-note p { margin: 0 0 var(--bw-space-8); }
+/* One footer spacing and wrap everywhere (art round 4, points 2 and 19). The app draws the same footer inside
+   html.bw-page, whose base rules zero a paragraph's margins, balance short headings and keep a paragraph from
+   ending on one word; the docs page has no bw-page, so the browser's 1em paragraph margins pushed the tagline
+   25px from the wordmark and the address, and the tagline and column heads broke differently at 390. */
+.bw-site-footer :where(p, address) { margin: 0; }
+.bw-site-footer :where(p) { text-wrap: pretty; }
+.bw-site-footer :where(h2, h3) { text-wrap: balance; }
+/* A research page's identity note keeps its words; its rule runs the width of the container like the rule
+   above the legal row, and only its text keeps the measure. */
+.bw-docs-disclosure, .bw-docs-research-note { padding-bottom: var(--bw-space-32); margin-bottom: var(--bw-space-32); border-bottom: var(--bw-stroke-hairline) solid var(--bw-color-line); color: var(--bw-color-ink-secondary); }
+.bw-docs-disclosure p, .bw-docs-research-note p { max-width: var(--bw-measure); margin: 0 0 var(--bw-space-8); }
 .bw-docs-allowance { max-width: var(--bw-measure); margin: var(--bw-space-32) 0 0; font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); }
 .bw-docs-allowance strong { font-weight: var(--bw-weight-semibold); color: var(--bw-color-ink); }
-.bw-research-footer .bw-site-footer__last { margin-top: 0; }
+.bw-research-footer .bw-docs-research-note + .bw-site-footer__last { margin-top: 0; }
+/* manual.css pads the old research footer 16px; the brand footer takes its gutter from its container. */
+.bw-site-footer.bw-research-footer { padding-inline: 0; }
 
-/* ---------- the not-found page ---------- */
+/* ---------- the resource pages (assets/learning.css) on the brand's radii and measure (art round 4) ----------
+   A card is 8px and a panel 12px; Material's grid-card rules gave the resource cards a 2px radius and a hover
+   shadow, which the brand keeps for floating layers. Text inside a card or panel keeps the brand measure.
+   On wide screens a card grid takes three columns, or four where that fills every row, so a short card is
+   not two-thirds blank and no cell stands empty; each card is as tall as its own content. */
+.md-typeset .bw-learning .card, .md-typeset .bw-learning .grid > .card { border-radius: var(--bw-radius-8); }
+.md-typeset .bw-learning .grid > .card:is(:hover, :focus-within) { border-color: var(--bw-color-accent); box-shadow: none; }
+.md-typeset .bw-learning :is(.panel, .step) { border-radius: var(--bw-radius-12); }
+.md-typeset .bw-learning :is(.card, .panel, .step, .notice) :is(p, li) { max-width: var(--bw-measure); }
+/* A card's title stands 24px clear of the text under it, like every heading (art round 4, point 7). */
+.md-typeset .bw-learning .card :is(h2, h3) { margin-bottom: var(--bw-space-24); }
+@media screen and (min-width: 76.25em) {
+  .md-typeset .bw-learning .grid:has(> .card) { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--bw-layout-gutter); align-items: start; }
+  .md-typeset .bw-learning .grid:has(> .card:nth-child(4n):last-child):not(:has(> .card:nth-child(3n):last-child)) { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+
+/* ---------- the not-found page (a door's title stands 24px clear: the door's 12px gap plus 12px) ---------- */
 .bw-docs-notfound > p { max-width: var(--bw-measure-reading); }
 .bw-docs-notfound .bw-doors { margin-top: var(--bw-space-24); }
 .bw-docs-notfound .bw-door { padding-top: var(--bw-space-16); }
-.bw-docs-notfound .bw-door h3 { margin: 0; font-family: var(--bw-font-sans); font-size: var(--bw-text-20); line-height: var(--bw-leading-20); font-weight: var(--bw-weight-semibold); letter-spacing: 0; }
+.bw-docs-notfound .bw-door h3 { margin: 0 0 var(--bw-space-12); font-family: var(--bw-font-sans); font-size: var(--bw-text-20); line-height: var(--bw-leading-20); font-weight: var(--bw-weight-semibold); letter-spacing: 0; }
 .bw-docs-notfound .bw-door p { margin: 0; }
 
 @media (max-width: 767px) {
   .bw-document-tools { gap: var(--bw-space-8); }
-  .md-content__inner { margin-inline: 0; padding-inline: var(--bw-layout-margin); }
+  .md-content__inner, .md-content__inner:has(.bw-learning) { margin-inline: 0; padding-inline: var(--bw-layout-margin); }
+}
+
+/* ---------- panels and cards on a phone (art round 4, points 5 and 16) ----------
+   Under 768px every inset panel and card in an article runs full-bleed: it meets the screen edges, drops its
+   radius and side borders, and its text hangs from the 16px page gutter the header, article and footer use,
+   so a line keeps about 45 characters instead of 36. A notice keeps its 4px accent rule at the edge.
+   The colophon under an article is sentences, so on a phone it is set at the 16px body size. */
+@media (max-width: 767px) {
+  .md-typeset :is(.bw-next-step, .bw-own-data, .admonition, details),
+  .md-typeset .bw-learning :is(.card, .panel, .step), .md-typeset .bw-learning .grid > .card { width: auto; max-width: none; margin-inline: calc(-1 * var(--bw-layout-margin)); padding-inline: var(--bw-layout-margin); border-inline-width: 0; border-radius: 0; }
+  .md-typeset .bw-learning .notice { margin-inline: calc(-1 * var(--bw-layout-margin)); padding-inline: calc(var(--bw-layout-margin) - var(--bw-stroke-rule)) var(--bw-layout-margin); border-right-width: 0; border-radius: 0; }
+  .manual-footer-version, .md-typeset p.manual-footer-version { max-width: none; font-size: var(--bw-text-16); line-height: var(--bw-leading-16); }
+  .md-typeset .bw-learning .card p { font-size: var(--bw-reading-size-phone); }
 }
 /* Today's header names its outlined action in full; under 480px it waits in the opened menu, so the
    bar keeps the wordmark and the menu button without sideways scroll. */

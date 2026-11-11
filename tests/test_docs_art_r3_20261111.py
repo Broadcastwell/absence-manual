@@ -5,7 +5,8 @@ Point 1: under the headline of a docs article, one sentence on what Broadcastwel
 ENTITY.md 12-word description word for word) and one primary action, the free check; the headline stays,
 so an answer page keeps the buyer's question (rule 4); research pages carry no promotional audit link.
 Point 7: on wide screens the chapter list has no sticky title to scroll under, rests on whole items and
-hides an item its bottom edge would cut. Point 8: the page label hangs from the chapter list's text edge.
+hides an item its bottom edge would cut. Point 8 (the page label at the chapter list's text edge) was
+replaced by art round 4 (B130): the label and the list's text both hang on the container edge.
 Point 18: the selected item takes the one selected state (rule 1). Queued: the executive template's retired
 title, the doubled Kalvenor label on /vendor-facts/ and the Bloomington price sentence without "from ... to".
 The 45 registered field-study pages keep main.html and their reviewed bytes.
@@ -136,9 +137,11 @@ class SidebarTests(unittest.TestCase):
         self.assertIn("column.style.clipPath = head || tail ? 'inset(' + head + 'px 0 ' + tail + 'px 0)' : '';", script)
         self.assertIn("window.requestAnimationFrame(function () { window.requestAnimationFrame(settle); });", script)
 
-    def test_the_page_label_hangs_from_the_chapter_list_text_edge(self):
-        self.assertIn("body:has(.md-sidebar--primary:not([hidden])) .bw-document-tools { padding-left: "
-                      "calc(var(--bw-layout-margin) + 0.8rem); }", wide_block(self.css))
+    def test_the_page_label_keeps_the_container_edge(self):
+        # Art round 4 (B130) undoes the 0.8rem label inset: the label stays on the container edge on every
+        # page and the chapter list's text moves to that edge instead (tests/test_docs_art_r4_20261111.py).
+        self.assertNotIn(".bw-document-tools { padding-left: calc(var(--bw-layout-margin) + 0.8rem); }", self.css)
+        self.assertNotIn("body:has(.md-sidebar--primary", self.layer)
 
     def test_the_selected_item_takes_the_one_selected_state(self):
         nav = re.search(r"\.bw-site-nav__trigger\[aria-current=\"page\"\][^{]*\{([^}]*)\}", self.css).group(1)
