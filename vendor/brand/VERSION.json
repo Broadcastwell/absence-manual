@@ -1,0 +1,88 @@
+{
+  "name": "Broadcastwell brand system",
+  "version": "3.0.0",
+  "built_at": "2026-11-10T22:38:05.504Z",
+  "serif": "newsreader",
+  "generator": "tools/brand-build.mjs",
+  "files": {
+    "brand/aliases.css": {
+      "sha256": "0637f2d4ddda2f4bee48aee622dde208b5cc5a7a35f71bec435816b325bce6e2",
+      "bytes": 2535
+    },
+    "brand/ALIASES.md": {
+      "sha256": "f96ac53a9548ad0fcf48836fe9b63aa59c910087e6ffdffe9cf5406f17b86dab",
+      "bytes": 30046
+    },
+    "brand/components.css": {
+      "sha256": "a73d10b6ee8561de0579e2576a726a96ace2050a647120162b070467ffc27989",
+      "bytes": 45725
+    },
+    "brand/framer/AnswerRecord.tsx": {
+      "sha256": "6e83d0cab3b0a5ba61dd3600f2ea6906f53b2b195becd94db998c5ed025cf6a3",
+      "bytes": 23928
+    },
+    "brand/framer/BrandConstants.ts": {
+      "sha256": "db09243cb27ed0307808b4467802da394bb28e6c6697cb7b7226db1aea6866ff",
+      "bytes": 28261
+    },
+    "brand/framer/site-head.html": {
+      "sha256": "d0c62852148a84569062e63aec17842cbb98742cafc23e7e0d60769beb68b56f",
+      "bytes": 51321
+    },
+    "brand/tokens.css": {
+      "sha256": "a20ab770bc85f1158c69d446b2f3632df835378c1796eac00fa2f9fcab58741c",
+      "bytes": 4935
+    },
+    "public/assets/brand/answer-record.js": {
+      "sha256": "37291f6d6b96b58af03102e4745c7f6494879bdbbc8276511b7a565381a75085",
+      "bytes": 19787
+    },
+    "public/assets/brand/components.css": {
+      "sha256": "a73d10b6ee8561de0579e2576a726a96ace2050a647120162b070467ffc27989",
+      "bytes": 45725
+    },
+    "public/assets/brand/fonts/geist-latin-var.woff2": {
+      "sha256": "6ba2ee738a5770309a1a3f0488ff3d9024f9cc80aa49bf7c9b1c7d1ac7b9af66",
+      "bytes": 26840
+    },
+    "public/assets/brand/fonts/geist-mono-latin-var.woff2": {
+      "sha256": "3642e0b0d7202efe81c1a9a51713eb9666a1c5327ffc12bce2dee386f0bc04cb",
+      "bytes": 21008
+    },
+    "public/assets/brand/fonts/LICENSE-Geist-OFL.txt": {
+      "sha256": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f",
+      "bytes": 4387
+    },
+    "public/assets/brand/fonts/LICENSE-Newsreader-OFL.txt": {
+      "sha256": "fdfad38143ec470553cae82a1e45320bdd1b9ec70415d37bd0171051d8a4ded8",
+      "bytes": 4394
+    },
+    "public/assets/brand/fonts/newsreader-headline-latin.woff2": {
+      "sha256": "fa97b3c0246a913f5e7ef7b7c176df27fbacb9cb0e9cff1efd3970f3dddb98e0",
+      "bytes": 43580
+    },
+    "public/assets/brand/fonts/newsreader-text-latin.woff2": {
+      "sha256": "776d56d1c376fbe583b0f4cd1fb45b42aa6536f982ca51dff9a6de03f8dc2539",
+      "bytes": 40896
+    },
+    "public/assets/brand/nav.js": {
+      "sha256": "e0b03faecee8107573dc1025e279e87be103e2e24a5fcbb620cbbe63018428d1",
+      "bytes": 2473
+    },
+    "public/assets/brand/tokens.css": {
+      "sha256": "a20ab770bc85f1158c69d446b2f3632df835378c1796eac00fa2f9fcab58741c",
+      "bytes": 4935
+    }
+  },
+  "sources": {
+    "brand/tokens.json": "4082bde9f5413c5381e74b0b5d3ba5f812128cd0f93933c3574d98abacc68999",
+    "brand/nav.json": "12ed1e96e4d0a712c12c2ddb99cab44f853f7a4b4f5be598229cd8399478161b",
+    "brand/ENTITY.md": "08790478e1a5e7eeea295760fc1f7af5603a2eed2630fb8faea7bb9733351925",
+    "brand/price-format.mjs": "97ca35833c1088ba260046e5a13c04cbc61a05b198380eff4f494be8cdc3f783",
+    "brand/aliases.json": "bf5a35d151d45130ffc6f9ba73d28316f8a1f77192d9a05277703788e00be36c",
+    "brand/answer-record.mjs": "e2734881e9d9405ca026e0fce380ea879d04448aeeb53d4446bb6de771019475",
+    "brand/nav-render.mjs": "3674fa55af88b3f16cd9912928c2046842794f1ff4f4450cc31f522013866654",
+    "brand/nav.js": "e0b03faecee8107573dc1025e279e87be103e2e24a5fcbb620cbbe63018428d1",
+    "brand/data/homepage-record.json": "e4bbe24c349365a3786f676ce979cd51906781074fc6d106cfc002bd5133a607"
+  }
+}

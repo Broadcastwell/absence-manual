@@ -1,0 +1,29 @@
+{% extends "brand.html" %}
+
+{#- The docs host's not-found page (brief 11.3): where the visitor is, what happened, the way back to
+    the manual and the two doors. GitHub Pages serves it with status 404 for any missing address. -#}
+
+{% block htmltitle %}
+<title>Page not found | {{ config.site_name }}</title>
+{% endblock %}
+
+{% block content %}
+<div class="bw-docs-notfound">
+<h1>This address has no page in The Absence Manual</h1>
+<p>You are on docs.broadcastwell.com, where we publish The Absence Manual and its research. The page you asked for is not here. Its address may have changed, or the link may be mistyped.</p>
+<p><a href="{{ config.site_url }}">Go to the manual's home page</a>, where every chapter is listed, or open the chapter navigation above.</p>
+<h2>Two ways to start</h2>
+<div class="bw-doors">
+<section class="bw-door" aria-labelledby="bw-door-start">
+<h3 class="bw-door__title" id="bw-door-start">Start free</h3>
+<p>We ask one engine ten buyer questions for your category. It takes about a minute and needs no email.</p>
+<p><a class="bw-button bw-button--primary" href="https://audit.broadcastwell.com/">Run the free check</a></p>
+</section>
+<section class="bw-door" aria-labelledby="bw-door-talk">
+<h3 class="bw-door__title" id="bw-door-talk">Have us do it</h3>
+<p>We find the buyer questions where you are missing, fix your pages and the sources the engines read, and measure again.</p>
+<p><a class="bw-button bw-button--secondary" href="https://broadcastwell.com/contact">Talk to us</a></p>
+</section>
+</div>
+</div>
+{% endblock %}

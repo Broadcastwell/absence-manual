@@ -34,6 +34,24 @@ REGISTERED_PAGES = frozenset(json.loads((ROOT / "tools" / "library_field_freeze_
 CHANNEL_LINKS = ('<a href="https://x.com/broadcastwellhq">X</a>',
                  '<a href="https://www.tiktok.com/@broadcastwell.com">TikTok</a>')
 
+# Every page outside the 45 registered pages renders the brand frame (overrides/brand.html, brand
+# system 3.0.0). Its header and footer are the generated partials; mkdocs.yml extra.SHARED_NAV picks
+# today's links (false) or brand/nav.json (true).
+BRAND_PARTIALS = ROOT / "overrides" / "partials" / "brand"
+_shared = re.search(r"^\s*SHARED_NAV:\s*(true|false)\s*$", (ROOT / "mkdocs.yml").read_text(encoding="utf8"), re.M)
+SHARED_NAV = bool(_shared) and _shared.group(1) == "true"
+
+
+def brand_fragment(name, tag):
+    text = (BRAND_PARTIALS / name).read_text(encoding="utf8")
+    at = text.find("<" + tag)
+    return text[at:text.rfind("</" + tag + ">") + len(tag) + 3]
+
+
+BRAND_HEADER = brand_fragment("header-shared.html" if SHARED_NAV else "header-today.html", "header")
+BRAND_COLUMNS = ([("Services", 9), ("Platform and free tools", 10), ("Research", 14), ("Company", 7), ("Follow", 6)]
+                 if SHARED_NAV else [("Product", 8), ("Research", 6), ("Free tools", 6), ("Company", 6), ("Contact", 8)])
+
 EM_DASH = "—"
 EN_DASH = "–"
 DOUBLE_HYPHEN = "-" + "-"
@@ -305,6 +323,70 @@ if "@media(max-width:809px)" not in shell_css or "grid-template-columns:repeat(5
 if "background:transparent" not in shell_css[shell_css.find(".bw-shared-audit {"):shell_css.find(".bw-shared-audit:hover")]:
     fail("header Audit action must be outlined")
 
+# ---------- the brand frame (overrides/brand.html) ----------
+
+BRAND_CSS = DOCS / "assets" / "brand" / "docs.css"
+BRAND_PALETTE = {"#FFFFFF", "#F7F9FC", "#0B1220", "#4A5568", "#7F8BA0", "#1D4ED8", "#1A44C2", "#1E3A8A",
+                 "#3B82F6", "#EEF4FF", "#92400E", "#FEF3C7", "#B45309", "#991B1B", "#FEE2E2"}
+if not BRAND_CSS.exists():
+    fail("the brand stylesheet assets/brand/docs.css is missing")
+else:
+    brand_css = BRAND_CSS.read_text(encoding="utf8")
+    for colour in re.findall(r"#[0-9A-Fa-f]{6}\b", brand_css):
+        if colour.upper() not in BRAND_PALETTE:
+            fail("assets/brand/docs.css uses colour %s outside the brand palette" % colour)
+    for needed in ("--bw-layout-control-height:48px", ".bw-site-nav__menu-button{", "min-height:var(--bw-space-48)",
+                   ".bw-site-footer__columns{display:grid;grid-template-columns:repeat(5,minmax(0,1fr))"):
+        if needed not in brand_css:
+            fail("assets/brand/docs.css is missing the brand rule %s" % needed)
+    if re.search(r"(?i)linear-gradient|radial-gradient", brand_css):
+        fail("assets/brand/docs.css draws a gradient")
+
+
+def brand_shell_checks(rel, cls, html):
+    at = html.find('<header class="bw-site-nav"')
+    head = html[at:html.find("</header>", at) + 9]
+    if head.replace(' aria-current="page"', "") != BRAND_HEADER:
+        fail("%s header differs from the one generated brand header" % rel)
+    if html.count("data-bw-nav") != 1 or html.count('class="bw-skip"') != 1:
+        fail("%s must carry exactly one brand header and one skip link" % rel)
+    for needed in ('class="bw-logotype" href="https://broadcastwell.com/"', 'href="https://broadcastwell.com/pricing">Pricing<',
+                   'href="https://app.broadcastwell.com/signin">Sign in<'):
+        if needed not in head:
+            fail("%s header is missing %s" % (rel, needed))
+    actions = ('class="bw-button bw-button--primary" href="https://audit.broadcastwell.com/">Start free<',
+               'class="bw-button bw-button--secondary" href="https://broadcastwell.com/contact">Talk to us<') if SHARED_NAV else (
+               'class="bw-button bw-button--secondary" href="%s">Fix one answer, $490<' % BUY_ENTRY,)
+    for needed in actions:
+        if needed not in head:
+            fail("%s header is missing its action %s" % (rel, needed))
+    if 'assets/brand/docs.css" media="all">' not in html or 'assets/brand/nav.js" defer>' not in html:
+        fail("%s does not load the brand stylesheet and navigation script" % rel)
+    foot = html[html.rfind('<footer class="bw-site-footer'):html.rfind("</footer>")]
+    if "Copyright 2026 Broadcastwell LLC." not in foot:
+        fail("%s footer is missing the bottom bar" % rel)
+    for slug in ("privacy", "terms", "cookies"):
+        if ('href="https://broadcastwell.com/%s">' % slug) not in foot:
+            fail("%s footer is missing the %s link" % (rel, slug))
+    if cls == "research":
+        if "bw-research-footer" not in foot or "excluded from its own sample" not in foot:
+            fail("%s research footer is missing its identity or sample disclosure" % rel)
+        if re.search(r'mailto:|tel:|hello@broadcastwell|broadcastwell.com/contact', html):
+            fail("%s research page contains a contact solicitation" % rel)
+        return
+    columns = re.findall(r'<h2 class="bw-site-footer__title" id="bw-footer-\d+">([^<]+)</h2><ul class="bw-site-footer__list"[^>]*>([\s\S]*?)</ul>', foot)
+    if [(title, len(re.findall(r"<li>", links))) for title, links in columns] != BRAND_COLUMNS:
+        fail("%s footer must carry the five complete link columns %s" % (rel, BRAND_COLUMNS))
+    elif not SHARED_NAV and not all(link in columns[4][1] for link in CHANNEL_LINKS):
+        fail("%s footer Contact column must link X and TikTok beside LinkedIn and Writing" % rel)
+    if 'href="tel:+18123457272">(812) 345 7272' not in foot or "517 E Kirkwood Ave, Bloomington, IN 47408" not in foot:
+        fail("%s footer is missing the public address or phone" % rel)
+    if not SHARED_NAV and foot.find("excluded from its own sample") > foot.find("bw-site-footer__columns"):
+        fail("%s footer does not keep its own disclosure note above the link columns" % rel)
+    if SHARED_NAV and "Last updated" in foot:
+        fail("%s shared footer carries a last-updated line" % rel)
+
+
 # ---------- per page checks ----------
 
 from library_publication_verify_stubs import reviewed_stub_pages
@@ -366,42 +448,50 @@ for rel, cls in sorted(manifest.items()):
         if 'tabindex="-1"' not in link:
             fail("%s has a permalink anchor that is hidden but still focusable" % rel)
 
-    # The shell every Broadcastwell surface carries.
+    # The shell every Broadcastwell surface carries. The 45 registered pages keep their reviewed
+    # shell (checked as before); every other page carries the brand frame.
     head = html[html.find("<header"):html.find("</header>")]
     foot = html[html.rfind("<footer"):html.rfind("</footer>")]
-    for needed in [
-        'class="bw-shared-wordmark" href="https://broadcastwell.com/"',
-        'href="https://broadcastwell.com/pricing">Pricing<',
-        'href="https://app.broadcastwell.com/signin">Sign in<',
-        'class="bw-shared-audit" href="%s" aria-label="Fix one answer, $490">' % BUY_ENTRY,
-    ]:
-        if needed not in head:
-            fail("%s header is missing %s" % (rel, needed))
-    if "Copyright 2026 Broadcastwell LLC." not in foot:
-        fail("%s footer is missing the bottom bar" % rel)
-    for slug in ("privacy", "terms", "cookies"):
-        if ('href="https://broadcastwell.com/%s">' % slug) not in foot:
-            fail("%s footer is missing the %s link" % (rel, slug))
-    if cls == "research":
-        if 'bw-research-footer' not in foot or 'excluded from its own sample' not in foot:
-            fail("%s research footer is missing its identity or sample disclosure" % rel)
-        if re.search(r'mailto:|tel:|hello@broadcastwell|broadcastwell.com/contact', html):
-            fail("%s research page contains a contact solicitation" % rel)
+    brand = 'class="bw-site-nav" data-bw-nav' in html
+    if (rel in REGISTERED_PAGES) == brand:
+        fail("%s renders the %s frame; registered pages keep the reviewed shell and every other page the brand frame"
+             % (rel, "brand" if brand else "reviewed"))
+    if brand:
+        brand_shell_checks(rel, cls, html)
     else:
-        for column in ("Product", "Research", "Free tools", "Company", "Contact"):
-            if (">%s</h2>" % column) not in foot:
-                fail("%s footer is missing the %s column" % (rel, column))
-        if foot.find("excluded from its own sample") > foot.find("bw-shared-columns"):
-            fail("%s footer does not keep its own disclosure note above the shared columns" % rel)
-        groups = re.findall(r'<details class="bw-shared-group"[^>]*>([\s\S]*?)</details>', foot)
-        contact = 6 if rel in REGISTERED_PAGES else 8
-        if len(groups) != 5 or [len(re.findall(r"<li>", group)) for group in groups] != [8, 6, 6, 6, contact]:
-            fail("%s footer must contain five complete groups, preserving PHP2Shell and Change Desk links" % rel)
-        elif rel not in REGISTERED_PAGES and not all(link in groups[4] for link in CHANNEL_LINKS):
-            fail("%s footer Contact group must link X and TikTok beside LinkedIn and Writing" % rel)
-        if 'href="tel:+18123457272">(812) 345 7272' not in foot or '517 E Kirkwood Ave<br>Bloomington, IN 47408' not in foot:
-            fail("%s footer is missing the public address or phone" % rel)
-    if not re.search(r'<time datetime="\d{4}-\d{2}-\d{2}">', foot):
+        for needed in [
+            'class="bw-shared-wordmark" href="https://broadcastwell.com/"',
+            'href="https://broadcastwell.com/pricing">Pricing<',
+            'href="https://app.broadcastwell.com/signin">Sign in<',
+            'class="bw-shared-audit" href="%s" aria-label="Fix one answer, $490">' % BUY_ENTRY,
+        ]:
+            if needed not in head:
+                fail("%s header is missing %s" % (rel, needed))
+        if "Copyright 2026 Broadcastwell LLC." not in foot:
+            fail("%s footer is missing the bottom bar" % rel)
+        for slug in ("privacy", "terms", "cookies"):
+            if ('href="https://broadcastwell.com/%s">' % slug) not in foot:
+                fail("%s footer is missing the %s link" % (rel, slug))
+        if cls == "research":
+            if 'bw-research-footer' not in foot or 'excluded from its own sample' not in foot:
+                fail("%s research footer is missing its identity or sample disclosure" % rel)
+            if re.search(r'mailto:|tel:|hello@broadcastwell|broadcastwell.com/contact', html):
+                fail("%s research page contains a contact solicitation" % rel)
+        else:
+            for column in ("Product", "Research", "Free tools", "Company", "Contact"):
+                if (">%s</h2>" % column) not in foot:
+                    fail("%s footer is missing the %s column" % (rel, column))
+            if foot.find("excluded from its own sample") > foot.find("bw-shared-columns"):
+                fail("%s footer does not keep its own disclosure note above the shared columns" % rel)
+            groups = re.findall(r'<details class="bw-shared-group"[^>]*>([\s\S]*?)</details>', foot)
+            contact = 6 if rel in REGISTERED_PAGES else 8
+            if len(groups) != 5 or [len(re.findall(r"<li>", group)) for group in groups] != [8, 6, 6, 6, contact]:
+                fail("%s footer must contain five complete groups, preserving PHP2Shell and Change Desk links" % rel)
+            elif rel not in REGISTERED_PAGES and not all(link in groups[4] for link in CHANNEL_LINKS):
+                fail("%s footer Contact group must link X and TikTok beside LinkedIn and Writing" % rel)
+            if 'href="tel:+18123457272">(812) 345 7272' not in foot or '517 E Kirkwood Ave<br>Bloomington, IN 47408' not in foot:
+                fail("%s footer is missing the public address or phone" % rel)
+    if (not brand or not SHARED_NAV or cls == "research") and not re.search(r'<time datetime="\d{4}-\d{2}-\d{2}">', foot):
         fail("%s footer is missing its publication date" % rel)
     if chr(183) in html:
         fail("%s contains a middle dot" % rel)

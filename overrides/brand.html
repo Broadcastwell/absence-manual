@@ -1,0 +1,69 @@
+{% extends "main.html" %}
+
+{#- Brand system 3.0.0 frame (brief 8, 9.1, 9.2 and 11.1 step 5) for every page outside the 45
+    registered field-study pages. followup.html, and business-hub.html through it, extend this
+    template; so does 404.html. main.html, partials/site-header.html, partials/site-footer.html and
+    the five pinned assets keep their reviewed bytes, so the registered pages do not change.
+    assets/brand/docs.css is vendor/brand/tokens.css and components.css, byte for byte, then the
+    docs' layer (tools/brand-docs.css), written by tools/brand_chrome.mjs.
+    The header and footer partials are written by tools/brand_chrome.mjs. config.extra.SHARED_NAV
+    false draws today's links in the brand markup; true draws brand/nav.json. The docs keep their
+    own side navigation and search. The brand stylesheet carries a media attribute so the
+    performance-assets bundler leaves it as its own file and every existing bundle keeps its
+    bytes. -#}
+
+{% macro bw_current(html) -%}
+{%- set here = (page.canonical_url if page and page.canonical_url else '') | string -%}
+{%- if here -%}{{ html | replace('href="' ~ here ~ '"', 'href="' ~ here ~ '" aria-current="page"') }}{%- else -%}{{ html }}{%- endif -%}
+{%- endmacro %}
+
+{% block extrahead %}
+{#- Brand pages draw with Geist and Newsreader, served with size-adjusted fallbacks, so the Inter
+    preload of the registered pages is dropped rather than replaced: the stylesheet gets the
+    bandwidth first and text paints at once in the fallback (measured: a font preload here made the
+    largest paint later, not earlier). -#}
+{{ super() | replace('<link rel="preload" href="' ~ ('assets/fonts/inter-latin-var.woff2' | url) ~ '" as="font" type="font/woff2" crossorigin>', '') }}
+<link rel="stylesheet" href="{{ 'assets/brand/docs.css' | url }}" media="all">
+{% endblock %}
+
+{% block header %}
+{%- set first = page.toc | first if page and page.toc else none -%}
+{%- set skip = first.url if first and first.url else '#bw-main' -%}
+{%- set chrome -%}{%- if config.extra.SHARED_NAV -%}{% include "partials/brand/header-shared.html" %}{%- else -%}{% include "partials/brand/header-today.html" %}{%- endif -%}{%- endset -%}
+<div class="md-header bw-docs-header" data-md-component="header">
+{{ bw_current(chrome | replace('class="bw-skip" href="#main"', 'class="bw-skip" href="' ~ skip ~ '"')) }}
+{% if "material/search" in config.plugins %}{% include "partials/search.html" %}{% endif %}
+</div>
+<nav class="bw-document-tools" aria-label="The Absence Manual">
+  <a href="{{ config.site_url }}">The Absence Manual</a>
+  <button type="button" data-manual-toggle="__drawer" aria-label="Open chapter navigation" aria-expanded="false">{% include ".icons/material/menu.svg" %} Chapters</button>
+  {% if "material/search" in config.plugins %}<button type="button" data-manual-toggle="__search" aria-label="Search the Manual" aria-expanded="false">{% include ".icons/material/magnify.svg" %} Search</button>{% endif %}
+</nav>
+{% endblock %}
+
+{% block tabs %}<span id="bw-main" tabindex="-1"></span>{% endblock %}
+
+{% block footer %}
+{% if page and (page.previous_page or page.next_page) %}
+<nav class="bw-document-pagination" aria-label="Manual pages">
+  {% if page.previous_page %}<a href="{{ page.previous_page.url | url }}" rel="prev">Previous: {{ page.previous_page.title }}</a>{% endif %}
+  {% if page.next_page %}<a href="{{ page.next_page.url | url }}" rel="next">Next: {{ page.next_page.title }}</a>{% endif %}
+</nav>
+{% endif %}
+{%- if page and page.meta.get("page_class") == "research" -%}
+{%- set research_lines -%}<div class="bw-docs-research-note"><p>Broadcastwell research. Broadcastwell is excluded from its own sample and every ranking.</p><p>Last updated <time datetime="{{ page.meta.get('updated')[:10] }}">{{ page.meta.get('updated')[:10] }}</time>. Next review {{ page.meta.get('next_review')[:10] }}.</p></div>{%- endset -%}
+{%- if config.extra.SHARED_NAV -%}
+{%- set chrome -%}{% include "partials/brand/footer-shared.html" %}{%- endset -%}
+{{ bw_current(chrome | replace('<footer class="bw-site-footer"><div class="bw-container">', '<footer class="bw-site-footer bw-research-footer"><div class="bw-container">' ~ research_lines)) }}
+{%- else -%}
+<footer class="bw-site-footer bw-research-footer"><div class="bw-container">{{ research_lines }}<div class="bw-site-footer__last"><ul class="bw-site-footer__legal" aria-label="Legal and site"><li><a href="https://broadcastwell.com/privacy">Privacy</a></li><li><a href="https://broadcastwell.com/terms">Terms</a></li><li><a href="https://broadcastwell.com/cookies">Cookies</a></li></ul><p>Copyright 2026 Broadcastwell LLC.</p></div></div></footer>
+{%- endif -%}
+{%- else -%}
+{%- set chrome -%}{%- if config.extra.SHARED_NAV -%}{% include "partials/brand/footer-shared.html" %}{%- else -%}{% include "partials/brand/footer-today.html" %}{%- endif -%}{%- endset -%}
+{{ bw_current(chrome) }}
+{%- endif %}
+{% endblock %}
+
+{% block scripts %}
+{{ super() | replace('<script src="' ~ ('assets/site-chrome.js' | url) ~ '"></script>', '<script src="' ~ ('assets/brand/nav.js' | url) ~ '" defer></script>') }}
+{% endblock %}

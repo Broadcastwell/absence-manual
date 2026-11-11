@@ -46,27 +46,18 @@ UPDATED_LINE = "Updated 9 November 2026."
 # The client enrolment block is the lead's exact copy. It is pinned by hash and exempt from the
 # generated-copy scan below; any edit to it must come with a new reviewed hash.
 CLIENT_BLOCK_ANCHOR = '<a id="clients"></a>'
-CLIENT_BLOCK_SHA256 = "eac081d733709c52adbe7d2392b1fd72e177bbaf2b90b8a41d23b5eae865d328"
+CLIENT_BLOCK_SHA256 = "f3dd7d7b53166fad843dd3b4ac85cf3d520f79972ad68ae8ed8a917d9e2a2ecb"
 CLIENT_BLOCK_NEXT_HEADING = "## Why measure prompts too"
-# STEP 3.2 (9 November 2026): the lead's exact client sentence, rarity sentence and six-part statuses
-# (ruling R-101 for part 2). The table inside the client block is the status data: one line per part,
-# one status per client, so a status changes in one line. The release guard requires the article to
-# be exactly the rendered markdown, so the table stays in the source rather than in a template.
+# STEP 3.2 (9 November 2026): the lead's exact client sentence and rarity sentence. STEP 3.3 (brief
+# 9.4 and 18.2, 10 November 2026): the table headed "Part (status as of 9 November 2026)" and its
+# "Pending" cells are removed; the client block is the anchor and the one client sentence, unchanged.
 CLIENT_SENTENCE = ("Our current clients Vantaa Tax, Neurvalis and Valren Atelier are enrolled in this program; "
                    "their readiness work is under way, and we claim each of them on the first day OpenAI opens "
                    "the tool to them.")
 RARITY_SENTENCE = ("On 9 November 2026 we checked the 40 companies in our competitor review; 0 of them published "
                    "a readiness program for this tool.")
-CLIENT_TABLE_HEADER = "| Part (status as of 9 November 2026) | Vantaa Tax | Neurvalis | Valren Atelier |"
-READINESS_CLIENTS = ["Vantaa Tax", "Neurvalis", "Valren Atelier"]
-READINESS_STATUSES = [
-    ("1. Ownership verification readiness", "Pending (needs a live domain)"),
-    ("2. Business information pack", "Pending (needs the client's live site and facts)"),
-    ("3. Business-agent context pack", "Prepared, 9 November 2026"),
-    ("4. Mention and click baseline", "Prepared, 9 November 2026"),
-    ("5. Launch-day claim", "Pending (starts when OpenAI opens the tool)"),
-    ("6. Reconciliation report", "Pending (starts when OpenAI opens the tool)"),
-]
+REMOVED_TABLE_HEADER = "| Part (status as of 9 November 2026) | Vantaa Tax | Neurvalis | Valren Atelier |"
+REMOVED_STATUS_WORDS = ("Pending", "status as of 9 November 2026", "Preparation status", "Prepared, 9 November 2026")
 # Organization sameAs on every page outside the 45 registered pages (owner ruling, 9 November 2026):
 # the six channels plus GitHub, in this order.
 SAME_AS = [
@@ -291,12 +282,6 @@ def client_block(body):
     start = body.index(CLIENT_BLOCK_ANCHOR + chr(10))
     end = body.index(chr(10) + CLIENT_BLOCK_NEXT_HEADING, start)
     return body[start:end]
-
-
-def client_table_rows(block):
-    """The six-part status rows of the client table, as lists of cell texts."""
-    lines = [line for line in block.splitlines() if line.startswith("| ")]
-    return [[cell.strip() for cell in line.strip("|").split("|")] for line in lines[1:]]
 
 
 def new_public_texts():
@@ -645,23 +630,23 @@ class NearDuplicateTests(unittest.TestCase):
 
 
 class ClientReadinessTests(unittest.TestCase):
-    """STEP 3.2: the lead's client sentence, the rarity sentence and the six-part status table."""
+    """STEP 3.2 client sentence and rarity sentence; STEP 3.3 removes the status table under the sentence."""
 
     def setUp(self):
         self.text = (HUB / "index.md").read_text(encoding="utf-8")
         self.meta, self.body = split_page(HUB / "index.md")
         self.block = client_block(self.body)
 
-    def test_client_sentence_is_exact_once_and_the_table_follows_it(self):
+    def test_client_sentence_is_exact_once_and_nothing_follows_it_in_the_block(self):
         self.assertEqual(self.body.count(CLIENT_SENTENCE), 1)
-        self.assertTrue(self.block.startswith(CLIENT_BLOCK_ANCHOR + "\n" + CLIENT_SENTENCE + "\n\n" + CLIENT_TABLE_HEADER + "\n"))
+        self.assertEqual(self.block, CLIENT_BLOCK_ANCHOR + chr(10) + CLIENT_SENTENCE + chr(10))
         self.assertNotIn("readiness work is prepared", self.text)
 
     def test_rarity_sentence_is_exact_once_inside_the_readiness_offer_section(self):
         self.assertEqual(self.body.count(RARITY_SENTENCE), 1)
         offer = self.body.index("## What our ChatGPT Business Hub Readiness work includes")
         self.assertTrue(offer < self.body.index(RARITY_SENTENCE) < self.body.index(CLIENT_BLOCK_ANCHOR))
-        self.assertIn("\n\n" + RARITY_SENTENCE + "\n\n", self.body)
+        self.assertIn(chr(10) * 2 + RARITY_SENTENCE + chr(10) * 2, self.body)
         for claim in ("first in", "number one", "the only", "only company", "leading"):
             self.assertNotIn(claim, RARITY_SENTENCE.lower())
 
@@ -670,28 +655,20 @@ class ClientReadinessTests(unittest.TestCase):
             with self.subTest(file=path.name):
                 self.assertNotIn("transitioned", path.read_text(encoding="utf-8").lower())
 
-    def test_table_has_one_column_per_client_and_six_parts_with_the_ruled_statuses(self):
-        self.assertEqual(self.block.count(CLIENT_TABLE_HEADER), 1)
-        rows = client_table_rows(self.block)
-        self.assertEqual(rows[0], ["---"] * 4)
-        self.assertEqual(len(rows[1:]), 6)
-        for row, (part, status) in zip(rows[1:], READINESS_STATUSES):
-            with self.subTest(part=part):
-                self.assertEqual(row, [part] + [status] * len(READINESS_CLIENTS))
-        self.assertNotIn("Drafted", self.block)
-        self.assertNotIn("10 November", self.block)
+    def test_the_status_table_and_its_pending_cells_are_gone_from_every_hub_page(self):
+        for path in [HUB / name for name in PAGES] + FACTS_FILES + [ROOT / "docs" / "llms.txt"]:
+            text = path.read_text(encoding="utf-8")
+            with self.subTest(file=path.name):
+                self.assertNotIn(REMOVED_TABLE_HEADER, text)
+                for word in REMOVED_STATUS_WORDS:
+                    self.assertNotIn(word, text)
+        for client in ("Vantaa Tax", "Neurvalis", "Valren Atelier"):
+            self.assertEqual(self.body.count(client), 1, client)
 
-    def test_each_part_is_one_editable_line(self):
-        lines = self.block.splitlines()
-        for part, _ in READINESS_STATUSES:
-            with self.subTest(part=part):
-                self.assertEqual(sum(1 for line in lines if line.startswith("| " + part + " |")), 1)
-
-    def test_the_block_holds_only_the_sentence_and_the_table(self):
+    def test_the_block_holds_only_the_anchor_and_the_sentence(self):
         lines = [line for line in self.block.splitlines() if line.strip()]
-        self.assertEqual(lines[:2], [CLIENT_BLOCK_ANCHOR, CLIENT_SENTENCE])
-        self.assertTrue(all(line.startswith("| ") for line in lines[2:]))
-        self.assertEqual(len(lines), 2 + 2 + 6)
+        self.assertEqual(lines, [CLIENT_BLOCK_ANCHOR, CLIENT_SENTENCE])
+        self.assertNotIn("| ", self.block)
 
 
 class OrganizationSameAsTests(unittest.TestCase):

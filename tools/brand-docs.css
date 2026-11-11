@@ -1,0 +1,236 @@
+/* The Absence Manual on the Broadcastwell brand system 3.0.0 (brief 8). tools/brand_chrome.mjs appends
+   this layer to the vendored tokens.css and components.css in docs/assets/brand/docs.css, which
+   overrides/brand.html loads after the bundled Material, manual, learning and chrome stylesheets,
+   so these rules win at equal specificity.
+   Every value is a brand token. Geist carries the interface, navigation, tables and code chrome;
+   Newsreader carries headlines and the reading text of the manual. One light theme. */
+
+/* Material sizes in rem from a root it enlarges on wide screens; pin it so 0.8rem stays 16px. */
+html { font-size: 125%; }
+
+:root, [data-md-color-scheme="default"] {
+  --md-text-font: "Geist";
+  --md-code-font: "Geist Mono";
+  --md-primary-fg-color: var(--bw-color-paper);
+  --md-primary-fg-color--light: var(--bw-color-paper);
+  --md-primary-fg-color--dark: var(--bw-color-canvas);
+  --md-primary-bg-color: var(--bw-color-ink);
+  --md-primary-bg-color--light: var(--bw-color-ink-secondary);
+  --md-accent-fg-color: var(--bw-color-accent);
+  --md-accent-fg-color--transparent: var(--bw-color-panel);
+  --md-accent-bg-color: var(--bw-color-paper);
+  --md-default-fg-color: var(--bw-color-ink);
+  --md-default-fg-color--light: var(--bw-color-ink-secondary);
+  --md-default-fg-color--lighter: var(--bw-color-ink-secondary);
+  --md-default-fg-color--lightest: var(--bw-color-line);
+  --md-default-bg-color: var(--bw-color-paper);
+  --md-default-bg-color--light: var(--bw-color-paper);
+  --md-default-bg-color--lighter: var(--bw-color-canvas);
+  --md-default-bg-color--lightest: var(--bw-color-canvas);
+  --md-typeset-color: var(--bw-color-ink);
+  --md-typeset-a-color: var(--bw-color-accent);
+  --md-typeset-mark-color: var(--bw-color-notice-bg);
+  --md-typeset-table-color: var(--bw-color-line);
+  --md-code-bg-color: var(--bw-color-canvas);
+  --md-code-fg-color: var(--bw-color-ink);
+  --md-code-hl-color: var(--bw-color-panel);
+  --md-admonition-fg-color: var(--bw-color-ink);
+  --md-admonition-bg-color: var(--bw-color-panel);
+  --md-footer-fg-color: var(--bw-color-ink);
+  --md-footer-bg-color: var(--bw-color-canvas);
+  --md-footer-bg-color--dark: var(--bw-color-canvas);
+  --md-shadow-z1: none;
+  --md-shadow-z2: var(--bw-shadow-float);
+  --md-shadow-z3: var(--bw-shadow-float);
+}
+
+body { background: var(--bw-color-paper); color: var(--bw-color-ink); font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); }
+body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result { font-family: var(--bw-font-sans); }
+.md-typeset code, .md-typeset kbd, .md-typeset pre { font-family: var(--bw-font-mono); }
+:where(.md-container, .bw-docs-header, .bw-document-tools) :focus-visible { outline: var(--bw-focus-width) var(--bw-focus-style) var(--bw-focus-color); outline-offset: var(--bw-focus-offset); }
+
+/* The brand components are drawn border-box, as inside a .bw-page document. */
+.bw-docs-header :is(*, *::before, *::after), .bw-site-footer :is(*, *::before, *::after), .bw-docs-notfound :is(*, *::before, *::after) { box-sizing: border-box; }
+
+/* One skip link: the brand header's. It targets the first heading, or the main region. */
+.md-skip { display: none; }
+#bw-main:focus { outline: none; }
+
+/* ---------- header: the brand bar, with the manual's search panel under it ---------- */
+.md-header.bw-docs-header { position: sticky; top: 0; z-index: var(--bw-z-nav); display: block; height: auto; min-height: 0; background: var(--bw-color-paper); color: var(--bw-color-ink); box-shadow: none; }
+.md-header.bw-docs-header .bw-site-nav { position: relative; }
+.bw-docs-header > .md-search { position: absolute; top: 100%; right: var(--bw-layout-margin); display: none; padding: 0; margin: 0; max-width: calc(100vw - 2 * var(--bw-layout-margin)); background: var(--bw-color-paper); color: var(--bw-color-ink); border-radius: var(--bw-radius-8); box-shadow: var(--bw-shadow-float); }
+[data-md-toggle="search"]:checked ~ .bw-docs-header > .md-search { display: block; }
+[data-md-toggle="search"]:checked ~ .bw-docs-header .md-search__overlay[for="__search"] { display: block; }
+[data-md-toggle="search"]:checked ~ .bw-docs-header .md-search__icon[for="__search"] { display: flex; align-items: center; justify-content: center; min-width: var(--bw-space-48); min-height: var(--bw-space-48); cursor: pointer; }
+.bw-docs-header > .md-search .md-search__inner { position: relative; top: 0; right: 0; float: none; width: min(600px, calc(100vw - 2 * var(--bw-layout-margin))); max-width: 100%; margin: 0; padding: 0; }
+@media screen and (min-width: 60em) {
+  [data-md-toggle="search"]:checked ~ .bw-docs-header .md-search__inner { position: relative; top: 0; right: 0; left: auto; width: min(600px, calc(100vw - 2 * var(--bw-layout-margin))); }
+}
+@media (max-width: 59.9375em) {
+  [data-md-toggle="search"]:checked ~ .bw-docs-header > .md-search .md-search__inner { position: fixed; inset: 0; width: 100vw; max-width: none; height: 100vh; height: 100dvh; }
+}
+.bw-docs-header .md-search__form { height: var(--bw-layout-control-height); background: var(--bw-color-paper); border: var(--bw-stroke-hairline) solid var(--bw-color-line); border-radius: var(--bw-radius-4); box-shadow: none; }
+.bw-docs-header .md-search__input { height: 100%; padding: 0 var(--bw-space-48); font-size: var(--bw-text-16); color: var(--bw-color-ink); background: transparent; }
+.bw-docs-header .md-search__input::placeholder { color: var(--bw-color-ink-secondary); }
+.bw-docs-header .md-search__icon { color: var(--bw-color-ink-secondary); }
+.bw-docs-header .md-search__output { border-radius: 0 0 var(--bw-radius-8) var(--bw-radius-8); background: var(--bw-color-paper); }
+.bw-docs-header .md-search-result__meta { padding: var(--bw-space-12) var(--bw-space-16); font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); background: var(--bw-color-canvas); }
+.bw-docs-header .md-search-result__article { background: var(--bw-color-paper); }
+.bw-docs-header .md-search-result__link:hover .md-search-result__article, .bw-docs-header .md-search-result__link:focus .md-search-result__article { background: var(--bw-color-canvas); }
+.bw-docs-header .md-search-result h1 { font-size: var(--bw-text-16); line-height: var(--bw-leading-16); font-weight: var(--bw-weight-semibold); color: var(--bw-color-ink); }
+.bw-docs-header .md-search-result p, .bw-docs-header .md-search-result h2 { font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); }
+.bw-docs-header .bw-search-skeleton i { background: var(--bw-color-panel); }
+
+/* The manual's own reading toolbar: its home, the chapter drawer and search. */
+.bw-document-tools { display: flex; align-items: center; align-self: stretch; gap: var(--bw-space-16); box-sizing: border-box; width: 100%; max-width: calc(var(--bw-layout-container) + 2 * var(--bw-layout-margin)); min-height: var(--bw-space-64); padding: var(--bw-space-8) var(--bw-layout-margin); margin: 0 auto; color: var(--bw-color-ink); }
+.bw-document-tools a { font: var(--bw-weight-semibold) var(--bw-text-16)/var(--bw-leading-16) var(--bw-font-sans); color: var(--bw-color-ink); text-decoration: none; }
+.bw-document-tools a:hover { color: var(--bw-color-accent); text-decoration: underline; text-decoration-thickness: var(--bw-stroke-hairline); text-underline-offset: 0.2em; }
+.bw-document-tools button { display: inline-flex; align-items: center; gap: var(--bw-space-8); min-height: var(--bw-layout-control-height); padding: 0 var(--bw-space-16); border: var(--bw-stroke-hairline) solid var(--bw-color-line); border-radius: var(--bw-radius-4); background: var(--bw-color-paper); color: var(--bw-color-ink); font: var(--bw-weight-medium) var(--bw-text-16)/var(--bw-leading-16) var(--bw-font-sans); cursor: pointer; }
+.bw-document-tools button:hover { border-color: var(--bw-color-accent); color: var(--bw-color-accent); }
+.bw-document-tools button[aria-expanded="true"] { border-color: var(--bw-color-accent); color: var(--bw-color-accent); background: var(--bw-color-panel); }
+.bw-document-tools svg { width: var(--bw-space-24); height: var(--bw-space-24); fill: currentColor; }
+.bw-document-tools button:last-child { margin-left: auto; }
+
+/* ---------- layout: sidebars sit under the sticky brand bar ---------- */
+.md-grid { max-width: var(--bw-layout-container); }
+.md-main__inner { margin-top: var(--bw-space-24); }
+.md-sidebar { top: calc(var(--bw-layout-nav-height) + var(--bw-stroke-hairline)); }
+.md-content__inner { max-width: 720px; margin: 0 auto var(--bw-space-48); padding-top: var(--bw-space-24); }
+.md-content__inner::before { display: none; }
+
+/* ---------- side navigation and table of contents ---------- */
+.md-nav { font-size: var(--bw-text-16); line-height: var(--bw-leading-16); }
+.md-sidebar { font-size: var(--bw-text-16); }
+.md-nav__title { color: var(--bw-color-ink); font-weight: var(--bw-weight-semibold); }
+.md-sidebar--primary .md-nav__title { background: var(--bw-color-paper); color: var(--bw-color-ink); box-shadow: none; }
+.md-nav__icon { border-radius: var(--bw-radius-4); }
+.md-dialog { border-radius: var(--bw-radius-4); background: var(--bw-color-ink); color: var(--bw-color-paper); font-size: var(--bw-text-16); }
+.md-nav__link { color: var(--bw-color-ink-secondary); }
+.md-nav__link:hover, .md-nav__link:focus, .md-nav__link--active, .md-nav__item .md-nav__link--active { color: var(--bw-color-accent); }
+.md-nav__item .md-nav__link--active { font-weight: var(--bw-weight-semibold); }
+.md-nav__item--section > .md-nav__link { color: var(--bw-color-ink); font-weight: var(--bw-weight-semibold); }
+.md-nav__source { background: var(--bw-color-canvas); color: var(--bw-color-ink); }
+.md-nav__source .md-source { color: var(--bw-color-ink); }
+@media screen and (max-width: 76.1875em) {
+  .md-nav--primary .md-nav__title { background: var(--bw-color-canvas); color: var(--bw-color-ink); }
+  .md-nav--primary .md-nav__title[for="__drawer"] { background: var(--bw-color-paper); color: var(--bw-color-ink); }
+  .md-nav--primary .md-nav__item, .md-nav--primary .md-nav__title { font-size: var(--bw-text-16); }
+}
+
+/* ---------- reading text ---------- */
+.md-typeset { font-size: var(--bw-text-16); line-height: var(--bw-leading-16); color: var(--bw-color-ink); }
+.md-typeset :is(p, li, dd, blockquote) { font-family: var(--bw-font-reading); font-size: var(--bw-reading-size-phone); line-height: var(--bw-reading-leading); color: var(--bw-color-ink); }
+@media (min-width: 768px) {
+  .md-typeset :is(p, li, dd, blockquote) { font-size: var(--bw-reading-size); }
+}
+:is(.md-typeset, .bw-research-content, .bw-own-data) > :is(p, ul, ol, dl, blockquote, h1, h2, h3, h4) { max-width: var(--bw-measure-reading); }
+.md-typeset :is(p, li) { text-wrap: pretty; }
+.md-typeset strong { color: var(--bw-color-ink); font-weight: var(--bw-weight-semibold); }
+.md-typeset :is(h1, h2, h3) { font-family: var(--bw-font-display); font-weight: var(--bw-weight-headline); letter-spacing: var(--bw-headline-tracking); color: var(--bw-color-ink); text-wrap: balance; font-optical-sizing: auto; }
+.md-typeset h1 { margin: 0 0 var(--bw-space-24); font-size: var(--bw-text-31); line-height: var(--bw-leading-31); }
+.md-typeset h2 { margin: var(--bw-space-48) 0 var(--bw-space-16); font-size: var(--bw-text-25); line-height: var(--bw-leading-25); }
+.md-typeset h3 { margin: var(--bw-space-32) 0 var(--bw-space-12); font-size: var(--bw-text-20); line-height: var(--bw-leading-25); }
+@media (min-width: 768px) {
+  .md-typeset h1 { font-size: var(--bw-text-39); line-height: var(--bw-leading-39); }
+  .md-typeset h2 { font-size: var(--bw-text-31); line-height: var(--bw-leading-31); }
+  .md-typeset h3 { font-size: var(--bw-text-25); line-height: var(--bw-leading-25); }
+}
+.md-typeset :is(h4, h5, h6) { margin: var(--bw-space-24) 0 var(--bw-space-8); font-family: var(--bw-font-sans); font-weight: var(--bw-weight-semibold); letter-spacing: 0; text-transform: none; color: var(--bw-color-ink); }
+.md-typeset h4 { font-size: var(--bw-text-20); line-height: var(--bw-leading-20); }
+.md-typeset :is(h5, h6) { font-size: var(--bw-text-16); line-height: var(--bw-leading-16); }
+.md-typeset .headerlink { color: var(--bw-color-ink-secondary); }
+.md-typeset a:not(.headerlink):not(.bw-button):not(.md-button):not(.bw-buy) { color: var(--bw-color-accent); text-decoration: underline; text-decoration-thickness: var(--bw-stroke-hairline); text-underline-offset: 0.2em; }
+.md-typeset a:not(.headerlink):not(.bw-button):not(.md-button):not(.bw-buy):hover { color: var(--bw-color-accent-strong); text-decoration-thickness: var(--bw-stroke-focus); }
+.md-typeset a:not(.headerlink):not(.bw-button):not(.md-button):not(.bw-buy):active { color: var(--bw-color-accent-deep); }
+.md-typeset hr { border-bottom: var(--bw-stroke-hairline) solid var(--bw-color-line); }
+.md-typeset blockquote { padding-left: var(--bw-space-16); border-left: var(--bw-stroke-rule) solid var(--bw-color-data-blue); color: var(--bw-color-ink); }
+.md-typeset img { border: var(--bw-stroke-hairline) solid var(--bw-color-line); border-radius: var(--bw-radius-4); }
+.md-typeset figure figcaption { max-width: var(--bw-measure); margin-top: var(--bw-space-12); font-family: var(--bw-font-sans); font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); }
+.md-typeset :is(code, kbd) { padding: 0 var(--bw-space-4); font-size: var(--bw-text-16); background: var(--bw-color-canvas); color: var(--bw-color-ink); border-radius: var(--bw-radius-4); }
+.md-typeset pre > code { padding: var(--bw-space-16); font-size: var(--bw-text-13); line-height: var(--bw-leading-13); background: var(--bw-color-canvas); color: var(--bw-color-ink); border-radius: var(--bw-radius-8); }
+.md-typeset mark { background: var(--bw-color-notice-bg); color: var(--bw-color-ink); }
+
+/* Tables: a distinct header row, tabular figures, scrolling inside the table only. */
+.md-typeset__scrollwrap { margin: var(--bw-space-24) 0; }
+.md-typeset table:not([class]) { display: table; border: var(--bw-stroke-hairline) solid var(--bw-color-line); border-radius: var(--bw-radius-8); background: var(--bw-color-paper); font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); font-variant-numeric: tabular-nums lining-nums; }
+.md-typeset table:not([class]) th { padding: var(--bw-space-12) var(--bw-space-16); background: var(--bw-color-panel); color: var(--bw-color-ink); font-weight: var(--bw-weight-semibold); }
+.md-typeset table:not([class]) td { padding: var(--bw-space-12) var(--bw-space-16); color: var(--bw-color-ink); border-top: var(--bw-stroke-hairline) solid var(--bw-color-line); }
+.md-typeset table:not([class]) :is(td, th) { font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); }
+.md-typeset table:not([class]) :is(td, th) :is(p, li) { font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); }
+.md-typeset table:not([class]) tbody tr:hover { background: var(--bw-color-canvas); box-shadow: none; }
+
+/* Callouts are panels; they hold notes, not decoration. */
+.md-typeset :is(.admonition, details) { padding: var(--bw-space-16) var(--bw-space-24); margin: var(--bw-space-24) 0; background: var(--bw-color-panel); border: 0; border-radius: var(--bw-radius-12); box-shadow: none; color: var(--bw-color-ink); font-size: var(--bw-text-16); }
+.md-typeset :is(.admonition-title, summary) { margin: 0 0 var(--bw-space-8); padding: 0; background: transparent; color: var(--bw-color-ink); font-family: var(--bw-font-sans); font-weight: var(--bw-weight-semibold); border: 0; }
+.md-typeset :is(.admonition-title, summary)::before { display: none; }
+.md-typeset :is(.admonition, details) :is(p, li) { font-size: var(--bw-text-16); line-height: var(--bw-leading-16); }
+
+/* Research pages: the own-data section is the evidence panel. */
+.md-typeset .bw-own-data { display: block; padding: var(--bw-space-24); margin: var(--bw-space-32) 0; background: var(--bw-color-panel); border: 0; border-radius: var(--bw-radius-12); }
+
+/* ---------- the manual's closing blocks ---------- */
+.bw-editorial-byline { margin-top: var(--bw-space-48); font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); color: var(--bw-color-ink-secondary); }
+.md-typeset .bw-next-step { display: grid; gap: var(--bw-space-12); padding: var(--bw-space-24); margin: var(--bw-space-32) 0; background: var(--bw-color-panel); border: 0; border-radius: var(--bw-radius-12); box-shadow: none; }
+.md-typeset .bw-next-step h2 { margin: 0; font-size: var(--bw-text-25); line-height: var(--bw-leading-25); }
+.md-typeset .bw-next-step p { margin: 0; max-width: var(--bw-measure); font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); color: var(--bw-color-ink); }
+.md-typeset .bw-next-actions { display: flex; flex-wrap: wrap; align-items: center; gap: var(--bw-space-12) var(--bw-space-24); }
+.md-typeset a.bw-buy { display: inline-flex; align-items: center; justify-content: center; min-height: var(--bw-layout-control-height); padding: var(--bw-space-12) var(--bw-space-24); border: var(--bw-stroke-hairline) solid var(--bw-color-accent); border-radius: var(--bw-radius-4); background: var(--bw-color-accent); color: var(--bw-color-paper); font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); font-weight: var(--bw-weight-semibold); text-decoration: none; }
+.md-typeset a.bw-buy:hover { background: var(--bw-color-accent-strong); border-color: var(--bw-color-accent-strong); color: var(--bw-color-paper); }
+.md-typeset a.bw-buy:active { background: var(--bw-color-accent-deep); border-color: var(--bw-color-accent-deep); }
+.manual-footer-version { max-width: var(--bw-measure); font-family: var(--bw-font-sans); font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); }
+.md-typeset p.manual-footer-version { font-family: var(--bw-font-sans); font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); }
+
+.bw-document-pagination { display: flex; flex-wrap: wrap; justify-content: space-between; align-self: stretch; box-sizing: border-box; width: 100%; gap: var(--bw-space-16) var(--bw-space-24); max-width: calc(var(--bw-layout-container) + 2 * var(--bw-layout-margin)); padding: var(--bw-space-32) var(--bw-layout-margin); margin: 0 auto; border-top: var(--bw-stroke-hairline) solid var(--bw-color-line); }
+.bw-document-pagination a { display: inline-flex; align-items: center; min-height: var(--bw-space-48); font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); font-weight: var(--bw-weight-medium); color: var(--bw-color-accent); text-decoration: underline; text-decoration-thickness: var(--bw-stroke-hairline); text-underline-offset: 0.2em; }
+.bw-document-pagination a:hover { color: var(--bw-color-accent-strong); text-decoration-thickness: var(--bw-stroke-focus); }
+
+.md-top { padding: var(--bw-space-8) var(--bw-space-16); background: var(--bw-color-paper); color: var(--bw-color-ink); border: var(--bw-stroke-hairline) solid var(--bw-color-line); border-radius: var(--bw-radius-8); box-shadow: var(--bw-shadow-float); font-size: var(--bw-text-16); }
+.md-top:hover { background: var(--bw-color-canvas); color: var(--bw-color-accent); }
+
+/* ---------- footer: the brand footer, with the manual's disclosure above its columns ---------- */
+.bw-site-footer { font-family: var(--bw-font-sans); font-size: var(--bw-text-16); line-height: var(--bw-leading-16); }
+.bw-site-footer :focus-visible { outline: var(--bw-focus-width) var(--bw-focus-style) var(--bw-focus-color); outline-offset: var(--bw-focus-offset); }
+.bw-site-footer .bw-logotype { color: var(--bw-color-ink); }
+.bw-docs-disclosure, .bw-docs-research-note { max-width: var(--bw-measure); padding-bottom: var(--bw-space-32); margin-bottom: var(--bw-space-32); border-bottom: var(--bw-stroke-hairline) solid var(--bw-color-line); color: var(--bw-color-ink-secondary); }
+.bw-docs-disclosure p, .bw-docs-research-note p { margin: 0 0 var(--bw-space-8); }
+.bw-docs-allowance { max-width: var(--bw-measure); margin: var(--bw-space-32) 0 0; font-size: var(--bw-text-13); line-height: var(--bw-leading-13); color: var(--bw-color-ink-secondary); }
+.bw-docs-allowance strong { font-weight: var(--bw-weight-semibold); color: var(--bw-color-ink); }
+.bw-research-footer .bw-site-footer__last { margin-top: 0; }
+
+/* ---------- the not-found page ---------- */
+.bw-docs-notfound > p { max-width: var(--bw-measure-reading); }
+.bw-docs-notfound .bw-doors { margin-top: var(--bw-space-24); }
+.bw-docs-notfound .bw-door { padding-top: var(--bw-space-16); }
+.bw-docs-notfound .bw-door h3 { margin: 0; font-family: var(--bw-font-sans); font-size: var(--bw-text-20); line-height: var(--bw-leading-20); font-weight: var(--bw-weight-semibold); letter-spacing: 0; }
+.bw-docs-notfound .bw-door p { margin: 0; }
+
+@media (max-width: 767px) {
+  .bw-document-tools { gap: var(--bw-space-8); }
+  .md-content__inner { margin-inline: 0; padding-inline: var(--bw-layout-margin); }
+}
+/* Today's header names its outlined action in full; under 480px it waits in the opened menu, so the
+   bar keeps the wordmark and the menu button without sideways scroll. */
+@media (max-width: 479px) {
+  .bw-docs-header .bw-site-nav__phone-start.bw-button--secondary { display: none; }
+  .bw-docs-header .bw-site-nav__phone { margin-left: auto; }
+}
+@media print {
+  .bw-docs-header, .bw-document-tools, .bw-document-pagination, .bw-site-footer { display: none; }
+}
+
+/* Brand buttons inside the article keep their own colors over Material's link color. */
+.md-typeset a.bw-button:not(.md-button):not(.headerlink), .md-typeset a.bw-buy:not(.md-button):not(.headerlink) { text-decoration: none; }
+.md-typeset a.bw-button--primary, .md-typeset a.bw-button--primary:hover, .md-typeset a.bw-button--primary:focus { color: var(--bw-color-paper); }
+.md-typeset a.bw-button--secondary { color: var(--bw-color-accent); }
+.md-typeset a.bw-button--secondary:hover, .md-typeset a.bw-button--secondary:focus { color: var(--bw-color-accent-strong); }
+
+/* At 320 to 359px the shared bar (wordmark, Start free, menu) is wider than the screen: the menu
+   button keeps its icon and its name for assistive technology, and the bar's gaps tighten, so
+   nothing scrolls sideways. */
+@media (max-width: 359px) {
+  .bw-docs-header .bw-site-nav__bar { gap: var(--bw-space-4); }
+  .bw-docs-header .bw-site-nav__phone-start { padding-inline: var(--bw-space-8); }
+  .bw-docs-header .bw-site-nav__menu-button { gap: 0; padding-inline: var(--bw-space-12); }
+  .bw-docs-header .bw-site-nav__menu-button span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+}

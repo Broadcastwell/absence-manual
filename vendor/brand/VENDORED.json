@@ -1,0 +1,53 @@
+{
+  "package": "Broadcastwell brand system",
+  "version": "3.0.0",
+  "built_at": "2026-11-10T22:38:05.504Z",
+  "source_commit": "86ca022ef8e7735484acb2e149e9b1b0c1d67481",
+  "synced_by": "vendor/brand/sync.mjs",
+  "files": {
+    "tokens.css": {
+      "from": "public/assets/brand/tokens.css",
+      "sha256": "a20ab770bc85f1158c69d446b2f3632df835378c1796eac00fa2f9fcab58741c"
+    },
+    "components.css": {
+      "from": "public/assets/brand/components.css",
+      "sha256": "a73d10b6ee8561de0579e2576a726a96ace2050a647120162b070467ffc27989"
+    },
+    "nav.js": {
+      "from": "public/assets/brand/nav.js",
+      "sha256": "e0b03faecee8107573dc1025e279e87be103e2e24a5fcbb620cbbe63018428d1"
+    },
+    "nav.json": {
+      "from": "brand/nav.json",
+      "sha256": "12ed1e96e4d0a712c12c2ddb99cab44f853f7a4b4f5be598229cd8399478161b"
+    },
+    "nav-render.mjs": {
+      "from": "brand/nav-render.mjs",
+      "sha256": "3674fa55af88b3f16cd9912928c2046842794f1ff4f4450cc31f522013866654"
+    },
+    "fonts/geist-latin-var.woff2": {
+      "from": "public/assets/brand/fonts/geist-latin-var.woff2",
+      "sha256": "6ba2ee738a5770309a1a3f0488ff3d9024f9cc80aa49bf7c9b1c7d1ac7b9af66"
+    },
+    "fonts/geist-mono-latin-var.woff2": {
+      "from": "public/assets/brand/fonts/geist-mono-latin-var.woff2",
+      "sha256": "3642e0b0d7202efe81c1a9a51713eb9666a1c5327ffc12bce2dee386f0bc04cb"
+    },
+    "fonts/newsreader-headline-latin.woff2": {
+      "from": "public/assets/brand/fonts/newsreader-headline-latin.woff2",
+      "sha256": "fa97b3c0246a913f5e7ef7b7c176df27fbacb9cb0e9cff1efd3970f3dddb98e0"
+    },
+    "fonts/newsreader-text-latin.woff2": {
+      "from": "public/assets/brand/fonts/newsreader-text-latin.woff2",
+      "sha256": "776d56d1c376fbe583b0f4cd1fb45b42aa6536f982ca51dff9a6de03f8dc2539"
+    },
+    "fonts/LICENSE-Geist-OFL.txt": {
+      "from": "public/assets/brand/fonts/LICENSE-Geist-OFL.txt",
+      "sha256": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f"
+    },
+    "fonts/LICENSE-Newsreader-OFL.txt": {
+      "from": "public/assets/brand/fonts/LICENSE-Newsreader-OFL.txt",
+      "sha256": "fdfad38143ec470553cae82a1e45320bdd1b9ec70415d37bd0171051d8a4ded8"
+    }
+  }
+}
