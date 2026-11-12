@@ -126,7 +126,7 @@ As reported, the Hub counts impressions and clicks inside ChatGPT. It will not s
 
 The trade-off runs both ways. Our panel samples the questions agreed with you, while the Hub, as reported, counts appearances across ChatGPT conversations. Neither replaces the other, so our [reconciliation report](reconciliation-report.md) puts the two records side by side and explains each difference.
 
-The business agent in the report is close to the vendor-controlled answer connectors we have published since October 2026: the [fictional Kalvenor connector](https://app.broadcastwell.com/mcp/vendor/kalvenor) (Sample data, fictional company) and the [Vendor Facts File standard](https://app.broadcastwell.com/standard/vendor-facts) it answers from.
+The business agent in the report is close to the vendor-controlled answer connectors we have published since October 2026: the [fictional Kalvenor connector](https://app.broadcastwell.com/connect#ask-a-vendor) (Sample data, fictional company) and the [Vendor Facts File standard](https://app.broadcastwell.com/standard/vendor-facts) it answers from.
 
 ## Check your site for free
 
