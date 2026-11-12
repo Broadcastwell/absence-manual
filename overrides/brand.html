@@ -134,7 +134,11 @@
     template treats every page under /research/ as research for this block. -#}
 {% block content %}
 {%- set bw_lede = '<div class="bw-docs-lede"><p>Broadcastwell measures and fixes whether AI search engines name B2B software companies.</p><a class="bw-button bw-button--primary" href="https://audit.broadcastwell.com/">Run the free check</a></div>' -%}
-{%- set bw_body = super() | string -%}
+{#- The footer paragraph of main.html links the terms dated 26 October 2026 as #2026-10-26-answer-operations-v1,
+    an id /terms has never carried; /terms carries ...-v2 (F-018 change 1). main.html is a registered template whose
+    bytes the Owner repair surface catalog and four tests pin, so the id is corrected here, on the one body every
+    brand-framed page draws, and main.html keeps its reviewed bytes. -#}
+{%- set bw_body = super() | string | replace('/terms#2026-10-26-answer-operations-v1', '/terms#2026-10-26-answer-operations-v2') -%}
 {%- if page and page.meta and page.meta.get("page_class") != "research" and not (page.url | string).startswith("research/") and "</h1>" in bw_body %}
 {{ bw_body | replace("</h1>", "</h1>\n" ~ bw_lede, 1) }}
 {%- else %}
@@ -157,7 +161,7 @@
 </div>
 <nav class="bw-document-tools" aria-label="The Absence Manual">
   <a href="{{ config.site_url }}">The Absence Manual</a>
-  <button type="button" data-manual-toggle="__drawer" aria-label="Open chapter navigation" aria-expanded="false">{% include ".icons/material/menu.svg" %} Chapters</button>
+  <button type="button" data-manual-toggle="__drawer" aria-label="Chapters navigation" aria-expanded="false">{% include ".icons/material/menu.svg" %} Chapters</button>
   {% if "material/search" in config.plugins and not config.extra.SHARED_NAV %}<button type="button" data-manual-toggle="__search" aria-label="Search the Manual" aria-expanded="false">{% include ".icons/material/magnify.svg" %} Search</button>{% endif %}
 </nav>
 {% endblock %}

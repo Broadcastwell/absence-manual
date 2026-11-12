@@ -21,7 +21,7 @@ An agent answering for your business can only be as current as what it is given,
 
 ## The six groups
 
-Answers sit in the same six groups our read-only vendor connector serves: company, pricing, fit, integrations, compliance and links. The [fictional Kalvenor connector](https://app.broadcastwell.com/mcp/vendor/kalvenor) (Sample data, fictional company) answers from those groups today. One approved pack can feed a connector now and give you reviewed text to enter wherever OpenAI's business agent takes its context, if OpenAI publishes how it does.
+Answers sit in the same six groups our read-only vendor connector serves: company, pricing, fit, integrations, compliance and links. The [fictional Kalvenor connector](https://app.broadcastwell.com/connect#ask-a-vendor) (Sample data, fictional company) answers from those groups today. One approved pack can feed a connector now and give you reviewed text to enter wherever OpenAI's business agent takes its context, if OpenAI publishes how it does.
 
 | Group | What belongs in it |
 | --- | --- |

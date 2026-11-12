@@ -2,6 +2,7 @@ name: Verify manual pull request
 
 on:
   pull_request:
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -193,7 +194,7 @@ jobs:
       - name: Save the complete verified site provenance
         if: success()
         env:
-          SOURCE_HEAD: ${{ github.event.pull_request.head.sha }}
+          SOURCE_HEAD: ${{ github.event.pull_request.head.sha || github.sha }}
         run: |
           python - <<'PY'
           import json, os, pathlib, subprocess
