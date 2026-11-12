@@ -6,7 +6,8 @@ import { readFileSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { FILES, SERVED, expectedHash, sha256 } from '../vendor/brand/sync.mjs';
-import { partials, stylesheet, OUT, STYLESHEET, STYLE_PARTS, TODAY, withBrand302, PROCUREMENT } from '../tools/brand_chrome.mjs';
+import * as chrome from '../tools/brand_chrome.mjs';
+import { partials, stylesheet, OUT, STYLESHEET, STYLE_PARTS, TODAY } from '../tools/brand_chrome.mjs';
 import { renderNav, renderFooter } from '../vendor/brand/nav-render.mjs';
 import './docs-controls.test.mjs';
 
@@ -21,7 +22,20 @@ const links = html => [...html.matchAll(/<a\b[^>]*href="([^"]+)"[^>]*>([\s\S]*?)
 test('the vendored brand package names the version it was copied from', () => {
   assert.equal(vendored.version, version.version);
   assert.equal(vendored.built_at, version.built_at);
-  assert.equal(version.version, '3.0.1');
+  assert.equal(version.version, '3.0.2');
+});
+
+// Brand 3.0.2 (STEP 3.3 B146) carries the two changes B117 drew over 3.0.1 by hand, so the docs draw the
+// vendored files alone: Procurement in the shared footer's legal row, and a wordmark that never wraps.
+test('brand 3.0.2 carries Procurement and the one-line wordmark itself, with no docs overlay', () => {
+  const legal = nav.footer.legal.map(item => item.label);
+  assert.equal(legal.indexOf('Procurement'), legal.indexOf('Integrity Standard') + 1);
+  assert.equal(chrome.withBrand302, undefined, 'the B117 Procurement overlay is gone');
+  assert.equal(chrome.PROCUREMENT, undefined);
+  const logotype = read('vendor/brand/components.css').match(/^\.bw-logotype\{([^}]*)\}/m)[1];
+  assert.match(logotype, /(^|;)white-space:nowrap(;|$)/);
+  assert.match(logotype, /(^|;)flex-shrink:0(;|$)/);
+  assert.doesNotMatch(read('tools/brand-docs.css'), /\.bw-logotype\s*\{[^}]*white-space/, 'the docs layer adds no wordmark override');
 });
 
 test('every vendored brand file is present and byte-identical to VERSION.json', () => {
@@ -86,10 +100,10 @@ test('the shared partials are brand/nav.json through the one renderer, with no f
   const header = read(`${OUT}/header-shared.html`);
   const footer = read(`${OUT}/footer-shared.html`);
   assert.ok(header.endsWith(renderNav(nav, { idPrefix: 'bw-nav' }) + '\n'));
-  // Brand 3.0.2 (STEP 3.3 B117): the legal row gains Procurement after Integrity Standard, over the vendored 3.0.1.
-  assert.ok(footer.endsWith(renderFooter(withBrand302(nav), { idPrefix: 'bw-footer' }) + '\n'));
-  assert.ok(footer.includes('<li><a href="https://broadcastwell.com/integrity">Integrity Standard</a></li><li><a href="' + PROCUREMENT.href + '">Procurement</a></li>'));
-  assert.equal(withBrand302(withBrand302(nav)).footer.legal.length, nav.footer.legal.length + 1);
+  // Brand 3.0.2: the vendored legal row lists Procurement after Integrity Standard (STEP 3.3 B146).
+  assert.ok(footer.endsWith(renderFooter(nav, { idPrefix: 'bw-footer' }) + '\n'));
+  assert.ok(footer.includes('<li><a href="https://broadcastwell.com/integrity">Integrity Standard</a></li><li><a href="https://broadcastwell.com/procurement">Procurement</a></li>'));
+  assert.equal((footer.match(/>Procurement</g) || []).length, 1);
   const want = [nav.wordmark, ...nav.items.flatMap(i => i.menu ? i.menu : [i]), ...nav.actions].map(i => i.href);
   for (const href of want) assert.ok(header.includes(`href="${href}"`), `shared header lacks ${href}`);
   for (const column of nav.footer.columns) for (const item of column.links) assert.ok(footer.includes(`href="${item.href}"`), `shared footer lacks ${item.href}`);

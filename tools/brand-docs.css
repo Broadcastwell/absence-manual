@@ -299,9 +299,6 @@ body, input, button, .md-typeset, .md-nav, .md-search__input, .md-search-result 
 .md-typeset a.bw-button--secondary { color: var(--bw-color-accent); }
 .md-typeset a.bw-button--secondary:hover, .md-typeset a.bw-button--secondary:focus { color: var(--bw-color-accent-strong); }
 
-/* Brand 3.0.2: the wordmark never wraps, at 320px or any other width. */
-.bw-logotype { white-space: nowrap; overflow-wrap: normal; word-break: keep-all; flex-shrink: 0; }
-
 /* The dates a library answer declares, under its article. */
 .md-typeset .bw-docs-dateline { margin: var(--bw-space-24) 0 0; font-size: var(--bw-text-16); line-height: var(--bw-leading-16); color: var(--bw-color-ink-secondary); }
 
