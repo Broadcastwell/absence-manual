@@ -124,5 +124,5 @@ A film enters the library only when it rests on a published study, a dated Index
 
 ## Sources
 
-- Broadcastwell YouTube channel, film titles, dates, lengths and caption availability, read 9 November 2026: https://www.youtube.com/@Broadcastwell
+- [Broadcastwell on YouTube](https://www.youtube.com/@Broadcastwell), film titles, dates, lengths and caption availability, read 9 November 2026
 - Broadcastwell, recorded demonstrations and transcripts on these docs, published 24 September 2026.
