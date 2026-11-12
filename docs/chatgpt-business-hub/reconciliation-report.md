@@ -19,7 +19,7 @@ Updated 11 November 2026.
 
 The two records measure different things, and the report never merges them.
 
-| | Hub, as reported on 6 November 2026 | Our receipts |
+| Measure | Hub, as reported on 6 November 2026 | Our receipts |
 | --- | --- | --- |
 | Engines | ChatGPT | ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode |
 | Unit | Daily impressions and clicks | One answer to one fixed buyer question on one run |
