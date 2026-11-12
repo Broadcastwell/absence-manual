@@ -67,6 +67,32 @@ test('the served brand stylesheet is tokens.css and components.css byte for byte
   assert.doesNotMatch(layer, /\bInter\b|Roboto|Poppins|Playfair/, 'no face outside Geist and Newsreader');
 });
 
+// The token test of brief 8.7 (STEP 3.3 B146): the theme's em and rem spacing, the drawer backdrop, the resource
+// headline and the one inline chart are set to brand tokens in the docs layer; the theme's files are not edited.
+test('the docs layer puts the theme on the brand tokens', () => {
+  const layer = read('tools/brand-docs.css');
+  const token = layer.slice(layer.indexOf('/* ---------- the theme on the brand tokens'));
+  assert.ok(token.length > 200, 'the token section is missing');
+  for (const rule of [
+    '.md-nav__link { margin-top: var(--bw-space-8); }',
+    '.md-nav__item--section { margin: var(--bw-space-24) 0; }',
+    ':where(.md-typeset) :where(p) { margin-block: var(--bw-space-24); }',
+    '[dir=ltr] .md-typeset :is(ul, ol) { margin-left: var(--bw-space-8); }',
+    '[dir=ltr] .md-typeset :is(ul, ol) li { margin-left: var(--bw-space-24); }',
+    '[dir=ltr] .md-typeset .headerlink { margin-left: var(--bw-space-8); }',
+    '.md-overlay { background-color: var(--bw-color-ink); }',
+    '.md-content__inner:has(.bw-learning) > h1 { font-size: var(--bw-text-61); line-height: var(--bw-leading-61); }',
+    '.md-typeset figure > svg text { font-size: var(--bw-text-13); }'
+  ]) assert.ok(token.includes(rule), rule);
+  // Every length and color in the section is a token: no px, em or rem value outside var(), and no color
+  // literal. The chart footnote's move to the left edge is a position, not a design value.
+  const values = token.replace(/\/\*[\s\S]*?\*\//g, '').replace(/@media[^{]*\{/g, '').replace(/\[[^\]]*\]/g, '');
+  for (const [, property, value] of values.matchAll(/([a-z-]+)\s*:\s*([^;{}]+);/g)) {
+    if (property === 'transform') continue;
+    assert.doesNotMatch(value.replace(/var\([^)]*\)/g, ''), /\d(px|em|rem)\b|rgba?\(|#/, property + ': ' + value);
+  }
+});
+
 test('the committed header and footer partials are the generator output', () => {
   for (const [name, text] of Object.entries(partials())) {
     assert.equal(read(`${OUT}/${name}`), text, `${OUT}/${name} is stale; run node tools/brand_chrome.mjs`);
