@@ -227,18 +227,27 @@ class Brand302Tests(unittest.TestCase):
         self.assertIn('<p class="bw-site-footer__line">When you broadcast, broadcast well.</p>', today)
         self.assertNotIn("Answer Operations. Buyer answers", today)
 
+    # STEP 3.3 B146: brand 3.0.2 is vendored, so the wordmark rule and the Procurement link come from
+    # vendor/brand/ itself and the B117 overlays (a docs-layer wordmark rule, withBrand302) are gone.
     def test_the_wordmark_never_wraps(self):
         css = (ROOT / "docs/assets/brand/docs.css").read_text(encoding="utf-8")
-        self.assertIn(".bw-logotype { white-space: nowrap; overflow-wrap: normal; word-break: keep-all; flex-shrink: 0; }", css)
+        components = (ROOT / "vendor/brand/components.css").read_text(encoding="utf-8")
+        rule = re.search(r"^\.bw-logotype\{[^}]*\}", components, re.M).group(0)
+        self.assertIn("flex-shrink:0;white-space:nowrap;", rule)
+        self.assertIn(rule, css)
+        layer = (ROOT / "tools/brand-docs.css").read_text(encoding="utf-8")
+        self.assertNotRegex(layer, r"\.bw-logotype\s*\{[^}]*white-space")
 
-    def test_the_vendored_package_keeps_its_bytes(self):
+    def test_the_vendored_package_carries_procurement(self):
         nav = json.loads((ROOT / "vendor/brand/nav.json").read_text(encoding="utf-8"))
-        self.assertNotIn("Procurement", [item["label"] for item in nav["footer"]["legal"]])
+        labels = [item["label"] for item in nav["footer"]["legal"]]
+        self.assertEqual(labels.index("Procurement"), labels.index("Integrity Standard") + 1)
+        version = json.loads((ROOT / "vendor/brand/VERSION.json").read_text(encoding="utf-8"))
+        self.assertEqual(version["version"], "3.0.2")
         out = subprocess.run(["node", "--input-type=module", "-e",
-                              "import { withBrand302 } from './tools/brand_chrome.mjs';"
-                              "const n = { footer: { legal: [{ label: 'Procurement', href: 'https://broadcastwell.com/procurement' }] } };"
-                              "process.stdout.write(String(withBrand302(n) === n));"], cwd=ROOT, capture_output=True, text=True)
-        self.assertEqual(out.stdout, "true", out.stderr)
+                              "import * as c from './tools/brand_chrome.mjs';"
+                              "process.stdout.write(String('withBrand302' in c));"], cwd=ROOT, capture_output=True, text=True)
+        self.assertEqual(out.stdout, "false", out.stderr)
 
 
 if __name__ == "__main__":
