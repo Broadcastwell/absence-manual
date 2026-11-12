@@ -134,7 +134,7 @@ ER  -
 | The 2026 State of Generative Engine Optimization, Volume I | 24 July 2026 | DOI [10.5281/zenodo.21537014](https://doi.org/10.5281/zenodo.21537014) |
 | The 2026 State of Generative Engine Optimization, Volume II: The Absence Ladder | 26 July 2026 | DOI [10.5281/zenodo.21586091](https://doi.org/10.5281/zenodo.21586091) |
 | The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence | 4 August 2026 | DOI [10.5281/zenodo.21789120](https://doi.org/10.5281/zenodo.21789120) |
-| The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence | 10 August 2026 | SSRN abstract [7234418](https://papers.ssrn.com/<wbr>sol3/papers.cfm?abstract_id=7234418) |
+| The 2026 State of Generative Engine Optimization, Volume III: Cross-engine divergence | 10 August 2026 | SSRN abstract [7234418](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7234418) |
 | The 2026 State of Generative Engine Optimization | 31 July 2026 | DOI [10.6084/m9.figshare.33134942](https://doi.org/10.6084/m9.figshare.33134942) |
 | The Shortlist Gap: which of 286 software vendors AI engines name when buyers ask, across 14 categories and five engines | 26 September 2026 | DOI [10.5281/zenodo.22982426](https://doi.org/10.5281/zenodo.22982426) |
 | What AI search visibility costs in 2026: prices, guarantees and checkout paths of 123 sellers | 26 September 2026 | DOI [10.5281/zenodo.22982430](https://doi.org/10.5281/zenodo.22982430) |
